@@ -1,0 +1,1714 @@
+{
+  "year": 2008,
+  "filename": "2008.pdf",
+  "era": "era3",
+  "era_label": "第三阶段+(2005至今 英一)",
+  "total_pages": 15,
+  "max_question_number": 52,
+  "found_question_count": 52,
+  "extracted_question_count": 52,
+  "sections": {
+    "cloze": {
+      "name": "Section I 完形填空",
+      "type": "cloze",
+      "question_range": [
+        1,
+        20
+      ],
+      "text": "1.[A] selected [B]prepared     [C]obliged    [D]pleased          \n         2.[A] unique   [B]particular   [C]special    [D]rare             \n                                                           ",
+      "article": "Section I Use of English\nThe idea that some groups of people ma be more intelligent than others is one of\nthose h otheses that dare not speak its name. But Gregory Cochran is 1 to sa it\nanywa . He is that 2 bird, a scientist who works independentl 3 an\ninstitution. He helped popularize the idea that some diseases not 4 thought to have\na bacterial cause were actuall infections, which aroused much controvers when it was\nfirst suggested.\n5 he, however, might tremble at the 6 of what he is about to do. Together\nwith another two scientists, he is publishing a paper which not onl 7 that one\ngroup of humanity is more intelligent than the others, but explains the process that has\nbrought this about. The group in 8 are a particular people originated from\ncentral Europe. The process is naturalselection.\nThis group generall do well in IQ test, 9 12-15 points above the 10 value\nof 100, and have contributed 11 to the intellectual and cultural life of the\nWest , as the 12 of their elites , including several world - renowned\nscientists, 13 . The also suffer more often than most people from a number of\nnast genetic diseases, such as breast cancer. These facts, 14 , have\npreviousl been thought unrelated. The former has been 15 to social effects,\nsuch as a strong tradition of 16 education. The latter was seen as a (an) 17 of\ngenetic isolation. Dr. Cochran suggests that the intelligence and diseases are\nintimatel 18 . His argument is that the unusual history of these people\nhas  19  them to unique evolutionary pressures that have resulted in\nthis 20 state of affairs.",
+      "questions": [
+        {
+          "number": 1,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "selected"
+            },
+            {
+              "label": "B",
+              "text": "prepared"
+            },
+            {
+              "label": "C",
+              "text": "obliged"
+            },
+            {
+              "label": "D",
+              "text": "pleased"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 2,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "unique"
+            },
+            {
+              "label": "B",
+              "text": "particular"
+            },
+            {
+              "label": "C",
+              "text": "special"
+            },
+            {
+              "label": "D",
+              "text": "rare"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 3,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "of"
+            },
+            {
+              "label": "B",
+              "text": "with"
+            },
+            {
+              "label": "C",
+              "text": "in"
+            },
+            {
+              "label": "D",
+              "text": "against"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 4,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "subsequently"
+            },
+            {
+              "label": "B",
+              "text": "presently"
+            },
+            {
+              "label": "C",
+              "text": "previously"
+            },
+            {
+              "label": "D",
+              "text": "lately"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 5,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "Only"
+            },
+            {
+              "label": "B",
+              "text": "So"
+            },
+            {
+              "label": "C",
+              "text": "Even"
+            },
+            {
+              "label": "D",
+              "text": "Hence"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 6,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "thought"
+            },
+            {
+              "label": "B",
+              "text": "sight"
+            },
+            {
+              "label": "C",
+              "text": "cost"
+            },
+            {
+              "label": "D",
+              "text": "risk"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 7,
+          "stem": "[ A ]advises",
+          "choices": [
+            {
+              "label": "A",
+              "text": ""
+            },
+            {
+              "label": "B",
+              "text": "suggests [C ]protests"
+            },
+            {
+              "label": "C",
+              "text": ""
+            },
+            {
+              "label": "D",
+              "text": "objects"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 8,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "progress"
+            },
+            {
+              "label": "B",
+              "text": "fact"
+            },
+            {
+              "label": "C",
+              "text": "need"
+            },
+            {
+              "label": "D",
+              "text": "question"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 9,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "attaining"
+            },
+            {
+              "label": "B",
+              "text": "scoring [C ]reaching"
+            },
+            {
+              "label": "C",
+              "text": ""
+            },
+            {
+              "label": "D",
+              "text": "calculating"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 10,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "normal"
+            },
+            {
+              "label": "B",
+              "text": "common"
+            },
+            {
+              "label": "C",
+              "text": "mean"
+            },
+            {
+              "label": "D",
+              "text": "total"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 11,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "unconsciously [B ]disproportionately"
+            },
+            {
+              "label": "B",
+              "text": ""
+            },
+            {
+              "label": "C",
+              "text": "indefinitely"
+            },
+            {
+              "label": "D",
+              "text": "unaccountably"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 12,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "missions"
+            },
+            {
+              "label": "B",
+              "text": "fortunes"
+            },
+            {
+              "label": "C",
+              "text": "interests"
+            },
+            {
+              "label": "D",
+              "text": "careers"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 13,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "affi 而"
+            },
+            {
+              "label": "B",
+              "text": "witness"
+            },
+            {
+              "label": "C",
+              "text": "observe"
+            },
+            {
+              "label": "D",
+              "text": "approve"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 14,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "moreover"
+            },
+            {
+              "label": "B",
+              "text": "therefore"
+            },
+            {
+              "label": "C",
+              "text": "however"
+            },
+            {
+              "label": "D",
+              "text": "meanwhile"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 15,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "given up"
+            },
+            {
+              "label": "B",
+              "text": "got over"
+            },
+            {
+              "label": "C",
+              "text": "carried on"
+            },
+            {
+              "label": "D",
+              "text": "put down"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 16,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "assessing"
+            },
+            {
+              "label": "B",
+              "text": "supervising"
+            },
+            {
+              "label": "C",
+              "text": "administering"
+            },
+            {
+              "label": "D",
+              "text": "valuing"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 17,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "development"
+            },
+            {
+              "label": "B",
+              "text": "origin [C ]consequence"
+            },
+            {
+              "label": "C",
+              "text": ""
+            },
+            {
+              "label": "D",
+              "text": "instrument"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 18,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "linked"
+            },
+            {
+              "label": "B",
+              "text": "integrated"
+            },
+            {
+              "label": "C",
+              "text": "woven"
+            },
+            {
+              "label": "D",
+              "text": "combined"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 19,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "limited"
+            },
+            {
+              "label": "B",
+              "text": "subjected"
+            },
+            {
+              "label": "C",
+              "text": "converted"
+            },
+            {
+              "label": "D",
+              "text": "directed"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 20,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "paradoxical"
+            },
+            {
+              "label": "B",
+              "text": "incompatible"
+            },
+            {
+              "label": "C",
+              "text": "inevitable"
+            },
+            {
+              "label": "D",
+              "text": ""
+            }
+          ],
+          "type": "choice"
+        }
+      ],
+      "warnings": []
+    },
+    "reading-a": {
+      "name": "Section II 阅读A节",
+      "type": "reading",
+      "question_range": [
+        21,
+        40
+      ],
+      "text": "    2.[A] unique   [B]particular   [C]special    [D]rare             \n                                                                          \n         3.[A] of       [B] with        [C]in         [",
+      "article": "While still catching up to men in some spheres of modem life, women appear to\n                                                                          \n          be wa ahead in at least one undesirable category. \"Women are particularl\n              y                                                 y         \n          susceptible to developing depression and anxiety disorders in response to stress\n          compared to men,\" according to Dr. Yehuda, chief ps chiatrist at New York's\n                                                y                         \n          Veteran's Administration Hospital.                              \n             Studies of both animals and humans have shown that sex hormones somehow\n          affect the stress response, causing females under stress to produce more of the trigger\n          chemicals than do males under the same conditions. In several of the studies, when\n          stressed-out female rats had their ovaries (the female reproductive organs) removed,\n          their chemical responses became equal to those of the males.    \n                                                                          \n             Adding to a woman's increased dose of stress chemicals, are her increased\n          \"opportunities\" for stress. \"It's not necessaril that women don't cope as well. It's\n                                       y                                  \n         just that the have so much more to cope with,\" sa s Dr. Ye huda. \"Their capacity for\n                 y                         y                              \n          tolerating stress may even be greater than men's,\" she observes, \"it's just that the 're\n                                                              y           \n          dealing with so man more things that they become worn out from it more visibl and\n                      y                                      y            \n          sooner.\"                                                        \n             Dr. Ye huda notes another difference between the sexes. \"I think that the kinds of\n          things that women are exposed to tend to be in more of a chronic or repeated nature.\n          Men go to war and are exposed to combat stress. Men are exposed to more acts of\n          random ph sical violence. The kinds of interpersonal violence that women are\n                 y                                                        \n          exposed to tend to be in domestic situations, by, unfortunately, parents or other\n          famil members, and they tend not to be one-shot deals. The wear-and-tear that\n             y                                                            \n          comes from these longer relationships can be quite devastating.\"\n             Adeline Alvarez married at 18 and gave birth to a son, but was determined to\n          finish college. \"I struggled a lot to get the college degree. I was living in so much\n          frustration that that was m escape, to go to school, and get ahead and do better.\" Later,\n                          y                                               \n          her marriage ended and she became a single mother. \"It's the hardest thing to take care\n          of a teenager, have a job, pa the rent, pa the car payment, and pa the debt. I lived\n                            y        y                y                   \n          from paycheck to paycheck.\"                                     \n             Not everyone experiences the kinds of severe chronic stresses Alvarez describes.\n          But most women toda are coping with a lot of obligations, with few breaks, and\n                        y                                                 \n          feeling the strain. Alvarez's experience demonstrates the importance of finding ways\n          to diffuse stress before it threatens our health and our ability to function.\n                                y         y                               \n                                                                          \n                           英语试题   . 3 . (共 14 页）\n\nIt used to be so strai htforward. A team of researchers workin to ether in the\n                          g                           g  g                \n          laboratory would submit the results of their research to a journal. A journal editor\n          would then remove the authors' names and affiliations from the paper and send it to\n          their peers for review. Dependin on the comments received, the editor would accept\n                              g                                           \n          the paper for publication or decline it. Copyri ht rested with the journal publisher,\n                                        g                                 \n          and researchers seekin knowled e of the results would have to subscribe to the\n                         g      g                                         \n         journal.                                                         \n             No lon er. The Internet — and pressure from fundin a encies, who are\n                  g                               g  g                    \n          questionin wh commercial publishers are makin mone from overnment-funded\n                g  y                      g    y    g                     \n          research b restrictin access to it—is makin free access to scientific results a realit .\n                y      g              g                         y         \n          The Or anization for Economic Co-operation and Development (OECD) has just\n               g                                                          \n          issued a report describin the far-reachin consequences of this. The report, b John\n                          g         g                       y             \n          Hou hton of Victoria University in Australia and Graham Vickery of the OECD,\n            g                                                             \n          makes heavy readin for publishers who have, so far, made handsome profits. But it\n                      g                                                   \n          oes further than that. It signals a chan e in what has, until now, been a ke element\n          g                        g                       y              \n          of scientific endeavour.                                        \n             The value of knowled e and the return on the public investment in research\n                            g                                             \n          depends, in part, upon wide distribution and read access. It is bi business. In\n                                            y          g                  \n          America, the core scientific publishin market is estimated at between $7 billion and\n                                 g                                        \n          $11 billion. The International Association of Scientific, Technical and Medical\n          Publishers sa s that there are more than 2,000 publishers worldwide specializin in\n                  y                                           g           \n          these subjects. The publish more than 1.2 million articles each ear in some 16,000\n                      y                             y                     \n         journals.                                                        \n            This is now chan in . According to the OECD report, some 75% of scholarl\n                        g g                                     y         \n         journals are now online. Entirel new business models are emer in ; three main ones\n                              y                    g g                    \n          were identified b the report's authors. There is the so-called bi deal, where\n                     y                                 g                  \n          institutional subscribers pa for access to a collection of online jour",
+      "questions": [
+        {
+          "number": 21,
+          "stem": "Which of the following is true according to the first two paragraphs?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "Women are biologically more vulnerable to stress."
+            },
+            {
+              "label": "B",
+              "text": "Women are still suffering much stress caused by men."
+            },
+            {
+              "label": "C",
+              "text": "Women are more experienced than men in coping with stress."
+            },
+            {
+              "label": "D",
+              "text": "Men and women show different inclinations when faced with stress."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 22,
+          "stem": "Dr. Yehuda's research suggests that women",
+          "choices": [
+            {
+              "label": "A",
+              "text": "need extra doses of chemicals to handle stress."
+            },
+            {
+              "label": "B",
+              "text": "have limited capacity for tolerating stress."
+            },
+            {
+              "label": "C",
+              "text": "are more capable of avoiding stress."
+            },
+            {
+              "label": "D",
+              "text": "are exposed to more stress."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 23,
+          "stem": "According to Paragraph 4, the stress women confront tends to be",
+          "choices": [
+            {
+              "label": "A",
+              "text": "domestic and temporary."
+            },
+            {
+              "label": "B",
+              "text": "irregular and violent."
+            },
+            {
+              "label": "C",
+              "text": "durable and frequent."
+            },
+            {
+              "label": "D",
+              "text": "trivial and random."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 24,
+          "stem": "The sentence \"I lived from paycheck to paycheck.\" (Line 6, Para.5) shows that",
+          "choices": [
+            {
+              "label": "A",
+              "text": "Alvarez cared about nothing but making money."
+            },
+            {
+              "label": "B",
+              "text": "Alvarez's salary barely covered her household expenses."
+            },
+            {
+              "label": "C",
+              "text": "Alvarez got paychecks from different jobs."
+            },
+            {
+              "label": "D",
+              "text": "Alvarez paid practically everything by check."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 25,
+          "stem": "Which of the following would be the best title for the text?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "Strain of Stress: No Way Out?"
+            },
+            {
+              "label": "B",
+              "text": "Responses to Stress: Gender Difference"
+            },
+            {
+              "label": "C",
+              "text": "Stress Analysis: What Chemicals Say"
+            },
+            {
+              "label": "D",
+              "text": "Gender Inequality: Women Under Stress 英语试题 . 4 . (共 14 页）"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 26,
+          "stem": "In the first paragraph, the author discusses",
+          "choices": [
+            {
+              "label": "A",
+              "text": "the background information of jo umal editing."
+            },
+            {
+              "label": "B",
+              "text": "the publication routine of laboratory reports."
+            },
+            {
+              "label": "C",
+              "text": "the relations of authors with journal publishers."
+            },
+            {
+              "label": "D",
+              "text": "the traditional process of journal publication."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 27,
+          "stem": "Which of the following is true of the OECD report?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "It criticizes government-funded research."
+            },
+            {
+              "label": "B",
+              "text": "It introduces an effective means of publication."
+            },
+            {
+              "label": "C",
+              "text": "It upsets profit-making journal publishers."
+            },
+            {
+              "label": "D",
+              "text": "It benefits scientific research considerably."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 28,
+          "stem": "According to the text, online publication is significant in that",
+          "choices": [
+            {
+              "label": "A",
+              "text": "it provides an easier access to scientific results."
+            },
+            {
+              "label": "B",
+              "text": "it brings huge profits to scientific researchers."
+            },
+            {
+              "label": "C",
+              "text": "it emphasizes the crucial role of scientific knowledge."
+            },
+            {
+              "label": "D",
+              "text": "it facilitates public investment in scientific research."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 29,
+          "stem": "With the open-access publishing model, the author of a paper is required to",
+          "choices": [
+            {
+              "label": "A",
+              "text": "cover the cost of its publication."
+            },
+            {
+              "label": "B",
+              "text": "subscribe to the journal publishing it."
+            },
+            {
+              "label": "C",
+              "text": "allow other online journals to use it freely."
+            },
+            {
+              "label": "D",
+              "text": "complete the peer-review before submission."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 30,
+          "stem": "Which of the following best summarizes the text?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "The Internet is posing a threat to publishers."
+            },
+            {
+              "label": "B",
+              "text": "A new mode of publication is emerging."
+            },
+            {
+              "label": "C",
+              "text": "Authors welcome the new channel for publication."
+            },
+            {
+              "label": "D",
+              "text": "Publication is rendered easier by online service. 英语试题 . 6 . (共 14 页）"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 31,
+          "stem": "Wilt Chamberlain is cited as an example to",
+          "choices": [
+            {
+              "label": "A",
+              "text": "illustrate the change of height of NBA players."
+            },
+            {
+              "label": "B",
+              "text": "show the popularity of NBA players in the U.S .."
+            },
+            {
+              "label": "C",
+              "text": "compare different generations of NBA players."
+            },
+            {
+              "label": "D",
+              "text": "assess the achievements of famous NBA players."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 32,
+          "stem": "Which of the following plays a key role in body growth according to the text?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "Genetic modification."
+            },
+            {
+              "label": "B",
+              "text": "Natural environment."
+            },
+            {
+              "label": "C",
+              "text": "Living standards."
+            },
+            {
+              "label": "D",
+              "text": "Daily exercise."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 33,
+          "stem": "On which of the following statements would the author most probably agree?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "Non-Americans add to the average height of the nation."
+            },
+            {
+              "label": "B",
+              "text": "Human height is conditioned by the upright posture."
+            },
+            {
+              "label": "C",
+              "text": "Americans are the tallest on average in the world."
+            },
+            {
+              "label": "D",
+              "text": "Larger babies tend to become taller in adulthood."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 34,
+          "stem": "We learn from the last paragraph that in the near future",
+          "choices": [
+            {
+              "label": "A",
+              "text": "the garment industry will reconsider the uniform size."
+            },
+            {
+              "label": "B",
+              "text": "the design of military uniforms will remain unchanged."
+            },
+            {
+              "label": "C",
+              "text": "genetic testing will be employed in selecting sportsmen."
+            },
+            {
+              "label": "D",
+              "text": "the existing data of human height will still be applicable."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 35,
+          "stem": "The text intends to tell us that",
+          "choices": [
+            {
+              "label": "A",
+              "text": "the change of human height follows a cyclic pattern."
+            },
+            {
+              "label": "B",
+              "text": "human height is becoming even more predictable."
+            },
+            {
+              "label": "C",
+              "text": "Americans have reached their genetic growth limit."
+            },
+            {
+              "label": "D",
+              "text": "the genetic pattern of Americans has altered. 英语试题 . 8 . (共 14 页）"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 36,
+          "stem": "George Washington's dental surgery is mentioned to",
+          "choices": [
+            {
+              "label": "A",
+              "text": "show the primitive medical practice in the past."
+            },
+            {
+              "label": "B",
+              "text": "demonstrate the cruelty of slavery in his days."
+            },
+            {
+              "label": "C",
+              "text": "stress the role of slaves in the U.S. history."
+            },
+            {
+              "label": "D",
+              "text": "reveal some unknown aspect of his life."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 37,
+          "stem": "We may infer from the second paragraph that",
+          "choices": [
+            {
+              "label": "A",
+              "text": "DNA technology has been widely applied to historyresearch."
+            },
+            {
+              "label": "B",
+              "text": "in its early days the U.S. was confronted with delicate situations."
+            },
+            {
+              "label": "C",
+              "text": "historians deliberately made up some stories of Jefferson's life."
+            },
+            {
+              "label": "D",
+              "text": "political compromises are easily found throughout the U.S. history."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 38,
+          "stem": "What do we learn about Thomas Jefferson?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "His political view changed his attitude towards slavery."
+            },
+            {
+              "label": "B",
+              "text": "His status as a father made him free the child slaves."
+            },
+            {
+              "label": "C",
+              "text": "His attitude towards slavery was complex."
+            },
+            {
+              "label": "D",
+              "text": "His affair with a slave stained his prestige."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 39,
+          "stem": "Which of the following is true according to the text?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "Some Founding Fathers benefit politically from slavery."
+            },
+            {
+              "label": "B",
+              "text": "Slaves in the old days did not have the right to vote."
+            },
+            {
+              "label": "C",
+              "text": "Slaves owners usually had large savings accounts."
+            },
+            {
+              "label": "D",
+              "text": "Slavery was regarded as a peculiar institution."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 40,
+          "stem": "Washington's decision to free slaves originated from his",
+          "choices": [
+            {
+              "label": "A",
+              "text": "moral considerat10ns."
+            },
+            {
+              "label": "B",
+              "text": "military experience."
+            },
+            {
+              "label": "C",
+              "text": "financial conditions."
+            },
+            {
+              "label": "D",
+              "text": ""
+            }
+          ],
+          "type": "choice"
+        }
+      ],
+      "warnings": [],
+      "text_count": 4,
+      "texts": [
+        {
+          "text_num": 1,
+          "article": "While still catching up to men in some spheres of modem life, women appear to\n                                                                          \n          be wa ahead in at least one undesirable category. \"Women are particularl\n              y                                                 y         \n          susceptible to developing depression and anxiety disorders in response to stress\n          compared to men,\" according to Dr. Yehuda, chief ps chiatrist at New York's\n                                                y                         \n          Veteran's Administration Hospital.                              \n             Studies of both animals and humans have shown that sex hormones somehow\n          affect the stress response, causing females under stress to produce more of the trigger\n          chemicals than do males under the same conditions. In several of the studies, when\n          stressed-out female rats had their ovaries (the female reproductive organs) removed,\n          their chemical responses became equal to those of the males.    \n                                                                          \n             Adding to a woman's increased dose of stress chemicals, are her increased\n          \"opportunities\" for stress. \"It's not necessaril that women don't cope as well. It's\n                                       y                                  \n         just that the have so much more to cope with,\" sa s Dr. Ye huda. \"Their capacity for\n                 y                         y                              \n          tolerating stress may even be greater than men's,\" she observes, \"it's just that the 're\n                                                              y           \n          dealing with so man more things that they become worn out from it more visibl and\n                      y                                      y            \n          sooner.\"                                                        \n             Dr. Ye huda notes another difference between the sexes. \"I think that the kinds of\n          things that women are exposed to tend to be in more of a chronic or repeated nature.\n          Men go to war and are exposed to combat stress. Men are exposed to more acts of\n          random ph sical violence. The kinds of interpersonal violence that women are\n                 y                                                        \n          exposed to tend to be in domestic situations, by, unfortunately, parents or other\n          famil members, and they tend not to be one-shot deals. The wear-and-tear that\n             y                                                            \n          comes from these longer relationships can be quite devastating.\"\n             Adeline Alvarez married at 18 and gave birth to a son, but was determined to\n          finish college. \"I struggled a lot to get the college degree. I was living in so much\n          frustration that that was m escape, to go to school, and get ahead and do better.\" Later,\n                          y                                               \n          her marriage ended and she became a single mother. \"It's the hardest thing to take care\n          of a teenager, have a job, pa the rent, pa the car payment, and pa the debt. I lived\n                            y        y                y                   \n          from paycheck to paycheck.\"                                     \n             Not everyone experiences the kinds of severe chronic stresses Alvarez describes.\n          But most women toda are coping with a lot of obligations, with few breaks, and\n                        y                                                 \n          feeling the strain. Alvarez's experience demonstrates the importance of finding ways\n          to diffuse stress before it threatens our health and our ability to function.\n                                y         y                               \n                                                                          \n                           英语试题   . 3 . (共 14 页）",
+          "questions": [
+            {
+              "number": 21,
+              "stem": "Which of the following is true according to the first two paragraphs?",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "Women are biologically more vulnerable to stress."
+                },
+                {
+                  "label": "B",
+                  "text": "Women are still suffering much stress caused by men."
+                },
+                {
+                  "label": "C",
+                  "text": "Women are more experienced than men in coping with stress."
+                },
+                {
+                  "label": "D",
+                  "text": "Men and women show different inclinations when faced with stress."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 22,
+              "stem": "Dr. Yehuda's research suggests that women",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "need extra doses of chemicals to handle stress."
+                },
+                {
+                  "label": "B",
+                  "text": "have limited capacity for tolerating stress."
+                },
+                {
+                  "label": "C",
+                  "text": "are more capable of avoiding stress."
+                },
+                {
+                  "label": "D",
+                  "text": "are exposed to more stress."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 23,
+              "stem": "According to Paragraph 4, the stress women confront tends to be",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "domestic and temporary."
+                },
+                {
+                  "label": "B",
+                  "text": "irregular and violent."
+                },
+                {
+                  "label": "C",
+                  "text": "durable and frequent."
+                },
+                {
+                  "label": "D",
+                  "text": "trivial and random."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 24,
+              "stem": "The sentence \"I lived from paycheck to paycheck.\" (Line 6, Para.5) shows that",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "Alvarez cared about nothing but making money."
+                },
+                {
+                  "label": "B",
+                  "text": "Alvarez's salary barely covered her household expenses."
+                },
+                {
+                  "label": "C",
+                  "text": "Alvarez got paychecks from different jobs."
+                },
+                {
+                  "label": "D",
+                  "text": "Alvarez paid practically everything by check."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 25,
+              "stem": "Which of the following would be the best title for the text?",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "Strain of Stress: No Way Out?"
+                },
+                {
+                  "label": "B",
+                  "text": "Responses to Stress: Gender Difference"
+                },
+                {
+                  "label": "C",
+                  "text": "Stress Analysis: What Chemicals Say"
+                },
+                {
+                  "label": "D",
+                  "text": "Gender Inequality: Women Under Stress 英语试题 . 4 . (共 14 页）"
+                }
+              ],
+              "type": "choice"
+            }
+          ]
+        },
+        {
+          "text_num": 2,
+          "article": "It used to be so strai htforward. A team of researchers workin to ether in the\n                          g                           g  g                \n          laboratory would submit the results of their research to a journal. A journal editor\n          would then remove the authors' names and affiliations from the paper and send it to\n          their peers for review. Dependin on the comments received, the editor would accept\n                              g                                           \n          the paper for publication or decline it. Copyri ht rested with the journal publisher,\n                                        g                                 \n          and researchers seekin knowled e of the results would have to subscribe to the\n                         g      g                                         \n         journal.                                                         \n             No lon er. The Internet — and pressure from fundin a encies, who are\n                  g                               g  g                    \n          questionin wh commercial publishers are makin mone from overnment-funded\n                g  y                      g    y    g                     \n          research b restrictin access to it—is makin free access to scientific results a realit .\n                y      g              g                         y         \n          The Or anization for Economic Co-operation and Development (OECD) has just\n               g                                                          \n          issued a report describin the far-reachin consequences of this. The report, b John\n                          g         g                       y             \n          Hou hton of Victoria University in Australia and Graham Vickery of the OECD,\n            g                                                             \n          makes heavy readin for publishers who have, so far, made handsome profits. But it\n                      g                                                   \n          oes further than that. It signals a chan e in what has, until now, been a ke element\n          g                        g                       y              \n          of scientific endeavour.                                        \n             The value of knowled e and the return on the public investment in research\n                            g                                             \n          depends, in part, upon wide distribution and read access. It is bi business. In\n                                            y          g                  \n          America, the core scientific publishin market is estimated at between $7 billion and\n                                 g                                        \n          $11 billion. The International Association of Scientific, Technical and Medical\n          Publishers sa s that there are more than 2,000 publishers worldwide specializin in\n                  y                                           g           \n          these subjects. The publish more than 1.2 million articles each ear in some 16,000\n                      y                             y                     \n         journals.                                                        \n            This is now chan in . According to the OECD report, some 75% of scholarl\n                        g g                                     y         \n         journals are now online. Entirel new business models are emer in ; three main ones\n                              y                    g g                    \n          were identified b the report's authors. There is the so-called bi deal, where\n                     y                                 g                  \n          institutional subscribers pa for access to a collection of online journal titles throu h\n                           y                                   g          \n          site-licensin agreements. There is open-access publishin , typicall supported b\n                 g                              g      y        y         \n          askin the author (or his emplo er) to pa for the paper to be published. Finall , there\n             g                y     y                       y             \n          are open-access archives, where or anizations such as universities or international\n                                 g                                        \n          laboratories support institutional repositories. Other models exist that are h brids of\n                                                           y              \n          these three, such as dela ed open-access, where journals allow onl subscribers to\n                          y                           y                   \n          read a paper for the first six months, before makin it freel available to everyone\n                                            g    y                        \n          who wishes to see it. All this could chan e the traditional form of the peer-review\n                                     g                                    \n          process, at least for the publication of papers.                \n                           英语试题   . 5 . (共 14 页）",
+          "questions": [
+            {
+              "number": 26,
+              "stem": "In the first paragraph, the author discusses",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "the background information of jo umal editing."
+                },
+                {
+                  "label": "B",
+                  "text": "the publication routine of laboratory reports."
+                },
+                {
+                  "label": "C",
+                  "text": "the relations of authors with journal publishers."
+                },
+                {
+                  "label": "D",
+                  "text": "the traditional process of journal publication."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 27,
+              "stem": "Which of the following is true of the OECD report?",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "It criticizes government-funded research."
+                },
+                {
+                  "label": "B",
+                  "text": "It introduces an effective means of publication."
+                },
+                {
+                  "label": "C",
+                  "text": "It upsets profit-making journal publishers."
+                },
+                {
+                  "label": "D",
+                  "text": "It benefits scientific research considerably."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 28,
+              "stem": "According to the text, online publication is significant in that",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "it provides an easier access to scientific results."
+                },
+                {
+                  "label": "B",
+                  "text": "it brings huge profits to scientific researchers."
+                },
+                {
+                  "label": "C",
+                  "text": "it emphasizes the crucial role of scientific knowledge."
+                },
+                {
+                  "label": "D",
+                  "text": "it facilitates public investment in scientific research."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 29,
+              "stem": "With the open-access publishing model, the author of a paper is required to",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "cover the cost of its publication."
+                },
+                {
+                  "label": "B",
+                  "text": "subscribe to the journal publishing it."
+                },
+                {
+                  "label": "C",
+                  "text": "allow other online journals to use it freely."
+                },
+                {
+                  "label": "D",
+                  "text": "complete the peer-review before submission."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 30,
+              "stem": "Which of the following best summarizes the text?",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "The Internet is posing a threat to publishers."
+                },
+                {
+                  "label": "B",
+                  "text": "A new mode of publication is emerging."
+                },
+                {
+                  "label": "C",
+                  "text": "Authors welcome the new channel for publication."
+                },
+                {
+                  "label": "D",
+                  "text": "Publication is rendered easier by online service. 英语试题 . 6 . (共 14 页）"
+                }
+              ],
+              "type": "choice"
+            }
+          ]
+        },
+        {
+          "text_num": 3,
+          "article": "In the earl 1960s Wilt Chamberlain was one of the onl three pla ers in the\n                    y                             y       y               \n          National Basketball Association (NBA) listed at over seven feet. If he had pla ed last\n                                                            y             \n          season, however, he would have been one of 42. The bodies playin major\n                                                           g              \n          professional sports have chan ed dramaticall over the ears, and mana ers have\n                             g          y      y          g               \n          been more than willin to adjust team uniforms to fit the growin numbers of bi er,\n                        g                          g          gg          \n          lon er frames.                                                  \n            g                                                             \n             The trend in sports, thou h, ma be obscurin an unrecognized reality:\n                               g    y         g                           \n          Americans have enerall stopped growin . Thou h typicall about two inches taller\n                    g     y          g    g      y                        \n          now than 140 ears a o, today's people especiall those born to families who have\n                   y    g                  y                              \n          lived in the U.S. for man enerations apparentl reached their limit in the earl\n                          y g              y                    y         \n          1960s. And the aren't likel to et an taller. \"In the eneral population today, at\n                    y       y   g   y         g                           \n          this enetic, envirornnental level, we've pretty much one as far as we can o,\" sa s\n            g                               g              g   y          \n          anthropolo ist William Cameron Chumlea of Wri ht State University. In the case of\n                g                         g                               \n          NBA pla ers, their increase in hei ht appears to result from the increasin l common\n               y                g                        gy               \n          practice of recruitin pla ers from all over the world.          \n                      g  y                                                \n             Growth, which rarel continues be ond the a e of 20, demands calories and\n                          y         y       g                             \n          nutrients notabl , protein to feed expandin tissues. At the start of the 20th century,\n                     y                 g                                  \n          under-nutrition and childhood infections ot in the wa . But as diet and health\n                                      g        y                          \n          i roved, children and adolescents have, on avera e, increased in hei ht b about an\n          mp                              g            g  y               \n          inch and a half every 20 ears, a pattern known as the secular trend in hei ht. Yet\n                           y                                g             \n          accordin to the Centers for Disease Control and Prevention, avera e hei ht 5'9\" for\n               g                                     g   g                \n          men, 5'4\" for women hasn't reall chan ed since 1960.            \n                                y   g                                     \n             Geneticall speakin , there are advanta es to avoidin substantial hei ht. Durin\n                   y     g            g        g         g      g         \n          childbirth, lar er babies have more difficulty passin throu h the birth canal.\n                   g                          g    g                      \n          Moreover, even thou h humans have been upri ht for millions of ears, our feet and\n                       g                g            y                    \n          back continue to stru le with bipedal posture and cannot easil withstand repeated\n                       gg                          y                      \n          strain imposed b oversize limbs. \"There are some real constraints that are set b the\n                    y                                         y           \n          enetic architecture of the individual or anism,\" sa s anthropolo ist William Leonard\n          g                        g      y        g                      \n          ofNorthwestem Universit .                                       \n                          y                                               \n             Genetic maximums can chan e, but don't expect this to happen soon. Claire C.\n                                g                                         \n          Gordon, senior anthropolo ist at the Arm Research Center in Natick, Mass., ensures\n                           g        y                                     \n          that 90 percent of the uniforms and workstations fit recruits without alteration. She\n          sa s that, unlike those for basketball, the len th of military uniforms has not chan ed\n           y                          g                        g          \n          for some time. And if ou need to predict human hei ht in the near future to design a\n                        y                   g                             \n          piece of equipment, Gordon sa s that b and lar e, \" ou could use toda 's data and\n                              y    y     g  y            y                \n          feel fairl confident.\"                                          \n               y                                                          \n                           英语试题   . 7 . (共 14 页）",
+          "questions": [
+            {
+              "number": 31,
+              "stem": "Wilt Chamberlain is cited as an example to",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "illustrate the change of height of NBA players."
+                },
+                {
+                  "label": "B",
+                  "text": "show the popularity of NBA players in the U.S .."
+                },
+                {
+                  "label": "C",
+                  "text": "compare different generations of NBA players."
+                },
+                {
+                  "label": "D",
+                  "text": "assess the achievements of famous NBA players."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 32,
+              "stem": "Which of the following plays a key role in body growth according to the text?",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "Genetic modification."
+                },
+                {
+                  "label": "B",
+                  "text": "Natural environment."
+                },
+                {
+                  "label": "C",
+                  "text": "Living standards."
+                },
+                {
+                  "label": "D",
+                  "text": "Daily exercise."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 33,
+              "stem": "On which of the following statements would the author most probably agree?",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "Non-Americans add to the average height of the nation."
+                },
+                {
+                  "label": "B",
+                  "text": "Human height is conditioned by the upright posture."
+                },
+                {
+                  "label": "C",
+                  "text": "Americans are the tallest on average in the world."
+                },
+                {
+                  "label": "D",
+                  "text": "Larger babies tend to become taller in adulthood."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 34,
+              "stem": "We learn from the last paragraph that in the near future",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "the garment industry will reconsider the uniform size."
+                },
+                {
+                  "label": "B",
+                  "text": "the design of military uniforms will remain unchanged."
+                },
+                {
+                  "label": "C",
+                  "text": "genetic testing will be employed in selecting sportsmen."
+                },
+                {
+                  "label": "D",
+                  "text": "the existing data of human height will still be applicable."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 35,
+              "stem": "The text intends to tell us that",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "the change of human height follows a cyclic pattern."
+                },
+                {
+                  "label": "B",
+                  "text": "human height is becoming even more predictable."
+                },
+                {
+                  "label": "C",
+                  "text": "Americans have reached their genetic growth limit."
+                },
+                {
+                  "label": "D",
+                  "text": "the genetic pattern of Americans has altered. 英语试题 . 8 . (共 14 页）"
+                }
+              ],
+              "type": "choice"
+            }
+          ]
+        },
+        {
+          "text_num": 4,
+          "article": "In 1784, five ears before he became resident of the United States, George\n                      y                p                                  \n          Washington, 52, was nearl toothless. So he hired a dentist to trans lant nine teeth\n                           y                           p                  \n          into his jaw having extracted them from the mouths of his slaves.\n             That's a far different image from the cherry-tree-cho ing George most eo le\n                                               pp            p p          \n          remember from their history books. But recentl , man historians have begun to focus\n                                        y   y                             \n          on the role slavery la ed in the lives of the founding generation. The have been\n                       p y                               y                \n          s urred in art b DNA evidence made available in 1998, which almost certainl\n          p      p   y                                          y         \n          roved Thomas Jefferson had fathered at least one child with his slave Sall Hemings.\n          p                                              y                \n          And onl over the ast 30 ears have scholars examined history from the bottom u .\n               y      p    y                                    p         \n          Works of several historians reveal the moral com romises made b the nation's earl\n                                         p          y           y         \n          leaders and the fragile nature of the country's infanc . More si ificantl , the argue\n                                            y     gn    y   y             \n          that man of the Founding Fathers knew slavery was wrong and et most did little\n               y                                     y                    \n          to fight it.                                                    \n             More than anything, the historians say, the founders were ham ered b the\n                                                        p    y            \n          culture of their time. While Washington and Jefferson rivatel ex ressed distaste for\n                                             p    y p                     \n          slavery, the also understood that it was art of the olitical and economic bedrock of\n                 y                  p      p                              \n          the country the hel ed to create.                               \n                   y  p                                                   \n             For one thing, the South could not afford to art with its slaves. Owning slaves\n                                          p                               \n          was \"like having a large bank account,\" sa s Wiencek, author of An Imperfect God:\n                                      y                                   \n          George Washington, His Slaves, and the Creation of America. The southern states\n          would not have si ed the Constitution without rotections for the \" eculiar\n                       gn                    p              p             \n          institution,\" including a clause that counted a slave as three fifths of a man for\n          urposes of congressional re resentation.                        \n          p                 p                                             \n             And the statesmen's olitical lives de ended on slavery. The three-fifths formula\n                          p          p                                    \n          handed Jefferson his narrow victory in the residential election of 1800 b inflating\n                                      p                   y               \n          the votes of the southern states in the Electoral College. Once in office, Jefferson\n          extended slavery with the Louisiana Purchase in 1803; the new land was carved into\n          13 states, including three slave states.                        \n             Still, Jefferson freed Hemings's children though not Hemings herself or his\n          a roximatel 150 other slaves. Washington, who had begun to believe that all men\n          pp      y                                                       \n          were created equal after observing the bravery of the black soldiers during the\n          Revolutionary War, overcame the strong o osition of his relatives to grant his slaves\n                                     pp                                   \n          their freedom in his will. Onl a decade earlier, such an act would have required\n                              y                                           \n          legislative a roval in Virginia.                                \n                 pp                                                       \n                           英语试题   . 9 . (共 14 页）",
+          "questions": [
+            {
+              "number": 36,
+              "stem": "George Washington's dental surgery is mentioned to",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "show the primitive medical practice in the past."
+                },
+                {
+                  "label": "B",
+                  "text": "demonstrate the cruelty of slavery in his days."
+                },
+                {
+                  "label": "C",
+                  "text": "stress the role of slaves in the U.S. history."
+                },
+                {
+                  "label": "D",
+                  "text": "reveal some unknown aspect of his life."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 37,
+              "stem": "We may infer from the second paragraph that",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "DNA technology has been widely applied to historyresearch."
+                },
+                {
+                  "label": "B",
+                  "text": "in its early days the U.S. was confronted with delicate situations."
+                },
+                {
+                  "label": "C",
+                  "text": "historians deliberately made up some stories of Jefferson's life."
+                },
+                {
+                  "label": "D",
+                  "text": "political compromises are easily found throughout the U.S. history."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 38,
+              "stem": "What do we learn about Thomas Jefferson?",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "His political view changed his attitude towards slavery."
+                },
+                {
+                  "label": "B",
+                  "text": "His status as a father made him free the child slaves."
+                },
+                {
+                  "label": "C",
+                  "text": "His attitude towards slavery was complex."
+                },
+                {
+                  "label": "D",
+                  "text": "His affair with a slave stained his prestige."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 39,
+              "stem": "Which of the following is true according to the text?",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "Some Founding Fathers benefit politically from slavery."
+                },
+                {
+                  "label": "B",
+                  "text": "Slaves in the old days did not have the right to vote."
+                },
+                {
+                  "label": "C",
+                  "text": "Slaves owners usually had large savings accounts."
+                },
+                {
+                  "label": "D",
+                  "text": "Slavery was regarded as a peculiar institution."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 40,
+              "stem": "Washington's decision to free slaves originated from his",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "moral considerat10ns."
+                },
+                {
+                  "label": "B",
+                  "text": "military experience."
+                },
+                {
+                  "label": "C",
+                  "text": "financial conditions."
+                },
+                {
+                  "label": "D",
+                  "text": ""
+                }
+              ],
+              "type": "choice"
+            }
+          ]
+        }
+      ]
+    },
+    "new-type": {
+      "name": "Part B 阅读新题型",
+      "type": "new_type",
+      "question_range": [
+        41,
+        45
+      ],
+      "text": "(41)                                                            \n            Be flexible. Your outline should smoothl conduct ou from one point to the next,\n                                       y   ",
+      "article": "More than anything, the historians say, the founders were ham ered b the\np    y\nculture of their time. While Washington and Jefferson rivatel ex ressed distaste for\np    y p\nslavery, the also understood that it was art of the olitical and economic bedrock of\nthe country the hel ed to create.\nFor one thing, the South could not afford to art with its slaves. Owning slaves\nwas \"like having a large bank account,\" sa s Wiencek, author of An Imperfect God:\nGeorge Washington, His Slaves, and the Creation of America. The southern states\nwould not have si ed the Constitution without rotections for the \" eculiar\ninstitution,\" including a clause that counted a slave as three fifths of a man for\nurposes of congressional re resentation.\nAnd the statesmen's olitical lives de ended on slavery. The three-fifths formula\nhanded Jefferson his narrow victory in the residential election of 1800 b inflating\nthe votes of the southern states in the Electoral College. Once in office, Jefferson\nextended slavery with the Louisiana Purchase in 1803; the new land was carved into\n13 states, including three slave states.\nStill, Jefferson freed Hemings's children though not Hemings herself or his\na roximatel 150 other slaves. Washington, who had begun to believe that all men\npp      y\nwere created equal after observing the bravery of the black soldiers during the\nRevolutionary War, overcame the strong o osition of his relatives to grant his slaves\ntheir freedom in his will. Onl a decade earlier, such an act would have required\nlegislative a roval in Virginia.\nPartB\nIn the following text , some segments have been removed. For Questions 41-45,\nchoose the most suitable one from the list A-G to fit into each of the numbered blanks.\nThere are two extra choices, which do not fit in an of the blanks. Mark our answers\nThe time for sharpening pencils, arranging our desk, and doing almost anything\nelse instead of writing has ended. The first draft will appear on the page onl if ou\nstop avoiding the inevitable and sit, stand up, or lie down to write.",
+      "questions": [
+        {
+          "number": 41,
+          "stem": "(41) Be flexible. Your outline should smoothl conduct ou from one point to the next, y y but do not permit it to railroad ou. If a relevant and importa",
+          "choices": [
+            {
+              "label": "A",
+              "text": "To make revising easier, leave wide margins and extra s ace between lines so p that ou can easil add words, sentences, and corrections. Write on onl one y y y side of the a er. p p"
+            },
+            {
+              "label": "B",
+              "text": "After ou have clearl and adequatel develo ed the bod of our a er, a y y y p y y p p p y articular attention to the introductor and concluding aragra hs. It's p y p p robabl best to w门te the introduction last, after ou know recisel what ou p y y p y y are introducing. Concluding aragra hs demand equa"
+            },
+            {
+              "label": "C",
+              "text": "It's worth remembering, however, that though a clean co fresh off a rinter py p ma look terrific, it will read onl as well as the thinking and writing that have y y gone into it. Man writers rudentl store their data on disks and rint their y p y p ages each time the finish a draft to avoid losing an"
+            },
+            {
+              "label": "D",
+              "text": "It makes no difference how ou write, just so ou do. Now that ou have y y y develo ed a to ic into a tentative thesis, ou can assemble our notes and begin p p y y to flesh out whatever outline ou have made. y"
+            },
+            {
+              "label": "E",
+              "text": "Although this is an interesting issue, it has nothing to do with the thesis, which ex lains how the setting influences Sammy's decision to quit his job. Instead p of including that aragra h, she added one that described Lengel's crabbed p p res onse to the girls so that she could lead u to the A & P"
+            },
+            {
+              "label": "F",
+              "text": "In the final aragra h about the significance of the setting in \"A&P,\" the p p student brings together the reasons Samm quit his job b referring to his refusal y y to acce t Lengel's store olicies. p p"
+            },
+            {
+              "label": "G",
+              "text": "B using the first draft as a means of thinking about what ou want to sa , ou y y y y will very likel discover more than our notes originall suggested. Plent of good y y y y writers don't use outlines at all but discover ordering rinci les as the write. Do"
+            }
+          ],
+          "type": "new_type"
+        },
+        {
+          "number": 42,
+          "stem": "but do not permit it to railroad ou. If a relevant and important idea occurs to ou now, y y work it into the draft. (42) Grammar, punctuat10n, and spelling can wait until ou revise. Concentrate on what ou are sa ing. Good y y y w百ting most often occurs when ou are in hot pursuit of an idea rather than in a",
+          "choices": [
+            {
+              "label": "A",
+              "text": "To make revising easier, leave wide margins and extra s ace between lines so p that ou can easil add words, sentences, and corrections. Write on onl one y y y side of the a er. p p"
+            },
+            {
+              "label": "B",
+              "text": "After ou have clearl and adequatel develo ed the bod of our a er, a y y y p y y p p p y articular attention to the introductor and concluding aragra hs. It's p y p p robabl best to w门te the introduction last, after ou know recisel what ou p y y p y y are introducing. Concluding aragra hs demand equa"
+            },
+            {
+              "label": "C",
+              "text": "It's worth remembering, however, that though a clean co fresh off a rinter py p ma look terrific, it will read onl as well as the thinking and writing that have y y gone into it. Man writers rudentl store their data on disks and rint their y p y p ages each time the finish a draft to avoid losing an"
+            },
+            {
+              "label": "D",
+              "text": "It makes no difference how ou write, just so ou do. Now that ou have y y y develo ed a to ic into a tentative thesis, ou can assemble our notes and begin p p y y to flesh out whatever outline ou have made. y"
+            },
+            {
+              "label": "E",
+              "text": "Although this is an interesting issue, it has nothing to do with the thesis, which ex lains how the setting influences Sammy's decision to quit his job. Instead p of including that aragra h, she added one that described Lengel's crabbed p p res onse to the girls so that she could lead u to the A & P"
+            },
+            {
+              "label": "F",
+              "text": "In the final aragra h about the significance of the setting in \"A&P,\" the p p student brings together the reasons Samm quit his job b referring to his refusal y y to acce t Lengel's store olicies. p p"
+            },
+            {
+              "label": "G",
+              "text": "B using the first draft as a means of thinking about what ou want to sa , ou y y y y will very likel discover more than our notes originall suggested. Plent of good y y y y writers don't use outlines at all but discover ordering rinci les as the write. Do"
+            }
+          ],
+          "type": "new_type"
+        },
+        {
+          "number": 43,
+          "stem": "pursuit of an idea rather than in a y nervous search for errors. (43) Your pages will be easier to keep track of that wa , y and, if ou have to clip a paragraph to place it elsewhere, ou will not lose an y y y",
+          "choices": [
+            {
+              "label": "A",
+              "text": "To make revising easier, leave wide margins and extra s ace between lines so p that ou can easil add words, sentences, and corrections. Write on onl one y y y side of the a er. p p"
+            },
+            {
+              "label": "B",
+              "text": "After ou have clearl and adequatel develo ed the bod of our a er, a y y y p y y p p p y articular attention to the introductor and concluding aragra hs. It's p y p p robabl best to w门te the introduction last, after ou know recisel what ou p y y p y y are introducing. Concluding aragra hs demand equa"
+            },
+            {
+              "label": "C",
+              "text": "It's worth remembering, however, that though a clean co fresh off a rinter py p ma look terrific, it will read onl as well as the thinking and writing that have y y gone into it. Man writers rudentl store their data on disks and rint their y p y p ages each time the finish a draft to avoid losing an"
+            },
+            {
+              "label": "D",
+              "text": "It makes no difference how ou write, just so ou do. Now that ou have y y y develo ed a to ic into a tentative thesis, ou can assemble our notes and begin p p y y to flesh out whatever outline ou have made. y"
+            },
+            {
+              "label": "E",
+              "text": "Although this is an interesting issue, it has nothing to do with the thesis, which ex lains how the setting influences Sammy's decision to quit his job. Instead p of including that aragra h, she added one that described Lengel's crabbed p p res onse to the girls so that she could lead u to the A & P"
+            },
+            {
+              "label": "F",
+              "text": "In the final aragra h about the significance of the setting in \"A&P,\" the p p student brings together the reasons Samm quit his job b referring to his refusal y y to acce t Lengel's store olicies. p p"
+            },
+            {
+              "label": "G",
+              "text": "B using the first draft as a means of thinking about what ou want to sa , ou y y y y will very likel discover more than our notes originall suggested. Plent of good y y y y writers don't use outlines at all but discover ordering rinci les as the write. Do"
+            }
+          ],
+          "type": "new_type"
+        },
+        {
+          "number": 44,
+          "stem": "mple ke board commands. Some software programs can also check spelling y and certam grammatical elements m ourwntmg. (44) These y printouts are also easier to read than the screen when ou work on revisions. y Once ou have a first draft on pap",
+          "choices": [
+            {
+              "label": "A",
+              "text": "To make revising easier, leave wide margins and extra s ace between lines so p that ou can easil add words, sentences, and corrections. Write on onl one y y y side of the a er. p p"
+            },
+            {
+              "label": "B",
+              "text": "After ou have clearl and adequatel develo ed the bod of our a er, a y y y p y y p p p y articular attention to the introductor and concluding aragra hs. It's p y p p robabl best to w门te the introduction last, after ou know recisel what ou p y y p y y are introducing. Concluding aragra hs demand equa"
+            },
+            {
+              "label": "C",
+              "text": "It's worth remembering, however, that though a clean co fresh off a rinter py p ma look terrific, it will read onl as well as the thinking and writing that have y y gone into it. Man writers rudentl store their data on disks and rint their y p y p ages each time the finish a draft to avoid losing an"
+            },
+            {
+              "label": "D",
+              "text": "It makes no difference how ou write, just so ou do. Now that ou have y y y develo ed a to ic into a tentative thesis, ou can assemble our notes and begin p p y y to flesh out whatever outline ou have made. y"
+            },
+            {
+              "label": "E",
+              "text": "Although this is an interesting issue, it has nothing to do with the thesis, which ex lains how the setting influences Sammy's decision to quit his job. Instead p of including that aragra h, she added one that described Lengel's crabbed p p res onse to the girls so that she could lead u to the A & P"
+            },
+            {
+              "label": "F",
+              "text": "In the final aragra h about the significance of the setting in \"A&P,\" the p p student brings together the reasons Samm quit his job b referring to his refusal y y to acce t Lengel's store olicies. p p"
+            },
+            {
+              "label": "G",
+              "text": "B using the first draft as a means of thinking about what ou want to sa , ou y y y y will very likel discover more than our notes originall suggested. Plent of good y y y y writers don't use outlines at all but discover ordering rinci les as the write. Do"
+            }
+          ],
+          "type": "new_type"
+        },
+        {
+          "number": 45,
+          "stem": "y paragraph that questioned whether Samm displays chauvinistic attitudes toward y women. (45) Remember that our initial draft is onl that. You should go through the paper y y man times and then again working to substantiate and clarify our ideas.",
+          "choices": [
+            {
+              "label": "A",
+              "text": "To make revising easier, leave wide margins and extra s ace between lines so p that ou can easil add words, sentences, and corrections. Write on onl one y y y side of the a er. p p"
+            },
+            {
+              "label": "B",
+              "text": "After ou have clearl and adequatel develo ed the bod of our a er, a y y y p y y p p p y articular attention to the introductor and concluding aragra hs. It's p y p p robabl best to w门te the introduction last, after ou know recisel what ou p y y p y y are introducing. Concluding aragra hs demand equa"
+            },
+            {
+              "label": "C",
+              "text": "It's worth remembering, however, that though a clean co fresh off a rinter py p ma look terrific, it will read onl as well as the thinking and writing that have y y gone into it. Man writers rudentl store their data on disks and rint their y p y p ages each time the finish a draft to avoid losing an"
+            },
+            {
+              "label": "D",
+              "text": "It makes no difference how ou write, just so ou do. Now that ou have y y y develo ed a to ic into a tentative thesis, ou can assemble our notes and begin p p y y to flesh out whatever outline ou have made. y"
+            },
+            {
+              "label": "E",
+              "text": "Although this is an interesting issue, it has nothing to do with the thesis, which ex lains how the setting influences Sammy's decision to quit his job. Instead p of including that aragra h, she added one that described Lengel's crabbed p p res onse to the girls so that she could lead u to the A & P"
+            },
+            {
+              "label": "F",
+              "text": "In the final aragra h about the significance of the setting in \"A&P,\" the p p student brings together the reasons Samm quit his job b referring to his refusal y y to acce t Lengel's store olicies. p p"
+            },
+            {
+              "label": "G",
+              "text": "B using the first draft as a means of thinking about what ou want to sa , ou y y y y will very likel discover more than our notes originall suggested. Plent of good y y y y writers don't use outlines at all but discover ordering rinci les as the write. Do"
+            }
+          ],
+          "type": "new_type"
+        }
+      ],
+      "warnings": []
+    },
+    "translation": {
+      "name": "C节 翻译",
+      "type": "translation",
+      "question_range": [
+        46,
+        50
+      ],
+      "text": "(46) he believes that this very difficulty\n                g         y        y                                      \n          ma have had the com ensatin advanta e of forcin him to think lon and int",
+      "article": "ou will not lose an\nw百tingon the other side.\nIf ou are working on a word processor, ou can take advantage of its capacity\nto make additions and deletions as well as move entire paragraphs b making just a\nfew simple ke board commands. Some software programs can also check spelling\nand certam grammatical elements m ourwntmg. (44)  These\nprintouts are also easier to read than the screen when ou work on revisions.\nOnce ou have a first draft on paper, ou can delete material that is unrelated to\nour thesis and add material necessary to illustrate our points and make our paper\nconvincing. The student who wrote \"The A&P as a State of Mind\" wisel dropped a\nparagraph that questioned whether Samm displays chauvinistic attitudes toward\nwomen. (45)\nRemember that our initial draft is onl that. You should go through the paper\nman times and then again working to substantiate and clarify our ideas. You\nmay even end up with several entire versions of the paper. Rewrite. The sentences\nwithin each paragraph should be related to a single topic. Transitions should connect\none paragraph to the next so that there are no abrupt or confusing shifts. Awkward or\nwordy phrasing or unclear sentences and paragraphs should be mercilessl poked and\nprodded into shape.\nthat ou can easil add words, sentences, and corrections. Write on onl one\nside of the a er.\narticular attention to the introductor and concluding aragra hs. It's\nrobabl best to w门te the introduction last, after ou know recisel what ou\nare introducing. Concluding aragra hs demand equal attention because the\nleave the reader with a final im ression.\npy       p\nma  look terrific, it will read onl as well as the thinking and writing that have\ngone into it. Man writers rudentl store their data on disks and rint their\nages each time the finish a draft to avoid losing an material because of\nower failures or other roblems.\ndevelo ed a to ic into a tentative thesis, ou can assemble our notes and begin\nto flesh out whatever outline ou have made.\nex lains how the setting influences Sammy's decision to quit his job. Instead\nof including that aragra h, she added one that described Lengel's crabbed\np    p\nres onse to the girls so that she could lead u to the A & P \" olic \" he\nenforces.\np    p\nstudent brings together the reasons Samm quit his job b referring to his refusal\nto acce t Lengel's store olicies.\nwill very likel discover more than our notes originall suggested. Plent of good\nwriters don't use outlines at all but discover ordering rinci les as the write. Do\nnot attem t to com ose a erfectl correct draft the first time around.\nPartC\npoints)\nIn his autobiograph , Darwin himself speaks of his intellectual powers with\nextraordinary modest . He points out that he alwa s experienced much difficulty in\nexpressin himself clearl and concisel , but",
+      "questions": [
+        {
+          "number": 46,
+          "stem": "he believes that this very difficulty g y y ma have had the com ensatin advanta e of forcin him to think lon and intentl about eve sentence and thus enablin him to detect errors in reasonin and in his own observations. He disclaimed the possession of an great quickness of y apprehension or wit, such as distinguished Huxle .",
+          "choices": [],
+          "type": "translation"
+        },
+        {
+          "number": 47,
+          "stem": "He asserted also that his y ower to follow a lon and urel abstract train of thou ht was ve limited for which reason he felt certain that he never could have succeeded with mathematics. His memory, too, he described as extensive, but ha勾. So poor in one sense was it that he never could remember for more than a few da s a sin le date or a line of poetry. y g",
+          "choices": [],
+          "type": "translation"
+        },
+        {
+          "number": 48,
+          "stem": "On the other hand he did not acce t as well founded the char e made b some of his critics that while he was a ood observer he had no ower of reasonin . This, he thou ht, could not be true, because the \"Ori in of Species\" is one lon argument from g g g the be innin to the end, and has convinced many able men. No one, he submits, g g could have written it without possessin some power of reasonin . He was willin to g g g assert that \"I have a fair share of invention, and of common sense or jud ment, such g as every fairl successful lawyer or doctor must have, but not, I believe, in an hi her y y ",
+          "choices": [],
+          "type": "translation"
+        },
+        {
+          "number": 49,
+          "stem": "He adds humbl that erha s he was \"su erior to the common run of men in noticin thin s which easil esca e attention and in observin them carefull .\" y Writin in the last ear of his life, he expressed the opinion that in two or three g y respects his mind had chan ed durin the precedin twenty or thirt ears. Up to the g g g y y a e of thirt or be ond it poetry of many kinds ave him great pleasure. Formerl , too, g y y g y pictures had iven him considerable, and music very great, deli ht. In 1881, however, g g he said: \"Now for many ears I cannot endure to read a line of poetry. I have also y almo",
+          "choices": [],
+          "type": "translation"
+        },
+        {
+          "number": 50,
+          "stem": "Darwin was convinced that the loss y of these tastes was not onl a loss of ha iness but mi ht ossibl be in·urious to the intellect, and more probabl to the moral character. y 英语试题 . 13 . (共 14 页）",
+          "choices": [],
+          "type": "translation"
+        }
+      ],
+      "warnings": []
+    },
+    "writing-a": {
+      "name": "A节 应用文写作",
+      "type": "writing_small",
+      "question_range": [
+        51,
+        51
+      ],
+      "text": "51.Directions:                                                  \n             You have just come back from Canada and found a music CD in your luggage\n          that you forgot to return to Bob, your ",
+      "article": "py       p\nma  look terrific, it will read onl as well as the thinking and writing that have\ngone into it. Man writers rudentl store their data on disks and rint their\nages each time the finish a draft to avoid losing an material because of\nower failures or other roblems.\ndevelo ed a to ic into a tentative thesis, ou can assemble our notes and begin\nto flesh out whatever outline ou have made.\nex lains how the setting influences Sammy's decision to quit his job. Instead\nof including that aragra h, she added one that described Lengel's crabbed\np    p\nres onse to the girls so that she could lead u to the A & P \" olic \" he\nenforces.\np    p\nstudent brings together the reasons Samm quit his job b referring to his refusal\nto acce t Lengel's store olicies.\nwill very likel discover more than our notes originall suggested. Plent of good\nwriters don't use outlines at all but discover ordering rinci les as the write. Do\nnot attem t to com ose a erfectl correct draft the first time around.\nPartC\npoints)\nIn his autobiograph , Darwin himself speaks of his intellectual powers with\nextraordinary modest . He points out that he alwa s experienced much difficulty in\nexpressin himself clearl and concisel , but (46) he believes that this very difficulty\nma have had the com ensatin advanta e of forcin him to think lon and intentl\nabout eve sentence and thus enablin him to detect errors in reasonin and in his\nown observations. He disclaimed the possession of an great quickness of\napprehension or wit, such as distinguished Huxle . (47) He asserted also that his\nower to follow a lon and urel abstract train of thou ht was ve limited for\nwhich reason he felt certain that he never could have succeeded with mathematics.\nHis memory, too, he described as extensive, but ha勾. So poor in one sense was it that\nhe never could remember for more than a few da s a sin le date or a line of poetry.\ny   g\n(48) On the other hand he did not acce t as well founded the char e made b some of\nhis critics that while he was a ood observer he had no ower of reasonin . This, he\nthou ht, could not be true, because the \"Ori in of Species\" is one lon argument from\nthe be innin to the end, and has convinced many able men. No one, he submits,\ng   g\ncould have written it without possessin some power of reasonin . He was willin to\nassert that \"I have a fair share of invention, and of common sense or jud ment, such\nas every fairl successful lawyer or doctor must have, but not, I believe, in an hi her\ndegree.\" (49) He adds humbl that erha s he was \"su erior to the common run of\nmen in noticin thin s which easil esca e attention and in observin them\ncarefull .\"\nWritin in the last ear of his life, he expressed the opinion that in two or three\ng       y\nrespects his mind had chan ed durin the precedin twenty or thirt ears. Up to the\na e of thirt or be ond it poetry of many kinds ave him great pleasure. Formerl , too,\npictures had iven him considerable, and music very great, deli ht. In 1881, however,\nhe said: \"Now for many ears I cannot endure to read a line of poetry. I have also\nalmost lost m taste for pictures or music.\" (50) Darwin was convinced that the loss\nof these tastes was not onl a loss of ha iness but mi ht ossibl be in·urious to the\nintellect, and more probabl to the moral character.\nSection III Writing\nPart A",
+      "questions": [
+        {
+          "number": 51,
+          "stem": "Directions: You have just come back from Canada and found a music CD in your luggage that you forgot to return to Bob, your landlord there. Write him a letter to I) make an apology, and",
+          "choices": [],
+          "type": "writing_small"
+        }
+      ],
+      "warnings": []
+    },
+    "writing-b": {
+      "name": "B节 短文写作",
+      "type": "writing_big",
+      "question_range": [
+        52,
+        52
+      ],
+      "text": "52.Directions:                                                   \n             Write an essay of 160-200 words based on the following drawing. In your essay,\n          you should                      ",
+      "article": "to flesh out whatever outline ou have made.\nex lains how the setting influences Sammy's decision to quit his job. Instead\nof including that aragra h, she added one that described Lengel's crabbed\np    p\nres onse to the girls so that she could lead u to the A & P \" olic \" he\nenforces.\np    p\nstudent brings together the reasons Samm quit his job b referring to his refusal\nto acce t Lengel's store olicies.\nwill very likel discover more than our notes originall suggested. Plent of good\nwriters don't use outlines at all but discover ordering rinci les as the write. Do\nnot attem t to com ose a erfectl correct draft the first time around.\nPartC\npoints)\nIn his autobiograph , Darwin himself speaks of his intellectual powers with\nextraordinary modest . He points out that he alwa s experienced much difficulty in\nexpressin himself clearl and concisel , but (46) he believes that this very difficulty\nma have had the com ensatin advanta e of forcin him to think lon and intentl\nabout eve sentence and thus enablin him to detect errors in reasonin and in his\nown observations. He disclaimed the possession of an great quickness of\napprehension or wit, such as distinguished Huxle . (47) He asserted also that his\nower to follow a lon and urel abstract train of thou ht was ve limited for\nwhich reason he felt certain that he never could have succeeded with mathematics.\nHis memory, too, he described as extensive, but ha勾. So poor in one sense was it that\nhe never could remember for more than a few da s a sin le date or a line of poetry.\ny   g\n(48) On the other hand he did not acce t as well founded the char e made b some of\nhis critics that while he was a ood observer he had no ower of reasonin . This, he\nthou ht, could not be true, because the \"Ori in of Species\" is one lon argument from\nthe be innin to the end, and has convinced many able men. No one, he submits,\ng   g\ncould have written it without possessin some power of reasonin . He was willin to\nassert that \"I have a fair share of invention, and of common sense or jud ment, such\nas every fairl successful lawyer or doctor must have, but not, I believe, in an hi her\ndegree.\" (49) He adds humbl that erha s he was \"su erior to the common run of\nmen in noticin thin s which easil esca e attention and in observin them\ncarefull .\"\nWritin in the last ear of his life, he expressed the opinion that in two or three\ng       y\nrespects his mind had chan ed durin the precedin twenty or thirt ears. Up to the\na e of thirt or be ond it poetry of many kinds ave him great pleasure. Formerl , too,\npictures had iven him considerable, and music very great, deli ht. In 1881, however,\nhe said: \"Now for many ears I cannot endure to read a line of poetry. I have also\nalmost lost m taste for pictures or music.\" (50) Darwin was convinced that the loss\nof these tastes was not onl a loss of ha iness but mi ht ossibl be in·urious to the\nintellect, and more probabl to the moral character.\nSection III Writing\nPart A\nYou have just come back from Canada and found a music CD in your luggage\nthat you forgot to return to Bob, your landlord there. Write him a letter to\nI) make an apology, and\nDo not sign your own name at the end of the letter. Use''Li Ming\" instead\nDonotw出ethe address. (10 points)\nPartB",
+      "questions": [
+        {
+          "number": 52,
+          "stem": "Directions: Write an essay of 160-200 words based on the following drawing. In your essay, you should",
+          "choices": [],
+          "type": "writing_big"
+        }
+      ],
+      "warnings": []
+    }
+  }
+}

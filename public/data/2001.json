@@ -1,0 +1,1081 @@
+{
+  "year": 2001,
+  "filename": "2001.pdf",
+  "era": "era3",
+  "era_label": "第三阶段+(2005至今 英一)",
+  "total_pages": 15,
+  "max_question_number": 46,
+  "found_question_count": 20,
+  "extracted_question_count": 25,
+  "sections": {
+    "cloze": {
+      "name": "Section I 完形填空",
+      "type": "cloze",
+      "question_range": [
+        1,
+        20
+      ],
+      "text": "",
+      "article": "",
+      "questions": [],
+      "warnings": [
+        "未找到题目"
+      ]
+    },
+    "reading-a": {
+      "name": "Section II 阅读A节",
+      "type": "reading",
+      "question_range": [
+        21,
+        40
+      ],
+      "text": "［A］with     ［B］to        ［C］from      ［D］by                            \n        17.［A］impact   ［B］incident  ［C］inference ［D］issue                         \n                                             ",
+      "article": "Specialisation can be seen as a response to the problem of an increasing accumulation of scientific\n                                                                                  \n        knowledge. By splitting upthesubject matterintosmallerunits，one man could continueto handlethe\n        information and use it as the basis for further research. But specialisation was only one of a series of\n                                                                                  \n        related developments in science affecting the process of communication. Another was the growing\n                                                                                  \n        professionalisationofscientificactivity.                                  \n           No clear-cut distinction can be drawn between professionals and amateurs in science: exceptions\n                                                                                  \n        can be found to any rule. Nevertheless, the word “amateur” does carry a connotation that the person\n                                                                                  \n        concerned is not fully integrated into the scientific community and, in particular, may not fully share\n        its values. The growth of specialisation in the nineteenth century, with its consequent requirement of a\n                                                                                  \n        longer, more complex training, implied greater problems for amateur participation in science. The\n                                                                                  \n        trend was naturally most obvious in those areas of science based especially on a mathematical or\n        laboratory training, and can be illustrated in terms of the development of geology in the United\n                                                                                  \n        Kingdom.                                                                  \n                                                                                  \n           Acomparison of British geological publications over the last century and a half reveals not simply\n        an increasing emphasis on the primacy of research, but also a changing definition of what constitutes\n                                                                                  \n        an acceptable research paper. Thus, in the nineteenth century, local geological studies represented\n                                                                                  \n        worthwhile research in their own right; but, in the twentieth century, local studies have increasingly\n                                                                                  \n        become acceptable to professionals only if they incorporate, and reflect on, the wider geological\n        picture.Amateurs, on theother hand,have continued to pursuelocal studiesin theoldway.Theoverall\n                                                                                  \n        result has been to make entrance to professional geological journals harder for amateurs, a result that\n                                                                                  \n        has been reinforced by the widespread introduction of refereeing, first by national journals in the\n        nineteenth century and then by several local geological journals in the twentieth century.As a logical\n                                                                                  \n        consequence of this development, separate journals have now appeared aimed mainly towards either\n                                                                                  \n        professional or amateur readership. A rather similar process of differentiation has led to professional\n        geologists coming together nationally within one or two specific societies, whereas the amateurs have\n                                                                                  \n        tendedeithertoremaininlocalsocietiesortocometogethernationallyinadifferentway.\n                                                                                  \n           Although the process of professionalisation and specialisation was already well under way in\n        British geology during the nineteenth century, its full consequences were thus delayed until the\n                                                                                  \n        twentieth century. In science generally, however, the nineteenth century must be reckoned as the\n                                                                                  \n        crucialperiodfor thischangeinthestructureofscience.                       \n                                                                                  \n                                                                                  \n                                                                                  \n                                                                                  \n                                                                                  \n                               英语试题   . 3 . (共 14 页）\n\nA great deal of attention is being paid today to the so-called digital divide — the division of\n                                                                                  \n        the world into the info (information) rich and the info poor. And that divide does exist today. My wife\n                                                                                  \n        and I lectured about this looming danger twenty years ago. What was less visible then, however, were\n        the new, positive forces that work against the digital divide. There are reasons to be optimistic.\n                                                                                  \n           There are technological reasons to hope the digital divide will narrow. As the Internet becomes\n                                                                                  \n        more and more commercialized, it is in the interest of business to universalize access — after all,\n                                                                                  \n        the more people online, the more potential customers there are. More and more governments, afraid\n                                                                                  \n        their countries will be left behind, want to spread Internet access. Within the next decade or two, one\n        to two billion people on the planet will he netted together. As a result, I now believe the digital\n                                                                                  \n        divide will narrow rather than widen in the years ahead. And that is very good news because the\n                                                                                  \n        Internet may well be the most powerful tool for combating world poverty that we’ve ever had.\n                                                                                  \n           Of course, the use of the Internet isn’t the only way to defeat poverty. And the Internet is not the\n                                                                                  \n        only tool we have. But it has enormous potential.                         \n           To take advantage of this tool, some impoverished countries will have to get over their outdated\n                                                                                  \n        anti-colonial prejudices with respect to foreign investment. Countries that still think foreign investment\n                                                                                  \n        is an invasion of their sovereignty might well study the history of infrastructure（the basic structural\n                                          ",
+      "questions": [
+        {
+          "number": 21,
+          "stem": "The growth of specialisation in the 19th century might be more clearly seen in sciences such as\n           _______.",
+          "choices": [
+            {
+              "label": "A",
+              "text": "sociologyandchemistry"
+            },
+            {
+              "label": "B",
+              "text": "physicsandpsychology"
+            },
+            {
+              "label": "C",
+              "text": "sociologyandpsychology"
+            },
+            {
+              "label": "D",
+              "text": "physicsandchemistry"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 22,
+          "stem": "Wecaninferfromthepassagethat_______.",
+          "choices": [
+            {
+              "label": "A",
+              "text": "thereislittledistinctionbetweenspecialisationandprofessionalisation"
+            },
+            {
+              "label": "B",
+              "text": "amateurscancompetewithprofessionalsinsomeareasofscience"
+            },
+            {
+              "label": "C",
+              "text": "professionalstendtowelcomeamateursintothescientificcommunity"
+            },
+            {
+              "label": "D",
+              "text": "amateurshavenationalacademicsocietiesbutnolocalones"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 23,
+          "stem": "Theauthorwritesofthedevelopmentofgeology todemonstrate______ .",
+          "choices": [
+            {
+              "label": "A",
+              "text": "theprocessofspecialisationandprofessionalisation"
+            },
+            {
+              "label": "B",
+              "text": "thehardshipofamateursinscientificstudy"
+            },
+            {
+              "label": "C",
+              "text": "thechangeofpoliciesinscientificpublications"
+            },
+            {
+              "label": "D",
+              "text": "thediscriminationofprofessionalsagainstamateurs"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 24,
+          "stem": "Thedirectreasonforspecialisationis_______.",
+          "choices": [
+            {
+              "label": "A",
+              "text": "thedevelopmentincommunication"
+            },
+            {
+              "label": "B",
+              "text": "thegrowthofprofessionalisation"
+            },
+            {
+              "label": "C",
+              "text": "theexpansionofscientificknowledge"
+            },
+            {
+              "label": "D",
+              "text": "thesplittingupofacademicsocieties 英语试题 . 4 . (共 14 页）"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 25,
+          "stem": "Digitaldivideissomething_______.",
+          "choices": [
+            {
+              "label": "A",
+              "text": "gettingworsebecauseoftheInternet"
+            },
+            {
+              "label": "B",
+              "text": "therichcountriesareresponsiblefor"
+            },
+            {
+              "label": "C",
+              "text": "theworldmustguardagainst"
+            },
+            {
+              "label": "D",
+              "text": "consideredpositivetoday"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 26,
+          "stem": "GovernmentsattachimportancetotheInternetbecauseit_______.",
+          "choices": [
+            {
+              "label": "A",
+              "text": "offerseconomicpotentials"
+            },
+            {
+              "label": "B",
+              "text": "canbringforeign funds"
+            },
+            {
+              "label": "C",
+              "text": "cansoonwipeoutworldpoverty"
+            },
+            {
+              "label": "D",
+              "text": "connectspeopleallover theworld"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 27,
+          "stem": "ThewritermentionedthecaseoftheUnitedStatestojustifythepolicyof_______.",
+          "choices": [
+            {
+              "label": "A",
+              "text": "providingfinancialsupportoverseas"
+            },
+            {
+              "label": "B",
+              "text": "preventingforeigncapital’scontrol"
+            },
+            {
+              "label": "C",
+              "text": "buildingindustrialinfrastructure"
+            },
+            {
+              "label": "D",
+              "text": "acceptingforeign investment"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 28,
+          "stem": "It seemsthatnowacountry’seconomydepandsmuchon______.",
+          "choices": [
+            {
+              "label": "A",
+              "text": "howwell-developeditiselectronically"
+            },
+            {
+              "label": "B",
+              "text": "whetheritisprejudicedagainstimmigrants"
+            },
+            {
+              "label": "C",
+              "text": "whetheritadoptsAmerica’sindustrialpattern"
+            },
+            {
+              "label": "D",
+              "text": "howmuchcontrolithasoverforeign corporations"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 29,
+          "stem": "Whatisthepassagemainlyabout?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "needsofthereadersallovertheworld."
+            },
+            {
+              "label": "B",
+              "text": "causesofthepublicdisappointmentaboutnewspapers."
+            },
+            {
+              "label": "C",
+              "text": "originsofthedecliningnewspaperindustry."
+            },
+            {
+              "label": "D",
+              "text": "aimsofajournalismcredibilityproject."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 30,
+          "stem": "Theresultsofthejournalismcredibilityprojectturnedouttobe______.",
+          "choices": [
+            {
+              "label": "A",
+              "text": "quitetrustworthy"
+            },
+            {
+              "label": "B",
+              "text": "somewhatcontradictory"
+            },
+            {
+              "label": "C",
+              "text": "veryilluminating"
+            },
+            {
+              "label": "D",
+              "text": "rathersuperficial"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 31,
+          "stem": "Thebasicproblemofjournalistsaspointedoutbythewriterliesintheir______.",
+          "choices": [
+            {
+              "label": "A",
+              "text": "workingattitude"
+            },
+            {
+              "label": "B",
+              "text": "conventionallifestyle"
+            },
+            {
+              "label": "C",
+              "text": "worldoutlook"
+            },
+            {
+              "label": "D",
+              "text": "educationalbackground"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 32,
+          "stem": "Despiteitsefforts, thenewspaperindustrystillcannotsatisfythereadersowingtoits_______.",
+          "choices": [
+            {
+              "label": "A",
+              "text": "failuretorealizeitsrealproblem"
+            },
+            {
+              "label": "B",
+              "text": "tendencytohireannoyingreporters"
+            },
+            {
+              "label": "C",
+              "text": "likelinesstodoinaccuratereporting"
+            },
+            {
+              "label": "D",
+              "text": "prejudiceinmattersofraceandgender"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 33,
+          "stem": "Whatisthetypicaltrendofbusinessestoday?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "totakeinmoreforeignfunds."
+            },
+            {
+              "label": "B",
+              "text": "toinvestmoreabroad."
+            },
+            {
+              "label": "C",
+              "text": "tocombineandbecomebigger."
+            },
+            {
+              "label": "D",
+              "text": "totradewithmorecountries."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 34,
+          "stem": "Accordingtotheauthor,oneofthedrivingforcesbehindM&Awaveis______.",
+          "choices": [
+            {
+              "label": "A",
+              "text": "thegreatercustomerdemands."
+            },
+            {
+              "label": "B",
+              "text": "asurplussupplyfor themarket."
+            },
+            {
+              "label": "C",
+              "text": "agrowing productivity."
+            },
+            {
+              "label": "D",
+              "text": "theincreaseoftheworld'swealth."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 35,
+          "stem": "Fromparagraph4wecaninferthat______ .",
+          "choices": [
+            {
+              "label": "A",
+              "text": "theincreasingconcentrationiscertaintohurtconsumers"
+            },
+            {
+              "label": "B",
+              "text": "WorldComservesasagood exampleof bothbenefitsandcosts"
+            },
+            {
+              "label": "C",
+              "text": "thecostsoftheglobalizationprocessareenormous"
+            },
+            {
+              "label": "D",
+              "text": "theStandardOiltrustmighthavethreatenedcompetition"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 36,
+          "stem": "Towardthenewbusinesswave, thewriter'sattitudecanhesaidtobe_______.",
+          "choices": [
+            {
+              "label": "A",
+              "text": "optimistic"
+            },
+            {
+              "label": "B",
+              "text": "objective"
+            },
+            {
+              "label": "C",
+              "text": "pessimistic"
+            },
+            {
+              "label": "D",
+              "text": "biased"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 37,
+          "stem": "Whichofthefollowingistrueaccordingtoparagraph1?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "Full-timeemploymentisanewinternationaltrend."
+            },
+            {
+              "label": "B",
+              "text": "Thewriterwascompelledbycircumstancestoleaveherjob."
+            },
+            {
+              "label": "C",
+              "text": "“Alateralmove”meanssteppingoutoffull-timeemployment."
+            },
+            {
+              "label": "D",
+              "text": "Thewriterwasonlytooeagertospendmoretimewithherfamily."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 38,
+          "stem": "Thewriter’sexperimentshowsthatdownshifting .",
+          "choices": [
+            {
+              "label": "A",
+              "text": "enableshertorealizeherdream"
+            },
+            {
+              "label": "B",
+              "text": "helpshermoldanewphilosophyoflife"
+            },
+            {
+              "label": "C",
+              "text": "promptshertoabandonherhighsocialstatus"
+            },
+            {
+              "label": "D",
+              "text": "leadshertoacceptthedoctrineofShemagazine"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 39,
+          "stem": "“Jugglingone’slife”probablymeanslivingalifecharacterizedby .",
+          "choices": [
+            {
+              "label": "A",
+              "text": "non-materialisticlifestyle"
+            },
+            {
+              "label": "B",
+              "text": "abitof everything"
+            },
+            {
+              "label": "C",
+              "text": "extremestress"
+            },
+            {
+              "label": "D",
+              "text": "anti-consumerism"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 40,
+          "stem": "Accordingtothepassage,downshiftingemergedintheU.S.asaresultof .",
+          "choices": [
+            {
+              "label": "A",
+              "text": "thequickpaceofmodernlife"
+            },
+            {
+              "label": "B",
+              "text": "man’sadventurousspirit"
+            },
+            {
+              "label": "C",
+              "text": "man’ssearchfor mythicalexperiences"
+            },
+            {
+              "label": "D",
+              "text": "theeconomicsituation"
+            }
+          ],
+          "type": "choice"
+        }
+      ],
+      "warnings": [],
+      "text_count": 5,
+      "texts": [
+        {
+          "text_num": 1,
+          "article": "Specialisation can be seen as a response to the problem of an increasing accumulation of scientific\n                                                                                  \n        knowledge. By splitting upthesubject matterintosmallerunits，one man could continueto handlethe\n        information and use it as the basis for further research. But specialisation was only one of a series of\n                                                                                  \n        related developments in science affecting the process of communication. Another was the growing\n                                                                                  \n        professionalisationofscientificactivity.                                  \n           No clear-cut distinction can be drawn between professionals and amateurs in science: exceptions\n                                                                                  \n        can be found to any rule. Nevertheless, the word “amateur” does carry a connotation that the person\n                                                                                  \n        concerned is not fully integrated into the scientific community and, in particular, may not fully share\n        its values. The growth of specialisation in the nineteenth century, with its consequent requirement of a\n                                                                                  \n        longer, more complex training, implied greater problems for amateur participation in science. The\n                                                                                  \n        trend was naturally most obvious in those areas of science based especially on a mathematical or\n        laboratory training, and can be illustrated in terms of the development of geology in the United\n                                                                                  \n        Kingdom.                                                                  \n                                                                                  \n           Acomparison of British geological publications over the last century and a half reveals not simply\n        an increasing emphasis on the primacy of research, but also a changing definition of what constitutes\n                                                                                  \n        an acceptable research paper. Thus, in the nineteenth century, local geological studies represented\n                                                                                  \n        worthwhile research in their own right; but, in the twentieth century, local studies have increasingly\n                                                                                  \n        become acceptable to professionals only if they incorporate, and reflect on, the wider geological\n        picture.Amateurs, on theother hand,have continued to pursuelocal studiesin theoldway.Theoverall\n                                                                                  \n        result has been to make entrance to professional geological journals harder for amateurs, a result that\n                                                                                  \n        has been reinforced by the widespread introduction of refereeing, first by national journals in the\n        nineteenth century and then by several local geological journals in the twentieth century.As a logical\n                                                                                  \n        consequence of this development, separate journals have now appeared aimed mainly towards either\n                                                                                  \n        professional or amateur readership. A rather similar process of differentiation has led to professional\n        geologists coming together nationally within one or two specific societies, whereas the amateurs have\n                                                                                  \n        tendedeithertoremaininlocalsocietiesortocometogethernationallyinadifferentway.\n                                                                                  \n           Although the process of professionalisation and specialisation was already well under way in\n        British geology during the nineteenth century, its full consequences were thus delayed until the\n                                                                                  \n        twentieth century. In science generally, however, the nineteenth century must be reckoned as the\n                                                                                  \n        crucialperiodfor thischangeinthestructureofscience.                       \n                                                                                  \n                                                                                  \n                                                                                  \n                                                                                  \n                                                                                  \n                               英语试题   . 3 . (共 14 页）",
+          "questions": [
+            {
+              "number": 21,
+              "stem": "The growth of specialisation in the 19th century might be more clearly seen in sciences such as\n           _______.",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "sociologyandchemistry"
+                },
+                {
+                  "label": "B",
+                  "text": "physicsandpsychology"
+                },
+                {
+                  "label": "C",
+                  "text": "sociologyandpsychology"
+                },
+                {
+                  "label": "D",
+                  "text": "physicsandchemistry"
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 22,
+              "stem": "Wecaninferfromthepassagethat_______.",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "thereislittledistinctionbetweenspecialisationandprofessionalisation"
+                },
+                {
+                  "label": "B",
+                  "text": "amateurscancompetewithprofessionalsinsomeareasofscience"
+                },
+                {
+                  "label": "C",
+                  "text": "professionalstendtowelcomeamateursintothescientificcommunity"
+                },
+                {
+                  "label": "D",
+                  "text": "amateurshavenationalacademicsocietiesbutnolocalones"
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 23,
+              "stem": "Theauthorwritesofthedevelopmentofgeology todemonstrate______ .",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "theprocessofspecialisationandprofessionalisation"
+                },
+                {
+                  "label": "B",
+                  "text": "thehardshipofamateursinscientificstudy"
+                },
+                {
+                  "label": "C",
+                  "text": "thechangeofpoliciesinscientificpublications"
+                },
+                {
+                  "label": "D",
+                  "text": "thediscriminationofprofessionalsagainstamateurs"
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 24,
+              "stem": "Thedirectreasonforspecialisationis_______.",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "thedevelopmentincommunication"
+                },
+                {
+                  "label": "B",
+                  "text": "thegrowthofprofessionalisation"
+                },
+                {
+                  "label": "C",
+                  "text": "theexpansionofscientificknowledge"
+                },
+                {
+                  "label": "D",
+                  "text": "thesplittingupofacademicsocieties 英语试题 . 4 . (共 14 页）"
+                }
+              ],
+              "type": "choice"
+            }
+          ]
+        },
+        {
+          "text_num": 2,
+          "article": "A great deal of attention is being paid today to the so-called digital divide — the division of\n                                                                                  \n        the world into the info (information) rich and the info poor. And that divide does exist today. My wife\n                                                                                  \n        and I lectured about this looming danger twenty years ago. What was less visible then, however, were\n        the new, positive forces that work against the digital divide. There are reasons to be optimistic.\n                                                                                  \n           There are technological reasons to hope the digital divide will narrow. As the Internet becomes\n                                                                                  \n        more and more commercialized, it is in the interest of business to universalize access — after all,\n                                                                                  \n        the more people online, the more potential customers there are. More and more governments, afraid\n                                                                                  \n        their countries will be left behind, want to spread Internet access. Within the next decade or two, one\n        to two billion people on the planet will he netted together. As a result, I now believe the digital\n                                                                                  \n        divide will narrow rather than widen in the years ahead. And that is very good news because the\n                                                                                  \n        Internet may well be the most powerful tool for combating world poverty that we’ve ever had.\n                                                                                  \n           Of course, the use of the Internet isn’t the only way to defeat poverty. And the Internet is not the\n                                                                                  \n        only tool we have. But it has enormous potential.                         \n           To take advantage of this tool, some impoverished countries will have to get over their outdated\n                                                                                  \n        anti-colonial prejudices with respect to foreign investment. Countries that still think foreign investment\n                                                                                  \n        is an invasion of their sovereignty might well study the history of infrastructure（the basic structural\n                                                                                  \n        foundations of a society）in the United States. When the United States built its industrial infrastructure,\n                                                                                  \n        it didn’t have the capital to do so. And that is why America’s Second Wave infrastructure-including\n        roads, harbors, highways, ports and so on-were built with foreign investment. The English, the\n                                                                                  \n        Germans, the Dutch and the French were investing in Britain’s former colony. They financed them.\n                                                                                  \n        Immigrant Americans built them. Guess who owns them now? The Americans. I believe the same\n                                                                                  \n        thing would be true in places like Brazil or anywhere else for that matter. The more foreign capital you\n                                                                                  \n        have helping you build your Third Wave infrastructure, which today is an electronic infrastructure, the\n        better off you’re going to be. That doesn't mean lying down and becoming fooled, or letting foreign\n                                                                                  \n        corporations run uncontrolled. But it does mean recognizing how important they can be in building the\n                                                                                  \n        energy and telecom infrastructures needed to take full advantage of the Internet.\n                                                                                  \n                                                                                  \n                                                                                  \n                                                                                  \n                                                                                  \n                                                                                  \n                                                                                  \n                                                                                  \n                                                                                  \n                               英语试题   . 5 . (共 14 页）",
+          "questions": [
+            {
+              "number": 25,
+              "stem": "Digitaldivideissomething_______.",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "gettingworsebecauseoftheInternet"
+                },
+                {
+                  "label": "B",
+                  "text": "therichcountriesareresponsiblefor"
+                },
+                {
+                  "label": "C",
+                  "text": "theworldmustguardagainst"
+                },
+                {
+                  "label": "D",
+                  "text": "consideredpositivetoday"
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 26,
+              "stem": "GovernmentsattachimportancetotheInternetbecauseit_______.",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "offerseconomicpotentials"
+                },
+                {
+                  "label": "B",
+                  "text": "canbringforeign funds"
+                },
+                {
+                  "label": "C",
+                  "text": "cansoonwipeoutworldpoverty"
+                },
+                {
+                  "label": "D",
+                  "text": "connectspeopleallover theworld"
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 27,
+              "stem": "ThewritermentionedthecaseoftheUnitedStatestojustifythepolicyof_______.",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "providingfinancialsupportoverseas"
+                },
+                {
+                  "label": "B",
+                  "text": "preventingforeigncapital’scontrol"
+                },
+                {
+                  "label": "C",
+                  "text": "buildingindustrialinfrastructure"
+                },
+                {
+                  "label": "D",
+                  "text": "acceptingforeign investment"
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 28,
+              "stem": "It seemsthatnowacountry’seconomydepandsmuchon______.",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "howwell-developeditiselectronically"
+                },
+                {
+                  "label": "B",
+                  "text": "whetheritisprejudicedagainstimmigrants"
+                },
+                {
+                  "label": "C",
+                  "text": "whetheritadoptsAmerica’sindustrialpattern"
+                },
+                {
+                  "label": "D",
+                  "text": "howmuchcontrolithasoverforeign corporations"
+                }
+              ],
+              "type": "choice"
+            }
+          ]
+        },
+        {
+          "text_num": 3,
+          "article": "Why do so many Americans distrust what they read in their newspapers? The American Society of\n                                                                                  \n        Newspaper Editors is trying to answer this painful question. The organization is deep into a long\n                                                                                  \n        self-analysis known as the journalism credibility project.                \n           Sad to say, this project has turned out to be mostly low-level findings about factual errors and\n                                                                                  \n        spelling and grammar mistakes, combined with lots of head-scratching puzzlement about what in\n                                                                                  \n        the world those readers really want.                                      \n                                                                                  \n           But the sources of distrust go way deeper. Most journalists learn to see the world through a set of\n                                                                                  \n        standard templates (patterns) into which they plug each day’s events. In other words, there is a\n        conventional story line in the newsroom culture that provides a backbone and a ready-made narrative\n                                                                                  \n        structure for otherwise confusions news.                                  \n                                                                                  \n           There exists a social and cultural disconnect between journalists and their readers which helps\n                                                                                  \n        explain why the “standard templates”of the newsroom seem alien many readers. In a recent survey,\n                                                                                  \n        questionnaires were sent to reporters in five middle size cities around the country, plus one large\n        metropolitan area. Then residents in these communities were phoned at random and asked the same\n                                                                                  \n        questions.                                                                \n                                                                                  \n           Replies show that compared with other Americans, journalists are more likely to live in upscale\n                                                                                  \n        neighborhoods, have maids, own Mercedeses, and trade stocks, and they’re less likely to go to church,\n                                                                                  \n        do volunteer work, or put down roots in community.                        \n           Reporters tend to be part of a broadly defined social and cultural elite, so their work tends to\n                                                                                  \n        reflect the conventional values of this elite. The astonishing distrust of the news media isn’t rooted in\n                                                                                  \n        inaccuracy or poor reportorial skills but in the daily clash of world views between reporters and their\n                                                                                  \n        readers.                                                                  \n                                                                                  \n           This is an explosive situation for any industry, particularly a declining one. Here is a troubled\n        business that keeps hiring employees whose attitudes vastly annoy the customers. Then it sponsors lots\n                                                                                  \n        of symposiums and a credibility project dedicated to wondering why customers are annoyed and\n                                                                                  \n        fleeing in large numbers. But it never seems to get around to noticing the cultural and class biases that\n                                                                                  \n        so many former buyers are complaining about. If it did, it would open up its diversity program, now\n                                                                                  \n        focused narrowly on race and gender, and look for reporters who differ broadly by outlook, values,\n        education, and class.                                                     \n                                                                                  \n                                                                                  \n                                                                                  \n                                                                                  \n                               英语试题   . 7 . (共 14 页）",
+          "questions": [
+            {
+              "number": 29,
+              "stem": "Whatisthepassagemainlyabout?",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "needsofthereadersallovertheworld."
+                },
+                {
+                  "label": "B",
+                  "text": "causesofthepublicdisappointmentaboutnewspapers."
+                },
+                {
+                  "label": "C",
+                  "text": "originsofthedecliningnewspaperindustry."
+                },
+                {
+                  "label": "D",
+                  "text": "aimsofajournalismcredibilityproject."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 30,
+              "stem": "Theresultsofthejournalismcredibilityprojectturnedouttobe______.",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "quitetrustworthy"
+                },
+                {
+                  "label": "B",
+                  "text": "somewhatcontradictory"
+                },
+                {
+                  "label": "C",
+                  "text": "veryilluminating"
+                },
+                {
+                  "label": "D",
+                  "text": "rathersuperficial"
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 31,
+              "stem": "Thebasicproblemofjournalistsaspointedoutbythewriterliesintheir______.",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "workingattitude"
+                },
+                {
+                  "label": "B",
+                  "text": "conventionallifestyle"
+                },
+                {
+                  "label": "C",
+                  "text": "worldoutlook"
+                },
+                {
+                  "label": "D",
+                  "text": "educationalbackground"
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 32,
+              "stem": "Despiteitsefforts, thenewspaperindustrystillcannotsatisfythereadersowingtoits_______.",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "failuretorealizeitsrealproblem"
+                },
+                {
+                  "label": "B",
+                  "text": "tendencytohireannoyingreporters"
+                },
+                {
+                  "label": "C",
+                  "text": "likelinesstodoinaccuratereporting"
+                },
+                {
+                  "label": "D",
+                  "text": "prejudiceinmattersofraceandgender"
+                }
+              ],
+              "type": "choice"
+            }
+          ]
+        },
+        {
+          "text_num": 4,
+          "article": "The world is going through the biggest wave of mergers and acquisitions ever witnessed. The\n                                                                                  \n        process sweeps from hyperactive America to Europe and reaches the emerging countries with\n        unsurpassed might. Many in these countries are looking at this process and worrying: \"Won't the wave\n                                                                                  \n        ofbusinessconcentrationturnintoanuncontrollableanti-competitiveforce?\"    \n                                                                                  \n           There's no question that the big are getting bigger and more powerful. Multinational corporations\n        accounted for less than 20% of international trade in 1982. Today the figure is more than 25% and\n                                                                                  \n        growing rapidly. International affiliates account for a fast-growing segment of production in\n                                                                                  \n        economies that open up and welcome foreign investment. In Argentina, for instance, after the reforms\n        of the early 1990s, multinationals went from 43% to almost 70% of the industrial production of the\n                                                                                  \n        200 largest firms. This phenomenon has created serious concerns over the role of smaller economic\n                                                                                  \n        firms,ofnationalbusinessmenandovertheultimatestabilityoftheworldeconomy.  \n           I believe that the most important forces behind the massive M&Awave are the same that underlie\n                                                                                  \n        the globalization process: falling transportation and communication costs, lower trade and investment\n                                                                                  \n        barriers and enlarged markets that require enlarged operations capable of meeting customers' demands.\n        All these are beneficial, not detrimental, to consumers. As productivity grows, the world's wealth\n                                                                                  \n        increases.                                                                \n                                                                                  \n           Examples of benefits or costs of the current concentration wave are scanty. Yet it is hard to\n                                                                                  \n        imagine that the merger of a few oil firms today could re-create the same threats to competition that\n        were feared nearly a century ago in the U.S., when the Standard Oil trust was broken up. The mergers\n                                                                                  \n        of telecom companies, such as WorldCom, hardly seem to bring higher prices for consumers or a\n                                                                                  \n        reduction in the pace of technical progress. On the contrary, the price of communications is coming\n        down fast. In cars, too, concentration is increasing-witness Daimler and Chrysler, Renault and\n                                                                                  \n        Nissan-butitdoesnotappearthatconsumersarebeinghurt.                       \n                                                                                  \n           Yet the fact remains that the merger movement must be watched. A few weeks ago, Alan\n        Greenspan warned against the megamergers in the banking industry. Who is going to supervise,\n                                                                                  \n        regulate and operate as lender of last resort with the gigantic banks that are being created? Won't\n                                                                                  \n        multinationals shift production from one place to another when a nation gets too strict about\n        infringements to fair competition? And should one country take upon itself the role of “defending\n                                                                                  \n        competition”onissuesthataffectmanyothernations,asintheUS.vs.Microsoftcase?\n                                                                                  \n                                                                                  \n                                                                                  \n                                                                                  \n                                                                                  \n                                                                                  \n                                                                                  \n                               英语试题   . 9 . (共 14 页）",
+          "questions": [
+            {
+              "number": 33,
+              "stem": "Whatisthetypicaltrendofbusinessestoday?",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "totakeinmoreforeignfunds."
+                },
+                {
+                  "label": "B",
+                  "text": "toinvestmoreabroad."
+                },
+                {
+                  "label": "C",
+                  "text": "tocombineandbecomebigger."
+                },
+                {
+                  "label": "D",
+                  "text": "totradewithmorecountries."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 34,
+              "stem": "Accordingtotheauthor,oneofthedrivingforcesbehindM&Awaveis______.",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "thegreatercustomerdemands."
+                },
+                {
+                  "label": "B",
+                  "text": "asurplussupplyfor themarket."
+                },
+                {
+                  "label": "C",
+                  "text": "agrowing productivity."
+                },
+                {
+                  "label": "D",
+                  "text": "theincreaseoftheworld'swealth."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 35,
+              "stem": "Fromparagraph4wecaninferthat______ .",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "theincreasingconcentrationiscertaintohurtconsumers"
+                },
+                {
+                  "label": "B",
+                  "text": "WorldComservesasagood exampleof bothbenefitsandcosts"
+                },
+                {
+                  "label": "C",
+                  "text": "thecostsoftheglobalizationprocessareenormous"
+                },
+                {
+                  "label": "D",
+                  "text": "theStandardOiltrustmighthavethreatenedcompetition"
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 36,
+              "stem": "Towardthenewbusinesswave, thewriter'sattitudecanhesaidtobe_______.",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "optimistic"
+                },
+                {
+                  "label": "B",
+                  "text": "objective"
+                },
+                {
+                  "label": "C",
+                  "text": "pessimistic"
+                },
+                {
+                  "label": "D",
+                  "text": "biased"
+                }
+              ],
+              "type": "choice"
+            }
+          ]
+        },
+        {
+          "text_num": 5,
+          "article": "When I decided to quit my full time employment it never occurred to me that I might become a\n                                                                                  \n        part of a new international trend. A lateral move that hurt my pride and blocked my professional\n                                                                                  \n        progress prompted me to abandon my relatively high profile career although, in the manner of a\n        disgraced government minister, I covered my exit by claiming “I wanted to spend more time with my\n                                                                                  \n        family”.                                                                  \n                                                                                  \n           Curiously, some two-and-a-half years and two novels later, my experiment in what theAmericans\n                                                                                  \n        term “downshifting”has turned my tired excuse into an absolute reality. I have been transformed from\n                                                                                  \n        a passionate advocate of the philosophy of “having it all”, preached by Linda Kelsey for the past\n        sevenyearsinthepagesofShemagazine,intoawomanwhoishappytosettlefor abitofeverything.\n                                                                                  \n           I have discovered, as perhaps Kelsey will after her much-publicized resignation from the\n                                                                                  \n        editorship of She after a build-up of stress, that abandoning the doctrine of “juggling your life”, and\n                                                                                  \n        making the alternative move into “downshifting” brings with it far greater rewards than financial\n                                                                                  \n        success and social status. Nothing could persuade me to return to the kind of life Kelsey used to\n        advocate and I once enjoyed: 12-hour working days, pressured deadlines, the fearful strain of office\n                                                                                  \n        politicsandthelimitationsofbeingaparenton“qualitytime”.                   \n                                                                                  \n           In America, the move away from juggling to a simpler, less materialistic lifestyle is a\n                                                                                  \n        well-established trend. Downshifting-also known in America as “voluntary simplicity” has, ironically,\n                                                                                  \n        even bred a new area of what might be termed anticonsumerism. There are a number of bestselling\n        downshifting self-help books for people who want to simplify their lives; there are newsletter's, such\n                                                                                  \n        as The Tightwad Gazette, that give hundreds of thousands of Americans useful tips on anything from\n                                                                                  \n        recycling their cling-film to making their own soap; there are even support groups for those who want\n                                                                                  \n        toachievethemid-'90sequivalentofdroppingout.                              \n                                                                                  \n           While in America the trend started as a reaction to the economic decline— after the mass\n        redundancies caused by downsizing in the late’80s—and is still linked to the politics of thrift, in\n                                                                                  \n        Britain, at least among the middle-class downshifters of my acquaintance, we have different reasons\n                                                                                  \n        forseekingtosimplifyourlives.                                             \n                                                                                  \n           For the women of my generation who were urged to keep juggling through the’80s, downshifting\n                                                                                  \n        in the mid-'90s is not so much a search for the mythical good life—growing your own organic\n        vegetables,andriskingturningintoone—asapersonalrecognitionofyourlimitations.\n                                                                                  \n                                                                                  \n                                                                                  \n                                                                                  \n                               英语试题   . 11 . (共 14 页）",
+          "questions": [
+            {
+              "number": 37,
+              "stem": "Whichofthefollowingistrueaccordingtoparagraph1?",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "Full-timeemploymentisanewinternationaltrend."
+                },
+                {
+                  "label": "B",
+                  "text": "Thewriterwascompelledbycircumstancestoleaveherjob."
+                },
+                {
+                  "label": "C",
+                  "text": "“Alateralmove”meanssteppingoutoffull-timeemployment."
+                },
+                {
+                  "label": "D",
+                  "text": "Thewriterwasonlytooeagertospendmoretimewithherfamily."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 38,
+              "stem": "Thewriter’sexperimentshowsthatdownshifting .",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "enableshertorealizeherdream"
+                },
+                {
+                  "label": "B",
+                  "text": "helpshermoldanewphilosophyoflife"
+                },
+                {
+                  "label": "C",
+                  "text": "promptshertoabandonherhighsocialstatus"
+                },
+                {
+                  "label": "D",
+                  "text": "leadshertoacceptthedoctrineofShemagazine"
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 39,
+              "stem": "“Jugglingone’slife”probablymeanslivingalifecharacterizedby .",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "non-materialisticlifestyle"
+                },
+                {
+                  "label": "B",
+                  "text": "abitof everything"
+                },
+                {
+                  "label": "C",
+                  "text": "extremestress"
+                },
+                {
+                  "label": "D",
+                  "text": "anti-consumerism"
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 40,
+              "stem": "Accordingtothepassage,downshiftingemergedintheU.S.asaresultof .",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "thequickpaceofmodernlife"
+                },
+                {
+                  "label": "B",
+                  "text": "man’sadventurousspirit"
+                },
+                {
+                  "label": "C",
+                  "text": "man’ssearchfor mythicalexperiences"
+                },
+                {
+                  "label": "D",
+                  "text": "theeconomicsituation"
+                }
+              ],
+              "type": "choice"
+            }
+          ]
+        }
+      ]
+    },
+    "new-type": {
+      "name": "Part B 阅读新题型",
+      "type": "new_type",
+      "question_range": [
+        41,
+        45
+      ],
+      "text": "",
+      "article": "",
+      "questions": [],
+      "warnings": [
+        "未找到题目"
+      ]
+    },
+    "translation": {
+      "name": "C节 翻译",
+      "type": "translation",
+      "question_range": [
+        46,
+        50
+      ],
+      "text": "46. Directions:                                                           \n           Among all the worthy feelings of mankind, love is probably the noblest, but everyone has his/her\n                 ",
+      "article": "PartB\ntranslationshouldbewrittenclearlyonANSWERSHEET2.(15points)\nIn less than 30 years’ time the Star Trek holodeck will be a reality. Direct links between the\nbrain’s nervous system and a computer will also create full sensory virtual environments, allowing\nvirtualvacationslikethoseinthefilmTotalRecall.\n41）There will be television chat shows hosted by robots, and cars with pollution monitors that\nwilldisablethemwhen theyoffend. 42）Childrenwillplaywithdollsequippedwithpersonality chips,\ncomputers with in-built personalities will be regarded as workmates rather than tools, relaxation will\nbeinfront ofsmelltelevision,anddigitalagewillhavearrived.\nAccording to BT’s futurologist, Ian Pearson, these are among the developments scheduled for the\nfirst few decades of the new millennium（a period of 1,000 years）, when supercomputers will\ndramaticallyaccelerateprogressinallareasoflife.\n43）Pearsonhaspiecedtogetherthework ofhundredsof researchersaroundtheworldtoproduce\na unique millennium technology calendar that gives the latest dates when we can expect hundreds of\nkey breakthroughs and discoveries to take place. Some of the biggest developments will be in\nmedicine, including an extended life expectancy and dozens of artificial organs coming into use\nbetweennowand2040.\nPearson also predicts a breakthrough in computer-human links. “By linking directly to our\nnervous system, computers could pick up what we feel and, hopefully, simulate feeling too so that we\ncan start to develop full sensory environments, rather like the holidays in Total Recall or the Star Trek\nholodeck, ” he says. 44）But that, Pearson points out, is only the start of man-machine integration: “It\nwill be the beginning of the long process of integration that will ultimately lead to a fully electronic\nhumanbeforetheendofthenextcentury.”\nThrough his research, Pearson is able to put dates to most of the breakthroughs that can be\npredicted. However, there are still no forecasts for when faster-than-light travel will be available, or\nwhen human cloning will be perfected, or when time travel will be possible. But he does expect social\nproblemsas a result of technological advances.Aboom in neighborhood surveillance cameras will, for\nexample, cause problems in 2010, while the arrival of synthetic lifelike robots will mean people may\nnotbeabletodistinguishbetweentheirhumanfriendsandthedroids.\n45）And home appliances will also become so smart that controlling and operating them will result in\nthebreakoutofanewpsychologicaldisorder—kitchenrage.\nSection Ⅲ Writing",
+      "questions": [
+        {
+          "number": 46,
+          "stem": "Directions:",
+          "choices": [],
+          "type": "translation"
+        },
+        {
+          "number": 47,
+          "stem": "第47题（未提取到内容）",
+          "choices": [],
+          "type": "translation",
+          "warning": true
+        },
+        {
+          "number": 48,
+          "stem": "第48题（未提取到内容）",
+          "choices": [],
+          "type": "translation",
+          "warning": true
+        },
+        {
+          "number": 49,
+          "stem": "第49题（未提取到内容）",
+          "choices": [],
+          "type": "translation",
+          "warning": true
+        },
+        {
+          "number": 50,
+          "stem": "第50题（未提取到内容）",
+          "choices": [],
+          "type": "translation",
+          "warning": true
+        }
+      ],
+      "warnings": []
+    },
+    "writing-a": {
+      "name": "A节 应用文写作",
+      "type": "writing_small",
+      "question_range": [
+        51,
+        51
+      ],
+      "text": "",
+      "article": "",
+      "questions": [],
+      "warnings": [
+        "未找到题目"
+      ]
+    },
+    "writing-b": {
+      "name": "B节 短文写作",
+      "type": "writing_big",
+      "question_range": [
+        52,
+        52
+      ],
+      "text": "",
+      "article": "",
+      "questions": [],
+      "warnings": [
+        "未找到题目"
+      ]
+    }
+  }
+}

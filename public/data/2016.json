@@ -1,0 +1,1574 @@
+{
+  "year": 2016,
+  "filename": "2016.pdf",
+  "era": "era3",
+  "era_label": "第三阶段+(2005至今 英一)",
+  "total_pages": 15,
+  "max_question_number": 52,
+  "found_question_count": 52,
+  "extracted_question_count": 52,
+  "sections": {
+    "cloze": {
+      "name": "Section I 完形填空",
+      "type": "cloze",
+      "question_range": [
+        1,
+        20
+      ],
+      "text": "1.[A]aswellas  [B]bywayof   [C]onbehalfof [D]withregardto       \n          2.[A]adaptto   [B]providefor [C]competewith [D]decideon         \n                                                            ",
+      "article": "Section I Use of English\nmarkA, B,CorDontheANSWERSHEET.(10points)\nIn Cambodia, thechoiceof a spouse isa complex onefor theyoung male.It may\ninvolve not only his parents and his friends, 1 those of the young woman,\nbut also a matchmaker.Ayoung man can 2 a likely spouse on his own and\nthen ask his parents to 3 the marriage negotiations, or the young man’s\nparents may make the choice of a spouse, giving the child little to say in the\nselection. 4 , a girl may veto the spouse her parents have chosen. 5 a\nspouse has been selected, each family investigates the other to make sure its child is\nmarrying 6  agoodfamily.\nThe traditional wedding is a long and colorful affair. Formerly it lasted three\ndays,  7   by the 1980s it more commonly lasted a day and a half. Buddhist\npriests offer a short sermon and 8 prayers of blessing. Parts of the ceremony\ninvolve ritual hair cutting, 9 cotton threads soaked in holy water around\nthe bride’s and groom’s wrists, and 10 a candle around a circle of happily\nmarried and respected couples to bless the 11 . Newlyweds traditionally move\nin with the wife’s parents and may 12 with them up to a year, 13 they\ncanbuildanewhousenearby.\nDivorce is legal and easy to 14 , but not common. Divorced persons are\n15 with some disapproval. Each spouse retains 16 property he or she\nG 17  into the marriage, and jointly-acquired property is 18 equally.\nDivorced persons may remarry, but a gender prejudice 19 up: The divorced\nmale doesn’t have a waiting period before he can remarry 20 the woman\nmustwaittenmonths.",
+      "questions": [
+        {
+          "number": 1,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "aswellas"
+            },
+            {
+              "label": "B",
+              "text": "bywayof"
+            },
+            {
+              "label": "C",
+              "text": "onbehalfof"
+            },
+            {
+              "label": "D",
+              "text": "withregardto"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 2,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "adaptto"
+            },
+            {
+              "label": "B",
+              "text": "providefor"
+            },
+            {
+              "label": "C",
+              "text": "competewith"
+            },
+            {
+              "label": "D",
+              "text": "decideon"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 3,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "renew"
+            },
+            {
+              "label": "B",
+              "text": "close"
+            },
+            {
+              "label": "C",
+              "text": "arrange"
+            },
+            {
+              "label": "D",
+              "text": "postpone"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 4,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "In theory"
+            },
+            {
+              "label": "B",
+              "text": "In time"
+            },
+            {
+              "label": "C",
+              "text": "Aboveall"
+            },
+            {
+              "label": "D",
+              "text": "Forexample"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 5,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "Although"
+            },
+            {
+              "label": "B",
+              "text": "Lest"
+            },
+            {
+              "label": "C",
+              "text": "After"
+            },
+            {
+              "label": "D",
+              "text": "Unless"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 6,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "within"
+            },
+            {
+              "label": "B",
+              "text": "into"
+            },
+            {
+              "label": "C",
+              "text": "from"
+            },
+            {
+              "label": "D",
+              "text": "through"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 7,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "since"
+            },
+            {
+              "label": "B",
+              "text": "or"
+            },
+            {
+              "label": "C",
+              "text": "so"
+            },
+            {
+              "label": "D",
+              "text": "but"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 8,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "test"
+            },
+            {
+              "label": "B",
+              "text": "recite"
+            },
+            {
+              "label": "C",
+              "text": "copy"
+            },
+            {
+              "label": "D",
+              "text": "create"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 9,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "folding"
+            },
+            {
+              "label": "B",
+              "text": "piling"
+            },
+            {
+              "label": "C",
+              "text": "wrapping"
+            },
+            {
+              "label": "D",
+              "text": "tying"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 10,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "passing"
+            },
+            {
+              "label": "B",
+              "text": "lighting"
+            },
+            {
+              "label": "C",
+              "text": "hiding"
+            },
+            {
+              "label": "D",
+              "text": "serving"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 11,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "association"
+            },
+            {
+              "label": "B",
+              "text": "meeting"
+            },
+            {
+              "label": "C",
+              "text": "collection"
+            },
+            {
+              "label": "D",
+              "text": "union"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 12,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "grow"
+            },
+            {
+              "label": "B",
+              "text": "part"
+            },
+            {
+              "label": "C",
+              "text": "live"
+            },
+            {
+              "label": "D",
+              "text": "deal"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 13,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "whereas"
+            },
+            {
+              "label": "B",
+              "text": "until"
+            },
+            {
+              "label": "C",
+              "text": "for"
+            },
+            {
+              "label": "D",
+              "text": "if"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 14,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "follow"
+            },
+            {
+              "label": "B",
+              "text": "obtain"
+            },
+            {
+              "label": "C",
+              "text": "challenge"
+            },
+            {
+              "label": "D",
+              "text": "avoid"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 15,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "isolated"
+            },
+            {
+              "label": "B",
+              "text": "persuaded"
+            },
+            {
+              "label": "C",
+              "text": "viewed"
+            },
+            {
+              "label": "D",
+              "text": "exposed"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 16,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "whatever"
+            },
+            {
+              "label": "B",
+              "text": "however"
+            },
+            {
+              "label": "C",
+              "text": "whenever"
+            },
+            {
+              "label": "D",
+              "text": "wherever"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 17,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "changed"
+            },
+            {
+              "label": "B",
+              "text": "brought"
+            },
+            {
+              "label": "C",
+              "text": "shaped"
+            },
+            {
+              "label": "D",
+              "text": "pushed"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 18,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "withdrawn"
+            },
+            {
+              "label": "B",
+              "text": "invested"
+            },
+            {
+              "label": "C",
+              "text": "donated"
+            },
+            {
+              "label": "D",
+              "text": "divided"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 19,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "clears"
+            },
+            {
+              "label": "B",
+              "text": "shows"
+            },
+            {
+              "label": "C",
+              "text": "warms"
+            },
+            {
+              "label": "D",
+              "text": "breaks"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 20,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "while"
+            },
+            {
+              "label": "B",
+              "text": "once"
+            },
+            {
+              "label": "C",
+              "text": "sothat"
+            },
+            {
+              "label": "D",
+              "text": ""
+            }
+          ],
+          "type": "choice"
+        }
+      ],
+      "warnings": []
+    },
+    "reading-a": {
+      "name": "Section II 阅读A节",
+      "type": "reading",
+      "question_range": [
+        21,
+        40
+      ],
+      "text": " but a gender prejudice 19 up: The divorced\n                                                                          \n          male doesn’t have a waiting period before he can remarry 20 the woman\n ",
+      "article": "France, which prides itself as the global innovator of fashion, has decided its\n          fashion industry has lost an absolute right to define physical beauty for women. Its\n          lawmakers gave preliminary approval last week to a law that would make it a\n                                                                          \n          crime to employ ultra-thin models on runways. The parliament also agreed to ban\n          websitesthat“inciteexcessivethinness”bypromotingextremedieting. \n             Such measures have a couple of uplifting motives. They suggest beauty\n          should not be defined by looks that end up impinging on health. That’s a start.\n                                                                          \n          And the ban on ultra-thin models seems to go beyond protecting models from\n          starving themselves to death – as some have done. It tells the fashion industry that\n          it must take responsibility for the signal it sends women, especially teenage girls,\n                                                                          \n          aboutthesocialtape-measuretheymustusetodeterminetheirindividualworth.\n             The bans, if fully enforced, would suggest to women (and many men) that\n          they should not let others be arbiters of their beauty. And perhaps faintly, they\n          hint that people should look to intangible qualities like character and intellect\n                                                                          \n          rather thandietingtheirwaytosizezeroorwasp-waistphysiques.      \n             The French measures, however, rely too much on severe punishment to\n          change a culture that still regards beauty as skin-deep – and bone-showing. Under\n          the law, using a fashion model that does not meet a government-defined index of\n                                                                          \n          bodymasscouldresultina$85,000fineandsixmonthsinprison.          \n             The fashion industry knows it has an inherent problem in focusing on\n          material adornment and idealized body types. In Denmark, the United States, and\n          a few other countries, it is trying to set voluntary standards for models and fashion\n                                                                          \n          imagesthatrelymoreonpeerpressurefor enforcement.                \n             In contrast to France’s actions, Denmark’s fashion industry agreed last month\n          on rules and sanctions regarding the age, health, and other characteristics of\n                                                                          \n          models. The newly revised Danish Fashion Ethical Charter clearly states: “We are\n          aware of and take responsibility for the impact the fashion industry has on body\n          ideals, especially on young people.” The charter’s main tool of enforcement is to\n          deny access for designers and modeling agencies to Copenhagen Fashion Week\n                                                                          \n          (CFW), which is run by the Danish Fashion Institute. But in general it relies on a\n          name-and-shamemethodofcompliance.                               \n             Relying on ethical persuasion rather than law to address the misuse of body\n          ideals may be the best step. Even better would be to help elevate notions of beauty\n                                                                          \n          beyondthematerialstandardsofaparticularindustry.                \n                                                                          \n                          英语（一）试题      .3. （共14页）\n\nFor the first time in history more people live in towns than in the country. In\n                                                                          \n          Britain this has had a curious result.While polls show Britons rate “the countryside”\n          alongside the royal family, Shakespeare and the National Health Service (NHS) as\n          whatmakesthemproudestoftheircountry,thishaslimitedpoliticalsupport.\n             A century ago Octavia Hill launched the National Trust not to rescue stylish\n          houses but to save “the beauty of natural places for everyone forever.” It was\n          specifically to provide city dwellers with spaces for leisure where they could\n                                                                          \n          experience “a refreshing air.” Hill’s pressure later led to the creation of national\n          parks and green belts. They don’t make countryside any more, and every year\n          concreteconsumesmoreofit.Itneedsconstantguardianship.           \n             At the next election none of the big parties seem likely to endorse this\n          sentiment. The Conservatives’ planning reform explicitly gives rural development\n          priority over conservation, even authorising “off-plan” building where local\n                                                                          \n          people might object. The concept of sustainable development has been defined as\n          profitable. Labour likewise wants to discontinue local planning where councils\n          oppose development. The Liberal Democrats are silent. Only Ukip, sensing its\n          chance, has sided with those pleading for a more considered approach to using\n          green land. Its Campaign to Protect Rural England struck terror into many local\n                                                                          \n          Conservativeparties.                                            \n             The sensible place to build new houses, factories and offices is where people\n          are, in cities and towns where infrastructure is in place. The London agents\n          Stirling Ackroyd recently identified enough sites for half a million houses in the\n          London area alone, with no intrusion on green belt. What is true of London is\n          even trueroftheprovinces.                                       \n                                                                          \n             The idea that “housing crisis” equals “concreted meadows” is pure lobby talk.\n          The issue is not the need for more houses but, as always, where to put them. Under\n          lobby pressure, George Osborne favours rural new-build against urban renovation\n          and renewal. He favours out-of-town shopping sites against high streets. This is\n          not a free market but a biased one. Rural towns and villages have grown and will\n          always grow. They do so best where building sticks to their edges and respects\n                                                                          \n          their character.Wedonotruinurbanconservationareas.Whyruinruralones?\n             Development should be planned, not let rip. After the Netherlands, Britain is\n          Europe’s most crowded country. Half a century of town and country planning has\n          enabled it to retain an enviable rural coherence, while still permitting low-density\n          urban living. There is no doubt of the alternative – the corrupted landscapes of\n          southern Portugal, Spain or Ireland. Avoiding this rather than promoting it should\n                                                                          \n          unitetheleftandrightofthepoliticalspectrum.                     \n                                                                          \n                          英语（一）试题      .5. （共14页）\n\n“There is one and only one social responsibility of business,” wrote Milton\n          Friedman, a Nobel prize-winning economist, “That is, to use its resources and\n          engage in activities designed to increase its profits.” But even if you accept\n          Friedman’s premise and regard corporate social responsibility (CSR) policies as a\n          waste ",
+      "questions": [
+        {
+          "number": 21,
+          "stem": "Accordingtothefirstparagraph,whatwouldhappeninFrance?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "Physicalbeautywouldberedefined."
+            },
+            {
+              "label": "B",
+              "text": "Newrunwayswouldbeconstructed."
+            },
+            {
+              "label": "C",
+              "text": "Websitesaboutdietingwouldthrive."
+            },
+            {
+              "label": "D",
+              "text": "Thefashionindustrywoulddecline."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 22,
+          "stem": "Thephrase“impingingon”(Line2,Para.2)isclosestinmeaningto",
+          "choices": [
+            {
+              "label": "A",
+              "text": "indicatingthestateof."
+            },
+            {
+              "label": "B",
+              "text": "heighteningthevalueof."
+            },
+            {
+              "label": "C",
+              "text": "losingfaithin."
+            },
+            {
+              "label": "D",
+              "text": "doingharmto."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 23,
+          "stem": "Whichofthefollowingistrueofthefashionindustry?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "TheFrenchmeasureshavealreadyfailed."
+            },
+            {
+              "label": "B",
+              "text": "Itsinherentproblemsaregettingworse."
+            },
+            {
+              "label": "C",
+              "text": "Modelsarenolongerunderpeerpressure."
+            },
+            {
+              "label": "D",
+              "text": "NewstandardsarebeingsetinDenmark."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 24,
+          "stem": "AdesignerismostlikelytoberejectedbyCFWfor",
+          "choices": [
+            {
+              "label": "A",
+              "text": "pursuingperfectphysicalconditions."
+            },
+            {
+              "label": "B",
+              "text": "caringtoomuchaboutmodels’character."
+            },
+            {
+              "label": "C",
+              "text": "showinglittleconcernfor healthfactors."
+            },
+            {
+              "label": "D",
+              "text": "settingahighagethresholdfor models."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 25,
+          "stem": "Whichofthefollowingmaybethebesttitleofthetext?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "TheGreatThreatstotheFashionIndustry"
+            },
+            {
+              "label": "B",
+              "text": "JustAnotherRoundofStrugglefor Beauty"
+            },
+            {
+              "label": "C",
+              "text": "ADilemmafor theStarvingModelsinFrance"
+            },
+            {
+              "label": "D",
+              "text": "AChallengetotheFashionIndustry’sBodyIdeals 英语（一）试题 .4. （共14页）"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 26,
+          "stem": "Britain’spublicsentimentaboutthecountryside",
+          "choices": [
+            {
+              "label": "A",
+              "text": "isnotwellreflectedinpolitics."
+            },
+            {
+              "label": "B",
+              "text": "isfullybackedbytheroyalfamily."
+            },
+            {
+              "label": "C",
+              "text": "didn’tstarttilltheShakespeareanage."
+            },
+            {
+              "label": "D",
+              "text": "hasbroughtmuchbenefittotheNHS."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 27,
+          "stem": "AccordingtoParagraph2,theachievementsoftheNationalTrustarenowbeing",
+          "choices": [
+            {
+              "label": "A",
+              "text": "largelyovershadowed."
+            },
+            {
+              "label": "B",
+              "text": "properlyprotected."
+            },
+            {
+              "label": "C",
+              "text": "effectivelyreinforced."
+            },
+            {
+              "label": "D",
+              "text": "graduallydestroyed."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 28,
+          "stem": "WhichofthefollowingcanbeinferredfromParagraph3?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "Labourisunderattackfor opposingdevelopment."
+            },
+            {
+              "label": "B",
+              "text": "TheConservativesmayabandon“off-plan”building."
+            },
+            {
+              "label": "C",
+              "text": "Ukipmaygainfromitssupportfor ruralconservation."
+            },
+            {
+              "label": "D",
+              "text": "TheLiberalDemocratsarelosingpoliticalinfluence."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 29,
+          "stem": "TheauthorholdsthatGeorgeOsborne’spreference",
+          "choices": [
+            {
+              "label": "A",
+              "text": "showshisdisregardfor thecharacterofruralareas."
+            },
+            {
+              "label": "B",
+              "text": "stressesthenecessityofeasingthehousingcrisis."
+            },
+            {
+              "label": "C",
+              "text": "highlightshisfirmstandagainstlobbypressure."
+            },
+            {
+              "label": "D",
+              "text": "revealsastrongprejudiceagainsturbanareas."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 30,
+          "stem": "Inthelastparagraph,theauthorshowshisappreciationof",
+          "choices": [
+            {
+              "label": "A",
+              "text": "thesizeofpopulationinBritain."
+            },
+            {
+              "label": "B",
+              "text": "theenviableurbanlifestyleinBritain."
+            },
+            {
+              "label": "C",
+              "text": "thetown-and-countryplanninginBritain."
+            },
+            {
+              "label": "D",
+              "text": "thepoliticallifeintoday’sBritain. 英语（一）试题 .6. （共14页）"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 31,
+          "stem": "TheauthorviewsMiltonFriedman’sstatementaboutCSRwith",
+          "choices": [
+            {
+              "label": "A",
+              "text": "tolerance."
+            },
+            {
+              "label": "B",
+              "text": "skepticism."
+            },
+            {
+              "label": "C",
+              "text": "approval."
+            },
+            {
+              "label": "D",
+              "text": "uncertainty."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 32,
+          "stem": "AccordingtoParagraph2,CSRhelpsacompanyby",
+          "choices": [
+            {
+              "label": "A",
+              "text": "guardingitagainstmalpractices."
+            },
+            {
+              "label": "B",
+              "text": "protectingitfrombeingdefamed."
+            },
+            {
+              "label": "C",
+              "text": "winningtrustfrom consumers."
+            },
+            {
+              "label": "D",
+              "text": "raisingthequalityofitsproducts."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 33,
+          "stem": "Theexpression“morelenient”(Para.4)isclosestinmeaningto",
+          "choices": [
+            {
+              "label": "A",
+              "text": "lesscontroversial."
+            },
+            {
+              "label": "B",
+              "text": "moreeffective."
+            },
+            {
+              "label": "C",
+              "text": "morelasting."
+            },
+            {
+              "label": "D",
+              "text": "lesssevere."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 34,
+          "stem": "Whenprosecutorsevaluateacase,acompany’sCSRrecord",
+          "choices": [
+            {
+              "label": "A",
+              "text": "hasanimpactontheirdecision."
+            },
+            {
+              "label": "B",
+              "text": "comesacrossasreliableevidence."
+            },
+            {
+              "label": "C",
+              "text": "increasesthechanceofbeingpenalized."
+            },
+            {
+              "label": "D",
+              "text": "constitutespartoftheinvestigation."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 35,
+          "stem": "WhichofthefollowingistrueofCSR,accordingtothelastparagraph?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "Itsnegativeeffectsonbusinessesareoftenoverlooked."
+            },
+            {
+              "label": "B",
+              "text": "Thenecessaryamountofcompanies’spendingonitisunknown."
+            },
+            {
+              "label": "C",
+              "text": "Companies’financialcapacityfor ithasbeenoverestimated."
+            },
+            {
+              "label": "D",
+              "text": "It hasbroughtmuchbenefittothebankingindustry. 英语（一）试题 .8. （共14页）"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 36,
+          "stem": "TheNewYorkTimesisconsideringendingitsprinteditionpartlydueto",
+          "choices": [
+            {
+              "label": "A",
+              "text": "thehigh costofoperation."
+            },
+            {
+              "label": "B",
+              "text": "theincreasingonlineadsales."
+            },
+            {
+              "label": "C",
+              "text": "thepressurefrom itsinvestors."
+            },
+            {
+              "label": "D",
+              "text": "thecomplaintsfromitsreaders."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 37,
+          "stem": "Perettisuggeststhat,infaceofthepresentsituation,theTimesshould",
+          "choices": [
+            {
+              "label": "A",
+              "text": "endtheprinteditionforgood."
+            },
+            {
+              "label": "B",
+              "text": "makestrategicadjustments."
+            },
+            {
+              "label": "C",
+              "text": "seeknewsourcesofreadership."
+            },
+            {
+              "label": "D",
+              "text": "aimforefficientmanagement."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 38,
+          "stem": "It canbeinferredfrom Paragraphs5and6 thata“legacyproduct”",
+          "choices": [
+            {
+              "label": "A",
+              "text": "helpsrestorethegloryofformertimes."
+            },
+            {
+              "label": "B",
+              "text": "ismeantfor themostloyalcustomers."
+            },
+            {
+              "label": "C",
+              "text": "willhavethecostofprintingreduced."
+            },
+            {
+              "label": "D",
+              "text": "expandsthepopularityofthepaper."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 39,
+          "stem": "Perettibelievesthat,inachangingworld,",
+          "choices": [
+            {
+              "label": "A",
+              "text": "traditionalluxuriescanstayunaffected."
+            },
+            {
+              "label": "B",
+              "text": "cautiousnessfacilitatesproblem-solving."
+            },
+            {
+              "label": "C",
+              "text": "aggressivenessbettermeetschallenges."
+            },
+            {
+              "label": "D",
+              "text": "legacybusinessesarebecomingoutdated."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 40,
+          "stem": "Whichofthefollowingwouldbethebesttitleofthetext?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "Shift toOnlineNewspapersAllatOnce"
+            },
+            {
+              "label": "B",
+              "text": "MakeYourPrintNewspaperaLuxuryGood"
+            },
+            {
+              "label": "C",
+              "text": "KeepYourNewspapersForeverinFashion"
+            },
+            {
+              "label": "D",
+              "text": ""
+            }
+          ],
+          "type": "choice"
+        }
+      ],
+      "warnings": [],
+      "text_count": 4,
+      "texts": [
+        {
+          "text_num": 1,
+          "article": "France, which prides itself as the global innovator of fashion, has decided its\n          fashion industry has lost an absolute right to define physical beauty for women. Its\n          lawmakers gave preliminary approval last week to a law that would make it a\n                                                                          \n          crime to employ ultra-thin models on runways. The parliament also agreed to ban\n          websitesthat“inciteexcessivethinness”bypromotingextremedieting. \n             Such measures have a couple of uplifting motives. They suggest beauty\n          should not be defined by looks that end up impinging on health. That’s a start.\n                                                                          \n          And the ban on ultra-thin models seems to go beyond protecting models from\n          starving themselves to death – as some have done. It tells the fashion industry that\n          it must take responsibility for the signal it sends women, especially teenage girls,\n                                                                          \n          aboutthesocialtape-measuretheymustusetodeterminetheirindividualworth.\n             The bans, if fully enforced, would suggest to women (and many men) that\n          they should not let others be arbiters of their beauty. And perhaps faintly, they\n          hint that people should look to intangible qualities like character and intellect\n                                                                          \n          rather thandietingtheirwaytosizezeroorwasp-waistphysiques.      \n             The French measures, however, rely too much on severe punishment to\n          change a culture that still regards beauty as skin-deep – and bone-showing. Under\n          the law, using a fashion model that does not meet a government-defined index of\n                                                                          \n          bodymasscouldresultina$85,000fineandsixmonthsinprison.          \n             The fashion industry knows it has an inherent problem in focusing on\n          material adornment and idealized body types. In Denmark, the United States, and\n          a few other countries, it is trying to set voluntary standards for models and fashion\n                                                                          \n          imagesthatrelymoreonpeerpressurefor enforcement.                \n             In contrast to France’s actions, Denmark’s fashion industry agreed last month\n          on rules and sanctions regarding the age, health, and other characteristics of\n                                                                          \n          models. The newly revised Danish Fashion Ethical Charter clearly states: “We are\n          aware of and take responsibility for the impact the fashion industry has on body\n          ideals, especially on young people.” The charter’s main tool of enforcement is to\n          deny access for designers and modeling agencies to Copenhagen Fashion Week\n                                                                          \n          (CFW), which is run by the Danish Fashion Institute. But in general it relies on a\n          name-and-shamemethodofcompliance.                               \n             Relying on ethical persuasion rather than law to address the misuse of body\n          ideals may be the best step. Even better would be to help elevate notions of beauty\n                                                                          \n          beyondthematerialstandardsofaparticularindustry.                \n                                                                          \n                          英语（一）试题      .3. （共14页）",
+          "questions": [
+            {
+              "number": 21,
+              "stem": "Accordingtothefirstparagraph,whatwouldhappeninFrance?",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "Physicalbeautywouldberedefined."
+                },
+                {
+                  "label": "B",
+                  "text": "Newrunwayswouldbeconstructed."
+                },
+                {
+                  "label": "C",
+                  "text": "Websitesaboutdietingwouldthrive."
+                },
+                {
+                  "label": "D",
+                  "text": "Thefashionindustrywoulddecline."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 22,
+              "stem": "Thephrase“impingingon”(Line2,Para.2)isclosestinmeaningto",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "indicatingthestateof."
+                },
+                {
+                  "label": "B",
+                  "text": "heighteningthevalueof."
+                },
+                {
+                  "label": "C",
+                  "text": "losingfaithin."
+                },
+                {
+                  "label": "D",
+                  "text": "doingharmto."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 23,
+              "stem": "Whichofthefollowingistrueofthefashionindustry?",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "TheFrenchmeasureshavealreadyfailed."
+                },
+                {
+                  "label": "B",
+                  "text": "Itsinherentproblemsaregettingworse."
+                },
+                {
+                  "label": "C",
+                  "text": "Modelsarenolongerunderpeerpressure."
+                },
+                {
+                  "label": "D",
+                  "text": "NewstandardsarebeingsetinDenmark."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 24,
+              "stem": "AdesignerismostlikelytoberejectedbyCFWfor",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "pursuingperfectphysicalconditions."
+                },
+                {
+                  "label": "B",
+                  "text": "caringtoomuchaboutmodels’character."
+                },
+                {
+                  "label": "C",
+                  "text": "showinglittleconcernfor healthfactors."
+                },
+                {
+                  "label": "D",
+                  "text": "settingahighagethresholdfor models."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 25,
+              "stem": "Whichofthefollowingmaybethebesttitleofthetext?",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "TheGreatThreatstotheFashionIndustry"
+                },
+                {
+                  "label": "B",
+                  "text": "JustAnotherRoundofStrugglefor Beauty"
+                },
+                {
+                  "label": "C",
+                  "text": "ADilemmafor theStarvingModelsinFrance"
+                },
+                {
+                  "label": "D",
+                  "text": "AChallengetotheFashionIndustry’sBodyIdeals 英语（一）试题 .4. （共14页）"
+                }
+              ],
+              "type": "choice"
+            }
+          ]
+        },
+        {
+          "text_num": 2,
+          "article": "For the first time in history more people live in towns than in the country. In\n                                                                          \n          Britain this has had a curious result.While polls show Britons rate “the countryside”\n          alongside the royal family, Shakespeare and the National Health Service (NHS) as\n          whatmakesthemproudestoftheircountry,thishaslimitedpoliticalsupport.\n             A century ago Octavia Hill launched the National Trust not to rescue stylish\n          houses but to save “the beauty of natural places for everyone forever.” It was\n          specifically to provide city dwellers with spaces for leisure where they could\n                                                                          \n          experience “a refreshing air.” Hill’s pressure later led to the creation of national\n          parks and green belts. They don’t make countryside any more, and every year\n          concreteconsumesmoreofit.Itneedsconstantguardianship.           \n             At the next election none of the big parties seem likely to endorse this\n          sentiment. The Conservatives’ planning reform explicitly gives rural development\n          priority over conservation, even authorising “off-plan” building where local\n                                                                          \n          people might object. The concept of sustainable development has been defined as\n          profitable. Labour likewise wants to discontinue local planning where councils\n          oppose development. The Liberal Democrats are silent. Only Ukip, sensing its\n          chance, has sided with those pleading for a more considered approach to using\n          green land. Its Campaign to Protect Rural England struck terror into many local\n                                                                          \n          Conservativeparties.                                            \n             The sensible place to build new houses, factories and offices is where people\n          are, in cities and towns where infrastructure is in place. The London agents\n          Stirling Ackroyd recently identified enough sites for half a million houses in the\n          London area alone, with no intrusion on green belt. What is true of London is\n          even trueroftheprovinces.                                       \n                                                                          \n             The idea that “housing crisis” equals “concreted meadows” is pure lobby talk.\n          The issue is not the need for more houses but, as always, where to put them. Under\n          lobby pressure, George Osborne favours rural new-build against urban renovation\n          and renewal. He favours out-of-town shopping sites against high streets. This is\n          not a free market but a biased one. Rural towns and villages have grown and will\n          always grow. They do so best where building sticks to their edges and respects\n                                                                          \n          their character.Wedonotruinurbanconservationareas.Whyruinruralones?\n             Development should be planned, not let rip. After the Netherlands, Britain is\n          Europe’s most crowded country. Half a century of town and country planning has\n          enabled it to retain an enviable rural coherence, while still permitting low-density\n          urban living. There is no doubt of the alternative – the corrupted landscapes of\n          southern Portugal, Spain or Ireland. Avoiding this rather than promoting it should\n                                                                          \n          unitetheleftandrightofthepoliticalspectrum.                     \n                                                                          \n                          英语（一）试题      .5. （共14页）",
+          "questions": [
+            {
+              "number": 26,
+              "stem": "Britain’spublicsentimentaboutthecountryside",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "isnotwellreflectedinpolitics."
+                },
+                {
+                  "label": "B",
+                  "text": "isfullybackedbytheroyalfamily."
+                },
+                {
+                  "label": "C",
+                  "text": "didn’tstarttilltheShakespeareanage."
+                },
+                {
+                  "label": "D",
+                  "text": "hasbroughtmuchbenefittotheNHS."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 27,
+              "stem": "AccordingtoParagraph2,theachievementsoftheNationalTrustarenowbeing",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "largelyovershadowed."
+                },
+                {
+                  "label": "B",
+                  "text": "properlyprotected."
+                },
+                {
+                  "label": "C",
+                  "text": "effectivelyreinforced."
+                },
+                {
+                  "label": "D",
+                  "text": "graduallydestroyed."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 28,
+              "stem": "WhichofthefollowingcanbeinferredfromParagraph3?",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "Labourisunderattackfor opposingdevelopment."
+                },
+                {
+                  "label": "B",
+                  "text": "TheConservativesmayabandon“off-plan”building."
+                },
+                {
+                  "label": "C",
+                  "text": "Ukipmaygainfromitssupportfor ruralconservation."
+                },
+                {
+                  "label": "D",
+                  "text": "TheLiberalDemocratsarelosingpoliticalinfluence."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 29,
+              "stem": "TheauthorholdsthatGeorgeOsborne’spreference",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "showshisdisregardfor thecharacterofruralareas."
+                },
+                {
+                  "label": "B",
+                  "text": "stressesthenecessityofeasingthehousingcrisis."
+                },
+                {
+                  "label": "C",
+                  "text": "highlightshisfirmstandagainstlobbypressure."
+                },
+                {
+                  "label": "D",
+                  "text": "revealsastrongprejudiceagainsturbanareas."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 30,
+              "stem": "Inthelastparagraph,theauthorshowshisappreciationof",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "thesizeofpopulationinBritain."
+                },
+                {
+                  "label": "B",
+                  "text": "theenviableurbanlifestyleinBritain."
+                },
+                {
+                  "label": "C",
+                  "text": "thetown-and-countryplanninginBritain."
+                },
+                {
+                  "label": "D",
+                  "text": "thepoliticallifeintoday’sBritain. 英语（一）试题 .6. （共14页）"
+                }
+              ],
+              "type": "choice"
+            }
+          ]
+        },
+        {
+          "text_num": 3,
+          "article": "“There is one and only one social responsibility of business,” wrote Milton\n          Friedman, a Nobel prize-winning economist, “That is, to use its resources and\n          engage in activities designed to increase its profits.” But even if you accept\n          Friedman’s premise and regard corporate social responsibility (CSR) policies as a\n          waste of shareholders’ money, things may not be absolutely clear-cut. New\n                                                                          \n          research suggests that CSR may create monetary value for companies – at least\n          when theyareprosecutedforcorruption.                            \n             The largest firms in America and Britain together spend more than $15 billion\n          a year on CSR, according to an estimate by EPG, a consulting firm. This could\n          add value to their businesses in three ways. First, consumers may take CSR\n                                                                          \n          spending as a “signal” that a company’s products are of high quality. Second,\n          customers may be willing to buy a company’s products as an indirect way to\n          donate to the good causes it helps. And third, through a more diffuse “halo effect,”\n          wherebyitsgooddeedsearnitgreaterconsiderationfromconsumersandothers.\n             Previous studies on CSR have had trouble differentiating these effects\n          because consumers can be affected by all three. A recent study attempts to\n                                                                          \n          separate them by looking at bribery prosecutions under America’s Foreign\n          Corrupt Practices Act (FCPA). It argues that since prosecutors do not consume a\n          company’s products as part of their investigations, they could be influenced only\n          by thehaloeffect.                                               \n             The study found that, among prosecuted firms, those with the most\n                                                                          \n          comprehensive CSR programmes tended to get more lenient penalties. Their\n          analysis ruled out the possibility that it was firms’ political influence, rather than\n          their CSR stand, that accounted for the leniency: Companies that contributed more\n          to politicalcampaignsdidnotreceivelowerfines.                   \n             In all, the study concludes that whereas prosecutors should only evaluate a\n                                                                          \n          case based on its merits, they do seem to be influenced by a company’s record in\n          CSR. “We estimate that either eliminating a substantial labour-rights concern,\n          such as child labour, or increasing corporate giving by about 20% results in fines\n          that generally are 40% lower than the typical punishment for bribing foreign\n          officials,”saysoneresearcher.                                   \n                                                                          \n             Researchers admit that their study does not answer the question of how much\n          businesses ought to spend on CSR. Nor does it reveal how much companies are\n          banking on the halo effect, rather than the other possible benefits, when they\n          decide their do-gooding policies. But at least they have demonstrated that when\n          companies get into trouble with the law, evidence of good character can win them\n                                                                          \n          a lesscostlypunishment.                                         \n                          英语（一）试题      .7. （共14页）",
+          "questions": [
+            {
+              "number": 31,
+              "stem": "TheauthorviewsMiltonFriedman’sstatementaboutCSRwith",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "tolerance."
+                },
+                {
+                  "label": "B",
+                  "text": "skepticism."
+                },
+                {
+                  "label": "C",
+                  "text": "approval."
+                },
+                {
+                  "label": "D",
+                  "text": "uncertainty."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 32,
+              "stem": "AccordingtoParagraph2,CSRhelpsacompanyby",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "guardingitagainstmalpractices."
+                },
+                {
+                  "label": "B",
+                  "text": "protectingitfrombeingdefamed."
+                },
+                {
+                  "label": "C",
+                  "text": "winningtrustfrom consumers."
+                },
+                {
+                  "label": "D",
+                  "text": "raisingthequalityofitsproducts."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 33,
+              "stem": "Theexpression“morelenient”(Para.4)isclosestinmeaningto",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "lesscontroversial."
+                },
+                {
+                  "label": "B",
+                  "text": "moreeffective."
+                },
+                {
+                  "label": "C",
+                  "text": "morelasting."
+                },
+                {
+                  "label": "D",
+                  "text": "lesssevere."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 34,
+              "stem": "Whenprosecutorsevaluateacase,acompany’sCSRrecord",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "hasanimpactontheirdecision."
+                },
+                {
+                  "label": "B",
+                  "text": "comesacrossasreliableevidence."
+                },
+                {
+                  "label": "C",
+                  "text": "increasesthechanceofbeingpenalized."
+                },
+                {
+                  "label": "D",
+                  "text": "constitutespartoftheinvestigation."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 35,
+              "stem": "WhichofthefollowingistrueofCSR,accordingtothelastparagraph?",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "Itsnegativeeffectsonbusinessesareoftenoverlooked."
+                },
+                {
+                  "label": "B",
+                  "text": "Thenecessaryamountofcompanies’spendingonitisunknown."
+                },
+                {
+                  "label": "C",
+                  "text": "Companies’financialcapacityfor ithasbeenoverestimated."
+                },
+                {
+                  "label": "D",
+                  "text": "It hasbroughtmuchbenefittothebankingindustry. 英语（一）试题 .8. （共14页）"
+                }
+              ],
+              "type": "choice"
+            }
+          ]
+        },
+        {
+          "text_num": 4,
+          "article": "There will eventually come a day when The New York Times ceases to publish\n          stories on newsprint. Exactly when that day will be is a matter of debate. “Sometime\n          inthefuture,”thepaper’spublishersaidbackin2010.                 \n                                                                          \n             Nostalgia for ink on paper and the rustle of pages aside, there’s plenty of\n          incentive to ditch print. The infrastructure required to make a physical newspaper\n          – printing presses, delivery trucks – isn’t just expensive; it’s excessive at a time\n          when online-only competitors don’t have the same set of financial constraints.\n                                                                          \n          Readers are migrating away from print anyway. And though print ad sales still\n          dwarf their online and mobile counterparts, revenue from print is still declining.\n             Overhead may be high and circulation lower, but rushing to eliminate its print\n          editionwouldbeamistake,saysBuzzFeedCEOJonahPeretti.             \n                                                                          \n             Peretti says the Times shouldn’t waste time getting out of the print business,\n          but only if they go about doing it the right way. “Figuring out a way to accelerate\n          that transition would make sense for them,” he said, “but if you discontinue it,\n          you’re goingtohaveyourmostloyalcustomersreallyupsetwithyou.”    \n             Sometimes that’s worth making a change anyway. Peretti gives the example\n                                                                          \n          of Netflix discontinuing its DVD-mailing service to focus on streaming. “It was\n          seen as a blunder,” he said. The move turned out to be foresighted. And if Peretti\n          were in charge at the Times? “I wouldn’t pick a year to end print,” he said. “I\n          would raisepricesandmakeitintomoreofalegacyproduct.”            \n                                                                          \n             The most loyal customers would still get the product they favor, the idea goes,\n          and they’d feel like they were helping sustain the quality of something they\n          believe in. “So if you’re overpaying for print, you could feel like you were\n          helping,” Peretti said. “Then increase it at a higher rate each year and essentially\n                                                                          \n          try to generate additional revenue.” In other words, if you’re going to make a print\n          product, make it for the people who are already obsessed with it. Which may be\n          what the Times is doing already. Getting the print edition seven days a week costs\n          nearly$500ayear – morethantwiceasmuchasadigital-onlysubscription.\n             “It’s a really hard thing to do and it’s a tremendous luxury that BuzzFeed\n                                                                          \n          doesn’t have a legacy business,” Peretti remarked. “But we’re going to have\n          questions like that where we have things we’re doing that don’t make sense when\n          the market changes and the world changes. In those situations, it’s better to be\n          more aggressive thanlessaggressive.”                            \n                                                                          \n                                                                          \n                                                                          \n                                                                          \n                          英语（一）试题      .9. （共14页）",
+          "questions": [
+            {
+              "number": 36,
+              "stem": "TheNewYorkTimesisconsideringendingitsprinteditionpartlydueto",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "thehigh costofoperation."
+                },
+                {
+                  "label": "B",
+                  "text": "theincreasingonlineadsales."
+                },
+                {
+                  "label": "C",
+                  "text": "thepressurefrom itsinvestors."
+                },
+                {
+                  "label": "D",
+                  "text": "thecomplaintsfromitsreaders."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 37,
+              "stem": "Perettisuggeststhat,infaceofthepresentsituation,theTimesshould",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "endtheprinteditionforgood."
+                },
+                {
+                  "label": "B",
+                  "text": "makestrategicadjustments."
+                },
+                {
+                  "label": "C",
+                  "text": "seeknewsourcesofreadership."
+                },
+                {
+                  "label": "D",
+                  "text": "aimforefficientmanagement."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 38,
+              "stem": "It canbeinferredfrom Paragraphs5and6 thata“legacyproduct”",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "helpsrestorethegloryofformertimes."
+                },
+                {
+                  "label": "B",
+                  "text": "ismeantfor themostloyalcustomers."
+                },
+                {
+                  "label": "C",
+                  "text": "willhavethecostofprintingreduced."
+                },
+                {
+                  "label": "D",
+                  "text": "expandsthepopularityofthepaper."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 39,
+              "stem": "Perettibelievesthat,inachangingworld,",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "traditionalluxuriescanstayunaffected."
+                },
+                {
+                  "label": "B",
+                  "text": "cautiousnessfacilitatesproblem-solving."
+                },
+                {
+                  "label": "C",
+                  "text": "aggressivenessbettermeetschallenges."
+                },
+                {
+                  "label": "D",
+                  "text": "legacybusinessesarebecomingoutdated."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 40,
+              "stem": "Whichofthefollowingwouldbethebesttitleofthetext?",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "Shift toOnlineNewspapersAllatOnce"
+                },
+                {
+                  "label": "B",
+                  "text": "MakeYourPrintNewspaperaLuxuryGood"
+                },
+                {
+                  "label": "C",
+                  "text": "KeepYourNewspapersForeverinFashion"
+                },
+                {
+                  "label": "D",
+                  "text": ""
+                }
+              ],
+              "type": "choice"
+            }
+          ]
+        }
+      ]
+    },
+    "new-type": {
+      "name": "Part B 阅读新题型",
+      "type": "new_type",
+      "question_range": [
+        41,
+        45
+      ],
+      "text": "41.                                                             \n                                                                          \n             As an executive coach, I’ve seen image upgrades",
+      "article": "helping,” Peretti said. “Then increase it at a higher rate each year and essentially\ntry to generate additional revenue.” In other words, if you’re going to make a print\nproduct, make it for the people who are already obsessed with it. Which may be\nwhat the Times is doing already. Getting the print edition seven days a week costs\nnearly$500ayear – morethantwiceasmuchasadigital-onlysubscription.\n“It’s a really hard thing to do and it’s a tremendous luxury that BuzzFeed\ndoesn’t have a legacy business,” Peretti remarked. “But we’re going to have\nquestions like that where we have things we’re doing that don’t make sense when\nthe market changes and the world changes. In those situations, it’s better to be\nmore aggressive thanlessaggressive.”\nPartB\npoints)\nNo matter how formal or informal the work environment, the way you present\nyourself has an impact. This is especially true in first impressions. According to\nresearch from Princeton University, people assess your competence,\ntrustworthiness, and likeability in just a tenth of a second, solely based on the way\nyoulook.\nThe difference between today’s workplace and the “dress for success” era is\nthat the range of options is so much broader. Norms have evolved and fragmented.\nIn some settings, red sneakers or dress T-shirts can convey status; in others not so\nmuch. Plus, whatever image we present is magnified by social-media services like\nLinkedln. Chances are, your headshots are seen much more often now than a\ndecade or two ago. Millennials, it seems, face the paradox of being the least\nformal generation yet the most conscious of style and personal branding. It can be\nconfusing.\nSo how do we navigate this? How do we know when to invest in an upgrade?\nAndwhat’sthebestwaytopulloffonethatenhancesourgoals?Herearesometips:",
+      "questions": [
+        {
+          "number": 41,
+          "stem": "第41题（未提取到内容）",
+          "choices": [],
+          "type": "new_type",
+          "warning": true
+        },
+        {
+          "number": 42,
+          "stem": "第42题（未提取到内容）",
+          "choices": [],
+          "type": "new_type",
+          "warning": true
+        },
+        {
+          "number": 43,
+          "stem": "第43题（未提取到内容）",
+          "choices": [],
+          "type": "new_type",
+          "warning": true
+        },
+        {
+          "number": 44,
+          "stem": "第44题（未提取到内容）",
+          "choices": [],
+          "type": "new_type",
+          "warning": true
+        },
+        {
+          "number": 45,
+          "stem": "第45题（未提取到内容）",
+          "choices": [],
+          "type": "new_type",
+          "warning": true
+        }
+      ],
+      "warnings": []
+    },
+    "translation": {
+      "name": "C节 翻译",
+      "type": "translation",
+      "question_range": [
+        46,
+        50
+      ],
+      "text": "(46) We don’t have to learn how to be\n                                                                          \n          mentally healthy; it is built into us in the same way that our bodies know ho",
+      "article": "points)\nNo matter how formal or informal the work environment, the way you present\nyourself has an impact. This is especially true in first impressions. According to\nresearch from Princeton University, people assess your competence,\ntrustworthiness, and likeability in just a tenth of a second, solely based on the way\nyoulook.\nThe difference between today’s workplace and the “dress for success” era is\nthat the range of options is so much broader. Norms have evolved and fragmented.\nIn some settings, red sneakers or dress T-shirts can convey status; in others not so\nmuch. Plus, whatever image we present is magnified by social-media services like\nLinkedln. Chances are, your headshots are seen much more often now than a\ndecade or two ago. Millennials, it seems, face the paradox of being the least\nformal generation yet the most conscious of style and personal branding. It can be\nconfusing.\nSo how do we navigate this? How do we know when to invest in an upgrade?\nAndwhat’sthebestwaytopulloffonethatenhancesourgoals?Herearesometips:\nAs an executive coach, I’ve seen image upgrades be particularly helpful\nduring transitions – when looking for a new job, stepping into a new or more\npublic role, or changing work environments. If you’re in a period of change or just\nfeeling stuck and in a rut, now may be a good time. If you’re not sure, ask for\nhonest feedback from trusted friends, colleagues and professionals. Look for cues\nabout how others perceive you. Maybe there’s no need for an upgrade and that’s\nGet clear on what impact you’re hoping to have. Are you looking to refresh\nyour image or pivot it? For one person, the goal may be to be taken more\nseriously and enhance their professional image. For another, it may be to be\nperceived as more approachable, or more modern and stylish. For someone\nmoving from finance to advertising, maybe they want to look more “SoHo.” (It’s\nOK tousecharacterizationslikethat.)\nLook at your work environment like an anthropologist. What are the norms of\nyour environment? What conveys status? Who are your most important audiences?\nHow do the people you respect and look up to present themselves? The better you\nunderstandtheculturalcontext,themorecontrolyou canhaveover yourimpact.\nEnlist the support of professionals and share with them your goals and\ncontext. Hire a personal stylist, or use the free styling service of a store like\nJ.Crew. Try a hair stylist instead of a barber. Work with a professional\nphotographer instead of your spouse or friend. It’s not as expensive as you might\nthink.\nThe point of a style upgrade isn’t to become more vain or to spend more time\nfussing over what to wear. Instead, use it as an opportunity to reduce decision\nfatigue. Pick a standard work uniform or a few go-to options. Buy all your clothes\nat oncewithastylistinsteadofshoppingalone,onearticleofclothingatatime.\nPartC\npoints)\nMental health is our birthright.",
+      "questions": [
+        {
+          "number": 46,
+          "stem": "We don’t have to learn how to be mentally healthy; it is built into us in the same way that our bodies know how to heal a cut or mend a broken bone. Mental health can’t be learned, only reawakened. It is like the immune system of the body, which under stress or through lack of nutrition or exercise can be weakened, but which never leaves us. When we don’t understand the value of mental health and we don’t know how to gain access to it, mental health will remain hidden from us.",
+          "choices": [],
+          "type": "translation"
+        },
+        {
+          "number": 47,
+          "stem": "Our mental health doesn’t really go anywhere; like the sun behind a cloud, it can be temporarily hidden fromview,butitisfullycapableofbeingrestoredinaninstant. Mental health is the seed that contains self-esteem – confidence in ourselves and an ability to trust in our common sense. It allows us to have perspective on our lives – the ability to not take ourselves too seriously, to laugh at ourselves, to see the bigger picture, and to see that things will work out. It’s a form of innate or unlearned optimism.",
+          "choices": [],
+          "type": "translation"
+        },
+        {
+          "number": 48,
+          "stem": "Mental health allows us to view others with sympathy if they are having troubles, with kindness if they are in pain, and with unconditional love no matter who they are. Mental health is the source of creativity for solving problems, resolving conflict, making our surroundings more beautiful, managing our home life, or coming up with a creative business idea or invention to make our lives easier. It gives us patience for ourselves and toward others as well as patience while driving, catching a fish, working on our car, or raising a child. It allows us to see the beauty that surrounds us each mo",
+          "choices": [],
+          "type": "translation"
+        },
+        {
+          "number": 49,
+          "stem": "Although mental health is the cure-all for living our lives, it is perfectly ordinary as you will see that it has been there to direct you through all your difficult decisions. It has been available even in the most mundane of life situations to show you right from wrong, good from bad, friend from foe. Mental health has commonly been called conscience, instinct, wisdom, common sense, or the inner voice. We think of it simply as a healthy and helpful flow of intelligent thought.",
+          "choices": [],
+          "type": "translation"
+        },
+        {
+          "number": 50,
+          "stem": "As you will come to see, knowing that mental health is always available and knowing to trust it allow us to slow down to the moment and live life happily. 英语（一）试题 .13. （共14页）",
+          "choices": [],
+          "type": "translation"
+        }
+      ],
+      "warnings": []
+    },
+    "writing-a": {
+      "name": "A节 应用文写作",
+      "type": "writing_small",
+      "question_range": [
+        51,
+        51
+      ],
+      "text": "51.Directions:                                                  \n                                                                          \n             Suppose you are a librarian in your university.",
+      "article": "Get clear on what impact you’re hoping to have. Are you looking to refresh\nyour image or pivot it? For one person, the goal may be to be taken more\nseriously and enhance their professional image. For another, it may be to be\nperceived as more approachable, or more modern and stylish. For someone\nmoving from finance to advertising, maybe they want to look more “SoHo.” (It’s\nOK tousecharacterizationslikethat.)\nLook at your work environment like an anthropologist. What are the norms of\nyour environment? What conveys status? Who are your most important audiences?\nHow do the people you respect and look up to present themselves? The better you\nunderstandtheculturalcontext,themorecontrolyou canhaveover yourimpact.\nEnlist the support of professionals and share with them your goals and\ncontext. Hire a personal stylist, or use the free styling service of a store like\nJ.Crew. Try a hair stylist instead of a barber. Work with a professional\nphotographer instead of your spouse or friend. It’s not as expensive as you might\nthink.\nThe point of a style upgrade isn’t to become more vain or to spend more time\nfussing over what to wear. Instead, use it as an opportunity to reduce decision\nfatigue. Pick a standard work uniform or a few go-to options. Buy all your clothes\nat oncewithastylistinsteadofshoppingalone,onearticleofclothingatatime.\nPartC\npoints)\nMental health is our birthright. (46) We don’t have to learn how to be\nmentally healthy; it is built into us in the same way that our bodies know how to\nheal a cut or mend a broken bone. Mental health can’t be learned, only\nreawakened. It is like the immune system of the body, which under stress or\nthrough lack of nutrition or exercise can be weakened, but which never leaves us.\nWhen we don’t understand the value of mental health and we don’t know how to\ngain access to it, mental health will remain hidden from us. (47) Our mental health\ndoesn’t really go anywhere; like the sun behind a cloud, it can be temporarily\nhidden fromview,butitisfullycapableofbeingrestoredinaninstant.\nMental health is the seed that contains self-esteem – confidence in ourselves\nand an ability to trust in our common sense. It allows us to have perspective on\nour lives – the ability to not take ourselves too seriously, to laugh at ourselves, to\nsee the bigger picture, and to see that things will work out. It’s a form of innate or\nunlearned optimism. (48) Mental health allows us to view others with sympathy if\nthey are having troubles, with kindness if they are in pain, and with unconditional\nlove no matter who they are. Mental health is the source of creativity for solving\nproblems, resolving conflict, making our surroundings more beautiful, managing\nour home life, or coming up with a creative business idea or invention to make our\nlives easier. It gives us patience for ourselves and toward others as well as\npatience while driving, catching a fish, working on our car, or raising a child. It\nallows us to see the beauty that surrounds us each moment in nature, in culture, in\nthe flowofourdailylives.\n(49) Although mental health is the cure-all for living our lives, it is perfectly\nordinary as you will see that it has been there to direct you through all your\ndifficult decisions. It has been available even in the most mundane of life\nsituations to show you right from wrong, good from bad, friend from foe. Mental\nhealth has commonly been called conscience, instinct, wisdom, common sense, or\nthe inner voice. We think of it simply as a healthy and helpful flow of intelligent\nthought. (50) As you will come to see, knowing that mental health is always\navailable and knowing to trust it allow us to slow down to the moment and live\nlife happily.\nSection III Writing\nPartA",
+      "questions": [
+        {
+          "number": 51,
+          "stem": "Directions: Suppose you are a librarian in your university. Write a notice of about 100 words, providing the newly-enrolled international students with relevant information aboutthelibrary. YoushouldwriteneatlyontheANSWERSHEET. Donotsign your ownnameattheendofthenotice.Use “LiMing”instead. Donotwritetheaddress.(10points) PartB",
+          "choices": [],
+          "type": "writing_small"
+        }
+      ],
+      "warnings": []
+    },
+    "writing-b": {
+      "name": "B节 短文写作",
+      "type": "writing_big",
+      "question_range": [
+        52,
+        52
+      ],
+      "text": "52.Directions:                                                  \n                                                                          \n                                                            ",
+      "article": "ogist. What are the norms of\nyour environment? What conveys status? Who are your most important audiences?\nHow do the people you respect and look up to present themselves? The better you\nunderstandtheculturalcontext,themorecontrolyou canhaveover yourimpact.\nEnlist the support of professionals and share with them your goals and\ncontext. Hire a personal stylist, or use the free styling service of a store like\nJ.Crew. Try a hair stylist instead of a barber. Work with a professional\nphotographer instead of your spouse or friend. It’s not as expensive as you might\nthink.\nThe point of a style upgrade isn’t to become more vain or to spend more time\nfussing over what to wear. Instead, use it as an opportunity to reduce decision\nfatigue. Pick a standard work uniform or a few go-to options. Buy all your clothes\nat oncewithastylistinsteadofshoppingalone,onearticleofclothingatatime.\nPartC\npoints)\nMental health is our birthright. (46) We don’t have to learn how to be\nmentally healthy; it is built into us in the same way that our bodies know how to\nheal a cut or mend a broken bone. Mental health can’t be learned, only\nreawakened. It is like the immune system of the body, which under stress or\nthrough lack of nutrition or exercise can be weakened, but which never leaves us.\nWhen we don’t understand the value of mental health and we don’t know how to\ngain access to it, mental health will remain hidden from us. (47) Our mental health\ndoesn’t really go anywhere; like the sun behind a cloud, it can be temporarily\nhidden fromview,butitisfullycapableofbeingrestoredinaninstant.\nMental health is the seed that contains self-esteem – confidence in ourselves\nand an ability to trust in our common sense. It allows us to have perspective on\nour lives – the ability to not take ourselves too seriously, to laugh at ourselves, to\nsee the bigger picture, and to see that things will work out. It’s a form of innate or\nunlearned optimism. (48) Mental health allows us to view others with sympathy if\nthey are having troubles, with kindness if they are in pain, and with unconditional\nlove no matter who they are. Mental health is the source of creativity for solving\nproblems, resolving conflict, making our surroundings more beautiful, managing\nour home life, or coming up with a creative business idea or invention to make our\nlives easier. It gives us patience for ourselves and toward others as well as\npatience while driving, catching a fish, working on our car, or raising a child. It\nallows us to see the beauty that surrounds us each moment in nature, in culture, in\nthe flowofourdailylives.\n(49) Although mental health is the cure-all for living our lives, it is perfectly\nordinary as you will see that it has been there to direct you through all your\ndifficult decisions. It has been available even in the most mundane of life\nsituations to show you right from wrong, good from bad, friend from foe. Mental\nhealth has commonly been called conscience, instinct, wisdom, common sense, or\nthe inner voice. We think of it simply as a healthy and helpful flow of intelligent\nthought. (50) As you will come to see, knowing that mental health is always\navailable and knowing to trust it allow us to slow down to the moment and live\nlife happily.\nSection III Writing\nPartA\nSuppose you are a librarian in your university. Write a notice of about 100\nwords, providing the newly-enrolled international students with relevant\ninformation aboutthelibrary.\nYoushouldwriteneatlyontheANSWERSHEET.\nDonotsign your ownnameattheendofthenotice.Use “LiMing”instead.\nDonotwritetheaddress.(10points)\nPartB",
+      "questions": [
+        {
+          "number": 52,
+          "stem": "Directions: Write an essay of 160-200 words based on the following pictures. In your essay, youshould l)describethepicturesbriefly,",
+          "choices": [],
+          "type": "writing_big"
+        }
+      ],
+      "warnings": []
+    }
+  }
+}

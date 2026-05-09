@@ -1,0 +1,1682 @@
+{
+  "year": 2009,
+  "filename": "2009.pdf",
+  "era": "era3",
+  "era_label": "第三阶段+(2005至今 英一)",
+  "total_pages": 15,
+  "max_question_number": 52,
+  "found_question_count": 51,
+  "extracted_question_count": 52,
+  "sections": {
+    "cloze": {
+      "name": "Section I 完形填空",
+      "type": "cloze",
+      "question_range": [
+        1,
+        20
+      ],
+      "text": "1.[A] Suppose   [B] Consider   [C] Observe  [D] Imagine         \n          2.[A] tended    [B] feared     [ C] happened [D] threatened     \n                                                            ",
+      "article": "Section I Use of English\nResearch on animal intelligence always makes us wonder just how smart\nhumans are. _1_ the fruit-fly experiments described by Carl Zimmer in the\nScience Times. Fruit flies who were taught to be smarter than the average fruit\nfly 2   to live shorter lives. This suggests that 3 bulbs bum longer, that\nthere is a(n) 4 in not being too bright.\nIntelligence, it_5_, is a high-priced option. It takes more upkeep, bums more\nfuel and is slow 6 the starting line because it depends on learning - a(n)\n_?_ process - instead of instinct. Plenty of other species are able to learn, and\none of the things they've apparently learned is when to -8�_ _ _\nIs there an adaptive value to _9_ intelligence? That's the question behind this\nnew research. Instead of casting a wistful glance 10 at all the species we've left\nin the dust I.Q.-wise, it implicitly asks what the real_l_l_ of our own intelligence\nmight be. This is...U the mind of every animal we've ever met.\nResearch on animal intelligence also makes us wonder what experiments animals\nwould 13  on humans if they had the chance. Every cat with an owner, 14\nis running a small-scale study in operant conditioning. We believe that ____lL animals\nran the labs, they would test us to ___lQ__ the limits of our patience, our faithfulness,\nour memory for locations. They would try to decide what intelligence in humans is\nreally 17 , not merely how much of it there is. 18 they would hope to\nstudy a(n) 19 question: Are humans actually aware of the world they live in?\n2Q__ the results are inconclusive.",
+      "questions": [
+        {
+          "number": 1,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "Suppose"
+            },
+            {
+              "label": "B",
+              "text": "Consider"
+            },
+            {
+              "label": "C",
+              "text": "Observe"
+            },
+            {
+              "label": "D",
+              "text": "Imagine"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 2,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "tended"
+            },
+            {
+              "label": "B",
+              "text": "feared [ C] happened"
+            },
+            {
+              "label": "C",
+              "text": ""
+            },
+            {
+              "label": "D",
+              "text": "threatened"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 3,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "thinner"
+            },
+            {
+              "label": "B",
+              "text": "stabler"
+            },
+            {
+              "label": "C",
+              "text": "lighter"
+            },
+            {
+              "label": "D",
+              "text": "dimmer"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 4,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "tendency"
+            },
+            {
+              "label": "B",
+              "text": "advantage"
+            },
+            {
+              "label": "C",
+              "text": "inclination"
+            },
+            {
+              "label": "D",
+              "text": "priority"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 5,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "insists on"
+            },
+            {
+              "label": "B",
+              "text": "sums up"
+            },
+            {
+              "label": "C",
+              "text": "turns out"
+            },
+            {
+              "label": "D",
+              "text": "puts forward"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 6,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "off"
+            },
+            {
+              "label": "B",
+              "text": "behind"
+            },
+            {
+              "label": "C",
+              "text": "over"
+            },
+            {
+              "label": "D",
+              "text": "along"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 7,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "incredible"
+            },
+            {
+              "label": "B",
+              "text": "spontaneous"
+            },
+            {
+              "label": "C",
+              "text": "inevitable"
+            },
+            {
+              "label": "D",
+              "text": "gradual"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 8,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "fight"
+            },
+            {
+              "label": "B",
+              "text": "doubt"
+            },
+            {
+              "label": "C",
+              "text": "stop"
+            },
+            {
+              "label": "D",
+              "text": "think"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 9,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "invisible"
+            },
+            {
+              "label": "B",
+              "text": "limited"
+            },
+            {
+              "label": "C",
+              "text": "indefinite"
+            },
+            {
+              "label": "D",
+              "text": "different"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 10,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "upward"
+            },
+            {
+              "label": "B",
+              "text": "forward [ C] afterward"
+            },
+            {
+              "label": "C",
+              "text": ""
+            },
+            {
+              "label": "D",
+              "text": "backward"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 11,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "features"
+            },
+            {
+              "label": "B",
+              "text": "influences"
+            },
+            {
+              "label": "C",
+              "text": "results"
+            },
+            {
+              "label": "D",
+              "text": "costs"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 12,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "outside"
+            },
+            {
+              "label": "B",
+              "text": "on"
+            },
+            {
+              "label": "C",
+              "text": "by"
+            },
+            {
+              "label": "D",
+              "text": "across"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 13,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "deliver"
+            },
+            {
+              "label": "B",
+              "text": "carry"
+            },
+            {
+              "label": "C",
+              "text": "perform"
+            },
+            {
+              "label": "D",
+              "text": "apply"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 14,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "by chance"
+            },
+            {
+              "label": "B",
+              "text": "in contrast"
+            },
+            {
+              "label": "C",
+              "text": "as usual"
+            },
+            {
+              "label": "D",
+              "text": "for instance"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 15,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "if"
+            },
+            {
+              "label": "B",
+              "text": "unless"
+            },
+            {
+              "label": "C",
+              "text": "as"
+            },
+            {
+              "label": "D",
+              "text": "lest"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 16,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "moderate"
+            },
+            {
+              "label": "B",
+              "text": "overcome [ C] determine"
+            },
+            {
+              "label": "C",
+              "text": ""
+            },
+            {
+              "label": "D",
+              "text": "reach"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 17,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "at"
+            },
+            {
+              "label": "B",
+              "text": "for"
+            },
+            {
+              "label": "C",
+              "text": "after"
+            },
+            {
+              "label": "D",
+              "text": "with"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 18,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "Above all"
+            },
+            {
+              "label": "B",
+              "text": "After all"
+            },
+            {
+              "label": "C",
+              "text": "However"
+            },
+            {
+              "label": "D",
+              "text": "Otherwise"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 19,
+          "stem": "[ A] fundamental",
+          "choices": [
+            {
+              "label": "A",
+              "text": ""
+            },
+            {
+              "label": "B",
+              "text": "comprehensive"
+            },
+            {
+              "label": "C",
+              "text": "equivalent"
+            },
+            {
+              "label": "D",
+              "text": "hostile"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 20,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "By accident"
+            },
+            {
+              "label": "B",
+              "text": "In time"
+            },
+            {
+              "label": "C",
+              "text": "So far"
+            },
+            {
+              "label": "D",
+              "text": ""
+            }
+          ],
+          "type": "choice"
+        }
+      ],
+      "warnings": []
+    },
+    "reading-a": {
+      "name": "Section II 阅读A节",
+      "type": "reading",
+      "question_range": [
+        21,
+        40
+      ],
+      "text": "ed     [ C] happened [D] threatened     \n                                                                          \n          3. [A] thinner  [B] stabler    [C] lighter  [D] dimmer          \n         ",
+      "article": "Habits are a funny thing. We reach for them mindlessly, setting our brains on\n                                                                          \n          auto-pilot and relaxing into the unconscious comfort of familiar routine. \"Not choice,\n          but habit rules the unreflecting herd,\" William Wordsworth said in the 19th century. In\n                                                                          \n          the ever-changing 21s t century, even the word \"habit\" carries a negative implication.\n             So it seems paradoxical to talk about habits in the same context as creativity and\n          innovation. But brain researchers have discovered that when we consciously develop\n                                                                          \n          new habits, we create parallel paths, and even entirely new brain cells, that can jump\n          our trains of thought onto new, innovative tracks.              \n                                                                          \n            Rather than dismissing ourselves as unchangeable creatures of habit, we can\n          instead direct our own change by consciously developing new habits. In fact, the\n          more new things we try - the more we step outside our comfort zone - the more\n                                                                          \n          inherently creative we become, both in the workplace and in our personal lives.\n             But don't bother trying to kill off old habits; once those ruts of procedure are\n          worn into the brain, they're there to stay. Instead, the new habits we deliberately press\n                                                                          \n          into ourselves create parallel pathways that can bypass those old roads.\n             \"The first thing needed for innovation is a fascination with wonder,\" says Dawna\n                                                                          \n          Markova, author of The Open Mind. \"But we are taught instead to 'decide' , just as\n          our president calls himself 'the Decider'. \" She adds, however, that \"to decide is to\n          kill off all possibilities but one. A good innovational thinker is always exploring the\n                                                                          \n          many other possibilities.\"                                      \n            All of us work through problems in ways of which we're unaware, she says.\n                                                                          \n          Researchers in the late 1960s discovered that humans are born with the capacity to\n          approach challenges in four primary ways: analytically, procedurally, relationally ( or\n          collaboratively) and innovatively. At the end of adolescence, however, the brain shuts\n                                                                          \n          down half of that capacity, preserving only those modes of thought that have seemed\n          most valuable during the first decade or so of life.            \n             The current emphasis on standardized testing highlights analysis and procedure,\n                                                                          \n          meaning that few of us inherently use our innovative and collaborative modes of\n          thought. \"This breaks the major rule in the American belief system - that anyone can\n                                                                          \n          do anything,\" explains M. J. Ryan, author of the 2006 book This Year I Will. .. and Ms.\n          Markova's business partner. \"That's a lie that we have perpetuated, and it fosters\n          commonness. Knowing what you're good at and doing even more of it creates\n                                                                          \n          excellence.\" This is where developing new habits comes in.      \n                                                                          \n                                                                          \n                           英语试题   . 3 . (共 14 页）\n\nIt is a wise father that knows his own child, but today a man can boost his\n          paternal (fatherly) wisdom -or at least confirm that he's the kid's dad. All he needs to\n          do is shell out $30 for a paternity testing kit (PTK) at his local drugstore -and another\n                                                                          \n          $120 to get the results.                                        \n            More than 60, 000 people have purchased the PTKs since they first became\n          available without prescriptions last year, according to Doug Fogg, chief operating\n                                                                          \n          officer of Identigene, which makes the over-the-counter kits. More than two dozen\n          companies sell DNA tests directly to the public, ranging in price from a few hundred\n          dollars to more than $ 2, 500.                                  \n                                                                          \n            Among the most popular: paternity and kinship testing, which adopted children\n          can use to find their biological relatives and families can use to track down kids put\n          up for adoption. DNA testing is also the latest rage among passionate genealogists -\n                                                                          \n          and supports businesses that offer to search for a family's geographic roots.\n            Most tests require collecting cells by swabbing saliva in the mouth and sending it\n                                                                          \n          to the company for testing. All tests require a potential candidate with whom to\n          compare DNA.                                                    \n            But some observers are skeptical. \"There's a kind of false precision being\n                                                                          \n          hawked by people claiming they are doing ancestry testing,\" says Troy Duster, a New\n          York University sociologist. He notes that each individual has many ancestors -\n          numbering in the hundreds just a few centuries back. Yet most ancestry testing only\n                                                                          \n          considers a single lineage, either the Y chromosome inherited through men in a\n          father's line or mitochondrial DNA, which is passed down only from mothers. This\n          DNA can reveal genetic information about only one or two ancestors, even though,\n                                                                          \n          for example, just three generations back people also have six other great-grandparents\n          or, four generations back, 14 other great-great-grandparents.   \n             Critics also argue that commercial genetic testing is only as good as the reference\n                                                                          \n          collections to which a sample is compared. Databases used by some companies don't\n          rely on data collected systematically but rather lump together information from\n          different research projects. This means that a DNA database may have a lot of data\n                                                                          \n          from some regions and not others, so a person's test results may differ depending on\n          the company that processes the results. In addition, the computer programs a\n          company uses to estimate relationships may be patented and not subject to peer\n                                                                          \n          review or outside evaluation.                                   \n                                                             ",
+      "questions": [
+        {
+          "number": 21,
+          "stem": "In Wordsworth's view, \"habits\" is characterized by being",
+          "choices": [
+            {
+              "label": "A",
+              "text": "casual."
+            },
+            {
+              "label": "B",
+              "text": "familiar."
+            },
+            {
+              "label": "C",
+              "text": "mechanical."
+            },
+            {
+              "label": "D",
+              "text": "changeable."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 22,
+          "stem": "Brain researchers have discovered that the formation of new habits can be",
+          "choices": [
+            {
+              "label": "A",
+              "text": "predicted."
+            },
+            {
+              "label": "B",
+              "text": "regulated."
+            },
+            {
+              "label": "C",
+              "text": "traced."
+            },
+            {
+              "label": "D",
+              "text": "guided."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 23,
+          "stem": "The word \"ruts\" (Para. 4) is closest in meaning to",
+          "choices": [
+            {
+              "label": "A",
+              "text": "tracks."
+            },
+            {
+              "label": "B",
+              "text": "series."
+            },
+            {
+              "label": "C",
+              "text": "characteristics."
+            },
+            {
+              "label": "D",
+              "text": "connections."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 24,
+          "stem": "Dawna Markova would most probably agree that",
+          "choices": [
+            {
+              "label": "A",
+              "text": "ideas are born of a relaxing mind."
+            },
+            {
+              "label": "B",
+              "text": "innovativeness could be taught."
+            },
+            {
+              "label": "C",
+              "text": "decisiveness derives from fantastic ideas."
+            },
+            {
+              "label": "D",
+              "text": "curiosity activates creative minds."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 25,
+          "stem": "Ryan's comments suggest that the practice of standardized testing",
+          "choices": [
+            {
+              "label": "A",
+              "text": "prevents new habits from being formed."
+            },
+            {
+              "label": "B",
+              "text": "no longer emphasizes commonness."
+            },
+            {
+              "label": "C",
+              "text": "maintains the inherent American thinking mode."
+            },
+            {
+              "label": "D",
+              "text": "complies with the American belief system. 英语试题 . 4 . (共 14 页）"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 26,
+          "stem": "In Paragraphs 1 and 2, the text shows PTK's",
+          "choices": [
+            {
+              "label": "A",
+              "text": "easy availability."
+            },
+            {
+              "label": "B",
+              "text": "flexibility in pricing."
+            },
+            {
+              "label": "C",
+              "text": "successful promotion."
+            },
+            {
+              "label": "D",
+              "text": "popularity with households."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 27,
+          "stem": "PTK is used to",
+          "choices": [
+            {
+              "label": "A",
+              "text": "locate one's birth place."
+            },
+            {
+              "label": "B",
+              "text": "promote genetic research."
+            },
+            {
+              "label": "C",
+              "text": "identify parent-child kinship."
+            },
+            {
+              "label": "D",
+              "text": "choose children for adoption."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 28,
+          "stem": "Skeptical observers believe that ancestry testing fails to",
+          "choices": [
+            {
+              "label": "A",
+              "text": "trace distant ancestors."
+            },
+            {
+              "label": "B",
+              "text": "rebuild reliable bloodlines."
+            },
+            {
+              "label": "C",
+              "text": "fully use genetic information."
+            },
+            {
+              "label": "D",
+              "text": "achieve the claimed accuracy."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 29,
+          "stem": "In the last paragraph, a problem commercial genetic testing faces is",
+          "choices": [
+            {
+              "label": "A",
+              "text": "disorganized data collection."
+            },
+            {
+              "label": "B",
+              "text": "overlapping database building."
+            },
+            {
+              "label": "C",
+              "text": "excessive sample comparison."
+            },
+            {
+              "label": "D",
+              "text": "lack of patent evaluation."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 30,
+          "stem": "An appropriate title for the text is most likely to be",
+          "choices": [
+            {
+              "label": "A",
+              "text": "Fors and Againsts of DNA Testing."
+            },
+            {
+              "label": "B",
+              "text": "DNA Testing and Its Problems."
+            },
+            {
+              "label": "C",
+              "text": "DNA Testing Outside the Lab."
+            },
+            {
+              "label": "D",
+              "text": "Lies Behind DNA Testing. 英语试题 . 6 . (共 14 页）"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 31,
+          "stem": "The author holds in Paragraph 1 that the importance of education in poor\n             countries",
+          "choices": [
+            {
+              "label": "A",
+              "text": "is subject to groundless doubts."
+            },
+            {
+              "label": "B",
+              "text": "has fallen victim of bias."
+            },
+            {
+              "label": "C",
+              "text": "is conventionally downgraded."
+            },
+            {
+              "label": "D",
+              "text": "has been overestimated."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 32,
+          "stem": "It is stated in Paragraph 1 that the construction of a new educational system",
+          "choices": [
+            {
+              "label": "A",
+              "text": "challenges economists and politicians."
+            },
+            {
+              "label": "B",
+              "text": "takes efforts of generations."
+            },
+            {
+              "label": "C",
+              "text": "demands priority from the government."
+            },
+            {
+              "label": "D",
+              "text": "requires sufficient labor force."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 33,
+          "stem": "A major difference between the Japanese and U.S. workforces is that",
+          "choices": [
+            {
+              "label": "A",
+              "text": "the Japanese workforce is better disciplined."
+            },
+            {
+              "label": "B",
+              "text": "the Japanese workforce is more productive."
+            },
+            {
+              "label": "C",
+              "text": "the U.S. workforce has a better education."
+            },
+            {
+              "label": "D",
+              "text": "the U.S. workforce is more organized."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 34,
+          "stem": "The author quotes the example of our ancestors to show that education emerged",
+          "choices": [
+            {
+              "label": "A",
+              "text": "when people had enough time."
+            },
+            {
+              "label": "B",
+              "text": "prior to better ways of finding food."
+            },
+            {
+              "label": "C",
+              "text": "when people no longer went hungry."
+            },
+            {
+              "label": "D",
+              "text": "as a result of pressure on government."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 35,
+          "stem": "According to the last paragraph, development of education",
+          "choices": [
+            {
+              "label": "A",
+              "text": "results directly from competitive environments."
+            },
+            {
+              "label": "B",
+              "text": "does not depend on economic performance."
+            },
+            {
+              "label": "C",
+              "text": "follows improved productivity."
+            },
+            {
+              "label": "D",
+              "text": "cannot afford political changes. 英语试题 . 8 . (共 14 页）"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 36,
+          "stem": "The author holds that in the seventeenth-century New England",
+          "choices": [
+            {
+              "label": "A",
+              "text": "experienced a comparatively peaceful early history."
+            },
+            {
+              "label": "B",
+              "text": "brought with them the culture of the Old World."
+            },
+            {
+              "label": "C",
+              "text": "paid little attention to southern intellectual life."
+            },
+            {
+              "label": "D",
+              "text": "were obsessed with religious innovations."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 37,
+          "stem": "第37题（未提取到内容）",
+          "choices": [],
+          "type": "choice",
+          "warning": true
+        },
+        {
+          "number": 38,
+          "stem": "The early ministers and political leaders in Massachusetts Bay",
+          "choices": [
+            {
+              "label": "A",
+              "text": "were famous in the New World for their writings."
+            },
+            {
+              "label": "B",
+              "text": "gained increasing importance in religious affairs."
+            },
+            {
+              "label": "C",
+              "text": "abandoned high positions before coming to the New World."
+            },
+            {
+              "label": "D",
+              "text": "created a new intellectual atmosphere in New England."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 39,
+          "stem": "The story of John Dane shows that less well-educated New Englanders were\n            often",
+          "choices": [
+            {
+              "label": "A",
+              "text": "influenced by superstitions."
+            },
+            {
+              "label": "B",
+              "text": "troubled with religious beliefs."
+            },
+            {
+              "label": "C",
+              "text": "puzzled by church sermons."
+            },
+            {
+              "label": "D",
+              "text": "frustrated with family earnings."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 40,
+          "stem": "The text suggests that early settlers in New England",
+          "choices": [
+            {
+              "label": "A",
+              "text": "were mostly engaged in political activities."
+            },
+            {
+              "label": "B",
+              "text": "were motivated by an illusory prospect."
+            },
+            {
+              "label": "C",
+              "text": "came from different intellectual backgrounds."
+            },
+            {
+              "label": "D",
+              "text": ""
+            }
+          ],
+          "type": "choice"
+        }
+      ],
+      "warnings": [],
+      "text_count": 4,
+      "texts": [
+        {
+          "text_num": 1,
+          "article": "Habits are a funny thing. We reach for them mindlessly, setting our brains on\n                                                                          \n          auto-pilot and relaxing into the unconscious comfort of familiar routine. \"Not choice,\n          but habit rules the unreflecting herd,\" William Wordsworth said in the 19th century. In\n                                                                          \n          the ever-changing 21s t century, even the word \"habit\" carries a negative implication.\n             So it seems paradoxical to talk about habits in the same context as creativity and\n          innovation. But brain researchers have discovered that when we consciously develop\n                                                                          \n          new habits, we create parallel paths, and even entirely new brain cells, that can jump\n          our trains of thought onto new, innovative tracks.              \n                                                                          \n            Rather than dismissing ourselves as unchangeable creatures of habit, we can\n          instead direct our own change by consciously developing new habits. In fact, the\n          more new things we try - the more we step outside our comfort zone - the more\n                                                                          \n          inherently creative we become, both in the workplace and in our personal lives.\n             But don't bother trying to kill off old habits; once those ruts of procedure are\n          worn into the brain, they're there to stay. Instead, the new habits we deliberately press\n                                                                          \n          into ourselves create parallel pathways that can bypass those old roads.\n             \"The first thing needed for innovation is a fascination with wonder,\" says Dawna\n                                                                          \n          Markova, author of The Open Mind. \"But we are taught instead to 'decide' , just as\n          our president calls himself 'the Decider'. \" She adds, however, that \"to decide is to\n          kill off all possibilities but one. A good innovational thinker is always exploring the\n                                                                          \n          many other possibilities.\"                                      \n            All of us work through problems in ways of which we're unaware, she says.\n                                                                          \n          Researchers in the late 1960s discovered that humans are born with the capacity to\n          approach challenges in four primary ways: analytically, procedurally, relationally ( or\n          collaboratively) and innovatively. At the end of adolescence, however, the brain shuts\n                                                                          \n          down half of that capacity, preserving only those modes of thought that have seemed\n          most valuable during the first decade or so of life.            \n             The current emphasis on standardized testing highlights analysis and procedure,\n                                                                          \n          meaning that few of us inherently use our innovative and collaborative modes of\n          thought. \"This breaks the major rule in the American belief system - that anyone can\n                                                                          \n          do anything,\" explains M. J. Ryan, author of the 2006 book This Year I Will. .. and Ms.\n          Markova's business partner. \"That's a lie that we have perpetuated, and it fosters\n          commonness. Knowing what you're good at and doing even more of it creates\n                                                                          \n          excellence.\" This is where developing new habits comes in.      \n                                                                          \n                                                                          \n                           英语试题   . 3 . (共 14 页）",
+          "questions": [
+            {
+              "number": 21,
+              "stem": "In Wordsworth's view, \"habits\" is characterized by being",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "casual."
+                },
+                {
+                  "label": "B",
+                  "text": "familiar."
+                },
+                {
+                  "label": "C",
+                  "text": "mechanical."
+                },
+                {
+                  "label": "D",
+                  "text": "changeable."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 22,
+              "stem": "Brain researchers have discovered that the formation of new habits can be",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "predicted."
+                },
+                {
+                  "label": "B",
+                  "text": "regulated."
+                },
+                {
+                  "label": "C",
+                  "text": "traced."
+                },
+                {
+                  "label": "D",
+                  "text": "guided."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 23,
+              "stem": "The word \"ruts\" (Para. 4) is closest in meaning to",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "tracks."
+                },
+                {
+                  "label": "B",
+                  "text": "series."
+                },
+                {
+                  "label": "C",
+                  "text": "characteristics."
+                },
+                {
+                  "label": "D",
+                  "text": "connections."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 24,
+              "stem": "Dawna Markova would most probably agree that",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "ideas are born of a relaxing mind."
+                },
+                {
+                  "label": "B",
+                  "text": "innovativeness could be taught."
+                },
+                {
+                  "label": "C",
+                  "text": "decisiveness derives from fantastic ideas."
+                },
+                {
+                  "label": "D",
+                  "text": "curiosity activates creative minds."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 25,
+              "stem": "Ryan's comments suggest that the practice of standardized testing",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "prevents new habits from being formed."
+                },
+                {
+                  "label": "B",
+                  "text": "no longer emphasizes commonness."
+                },
+                {
+                  "label": "C",
+                  "text": "maintains the inherent American thinking mode."
+                },
+                {
+                  "label": "D",
+                  "text": "complies with the American belief system. 英语试题 . 4 . (共 14 页）"
+                }
+              ],
+              "type": "choice"
+            }
+          ]
+        },
+        {
+          "text_num": 2,
+          "article": "It is a wise father that knows his own child, but today a man can boost his\n          paternal (fatherly) wisdom -or at least confirm that he's the kid's dad. All he needs to\n          do is shell out $30 for a paternity testing kit (PTK) at his local drugstore -and another\n                                                                          \n          $120 to get the results.                                        \n            More than 60, 000 people have purchased the PTKs since they first became\n          available without prescriptions last year, according to Doug Fogg, chief operating\n                                                                          \n          officer of Identigene, which makes the over-the-counter kits. More than two dozen\n          companies sell DNA tests directly to the public, ranging in price from a few hundred\n          dollars to more than $ 2, 500.                                  \n                                                                          \n            Among the most popular: paternity and kinship testing, which adopted children\n          can use to find their biological relatives and families can use to track down kids put\n          up for adoption. DNA testing is also the latest rage among passionate genealogists -\n                                                                          \n          and supports businesses that offer to search for a family's geographic roots.\n            Most tests require collecting cells by swabbing saliva in the mouth and sending it\n                                                                          \n          to the company for testing. All tests require a potential candidate with whom to\n          compare DNA.                                                    \n            But some observers are skeptical. \"There's a kind of false precision being\n                                                                          \n          hawked by people claiming they are doing ancestry testing,\" says Troy Duster, a New\n          York University sociologist. He notes that each individual has many ancestors -\n          numbering in the hundreds just a few centuries back. Yet most ancestry testing only\n                                                                          \n          considers a single lineage, either the Y chromosome inherited through men in a\n          father's line or mitochondrial DNA, which is passed down only from mothers. This\n          DNA can reveal genetic information about only one or two ancestors, even though,\n                                                                          \n          for example, just three generations back people also have six other great-grandparents\n          or, four generations back, 14 other great-great-grandparents.   \n             Critics also argue that commercial genetic testing is only as good as the reference\n                                                                          \n          collections to which a sample is compared. Databases used by some companies don't\n          rely on data collected systematically but rather lump together information from\n          different research projects. This means that a DNA database may have a lot of data\n                                                                          \n          from some regions and not others, so a person's test results may differ depending on\n          the company that processes the results. In addition, the computer programs a\n          company uses to estimate relationships may be patented and not subject to peer\n                                                                          \n          review or outside evaluation.                                   \n                                                                          \n                                                                          \n                                                                          \n                           英语试题   . 5 . (共 14 页）",
+          "questions": [
+            {
+              "number": 26,
+              "stem": "In Paragraphs 1 and 2, the text shows PTK's",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "easy availability."
+                },
+                {
+                  "label": "B",
+                  "text": "flexibility in pricing."
+                },
+                {
+                  "label": "C",
+                  "text": "successful promotion."
+                },
+                {
+                  "label": "D",
+                  "text": "popularity with households."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 27,
+              "stem": "PTK is used to",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "locate one's birth place."
+                },
+                {
+                  "label": "B",
+                  "text": "promote genetic research."
+                },
+                {
+                  "label": "C",
+                  "text": "identify parent-child kinship."
+                },
+                {
+                  "label": "D",
+                  "text": "choose children for adoption."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 28,
+              "stem": "Skeptical observers believe that ancestry testing fails to",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "trace distant ancestors."
+                },
+                {
+                  "label": "B",
+                  "text": "rebuild reliable bloodlines."
+                },
+                {
+                  "label": "C",
+                  "text": "fully use genetic information."
+                },
+                {
+                  "label": "D",
+                  "text": "achieve the claimed accuracy."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 29,
+              "stem": "In the last paragraph, a problem commercial genetic testing faces is",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "disorganized data collection."
+                },
+                {
+                  "label": "B",
+                  "text": "overlapping database building."
+                },
+                {
+                  "label": "C",
+                  "text": "excessive sample comparison."
+                },
+                {
+                  "label": "D",
+                  "text": "lack of patent evaluation."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 30,
+              "stem": "An appropriate title for the text is most likely to be",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "Fors and Againsts of DNA Testing."
+                },
+                {
+                  "label": "B",
+                  "text": "DNA Testing and Its Problems."
+                },
+                {
+                  "label": "C",
+                  "text": "DNA Testing Outside the Lab."
+                },
+                {
+                  "label": "D",
+                  "text": "Lies Behind DNA Testing. 英语试题 . 6 . (共 14 页）"
+                }
+              ],
+              "type": "choice"
+            }
+          ]
+        },
+        {
+          "text_num": 3,
+          "article": "The relationship between formal education and economic growth in poor\n          countries is widely misunderstood by economists and politicians alike. Progress in\n                                                                          \n          both areas is undoubtedly necessary for the social, political, and intellectual\n          development of these and all other societies; however, the conventional view that\n          education should be one of the very highest priorities for promoting rapid economic\n          development in poor countries is wrong. We are fortunate that it is, because building\n          new educational systems there and putting enough people through them to improve\n          economic performance would require two or three generations. The findings of a\n          research institution have consistently shown that workers in all countries can be\n                                                                          \n          trained on the job to achieve radically higher productivity and, as a result, radically\n          higher standards ofliving.                                      \n            Ironically, the first evidence for this idea appeared in the United States. Not long\n          ago, with the country entering a recession and Japan at its pre-bubble peak, the U.S.\n          workforce was derided as poorly educated and one of the primary causes of the poor\n          U.S. economic performance. Japan was, and remains, the global leader in automotive­\n                                                                          \n          assembly productivity. Yet the research revealed that the U.S. factories of Honda,\n          Nissan, and Toyota achieved about 95 percent of the productivity of their Japanese\n          counterparts -a result of the training that U.S. workers received on the job.\n            More recently, while examining housing construction, the researchers discovered\n          that illiterate, non-English-speaking Mexican workers in Houston, Texas, consistently\n          met best-practice labor productivity standards despite the complexity of the building\n          industry's work.                                                \n                                                                          \n            What is the real relationship between education and economic development? We\n          have to suspect that continuing economic growth promotes the development of\n          education even when governments don't force it. After all, that's how education got\n          started. When our ancestors were hunters and gatherers 10, 000 years ago, they didn't\n          have time to wonder much about anything besides finding food. Only when humanity\n          began to get its food in a more productive way was there time for other things.\n                                                                          \n            As education improved, humanity's productivity potential increased as well.\n          When the competitive environment pushed our ancestors to achieve that potential,\n          they could in tum afford more education. This increasingly high level of education is\n          probably a necessary, but not a sufficient, condition for the complex political systems\n          required by advanced economic performance. Thus poor countries might not be able\n          to escape their poverty traps without political changes that may be possible only with\n          broader formal education. A lack of formal education, however, doesn't constrain the\n                                                                          \n          ability of the developing world's workforce to substantially improve productivity for\n          the foreseeable future. On the contrary, constraints on improving productivity explain\n          why education isn't developing more quickly there than itis.    \n                                                                          \n                                                                          \n                                                                          \n                                                                          \n                           英语试题   . 7 . (共 14 页）",
+          "questions": [
+            {
+              "number": 31,
+              "stem": "The author holds in Paragraph 1 that the importance of education in poor\n             countries",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "is subject to groundless doubts."
+                },
+                {
+                  "label": "B",
+                  "text": "has fallen victim of bias."
+                },
+                {
+                  "label": "C",
+                  "text": "is conventionally downgraded."
+                },
+                {
+                  "label": "D",
+                  "text": "has been overestimated."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 32,
+              "stem": "It is stated in Paragraph 1 that the construction of a new educational system",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "challenges economists and politicians."
+                },
+                {
+                  "label": "B",
+                  "text": "takes efforts of generations."
+                },
+                {
+                  "label": "C",
+                  "text": "demands priority from the government."
+                },
+                {
+                  "label": "D",
+                  "text": "requires sufficient labor force."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 33,
+              "stem": "A major difference between the Japanese and U.S. workforces is that",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "the Japanese workforce is better disciplined."
+                },
+                {
+                  "label": "B",
+                  "text": "the Japanese workforce is more productive."
+                },
+                {
+                  "label": "C",
+                  "text": "the U.S. workforce has a better education."
+                },
+                {
+                  "label": "D",
+                  "text": "the U.S. workforce is more organized."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 34,
+              "stem": "The author quotes the example of our ancestors to show that education emerged",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "when people had enough time."
+                },
+                {
+                  "label": "B",
+                  "text": "prior to better ways of finding food."
+                },
+                {
+                  "label": "C",
+                  "text": "when people no longer went hungry."
+                },
+                {
+                  "label": "D",
+                  "text": "as a result of pressure on government."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 35,
+              "stem": "According to the last paragraph, development of education",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "results directly from competitive environments."
+                },
+                {
+                  "label": "B",
+                  "text": "does not depend on economic performance."
+                },
+                {
+                  "label": "C",
+                  "text": "follows improved productivity."
+                },
+                {
+                  "label": "D",
+                  "text": "cannot afford political changes. 英语试题 . 8 . (共 14 页）"
+                }
+              ],
+              "type": "choice"
+            }
+          ]
+        },
+        {
+          "text_num": 4,
+          "article": "The most thoroughly studied intellectuals in the history of the New World are the\n                                                                          \n          ministers and political leaders of seventeenth-century New England. According to the\n          standard history of American philosophy, nowhere else in colonial America was \"so\n          much importance attached to intellectual pursuits.\" According to many books and\n          articles, New England's leaders established the basic themes and preoccupations of an\n                                                                          \n          unfolding, dominant Puritan tradition in American intellectual life.\n            To take this approach to the New Englanders normally means to start with the\n          Puritans' theological innovations and their distinctive ideas about the church -\n                                                                          \n          i ortant subjects that we may not neglect. But in keeping with our examination of\n          mp                                                              \n          southern intellectual life, we may consider the original Puritans as carriers of\n          European culture, adjusting to New World circumstances. The New England colonies\n          were the scenes of important episodes in the pursuit of widely understood ideals of\n          civility and virtuosity.                                        \n            The early settlers of Massachusetts Bay included men of impressive education\n          and influence in England. Besides the ninety or so learned ministers who came to\n          Massachusetts churches in the decade after 1629, there were political leaders like\n                                                                          \n          John Winthrop, an educated gentleman, lawyer, and official of the Crown before he\n         journeyed to Boston. These men wrote and published extensively, reaching both New\n          World and Old World audiences, and giving New England an atmosphere of\n                                                                          \n          intellectual earnestness.                                       \n            We  should not forget, however, that most New Englanders were less well\n          educated. While few craftsmen or farmers, let alone dependents and servants, left\n          literary compositions to be analyzed, it is obvious that their views were less fully\n                                                                          \n          intellectualized. Their thinking often had a traditional superstitious quality. A tailor\n          named John Dane, who emigrated in the late 1630s, left an account of his reasons for\n          leaving England that is filled with signs. Sexual confusion, economic frustrations, and\n          religious hope - all came together in a decisive moment when he opened the Bible,\n                                                                          \n          told his father that the first line he saw would settle his fate, and read the magical\n          words: \"Come out from among them, touch no unclean thing, and I will be your God\n          and you shall be my people.\" One wonders what Dane thought of the careful sermons\n          explaining the Bible that he heard in Puritan churches.         \n                                                                          \n            Meanwhile, many settlers had slighter religious commitments than Dane's, as\n          one clergyman learned in confronting folk along the coast who mocked that they had\n          not come to the New World for religion. \"Our main end was to catch fish.\"\n                                                                          \n                                                                          \n                                                                          \n                                                                          \n                                                                          \n                           英语试题   . 9 . (共 14 页）",
+          "questions": [
+            {
+              "number": 36,
+              "stem": "The author holds that in the seventeenth-century New England",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "experienced a comparatively peaceful early history."
+                },
+                {
+                  "label": "B",
+                  "text": "brought with them the culture of the Old World."
+                },
+                {
+                  "label": "C",
+                  "text": "paid little attention to southern intellectual life."
+                },
+                {
+                  "label": "D",
+                  "text": "were obsessed with religious innovations."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 38,
+              "stem": "The early ministers and political leaders in Massachusetts Bay",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "were famous in the New World for their writings."
+                },
+                {
+                  "label": "B",
+                  "text": "gained increasing importance in religious affairs."
+                },
+                {
+                  "label": "C",
+                  "text": "abandoned high positions before coming to the New World."
+                },
+                {
+                  "label": "D",
+                  "text": "created a new intellectual atmosphere in New England."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 39,
+              "stem": "The story of John Dane shows that less well-educated New Englanders were\n            often",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "influenced by superstitions."
+                },
+                {
+                  "label": "B",
+                  "text": "troubled with religious beliefs."
+                },
+                {
+                  "label": "C",
+                  "text": "puzzled by church sermons."
+                },
+                {
+                  "label": "D",
+                  "text": "frustrated with family earnings."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 40,
+              "stem": "The text suggests that early settlers in New England",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "were mostly engaged in political activities."
+                },
+                {
+                  "label": "B",
+                  "text": "were motivated by an illusory prospect."
+                },
+                {
+                  "label": "C",
+                  "text": "came from different intellectual backgrounds."
+                },
+                {
+                  "label": "D",
+                  "text": ""
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 37,
+              "stem": "第37题（未提取到内容）",
+              "choices": [],
+              "type": "choice",
+              "warning": true
+            }
+          ]
+        }
+      ]
+    },
+    "new-type": {
+      "name": "Part B 阅读新题型",
+      "type": "new_type",
+      "question_range": [
+        41,
+        45
+      ],
+      "text": "(41) ________ _                   \n            American social scientist Lewis Henry Morgan introduced another theory of\n          cultural evolution in the late 1800s. Morgan helped found modem anthr",
+      "article": "adjusting to New World circumstances. The New England colonies\nwere the scenes of important episodes in the pursuit of widely understood ideals of\ncivility and virtuosity.\nThe early settlers of Massachusetts Bay included men of impressive education\nand influence in England. Besides the ninety or so learned ministers who came to\nMassachusetts churches in the decade after 1629, there were political leaders like\nJohn Winthrop, an educated gentleman, lawyer, and official of the Crown before he\njourneyed to Boston. These men wrote and published extensively, reaching both New\nWorld and Old World audiences, and giving New England an atmosphere of\nintellectual earnestness.\nWe  should not forget, however, that most New Englanders were less well\neducated. While few craftsmen or farmers, let alone dependents and servants, left\nliterary compositions to be analyzed, it is obvious that their views were less fully\nintellectualized. Their thinking often had a traditional superstitious quality. A tailor\nnamed John Dane, who emigrated in the late 1630s, left an account of his reasons for\nleaving England that is filled with signs. Sexual confusion, economic frustrations, and\nreligious hope - all came together in a decisive moment when he opened the Bible,\ntold his father that the first line he saw would settle his fate, and read the magical\nwords: \"Come out from among them, touch no unclean thing, and I will be your God\nand you shall be my people.\" One wonders what Dane thought of the careful sermons\nexplaining the Bible that he heard in Puritan churches.\nMeanwhile, many settlers had slighter religious commitments than Dane's, as\none clergyman learned in confronting folk along the coast who mocked that they had\nnot come to the New World for religion. \"Our main end was to catch fish.\"\n3 7. It is suggested in Paragraph 2 that New Englanders\noften\nPartB\nIn the following text, some segments have been removed. For Questions 41-45,\nchoose the most suitable one from the list A-G to fit into each of the numbered blanks.\nCoinciding with the groundbreaking theory of biological evolution proposed by\nBritish naturalist Charles Darwin in the 1860s, British social philosopher Herbert\nSpencer put forward his own theory of biological and cultural evolution. Spencer\nargued that all worldly phenomena, including human societies, changed over time,\nadvancing toward perfection.",
+      "questions": [
+        {
+          "number": 41,
+          "stem": "(41) ________ _ American social scientist Lewis Henry Morgan introduced another theory of cultural evolution in the late 1800s. Morgan helped found modem anthropology - the scientific study of human societies, customs and beliefs - thus becoming one of",
+          "choices": [
+            {
+              "label": "A",
+              "text": "Other anthropologists believed that cultural innovations, such as inventions, had a single origin and passed from society to society. This theory was known as diffusionism."
+            },
+            {
+              "label": "B",
+              "text": "In order to study particular cultures as completely as possible, he became skilled in linguistics, the study of languages, and in physical anthropology, the study of human biology and anatomy."
+            },
+            {
+              "label": "C",
+              "text": "He argued that human evolution was characterized by a struggle he called the \"survival of the fittest,\" in which weaker races and societies must eventually be replaced by stronger, more advanced races and societies."
+            },
+            {
+              "label": "D",
+              "text": "They also focused on important rituals that appeared to preserve a people's social structure, such as initiation ceremonies that formally signify children's entrance into adulthood."
+            },
+            {
+              "label": "E",
+              "text": "Thus, in his view, diverse aspects of culture, such as the structure of families, forms of marriage, categories of kinship, ownership of property, forms of government, technology, and systems of food production, all changed as societies evolved."
+            },
+            {
+              "label": "F",
+              "text": "Supporters of the theory viewed culture as a collection of integrated parts that work together to keep a society functioning."
+            },
+            {
+              "label": "G",
+              "text": "For example, British anthropologists Grafton Elliot Smith and W. J. Perry incorrectly suggested, on the basis of inadequate information, that farming, pottery making, and metallurgy all originated in ancient Egypt and diffused throughout the world. In fact, all of these cultural developments occurre"
+            }
+          ],
+          "type": "new_type"
+        },
+        {
+          "number": 42,
+          "stem": "earliest anthropologists. In his work, he attempted to show how all aspects of culture changed together in the evolution of societies. ( 42) ________ _ In the early 1900s in North America, German-born American anthropologist Franz Boas developed a new theory of culture known as historical particularism. Historical particularism, wh",
+          "choices": [
+            {
+              "label": "A",
+              "text": "Other anthropologists believed that cultural innovations, such as inventions, had a single origin and passed from society to society. This theory was known as diffusionism."
+            },
+            {
+              "label": "B",
+              "text": "In order to study particular cultures as completely as possible, he became skilled in linguistics, the study of languages, and in physical anthropology, the study of human biology and anatomy."
+            },
+            {
+              "label": "C",
+              "text": "He argued that human evolution was characterized by a struggle he called the \"survival of the fittest,\" in which weaker races and societies must eventually be replaced by stronger, more advanced races and societies."
+            },
+            {
+              "label": "D",
+              "text": "They also focused on important rituals that appeared to preserve a people's social structure, such as initiation ceremonies that formally signify children's entrance into adulthood."
+            },
+            {
+              "label": "E",
+              "text": "Thus, in his view, diverse aspects of culture, such as the structure of families, forms of marriage, categories of kinship, ownership of property, forms of government, technology, and systems of food production, all changed as societies evolved."
+            },
+            {
+              "label": "F",
+              "text": "Supporters of the theory viewed culture as a collection of integrated parts that work together to keep a society functioning."
+            },
+            {
+              "label": "G",
+              "text": "For example, British anthropologists Grafton Elliot Smith and W. J. Perry incorrectly suggested, on the basis of inadequate information, that farming, pottery making, and metallurgy all originated in ancient Egypt and diffused throughout the world. In fact, all of these cultural developments occurre"
+            }
+          ],
+          "type": "new_type"
+        },
+        {
+          "number": 43,
+          "stem": "developed a new theory of culture known as historical particularism. Historical particularism, which emphasized the uniqueness of all cultures, gave new direction to anthropology. (43) ________ _ Boas felt that the culture of any society must be understood as the result of a unique history and not as one of many cultures belonging to a broader evolutionary",
+          "choices": [
+            {
+              "label": "A",
+              "text": "Other anthropologists believed that cultural innovations, such as inventions, had a single origin and passed from society to society. This theory was known as diffusionism."
+            },
+            {
+              "label": "B",
+              "text": "In order to study particular cultures as completely as possible, he became skilled in linguistics, the study of languages, and in physical anthropology, the study of human biology and anatomy."
+            },
+            {
+              "label": "C",
+              "text": "He argued that human evolution was characterized by a struggle he called the \"survival of the fittest,\" in which weaker races and societies must eventually be replaced by stronger, more advanced races and societies."
+            },
+            {
+              "label": "D",
+              "text": "They also focused on important rituals that appeared to preserve a people's social structure, such as initiation ceremonies that formally signify children's entrance into adulthood."
+            },
+            {
+              "label": "E",
+              "text": "Thus, in his view, diverse aspects of culture, such as the structure of families, forms of marriage, categories of kinship, ownership of property, forms of government, technology, and systems of food production, all changed as societies evolved."
+            },
+            {
+              "label": "F",
+              "text": "Supporters of the theory viewed culture as a collection of integrated parts that work together to keep a society functioning."
+            },
+            {
+              "label": "G",
+              "text": "For example, British anthropologists Grafton Elliot Smith and W. J. Perry incorrectly suggested, on the basis of inadequate information, that farming, pottery making, and metallurgy all originated in ancient Egypt and diffused throughout the world. In fact, all of these cultural developments occurre"
+            }
+          ],
+          "type": "new_type"
+        },
+        {
+          "number": 44,
+          "stem": "that the culture of any society must be understood as the result of a unique history and not as one of many cultures belonging to a broader evolutionary stage or type of culture. ( 44) _ _ _ _ _ _ _ _ Historical particularism became a dominant approach to the study of culture in American anthropology, largely through the influence of many students of Boas. But",
+          "choices": [
+            {
+              "label": "A",
+              "text": "Other anthropologists believed that cultural innovations, such as inventions, had a single origin and passed from society to society. This theory was known as diffusionism."
+            },
+            {
+              "label": "B",
+              "text": "In order to study particular cultures as completely as possible, he became skilled in linguistics, the study of languages, and in physical anthropology, the study of human biology and anatomy."
+            },
+            {
+              "label": "C",
+              "text": "He argued that human evolution was characterized by a struggle he called the \"survival of the fittest,\" in which weaker races and societies must eventually be replaced by stronger, more advanced races and societies."
+            },
+            {
+              "label": "D",
+              "text": "They also focused on important rituals that appeared to preserve a people's social structure, such as initiation ceremonies that formally signify children's entrance into adulthood."
+            },
+            {
+              "label": "E",
+              "text": "Thus, in his view, diverse aspects of culture, such as the structure of families, forms of marriage, categories of kinship, ownership of property, forms of government, technology, and systems of food production, all changed as societies evolved."
+            },
+            {
+              "label": "F",
+              "text": "Supporters of the theory viewed culture as a collection of integrated parts that work together to keep a society functioning."
+            },
+            {
+              "label": "G",
+              "text": "For example, British anthropologists Grafton Elliot Smith and W. J. Perry incorrectly suggested, on the basis of inadequate information, that farming, pottery making, and metallurgy all originated in ancient Egypt and diffused throughout the world. In fact, all of these cultural developments occurre"
+            }
+          ],
+          "type": "new_type"
+        },
+        {
+          "number": 45,
+          "stem": "achievement to the inventions of a few, especially gifted peoples that, according to diffusionists, then spread to other cultures. (45) _ Also in the early 1900s, French sociologist Emile Durkheim developed a theory of culture that would greatly influence anthropology. Durkheim proposed that religious beliefs functi",
+          "choices": [
+            {
+              "label": "A",
+              "text": "Other anthropologists believed that cultural innovations, such as inventions, had a single origin and passed from society to society. This theory was known as diffusionism."
+            },
+            {
+              "label": "B",
+              "text": "In order to study particular cultures as completely as possible, he became skilled in linguistics, the study of languages, and in physical anthropology, the study of human biology and anatomy."
+            },
+            {
+              "label": "C",
+              "text": "He argued that human evolution was characterized by a struggle he called the \"survival of the fittest,\" in which weaker races and societies must eventually be replaced by stronger, more advanced races and societies."
+            },
+            {
+              "label": "D",
+              "text": "They also focused on important rituals that appeared to preserve a people's social structure, such as initiation ceremonies that formally signify children's entrance into adulthood."
+            },
+            {
+              "label": "E",
+              "text": "Thus, in his view, diverse aspects of culture, such as the structure of families, forms of marriage, categories of kinship, ownership of property, forms of government, technology, and systems of food production, all changed as societies evolved."
+            },
+            {
+              "label": "F",
+              "text": "Supporters of the theory viewed culture as a collection of integrated parts that work together to keep a society functioning."
+            },
+            {
+              "label": "G",
+              "text": "For example, British anthropologists Grafton Elliot Smith and W. J. Perry incorrectly suggested, on the basis of inadequate information, that farming, pottery making, and metallurgy all originated in ancient Egypt and diffused throughout the world. In fact, all of these cultural developments occurre"
+            }
+          ],
+          "type": "new_type"
+        }
+      ],
+      "warnings": []
+    },
+    "translation": {
+      "name": "C节 翻译",
+      "type": "translation",
+      "question_range": [
+        46,
+        50
+      ],
+      "text": "( 46) It may be said that the measure of the worth of any social\n          institution is its effect in enlarging and improving experience, but this effect is not a\n          part of its original moti",
+      "article": "American social scientist Lewis Henry Morgan introduced another theory of\ncultural evolution in the late 1800s. Morgan helped found modem anthropology - the\nscientific study of human societies, customs and beliefs - thus becoming one of the\nearliest anthropologists. In his work, he attempted to show how all aspects of culture\nchanged together in the evolution of societies. ( 42) ________ _\nIn the early 1900s in North America, German-born American anthropologist\nFranz Boas developed a new theory of culture known as historical particularism.\nHistorical particularism, which emphasized the uniqueness of all cultures, gave new\nBoas felt that the culture of any society must be understood as the result of a\nunique history and not as one of many cultures belonging to a broader evolutionary\nstage or type of culture. ( 44) _ _ _ _ _ _ _ _\nHistorical particularism became a dominant approach to the study of culture in\nAmerican anthropology, largely through the influence of many students of Boas. But\na number of anthropologists in the early 1900s also rejected the particularist theory of\nculture in favor of diffusionism. Some attributed virtually every important cultural\nachievement to the inventions of a few, especially gifted peoples that, according to\ndiffusionists, then spread to other cultures. (45) _\nAlso in the early 1900s, French sociologist Emile Durkheim developed a theory\nof culture that would greatly influence anthropology. Durkheim proposed that\nreligious beliefs functioned to reinforce social solidarity. An interest in the\nrelationship between the function of society and culture became a major theme in\nEuropean, and especially British, anthropology.\na single origin and passed from society to society. This theory was known as\ndiffusionism.\nin linguistics, the study of languages, and in physical anthropology, the study of\nhuman biology and anatomy.\n\"survival of the fittest,\" in which weaker races and societies must eventually\nbe replaced by stronger, more advanced races and societies.\nstructure, such as initiation ceremonies that formally signify children's entrance\ninto adulthood.\nforms of marriage, categories of kinship, ownership of property, forms of\ngovernment, technology, and systems of food production, all changed as\nsocieties evolved.\nwork together to keep a society functioning.\nincorrectly suggested, on the basis of inadequate information, that farming,\npottery making, and metallurgy all originated in ancient Egypt and diffused\nthroughout the world. In fact, all of these cultural developments occurred\nseparately at different times in many parts of the world.\nPartC\npoints)\nThere is a marked difference between the education which every one gets from\nliving with others and the deliberate educating of the young. In the former case the\neducation is incidental; it is natural and important, but it is not the express reason of\nthe association.",
+      "questions": [
+        {
+          "number": 46,
+          "stem": "It may be said that the measure of the worth of any social institution is its effect in enlarging and improving experience, but this effect is not a part of its original motive. Religious associations began, for example, in the desire to secure the favor of overruling powers and to ward off evil influences; family life in the desire to gratify appetites and secure family perpetuity; systematic labor, for the most part, because of enslavement to others, etc.",
+          "choices": [],
+          "type": "translation"
+        },
+        {
+          "number": 47,
+          "stem": "Only gradually was the QY:­ product of the institution noted, and only more gradually still was this effect considered as a directive factor in the conduct of the institution. Even tod , in our ay industrial life, apart from certain values of industriousness and thrift, the intellectual and emotional reaction of the forms of human association under which the world' s work is carried on receives little attention as compared with physical output. But in dealing with the young, the fact of association itself as an immediate human fact, gains in importance.",
+          "choices": [],
+          "type": "translation"
+        },
+        {
+          "number": 48,
+          "stem": "While it is easy to ignore in our contact with them the effect of our acts upon their disposition, it is not so easy as in dealing with adults. The need of training is too evident and the pressure to accomplish a change in their attitude and habits is too urgent to leave these consequences wholly out of account.",
+          "choices": [],
+          "type": "translation"
+        },
+        {
+          "number": 49,
+          "stem": "Since our chief business with them is to enable them to share in a common life we cannot help considering whether or not we are forming the powers which will secure this ability. If humanity has made some headway in realizing that the ultimate value of every institution is its distinctively human effect we may well believe that this lesson has been learned largely through dealings with the young.",
+          "choices": [],
+          "type": "translation"
+        },
+        {
+          "number": 50,
+          "stem": "We are thus led to distinguish, within the broad educational process which we have been so far considering, a more formal kind of education - that of direct tuition or schooling. In undeveloped social groups, we find very little formal teaching and training. These groups mainly rely for instilling needed dispositions into the young upon the same sort of association which keeps adults loyal to their group. 英语试题 . 13 . (共 14 页）",
+          "choices": [],
+          "type": "translation"
+        }
+      ],
+      "warnings": []
+    },
+    "writing-a": {
+      "name": "A节 应用文写作",
+      "type": "writing_small",
+      "question_range": [
+        51,
+        51
+      ],
+      "text": "51. Directions:                                                 \n                                                                          \n             Restrictions on the use of plastic bags have no",
+      "article": "human biology and anatomy.\n\"survival of the fittest,\" in which weaker races and societies must eventually\nbe replaced by stronger, more advanced races and societies.\nstructure, such as initiation ceremonies that formally signify children's entrance\ninto adulthood.\nforms of marriage, categories of kinship, ownership of property, forms of\ngovernment, technology, and systems of food production, all changed as\nsocieties evolved.\nwork together to keep a society functioning.\nincorrectly suggested, on the basis of inadequate information, that farming,\npottery making, and metallurgy all originated in ancient Egypt and diffused\nthroughout the world. In fact, all of these cultural developments occurred\nseparately at different times in many parts of the world.\nPartC\npoints)\nThere is a marked difference between the education which every one gets from\nliving with others and the deliberate educating of the young. In the former case the\neducation is incidental; it is natural and important, but it is not the express reason of\nthe association. ( 46) It may be said that the measure of the worth of any social\ninstitution is its effect in enlarging and improving experience, but this effect is not a\npart of its original motive. Religious associations began, for example, in the desire to\nsecure the favor of overruling powers and to ward off evil influences; family life in\nthe desire to gratify appetites and secure family perpetuity; systematic labor, for the\nmost part, because of enslavement to others, etc. (47) Only gradually was the QY:­\nproduct of the institution noted, and only more gradually still was this effect\nconsidered as a directive factor in the conduct of the institution. Even tod , in our\nindustrial life, apart from certain values of industriousness and thrift, the intellectual\nand emotional reaction of the forms of human association under which the world' s\nwork is carried on receives little attention as compared with physical output.\nBut in dealing with the young, the fact of association itself as an immediate\nhuman fact, gains in importance. ( 48) While it is easy to ignore in our contact with\nthem the effect of our acts upon their disposition, it is not so easy as in dealing with\nadults. The need of training is too evident and the pressure to accomplish a change in\ntheir attitude and habits is too urgent to leave these consequences wholly out of\naccount. ( 49) Since our chief business with them is to enable them to share in a\ncommon life we cannot help considering whether or not we are forming the powers\nwhich will secure this ability. If humanity has made some headway in realizing that\nthe ultimate value of every institution is its distinctively human effect we may well\nbelieve that this lesson has been learned largely through dealings with the young.\n(50) We are thus led to distinguish, within the broad educational process which\nwe have been so far considering, a more formal kind of education - that of direct\ntuition or schooling. In undeveloped social groups, we find very little formal teaching\nand training. These groups mainly rely for instilling needed dispositions into the\nyoung upon the same sort of association which keeps adults loyal to their group.\nSection III Writing\nPart A",
+      "questions": [
+        {
+          "number": 51,
+          "stem": "Directions: Restrictions on the use of plastic bags have not been so successful in some regions. \"White Pollution\" is still going on. Write a letter to the editor(s) of your local newspaper to",
+          "choices": [],
+          "type": "writing_small"
+        }
+      ],
+      "warnings": []
+    },
+    "writing-b": {
+      "name": "B节 短文写作",
+      "type": "writing_big",
+      "question_range": [
+        52,
+        52
+      ],
+      "text": "52. Directions:                                                 \n            Write an essay of 160-200 words based on the following drawing. In your essay,\n          you should                        ",
+      "article": "ucture of families,\nforms of marriage, categories of kinship, ownership of property, forms of\ngovernment, technology, and systems of food production, all changed as\nsocieties evolved.\nwork together to keep a society functioning.\nincorrectly suggested, on the basis of inadequate information, that farming,\npottery making, and metallurgy all originated in ancient Egypt and diffused\nthroughout the world. In fact, all of these cultural developments occurred\nseparately at different times in many parts of the world.\nPartC\npoints)\nThere is a marked difference between the education which every one gets from\nliving with others and the deliberate educating of the young. In the former case the\neducation is incidental; it is natural and important, but it is not the express reason of\nthe association. ( 46) It may be said that the measure of the worth of any social\ninstitution is its effect in enlarging and improving experience, but this effect is not a\npart of its original motive. Religious associations began, for example, in the desire to\nsecure the favor of overruling powers and to ward off evil influences; family life in\nthe desire to gratify appetites and secure family perpetuity; systematic labor, for the\nmost part, because of enslavement to others, etc. (47) Only gradually was the QY:­\nproduct of the institution noted, and only more gradually still was this effect\nconsidered as a directive factor in the conduct of the institution. Even tod , in our\nindustrial life, apart from certain values of industriousness and thrift, the intellectual\nand emotional reaction of the forms of human association under which the world' s\nwork is carried on receives little attention as compared with physical output.\nBut in dealing with the young, the fact of association itself as an immediate\nhuman fact, gains in importance. ( 48) While it is easy to ignore in our contact with\nthem the effect of our acts upon their disposition, it is not so easy as in dealing with\nadults. The need of training is too evident and the pressure to accomplish a change in\ntheir attitude and habits is too urgent to leave these consequences wholly out of\naccount. ( 49) Since our chief business with them is to enable them to share in a\ncommon life we cannot help considering whether or not we are forming the powers\nwhich will secure this ability. If humanity has made some headway in realizing that\nthe ultimate value of every institution is its distinctively human effect we may well\nbelieve that this lesson has been learned largely through dealings with the young.\n(50) We are thus led to distinguish, within the broad educational process which\nwe have been so far considering, a more formal kind of education - that of direct\ntuition or schooling. In undeveloped social groups, we find very little formal teaching\nand training. These groups mainly rely for instilling needed dispositions into the\nyoung upon the same sort of association which keeps adults loyal to their group.\nSection III Writing\nPart A\nRestrictions on the use of plastic bags have not been so successful in some\nregions. \"White Pollution\" is still going on.\nWrite a letter to the editor(s) of your local newspaper to\nDo not sign your own name at the end of the letter. Use \"Li Ming\" instead.\nDo not write the address. (IO points)\nPartB",
+      "questions": [
+        {
+          "number": 52,
+          "stem": "Directions: Write an essay of 160-200 words based on the following drawing. In your essay, you should",
+          "choices": [],
+          "type": "writing_big"
+        }
+      ],
+      "warnings": []
+    }
+  }
+}

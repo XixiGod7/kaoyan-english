@@ -1,0 +1,1523 @@
+{
+  "year": 2010,
+  "filename": "2010.pdf",
+  "era": "era3",
+  "era_label": "第三阶段+(2005至今 英一)",
+  "total_pages": 15,
+  "max_question_number": 52,
+  "found_question_count": 46,
+  "extracted_question_count": 47,
+  "sections": {
+    "cloze": {
+      "name": "Section I 完形填空",
+      "type": "cloze",
+      "question_range": [
+        1,
+        20
+      ],
+      "text": "1. [A] affected [B] achieved EC] extracted [D] restored         \n                                       ：c]                                \n          2. [A] at      [B] up            with      [D] off",
+      "article": "Section I Use of English\nIn 1924 America's National Research Council sent two engineers to supervise a\nseries of experiments at a telephone-parts factory called the Hawthorne Plant near\nChicago. It hoped they would learn how shop-floor lighting ] workers5 productivity.\nInstead, the studies ended 2 giving their name to the “Hawthorne effect J the\nextremely influential idea that the very 3 of being experimented upon changed\nsubjects5 behavior.\nThe idea arose because of the 4 behavior of the women in the plant. According\nto  5 of the experiments, their hourly output rose when lighting was increased, but\nalso when it was dimmed. It did not 6 what was done in the experiment; 7\nsomething was changed, productivity rose. A(n) 8 that they were being experimented\nupon seemed to be 9 to alter workers5 behavior 10 itselfl\nAfter several decades, the same data were 11 to econometric analysis. The\nHawthorne experiments had another surprise in store. 12 the descriptions on\nrecord, no systematic 13 was found that levels of productivity were related to\nchanges in lighting.\nIt turns out that the peculiar way of conducting the experiments may have led to\n14 interpretations of what happened. 15 , lighting was always changed on a\nSunday. When work started again on Monday, output 16 rose compared with the\nprevious Saturday and 17 to rise for the next couple of days. 18 . a\ncomparison with data fbr weeks when there was no experimentation showed that\noutput always went up on Mondays. Workers 19 to be diligent for the first few\ndays of the week in any case, before 20 a plateau and then slackening off. This\nsuggests that the allegedcc Hawthorne effect55 is hard to pin down.",
+      "questions": [
+        {
+          "number": 1,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "affeted"
+            },
+            {
+              "label": "B",
+              "text": "ahieved"
+            },
+            {
+              "label": "C",
+              "text": "E extrated"
+            },
+            {
+              "label": "D",
+              "text": "restored"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 2,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "at"
+            },
+            {
+              "label": "B",
+              "text": "up"
+            },
+            {
+              "label": "C",
+              "text": "with"
+            },
+            {
+              "label": "D",
+              "text": "off"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 3,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "A truth"
+            },
+            {
+              "label": "B",
+              "text": "sight"
+            },
+            {
+              "label": "C",
+              "text": "at"
+            },
+            {
+              "label": "D",
+              "text": "proof"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 4,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "<ontroversial"
+            },
+            {
+              "label": "B",
+              "text": "perplexing"
+            },
+            {
+              "label": "C",
+              "text": "mishievous"
+            },
+            {
+              "label": "D",
+              "text": "ambiguous"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 5,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "A requirements"
+            },
+            {
+              "label": "B",
+              "text": "explanations"
+            },
+            {
+              "label": "C",
+              "text": "aounts"
+            },
+            {
+              "label": "D",
+              "text": "assessments"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 6,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "<onlude"
+            },
+            {
+              "label": "B",
+              "text": "matter"
+            },
+            {
+              "label": "C",
+              "text": "indiate"
+            },
+            {
+              "label": "D",
+              "text": "work"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 7,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "as far as"
+            },
+            {
+              "label": "B",
+              "text": "for fear that"
+            },
+            {
+              "label": "C",
+              "text": "in ase that"
+            },
+            {
+              "label": "D",
+              "text": "so long as"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 8,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "iawareness"
+            },
+            {
+              "label": "B",
+              "text": "expetation"
+            },
+            {
+              "label": "C",
+              "text": "sentiment"
+            },
+            {
+              "label": "D",
+              "text": "illusion"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 9,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "A ;suitable"
+            },
+            {
+              "label": "B",
+              "text": "exessive"
+            },
+            {
+              "label": "C",
+              "text": "enough"
+            },
+            {
+              "label": "D",
+              "text": "abundant"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 10,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "about"
+            },
+            {
+              "label": "B",
+              "text": "for"
+            },
+            {
+              "label": "C",
+              "text": "on"
+            },
+            {
+              "label": "D",
+              "text": ""
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 11,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "ompared"
+            },
+            {
+              "label": "B",
+              "text": "shown"
+            },
+            {
+              "label": "C",
+              "text": "subjeted"
+            },
+            {
+              "label": "D",
+              "text": "onveyed"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 12,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "ontrary to"
+            },
+            {
+              "label": "B",
+              "text": "onsistent with"
+            },
+            {
+              "label": "C",
+              "text": "Parallel with"
+            },
+            {
+              "label": "D",
+              "text": "Peuliar to"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 13,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "evidene"
+            },
+            {
+              "label": "B",
+              "text": "guidane"
+            },
+            {
+              "label": "C",
+              "text": "impliation"
+            },
+            {
+              "label": "D",
+              "text": "soure"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 14,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "disputable"
+            },
+            {
+              "label": "B",
+              "text": "enlightening"
+            },
+            {
+              "label": "C",
+              "text": "reliable"
+            },
+            {
+              "label": "D",
+              "text": "misleading"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 15,
+          "stem": "",
+          "choices": [],
+          "type": "choice"
+        },
+        {
+          "number": 16,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "duly"
+            },
+            {
+              "label": "B",
+              "text": "aidentally"
+            },
+            {
+              "label": "C",
+              "text": "unpreditably"
+            },
+            {
+              "label": "D",
+              "text": "suddenly"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 17,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "failed"
+            },
+            {
+              "label": "B",
+              "text": "eased"
+            },
+            {
+              "label": "C",
+              "text": "started"
+            },
+            {
+              "label": "D",
+              "text": "ontinued"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 18,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "Therefore"
+            },
+            {
+              "label": "B",
+              "text": "Furthermore"
+            },
+            {
+              "label": "C",
+              "text": "However"
+            },
+            {
+              "label": "D",
+              "text": "Meanwhile"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 19,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "attempted"
+            },
+            {
+              "label": "B",
+              "text": "tended"
+            },
+            {
+              "label": "C",
+              "text": "hose"
+            },
+            {
+              "label": "D",
+              "text": "intended"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 20,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "breaking"
+            },
+            {
+              "label": "B",
+              "text": "limbing"
+            },
+            {
+              "label": "C",
+              "text": "l surpassing"
+            },
+            {
+              "label": "D",
+              "text": "hitting"
+            }
+          ],
+          "type": "choice"
+        }
+      ],
+      "warnings": []
+    },
+    "reading-a": {
+      "name": "Section II 阅读A节",
+      "type": "reading",
+      "question_range": [
+        21,
+        40
+      ],
+      "text": "        \n          2. [A] at      [B] up            with      [D] off              \n                                       [c]                                \n          3. [A] truth   [B] sight       ",
+      "article": "Of all the changes that have taken place in English-language newspapers during the\n         past quarter-century, perhaps the most far-reaching has been the inexorable decline in\n         the scope and seriousness of their arts coverage.                \n                                                                          \n            It is difficult to the point of impossibility fbr the average reader under the age of\n         forty to imagine a time when high-quality arts criticism could be found in most big-cily\n                                                                          \n         newspapers. Yet a considerable number of the most significant collections of criticism\n         published in the 20th century consisted in large part of newspaper reviews. To read such\n                                                                          \n         books today is to marvel at the fact that their learned contents were once deemed\n         suitable fbr publication in general-circulation dailies.         \n                                                                          \n            We are even farther removed from the unfocused newspaper reviews published in\n         England between the turn of the 20th century and the eve of World War II at a time\n                                                          5               \n         when newsprint was dirt-cheap and stylish arts criticism was considered an ornament to\n         the publications in which it appeared. In those fer-ofF days, it was taken for granted that\n         the critics of major papers would write in detail and at length about the events they\n                                                                          \n         covered. Theirs was a serious business, and even those reviewers who wore their\n         learning lightly, like George Bernard Shaw and Ernest Newman, could be trusted to\n         know what they were about. These men believed in journalism as a calling, and were\n                                                                          \n         proud to be published in the daily press. t&So few authors have brains enough or literary\n         gift enough to keep their own end up in journalism/5 Newman wrote,cc that I am\n                                                                          \n         tempted to define 'journalism5 as fia term of contempt applied by writers who are not\n         read to writers who are                                          \n                                                                          \n            Unfortunately, these critics are virtually forgotten. Neville Cardus, who wrote for\n         the Manchester Guardian from 1917 until shortly before his death in 1975, is now\n                                                                          \n         known solely as a writer of essays on the game of cricket. During his lifetime, though,\n         he was also one of England's foremost classical-music critics, and a stylist so widely\n         admired that his Autobiography (1947) became a best-seller. He was knighted in 1967,\n                                                                          \n         the first music critic to be so honored. Yet only one of his books is now in print, and his\n         vast body of writings on music is unknown save to specialists.   \n                                                                          \n            Is there any chance that Cardus5s criticism will enjoy a revival? The prospect seems\n         remote. Journalistic tastes had changed long before his death, and postmodern readers\n                                                                          \n         have little use for the richly upholstered Vicwardian prose in which he specialized.\n         Moreover, the amateur tradition in music criticism has been in headlong retreat.\n                                                                          \n                                                                          \n                                                                          \n                           2010年英语（一）试题第3 页共14页\n\nOver the past decade, thousands of patents have been granted for what are called\n         business methods. Amazon.com received one fbr its uone-clickonline payment system.\n         Merrill Lynch got legal protection fbr an asset allocation strategy. One inventor patented\n                                                                          \n         a technique fbr lifting a box.                                   \n            Now the nation5 s top patent court appears completely ready to scale back on\n                                                                          \n         business-method patents, which have been controversial ever since they were first\n         authorized 10 years ago. In a move that has intellectual-property lawyers abuzz, the U.S.\n                                                                          \n         Court of Appeals fbr the Federal Circuit said it would use a particular case to conduct a\n         broad review of business-method patents. In re Bilski, as the case is known, is 66a very\n         big deal,“ says Dennis D. Crouch of the University of Missouri School of Law. It “has\n                                                                          \n         the potential to eliminate an entire class of patents.\"          \n            Curbs on business-method claims would be a dramatic about-fkce、because it was\n                                                                          \n         the Federal Circuit itself that introduced such patents with its 1998 decision in the\n         so-called State Street Bank case, approving a patent on a way of pooling mutual-fund\n                                                                          \n         assets. That ruling produced an explosion in business-method patent filings, initially by\n         emerging Internet companies trying to stake out exclusive rights to specific types of\n         online transactions. Later, more established companies raced to add such patents to their\n                                                                          \n         files, if only as a defensive move against rivals that might beat them to the punch. In\n         2005, IBM noted in a court filing that it had been issued more than 300 business-method\n                                                                          \n         patents, despite the fact that it questioned the legal basis fbr granting them. Similarly,\n         some Wall Street investment firms armed themselves with patents fbr financial products,\n         even as they took positions in court cases opposing the practice.\n                                                                          \n            The Bilski case involves a claimed patent on a method for hedging risk in the\n         energy market. The Federal Circuit issued an unusual order stating that the case would\n                                                                          \n         be heard by all 12 of the courfs judges, rather than a typical panel of three, and that one\n         issue it wants to evaluate is whether it should “reconsider“ its State Street Bank ruling.\n                                                                          \n            The Federal Circuifs action comes in the wake of a series of recent decisions by\n         the Supreme Court that has narrowed the scope of protections fbr patent holders. Last\n                                                                          \n         April, fbr example, the justices signaled that too many patents were being upheld for\n         “inventions” that are obvious. The judges on the Federal Circuit are \"reacting to the\n         anti-patent trend at the Supreme Court/9 says Harold C. Wegner, a patent attorney and\n                     ",
+      "questions": [
+        {
+          "number": 21,
+          "stem": "It is indicated in Paragraphs 1 and 2 that",
+          "choices": [
+            {
+              "label": "A",
+              "text": "arts criticism has disappeared from big-city newspapers."
+            },
+            {
+              "label": "B",
+              "text": "English-language newspapers used to carry more arts reviews."
+            },
+            {
+              "label": "C",
+              "text": "high-quality newspapers retain a large body of readers."
+            },
+            {
+              "label": "D",
+              "text": "young readers doubt the suitability of criticism on dailies."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 22,
+          "stem": "Newspaper reviews in England before World War II were characterized by",
+          "choices": [
+            {
+              "label": "A",
+              "text": "free themes."
+            },
+            {
+              "label": "B",
+              "text": "casual style."
+            },
+            {
+              "label": "C",
+              "text": "elaborate layout."
+            },
+            {
+              "label": "D",
+              "text": "radical viewpoints."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 23,
+          "stem": "Which of the following would Shaw and Newman most probably agree on?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "It is writers9 duty to fulfill journalistic goals."
+            },
+            {
+              "label": "B",
+              "text": "It is contemptible fbr writers to be journalists."
+            },
+            {
+              "label": "C",
+              "text": "Writers are likely to be tempted into journalism."
+            },
+            {
+              "label": "D",
+              "text": "Not all writers are capable ofjoumalistic writing."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 24,
+          "stem": "What can be learned about Cardus according to the last two paragraphs?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "His music criticism may not appeal to readers today."
+            },
+            {
+              "label": "B",
+              "text": "His reputation as a music critic has long been in dispute."
+            },
+            {
+              "label": "C",
+              "text": "His style caters largely to modem specialists."
+            },
+            {
+              "label": "D",
+              "text": "His writings fail to follow the amateur tradition."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 25,
+          "stem": "What would be the best title for the text?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "Newspapers of the Good Old Days"
+            },
+            {
+              "label": "B",
+              "text": "The Lost Horizon in Newspapers"
+            },
+            {
+              "label": "C",
+              "text": "Mournful Decline of Journalism"
+            },
+            {
+              "label": "D",
+              "text": "Prominent Critics in Memory 2010年英语（一）试题第4 页共14页"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 26,
+          "stem": "Business-method patents have recently aroused concern because of",
+          "choices": [
+            {
+              "label": "A",
+              "text": "their limited value to businesses."
+            },
+            {
+              "label": "B",
+              "text": "their connection with asset allocation."
+            },
+            {
+              "label": "C",
+              "text": "the possible restriction on their granting."
+            },
+            {
+              "label": "D",
+              "text": "the controversy over their authorization."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 27,
+          "stem": "Which of the following is true of the Bilski case?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "Its ruling complies with the court decisions."
+            },
+            {
+              "label": "B",
+              "text": "It involves a very big business transaction."
+            },
+            {
+              "label": "C",
+              "text": "It has been dismissed by the Federal Circuit."
+            },
+            {
+              "label": "D",
+              "text": "It may change the legal practices in the U.S."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 28,
+          "stem": "The word ccabout-face(Line 1 Para. 3) most probably means    \n                                ?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "loss of goodwill."
+            },
+            {
+              "label": "B",
+              "text": "increase of hostility."
+            },
+            {
+              "label": "C",
+              "text": "change of attitude."
+            },
+            {
+              "label": "D",
+              "text": "enhancement of dignity."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 29,
+          "stem": "We learn from the last two paragraphs that business-method patents",
+          "choices": [
+            {
+              "label": "A",
+              "text": "are immune to legal challenges."
+            },
+            {
+              "label": "B",
+              "text": "are often unnecessarily issued."
+            },
+            {
+              "label": "C",
+              "text": "lower the esteem for patent holders."
+            },
+            {
+              "label": "D",
+              "text": "increase the incidence of risks."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 30,
+          "stem": "Which of the following would be the subject of the text?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "A looming threat to business-method patents."
+            },
+            {
+              "label": "B",
+              "text": "Protection for business-method patent holders."
+            },
+            {
+              "label": "C",
+              "text": "A legal case regarding business-method patents."
+            },
+            {
+              "label": "D",
+              "text": "A prevailing trend against business-method patents. 2010年英语（一）试题第6 页共14页"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 31,
+          "stem": "By citing the book The Tipping Pointy the author intends to",
+          "choices": [
+            {
+              "label": "A",
+              "text": "analyze the consequences of social epidemics."
+            },
+            {
+              "label": "B",
+              "text": "discuss influential5 fimction in spreading ideas."
+            },
+            {
+              "label": "C",
+              "text": "exemplify people's intuitive response to social epidemics."
+            },
+            {
+              "label": "D",
+              "text": "describe the essential characteristics of influentials."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 32,
+          "stem": "The author suggests that the C4two-step-flow theory99",
+          "choices": [
+            {
+              "label": "A",
+              "text": "serves as a solution to marketing problems."
+            },
+            {
+              "label": "B",
+              "text": "has helped explain certain prevalent trends."
+            },
+            {
+              "label": "C",
+              "text": "has won support from influentials."
+            },
+            {
+              "label": "D",
+              "text": "requires solid evidence for its validity."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 33,
+          "stem": "What the researchers have observed recently shows that",
+          "choices": [
+            {
+              "label": "A",
+              "text": "the power of influence goes with social interactions."
+            },
+            {
+              "label": "B",
+              "text": ""
+            },
+            {
+              "label": "C",
+              "text": ""
+            },
+            {
+              "label": "D",
+              "text": "most celebrities enjoy wide media attention."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 34,
+          "stem": "The underlined phrase these people59 in Paragraph 4 refers to the ones who",
+          "choices": [
+            {
+              "label": "A",
+              "text": "stay outside the network of social influence."
+            },
+            {
+              "label": "B",
+              "text": "have little contact with the source of influence."
+            },
+            {
+              "label": "C",
+              "text": "are influenced and then influence others."
+            },
+            {
+              "label": "D",
+              "text": "are influenced by the initial influential."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 35,
+          "stem": "What is the essential element in the dynamics of social influence?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "The eagerness to be accepted."
+            },
+            {
+              "label": "B",
+              "text": "The impulse to influence others."
+            },
+            {
+              "label": "C",
+              "text": "The readiness to be influenced."
+            },
+            {
+              "label": "D",
+              "text": "The inclination to rely on others. 2010年英语（一）试题第8 页共14页"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 36,
+          "stem": "Bankers complained that they were forced to",
+          "choices": [
+            {
+              "label": "A",
+              "text": "follow unfavorable asset evaluation rules."
+            },
+            {
+              "label": "B",
+              "text": "collect payments from third parties."
+            },
+            {
+              "label": "C",
+              "text": "cooperate with the price managers."
+            },
+            {
+              "label": "D",
+              "text": "reevaluate some of their assets."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 37,
+          "stem": "According to the author, the rule changes of the FASB may result in",
+          "choices": [
+            {
+              "label": "A",
+              "text": "the diminishing role of management."
+            },
+            {
+              "label": "B",
+              "text": "the revival of the banking system."
+            },
+            {
+              "label": "C",
+              "text": "the banks9 long-term asset losses."
+            },
+            {
+              "label": "D",
+              "text": "the weakening of its independence."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 38,
+          "stem": "According to Paragraph 4, McCreevy objects to the IASB?s attempt to",
+          "choices": [
+            {
+              "label": "A",
+              "text": "keep away from political influences."
+            },
+            {
+              "label": "B",
+              "text": "evade the pressure from their peers."
+            },
+            {
+              "label": "C",
+              "text": "act on their own in rule-setting."
+            },
+            {
+              "label": "D",
+              "text": "take gradual measures in reform."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 39,
+          "stem": "The author thinks the banks were Cfion the wrong planet59 in that they",
+          "choices": [
+            {
+              "label": "A",
+              "text": "misinterpreted market price indicators."
+            },
+            {
+              "label": "B",
+              "text": "exaggerated the real value of their assets."
+            },
+            {
+              "label": "C",
+              "text": "neglected the likely existence of bad debts."
+            },
+            {
+              "label": "D",
+              "text": "denied booking losses in their sale of assets."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 40,
+          "stem": "The author's attitude towards standard-setters is one of",
+          "choices": [
+            {
+              "label": "A",
+              "text": "satisfection."
+            },
+            {
+              "label": "B",
+              "text": "skepticism."
+            },
+            {
+              "label": "C",
+              "text": "objectiveness."
+            },
+            {
+              "label": "D",
+              "text": ""
+            }
+          ],
+          "type": "choice"
+        }
+      ],
+      "warnings": [],
+      "text_count": 4,
+      "texts": [
+        {
+          "text_num": 1,
+          "article": "Of all the changes that have taken place in English-language newspapers during the\n         past quarter-century, perhaps the most far-reaching has been the inexorable decline in\n         the scope and seriousness of their arts coverage.                \n                                                                          \n            It is difficult to the point of impossibility fbr the average reader under the age of\n         forty to imagine a time when high-quality arts criticism could be found in most big-cily\n                                                                          \n         newspapers. Yet a considerable number of the most significant collections of criticism\n         published in the 20th century consisted in large part of newspaper reviews. To read such\n                                                                          \n         books today is to marvel at the fact that their learned contents were once deemed\n         suitable fbr publication in general-circulation dailies.         \n                                                                          \n            We are even farther removed from the unfocused newspaper reviews published in\n         England between the turn of the 20th century and the eve of World War II at a time\n                                                          5               \n         when newsprint was dirt-cheap and stylish arts criticism was considered an ornament to\n         the publications in which it appeared. In those fer-ofF days, it was taken for granted that\n         the critics of major papers would write in detail and at length about the events they\n                                                                          \n         covered. Theirs was a serious business, and even those reviewers who wore their\n         learning lightly, like George Bernard Shaw and Ernest Newman, could be trusted to\n         know what they were about. These men believed in journalism as a calling, and were\n                                                                          \n         proud to be published in the daily press. t&So few authors have brains enough or literary\n         gift enough to keep their own end up in journalism/5 Newman wrote,cc that I am\n                                                                          \n         tempted to define 'journalism5 as fia term of contempt applied by writers who are not\n         read to writers who are                                          \n                                                                          \n            Unfortunately, these critics are virtually forgotten. Neville Cardus, who wrote for\n         the Manchester Guardian from 1917 until shortly before his death in 1975, is now\n                                                                          \n         known solely as a writer of essays on the game of cricket. During his lifetime, though,\n         he was also one of England's foremost classical-music critics, and a stylist so widely\n         admired that his Autobiography (1947) became a best-seller. He was knighted in 1967,\n                                                                          \n         the first music critic to be so honored. Yet only one of his books is now in print, and his\n         vast body of writings on music is unknown save to specialists.   \n                                                                          \n            Is there any chance that Cardus5s criticism will enjoy a revival? The prospect seems\n         remote. Journalistic tastes had changed long before his death, and postmodern readers\n                                                                          \n         have little use for the richly upholstered Vicwardian prose in which he specialized.\n         Moreover, the amateur tradition in music criticism has been in headlong retreat.\n                                                                          \n                                                                          \n                                                                          \n                           2010年英语（一）试题第3 页共14页",
+          "questions": [
+            {
+              "number": 21,
+              "stem": "It is indicated in Paragraphs 1 and 2 that",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "arts criticism has disappeared from big-city newspapers."
+                },
+                {
+                  "label": "B",
+                  "text": "English-language newspapers used to carry more arts reviews."
+                },
+                {
+                  "label": "C",
+                  "text": "high-quality newspapers retain a large body of readers."
+                },
+                {
+                  "label": "D",
+                  "text": "young readers doubt the suitability of criticism on dailies."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 22,
+              "stem": "Newspaper reviews in England before World War II were characterized by",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "free themes."
+                },
+                {
+                  "label": "B",
+                  "text": "casual style."
+                },
+                {
+                  "label": "C",
+                  "text": "elaborate layout."
+                },
+                {
+                  "label": "D",
+                  "text": "radical viewpoints."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 23,
+              "stem": "Which of the following would Shaw and Newman most probably agree on?",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "It is writers9 duty to fulfill journalistic goals."
+                },
+                {
+                  "label": "B",
+                  "text": "It is contemptible fbr writers to be journalists."
+                },
+                {
+                  "label": "C",
+                  "text": "Writers are likely to be tempted into journalism."
+                },
+                {
+                  "label": "D",
+                  "text": "Not all writers are capable ofjoumalistic writing."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 24,
+              "stem": "What can be learned about Cardus according to the last two paragraphs?",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "His music criticism may not appeal to readers today."
+                },
+                {
+                  "label": "B",
+                  "text": "His reputation as a music critic has long been in dispute."
+                },
+                {
+                  "label": "C",
+                  "text": "His style caters largely to modem specialists."
+                },
+                {
+                  "label": "D",
+                  "text": "His writings fail to follow the amateur tradition."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 25,
+              "stem": "What would be the best title for the text?",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "Newspapers of the Good Old Days"
+                },
+                {
+                  "label": "B",
+                  "text": "The Lost Horizon in Newspapers"
+                },
+                {
+                  "label": "C",
+                  "text": "Mournful Decline of Journalism"
+                },
+                {
+                  "label": "D",
+                  "text": "Prominent Critics in Memory 2010年英语（一）试题第4 页共14页"
+                }
+              ],
+              "type": "choice"
+            }
+          ]
+        },
+        {
+          "text_num": 2,
+          "article": "Over the past decade, thousands of patents have been granted for what are called\n         business methods. Amazon.com received one fbr its uone-clickonline payment system.\n         Merrill Lynch got legal protection fbr an asset allocation strategy. One inventor patented\n                                                                          \n         a technique fbr lifting a box.                                   \n            Now the nation5 s top patent court appears completely ready to scale back on\n                                                                          \n         business-method patents, which have been controversial ever since they were first\n         authorized 10 years ago. In a move that has intellectual-property lawyers abuzz, the U.S.\n                                                                          \n         Court of Appeals fbr the Federal Circuit said it would use a particular case to conduct a\n         broad review of business-method patents. In re Bilski, as the case is known, is 66a very\n         big deal,“ says Dennis D. Crouch of the University of Missouri School of Law. It “has\n                                                                          \n         the potential to eliminate an entire class of patents.\"          \n            Curbs on business-method claims would be a dramatic about-fkce、because it was\n                                                                          \n         the Federal Circuit itself that introduced such patents with its 1998 decision in the\n         so-called State Street Bank case, approving a patent on a way of pooling mutual-fund\n                                                                          \n         assets. That ruling produced an explosion in business-method patent filings, initially by\n         emerging Internet companies trying to stake out exclusive rights to specific types of\n         online transactions. Later, more established companies raced to add such patents to their\n                                                                          \n         files, if only as a defensive move against rivals that might beat them to the punch. In\n         2005, IBM noted in a court filing that it had been issued more than 300 business-method\n                                                                          \n         patents, despite the fact that it questioned the legal basis fbr granting them. Similarly,\n         some Wall Street investment firms armed themselves with patents fbr financial products,\n         even as they took positions in court cases opposing the practice.\n                                                                          \n            The Bilski case involves a claimed patent on a method for hedging risk in the\n         energy market. The Federal Circuit issued an unusual order stating that the case would\n                                                                          \n         be heard by all 12 of the courfs judges, rather than a typical panel of three, and that one\n         issue it wants to evaluate is whether it should “reconsider“ its State Street Bank ruling.\n                                                                          \n            The Federal Circuifs action comes in the wake of a series of recent decisions by\n         the Supreme Court that has narrowed the scope of protections fbr patent holders. Last\n                                                                          \n         April, fbr example, the justices signaled that too many patents were being upheld for\n         “inventions” that are obvious. The judges on the Federal Circuit are \"reacting to the\n         anti-patent trend at the Supreme Court/9 says Harold C. Wegner, a patent attorney and\n                                                                          \n         professor at George Washington University Law School.            \n                                                                          \n                                                                          \n                                                                          \n                           2010年英语（一）试题第5 页共14页",
+          "questions": [
+            {
+              "number": 26,
+              "stem": "Business-method patents have recently aroused concern because of",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "their limited value to businesses."
+                },
+                {
+                  "label": "B",
+                  "text": "their connection with asset allocation."
+                },
+                {
+                  "label": "C",
+                  "text": "the possible restriction on their granting."
+                },
+                {
+                  "label": "D",
+                  "text": "the controversy over their authorization."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 27,
+              "stem": "Which of the following is true of the Bilski case?",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "Its ruling complies with the court decisions."
+                },
+                {
+                  "label": "B",
+                  "text": "It involves a very big business transaction."
+                },
+                {
+                  "label": "C",
+                  "text": "It has been dismissed by the Federal Circuit."
+                },
+                {
+                  "label": "D",
+                  "text": "It may change the legal practices in the U.S."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 28,
+              "stem": "The word ccabout-face(Line 1 Para. 3) most probably means    \n                                ?",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "loss of goodwill."
+                },
+                {
+                  "label": "B",
+                  "text": "increase of hostility."
+                },
+                {
+                  "label": "C",
+                  "text": "change of attitude."
+                },
+                {
+                  "label": "D",
+                  "text": "enhancement of dignity."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 29,
+              "stem": "We learn from the last two paragraphs that business-method patents",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "are immune to legal challenges."
+                },
+                {
+                  "label": "B",
+                  "text": "are often unnecessarily issued."
+                },
+                {
+                  "label": "C",
+                  "text": "lower the esteem for patent holders."
+                },
+                {
+                  "label": "D",
+                  "text": "increase the incidence of risks."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 30,
+              "stem": "Which of the following would be the subject of the text?",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "A looming threat to business-method patents."
+                },
+                {
+                  "label": "B",
+                  "text": "Protection for business-method patent holders."
+                },
+                {
+                  "label": "C",
+                  "text": "A legal case regarding business-method patents."
+                },
+                {
+                  "label": "D",
+                  "text": "A prevailing trend against business-method patents. 2010年英语（一）试题第6 页共14页"
+                }
+              ],
+              "type": "choice"
+            }
+          ]
+        },
+        {
+          "text_num": 3,
+          "article": "In his book The Tipping Point, Malcolm Gladwell argues that “social epidemics55\n         are driven in large part by the actions of a tiny minority of special individuals, often\n         called influentials, who are unusually informed, persuasive, or well connected. The idea\n         is intuitively compelling, but it doesn't explain how ideas actually spread.\n                                                                          \n            The supposed importance of influentials derives from a plausible-sounding but\n         largely untested theory called the \"two-step flow of communication5,: Information flows\n         from the media to the influentials and from them to everyone else. Marketers have\n                                                                          \n         embraced the two-step flow because it suggests that if they can just find and influence\n         the influentials, those select people will do most of the work for them. The theory also\n         seems to explain the sudden and unexpected popularity of certain looks, brands, or\n         neighborhoods. In many such cases, a cursory search for causes finds that some small\n                                                                          \n         group of people was wearing, promoting, or developing whatever it is before anyone\n         else paid attention. Anecdotal evidence of this kind fits nicely with the idea that only\n         certain special people can drive trends.                         \n                                                                          \n            In their recent work, however, some researchers have come up with the finding that\n         influentials have far less impact on social epidemics than is generally supposed. In fact,\n         they don't seem to be required at all.                           \n                                                                          \n            The researchers9 argument stems from a simple observation about social influence:\n         With the exception of a few celebrities like Oprah Winfrey 一 whose outsize presence\n         is primarily a fimction of media, not interpersonal, influence- even the most influential\n                                                                          \n         members of a population simply don't interact with that many others. Yet it is\n         precisely these non-celebrity influentials who, according to the two-step-flow theory,\n         are supposed to drive social epidemics, by influencing their friends and colleagues\n                                                                          \n         directly. For a social epidemic to occur, however, each person so affected must then\n         influence his or her own acquaintances, who must in turn influence theirs, and so on; and\n         just how many others pay attention to each of these people has little to do with the initial\n         influential. If people in the network just two degrees removed from the initial\n                                                                          \n         influential prove resistant, for example, the cascade of change won5t propagate very far\n         or affect many people.                                           \n            Building on the basic truth about interpersonal influence, the researchers studied the\n                                                                          \n         dynamics of social influence by conducting thousands of computer simulations of\n         populations, manipulating a number of variables relating to people's ability to influence\n         others and their tendency to be influenced. They found that the principal requirement for\n         what is called 66 global cascades- the widespread propagation of influence through\n                                                                          \n         networks一is the presence not of a few influentials but, rather, of a critical mass of easily\n         influenced people.                                               \n                                                                          \n                                                                          \n                           2010年英语（一）试题第7 页共14页",
+          "questions": [
+            {
+              "number": 31,
+              "stem": "By citing the book The Tipping Pointy the author intends to",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "analyze the consequences of social epidemics."
+                },
+                {
+                  "label": "B",
+                  "text": "discuss influential5 fimction in spreading ideas."
+                },
+                {
+                  "label": "C",
+                  "text": "exemplify people's intuitive response to social epidemics."
+                },
+                {
+                  "label": "D",
+                  "text": "describe the essential characteristics of influentials."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 32,
+              "stem": "The author suggests that the C4two-step-flow theory99",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "serves as a solution to marketing problems."
+                },
+                {
+                  "label": "B",
+                  "text": "has helped explain certain prevalent trends."
+                },
+                {
+                  "label": "C",
+                  "text": "has won support from influentials."
+                },
+                {
+                  "label": "D",
+                  "text": "requires solid evidence for its validity."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 33,
+              "stem": "What the researchers have observed recently shows that",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "the power of influence goes with social interactions."
+                },
+                {
+                  "label": "B",
+                  "text": ""
+                },
+                {
+                  "label": "C",
+                  "text": ""
+                },
+                {
+                  "label": "D",
+                  "text": "most celebrities enjoy wide media attention."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 34,
+              "stem": "The underlined phrase these people59 in Paragraph 4 refers to the ones who",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "stay outside the network of social influence."
+                },
+                {
+                  "label": "B",
+                  "text": "have little contact with the source of influence."
+                },
+                {
+                  "label": "C",
+                  "text": "are influenced and then influence others."
+                },
+                {
+                  "label": "D",
+                  "text": "are influenced by the initial influential."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 35,
+              "stem": "What is the essential element in the dynamics of social influence?",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "The eagerness to be accepted."
+                },
+                {
+                  "label": "B",
+                  "text": "The impulse to influence others."
+                },
+                {
+                  "label": "C",
+                  "text": "The readiness to be influenced."
+                },
+                {
+                  "label": "D",
+                  "text": "The inclination to rely on others. 2010年英语（一）试题第8 页共14页"
+                }
+              ],
+              "type": "choice"
+            }
+          ]
+        },
+        {
+          "text_num": 4,
+          "article": "Bankers have been blaming themselves for their troubles in public. Behind the\n         scenes, they have been taking aim at someone else: the accounting standard-setters.\n         Their rules, moan the banks, have forced them to report enormous losses, and it's just\n         not fair. These rules say they must value some assets at the price a third party would\n                                                                          \n         pay, not the price managers and regulators would like them to fetch.\n            Unfortunately, banks5 lobbying now seems to be working. The details may be\n                                                                          \n         unknowable, but the independence of standard-setters, essential to the proper functioning\n         of capital markets, is being compromised. And, unless banks carry toxic assets at prices\n         that attract buyers, reviving the banking system will be difficult.\n                                                                          \n            After a bruising encounter with Congress, America's Financial Accounting Standards\n         Board (FASB) rushed through rule changes. These gave banks more freedom to use\n         models to value illiquid assets and more flexibility in recognizing losses on long-term\n                                                                          \n         assets in their income statements. Bob Herz, the FASB5s chairman, cried out against\n         those who \"question our motives.\" Yet bank shares rose and the changes enhance what\n         one lobbying group politely calls \"the use of judgment by management.^^\n                                                                          \n            European ministers instantly demanded that the International Accounting Standards\n         Board (IASB) do likewise. The IASB says it does not want to act without overall\n                                                                          \n         planning, but the pressure to fold when it completes its reconstruction of rules later this\n         year is strong. Charlie McCreevy, a European commissioner, warned the IASB that it did\n         “not live in a political vacuum55 but \"in the real world“ and that Europe could yet\n         develop different rules.                                         \n                                                                          \n            It was banks that were on the wrong planet, with accounts that vastly overvalued\n         assets. Today they argue that market prices overstate losses, because they largely reflect\n                                                                          \n         the temporary illiquidity of markets, not the likely extent of bad debts. The truth will\n         not be known for years. But banks5 shares trade below their book value, suggesting\n         that investors are skeptical. And dead markets partly reflect the paralysis of banks\n                                                                          \n         which will not sell assets for fear of booking losses, yet are reluctant to buy all those\n         supposed bargains.                                               \n            To get the system working again, losses must be recognized and dealt with.\n                                                                          \n         America's new plan to buy up toxic assets will not work unless banks mark assets to\n         levels which buyers find attractive. Successful markets require independent and even\n         combative standard-setters. The FASB and IASB have been exactly that, cleaning up\n                                                                          \n         rules on stock options and pensions, fbr example, against hostility from special interests.\n         But by giving in to critics now they are inviting pressure to make more concessions.\n                                                                          \n                                                                          \n                                                                          \n                           2010年英语（一）试题第9 页共14页",
+          "questions": [
+            {
+              "number": 36,
+              "stem": "Bankers complained that they were forced to",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "follow unfavorable asset evaluation rules."
+                },
+                {
+                  "label": "B",
+                  "text": "collect payments from third parties."
+                },
+                {
+                  "label": "C",
+                  "text": "cooperate with the price managers."
+                },
+                {
+                  "label": "D",
+                  "text": "reevaluate some of their assets."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 37,
+              "stem": "According to the author, the rule changes of the FASB may result in",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "the diminishing role of management."
+                },
+                {
+                  "label": "B",
+                  "text": "the revival of the banking system."
+                },
+                {
+                  "label": "C",
+                  "text": "the banks9 long-term asset losses."
+                },
+                {
+                  "label": "D",
+                  "text": "the weakening of its independence."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 38,
+              "stem": "According to Paragraph 4, McCreevy objects to the IASB?s attempt to",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "keep away from political influences."
+                },
+                {
+                  "label": "B",
+                  "text": "evade the pressure from their peers."
+                },
+                {
+                  "label": "C",
+                  "text": "act on their own in rule-setting."
+                },
+                {
+                  "label": "D",
+                  "text": "take gradual measures in reform."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 39,
+              "stem": "The author thinks the banks were Cfion the wrong planet59 in that they",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "misinterpreted market price indicators."
+                },
+                {
+                  "label": "B",
+                  "text": "exaggerated the real value of their assets."
+                },
+                {
+                  "label": "C",
+                  "text": "neglected the likely existence of bad debts."
+                },
+                {
+                  "label": "D",
+                  "text": "denied booking losses in their sale of assets."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 40,
+              "stem": "The author's attitude towards standard-setters is one of",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "satisfection."
+                },
+                {
+                  "label": "B",
+                  "text": "skepticism."
+                },
+                {
+                  "label": "C",
+                  "text": "objectiveness."
+                },
+                {
+                  "label": "D",
+                  "text": ""
+                }
+              ],
+              "type": "choice"
+            }
+          ]
+        }
+      ]
+    },
+    "new-type": {
+      "name": "Part B 阅读新题型",
+      "type": "new_type",
+      "question_range": [
+        41,
+        45
+      ],
+      "text": "",
+      "article": "",
+      "questions": [],
+      "warnings": [
+        "未找到题目"
+      ]
+    },
+    "translation": {
+      "name": "C节 翻译",
+      "type": "translation",
+      "question_range": [
+        46,
+        50
+      ],
+      "text": "(46) Scientists jumped to the rescue with\n                                                                          \n         some distinctly shaky evidence to the effect that insects would eat us up ",
+      "article": "tighter hold on their purse and consider eating at home a realistic alternative.\nleaving European grocery retailers hungry fbr opportunities to grow. Most\nleading retailers have already tried e-commerce with limited success, and\nexpansion abroad. But almost all have ignored the big, profitable opportunity in\ntheir own backyard: the wholesale food and drink trade, which appears to be just\nthe kind of market retailers need.\ndrink market? Definitely not. The functioning of the market is based on flexible\ntrends dominated by potential buyers. In other words, it is up to the buyer, rather\nthan the seller, to decide what to buy. At any rate, this change will ultimately be\nacclaimed by an ever-growing number of both domestic and international\nconsumers, regardless of how long the current consumer pattern will take hold.\napply their gigantic scale, existing infrastructure, and proven skills in the\nmanagement of product ranges, logistics, and marketing intelligence. Retailers\nthat master the intricacies of wholesaling in Europe may well expect to rake in\nsubstantial profits thereby. At least, that is how it looks as a whole. Closer\ninspection reveals important differences among the biggest national markets,\nespecially in their customer segments and wholesale structures, as well as the\ncompetitive dynamics of individual food and drink categories. Big retailers must\nunderstand these differences before they can identify the segments of European\nwholesaling in which their particular abilities might unseat smaller but\nentrenched competitors. New skills and unfamiliar business models are needed\nclosely examined- France, Germany, Italy and Spain- are made out of the same\nbuilding blocks. Demand comes mainly from two sources: independent mom-\nand-pop grocery stores which, unlike large retail chains, are too small to buy\nstraight from producers, and food service operators that cater to consumers when\nthey don't eat at home. Such food service operators range from snack machines\nto large institutional catering ventures, but most of these businesses are known in\nthe trade as uhoreca\": hotels, restaurants, and cafes. Overall, Europe's wholesale\nmarket for food and drink is growing at the same sluggish pace as the retail\nmarket, but the figures, when added together, mask two opposing trends.\nGermany, Italy, Spain, and the United Kingdom in 2000- more than 40 percent\nof retail sales. Moreover, average overall margins are higher in wholesale than in\nretail; wholesale demand from the food service sector is growing quickly as more\nEuropeans eat out more often; and changes in the competitive dynamics of this\nfragmented industry are at last making it feasible for wholesalers to consolidate.\nlarge food producers and existing wholesalers) from trying their hand, fbr those\nthat master the intricacies of wholesaling in Europe stand to reap considerable\ngains.\nPartC\nOne basic weakness in a conservation system based wholly on economic motives is\nthat most members of the land community have no economic value. Yet these creatures\nare members of the biotic community and, if its stability depends on its integrity, they\nare entitled to continuance.\nWhen one of these noneconomic categories is threatened and, if we happen to love\nit, we invent excuses to give it economic importance. At the beginning of the century\nsongbirds were supposed to be disappearing.",
+      "questions": [
+        {
+          "number": 46,
+          "stem": "Scientists jumped to the rescue with some distinctly shaky evidence to the effect that insects would eat us up if birds failed to control them. The evidence had to be economic in order to be valid. It is painful to read these roundabout accounts today. We have no land ethic yet,",
+          "choices": [],
+          "type": "translation"
+        },
+        {
+          "number": 47,
+          "stem": "but we have at least drawn nearer the point of admitting that birds should continue as a matter of intrinsic right, regardless of the presence or absence of economic advantage to us. A parallel situation exists in respect of predatory mammals and fish-eating birds.",
+          "choices": [],
+          "type": "translation"
+        },
+        {
+          "number": 48,
+          "stem": "Time was when biologists somewhat overworked the evidence that these creatures preserve the health of game by killing the physically weak* or that they prey only on 'SvorthleW species. Here again, the evidence had to be economic in order to be valid. It is only in recent years that we hear the more honest argument that predators are members of the community, and that no special interest has the right to exterminate them for the sake of a benefit, real or fancied, to itself. Some species of trees have been \"read out of the party“ by economics-minded foresters because they grow too slowly, or ha",
+          "choices": [],
+          "type": "translation"
+        },
+        {
+          "number": 49,
+          "stem": "In Europe, where forestry is ecologically more advanced the noncommercial tree species are recognized as members of the native fbrest community, to be preserved as such、within reason. Moreover, some have been found to have a valuable function in building up soil fertility. The interdependence of the forest and its constituent tree species, ground flora, and fauna is taken for granted. To sum up: a system of conservation based solely on economic self-interest is hopelessly lopsided.",
+          "choices": [],
+          "type": "translation"
+        },
+        {
+          "number": 50,
+          "stem": "It tends to ignore, and thus eventually to eliminate, many elements in the land community that lack commercial value, but that are essential to its healthy functioning. It assumes, falsely, that the economic parts of the biotic clock will fiinction without the uneconomic parts. 2010年英语（一）试题第13页 共 14页",
+          "choices": [],
+          "type": "translation"
+        }
+      ],
+      "warnings": []
+    },
+    "writing-a": {
+      "name": "A节 应用文写作",
+      "type": "writing_small",
+      "question_range": [
+        51,
+        51
+      ],
+      "text": "51. Directions:                                                  \n                                                                          \n            You are supposed to write for the Postgraduates",
+      "article": "rs. New skills and unfamiliar business models are needed\nclosely examined- France, Germany, Italy and Spain- are made out of the same\nbuilding blocks. Demand comes mainly from two sources: independent mom-\nand-pop grocery stores which, unlike large retail chains, are too small to buy\nstraight from producers, and food service operators that cater to consumers when\nthey don't eat at home. Such food service operators range from snack machines\nto large institutional catering ventures, but most of these businesses are known in\nthe trade as uhoreca\": hotels, restaurants, and cafes. Overall, Europe's wholesale\nmarket for food and drink is growing at the same sluggish pace as the retail\nmarket, but the figures, when added together, mask two opposing trends.\nGermany, Italy, Spain, and the United Kingdom in 2000- more than 40 percent\nof retail sales. Moreover, average overall margins are higher in wholesale than in\nretail; wholesale demand from the food service sector is growing quickly as more\nEuropeans eat out more often; and changes in the competitive dynamics of this\nfragmented industry are at last making it feasible for wholesalers to consolidate.\nlarge food producers and existing wholesalers) from trying their hand, fbr those\nthat master the intricacies of wholesaling in Europe stand to reap considerable\ngains.\nPartC\nOne basic weakness in a conservation system based wholly on economic motives is\nthat most members of the land community have no economic value. Yet these creatures\nare members of the biotic community and, if its stability depends on its integrity, they\nare entitled to continuance.\nWhen one of these noneconomic categories is threatened and, if we happen to love\nit, we invent excuses to give it economic importance. At the beginning of the century\nsongbirds were supposed to be disappearing. (46) Scientists jumped to the rescue with\nsome distinctly shaky evidence to the effect that insects would eat us up if birds failed to\ncontrol them. The evidence had to be economic in order to be valid.\nIt is painful to read these roundabout accounts today. We have no land ethic yet,\n(47) but we have at least drawn nearer the point of admitting that birds should continue\nas a matter of intrinsic right, regardless of the presence or absence of economic\nadvantage to us.\nA parallel situation exists in respect of predatory mammals and fish-eating birds.\n(48) Time was when biologists somewhat overworked the evidence that these creatures\npreserve the health of game by killing the physically weak* or that they prey only on\n'SvorthleW species. Here again, the evidence had to be economic in order to be valid.\nIt is only in recent years that we hear the more honest argument that predators are\nmembers of the community, and that no special interest has the right to exterminate them\nfor the sake of a benefit, real or fancied, to itself.\nSome species of trees have been \"read out of the party“ by economics-minded\nforesters because they grow too slowly, or have too low a sale value to pay as timber\ncrops. (49) In Europe, where forestry is ecologically more advanced the noncommercial\ntree species are recognized as members of the native fbrest community, to be preserved\nas such、within reason. Moreover, some have been found to have a valuable function in\nbuilding up soil fertility. The interdependence of the forest and its constituent tree\nspecies, ground flora, and fauna is taken for granted.\nTo sum up: a system of conservation based solely on economic self-interest is\nhopelessly lopsided. (50) It tends to ignore, and thus eventually to eliminate, many\nelements in the land community that lack commercial value, but that are essential to its\nhealthy functioning. It assumes, falsely, that the economic parts of the biotic clock will\nfiinction without the uneconomic parts.\nSection III Writing\nPart A",
+      "questions": [
+        {
+          "number": 51,
+          "stem": "Directions: You are supposed to write for the Postgraduates9 Association a notice to recruit volunteers for an international conference on globalization. The notice should include the basic qualifications for applicants and other information which you think is relevant. You should write about 100 words on ANSWER SHEET 2. Do not sign your own name at the end of the notice. Use “Postgraduates' Association95 instead. (10 points) PartB",
+          "choices": [],
+          "type": "writing_small"
+        }
+      ],
+      "warnings": []
+    },
+    "writing-b": {
+      "name": "B节 短文写作",
+      "type": "writing_big",
+      "question_range": [
+        52,
+        52
+      ],
+      "text": "52. Directions:                                                  \n                                                                          \n            Write an essay of 160-200 words based on the fo",
+      "article": "s, restaurants, and cafes. Overall, Europe's wholesale\nmarket for food and drink is growing at the same sluggish pace as the retail\nmarket, but the figures, when added together, mask two opposing trends.\nGermany, Italy, Spain, and the United Kingdom in 2000- more than 40 percent\nof retail sales. Moreover, average overall margins are higher in wholesale than in\nretail; wholesale demand from the food service sector is growing quickly as more\nEuropeans eat out more often; and changes in the competitive dynamics of this\nfragmented industry are at last making it feasible for wholesalers to consolidate.\nlarge food producers and existing wholesalers) from trying their hand, fbr those\nthat master the intricacies of wholesaling in Europe stand to reap considerable\ngains.\nPartC\nOne basic weakness in a conservation system based wholly on economic motives is\nthat most members of the land community have no economic value. Yet these creatures\nare members of the biotic community and, if its stability depends on its integrity, they\nare entitled to continuance.\nWhen one of these noneconomic categories is threatened and, if we happen to love\nit, we invent excuses to give it economic importance. At the beginning of the century\nsongbirds were supposed to be disappearing. (46) Scientists jumped to the rescue with\nsome distinctly shaky evidence to the effect that insects would eat us up if birds failed to\ncontrol them. The evidence had to be economic in order to be valid.\nIt is painful to read these roundabout accounts today. We have no land ethic yet,\n(47) but we have at least drawn nearer the point of admitting that birds should continue\nas a matter of intrinsic right, regardless of the presence or absence of economic\nadvantage to us.\nA parallel situation exists in respect of predatory mammals and fish-eating birds.\n(48) Time was when biologists somewhat overworked the evidence that these creatures\npreserve the health of game by killing the physically weak* or that they prey only on\n'SvorthleW species. Here again, the evidence had to be economic in order to be valid.\nIt is only in recent years that we hear the more honest argument that predators are\nmembers of the community, and that no special interest has the right to exterminate them\nfor the sake of a benefit, real or fancied, to itself.\nSome species of trees have been \"read out of the party“ by economics-minded\nforesters because they grow too slowly, or have too low a sale value to pay as timber\ncrops. (49) In Europe, where forestry is ecologically more advanced the noncommercial\ntree species are recognized as members of the native fbrest community, to be preserved\nas such、within reason. Moreover, some have been found to have a valuable function in\nbuilding up soil fertility. The interdependence of the forest and its constituent tree\nspecies, ground flora, and fauna is taken for granted.\nTo sum up: a system of conservation based solely on economic self-interest is\nhopelessly lopsided. (50) It tends to ignore, and thus eventually to eliminate, many\nelements in the land community that lack commercial value, but that are essential to its\nhealthy functioning. It assumes, falsely, that the economic parts of the biotic clock will\nfiinction without the uneconomic parts.\nSection III Writing\nPart A\nYou are supposed to write for the Postgraduates9 Association a notice to recruit\nvolunteers for an international conference on globalization. The notice should include the\nbasic qualifications for applicants and other information which you think is relevant.\nDo not sign your own name at the end of the notice. Use “Postgraduates'\nAssociation95 instead. (10 points)\nPartB",
+      "questions": [
+        {
+          "number": 52,
+          "stem": "Directions: Write an essay of 160-200 words based on the following drawing. In your essay, you should",
+          "choices": [],
+          "type": "writing_big"
+        }
+      ],
+      "warnings": []
+    }
+  }
+}

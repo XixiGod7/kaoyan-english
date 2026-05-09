@@ -1,0 +1,1524 @@
+{
+  "year": 2011,
+  "filename": "2011.pdf",
+  "era": "era3",
+  "era_label": "第三阶段+(2005至今 英一)",
+  "total_pages": 15,
+  "max_question_number": 52,
+  "found_question_count": 47,
+  "extracted_question_count": 47,
+  "sections": {
+    "cloze": {
+      "name": "Section I 完形填空",
+      "type": "cloze",
+      "question_range": [
+        1,
+        20
+      ],
+      "text": "1. [A] among    [B] except    [C] despite  [D] like             \n          2. [A] reflect  [B] demand    [C] indicate [D] produce          \n                                                            ",
+      "article": "Section I Use of English\nAncient Greek philosopher Aristotle viewed laughter as cca bodily exercise precious\nto health?9 But ] some claims to the contrary, laughing probably has little influence\non physical fitness. Laughter does 2 short-term changes in the function of the heart\nand its blood vessels, 3 heart rate and oxygen consumption. But because hard\nlaughter is difficult to 4 . a good laugh is unlikely to have 5 benefits the way,\nsay, walking or jogging does.\n6 , instead of straining muscles to build them, as exercise does, laughter\napparently accomplishes the 7 . Studies dating back to the 1930s indicate that\nlaughter 8 muscles, decreasing muscle tone fbr up to 45 minutes after the laugh\ndies down.\nSuch bodily reaction might conceivably help 9 the effects of psychological\nstress. Anyway, the act of laughing probably does produce other types of 10\nfeedback that improve an individual9 s emotional state. 11 one classical theory of\nemotion, our feelings are partially rooted 12 physical reactions. It was argued at the\nend of the 19th century that humans do not cry 13 they are sad but they become sad\nwhen the tears begin to flow.\nAlthough sadness also 14 tears, evidence suggests that emotions can flow\n15  muscular responses. In an experiment published in 1988 social psychologist\nFritz Strack of the University of Wurzburg in Germany asked volunteers to 16 a\npen either with their teeth- thereby creating an artificial smile- or with their lips, which\nwould produce a(n) 17 expression. Those forced to exercise their smiling muscles\n18  more enthusiastically to funny cartoons than did those whose mouths were\ncontracted in a frown, 19 that expressions may influence emotions rather than just\nthe other way around. 20 the physical act of laughter could improve mood.",
+      "questions": [
+        {
+          "number": 1,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "among"
+            },
+            {
+              "label": "B",
+              "text": "exept"
+            },
+            {
+              "label": "C",
+              "text": "despite"
+            },
+            {
+              "label": "D",
+              "text": "like"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 2,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "A reflet"
+            },
+            {
+              "label": "B",
+              "text": "demand"
+            },
+            {
+              "label": "C",
+              "text": "indiate"
+            },
+            {
+              "label": "D",
+              "text": "produe"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 3,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "stabilizing"
+            },
+            {
+              "label": "B",
+              "text": "boosting"
+            },
+            {
+              "label": "C",
+              "text": "impairing"
+            },
+            {
+              "label": "D",
+              "text": "determining"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 4,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "A transmit"
+            },
+            {
+              "label": "B",
+              "text": "sustain"
+            },
+            {
+              "label": "C",
+              "text": "evaluate"
+            },
+            {
+              "label": "D",
+              "text": "observe"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 5,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "A measurable"
+            },
+            {
+              "label": "B",
+              "text": "manageable"
+            },
+            {
+              "label": "C",
+              "text": "affordable"
+            },
+            {
+              "label": "D",
+              "text": "renewable"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 6,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "In turn"
+            },
+            {
+              "label": "B",
+              "text": "In fat"
+            },
+            {
+              "label": "C",
+              "text": "In addition"
+            },
+            {
+              "label": "D",
+              "text": "In brief"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 7,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "opposite"
+            },
+            {
+              "label": "B",
+              "text": "impossible"
+            },
+            {
+              "label": "C",
+              "text": "average"
+            },
+            {
+              "label": "D",
+              "text": "expeted"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 8,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "A hardens"
+            },
+            {
+              "label": "B",
+              "text": "weakens"
+            },
+            {
+              "label": "C",
+              "text": "tightens"
+            },
+            {
+              "label": "D",
+              "text": "relaxes"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 9,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "aggravate"
+            },
+            {
+              "label": "B",
+              "text": "generate"
+            },
+            {
+              "label": "C",
+              "text": "moderate"
+            },
+            {
+              "label": "D",
+              "text": "enhane"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 10,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "A physial"
+            },
+            {
+              "label": "B",
+              "text": "mental"
+            },
+            {
+              "label": "C",
+              "text": "subonsious"
+            },
+            {
+              "label": "D",
+              "text": "internal"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 11,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "A with"
+            },
+            {
+              "label": "B",
+              "text": "on"
+            },
+            {
+              "label": "C",
+              "text": "in"
+            },
+            {
+              "label": "D",
+              "text": "at"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 12,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "A unless"
+            },
+            {
+              "label": "B",
+              "text": "until"
+            },
+            {
+              "label": "C",
+              "text": "if"
+            },
+            {
+              "label": "D",
+              "text": "beause"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 13,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "exhausts"
+            },
+            {
+              "label": "B",
+              "text": "follows"
+            },
+            {
+              "label": "C",
+              "text": "preedes"
+            },
+            {
+              "label": "D",
+              "text": "suppresses"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 14,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "into"
+            },
+            {
+              "label": "B",
+              "text": "from"
+            },
+            {
+              "label": "C",
+              "text": "towards"
+            },
+            {
+              "label": "D",
+              "text": "beyond"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 15,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "feth"
+            },
+            {
+              "label": "B",
+              "text": "bite"
+            },
+            {
+              "label": "C",
+              "text": "pik"
+            },
+            {
+              "label": "D",
+              "text": "hold"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 16,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "disappointed"
+            },
+            {
+              "label": "B",
+              "text": "exited"
+            },
+            {
+              "label": "C",
+              "text": "joyful"
+            },
+            {
+              "label": "D",
+              "text": "indifferent"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 17,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "adapted"
+            },
+            {
+              "label": "B",
+              "text": "atered"
+            },
+            {
+              "label": "C",
+              "text": "turned"
+            },
+            {
+              "label": "D",
+              "text": "reated"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 18,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "suggesting"
+            },
+            {
+              "label": "B",
+              "text": "requiring"
+            },
+            {
+              "label": "C",
+              "text": "mentioning"
+            },
+            {
+              "label": "D",
+              "text": "supposing"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 19,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "A Eventually"
+            },
+            {
+              "label": "B",
+              "text": "onsequently"
+            },
+            {
+              "label": "C",
+              "text": "Similarly"
+            },
+            {
+              "label": "D",
+              "text": "onversely"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 20,
+          "stem": "第20题（未提取到内容）",
+          "choices": [],
+          "type": "choice",
+          "warning": true
+        }
+      ],
+      "warnings": []
+    },
+    "reading-a": {
+      "name": "Section II 阅读A节",
+      "type": "reading",
+      "question_range": [
+        21,
+        40
+      ],
+      "text": "[C] indicate [D] produce          \n                                                                          \n          3. [A] stabilizing [B] boosting [C] impairing [D] determining   \n               ",
+      "article": "The decision of the New York Philharmonic to hire Alan Gilbert as its next music\n         director has been the talk of the classical-music world ever since the sudden\n         announcement of his appointment in 2009. For the most part, the response has been\n                                                                          \n         favorable, to say the least.etHooray! At last!” wrote Anthony Tommasini, a sober-sided\n         classical-music critic.                                          \n            One of the reasons why the appointment came as such a surprise, however, is that\n                                                                          \n         Gilbert is comparatively little known. Even Tommasini, who had advocated Gilbert's\n         appointment in the Times, calls him “ an unpretentious musician with no air of the\n                                                                          \n         formidable conductor about As a description of the next music director of an\n         orchestra that has hitherto been led by musicians like Gustav Mahler and Pierre Boulez,\n         that seems likely to have struck at least some Times readers as faint praise.\n                                                                          \n            For my part, I have no idea whether Gilbert is a great conductor or even a good one.\n         To be sure, he performs an impressive variety of interesting compositions, but it is not\n                                                                          \n         necessary for me to visit Avery Fisher Hall, or anywhere else, to hear interesting\n         orchestral music. All I have to do is to go to my CD shel£ or boot up my computer and\n         download still more recorded music from iTunes.                  \n                                                                          \n            Devoted concertgoers who reply that recordings are no substitute for live\n         performance are missing the point. For the time, attention, and money of the art-loving\n         public, classical instrumentalists must compete not only with opera houses, dance\n                                                                          \n         troupes, theater companies, and museums, but also with the recorded performances of\n         the great classical musicians of the 20th century. These recordings are cheap, available\n                                                                          \n         everywhere, and very often much higher in artistic quality than today's live\n         performances; moreover, they can be ccconsumed99 at a time and place of the listener's\n         choosing. The widespread availability of such recordings has thus brought about a crisis\n                                                                          \n         in the institution of the traditional classical concert.         \n            One possible response is for classical performers to program attractive new music\n                                                                          \n         that is not yet available on record. Gilbert's own interest in new music has been widely\n         noted: Alex Ross, a classical-music critic, has described him as a man who is capable of\n         turning the Philharmonic into \" a markedly different, more vibrant organization.\" But\n                                                                          \n         what will be the nature of that difference? Merely expanding the orchestral repertoire\n         will not be enough. If Gilbert and the Philharmonic are to succeed, they must first\n         change the relationship between America's oldest orchestra and the new audience it\n                                                                          \n         hopes to attract.                                                \n                                                                          \n                                                                          \n                                                                          \n                           2011年英语（一）试题第3 页共14页\n\nWhen Liam McGee departed as president of Bank of America in August, his\n         explanation was surprisingly straight up. Rather than cloaking his exit in the usual vague\n         excuses, he came right out and said he was leaving ccto pursue my goal of running a\n                                                                          \n         company.\" Broadcasting his ambition was 66very much my decision,“ McGee says.\n         Within two weeks, he was talking for the first time with the board of Hartford Financial\n         Services Group, which named him CEO and chairman on September 29.\n                                                                          \n            McGee says leaving without a position lined up gave him time to reflect on what\n         kind of company he wanted to run. It also sent a clear message to the outside world\n                                                                          \n         about his aspirations. And McGee isn't alone. In recent weeks the No.2 executives at\n         Avon and American Express quit with the explanation that they were looking fbr a CEO\n         post. As boards scrutinize succession plans in response to shareholder pressure,\n                                                                          \n         executives who don't get the nod also may wish to move on. A turbulent business\n         environment also has senior managers cautious of letting vague pronouncements cloud\n         their reputations.                                               \n                                                                          \n            As the first signs of recovery begin to take hold, deputy chiefs may be more willing\n                                                                          \n         to make the jump without a net. In the third quarter, CEO turnover was down 23% from\n         a year ago as nervous boards stuck with the leaders they had, according to Liberum\n         Research. As the economy picks up, opportunities will abound for aspiring leaders.\n                                                                          \n            The decision to quit a senior position to look fbr a better one is unconventional. For\n         years executives and headhunters have adhered to the rule that the most attractive CEO\n                                                                          \n         candidates are the ones who must be poached. Says Kom/Ferry senior partner Dennis\n         Carey: \"I can't think of a single search I've done where a board has not instructed me to\n         look at sitting CEOs first.55                                    \n                                                                          \n            Those who jumped without a job haven,t always landed in top positions quickly.\n         Ellen Marram quit as chief of Tropicana a decade ago, saying she wanted to be a CEO. It\n                                                                          \n         was a year before she became head of a tiny Internet-based commodities exchange.\n         Robert Willumstad left Citigroup in 2005 with ambitions to be a CEO. He finally took\n         that post at a major financial institution three years later.    \n                                                                          \n            Many recruiters say the old disgrace is fading fbr top performers. The financial\n         crisis has made it more acceptable to be between jobs or to leave a bad one. \"The\n                                                                          \n         traditional rule was ifs safer to stay where you are, but thafs been fundamentally\n         inverted/5 says one headhunter. \"The people who5ve been hurt the worst are those\n                                      ",
+      "questions": [
+        {
+          "number": 21,
+          "stem": "We learn from Paragraph 1 that Gilbert9 s appointment has",
+          "choices": [
+            {
+              "label": "A",
+              "text": "incurred criticism."
+            },
+            {
+              "label": "B",
+              "text": "raised suspicion."
+            },
+            {
+              "label": "C",
+              "text": "received acclaim."
+            },
+            {
+              "label": "D",
+              "text": "aroused curiosity."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 22,
+          "stem": "Tommasini regards Gilbert as an artist who is",
+          "choices": [
+            {
+              "label": "A",
+              "text": "influential."
+            },
+            {
+              "label": "B",
+              "text": "modest."
+            },
+            {
+              "label": "C",
+              "text": "respectable."
+            },
+            {
+              "label": "D",
+              "text": "talented."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 23,
+          "stem": "The author believes that the devoted concertgoers",
+          "choices": [
+            {
+              "label": "A",
+              "text": "ignore the expenses of live performances."
+            },
+            {
+              "label": "B",
+              "text": "reject most kinds of recorded performances."
+            },
+            {
+              "label": "C",
+              "text": "exaggerate the variety of live performances."
+            },
+            {
+              "label": "D",
+              "text": "overestimate the value of live performances."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 24,
+          "stem": "According to the text, which of the following is true of recordings?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "They are often inferior to live concerts in quality."
+            },
+            {
+              "label": "B",
+              "text": "They are easily accessible to the general public."
+            },
+            {
+              "label": "C",
+              "text": "They help improve the quality of music."
+            },
+            {
+              "label": "D",
+              "text": "They have only covered masterpieces."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 25,
+          "stem": "Regarding Gilbert's role in revitalizing the Philharmonic, the author feels",
+          "choices": [
+            {
+              "label": "A",
+              "text": "doubtful."
+            },
+            {
+              "label": "B",
+              "text": "enthusiastic."
+            },
+            {
+              "label": "C",
+              "text": "confident."
+            },
+            {
+              "label": "D",
+              "text": "puzzled. 2011年英语（一）试题第4 页共14页"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 26,
+          "stem": "When McGee announced his departure, his maimer can best be described as being",
+          "choices": [
+            {
+              "label": "A",
+              "text": "arrogant."
+            },
+            {
+              "label": "B",
+              "text": "frank."
+            },
+            {
+              "label": "C",
+              "text": "self-centered."
+            },
+            {
+              "label": "D",
+              "text": "impulsive."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 27,
+          "stem": "According to Paragraph 2, senior executives5 quitting may be spurred by",
+          "choices": [
+            {
+              "label": "A",
+              "text": "their expectation of better financial status."
+            },
+            {
+              "label": "B",
+              "text": "their need to reflect on their private life."
+            },
+            {
+              "label": "C",
+              "text": "their strained relations with the boards."
+            },
+            {
+              "label": "D",
+              "text": "their pursuit of new career goals."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 28,
+          "stem": "The word “poached” (Line 3, Paragraph 4) most probably means",
+          "choices": [
+            {
+              "label": "A",
+              "text": "approved o£"
+            },
+            {
+              "label": "B",
+              "text": "attended to."
+            },
+            {
+              "label": "C",
+              "text": "hunted for."
+            },
+            {
+              "label": "D",
+              "text": "guarded against."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 29,
+          "stem": "It can be inferred from the last paragraph that",
+          "choices": [
+            {
+              "label": "A",
+              "text": "top performers used to cling to their posts."
+            },
+            {
+              "label": "B",
+              "text": "loyalty of top performers is getting out-dated."
+            },
+            {
+              "label": "C",
+              "text": ""
+            },
+            {
+              "label": "D",
+              "text": ""
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 30,
+          "stem": "Which of the following is the best title for the text?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "CEOs: Where to Go?"
+            },
+            {
+              "label": "B",
+              "text": "CEOs: All the Way Up?"
+            },
+            {
+              "label": "C",
+              "text": "Top Managers Jump without a Net"
+            },
+            {
+              "label": "D",
+              "text": "The Only Way Out fbr Top Performers 2011年英语（一）试题第6 页共14页"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 31,
+          "stem": "Consumers may create “earned“ media when they are",
+          "choices": [
+            {
+              "label": "A",
+              "text": "obsessed with online shopping at certain Web sites."
+            },
+            {
+              "label": "B",
+              "text": "inspired by product-promoting e-mails sent to them."
+            },
+            {
+              "label": "C",
+              "text": "eager to help their friends promote quality products."
+            },
+            {
+              "label": "D",
+              "text": "enthusiastic about recommending their favorite products."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 32,
+          "stem": "According to Paragraph 2, sold media feature",
+          "choices": [
+            {
+              "label": "A",
+              "text": "a safe business environment."
+            },
+            {
+              "label": "B",
+              "text": "random competition."
+            },
+            {
+              "label": "C",
+              "text": "strong user traffic."
+            },
+            {
+              "label": "D",
+              "text": "flexibility in organization."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 33,
+          "stem": "The author indicates in Paragraph 3 that earned media",
+          "choices": [
+            {
+              "label": "A",
+              "text": "invite constant conflicts with passionate consumers."
+            },
+            {
+              "label": "B",
+              "text": "can be used to produce negative effects in marketing."
+            },
+            {
+              "label": "C",
+              "text": "may be responsible for fiercer competition."
+            },
+            {
+              "label": "D",
+              "text": "deserve all the negative comments about them."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 34,
+          "stem": "Toyota Motor9s experience is cited as an example of",
+          "choices": [
+            {
+              "label": "A",
+              "text": "responding effectively to hijacked media."
+            },
+            {
+              "label": "B",
+              "text": "persuading customers into boycotting products."
+            },
+            {
+              "label": "C",
+              "text": "cooperating with supportive consumers."
+            },
+            {
+              "label": "D",
+              "text": "taking advantage of hijacked media."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 35,
+          "stem": "Which of the following is the text mainly about?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "Alternatives to conventional paid media."
+            },
+            {
+              "label": "B",
+              "text": "Conflict between hijacked and earned media."
+            },
+            {
+              "label": "C",
+              "text": "Dominance of hijacked media."
+            },
+            {
+              "label": "D",
+              "text": "Popularity of owned media. 2011年英语（一）试题第8 页共14页"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 36,
+          "stem": "Jennifer Senior suggests in her article that raising a child can bring",
+          "choices": [
+            {
+              "label": "A",
+              "text": "temporary delight."
+            },
+            {
+              "label": "B",
+              "text": "enjoyment in progress."
+            },
+            {
+              "label": "C",
+              "text": "happiness in retrospect."
+            },
+            {
+              "label": "D",
+              "text": "lasting reward."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 37,
+          "stem": "We learn from Paragraph 2 that",
+          "choices": [
+            {
+              "label": "A",
+              "text": "celebrity moms are a permanent source for gossip."
+            },
+            {
+              "label": "B",
+              "text": "single mothers with babies deserve greater attention."
+            },
+            {
+              "label": "C",
+              "text": "news about pregnant celebrities is entertaining."
+            },
+            {
+              "label": "D",
+              "text": "having children is highly valued by the public."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 38,
+          "stem": "It is suggested in Paragraph 3 that childless folks",
+          "choices": [
+            {
+              "label": "A",
+              "text": "are constantly exposed to criticism."
+            },
+            {
+              "label": "B",
+              "text": "are largely ignored by the media."
+            },
+            {
+              "label": "C",
+              "text": "fail to fulfill their social responsibilities."
+            },
+            {
+              "label": "D",
+              "text": "are less likely to be satisfied with their life."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 39,
+          "stem": "According to Paragraph 4, the message conveyed by celebrity magazines is",
+          "choices": [
+            {
+              "label": "A",
+              "text": "soothing."
+            },
+            {
+              "label": "B",
+              "text": "ambiguous."
+            },
+            {
+              "label": "C",
+              "text": "compensatory."
+            },
+            {
+              "label": "D",
+              "text": "misleading."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 40,
+          "stem": "Which of the following can be inferred from the last paragraph?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "Having children contributes little to the glamour of celebrity moms."
+            },
+            {
+              "label": "B",
+              "text": "Celebrity moms have influenced our attitude towards child rearing."
+            },
+            {
+              "label": "C",
+              "text": "Having children intensifies our dissatisfaction with life."
+            },
+            {
+              "label": "D",
+              "text": ""
+            }
+          ],
+          "type": "choice"
+        }
+      ],
+      "warnings": [],
+      "text_count": 4,
+      "texts": [
+        {
+          "text_num": 1,
+          "article": "The decision of the New York Philharmonic to hire Alan Gilbert as its next music\n         director has been the talk of the classical-music world ever since the sudden\n         announcement of his appointment in 2009. For the most part, the response has been\n                                                                          \n         favorable, to say the least.etHooray! At last!” wrote Anthony Tommasini, a sober-sided\n         classical-music critic.                                          \n            One of the reasons why the appointment came as such a surprise, however, is that\n                                                                          \n         Gilbert is comparatively little known. Even Tommasini, who had advocated Gilbert's\n         appointment in the Times, calls him “ an unpretentious musician with no air of the\n                                                                          \n         formidable conductor about As a description of the next music director of an\n         orchestra that has hitherto been led by musicians like Gustav Mahler and Pierre Boulez,\n         that seems likely to have struck at least some Times readers as faint praise.\n                                                                          \n            For my part, I have no idea whether Gilbert is a great conductor or even a good one.\n         To be sure, he performs an impressive variety of interesting compositions, but it is not\n                                                                          \n         necessary for me to visit Avery Fisher Hall, or anywhere else, to hear interesting\n         orchestral music. All I have to do is to go to my CD shel£ or boot up my computer and\n         download still more recorded music from iTunes.                  \n                                                                          \n            Devoted concertgoers who reply that recordings are no substitute for live\n         performance are missing the point. For the time, attention, and money of the art-loving\n         public, classical instrumentalists must compete not only with opera houses, dance\n                                                                          \n         troupes, theater companies, and museums, but also with the recorded performances of\n         the great classical musicians of the 20th century. These recordings are cheap, available\n                                                                          \n         everywhere, and very often much higher in artistic quality than today's live\n         performances; moreover, they can be ccconsumed99 at a time and place of the listener's\n         choosing. The widespread availability of such recordings has thus brought about a crisis\n                                                                          \n         in the institution of the traditional classical concert.         \n            One possible response is for classical performers to program attractive new music\n                                                                          \n         that is not yet available on record. Gilbert's own interest in new music has been widely\n         noted: Alex Ross, a classical-music critic, has described him as a man who is capable of\n         turning the Philharmonic into \" a markedly different, more vibrant organization.\" But\n                                                                          \n         what will be the nature of that difference? Merely expanding the orchestral repertoire\n         will not be enough. If Gilbert and the Philharmonic are to succeed, they must first\n         change the relationship between America's oldest orchestra and the new audience it\n                                                                          \n         hopes to attract.                                                \n                                                                          \n                                                                          \n                                                                          \n                           2011年英语（一）试题第3 页共14页",
+          "questions": [
+            {
+              "number": 21,
+              "stem": "We learn from Paragraph 1 that Gilbert9 s appointment has",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "incurred criticism."
+                },
+                {
+                  "label": "B",
+                  "text": "raised suspicion."
+                },
+                {
+                  "label": "C",
+                  "text": "received acclaim."
+                },
+                {
+                  "label": "D",
+                  "text": "aroused curiosity."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 22,
+              "stem": "Tommasini regards Gilbert as an artist who is",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "influential."
+                },
+                {
+                  "label": "B",
+                  "text": "modest."
+                },
+                {
+                  "label": "C",
+                  "text": "respectable."
+                },
+                {
+                  "label": "D",
+                  "text": "talented."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 23,
+              "stem": "The author believes that the devoted concertgoers",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "ignore the expenses of live performances."
+                },
+                {
+                  "label": "B",
+                  "text": "reject most kinds of recorded performances."
+                },
+                {
+                  "label": "C",
+                  "text": "exaggerate the variety of live performances."
+                },
+                {
+                  "label": "D",
+                  "text": "overestimate the value of live performances."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 24,
+              "stem": "According to the text, which of the following is true of recordings?",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "They are often inferior to live concerts in quality."
+                },
+                {
+                  "label": "B",
+                  "text": "They are easily accessible to the general public."
+                },
+                {
+                  "label": "C",
+                  "text": "They help improve the quality of music."
+                },
+                {
+                  "label": "D",
+                  "text": "They have only covered masterpieces."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 25,
+              "stem": "Regarding Gilbert's role in revitalizing the Philharmonic, the author feels",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "doubtful."
+                },
+                {
+                  "label": "B",
+                  "text": "enthusiastic."
+                },
+                {
+                  "label": "C",
+                  "text": "confident."
+                },
+                {
+                  "label": "D",
+                  "text": "puzzled. 2011年英语（一）试题第4 页共14页"
+                }
+              ],
+              "type": "choice"
+            }
+          ]
+        },
+        {
+          "text_num": 2,
+          "article": "When Liam McGee departed as president of Bank of America in August, his\n         explanation was surprisingly straight up. Rather than cloaking his exit in the usual vague\n         excuses, he came right out and said he was leaving ccto pursue my goal of running a\n                                                                          \n         company.\" Broadcasting his ambition was 66very much my decision,“ McGee says.\n         Within two weeks, he was talking for the first time with the board of Hartford Financial\n         Services Group, which named him CEO and chairman on September 29.\n                                                                          \n            McGee says leaving without a position lined up gave him time to reflect on what\n         kind of company he wanted to run. It also sent a clear message to the outside world\n                                                                          \n         about his aspirations. And McGee isn't alone. In recent weeks the No.2 executives at\n         Avon and American Express quit with the explanation that they were looking fbr a CEO\n         post. As boards scrutinize succession plans in response to shareholder pressure,\n                                                                          \n         executives who don't get the nod also may wish to move on. A turbulent business\n         environment also has senior managers cautious of letting vague pronouncements cloud\n         their reputations.                                               \n                                                                          \n            As the first signs of recovery begin to take hold, deputy chiefs may be more willing\n                                                                          \n         to make the jump without a net. In the third quarter, CEO turnover was down 23% from\n         a year ago as nervous boards stuck with the leaders they had, according to Liberum\n         Research. As the economy picks up, opportunities will abound for aspiring leaders.\n                                                                          \n            The decision to quit a senior position to look fbr a better one is unconventional. For\n         years executives and headhunters have adhered to the rule that the most attractive CEO\n                                                                          \n         candidates are the ones who must be poached. Says Kom/Ferry senior partner Dennis\n         Carey: \"I can't think of a single search I've done where a board has not instructed me to\n         look at sitting CEOs first.55                                    \n                                                                          \n            Those who jumped without a job haven,t always landed in top positions quickly.\n         Ellen Marram quit as chief of Tropicana a decade ago, saying she wanted to be a CEO. It\n                                                                          \n         was a year before she became head of a tiny Internet-based commodities exchange.\n         Robert Willumstad left Citigroup in 2005 with ambitions to be a CEO. He finally took\n         that post at a major financial institution three years later.    \n                                                                          \n            Many recruiters say the old disgrace is fading fbr top performers. The financial\n         crisis has made it more acceptable to be between jobs or to leave a bad one. \"The\n                                                                          \n         traditional rule was ifs safer to stay where you are, but thafs been fundamentally\n         inverted/5 says one headhunter. \"The people who5ve been hurt the worst are those\n                                                                          \n         who've stayed too long.”                                         \n                                                                          \n                                                                          \n                           2011年英语（一）试题第5 页共14页",
+          "questions": [
+            {
+              "number": 26,
+              "stem": "When McGee announced his departure, his maimer can best be described as being",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "arrogant."
+                },
+                {
+                  "label": "B",
+                  "text": "frank."
+                },
+                {
+                  "label": "C",
+                  "text": "self-centered."
+                },
+                {
+                  "label": "D",
+                  "text": "impulsive."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 27,
+              "stem": "According to Paragraph 2, senior executives5 quitting may be spurred by",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "their expectation of better financial status."
+                },
+                {
+                  "label": "B",
+                  "text": "their need to reflect on their private life."
+                },
+                {
+                  "label": "C",
+                  "text": "their strained relations with the boards."
+                },
+                {
+                  "label": "D",
+                  "text": "their pursuit of new career goals."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 28,
+              "stem": "The word “poached” (Line 3, Paragraph 4) most probably means",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "approved o£"
+                },
+                {
+                  "label": "B",
+                  "text": "attended to."
+                },
+                {
+                  "label": "C",
+                  "text": "hunted for."
+                },
+                {
+                  "label": "D",
+                  "text": "guarded against."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 29,
+              "stem": "It can be inferred from the last paragraph that",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "top performers used to cling to their posts."
+                },
+                {
+                  "label": "B",
+                  "text": "loyalty of top performers is getting out-dated."
+                },
+                {
+                  "label": "C",
+                  "text": ""
+                },
+                {
+                  "label": "D",
+                  "text": ""
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 30,
+              "stem": "Which of the following is the best title for the text?",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "CEOs: Where to Go?"
+                },
+                {
+                  "label": "B",
+                  "text": "CEOs: All the Way Up?"
+                },
+                {
+                  "label": "C",
+                  "text": "Top Managers Jump without a Net"
+                },
+                {
+                  "label": "D",
+                  "text": "The Only Way Out fbr Top Performers 2011年英语（一）试题第6 页共14页"
+                }
+              ],
+              "type": "choice"
+            }
+          ]
+        },
+        {
+          "text_num": 3,
+          "article": "The rough guide to marketing success used to be that you got what you paid for.\n         No longer. While traditional “paid\" media- such as television commercials and print\n         advertisements一still play a major role, companies today can exploit many alternative\n                                                                          \n         forms of media. Consumers passionate about a product may create cc earned55 media by\n         willingly promoting it to friends, and a company may leverage “owned“ media by\n         sending e-mail alerts about products and sales to customers registered with its Web site.\n                                                                          \n         The way consumers now approach the process of making purchase decisions means that\n         marketing's impact stems from a broad range of factors beyond conventional paid media.\n            Paid and owned media are controlled by marketers promoting their own products.\n                                                                          \n         For earned media, such marketers act as the initiator for users9 responses. But in some\n         cases, one marketer's owned media become another marketer's paid media—fbr instance,\n         when an e-commerce retailer sells ad space on its Web site. We define such sold media\n                                                                          \n         as owned media whose traffic is so strong that other organizations place their content or\n         e-commerce engines within that environment. This trend, which we believe is still in its\n         infancy, effectively began with retailers and travel providers such as airlines and hotels\n         and will no doubt go fiirther. Johnson & Johnson, fbr example, has created BabyCenter,\n                                                                          \n         a stand-alone media property that promotes complementary and even competitive\n         products. Besides generating income, the presence of other marketers makes the site\n         seem objective, gives companies opportunities to learn valuable information about the\n                                                                          \n         appeal of other companies5 marketing, and may help expand user traffic fbr all\n         companies concerned.                                             \n            The same dramatic technological changes that have provided marketers with more\n                                                                          \n         (and more diverse) communications choices have also increased the risk that passionate\n         consumers will voice their opinions in quicker, more visible, and much more damaging\n         ways. Such hijacked media are the opposite of earned media: an asset or campaign\n         becomes hostage to consumers, other stakeholders, or activists who make negative\n                                                                          \n         allegations about a brand or product. Members of social networks, fbr instance, are\n         learning that they can hijack media to apply pressure on the businesses that originally\n         created them.                                                    \n                                                                          \n            If that happens, passionate consumers would try to persuade others to boycott\n         products, putting the reputation of the target company at risk. In such a case, the\n         company5 s response may not be sufficiently quick or thoughtfill, and the learning curve\n                                                                          \n         has been steep. Toyota Motor, for example, alleviated some of the damage from its recall\n         crisis earlier this year with a relatively quick and well-orchestrated social-media\n         response campaign, which included efforts to engage with consumers directly on sites\n         such as Twitter and the social-news site Digg.                   \n                                                                          \n                                                                          \n                           2011年英语（一）试题第7 页共14页",
+          "questions": [
+            {
+              "number": 31,
+              "stem": "Consumers may create “earned“ media when they are",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "obsessed with online shopping at certain Web sites."
+                },
+                {
+                  "label": "B",
+                  "text": "inspired by product-promoting e-mails sent to them."
+                },
+                {
+                  "label": "C",
+                  "text": "eager to help their friends promote quality products."
+                },
+                {
+                  "label": "D",
+                  "text": "enthusiastic about recommending their favorite products."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 32,
+              "stem": "According to Paragraph 2, sold media feature",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "a safe business environment."
+                },
+                {
+                  "label": "B",
+                  "text": "random competition."
+                },
+                {
+                  "label": "C",
+                  "text": "strong user traffic."
+                },
+                {
+                  "label": "D",
+                  "text": "flexibility in organization."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 33,
+              "stem": "The author indicates in Paragraph 3 that earned media",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "invite constant conflicts with passionate consumers."
+                },
+                {
+                  "label": "B",
+                  "text": "can be used to produce negative effects in marketing."
+                },
+                {
+                  "label": "C",
+                  "text": "may be responsible for fiercer competition."
+                },
+                {
+                  "label": "D",
+                  "text": "deserve all the negative comments about them."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 34,
+              "stem": "Toyota Motor9s experience is cited as an example of",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "responding effectively to hijacked media."
+                },
+                {
+                  "label": "B",
+                  "text": "persuading customers into boycotting products."
+                },
+                {
+                  "label": "C",
+                  "text": "cooperating with supportive consumers."
+                },
+                {
+                  "label": "D",
+                  "text": "taking advantage of hijacked media."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 35,
+              "stem": "Which of the following is the text mainly about?",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "Alternatives to conventional paid media."
+                },
+                {
+                  "label": "B",
+                  "text": "Conflict between hijacked and earned media."
+                },
+                {
+                  "label": "C",
+                  "text": "Dominance of hijacked media."
+                },
+                {
+                  "label": "D",
+                  "text": "Popularity of owned media. 2011年英语（一）试题第8 页共14页"
+                }
+              ],
+              "type": "choice"
+            }
+          ]
+        },
+        {
+          "text_num": 4,
+          "article": "It's no surprise that Jennifer Senior5s insightful, provocative magazine cover story,\n         “I love My Children, I Hate My Life/9 is arousing much chatter- nothing gets people\n         talking like the suggestion that child rearing is anything less than a completely fillfilling,\n                                                                          \n         life-enriching experience. Rather than concluding that children make parents either\n         happy or miserable, Senior suggests we need to redefine happiness: instead of thinking\n         of it as something that can be measured by moment-to-moment joy, we should consider\n         being happy as a past-tense condition. Even though the day-to-day experience of raising\n                                                                          \n         kids can be soul-cmshingly hard, Senior writes that ccthe very things that in the moment\n         dampen our moods can later be sources of intense gratification and delight.,,\n                                                                          \n            The magazine cover showing an attractive mother holding a cute baby is hardly the\n         only Madonna-and-child image on newsstands this week. There are also stories about\n         newly adoptive 一 and newly single 一 mom Sandra Bullock, as well as the usual\n                                                                          \n         ''Jennifer Aniston is pregnant55 news. Practically every week features at least one\n         celebrity mom, or mom-to-be, smiling on the newsstands.          \n            In a society that so persistently celebrates procreation, is it any wonder that\n                                                                          \n         admitting you regret having children is equivalent to admitting you support kitten­\n         killing? It doesn,t seem quite fair, then, to compare the regrets of parents to the regrets\n         of the childless. Unhappy parents rarely are provoked to wonder if they shouldn5t have\n                                                                          \n         had kids, but unhappy childless folks are bothered with the message that children are the\n         single most important thing in the world: obviously their misery must be a direct result\n         of the gaping baby-size holes in their lives.                    \n                                                                          \n            Of course, the image of parenthood that celebrity magazines like Us Weekly and\n         People present is hugely unrealistic, especially when the parents are single mothers like\n         Bullock. According to several studies concluding that parents are less happy than childless\n                                                                          \n         couples, single parents are the least happy of all. No shock there, considering how much\n         work it is to raise a kid without a partner to lean on; yet to hear Sandra and Britney tell it,\n         raising a kid on their \"own” (read: with round-the-clock help) is a piece of cake.\n                                                                          \n            It's hard to imagine that many people are dumb enough to want children just\n         because Reese and Angelina make it look so glamorous: most adults understand that a\n         baby is not a haircut. But it5s interesting to wonder if the images we see every week of\n                                                                          \n         stress-free, happiness-enhancing parenthood aren't in some small, subconscious way\n         contributing to our own dissatisfactions with the actual experience, in the same way that\n         a small part of us hoped getting ccthe Rachel“ might make us look just a little bit like\n         Jennifer Aniston.                                                \n                                                                          \n                                                                          \n                                                                          \n                                                                          \n                           2011年英语（一）试题第9 页共14页",
+          "questions": [
+            {
+              "number": 36,
+              "stem": "Jennifer Senior suggests in her article that raising a child can bring",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "temporary delight."
+                },
+                {
+                  "label": "B",
+                  "text": "enjoyment in progress."
+                },
+                {
+                  "label": "C",
+                  "text": "happiness in retrospect."
+                },
+                {
+                  "label": "D",
+                  "text": "lasting reward."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 37,
+              "stem": "We learn from Paragraph 2 that",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "celebrity moms are a permanent source for gossip."
+                },
+                {
+                  "label": "B",
+                  "text": "single mothers with babies deserve greater attention."
+                },
+                {
+                  "label": "C",
+                  "text": "news about pregnant celebrities is entertaining."
+                },
+                {
+                  "label": "D",
+                  "text": "having children is highly valued by the public."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 38,
+              "stem": "It is suggested in Paragraph 3 that childless folks",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "are constantly exposed to criticism."
+                },
+                {
+                  "label": "B",
+                  "text": "are largely ignored by the media."
+                },
+                {
+                  "label": "C",
+                  "text": "fail to fulfill their social responsibilities."
+                },
+                {
+                  "label": "D",
+                  "text": "are less likely to be satisfied with their life."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 39,
+              "stem": "According to Paragraph 4, the message conveyed by celebrity magazines is",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "soothing."
+                },
+                {
+                  "label": "B",
+                  "text": "ambiguous."
+                },
+                {
+                  "label": "C",
+                  "text": "compensatory."
+                },
+                {
+                  "label": "D",
+                  "text": "misleading."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 40,
+              "stem": "Which of the following can be inferred from the last paragraph?",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "Having children contributes little to the glamour of celebrity moms."
+                },
+                {
+                  "label": "B",
+                  "text": "Celebrity moms have influenced our attitude towards child rearing."
+                },
+                {
+                  "label": "C",
+                  "text": "Having children intensifies our dissatisfaction with life."
+                },
+                {
+                  "label": "D",
+                  "text": ""
+                }
+              ],
+              "type": "choice"
+            }
+          ]
+        }
+      ]
+    },
+    "new-type": {
+      "name": "Part B 阅读新题型",
+      "type": "new_type",
+      "question_range": [
+        41,
+        45
+      ],
+      "text": "",
+      "article": "",
+      "questions": [],
+      "warnings": [
+        "未找到题目"
+      ]
+    },
+    "translation": {
+      "name": "C节 翻译",
+      "type": "translation",
+      "question_range": [
+        46,
+        50
+      ],
+      "text": "(46) Alien's contribution was to take an assumption we all share- that because we\n                                                                          \n         are not robots we therefore contro",
+      "article": "in English drop out before getting their degrees.\nso on. These are disciplines that are going out of style: 22% of American college\ngraduates now major in business compared with only 2% in history and 4% in\nEnglish. However, many leading American universities want their undergraduates\nto have a grounding in the basic canon of ideas that every educated person should\npossess. But most find it difficult to agree on what a “ general educationshould\nlook like. At Harvard, Mr Menand notes, tcthe great books are read because they\nhave been read” they form a sort of social glue.\nthey entered graduate school. There are simply too few posts. This is partly\nbecause universities continue to produce ever more PhDs. But fewer students\nwant to study humanities subjects: English departments awarded more bachelor's\ndegrees in 1970-71 than they did 20 years later. Fewer students require fewer\nteachers. So, at the end of a decade of thesis-writing, many humanities students\nleave the profession to do something fbr which they have not been trained.\nthe insistence by top American universities that liberal-arts education and\nprofessional education should be kept separate, taught in different schools. Many\nstudents experience both varieties. Although more than half of Harvard\nundergraduates end up in law, medicine or business, future doctors and lawyers\nmust study a non-specialist liberal-arts degree before embarking on a professional\nqualification.\nuniversities have professionalised the professor. The growth in public money fbr\nacademic research has speeded the process: federal research grants rose fourfold\nbetween 1960 and 1990, but feculty teaching hours fell by half as research took\nits toll. Professionalism has turned the acquisition of a doctoral degree into a\nprerequisite fbr a successful academic career: as late as 1969 a third of American\nprofessors did not possess one. But the key idea behind professionalisation,\nargues Mr Menand, is that \"the knowledge and skills needed fbr a particular\nspecialisation are transmissible but not transferable.\" So disciplines acquire a\nmonopoly not just over the production of knowledge, but also over the\nproduction of the producers of knowledge.\nin which 6tthe producers of knowledge are produced.59 Otherwise, academics will\ncontinue to think dangerously alike, increasingly detached from the societies\nwhich they study, investigate and criticise. ''Academic inquiry, at least in some\nfields, may need to become less exclusionary and more holistic?5 Yet quite how\nthat happens, Mr Menand does not say.\nResistance in the American University should be read by every student thinking of\napplying to take a doctoral degree. They may then decide to go elsewhere. For\nsomething curious has been happening in American universities, and Louis\nMenand, a professor of English at Harvard University, captured it skillfully.\nPartC\nWith its theme that“ Mind is the master weaver/9 creating our inner character and\nouter circumstances, the book As a Man Thinketh by James Allen is an in-depth\nexploration of the central idea of self-help writing.",
+      "questions": [
+        {
+          "number": 46,
+          "stem": "Alien's contribution was to take an assumption we all share- that because we are not robots we therefore control our thoughts — and reveal its erroneous nature. Because most of us believe that mind is separate from matter, we think that thoughts can be hidden and made powerless; this allows us to think one way and act another. However, Allen believed that the unconscious mind generates as much action as the conscious mind, and",
+          "choices": [],
+          "type": "translation"
+        },
+        {
+          "number": 47,
+          "stem": "while we may be able to sustain the illusion of control through the conscious mind alone, in reality we are continually fkced with a question: \"Why cannot I make myself do this or achieve that?” Since desire and will are damaged by the presence of thoughts that do not accord with desire, Allen concluded: \"We do not attract what we want, but what we are.” Achievement happens because you as a person embody the external achievement; you don't \"get\" success but become it. There is no gap between mind and matter. Part of the fame of Allen5 s book is its contention that \"Circumstances do not make a ",
+          "choices": [],
+          "type": "translation"
+        },
+        {
+          "number": 48,
+          "stem": "This seems a justification for neglect of those in need, and a rationalization of exploitation^ of the superiority of those at the top and the inferiority of those at the bottom. This, however, would be a knee-jerk reaction to a subtle argument. Each set of circumstances, however bad, offers a unique opportunity for growth. If circumstances always determined the life and prospects of people, then humanity would never have progressed. In fact,",
+          "choices": [],
+          "type": "translation"
+        },
+        {
+          "number": 49,
+          "stem": "circumstances seem to be designed to bring out the best in us” and if we fbel that we have been ’Svronged“ then we are unlikely to begin a conscious effort to escape fix)m our situation. Nevertheless, as any biographer knows, a person's early life and its conditions are often the greatest gift to an individual. The sobering aspect of Allen5 s book is that we have no one else to blame for our present condition except ourselves.",
+          "choices": [],
+          "type": "translation"
+        },
+        {
+          "number": 50,
+          "stem": "The upside is the possibilities contained in knowing that everything is up to us; where befbre we were experts in the array of limitations, now we become authorities of what is possible. 2011年英语（一）试题第13页 共 14页",
+          "choices": [],
+          "type": "translation"
+        }
+      ],
+      "warnings": []
+    },
+    "writing-a": {
+      "name": "A节 应用文写作",
+      "type": "writing_small",
+      "question_range": [
+        51,
+        51
+      ],
+      "text": "51. Directions:                                                  \n                                                                          \n            Write a letter to a friend of yours to         ",
+      "article": "academic research has speeded the process: federal research grants rose fourfold\nbetween 1960 and 1990, but feculty teaching hours fell by half as research took\nits toll. Professionalism has turned the acquisition of a doctoral degree into a\nprerequisite fbr a successful academic career: as late as 1969 a third of American\nprofessors did not possess one. But the key idea behind professionalisation,\nargues Mr Menand, is that \"the knowledge and skills needed fbr a particular\nspecialisation are transmissible but not transferable.\" So disciplines acquire a\nmonopoly not just over the production of knowledge, but also over the\nproduction of the producers of knowledge.\nin which 6tthe producers of knowledge are produced.59 Otherwise, academics will\ncontinue to think dangerously alike, increasingly detached from the societies\nwhich they study, investigate and criticise. ''Academic inquiry, at least in some\nfields, may need to become less exclusionary and more holistic?5 Yet quite how\nthat happens, Mr Menand does not say.\nResistance in the American University should be read by every student thinking of\napplying to take a doctoral degree. They may then decide to go elsewhere. For\nsomething curious has been happening in American universities, and Louis\nMenand, a professor of English at Harvard University, captured it skillfully.\nPartC\nWith its theme that“ Mind is the master weaver/9 creating our inner character and\nouter circumstances, the book As a Man Thinketh by James Allen is an in-depth\nexploration of the central idea of self-help writing.\n(46) Alien's contribution was to take an assumption we all share- that because we\nare not robots we therefore control our thoughts — and reveal its erroneous nature.\nBecause most of us believe that mind is separate from matter, we think that thoughts can\nbe hidden and made powerless; this allows us to think one way and act another.\nHowever, Allen believed that the unconscious mind generates as much action as the\nconscious mind, and (47) while we may be able to sustain the illusion of control through\nthe conscious mind alone, in reality we are continually fkced with a question: \"Why\ncannot I make myself do this or achieve that?”\nSince desire and will are damaged by the presence of thoughts that do not accord\nwith desire, Allen concluded: \"We do not attract what we want, but what we are.”\nAchievement happens because you as a person embody the external achievement; you\ndon't \"get\" success but become it. There is no gap between mind and matter.\nPart of the fame of Allen5 s book is its contention that \"Circumstances do not make\na person, they reveal him.” (48) This seems a justification for neglect of those in need,\nand a rationalization of exploitation^ of the superiority of those at the top and the\ninferiority of those at the bottom.\nThis, however, would be a knee-jerk reaction to a subtle argument. Each set of\ncircumstances, however bad, offers a unique opportunity for growth. If circumstances\nalways determined the life and prospects of people, then humanity would never have\nprogressed. In fact, (49) circumstances seem to be designed to bring out the best in us”\nand if we fbel that we have been ’Svronged“ then we are unlikely to begin a conscious\neffort to escape fix)m our situation. Nevertheless, as any biographer knows, a person's\nearly life and its conditions are often the greatest gift to an individual.\nThe sobering aspect of Allen5 s book is that we have no one else to blame for our\npresent condition except ourselves. (50) The upside is the possibilities contained in\nknowing that everything is up to us; where befbre we were experts in the array of\nlimitations, now we become authorities of what is possible.\nSection III Writing\nPart A",
+      "questions": [
+        {
+          "number": 51,
+          "stem": "Directions: Write a letter to a friend of yours to",
+          "choices": [],
+          "type": "writing_small"
+        }
+      ],
+      "warnings": []
+    },
+    "writing-b": {
+      "name": "B节 短文写作",
+      "type": "writing_big",
+      "question_range": [
+        52,
+        52
+      ],
+      "text": "52. Directions:                                                  \n            Write an essay of 160-200 words based on the following drawing. In your essay,\n         you should                        ",
+      "article": "in which 6tthe producers of knowledge are produced.59 Otherwise, academics will\ncontinue to think dangerously alike, increasingly detached from the societies\nwhich they study, investigate and criticise. ''Academic inquiry, at least in some\nfields, may need to become less exclusionary and more holistic?5 Yet quite how\nthat happens, Mr Menand does not say.\nResistance in the American University should be read by every student thinking of\napplying to take a doctoral degree. They may then decide to go elsewhere. For\nsomething curious has been happening in American universities, and Louis\nMenand, a professor of English at Harvard University, captured it skillfully.\nPartC\nWith its theme that“ Mind is the master weaver/9 creating our inner character and\nouter circumstances, the book As a Man Thinketh by James Allen is an in-depth\nexploration of the central idea of self-help writing.\n(46) Alien's contribution was to take an assumption we all share- that because we\nare not robots we therefore control our thoughts — and reveal its erroneous nature.\nBecause most of us believe that mind is separate from matter, we think that thoughts can\nbe hidden and made powerless; this allows us to think one way and act another.\nHowever, Allen believed that the unconscious mind generates as much action as the\nconscious mind, and (47) while we may be able to sustain the illusion of control through\nthe conscious mind alone, in reality we are continually fkced with a question: \"Why\ncannot I make myself do this or achieve that?”\nSince desire and will are damaged by the presence of thoughts that do not accord\nwith desire, Allen concluded: \"We do not attract what we want, but what we are.”\nAchievement happens because you as a person embody the external achievement; you\ndon't \"get\" success but become it. There is no gap between mind and matter.\nPart of the fame of Allen5 s book is its contention that \"Circumstances do not make\na person, they reveal him.” (48) This seems a justification for neglect of those in need,\nand a rationalization of exploitation^ of the superiority of those at the top and the\ninferiority of those at the bottom.\nThis, however, would be a knee-jerk reaction to a subtle argument. Each set of\ncircumstances, however bad, offers a unique opportunity for growth. If circumstances\nalways determined the life and prospects of people, then humanity would never have\nprogressed. In fact, (49) circumstances seem to be designed to bring out the best in us”\nand if we fbel that we have been ’Svronged“ then we are unlikely to begin a conscious\neffort to escape fix)m our situation. Nevertheless, as any biographer knows, a person's\nearly life and its conditions are often the greatest gift to an individual.\nThe sobering aspect of Allen5 s book is that we have no one else to blame for our\npresent condition except ourselves. (50) The upside is the possibilities contained in\nknowing that everything is up to us; where befbre we were experts in the array of\nlimitations, now we become authorities of what is possible.\nSection III Writing\nPart A\nWrite a letter to a friend of yours to\nDo not sign your own name at the end of the letter. Use “Li Ming99 instead.\nDo not write the address. (10 points)\nPartB",
+      "questions": [
+        {
+          "number": 52,
+          "stem": "Directions: Write an essay of 160-200 words based on the following drawing. In your essay, you should",
+          "choices": [],
+          "type": "writing_big"
+        }
+      ],
+      "warnings": []
+    }
+  }
+}
