@@ -47,6 +47,114 @@ export interface ExamJsonData {
   sections: Record<string, JsonSection>;
 }
 
+// 适配器：将真题伴侣的数组格式转换为原有的 ExamJsonData 格式
+function transformZhentiData(year: number, rawArray: any[]): ExamJsonData {
+  const sections: Record<string, JsonSection> = {};
+  
+  let fallbackNumber = 1;
+  let maxQuestionNumber = 0;
+  
+  rawArray.forEach((rawSec, idx) => {
+    const meta = rawSec.meta || {};
+    const content = rawSec.content || {};
+    
+    // Extract article text
+    let article = '';
+    let clozeBlankCount = 1;
+    if (content.conts) {
+      article = content.conts.map((c: any) => {
+        if (!c.econt) return '';
+        let wordsArray: any[] = [];
+        if (Array.isArray(c.econt)) {
+          wordsArray = c.econt;
+        } else if (typeof c.econt === 'object') {
+          if (Array.isArray(c.econt.cont)) {
+            wordsArray = c.econt.cont;
+          } else {
+            wordsArray = Object.values(c.econt);
+          }
+        }
+        return wordsArray.map((e: any) => {
+          if (e.state === 4 || e.name === '?') {
+            return ` [__${clozeBlankCount++}__] `;
+          }
+          return e.name || '';
+        }).join(' ').replace(/\\s+/g, ' ').trim();
+      }).join('\\n\\n');
+    }
+    
+    // Extract questions
+    const questions: JsonQuestion[] = [];
+    const tms = content.tm || [];
+    tms.forEach((tm: any) => {
+      const choices: JsonChoice[] = [];
+      const daan = tm.daan || {};
+      const xx = daan.xx || [];
+      const xxVals = Array.isArray(xx) ? xx : Object.values(xx);
+      xxVals.forEach((opt: any) => {
+        choices.push({
+          label: opt.name || '',
+          text: opt.subject || opt.val || ''
+        });
+      });
+      
+      const stemHtml = tm.tigan || '';
+      const stem = stemHtml.replace(/<[^>]+>/g, '').trim();
+      
+      let qType = 'choice';
+      if (meta.types === 9) qType = 'new_type';
+      if (meta.types === 4) qType = 'translation';
+      if (meta.types === 3) qType = meta.title?.includes('A') ? 'writing_small' : 'writing_big';
+      
+      const qNum = tm.num ? parseInt(tm.num, 10) : fallbackNumber++;
+      if (qNum > maxQuestionNumber) maxQuestionNumber = qNum;
+      
+      questions.push({
+        number: qNum,
+        stem: stem,
+        choices,
+        type: qType
+      });
+    });
+    
+    const secTypeMap: Record<number, string> = {
+      2: 'cloze',
+      1: 'reading',
+      9: 'new_type',
+      4: 'translation',
+      3: 'writing'
+    };
+    
+    const typeStr = secTypeMap[meta.types] || 'unknown';
+    
+    const qCount = questions.length;
+    const range: [number, number] = qCount > 0 
+      ? [questions[0].number, questions[qCount - 1].number]
+      : [fallbackNumber, fallbackNumber];
+      
+    sections[`sec_${idx}`] = {
+      key: `sec_${idx}`,
+      name: meta.title || 'Unknown',
+      type: typeStr,
+      question_range: range,
+      article,
+      questions
+    };
+  });
+  
+  return {
+    year: year,
+    filename: `${year}.json`,
+    era: year >= 2010 ? 'english1' : 'early',
+    era_label: year >= 2010 ? '英语一' : '早期考研英语',
+    total_pages: 10,
+    max_question_number: maxQuestionNumber,
+    found_question_count: maxQuestionNumber,
+    extracted_question_count: maxQuestionNumber,
+    sections
+  };
+}
+
 export function useExamData(year: string | undefined) {
   const [data, setData] = useState<ExamJsonData | null>(null);
   const [loading, setLoading] = useState(false);
@@ -73,12 +181,15 @@ export function useExamData(year: string | undefined) {
           throw new Error(`HTTP ${response.status}: 数据文件不存在 (${year}.json)`);
         }
         
-        const json: ExamJsonData = await response.json();
+        const rawJson = await response.json();
         
         if (!cancelled) {
-          // 验证基本结构
-          if (json.sections && Object.keys(json.sections).length > 0) {
-            setData(json);
+          // 如果是真题伴侣的数组格式，进行转换
+          if (Array.isArray(rawJson)) {
+            const transformedData = transformZhentiData(parseInt(year!, 10), rawJson);
+            setData(transformedData);
+          } else if (rawJson.sections && Object.keys(rawJson.sections).length > 0) {
+            setData(rawJson);
           } else {
             setError('数据格式错误：缺少 sections 字段');
           }

@@ -1,394 +1,147 @@
-{
-  "1998": {
-    "year": 1998,
-    "status": "ok",
-    "questions": 40,
-    "sections": [
-      "cloze",
-      "reading-a",
-      "new-type",
-      "translation",
-      "writing-a",
-      "writing-b"
-    ],
-    "file": "1998.json"
+[
+  {
+    "id": "2026",
+    "nianfen": "2026",
+    "type": "英语（一）"
   },
-  "1999": {
-    "year": 1999,
-    "status": "ok",
-    "questions": 40,
-    "sections": [
-      "cloze",
-      "reading-a",
-      "new-type",
-      "translation",
-      "writing-a",
-      "writing-b"
-    ],
-    "file": "1999.json"
+  {
+    "id": "2025",
+    "nianfen": "2025",
+    "type": "英语（一）"
   },
-  "2000": {
-    "year": 2000,
-    "status": "ok",
-    "questions": 40,
-    "sections": [
-      "cloze",
-      "reading-a",
-      "new-type",
-      "translation",
-      "writing-a",
-      "writing-b"
-    ],
-    "file": "2000.json"
+  {
+    "id": "2024",
+    "nianfen": "2024",
+    "type": "英语（一）"
   },
-  "2001": {
-    "year": 2001,
-    "status": "ok",
-    "questions": 25,
-    "sections": [
-      "cloze",
-      "reading-a",
-      "new-type",
-      "translation",
-      "writing-a",
-      "writing-b"
-    ],
-    "file": "2001.json"
+  {
+    "id": "2023",
+    "nianfen": "2023",
+    "type": "英语（一）"
   },
-  "2002": {
-    "year": 2002,
-    "status": "ok",
-    "questions": 25,
-    "sections": [
-      "cloze",
-      "reading-a",
-      "new-type",
-      "translation",
-      "writing-a",
-      "writing-b"
-    ],
-    "file": "2002.json"
+  {
+    "id": "2022",
+    "nianfen": "2022",
+    "type": "英语（一）"
   },
-  "2003": {
-    "year": 2003,
-    "status": "ok",
-    "questions": 50,
-    "sections": [
-      "cloze",
-      "reading-a",
-      "new-type",
-      "translation",
-      "writing-a",
-      "writing-b"
-    ],
-    "file": "2003.json"
+  {
+    "id": "2021",
+    "nianfen": "2021",
+    "type": "英语（一）"
   },
-  "2004": {
-    "year": 2004,
-    "status": "ok",
-    "questions": 50,
-    "sections": [
-      "cloze",
-      "reading-a",
-      "new-type",
-      "translation",
-      "writing-a",
-      "writing-b"
-    ],
-    "file": "2004.json"
+  {
+    "id": "2020",
+    "nianfen": "2020",
+    "type": "英语（一）"
   },
-  "2005": {
-    "year": 2005,
-    "status": "ok",
-    "questions": 52,
-    "sections": [
-      "cloze",
-      "reading-a",
-      "new-type",
-      "translation",
-      "writing-a",
-      "writing-b"
-    ],
-    "file": "2005.json"
+  {
+    "id": "2019",
+    "nianfen": "2019",
+    "type": "英语（一）"
   },
-  "2006": {
-    "year": 2006,
-    "status": "ok",
-    "questions": 52,
-    "sections": [
-      "cloze",
-      "reading-a",
-      "new-type",
-      "translation",
-      "writing-a",
-      "writing-b"
-    ],
-    "file": "2006.json"
+  {
+    "id": "2018",
+    "nianfen": "2018",
+    "type": "英语（一）"
   },
-  "2007": {
-    "year": 2007,
-    "status": "ok",
-    "questions": 47,
-    "sections": [
-      "cloze",
-      "reading-a",
-      "new-type",
-      "translation",
-      "writing-a",
-      "writing-b"
-    ],
-    "file": "2007.json"
+  {
+    "id": "2017",
+    "nianfen": "2017",
+    "type": "英语（一）"
   },
-  "2008": {
-    "year": 2008,
-    "status": "ok",
-    "questions": 52,
-    "sections": [
-      "cloze",
-      "reading-a",
-      "new-type",
-      "translation",
-      "writing-a",
-      "writing-b"
-    ],
-    "file": "2008.json"
+  {
+    "id": "2016",
+    "nianfen": "2016",
+    "type": "英语（一）"
   },
-  "2009": {
-    "year": 2009,
-    "status": "ok",
-    "questions": 52,
-    "sections": [
-      "cloze",
-      "reading-a",
-      "new-type",
-      "translation",
-      "writing-a",
-      "writing-b"
-    ],
-    "file": "2009.json"
+  {
+    "id": "2015",
+    "nianfen": "2015",
+    "type": "英语（一）"
   },
-  "2010": {
-    "year": 2010,
-    "status": "ok",
-    "questions": 47,
-    "sections": [
-      "cloze",
-      "reading-a",
-      "new-type",
-      "translation",
-      "writing-a",
-      "writing-b"
-    ],
-    "file": "2010.json"
+  {
+    "id": "2014",
+    "nianfen": "2014",
+    "type": "英语（一）"
   },
-  "2011": {
-    "year": 2011,
-    "status": "ok",
-    "questions": 47,
-    "sections": [
-      "cloze",
-      "reading-a",
-      "new-type",
-      "translation",
-      "writing-a",
-      "writing-b"
-    ],
-    "file": "2011.json"
+  {
+    "id": "2013",
+    "nianfen": "2013",
+    "type": "英语（一）"
   },
-  "2012": {
-    "year": 2012,
-    "status": "ok",
-    "questions": 52,
-    "sections": [
-      "cloze",
-      "reading-a",
-      "new-type",
-      "translation",
-      "writing-a",
-      "writing-b"
-    ],
-    "file": "2012.json"
+  {
+    "id": "2012",
+    "nianfen": "2012",
+    "type": "英语（一）"
   },
-  "2013": {
-    "year": 2013,
-    "status": "ok",
-    "questions": 52,
-    "sections": [
-      "cloze",
-      "reading-a",
-      "new-type",
-      "translation",
-      "writing-a",
-      "writing-b"
-    ],
-    "file": "2013.json"
+  {
+    "id": "2011",
+    "nianfen": "2011",
+    "type": "英语（一）"
   },
-  "2014": {
-    "year": 2014,
-    "status": "ok",
-    "questions": 47,
-    "sections": [
-      "cloze",
-      "reading-a",
-      "new-type",
-      "translation",
-      "writing-a",
-      "writing-b"
-    ],
-    "file": "2014.json"
+  {
+    "id": "2010",
+    "nianfen": "2010",
+    "type": "英语（一）"
   },
-  "2015": {
-    "year": 2015,
-    "status": "ok",
-    "questions": 51,
-    "sections": [
-      "cloze",
-      "reading-a",
-      "new-type",
-      "translation",
-      "writing-a",
-      "writing-b"
-    ],
-    "file": "2015.json"
+  {
+    "id": "2009",
+    "nianfen": "2009",
+    "type": "英语（一）"
   },
-  "2016": {
-    "year": 2016,
-    "status": "ok",
-    "questions": 52,
-    "sections": [
-      "cloze",
-      "reading-a",
-      "new-type",
-      "translation",
-      "writing-a",
-      "writing-b"
-    ],
-    "file": "2016.json"
+  {
+    "id": "2008",
+    "nianfen": "2008",
+    "type": "英语（一）"
   },
-  "2017": {
-    "year": 2017,
-    "status": "ok",
-    "questions": 47,
-    "sections": [
-      "cloze",
-      "reading-a",
-      "new-type",
-      "translation",
-      "writing-a",
-      "writing-b"
-    ],
-    "file": "2017.json"
+  {
+    "id": "2007",
+    "nianfen": "2007",
+    "type": "英语（一）"
   },
-  "2018": {
-    "year": 2018,
-    "status": "ok",
-    "questions": 51,
-    "sections": [
-      "cloze",
-      "reading-a",
-      "new-type",
-      "translation",
-      "writing-a",
-      "writing-b"
-    ],
-    "file": "2018.json"
+  {
+    "id": "2006",
+    "nianfen": "2006",
+    "type": "英语（一）"
   },
-  "2019": {
-    "year": 2019,
-    "status": "ok",
-    "questions": 47,
-    "sections": [
-      "cloze",
-      "reading-a",
-      "new-type",
-      "translation",
-      "writing-a",
-      "writing-b"
-    ],
-    "file": "2019.json"
+  {
+    "id": "2005",
+    "nianfen": "2005",
+    "type": "英语（一）"
   },
-  "2020": {
-    "year": 2020,
-    "status": "ok",
-    "questions": 52,
-    "sections": [
-      "cloze",
-      "reading-a",
-      "new-type",
-      "translation",
-      "writing-a",
-      "writing-b"
-    ],
-    "file": "2020.json"
+  {
+    "id": "2004",
+    "nianfen": "2004",
+    "type": "英语（一）"
   },
-  "2021": {
-    "year": 2021,
-    "status": "ok",
-    "questions": 51,
-    "sections": [
-      "cloze",
-      "reading-a",
-      "new-type",
-      "translation",
-      "writing-a",
-      "writing-b"
-    ],
-    "file": "2021.json"
+  {
+    "id": "2003",
+    "nianfen": "2003",
+    "type": "英语（一）"
   },
-  "2022": {
-    "year": 2022,
-    "status": "ok",
-    "questions": 52,
-    "sections": [
-      "cloze",
-      "reading-a",
-      "new-type",
-      "translation",
-      "writing-a",
-      "writing-b"
-    ],
-    "file": "2022.json"
+  {
+    "id": "2002",
+    "nianfen": "2002",
+    "type": "英语（一）"
   },
-  "2023": {
-    "year": 2023,
-    "status": "ok",
-    "questions": 47,
-    "sections": [
-      "cloze",
-      "reading-a",
-      "new-type",
-      "translation",
-      "writing-a",
-      "writing-b"
-    ],
-    "file": "2023.json"
+  {
+    "id": "2001",
+    "nianfen": "2001",
+    "type": "英语（一）"
   },
-  "2024": {
-    "year": 2024,
-    "status": "ok",
-    "questions": 51,
-    "sections": [
-      "cloze",
-      "reading-a",
-      "new-type",
-      "translation",
-      "writing-a",
-      "writing-b"
-    ],
-    "file": "2024.json"
+  {
+    "id": "2000",
+    "nianfen": "2000",
+    "type": "英语（一）"
   },
-  "2025": {
-    "year": 2025,
-    "status": "ok",
-    "questions": 47,
-    "sections": [
-      "cloze",
-      "reading-a",
-      "new-type",
-      "translation",
-      "writing-a",
-      "writing-b"
-    ],
-    "file": "2025.json"
+  {
+    "id": "1999",
+    "nianfen": "1999",
+    "type": "英语（一）"
+  },
+  {
+    "id": "1998",
+    "nianfen": "1998",
+    "type": "英语（一）"
   }
-}
+]
