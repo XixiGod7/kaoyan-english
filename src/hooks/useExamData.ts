@@ -60,11 +60,26 @@ function transformZhentiData(year: number, rawArray: any[]): ExamJsonData {
     
     // Extract article text
     let article = '';
+    let clozeBlankCount = 1;
     if (content.conts) {
       article = content.conts.map((c: any) => {
         if (!c.econt) return '';
-        const econtVals = Array.isArray(c.econt) ? c.econt : Object.values(c.econt);
-        return econtVals.map((e: any) => e.name || '').join(' ');
+        let wordsArray: any[] = [];
+        if (Array.isArray(c.econt)) {
+          wordsArray = c.econt;
+        } else if (typeof c.econt === 'object') {
+          if (Array.isArray(c.econt.cont)) {
+            wordsArray = c.econt.cont;
+          } else {
+            wordsArray = Object.values(c.econt);
+          }
+        }
+        return wordsArray.map((e: any) => {
+          if (e.state === 4 || e.name === '?') {
+            return ` [__${clozeBlankCount++}__] `;
+          }
+          return e.name || '';
+        }).join(' ').replace(/\\s+/g, ' ').trim();
       }).join('\\n\\n');
     }
     
