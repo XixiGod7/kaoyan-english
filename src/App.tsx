@@ -1,146 +1,380 @@
-import React, { Component } from 'react';
-import { BrowserRouter as Router, Routes, Route, useParams, useNavigate } from 'react-router-dom';
-import Layout from './components/Layout';
-import HomePage from './components/HomePage';
-import ResourceTabs from './components/ResourceTabs';
-import PdfViewer from './components/PdfViewer';
+import React, { useState, useEffect, useMemo } from 'react';
+import { Header } from './components/Header';
+import { WordFreqSidebar } from './components/WordFreqSidebar';
+import { WordDetailModal } from './components/WordDetailModal';
+import { DataBackupModal } from './components/DataBackupModal';
+import { EbbinghausNotebookModal } from './components/EbbinghausNotebookModal';
+import { StudyProgressModal } from './components/StudyProgressModal';
+import { DesktopAppModal } from './components/DesktopAppModal';
+import { ExamWall } from './components/ExamWall';
 import QuizMode from './components/QuizMode';
-import { useYearDetail, usePaperData } from './hooks/usePaperData';
+import { PaperGroup, KaoyanDict, WordFreqItem } from './types/kaoyan';
+import { 
+  loadQuizHistory, 
+  loadEbbinghausRecords, 
+  syncAllWordsToEbbinghaus, 
+  computeOverallStudyStats, 
+  loadDailySessionState,
+  QuizRecordItem 
+} from './utils/ebbinghaus';
 
-class ErrorBoundary extends Component<{ children: any }, { error: Error | null }> {
-  constructor(props: any) { super(props); this.state = { error: null }; }
-  static getDerivedStateFromError(error: Error) { return { error }; }
-  render() {
-    if (this.state.error) {
-      return (
-        <div style={{ padding: 40, background: '#fee2e2', color: '#dc2626', fontFamily: 'monospace' }}>
-          <h1>⚠️ Error!</h1>
-          <pre style={{ fontSize: 14 }}>{this.state.error.message}</pre>
-        </div>
-      );
+export const App: React.FC = () => {
+  const [papers, setPapers] = useState<PaperGroup[]>([]);
+  const [dict, setDict] = useState<KaoyanDict | null>(null);
+  const [loading, setLoading] = useState(true);
+  const [isBackupModalOpen, setIsBackupModalOpen] = useState(false);
+  const [isEbbinghausOpen, setIsEbbinghausOpen] = useState(false);
+  const [isProgressOpen, setIsProgressOpen] = useState(false);
+  const [isDesktopAppOpen, setIsDesktopAppOpen] = useState(false);
+  const [quizHistory, setQuizHistory] = useState<Record<string, QuizRecordItem[]>>(() => loadQuizHistory());
+
+  const [theme, setTheme] = useState<'dark' | 'light'>(() => {
+    try {
+      const saved = localStorage.getItem('kaoyan_theme');
+      return saved === 'light' ? 'light' : 'dark';
+    } catch {
+      return 'dark';
     }
-    return this.props.children;
-  }
-}
+  });
 
-function YearView() {
-  const [activeTab, setActiveTab] = React.useState(() => 'exam');
-  const [mode, setMode] = React.useState<'pdf' | 'quiz'>('pdf');
-  const { year } = useParams();
-  const navigate = useNavigate();
-  
-  const yearData = useYearDetail(year!);
-  const { years } = usePaperData();
+  const handleToggleTheme = () => {
+    setTheme(prev => {
+      const next = prev === 'dark' ? 'light' : 'dark';
+      try {
+        localStorage.setItem('kaoyan_theme', next);
+      } catch (e) {
+        console.error(e);
+      }
+      return next;
+    });
+  };
 
-  if (!yearData) {
-    return (
-      <div style={{ padding: 40, background: '#fef3c7', color: '#92400e' }}>
-        <h1>No data for year: {year}</h1>
-        <p>Available years: {years.map((y: any) => y.year).join(', ')}</p>
-      </div>
-    );
-  }
+  const [selectedYear, setSelectedYear] = useState<string | null>(null);
+  const [selectedWord, setSelectedWord] = useState<WordFreqItem | null>(null);
+  const [wordStatuses, setWordStatuses] = useState<Record<string, 'familiar' | 'unfamiliar' | 'unknown'>>(() => {
+    try {
+      const saved = localStorage.getItem('kaoyan_word_statuses');
+      return saved ? JSON.parse(saved) : {};
+    } catch {
+      return {};
+    }
+  });
 
-  const currentResource = yearData.resources.find((r: any) => r.type === activeTab);
+  // Data import handler
+  const handleImportData = (payload: any, mode: 'merge' | 'overwrite'): boolean => {
+    try {
+      if (!payload || typeof payload !== 'object') return false;
+      const dataObj = payload.data || payload;
+      const importedStatuses = dataObj.wordStatuses;
 
-  // 答题模式：全屏展示
-  if (mode === 'quiz' && currentResource) {
-    return (
-      <div>
-        {/* 返回按钮 */}
-        <button
-          onClick={() => setMode('pdf')}
-          style={{
-            position: 'fixed', top: 16, left: 16, zIndex: 100,
-            display: 'flex', alignItems: 'center', gap: 6,
-            padding: '8px 14px',
-            background: '#ffffff', border: '1px solid #e2e8f0', borderRadius: '8px',
-            fontSize: '13px', color: '#64748b', cursor: 'pointer',
-            boxShadow: '0 1px 3px rgba(0,0,0,0.1)',
-          }}
-        >
-          ← 返回 PDF 预览
-        </button>
-        <QuizMode year={year!} title={`${yearData.year}年考研英语 - ${currentResource.label}`} />
-      </div>
-    );
-  }
+      if (importedStatuses && typeof importedStatuses === 'object') {
+        setWordStatuses(prev => {
+          const merged = mode === 'overwrite' ? { ...importedStatuses } : { ...prev, ...importedStatuses };
+          try {
+            localStorage.setItem('kaoyan_word_statuses', JSON.stringify(merged));
+          } catch {}
+          return merged;
+        });
+      }
 
-  // PDF 预览模式
+      if (dataObj.quizHistory) {
+        try {
+          localStorage.setItem('kaoyan_quiz_history', JSON.stringify(dataObj.quizHistory));
+          setQuizHistory(dataObj.quizHistory);
+        } catch {}
+      }
+
+      if (dataObj.ebbinghausRecords) {
+        try {
+          const currentEbb = loadEbbinghausRecords();
+          const mergedEbb = mode === 'overwrite' ? dataObj.ebbinghausRecords : { ...currentEbb, ...dataObj.ebbinghausRecords };
+          localStorage.setItem('kaoyan_ebbinghaus_records', JSON.stringify(mergedEbb));
+        } catch {}
+      }
+
+      if (dataObj.theme && (dataObj.theme === 'dark' || dataObj.theme === 'light')) {
+        setTheme(dataObj.theme);
+        try {
+          localStorage.setItem('kaoyan_theme', dataObj.theme);
+        } catch {}
+      }
+
+      return true;
+    } catch (e) {
+      console.error('Failed to import study data:', e);
+      return false;
+    }
+  };
+
+  // Data clear handler
+  const handleClearData = () => {
+    setWordStatuses({});
+    setQuizHistory({});
+    try {
+      localStorage.removeItem('kaoyan_word_statuses');
+      localStorage.removeItem('kaoyan_quiz_history');
+      localStorage.removeItem('kaoyan_quiz_records');
+      localStorage.removeItem('kaoyan_ebbinghaus_records');
+    } catch {}
+  };
+
+  // Load data on mount
+  useEffect(() => {
+    async function loadData() {
+      try {
+        setLoading(true);
+        const [papersRes, dictRes] = await Promise.all([
+          fetch('./data/papers_by_type.json'),
+          fetch('./data/kaoyan1_dict.json'),
+        ]);
+
+        if (papersRes.ok) {
+          const papersData = await papersRes.json();
+          setPapers(papersData);
+        }
+
+        if (dictRes.ok) {
+          const dictData = await dictRes.json();
+          setDict(dictData);
+        }
+      } catch (err) {
+        console.error('Failed to load kaoyan data:', err);
+      } finally {
+        setLoading(false);
+      }
+    }
+
+    loadData();
+  }, []);
+
+  // Save statuses to localStorage
+  const handleToggleStatus = (word: string, status: 'familiar' | 'unfamiliar' | 'unknown') => {
+    setWordStatuses(prev => {
+      const updated = { ...prev, [word]: status };
+      try {
+        localStorage.setItem('kaoyan_word_statuses', JSON.stringify(updated));
+      } catch (e) {
+        console.error(e);
+      }
+      return updated;
+    });
+
+    if (selectedWord && selectedWord.word === word) {
+      setSelectedWord(prev => prev ? { ...prev, status } : null);
+    }
+  };
+
+  // Build sorted WordFreqItem[] list (Strictly 762 Core Focus Words with Exam Sentences)
+  const wordFreqList = useMemo<WordFreqItem[]>(() => {
+    if (!dict || !dict.entries) return [];
+
+    const list: WordFreqItem[] = [];
+
+    Object.entries(dict.entries).forEach(([word, entry]) => {
+      if (!entry.definition_cn) return;
+
+      const sentenceIds = entry.sentence_ids || [];
+      const taskIds = entry.task_ids || [];
+
+      // Filter: Only include curated 762 exam core focus words that actually appear in the past papers
+      const isCoreExamWord = entry.is_kaoyan_key || sentenceIds.length > 0 || taskIds.length > 0;
+      if (!isCoreExamWord) return;
+
+      const totalCount = sentenceIds.length || 1;
+      const paperCount = taskIds.length || Math.min(totalCount, 28);
+      const status = wordStatuses[word] || 'unknown';
+
+      list.push({
+        word,
+        entry,
+        paperCount,
+        totalCount,
+        status,
+      });
+    });
+
+    // Sort by paperCount desc, totalCount desc, alphabetical asc
+    return list.sort((a, b) => {
+      if (b.paperCount !== a.paperCount) return b.paperCount - a.paperCount;
+      if (b.totalCount !== a.totalCount) return b.totalCount - a.totalCount;
+      return a.word.localeCompare(b.word);
+    });
+  }, [dict, wordStatuses]);
+
+  const [targetSentenceId, setTargetSentenceId] = useState<number | null>(null);
+  const [targetTab, setTargetTab] = useState<string | null>(null);
+  const [targetSectionId, setTargetSectionId] = useState<number | null>(null);
+  const [wordModalItem, setWordModalItem] = useState<WordFreqItem | null>(null);
+
+  const handleJumpToSentence = (year: string, sentenceId: number) => {
+    setSelectedYear(year);
+    setTargetSentenceId(sentenceId);
+    setTargetTab(null);
+    setTargetSectionId(null);
+    setWordModalItem(null);
+  };
+
+  const handleSelectSection = (year: string, tabId: string, sectionId: number, sentenceId?: number | null) => {
+    setSelectedYear(year);
+    setTargetTab(tabId);
+    setTargetSectionId(sectionId);
+    setTargetSentenceId(sentenceId || null);
+  };
+
+  const isDark = theme === 'dark';
+
+  // Compute due review words count for Ebbinghaus badge
+  const dueReviewCount = useMemo(() => {
+    const session = loadDailySessionState();
+    if (session) {
+      return session.activeQueueWords.length;
+    }
+    const records = loadEbbinghausRecords();
+    const synced = syncAllWordsToEbbinghaus(wordFreqList, wordStatuses, records);
+    const now = Date.now();
+    return Object.values(synced).filter(r => r.nextReviewTime <= now && r.stage < 8).length;
+  }, [wordFreqList, wordStatuses, isEbbinghausOpen]);
+
+  const studyStats = useMemo(() => {
+    return computeOverallStudyStats(papers, quizHistory);
+  }, [papers, quizHistory]);
+
+  const refreshQuizHistory = () => {
+    setQuizHistory(loadQuizHistory());
+  };
+
   return (
-    <div className="space-y-6">
-      {/* 导航 */}
-      <button onClick={() => navigate('/')} className="text-sm text-[#64748B] hover:text-[#1E293B]">
-        ← 返回总览
-      </button>
+    <div className={`h-screen flex flex-col font-sans antialiased transition-colors duration-200 overflow-hidden ${
+      isDark ? 'bg-slate-950 text-slate-100' : 'bg-slate-50 text-gray-900'
+    }`}>
+      {/* Top Bar */}
+      <Header
+        onGoHome={() => {
+          setSelectedYear(null);
+          setTargetSentenceId(null);
+          setTargetTab(null);
+          setTargetSectionId(null);
+          refreshQuizHistory();
+        }}
+        currentYear={selectedYear}
+        theme={theme}
+        onToggleTheme={handleToggleTheme}
+        onOpenDataBackup={() => setIsBackupModalOpen(true)}
+        onOpenEbbinghaus={() => setIsEbbinghausOpen(true)}
+        onOpenProgress={() => setIsProgressOpen(true)}
+        onOpenDesktopApp={() => setIsDesktopAppOpen(true)}
+        dueReviewCount={dueReviewCount}
+      />
 
-      {/* 标题 */}
-      <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4">
-        <div>
-          <h2 className="text-3xl font-bold text-[#1E293B]">{yearData.year}年 考研英语</h2>
-          <p className="text-sm text-[#94A3B8] mt-1">{yearData.eraLabel}</p>
+      {loading ? (
+        <div className={`flex-1 flex items-center justify-center text-sm font-bold gap-3 ${
+          isDark ? 'text-slate-300' : 'text-slate-600'
+        }`}>
+          <div className="w-5 h-5 border-2 border-blue-500 border-t-transparent rounded-full animate-spin"></div>
+          正在加载 2010-2026 考研英语真题库与高频词库...
         </div>
-
-        {/* 模式切换 + Tab */}
-        <div className="flex items-center gap-3">
-          {/* 模式切换 */}
-          <div className="flex gap-1 bg-slate-100 rounded-lg p-1">
-            <button
-              onClick={() => setMode('pdf')}
-              style={{
-                padding: '6px 12px', borderRadius: '6px', fontSize: '12px', fontWeight: 600,
-                background: mode === 'pdf' ? 'white' : 'transparent',
-                color: mode === 'pdf' ? '#1E293B' : '#94a3b8',
-                cursor: 'pointer', transition: 'all 0.15s',
-                border: mode === 'pdf' ? 'none' : '1px solid transparent',
-                boxShadow: mode === 'pdf' ? '0 1px 3px rgba(0,0,0,0.08)' : 'none',
-              }}
-            >
-              📄 PDF 预览
-            </button>
-            <button
-              onClick={() => setMode('quiz')}
-              style={{
-                padding: '6px 12px', borderRadius: '6px', fontSize: '12px', fontWeight: 600,
-                background: mode === 'quiz' ? '#2563eb' : 'transparent',
-                color: mode === 'quiz' ? 'white' : '#94a3b8',
-                cursor: 'pointer', transition: 'all 0.15s',
-              }}
-            >
-              ✏️ 在线答题
-            </button>
-          </div>
-
-          {/* 资源 Tab */}
-          <ResourceTabs
-            resources={yearData.resources}
-            activeType={activeTab}
-            onChange={(t) => setActiveTab(t)}
+      ) : selectedYear ? (
+        /* Full Quiz Mode View for Selected Year */
+        <div className="flex-1">
+          <QuizMode
+            year={selectedYear}
+            initialTargetSentenceId={targetSentenceId}
+            initialTab={targetTab}
+            initialSectionId={targetSectionId}
+            theme={theme}
+            onToggleTheme={handleToggleTheme}
+            dict={dict}
+            wordStatuses={wordStatuses}
+            onToggleWordStatus={handleToggleStatus}
+            onOpenWordModal={item => setWordModalItem(item)}
+            onBackToHome={() => {
+              setSelectedYear(null);
+              setTargetSentenceId(null);
+              setTargetTab(null);
+              setTargetSectionId(null);
+              refreshQuizHistory();
+            }}
           />
         </div>
-      </div>
-
-      {/* PDF 预览 */}
-      {currentResource ? (
-        <PdfViewer resource={currentResource} />
       ) : (
-        <div className="text-center py-20 text-[#94A3B8]">该类型暂无资源</div>
+        /* Main Home: Left Word Sidebar + Right Exam Wall */
+        <div className="flex-1 flex overflow-hidden">
+          <WordFreqSidebar
+            words={wordFreqList}
+            onSelectWord={item => setSelectedWord(item)}
+            selectedWord={selectedWord}
+            onToggleStatus={handleToggleStatus}
+            theme={theme}
+          />
+
+          <ExamWall
+            papers={papers}
+            selectedWord={selectedWord}
+            onSelectWord={setSelectedWord}
+            onOpenWordModal={item => setWordModalItem(item)}
+            onSelectSection={handleSelectSection}
+            onToggleStatus={handleToggleStatus}
+            quizHistory={quizHistory}
+            onOpenProgressModal={() => setIsProgressOpen(true)}
+            theme={theme}
+          />
+        </div>
       )}
+
+      {/* Word Detail & Sentence Examples Modal */}
+      <WordDetailModal
+        item={wordModalItem}
+        onClose={() => setWordModalItem(null)}
+        onToggleStatus={handleToggleStatus}
+        onJumpToSentence={handleJumpToSentence}
+        theme={theme}
+      />
+
+      {/* Ebbinghaus Forgetting Curve Vocabulary Notebook & Review Modal */}
+      <EbbinghausNotebookModal
+        isOpen={isEbbinghausOpen}
+        onClose={() => setIsEbbinghausOpen(false)}
+        dict={dict}
+        words={wordFreqList}
+        wordStatuses={wordStatuses}
+        onToggleStatus={handleToggleStatus}
+        onOpenWordDetail={item => setWordModalItem(item)}
+        theme={theme}
+      />
+
+      {/* Study Progress & Quiz Records Dashboard Modal */}
+      <StudyProgressModal
+        isOpen={isProgressOpen}
+        onClose={() => setIsProgressOpen(false)}
+        stats={studyStats}
+        papers={papers}
+        quizHistory={quizHistory}
+        onSelectYear={year => {
+          setSelectedYear(year);
+          setTargetTab(null);
+          setTargetSectionId(null);
+        }}
+        theme={theme}
+      />
+
+      {/* Personal Learning Data Backup & Import/Export Modal */}
+      <DataBackupModal
+        isOpen={isBackupModalOpen}
+        onClose={() => setIsBackupModalOpen(false)}
+        wordStatuses={wordStatuses}
+        onImportData={handleImportData}
+        onClearData={handleClearData}
+        theme={theme}
+      />
+
+      {/* Desktop App Generation & PWA Modal */}
+      <DesktopAppModal
+        isOpen={isDesktopAppOpen}
+        onClose={() => setIsDesktopAppOpen(false)}
+        theme={theme}
+      />
     </div>
   );
-}
+};
 
-export default function App() {
-  return (
-    <ErrorBoundary>
-      <Router>
-        <Layout>
-          <Routes>
-            <Route path="/" element={<HomePage />} />
-            <Route path="/year/:year" element={<YearView />} />
-          </Routes>
-        </Layout>
-      </Router>
-    </ErrorBoundary>
-  );
-}
+export default App;

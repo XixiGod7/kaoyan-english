@@ -1,10 +1,9 @@
 /**
  * 加载预生成的考试结构化JSON数据
  * 
- * 数据来源: /public/data/{year}.json (由 pdf_to_json.py 脚本生成)
- * 不再依赖浏览器端 PDF 文本解析
+ * 数据来源: 动态拉取 /data/{year}.json
  */
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useCallback } from 'react';
 
 export interface JsonChoice {
   label: string;
@@ -15,7 +14,7 @@ export interface JsonQuestion {
   number: number;
   stem: string;
   choices: JsonChoice[];
-  type: string;  // 'choice', 'new_type', 'translation', 'writing_small', 'writing_big'
+  type: string;
 }
 
 export interface JsonTextGroup {
@@ -27,12 +26,13 @@ export interface JsonTextGroup {
 export interface JsonSection {
   key: string;
   name: string;
-  type: string;   // 'cloze', 'reading', 'reading-a', 'new_type', 'translation', 'writing_small', 'writing_big'
+  type: string;
   question_range: [number, number];
   article?: string;
+  images?: string[];
   questions: JsonQuestion[];
   warnings?: string[];
-  texts?: JsonTextGroup[];   // 阅读A节拆分后的 Text 1-4 分组
+  texts?: JsonTextGroup[];
 }
 
 export interface ExamJsonData {
@@ -51,6 +51,11 @@ export function useExamData(year: string | undefined) {
   const [data, setData] = useState<ExamJsonData | null>(null);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
+  const [refreshTrigger, setRefreshTrigger] = useState(0);
+
+  const refresh = useCallback(() => {
+    setRefreshTrigger(prev => prev + 1);
+  }, []);
 
   useEffect(() => {
     console.log('[useExamData] effect triggered, year=', year);
@@ -61,45 +66,42 @@ export function useExamData(year: string | undefined) {
       return;
     }
 
-    let cancelled = false;
+    let isMounted = true;
+    setLoading(true);
+    setError(null);
     
-    async function loadData() {
-      setLoading(true);
-      setError(null);
+    // Add cache-busting timestamp to avoid browser caching old JSON after edit
+    const url = `/data/${year}.json?t=${Date.now()}`;
 
-      try {
-        const response = await fetch(`/data/${year}.json`);
-        if (!response.ok) {
-          throw new Error(`HTTP ${response.status}: 数据文件不存在 (${year}.json)`);
+    fetch(url)
+      .then(res => {
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        return res.json();
+      })
+      .then(json => {
+        if (!isMounted) return;
+        if (json && json.sections && Object.keys(json.sections).length > 0) {
+          Object.keys(json.sections).forEach(k => {
+            json.sections[k].key = k;
+          });
+          setData(json);
+        } else {
+          setError('数据格式错误：缺少 sections 字段');
         }
-        
-        const json: ExamJsonData = await response.json();
-        
-        if (!cancelled) {
-          // 验证基本结构
-          if (json.sections && Object.keys(json.sections).length > 0) {
-            setData(json);
-          } else {
-            setError('数据格式错误：缺少 sections 字段');
-          }
-        }
-      } catch (e: any) {
+      })
+      .catch((e: any) => {
+        if (!isMounted) return;
         console.error(`[useExamData] Failed to load ${year}:`, e);
-        if (!cancelled) {
-          setError(e.message || `无法加载 ${year} 年的试题数据`);
-          setData(null);
-        }
-      } finally {
-        if (!cancelled) {
-          setLoading(false);
-        }
-      }
-    }
+        setError(e.message || `无法加载 ${year} 年的试题数据`);
+      })
+      .finally(() => {
+        if (isMounted) setLoading(false);
+      });
 
-    loadData();
+    return () => {
+      isMounted = false;
+    };
+  }, [year, refreshTrigger]);
 
-    return () => { cancelled = true; };
-  }, [year]);
-
-  return { data, loading, error };
+  return { data, loading, error, refresh };
 }

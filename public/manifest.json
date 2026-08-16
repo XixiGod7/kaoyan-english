@@ -1,0 +1,25 @@
+{
+  "name": "考研英语一真题刷题系统",
+  "short_name": "考研英语",
+  "description": "考研英语一 1980-2025 历年真题刷题与艾宾浩斯智能记忆系统",
+  "start_url": "/",
+  "id": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0f172a",
+  "theme_color": "#4f46e5",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

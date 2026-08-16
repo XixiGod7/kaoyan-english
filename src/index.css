@@ -2,15 +2,22 @@
 @tailwind components;
 @tailwind utilities;
 
-/* 全局样式 */
+/* ===== 全局样式 — 浅色简洁主题 ===== */
 :root {
-  --primary: #1E3A5F;
-  --primary-light: #2E5B8C;
-  --accent: #D97706;
-  --bg-main: #F8FAFC;
-  --bg-card: #FFFFFF;
-  --text-primary: #1E293B;
-  --text-secondary: #64748B;
+  --primary: #2E3192;
+  --primary-light: #4a4dc7;
+  --accent: #FF8247;
+  --accent-hover: #ff6b3d;
+  --bg-main: #f5f5f5;
+  --bg-card: #ffffff;
+  --text-primary: #1a1a1a;
+  --text-secondary: #666666;
+  --text-muted: #999999;
+  --border-color: #e7e9ee;
+  --shadow-card: 0.3px 0.5px 0.7px rgba(0,0,0,0.36),
+                 0.8px 1.6px 2px -0.8px rgba(0,0,0,0.36),
+                 2.1px 4.1px 5.2px -1.7px rgba(0,0,0,0.36),
+                 5px 10px 12.6px -2.5px rgba(0,0,0,0.36);
 }
 
 * {
@@ -20,36 +27,468 @@
 }
 
 body {
-  font-family: 'Noto Sans SC', -apple-system, BlinkMacSystemFont, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans SC', sans-serif;
   background-color: var(--bg-main);
   color: var(--text-primary);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
 /* 滚动条美化 */
 ::-webkit-scrollbar {
-  width: 6px;
-  height: 6px;
+  width: 7px;
+  height: 9px;
 }
 ::-webkit-scrollbar-track {
-  background: #f1f5f9;
+  background: none;
+  border-radius: 10px;
 }
 ::-webkit-scrollbar-thumb {
-  background: #94a3b8;
-  border-radius: 3px;
-}
-::-webkit-scrollbar-thumb:hover {
-  background: #64748b;
+  background-color: #adb5bd;
+  border-radius: 10px;
+  border-top: 2px solid transparent;
 }
 
-/* PDF iframe 容器 */
+/* ===== 主内容区 ===== */
+.bd-masthead {
+  text-align: center;
+  padding-bottom: 2rem;
+}
+
+/* ===== Logo 区域 ===== */
+.site-logo {
+  background-color: transparent;
+  padding: 10px;
+  text-align: left;
+}
+.site-logo a {
+  text-decoration: none;
+  color: #000;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+.site-logo .logo-text {
+  font-size: 18px;
+  font-weight: normal;
+  vertical-align: middle;
+}
+.site-logo .logo-subtitle {
+  color: #888;
+  font-size: 10px;
+  padding-left: 6px;
+  margin-left: 6px;
+  position: relative;
+  font-weight: normal;
+  vertical-align: middle;
+}
+.site-logo .logo-subtitle::before {
+  content: '';
+  height: 13px;
+  width: 1px;
+  background-color: #c3c3c3;
+  position: absolute;
+  left: -1px;
+  top: 2px;
+}
+
+/* ===== 页面标题区 ===== */
+.page-header {
+  padding-top: 1px;
+}
+.page-header h1 {
+  text-align: center;
+  padding: 3rem 1rem 0.75rem;
+  margin: 0;
+  font-size: 2rem;
+  font-weight: normal;
+}
+.page-header h1 strong {
+  color: var(--primary);
+  font-weight: 700;
+}
+.page-header .subtitle {
+  text-align: center;
+  padding: 0.5rem;
+  font-size: 0.8rem;
+  color: #666;
+}
+
+/* ===== 功能入口行 ===== */
+.feature-pills {
+  text-align: center;
+  margin-top: 1.5rem;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+.feature-pill {
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: #000;
+  border-bottom: 1px solid #a4a4a4;
+  padding: 0;
+  letter-spacing: 1px;
+  cursor: pointer;
+  background: transparent;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  transition: border-color 0.2s;
+}
+.feature-pill:hover {
+  border-bottom-color: #000;
+}
+
+/* ===== 年份 Section ===== */
+.content-body {
+  text-align: center;
+}
+.content-body hr {
+  border: none;
+  border-top: 1px solid rgba(0,0,0,0.1);
+  margin: 5rem 3rem;
+}
+.year-section {
+  margin-top: 2.5rem;
+}
+.year-section h2 {
+  margin-bottom: 0.75rem;
+  font-size: 1.5rem;
+  font-weight: 600;
+  text-align: left;
+  padding-left: 2rem;
+}
+.year-row {
+  margin-left: 0;
+  margin-right: 0;
+}
+.year-row-cont {
+  white-space: nowrap;
+  overflow-x: auto;
+  overflow-y: visible;
+  -webkit-overflow-scrolling: touch;
+  padding: 0 1rem 1rem;
+}
+
+/* ===== 试卷卡片 ===== */
+.paper-card-link {
+  text-decoration: none;
+  color: #fff;
+  display: inline-block;
+}
+.paper-card {
+  display: inline-block;
+  width: 280px;
+  height: 395px;
+  margin: 20px;
+  border: none;
+  transition: transform 0.3s ease-out;
+  color: #fff;
+  overflow: hidden;
+  border-radius: 4px;
+  position: relative;
+  box-shadow: var(--shadow-card);
+  border: 1px solid var(--border-color);
+}
+.paper-card:hover {
+  transform: scale(1.03);
+}
+.paper-card .card-overlay {
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+  background-color: rgba(0,0,0,0.8);
+  text-align: left;
+  padding: 10px 14px;
+}
+.paper-card:hover .card-overlay {
+  background-color: #000;
+}
+.paper-card .card-title {
+  font-size: 0.9rem;
+  line-height: 1;
+}
+.paper-card .card-title .english-type {
+  font-size: 1.1rem;
+}
+
+/* 进度条 */
+.paper-card progress {
+  margin-top: 10px;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  border: none;
+  height: 10px;
+  width: 100%;
+  display: block;
+}
+.paper-card progress::-webkit-progress-bar {
+  background: #e9e5e2;
+  border-radius: 10px;
+  box-shadow: 0 1px 0px #bebbb9 inset, 0 1px 0 #fcfcfc;
+}
+.paper-card progress::-webkit-progress-value {
+  border-radius: 10px;
+  margin: 1px;
+  box-shadow: 0 1px 0px #fcfcfc inset, 0 1px 0 #bebbb9;
+  background-color: #79b7fb;
+  background-image: linear-gradient(to bottom, #79b7fb, #659bd5);
+}
+
+/* "新" 角标 */
+.latest-badge {
+  position: absolute;
+  top: -7px;
+  right: -28px;
+  font-size: 14px;
+  width: 83px;
+  background: #4c8bd0;
+  text-align: center;
+  line-height: 43px;
+  letter-spacing: 1px;
+  color: #fff;
+  transform: rotate(45deg);
+  box-shadow: 0 1px 4px rgba(0,0,0,0.25);
+}
+
+/* ===== CSS 封面卡片 ===== */
+.paper-card .css-cover {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  position: relative;
+  overflow: hidden;
+}
+.paper-card .css-cover::before {
+  content: '';
+  position: absolute;
+  top: -30%;
+  right: -30%;
+  width: 80%;
+  height: 80%;
+  background: rgba(255,255,255,0.06);
+  border-radius: 50%;
+}
+.paper-card .css-cover::after {
+  content: '';
+  position: absolute;
+  bottom: -20%;
+  left: -20%;
+  width: 60%;
+  height: 60%;
+  background: rgba(255,255,255,0.04);
+  border-radius: 50%;
+}
+.paper-card .css-cover .cover-year {
+  font-size: 3.5rem;
+  font-weight: 800;
+  color: rgba(255,255,255,0.95);
+  z-index: 1;
+  text-shadow: 0 2px 8px rgba(0,0,0,0.15);
+}
+.paper-card .css-cover .cover-label {
+  font-size: 1rem;
+  font-weight: 600;
+  color: rgba(255,255,255,0.8);
+  z-index: 1;
+  letter-spacing: 2px;
+}
+.paper-card .css-cover .cover-icon {
+  font-size: 4rem;
+  opacity: 0.15;
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  z-index: 1;
+}
+
+/* 不同年代段的渐变色 */
+.paper-card .css-cover.era-2020s {
+  background: linear-gradient(135deg, #2E3192 0%, #1BFFFF 100%);
+}
+.paper-card .css-cover.era-2015s {
+  background: linear-gradient(135deg, #4b6cb7 0%, #182848 100%);
+}
+.paper-card .css-cover.era-2010s {
+  background: linear-gradient(135deg, #614385 0%, #516395 100%);
+}
+
+/* ===== 右侧侧栏 ===== */
+.side-nav {
+  position: fixed;
+  right: -2px;
+  top: 5rem;
+  text-align: center;
+  padding: 0 7px 0 3px;
+  box-shadow: 0px 1px 4px rgba(92,61,61,0.25);
+  z-index: 2;
+  background: #fff;
+  border-radius: 4px 0 0 4px;
+}
+.side-nav .side-nav-item {
+  display: block;
+  font-size: 0.6rem;
+  color: #909090;
+  text-decoration: none;
+  cursor: pointer;
+  padding: 8px 6px;
+  line-height: 2.4;
+  transition: color 0.2s;
+}
+.side-nav .side-nav-item:hover {
+  color: #494949;
+}
+
+/* ===== 底部安装区 ===== */
+.bottom-install {
+  background-color: #fff;
+  border: 1px solid #dae0ea;
+  border-radius: 0.5rem;
+  padding: 4rem 2rem;
+  margin: 3rem auto;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  text-align: center;
+  max-width: 900px;
+}
+.bottom-install a {
+  border: 1px solid #0070c9;
+  color: #0070c9;
+  padding: 6px 8px;
+  border-radius: 6px;
+  font-weight: 400;
+  font-size: 1.8rem;
+  text-decoration: none;
+}
+.bottom-install a:hover {
+  box-shadow: 0px 0px 4px #888;
+}
+
+/* ===== 版权区 ===== */
+.copyright {
+  text-align: center;
+  margin: 2rem 1rem;
+  color: #d4d4d4;
+  font-size: 12px;
+}
+.copyright a {
+  font-size: 12px;
+  color: #d4d4d4;
+  text-decoration: none;
+}
+.copyright a:hover {
+  border-bottom: 1px solid #d4d4d4;
+}
+.copyright .item {
+  color: #979797;
+  border-bottom: 1px solid transparent;
+  cursor: pointer;
+}
+.copyright .item:hover {
+  color: #353535;
+  border-bottom: 1px solid #353535;
+}
+
+/* ===== PDF Viewer 容器 ===== */
 .pdf-viewer-body {
   width: 100%;
-  height: calc(100vh - 220px);
+  height: calc(100vh - 60px);
   min-height: 600px;
 }
-
+.pdf-viewer-body iframe,
 .pdf-viewer-body embed {
   display: block;
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+
+/* ===== 详情页面包屑 ===== */
+.breadcrumb {
+  padding: 12px 20px;
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.breadcrumb a {
+  color: var(--text-secondary);
+  text-decoration: none;
+}
+.breadcrumb a:hover {
+  color: var(--text-primary);
+  border-bottom: 1px solid var(--text-primary);
+}
+.breadcrumb .separator {
+  color: #ccc;
+}
+
+/* ===== 详情页标题栏 ===== */
+.detail-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 8px 16px;
+  background: #fff;
+  border-bottom: 1px solid var(--border-color);
+}
+.detail-title {
+  font-weight: 700;
+  font-size: 1rem;
+}
+
+/* ===== 响应式 ===== */
+@media (max-width: 570px) {
+  .paper-card {
+    margin: 20px 10px;
+  }
+  .side-nav {
+    right: 0.5rem;
+    top: auto;
+    bottom: calc(env(safe-area-inset-bottom, 0px) + 1rem);
+    padding-right: 3px;
+  }
+  .page-header h1 {
+    font-size: 1.5rem;
+    padding: 2rem 1rem 0.5rem;
+  }
+  .feature-pill {
+    font-size: 0.95rem;
+    margin-right: 10px;
+  }
+  .year-section h2 {
+    font-size: 1.2rem;
+  }
+  .detail-header {
+    flex-direction: column;
+    gap: 8px;
+    align-items: flex-start;
+  }
+}
+
+@media (min-width: 1500px) {
+  .page-header h1 {
+    font-size: 3rem;
+  }
+  .paper-card {
+    width: 350px;
+    height: 493px;
+    margin: 2.5rem;
+  }
 }

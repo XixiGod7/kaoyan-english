@@ -1,0 +1,1107 @@
+{
+  "sentences": [
+    {
+      "cn_text": "这幅漫画生动描绘了一场家庭聚会场景：四人围坐在摆满食物的餐桌旁，却无人交谈。",
+      "en_text": "The cartoon vividly depicts a family reunion where four individuals sit around a table filled with food, yet none are engaging in conversation.",
+      "id": 2026024770,
+      "order_seq": "content_1_1",
+      "task_id": 201501009,
+      "tokens": [
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "The"
+        },
+        {
+          "gloss": "漫画",
+          "lemma": "cartoon",
+          "surface": "cartoon"
+        },
+        {
+          "gloss": "生动地",
+          "lemma": "vividly",
+          "surface": "vividly"
+        },
+        {
+          "gloss": "描绘",
+          "lemma": "depict",
+          "surface": "depicts"
+        },
+        {
+          "gloss": "一",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "家庭",
+          "lemma": "family",
+          "surface": "family"
+        },
+        {
+          "gloss": "聚会",
+          "lemma": "reunion",
+          "surface": "reunion"
+        },
+        {
+          "gloss": "在……的地方",
+          "lemma": "where",
+          "surface": "where"
+        },
+        {
+          "gloss": "四",
+          "lemma": "four",
+          "surface": "four"
+        },
+        {
+          "gloss": "个人",
+          "lemma": "individual",
+          "surface": "individuals"
+        },
+        {
+          "gloss": "坐",
+          "lemma": "sit",
+          "surface": "sit"
+        },
+        {
+          "gloss": "围绕",
+          "lemma": "around",
+          "surface": "around"
+        },
+        {
+          "gloss": "一",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "桌子",
+          "lemma": "table",
+          "surface": "table"
+        },
+        {
+          "gloss": "填满",
+          "lemma": "fill",
+          "surface": "filled"
+        },
+        {
+          "gloss": "带有",
+          "lemma": "with",
+          "surface": "with"
+        },
+        {
+          "gloss": "食物",
+          "lemma": "food",
+          "surface": "food"
+        },
+        {
+          "gloss": "然而",
+          "lemma": "yet",
+          "surface": "yet"
+        },
+        {
+          "gloss": "没有人",
+          "lemma": "none",
+          "surface": "none"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "are"
+        },
+        {
+          "gloss": "进行",
+          "lemma": "engage",
+          "surface": "engaging"
+        },
+        {
+          "gloss": "在……中",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "交谈",
+          "lemma": "conversation",
+          "surface": "conversation"
+        }
+      ]
+    },
+    {
+      "cn_text": "相反，每个人都专注于自己的智能手机，凸显了现代社会日益严峻的问题：技术过度使用及其对人际关系的冲击。",
+      "en_text": "Instead, each person is absorbed in their smartphone, highlighting a growing issue in modern society: the overuse of technology and its impact on human relationships.",
+      "id": 2026024771,
+      "order_seq": "content_1_2",
+      "task_id": 201501009,
+      "tokens": [
+        {
+          "gloss": "相反",
+          "lemma": "instead",
+          "surface": "Instead"
+        },
+        {
+          "gloss": "每个",
+          "lemma": "each",
+          "surface": "each"
+        },
+        {
+          "gloss": "人",
+          "lemma": "person",
+          "surface": "person"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "沉迷",
+          "lemma": "absorb",
+          "surface": "absorbed"
+        },
+        {
+          "gloss": "在……中",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "他们的",
+          "lemma": "their",
+          "surface": "their"
+        },
+        {
+          "gloss": "智能手机",
+          "lemma": "smartphone",
+          "surface": "smartphone"
+        },
+        {
+          "gloss": "突显",
+          "lemma": "highlight",
+          "surface": "highlighting"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "日益严重的",
+          "lemma": "grow",
+          "surface": "growing"
+        },
+        {
+          "gloss": "问题",
+          "lemma": "issue",
+          "surface": "issue"
+        },
+        {
+          "gloss": "在……中",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "现代的",
+          "lemma": "modern",
+          "surface": "modern"
+        },
+        {
+          "gloss": "社会",
+          "lemma": "society",
+          "surface": "society"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "过度使用",
+          "lemma": "overuse",
+          "surface": "overuse"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "技术",
+          "lemma": "technology",
+          "surface": "technology"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "它的",
+          "lemma": "its",
+          "surface": "its"
+        },
+        {
+          "gloss": "影响",
+          "lemma": "impact",
+          "surface": "impact"
+        },
+        {
+          "gloss": "对……的",
+          "lemma": "on",
+          "surface": "on"
+        },
+        {
+          "gloss": "人类的",
+          "lemma": "human",
+          "surface": "human"
+        },
+        {
+          "gloss": "关系",
+          "lemma": "relationship",
+          "surface": "relationships"
+        }
+      ]
+    },
+    {
+      "cn_text": "这幅图像折射出一个令人担忧的现实。",
+      "en_text": "This image reflects a troubling reality.",
+      "id": 2026024772,
+      "order_seq": "content_2_1",
+      "task_id": 201501009,
+      "tokens": [
+        {
+          "gloss": "这",
+          "lemma": "this",
+          "surface": "This"
+        },
+        {
+          "gloss": "画面",
+          "lemma": "image",
+          "surface": "image"
+        },
+        {
+          "gloss": "反映",
+          "lemma": "reflect",
+          "surface": "reflects"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "令人不安的",
+          "lemma": "trouble",
+          "surface": "troubling"
+        },
+        {
+          "gloss": "现实",
+          "lemma": "reality",
+          "surface": "reality"
+        }
+      ]
+    },
+    {
+      "cn_text": "智能手机虽然便捷，却大幅削弱了面对面的交流。",
+      "en_text": "Smartphones, while convenient, have significantly reduced face-to-face communication.",
+      "id": 2026024773,
+      "order_seq": "content_2_2",
+      "task_id": 201501009,
+      "tokens": [
+        {
+          "gloss": "智能手机",
+          "lemma": "smartphone",
+          "surface": "Smartphones"
+        },
+        {
+          "gloss": "虽然",
+          "lemma": "while",
+          "surface": "while"
+        },
+        {
+          "gloss": "方便的",
+          "lemma": "convenient",
+          "surface": "convenient"
+        },
+        {
+          "gloss": "已经",
+          "lemma": "have",
+          "surface": "have"
+        },
+        {
+          "gloss": "显著地",
+          "lemma": "significantly",
+          "surface": "significantly"
+        },
+        {
+          "gloss": "减少",
+          "lemma": "reduce",
+          "surface": "reduced"
+        },
+        {
+          "gloss": "脸",
+          "lemma": "face",
+          "surface": "face"
+        },
+        {
+          "gloss": "对",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "脸",
+          "lemma": "face",
+          "surface": "face"
+        },
+        {
+          "gloss": "交流",
+          "lemma": "communication",
+          "surface": "communication"
+        }
+      ]
+    },
+    {
+      "cn_text": "即便在本应增进感情的聚会中，人们也常将虚拟互动置于现实联结之上。",
+      "en_text": "Even during gatherings meant for bonding, people often prioritize virtual interactions over real-life connections.",
+      "id": 2026024774,
+      "order_seq": "content_2_3",
+      "task_id": 201501009,
+      "tokens": [
+        {
+          "gloss": "即使",
+          "lemma": "even",
+          "surface": "Even"
+        },
+        {
+          "gloss": "在……期间",
+          "lemma": "during",
+          "surface": "during"
+        },
+        {
+          "gloss": "聚会",
+          "lemma": "gathering",
+          "surface": "gatherings"
+        },
+        {
+          "gloss": "旨在",
+          "lemma": "mean",
+          "surface": "meant"
+        },
+        {
+          "gloss": "为了",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "增进感情",
+          "lemma": "bonding",
+          "surface": "bonding"
+        },
+        {
+          "gloss": "人们",
+          "lemma": "people",
+          "surface": "people"
+        },
+        {
+          "gloss": "经常",
+          "lemma": "often",
+          "surface": "often"
+        },
+        {
+          "gloss": "优先考虑",
+          "lemma": "prioritize",
+          "surface": "prioritize"
+        },
+        {
+          "gloss": "虚拟的",
+          "lemma": "virtual",
+          "surface": "virtual"
+        },
+        {
+          "gloss": "互动",
+          "lemma": "interaction",
+          "surface": "interactions"
+        },
+        {
+          "gloss": "超过",
+          "lemma": "over",
+          "surface": "over"
+        },
+        {
+          "gloss": "真实的",
+          "lemma": "real",
+          "surface": "real"
+        },
+        {
+          "gloss": "生活",
+          "lemma": "life",
+          "surface": "life"
+        },
+        {
+          "gloss": "联系",
+          "lemma": "connection",
+          "surface": "connections"
+        }
+      ]
+    },
+    {
+      "cn_text": "这种行为有悖此类活动的初衷，并削弱了情感纽带。",
+      "en_text": "This behavior undermines the purpose of such events and weakens emotional ties.",
+      "id": 2026024775,
+      "order_seq": "content_2_4",
+      "task_id": 201501009,
+      "tokens": [
+        {
+          "gloss": "这种",
+          "lemma": "this",
+          "surface": "This"
+        },
+        {
+          "gloss": "行为",
+          "lemma": "behavior",
+          "surface": "behavior"
+        },
+        {
+          "gloss": "削弱",
+          "lemma": "undermine",
+          "surface": "undermines"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "目的",
+          "lemma": "purpose",
+          "surface": "purpose"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "此类的",
+          "lemma": "such",
+          "surface": "such"
+        },
+        {
+          "gloss": "活动",
+          "lemma": "event",
+          "surface": "events"
+        },
+        {
+          "gloss": "并",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "减弱",
+          "lemma": "weaken",
+          "surface": "weakens"
+        },
+        {
+          "gloss": "情感的",
+          "lemma": "emotional",
+          "surface": "emotional"
+        },
+        {
+          "gloss": "纽带",
+          "lemma": "tie",
+          "surface": "ties"
+        }
+      ]
+    },
+    {
+      "cn_text": "电子设备的诱惑力造成了一种孤立感，哪怕身处至亲之中亦是如此。",
+      "en_text": "The allure of digital devices has led to a sense of isolation, even in the presence of loved ones.",
+      "id": 2026024776,
+      "order_seq": "content_2_5",
+      "task_id": 201501009,
+      "tokens": [
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "The"
+        },
+        {
+          "gloss": "吸引力",
+          "lemma": "allure",
+          "surface": "allure"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "电子的",
+          "lemma": "digital",
+          "surface": "digital"
+        },
+        {
+          "gloss": "设备",
+          "lemma": "device",
+          "surface": "devices"
+        },
+        {
+          "gloss": "已经",
+          "lemma": "have",
+          "surface": "has"
+        },
+        {
+          "gloss": "导致",
+          "lemma": "lead",
+          "surface": "led"
+        },
+        {
+          "gloss": "到",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "一种",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "感觉",
+          "lemma": "sense",
+          "surface": "sense"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "孤立",
+          "lemma": "isolation",
+          "surface": "isolation"
+        },
+        {
+          "gloss": "即使",
+          "lemma": "even",
+          "surface": "even"
+        },
+        {
+          "gloss": "在……中",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "存在",
+          "lemma": "presence",
+          "surface": "presence"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "亲爱的",
+          "lemma": "love",
+          "surface": "loved"
+        },
+        {
+          "gloss": "人",
+          "lemma": "one",
+          "surface": "ones"
+        }
+      ]
+    },
+    {
+      "cn_text": "若这一趋势延续，人际关系可能愈发流于表面、趋于脆弱。",
+      "en_text": "If this trend continues, relationships may become increasingly superficial and fragile.",
+      "id": 2026024777,
+      "order_seq": "content_2_6",
+      "task_id": 201501009,
+      "tokens": [
+        {
+          "gloss": "如果",
+          "lemma": "if",
+          "surface": "If"
+        },
+        {
+          "gloss": "这种",
+          "lemma": "this",
+          "surface": "this"
+        },
+        {
+          "gloss": "趋势",
+          "lemma": "trend",
+          "surface": "trend"
+        },
+        {
+          "gloss": "持续",
+          "lemma": "continue",
+          "surface": "continues"
+        },
+        {
+          "gloss": "关系",
+          "lemma": "relationship",
+          "surface": "relationships"
+        },
+        {
+          "gloss": "可能",
+          "lemma": "may",
+          "surface": "may"
+        },
+        {
+          "gloss": "变得",
+          "lemma": "become",
+          "surface": "become"
+        },
+        {
+          "gloss": "越来越",
+          "lemma": "increasingly",
+          "surface": "increasingly"
+        },
+        {
+          "gloss": "表面化的",
+          "lemma": "superficial",
+          "surface": "superficial"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "脆弱的",
+          "lemma": "fragile",
+          "surface": "fragile"
+        }
+      ]
+    },
+    {
+      "cn_text": "要解决这一问题，我们必须在技术应用与人际互动之间寻求平衡。",
+      "en_text": "To address this issue, we must strike a balance between technology and personal interactions.",
+      "id": 2026024778,
+      "order_seq": "content_3_1",
+      "task_id": 201501009,
+      "tokens": [
+        {
+          "gloss": "为了",
+          "lemma": "to",
+          "surface": "To"
+        },
+        {
+          "gloss": "解决",
+          "lemma": "address",
+          "surface": "address"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "this",
+          "surface": "this"
+        },
+        {
+          "gloss": "问题",
+          "lemma": "issue",
+          "surface": "issue"
+        },
+        {
+          "gloss": "我们",
+          "lemma": "we",
+          "surface": "we"
+        },
+        {
+          "gloss": "必须",
+          "lemma": "must",
+          "surface": "must"
+        },
+        {
+          "gloss": "找到",
+          "lemma": "strike",
+          "surface": "strike"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "平衡",
+          "lemma": "balance",
+          "surface": "balance"
+        },
+        {
+          "gloss": "在……之间",
+          "lemma": "between",
+          "surface": "between"
+        },
+        {
+          "gloss": "技术",
+          "lemma": "technology",
+          "surface": "technology"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "人际的",
+          "lemma": "personal",
+          "surface": "personal"
+        },
+        {
+          "gloss": "互动",
+          "lemma": "interaction",
+          "surface": "interactions"
+        }
+      ]
+    },
+    {
+      "cn_text": "在社交场合放下手机、开展有意义的对话，能够增进深层联结、缔造长久回忆。",
+      "en_text": "During social occasions, putting aside phones and engaging in meaningful conversations can foster deeper connections and create lasting memories.",
+      "id": 2026024779,
+      "order_seq": "content_3_2",
+      "task_id": 201501009,
+      "tokens": [
+        {
+          "gloss": "在……期间",
+          "lemma": "during",
+          "surface": "During"
+        },
+        {
+          "gloss": "社交的",
+          "lemma": "social",
+          "surface": "social"
+        },
+        {
+          "gloss": "场合",
+          "lemma": "occasion",
+          "surface": "occasions"
+        },
+        {
+          "gloss": "放下",
+          "lemma": "put",
+          "surface": "putting"
+        },
+        {
+          "gloss": "在一旁",
+          "lemma": "aside",
+          "surface": "aside"
+        },
+        {
+          "gloss": "手机",
+          "lemma": "phone",
+          "surface": "phones"
+        },
+        {
+          "gloss": "并且",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "进行",
+          "lemma": "engage",
+          "surface": "engaging"
+        },
+        {
+          "gloss": "在……中",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "有意义的",
+          "lemma": "meaningful",
+          "surface": "meaningful"
+        },
+        {
+          "gloss": "对话",
+          "lemma": "conversation",
+          "surface": "conversations"
+        },
+        {
+          "gloss": "可以",
+          "lemma": "can",
+          "surface": "can"
+        },
+        {
+          "gloss": "促进",
+          "lemma": "foster",
+          "surface": "foster"
+        },
+        {
+          "gloss": "更深层次的",
+          "lemma": "deep",
+          "surface": "deeper"
+        },
+        {
+          "gloss": "联系",
+          "lemma": "connection",
+          "surface": "connections"
+        },
+        {
+          "gloss": "并且",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "创造",
+          "lemma": "create",
+          "surface": "create"
+        },
+        {
+          "gloss": "持久的",
+          "lemma": "lasting",
+          "surface": "lasting"
+        },
+        {
+          "gloss": "回忆",
+          "lemma": "memory",
+          "surface": "memories"
+        }
+      ]
+    },
+    {
+      "cn_text": "家人和朋友亦可培养「无手机就餐」等习惯以促进互动。",
+      "en_text": "Families and friends might also adopt habits like phone-free meals to encourage interaction.",
+      "id": 2026024780,
+      "order_seq": "content_3_3",
+      "task_id": 201501009,
+      "tokens": [
+        {
+          "gloss": "家庭",
+          "lemma": "family",
+          "surface": "Families"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "朋友",
+          "lemma": "friend",
+          "surface": "friends"
+        },
+        {
+          "gloss": "可能",
+          "lemma": "might",
+          "surface": "might"
+        },
+        {
+          "gloss": "也",
+          "lemma": "also",
+          "surface": "also"
+        },
+        {
+          "gloss": "养成",
+          "lemma": "adopt",
+          "surface": "adopt"
+        },
+        {
+          "gloss": "习惯",
+          "lemma": "habit",
+          "surface": "habits"
+        },
+        {
+          "gloss": "例如",
+          "lemma": "like",
+          "surface": "like"
+        },
+        {
+          "gloss": "手机",
+          "lemma": "phone",
+          "surface": "phone"
+        },
+        {
+          "gloss": "无的",
+          "lemma": "free",
+          "surface": "free"
+        },
+        {
+          "gloss": "用餐",
+          "lemma": "meal",
+          "surface": "meals"
+        },
+        {
+          "gloss": "以",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "促进",
+          "lemma": "encourage",
+          "surface": "encourage"
+        },
+        {
+          "gloss": "互动",
+          "lemma": "interaction",
+          "surface": "interaction"
+        }
+      ]
+    },
+    {
+      "cn_text": "归根结底，任何数字化互动都无法替代面对面交流的真实性。",
+      "en_text": "Ultimately, no digital interaction can replace the authenticity of face-to-face communication.",
+      "id": 2026024781,
+      "order_seq": "content_3_4",
+      "task_id": 201501009,
+      "tokens": [
+        {
+          "gloss": "最终",
+          "lemma": "ultimately",
+          "surface": "Ultimately"
+        },
+        {
+          "gloss": "没有",
+          "lemma": "no",
+          "surface": "no"
+        },
+        {
+          "gloss": "数字的",
+          "lemma": "digital",
+          "surface": "digital"
+        },
+        {
+          "gloss": "互动",
+          "lemma": "interaction",
+          "surface": "interaction"
+        },
+        {
+          "gloss": "可以",
+          "lemma": "can",
+          "surface": "can"
+        },
+        {
+          "gloss": "取代",
+          "lemma": "replace",
+          "surface": "replace"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "真实性",
+          "lemma": "authenticity",
+          "surface": "authenticity"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "脸",
+          "lemma": "face",
+          "surface": "face"
+        },
+        {
+          "gloss": "对",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "脸",
+          "lemma": "face",
+          "surface": "face"
+        },
+        {
+          "gloss": "交流",
+          "lemma": "communication",
+          "surface": "communication"
+        }
+      ]
+    },
+    {
+      "cn_text": "唯有将真实联结置于优先地位，我们方能守护人际关系的本质、充实自身生活。",
+      "en_text": "By prioritizing real connections, we can preserve the essence of human relationships and enrich our lives.",
+      "id": 2026024782,
+      "order_seq": "content_3_5",
+      "task_id": 201501009,
+      "tokens": [
+        {
+          "gloss": "通过",
+          "lemma": "by",
+          "surface": "By"
+        },
+        {
+          "gloss": "优先考虑",
+          "lemma": "prioritize",
+          "surface": "prioritizing"
+        },
+        {
+          "gloss": "真实的",
+          "lemma": "real",
+          "surface": "real"
+        },
+        {
+          "gloss": "联系",
+          "lemma": "connection",
+          "surface": "connections"
+        },
+        {
+          "gloss": "我们",
+          "lemma": "we",
+          "surface": "we"
+        },
+        {
+          "gloss": "可以",
+          "lemma": "can",
+          "surface": "can"
+        },
+        {
+          "gloss": "保留",
+          "lemma": "preserve",
+          "surface": "preserve"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "本质",
+          "lemma": "essence",
+          "surface": "essence"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "人类的",
+          "lemma": "human",
+          "surface": "human"
+        },
+        {
+          "gloss": "关系",
+          "lemma": "relationship",
+          "surface": "relationships"
+        },
+        {
+          "gloss": "并且",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "丰富",
+          "lemma": "enrich",
+          "surface": "enrich"
+        },
+        {
+          "gloss": "我们的",
+          "lemma": "our",
+          "surface": "our"
+        },
+        {
+          "gloss": "生活",
+          "lemma": "life",
+          "surface": "lives"
+        }
+      ]
+    }
+  ],
+  "success": true
+}

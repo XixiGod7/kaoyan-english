@@ -1,4 +1,3 @@
-import { useState, useEffect } from 'react';
 import { ExternalLink, Download } from 'lucide-react';
 import type { PaperResource } from '../types/paper';
 
@@ -10,40 +9,57 @@ export default function PdfViewer({ resource }: PdfViewerProps) {
   const fileUrl = resource.filePath;
 
   return (
-    <div className="bg-white rounded-2xl border border-slate-200/70 shadow-sm overflow-hidden">
+    <div style={{ background: '#fff', overflow: 'hidden' }}>
       {/* 工具栏 */}
-      <div className="flex items-center justify-between px-5 py-3 bg-slate-50 border-b border-slate-200/60">
-        <div className="flex items-center gap-2 text-sm text-[#64748B]">
-          <FileIcon className="w-4 h-4 text-[#D97706]" />
-          <span className="font-medium text-[#1E293B] truncate max-w-md">{resource.label}</span>
+      <div style={{
+        display: 'flex',
+        alignItems: 'center',
+        justifyContent: 'space-between',
+        padding: '8px 16px',
+        background: '#fafafa',
+        borderBottom: '1px solid #e7e9ee',
+      }}>
+        <div style={{ display: 'flex', alignItems: 'center', gap: 8, fontSize: '0.85rem', color: '#666' }}>
+          <FileIcon style={{ width: 16, height: 16, color: '#FF8247' }} />
+          <span style={{ fontWeight: 600, color: '#1a1a1a', maxWidth: 400, overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap' as const }}>
+            {resource.label}
+          </span>
         </div>
-        <div className="flex items-center gap-2">
+        <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
           <a
             href={fileUrl}
             target="_blank"
             rel="noopener noreferrer"
-            className="inline-flex items-center gap-1.5 px-3 py-1.5 text-xs font-medium
-                       bg-white border border-slate-300 rounded-lg hover:bg-slate-50
-                       text-[#1E293B] transition-colors duration-200 cursor-pointer"
+            style={{
+              display: 'inline-flex', alignItems: 'center', gap: 6,
+              padding: '5px 12px', fontSize: '12px', fontWeight: 500,
+              background: '#fff', border: '1px solid #d1d5db', borderRadius: '6px',
+              color: '#374151', cursor: 'pointer', textDecoration: 'none',
+              transition: 'all 0.2s',
+            }}
           >
-            <ExternalLink className="w-3.5 h-3.5" />
+            <ExternalLink style={{ width: 14, height: 14 }} />
             新窗口打开
           </a>
           <a
             href={fileUrl}
             download
-            className="inline-flex items-center gap-1.5 px-3 py-1.5 text-xs font-medium
-                       bg-[#1E3A5F] text-white rounded-lg hover:bg-[#2E5B8C]
-                       transition-colors duration-200 cursor-pointer"
+            style={{
+              display: 'inline-flex', alignItems: 'center', gap: 6,
+              padding: '5px 12px', fontSize: '12px', fontWeight: 500,
+              background: '#2E3192', color: '#fff', borderRadius: '6px',
+              cursor: 'pointer', textDecoration: 'none',
+              transition: 'all 0.2s', border: 'none',
+            }}
           >
-            <Download className="w-3.5 h-3.5" />
+            <Download style={{ width: 14, height: 14 }} />
             下载文件
           </a>
         </div>
       </div>
 
-      {/* PDF 预览 - embed 标签 */}
-      <div style={{ height: 'calc(100vh - 220px)', minHeight: '600px' }}>
+      {/* PDF 预览 */}
+      <div className="pdf-viewer-body">
         <embed
           src={fileUrl}
           type="application/pdf"
@@ -57,9 +73,9 @@ export default function PdfViewer({ resource }: PdfViewerProps) {
   );
 }
 
-function FileIcon({ className }: { className?: string }) {
+function FileIcon({ style }: { style?: React.CSSProperties }) {
   return (
-    <svg className={className} fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+    <svg style={style} fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
       <path strokeLinecap="round" strokeLinejoin="round" d="M7 21h10a2 2 0 002-2V9.414a1 1 0 00-.293-.707l-5.414-5.414A1 1 0 0012.586 3H7a2 2 0 00-2 2v14a2 2 0 002 2z" />
     </svg>
   );

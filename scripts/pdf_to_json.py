@@ -1,14 +1,14 @@
 #!/usr/bin/env python3
 """
-考研英语真题 PDF 结构化提取器 v1
+考研英语真题 PDF 结构化提取器 v2
 ================================
 使用 pdfplumber 提取文本，按题型分组输出 JSON
 
 核心策略：
   1. 跳过第1页（考生须知）
-  2. 按 "Section" 标记分割大区域
-  3. 在每个区域内：分离文章 + 提取题目+选项
-  4. 自动检测试卷年代（根据最大题号和关键词）
+  2. 采用稳健的顺序 Section 边界定位器，划分大区域
+  3. 在每个区域内进行对应的专用题型解析
+  4. 自动检测试卷年代和类型（英一/英二）
 """
 import pdfplumber
 import json
@@ -18,8 +18,9 @@ import sys
 from pathlib import Path
 from typing import Optional
 
-BASE_DIR = Path("/Users/iqtn/Documents/Study/kaoyan-english/public/pdfs")
-OUTPUT_DIR = Path("/Users/iqtn/Documents/Study/kaoyan-english/public/data")
+SCRIPT_DIR = Path(__file__).resolve().parent
+BASE_DIR = SCRIPT_DIR.parent / "public" / "pdfs"
+OUTPUT_DIR = SCRIPT_DIR.parent / "public" / "data"
 
 # ==================== 噪声模式 ====================
 NOISE_PATTERNS = [
@@ -43,7 +44,6 @@ NOISE_PATTERNS = [
 NOISE_RE = [re.compile(p) for p in NOISE_PATTERNS]
 
 # ==================== 年代配置 ====================
-# 每个年代有不同的题型分布
 ERA_CONFIGS = {
     'era1': {  # ≤2001
         'label': '第一阶段(≤2001)',
@@ -55,7 +55,7 @@ ERA_CONFIGS = {
             {'key': 'writing', 'name': '写作', 'range': (66,66), 'type': 'writing'},
         ]
     },
-    'era2': {  # 2002-2004 (有听力)
+    'era2': {  # 2002-2004
         'label': '第二阶段(2002-2004)',
         'sections': [
             {'key': 'listening', 'name': '听力理解', 'range': (1,20), 'type': 'choice'},
@@ -99,7 +99,10 @@ def is_noise_line(line: str) -> bool:
 
 
 def clean_text(text: str) -> str:
-    """清理文本中的噪声行"""
+    """清理文本中的噪声行，并剔除由于编码造成的乱码和中文字符"""
+    # 剔除所有的中文字符和特殊的乱码符号 (\uFFFD 是常见的 PDF 乱码替代符, )
+    text = re.sub(r'[\u4e00-\u9fa5\uFFFD]+', '', text)
+    
     lines = text.split('\n')
     cleaned = []
     for line in lines:
@@ -119,21 +122,17 @@ def extract_pages(pdf_path: str, skip_first: bool = True) -> list:
             try:
                 page = pdf.pages[i]
                 text = page.extract_text(layout=True, x_tolerance=3, y_tolerance=3) or ""
+                # 去除跨页的乱码页眉/页脚，如 "2010英语（一）... 10页"
+                text = re.sub(r'(?m)^\s*20[12]\d[^\n]*\d+[^\n]*\d+[^\n]*$', '', text)
                 # 清理CID编码垃圾
                 text = re.sub(r'\(cid:\d+\)', '', text)
                 
-                # ===== 关键修复1：括号内的数字可能被拆开 "( 4 7)" → "(47)" =====
+                # 关键修复1：括号内的数字可能被拆开 "( 4 7)" → "(47)"
                 text = re.sub(r'\(\s*(\d)\s+(\d)\s*\)', lambda m: f'({m.group(1)}{m.group(2)})', text)
                 text = re.sub(r'(?<=\()\s*(\d)\s+(\d)(?=\))', r'\1\2', text)
                 
-                # ===== 关键修复2：] 被提取为 J（字体编码问题）=====
-                # [AJ → [A], [BJ → [B], [CJ → [C], [DJ → [D]
-                # 注意：只修复选项格式中的这种情况，不要误伤正常文本中的 J
-                text = re.sub(r'\[([A-D])J\b', r'[\1]', text)
-                text = re.sub(r'\[([A-D]) j\b', r'[\1]', text)
-                # 也处理反向：选项后面的 ] 变成了 J
-                # 例如 "word]J" 或 "word J" 在选项末尾
-                text = re.sub(r'(\w)\s*J\s+(?=\[[A-D]|$)', r'\1] ', text)
+                # 关键修复2：] 被提取为 J（字体编码问题）
+                text = fix_bracket_j_issue(text)
                 
                 text = clean_text(text)
                 if text.strip():
@@ -146,11 +145,9 @@ def extract_pages(pdf_path: str, skip_first: bool = True) -> list:
 
 def detect_era(full_text: str, max_question_num: int) -> tuple:
     """
-    根据文本特征和最大题号检测试卷年代
-    返回 (era_key, config_dict)
+    根据文本特征和最大题号检测试卷年代和类别（英一/英二）
     """
     has_listening = bool(re.search(r'(?:听力|Listening|Section I\s*(?:Listening))', full_text, re.I))
-    has_vocab = bool(re.search(r'(?:Vocabulary|语法|词汇与结构)', full_text))
     is_english2 = bool(re.search(r'英语[二2]|English\s*[Ii][Ii]', full_text))
     
     if max_question_num >= 60 and has_listening:
@@ -166,29 +163,14 @@ def detect_era(full_text: str, max_question_num: int) -> tuple:
 def find_all_question_numbers(text: str) -> list:
     """
     找出文本中所有的题目编号及其位置
-    
-    考研英语真题中的题目格式：
-    - 阅读/写作：'        31. It can be learned from Paragraph 1 that'
-    - 完形填空：'        1. [A] when      [B] why       [C] how       [D] what'
-    - 写作：'51. Directions:'
-    - 变体：'37 . It can be...' （点号前有空格）
-    - 新题型：'( 41) _______________'
-    - 翻译：'( 46) This movement, driven by...'
-    
-    返回 [(number, start_pos, end_pos), ...]
     """
     results = []
-    seen_numbers = set()  # 去重
+    seen_numbers = set()
     
-    # 模式1：标准选择题格式 "数字." 或 "数字)" 或 "数字]"
     patterns = [
-        # 标准：可选空格 + 数字 + .或)或] + 可选空格 + 字母/中文内容
         re.compile(r'(?:^|\n)\s{0,30}(\d{1,2})\s*[.)\]]\s*([A-Z\[（\u4e00-\u9fff])', re.MULTILINE),
-        # 空格+点号变体："37 . It"
         re.compile(r'(?:^|\n)\s{0,30}(\d{1,2})\s+\.\s+([A-Z\[（\u4e00-\u9fff])', re.MULTILINE),
-        # 完形填空：数字. [A] 选项紧跟
         re.compile(r'(?:^|\n)\s{0,30}(\d{1,2})\s*\.\s*\[?[A-D]\]', re.MULTILINE),
-        # 孤立题号：数字. 后换行
         re.compile(r'(?:^|\n)\s{0,30}(\d{1,2})\s*\.\s*(?:\n|$)', re.MULTILINE),
     ]
     
@@ -203,11 +185,8 @@ def find_all_question_numbers(text: str) -> list:
                     'end': m.end(),
                 })
     
-    # 模式2：新题型/翻译的括号格式 "( 41)" "(46)"
     paren_patterns = [
-        # ( 41) 或 (41) — 空格后跟下划线或英文单词（新题型）
         re.compile(r'\(\s*(\d{1,2})\s*\)[\s_]*(?:[A-Za-z\u4e00-\u9fff])', re.MULTILINE),
-        # ( 46) 后面紧跟英文句子（翻译）
         re.compile(r'\(\s*(\d{1,2})\s*\)\s*([A-Z])', re.MULTILINE),
     ]
     
@@ -222,474 +201,276 @@ def find_all_question_numbers(text: str) -> list:
                     'end': m.end(),
                 })
     
-    # 按出现顺序排序
     results.sort(key=lambda x: x['start'])
-    
     return results
 
 
+# ==================== 稳健解析逻辑 ====================
+
 def split_into_sections(pages: list, era_key: str, config: dict, pdf_path: str = '') -> dict:
     """
-    将页面文本按 Section 分割
-    返回 {section_key: {'name': ..., 'text': ..., 'page_start': ...}}
+    将页面文本按 Section 分割并结构化提取题目
     """
     full_text = '\n\n'.join([p[1] for p in pages])
     
+    # 1. 顺序定位 Section Headers，划分文本块
+    bounds = locate_section_boundaries(full_text, era_key, config)
+    
+    # 2. 构造各个 section 的文本块
+    blocks = {}
+    block_spans = {}
+
+    # cloze block
+    end_idx = bounds.get('reading_a', len(full_text))
+    blocks['cloze'] = full_text[0:end_idx]
+    block_spans['cloze'] = (0, end_idx)
+
+    # reading-a block
+    start_idx = bounds.get('reading_a', 0)
+    end_idx = bounds.get('new_type', len(full_text))
+    blocks['reading-a'] = full_text[start_idx:end_idx]
+    block_spans['reading-a'] = (start_idx, end_idx)
+
+    # new-type block
+    start_idx = bounds.get('new_type', 0)
+    end_idx = bounds.get('translation', len(full_text))
+    blocks['new-type'] = full_text[start_idx:end_idx]
+    block_spans['new-type'] = (start_idx, end_idx)
+
+    # translation block
+    start_idx = bounds.get('translation', 0)
+    end_idx = bounds.get('writing_a', len(full_text))
+    blocks['translation'] = full_text[start_idx:end_idx]
+    block_spans['translation'] = (start_idx, end_idx)
+
+    # writing-a block
+    start_idx = bounds.get('writing_a', 0)
+    end_idx = bounds.get('writing_b', len(full_text))
+    blocks['writing-a'] = full_text[start_idx:end_idx]
+    block_spans['writing-a'] = (start_idx, end_idx)
+
+    # writing-b block
+    start_idx = bounds.get('writing_b', 0)
+    blocks['writing-b'] = full_text[start_idx:]
+    block_spans['writing-b'] = (start_idx, len(full_text))
+
+    page_map = []
+    curr = 0
+    for p in pages:
+        plen = len(p[1])
+        page_map.append((p[0] - 1, curr, curr + plen))
+        curr += plen + 2
+    blocks['writing-b'] = full_text[start_idx:]
+
     sections = {}
     
+    # 3. 按 Section 分别处理
     for sec_def in config['sections']:
         key = sec_def['key']
         sec_range = sec_def['range']
+        sec_type = sec_def['type']
         
-        # 找这个范围内的题号位置
-        all_qnums = find_all_question_numbers(full_text)
-        sec_questions = [q for q in all_qnums if sec_range[0] <= q['number'] <= sec_range[1]]
+        # 计算该 section 跨越的页码
+        sec_range_idx = block_spans.get(key, (0, 0))
+        sec_pages = []
+        for p_num, p_start, p_end in page_map:
+            # 判断两区间是否有重叠
+            if max(p_start, sec_range_idx[0]) < min(p_end, sec_range_idx[1]):
+                sec_pages.append(p_num)
         
-        if not sec_questions:
+        block_text = blocks.get(key, '')
+        
+        if not block_text.strip():
+            # 没文本 -> 创建占位
             sections[key] = {
                 'name': sec_def['name'],
-                'type': sec_def['type'],
+                'type': sec_type,
                 'question_range': list(sec_range),
                 'text': '',
                 'article': '',
-                'questions': [],
-                'warnings': ['未找到题目'],
+                'questions': [make_placeholder(n, sec_type) for n in range(sec_range[0], sec_range[1] + 1)],
+                'warnings': ['文本未匹配到'],
             }
+            sections[key]['page_numbers'] = list(set(sec_pages))
             continue
-        
-        # 确定该 Section 的文本范围
-        first_q_start = sec_questions[0]['start']
-        last_q_end = sec_questions[-1]['end']
-        
-        # 兼容题号乱序的情况（如某年的#46出现在#47-50后面）
-        all_sec_starts = sorted([q['start'] for q in sec_questions])
-        all_sec_ends = sorted([q['end'] for q in sec_questions])
-        zone_start = all_sec_starts[0]  # 最早出现的题号位置
-        zone_end = all_sec_ends[-1] + 5000  # 最晚题目结束后再扩展
-        
-        # 文章在第一个题目之前（扩大范围以确保包含所有文章）
-        article_zone = full_text[max(0, zone_start - 8000):zone_start]
-        
-        # 题目区域：从第一个题号到该 section 结束
-        next_section_start = len(full_text)
-        for other_sec in config['sections']:
-            other_range = other_sec['range']
-            if other_range[0] > sec_range[1]:
-                other_qs = [q for q in all_qnums if other_range[0] <= q['number'] <= other_range[1]]
-                if other_qs and other_qs[0]['start'] < next_section_start:
-                    next_section_start = other_qs[0]['start']
-        
-        # 防止下一个 section 反而在当前 section 之前（PDF 排版异常）
-        if next_section_start <= zone_start:
-            question_zone = full_text[zone_start:zone_end]
-        else:
-            question_zone = full_text[zone_start:min(next_section_start, zone_end)]
-        
-        # 阅读部分特殊处理：按 Text 1/2/3/4 拆分
-        if sec_type_is_reading(sec_def['type']):
-            # 阅读A节的文章和题目是交错排列的（Text1→题21-25→Text2→题26-30...）
-            # 所以需要传递从文章开头到所有题目结束的完整区域
-            full_zone_start = max(0, zone_start - 8000)
-            full_zone_end = min(len(full_text), zone_end + 5000)
-            last_q_pos = all_sec_ends[-1] if all_sec_ends else zone_start
-            full_zone_end = max(full_zone_end, last_q_pos + 3000)
-            full_reading_zone = full_text[full_zone_start:full_zone_end]
-            result = extract_reading_with_texts(full_reading_zone, sec_range, sec_def)
-        else:
-            article = extract_article(article_zone, sec_def['type'])
             
-            # 完形填空优先使用坐标提取（解决双栏排版问题）
-            if sec_def['type'] == 'cloze' and pdf_path:
-                coord_questions = extract_cloze_by_coordinates(pdf_path, sec_range, sec_def)
-                # 只有当坐标提取成功获取到足够题目时才使用
-                coord_count = len([q for q in coord_questions if q.get('choices') and len(q.get('choices', [])) >= 3])
-                expected = min(sec_range[1] - sec_range[0] + 1, 20)
-                if coord_count >= expected * 0.5:  # 至少一半题目有 3+ 个选项
-                    questions = coord_questions
-                else:
-                    questions = extract_questions_in_range(question_zone, sec_range, sec_def['type'])
-            else:
-                questions = extract_questions_in_range(question_zone, sec_range, sec_def['type'])
-            result = {
-                'name': sec_def['name'],
-                'type': sec_def['type'],
-                'question_range': list(sec_range),
-                'text': question_zone[:200],
-                'article': article,
-                'questions': questions,
-                'warnings': [],
-            }
+        questions = []
+        article = ''
         
-        sections[key] = result
-    
+        if sec_type == 'cloze':
+            article, questions = parse_cloze_block(block_text, sec_range)
+            if pdf_path and os.path.exists(pdf_path):
+                coord_questions = extract_cloze_by_coordinates(pdf_path, sec_range, sec_def)
+                if coord_questions:
+                    # Update questions with robust coordinate extraction
+                    # Only override if the coordinate extraction actually found choices
+                    if any(q.get('choices') for q in coord_questions):
+                        questions = coord_questions
+        elif sec_type in ['choice', 'reading']:
+            sections[key] = parse_reading_block(block_text, sec_range, sec_def)
+            sections[key]['page_numbers'] = list(set(sec_pages))
+            continue
+        elif sec_type == 'new_type':
+            questions = parse_new_type_block(block_text, sec_range)
+            article = extract_new_type_article(block_text)
+        elif sec_type == 'translation':
+            questions = parse_translation_block(block_text, sec_range)
+            article = extract_translation_article(block_text, questions)
+            
+        elif sec_type == 'writing_small':
+            questions = [parse_writing_block(block_text, sec_range[0], 'writing_small')]
+            
+        elif sec_type == 'writing_big':
+            questions = [parse_writing_block(block_text, sec_range[0], 'writing_big')]
+            
+        else:
+            questions = extract_questions_in_range(block_text, sec_range, sec_type)
+            
+        # 补全缺失题目
+        found_nums = {q['number'] for q in questions}
+        for n in range(sec_range[0], sec_range[1] + 1):
+            if n not in found_nums:
+                questions.append(make_placeholder(n, sec_type))
+        questions.sort(key=lambda x: x['number'])
+        
+        sections[key] = {
+            'name': sec_def['name'],
+            'type': sec_type,
+            'question_range': list(sec_range),
+            'text': block_text[:300],
+            'article': article,
+            'questions': questions,
+            'warnings': [],
+        }
+        sections[key]['page_numbers'] = list(set(sec_pages))
+        
     return sections
 
 
-def sec_type_is_reading(sec_type: str) -> bool:
-    """判断是否是阅读理解类题型"""
-    return sec_type in ('reading', 'reading-a', 'reading-b')
-
-
-def extract_reading_with_texts(full_zone: str, q_range: tuple, sec_def: dict) -> dict:
-    """提取阅读理解，按 Text 1-4 拆分并正确分组题目
-
-    考研阅读A节的实际排版结构（文章与题目交错）：
-        Text 1
-        [文章1内容]
-        21. ... 22. ... 23. ... 24. ... 25. ...
-
-        Text 2
-        [文章2内容]
-        26. ... 27. ... 28. ... 29. ... 30. ...
-        ...以此类推
+def locate_section_boundaries(full_text: str, era_key: str, config: dict) -> dict:
     """
-    # ===== 第一步：定位所有 Text N 标记 =====
-    text_headers = []  # [(text_num, start_pos, end_pos), ...]
-    header_pat = re.compile(r'^\s*(?:Text\s*(\d+)|Text(\d{1}))\s*$', re.MULTILINE | re.IGNORECASE)
-    for m in header_pat.finditer(full_zone):
-        num = int(m.group(1) or m.group(2))
-        if 1 <= num <= 6:  # 支持 1-4 篇，兼容可能的异常
-            text_headers.append((num, m.start(), m.end()))
-
-    # 去重排序（同一位置可能被多个模式匹配）
-    seen_pos = set()
-    unique_headers = []
-    for item in sorted(text_headers, key=lambda x: x[1]):
-        if item[1] not in seen_pos:
-            seen_pos.add(item[1])
-            unique_headers.append(item)
-
-    # ===== 第二步：定位所有阅读题号 =====
-    q_pattern = re.compile(r'(?:^|\n)\s{0,30}(\d{1,2})\s*[.\)）]\s*', re.MULTILINE)
-    all_questions = []
-    for m in q_pattern.finditer(full_zone):
-        num = int(m.group(1))
-        if q_range[0] <= num <= q_range[1]:
-            all_questions.append({'number': num, 'start': m.start(1), 'end': m.end(), 'match': m.group()})
-
-    # ===== 第三步：按 Text 分组 =====
-    texts = []
-    all_parsed_questions = []
-
-    for idx, (text_num, hdr_start, hdr_end) in enumerate(unique_headers):
-        # 当前 Text 区域的边界：
-        #   开始：Text 标题结束后
-        #   结束：下一个 Text 标题前（或文本末尾）
-        zone_start = hdr_end
-        if idx + 1 < len(unique_headers):
-            zone_end = unique_headers[idx + 1][1]
-        else:
-            zone_end = len(full_zone)
-
-        text_block = full_zone[zone_start:zone_end]
-
-        # 在这个 Text 块中，分离「文章内容」和「属于该篇的题目」
-        # 策略：找该 Text 块中出现的所有题号
-        block_questions = [
-            q for q in all_questions
-            if zone_start <= q['start'] < zone_end
-        ]
-
-        # 文章区域：从 Text 标题后到第一个题号之前
-        if block_questions:
-            first_q_pos = block_questions[0]['start'] - zone_start
-            raw_article = text_block[:first_q_pos]
-        else:
-            raw_article = text_block
-
-        article = _clean_reading_article(raw_article, text_num)
-
-        # 解析该 Text 块中的题目
-        parsed_qs = []
-        for qi, q in enumerate(block_questions):
-            q_abs_start = q['start']
-            if qi + 1 < len(block_questions):
-                q_abs_end = block_questions[qi + 1]['start']
-            else:
-                q_abs_end = min(q_abs_start + 2000, zone_end)
-
-            q_block = full_zone[q_abs_start:q_abs_end]
-            parsed = parse_single_question(q_block, q['number'], 'choice')
-            parsed_qs.append(parsed)
-            all_parsed_questions.append(parsed)
-
-        texts.append({
-            'text_num': text_num,
-            'article': article,
-            'questions': parsed_qs,
-        })
-
-    # ===== 第四步：处理没有找到任何 Text 标记的 fallback =====
-    if not texts:
-        # 尝试按题号均匀切分（每5题一组）
-        articles = split_article_by_text_headers(full_zone)
-        combined_article = '\n\n'.join(articles).strip() if articles else extract_article(full_zone, 'reading')
-
-        questions = []
-        splits = list(q_pattern.finditer(full_zone))
-        for i, match in enumerate(splits):
-            num = int(match.group(1))
-            if num < q_range[0] or num > q_range[1]:
-                continue
-            start = match.start()
-            end = splits[i + 1].start() if i + 1 < len(splits) else start + 2000
-            q_block = full_zone[start:end]
-            questions.append(parse_single_question(q_block, num, 'choice'))
-
-        return {
-            'name': sec_def['name'],
-            'type': sec_def['type'],
-            'question_range': list(q_range),
-            'text': full_zone[:200],
-            'article': combined_article[:8000],
-            'questions': questions,
-            'warnings': ['未找到 Text 1-4 标记，使用 fallback 模式'],
-            'text_count': len(articles),
-            'texts': [],
-        }
-
-    # ===== 第五步：补齐缺失的题号（防止某些题号没匹配到） =====
-    found_nums = {q['number'] for q in all_parsed_questions}
-    for n in range(q_range[0], q_range[1] + 1):
-        if n not in found_nums:
-            placeholder = make_placeholder(n, 'choice')
-            all_parsed_questions.append(placeholder)
-            # 归入最后一个 text group（或按题号规则归入）
-            target_text_idx = min((n - q_range[0]) // 5, len(texts) - 1)
-            if target_text_idx >= 0 and target_text_idx < len(texts):
-                texts[target_text_idx]['questions'].append(placeholder)
-
-    all_parsed_questions.sort(key=lambda x: x['number'])
-
-    # 合并所有文章作为 article（向后兼容）
-    combined_article = '\n\n'.join([t['article'] for t in texts if t['article']]).strip()
-
-    return {
-        'name': sec_def['name'],
-        'type': sec_def['type'],
-        'question_range': list(q_range),
-        'text': full_zone[:200],
-        'article': combined_article[:8000],
-        'questions': all_parsed_questions,
-        'warnings': [],
-        'text_count': len(texts),
-        'texts': texts,
-    }
-
-
-def _clean_reading_article(raw_text: str, text_num: int) -> str:
-    """清理单篇文章的内容，去除 Directions 和说明文字"""
-    lines = raw_text.split('\n')
-    clean_lines = []
-
-    # 跳过开头的 Directions/说明文字
-    skipping = True
-    has_content = False
-
-    for line in lines:
-        stripped = line.strip()
-        lower = stripped.lower()
-
-        if not stripped:
-            if has_content:
-                clean_lines.append(line)
-            continue
-
-        # Directions 类关键词
-        if skipping and any(kw in lower for kw in [
-            'directions', 'answer sheet', 'four choices', 'read the following',
-            'each of', 'below', 'choose the best', 'mark your answer',
-        ]):
-            continue
-
-        if skipping and looks_like_article_content(stripped):
-            skipping = False
-            has_content = True
-
-        if skipping:
-            continue
-
-        # 不要把题号行混入文章
-        if re.match(r'^\s*\d{1,2}\s*[.\)]', stripped):
-            break
-
-        clean_lines.append(line)
-
-    result = '\n'.join(clean_lines).strip()
-    return result[:8000] if result else ''
-
-
-def looks_like_article_content(line: str) -> bool:
-    """判断一行是否像英文文章正文"""
-    if len(line) < 20:
-        return False
-    alpha_count = sum(1 for c in line if c.isalpha() and ord(c) < 128)
-    if len(line) > 10 and alpha_count / len(line) < 0.4:
-        return False
-    # 以英文单词开头
-    if line[0].isalpha() and ord(line[0]) < 128:
-        return True
-    if alpha_count > 15:
-        return True
-    return False
-
-
-def split_article_by_text_headers(text: str) -> list:
-    """按 'Text 1', 'Text 2' 等标题将文章拆分"""
-    # 更宽泛的模式匹配
-    patterns = [
-        re.compile(r'^(?:Text\s*(\d+)|Text(\d{1}))\s*$', re.MULTILINE | re.IGNORECASE),
-        re.compile(r'Text\s*\d+', re.IGNORECASE),
-        re.compile(r'^Text\d+$', re.MULTILINE | re.IGNORECASE),
-    ]
-    
-    # 找所有 Text 标记位置
-    all_positions = []
-    for pat in patterns:
-        for m in pat.finditer(text):
-            all_positions.append((m.start(), m.end()))
-    
-    if len(all_positions) < 2:
-        art = extract_article(text, 'reading')
-        return [art] if art else []
-    
-    # 去重并排序
-    seen = set()
-    unique_pos = []
-    for start, end in sorted(all_positions):
-        if start not in seen:
-            seen.add(start)
-            unique_pos.append((start, end))
-    
-    parts = []
-    for i, (start, end) in enumerate(unique_pos):
-        # 文本从标题后开始，到下一个标题前结束
-        part_start = end
-        part_end = unique_pos[i + 1][0] if i + 1 < len(unique_pos) else len(text)
-        part_text = text[part_start:part_end].strip()
-        
-        # 清理 Directions 残留
-        lines = part_text.split('\n')
-        clean_lines = []
-        skip = False
-        for line in lines:
-            s = line.strip().lower()
-            if s.startswith('direction') or any(kw in s for kw in ['answer sheet', 'four choices']):
-                skip = True
-                continue
-            if skip and line.strip():
-                if looks_like_article_content(line.strip()):
-                    skip = False
-                else:
-                    continue
-            if line.strip():
-                clean_lines.append(line)
-        
-        cleaned = '\n'.join(clean_lines).strip()
-        if cleaned and len(cleaned) > 20:
-            parts.append(cleaned)
-    
-    return parts
-
-
-def looks_like_article_text_line(line: str) -> bool:
-    if len(line) < 30:
-        return False
-    alpha_ratio = sum(1 for c in line if c.isalpha() and ord(c) < 128) / len(line)
-    return alpha_ratio > 0.5
-
-
-def extract_article(text: str, sec_type: str) -> str:
+    定位真题各个 Section 的起始索引。
+    采用“Header 匹配为主，Question 题号/空白匹配为辅”的双重兜底策略。
     """
-    从题目前的文本中提取文章内容
-    """
-    lines = text.split('\n')
+    bounds = {}
+    total_len = len(full_text)
     
-    # 过滤掉 Directions 和说明文字
-    article_lines = []
-    in_directions = False
+    # 依据年代配置获取预期的题号起始点
+    q_reading_start = 21
+    q_new_type_start = 41
+    q_trans_start = 46
+    q_write_a_start = 51 if era_key == 'era3' else 47
+    q_write_b_start = 52 if era_key == 'era3' else 48
     
-    skip_keywords = ['directions:', 'directions', 'choose the best', 'mark your answer',
-                     'answer sheet', 'each blank', 'for each of', 'there are four choices',
-                     'read the following', 'translate the underlined', 'you are asked to']
+    bounds['cloze'] = 0
     
-    for line in lines:
-        stripped = line.strip()
-        lower = stripped.lower()
-        
-        if not stripped:
-            continue
-        
-        # 跳过 Directions 行
-        if lower.startswith('direction') or any(kw in lower for kw in skip_keywords):
-            in_directions = True
-            continue
-        
-        # Directions 通常有多行，遇到看起来像正文时结束
-        if in_directions:
-            if looks_like_article_line(stripped):
-                in_directions = False
-            elif stripped:
-                continue
-        
-        if looks_like_article_line(stripped):
-            article_lines.append(stripped)
-    
-    result = '\n'.join(article_lines).strip()
-    
-    # 如果没提取到，返回原始清理后的文本
-    if not result:
-        result = strip_directions_only(text).strip()
-    
-    return result[:8000]
-
-
-def looks_like_article_line(line: str) -> bool:
-    """判断一行是否像英文文章内容"""
-    if not line or len(line) < 5:
-        return False
-    
-    # 不是选项行
-    if re.match(r'^\s*\[?[A-G]\]?[\.)\]]', line):
-        return False
-    
-    # 不以题号开头
-    if re.match(r'^\s*\d{1,2}\s*[.\)]', line):
-        return False
-    
-    # 英文字符占比高
-    alpha_count = sum(1 for c in line if c.isalpha() and ord(c) < 128)
-    if len(line) > 10 and alpha_count / len(line) < 0.3:
-        return False
-    
-    # 以英文单词开头
-    if line[0].isalpha() and ord(line[0]) < 128:
-        return True
-    
-    # 包含足够多的英文内容
-    if alpha_count > 10:
-        return True
-    
-    return False
-
-
-def strip_directions_only(text: str) -> str:
-    """只移除明显的 Directions 说明，保留其余"""
-    lines = text.split('\n')
-    result = []
-    for line in lines:
-        s = line.strip()
-        lower = s.lower()
-        if not s:
-            result.append(line)
-        elif any(kw in lower for kw in ['directions:', 'directions']):
-            continue
-        elif any(kw in lower for kw in ['answer sheet', 'mark your answer', 'four choices']):
-            continue
+    # Reading A 起点
+    sec_2_idx = -1
+    m = re.search(r'Section\s*(?:II|Reading\s*Comprehension|阅读理解)', full_text, re.IGNORECASE)
+    if m:
+        sec_2_idx = m.start()
+    else:
+        m = re.search(r'\bText\s*1\b', full_text, re.IGNORECASE)
+        if m:
+            sec_2_idx = m.start()
         else:
-            result.append(line)
-    return '\n'.join(result)
+            m = re.search(r'(?:^|\n|\s)\b' + str(q_reading_start) + r'\b\s*[\.\)]', full_text)
+            if m:
+                sec_2_idx = max(0, m.start() - 1000)
+    bounds['reading_a'] = sec_2_idx if sec_2_idx != -1 else int(total_len * 0.1)
+    
+    # Reading B (New Type) 起点
+    part_b_idx = -1
+    search_start = bounds['reading_a']
+    m = re.search(r'Part\s*[\.\s]*B\b|阅读\s*B\s*节|新\s*题\s*型', full_text[search_start:], re.IGNORECASE)
+    if m:
+        part_b_idx = search_start + m.start()
+    else:
+        m = re.search(r'\(\s*' + str(q_new_type_start) + r'\s*\)|\[\s*' + str(q_new_type_start) + r'\s*\]|\b' + str(q_new_type_start) + r'\b\s*[\.\)]', full_text[search_start:])
+        if m:
+            part_b_idx = max(search_start, search_start + m.start() - 500)
+    bounds['new_type'] = part_b_idx if part_b_idx != -1 else int(total_len * 0.5)
+    
+    # Translation 起点
+    part_c_idx = -1
+    search_start = bounds['new_type']
+    m = re.search(r'Part\s*[\.\s]*C\b|C\s*节|翻译\s*部分|Translation', full_text[search_start:], re.IGNORECASE)
+    if m:
+        part_c_idx = search_start + m.start()
+    else:
+        m = re.search(r'\(\s*' + str(q_trans_start) + r'\s*\)|\[\s*' + str(q_trans_start) + r'\s*\]|\b' + str(q_trans_start) + r'\b\s*[\.\)]', full_text[search_start:])
+        if m:
+            part_c_idx = max(search_start, search_start + m.start() - 500)
+    bounds['translation'] = part_c_idx if part_c_idx != -1 else int(total_len * 0.7)
+    
+    # Writing A 起点
+    sec_3_idx = -1
+    search_start = bounds['translation']
+    m = re.search(r'Section\s*(?:III|M|Writing|写作)|Part\s*[\.\s]*A\b', full_text[search_start:], re.IGNORECASE)
+    if m:
+        sec_3_idx = search_start + m.start()
+    else:
+        m = re.search(r'\b' + str(q_write_a_start) + r'\b\s*Directions', full_text[search_start:], re.IGNORECASE)
+        if not m:
+            m = re.search(r'\b' + str(q_write_a_start) + r'\b\s*[\.\)]', full_text[search_start:])
+        if m:
+            sec_3_idx = max(search_start, search_start + m.start() - 500)
+    bounds['writing_a'] = sec_3_idx if sec_3_idx != -1 else int(total_len * 0.85)
+    
+    # Writing B 起点
+    writing_b_idx = -1
+    search_start = bounds['writing_a']
+    m = re.search(r'Part\s*[\.\s]*B\b', full_text[search_start:], re.IGNORECASE)
+    if m:
+        writing_b_idx = search_start + m.start()
+    else:
+        m = re.search(r'\b' + str(q_write_b_start) + r'\b\s*Directions', full_text[search_start:], re.IGNORECASE)
+        if not m:
+            m = re.search(r'\b' + str(q_write_b_start) + r'\b\s*[\.\)]', full_text[search_start:])
+        if m:
+            writing_b_idx = max(search_start, search_start + m.start() - 200)
+    bounds['writing_b'] = writing_b_idx if writing_b_idx != -1 else int(total_len * 0.92)
+    
+    return bounds
 
+
+def fix_bracket_j_issue(text: str) -> str:
+    """修复 PDF 提取中选项的各种破损和编码识别错误，归一化选项格式"""
+    if not text:
+        return ""
+    # 0. 修复题号中包含空格的问题，如 "3 7." -> "37.", "3 8." -> "38."
+    text = re.sub(r'\b(\d)\s+(\d)\b\s*([\.\)])', r'\1\2\3', text)
+    
+    # 1. 消除括号/中括号选项内部的空格，例如: "[ A]" / "[ B ]" / "[C ]" / "( A)"
+    text = re.sub(r'\[\s*([A-G])\s*\]', r'[\1]', text)
+    text = re.sub(r'\(\s*([A-G])\s*\)', r'[\1]', text)
+    
+    # 2. 修复中括号内字母 + J/j/I/1/l/| 等字体提取错误的异常
+    text = re.sub(r'\[\s*([A-G])\s*[\]JjI1l|]\s*', r'[\1] ', text)
+    text = re.sub(r'\[\s*([A-G])\s+J\b', r'[\1] ', text)
+    text = re.sub(r'\[([A-G])J([a-z])', r'[\1] \2', text)
+    text = re.sub(r'E([C-D])\]', r'[\1]', text)
+    text = re.sub(r'L([A])\]', r'[\1]', text)
+    text = re.sub(r'(\w)\s*J\s+(?=\[[A-D]|$)', r'\1] ', text)
+    
+    # 3. 修复没有前括号但有后括号的，例如 "A] " / "B) "（使用 lookbehind 避免重复 bracket）
+    text = re.sub(r'(?<!\[)\b([A-G])\s*[\])]\s+', r'[\1] ', text)
+    
+    # 4. 修复双栏排版换行合并后可能的连写，例如 "[A]pauses[B]returns" -> "[A] pauses [B] returns"
+    text = re.sub(r'\[([A-G])\]\s*([a-zA-Z])', r'[\1] \2', text)
+    
+    # 5. 确保选项前后有实际的空格
+    text = re.sub(r'\[([A-G])\](?!\s)', r'[\1] ', text)
+    
+    # 6. 统一冒号/乱码冒号选项，如 "A]" / ":A]" / "A" -> "[A]"
+    # 添加 \b 以防止匹配 "Directions: For questions" 中的 F
+    text = re.sub(r'[:]\s*([A-G])\b\s*[\])]?', r' [\1] ', text)
+    
+    # 7. 统一单独字母跟点/右括号的选项，例如 " A. " -> " [A] "
+    text = re.sub(r'(?<=^)([A-G])\s*[\.\)]\s+', r'[\1] ', text)
+    text = re.sub(r'(?<=\s)([A-G])\s*[\.\)]\s+', r'[\1] ', text)
+    
+    return text
 
 
 def extract_cloze_by_coordinates(pdf_path: str, q_range: tuple, sec_def: dict) -> list:
@@ -700,32 +481,73 @@ def extract_cloze_by_coordinates(pdf_path: str, q_range: tuple, sec_def: dict) -
     其中 [C] 标记经常丢失，但 C 列文字在固定 X 位置。
     
     算法：
-      1. 按 Y 坐标聚类找出所有选项行（含 ≥2 个 [A-D] 标签的行）
+      1. 按 Y 坐标聚类找出所有选项行（含 ≥2 个 [A-D] 标签 of the row）
       2. 对每行的非标记文字按 X 坐标分配到 A/B/C/D 四列
       3. 按顺序与题号匹配
     """
     try:
         with pdfplumber.open(pdf_path) as pdf:
-            # 先定位完形填空所在的页面（通过查找题号）
             cloze_pages = []
             for i, page in enumerate(pdf.pages):
                 text = (page.extract_text() or '')[:2000]
-                # 检查是否有完形填空的题目（1-20的小号题）
-                if re.search(r'\b[1-9]\.\s*\[A\]|\b1\d?\.\s*\[A\]', text):
+                text = text.replace('\uFFFD', '')
+                if re.search(r'\b1\s*[\.\)]\s*(?:\[|：|\()?\s*A(?![a-z_])', text):
                     cloze_pages.append(i)
             
             if not cloze_pages:
-                print(f"    Warning: no cloze pages found")
                 return []
 
-            # 只从相关页面提取 words
             all_words = []
             for idx in cloze_pages:
                 page = pdf.pages[idx]
-                words = page.extract_words(x_tolerance=3, y_tolerance=3, keep_blank_chars=True)
+                words = page.extract_words(x_tolerance=3, y_tolerance=3, keep_blank_chars=False)
                 if words:
-                    all_words.extend(words)
-            page_count = len(pdf.pages)
+                    split_words = []
+                    for w in words:
+                        text = w.get('text', '').strip()
+                        text = text.replace('\uFFFD', '')
+                        
+                        sub_words = [w.copy()]
+                        sub_words[0]['text'] = text
+                        
+                        # 检查是否以题号+句点/括号开头
+                        m = re.match(r'^(\d{1,2})\s*[\.\)]\s*(.*)$', text)
+                        if m and m.group(2).strip():
+                            num_part = m.group(1) + '.'
+                            rest_part = m.group(2).strip()
+                            
+                            w1 = w.copy()
+                            w1['text'] = num_part
+                            
+                            w2 = w.copy()
+                            w2['text'] = rest_part
+                            w2['x0'] = w['x0'] + (w['x1'] - w['x0']) * (len(num_part) / max(1, len(text)))
+                            sub_words = [w1, w2]
+                            
+                        # 尝试拆分选项标记与文字
+                        last_w = sub_words[-1]
+                        last_text = last_w['text']
+                        last_text_fixed = fix_bracket_j_issue(last_text)
+                        
+                        m_opt = re.match(r'^\[([A-D])\]\s*(.+)$', last_text_fixed)
+                        if not m_opt:
+                            m_opt = re.match(r'^\[?([A-D])[\]JjI1l|Ee](.+)$', last_text)
+                            
+                        if m_opt:
+                            label_part = f"[{m_opt.group(1)}]"
+                            content_part = m_opt.group(2).strip()
+                            
+                            w1 = last_w.copy()
+                            w1['text'] = label_part
+                            
+                            w2 = last_w.copy()
+                            w2['text'] = content_part
+                            w2['x0'] = last_w['x0'] + (last_w['x1'] - last_w['x0']) * (3 / max(1, len(last_text)))
+                            
+                            sub_words = sub_words[:-1] + [w1, w2]
+                            
+                        split_words.extend(sub_words)
+                    all_words.extend(split_words)
     except Exception as e:
         print(f"    Warning: coordinate extraction failed ({e}), falling back")
         return []
@@ -733,22 +555,53 @@ def extract_cloze_by_coordinates(pdf_path: str, q_range: tuple, sec_def: dict) -
     if not all_words:
         return []
 
-    # ===== 第一步：按 Y 聚类找选项行 =====
-    labels_by_y = {}  # rounded_top -> [(label, x0)]
-    for w in all_words:
-        t = w.get('text', '').strip()
-        m = re.match(r'^\[([A-D])\]$', t)
-        if m:
-            ry = round(w['top'], 0)
-            labels_by_y.setdefault(ry, []).append((m.group(1).upper(), w['x0']))
+    # ===== 第一步：按 Y 聚类（容错 2.5 磅） =====
+    sorted_words = sorted(all_words, key=lambda w: w['top'])
+    clusters = []
+    for w in sorted_words:
+        if not clusters:
+            clusters.append([w])
+        else:
+            # 判断当前词的 Y 坐标是否在最后一个聚类的平均 Y 值的 2.5 磅范围内
+            cluster_avg = sum(x['top'] for x in clusters[-1]) / len(clusters[-1])
+            if abs(w['top'] - cluster_avg) <= 2.5:
+                clusters[-1].append(w)
+            else:
+                clusters.append([w])
 
-    # 只保留有 ≥2 个标签的行（真正的选项行）
-    option_rows_y = {y: lbs for y, lbs in labels_by_y.items() if len(lbs) >= 2}
+    option_rows = []
+    labels_by_y = {} # 用于计算列边界的所有标签
+    for cluster in clusters:
+        labels = []
+        for w in cluster:
+            t = w.get('text', '').strip()
+            t_cleaned = fix_bracket_j_issue(t).strip()
+            if not t_cleaned.startswith('[') and len(t_cleaned) >= 1:
+                t_cleaned = re.sub(r'^[：:]?\b([A-D])\b[\]\).]?', r'[\1]', t_cleaned)
+            
+            # 强化标签归一化：支持 [A 甚至 A] 或 [B 等缺括号形式
+            if re.match(r'^\[([A-D])$', t_cleaned):
+                t_cleaned = f"[{t_cleaned[1]}]"
+            elif re.match(r'^([A-D])\]$', t_cleaned):
+                t_cleaned = f"[{t_cleaned[0]}]"
+                
+            m = re.match(r'^\[([A-D])\]$', t_cleaned)
+            if m:
+                labels.append((m.group(1).upper(), w['x0']))
+                ry = round(w['top'], 0)
+                labels_by_y.setdefault(ry, []).append((m.group(1).upper(), w['x0']))
+        
+        if len(labels) >= 2:
+            option_rows.append({
+                'y': sum(w['top'] for w in cluster) / len(cluster),
+                'labels': labels,
+                'words': cluster
+            })
 
-    if not option_rows_y:
+    if not option_rows:
         return []
 
-    # ===== 第二步：动态计算列边界 =====
+    # ===== 第二步：计算列边界 =====
     col_x = {l: [] for l in 'ABCD'}
     for lbs in labels_by_y.values():
         for label, x in lbs:
@@ -760,11 +613,18 @@ def extract_cloze_by_coordinates(pdf_path: str, q_range: tuple, sec_def: dict) -
             positions = sorted(col_x[label])
             centers[label] = positions[len(positions) // 2]
 
+    known_centers = sorted([(l, cx) for l, cx in centers.items() if cx], key=lambda x: x[1])
+    if len(known_centers) < 4:
+        default_offsets = {'A': 50, 'B': 170, 'C': 290, 'D': 410}
+        for l in 'ABCD':
+            if l not in centers:
+                centers[l] = default_offsets[l]
+    
     sorted_centers = sorted(centers.items(), key=lambda x: x[1])
     col_bounds = {}
     for i, (label, center) in enumerate(sorted_centers):
-        lo = (sorted_centers[i-1][1] + center) / 2 if i > 0 else center - 50
-        hi = (center + sorted_centers[i+1][1]) / 2 if i < len(sorted_centers)-1 else center + 80
+        lo = (sorted_centers[i-1][1] + center) / 2 if i > 0 else center - 80
+        hi = (center + sorted_centers[i+1][1]) / 2 if i < len(sorted_centers)-1 else center + 120
         col_bounds[label] = (lo, hi)
 
     def col_for_x(x):
@@ -774,39 +634,54 @@ def extract_cloze_by_coordinates(pdf_path: str, q_range: tuple, sec_def: dict) -
         return None
 
     def clean_option_text(text):
-        """清理选项文本中的垃圾"""
-        text = re.sub(r'^\s*\[?[A-D]\]?[\.\)]?\s*', '', text)  # 去标签残留
-        text = re.sub(r'^\d{1,2}\s*[.\)]?\s*', '', text)       # 去题号
-        text = re.sub(r'[\[\]cC\].]+', '', text)                 # 去破损标记
-        text = re.sub(r'^[;:\s]+', '', text)                     # 去前导标点
+        text = fix_bracket_j_issue(text)
+        text = re.sub(r'^\s*\[?[A-D]\]?[\.\)]?\s*', '', text)
+        text = re.sub(r'^\d{1,2}\s*[.\)]?\s*', '', text)
+        text = text.replace('[', '').replace(']', '')
+        text = re.sub(r'\s*\d{4}年英语（[一二]）.*?$', '', text)
+        text = re.sub(r'\s*英语（[一二]）试.*?$', '', text)
+        text = re.sub(r'\s*\d{4}-\d+\s*$', '', text)
+        text = re.sub(r'^[;:\s]+', '', text)
         return text.strip()
 
-    # ===== 第三步：对每个选项行提取四列文字 =====
-    sorted_rows = sorted(option_rows_y.items())
+    # ===== 第三步：对每个选项聚类行提取四列文字 =====
     extracted_rows = []
-
-    for row_y, labels in sorted_rows:
-        # 只取此行(±0.5pt容差)的非标记文字
-        row_words = [w for w in all_words if abs(w['top'] - row_y) <= 0.5]
-        
+    for row in option_rows:
         cols = {'A': [], 'B': [], 'C': [], 'D': []}
-        for w in sorted(row_words, key=lambda c: c['x0']):
+        # 排除可能是标签的单词，避免文字中混入 [A] 标记
+        non_label_words = []
+        for w in row['words']:
             t = w.get('text', '').strip()
-            if not t or re.match(r'^\[([A-D])\]$', t):
+            t_cleaned = fix_bracket_j_issue(t).strip()
+            if not t_cleaned.startswith('[') and len(t_cleaned) >= 1:
+                t_cleaned = re.sub(r'^[：:]?\b([A-D])\b[\]\).]?', r'[\1]', t_cleaned)
+            if re.match(r'^\[([A-D])$', t_cleaned):
+                t_cleaned = f"[{t_cleaned[1]}]"
+            elif re.match(r'^([A-D])\]$', t_cleaned):
+                t_cleaned = f"[{t_cleaned[0]}]"
+            
+            if re.match(r'^\[([A-D])\]$', t_cleaned) or t_cleaned in ('[', ']', '：', ':', ''):
                 continue
-            label = col_for_x(w['x0'])
+            non_label_words.append(w)
+
+        for w in non_label_words:
+            # 采用起点的 X 坐标进行列分配，避免长单词跨越中点被误判
+            x_ref = w['x0'] + 5
+            label = col_for_x(x_ref)
             if label:
-                cols[label].append(t)
+                cols[label].append(w)
 
         choices = []
         for label in 'ABCD':
-            raw = ' '.join(cols[label])
+            # 在同一列的词按照 X0 坐标从小到大排序，恢复正常阅读语序
+            sorted_col_words = sorted(cols[label], key=lambda w: w['x0'])
+            raw = ' '.join(w['text'] for w in sorted_col_words)
             clean = clean_option_text(raw)
             choices.append({'label': label, 'text': clean[:200]})
         
         has_content = any(c['text'] for c in choices)
         extracted_rows.append({
-            'y': row_y,
+            'y': row['y'],
             'choices': _normalize_choices(choices) if has_content else [],
             'has_content': has_content,
         })
@@ -820,339 +695,428 @@ def extract_cloze_by_coordinates(pdf_path: str, q_range: tuple, sec_def: dict) -
             q_numbers.append({'num': int(m.group(1)), 'top': round(w['top'], 0)})
     q_numbers.sort(key=lambda x: x['top'])
 
-    result = []
-    used_q_nums = set()
-
-    for idx, row_data in enumerate(extracted_rows):
-        # 按顺序配对为主
+    # Map option rows to the closest question number using closest match logic
+    row_to_q = {}
+    for row_idx, row_data in enumerate(extracted_rows):
         best_q = None
-        if idx < len(q_numbers):
-            candidate = q_numbers[idx]
-            if candidate['num'] not in used_q_nums and q_range[0] <= candidate['num'] <= q_range[1]:
-                if abs(candidate['top'] - row_data['y']) < 30:
-                    best_q = candidate
+        min_diff = 25  # 增加容错高度差
+        for q in q_numbers:
+            diff = abs(row_data['y'] - q['top'])
+            if diff < min_diff:
+                min_diff = diff
+                best_q = q
+        if best_q:
+            q_num = best_q['num']
+            if q_num not in row_to_q or min_diff < row_to_q[q_num]['diff']:
+                row_to_q[q_num] = {'row_data': row_data, 'diff': min_diff}
 
-        # 备用：搜索最近的有效题号
-        if best_q is None:
-            for q in q_numbers:
-                if q['num'] in used_q_nums or not (q_range[0] <= q['num'] <= q_range[1]):
-                    continue
-                dist = abs(q['top'] - row_data['y'])
-                if dist < 25:
-                    best_q = q
-                    break
-
-        if best_q is None:
-            continue
-
-        used_q_nums.add(best_q['num'])
-        result.append({
-            'number': best_q['num'],
-            'stem': '',
-            'choices': row_data['choices'],
-            'type': 'choice',
-        })
-
-    # 补齐缺失
-    found_nums = {q['number'] for q in result}
-    for n in range(q_range[0], q_range[1] + 1):
-        if n not in found_nums:
-            result.append(make_placeholder(n, 'choice'))
+    result = []
+    for num in range(q_range[0], q_range[1] + 1):
+        if num in row_to_q:
+            rd = row_to_q[num]['row_data']
+            result.append({
+                'number': num,
+                'stem': '',
+                'choices': rd['choices'],
+                'type': 'choice',
+            })
+        else:
+            result.append(make_placeholder(num, 'choice'))
 
     result.sort(key=lambda x: x['number'])
     return result
 
 
-def extract_questions_in_range(text: str, q_range: tuple, sec_type: str) -> list:
-    """
-    从文本块中提取指定范围内的题目
-    """
-    # 全局预处理：修复 ] → J 问题
+def parse_cloze_block(text: str, sec_range: tuple) -> tuple:
     text = fix_bracket_j_issue(text)
+    # 使用超强容错正则匹配第一题起点
+    m_first = re.search(r'\b1\s*[\.\)]\s*(?:\[|：|\()?\s*A(?![a-z_])', text)
     
-    questions = []
-    
-    if sec_type in ('new_type',):
-        questions = extract_new_type_questions(text, q_range)
-    elif sec_type == 'translation':
-        questions = extract_translation_questions(text, q_range)
+    if m_first:
+        article = text[:m_first.start()].strip()
+        q_text = text[m_first.start():]
     else:
-        # 标准：按题号切分
-        pattern = re.compile(
-            r'^(\s*)(\d{1,2})\s*[.\)）]\s*',
-            re.MULTILINE
-        )
-        splits = list(pattern.finditer(text))
+        article = text
+        q_text = text
         
-        for i, match in enumerate(splits):
-            num = int(match.group(2))
-            
-            if num < q_range[0] or num > q_range[1]:
-                continue
-            
-            start = match.start()
-            end = splits[i + 1].start() if i + 1 < len(splits) else start + 2000
-            
-            q_block = text[start:end]
-            question = parse_single_question(q_block, num, sec_type)
-            questions.append(question)
-    
-    # 如果没有提取到任何题目，创建占位
-    if not questions:
-        for n in range(q_range[0], q_range[1] + 1):
-            questions.append(make_placeholder(n, sec_type))
-    
-    return questions
-
-
-def extract_new_type_questions(text: str, q_range: tuple) -> list:
-    """提取新题型题目（7选5/排序等）
-    
-    格式通常是文章中有 (41) __________ 这样的空格，
-    后面有 [A]...[G] 选项列表
-    """
     questions = []
+    q_positions = []
     
-    # 找所有括号题号 (41) (42) 等
-    pat = re.compile(r'\(\s*(\d{1,2})\s*\)')
+    for num in range(sec_range[0], sec_range[1] + 1):
+        # 兼容 [A]、A.、A)、：A 等各种选项前缀
+        m = re.search(r'(?:^|\n)\s*\b' + str(num) + r'\b\s*[\.\)]\s*(?:\[|：|\()?\s*A(?![a-z_])', q_text)
+        if m:
+            q_positions.append((num, q_text.find(str(num) + '.', m.start()) if q_text.find(str(num) + '.', m.start()) != -1 else m.start()))
+            
+    q_positions.sort(key=lambda x: x[1])
     
-    for m in pat.finditer(text):
-        num = int(m.group(1))
-        if num < q_range[0] or num > q_range[1]:
-            continue
+    for i, (num, start) in enumerate(q_positions):
+        end = q_positions[i+1][1] if i+1 < len(q_positions) else len(q_text)
+        q_block = q_text[start:end].strip()
         
-        # 取该题号前后的一段上下文作为"题干"
-        ctx_start = max(0, m.start() - 200)
-        ctx_end = min(len(text), m.end() + 300)
-        context = text[ctx_start:ctx_end].strip()
-        
-        # 清理多余空白
-        context = re.sub(r'\s+', ' ', context).strip()
-        
+        choices = []
+        for label in ['A', 'B', 'C', 'D']:
+            pat = re.search(r'\[\s*' + label + r'\s*\]\s*(.*?)(?=\[\s*[A-D]\s*\]|$)', q_block, re.DOTALL)
+            if not pat:
+                pat = re.search(r'\b' + label + r'[\.\)]\s*(.*?)(?=\b[A-D][\.\)]|$)', q_block, re.DOTALL)
+            if pat:
+                opt_val = re.sub(r'\s+', ' ', pat.group(1)).strip()
+                opt_val = re.sub(r'\s*\d{4}年英语（[一二]）.*?$', '', opt_val)
+                opt_val = re.sub(r'\s*英语（[一二]）试.*?$', '', opt_val)
+                opt_val = re.sub(r'\s*\d{4}-\d+\s*$', '', opt_val)
+                opt_val = re.sub(r'(?i)\s*Section\s+[IV]+\s+Reading\s+Comprehension.*$', '', opt_val)
+                opt_val = re.sub(r'(?i)\s*Part\s+[A-C]\s+Directions:.*$', '', opt_val)
+                choices.append({'label': label, 'text': opt_val})
+                
+        choices = _normalize_choices(choices)
         questions.append({
             'number': num,
-            'stem': context[:500],
-            'choices': [],
-            'type': 'new_type',
+            'stem': '',
+            'choices': choices,
+            'type': 'choice'
         })
+        
+    # 自动补全缺失题目的占位符，保证总是输出 20 个题
+    found_nums = {q['number'] for q in questions}
+    for n in range(sec_range[0], sec_range[1] + 1):
+        if n not in found_nums:
+            questions.append(make_placeholder(n, 'choice'))
+    questions.sort(key=lambda x: x['number'])
     
-    # 提取 A-G 选项（通常在文章后面或下一页）
-    options = extract_new_type_options(text)
-    if options and len(options) > 0:
-        # 将选项附加到每个题目上（新题型是共享选项池）
-        for q in questions:
-            q['choices'] = options
+    return article, questions
+
+
+def parse_reading_block(text: str, q_range: tuple, sec_def: dict) -> dict:
+    text = fix_bracket_j_issue(text)
+    text_starts = {}
+    for i in range(1, 5):
+        m = re.search(r'\bText\s*' + str(i) + r'\b', text, re.I)
+        if m:
+            text_starts[i] = m.start()
+            
+    for i in range(2, 5):
+        if i not in text_starts:
+            q_num = 21 + 5 * (i - 1)
+            m_q = re.search(r'(?:^|\n)\s*\b' + str(q_num) + r'\b\s*[\.\)]', text)
+            if m_q:
+                text_starts[i] = max(0, m_q.start() - 1500)
+                
+    text_starts[1] = text_starts.get(1, 0)
+    sorted_texts = sorted(text_starts.items(), key=lambda x: x[1])
     
-    return questions
+    texts = []
+    all_parsed_questions = []
+    
+    for idx, (t_num, start_pos) in enumerate(sorted_texts):
+        end_pos = sorted_texts[idx+1][1] if idx+1 < len(sorted_texts) else len(text)
+        block = text[start_pos:end_pos].strip()
+        
+        start_q = 21 + 5 * (t_num - 1)
+        end_q = start_q + 4
+        
+        q_positions = []
+        for q_num in range(start_q, end_q + 1):
+            m = re.search(r'(?:^|\n)\s*\b' + str(q_num) + r'\b\s*[\.\)]', block)
+            if m:
+                q_positions.append((q_num, block.find(str(q_num) + '.', m.start()) if block.find(str(q_num) + '.', m.start()) != -1 else m.start()))
+                
+        q_positions.sort(key=lambda x: x[1])
+        
+        if q_positions:
+            article_start = 0
+            m_hdr = re.match(r'^\s*Text\s*' + str(t_num) + r'\b', block, re.I)
+            if m_hdr:
+                article_start = m_hdr.end()
+            article = block[article_start:q_positions[0][1]].strip()
+        else:
+            article = block
+            
+        block_questions = []
+        for i, (q_num, q_start) in enumerate(q_positions):
+            q_end = q_positions[i+1][1] if i+1 < len(q_positions) else len(block)
+            q_block = block[q_start:q_end].strip()
+            
+            m_a = re.search(r'\[A\]', q_block)
+            if not m_a:
+                m_a = re.search(r'\bA\b[\.\)]', q_block)
+            if m_a:
+                stem = q_block[:m_a.start()].strip()
+                stem = re.sub(r'^\b' + str(q_num) + r'\b\s*[\.\)]\s*', '', stem).strip()
+            else:
+                stem = q_block
+                
+            choices = []
+            for label in ['A', 'B', 'C', 'D']:
+                pat = re.search(r'\[\s*' + label + r'\s*\]\s*(.*?)(?=\[\s*[A-D]\s*\]|$)', q_block, re.DOTALL)
+                if not pat:
+                    pat = re.search(r'\b' + label + r'[\.\)]\s*(.*?)(?=\b[A-D][\.\)]|$)', q_block, re.DOTALL)
+                if pat:
+                    opt_val = re.sub(r'\s+', ' ', pat.group(1)).strip()
+                    opt_val = re.sub(r'\s*\d{4}年英语（[一二]）.*?$', '', opt_val)
+                    opt_val = re.sub(r'\s*英语（[一二]）试.*?$', '', opt_val)
+                    opt_val = re.sub(r'\s*\d{4}-\d+\s*$', '', opt_val)
+                    opt_val = re.sub(r'(?i)\s*Section\s+[IV]+\s+Reading\s+Comprehension.*$', '', opt_val)
+                    opt_val = re.sub(r'(?i)\s*Part\s+[A-C]\s+Directions:.*$', '', opt_val)
+                    choices.append({'label': label, 'text': opt_val})
+            choices = _normalize_choices(choices)
+            
+            block_questions.append({
+                'number': q_num,
+                'stem': stem,
+                'choices': choices,
+                'type': 'choice'
+            })
+            
+        found_nums = {q['number'] for q in block_questions}
+        for q_num in range(start_q, end_q + 1):
+            if q_num not in found_nums:
+                block_questions.append(make_placeholder(q_num, 'choice'))
+        block_questions.sort(key=lambda x: x['number'])
+        
+        texts.append({
+            'text_num': t_num,
+            'article': article,
+            'questions': block_questions
+        })
+        all_parsed_questions.extend(block_questions)
+        
+    return {
+        'name': sec_def['name'],
+        'type': sec_def['type'],
+        'question_range': list(q_range),
+        'text': text[:300],
+        'texts': texts,
+        'questions': all_parsed_questions,
+        'warnings': []
+    }
 
 
 def extract_new_type_options(text: str) -> list:
-    """提取新题型 A-G 选项"""
     choices = []
-    for label in ['A','B','C','D','E','F','G']:
-        found = False
-        
-        # 方式1：[A] 格式
-        m1 = re.search(r'\[' + label + r'\]\s*(.{10,})', text, re.DOTALL)
-        if m1 and not found:
-            opt_text = m1.group(1).replace('\n', ' ').strip()
-            opt_text = re.sub(r'\s+', ' ', opt_text)[:300]
-            # 确保不是截取到下一个选项
-            for next_label in ['B','C','D','E','F','G']:
-                if next_label > label:
-                    cut = opt_text.find(f'[{next_label}]')
-                    if cut > 20:
-                        opt_text = opt_text[:cut].strip()
-                        break
-            if opt_text and len(opt_text) > 3:
-                choices.append({'label': label, 'text': opt_text})
-                found = True
-        
-        # 方式2：A. 格式
-        if not found:
-            m2 = re.search(r'\b' + label + r'\.\s*(.{10,})', text)
-            if m2:
-                opt_text = m2.group(1).replace('\n', ' ').strip()
-                opt_text = re.sub(r'\s+', ' ', opt_text)[:300]
-                if opt_text and len(opt_text) > 3:
-                    choices.append({'label': label, 'text': opt_text})
+    opt_positions = []
     
+    for label in ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']:
+        m = re.search(r'\[\s*' + label + r'\s*\]', text)
+        if not m:
+            m = re.search(r'(?:^|\n)\s*' + label + r'\.\s+', text)
+        if m:
+            opt_positions.append((label, m.start()))
+            
+    if not opt_positions:
+        return []
+        
+    opt_positions.sort(key=lambda x: x[1])
+    
+    for i, (label, start) in enumerate(opt_positions):
+        end = opt_positions[i+1][1] if i+1 < len(opt_positions) else len(text)
+        opt_text = text[start:end].strip()
+        
+        # Heuristic for truncating the last option if it swallowed the article
+        if i == len(opt_positions) - 1 and len(opt_positions) > 1:
+            avg_len = (opt_positions[-1][1] - opt_positions[0][1]) / (len(opt_positions) - 1)
+            # If the remaining text is way longer than average, we only keep the first few lines
+            if len(opt_text) > avg_len * 2.5:
+                # Truncate to reasonable length, trying not to cut mid-sentence
+                cutoff = int(avg_len * 2)
+                # find the nearest newline before cutoff
+                last_nl = opt_text.rfind('\n', 0, cutoff)
+                if last_nl != -1:
+                    opt_text = opt_text[:last_nl]
+                else:
+                    opt_text = opt_text[:cutoff]
+
+        opt_text = re.sub(r'^\[\s*[A-H]\s*\]\s*', '', opt_text)
+        opt_text = re.sub(r'^[A-H]\.\s*', '', opt_text)
+        opt_text = re.sub(r'\s*\d{4}年英语（[一二]）.*?$', '', opt_text)
+        opt_text = re.sub(r'\s*英语（[一二]）试.*?$', '', opt_text)
+        opt_text = re.sub(r'\s*\d{4}-\d+\s*$', '', opt_text)
+        opt_text = re.sub(r'\s+', ' ', opt_text).strip()
+        choices.append({'label': label, 'text': opt_text})
+        
     return choices
 
 
-def extract_translation_questions(text: str, q_range: tuple) -> list:
-    """提取翻译句子
+def parse_new_type_block(block_text: str, q_range: tuple) -> list:
+    block_text = fix_bracket_j_issue(block_text)
     
-    考研英语翻译格式：
-    - (46) This movement, driven by..., shaped...
-    - ( 46) sentence...  (括号内数字可能带空格)
-    - 也可能跨多行与正文交织
-    
-    策略：先定位所有题号锚点，再截取相邻锚点之间的文本作为各句
-    """
-    text = fix_bracket_j_issue(text)
-    
-    # ===== 第一步：定位所有 (数字) 格式的题号锚点 =====
-    anchor_pattern = re.compile(r'\(\s*(\d{1,2})\s*\)', re.MULTILINE)
-    
-    anchors = []  # [(num, start_pos, end_pos), ...]
-    for m in anchor_pattern.finditer(text):
-        num = int(m.group(1))
-        if q_range[0] <= num <= q_range[1]:
-            anchors.append((num, m.start(), m.end()))
-    
-    # 如果一个锚点都没找到，尝试 fallback：用数字. 格式
-    if not anchors:
-        return _extract_translation_fallback(text, q_range)
-    
-    # ===== 第二步：按锚点位置切分句子 =====
+    # Detect Paragraph Sorting
+    is_paragraph_sorting = bool(re.search(r'(?i)reorganize\s+these\s+paragraphs|sort\s+the\s+paragraphs|wrong\s+order', block_text))
+    if is_paragraph_sorting:
+        # Strip the broken flowchart at the bottom to clean up the article
+        m_last_opt = re.search(r'(?:^|\n)\s*[G|H]\.\s+.*?(?=\n\s*(?:[A-H]\s*I-|\[\s*[A-H]\s*\]\s*->|\[?\s*\d+\s*\]?\s*->|\d{2}\s*\.)|$)', block_text, re.DOTALL)
+        if m_last_opt:
+            block_text = block_text[:m_last_opt.end()].strip()
+            
+    options = extract_new_type_options(block_text)
     questions = []
-    for i, (num, start, end) in enumerate(anchors):
-        # 当前句子的内容从锚点结束后开始
-        content_start = end
-        
-        # 当前句子的结束位置 = 下一个锚点的开始（如果有）
-        if i + 1 < len(anchors):
-            content_end = anchors[i + 1][1]
-        else:
-            # 最后一句：取后面一大段文本（但要合理截断）
-            content_end = min(len(text), start + 1500)
-        
-        raw_sent = text[content_start:content_end]
-        
-        # 清理和修剪
-        sent = _clean_translation_sentence(raw_sent, num)
-        
-        if len(sent) > 5:
+    
+    # Matching headings usually have "41. " followed by the paragraph text
+    blank_pattern = re.compile(r'\(\s*(\d{1,2})\s*\)|\[\s*(\d{1,2})\s*\]|(?:^|\n)\s*(\d{1,2})\.\s+(?=[A-Za-z])')
+    blanks = []
+    for m in blank_pattern.finditer(block_text):
+        num_str = m.group(1) or m.group(2) or m.group(3)
+        if not num_str:
+            continue
+        num = int(num_str)
+        if q_range[0] <= num <= q_range[1]:
+            is_heading = bool(m.group(3))
+            blanks.append((num, m.start(), m.end(), is_heading))
+            
+    seen = set()
+    unique_blanks = []
+    for b in sorted(blanks, key=lambda x: x[1]):
+        if b[0] not in seen:
+            seen.add(b[0])
+            unique_blanks.append(b)
+            
+    if len(unique_blanks) >= 3:
+        for num, start, end, is_heading in unique_blanks:
+            ctx_start = max(0, start - 40)
+            ctx_end = min(len(block_text), end + 60)
+            context = block_text[ctx_start:ctx_end].strip()
+            context = re.sub(r'\s+', ' ', context)
+            
+            # Remove instruction artifacts that might leak into the first question's context
+            context = re.sub(r'(?i)^.*?10\s*points\)?\s*', '', context)
+            context = re.sub(r'(?i)^.*?ANSWER\s*SHEET\.?\s*', '', context)
+            
+            # Try to detect Information Matching (Name matching)
+            after_text = block_text[end:end+40].lstrip()
+            name_match = re.match(r'^([A-Z][A-Za-z\-]+(?:\s+[A-Z][A-Za-z\-]+)?)(?=\s|$|\n|,|:)', after_text)
+            
+            common_words = {"The", "In", "However", "It", "This", "That", "There", "A", "An", "On", "To", "For", "With", "As", "By", "If", "When", "While", "Some", "Many", "But", "And", "Or", "So", "Scientists", "Researchers", "People", "They", "He", "She", "We", "You", "I"}
+            
+            if is_heading:
+                para_text = block_text[end:end+400].strip()
+                para_text = re.sub(r'\s+', ' ', para_text)
+                stem = f"[{num}] " + para_text[:150]
+                if len(para_text) > 150:
+                    stem += "..."
+            elif name_match and name_match.group(1) not in common_words:
+                stem = f"第 {num} 题：{name_match.group(1)} 的观点"
+            else:
+                stem = f"... {context} ..."
+            
             questions.append({
                 'number': num,
-                'stem': sent[:600],
-                'choices': [],
-                'type': 'translation',
+                'stem': stem,
+                'choices': options,
+                'type': 'new_type'
             })
-    
-    # ===== 第三步：补齐缺失的题号 =====
-    found_nums = {q['number'] for q in questions}
-    for n in range(q_range[0], q_range[1] + 1):
-        if n not in found_nums:
-            # 尝试在更大范围内搜索
-            extra = _search_missing_translation(text, n)
-            questions.append(extra)
-    
-    # 按题号排序
+    else:
+        for num in range(q_range[0], q_range[1] + 1):
+            questions.append({
+                'number': num,
+                'stem': f"排序题第 {num} 题，请选择正确的段落。",
+                'choices': options,
+                'type': 'new_type'
+            })
+            
     questions.sort(key=lambda x: x['number'])
-    
+    return questions
+
+def extract_new_type_article(block_text: str) -> str:
+    # We apply the same stripping logic here for consistency
+    is_paragraph_sorting = bool(re.search(r'(?i)reorganize\s+these\s+paragraphs|sort\s+the\s+paragraphs|wrong\s+order', block_text))
+    if is_paragraph_sorting:
+        m_last_opt = re.search(r'(?:^|\n)\s*[G|H]\.\s+.*?(?=\n\s*(?:[A-H]\s*I-|\[\s*[A-H]\s*\]\s*->|\[?\s*\d+\s*\]?\s*->|\d{2}\s*\.)|$)', block_text, re.DOTALL)
+        if m_last_opt:
+            block_text = block_text[:m_last_opt.end()].strip()
+    return block_text.strip()
+
+
+def parse_translation_block(text: str, q_range: tuple) -> list:
+    text = fix_bracket_j_issue(text)
+    pat = re.compile(r'\(\s*(\d{1,2})\s*\)|\[\s*(\d{1,2})\s*\]')
+    anchors = []
+    for m in pat.finditer(text):
+        num = int(m.group(1) or m.group(2))
+        if q_range[0] <= num <= q_range[1]:
+            anchors.append((num, m.start(), m.end()))
+            
+    seen = set()
+    unique_anchors = []
+    for a in sorted(anchors, key=lambda x: x[1]):
+        if a[0] not in seen:
+            seen.add(a[0])
+            unique_anchors.append(a)
+            
+    questions = []
+    for i, (num, start, end) in enumerate(unique_anchors):
+        content_start = end
+        if i + 1 < len(unique_anchors):
+            content_end = unique_anchors[i+1][1]
+        else:
+            content_end = len(text)
+            
+        raw_sent = text[content_start:content_end]
+        sent = _clean_translation_sentence(raw_sent, num)
+        
+        questions.append({
+            'number': num,
+            'stem': sent,
+            'choices': [],
+            'type': 'translation'
+        })
+        
     return questions
 
 
+def extract_translation_article(text: str, questions: list) -> str:
+    return text.strip()
+
+
 def _clean_translation_sentence(raw: str, num: int) -> str:
-    """清理单条翻译句子"""
     sent = raw.strip()
-    
-    # 合并换行和多余空白
     sent = re.sub(r'\s+', ' ', sent).strip()
-    
-    # 去掉末尾的中文提示/括号注释
-    # 模式：（xxx）或 (xxx) 在末尾
     sent = re.sub(r'[（(][^）)]{0,80}[）)]?\s*$', '', sent).strip()
-    
-    # 去掉末尾的 Directions 残留 / 干扰文本
-    # 通常句子以 . ! ? 结尾，后面的内容不属于翻译句
     terminal_patterns = [
         r'(?<=[.!?])\s*(?:Directions|Section|Part|translate|Read the|Your translation)[^.]*$',
         r'\s+(?:Directions|Section|Part\s+[A-D]|Answer\s*Sheet)[^.]*$',
-        r'\s+\d{2}\.\s.*$',  # 后面紧跟其他题号的内容
+        r'\s+\d{2}\.\s.*$',
     ]
     for p in terminal_patterns:
         sent = re.sub(p, '', sent, flags=re.IGNORECASE).strip()
     
-    # 去掉开头的空白字符和可能的垃圾
     sent = sent.lstrip(' ,.;\n\r')
-    
-    # 去掉选项残留（误匹配时可能出现）
     sent = re.sub(r'^\s*\[[A-D]\]\s*', '', sent).strip()
-    
     return sent
 
 
-def _search_missing_translation(text: str, num: int) -> dict:
-    """搜索缺失的翻译题号，使用更宽泛的模式"""
+def parse_writing_block(text: str, num: int, type_key: str) -> dict:
+    cleaned = text.strip()
+    cleaned = re.sub(r'^\s*Part\s*[A-C]\s*', '', cleaned, flags=re.I)
+    cleaned = re.sub(r'^\s*Section\s*III\s*', '', cleaned, flags=re.I)
+    cleaned = re.sub(r'^\s*Writing\s*', '', cleaned, flags=re.I)
+    cleaned = re.sub(r'^\s*\b' + str(num) + r'\b\s*[\.\)]\s*', '', cleaned)
+    cleaned = re.sub(r'^\s*Directions\s*:\s*', '', cleaned, flags=re.I)
+    cleaned = re.sub(r'\s+', ' ', cleaned).strip()
     
-    # 尝试1：带空格的括号 ( 46) 或 (46)
-    patterns = [
-        rf'\(\s*{num}\s*\)\s*(.{{20,}})',
-        rf'(?:^|\n)\s*{num}\s*[.)\]]\s*(.{{20,}})',
-    ]
-    
-    for p in patterns:
-        m = re.search(p, text, re.MULTILINE | re.DOTALL)
-        if m:
-            sent = m.group(1) if m.lastindex >= 1 else m.group(0)
-            sent = _clean_translation_sentence(sent, num)
-            if len(sent) > 5:
-                return {
-                    'number': num,
-                    'stem': sent[:600],
-                    'choices': [],
-                    'type': 'translation',
-                }
-    
-    # 都没找到 → 占位
     return {
         'number': num,
-        'stem': f'第{num}题（未提取到内容）',
+        'stem': cleaned,
         'choices': [],
-        'type': 'translation',
-        'warning': True,
+        'type': type_key
     }
 
 
-def _extract_translation_fallback(text: str, q_range: tuple) -> list:
-    """fallback：当括号格式完全失败时，用数字. 格式提取"""
+def extract_questions_in_range(text: str, q_range: tuple, sec_type: str) -> list:
     questions = []
-    
-    pat = re.compile(
-        r'(?:^|\n)\s*(\d{1,2})\s*[.\)]\s*(.{20,})',
-        re.MULTILINE
-    )
-    
-    seen = set()
-    for m in pat.finditer(text):
-        num = int(m.group(1))
-        if num < q_range[0] or num > q_range[1] or num in seen:
-            continue
-        seen.add(num)
-        
-        sent = _clean_translation_sentence(m.group(2), num)
-        if len(sent) > 5:
-            questions.append({
-                'number': num,
-                'stem': sent[:600],
-                'choices': [],
-                'type': 'translation',
-            })
-    
-    # 补齐
-    found_nums = {q['number'] for q in questions}
-    for n in range(q_range[0], q_range[1] + 1):
-        if n not in found_nums:
-            questions.append({
-                'number': n,
-                'stem': f'第{n}题（未提取到内容）',
-                'choices': [],
-                'type': 'translation',
-                'warning': True,
-            })
-    
-    questions.sort(key=lambda x: x['number'])
+    pattern = re.compile(r'(?:^|\n|\s)\b(\d{1,2})\b\s*[\.\)]', re.MULTILINE)
+    splits = list(pattern.finditer(text))
+    for i, match in enumerate(splits):
+        num = int(match.group(1))
+        if q_range[0] <= num <= q_range[1]:
+            start = match.start()
+            end = splits[i+1].start() if i+1 < len(splits) else len(text)
+            q_block = text[start:end]
+            questions.append(parse_single_question(q_block, num, sec_type))
     return questions
 
 
 def parse_single_question(block: str, number: int, sec_type: str) -> dict:
     """解析单道题目"""
     block = fix_bracket_j_issue(block).strip()
-    
-    # 移除开头的题号
     stem_text = re.sub(r'^\s*\d{1,2}\s*[.\)）]\s*', '', block).strip()
     
     if sec_type in ('choice', 'cloze', 'reading'):
@@ -1173,30 +1137,18 @@ def parse_single_question(block: str, number: int, sec_type: str) -> dict:
 
 
 def _is_garbage_option_text(opt_text: str) -> bool:
-    """判断选项文本是否是垃圾数据（包含下一题的内容等）
-    
-    垃圾特征：
-    - 包含题目编号如 "9. [A]" 或 "10."
-    - 以 [A-D] 开头（说明吃到了下一个选项标记）
-    - 过长（超过 60 字符，正常完形填空选项不会这么长）
-    """
     if not opt_text:
         return True
-    # 包含下一题的题号模式
     if re.search(r'\d{1,2}\s*[.)\]]\s*\[?[A-D]', opt_text):
         return True
-    # 以选项标记开头（说明截取到了下一个选项）
     if re.match(r'^\s*\[?[A-D][\.\)]', opt_text):
         return True
-    # 完形填空选项通常不超过 30 字符，阅读选项通常不超 100
-    # 超过 80 的很可能是合并了多个选项
     if len(opt_text.strip()) > 80:
         return True
     return False
 
 
 def _normalize_choices(choices: list) -> list:
-    """确保 choices 包含完整的 A/B/C/D 四个选项，缺失的用空字符串补齐"""
     choice_map = {ch['label'].upper(): ch['text'] for ch in choices}
     result = []
     for label in ['A', 'B', 'C', 'D']:
@@ -1206,46 +1158,27 @@ def _normalize_choices(choices: list) -> list:
 
 
 def parse_choice_question(text: str, number: int) -> dict:
-    """解析选择题（含选项 A B C D）
-    
-    处理多种格式：
-    - 完形填空：'1. [A] on      [B] like     [C] for     [D] from' （选项同行）
-    - 阅读：'21. Question?\n[A] opt1\n[B] opt2\n[C] opt3\n[D] opt4'
-    - 损坏格式：'[AJ on   [BJ like' （]被识别为J）
-    - PDF双栏掉行：'[A] x [B] y [D] z \\n [c]' （C选项跑到下一行）
-    """
-    # 先做预处理
     text = fix_bracket_j_issue(text)
-
-    # ===== 特殊处理完形填空格式（所有选项在一行或跨两行）=====
-    # 匹配: [A] word [B] word [C] word [D] word
-    # 使用 DOTALL 让 . 能匹配换行（处理 [C] 掉到下一行的情况）
     inline_pattern = re.compile(r'\[([A-D])\]\s*(.+?)\s*(?=\[[A-D]\]|\Z)', re.IGNORECASE | re.DOTALL)
     inline_matches = list(inline_pattern.finditer(text))
 
     if len(inline_matches) >= 3:
-        # 这是完形填空格式（可能有跨行问题）
         choices = []
-        stem = ''
-
-        # 题干在第一个 [A] 之前
         first_a = inline_matches[0]
         before_first = text[:first_a.start()].strip()
-        # 去掉开头的题号
         stem = re.sub(r'^\d{1,2}\s*[.\)]\s*', '', before_first).strip()
 
         for m in inline_matches:
             label = m.group(1).upper()
             opt_text = m.group(2).strip()
-            # 清理选项文本中的多余空白和换行
+            opt_text = re.sub(r'\s*\d{4}年英语（[一二]）.*?$', '', opt_text)
+            opt_text = re.sub(r'\s*英语（[一二]）试.*?$', '', opt_text)
+            opt_text = re.sub(r'\s*\d{4}-\d+\s*$', '', opt_text)
             opt_text = re.sub(r'\s+', ' ', opt_text).strip()
-            # 过滤垃圾数据（吃到下一题内容的情况）
             if opt_text and not _is_garbage_option_text(opt_text):
                 choices.append({'label': label, 'text': opt_text[:200]})
 
-        # 标准化：确保始终有 A/B/C/D 四项
         choices = _normalize_choices(choices)
-
         return {
             'number': number,
             'stem': stem[:500],
@@ -1253,8 +1186,6 @@ def parse_choice_question(text: str, number: int) -> dict:
             'type': 'choice',
         }
 
-    # ===== 标准多行格式 =====
-    # 注意：这里不要预先合并空白，保留换行以便正确切分选项
     choice_pattern = re.compile(
         r'\[([A-D])\]\s*|([A-D])[\.\)]\s*',
         re.MULTILINE | re.IGNORECASE
@@ -1274,15 +1205,16 @@ def parse_choice_question(text: str, number: int) -> dict:
         opt_start = cm.end()
         opt_end = choice_matches[idx + 1].start() if idx + 1 < len(choice_matches) else len(text)
         opt_text = text[opt_start:opt_end].strip()
-        opt_text = re.sub(r'^\s*\[?[A-D]\]?[\.)\]】]?\s*', '', opt_text).strip()
+        opt_text = re.sub(r'^\s*\[?([A-D])\]?[\.)\]】]?\s*', '', opt_text).strip()
+        opt_text = re.sub(r'\s*\d{4}年英语（[一二]）.*?$', '', opt_text)
+        opt_text = re.sub(r'\s*英语（[一二]）试.*?$', '', opt_text)
+        opt_text = re.sub(r'\s*\d{4}-\d+\s*$', '', opt_text)
         opt_text = re.sub(r'\s+', ' ', opt_text).strip()
 
         if opt_text and not _is_garbage_option_text(opt_text):
             choices.append({'label': label, 'text': opt_text[:300]})
 
-    # 标准化：确保 A/B/C/D 完整
     choices = _normalize_choices(choices)
-
     stem = re.sub(r'\s+', ' ', stem).strip()
     stem = re.sub(r'^\d{1,2}\s*[.\)]\s*', '', stem).strip()
 
@@ -1294,40 +1226,21 @@ def parse_choice_question(text: str, number: int) -> dict:
     }
 
 
-def fix_bracket_j_issue(text: str) -> str:
-    """修复 PDF 提取中 ] 被误识别为 J 的问题
-    
-    例如：
-      [AJ on   [BJ like   →   [A] on   [B] like
-      [CJ for  [DJ from  →   [C] for  [D] from
-      [A J word           →   [A] word
-    """
-    # 模式1：[字母J + 空格/换行 + 大写字母（最常见的）
-    text = re.sub(r'\[([A-D])\s*J\s*([A-Z])', r'[\1] \2', text)
-    # 模式2：[字母J 直接跟小写（无空格）
-    text = re.sub(r'\[([A-D])J([a-z])', r'[\1]\2', text)
-    # 模式3：[字母 + 空格 + J（有空格变体）
-    text = re.sub(r'\[([A-D])\s+J\b', r'[\1]', text)
-    # 模式4：更激进的清理 —— [A-J 或 [B-J 等，只要后面不是正常的 ]
-    # 只在选项上下文中应用：[XJ 后面跟着空格或行尾或另一个 [
-    text = re.sub(r'\[([A-D])J(?:\s|$|\s*\[)', r'[\1]', text)
-    
-    return text
-
-
 def parse_new_type_question(text: str, number: int) -> dict:
-    """解析新题型（可能是7选5、排序等）"""
     stem = text.split('[A]')[0] if '[A]' in text else text.split('A.')[0] if 'A.' in text else text
     stem = re.sub(r'^\d{1,2}\s*[.\)]\s*', '', stem).strip()
     stem = re.sub(r'\s+', ' ', stem).strip()
     
-    # 新题型可能有很多选项
     choices = []
     for label in ['A','B','C','D','E','F','G']:
         pat = re.compile(r'\[?' + label + r'\]?[\.)\]】]\s*([^A-G\n]*(?:\n(?!\[?[A-G]\]?[\.)\]])[^A-G\n]*)*)', re.IGNORECASE)
         m = pat.search(text)
         if m and m.group(1).strip():
-            choices.append({'label': label, 'text': m.group(1).strip().replace('\n', ' ')[:200]})
+            opt_text = m.group(1).strip().replace('\n', ' ')
+            opt_text = re.sub(r'\s*\d{4}年英语（[一二]）.*?$', '', opt_text)
+            opt_text = re.sub(r'\s*英语（[一二]）试.*?$', '', opt_text)
+            opt_text = re.sub(r'\s*\d{4}-\d+\s*$', '', opt_text)
+            choices.append({'label': label, 'text': opt_text[:200]})
     
     return {
         'number': number,
@@ -1338,15 +1251,9 @@ def parse_new_type_question(text: str, number: int) -> dict:
 
 
 def parse_translation_question(text: str, number: int) -> dict:
-    """解析翻译题"""
-    # 移除题号前缀
     sent = re.sub(r'^\d{1,2}\s*[.\)]\s*', '', text).strip()
-    
-    # 翻译题通常是一句英文，可能带括号注释
-    # 去掉尾部的中文提示
     sent = re.sub(r'[（(][^）)]*[）)]?\s*$', '', sent).strip()
     sent = re.sub(r'\s+', ' ', sent).strip()
-    
     return {
         'number': number,
         'stem': sent[:600],
@@ -1356,13 +1263,9 @@ def parse_translation_question(text: str, number: int) -> dict:
 
 
 def parse_writing_prompt(text: str, number: int, sec_type: str) -> dict:
-    """解析写作要求"""
     prompt = re.sub(r'^\d{1,2}\s*[.\)]\s*', '', text).strip()
     prompt = re.sub(r'\s+', ' ', prompt).strip()
-    
-    # 写作部分通常有 Directions + 要求
     wtype = 'small' if 'small' in sec_type else 'big'
-    
     return {
         'number': number,
         'stem': prompt[:1000],
@@ -1380,6 +1283,21 @@ def make_placeholder(number: int, sec_type: str) -> dict:
         'type': sec_type,
         'warning': True,
     }
+
+CLEAN_PATTERN_1 = re.compile(r'(?:\d{4}年)?\s*英\s*语\s*[(（]\s*[一二]\s*[)）]\s*试\s*题(?:\s*[第\.]*\s*\d+\s*[页\.]*)?(?:\s*[(（]?\s*共\s*\d+\s*页\s*[)）]?)?\s*')
+CLEAN_PATTERN_2 = re.compile(r'\s*\d{4}-\d+\s*$')
+
+def deep_clean_strings(obj):
+    if isinstance(obj, str):
+        obj = CLEAN_PATTERN_1.sub('', obj)
+        obj = CLEAN_PATTERN_2.sub('', obj)
+        return obj.strip()
+    elif isinstance(obj, list):
+        return [deep_clean_strings(item) for item in obj]
+    elif isinstance(obj, dict):
+        return {k: deep_clean_strings(v) for k, v in obj.items()}
+    else:
+        return obj
 
 
 def process_pdf(pdf_path: str, year: int) -> dict:
@@ -1427,6 +1345,29 @@ def process_pdf(pdf_path: str, year: int) -> dict:
         if warns:
             status += f", warnings: {warns}"
         print(f"    [{key}] {sec.get('name','?')}: {status}")
+
+    # ===== 新增：为翻译和写作提取最后两页原题图片 =====
+    try:
+        import pdfplumber
+        with pdfplumber.open(pdf_path) as pdf:
+            os.makedirs('public/data/images', exist_ok=True)
+            for key in ['translation', 'writing-a', 'writing-b']:
+                if key in sections and 'page_numbers' in sections[key]:
+                    page_nums = sections[key]['page_numbers']
+                    img_urls = []
+                    for p_idx in sorted(page_nums):
+                        if 0 <= p_idx < len(pdf.pages):
+                            img_name = f"{year}_page_{p_idx}.png"
+                            img_path = f"public/data/images/{img_name}"
+                            if not os.path.exists(img_path):
+                                print(f"  Rendering image for page {p_idx} ({key})...")
+                                img = pdf.pages[p_idx].to_image(resolution=200)
+                                img.save(img_path)
+                            img_urls.append(f"/data/images/{img_name}")
+                    sections[key]['images'] = img_urls
+    except Exception as e:
+        print(f"  [ERROR] Failed to extract images for {year}: {e}")
+    # ===============================================
     
     return {
         'year': year,
@@ -1444,29 +1385,21 @@ def process_pdf(pdf_path: str, year: int) -> dict:
 def main():
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     
-    # 处理所有 exam PDF
+    # 2010年以前的试题已按要求删除，仅处理 2010 - 2025 年真题
     all_results = {}
-    
-    year_files = [
-        # 1980-2009
-        ('1986-1995', 1986), ('1996', 1996), ('1997', 1997), ('1998', 1998),
-        ('1999', 1999), ('2000', 2000), ('2001', 2001), ('2002', 2002),
-        ('2003', 2003), ('2004', 2004), ('2005', 2005), ('2006', 2006),
-        ('2007', 2007), ('2008', 2008), ('2009', 2009),
-    ]
-    # 添加2010-2025
+    year_files = []
     for y in range(2010, 2026):
         year_files.append((str(y), y))
     
     for fname, year in year_files:
-        if year <= 2009:
-            path = BASE_DIR / "1980-2009/exam" / f"{fname}.pdf"
-        else:
-            path = BASE_DIR / "2010-2025/exam" / f"{fname}.pdf"
+        path = BASE_DIR / "2010-2025/exam" / f"{fname}.pdf"
         
         result = process_pdf(str(path), year)
         
         if 'error' not in result or result.get('sections'):
+            # 应用深度清理
+            result = deep_clean_strings(result)
+            
             # 保存单独的JSON
             out_path = OUTPUT_DIR / f"{year}.json"
             with open(out_path, 'w', encoding='utf-8') as f:
@@ -1492,7 +1425,7 @@ def main():
         json.dump(all_results, f, ensure_ascii=False, indent=2)
     
     print(f"\n{'='*60}")
-    print(f"DONE! Processed {len(all_results)} years.")
+    print(f"DONE! Processed {len(all_results)} years (2010-2025).")
     print(f"Output: {OUTPUT_DIR}")
     print(f"Index: {index_path}")
     

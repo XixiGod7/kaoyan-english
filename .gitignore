@@ -26,5 +26,18 @@ dist-ssr
 # PDF source files (too large for GitHub, may have copyright)
 public/pdfs/
 
+# Temporary Chrome app profile & scratch files
+.chrome_app_profile/
+__pycache__/
+*.pyc
+patch*.py
+fix*.py
+test*.py
+test*.html
+test_thumb.png
+check_imgs.cjs
+zhentiqiang_home.html
+scripts/ztq_*
+
 # WorkBuddy internal
 .learnings/

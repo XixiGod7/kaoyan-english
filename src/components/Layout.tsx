@@ -6,16 +6,23 @@ interface LayoutProps {
 
 export default function Layout({ children }: LayoutProps) {
   return (
-    <div className="min-h-screen bg-[#F8FAFC]">
-      <Header />
-      <main className="pt-20 pb-12 px-4 sm:px-6 lg:px-8">
-        <div className="max-w-7xl mx-auto">
-          {children}
-        </div>
+    <div style={{ minHeight: '100vh', background: '#f5f5f5' }}>
+      <main className="bd-masthead">
+        <Header onGoHome={() => {}} />
+        {children}
       </main>
-      <footer className="py-6 text-center text-sm text-[#94A3B8] border-t border-slate-200/60">
-        <p>数据来源：桌面「考研英语（一）历年真题」文件夹</p>
-      </footer>
+
+      {/* 底部版权 */}
+      <div className="copyright">
+        <p>
+          <a className="item" href="#">常见问题</a>
+          {'    '}
+          <a className="item" href="#">联系我们</a>
+        </p>
+        <p style={{ marginTop: '1rem' }}>
+          数据来源：考研英语（一）历年真题 · 仅供学习参考
+        </p>
+      </div>
     </div>
   );
 }
