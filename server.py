@@ -3,12 +3,20 @@ import os
 import sys
 import webbrowser
 import urllib.parse
-from http.server import SimpleHTTPRequestHandler, HTTPServer
+from http.server import SimpleHTTPRequestHandler
 import socket
 import time
 
+try:
+    from http.server import ThreadingHTTPServer as BaseServer
+except ImportError:
+    from socketserver import ThreadingMixIn
+    from http.server import HTTPServer
+    class BaseServer(ThreadingMixIn, HTTPServer):
+        daemon_threads = True
+
 PORT = 8085
-URL = f"http://localhost:{PORT}"
+URL = f"http://127.0.0.1:{PORT}"
 ROOT_DIR = os.path.dirname(os.path.abspath(__file__))
 DIST_DIR = os.path.join(ROOT_DIR, 'dist') if os.path.isdir(os.path.join(ROOT_DIR, 'dist')) else ROOT_DIR
 DATA_DIR = os.path.join(ROOT_DIR, 'public', 'data') if os.path.isdir(os.path.join(ROOT_DIR, 'public', 'data')) else os.path.join(ROOT_DIR, 'data')
@@ -17,8 +25,14 @@ THUMBS_DIR = os.path.join(ROOT_DIR, 'public', 'thumbs') if os.path.isdir(os.path
 ICONS_DIR = os.path.join(ROOT_DIR, 'public', 'icons') if os.path.isdir(os.path.join(ROOT_DIR, 'public', 'icons')) else os.path.join(ROOT_DIR, 'icons')
 
 class CustomHandler(SimpleHTTPRequestHandler):
+    protocol_version = "HTTP/1.1"
+
     def __init__(self, *args, **kwargs):
         super().__init__(*args, directory=DIST_DIR, **kwargs)
+
+    def address_string(self):
+        # Override to prevent reverse DNS lookup delay on Windows
+        return self.client_address[0]
 
     def translate_path(self, path):
         raw_path = path.split('?', 1)[0].split('#', 1)[0]
@@ -33,7 +47,7 @@ class CustomHandler(SimpleHTTPRequestHandler):
             return os.path.join(ICONS_DIR, rel)
 
         # Fallback root icons -> ICONS_DIR
-        if decoded.lstrip('/') in ['favicon.ico', 'favicon.png', 'apple-touch-icon.png', 'manifest.json', 'icon-192.png', 'icon-512.png', 'vite.svg'] and os.path.isdir(ICONS_DIR):
+        if decoded.lstrip('/') in ['favicon.ico', 'favicon.png', 'favicon.svg', 'apple-touch-icon.png', 'manifest.json', 'icon-192.png', 'icon-512.png', 'vite.svg'] and os.path.isdir(ICONS_DIR):
             return os.path.join(ICONS_DIR, decoded.lstrip('/'))
 
         # Map /data/* -> DATA_DIR
@@ -63,7 +77,12 @@ class CustomHandler(SimpleHTTPRequestHandler):
         return super().translate_path(path)
 
     def end_headers(self):
-        self.send_header("Cache-Control", "no-cache, no-store, must-revalidate")
+        p = self.path.lower().split('?')[0]
+        if p.endswith(('.png', '.svg', '.jpg', '.jpeg', '.webp', '.ico', '.woff2', '.woff', '.json', '.js', '.css')):
+            self.send_header("Cache-Control", "public, max-age=86400")
+        else:
+            self.send_header("Cache-Control", "no-cache, must-revalidate")
+            
         self.send_header("Access-Control-Allow-Origin", "*")
         super().end_headers()
 
@@ -88,7 +107,7 @@ def open_in_browser(url):
 
 def main():
     print("=" * 60)
-    print("      考研英语一真题库 (2010-2026) - 本地轻量服务器")
+    print("      考研英语一真题库 (2010-2026) - 高性能多线程服务器")
     print("=" * 60)
     print(f"前端根目录: {DIST_DIR}")
     print(f"题库数据目录: {DATA_DIR}")
@@ -101,14 +120,14 @@ def main():
         open_in_browser(URL)
         return
 
-    server_address = ('0.0.0.0', PORT)
+    server_address = ('127.0.0.1', PORT)
     try:
-        httpd = HTTPServer(server_address, CustomHandler)
+        httpd = BaseServer(server_address, CustomHandler)
     except Exception as e:
         print(f"[错误] 绑定端口 {PORT} 失败: {e}")
         return
 
-    print(f"[成功] 服务已就绪！正在为您自动弹出浏览器: {URL}")
+    print(f"[成功] 多线程并发引擎已就绪！正在为您自动弹出浏览器: {URL}")
     print("=" * 60)
     
     open_in_browser(URL)

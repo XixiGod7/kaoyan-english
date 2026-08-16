@@ -213,6 +213,8 @@ export const ExamWall: React.FC<ExamWallProps> = ({
                           <img
                             src={thumbPath}
                             alt={`${cleanYear} ${q.section} ${q.part}`}
+                            loading="lazy"
+                            decoding="async"
                             className="w-full h-auto object-cover transition-opacity"
                             onError={(e) => {
                               (e.target as HTMLElement).style.display = 'none';

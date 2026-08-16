@@ -5,7 +5,7 @@ cd "$DIR"
 export PATH="/opt/homebrew/bin:/usr/local/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:$PATH"
 
 PORT=8085
-URL="http://localhost:${PORT}"
+URL="http://127.0.0.1:${PORT}"
 
 echo "=========================================================="
 echo "      考研英语一真题库 (2010-2026) - macOS 启动器"

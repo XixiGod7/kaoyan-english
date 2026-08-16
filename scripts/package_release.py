@@ -87,7 +87,7 @@ cd "$DIR"
 export PATH="/opt/homebrew/bin:/usr/local/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:$PATH"
 
 PORT=8085
-URL="http://localhost:${PORT}"
+URL="http://127.0.0.1:${PORT}"
 
 PYTHON_CMD=""
 if command -v python3 >/dev/null 2>&1; then
