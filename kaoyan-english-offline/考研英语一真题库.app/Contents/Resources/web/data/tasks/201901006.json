@@ -1,0 +1,86 @@
+{
+  "tasks": [
+    {
+      "content_json": {
+        "article": "A) These tools can help you win every argument — not in the unhelpful sense of beating your opponents but in the better sense of learning about the issues that divide people, learning why they disagree with us and learning to talk and work together with them. If we readjust our view of arguments — from a verbal fight or tennis game to a reasoned exchange through which we all gain mutual respect and understanding — then we change the very nature of what it means to “win” an argument.\nB) Of course, many discussions are not so successful. Still, we need to be careful not to accuse opponents of bad arguments too quickly. We need to learn how to evaluate them properly. A large part of evaluation is calling out bad arguments, but we also need to admit good arguments by opponents and to apply the same critical standards to ourselves. Humility requires you to recognize weaknesses in your own arguments and sometimes also to accept reasons on the opposite side.\nC) None of this will be easy, but you can start even if others refuse to. Next time you state your position, formulate an argument for what you claim and honestly ask yourself whether your argument is any good. Next time you talk with someone who takes a stand, ask them to give you a reason for their view. Spell out their argument fully and charitably. Assess its strength impartially. Raise objections and listen carefully to their replies.\nD) Carnegie would be right if arguments were fights, which is how we often think of them. Like physical fights, verbal fights can leave both sides bloodied. Even when you win, you end up no better off. Your prospects would be almost as dismal if arguments were even just competitions — like, say, tennis games. Pairs of opponents hit the ball back and forth until one winner emerges from all who entered. Everybody else loses. This kind of thinking is why so many people try to avoid arguments, especially about politics and religion.\nE) In his 1936 work How to Win Friends and Influence People, Dale Carnegie wrote: “There is only one way... to get the best of an argument — and that is to avoid it.” This aversion to arguments is common, but it depends on a mistaken view of arguments that causes profound problems for our personal and social lives — and in many ways misses the point of arguing in the first place.\nF) These views of arguments also undermine reason. If you see a conversation as a fight or competition, you can win by cheating as long as you don’t get caught. You will be happy to convince people with bad arguments. You can call their views stupid, or joke about how ignorant they are. None of these tricks will help you understand them, their positions or the issues that divide you, but they can help you win — in one way.\nG) There is a better way to win arguments. Imagine that you favor increasing the minimum wage in our state, and I do not. If you yell, “Yes,” and I yell, “No,” neither of us learns anything. We neither understand nor respect each other, and we have no basis for compromise or cooperation. In contrast, suppose you give a reasonable argument: that full-time workers should not have to live in poverty. Then I counter with another reasonable argument: that a higher minimum wage will force businesses to employ fewer people for less time. Now we can understand each other’s positions and recognize our shared values, since we both care about needy workers.",
+        "option_labels": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ],
+        "questions": [
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "E",
+            "id": 41,
+            "qid": 2019011041,
+            "text": "Question 41",
+            "text_tokens": []
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "D",
+            "id": 42,
+            "qid": 2019011042,
+            "text": "Question 42",
+            "text_tokens": []
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "G",
+            "id": 43,
+            "qid": 2019011043,
+            "text": "Question 43",
+            "text_tokens": []
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "B",
+            "id": 44,
+            "qid": 2019011044,
+            "text": "Question 44",
+            "text_tokens": []
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "A",
+            "id": 45,
+            "qid": 2019011045,
+            "text": "Question 45",
+            "text_tokens": []
+          }
+        ],
+        "sorted_orders": "41. → 42. → F → 43. → 44. → C → 45."
+      },
+      "directions": "The following paragraphs are given in a wrong order. For Questions 41-45, you are required\nto reorganize these paragraphs into a coherent text by choosing from the list A-G and filling\nthem into the numbered boxes. Paragraphs C and F have been correctly placed. Mark your\nanswers on the ANSWER SHEET. (10 points)",
+      "exam_info": "2019(1)",
+      "exam_type": "kaoyan",
+      "id": 201901006,
+      "key_words": "arguments argument win people question opponents our these time bad better even fights help learning many need one paragraphs understand view way all ask avoid both carnegie divide each fight get give good issues like minimum neither next none other out positions reason reasonable recognize respect sense state talk tennis verbal views wage work workers yell accept accuse admit almost another answer answers any anything apply arguing assess aversion back ball basis beating best bloodied boxes businesses call calling care",
+      "kid": 5,
+      "part": "Part III",
+      "section": "Sec B",
+      "task_key": "2019(1)_Section II_Part B",
+      "type": "Reading Comprehension"
+    }
+  ]
+}

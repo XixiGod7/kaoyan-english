@@ -1,0 +1,1939 @@
+{
+  "tasks": [
+    {
+      "content_json": {
+        "1": {
+          "A": "Through",
+          "B": "Despite",
+          "C": "Besides",
+          "D": "Without",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "through",
+                "surface": "Through"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "despite",
+                "surface": "Despite"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "besides",
+                "surface": "Besides"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "without",
+                "surface": "Without"
+              }
+            ]
+          },
+          "replace": {
+            "end": 7,
+            "start": 0
+          },
+          "sentence_id": 2024013002
+        },
+        "2": {
+          "A": "revealing",
+          "B": "demanding",
+          "C": "improving",
+          "D": "tracing",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "reveal",
+                "surface": "revealing"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "demand",
+                "surface": "demanding"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "improve",
+                "surface": "improving"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "trace",
+                "surface": "tracing"
+              }
+            ]
+          },
+          "replace": {
+            "end": 91,
+            "start": 82
+          },
+          "sentence_id": 2024013002
+        },
+        "3": {
+          "A": "experience",
+          "B": "convenience",
+          "C": "guidance",
+          "D": "reference",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "experience",
+                "surface": "experience"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "convenience",
+                "surface": "convenience"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "guidance",
+                "surface": "guidance"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "reference",
+                "surface": "reference"
+              }
+            ]
+          },
+          "replace": {
+            "end": 160,
+            "start": 149
+          },
+          "sentence_id": 2024013002
+        },
+        "4": {
+          "A": "previously",
+          "B": "temporarily",
+          "C": "successively",
+          "D": "eventually",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "previous",
+                "surface": "previously"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "temporary",
+                "surface": "temporarily"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "successive",
+                "surface": "successively"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "eventually",
+                "surface": "eventually"
+              }
+            ]
+          },
+          "replace": {
+            "end": 108,
+            "start": 98
+          },
+          "sentence_id": 2024013003
+        },
+        "5": {
+          "A": "held on",
+          "B": "started out",
+          "C": "settled down",
+          "D": "went by",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "hold",
+                "surface": "held"
+              },
+              {
+                "lemma": "on",
+                "surface": "on"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "start",
+                "surface": "started"
+              },
+              {
+                "lemma": "out",
+                "surface": "out"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "settle",
+                "surface": "settled"
+              },
+              {
+                "lemma": "down",
+                "surface": "down"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "go",
+                "surface": "went"
+              },
+              {
+                "lemma": "by",
+                "surface": "by"
+              }
+            ]
+          },
+          "replace": {
+            "end": 16,
+            "start": 5
+          },
+          "sentence_id": 2024013004
+        },
+        "6": {
+          "A": "relations",
+          "B": "volumes",
+          "C": "benefits",
+          "D": "sources",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "relation",
+                "surface": "relations"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "volume",
+                "surface": "volumes"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "benefit",
+                "surface": "benefits"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "source",
+                "surface": "sources"
+              }
+            ]
+          },
+          "replace": {
+            "end": 81,
+            "start": 73
+          },
+          "sentence_id": 2024013004
+        },
+        "7": {
+          "A": "useful",
+          "B": "simple",
+          "C": "flexible",
+          "D": "stable",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "useful",
+                "surface": "useful"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "simple",
+                "surface": "simple"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "flexible",
+                "surface": "flexible"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "stable",
+                "surface": "stable"
+              }
+            ]
+          },
+          "replace": {
+            "end": 19,
+            "start": 13
+          },
+          "sentence_id": 2024013005
+        },
+        "8": {
+          "A": "call for",
+          "B": "yield to",
+          "C": "insist on",
+          "D": "act as",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "call",
+                "surface": "call"
+              },
+              {
+                "lemma": "for",
+                "surface": "for"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "yield",
+                "surface": "yield"
+              },
+              {
+                "lemma": "to",
+                "surface": "to"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "insist",
+                "surface": "insist"
+              },
+              {
+                "lemma": "on",
+                "surface": "on"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "act",
+                "surface": "act"
+              },
+              {
+                "lemma": "as",
+                "surface": "as"
+              }
+            ]
+          },
+          "replace": {
+            "end": 84,
+            "start": 78
+          },
+          "sentence_id": 2024013005
+        },
+        "9": {
+          "A": "As well as",
+          "B": "In terms of",
+          "C": "Thanks to",
+          "D": "Rather than",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "as",
+                "surface": "As"
+              },
+              {
+                "lemma": "well",
+                "surface": "well"
+              },
+              {
+                "lemma": "as",
+                "surface": "as"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "in",
+                "surface": "In"
+              },
+              {
+                "lemma": "term",
+                "surface": "terms"
+              },
+              {
+                "lemma": "of",
+                "surface": "of"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "thank",
+                "surface": "Thanks"
+              },
+              {
+                "lemma": "to",
+                "surface": "to"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "rather",
+                "surface": "Rather"
+              },
+              {
+                "lemma": "than",
+                "surface": "than"
+              }
+            ]
+          },
+          "replace": {
+            "end": 10,
+            "start": 0
+          },
+          "sentence_id": 2024013006
+        },
+        "10": {
+          "A": "connected",
+          "B": "shared",
+          "C": "represented",
+          "D": "occupied",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "connect",
+                "surface": "connected"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "share",
+                "surface": "shared"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "represent",
+                "surface": "represented"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "occupy",
+                "surface": "occupied"
+              }
+            ]
+          },
+          "replace": {
+            "end": 160,
+            "start": 152
+          },
+          "sentence_id": 2024013006
+        },
+        "11": {
+          "A": "allow",
+          "B": "expect",
+          "C": "require",
+          "D": "direct",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "allow",
+                "surface": "allow"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "expect",
+                "surface": "expect"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "require",
+                "surface": "require"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "direct",
+                "surface": "direct"
+              }
+            ]
+          },
+          "replace": {
+            "end": 34,
+            "start": 29
+          },
+          "sentence_id": 2024013008
+        },
+        "12": {
+          "A": "adopt",
+          "B": "lead",
+          "C": "clear",
+          "D": "change",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "adopt",
+                "surface": "adopt"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "lead",
+                "surface": "lead"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "clear",
+                "surface": "clear"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "change",
+                "surface": "change"
+              }
+            ]
+          },
+          "replace": {
+            "end": 112,
+            "start": 107
+          },
+          "sentence_id": 2024013008
+        },
+        "13": {
+          "A": "adapting to",
+          "B": "deriving from",
+          "C": "relying on",
+          "D": "pointing at",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "adapt",
+                "surface": "adapting"
+              },
+              {
+                "lemma": "to",
+                "surface": "to"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "derive",
+                "surface": "deriving"
+              },
+              {
+                "lemma": "from",
+                "surface": "from"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "rely",
+                "surface": "relying"
+              },
+              {
+                "lemma": "on",
+                "surface": "on"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "point",
+                "surface": "pointing"
+              },
+              {
+                "lemma": "at",
+                "surface": "at"
+              }
+            ]
+          },
+          "replace": {
+            "end": 70,
+            "start": 60
+          },
+          "sentence_id": 2024013009
+        },
+        "14": {
+          "A": "Once",
+          "B": "Since",
+          "C": "Unless",
+          "D": "Although",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "once",
+                "surface": "Once"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "since",
+                "surface": "Since"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "unless",
+                "surface": "Unless"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "although",
+                "surface": "Although"
+              }
+            ]
+          },
+          "replace": {
+            "end": 8,
+            "start": 0
+          },
+          "sentence_id": 2024013010
+        },
+        "15": {
+          "A": "records",
+          "B": "positions",
+          "C": "principles",
+          "D": "reasons",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "record",
+                "surface": "records"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "position",
+                "surface": "positions"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "principle",
+                "surface": "principles"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "reason",
+                "surface": "reasons"
+              }
+            ]
+          },
+          "replace": {
+            "end": 50,
+            "start": 40
+          },
+          "sentence_id": 2024013010
+        },
+        "16": {
+          "A": "controls",
+          "B": "analyses",
+          "C": "produces",
+          "D": "mixes",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "control",
+                "surface": "controls"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "analyse",
+                "surface": "analyses"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "produce",
+                "surface": "produces"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "mix",
+                "surface": "mixes"
+              }
+            ]
+          },
+          "replace": {
+            "end": 35,
+            "start": 27
+          },
+          "sentence_id": 2024013011
+        },
+        "17": {
+          "A": "decorate",
+          "B": "compare",
+          "C": "protect",
+          "D": "complement",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "decorate",
+                "surface": "decorate"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "compare",
+                "surface": "compare"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "protect",
+                "surface": "protect"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "complement",
+                "surface": "complement"
+              }
+            ]
+          },
+          "replace": {
+            "end": 37,
+            "start": 27
+          },
+          "sentence_id": 2024013012
+        },
+        "18": {
+          "A": "In conclusion",
+          "B": "By contrast",
+          "C": "For example",
+          "D": "Above all",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "in",
+                "surface": "In"
+              },
+              {
+                "lemma": "conclusion",
+                "surface": "conclusion"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "by",
+                "surface": "By"
+              },
+              {
+                "lemma": "contrast",
+                "surface": "contrast"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "for",
+                "surface": "For"
+              },
+              {
+                "lemma": "example",
+                "surface": "example"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "above",
+                "surface": "Above"
+              },
+              {
+                "lemma": "all",
+                "surface": "all"
+              }
+            ]
+          },
+          "replace": {
+            "end": 11,
+            "start": 0
+          },
+          "sentence_id": 2024013013
+        },
+        "19": {
+          "A": "identify",
+          "B": "suit",
+          "C": "secure",
+          "D": "include",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "identify",
+                "surface": "identify"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "suit",
+                "surface": "suit"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "secure",
+                "surface": "secure"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "include",
+                "surface": "include"
+              }
+            ]
+          },
+          "replace": {
+            "end": 41,
+            "start": 37
+          },
+          "sentence_id": 2024013013
+        },
+        "20": {
+          "A": "appropriate",
+          "B": "obvious",
+          "C": "impressive",
+          "D": "delicate",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "appropriate",
+                "surface": "appropriate"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "obvious",
+                "surface": "obvious"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "impressive",
+                "surface": "impressive"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "delicate",
+                "surface": "delicate"
+              }
+            ]
+          },
+          "replace": {
+            "end": 50,
+            "start": 39
+          },
+          "sentence_id": 2024013014
+        },
+        "article": "There’s nothing more welcoming than a door opening for you.\nWithout the need to be touched to open or close, automatic doors are essential in improving disabled access to buildings and helping provide general convenience to commercial buildings.\nSelf-sliding doors began to emerge as a commercial product in 1960 after being invented six years previously by Americans Dee Horton and Lew Hewitt.\nThey started out as a novelty feature, but as their use has grown, their benefits have extended within our technologically advanced world.\nParticularly useful in busy locations or during times of emergency, the doors act as crowd management by reducing the obstacles put in people’s way.\nAs well as making access both in and out of buildings easier for people, the difference in the way many of these doors open helps reduce the total area occupied by them.\nAutomatic doors often open to the side, with the panels sliding across one another.\nReplacing swing doors, these allow smaller buildings to maximise the usable space inside without having to clear the way for a large, sticking-out door.\nThere are many different types of automatic door, with each relying on specific signals to tell them when to open.\nAlthough these methods differ, the main principles remain the same.\nEach automatic door system analyses the light, sound, weight or movement in their vicinity as a signal to open.\nSensor types are chosen to complement the different environments they are needed in.\nFor example, a busy street might not suit a motion-sensored door, as it would constantly be opening for passers-by.\nA pressure-sensitive mat would be more appropriate to limit the surveyed area.",
+        "blanks": [
+          {
+            "blank_no": 1,
+            "replace": {
+              "end": 7,
+              "start": 0
+            },
+            "sentence_id": 2024013002
+          },
+          {
+            "blank_no": 2,
+            "replace": {
+              "end": 91,
+              "start": 82
+            },
+            "sentence_id": 2024013002
+          },
+          {
+            "blank_no": 3,
+            "replace": {
+              "end": 160,
+              "start": 149
+            },
+            "sentence_id": 2024013002
+          },
+          {
+            "blank_no": 4,
+            "replace": {
+              "end": 108,
+              "start": 98
+            },
+            "sentence_id": 2024013003
+          },
+          {
+            "blank_no": 5,
+            "replace": {
+              "end": 16,
+              "start": 5
+            },
+            "sentence_id": 2024013004
+          },
+          {
+            "blank_no": 6,
+            "replace": {
+              "end": 81,
+              "start": 73
+            },
+            "sentence_id": 2024013004
+          },
+          {
+            "blank_no": 7,
+            "replace": {
+              "end": 19,
+              "start": 13
+            },
+            "sentence_id": 2024013005
+          },
+          {
+            "blank_no": 8,
+            "replace": {
+              "end": 84,
+              "start": 78
+            },
+            "sentence_id": 2024013005
+          },
+          {
+            "blank_no": 9,
+            "replace": {
+              "end": 10,
+              "start": 0
+            },
+            "sentence_id": 2024013006
+          },
+          {
+            "blank_no": 10,
+            "replace": {
+              "end": 160,
+              "start": 152
+            },
+            "sentence_id": 2024013006
+          },
+          {
+            "blank_no": 11,
+            "replace": {
+              "end": 34,
+              "start": 29
+            },
+            "sentence_id": 2024013008
+          },
+          {
+            "blank_no": 12,
+            "replace": {
+              "end": 112,
+              "start": 107
+            },
+            "sentence_id": 2024013008
+          },
+          {
+            "blank_no": 13,
+            "replace": {
+              "end": 70,
+              "start": 60
+            },
+            "sentence_id": 2024013009
+          },
+          {
+            "blank_no": 14,
+            "replace": {
+              "end": 8,
+              "start": 0
+            },
+            "sentence_id": 2024013010
+          },
+          {
+            "blank_no": 15,
+            "replace": {
+              "end": 50,
+              "start": 40
+            },
+            "sentence_id": 2024013010
+          },
+          {
+            "blank_no": 16,
+            "replace": {
+              "end": 35,
+              "start": 27
+            },
+            "sentence_id": 2024013011
+          },
+          {
+            "blank_no": 17,
+            "replace": {
+              "end": 37,
+              "start": 27
+            },
+            "sentence_id": 2024013012
+          },
+          {
+            "blank_no": 18,
+            "replace": {
+              "end": 11,
+              "start": 0
+            },
+            "sentence_id": 2024013013
+          },
+          {
+            "blank_no": 19,
+            "replace": {
+              "end": 41,
+              "start": 37
+            },
+            "sentence_id": 2024013013
+          },
+          {
+            "blank_no": 20,
+            "replace": {
+              "end": 50,
+              "start": 39
+            },
+            "sentence_id": 2024013014
+          }
+        ],
+        "questions": [
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，句子强调自动门不需要触碰即可开关，因此选择表示“没有”的连接词最合适。\nA. ‘Through’表示通过，与上下文强调不需要触碰的含义不符。\nB. ‘Despite’表示尽管，与句子逻辑不符。\nC. ‘Besides’表示此外，与句子逻辑不符。\nD. ‘Without’表示没有，与句子强调不需要触碰的含义完全吻合。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "D",
+            "id": 1,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "through",
+                  "surface": "Through"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "despite",
+                  "surface": "Despite"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "besides",
+                  "surface": "Besides"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "without",
+                  "surface": "Without"
+                }
+              ]
+            },
+            "options": [
+              "A) Through",
+              "B) Despite",
+              "C) Besides",
+              "D) Without"
+            ],
+            "qid": 2024011001,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "自动门的功能是改善残疾人进入建筑物的便利性，因此‘improving’最符合语境。\nA. ‘Revealing’表示揭示，与改善便利性无关。\nB. ‘Demanding’表示要求，与语境不符。\nC. ‘Improving’表示改善，与句子强调自动门的功能完全吻合。\nD. ‘Tracing’表示追踪，与语境不符。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "C",
+            "id": 2,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "reveal",
+                  "surface": "revealing"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "demand",
+                  "surface": "demanding"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "improve",
+                  "surface": "improving"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "trace",
+                  "surface": "tracing"
+                }
+              ]
+            },
+            "options": [
+              "A) revealing",
+              "B) demanding",
+              "C) improving",
+              "D) tracing"
+            ],
+            "qid": 2024011002,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "自动门提供的是便利性，因此‘convenience’最符合语境。\nA. ‘Experience’表示经验，与语境不符。\nB. ‘Convenience’表示便利，与句子强调自动门的功能完全吻合。\nC. ‘Guidance’表示指导，与语境不符。\nD. ‘Reference’表示参考，与语境不符。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "B",
+            "id": 3,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "experience",
+                  "surface": "experience"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "convenience",
+                  "surface": "convenience"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "guidance",
+                  "surface": "guidance"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "reference",
+                  "surface": "reference"
+                }
+              ]
+            },
+            "options": [
+              "A) experience",
+              "B) convenience",
+              "C) guidance",
+              "D) reference"
+            ],
+            "qid": 2024011003,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，强调自动门是在六年前被发明，因此‘previously’最符合语境。\nA. ‘Previously’表示此前，与上下文时间逻辑完全吻合。\nB. ‘Temporarily’表示暂时，与语境不符。\nC. ‘Successively’表示连续地，与语境不符。\nD. ‘Eventually’表示最终，与语境不符。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "A",
+            "id": 4,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "previous",
+                  "surface": "previously"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "temporary",
+                  "surface": "temporarily"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "successive",
+                  "surface": "successively"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "eventually",
+                  "surface": "eventually"
+                }
+              ]
+            },
+            "options": [
+              "A) previously",
+              "B) temporarily",
+              "C) successively",
+              "D) eventually"
+            ],
+            "qid": 2024011004,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据语境，自动门最初作为一种新奇的功能出现，‘started out’最符合语境。\nA. ‘Held on’表示坚持，与语境不符。\nB. ‘Started out’表示开始作为，与句子逻辑完全吻合。\nC. ‘Settled down’表示安顿，与语境不符。\nD. ‘Went by’表示经过，与语境不符。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "B",
+            "id": 5,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "hold",
+                  "surface": "held"
+                },
+                {
+                  "lemma": "on",
+                  "surface": "on"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "start",
+                  "surface": "started"
+                },
+                {
+                  "lemma": "out",
+                  "surface": "out"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "settle",
+                  "surface": "settled"
+                },
+                {
+                  "lemma": "down",
+                  "surface": "down"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "go",
+                  "surface": "went"
+                },
+                {
+                  "lemma": "by",
+                  "surface": "by"
+                }
+              ]
+            },
+            "options": [
+              "A) held on",
+              "B) started out",
+              "C) settled down",
+              "D) went by"
+            ],
+            "qid": 2024011005,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "自动门的益处随着使用的增加而扩展，因此‘benefits’最符合语境。\nA. ‘Relations’表示关系，与语境不符。\nB. ‘Volumes’表示数量，与语境不符。\nC. ‘Benefits’表示益处，与句子逻辑完全吻合。\nD. ‘Sources’表示来源，与语境不符。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "C",
+            "id": 6,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "relation",
+                  "surface": "relations"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "volume",
+                  "surface": "volumes"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "benefit",
+                  "surface": "benefits"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "source",
+                  "surface": "sources"
+                }
+              ]
+            },
+            "options": [
+              "A) relations",
+              "B) volumes",
+              "C) benefits",
+              "D) sources"
+            ],
+            "qid": 2024011006,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，自动门在繁忙地点或紧急情况下的作用是减少障碍，因此选择表示“有用的”的选项最为合适。\nA. “useful”表示“有用的”，符合句子语境，强调自动门在繁忙地点或紧急情况下的实用性。\nB. “simple”表示“简单的”，不符合语境，因为句子强调的是自动门的功能性而非简单性。\nC. “flexible”表示“灵活的”，虽然自动门可能具有灵活性，但这里的语境更强调其实用性。\nD. “stable”表示“稳定的”，与语境不符，因为稳定性不是句子的重点。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "A",
+            "id": 7,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "useful",
+                  "surface": "useful"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "simple",
+                  "surface": "simple"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "flexible",
+                  "surface": "flexible"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "stable",
+                  "surface": "stable"
+                }
+              ]
+            },
+            "options": [
+              "A) useful",
+              "B) simple",
+              "C) flexible",
+              "D) stable"
+            ],
+            "qid": 2024011007,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，自动门通过减少障碍来管理人群，因此选择表示“充当”的选项最为合适。\nA. “call for”表示“要求”，不符合语境，因为自动门不是在要求人群管理。\nB. “yield to”表示“屈服于”，与语境不符，因为自动门不是在屈服于人群管理。\nC. “insist on”表示“坚持”，不符合语境，因为自动门不是在坚持某种行为。\nD. “act as”表示“充当”，符合语境，强调自动门的功能是充当人群管理工具。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "D",
+            "id": 8,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "call",
+                  "surface": "call"
+                },
+                {
+                  "lemma": "for",
+                  "surface": "for"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "yield",
+                  "surface": "yield"
+                },
+                {
+                  "lemma": "to",
+                  "surface": "to"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "insist",
+                  "surface": "insist"
+                },
+                {
+                  "lemma": "on",
+                  "surface": "on"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "act",
+                  "surface": "act"
+                },
+                {
+                  "lemma": "as",
+                  "surface": "as"
+                }
+              ]
+            },
+            "options": [
+              "A) call for",
+              "B) yield to",
+              "C) insist on",
+              "D) act as"
+            ],
+            "qid": 2024011008,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，句子强调自动门的功能不仅仅是方便进出，还减少了占用面积，因此选择表示“以及”的选项最为合适。\nA. “As well as”表示“以及”，符合语境，强调自动门的额外功能。\nB. “In terms of”表示“就...而言”，不符合语境，因为句子并未讨论某个特定方面。\nC. “Thanks to”表示“由于”，虽然可以解释为自动门的功能，但不如“以及”更贴合语境。\nD. “Rather than”表示“而不是”，与语境不符，因为句子并未表达对比关系。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "A",
+            "id": 9,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "as",
+                  "surface": "As"
+                },
+                {
+                  "lemma": "well",
+                  "surface": "well"
+                },
+                {
+                  "lemma": "as",
+                  "surface": "as"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "in",
+                  "surface": "In"
+                },
+                {
+                  "lemma": "term",
+                  "surface": "terms"
+                },
+                {
+                  "lemma": "of",
+                  "surface": "of"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "thank",
+                  "surface": "Thanks"
+                },
+                {
+                  "lemma": "to",
+                  "surface": "to"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "rather",
+                  "surface": "Rather"
+                },
+                {
+                  "lemma": "than",
+                  "surface": "than"
+                }
+              ]
+            },
+            "options": [
+              "A) As well as",
+              "B) In terms of",
+              "C) Thanks to",
+              "D) Rather than"
+            ],
+            "qid": 2024011009,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，自动门的开启方式减少了它们占用的总面积，因此选择表示“占据”的选项最为合适。\nA. “connected”表示“连接的”，不符合语境，因为句子强调的是面积而非连接。\nB. “shared”表示“共享的”，与语境不符，因为句子讨论的是占用面积而非共享。\nC. “represented”表示“代表的”，不符合语境，因为句子强调的是物理空间而非象征意义。\nD. “occupied”表示“占据的”，符合语境，强调自动门减少了占用的总面积。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "D",
+            "id": 10,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "connect",
+                  "surface": "connected"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "share",
+                  "surface": "shared"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "represent",
+                  "surface": "represented"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "occupy",
+                  "surface": "occupied"
+                }
+              ]
+            },
+            "options": [
+              "A) connected",
+              "B) shared",
+              "C) represented",
+              "D) occupied"
+            ],
+            "qid": 2024011010,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，自动门的功能是允许较小的建筑最大化内部空间，因此选择表示“允许”的选项最为合适。\nA. “allow”表示“允许”，符合语境，强调自动门的功能。\nB. “expect”表示“期待”，不符合语境，因为自动门不是在期待某种行为。\nC. “require”表示“需要”，与语境不符，因为自动门不是在要求某种行为。\nD. “direct”表示“指导”，不符合语境，因为自动门不是在指导建筑。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "A",
+            "id": 11,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "allow",
+                  "surface": "allow"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "expect",
+                  "surface": "expect"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "require",
+                  "surface": "require"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "direct",
+                  "surface": "direct"
+                }
+              ]
+            },
+            "options": [
+              "A) allow",
+              "B) expect",
+              "C) require",
+              "D) direct"
+            ],
+            "qid": 2024011011,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，自动门的功能是无需清理道路，因此选择表示“清理”的选项最为合适。\nA. “adopt”表示“采用”，不符合语境，因为自动门不是在采用某种行为。\nB. “lead”表示“引导”，与语境不符，因为自动门不是在引导道路。\nC. “clear”表示“清理”，符合语境，强调自动门无需清理道路。\nD. “change”表示“改变”，不符合语境，因为自动门不是在改变道路。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "C",
+            "id": 12,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "adopt",
+                  "surface": "adopt"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "lead",
+                  "surface": "lead"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "clear",
+                  "surface": "clear"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "change",
+                  "surface": "change"
+                }
+              ]
+            },
+            "options": [
+              "A) adopt",
+              "B) lead",
+              "C) clear",
+              "D) change"
+            ],
+            "qid": 2024011012,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，自动门依赖特定信号来判断何时打开，因此选项 C 'relying on' 最符合语境。\nA. 选项 A 'adapting to' 意为适应，与句意不符。自动门并不是适应信号，而是依赖信号。\nB. 选项 B 'deriving from' 意为源于，与句意不符。自动门并不是从信号中派生，而是依赖信号。\nC. 选项 C 'relying on' 意为依赖，符合句意，表明自动门依赖特定信号来判断何时打开。\nD. 选项 D 'pointing at' 意为指向，与句意不符。自动门并不是指向信号，而是依赖信号。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "C",
+            "id": 13,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "adapt",
+                  "surface": "adapting"
+                },
+                {
+                  "lemma": "to",
+                  "surface": "to"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "derive",
+                  "surface": "deriving"
+                },
+                {
+                  "lemma": "from",
+                  "surface": "from"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "rely",
+                  "surface": "relying"
+                },
+                {
+                  "lemma": "on",
+                  "surface": "on"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "point",
+                  "surface": "pointing"
+                },
+                {
+                  "lemma": "at",
+                  "surface": "at"
+                }
+              ]
+            },
+            "options": [
+              "A) adapting to",
+              "B) deriving from",
+              "C) relying on",
+              "D) pointing at"
+            ],
+            "qid": 2024011013,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，句子表达的是尽管方法不同，但主要原则保持不变，因此选项 D 'Although' 最符合语境。\nA. 选项 A 'Once' 意为一旦，与句意不符。句子并非表达条件，而是转折关系。\nB. 选项 B 'Since' 意为因为，与句意不符。句子并非表达因果关系。\nC. 选项 C 'Unless' 意为除非，与句意不符。句子并非表达条件。\nD. 选项 D 'Although' 意为尽管，符合句意，表明方法不同但主要原则保持不变。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "D",
+            "id": 14,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "once",
+                  "surface": "Once"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "since",
+                  "surface": "Since"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "unless",
+                  "surface": "Unless"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "although",
+                  "surface": "Although"
+                }
+              ]
+            },
+            "options": [
+              "A) Once",
+              "B) Since",
+              "C) Unless",
+              "D) Although"
+            ],
+            "qid": 2024011014,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，句子表达的是尽管方法不同，但主要原则保持不变，因此选项 C 'principles' 最符合语境。\nA. 选项 A 'records' 意为记录，与句意不符。句子讨论的是原则，而非记录。\nB. 选项 B 'positions' 意为位置，与句意不符。句子讨论的是原则，而非位置。\nC. 选项 C 'principles' 意为原则，符合句意，表明主要原则保持不变。\nD. 选项 D 'reasons' 意为原因，与句意不符。句子讨论的是原则，而非原因。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "C",
+            "id": 15,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "record",
+                  "surface": "records"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "position",
+                  "surface": "positions"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "principle",
+                  "surface": "principles"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "reason",
+                  "surface": "reasons"
+                }
+              ]
+            },
+            "options": [
+              "A) records",
+              "B) positions",
+              "C) principles",
+              "D) reasons"
+            ],
+            "qid": 2024011015,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，自动门系统需要分析周围环境的信号，因此选项 B 'analyses' 最符合语境。\nA. 选项 A 'controls' 意为控制，与句意不符。句子强调的是分析信号，而非控制信号。\nB. 选项 B 'analyses' 意为分析，符合句意，表明自动门系统分析周围环境的信号。\nC. 选项 C 'produces' 意为产生，与句意不符。自动门系统并不产生信号，而是分析信号。\nD. 选项 D 'mixes' 意为混合，与句意不符。自动门系统并不混合信号，而是分析信号。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "B",
+            "id": 16,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "control",
+                  "surface": "controls"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "analyse",
+                  "surface": "analyses"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "produce",
+                  "surface": "produces"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "mix",
+                  "surface": "mixes"
+                }
+              ]
+            },
+            "options": [
+              "A) controls",
+              "B) analyses",
+              "C) produces",
+              "D) mixes"
+            ],
+            "qid": 2024011016,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，传感器类型被选择是为了适应并补充不同的环境，因此选项 D 'complement' 最符合语境。\nA. 选项 A 'decorate' 意为装饰，与句意不符。句子强调的是补充环境，而非装饰环境。\nB. 选项 B 'compare' 意为比较，与句意不符。句子并非在比较环境。\nC. 选项 C 'protect' 意为保护，与句意不符。句子并非强调保护环境。\nD. 选项 D 'complement' 意为补充，符合句意，表明传感器类型被选择以补充不同环境。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "D",
+            "id": 17,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "decorate",
+                  "surface": "decorate"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "compare",
+                  "surface": "compare"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "protect",
+                  "surface": "protect"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "complement",
+                  "surface": "complement"
+                }
+              ]
+            },
+            "options": [
+              "A) decorate",
+              "B) compare",
+              "C) protect",
+              "D) complement"
+            ],
+            "qid": 2024011017,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，句子在解释具体场景，因此选择表明举例的连接词最为合适。\nA. ‘In conclusion’表示总结，与上下文的具体场景描述不符，因此不合适。\nB. ‘By contrast’表示对比，但句子并未进行对比，因此不合适。\nC. ‘For example’表示举例，与句子中描述的具体场景相符，因此最合适。\nD. ‘Above all’表示强调，但句子并未强调某一重点，因此不合适。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "C",
+            "id": 18,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "in",
+                  "surface": "In"
+                },
+                {
+                  "lemma": "conclusion",
+                  "surface": "conclusion"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "by",
+                  "surface": "By"
+                },
+                {
+                  "lemma": "contrast",
+                  "surface": "contrast"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "for",
+                  "surface": "For"
+                },
+                {
+                  "lemma": "example",
+                  "surface": "example"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "above",
+                  "surface": "Above"
+                },
+                {
+                  "lemma": "all",
+                  "surface": "all"
+                }
+              ]
+            },
+            "options": [
+              "A) In conclusion",
+              "B) By contrast",
+              "C) For example",
+              "D) Above all"
+            ],
+            "qid": 2024011018,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，句子描述的是某种门是否适合某种场景，因此选择‘suit’最为合适。\nA. ‘Identify’表示识别，与句子中描述的适合性无关，因此不合适。\nB. ‘Suit’表示适合，与句子中描述的场景匹配，因此最合适。\nC. ‘Secure’表示确保，与句子中描述的适合性无关，因此不合适。\nD. ‘Include’表示包含，与句子中描述的适合性无关，因此不合适。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "B",
+            "id": 19,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "identify",
+                  "surface": "identify"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "suit",
+                  "surface": "suit"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "secure",
+                  "surface": "secure"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "include",
+                  "surface": "include"
+                }
+              ]
+            },
+            "options": [
+              "A) identify",
+              "B) suit",
+              "C) secure",
+              "D) include"
+            ],
+            "qid": 2024011019,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，句子描述的是选择最合适的设备，因此‘appropriate’最为合适。\nA. ‘Appropriate’表示适合，与句子中描述的选择最合适的设备相符，因此最合适。\nB. ‘Obvious’表示明显，但句子并未强调明显性，因此不合适。\nC. ‘Impressive’表示令人印象深刻，与句子中描述的适合性无关，因此不合适。\nD. ‘Delicate’表示精致，与句子中描述的适合性无关，因此不合适。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "A",
+            "id": 20,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "appropriate",
+                  "surface": "appropriate"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "obvious",
+                  "surface": "obvious"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "impressive",
+                  "surface": "impressive"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "delicate",
+                  "surface": "delicate"
+                }
+              ]
+            },
+            "options": [
+              "A) appropriate",
+              "B) obvious",
+              "C) impressive",
+              "D) delicate"
+            ],
+            "qid": 2024011020,
+            "text": ""
+          }
+        ]
+      },
+      "directions": "Read the following text. Choose the best word(s) for each numbered blank and mark A, B,\nC or D on the ANSWER SHEET. (10 points)",
+      "exam_info": "2024(1)",
+      "exam_type": "kaoyan",
+      "id": 202401001,
+      "key_words": "out doors appropriate benefits convenience door improving open previously relying started suit without act allow automatic buildings clear example occupied useful well above adapting adopt all although analyses besides call change complement conclusion connected contrast delicate demanding deriving despite direct down each eventually expect experience flexible guidance held identify impressive include insist lead obvious pointing principles rather reference relations represented require revealing secure settled shared simple sources stable successively temporarily terms thanks these through tracing volumes way went yield access",
+      "kid": 12,
+      "part": "Part III",
+      "section": "Sec A",
+      "task_key": "2024(1)_Section I_ ",
+      "type": "Use of English"
+    }
+  ]
+}

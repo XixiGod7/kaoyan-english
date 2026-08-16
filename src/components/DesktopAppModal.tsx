@@ -209,17 +209,45 @@ export const DesktopAppModal: React.FC<DesktopAppModalProps> = ({
             </div>
           ) : (
             <div className="space-y-4">
-              {/* Mac Option 1: Chrome PWA on macOS */}
+              {/* Mac Option 1: Direct DMG Installer */}
               <div className={`p-4 rounded-xl border ${
-                isDark ? 'bg-slate-950/60 border-slate-800' : 'bg-purple-50/50 border-purple-100'
+                isDark ? 'bg-slate-950/60 border-purple-900/40' : 'bg-purple-50/70 border-purple-200'
               }`}>
                 <div className="flex items-start justify-between gap-4">
                   <div className="space-y-1">
                     <span className="text-[10px] font-bold px-2 py-0.5 rounded bg-purple-500/15 text-purple-600 dark:text-purple-400 border border-purple-500/20 uppercase tracking-wide">
-                      macOS 推荐 · Chrome / Edge / Safari
+                      macOS 官方推荐 · 一步到位
                     </span>
                     <h4 className={`text-sm font-bold flex items-center gap-1.5 pt-1 ${isDark ? 'text-white' : 'text-slate-900'}`}>
-                      <span>一键安装为 macOS 原生独立桌面应用</span>
+                      <span>下载专属 DMG 安装包（自动启动服务）</span>
+                    </h4>
+                    <p className={`text-xs ${isDark ? 'text-slate-300' : 'text-slate-600'}`}>
+                      打开 DMG 镜像后，将【考研英语一真题库.app】拖入【应用程序】文件夹即可常驻 Dock，双击自动启动服务并打开，无需任何命令行操作！
+                    </p>
+                  </div>
+                  <a
+                    href="https://github.com/XixiGod7/kaoyan-english/releases/tag/v1.0.0"
+                    target="_blank"
+                    rel="noreferrer"
+                    className="shrink-0 flex items-center gap-1.5 px-4 py-2 rounded-xl text-xs font-bold text-white bg-gradient-to-r from-purple-600 to-indigo-600 hover:from-purple-500 hover:to-indigo-500 shadow-md shadow-purple-500/20 transition-all hover:scale-105 active:scale-95"
+                  >
+                    <Apple className="w-3.5 h-3.5" />
+                    <span>前往下载 DMG</span>
+                  </a>
+                </div>
+              </div>
+
+              {/* Mac Option 2: Chrome PWA on macOS */}
+              <div className={`p-4 rounded-xl border ${
+                isDark ? 'bg-slate-950/60 border-slate-800' : 'bg-slate-50 border-slate-200'
+              }`}>
+                <div className="flex items-start justify-between gap-4">
+                  <div className="space-y-1">
+                    <span className="text-[10px] font-bold px-2 py-0.5 rounded bg-blue-500/15 text-blue-600 dark:text-blue-400 border border-blue-500/20 uppercase tracking-wide">
+                      方式 2 · Chrome / Safari / Edge 网页版 App
+                    </span>
+                    <h4 className={`text-sm font-bold flex items-center gap-1.5 pt-1 ${isDark ? 'text-white' : 'text-slate-900'}`}>
+                      <span>在线版一键添加到程序坞 / 安装为独立应用</span>
                     </h4>
                     <p className={`text-xs ${isDark ? 'text-slate-300' : 'text-slate-600'}`}>
                       生成无边框极简独立窗口，直接常驻 Dock 程序坞，全屏分屏体验丝滑。
@@ -227,69 +255,11 @@ export const DesktopAppModal: React.FC<DesktopAppModalProps> = ({
                   </div>
                   <button
                     onClick={handleInstallPWA}
-                    className="shrink-0 flex items-center gap-1.5 px-4 py-2 rounded-xl text-xs font-bold text-white bg-gradient-to-r from-purple-600 to-indigo-600 hover:from-purple-500 hover:to-indigo-500 shadow-md shadow-purple-500/20 transition-all hover:scale-105 active:scale-95"
+                    className="shrink-0 flex items-center gap-1.5 px-3.5 py-1.5 rounded-lg text-xs font-bold text-white bg-indigo-600 hover:bg-indigo-500 shadow-sm transition-all hover:scale-105 active:scale-95"
                   >
                     <Sparkles className="w-3.5 h-3.5" />
-                    <span>立即安装应用</span>
+                    <span>安装网页 App</span>
                   </button>
-                </div>
-
-                {/* Visual Guide for Mac Chrome / Safari */}
-                <div className="mt-3 space-y-2 text-xs">
-                  <div className={`flex items-start gap-2 p-2.5 rounded-lg border ${
-                    isDark ? 'bg-slate-900/80 border-slate-800 text-slate-200' : 'bg-white border-purple-100/80 text-slate-800 shadow-sm'
-                  }`}>
-                    <CheckCircle className="w-4 h-4 text-emerald-500 shrink-0 mt-0.5" />
-                    <div>
-                      <b className="text-purple-600 dark:text-purple-400">方式 1（最快捷）</b>：直接点击上方 <b>「立即安装应用」</b> 按钮，或在 Chrome 地址栏右侧点击 <b>「在应用中打开」/「安装」</b> 图标。
-                    </div>
-                  </div>
-
-                  <div className={`flex items-start gap-2 p-2.5 rounded-lg border ${
-                    isDark ? 'bg-slate-900/80 border-slate-800 text-slate-200' : 'bg-white border-purple-100/80 text-slate-800 shadow-sm'
-                  }`}>
-                    <CheckCircle className="w-4 h-4 text-emerald-500 shrink-0 mt-0.5" />
-                    <div>
-                      <b className="text-purple-600 dark:text-purple-400">方式 2（Chrome 菜单）</b>：点击 Chrome 右上角 <b>「⋮」 ➔ 「投放、保存和分享」 ➔ 「创建快捷方式...」</b>（勾选「在单独窗口中打开」）。
-                    </div>
-                  </div>
-
-                  <div className={`flex items-start gap-2 p-2.5 rounded-lg border ${
-                    isDark ? 'bg-slate-900/80 border-slate-800 text-slate-200' : 'bg-white border-purple-100/80 text-slate-800 shadow-sm'
-                  }`}>
-                    <CheckCircle className="w-4 h-4 text-emerald-500 shrink-0 mt-0.5" />
-                    <div>
-                      <b className="text-purple-600 dark:text-purple-400">方式 3（Safari 浏览器）</b>：在 Safari 顶部菜单栏点击 <b>「文件」 ➔ 「添加到程序坞 (Add to Dock...)」</b>。
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              {/* Mac Local Python Command Box */}
-              <div className={`p-4 rounded-xl border ${
-                isDark ? 'bg-slate-950/60 border-slate-800' : 'bg-slate-50 border-slate-200'
-              }`}>
-                <div className="flex items-center justify-between">
-                  <span className={`text-xs font-bold flex items-center gap-1.5 ${isDark ? 'text-white' : 'text-slate-900'}`}>
-                    <span>💻 Mac 终端一键极速启动命令</span>
-                  </span>
-                  <button
-                    onClick={() => {
-                      navigator.clipboard.writeText('python3 server.py');
-                      alert('已复制启动命令: python3 server.py');
-                    }}
-                    className={`text-[11px] px-2.5 py-1 rounded font-bold transition-all border ${
-                      isDark 
-                        ? 'bg-indigo-600/30 hover:bg-indigo-600/50 text-indigo-300 border-indigo-500/30' 
-                        : 'bg-indigo-100 hover:bg-indigo-200 text-indigo-700 border-indigo-200 shadow-xs'
-                    }`}
-                  >
-                    点击复制命令
-                  </button>
-                </div>
-                <div className="mt-2.5 p-3 rounded-lg bg-slate-900 border border-slate-800 font-mono text-xs text-emerald-400 flex items-center justify-between shadow-inner">
-                  <span className="font-semibold select-all">python3 server.py</span>
-                  <span className="text-[10px] text-slate-400">（在离线包文件夹中执行）</span>
                 </div>
               </div>
             </div>

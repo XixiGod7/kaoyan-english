@@ -1,0 +1,944 @@
+{
+  "tasks": [
+    {
+      "content_json": {
+        "article": "The journal Science is adding an extra round of statistical checks to its peer-review process, editor-in-chief Marcia McNutt announced today.\nThe policy follows similar efforts from other journals, after widespread concern that basic mistakes in data analysis are contributing to the irreproducibility of many published research findings.\n“Readers must have confidence in the conclusions published in our journal,” writes McNutt in an editorial.\nWorking with the American Statistical Association, the journal has appointed seven experts to a statistics board of reviewing editors (SBoRE).\nManuscript will be flagged up for additional scrutiny by the journal’s internal editors, or by its existing Board of Reviewing Editors or by outside peer reviewers.\nThe SBoRE panel will then find external statisticians to review these manuscripts.\nAsked whether any particular papers had impelled the change, McNutt said: “The creation of the ‘statistics board’ was motivated by concerns broadly with the application of statistics and data analysis in scientific research and is part of Science’s overall drive to increase reproducibility in the research we publish.”\nGiovanni Parmigiani, a biostatistician at the Harvard School of Public Health, a member of the SBoRE group, says he expects the board to “play primarily an advisory role”.\nHe agreed to join because he “found the foresight behind the establishment of the SBoRE to be novel, unique and likely to have a lasting impact.\nThis impact will not only be through the publications in Science itself, but hopefully through a larger group of publishing places that may want to model their approach after Science.”\nJohn Ioannidis, a physician who studies research methodology, says that the policy is “a most welcome step forward” and “long overdue”. “Most journals are weak in statistical review, and this damages the quality of what they publish.\nI think that, for the majority of scientific papers nowadays, statistical review is more essential than expert review,” he says.\nBut he noted that biomedical journals such as Annals of Internal Medicine, the Journal of the American Medical Association and The Lancet pay strong attention to statistical review.\nProfessional scientists are expected to know how to analyse data, but statistical errors are alarmingly common in published research, according to David Vaux, a cell biologist.\nResearchers should improve their standards, he wrote in 2012, but journals should also take a tougher line, “engaging reviewers who are statistically literate and editors who can verify the process”.\nVaux says that Science’s idea to pass some papers to statisticians “has some merit, but a weakness is that it relies on the board of reviewing editors to identify ‘the papers that need scrutiny’ in the first place”",
+        "questions": [
+          {
+            "ai_analysis_ids": [
+              2015013107
+            ],
+            "ai_analysis_text": "第一段提到《科学》杂志增加统计检查环节，并提到其他期刊也采取了类似措施，表明期刊正在加强统计检查。\nA. 第一段没有提到《科学》杂志简化其同行评审流程，反而是增加了统计检查环节。\nB. 第一段明确提到《科学》杂志和其他期刊正在加强统计检查，因此正确。\nC. 文中提到的是广泛的担忧，而非只有少数期刊被指责。\nD. 文中提到的是数据分析中的错误，而不是缺乏数据分析。",
+            "ai_analysis_words": [
+              "policy",
+              "similar efforts",
+              "widespread concern"
+            ],
+            "analysis_sentence_id": 2015013107,
+            "answer": "B",
+            "id": 31,
+            "option_tokens": {
+              "A": [
+                {
+                  "gloss": "《科学》期刊",
+                  "lemma": "science",
+                  "surface": "Science"
+                },
+                {
+                  "gloss": "打算",
+                  "lemma": "intend",
+                  "surface": "intends"
+                },
+                {
+                  "gloss": "去",
+                  "lemma": "to",
+                  "surface": "to"
+                },
+                {
+                  "gloss": "简化",
+                  "lemma": "simplify",
+                  "surface": "simplify"
+                },
+                {
+                  "gloss": "它的",
+                  "lemma": "its",
+                  "surface": "its"
+                },
+                {
+                  "gloss": "同行",
+                  "lemma": "peer",
+                  "surface": "peer"
+                },
+                {
+                  "gloss": "评审",
+                  "lemma": "review",
+                  "surface": "review"
+                },
+                {
+                  "gloss": "流程",
+                  "lemma": "process",
+                  "surface": "process"
+                }
+              ],
+              "B": [
+                {
+                  "gloss": "期刊",
+                  "lemma": "journal",
+                  "surface": "journals"
+                },
+                {
+                  "gloss": "正在",
+                  "lemma": "be",
+                  "surface": "are"
+                },
+                {
+                  "gloss": "加强",
+                  "lemma": "strengthen",
+                  "surface": "strengthening"
+                },
+                {
+                  "gloss": "它们的",
+                  "lemma": "their",
+                  "surface": "their"
+                },
+                {
+                  "gloss": "统计的",
+                  "lemma": "statistical",
+                  "surface": "statistical"
+                },
+                {
+                  "gloss": "审查",
+                  "lemma": "check",
+                  "surface": "checks"
+                }
+              ],
+              "C": [
+                {
+                  "gloss": "很少的",
+                  "lemma": "few",
+                  "surface": "few"
+                },
+                {
+                  "gloss": "期刊",
+                  "lemma": "journal",
+                  "surface": "journals"
+                },
+                {
+                  "gloss": "被",
+                  "lemma": "be",
+                  "surface": "are"
+                },
+                {
+                  "gloss": "指责",
+                  "lemma": "blame",
+                  "surface": "blamed"
+                },
+                {
+                  "gloss": "因为",
+                  "lemma": "for",
+                  "surface": "for"
+                },
+                {
+                  "gloss": "错误",
+                  "lemma": "mistake",
+                  "surface": "mistakes"
+                },
+                {
+                  "gloss": "在",
+                  "lemma": "in",
+                  "surface": "in"
+                },
+                {
+                  "gloss": "数据",
+                  "lemma": "data",
+                  "surface": "data"
+                },
+                {
+                  "gloss": "分析",
+                  "lemma": "analysis",
+                  "surface": "analysis"
+                }
+              ],
+              "D": [
+                {
+                  "gloss": "缺乏",
+                  "lemma": "lack",
+                  "surface": "lack"
+                },
+                {
+                  "gloss": "的",
+                  "lemma": "of",
+                  "surface": "of"
+                },
+                {
+                  "gloss": "数据",
+                  "lemma": "data",
+                  "surface": "data"
+                },
+                {
+                  "gloss": "分析",
+                  "lemma": "analysis",
+                  "surface": "analysis"
+                },
+                {
+                  "gloss": "是",
+                  "lemma": "be",
+                  "surface": "is"
+                },
+                {
+                  "gloss": "常见的",
+                  "lemma": "common",
+                  "surface": "common"
+                },
+                {
+                  "gloss": "在",
+                  "lemma": "in",
+                  "surface": "in"
+                },
+                {
+                  "gloss": "研究",
+                  "lemma": "research",
+                  "surface": "research"
+                },
+                {
+                  "gloss": "项目",
+                  "lemma": "project",
+                  "surface": "projects"
+                }
+              ]
+            },
+            "options": [
+              "A) Science intends to simplify its peer-review process.",
+              "B) journals are strengthening their statistical checks.",
+              "C) few journals are blamed for mistakes in data analysis.",
+              "D) lack of data analysis is common in research projects."
+            ],
+            "qid": 2015011031,
+            "text": "It can be learned from Paragraph 1 that ____",
+            "text_tokens": [
+              {
+                "gloss": "它",
+                "lemma": "it",
+                "surface": "It"
+              },
+              {
+                "gloss": "能够",
+                "lemma": "can",
+                "surface": "can"
+              },
+              {
+                "gloss": "是",
+                "lemma": "be",
+                "surface": "be"
+              },
+              {
+                "gloss": "得知",
+                "lemma": "learn",
+                "surface": "learned"
+              },
+              {
+                "gloss": "从",
+                "lemma": "from",
+                "surface": "from"
+              },
+              {
+                "gloss": "段落",
+                "lemma": "paragraph",
+                "surface": "Paragraph"
+              },
+              {
+                "gloss": "表明",
+                "lemma": "that",
+                "surface": "that"
+              }
+            ]
+          },
+          {
+            "ai_analysis_ids": [
+              2015013110
+            ],
+            "ai_analysis_text": "根据上下文，'flagged up' 表示将手稿标记出来以便进一步审查，与 'marked' 含义最接近。\nA. 虽然 'found' 表示发现，但在此语境中不符合 'flagged up' 的含义。\nB. 'marked' 意为标记，与 'flagged up' 在此处的语境最为接近，因此正确。\nC. 'revised' 表示修订，与上下文中提到的标记以便审查的意思不符。\nD. 'stored' 表示存储，与语境无关。",
+            "ai_analysis_words": [
+              "flagged up",
+              "additional scrutiny"
+            ],
+            "analysis_sentence_id": 2015013110,
+            "answer": "B",
+            "id": 32,
+            "option_tokens": {
+              "A": [
+                {
+                  "gloss": "发现",
+                  "lemma": "find",
+                  "surface": "found"
+                }
+              ],
+              "B": [
+                {
+                  "gloss": "标记",
+                  "lemma": "mark",
+                  "surface": "marked"
+                }
+              ],
+              "C": [
+                {
+                  "gloss": "修订",
+                  "lemma": "revise",
+                  "surface": "revised"
+                }
+              ],
+              "D": [
+                {
+                  "gloss": "存储",
+                  "lemma": "store",
+                  "surface": "stored"
+                }
+              ]
+            },
+            "options": [
+              "A) found.",
+              "B) marked.",
+              "C) revised.",
+              "D) stored."
+            ],
+            "qid": 2015011032,
+            "text": "The phrase “flagged up” (Para. 2) is the closest in meaning to ____",
+            "text_tokens": [
+              {
+                "gloss": "该",
+                "lemma": "the",
+                "surface": "The"
+              },
+              {
+                "gloss": "短语",
+                "lemma": "phrase",
+                "surface": "phrase"
+              },
+              {
+                "gloss": "标记",
+                "lemma": "flag",
+                "surface": "flagged"
+              },
+              {
+                "gloss": "起来",
+                "lemma": "up",
+                "surface": "up"
+              },
+              {
+                "gloss": "段落",
+                "lemma": "paragraph",
+                "surface": "Para."
+              },
+              {
+                "gloss": "是",
+                "lemma": "be",
+                "surface": "is"
+              },
+              {
+                "gloss": "最",
+                "lemma": "the",
+                "surface": "the"
+              },
+              {
+                "gloss": "接近的",
+                "lemma": "close",
+                "surface": "closest"
+              },
+              {
+                "gloss": "在",
+                "lemma": "in",
+                "surface": "in"
+              },
+              {
+                "gloss": "意思",
+                "lemma": "meaning",
+                "surface": "meaning"
+              },
+              {
+                "gloss": "为",
+                "lemma": "to",
+                "surface": "to"
+              }
+            ]
+          },
+          {
+            "ai_analysis_ids": [
+              2015013115
+            ],
+            "ai_analysis_text": "根据 Giovanni Parmigiani 的观点，SBoRE 的建立具有创新性和持久影响力，并可能成为其他期刊的榜样。\nA. 文中没有提到 SBoRE 对同行构成威胁。\nB. 文中没有提到 SBoRE 遭遇强烈反对。\nC. 文中没有提到 SBoRE 的建立会增加《科学》杂志的发行量。\nD. 文中明确提到 SBoRE 的建立可能成为其他期刊效仿的榜样，因此正确。",
+            "ai_analysis_words": [
+              "lasting impact",
+              "model their approach"
+            ],
+            "analysis_sentence_id": 2015013115,
+            "answer": "D",
+            "id": 33,
+            "option_tokens": {
+              "A": [
+                {
+                  "gloss": "构成",
+                  "lemma": "pose",
+                  "surface": "pose"
+                },
+                {
+                  "gloss": "一个",
+                  "lemma": "a",
+                  "surface": "a"
+                },
+                {
+                  "gloss": "威胁",
+                  "lemma": "threat",
+                  "surface": "threat"
+                },
+                {
+                  "gloss": "对",
+                  "lemma": "to",
+                  "surface": "to"
+                },
+                {
+                  "gloss": "所有",
+                  "lemma": "all",
+                  "surface": "all"
+                },
+                {
+                  "gloss": "它的",
+                  "lemma": "its",
+                  "surface": "its"
+                },
+                {
+                  "gloss": "同行",
+                  "lemma": "peer",
+                  "surface": "peers"
+                }
+              ],
+              "B": [
+                {
+                  "gloss": "遭遇",
+                  "lemma": "meet",
+                  "surface": "meet"
+                },
+                {
+                  "gloss": "与",
+                  "lemma": "with",
+                  "surface": "with"
+                },
+                {
+                  "gloss": "强烈的",
+                  "lemma": "strong",
+                  "surface": "strong"
+                },
+                {
+                  "gloss": "反对",
+                  "lemma": "opposition",
+                  "surface": "opposition"
+                }
+              ],
+              "C": [
+                {
+                  "gloss": "增加",
+                  "lemma": "increase",
+                  "surface": "increase"
+                },
+                {
+                  "gloss": "《科学》杂志的",
+                  "lemma": "science",
+                  "surface": "Science’s"
+                },
+                {
+                  "gloss": "发行量",
+                  "lemma": "circulation",
+                  "surface": "circulation"
+                }
+              ],
+              "D": [
+                {
+                  "gloss": "树立",
+                  "lemma": "set",
+                  "surface": "set"
+                },
+                {
+                  "gloss": "一个",
+                  "lemma": "an",
+                  "surface": "an"
+                },
+                {
+                  "gloss": "榜样",
+                  "lemma": "example",
+                  "surface": "example"
+                },
+                {
+                  "gloss": "为",
+                  "lemma": "for",
+                  "surface": "for"
+                },
+                {
+                  "gloss": "其他的",
+                  "lemma": "other",
+                  "surface": "other"
+                },
+                {
+                  "gloss": "期刊",
+                  "lemma": "journal",
+                  "surface": "journals"
+                }
+              ]
+            },
+            "options": [
+              "A) pose a threat to all its peers.",
+              "B) meet with strong opposition.",
+              "C) increase Science’s circulation.",
+              "D) set an example for other journals."
+            ],
+            "qid": 2015011033,
+            "text": "Giovanni Parmigiani believes that the establishment of the SBoRE may ____",
+            "text_tokens": [
+              {
+                "gloss": "乔瓦尼",
+                "lemma": "giovanni",
+                "surface": "Giovanni"
+              },
+              {
+                "gloss": "帕尔米贾尼",
+                "lemma": "parmigiani",
+                "surface": "Parmigiani"
+              },
+              {
+                "gloss": "认为",
+                "lemma": "believe",
+                "surface": "believes"
+              },
+              {
+                "gloss": "认为",
+                "lemma": "that",
+                "surface": "that"
+              },
+              {
+                "gloss": "该",
+                "lemma": "the",
+                "surface": "the"
+              },
+              {
+                "gloss": "建立",
+                "lemma": "establishment",
+                "surface": "establishment"
+              },
+              {
+                "gloss": "的",
+                "lemma": "of",
+                "surface": "of"
+              },
+              {
+                "gloss": "该",
+                "lemma": "the",
+                "surface": "the"
+              },
+              {
+                "gloss": "SBoRE",
+                "lemma": "sbore",
+                "surface": "SBoRE"
+              },
+              {
+                "gloss": "可能",
+                "lemma": "may",
+                "surface": "may"
+              }
+            ]
+          },
+          {
+            "ai_analysis_ids": [
+              2015013121
+            ],
+            "ai_analysis_text": "David Vaux 认为《科学》的做法有一定价值，但也指出其依赖编辑识别需要审查的论文，这表明还有改进空间。\nA. 文中没有提到《科学》的做法增加了研究者的工作量。\nB. 文中没有提到《科学》的做法削弱了审稿人的作用。\nC. David Vaux 提到《科学》的做法有一定价值，但也指出其依赖编辑识别论文的弱点，表明还有改进空间，因此正确。\nD. 文中没有提到《科学》的做法会失败。",
+            "ai_analysis_words": [
+              "some merit",
+              "weakness",
+              "papers that need scrutiny"
+            ],
+            "analysis_sentence_id": 2015013121,
+            "answer": "C",
+            "id": 34,
+            "option_tokens": {
+              "A": [
+                {
+                  "gloss": "增加",
+                  "lemma": "add",
+                  "surface": "adds"
+                },
+                {
+                  "gloss": "对",
+                  "lemma": "to",
+                  "surface": "to"
+                },
+                {
+                  "gloss": "研究人员",
+                  "lemma": "researcher",
+                  "surface": "researchers"
+                },
+                {
+                  "gloss": "工作量",
+                  "lemma": "workload",
+                  "surface": "workload"
+                }
+              ],
+              "B": [
+                {
+                  "gloss": "削弱",
+                  "lemma": "diminish",
+                  "surface": "diminishes"
+                },
+                {
+                  "gloss": "这个",
+                  "lemma": "the",
+                  "surface": "the"
+                },
+                {
+                  "gloss": "作用",
+                  "lemma": "role",
+                  "surface": "role"
+                },
+                {
+                  "gloss": "的",
+                  "lemma": "of",
+                  "surface": "of"
+                },
+                {
+                  "gloss": "审稿人",
+                  "lemma": "reviewer",
+                  "surface": "reviewers"
+                }
+              ],
+              "C": [
+                {
+                  "gloss": "有",
+                  "lemma": "have",
+                  "surface": "has"
+                },
+                {
+                  "gloss": "空间",
+                  "lemma": "room",
+                  "surface": "room"
+                },
+                {
+                  "gloss": "用于",
+                  "lemma": "for",
+                  "surface": "for"
+                },
+                {
+                  "gloss": "进一步的",
+                  "lemma": "further",
+                  "surface": "further"
+                },
+                {
+                  "gloss": "改进",
+                  "lemma": "improvement",
+                  "surface": "improvement"
+                }
+              ],
+              "D": [
+                {
+                  "gloss": "是",
+                  "lemma": "be",
+                  "surface": "is"
+                },
+                {
+                  "gloss": "将",
+                  "lemma": "to",
+                  "surface": "to"
+                },
+                {
+                  "gloss": "失败",
+                  "lemma": "fail",
+                  "surface": "fail"
+                },
+                {
+                  "gloss": "在",
+                  "lemma": "in",
+                  "surface": "in"
+                },
+                {
+                  "gloss": "这个",
+                  "lemma": "the",
+                  "surface": "the"
+                },
+                {
+                  "gloss": "可预见的",
+                  "lemma": "foreseeable",
+                  "surface": "foreseeable"
+                },
+                {
+                  "gloss": "未来",
+                  "lemma": "future",
+                  "surface": "future"
+                }
+              ]
+            },
+            "options": [
+              "A) adds to researchers’ workload.",
+              "B) diminishes the role of reviewers.",
+              "C) has room for further improvement.",
+              "D) is to fail in the foreseeable future."
+            ],
+            "qid": 2015011034,
+            "text": "David Vaux holds that what Science is doing now ____",
+            "text_tokens": [
+              {
+                "gloss": "大卫",
+                "lemma": "david",
+                "surface": "David"
+              },
+              {
+                "gloss": "沃克斯",
+                "lemma": "vaux",
+                "surface": "Vaux"
+              },
+              {
+                "gloss": "认为",
+                "lemma": "hold",
+                "surface": "holds"
+              },
+              {
+                "gloss": "认为",
+                "lemma": "that",
+                "surface": "that"
+              },
+              {
+                "gloss": "什么",
+                "lemma": "what",
+                "surface": "what"
+              },
+              {
+                "gloss": "《科学》杂志",
+                "lemma": "science",
+                "surface": "Science"
+              },
+              {
+                "gloss": "正在",
+                "lemma": "be",
+                "surface": "is"
+              },
+              {
+                "gloss": "做",
+                "lemma": "do",
+                "surface": "doing"
+              },
+              {
+                "gloss": "现在",
+                "lemma": "now",
+                "surface": "now"
+              }
+            ]
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "文章主要讨论《科学》杂志加强统计检查的措施及其对学术界的影响，因此标题应与此主题相关。\nA. 标题直接点明《科学》加入统计检查的主题，与文章内容高度契合，因此正确。\nB. 虽然文章提到统计学家的作用，但并非文章的主要主题。\nC. 数据分析是文章的一个部分，但标题未能全面反映文章的核心内容。\nD. 标题暗示统计学家回归，但文章并未提到这一点。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "A",
+            "id": 35,
+            "option_tokens": {
+              "A": [
+                {
+                  "gloss": "《科学》",
+                  "lemma": "science",
+                  "surface": "Science"
+                },
+                {
+                  "gloss": "加入",
+                  "lemma": "join",
+                  "surface": "Joins"
+                },
+                {
+                  "gloss": "推动",
+                  "lemma": "push",
+                  "surface": "Push"
+                },
+                {
+                  "gloss": "去",
+                  "lemma": "to",
+                  "surface": "to"
+                },
+                {
+                  "gloss": "筛查",
+                  "lemma": "screen",
+                  "surface": "Screen"
+                },
+                {
+                  "gloss": "统计数据",
+                  "lemma": "statistics",
+                  "surface": "Statistics"
+                },
+                {
+                  "gloss": "在",
+                  "lemma": "in",
+                  "surface": "in"
+                },
+                {
+                  "gloss": "论文",
+                  "lemma": "paper",
+                  "surface": "Papers"
+                }
+              ],
+              "B": [
+                {
+                  "gloss": "专业的",
+                  "lemma": "professional",
+                  "surface": "Professional"
+                },
+                {
+                  "gloss": "统计学家",
+                  "lemma": "statistician",
+                  "surface": "Statisticians"
+                },
+                {
+                  "gloss": "值得",
+                  "lemma": "deserve",
+                  "surface": "Deserve"
+                },
+                {
+                  "gloss": "更多的",
+                  "lemma": "more",
+                  "surface": "More"
+                },
+                {
+                  "gloss": "尊重",
+                  "lemma": "respect",
+                  "surface": "Respect"
+                }
+              ],
+              "C": [
+                {
+                  "gloss": "数据",
+                  "lemma": "data",
+                  "surface": "Data"
+                },
+                {
+                  "gloss": "分析",
+                  "lemma": "analysis",
+                  "surface": "Analysis"
+                },
+                {
+                  "gloss": "找到",
+                  "lemma": "find",
+                  "surface": "Finds"
+                },
+                {
+                  "gloss": "它的",
+                  "lemma": "its",
+                  "surface": "Its"
+                },
+                {
+                  "gloss": "路径",
+                  "lemma": "way",
+                  "surface": "Way"
+                },
+                {
+                  "gloss": "到...之上",
+                  "lemma": "onto",
+                  "surface": "onto"
+                },
+                {
+                  "gloss": "编辑",
+                  "lemma": "editor",
+                  "surface": "Editors"
+                },
+                {
+                  "gloss": "桌面",
+                  "lemma": "desk",
+                  "surface": "Desks"
+                }
+              ],
+              "D": [
+                {
+                  "gloss": "统计学家",
+                  "lemma": "statistician",
+                  "surface": "Statisticians"
+                },
+                {
+                  "gloss": "是",
+                  "lemma": "be",
+                  "surface": "Are"
+                },
+                {
+                  "gloss": "来",
+                  "lemma": "come",
+                  "surface": "Coming"
+                },
+                {
+                  "gloss": "回来",
+                  "lemma": "back",
+                  "surface": "Back"
+                },
+                {
+                  "gloss": "带着",
+                  "lemma": "with",
+                  "surface": "with"
+                },
+                {
+                  "gloss": "科学",
+                  "lemma": "science",
+                  "surface": "Science"
+                }
+              ]
+            },
+            "options": [
+              "A) Science Joins Push to Screen Statistics in Papers.",
+              "B) Professional Statisticians Deserve More Respect.",
+              "C) Data Analysis Finds Its Way onto Editors’ Desks.",
+              "D) Statisticians Are Coming Back with Science."
+            ],
+            "qid": 2015011035,
+            "text": "Which of the following is the best title of the text?",
+            "text_tokens": [
+              {
+                "gloss": "哪一个",
+                "lemma": "which",
+                "surface": "Which"
+              },
+              {
+                "gloss": "中的",
+                "lemma": "of",
+                "surface": "of"
+              },
+              {
+                "gloss": "这些",
+                "lemma": "the",
+                "surface": "the"
+              },
+              {
+                "gloss": "以下的",
+                "lemma": "following",
+                "surface": "following"
+              },
+              {
+                "gloss": "是",
+                "lemma": "be",
+                "surface": "is"
+              },
+              {
+                "gloss": "这个",
+                "lemma": "the",
+                "surface": "the"
+              },
+              {
+                "gloss": "最佳的",
+                "lemma": "good",
+                "surface": "best"
+              },
+              {
+                "gloss": "标题",
+                "lemma": "title",
+                "surface": "title"
+              },
+              {
+                "gloss": "的",
+                "lemma": "of",
+                "surface": "of"
+              },
+              {
+                "gloss": "这个",
+                "lemma": "the",
+                "surface": "the"
+              },
+              {
+                "gloss": "文章",
+                "lemma": "text",
+                "surface": "text"
+              }
+            ]
+          }
+        ],
+        "title": "Text 3"
+      },
+      "directions": "Read the following four texts. Answer the questions below each text by choosing A, B, C or\nD. Mark your answers on the ANSWER SHEET. (10 points for each text)",
+      "exam_info": "2015(1)",
+      "exam_type": "kaoyan",
+      "id": 201501004,
+      "key_words": "sbore science journals review statistical data editors flagged papers research analysis board its journal vaux david says scrutiny statisticians statistics text giovanni impact mcnutt parmigiani peer policy process published reviewers reviewing some up' additional after american answer approach association checks common concern each efforts establishment following found group increase internal lasting marked' may merit mistakes model more most need other professional publish researchers role scientific similar strong through weakness widespread according adding adds advisory agreed alarmingly all analyse annals announced",
+      "kid": 18,
+      "part": "Part III",
+      "section": "Sec C",
+      "task_key": "2015(1)_Section II_Part A_Text3",
+      "type": "Reading Comprehension"
+    }
+  ]
+}

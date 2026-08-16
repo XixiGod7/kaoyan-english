@@ -1,0 +1,3365 @@
+{
+  "sentences": [
+    {
+      "cn_text": "如果你正前往英国最大图书零售商沃特斯通书店最近的分店，寻找萨塞克斯公爵夫人的新儿童读物《长椅》，可能需要做好四处搜寻的准备；比尔·克林顿和詹姆斯·帕特森合著的新惊悚小说《总统的女儿》情况可能也是如此。",
+      "en_text": "If you’re heading for your nearest branch of Waterstones, the biggest book retailer in the UK, in search of the Duchess of Sussex’s new children’s book The Bench, you might have to be prepared to hunt around a bit; the same may be true of The President’s Daughter, the new thriller by Bill Clinton and James Patterson.",
+      "id": 2023013096,
+      "order_seq": "content_1_1",
+      "task_id": 202301004,
+      "tokens": [
+        {
+          "gloss": "如果",
+          "lemma": "if",
+          "surface": "if"
+        },
+        {
+          "gloss": "你",
+          "lemma": "you",
+          "surface": "you"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "are"
+        },
+        {
+          "gloss": "前往",
+          "lemma": "head",
+          "surface": "heading"
+        },
+        {
+          "gloss": "为了",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "你的",
+          "lemma": "your",
+          "surface": "your"
+        },
+        {
+          "gloss": "最近的",
+          "lemma": "near",
+          "surface": "nearest"
+        },
+        {
+          "gloss": "分店",
+          "lemma": "branch",
+          "surface": "branch"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "沃特斯通书店",
+          "lemma": "waterstones",
+          "surface": "Waterstones"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "最大的",
+          "lemma": "big",
+          "surface": "biggest"
+        },
+        {
+          "gloss": "书",
+          "lemma": "book",
+          "surface": "book"
+        },
+        {
+          "gloss": "零售商",
+          "lemma": "retailer",
+          "surface": "retailer"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "英国",
+          "lemma": "uk",
+          "surface": "UK"
+        },
+        {
+          "gloss": "为了",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "寻找",
+          "lemma": "search",
+          "surface": "search"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "公爵夫人",
+          "lemma": "duchess",
+          "surface": "Duchess"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "萨塞克斯",
+          "lemma": "sussex",
+          "surface": "Sussex’s"
+        },
+        {
+          "gloss": "新的",
+          "lemma": "new",
+          "surface": "new"
+        },
+        {
+          "gloss": "儿童的",
+          "lemma": "children",
+          "surface": "children’s"
+        },
+        {
+          "gloss": "书",
+          "lemma": "book",
+          "surface": "book"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "The"
+        },
+        {
+          "gloss": "长椅",
+          "lemma": "bench",
+          "surface": "Bench"
+        },
+        {
+          "gloss": "你",
+          "lemma": "you",
+          "surface": "you"
+        },
+        {
+          "gloss": "可能",
+          "lemma": "might",
+          "surface": "might"
+        },
+        {
+          "gloss": "需要",
+          "lemma": "have",
+          "surface": "have"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "准备",
+          "lemma": "be",
+          "surface": "be"
+        },
+        {
+          "gloss": "准备好",
+          "lemma": "prepare",
+          "surface": "prepared"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "寻找",
+          "lemma": "hunt",
+          "surface": "hunt"
+        },
+        {
+          "gloss": "四处",
+          "lemma": "around",
+          "surface": "around"
+        },
+        {
+          "gloss": "一些",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "一点",
+          "lemma": "bit",
+          "surface": "bit"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "相同的",
+          "lemma": "same",
+          "surface": "same"
+        },
+        {
+          "gloss": "可能",
+          "lemma": "may",
+          "surface": "may"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "be"
+        },
+        {
+          "gloss": "真实的",
+          "lemma": "true",
+          "surface": "true"
+        },
+        {
+          "gloss": "关于",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "The"
+        },
+        {
+          "gloss": "总统的",
+          "lemma": "president",
+          "surface": "President’s"
+        },
+        {
+          "gloss": "女儿",
+          "lemma": "daughter",
+          "surface": "Daughter"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "新的",
+          "lemma": "new",
+          "surface": "new"
+        },
+        {
+          "gloss": "惊悚小说",
+          "lemma": "thriller",
+          "surface": "thriller"
+        },
+        {
+          "gloss": "由",
+          "lemma": "by",
+          "surface": "by"
+        },
+        {
+          "gloss": "比尔",
+          "lemma": "bill",
+          "surface": "Bill"
+        },
+        {
+          "gloss": "克林顿",
+          "lemma": "clinton",
+          "surface": "Clinton"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "詹姆斯",
+          "lemma": "james",
+          "surface": "James"
+        },
+        {
+          "gloss": "帕特森",
+          "lemma": "patterson",
+          "surface": "Patterson"
+        }
+      ]
+    },
+    {
+      "cn_text": "这两本书均将于下周由企鹅兰登书屋（PRH）出版，该公司目前正与沃特斯通书店陷入对峙。",
+      "en_text": "Both of these books are published next week by Penguin Random House (PRH), a company currently involved in a stand-off with Waterstones.",
+      "id": 2023013097,
+      "order_seq": "content_1_2",
+      "task_id": 202301004,
+      "tokens": [
+        {
+          "gloss": "两者",
+          "lemma": "both",
+          "surface": "both"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "这些",
+          "lemma": "these",
+          "surface": "these"
+        },
+        {
+          "gloss": "书",
+          "lemma": "book",
+          "surface": "books"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "are"
+        },
+        {
+          "gloss": "出版",
+          "lemma": "publish",
+          "surface": "published"
+        },
+        {
+          "gloss": "下一个",
+          "lemma": "next",
+          "surface": "next"
+        },
+        {
+          "gloss": "周",
+          "lemma": "week",
+          "surface": "week"
+        },
+        {
+          "gloss": "由",
+          "lemma": "by",
+          "surface": "by"
+        },
+        {
+          "gloss": "企鹅",
+          "lemma": "penguin",
+          "surface": "Penguin"
+        },
+        {
+          "gloss": "兰登",
+          "lemma": "random",
+          "surface": "Random"
+        },
+        {
+          "gloss": "书屋",
+          "lemma": "house",
+          "surface": "House"
+        },
+        {
+          "gloss": "企鹅兰登书屋",
+          "lemma": "prh",
+          "surface": "PRH"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "公司",
+          "lemma": "company",
+          "surface": "company"
+        },
+        {
+          "gloss": "目前",
+          "lemma": "currently",
+          "surface": "currently"
+        },
+        {
+          "gloss": "涉及",
+          "lemma": "involve",
+          "surface": "involved"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "对峙",
+          "lemma": "stand",
+          "surface": "stand"
+        },
+        {
+          "gloss": "结束",
+          "lemma": "off",
+          "surface": "off"
+        },
+        {
+          "gloss": "与",
+          "lemma": "with",
+          "surface": "with"
+        },
+        {
+          "gloss": "沃特斯通书店",
+          "lemma": "waterstones",
+          "surface": "Waterstones"
+        }
+      ]
+    },
+    {
+      "cn_text": "问题始于去年年底，当时企鹅兰登书屋证实已对沃特斯通书店实施了「非常高水平」的信用额度限制。",
+      "en_text": "The problem began late last year, when PRH confirmed that it had introduced a credit limit with Waterstones “at a very significant level”.",
+      "id": 2023013098,
+      "order_seq": "content_2_1",
+      "task_id": 202301004,
+      "tokens": [
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "The"
+        },
+        {
+          "gloss": "问题",
+          "lemma": "problem",
+          "surface": "problem"
+        },
+        {
+          "gloss": "开始",
+          "lemma": "begin",
+          "surface": "began"
+        },
+        {
+          "gloss": "晚的",
+          "lemma": "late",
+          "surface": "late"
+        },
+        {
+          "gloss": "上一个",
+          "lemma": "last",
+          "surface": "last"
+        },
+        {
+          "gloss": "年",
+          "lemma": "year",
+          "surface": "year"
+        },
+        {
+          "gloss": "当...时",
+          "lemma": "when",
+          "surface": "when"
+        },
+        {
+          "gloss": "企鹅兰登书屋",
+          "lemma": "prh",
+          "surface": "PRH"
+        },
+        {
+          "gloss": "证实",
+          "lemma": "confirm",
+          "surface": "confirmed"
+        },
+        {
+          "gloss": "表明",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "it"
+        },
+        {
+          "gloss": "已经",
+          "lemma": "have",
+          "surface": "had"
+        },
+        {
+          "gloss": "引入",
+          "lemma": "introduce",
+          "surface": "introduced"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "信用",
+          "lemma": "credit",
+          "surface": "credit"
+        },
+        {
+          "gloss": "额度",
+          "lemma": "limit",
+          "surface": "limit"
+        },
+        {
+          "gloss": "与",
+          "lemma": "with",
+          "surface": "with"
+        },
+        {
+          "gloss": "沃特斯通书店",
+          "lemma": "waterstones",
+          "surface": "Waterstones"
+        },
+        {
+          "gloss": "在",
+          "lemma": "at",
+          "surface": "at"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "非常",
+          "lemma": "very",
+          "surface": "very"
+        },
+        {
+          "gloss": "重要的",
+          "lemma": "significant",
+          "surface": "significant"
+        },
+        {
+          "gloss": "水平",
+          "lemma": "level",
+          "surface": "level"
+        }
+      ]
+    },
+    {
+      "cn_text": "行业杂志《书商》报道称，沃特斯通书店各分店经理接到指示，将企鹅兰登书屋的图书从书桌、展示区和橱窗等显眼位置撤下，「悄悄地将它们归入相应的分类区域」。",
+      "en_text": "The trade magazine The Bookseller reported that Waterstones branch managers were being told to remove PRH books from prominent areas such as tables, display spaces and windows, and were “quietly retiring them to their relevant sections”.",
+      "id": 2023013099,
+      "order_seq": "content_2_2",
+      "task_id": 202301004,
+      "tokens": [
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "The"
+        },
+        {
+          "gloss": "贸易",
+          "lemma": "trade",
+          "surface": "trade"
+        },
+        {
+          "gloss": "杂志",
+          "lemma": "magazine",
+          "surface": "magazine"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "The"
+        },
+        {
+          "gloss": "《书商》",
+          "lemma": "bookseller",
+          "surface": "Bookseller"
+        },
+        {
+          "gloss": "报道",
+          "lemma": "report",
+          "surface": "reported"
+        },
+        {
+          "gloss": "表明",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "沃特斯通书店",
+          "lemma": "waterstones",
+          "surface": "Waterstones"
+        },
+        {
+          "gloss": "分店",
+          "lemma": "branch",
+          "surface": "branch"
+        },
+        {
+          "gloss": "经理",
+          "lemma": "manager",
+          "surface": "managers"
+        },
+        {
+          "gloss": "被",
+          "lemma": "be",
+          "surface": "were"
+        },
+        {
+          "gloss": "正在",
+          "lemma": "be",
+          "surface": "being"
+        },
+        {
+          "gloss": "告知",
+          "lemma": "tell",
+          "surface": "told"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "移走",
+          "lemma": "remove",
+          "surface": "remove"
+        },
+        {
+          "gloss": "企鹅兰登书屋",
+          "lemma": "prh",
+          "surface": "PRH"
+        },
+        {
+          "gloss": "书籍",
+          "lemma": "book",
+          "surface": "books"
+        },
+        {
+          "gloss": "从",
+          "lemma": "from",
+          "surface": "from"
+        },
+        {
+          "gloss": "显眼的",
+          "lemma": "prominent",
+          "surface": "prominent"
+        },
+        {
+          "gloss": "区域",
+          "lemma": "area",
+          "surface": "areas"
+        },
+        {
+          "gloss": "例如",
+          "lemma": "such",
+          "surface": "such"
+        },
+        {
+          "gloss": "如同",
+          "lemma": "as",
+          "surface": "as"
+        },
+        {
+          "gloss": "桌子",
+          "lemma": "table",
+          "surface": "tables"
+        },
+        {
+          "gloss": "展示",
+          "lemma": "display",
+          "surface": "display"
+        },
+        {
+          "gloss": "空间",
+          "lemma": "space",
+          "surface": "spaces"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "橱窗",
+          "lemma": "window",
+          "surface": "windows"
+        },
+        {
+          "gloss": "并且",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "被",
+          "lemma": "be",
+          "surface": "were"
+        },
+        {
+          "gloss": "悄悄地",
+          "lemma": "quietly",
+          "surface": "quietly"
+        },
+        {
+          "gloss": "移至",
+          "lemma": "retire",
+          "surface": "retiring"
+        },
+        {
+          "gloss": "它们",
+          "lemma": "they",
+          "surface": "them"
+        },
+        {
+          "gloss": "到",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "它们的",
+          "lemma": "their",
+          "surface": "their"
+        },
+        {
+          "gloss": "相关的",
+          "lemma": "relevant",
+          "surface": "relevant"
+        },
+        {
+          "gloss": "分类区",
+          "lemma": "section",
+          "surface": "sections"
+        }
+      ]
+    },
+    {
+      "cn_text": "企鹅兰登书屋拒绝就此事发表评论，但沃特斯通书店的一位发言人告诉我：「沃特斯通书店目前正在企鹅兰登书屋缩减的信用条件下运营，该出版商是英国唯一对我们经营能力施加限制的出版商。」",
+      "en_text": "PRH declined to comment on the issue, but a spokesperson for Waterstones told me: “Waterstones are currently operating with reduced credit terms from PRH, the only publisher in the UK to place any limitations on our ability to trade.",
+      "id": 2023013100,
+      "order_seq": "content_3_1",
+      "task_id": 202301004,
+      "tokens": [
+        {
+          "gloss": "企鹅兰登书屋",
+          "lemma": "prh",
+          "surface": "PRH"
+        },
+        {
+          "gloss": "拒绝",
+          "lemma": "decline",
+          "surface": "declined"
+        },
+        {
+          "gloss": "对",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "发表评论",
+          "lemma": "comment",
+          "surface": "comment"
+        },
+        {
+          "gloss": "关于",
+          "lemma": "on",
+          "surface": "on"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "问题",
+          "lemma": "issue",
+          "surface": "issue"
+        },
+        {
+          "gloss": "但是",
+          "lemma": "but",
+          "surface": "but"
+        },
+        {
+          "gloss": "一位",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "发言人",
+          "lemma": "spokesperson",
+          "surface": "spokesperson"
+        },
+        {
+          "gloss": "代表",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "Waterstones书店",
+          "lemma": "waterstones",
+          "surface": "Waterstones"
+        },
+        {
+          "gloss": "告诉",
+          "lemma": "tell",
+          "surface": "told"
+        },
+        {
+          "gloss": "我",
+          "lemma": "i",
+          "surface": "me"
+        },
+        {
+          "gloss": "Waterstones书店",
+          "lemma": "waterstones",
+          "surface": "Waterstones"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "are"
+        },
+        {
+          "gloss": "目前",
+          "lemma": "currently",
+          "surface": "currently"
+        },
+        {
+          "gloss": "运作",
+          "lemma": "operate",
+          "surface": "operating"
+        },
+        {
+          "gloss": "采用",
+          "lemma": "with",
+          "surface": "with"
+        },
+        {
+          "gloss": "减少的",
+          "lemma": "reduce",
+          "surface": "reduced"
+        },
+        {
+          "gloss": "信用",
+          "lemma": "credit",
+          "surface": "credit"
+        },
+        {
+          "gloss": "条款",
+          "lemma": "term",
+          "surface": "terms"
+        },
+        {
+          "gloss": "来自",
+          "lemma": "from",
+          "surface": "from"
+        },
+        {
+          "gloss": "企鹅兰登书屋",
+          "lemma": "prh",
+          "surface": "PRH"
+        },
+        {
+          "gloss": "唯一的",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "唯一的",
+          "lemma": "only",
+          "surface": "only"
+        },
+        {
+          "gloss": "出版商",
+          "lemma": "publisher",
+          "surface": "publisher"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "英国",
+          "lemma": "uk",
+          "surface": "UK"
+        },
+        {
+          "gloss": "对",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "施加",
+          "lemma": "place",
+          "surface": "place"
+        },
+        {
+          "gloss": "任何",
+          "lemma": "any",
+          "surface": "any"
+        },
+        {
+          "gloss": "限制",
+          "lemma": "limitation",
+          "surface": "limitations"
+        },
+        {
+          "gloss": "对",
+          "lemma": "on",
+          "surface": "on"
+        },
+        {
+          "gloss": "我们的",
+          "lemma": "our",
+          "surface": "our"
+        },
+        {
+          "gloss": "能力",
+          "lemma": "ability",
+          "surface": "ability"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "交易",
+          "lemma": "trade",
+          "surface": "trade"
+        }
+      ]
+    },
+    {
+      "cn_text": "「我们并未抵制企鹅兰登书屋的图书，但我们正在竭尽全力确保尽管整体库存水平降低，顾客仍能获得良好的供应。」「我们希望随着门店重新开业，正常状态能够恢复，我们也能够进行适当的采购。」",
+      "en_text": "We are not boycotting PRH titles but we are doing our utmost to ensure that availability for customers remains good despite the lower overall levels of stock.” “We are hopeful with our shops now open again that normality will return and that we will be allowed to buy appropriately.",
+      "id": 2023013101,
+      "order_seq": "content_3_2",
+      "task_id": 202301004,
+      "tokens": [
+        {
+          "gloss": "我们",
+          "lemma": "we",
+          "surface": "We"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "are"
+        },
+        {
+          "gloss": "不",
+          "lemma": "not",
+          "surface": "not"
+        },
+        {
+          "gloss": "抵制",
+          "lemma": "boycott",
+          "surface": "boycotting"
+        },
+        {
+          "gloss": "企鹅兰登书屋",
+          "lemma": "prh",
+          "surface": "PRH"
+        },
+        {
+          "gloss": "书籍",
+          "lemma": "title",
+          "surface": "titles"
+        },
+        {
+          "gloss": "但是",
+          "lemma": "but",
+          "surface": "but"
+        },
+        {
+          "gloss": "我们",
+          "lemma": "we",
+          "surface": "we"
+        },
+        {
+          "gloss": "正在",
+          "lemma": "be",
+          "surface": "are"
+        },
+        {
+          "gloss": "做",
+          "lemma": "do",
+          "surface": "doing"
+        },
+        {
+          "gloss": "我们的",
+          "lemma": "our",
+          "surface": "our"
+        },
+        {
+          "gloss": "最大努力",
+          "lemma": "utmost",
+          "surface": "utmost"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "确保",
+          "lemma": "ensure",
+          "surface": "ensure"
+        },
+        {
+          "gloss": "以便",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "供应",
+          "lemma": "availability",
+          "surface": "availability"
+        },
+        {
+          "gloss": "为",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "顾客",
+          "lemma": "customer",
+          "surface": "customers"
+        },
+        {
+          "gloss": "保持",
+          "lemma": "remain",
+          "surface": "remains"
+        },
+        {
+          "gloss": "良好的",
+          "lemma": "good",
+          "surface": "good"
+        },
+        {
+          "gloss": "尽管",
+          "lemma": "despite",
+          "surface": "despite"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "较低的",
+          "lemma": "lower",
+          "surface": "lower"
+        },
+        {
+          "gloss": "总体的",
+          "lemma": "overall",
+          "surface": "overall"
+        },
+        {
+          "gloss": "水平",
+          "lemma": "level",
+          "surface": "levels"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "库存",
+          "lemma": "stock",
+          "surface": "stock"
+        },
+        {
+          "gloss": "我们",
+          "lemma": "we",
+          "surface": "We"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "are"
+        },
+        {
+          "gloss": "充满希望的",
+          "lemma": "hopeful",
+          "surface": "hopeful"
+        },
+        {
+          "gloss": "随着",
+          "lemma": "with",
+          "surface": "with"
+        },
+        {
+          "gloss": "我们的",
+          "lemma": "our",
+          "surface": "our"
+        },
+        {
+          "gloss": "商店",
+          "lemma": "shop",
+          "surface": "shops"
+        },
+        {
+          "gloss": "现在",
+          "lemma": "now",
+          "surface": "now"
+        },
+        {
+          "gloss": "开放的",
+          "lemma": "open",
+          "surface": "open"
+        },
+        {
+          "gloss": "再次",
+          "lemma": "again",
+          "surface": "again"
+        },
+        {
+          "gloss": "以便",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "正常状态",
+          "lemma": "normality",
+          "surface": "normality"
+        },
+        {
+          "gloss": "将",
+          "lemma": "will",
+          "surface": "will"
+        },
+        {
+          "gloss": "恢复",
+          "lemma": "return",
+          "surface": "return"
+        },
+        {
+          "gloss": "并且",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "以便",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "我们",
+          "lemma": "we",
+          "surface": "we"
+        },
+        {
+          "gloss": "将",
+          "lemma": "will",
+          "surface": "will"
+        },
+        {
+          "gloss": "能够",
+          "lemma": "be",
+          "surface": "be"
+        },
+        {
+          "gloss": "被允许",
+          "lemma": "allow",
+          "surface": "allowed"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "采购",
+          "lemma": "buy",
+          "surface": "buy"
+        },
+        {
+          "gloss": "适当地",
+          "lemma": "appropriately",
+          "surface": "appropriately"
+        }
+      ]
+    },
+    {
+      "cn_text": "当然，我们的门店生意异常火爆。",
+      "en_text": "Certainly, our shops are exceptionally busy.",
+      "id": 2023013102,
+      "order_seq": "content_3_3",
+      "task_id": 202301004,
+      "tokens": [
+        {
+          "gloss": "当然",
+          "lemma": "certainly",
+          "surface": "Certainly"
+        },
+        {
+          "gloss": "我们的",
+          "lemma": "our",
+          "surface": "our"
+        },
+        {
+          "gloss": "商店",
+          "lemma": "shop",
+          "surface": "shops"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "are"
+        },
+        {
+          "gloss": "非常",
+          "lemma": "exceptionally",
+          "surface": "exceptionally"
+        },
+        {
+          "gloss": "忙碌的",
+          "lemma": "busy",
+          "surface": "busy"
+        }
+      ]
+    },
+    {
+      "cn_text": "我们五月本月推荐图书的销量超过了2018年以来任何一个月份。",
+      "en_text": "The sales for our May Books of the Month surpassed any month since 2018.”",
+      "id": 2023013103,
+      "order_seq": "content_3_4",
+      "task_id": 202301004,
+      "tokens": [
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "The"
+        },
+        {
+          "gloss": "销量",
+          "lemma": "sale",
+          "surface": "sales"
+        },
+        {
+          "gloss": "关于",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "我们的",
+          "lemma": "our",
+          "surface": "our"
+        },
+        {
+          "gloss": "五月",
+          "lemma": "may",
+          "surface": "May"
+        },
+        {
+          "gloss": "书籍",
+          "lemma": "book",
+          "surface": "Books"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "月度推荐",
+          "lemma": "month",
+          "surface": "Month"
+        },
+        {
+          "gloss": "超过",
+          "lemma": "surpass",
+          "surface": "surpassed"
+        },
+        {
+          "gloss": "任何",
+          "lemma": "any",
+          "surface": "any"
+        },
+        {
+          "gloss": "月份",
+          "lemma": "month",
+          "surface": "month"
+        },
+        {
+          "gloss": "自从",
+          "lemma": "since",
+          "surface": "since"
+        }
+      ]
+    },
+    {
+      "cn_text": "与此同时，企鹅兰登书屋的作者们成了受损方。",
+      "en_text": "In the meantime, PRH authors have been the losers.",
+      "id": 2023013104,
+      "order_seq": "content_4_1",
+      "task_id": 202301004,
+      "tokens": [
+        {
+          "gloss": "在...期间",
+          "lemma": "in",
+          "surface": "In"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "同时",
+          "lemma": "meantime",
+          "surface": "meantime"
+        },
+        {
+          "gloss": "PRH（企鹅兰登书屋）",
+          "lemma": "prh",
+          "surface": "PRH"
+        },
+        {
+          "gloss": "作者",
+          "lemma": "author",
+          "surface": "authors"
+        },
+        {
+          "gloss": "已经",
+          "lemma": "have",
+          "surface": "have"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "been"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "失败者",
+          "lemma": "loser",
+          "surface": "losers"
+        }
+      ]
+    },
+    {
+      "cn_text": "知名的企鹅兰登书屋作者可能会受到一些影响，但那些通常依靠沃特斯通书店员工热情推广不太知名作家作品的中等层级作者，将会祈祷争端早日结束。",
+      "en_text": "Big-name PRH authors may suffer a bit, but it’s those mid-list authors, who normally rely on Waterstones staff’s passion for promoting books by lesser-known writers, who will be praying for an end to the dispute.",
+      "id": 2023013105,
+      "order_seq": "content_4_2",
+      "task_id": 202301004,
+      "tokens": [
+        {
+          "gloss": "大的",
+          "lemma": "big",
+          "surface": "Big"
+        },
+        {
+          "gloss": "名字",
+          "lemma": "name",
+          "surface": "name"
+        },
+        {
+          "gloss": "PRH（企鹅兰登书屋）",
+          "lemma": "prh",
+          "surface": "PRH"
+        },
+        {
+          "gloss": "作者",
+          "lemma": "author",
+          "surface": "authors"
+        },
+        {
+          "gloss": "可能",
+          "lemma": "may",
+          "surface": "may"
+        },
+        {
+          "gloss": "遭受",
+          "lemma": "suffer",
+          "surface": "suffer"
+        },
+        {
+          "gloss": "一些",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "一点",
+          "lemma": "bit",
+          "surface": "bit"
+        },
+        {
+          "gloss": "但是",
+          "lemma": "but",
+          "surface": "but"
+        },
+        {
+          "gloss": "它是",
+          "lemma": "it",
+          "surface": "it’s"
+        },
+        {
+          "gloss": "那些",
+          "lemma": "those",
+          "surface": "those"
+        },
+        {
+          "gloss": "中间的",
+          "lemma": "mid",
+          "surface": "mid"
+        },
+        {
+          "gloss": "名单",
+          "lemma": "list",
+          "surface": "list"
+        },
+        {
+          "gloss": "作者",
+          "lemma": "author",
+          "surface": "authors"
+        },
+        {
+          "gloss": "谁",
+          "lemma": "who",
+          "surface": "who"
+        },
+        {
+          "gloss": "通常",
+          "lemma": "normally",
+          "surface": "normally"
+        },
+        {
+          "gloss": "依赖",
+          "lemma": "rely",
+          "surface": "rely"
+        },
+        {
+          "gloss": "在...上",
+          "lemma": "on",
+          "surface": "on"
+        },
+        {
+          "gloss": "Waterstones（英国连锁书店）",
+          "lemma": "waterstones",
+          "surface": "Waterstones"
+        },
+        {
+          "gloss": "员工的",
+          "lemma": "staff",
+          "surface": "staff’s"
+        },
+        {
+          "gloss": "热情",
+          "lemma": "passion",
+          "surface": "passion"
+        },
+        {
+          "gloss": "为了",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "推广",
+          "lemma": "promote",
+          "surface": "promoting"
+        },
+        {
+          "gloss": "书籍",
+          "lemma": "book",
+          "surface": "books"
+        },
+        {
+          "gloss": "由",
+          "lemma": "by",
+          "surface": "by"
+        },
+        {
+          "gloss": "较少的",
+          "lemma": "lesser",
+          "surface": "lesser"
+        },
+        {
+          "gloss": "知名的",
+          "lemma": "know",
+          "surface": "known"
+        },
+        {
+          "gloss": "作家",
+          "lemma": "writer",
+          "surface": "writers"
+        },
+        {
+          "gloss": "谁",
+          "lemma": "who",
+          "surface": "who"
+        },
+        {
+          "gloss": "将",
+          "lemma": "will",
+          "surface": "will"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "be"
+        },
+        {
+          "gloss": "祈祷",
+          "lemma": "pray",
+          "surface": "praying"
+        },
+        {
+          "gloss": "为了",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "an",
+          "surface": "an"
+        },
+        {
+          "gloss": "结束",
+          "lemma": "end",
+          "surface": "end"
+        },
+        {
+          "gloss": "到",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "争端",
+          "lemma": "dispute",
+          "surface": "dispute"
+        }
+      ]
+    },
+    {
+      "cn_text": "此事发生之际，作者们已经在担忧企鹅兰登书屋与另一大出版商西蒙与舒斯特拟议合并的后果——英国非联盟出版商数量的减少可能导致竞价战减少、预付款降低以及出版内容趋于同质化。",
+      "en_text": "It comes at a time when authors are already worried about the consequences of the proposed merger between PRH and another big publisher, Simon & Schuster — the reduction in the number of unaligned UK publishers is likely to lead to fewer bidding wars, lower advances, and more conformity in terms of what is published.",
+      "id": 2023013106,
+      "order_seq": "content_5_1",
+      "task_id": 202301004,
+      "tokens": [
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "It"
+        },
+        {
+          "gloss": "发生",
+          "lemma": "come",
+          "surface": "comes"
+        },
+        {
+          "gloss": "在",
+          "lemma": "at",
+          "surface": "at"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "时间",
+          "lemma": "time",
+          "surface": "time"
+        },
+        {
+          "gloss": "当...时",
+          "lemma": "when",
+          "surface": "when"
+        },
+        {
+          "gloss": "作者",
+          "lemma": "author",
+          "surface": "authors"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "are"
+        },
+        {
+          "gloss": "已经",
+          "lemma": "already",
+          "surface": "already"
+        },
+        {
+          "gloss": "担忧",
+          "lemma": "worry",
+          "surface": "worried"
+        },
+        {
+          "gloss": "关于",
+          "lemma": "about",
+          "surface": "about"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "后果",
+          "lemma": "consequence",
+          "surface": "consequences"
+        },
+        {
+          "gloss": "...的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "提议的",
+          "lemma": "propose",
+          "surface": "proposed"
+        },
+        {
+          "gloss": "合并",
+          "lemma": "merger",
+          "surface": "merger"
+        },
+        {
+          "gloss": "在...之间",
+          "lemma": "between",
+          "surface": "between"
+        },
+        {
+          "gloss": "PRH（企鹅兰登书屋）",
+          "lemma": "prh",
+          "surface": "PRH"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "另一个",
+          "lemma": "another",
+          "surface": "another"
+        },
+        {
+          "gloss": "大的",
+          "lemma": "big",
+          "surface": "big"
+        },
+        {
+          "gloss": "出版商",
+          "lemma": "publisher",
+          "surface": "publisher"
+        },
+        {
+          "gloss": "Simon（西蒙）",
+          "lemma": "simon",
+          "surface": "Simon"
+        },
+        {
+          "gloss": "Schuster（舒斯特）",
+          "lemma": "schuster",
+          "surface": "Schuster"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "减少",
+          "lemma": "reduction",
+          "surface": "reduction"
+        },
+        {
+          "gloss": "在...中",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "数量",
+          "lemma": "number",
+          "surface": "number"
+        },
+        {
+          "gloss": "...的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "未结盟的",
+          "lemma": "unaligned",
+          "surface": "unaligned"
+        },
+        {
+          "gloss": "英国",
+          "lemma": "uk",
+          "surface": "UK"
+        },
+        {
+          "gloss": "出版商",
+          "lemma": "publisher",
+          "surface": "publishers"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "可能的",
+          "lemma": "likely",
+          "surface": "likely"
+        },
+        {
+          "gloss": "导致",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "导致",
+          "lemma": "lead",
+          "surface": "lead"
+        },
+        {
+          "gloss": "到",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "更少的",
+          "lemma": "few",
+          "surface": "fewer"
+        },
+        {
+          "gloss": "竞标",
+          "lemma": "bid",
+          "surface": "bidding"
+        },
+        {
+          "gloss": "战争",
+          "lemma": "war",
+          "surface": "wars"
+        },
+        {
+          "gloss": "更低的",
+          "lemma": "low",
+          "surface": "lower"
+        },
+        {
+          "gloss": "预付款",
+          "lemma": "advance",
+          "surface": "advances"
+        },
+        {
+          "gloss": "以及",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "更多的",
+          "lemma": "more",
+          "surface": "more"
+        },
+        {
+          "gloss": "同质化",
+          "lemma": "conformity",
+          "surface": "conformity"
+        },
+        {
+          "gloss": "在...方面",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "方面",
+          "lemma": "term",
+          "surface": "terms"
+        },
+        {
+          "gloss": "...的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "什么",
+          "lemma": "what",
+          "surface": "what"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "出版",
+          "lemma": "publish",
+          "surface": "published"
+        }
+      ]
+    },
+    {
+      "cn_text": "文学经纪人安德鲁·劳尼表示：「这都是权力集中这一更广泛变革的组成部分。」",
+      "en_text": "“This is all part of a wider change towards concentration of power,” says literary agent Andrew Lownie.",
+      "id": 2023013107,
+      "order_seq": "content_6_1",
+      "task_id": 202301004,
+      "tokens": [
+        {
+          "gloss": "这",
+          "lemma": "this",
+          "surface": "This"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "全部",
+          "lemma": "all",
+          "surface": "all"
+        },
+        {
+          "gloss": "部分",
+          "lemma": "part",
+          "surface": "part"
+        },
+        {
+          "gloss": "...的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "更广泛的",
+          "lemma": "wide",
+          "surface": "wider"
+        },
+        {
+          "gloss": "变化",
+          "lemma": "change",
+          "surface": "change"
+        },
+        {
+          "gloss": "朝向",
+          "lemma": "towards",
+          "surface": "towards"
+        },
+        {
+          "gloss": "集中",
+          "lemma": "concentration",
+          "surface": "concentration"
+        },
+        {
+          "gloss": "...的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "权力",
+          "lemma": "power",
+          "surface": "power"
+        },
+        {
+          "gloss": "说",
+          "lemma": "say",
+          "surface": "says"
+        },
+        {
+          "gloss": "文学的",
+          "lemma": "literary",
+          "surface": "literary"
+        },
+        {
+          "gloss": "经纪人",
+          "lemma": "agent",
+          "surface": "agent"
+        },
+        {
+          "gloss": "安德鲁",
+          "lemma": "andrew",
+          "surface": "Andrew"
+        },
+        {
+          "gloss": "劳尼",
+          "lemma": "lownie",
+          "surface": "Lownie"
+        }
+      ]
+    },
+    {
+      "cn_text": "「出版行业在谈论作者和员工的多元化，但它同样需要多样化的途径来传递思想内容、提供选择和呈现不同声音。」",
+      "en_text": "“The publishing industry talks about diversity in terms of authors and staff but it also needs a plurality of ways of delivering intellectual contact, choice and different voices.",
+      "id": 2023013108,
+      "order_seq": "content_6_2",
+      "task_id": 202301004,
+      "tokens": [
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "The"
+        },
+        {
+          "gloss": "出版",
+          "lemma": "publish",
+          "surface": "publishing"
+        },
+        {
+          "gloss": "行业",
+          "lemma": "industry",
+          "surface": "industry"
+        },
+        {
+          "gloss": "谈论",
+          "lemma": "talk",
+          "surface": "talks"
+        },
+        {
+          "gloss": "关于",
+          "lemma": "about",
+          "surface": "about"
+        },
+        {
+          "gloss": "多样性",
+          "lemma": "diversity",
+          "surface": "diversity"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "方面",
+          "lemma": "term",
+          "surface": "terms"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "作者",
+          "lemma": "author",
+          "surface": "authors"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "员工",
+          "lemma": "staff",
+          "surface": "staff"
+        },
+        {
+          "gloss": "但是",
+          "lemma": "but",
+          "surface": "but"
+        },
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "it"
+        },
+        {
+          "gloss": "也",
+          "lemma": "also",
+          "surface": "also"
+        },
+        {
+          "gloss": "需要",
+          "lemma": "need",
+          "surface": "needs"
+        },
+        {
+          "gloss": "一种",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "多样性",
+          "lemma": "plurality",
+          "surface": "plurality"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "方式",
+          "lemma": "way",
+          "surface": "ways"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "传递",
+          "lemma": "deliver",
+          "surface": "delivering"
+        },
+        {
+          "gloss": "知识的",
+          "lemma": "intellectual",
+          "surface": "intellectual"
+        },
+        {
+          "gloss": "内容",
+          "lemma": "contact",
+          "surface": "contact"
+        },
+        {
+          "gloss": "选择",
+          "lemma": "choice",
+          "surface": "choice"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "不同的",
+          "lemma": "different",
+          "surface": "different"
+        },
+        {
+          "gloss": "声音",
+          "lemma": "voice",
+          "surface": "voices"
+        }
+      ]
+    },
+    {
+      "cn_text": "「毕竟，近年来许多最具趣味的图书都出自小型出版商。」",
+      "en_text": "After all, many of the most interesting books in recent years have come from small publishers.”",
+      "id": 2023013109,
+      "order_seq": "content_6_3",
+      "task_id": 202301004,
+      "tokens": [
+        {
+          "gloss": "毕竟",
+          "lemma": "after",
+          "surface": "After"
+        },
+        {
+          "gloss": "所有",
+          "lemma": "all",
+          "surface": "all"
+        },
+        {
+          "gloss": "许多",
+          "lemma": "many",
+          "surface": "many"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "最",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "最",
+          "lemma": "most",
+          "surface": "most"
+        },
+        {
+          "gloss": "有趣的",
+          "lemma": "interesting",
+          "surface": "interesting"
+        },
+        {
+          "gloss": "书籍",
+          "lemma": "book",
+          "surface": "books"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "最近的",
+          "lemma": "recent",
+          "surface": "recent"
+        },
+        {
+          "gloss": "年",
+          "lemma": "year",
+          "surface": "years"
+        },
+        {
+          "gloss": "已经",
+          "lemma": "have",
+          "surface": "have"
+        },
+        {
+          "gloss": "来自",
+          "lemma": "come",
+          "surface": "come"
+        },
+        {
+          "gloss": "从",
+          "lemma": "from",
+          "surface": "from"
+        },
+        {
+          "gloss": "小型的",
+          "lemma": "small",
+          "surface": "small"
+        },
+        {
+          "gloss": "出版商",
+          "lemma": "publisher",
+          "surface": "publishers"
+        }
+      ]
+    },
+    {
+      "cn_text": "我们将拭目以待，这种多元化是否会成为出版商当前为应对所有竞争者而必须做大做强的牺牲品。",
+      "en_text": "We shall see whether that plurality is a casualty of the current need among publishers to be big enough to take on all-comers.",
+      "id": 2023013110,
+      "order_seq": "content_7_1",
+      "task_id": 202301004,
+      "tokens": [
+        {
+          "gloss": "我们",
+          "lemma": "we",
+          "surface": "We"
+        },
+        {
+          "gloss": "将",
+          "lemma": "shall",
+          "surface": "shall"
+        },
+        {
+          "gloss": "看到",
+          "lemma": "see",
+          "surface": "see"
+        },
+        {
+          "gloss": "是否",
+          "lemma": "whether",
+          "surface": "whether"
+        },
+        {
+          "gloss": "这种",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "多样性",
+          "lemma": "plurality",
+          "surface": "plurality"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "牺牲品",
+          "lemma": "casualty",
+          "surface": "casualty"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "当前",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "当前的",
+          "lemma": "current",
+          "surface": "current"
+        },
+        {
+          "gloss": "需要",
+          "lemma": "need",
+          "surface": "need"
+        },
+        {
+          "gloss": "在...之间",
+          "lemma": "among",
+          "surface": "among"
+        },
+        {
+          "gloss": "出版商",
+          "lemma": "publisher",
+          "surface": "publishers"
+        },
+        {
+          "gloss": "以",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "成为",
+          "lemma": "be",
+          "surface": "be"
+        },
+        {
+          "gloss": "强大的",
+          "lemma": "big",
+          "surface": "big"
+        },
+        {
+          "gloss": "足够",
+          "lemma": "enough",
+          "surface": "enough"
+        },
+        {
+          "gloss": "以",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "应对",
+          "lemma": "take",
+          "surface": "take"
+        },
+        {
+          "gloss": "对",
+          "lemma": "on",
+          "surface": "on"
+        },
+        {
+          "gloss": "所有的",
+          "lemma": "all",
+          "surface": "all"
+        },
+        {
+          "gloss": "竞争者",
+          "lemma": "comer",
+          "surface": "comers"
+        }
+      ]
+    },
+    {
+      "cn_text": "作者在第一段提到两本书是为了呈现____。",
+      "en_text": "The author mentions two books in Paragraph 1 to present ____",
+      "id": 2023013111,
+      "order_seq": "question_2023011031_stem",
+      "task_id": 202301004,
+      "tokens": [
+        {
+          "gloss": "作者",
+          "lemma": "the",
+          "surface": "The"
+        },
+        {
+          "gloss": "作者",
+          "lemma": "author",
+          "surface": "author"
+        },
+        {
+          "gloss": "提到",
+          "lemma": "mention",
+          "surface": "mentions"
+        },
+        {
+          "gloss": "两",
+          "lemma": "two",
+          "surface": "two"
+        },
+        {
+          "gloss": "书",
+          "lemma": "book",
+          "surface": "books"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "段落",
+          "lemma": "paragraph",
+          "surface": "Paragraph"
+        },
+        {
+          "gloss": "为了",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "呈现",
+          "lemma": "present",
+          "surface": "present"
+        }
+      ]
+    },
+    {
+      "cn_text": "一场持续的冲突。",
+      "en_text": "an ongoing conflict.",
+      "id": 2023013112,
+      "order_seq": "question_2023011031_A",
+      "task_id": 202301004,
+      "tokens": [
+        {
+          "gloss": "一个",
+          "lemma": "an",
+          "surface": "an"
+        },
+        {
+          "gloss": "持续的",
+          "lemma": "ongoing",
+          "surface": "ongoing"
+        },
+        {
+          "gloss": "冲突",
+          "lemma": "conflict",
+          "surface": "conflict"
+        }
+      ]
+    },
+    {
+      "cn_text": "一个知识概念。",
+      "en_text": "an intellectual concept.",
+      "id": 2023013113,
+      "order_seq": "question_2023011031_B",
+      "task_id": 202301004,
+      "tokens": [
+        {
+          "gloss": "一个",
+          "lemma": "an",
+          "surface": "an"
+        },
+        {
+          "gloss": "知识的",
+          "lemma": "intellectual",
+          "surface": "intellectual"
+        },
+        {
+          "gloss": "概念",
+          "lemma": "concept",
+          "surface": "concept"
+        }
+      ]
+    },
+    {
+      "cn_text": "一种普遍情绪。",
+      "en_text": "a prevailing sentiment.",
+      "id": 2023013114,
+      "order_seq": "question_2023011031_C",
+      "task_id": 202301004,
+      "tokens": [
+        {
+          "gloss": "一种",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "普遍的",
+          "lemma": "prevailing",
+          "surface": "prevailing"
+        },
+        {
+          "gloss": "情感",
+          "lemma": "sentiment",
+          "surface": "sentiment"
+        }
+      ]
+    },
+    {
+      "cn_text": "一种文学现象。",
+      "en_text": "a literary phenomenon.",
+      "id": 2023013115,
+      "order_seq": "question_2023011031_D",
+      "task_id": 202301004,
+      "tokens": [
+        {
+          "gloss": "一种",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "文学的",
+          "lemma": "literary",
+          "surface": "literary"
+        },
+        {
+          "gloss": "现象",
+          "lemma": "phenomenon",
+          "surface": "phenomenon"
+        }
+      ]
+    },
+    {
+      "cn_text": "沃特斯通书店为何将企鹅兰登书屋的图书归入相应分类区？",
+      "en_text": "Why did Waterstones shops retire PRH books to their relevant sections?",
+      "id": 2023013116,
+      "order_seq": "question_2023011032_stem",
+      "task_id": 202301004,
+      "tokens": [
+        {
+          "gloss": "为什么",
+          "lemma": "why",
+          "surface": "Why"
+        },
+        {
+          "gloss": "过去时助动词",
+          "lemma": "do",
+          "surface": "did"
+        },
+        {
+          "gloss": "水石书店",
+          "lemma": "waterstones",
+          "surface": "Waterstones"
+        },
+        {
+          "gloss": "商店",
+          "lemma": "shop",
+          "surface": "shops"
+        },
+        {
+          "gloss": "移至",
+          "lemma": "retire",
+          "surface": "retire"
+        },
+        {
+          "gloss": "企鹅兰登书屋",
+          "lemma": "prh",
+          "surface": "PRH"
+        },
+        {
+          "gloss": "书籍",
+          "lemma": "book",
+          "surface": "books"
+        },
+        {
+          "gloss": "至",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "它们的",
+          "lemma": "their",
+          "surface": "their"
+        },
+        {
+          "gloss": "相关的",
+          "lemma": "relevant",
+          "surface": "relevant"
+        },
+        {
+          "gloss": "区域",
+          "lemma": "section",
+          "surface": "sections"
+        }
+      ]
+    },
+    {
+      "cn_text": "为使它们容易被注意到。",
+      "en_text": "To make them easily noticeable.",
+      "id": 2023013117,
+      "order_seq": "question_2023011032_A",
+      "task_id": 202301004,
+      "tokens": [
+        {
+          "gloss": "为了",
+          "lemma": "to",
+          "surface": "To"
+        },
+        {
+          "gloss": "使",
+          "lemma": "make",
+          "surface": "make"
+        },
+        {
+          "gloss": "它们",
+          "lemma": "they",
+          "surface": "them"
+        },
+        {
+          "gloss": "容易地",
+          "lemma": "easily",
+          "surface": "easily"
+        },
+        {
+          "gloss": "被注意到的",
+          "lemma": "noticeable",
+          "surface": "noticeable"
+        }
+      ]
+    },
+    {
+      "cn_text": "为遵守企鹅兰登书屋的要求。",
+      "en_text": "To comply with PRH’s requirement.",
+      "id": 2023013118,
+      "order_seq": "question_2023011032_B",
+      "task_id": 202301004,
+      "tokens": [
+        {
+          "gloss": "为了",
+          "lemma": "to",
+          "surface": "To"
+        },
+        {
+          "gloss": "遵守",
+          "lemma": "comply",
+          "surface": "comply"
+        },
+        {
+          "gloss": "与",
+          "lemma": "with",
+          "surface": "with"
+        },
+        {
+          "gloss": "企鹅兰登书屋的",
+          "lemma": "prh",
+          "surface": "PRH’s"
+        },
+        {
+          "gloss": "要求",
+          "lemma": "requirement",
+          "surface": "requirement"
+        }
+      ]
+    },
+    {
+      "cn_text": "为回应企鹅兰登书屋的商业举措。",
+      "en_text": "To respond to PRH’s business move.",
+      "id": 2023013119,
+      "order_seq": "question_2023011032_C",
+      "task_id": 202301004,
+      "tokens": [
+        {
+          "gloss": "为了",
+          "lemma": "to",
+          "surface": "To"
+        },
+        {
+          "gloss": "回应",
+          "lemma": "respond",
+          "surface": "respond"
+        },
+        {
+          "gloss": "对",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "企鹅兰登书屋的",
+          "lemma": "prh",
+          "surface": "PRH’s"
+        },
+        {
+          "gloss": "商业",
+          "lemma": "business",
+          "surface": "business"
+        },
+        {
+          "gloss": "举措",
+          "lemma": "move",
+          "surface": "move"
+        }
+      ]
+    },
+    {
+      "cn_text": "为以系统化方式陈列它们。",
+      "en_text": "To arrange them in a systematic way.",
+      "id": 2023013120,
+      "order_seq": "question_2023011032_D",
+      "task_id": 202301004,
+      "tokens": [
+        {
+          "gloss": "为了",
+          "lemma": "to",
+          "surface": "To"
+        },
+        {
+          "gloss": "排列",
+          "lemma": "arrange",
+          "surface": "arrange"
+        },
+        {
+          "gloss": "它们",
+          "lemma": "they",
+          "surface": "them"
+        },
+        {
+          "gloss": "以",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "系统的",
+          "lemma": "systematic",
+          "surface": "systematic"
+        },
+        {
+          "gloss": "方式",
+          "lemma": "way",
+          "surface": "way"
+        }
+      ]
+    },
+    {
+      "cn_text": "沃特斯通书店的发言人似乎要传达什么信息？",
+      "en_text": "What message does the spokesperson for Waterstones seem to convey?",
+      "id": 2023013121,
+      "order_seq": "question_2023011033_stem",
+      "task_id": 202301004,
+      "tokens": [
+        {
+          "gloss": "什么",
+          "lemma": "what",
+          "surface": "What"
+        },
+        {
+          "gloss": "信息",
+          "lemma": "message",
+          "surface": "message"
+        },
+        {
+          "gloss": "助动词，表一般现在时",
+          "lemma": "do",
+          "surface": "does"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "发言人",
+          "lemma": "spokesperson",
+          "surface": "spokesperson"
+        },
+        {
+          "gloss": "为",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "Waterstones",
+          "lemma": "waterstones",
+          "surface": "Waterstones"
+        },
+        {
+          "gloss": "似乎",
+          "lemma": "seem",
+          "surface": "seem"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "传达",
+          "lemma": "convey",
+          "surface": "convey"
+        }
+      ]
+    },
+    {
+      "cn_text": "他们的顾客依然忠诚。",
+      "en_text": "Their customers remain loyal.",
+      "id": 2023013122,
+      "order_seq": "question_2023011033_A",
+      "task_id": 202301004,
+      "tokens": [
+        {
+          "gloss": "他们的",
+          "lemma": "their",
+          "surface": "Their"
+        },
+        {
+          "gloss": "顾客",
+          "lemma": "customer",
+          "surface": "customers"
+        },
+        {
+          "gloss": "保持",
+          "lemma": "remain",
+          "surface": "remain"
+        },
+        {
+          "gloss": "忠诚的",
+          "lemma": "loyal",
+          "surface": "loyal"
+        }
+      ]
+    },
+    {
+      "cn_text": "信用额度限制将被解除。",
+      "en_text": "The credit limit will be removed.",
+      "id": 2023013123,
+      "order_seq": "question_2023011033_B",
+      "task_id": 202301004,
+      "tokens": [
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "The"
+        },
+        {
+          "gloss": "信用",
+          "lemma": "credit",
+          "surface": "credit"
+        },
+        {
+          "gloss": "额度",
+          "lemma": "limit",
+          "surface": "limit"
+        },
+        {
+          "gloss": "将",
+          "lemma": "will",
+          "surface": "will"
+        },
+        {
+          "gloss": "被",
+          "lemma": "be",
+          "surface": "be"
+        },
+        {
+          "gloss": "取消",
+          "lemma": "remove",
+          "surface": "removed"
+        }
+      ]
+    },
+    {
+      "cn_text": "他们的库存被低估了。",
+      "en_text": "Their stock is underestimated.",
+      "id": 2023013124,
+      "order_seq": "question_2023011033_C",
+      "task_id": 202301004,
+      "tokens": [
+        {
+          "gloss": "他们的",
+          "lemma": "their",
+          "surface": "Their"
+        },
+        {
+          "gloss": "库存",
+          "lemma": "stock",
+          "surface": "stock"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "低估",
+          "lemma": "underestimate",
+          "surface": "underestimated"
+        }
+      ]
+    },
+    {
+      "cn_text": "图书市场相当疲软。",
+      "en_text": "The book market is rather slack.",
+      "id": 2023013125,
+      "order_seq": "question_2023011033_D",
+      "task_id": 202301004,
+      "tokens": [
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "The"
+        },
+        {
+          "gloss": "书",
+          "lemma": "book",
+          "surface": "book"
+        },
+        {
+          "gloss": "市场",
+          "lemma": "market",
+          "surface": "market"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "相当",
+          "lemma": "rather",
+          "surface": "rather"
+        },
+        {
+          "gloss": "低迷的",
+          "lemma": "slack",
+          "surface": "slack"
+        }
+      ]
+    },
+    {
+      "cn_text": "当前争端可能产生什么后果？",
+      "en_text": "What can be one consequence of the current dispute?",
+      "id": 2023013126,
+      "order_seq": "question_2023011034_stem",
+      "task_id": 202301004,
+      "tokens": [
+        {
+          "gloss": "什么",
+          "lemma": "what",
+          "surface": "What"
+        },
+        {
+          "gloss": "可以",
+          "lemma": "can",
+          "surface": "can"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "be"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "one",
+          "surface": "one"
+        },
+        {
+          "gloss": "后果",
+          "lemma": "consequence",
+          "surface": "consequence"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "当前的",
+          "lemma": "current",
+          "surface": "current"
+        },
+        {
+          "gloss": "争端",
+          "lemma": "dispute",
+          "surface": "dispute"
+        }
+      ]
+    },
+    {
+      "cn_text": "中等层级企鹅兰登书屋作者的图书销量大幅下滑。",
+      "en_text": "Sales of books by mid-list PRH writers fall off considerably.",
+      "id": 2023013127,
+      "order_seq": "question_2023011034_A",
+      "task_id": 202301004,
+      "tokens": [
+        {
+          "gloss": "销量",
+          "lemma": "sale",
+          "surface": "Sales"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "书",
+          "lemma": "book",
+          "surface": "books"
+        },
+        {
+          "gloss": "由",
+          "lemma": "by",
+          "surface": "by"
+        },
+        {
+          "gloss": "中等的",
+          "lemma": "mid",
+          "surface": "mid"
+        },
+        {
+          "gloss": "名单",
+          "lemma": "list",
+          "surface": "list"
+        },
+        {
+          "gloss": "PRH",
+          "lemma": "prh",
+          "surface": "PRH"
+        },
+        {
+          "gloss": "作家",
+          "lemma": "writer",
+          "surface": "writers"
+        },
+        {
+          "gloss": "下降",
+          "lemma": "fall",
+          "surface": "fall"
+        },
+        {
+          "gloss": "大幅",
+          "lemma": "off",
+          "surface": "off"
+        },
+        {
+          "gloss": "显著地",
+          "lemma": "considerably",
+          "surface": "considerably"
+        }
+      ]
+    },
+    {
+      "cn_text": "不太知名的企鹅兰登书屋作者成为批评对象。",
+      "en_text": "Lesser-known PRH writers become the target of criticism.",
+      "id": 2023013128,
+      "order_seq": "question_2023011034_B",
+      "task_id": 202301004,
+      "tokens": [
+        {
+          "gloss": "较少的",
+          "lemma": "lesser",
+          "surface": "Lesser"
+        },
+        {
+          "gloss": "知名的",
+          "lemma": "know",
+          "surface": "known"
+        },
+        {
+          "gloss": "企鹅兰登书屋",
+          "lemma": "prh",
+          "surface": "PRH"
+        },
+        {
+          "gloss": "作家",
+          "lemma": "writer",
+          "surface": "writers"
+        },
+        {
+          "gloss": "成为",
+          "lemma": "become",
+          "surface": "become"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "目标",
+          "lemma": "target",
+          "surface": "target"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "批评",
+          "lemma": "criticism",
+          "surface": "criticism"
+        }
+      ]
+    },
+    {
+      "cn_text": "沃特斯通书店员工对推广知名作者的图书犹豫不决。",
+      "en_text": "Waterstones staff hesitate to promote big-name authors’ books.",
+      "id": 2023013129,
+      "order_seq": "question_2023011034_C",
+      "task_id": 202301004,
+      "tokens": [
+        {
+          "gloss": "水石书店",
+          "lemma": "waterstones",
+          "surface": "Waterstones"
+        },
+        {
+          "gloss": "员工",
+          "lemma": "staff",
+          "surface": "staff"
+        },
+        {
+          "gloss": "犹豫",
+          "lemma": "hesitate",
+          "surface": "hesitate"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "推广",
+          "lemma": "promote",
+          "surface": "promote"
+        },
+        {
+          "gloss": "大的",
+          "lemma": "big",
+          "surface": "big"
+        },
+        {
+          "gloss": "名字",
+          "lemma": "name",
+          "surface": "name"
+        },
+        {
+          "gloss": "作家",
+          "lemma": "author",
+          "surface": "authors"
+        },
+        {
+          "gloss": "书籍",
+          "lemma": "book",
+          "surface": "books"
+        }
+      ]
+    },
+    {
+      "cn_text": "沃特斯通书店分店收入严重下降。",
+      "en_text": "Waterstones branches suffer a severe reduction in revenue.",
+      "id": 2023013130,
+      "order_seq": "question_2023011034_D",
+      "task_id": 202301004,
+      "tokens": [
+        {
+          "gloss": "水石书店",
+          "lemma": "waterstones",
+          "surface": "Waterstones"
+        },
+        {
+          "gloss": "分店",
+          "lemma": "branch",
+          "surface": "branches"
+        },
+        {
+          "gloss": "遭受",
+          "lemma": "suffer",
+          "surface": "suffer"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "严重的",
+          "lemma": "severe",
+          "surface": "severe"
+        },
+        {
+          "gloss": "减少",
+          "lemma": "reduction",
+          "surface": "reduction"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "收入",
+          "lemma": "revenue",
+          "surface": "revenue"
+        }
+      ]
+    },
+    {
+      "cn_text": "以下哪项陈述最能代表劳尼的观点？",
+      "en_text": "Which of the following statements best represents Lownie’s view?",
+      "id": 2023013131,
+      "order_seq": "question_2023011035_stem",
+      "task_id": 202301004,
+      "tokens": [
+        {
+          "gloss": "哪一个",
+          "lemma": "which",
+          "surface": "Which"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "以下",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "以下的",
+          "lemma": "following",
+          "surface": "following"
+        },
+        {
+          "gloss": "陈述",
+          "lemma": "statement",
+          "surface": "statements"
+        },
+        {
+          "gloss": "最",
+          "lemma": "best",
+          "surface": "best"
+        },
+        {
+          "gloss": "代表",
+          "lemma": "represent",
+          "surface": "represents"
+        },
+        {
+          "gloss": "劳尼的",
+          "lemma": "lownie’s",
+          "surface": "Lownie’s"
+        },
+        {
+          "gloss": "观点",
+          "lemma": "view",
+          "surface": "view"
+        }
+      ]
+    },
+    {
+      "cn_text": "小型出版商应该团结一致。",
+      "en_text": "Small publishers ought to stick together.",
+      "id": 2023013132,
+      "order_seq": "question_2023011035_A",
+      "task_id": 202301004,
+      "tokens": [
+        {
+          "gloss": "小型的",
+          "lemma": "small",
+          "surface": "Small"
+        },
+        {
+          "gloss": "出版商",
+          "lemma": "publisher",
+          "surface": "publishers"
+        },
+        {
+          "gloss": "应该",
+          "lemma": "ought",
+          "surface": "ought"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "坚持",
+          "lemma": "stick",
+          "surface": "stick"
+        },
+        {
+          "gloss": "团结",
+          "lemma": "together",
+          "surface": "together"
+        }
+      ]
+    },
+    {
+      "cn_text": "大型出版商将丧失其主导地位。",
+      "en_text": "Big publishers will lose their dominance.",
+      "id": 2023013133,
+      "order_seq": "question_2023011035_B",
+      "task_id": 202301004,
+      "tokens": [
+        {
+          "gloss": "大型的",
+          "lemma": "big",
+          "surface": "Big"
+        },
+        {
+          "gloss": "出版商",
+          "lemma": "publisher",
+          "surface": "publishers"
+        },
+        {
+          "gloss": "将",
+          "lemma": "will",
+          "surface": "will"
+        },
+        {
+          "gloss": "失去",
+          "lemma": "lose",
+          "surface": "lose"
+        },
+        {
+          "gloss": "他们的",
+          "lemma": "their",
+          "surface": "their"
+        },
+        {
+          "gloss": "主导地位",
+          "lemma": "dominance",
+          "surface": "dominance"
+        }
+      ]
+    },
+    {
+      "cn_text": "出版行业正经历艰难时期。",
+      "en_text": "The publishing industry is having a hard time.",
+      "id": 2023013134,
+      "order_seq": "question_2023011035_C",
+      "task_id": 202301004,
+      "tokens": [
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "The"
+        },
+        {
+          "gloss": "出版",
+          "lemma": "publish",
+          "surface": "publishing"
+        },
+        {
+          "gloss": "行业",
+          "lemma": "industry",
+          "surface": "industry"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "经历",
+          "lemma": "have",
+          "surface": "having"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "困难的",
+          "lemma": "hard",
+          "surface": "hard"
+        },
+        {
+          "gloss": "时期",
+          "lemma": "time",
+          "surface": "time"
+        }
+      ]
+    },
+    {
+      "cn_text": "出版商合并是一个令人担忧的趋势。",
+      "en_text": "The merger of publishers is a worrying trend.",
+      "id": 2023013135,
+      "order_seq": "question_2023011035_D",
+      "task_id": 202301004,
+      "tokens": [
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "The"
+        },
+        {
+          "gloss": "合并",
+          "lemma": "merger",
+          "surface": "merger"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "出版商",
+          "lemma": "publisher",
+          "surface": "publishers"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "一种",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "令人担忧的",
+          "lemma": "worry",
+          "surface": "worrying"
+        },
+        {
+          "gloss": "趋势",
+          "lemma": "trend",
+          "surface": "trend"
+        }
+      ]
+    }
+  ],
+  "success": true
+}

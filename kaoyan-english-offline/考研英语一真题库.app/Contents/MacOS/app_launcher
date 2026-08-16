@@ -1,6 +1,7 @@
 #!/bin/bash
-DIR="$(cd "$(dirname "$0")/../../.." && pwd)"
-cd "$DIR"
+CONTENTS_DIR="$(cd "$(dirname "$0")/.." && pwd)"
+WEB_DIR="$CONTENTS_DIR/Resources/web"
+cd "$WEB_DIR"
 
 export PATH="/opt/homebrew/bin:/usr/local/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:$PATH"
 
@@ -20,15 +21,15 @@ elif command -v python >/dev/null 2>&1; then
     PYTHON_CMD="python"
 fi
 
-# If server not running, start it silently in background
+# Check if port 8085 is active; if not, automatically launch multi-threaded server in background
 if ! nc -z 127.0.0.1 $PORT >/dev/null 2>&1; then
     if [ -n "$PYTHON_CMD" ]; then
-        nohup $PYTHON_CMD server.py >/dev/null 2>&1 &
+        nohup "$PYTHON_CMD" server.py >/dev/null 2>&1 &
         sleep 0.8
     fi
 fi
 
-# Open in Chrome / Edge App Mode or default browser
+# Launch in dedicated App Mode or browser
 if [ -d "/Applications/Google Chrome.app" ]; then
     open -na "Google Chrome" --args --app="$URL"
 elif [ -d "/Applications/Microsoft Edge.app" ]; then

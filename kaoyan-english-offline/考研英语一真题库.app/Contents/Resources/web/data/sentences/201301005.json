@@ -1,0 +1,3326 @@
+{
+  "sentences": [
+    {
+      "cn_text": "周一,最高法院以五比三的投票结果推翻了亚利桑那州移民法的大部分条款——这对奥巴马政府而言是一场温和的政策胜利。",
+      "en_text": "On a five to three vote, the Supreme Court knocked out much of Arizona’s immigration law Monday — a modest policy victory for the Obama Administration.",
+      "id": 2013013150,
+      "order_seq": "content_1_1",
+      "task_id": 201301005,
+      "tokens": [
+        {
+          "gloss": "在...上",
+          "lemma": "on",
+          "surface": "on"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "五",
+          "lemma": "five",
+          "surface": "five"
+        },
+        {
+          "gloss": "至",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "三",
+          "lemma": "three",
+          "surface": "three"
+        },
+        {
+          "gloss": "投票",
+          "lemma": "vote",
+          "surface": "vote"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "最高的",
+          "lemma": "supreme",
+          "surface": "supreme"
+        },
+        {
+          "gloss": "法院",
+          "lemma": "court",
+          "surface": "court"
+        },
+        {
+          "gloss": "敲击",
+          "lemma": "knock",
+          "surface": "knocked"
+        },
+        {
+          "gloss": "出去",
+          "lemma": "out",
+          "surface": "out"
+        },
+        {
+          "gloss": "许多",
+          "lemma": "much",
+          "surface": "much"
+        },
+        {
+          "gloss": "属于",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "亚利桑那州的",
+          "lemma": "arizona",
+          "surface": "arizona’s"
+        },
+        {
+          "gloss": "移民",
+          "lemma": "immigration",
+          "surface": "immigration"
+        },
+        {
+          "gloss": "法律",
+          "lemma": "law",
+          "surface": "law"
+        },
+        {
+          "gloss": "星期一",
+          "lemma": "monday",
+          "surface": "monday"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "温和的",
+          "lemma": "modest",
+          "surface": "modest"
+        },
+        {
+          "gloss": "政策",
+          "lemma": "policy",
+          "surface": "policy"
+        },
+        {
+          "gloss": "胜利",
+          "lemma": "victory",
+          "surface": "victory"
+        },
+        {
+          "gloss": "为了",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "奥巴马",
+          "lemma": "obama",
+          "surface": "obama"
+        },
+        {
+          "gloss": "政府",
+          "lemma": "administration",
+          "surface": "administration"
+        }
+      ]
+    },
+    {
+      "cn_text": "但在更为重要的宪法问题上,该裁决却是政府试图打破联邦与州之间权力平衡的一次8比0的完败。",
+      "en_text": "But on the more important matter of the Constitution, the decision was an 8-0 defeat for the Administration’s effort to upset the balance of power between the federal government and the states.",
+      "id": 2013013151,
+      "order_seq": "content_1_2",
+      "task_id": 201301005,
+      "tokens": [
+        {
+          "gloss": "但是",
+          "lemma": "but",
+          "surface": "but"
+        },
+        {
+          "gloss": "在...上",
+          "lemma": "on",
+          "surface": "on"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "更",
+          "lemma": "more",
+          "surface": "more"
+        },
+        {
+          "gloss": "重要的",
+          "lemma": "important",
+          "surface": "important"
+        },
+        {
+          "gloss": "问题",
+          "lemma": "matter",
+          "surface": "matter"
+        },
+        {
+          "gloss": "关于",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "宪法",
+          "lemma": "constitution",
+          "surface": "constitution"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "决定",
+          "lemma": "decision",
+          "surface": "decision"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "was"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "an",
+          "surface": "an"
+        },
+        {
+          "gloss": "失败",
+          "lemma": "defeat",
+          "surface": "defeat"
+        },
+        {
+          "gloss": "为了",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "政府的",
+          "lemma": "administration",
+          "surface": "administration’s"
+        },
+        {
+          "gloss": "努力",
+          "lemma": "effort",
+          "surface": "effort"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "破坏",
+          "lemma": "upset",
+          "surface": "upset"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "平衡",
+          "lemma": "balance",
+          "surface": "balance"
+        },
+        {
+          "gloss": "属于",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "权力",
+          "lemma": "power",
+          "surface": "power"
+        },
+        {
+          "gloss": "在...之间",
+          "lemma": "between",
+          "surface": "between"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "联邦的",
+          "lemma": "federal",
+          "surface": "federal"
+        },
+        {
+          "gloss": "政府",
+          "lemma": "government",
+          "surface": "government"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "州",
+          "lemma": "state",
+          "surface": "states"
+        }
+      ]
+    },
+    {
+      "cn_text": "在亚利桑那州诉美国案中,多数派推翻了亚利桑那州争议性计划中四项受争议条款中的三项,该计划旨在由州及地方警察执行联邦移民法。",
+      "en_text": "In Arizona v. United States, the majority overturned three of the four contested provisions of Arizona’s controversial plan to have state and local police enforce federal immigration law.",
+      "id": 2013013152,
+      "order_seq": "content_2_1",
+      "task_id": 201301005,
+      "tokens": [
+        {
+          "gloss": "在...中",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "亚利桑那州",
+          "lemma": "arizona",
+          "surface": "arizona"
+        },
+        {
+          "gloss": "诉",
+          "lemma": "v.",
+          "surface": "v."
+        },
+        {
+          "gloss": "联合的",
+          "lemma": "united",
+          "surface": "united"
+        },
+        {
+          "gloss": "美国",
+          "lemma": "state",
+          "surface": "states"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "多数",
+          "lemma": "majority",
+          "surface": "majority"
+        },
+        {
+          "gloss": "推翻",
+          "lemma": "overturn",
+          "surface": "overturned"
+        },
+        {
+          "gloss": "三",
+          "lemma": "three",
+          "surface": "three"
+        },
+        {
+          "gloss": "属于",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "四",
+          "lemma": "four",
+          "surface": "four"
+        },
+        {
+          "gloss": "争议的",
+          "lemma": "contest",
+          "surface": "contested"
+        },
+        {
+          "gloss": "条款",
+          "lemma": "provision",
+          "surface": "provisions"
+        },
+        {
+          "gloss": "属于",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "亚利桑那州的",
+          "lemma": "arizona",
+          "surface": "arizona’s"
+        },
+        {
+          "gloss": "有争议的",
+          "lemma": "controversial",
+          "surface": "controversial"
+        },
+        {
+          "gloss": "计划",
+          "lemma": "plan",
+          "surface": "plan"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "让",
+          "lemma": "have",
+          "surface": "have"
+        },
+        {
+          "gloss": "州",
+          "lemma": "state",
+          "surface": "state"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "地方的",
+          "lemma": "local",
+          "surface": "local"
+        },
+        {
+          "gloss": "警察",
+          "lemma": "police",
+          "surface": "police"
+        },
+        {
+          "gloss": "执行",
+          "lemma": "enforce",
+          "surface": "enforce"
+        },
+        {
+          "gloss": "联邦的",
+          "lemma": "federal",
+          "surface": "federal"
+        },
+        {
+          "gloss": "移民",
+          "lemma": "immigration",
+          "surface": "immigration"
+        },
+        {
+          "gloss": "法律",
+          "lemma": "law",
+          "surface": "law"
+        }
+      ]
+    },
+    {
+      "cn_text": "宪法原则规定,只有华盛顿拥有「制定统一归化规则」的权力,且联邦法律优先于州法律,这些原则并无争议。",
+      "en_text": "The Constitutional principles that Washington alone has the power to “establish a uniform Rule of Naturalization” and that federal laws precede state laws are noncontroversial.",
+      "id": 2013013154,
+      "order_seq": "content_2_3",
+      "task_id": 201301005,
+      "tokens": [
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "宪法的",
+          "lemma": "constitutional",
+          "surface": "constitutional"
+        },
+        {
+          "gloss": "原则",
+          "lemma": "principle",
+          "surface": "principles"
+        },
+        {
+          "gloss": "认为",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "华盛顿",
+          "lemma": "washington",
+          "surface": "washington"
+        },
+        {
+          "gloss": "单独",
+          "lemma": "alone",
+          "surface": "alone"
+        },
+        {
+          "gloss": "拥有",
+          "lemma": "have",
+          "surface": "has"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "权力",
+          "lemma": "power",
+          "surface": "power"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "制定",
+          "lemma": "establish",
+          "surface": "establish"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "统一的",
+          "lemma": "uniform",
+          "surface": "uniform"
+        },
+        {
+          "gloss": "规则",
+          "lemma": "rule",
+          "surface": "rule"
+        },
+        {
+          "gloss": "属于",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "归化",
+          "lemma": "naturalization",
+          "surface": "naturalization"
+        },
+        {
+          "gloss": "并且",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "认为",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "联邦的",
+          "lemma": "federal",
+          "surface": "federal"
+        },
+        {
+          "gloss": "法律",
+          "lemma": "law",
+          "surface": "laws"
+        },
+        {
+          "gloss": "优先于",
+          "lemma": "precede",
+          "surface": "precede"
+        },
+        {
+          "gloss": "州",
+          "lemma": "state",
+          "surface": "state"
+        },
+        {
+          "gloss": "法律",
+          "lemma": "law",
+          "surface": "laws"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "are"
+        },
+        {
+          "gloss": "无争议的",
+          "lemma": "noncontroversial",
+          "surface": "noncontroversial"
+        }
+      ]
+    },
+    {
+      "cn_text": "亚利桑那州试图制定与现有联邦政策并行的州政策。",
+      "en_text": "Arizona had attempted to fashion state policies that ran parallel to the existing federal ones.",
+      "id": 2013013155,
+      "order_seq": "content_2_4",
+      "task_id": 201301005,
+      "tokens": [
+        {
+          "gloss": "亚利桑那州",
+          "lemma": "arizona",
+          "surface": "Arizona"
+        },
+        {
+          "gloss": "曾经",
+          "lemma": "have",
+          "surface": "had"
+        },
+        {
+          "gloss": "尝试",
+          "lemma": "attempt",
+          "surface": "attempted"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "制定",
+          "lemma": "fashion",
+          "surface": "fashion"
+        },
+        {
+          "gloss": "州",
+          "lemma": "state",
+          "surface": "state"
+        },
+        {
+          "gloss": "政策",
+          "lemma": "policy",
+          "surface": "policies"
+        },
+        {
+          "gloss": "那",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "运行",
+          "lemma": "run",
+          "surface": "ran"
+        },
+        {
+          "gloss": "平行的",
+          "lemma": "parallel",
+          "surface": "parallel"
+        },
+        {
+          "gloss": "与",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "现有的",
+          "lemma": "exist",
+          "surface": "existing"
+        },
+        {
+          "gloss": "联邦的",
+          "lemma": "federal",
+          "surface": "federal"
+        },
+        {
+          "gloss": "政策",
+          "lemma": "one",
+          "surface": "ones"
+        }
+      ]
+    },
+    {
+      "cn_text": "安东尼·肯尼迪大法官与首席大法官约翰·罗伯茨及法院的自由派大法官共同裁定,该州过度逼近联邦权力范畴。",
+      "en_text": "Justice Anthony Kennedy, joined by Chief Justice John Roberts and the Court’s liberals, ruled that the state flew too close to the federal sun.",
+      "id": 2013013156,
+      "order_seq": "content_3_1",
+      "task_id": 201301005,
+      "tokens": [
+        {
+          "gloss": "法官",
+          "lemma": "justice",
+          "surface": "Justice"
+        },
+        {
+          "gloss": "安东尼",
+          "lemma": "anthony",
+          "surface": "Anthony"
+        },
+        {
+          "gloss": "肯尼迪",
+          "lemma": "kennedy",
+          "surface": "Kennedy"
+        },
+        {
+          "gloss": "加入",
+          "lemma": "join",
+          "surface": "joined"
+        },
+        {
+          "gloss": "由",
+          "lemma": "by",
+          "surface": "by"
+        },
+        {
+          "gloss": "首席",
+          "lemma": "chief",
+          "surface": "Chief"
+        },
+        {
+          "gloss": "法官",
+          "lemma": "justice",
+          "surface": "Justice"
+        },
+        {
+          "gloss": "约翰",
+          "lemma": "john",
+          "surface": "John"
+        },
+        {
+          "gloss": "罗伯茨",
+          "lemma": "roberts",
+          "surface": "Roberts"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "这些",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "法院的",
+          "lemma": "court",
+          "surface": "Court’s"
+        },
+        {
+          "gloss": "自由派法官",
+          "lemma": "liberal",
+          "surface": "liberals"
+        },
+        {
+          "gloss": "裁定",
+          "lemma": "rule",
+          "surface": "ruled"
+        },
+        {
+          "gloss": "认为",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "州",
+          "lemma": "state",
+          "surface": "state"
+        },
+        {
+          "gloss": "飞得",
+          "lemma": "fly",
+          "surface": "flew"
+        },
+        {
+          "gloss": "过于",
+          "lemma": "too",
+          "surface": "too"
+        },
+        {
+          "gloss": "接近",
+          "lemma": "close",
+          "surface": "close"
+        },
+        {
+          "gloss": "于",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "联邦的",
+          "lemma": "federal",
+          "surface": "federal"
+        },
+        {
+          "gloss": "权力",
+          "lemma": "sun",
+          "surface": "sun"
+        }
+      ]
+    },
+    {
+      "cn_text": "对于被推翻的条款,多数派认为国会已经刻意「占据了该领域」,因此亚利桑那州侵犯了联邦的专属权力。",
+      "en_text": "On the overturned provisions the majority held that Congress had deliberately “occupied the field,” and Arizona had thus intruded on the federal’s privileged powers.",
+      "id": 2013013157,
+      "order_seq": "content_3_2",
+      "task_id": 201301005,
+      "tokens": [
+        {
+          "gloss": "关于",
+          "lemma": "on",
+          "surface": "On"
+        },
+        {
+          "gloss": "这些",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "被推翻的",
+          "lemma": "overturn",
+          "surface": "overturned"
+        },
+        {
+          "gloss": "条款",
+          "lemma": "provision",
+          "surface": "provisions"
+        },
+        {
+          "gloss": "多数派",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "多数派",
+          "lemma": "majority",
+          "surface": "majority"
+        },
+        {
+          "gloss": "认为",
+          "lemma": "hold",
+          "surface": "held"
+        },
+        {
+          "gloss": "认为",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "国会",
+          "lemma": "congress",
+          "surface": "Congress"
+        },
+        {
+          "gloss": "曾经",
+          "lemma": "have",
+          "surface": "had"
+        },
+        {
+          "gloss": "故意地",
+          "lemma": "deliberately",
+          "surface": "deliberately"
+        },
+        {
+          "gloss": "占据",
+          "lemma": "occupy",
+          "surface": "occupied"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "领域",
+          "lemma": "field",
+          "surface": "field"
+        },
+        {
+          "gloss": "并且",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "亚利桑那州",
+          "lemma": "arizona",
+          "surface": "Arizona"
+        },
+        {
+          "gloss": "已经",
+          "lemma": "have",
+          "surface": "had"
+        },
+        {
+          "gloss": "因此",
+          "lemma": "thus",
+          "surface": "thus"
+        },
+        {
+          "gloss": "侵犯",
+          "lemma": "intrude",
+          "surface": "intruded"
+        },
+        {
+          "gloss": "于",
+          "lemma": "on",
+          "surface": "on"
+        },
+        {
+          "gloss": "联邦的",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "联邦的",
+          "lemma": "federal",
+          "surface": "federal’s"
+        },
+        {
+          "gloss": "特权的",
+          "lemma": "privileged",
+          "surface": "privileged"
+        },
+        {
+          "gloss": "权力",
+          "lemma": "power",
+          "surface": "powers"
+        }
+      ]
+    },
+    {
+      "cn_text": "然而,大法官们表示,亚利桑那州警察将被允许核查与执法部门接触人员的合法身份。",
+      "en_text": "However, the Justices said that Arizona police would be allowed to verify the legal status of people who come in contact with law enforcement.",
+      "id": 2013013158,
+      "order_seq": "content_4_1",
+      "task_id": 201301005,
+      "tokens": [
+        {
+          "gloss": "然而",
+          "lemma": "however",
+          "surface": "However"
+        },
+        {
+          "gloss": "这些",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "大法官",
+          "lemma": "justice",
+          "surface": "Justices"
+        },
+        {
+          "gloss": "表示",
+          "lemma": "say",
+          "surface": "said"
+        },
+        {
+          "gloss": "认为",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "亚利桑那州",
+          "lemma": "arizona",
+          "surface": "Arizona"
+        },
+        {
+          "gloss": "警察",
+          "lemma": "police",
+          "surface": "police"
+        },
+        {
+          "gloss": "将",
+          "lemma": "would",
+          "surface": "would"
+        },
+        {
+          "gloss": "被",
+          "lemma": "be",
+          "surface": "be"
+        },
+        {
+          "gloss": "允许",
+          "lemma": "allow",
+          "surface": "allowed"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "核实",
+          "lemma": "verify",
+          "surface": "verify"
+        },
+        {
+          "gloss": "这些",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "合法的",
+          "lemma": "legal",
+          "surface": "legal"
+        },
+        {
+          "gloss": "身份",
+          "lemma": "status",
+          "surface": "status"
+        },
+        {
+          "gloss": "关于",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "人们",
+          "lemma": "people",
+          "surface": "people"
+        },
+        {
+          "gloss": "与",
+          "lemma": "who",
+          "surface": "who"
+        },
+        {
+          "gloss": "接触",
+          "lemma": "come",
+          "surface": "come"
+        },
+        {
+          "gloss": "与",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "接触",
+          "lemma": "contact",
+          "surface": "contact"
+        },
+        {
+          "gloss": "与",
+          "lemma": "with",
+          "surface": "with"
+        },
+        {
+          "gloss": "法律",
+          "lemma": "law",
+          "surface": "law"
+        },
+        {
+          "gloss": "执法部门",
+          "lemma": "enforcement",
+          "surface": "enforcement"
+        }
+      ]
+    },
+    {
+      "cn_text": "这是因为国会一向设想联邦与州联合执行移民法,并明确鼓励州执法人员与联邦同事共享信息并相互配合。",
+      "en_text": "That’s because Congress has always envisioned joint federal-state immigration enforcement and explicitly encourages state officers to share information and cooperate with federal colleagues.",
+      "id": 2013013159,
+      "order_seq": "content_4_2",
+      "task_id": 201301005,
+      "tokens": [
+        {
+          "gloss": "那是",
+          "lemma": "that",
+          "surface": "that's"
+        },
+        {
+          "gloss": "因为",
+          "lemma": "because",
+          "surface": "because"
+        },
+        {
+          "gloss": "国会",
+          "lemma": "congress",
+          "surface": "Congress"
+        },
+        {
+          "gloss": "已经",
+          "lemma": "have",
+          "surface": "has"
+        },
+        {
+          "gloss": "一直",
+          "lemma": "always",
+          "surface": "always"
+        },
+        {
+          "gloss": "设想",
+          "lemma": "envision",
+          "surface": "envisioned"
+        },
+        {
+          "gloss": "联合的",
+          "lemma": "joint",
+          "surface": "joint"
+        },
+        {
+          "gloss": "联邦的",
+          "lemma": "federal",
+          "surface": "federal"
+        },
+        {
+          "gloss": "州",
+          "lemma": "state",
+          "surface": "state"
+        },
+        {
+          "gloss": "移民",
+          "lemma": "immigration",
+          "surface": "immigration"
+        },
+        {
+          "gloss": "执行",
+          "lemma": "enforcement",
+          "surface": "enforcement"
+        },
+        {
+          "gloss": "并且",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "明确地",
+          "lemma": "explicitly",
+          "surface": "explicitly"
+        },
+        {
+          "gloss": "鼓励",
+          "lemma": "encourage",
+          "surface": "encourages"
+        },
+        {
+          "gloss": "州的",
+          "lemma": "state",
+          "surface": "state"
+        },
+        {
+          "gloss": "官员",
+          "lemma": "officer",
+          "surface": "officers"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "共享",
+          "lemma": "share",
+          "surface": "share"
+        },
+        {
+          "gloss": "信息",
+          "lemma": "information",
+          "surface": "information"
+        },
+        {
+          "gloss": "并且",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "合作",
+          "lemma": "cooperate",
+          "surface": "cooperate"
+        },
+        {
+          "gloss": "与",
+          "lemma": "with",
+          "surface": "with"
+        },
+        {
+          "gloss": "联邦的",
+          "lemma": "federal",
+          "surface": "federal"
+        },
+        {
+          "gloss": "同事",
+          "lemma": "colleague",
+          "surface": "colleagues"
+        }
+      ]
+    },
+    {
+      "cn_text": "三位持反对意见的大法官中有两位——塞缪尔·阿利托和克拉伦斯·托马斯——认同这一宪法逻辑,但对亚利桑那州哪些法规与联邦法规相冲突存在分歧。",
+      "en_text": "Two of the three objecting Justices — Samuel Alito and Clarence Thomas — agreed with this Constitutional logic but disagreed about which Arizona rules conflicted with the federal statute.",
+      "id": 2013013160,
+      "order_seq": "content_5_1",
+      "task_id": 201301005,
+      "tokens": [
+        {
+          "gloss": "两位",
+          "lemma": "two",
+          "surface": "two"
+        },
+        {
+          "gloss": "中的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "三位",
+          "lemma": "three",
+          "surface": "three"
+        },
+        {
+          "gloss": "反对",
+          "lemma": "object",
+          "surface": "objecting"
+        },
+        {
+          "gloss": "法官",
+          "lemma": "justice",
+          "surface": "Justices"
+        },
+        {
+          "gloss": "塞缪尔",
+          "lemma": "samuel",
+          "surface": "Samuel"
+        },
+        {
+          "gloss": "阿利托",
+          "lemma": "alito",
+          "surface": "Alito"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "克拉伦斯",
+          "lemma": "clarence",
+          "surface": "Clarence"
+        },
+        {
+          "gloss": "托马斯",
+          "lemma": "thomas",
+          "surface": "Thomas"
+        },
+        {
+          "gloss": "同意",
+          "lemma": "agree",
+          "surface": "agreed"
+        },
+        {
+          "gloss": "与",
+          "lemma": "with",
+          "surface": "with"
+        },
+        {
+          "gloss": "这一",
+          "lemma": "this",
+          "surface": "this"
+        },
+        {
+          "gloss": "宪法的",
+          "lemma": "constitutional",
+          "surface": "Constitutional"
+        },
+        {
+          "gloss": "逻辑",
+          "lemma": "logic",
+          "surface": "logic"
+        },
+        {
+          "gloss": "但是",
+          "lemma": "but",
+          "surface": "but"
+        },
+        {
+          "gloss": "不同意",
+          "lemma": "disagree",
+          "surface": "disagreed"
+        },
+        {
+          "gloss": "关于",
+          "lemma": "about",
+          "surface": "about"
+        },
+        {
+          "gloss": "哪些",
+          "lemma": "which",
+          "surface": "which"
+        },
+        {
+          "gloss": "亚利桑那州",
+          "lemma": "arizona",
+          "surface": "Arizona"
+        },
+        {
+          "gloss": "法规",
+          "lemma": "rule",
+          "surface": "rules"
+        },
+        {
+          "gloss": "冲突",
+          "lemma": "conflict",
+          "surface": "conflicted"
+        },
+        {
+          "gloss": "与",
+          "lemma": "with",
+          "surface": "with"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "联邦的",
+          "lemma": "federal",
+          "surface": "federal"
+        },
+        {
+          "gloss": "法规",
+          "lemma": "statute",
+          "surface": "statute"
+        }
+      ]
+    },
+    {
+      "cn_text": "唯一的重大反对意见来自安东宁·斯卡利亚大法官,他对州权利进行了更为有力的辩护,追溯至《外国人和煽动叛乱法》。",
+      "en_text": "The only major objection came from Justice Antonin Scalia, who offered an even more robust defense of state privileges going back to the Alien and Sedition Acts.",
+      "id": 2013013161,
+      "order_seq": "content_5_2",
+      "task_id": 201301005,
+      "tokens": [
+        {
+          "gloss": "唯一的",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "唯一的",
+          "lemma": "only",
+          "surface": "only"
+        },
+        {
+          "gloss": "主要的",
+          "lemma": "major",
+          "surface": "major"
+        },
+        {
+          "gloss": "反对意见",
+          "lemma": "objection",
+          "surface": "objection"
+        },
+        {
+          "gloss": "来自",
+          "lemma": "come",
+          "surface": "came"
+        },
+        {
+          "gloss": "来自",
+          "lemma": "from",
+          "surface": "from"
+        },
+        {
+          "gloss": "法官",
+          "lemma": "justice",
+          "surface": "Justice"
+        },
+        {
+          "gloss": "安东宁",
+          "lemma": "antonin",
+          "surface": "Antonin"
+        },
+        {
+          "gloss": "斯卡利亚",
+          "lemma": "scalia",
+          "surface": "Scalia"
+        },
+        {
+          "gloss": "他",
+          "lemma": "who",
+          "surface": "who"
+        },
+        {
+          "gloss": "提出",
+          "lemma": "offer",
+          "surface": "offered"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "an",
+          "surface": "an"
+        },
+        {
+          "gloss": "更",
+          "lemma": "even",
+          "surface": "even"
+        },
+        {
+          "gloss": "更",
+          "lemma": "more",
+          "surface": "more"
+        },
+        {
+          "gloss": "强有力的",
+          "lemma": "robust",
+          "surface": "robust"
+        },
+        {
+          "gloss": "辩护",
+          "lemma": "defense",
+          "surface": "defense"
+        },
+        {
+          "gloss": "关于",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "州",
+          "lemma": "state",
+          "surface": "state"
+        },
+        {
+          "gloss": "权利",
+          "lemma": "privilege",
+          "surface": "privileges"
+        },
+        {
+          "gloss": "追溯",
+          "lemma": "go",
+          "surface": "going"
+        },
+        {
+          "gloss": "回到",
+          "lemma": "back",
+          "surface": "back"
+        },
+        {
+          "gloss": "到",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "外国人",
+          "lemma": "alien",
+          "surface": "Alien"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "煽动",
+          "lemma": "sedition",
+          "surface": "Sedition"
+        },
+        {
+          "gloss": "法案",
+          "lemma": "act",
+          "surface": "Acts"
+        }
+      ]
+    },
+    {
+      "cn_text": "对奥巴马总统8比0的反对意见,基于塞缪尔·阿利托大法官在其反对意见中所称的「联邦行政权的惊人主张」。",
+      "en_text": "The 8-0 objection to President Obama turns on what Justice Samuel Alito describes in his objection as “a shocking assertion of federal executive power.”",
+      "id": 2013013162,
+      "order_seq": "content_6_1",
+      "task_id": 201301005,
+      "tokens": [
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "反对意见",
+          "lemma": "objection",
+          "surface": "objection"
+        },
+        {
+          "gloss": "对",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "总统",
+          "lemma": "president",
+          "surface": "President"
+        },
+        {
+          "gloss": "奥巴马",
+          "lemma": "obama",
+          "surface": "Obama"
+        },
+        {
+          "gloss": "基于",
+          "lemma": "turn",
+          "surface": "turns"
+        },
+        {
+          "gloss": "关于",
+          "lemma": "on",
+          "surface": "on"
+        },
+        {
+          "gloss": "什么",
+          "lemma": "what",
+          "surface": "what"
+        },
+        {
+          "gloss": "法官",
+          "lemma": "justice",
+          "surface": "Justice"
+        },
+        {
+          "gloss": "塞缪尔",
+          "lemma": "samuel",
+          "surface": "Samuel"
+        },
+        {
+          "gloss": "阿利托",
+          "lemma": "alito",
+          "surface": "Alito"
+        },
+        {
+          "gloss": "描述",
+          "lemma": "describe",
+          "surface": "describes"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "他的",
+          "lemma": "his",
+          "surface": "his"
+        },
+        {
+          "gloss": "反对意见",
+          "lemma": "objection",
+          "surface": "objection"
+        },
+        {
+          "gloss": "作为",
+          "lemma": "as",
+          "surface": "as"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "令人震惊的",
+          "lemma": "shocking",
+          "surface": "shocking"
+        },
+        {
+          "gloss": "主张",
+          "lemma": "assertion",
+          "surface": "assertion"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "联邦的",
+          "lemma": "federal",
+          "surface": "federal"
+        },
+        {
+          "gloss": "行政的",
+          "lemma": "executive",
+          "surface": "executive"
+        },
+        {
+          "gloss": "权力",
+          "lemma": "power",
+          "surface": "power"
+        }
+      ]
+    },
+    {
+      "cn_text": "白宫辩称,即使州法律在字面上完全符合联邦法规,亚利桑那州的法律仍与其执法优先事项相冲突。",
+      "en_text": "The White House argued that Arizona’s laws conflicted with its enforcement priorities, even if state laws complied with federal statutes to the letter.",
+      "id": 2013013163,
+      "order_seq": "content_6_2",
+      "task_id": 201301005,
+      "tokens": [
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "The"
+        },
+        {
+          "gloss": "白色的",
+          "lemma": "white",
+          "surface": "White"
+        },
+        {
+          "gloss": "白宫",
+          "lemma": "house",
+          "surface": "House"
+        },
+        {
+          "gloss": "辩称",
+          "lemma": "argue",
+          "surface": "argued"
+        },
+        {
+          "gloss": "认为",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "亚利桑那州的",
+          "lemma": "arizona",
+          "surface": "Arizona’s"
+        },
+        {
+          "gloss": "法律",
+          "lemma": "law",
+          "surface": "laws"
+        },
+        {
+          "gloss": "冲突",
+          "lemma": "conflict",
+          "surface": "conflicted"
+        },
+        {
+          "gloss": "与",
+          "lemma": "with",
+          "surface": "with"
+        },
+        {
+          "gloss": "它的",
+          "lemma": "its",
+          "surface": "its"
+        },
+        {
+          "gloss": "执法",
+          "lemma": "enforcement",
+          "surface": "enforcement"
+        },
+        {
+          "gloss": "优先事项",
+          "lemma": "priority",
+          "surface": "priorities"
+        },
+        {
+          "gloss": "即使",
+          "lemma": "even",
+          "surface": "even"
+        },
+        {
+          "gloss": "如果",
+          "lemma": "if",
+          "surface": "if"
+        },
+        {
+          "gloss": "州",
+          "lemma": "state",
+          "surface": "state"
+        },
+        {
+          "gloss": "法律",
+          "lemma": "law",
+          "surface": "laws"
+        },
+        {
+          "gloss": "遵守",
+          "lemma": "comply",
+          "surface": "complied"
+        },
+        {
+          "gloss": "与",
+          "lemma": "with",
+          "surface": "with"
+        },
+        {
+          "gloss": "联邦的",
+          "lemma": "federal",
+          "surface": "federal"
+        },
+        {
+          "gloss": "法规",
+          "lemma": "statute",
+          "surface": "statutes"
+        },
+        {
+          "gloss": "到",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "字面",
+          "lemma": "letter",
+          "surface": "letter"
+        }
+      ]
+    },
+    {
+      "cn_text": "实质上,白宫声称它可以废除任何本来合法但其不认同的州法律。",
+      "en_text": "In effect, the White House claimed that it could invalidate any otherwise legitimate state law that it disagrees with.",
+      "id": 2013013164,
+      "order_seq": "content_6_3",
+      "task_id": 201301005,
+      "tokens": [
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "In"
+        },
+        {
+          "gloss": "实际上",
+          "lemma": "effect",
+          "surface": "effect"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "白色的",
+          "lemma": "white",
+          "surface": "White"
+        },
+        {
+          "gloss": "白宫",
+          "lemma": "house",
+          "surface": "House"
+        },
+        {
+          "gloss": "声称",
+          "lemma": "claim",
+          "surface": "claimed"
+        },
+        {
+          "gloss": "认为",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "it"
+        },
+        {
+          "gloss": "可以",
+          "lemma": "can",
+          "surface": "could"
+        },
+        {
+          "gloss": "使无效",
+          "lemma": "invalidate",
+          "surface": "invalidate"
+        },
+        {
+          "gloss": "任何",
+          "lemma": "any",
+          "surface": "any"
+        },
+        {
+          "gloss": "其他情况下",
+          "lemma": "otherwise",
+          "surface": "otherwise"
+        },
+        {
+          "gloss": "合法的",
+          "lemma": "legitimate",
+          "surface": "legitimate"
+        },
+        {
+          "gloss": "州",
+          "lemma": "state",
+          "surface": "state"
+        },
+        {
+          "gloss": "法律",
+          "lemma": "law",
+          "surface": "law"
+        },
+        {
+          "gloss": "那些",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "it"
+        },
+        {
+          "gloss": "不认同",
+          "lemma": "disagree",
+          "surface": "disagrees"
+        },
+        {
+          "gloss": "与",
+          "lemma": "with",
+          "surface": "with"
+        }
+      ]
+    },
+    {
+      "cn_text": "某些权力确实专属于联邦政府,对公民身份和边界的管控便在其中。",
+      "en_text": "Some powers do belong exclusively to the federal government, and control of citizenship and the borders is among them.",
+      "id": 2013013165,
+      "order_seq": "content_7_1",
+      "task_id": 201301005,
+      "tokens": [
+        {
+          "gloss": "某些",
+          "lemma": "some",
+          "surface": "Some"
+        },
+        {
+          "gloss": "权力",
+          "lemma": "power",
+          "surface": "powers"
+        },
+        {
+          "gloss": "确实",
+          "lemma": "do",
+          "surface": "do"
+        },
+        {
+          "gloss": "属于",
+          "lemma": "belong",
+          "surface": "belong"
+        },
+        {
+          "gloss": "专属地",
+          "lemma": "exclusively",
+          "surface": "exclusively"
+        },
+        {
+          "gloss": "于",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "联邦的",
+          "lemma": "federal",
+          "surface": "federal"
+        },
+        {
+          "gloss": "政府",
+          "lemma": "government",
+          "surface": "government"
+        },
+        {
+          "gloss": "并且",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "控制",
+          "lemma": "control",
+          "surface": "control"
+        },
+        {
+          "gloss": "对",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "公民身份",
+          "lemma": "citizenship",
+          "surface": "citizenship"
+        },
+        {
+          "gloss": "以及",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "边界",
+          "lemma": "border",
+          "surface": "borders"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "其中之一",
+          "lemma": "among",
+          "surface": "among"
+        },
+        {
+          "gloss": "它们",
+          "lemma": "they",
+          "surface": "them"
+        }
+      ]
+    },
+    {
+      "cn_text": "但如果国会想阻止各州利用自身资源检查移民身份,它本可以做到。",
+      "en_text": "But if Congress wanted to prevent states from using their own resources to check immigration status, it could.",
+      "id": 2013013166,
+      "order_seq": "content_7_2",
+      "task_id": 201301005,
+      "tokens": [
+        {
+          "gloss": "但是",
+          "lemma": "but",
+          "surface": "But"
+        },
+        {
+          "gloss": "如果",
+          "lemma": "if",
+          "surface": "if"
+        },
+        {
+          "gloss": "国会",
+          "lemma": "congress",
+          "surface": "Congress"
+        },
+        {
+          "gloss": "想要",
+          "lemma": "want",
+          "surface": "wanted"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "阻止",
+          "lemma": "prevent",
+          "surface": "prevent"
+        },
+        {
+          "gloss": "各州",
+          "lemma": "state",
+          "surface": "states"
+        },
+        {
+          "gloss": "从",
+          "lemma": "from",
+          "surface": "from"
+        },
+        {
+          "gloss": "使用",
+          "lemma": "use",
+          "surface": "using"
+        },
+        {
+          "gloss": "他们的",
+          "lemma": "their",
+          "surface": "their"
+        },
+        {
+          "gloss": "自己的",
+          "lemma": "own",
+          "surface": "own"
+        },
+        {
+          "gloss": "资源",
+          "lemma": "resource",
+          "surface": "resources"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "检查",
+          "lemma": "check",
+          "surface": "check"
+        },
+        {
+          "gloss": "移民",
+          "lemma": "immigration",
+          "surface": "immigration"
+        },
+        {
+          "gloss": "身份",
+          "lemma": "status",
+          "surface": "status"
+        },
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "it"
+        },
+        {
+          "gloss": "可以",
+          "lemma": "can",
+          "surface": "could"
+        }
+      ]
+    },
+    {
+      "cn_text": "但国会从未这样做。",
+      "en_text": "It never did so.",
+      "id": 2013013167,
+      "order_seq": "content_7_3",
+      "task_id": 201301005,
+      "tokens": [
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "it"
+        },
+        {
+          "gloss": "从未",
+          "lemma": "never",
+          "surface": "never"
+        },
+        {
+          "gloss": "做",
+          "lemma": "do",
+          "surface": "did"
+        },
+        {
+          "gloss": "这样",
+          "lemma": "so",
+          "surface": "so"
+        }
+      ]
+    },
+    {
+      "cn_text": "政府实质上是在主张,由于它不愿执行国会的移民意愿,因此任何州也都不应被允许这样做。",
+      "en_text": "The Administration was in essence asserting that because it didn’t want to carry out Congress’s immigration wishes, no state should be allowed to do so either.",
+      "id": 2013013168,
+      "order_seq": "content_7_4",
+      "task_id": 201301005,
+      "tokens": [
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "政府",
+          "lemma": "administration",
+          "surface": "administration"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "was"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "本质上",
+          "lemma": "essence",
+          "surface": "essence"
+        },
+        {
+          "gloss": "主张",
+          "lemma": "assert",
+          "surface": "asserting"
+        },
+        {
+          "gloss": "因为",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "因为",
+          "lemma": "because",
+          "surface": "because"
+        },
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "it"
+        },
+        {
+          "gloss": "不",
+          "lemma": "do",
+          "surface": "didn’t"
+        },
+        {
+          "gloss": "想要",
+          "lemma": "want",
+          "surface": "want"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "执行",
+          "lemma": "carry",
+          "surface": "carry"
+        },
+        {
+          "gloss": "完成",
+          "lemma": "out",
+          "surface": "out"
+        },
+        {
+          "gloss": "国会的",
+          "lemma": "congress",
+          "surface": "congress’s"
+        },
+        {
+          "gloss": "移民",
+          "lemma": "immigration",
+          "surface": "immigration"
+        },
+        {
+          "gloss": "意愿",
+          "lemma": "wish",
+          "surface": "wishes"
+        },
+        {
+          "gloss": "没有",
+          "lemma": "no",
+          "surface": "no"
+        },
+        {
+          "gloss": "州",
+          "lemma": "state",
+          "surface": "state"
+        },
+        {
+          "gloss": "应该",
+          "lemma": "should",
+          "surface": "should"
+        },
+        {
+          "gloss": "被",
+          "lemma": "be",
+          "surface": "be"
+        },
+        {
+          "gloss": "允许",
+          "lemma": "allow",
+          "surface": "allowed"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "做",
+          "lemma": "do",
+          "surface": "do"
+        },
+        {
+          "gloss": "这样",
+          "lemma": "so",
+          "surface": "so"
+        },
+        {
+          "gloss": "也",
+          "lemma": "either",
+          "surface": "either"
+        }
+      ]
+    },
+    {
+      "cn_text": "所有大法官都正确地驳回了这一异乎寻常的主张。",
+      "en_text": "Every Justice rightly rejected this remarkable claim.",
+      "id": 2013013169,
+      "order_seq": "content_7_5",
+      "task_id": 201301005,
+      "tokens": [
+        {
+          "gloss": "每一个",
+          "lemma": "every",
+          "surface": "every"
+        },
+        {
+          "gloss": "大法官",
+          "lemma": "justice",
+          "surface": "justice"
+        },
+        {
+          "gloss": "正确地",
+          "lemma": "rightly",
+          "surface": "rightly"
+        },
+        {
+          "gloss": "拒绝",
+          "lemma": "reject",
+          "surface": "rejected"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "this",
+          "surface": "this"
+        },
+        {
+          "gloss": "非凡的",
+          "lemma": "remarkable",
+          "surface": "remarkable"
+        },
+        {
+          "gloss": "主张",
+          "lemma": "claim",
+          "surface": "claim"
+        }
+      ]
+    },
+    {
+      "cn_text": "亚利桑那州计划中的三项条款被推翻,是因为它们____",
+      "en_text": "Three provisions of Arizona’s plan were overturned because they ____",
+      "id": 2013013170,
+      "order_seq": "question_2013011036_stem",
+      "task_id": 201301005,
+      "tokens": [
+        {
+          "gloss": "三",
+          "lemma": "three",
+          "surface": "three"
+        },
+        {
+          "gloss": "条款",
+          "lemma": "provision",
+          "surface": "provisions"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "亚利桑那州的",
+          "lemma": "arizona",
+          "surface": "arizona’s"
+        },
+        {
+          "gloss": "计划",
+          "lemma": "plan",
+          "surface": "plan"
+        },
+        {
+          "gloss": "被",
+          "lemma": "be",
+          "surface": "were"
+        },
+        {
+          "gloss": "推翻",
+          "lemma": "overturn",
+          "surface": "overturned"
+        },
+        {
+          "gloss": "因为",
+          "lemma": "because",
+          "surface": "because"
+        },
+        {
+          "gloss": "它们",
+          "lemma": "they",
+          "surface": "they"
+        }
+      ]
+    },
+    {
+      "cn_text": "剥夺了联邦警察的宪法权力",
+      "en_text": "deprived the federal police of Constitutional powers",
+      "id": 2013013171,
+      "order_seq": "question_2013011036_A",
+      "task_id": 201301005,
+      "tokens": [
+        {
+          "gloss": "剥夺",
+          "lemma": "deprive",
+          "surface": "deprived"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "联邦的",
+          "lemma": "federal",
+          "surface": "federal"
+        },
+        {
+          "gloss": "警察",
+          "lemma": "police",
+          "surface": "police"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "宪法的",
+          "lemma": "constitutional",
+          "surface": "constitutional"
+        },
+        {
+          "gloss": "权力",
+          "lemma": "power",
+          "surface": "powers"
+        }
+      ]
+    },
+    {
+      "cn_text": "扰乱了不同州之间的权力平衡",
+      "en_text": "disturbed the power balance between different states",
+      "id": 2013013172,
+      "order_seq": "question_2013011036_B",
+      "task_id": 201301005,
+      "tokens": [
+        {
+          "gloss": "扰乱",
+          "lemma": "disturb",
+          "surface": "disturbed"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "权力",
+          "lemma": "power",
+          "surface": "power"
+        },
+        {
+          "gloss": "平衡",
+          "lemma": "balance",
+          "surface": "balance"
+        },
+        {
+          "gloss": "在...之间",
+          "lemma": "between",
+          "surface": "between"
+        },
+        {
+          "gloss": "不同的",
+          "lemma": "different",
+          "surface": "different"
+        },
+        {
+          "gloss": "州",
+          "lemma": "state",
+          "surface": "states"
+        }
+      ]
+    },
+    {
+      "cn_text": "超越了联邦移民法的权限",
+      "en_text": "overstepped the authority of federal immigration law",
+      "id": 2013013173,
+      "order_seq": "question_2013011036_C",
+      "task_id": 201301005,
+      "tokens": [
+        {
+          "gloss": "超越",
+          "lemma": "overstep",
+          "surface": "overstepped"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "权限",
+          "lemma": "authority",
+          "surface": "authority"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "联邦的",
+          "lemma": "federal",
+          "surface": "federal"
+        },
+        {
+          "gloss": "移民",
+          "lemma": "immigration",
+          "surface": "immigration"
+        },
+        {
+          "gloss": "法律",
+          "lemma": "law",
+          "surface": "law"
+        }
+      ]
+    },
+    {
+      "cn_text": "与联邦和州政策均相矛盾",
+      "en_text": "contradicted both the federal and state policies",
+      "id": 2013013174,
+      "order_seq": "question_2013011036_D",
+      "task_id": 201301005,
+      "tokens": [
+        {
+          "gloss": "矛盾",
+          "lemma": "contradict",
+          "surface": "contradicted"
+        },
+        {
+          "gloss": "两者",
+          "lemma": "both",
+          "surface": "both"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "联邦的",
+          "lemma": "federal",
+          "surface": "federal"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "州",
+          "lemma": "state",
+          "surface": "state"
+        },
+        {
+          "gloss": "政策",
+          "lemma": "policy",
+          "surface": "policies"
+        }
+      ]
+    },
+    {
+      "cn_text": "根据第4段,大法官们在以下哪一点上达成了一致?",
+      "en_text": "On which of the following did the Justices agree, according to Paragraph 4?",
+      "id": 2013013175,
+      "order_seq": "question_2013011037_stem",
+      "task_id": 201301005,
+      "tokens": [
+        {
+          "gloss": "关于",
+          "lemma": "on",
+          "surface": "On"
+        },
+        {
+          "gloss": "哪些",
+          "lemma": "which",
+          "surface": "which"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "（定冠词）",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "以下的",
+          "lemma": "following",
+          "surface": "following"
+        },
+        {
+          "gloss": "（助动词）",
+          "lemma": "do",
+          "surface": "did"
+        },
+        {
+          "gloss": "（定冠词）",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "法官",
+          "lemma": "justice",
+          "surface": "Justices"
+        },
+        {
+          "gloss": "达成一致",
+          "lemma": "agree",
+          "surface": "agree"
+        },
+        {
+          "gloss": "根据",
+          "lemma": "according",
+          "surface": "according"
+        },
+        {
+          "gloss": "至",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "段落",
+          "lemma": "paragraph",
+          "surface": "Paragraph"
+        }
+      ]
+    },
+    {
+      "cn_text": "联邦官员有义务保留移民信息。",
+      "en_text": "Federal officers’ duty to withhold immigrants’ information.",
+      "id": 2013013176,
+      "order_seq": "question_2013011037_A",
+      "task_id": 201301005,
+      "tokens": [
+        {
+          "gloss": "联邦的",
+          "lemma": "federal",
+          "surface": "Federal"
+        },
+        {
+          "gloss": "官员",
+          "lemma": "officer",
+          "surface": "officers"
+        },
+        {
+          "gloss": "义务",
+          "lemma": "duty",
+          "surface": "duty"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "隐瞒",
+          "lemma": "withhold",
+          "surface": "withhold"
+        },
+        {
+          "gloss": "移民",
+          "lemma": "immigrant",
+          "surface": "immigrants"
+        },
+        {
+          "gloss": "信息",
+          "lemma": "information",
+          "surface": "information"
+        }
+      ]
+    },
+    {
+      "cn_text": "各州独立于联邦移民法。",
+      "en_text": "States’ independence from federal immigration law.",
+      "id": 2013013177,
+      "order_seq": "question_2013011037_B",
+      "task_id": 201301005,
+      "tokens": [
+        {
+          "gloss": "州",
+          "lemma": "state",
+          "surface": "States"
+        },
+        {
+          "gloss": "独立",
+          "lemma": "independence",
+          "surface": "independence"
+        },
+        {
+          "gloss": "从",
+          "lemma": "from",
+          "surface": "from"
+        },
+        {
+          "gloss": "联邦的",
+          "lemma": "federal",
+          "surface": "federal"
+        },
+        {
+          "gloss": "移民",
+          "lemma": "immigration",
+          "surface": "immigration"
+        },
+        {
+          "gloss": "法律",
+          "lemma": "law",
+          "surface": "law"
+        }
+      ]
+    },
+    {
+      "cn_text": "各州在移民执法中的合法角色。",
+      "en_text": "States’ legitimate role in immigration enforcement.",
+      "id": 2013013178,
+      "order_seq": "question_2013011037_C",
+      "task_id": 201301005,
+      "tokens": [
+        {
+          "gloss": "州",
+          "lemma": "state",
+          "surface": "States"
+        },
+        {
+          "gloss": "合法的",
+          "lemma": "legitimate",
+          "surface": "legitimate"
+        },
+        {
+          "gloss": "角色",
+          "lemma": "role",
+          "surface": "role"
+        },
+        {
+          "gloss": "在...中",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "移民",
+          "lemma": "immigration",
+          "surface": "immigration"
+        },
+        {
+          "gloss": "执法",
+          "lemma": "enforcement",
+          "surface": "enforcement"
+        }
+      ]
+    },
+    {
+      "cn_text": "国会对移民执法的介入。",
+      "en_text": "Congress’s intervention in immigration enforcement.",
+      "id": 2013013179,
+      "order_seq": "question_2013011037_D",
+      "task_id": 201301005,
+      "tokens": [
+        {
+          "gloss": "国会的",
+          "lemma": "congress",
+          "surface": "Congress’s"
+        },
+        {
+          "gloss": "干预",
+          "lemma": "intervention",
+          "surface": "intervention"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "移民",
+          "lemma": "immigration",
+          "surface": "immigration"
+        },
+        {
+          "gloss": "执行",
+          "lemma": "enforcement",
+          "surface": "enforcement"
+        }
+      ]
+    },
+    {
+      "cn_text": "从第5段可以推断,《外国人和煽动叛乱法》____",
+      "en_text": "It can be inferred from Paragraph 5 that the Alien and Sedition Acts ____",
+      "id": 2013013180,
+      "order_seq": "question_2013011038_stem",
+      "task_id": 201301005,
+      "tokens": [
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "It"
+        },
+        {
+          "gloss": "可以",
+          "lemma": "can",
+          "surface": "can"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "be"
+        },
+        {
+          "gloss": "推断",
+          "lemma": "infer",
+          "surface": "inferred"
+        },
+        {
+          "gloss": "从",
+          "lemma": "from",
+          "surface": "from"
+        },
+        {
+          "gloss": "段落",
+          "lemma": "paragraph",
+          "surface": "Paragraph"
+        },
+        {
+          "gloss": "（引导从句）",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "（定冠词）",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "外国人",
+          "lemma": "alien",
+          "surface": "Alien"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "煽动",
+          "lemma": "sedition",
+          "surface": "Sedition"
+        },
+        {
+          "gloss": "法案",
+          "lemma": "act",
+          "surface": "Acts"
+        }
+      ]
+    },
+    {
+      "cn_text": "违反了宪法",
+      "en_text": "violated the Constitution",
+      "id": 2013013181,
+      "order_seq": "question_2013011038_A",
+      "task_id": 201301005,
+      "tokens": [
+        {
+          "gloss": "违反",
+          "lemma": "violate",
+          "surface": "violated"
+        },
+        {
+          "gloss": "（定冠词）",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "宪法",
+          "lemma": "constitution",
+          "surface": "Constitution"
+        }
+      ]
+    },
+    {
+      "cn_text": "损害了各州利益",
+      "en_text": "undermined the states’ interests",
+      "id": 2013013182,
+      "order_seq": "question_2013011038_B",
+      "task_id": 201301005,
+      "tokens": [
+        {
+          "gloss": "损害",
+          "lemma": "undermine",
+          "surface": "undermined"
+        },
+        {
+          "gloss": "（定冠词）",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "州",
+          "lemma": "state",
+          "surface": "states"
+        },
+        {
+          "gloss": "利益",
+          "lemma": "interest",
+          "surface": "interests"
+        }
+      ]
+    },
+    {
+      "cn_text": "支持联邦法规",
+      "en_text": "supported the federal statute",
+      "id": 2013013183,
+      "order_seq": "question_2013011038_C",
+      "task_id": 201301005,
+      "tokens": [
+        {
+          "gloss": "支持",
+          "lemma": "support",
+          "surface": "supported"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "联邦的",
+          "lemma": "federal",
+          "surface": "federal"
+        },
+        {
+          "gloss": "法规",
+          "lemma": "statute",
+          "surface": "statute"
+        }
+      ]
+    },
+    {
+      "cn_text": "有利于各州立场",
+      "en_text": "stood in favor of the states",
+      "id": 2013013184,
+      "order_seq": "question_2013011038_D",
+      "task_id": 201301005,
+      "tokens": [
+        {
+          "gloss": "支持",
+          "lemma": "stand",
+          "surface": "stood"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "支持",
+          "lemma": "favor",
+          "surface": "favor"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "这些",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "州",
+          "lemma": "state",
+          "surface": "states"
+        }
+      ]
+    },
+    {
+      "cn_text": "白宫声称其执法权力____",
+      "en_text": "The White House claims that its power of enforcement ____",
+      "id": 2013013185,
+      "order_seq": "question_2013011039_stem",
+      "task_id": 201301005,
+      "tokens": [
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "The"
+        },
+        {
+          "gloss": "白",
+          "lemma": "white",
+          "surface": "White"
+        },
+        {
+          "gloss": "宫",
+          "lemma": "house",
+          "surface": "House"
+        },
+        {
+          "gloss": "声称",
+          "lemma": "claim",
+          "surface": "claims"
+        },
+        {
+          "gloss": "表明",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "它的",
+          "lemma": "its",
+          "surface": "its"
+        },
+        {
+          "gloss": "权力",
+          "lemma": "power",
+          "surface": "power"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "执法",
+          "lemma": "enforcement",
+          "surface": "enforcement"
+        }
+      ]
+    },
+    {
+      "cn_text": "超过各州持有的权力",
+      "en_text": "outweighs that held by the states",
+      "id": 2013013186,
+      "order_seq": "question_2013011039_A",
+      "task_id": 201301005,
+      "tokens": [
+        {
+          "gloss": "超过",
+          "lemma": "outweigh",
+          "surface": "outweighs"
+        },
+        {
+          "gloss": "那个",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "持有",
+          "lemma": "hold",
+          "surface": "held"
+        },
+        {
+          "gloss": "被",
+          "lemma": "by",
+          "surface": "by"
+        },
+        {
+          "gloss": "这些",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "州",
+          "lemma": "state",
+          "surface": "states"
+        }
+      ]
+    },
+    {
+      "cn_text": "依赖于各州的支持",
+      "en_text": "is dependent on the states’ support",
+      "id": 2013013187,
+      "order_seq": "question_2013011039_B",
+      "task_id": 201301005,
+      "tokens": [
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "依赖的",
+          "lemma": "dependent",
+          "surface": "dependent"
+        },
+        {
+          "gloss": "在",
+          "lemma": "on",
+          "surface": "on"
+        },
+        {
+          "gloss": "这些",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "州",
+          "lemma": "state",
+          "surface": "states"
+        },
+        {
+          "gloss": "支持",
+          "lemma": "support",
+          "surface": "support"
+        }
+      ]
+    },
+    {
+      "cn_text": "由联邦法规确立",
+      "en_text": "is established by federal statutes",
+      "id": 2013013188,
+      "order_seq": "question_2013011039_C",
+      "task_id": 201301005,
+      "tokens": [
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "确立",
+          "lemma": "establish",
+          "surface": "established"
+        },
+        {
+          "gloss": "由",
+          "lemma": "by",
+          "surface": "by"
+        },
+        {
+          "gloss": "联邦的",
+          "lemma": "federal",
+          "surface": "federal"
+        },
+        {
+          "gloss": "法规",
+          "lemma": "statute",
+          "surface": "statutes"
+        }
+      ]
+    },
+    {
+      "cn_text": "很少与州法律相抵触",
+      "en_text": "rarely goes against state laws",
+      "id": 2013013189,
+      "order_seq": "question_2013011039_D",
+      "task_id": 201301005,
+      "tokens": [
+        {
+          "gloss": "很少",
+          "lemma": "rarely",
+          "surface": "rarely"
+        },
+        {
+          "gloss": "违背",
+          "lemma": "go",
+          "surface": "goes"
+        },
+        {
+          "gloss": "反对",
+          "lemma": "against",
+          "surface": "against"
+        },
+        {
+          "gloss": "州",
+          "lemma": "state",
+          "surface": "state"
+        },
+        {
+          "gloss": "法律",
+          "lemma": "law",
+          "surface": "laws"
+        }
+      ]
+    },
+    {
+      "cn_text": "从最后一段可以得出什么?",
+      "en_text": "What can be learned from the last paragraph?",
+      "id": 2013013190,
+      "order_seq": "question_2013011040_stem",
+      "task_id": 201301005,
+      "tokens": [
+        {
+          "gloss": "什么",
+          "lemma": "what",
+          "surface": "What"
+        },
+        {
+          "gloss": "能够",
+          "lemma": "can",
+          "surface": "can"
+        },
+        {
+          "gloss": "被",
+          "lemma": "be",
+          "surface": "be"
+        },
+        {
+          "gloss": "得知",
+          "lemma": "learn",
+          "surface": "learned"
+        },
+        {
+          "gloss": "从",
+          "lemma": "from",
+          "surface": "from"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "最后的",
+          "lemma": "last",
+          "surface": "last"
+        },
+        {
+          "gloss": "段落",
+          "lemma": "paragraph",
+          "surface": "paragraph"
+        }
+      ]
+    },
+    {
+      "cn_text": "移民问题通常由国会决定。",
+      "en_text": "Immigration issues are usually decided by Congress.",
+      "id": 2013013191,
+      "order_seq": "question_2013011040_A",
+      "task_id": 201301005,
+      "tokens": [
+        {
+          "gloss": "移民",
+          "lemma": "immigration",
+          "surface": "Immigration"
+        },
+        {
+          "gloss": "问题",
+          "lemma": "issue",
+          "surface": "issues"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "are"
+        },
+        {
+          "gloss": "通常",
+          "lemma": "usually",
+          "surface": "usually"
+        },
+        {
+          "gloss": "决定",
+          "lemma": "decide",
+          "surface": "decided"
+        },
+        {
+          "gloss": "由",
+          "lemma": "by",
+          "surface": "by"
+        },
+        {
+          "gloss": "国会",
+          "lemma": "congress",
+          "surface": "Congress"
+        }
+      ]
+    },
+    {
+      "cn_text": "大法官们意在制约政府权力。",
+      "en_text": "Justices intended to check the power of the Administration.",
+      "id": 2013013192,
+      "order_seq": "question_2013011040_B",
+      "task_id": 201301005,
+      "tokens": [
+        {
+          "gloss": "法官",
+          "lemma": "justice",
+          "surface": "Justices"
+        },
+        {
+          "gloss": "意图",
+          "lemma": "intend",
+          "surface": "intended"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "限制",
+          "lemma": "check",
+          "surface": "check"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "权力",
+          "lemma": "power",
+          "surface": "power"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "政府",
+          "lemma": "administration",
+          "surface": "Administration"
+        }
+      ]
+    },
+    {
+      "cn_text": "大法官们希望加强与国会的协调。",
+      "en_text": "Justices wanted to strengthen its coordination with Congress.",
+      "id": 2013013193,
+      "order_seq": "question_2013011040_C",
+      "task_id": 201301005,
+      "tokens": [
+        {
+          "gloss": "法官",
+          "lemma": "justice",
+          "surface": "Justices"
+        },
+        {
+          "gloss": "希望",
+          "lemma": "want",
+          "surface": "wanted"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "加强",
+          "lemma": "strengthen",
+          "surface": "strengthen"
+        },
+        {
+          "gloss": "它的",
+          "lemma": "its",
+          "surface": "its"
+        },
+        {
+          "gloss": "协调",
+          "lemma": "coordination",
+          "surface": "coordination"
+        },
+        {
+          "gloss": "与",
+          "lemma": "with",
+          "surface": "with"
+        },
+        {
+          "gloss": "国会",
+          "lemma": "congress",
+          "surface": "Congress"
+        }
+      ]
+    },
+    {
+      "cn_text": "政府在移民问题上占主导地位。",
+      "en_text": "The Administration is dominant over immigration issues.",
+      "id": 2013013194,
+      "order_seq": "question_2013011040_D",
+      "task_id": 201301005,
+      "tokens": [
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "The"
+        },
+        {
+          "gloss": "政府",
+          "lemma": "administration",
+          "surface": "Administration"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "占主导地位的",
+          "lemma": "dominant",
+          "surface": "dominant"
+        },
+        {
+          "gloss": "在...上",
+          "lemma": "over",
+          "surface": "over"
+        },
+        {
+          "gloss": "移民",
+          "lemma": "immigration",
+          "surface": "immigration"
+        },
+        {
+          "gloss": "问题",
+          "lemma": "issue",
+          "surface": "issues"
+        }
+      ]
+    }
+  ],
+  "success": true
+}

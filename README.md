@@ -50,18 +50,21 @@
 
 ## 🚀 快速上手指南
 
-### 方式一：浏览器一键安装为桌面独立 App（最推荐 · 真正一步到位 · 免启动服务）
+### 方式一：macOS 用户专用 DMG 镜像安装包（最推荐 · 一步到位）
+1. 前往 [GitHub Releases 页面](https://github.com/XixiGod7/kaoyan-english/releases/tag/v1.0.0) 下载 **`kaoyan-english-v1.0.0.dmg`**；
+2. 双击打开 DMG 镜像，将 **`考研英语一真题库.app`** 拖入 **`Applications (应用程序)`** 文件夹；
+3. **一步到位体验**：之后直接在 Launchpad 启动台或 Dock 程序坞双击打开应用，后台会自动拉起高并发服务并进入全屏刷题窗口，完全无需任何终端命令行或手动启动服务！
+
+### 方式二：Windows 离线包本地极速运行
+1. 前往 [GitHub Releases 页面](https://github.com/XixiGod7/kaoyan-english/releases/tag/v1.0.0) 下载 **`kaoyan-english-v1.0.0-offline.zip`** 并解压；
+2. 双击 **`启动考研英语(无黑框后台运行).vbs`**（静默后台秒开）或 **`一键启动考研英语.bat`** 即可直接使用！
+
+### 方式三：浏览器在线版一键安装为桌面独立 App（免下载任何文件）
 1. 在 Chrome、Edge 或 Safari 浏览器中打开在线站点：[**https://xixigod7.github.io/kaoyan-english/**](https://xixigod7.github.io/kaoyan-english/)；
 2. **安装到桌面**：
-   - **Chrome / Edge**：点击地址栏右侧的 **「安装应用」** 图标（或在页面右上角点击 **「桌面 App」**）；
+   - **Chrome / Edge**：点击地址栏右侧的 **「安装应用」** 图标（或在页面右上角点击 **「桌面应用」**）；
    - **Safari (macOS Sonoma+)**：点击顶部菜单栏 **「文件」** $\rightarrow$ **「添加到程序坞 (Add to Dock...)」**；
-3. **一步到位体验**：安装后，桌面/程序坞将直接生成带有专属书本图标的原生 App。**之后任何时候只需双击桌面图标即可直接秒开进入刷题，完全无需启动任何服务或运行任何脚本！**（已内置 Service Worker 全量离线缓存，即使断网也能 100% 离线使用）。
-
-### 方式二：下载离线压缩包本地运行
-1. 前往 [GitHub Releases 页面](https://github.com/XixiGod7/kaoyan-english/releases/tag/v1.0.0) 下载 **`kaoyan-english-v1.0.0-offline.zip`** 并解压；
-2. **极速运行**：
-   - **macOS 用户**：解压后直接双击 **`考研英语一真题库.app`** 即可一步直达（也可拖动到「应用程序」或桌面常驻，系统会在后台静默唤醒服务并无边框秒开）；
-   - **Windows 用户**：双击 **`启动考研英语(无黑框后台运行).vbs`**（静默秒开）或 **`一键启动考研英语.bat`**。
+3. 安装后桌面/程序坞将直接生成带有专属书本图标的原生 App，断网也可离线使用。
 
 ### 方式三：源码本地开发与构建
 ```bash
