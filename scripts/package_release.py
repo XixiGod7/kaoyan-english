@@ -70,9 +70,9 @@ def build_offline_package():
                 file_path = os.path.join(root, file)
                 arcname = os.path.relpath(file_path, root_dir)
                 
-                # Check if it's a .command file
+                # Check if it's executable script
                 zinfo = zipfile.ZipInfo.from_file(file_path, arcname)
-                if file.endswith('.command') or file.endswith('.sh'):
+                if file.endswith('.command') or file.endswith('.sh') or file.endswith('.py'):
                     # Set Unix permission to 0755 (-rwxr-xr-x)
                     zinfo.external_attr = (0o755 << 16) | 0x20
                 else:
