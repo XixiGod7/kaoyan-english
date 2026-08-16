@@ -1,0 +1,1010 @@
+{
+  "tasks": [
+    {
+      "content_json": {
+        "article": "For the first time in history more people live in towns than in the country.\nIn Britain this has had a curious result.\nWhile polls show Britons rate “the countryside” alongside the royal family, Shakespeare and the National Health Service (NHS) as what makes them proudest of their country, this has limited political support.\nA century ago Octavia Hill launched the National Trust not to rescue stylish houses but to save “the beauty of natural places for everyone forever.”\nIt was specifically to provide city dwellers with spaces for leisure where they could experience “a refreshing air.”\nHill’s pressure later led to the creation of national parks and green belts.\nThey don’t make countryside any more, and every year concrete consumes more of it.\nIt needs constant guardianship.\nAt the next election none of the big parties seem likely to endorse this sentiment.\nThe Conservatives’ planning reform explicitly gives rural development priority over conservation, even authorising “off-plan” building where local people might object.\nThe concept of sustainable development has been defined as profitable.\nLabour likewise wants to discontinue local planning where councils oppose development.\nThe Liberal Democrats are silent.\nOnly Ukip, sensing its chance, has sided with those pleading for a more considered approach to using green land.\nIts Campaign to Protect Rural England struck terror into many local Conservative parties.\nThe sensible place to build new houses, factories and offices is where people are, in cities and towns where infrastructure is in place.\nThe London agents Stirling Ackroyd recently identified enough sites for half a million houses in the London area alone, with no intrusion on green belt.\nWhat is true of London is even truer of the provinces.\nThe idea that “housing crisis” equals “concreted meadows” is pure lobby talk.\nThe issue is not the need for more houses but, as always, where to put them.\nUnder lobby pressure, George Osborne favours rural new-build against urban renovation and renewal.\nHe favours out-of-town shopping sites against high streets.\nThis is not a free market but a biased one.\nRural towns and villages have grown and will always grow.\nThey do so best where building sticks to their edges and respects their character.\nWe do not ruin urban conservation areas.\nWhy ruin rural ones?\nDevelopment should be planned, not let rip.\nAfter the Netherlands, Britain is Europe’s most crowded country.\nHalf a century of town and country planning has enabled it to retain an enviable rural coherence, while still permitting low-density urban living.\nThere is no doubt of the alternative — the corrupted landscapes of southern Portugal, Spain or Ireland.\nAvoiding this rather than promoting it should unite the left and right of the political spectrum.",
+        "questions": [
+          {
+            "ai_analysis_ids": [
+              2016013062
+            ],
+            "ai_analysis_text": "根据文章第一段，尽管英国公众对乡村的情感深厚，但这种情感并未在政治中得到充分体现。\nA. 选项 A 不符合事实，文章没有提到英国公众对乡村的情感起源于莎士比亚时代。\nB. 选项 B 不正确，文章提到 NHS 是英国公众骄傲的方面之一，但并未提到乡村情感对 NHS 的影响。\nC. 选项 C 不正确，文章提到乡村与王室并列为英国人骄傲的事物，但没有提到王室对乡村情感的支持。\nD. 选项 D 是正确的，文章明确指出乡村情感在政治中支持有限。",
+            "ai_analysis_words": [
+              "rate",
+              "limited political support"
+            ],
+            "analysis_sentence_id": 2016013062,
+            "answer": "D",
+            "id": 26,
+            "option_tokens": {
+              "A": [
+                {
+                  "gloss": "没有",
+                  "lemma": "do",
+                  "surface": "didn’t"
+                },
+                {
+                  "gloss": "开始",
+                  "lemma": "start",
+                  "surface": "start"
+                },
+                {
+                  "gloss": "直到",
+                  "lemma": "till",
+                  "surface": "till"
+                },
+                {
+                  "gloss": "这个",
+                  "lemma": "the",
+                  "surface": "the"
+                },
+                {
+                  "gloss": "莎士比亚的",
+                  "lemma": "shakespearean",
+                  "surface": "Shakespearean"
+                },
+                {
+                  "gloss": "时代",
+                  "lemma": "age",
+                  "surface": "age"
+                }
+              ],
+              "B": [
+                {
+                  "gloss": "已经",
+                  "lemma": "have",
+                  "surface": "has"
+                },
+                {
+                  "gloss": "带来",
+                  "lemma": "bring",
+                  "surface": "brought"
+                },
+                {
+                  "gloss": "很多",
+                  "lemma": "much",
+                  "surface": "much"
+                },
+                {
+                  "gloss": "益处",
+                  "lemma": "benefit",
+                  "surface": "benefit"
+                },
+                {
+                  "gloss": "给",
+                  "lemma": "to",
+                  "surface": "to"
+                },
+                {
+                  "gloss": "这个",
+                  "lemma": "the",
+                  "surface": "the"
+                },
+                {
+                  "gloss": "国家医疗服务体系",
+                  "lemma": "nhs",
+                  "surface": "NHS"
+                }
+              ],
+              "C": [
+                {
+                  "gloss": "是",
+                  "lemma": "be",
+                  "surface": "is"
+                },
+                {
+                  "gloss": "完全地",
+                  "lemma": "fully",
+                  "surface": "fully"
+                },
+                {
+                  "gloss": "支持",
+                  "lemma": "back",
+                  "surface": "backed"
+                },
+                {
+                  "gloss": "由",
+                  "lemma": "by",
+                  "surface": "by"
+                },
+                {
+                  "gloss": "这个",
+                  "lemma": "the",
+                  "surface": "the"
+                },
+                {
+                  "gloss": "皇室的",
+                  "lemma": "royal",
+                  "surface": "royal"
+                },
+                {
+                  "gloss": "家庭",
+                  "lemma": "family",
+                  "surface": "family"
+                }
+              ],
+              "D": [
+                {
+                  "gloss": "是",
+                  "lemma": "be",
+                  "surface": "is"
+                },
+                {
+                  "gloss": "不",
+                  "lemma": "not",
+                  "surface": "not"
+                },
+                {
+                  "gloss": "很好地",
+                  "lemma": "well",
+                  "surface": "well"
+                },
+                {
+                  "gloss": "体现",
+                  "lemma": "reflect",
+                  "surface": "reflected"
+                },
+                {
+                  "gloss": "在",
+                  "lemma": "in",
+                  "surface": "in"
+                },
+                {
+                  "gloss": "政治",
+                  "lemma": "politics",
+                  "surface": "politics"
+                }
+              ]
+            },
+            "options": [
+              "A) didn’t start till the Shakespearean age.",
+              "B) has brought much benefit to the NHS.",
+              "C) is fully backed by the royal family.",
+              "D) is not well reflected in politics."
+            ],
+            "qid": 2016011026,
+            "text": "Britain’s public sentiment about the countryside ____",
+            "text_tokens": [
+              {
+                "gloss": "英国",
+                "lemma": "britain",
+                "surface": "Britain’s"
+              },
+              {
+                "gloss": "公众",
+                "lemma": "public",
+                "surface": "public"
+              },
+              {
+                "gloss": "情感",
+                "lemma": "sentiment",
+                "surface": "sentiment"
+              },
+              {
+                "gloss": "关于",
+                "lemma": "about",
+                "surface": "about"
+              },
+              {
+                "gloss": "这个",
+                "lemma": "the",
+                "surface": "the"
+              },
+              {
+                "gloss": "乡村",
+                "lemma": "countryside",
+                "surface": "countryside"
+              }
+            ]
+          },
+          {
+            "ai_analysis_ids": [
+              2016013066
+            ],
+            "ai_analysis_text": "根据第二段内容，国家信托的成就正在受到威胁，乡村每年都在被混凝土侵蚀，因此选项 A 是正确的。\nA. 选项 A 是正确的，文章提到乡村每年都在被混凝土侵蚀，需要持续保护。\nB. 选项 B 不正确，文章没有提到国家信托的成就正在被有效加强。\nC. 选项 C 不正确，文章没有提到国家信托的成就被大幅掩盖。\nD. 选项 D 不正确，文章没有提到国家信托的成就正在被适当保护。",
+            "ai_analysis_words": [
+              "don't make countryside",
+              "concrete consumes"
+            ],
+            "analysis_sentence_id": 2016013066,
+            "answer": "A",
+            "id": 27,
+            "option_tokens": {
+              "A": [
+                {
+                  "gloss": "逐渐地",
+                  "lemma": "gradually",
+                  "surface": "gradually"
+                },
+                {
+                  "gloss": "摧毁",
+                  "lemma": "destroy",
+                  "surface": "destroyed"
+                }
+              ],
+              "B": [
+                {
+                  "gloss": "有效地",
+                  "lemma": "effectively",
+                  "surface": "effectively"
+                },
+                {
+                  "gloss": "加强",
+                  "lemma": "reinforce",
+                  "surface": "reinforced"
+                }
+              ],
+              "C": [
+                {
+                  "gloss": "在很大程度上",
+                  "lemma": "largely",
+                  "surface": "largely"
+                },
+                {
+                  "gloss": "掩盖",
+                  "lemma": "overshadow",
+                  "surface": "overshadowed"
+                }
+              ],
+              "D": [
+                {
+                  "gloss": "适当地",
+                  "lemma": "properly",
+                  "surface": "properly"
+                },
+                {
+                  "gloss": "保护",
+                  "lemma": "protect",
+                  "surface": "protected"
+                }
+              ]
+            },
+            "options": [
+              "A) gradually destroyed.",
+              "B) effectively reinforced.",
+              "C) largely overshadowed.",
+              "D) properly protected."
+            ],
+            "qid": 2016011027,
+            "text": "According to Paragraph 2, the achievements of the National Trust are now being ____",
+            "text_tokens": [
+              {
+                "gloss": "根据",
+                "lemma": "according",
+                "surface": "According"
+              },
+              {
+                "gloss": "到",
+                "lemma": "to",
+                "surface": "to"
+              },
+              {
+                "gloss": "段落",
+                "lemma": "paragraph",
+                "surface": "Paragraph"
+              },
+              {
+                "gloss": "这个",
+                "lemma": "the",
+                "surface": "the"
+              },
+              {
+                "gloss": "成就",
+                "lemma": "achievement",
+                "surface": "achievements"
+              },
+              {
+                "gloss": "的",
+                "lemma": "of",
+                "surface": "of"
+              },
+              {
+                "gloss": "这个",
+                "lemma": "the",
+                "surface": "the"
+              },
+              {
+                "gloss": "国家的",
+                "lemma": "national",
+                "surface": "National"
+              },
+              {
+                "gloss": "信托",
+                "lemma": "trust",
+                "surface": "Trust"
+              },
+              {
+                "gloss": "是",
+                "lemma": "be",
+                "surface": "are"
+              },
+              {
+                "gloss": "现在",
+                "lemma": "now",
+                "surface": "now"
+              },
+              {
+                "gloss": "正在",
+                "lemma": "be",
+                "surface": "being"
+              }
+            ]
+          },
+          {
+            "ai_analysis_ids": [
+              2016013073
+            ],
+            "ai_analysis_text": "根据第三段内容，Ukip 支持乡村保护的立场可能使其从中获益。\nA. 选项 A 不正确，文章没有提到工党因反对开发而受到攻击。\nB. 选项 B 不正确，文章提到保守党支持乡村开发，并未暗示他们可能放弃“非规划建筑”。\nC. 选项 C 不正确，文章提到自由民主党对乡村保护保持沉默，但没有提到其政治影响力下降。\nD. 选项 D 是正确的，文章提到 Ukip 支持乡村保护，并可能因此获益。",
+            "ai_analysis_words": [
+              "sided",
+              "pleading",
+              "considered approach"
+            ],
+            "analysis_sentence_id": 2016013073,
+            "answer": "D",
+            "id": 28,
+            "option_tokens": {
+              "A": [
+                {
+                  "gloss": "工党",
+                  "lemma": "labour",
+                  "surface": "Labour"
+                },
+                {
+                  "gloss": "是",
+                  "lemma": "be",
+                  "surface": "is"
+                },
+                {
+                  "gloss": "因",
+                  "lemma": "under",
+                  "surface": "under"
+                },
+                {
+                  "gloss": "抨击",
+                  "lemma": "attack",
+                  "surface": "attack"
+                },
+                {
+                  "gloss": "因为",
+                  "lemma": "for",
+                  "surface": "for"
+                },
+                {
+                  "gloss": "反对",
+                  "lemma": "oppose",
+                  "surface": "opposing"
+                },
+                {
+                  "gloss": "发展",
+                  "lemma": "development",
+                  "surface": "development"
+                }
+              ],
+              "B": [
+                {
+                  "gloss": "这些",
+                  "lemma": "the",
+                  "surface": "The"
+                },
+                {
+                  "gloss": "保守党",
+                  "lemma": "conservative",
+                  "surface": "Conservatives"
+                },
+                {
+                  "gloss": "可能",
+                  "lemma": "may",
+                  "surface": "may"
+                },
+                {
+                  "gloss": "放弃",
+                  "lemma": "abandon",
+                  "surface": "abandon"
+                },
+                {
+                  "gloss": "不在",
+                  "lemma": "off",
+                  "surface": "off"
+                },
+                {
+                  "gloss": "计划",
+                  "lemma": "plan",
+                  "surface": "plan"
+                },
+                {
+                  "gloss": "建筑",
+                  "lemma": "building",
+                  "surface": "building"
+                }
+              ],
+              "C": [
+                {
+                  "gloss": "该",
+                  "lemma": "the",
+                  "surface": "The"
+                },
+                {
+                  "gloss": "自由",
+                  "lemma": "liberal",
+                  "surface": "Liberal"
+                },
+                {
+                  "gloss": "民主党",
+                  "lemma": "democrat",
+                  "surface": "Democrats"
+                },
+                {
+                  "gloss": "正在",
+                  "lemma": "be",
+                  "surface": "are"
+                },
+                {
+                  "gloss": "失去",
+                  "lemma": "lose",
+                  "surface": "losing"
+                },
+                {
+                  "gloss": "政治的",
+                  "lemma": "political",
+                  "surface": "political"
+                },
+                {
+                  "gloss": "影响力",
+                  "lemma": "influence",
+                  "surface": "influence"
+                }
+              ],
+              "D": [
+                {
+                  "gloss": "英国独立党",
+                  "lemma": "ukip",
+                  "surface": "Ukip"
+                },
+                {
+                  "gloss": "可能",
+                  "lemma": "may",
+                  "surface": "may"
+                },
+                {
+                  "gloss": "获益",
+                  "lemma": "gain",
+                  "surface": "gain"
+                },
+                {
+                  "gloss": "因",
+                  "lemma": "from",
+                  "surface": "from"
+                },
+                {
+                  "gloss": "其",
+                  "lemma": "its",
+                  "surface": "its"
+                },
+                {
+                  "gloss": "支持",
+                  "lemma": "support",
+                  "surface": "support"
+                },
+                {
+                  "gloss": "对",
+                  "lemma": "for",
+                  "surface": "for"
+                },
+                {
+                  "gloss": "乡村的",
+                  "lemma": "rural",
+                  "surface": "rural"
+                },
+                {
+                  "gloss": "保护",
+                  "lemma": "conservation",
+                  "surface": "conservation"
+                }
+              ]
+            },
+            "options": [
+              "A) Labour is under attack for opposing development.",
+              "B) The Conservatives may abandon “off-plan” building.",
+              "C) The Liberal Democrats are losing political influence.",
+              "D) Ukip may gain from its support for rural conservation."
+            ],
+            "qid": 2016011028,
+            "text": "Which of the following can be inferred from Paragraph 3?",
+            "text_tokens": [
+              {
+                "gloss": "哪一个",
+                "lemma": "which",
+                "surface": "Which"
+              },
+              {
+                "gloss": "的",
+                "lemma": "of",
+                "surface": "of"
+              },
+              {
+                "gloss": "这",
+                "lemma": "the",
+                "surface": "the"
+              },
+              {
+                "gloss": "以下的",
+                "lemma": "following",
+                "surface": "following"
+              },
+              {
+                "gloss": "能够",
+                "lemma": "can",
+                "surface": "can"
+              },
+              {
+                "gloss": "是",
+                "lemma": "be",
+                "surface": "be"
+              },
+              {
+                "gloss": "推断",
+                "lemma": "infer",
+                "surface": "inferred"
+              },
+              {
+                "gloss": "从",
+                "lemma": "from",
+                "surface": "from"
+              },
+              {
+                "gloss": "段落",
+                "lemma": "paragraph",
+                "surface": "Paragraph"
+              }
+            ]
+          },
+          {
+            "ai_analysis_ids": [
+              2016013080
+            ],
+            "ai_analysis_text": "根据第五段内容，作者认为 George Osborne 的偏好显示了他对乡村地区特性的忽视。\nA. 选项 A 不正确，文章提到 George Osborne 受到游说压力的影响，并未显示他坚决反对游说压力。\nB. 选项 B 是正确的，文章提到 George Osborne 偏好乡村新建而非城市更新，忽视了乡村地区的特性。\nC. 选项 C 不正确，文章提到住房危机，但并未暗示 George Osborne 的偏好是为了缓解住房危机。\nD. 选项 D 不正确，文章提到 George Osborne 偏好乡村开发，但没有提到他对城市地区的强烈偏见。",
+            "ai_analysis_words": [
+              "favours",
+              "rural new-build",
+              "urban renovation"
+            ],
+            "analysis_sentence_id": 2016013080,
+            "answer": "B",
+            "id": 29,
+            "option_tokens": {
+              "A": [
+                {
+                  "gloss": "突显",
+                  "lemma": "highlight",
+                  "surface": "highlights"
+                },
+                {
+                  "gloss": "他的",
+                  "lemma": "his",
+                  "surface": "his"
+                },
+                {
+                  "gloss": "坚定的",
+                  "lemma": "firm",
+                  "surface": "firm"
+                },
+                {
+                  "gloss": "立场",
+                  "lemma": "stand",
+                  "surface": "stand"
+                },
+                {
+                  "gloss": "反对",
+                  "lemma": "against",
+                  "surface": "against"
+                },
+                {
+                  "gloss": "游说",
+                  "lemma": "lobby",
+                  "surface": "lobby"
+                },
+                {
+                  "gloss": "压力",
+                  "lemma": "pressure",
+                  "surface": "pressure"
+                }
+              ],
+              "B": [
+                {
+                  "gloss": "表明",
+                  "lemma": "show",
+                  "surface": "shows"
+                },
+                {
+                  "gloss": "他的",
+                  "lemma": "his",
+                  "surface": "his"
+                },
+                {
+                  "gloss": "无视",
+                  "lemma": "disregard",
+                  "surface": "disregard"
+                },
+                {
+                  "gloss": "对",
+                  "lemma": "for",
+                  "surface": "for"
+                },
+                {
+                  "gloss": "这个",
+                  "lemma": "the",
+                  "surface": "the"
+                },
+                {
+                  "gloss": "特性",
+                  "lemma": "character",
+                  "surface": "character"
+                },
+                {
+                  "gloss": "的",
+                  "lemma": "of",
+                  "surface": "of"
+                },
+                {
+                  "gloss": "乡村的",
+                  "lemma": "rural",
+                  "surface": "rural"
+                },
+                {
+                  "gloss": "地区",
+                  "lemma": "area",
+                  "surface": "areas"
+                }
+              ],
+              "C": [
+                {
+                  "gloss": "强调",
+                  "lemma": "stress",
+                  "surface": "stresses"
+                },
+                {
+                  "gloss": "这个",
+                  "lemma": "the",
+                  "surface": "the"
+                },
+                {
+                  "gloss": "必要性",
+                  "lemma": "necessity",
+                  "surface": "necessity"
+                },
+                {
+                  "gloss": "的",
+                  "lemma": "of",
+                  "surface": "of"
+                },
+                {
+                  "gloss": "缓解",
+                  "lemma": "ease",
+                  "surface": "easing"
+                },
+                {
+                  "gloss": "这个",
+                  "lemma": "the",
+                  "surface": "the"
+                },
+                {
+                  "gloss": "住房",
+                  "lemma": "housing",
+                  "surface": "housing"
+                },
+                {
+                  "gloss": "危机",
+                  "lemma": "crisis",
+                  "surface": "crisis"
+                }
+              ],
+              "D": [
+                {
+                  "gloss": "揭示",
+                  "lemma": "reveal",
+                  "surface": "reveals"
+                },
+                {
+                  "gloss": "一个",
+                  "lemma": "a",
+                  "surface": "a"
+                },
+                {
+                  "gloss": "强烈的",
+                  "lemma": "strong",
+                  "surface": "strong"
+                },
+                {
+                  "gloss": "偏见",
+                  "lemma": "prejudice",
+                  "surface": "prejudice"
+                },
+                {
+                  "gloss": "针对",
+                  "lemma": "against",
+                  "surface": "against"
+                },
+                {
+                  "gloss": "城市的",
+                  "lemma": "urban",
+                  "surface": "urban"
+                },
+                {
+                  "gloss": "地区",
+                  "lemma": "area",
+                  "surface": "areas"
+                }
+              ]
+            },
+            "options": [
+              "A) highlights his firm stand against lobby pressure.",
+              "B) shows his disregard for the character of rural areas.",
+              "C) stresses the necessity of easing the housing crisis.",
+              "D) reveals a strong prejudice against urban areas."
+            ],
+            "qid": 2016011029,
+            "text": "The author holds that George Osborne’s preference ____",
+            "text_tokens": [
+              {
+                "gloss": "该",
+                "lemma": "the",
+                "surface": "The"
+              },
+              {
+                "gloss": "作者",
+                "lemma": "author",
+                "surface": "author"
+              },
+              {
+                "gloss": "认为",
+                "lemma": "hold",
+                "surface": "holds"
+              },
+              {
+                "gloss": "认为",
+                "lemma": "that",
+                "surface": "that"
+              },
+              {
+                "gloss": "乔治",
+                "lemma": "george",
+                "surface": "George"
+              },
+              {
+                "gloss": "奥斯本的",
+                "lemma": "osborne’s",
+                "surface": "Osborne’s"
+              },
+              {
+                "gloss": "偏好",
+                "lemma": "preference",
+                "surface": "preference"
+              }
+            ]
+          },
+          {
+            "ai_analysis_ids": [
+              2016013089
+            ],
+            "ai_analysis_text": "根据最后一段内容，作者对英国的城乡规划表示赞赏。\nA. 选项 A 不正确，文章提到英国人口密度高，但作者并未表达对人口规模的赞赏。\nB. 选项 B 不正确，文章没有提到作者对英国政治生活的赞赏。\nC. 选项 C 不正确，文章提到低密度城市生活，但作者并未表达对城市生活方式的赞赏。\nD. 选项 D 是正确的，文章提到英国通过城乡规划保留了乡村的连贯性，作者对此表示赞赏。",
+            "ai_analysis_words": [
+              "town and country planning",
+              "retain",
+              "rural coherence"
+            ],
+            "analysis_sentence_id": 2016013089,
+            "answer": "D",
+            "id": 30,
+            "option_tokens": {
+              "A": [
+                {
+                  "gloss": "这个",
+                  "lemma": "the",
+                  "surface": "the"
+                },
+                {
+                  "gloss": "规模",
+                  "lemma": "size",
+                  "surface": "size"
+                },
+                {
+                  "gloss": "的",
+                  "lemma": "of",
+                  "surface": "of"
+                },
+                {
+                  "gloss": "人口",
+                  "lemma": "population",
+                  "surface": "population"
+                },
+                {
+                  "gloss": "在",
+                  "lemma": "in",
+                  "surface": "in"
+                },
+                {
+                  "gloss": "英国",
+                  "lemma": "britain",
+                  "surface": "Britain"
+                }
+              ],
+              "B": [
+                {
+                  "gloss": "这个",
+                  "lemma": "the",
+                  "surface": "the"
+                },
+                {
+                  "gloss": "政治的",
+                  "lemma": "political",
+                  "surface": "political"
+                },
+                {
+                  "gloss": "生活",
+                  "lemma": "life",
+                  "surface": "life"
+                },
+                {
+                  "gloss": "在",
+                  "lemma": "in",
+                  "surface": "in"
+                },
+                {
+                  "gloss": "今天的",
+                  "lemma": "today",
+                  "surface": "today’s"
+                },
+                {
+                  "gloss": "英国",
+                  "lemma": "britain",
+                  "surface": "Britain"
+                }
+              ],
+              "C": [
+                {
+                  "gloss": "这个",
+                  "lemma": "the",
+                  "surface": "the"
+                },
+                {
+                  "gloss": "令人羡慕的",
+                  "lemma": "enviable",
+                  "surface": "enviable"
+                },
+                {
+                  "gloss": "城市的",
+                  "lemma": "urban",
+                  "surface": "urban"
+                },
+                {
+                  "gloss": "生活方式",
+                  "lemma": "lifestyle",
+                  "surface": "lifestyle"
+                },
+                {
+                  "gloss": "在",
+                  "lemma": "in",
+                  "surface": "in"
+                },
+                {
+                  "gloss": "英国",
+                  "lemma": "britain",
+                  "surface": "Britain"
+                }
+              ],
+              "D": [
+                {
+                  "gloss": "定冠词",
+                  "lemma": "the",
+                  "surface": "the"
+                },
+                {
+                  "gloss": "城镇",
+                  "lemma": "town",
+                  "surface": "town"
+                },
+                {
+                  "gloss": "和",
+                  "lemma": "and",
+                  "surface": "and"
+                },
+                {
+                  "gloss": "乡村",
+                  "lemma": "country",
+                  "surface": "country"
+                },
+                {
+                  "gloss": "规划",
+                  "lemma": "planning",
+                  "surface": "planning"
+                },
+                {
+                  "gloss": "在...中",
+                  "lemma": "in",
+                  "surface": "in"
+                },
+                {
+                  "gloss": "英国",
+                  "lemma": "britain",
+                  "surface": "Britain"
+                }
+              ]
+            },
+            "options": [
+              "A) the size of population in Britain.",
+              "B) the political life in today’s Britain.",
+              "C) the enviable urban lifestyle in Britain.",
+              "D) the town-and-country planning in Britain."
+            ],
+            "qid": 2016011030,
+            "text": "In the last paragraph, the author shows his appreciation of ____",
+            "text_tokens": [
+              {
+                "gloss": "在",
+                "lemma": "in",
+                "surface": "In"
+              },
+              {
+                "gloss": "这个",
+                "lemma": "the",
+                "surface": "the"
+              },
+              {
+                "gloss": "最后的",
+                "lemma": "last",
+                "surface": "last"
+              },
+              {
+                "gloss": "段落",
+                "lemma": "paragraph",
+                "surface": "paragraph"
+              },
+              {
+                "gloss": "这个",
+                "lemma": "the",
+                "surface": "the"
+              },
+              {
+                "gloss": "作者",
+                "lemma": "author",
+                "surface": "author"
+              },
+              {
+                "gloss": "表达",
+                "lemma": "show",
+                "surface": "shows"
+              },
+              {
+                "gloss": "他的",
+                "lemma": "his",
+                "surface": "his"
+              },
+              {
+                "gloss": "赞赏",
+                "lemma": "appreciation",
+                "surface": "appreciation"
+              },
+              {
+                "gloss": "对",
+                "lemma": "of",
+                "surface": "of"
+              }
+            ]
+          }
+        ],
+        "title": "Text 2"
+      },
+      "directions": "Read the following four texts. Answer the questions below each text by choosing A, B, C or\nD. Mark your answers on the ANSWER SHEET. (10 points for each text)",
+      "exam_info": "2016(1)",
+      "exam_type": "kaoyan",
+      "id": 201601003,
+      "key_words": "rural britain george osborne country urban development more planning political against countryside houses national nhs town ukip areas build building conservation favours green his its lobby local london new paragraph people pressure support text towns always answer approach author century character coherence concrete conservatives considered consumes crisis democrats each enviable even family following half hill housing labour liberal limited make may off parties place plan pleading rate renovation retain royal ruin sentiment shows sided sites trust under while abandon according",
+      "kid": 17,
+      "part": "Part III",
+      "section": "Sec C",
+      "task_key": "2016(1)_Section II_Part A_Text2",
+      "type": "Reading Comprehension"
+    }
+  ]
+}

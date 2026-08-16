@@ -12,6 +12,8 @@ title 考研英语一真题库
 echo ========================================================
 echo       考研英语一真题库 (2010-2026) - 本地极速启动器
 echo ========================================================
+echo 提示：关闭此命令行窗口即可自动停止服务。
+echo --------------------------------------------------------
 
 REM 1. 优先尝试 python
 where python >nul 2>&1
@@ -46,21 +48,7 @@ pause
     with open(os.path.join(root, '一键启动考研英语.bat'), 'w', newline='\r\n', encoding='utf-8') as f:
         f.write(win_bat)
 
-    # 2. 停止服务.bat (Windows)
-    win_stop = """@echo off
-chcp 65001 >nul
-cd /d "%~dp0"
-echo 正在停止考研英语本地服务 (端口 8085)...
-for /f "tokens=5" %%a in ('netstat -aon ^| findstr ":8085" ^| findstr "LISTENING"') do (
-    taskkill /f /pid %%a >nul 2>&1
-)
-echo [成功] 考研英语服务已安全关闭！
-timeout /t 2 >nul
-"""
-    with open(os.path.join(root, '停止服务.bat'), 'w', newline='\r\n', encoding='utf-8') as f:
-        f.write(win_stop)
-
-    # 3. server.py (Universal Python Server with full Windows & Mac support, LF line endings)
+    # 2. server.py (Universal Python Server with clean icons/ folder mapping)
     server_py = """#!/usr/bin/env python3
 import os
 import sys
@@ -77,6 +65,7 @@ DIST_DIR = os.path.join(ROOT_DIR, 'dist') if os.path.isdir(os.path.join(ROOT_DIR
 DATA_DIR = os.path.join(ROOT_DIR, 'public', 'data') if os.path.isdir(os.path.join(ROOT_DIR, 'public', 'data')) else os.path.join(ROOT_DIR, 'data')
 IMAGES_DIR = os.path.join(ROOT_DIR, 'public', 'images') if os.path.isdir(os.path.join(ROOT_DIR, 'public', 'images')) else os.path.join(ROOT_DIR, 'images')
 THUMBS_DIR = os.path.join(ROOT_DIR, 'public', 'thumbs') if os.path.isdir(os.path.join(ROOT_DIR, 'public', 'thumbs')) else os.path.join(ROOT_DIR, 'thumbs')
+ICONS_DIR = os.path.join(ROOT_DIR, 'public', 'icons') if os.path.isdir(os.path.join(ROOT_DIR, 'public', 'icons')) else os.path.join(ROOT_DIR, 'icons')
 
 class CustomHandler(SimpleHTTPRequestHandler):
     def __init__(self, *args, **kwargs):
@@ -86,6 +75,18 @@ class CustomHandler(SimpleHTTPRequestHandler):
         raw_path = path.split('?', 1)[0].split('#', 1)[0]
         decoded = urllib.parse.unquote(raw_path)
         
+        # Map /icons/* -> ICONS_DIR
+        if decoded.startswith('/icons/') and os.path.isdir(ICONS_DIR):
+            rel = decoded[7:].replace('/', os.sep).replace('\\\\', os.sep)
+            return os.path.join(ICONS_DIR, rel)
+        if decoded.startswith('icons/') and os.path.isdir(ICONS_DIR):
+            rel = decoded[6:].replace('/', os.sep).replace('\\\\', os.sep)
+            return os.path.join(ICONS_DIR, rel)
+
+        # Fallback root icons -> ICONS_DIR
+        if decoded.lstrip('/') in ['favicon.ico', 'favicon.png', 'apple-touch-icon.png', 'manifest.json', 'icon-192.png', 'icon-512.png', 'vite.svg'] and os.path.isdir(ICONS_DIR):
+            return os.path.join(ICONS_DIR, decoded.lstrip('/'))
+
         # Map /data/* -> DATA_DIR
         if decoded.startswith('/data/') and os.path.isdir(DATA_DIR):
             rel = decoded[6:].replace('/', os.sep).replace('\\\\', os.sep)
@@ -118,7 +119,6 @@ class CustomHandler(SimpleHTTPRequestHandler):
         super().end_headers()
 
     def log_message(self, format, *args):
-        # Silent or concise logging
         pass
 
 def is_port_in_use(port):
@@ -144,6 +144,7 @@ def main():
     print(f"前端根目录: {DIST_DIR}")
     print(f"题库数据目录: {DATA_DIR}")
     print(f"访问地址: {URL}")
+    print("提示：直接关闭本命令行窗口即可自动停止服务。")
     print("-" * 60)
 
     if is_port_in_use(PORT):
@@ -159,7 +160,6 @@ def main():
         return
 
     print(f"[成功] 服务已就绪！正在为您自动弹出浏览器: {URL}")
-    print("如需停止服务，请直接关闭本窗口，或运行【停止服务】脚本。")
     print("=" * 60)
     
     open_in_browser(URL)
@@ -176,7 +176,7 @@ if __name__ == '__main__':
     with open(os.path.join(root, 'server.py'), 'w', newline='\n', encoding='utf-8') as f:
         f.write(server_py)
 
-    # 4. 一键启动_Mac.command (macOS with strict LF endings)
+    # 3. 一键启动_Mac.command (macOS with strict LF endings)
     mac_command = """#!/bin/bash
 DIR="$(cd "$(dirname "$0")" && pwd)"
 cd "$DIR"
@@ -189,6 +189,8 @@ URL="http://localhost:${PORT}"
 echo "=========================================================="
 echo "      考研英语一真题库 (2010-2026) - macOS 启动器"
 echo "=========================================================="
+echo "提示：关闭终端窗口即可自动停止服务。"
+echo "----------------------------------------------------------"
 
 PYTHON_CMD=""
 if command -v python3 >/dev/null 2>&1; then
@@ -204,7 +206,7 @@ elif command -v python >/dev/null 2>&1; then
 fi
 
 if [ -n "$PYTHON_CMD" ]; then
-    echo "[1/2] 找到 Python 环境: $($PYTHON_CMD --version 2>&1)"
+    echo "[1/2] 找到 Python: $($PYTHON_CMD --version 2>&1)"
     echo "[2/2] 正在启动本地服务器并打开浏览器..."
     $PYTHON_CMD server.py
 else
@@ -218,17 +220,13 @@ fi
     with open(os.path.join(root, '一键启动_Mac.command'), 'w', newline='\n', encoding='utf-8') as f:
         f.write(mac_command)
 
-    # 5. 停止服务_Mac.command (macOS with strict LF endings)
-    mac_stop = """#!/bin/bash
-echo "正在停止考研英语本地服务 (端口 8085)..."
-kill -9 $(lsof -t -i:8085) >/dev/null 2>&1
-echo "[成功] 考研英语服务已安全关闭！"
-sleep 1
-"""
-    with open(os.path.join(root, '停止服务_Mac.command'), 'w', newline='\n', encoding='utf-8') as f:
-        f.write(mac_stop)
+    # Delete unnecessary stop scripts
+    for stop_file in ['停止服务.bat', '停止服务_Mac.command', 'stop_windows.bat', 'stop_mac.command', 'start_windows.bat', 'start_mac.command']:
+        p = os.path.join(root, stop_file)
+        if os.path.exists(p):
+            os.remove(p)
 
-    print("All launchers updated successfully with correct LF/CRLF line endings!")
+    print("All launchers and server.py updated!")
 
 if __name__ == '__main__':
     update_all_launchers()

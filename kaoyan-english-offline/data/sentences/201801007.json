@@ -1,0 +1,2252 @@
+{
+  "sentences": [
+    {
+      "cn_text": "莎士比亚的生平恰逢戏剧领域异常活跃和成就卓著的时期。",
+      "en_text": "Shakespeare’s lifetime was coincident with a period of extraordinary activity and achievement in the drama.",
+      "id": 2018013235,
+      "order_seq": "content_1_1",
+      "task_id": 201801007,
+      "tokens": [
+        {
+          "gloss": "莎士比亚",
+          "lemma": "shakespeare",
+          "surface": "Shakespeare’s"
+        },
+        {
+          "gloss": "生平",
+          "lemma": "lifetime",
+          "surface": "lifetime"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "was"
+        },
+        {
+          "gloss": "一致的",
+          "lemma": "coincident",
+          "surface": "coincident"
+        },
+        {
+          "gloss": "与",
+          "lemma": "with",
+          "surface": "with"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "时期",
+          "lemma": "period",
+          "surface": "period"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "非凡的",
+          "lemma": "extraordinary",
+          "surface": "extraordinary"
+        },
+        {
+          "gloss": "活动",
+          "lemma": "activity",
+          "surface": "activity"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "成就",
+          "lemma": "achievement",
+          "surface": "achievement"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "戏剧",
+          "lemma": "drama",
+          "surface": "drama"
+        }
+      ]
+    },
+    {
+      "cn_text": "在他出生之时,欧洲正目睹宗教戏剧的衰落,以及在古典悲剧和喜剧的激励下新形式的诞生。",
+      "en_text": "By the date of his birth Europe was witnessing the passing of the religious drama, and the creation of new forms under the incentive of classical tragedy and comedy.",
+      "id": 2018013236,
+      "order_seq": "content_1_2",
+      "task_id": 201801007,
+      "tokens": [
+        {
+          "gloss": "在",
+          "lemma": "by",
+          "surface": "By"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "日期",
+          "lemma": "date",
+          "surface": "date"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "他的",
+          "lemma": "his",
+          "surface": "his"
+        },
+        {
+          "gloss": "出生",
+          "lemma": "birth",
+          "surface": "birth"
+        },
+        {
+          "gloss": "欧洲",
+          "lemma": "europe",
+          "surface": "Europe"
+        },
+        {
+          "gloss": "正",
+          "lemma": "be",
+          "surface": "was"
+        },
+        {
+          "gloss": "经历",
+          "lemma": "witness",
+          "surface": "witnessing"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "消退",
+          "lemma": "passing",
+          "surface": "passing"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "宗教的",
+          "lemma": "religious",
+          "surface": "religious"
+        },
+        {
+          "gloss": "戏剧",
+          "lemma": "drama",
+          "surface": "drama"
+        },
+        {
+          "gloss": "并",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "创造",
+          "lemma": "creation",
+          "surface": "creation"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "新的",
+          "lemma": "new",
+          "surface": "new"
+        },
+        {
+          "gloss": "形式",
+          "lemma": "form",
+          "surface": "forms"
+        },
+        {
+          "gloss": "在",
+          "lemma": "under",
+          "surface": "under"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "激励",
+          "lemma": "incentive",
+          "surface": "incentive"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "古典的",
+          "lemma": "classical",
+          "surface": "classical"
+        },
+        {
+          "gloss": "悲剧",
+          "lemma": "tragedy",
+          "surface": "tragedy"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "喜剧",
+          "lemma": "comedy",
+          "surface": "comedy"
+        }
+      ]
+    },
+    {
+      "cn_text": "这些新形式起初主要由学者创作并由业余爱好者演出,但在英国以及西欧各地,职业演员阶层的兴起正使戏剧有走向大众化的趋势,无论其是新是旧、是古典还是中世纪、是文学性的还是闹剧性的。",
+      "en_text": "These new forms were at first mainly written by scholars and performed by amateurs, but in England, as everywhere else in western Europe, the growth of a class of professional actors was threatening to make the drama popular, whether it should be new or old, classical or medieval, literary or farcical.",
+      "id": 2018013237,
+      "order_seq": "content_1_3",
+      "task_id": 201801007,
+      "tokens": [
+        {
+          "gloss": "这些",
+          "lemma": "these",
+          "surface": "These"
+        },
+        {
+          "gloss": "新的",
+          "lemma": "new",
+          "surface": "new"
+        },
+        {
+          "gloss": "形式",
+          "lemma": "form",
+          "surface": "forms"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "were"
+        },
+        {
+          "gloss": "在",
+          "lemma": "at",
+          "surface": "at"
+        },
+        {
+          "gloss": "起初",
+          "lemma": "first",
+          "surface": "first"
+        },
+        {
+          "gloss": "主要地",
+          "lemma": "mainly",
+          "surface": "mainly"
+        },
+        {
+          "gloss": "写",
+          "lemma": "write",
+          "surface": "written"
+        },
+        {
+          "gloss": "由",
+          "lemma": "by",
+          "surface": "by"
+        },
+        {
+          "gloss": "学者",
+          "lemma": "scholar",
+          "surface": "scholars"
+        },
+        {
+          "gloss": "并且",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "表演",
+          "lemma": "perform",
+          "surface": "performed"
+        },
+        {
+          "gloss": "由",
+          "lemma": "by",
+          "surface": "by"
+        },
+        {
+          "gloss": "业余爱好者",
+          "lemma": "amateur",
+          "surface": "amateurs"
+        },
+        {
+          "gloss": "但是",
+          "lemma": "but",
+          "surface": "but"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "英国",
+          "lemma": "england",
+          "surface": "England"
+        },
+        {
+          "gloss": "如同",
+          "lemma": "as",
+          "surface": "as"
+        },
+        {
+          "gloss": "到处",
+          "lemma": "everywhere",
+          "surface": "everywhere"
+        },
+        {
+          "gloss": "其他",
+          "lemma": "else",
+          "surface": "else"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "西方的",
+          "lemma": "western",
+          "surface": "western"
+        },
+        {
+          "gloss": "欧洲",
+          "lemma": "europe",
+          "surface": "Europe"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "增长",
+          "lemma": "growth",
+          "surface": "growth"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "阶层",
+          "lemma": "class",
+          "surface": "class"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "职业的",
+          "lemma": "professional",
+          "surface": "professional"
+        },
+        {
+          "gloss": "演员",
+          "lemma": "actor",
+          "surface": "actors"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "was"
+        },
+        {
+          "gloss": "威胁",
+          "lemma": "threaten",
+          "surface": "threatening"
+        },
+        {
+          "gloss": "使",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "使",
+          "lemma": "make",
+          "surface": "make"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "戏剧",
+          "lemma": "drama",
+          "surface": "drama"
+        },
+        {
+          "gloss": "流行的",
+          "lemma": "popular",
+          "surface": "popular"
+        },
+        {
+          "gloss": "无论",
+          "lemma": "whether",
+          "surface": "whether"
+        },
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "it"
+        },
+        {
+          "gloss": "应该",
+          "lemma": "should",
+          "surface": "should"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "be"
+        },
+        {
+          "gloss": "新的",
+          "lemma": "new",
+          "surface": "new"
+        },
+        {
+          "gloss": "或者",
+          "lemma": "or",
+          "surface": "or"
+        },
+        {
+          "gloss": "旧的",
+          "lemma": "old",
+          "surface": "old"
+        },
+        {
+          "gloss": "古典的",
+          "lemma": "classical",
+          "surface": "classical"
+        },
+        {
+          "gloss": "或者",
+          "lemma": "or",
+          "surface": "or"
+        },
+        {
+          "gloss": "中世纪的",
+          "lemma": "medieval",
+          "surface": "medieval"
+        },
+        {
+          "gloss": "文学的",
+          "lemma": "literary",
+          "surface": "literary"
+        },
+        {
+          "gloss": "或者",
+          "lemma": "or",
+          "surface": "or"
+        },
+        {
+          "gloss": "滑稽的",
+          "lemma": "farcical",
+          "surface": "farcical"
+        }
+      ]
+    },
+    {
+      "cn_text": "宫廷、学校、业余爱好者组织以及巡回演员都在竞相满足人们对戏剧娱乐的广泛需求;而任何一个上过文法学校的男孩都不可能不知道,戏剧是一种文学形式,它曾为希腊和罗马带来荣耀,也可能为英国带来荣誉。",
+      "en_text": "Court, school, organizations of amateurs, and the traveling actors were all rivals in supplying a widespread desire for dramatic entertainment; and no boy who went to a grammar school could be ignorant that the drama was a form of literature which gave glory to Greece and Rome and might yet bring honor to England.",
+      "id": 2018013238,
+      "order_seq": "content_1_4",
+      "task_id": 201801007,
+      "tokens": [
+        {
+          "gloss": "宫廷",
+          "lemma": "court",
+          "surface": "Court"
+        },
+        {
+          "gloss": "学校",
+          "lemma": "school",
+          "surface": "school"
+        },
+        {
+          "gloss": "组织",
+          "lemma": "organization",
+          "surface": "organizations"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "业余爱好者",
+          "lemma": "amateur",
+          "surface": "amateurs"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "巡回",
+          "lemma": "travel",
+          "surface": "traveling"
+        },
+        {
+          "gloss": "演员",
+          "lemma": "actor",
+          "surface": "actors"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "were"
+        },
+        {
+          "gloss": "所有",
+          "lemma": "all",
+          "surface": "all"
+        },
+        {
+          "gloss": "竞争者",
+          "lemma": "rival",
+          "surface": "rivals"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "提供",
+          "lemma": "supply",
+          "surface": "supplying"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "广泛的",
+          "lemma": "widespread",
+          "surface": "widespread"
+        },
+        {
+          "gloss": "需求",
+          "lemma": "desire",
+          "surface": "desire"
+        },
+        {
+          "gloss": "对",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "戏剧的",
+          "lemma": "dramatic",
+          "surface": "dramatic"
+        },
+        {
+          "gloss": "娱乐",
+          "lemma": "entertainment",
+          "surface": "entertainment"
+        },
+        {
+          "gloss": "并且",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "没有",
+          "lemma": "no",
+          "surface": "no"
+        },
+        {
+          "gloss": "男孩",
+          "lemma": "boy",
+          "surface": "boy"
+        },
+        {
+          "gloss": "谁",
+          "lemma": "who",
+          "surface": "who"
+        },
+        {
+          "gloss": "去",
+          "lemma": "go",
+          "surface": "went"
+        },
+        {
+          "gloss": "到",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "文法",
+          "lemma": "grammar",
+          "surface": "grammar"
+        },
+        {
+          "gloss": "学校",
+          "lemma": "school",
+          "surface": "school"
+        },
+        {
+          "gloss": "能够",
+          "lemma": "can",
+          "surface": "could"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "be"
+        },
+        {
+          "gloss": "不知道的",
+          "lemma": "ignorant",
+          "surface": "ignorant"
+        },
+        {
+          "gloss": "因为",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "戏剧",
+          "lemma": "drama",
+          "surface": "drama"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "was"
+        },
+        {
+          "gloss": "一种",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "形式",
+          "lemma": "form",
+          "surface": "form"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "文学",
+          "lemma": "literature",
+          "surface": "literature"
+        },
+        {
+          "gloss": "它",
+          "lemma": "which",
+          "surface": "which"
+        },
+        {
+          "gloss": "带来",
+          "lemma": "give",
+          "surface": "gave"
+        },
+        {
+          "gloss": "荣耀",
+          "lemma": "glory",
+          "surface": "glory"
+        },
+        {
+          "gloss": "给",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "希腊",
+          "lemma": "greece",
+          "surface": "Greece"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "罗马",
+          "lemma": "rome",
+          "surface": "Rome"
+        },
+        {
+          "gloss": "并且",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "可能",
+          "lemma": "might",
+          "surface": "might"
+        },
+        {
+          "gloss": "还",
+          "lemma": "yet",
+          "surface": "yet"
+        },
+        {
+          "gloss": "带来",
+          "lemma": "bring",
+          "surface": "bring"
+        },
+        {
+          "gloss": "荣誉",
+          "lemma": "honor",
+          "surface": "honor"
+        },
+        {
+          "gloss": "给",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "英国",
+          "lemma": "england",
+          "surface": "England"
+        }
+      ]
+    },
+    {
+      "cn_text": "莎士比亚十二岁时,伦敦建起了第一座公共剧院。",
+      "en_text": "When Shakespeare was twelve years old the first public playhouse was built in London.",
+      "id": 2018013239,
+      "order_seq": "content_2_1",
+      "task_id": 201801007,
+      "tokens": [
+        {
+          "gloss": "当...时",
+          "lemma": "when",
+          "surface": "when"
+        },
+        {
+          "gloss": "莎士比亚",
+          "lemma": "shakespeare",
+          "surface": "Shakespeare"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "was"
+        },
+        {
+          "gloss": "十二",
+          "lemma": "twelve",
+          "surface": "twelve"
+        },
+        {
+          "gloss": "年",
+          "lemma": "year",
+          "surface": "years"
+        },
+        {
+          "gloss": "岁的",
+          "lemma": "old",
+          "surface": "old"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "第一",
+          "lemma": "first",
+          "surface": "first"
+        },
+        {
+          "gloss": "公共的",
+          "lemma": "public",
+          "surface": "public"
+        },
+        {
+          "gloss": "剧院",
+          "lemma": "playhouse",
+          "surface": "playhouse"
+        },
+        {
+          "gloss": "被",
+          "lemma": "be",
+          "surface": "was"
+        },
+        {
+          "gloss": "建造",
+          "lemma": "build",
+          "surface": "built"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "伦敦",
+          "lemma": "london",
+          "surface": "London"
+        }
+      ]
+    },
+    {
+      "cn_text": "文学界一度对这一公共舞台毫无兴趣。",
+      "en_text": "For a time literature showed no interest in this public stage.",
+      "id": 2018013240,
+      "order_seq": "content_2_2",
+      "task_id": 201801007,
+      "tokens": [
+        {
+          "gloss": "一段时间",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "时间",
+          "lemma": "time",
+          "surface": "time"
+        },
+        {
+          "gloss": "文学",
+          "lemma": "literature",
+          "surface": "literature"
+        },
+        {
+          "gloss": "表现出",
+          "lemma": "show",
+          "surface": "showed"
+        },
+        {
+          "gloss": "没有",
+          "lemma": "no",
+          "surface": "no"
+        },
+        {
+          "gloss": "兴趣",
+          "lemma": "interest",
+          "surface": "interest"
+        },
+        {
+          "gloss": "对",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "this",
+          "surface": "this"
+        },
+        {
+          "gloss": "公共的",
+          "lemma": "public",
+          "surface": "public"
+        },
+        {
+          "gloss": "舞台",
+          "lemma": "stage",
+          "surface": "stage"
+        }
+      ]
+    },
+    {
+      "cn_text": "追求文学成就的戏剧是为学校或宫廷创作的,或是为圣保罗教堂和皇家礼拜堂的唱诗班男孩创作的,不过这些男孩既在宫廷也在公众场合演出戏剧。",
+      "en_text": "Plays aiming at literary distinction were written for schools or court, or for the choir boys of St. Paul’s and the royal chapel, who, however, gave plays in public as well as at court.",
+      "id": 2018013241,
+      "order_seq": "content_2_3",
+      "task_id": 201801007,
+      "tokens": [
+        {
+          "gloss": "戏剧",
+          "lemma": "play",
+          "surface": "plays"
+        },
+        {
+          "gloss": "旨在",
+          "lemma": "aim",
+          "surface": "aiming"
+        },
+        {
+          "gloss": "在",
+          "lemma": "at",
+          "surface": "at"
+        },
+        {
+          "gloss": "文学的",
+          "lemma": "literary",
+          "surface": "literary"
+        },
+        {
+          "gloss": "卓越",
+          "lemma": "distinction",
+          "surface": "distinction"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "were"
+        },
+        {
+          "gloss": "写",
+          "lemma": "write",
+          "surface": "written"
+        },
+        {
+          "gloss": "为",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "学校",
+          "lemma": "school",
+          "surface": "schools"
+        },
+        {
+          "gloss": "或",
+          "lemma": "or",
+          "surface": "or"
+        },
+        {
+          "gloss": "宫廷",
+          "lemma": "court",
+          "surface": "court"
+        },
+        {
+          "gloss": "或者",
+          "lemma": "or",
+          "surface": "or"
+        },
+        {
+          "gloss": "为",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "唱诗班",
+          "lemma": "choir",
+          "surface": "choir"
+        },
+        {
+          "gloss": "男孩",
+          "lemma": "boy",
+          "surface": "boys"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "圣",
+          "lemma": "st.",
+          "surface": "St."
+        },
+        {
+          "gloss": "保罗教堂",
+          "lemma": "paul’s",
+          "surface": "Paul’s"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "皇家",
+          "lemma": "royal",
+          "surface": "royal"
+        },
+        {
+          "gloss": "礼拜堂",
+          "lemma": "chapel",
+          "surface": "chapel"
+        },
+        {
+          "gloss": "谁",
+          "lemma": "who",
+          "surface": "who"
+        },
+        {
+          "gloss": "然而",
+          "lemma": "however",
+          "surface": "however"
+        },
+        {
+          "gloss": "进行",
+          "lemma": "give",
+          "surface": "gave"
+        },
+        {
+          "gloss": "戏剧",
+          "lemma": "play",
+          "surface": "plays"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "公众的",
+          "lemma": "public",
+          "surface": "public"
+        },
+        {
+          "gloss": "也",
+          "lemma": "as",
+          "surface": "as"
+        },
+        {
+          "gloss": "也",
+          "lemma": "well",
+          "surface": "well"
+        },
+        {
+          "gloss": "以及",
+          "lemma": "as",
+          "surface": "as"
+        },
+        {
+          "gloss": "在",
+          "lemma": "at",
+          "surface": "at"
+        },
+        {
+          "gloss": "宫廷",
+          "lemma": "court",
+          "surface": "court"
+        }
+      ]
+    },
+    {
+      "cn_text": "但职业剧团在其固定剧院中蓬勃发展,而有文学抱负的大学学子很快便转向这些剧院,将其视为谋生之道。",
+      "en_text": "But the professional companies prospered in their permanent theaters, and university men with literary ambitions were quick to turn to these theaters as offering a means of livelihood.",
+      "id": 2018013243,
+      "order_seq": "content_2_5",
+      "task_id": 201801007,
+      "tokens": [
+        {
+          "gloss": "但是",
+          "lemma": "but",
+          "surface": "but"
+        },
+        {
+          "gloss": "这些",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "职业的",
+          "lemma": "professional",
+          "surface": "professional"
+        },
+        {
+          "gloss": "剧团",
+          "lemma": "company",
+          "surface": "companies"
+        },
+        {
+          "gloss": "兴旺",
+          "lemma": "prosper",
+          "surface": "prospered"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "他们的",
+          "lemma": "their",
+          "surface": "their"
+        },
+        {
+          "gloss": "固定的",
+          "lemma": "permanent",
+          "surface": "permanent"
+        },
+        {
+          "gloss": "剧院",
+          "lemma": "theater",
+          "surface": "theaters"
+        },
+        {
+          "gloss": "而且",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "大学",
+          "lemma": "university",
+          "surface": "university"
+        },
+        {
+          "gloss": "人",
+          "lemma": "man",
+          "surface": "men"
+        },
+        {
+          "gloss": "有",
+          "lemma": "with",
+          "surface": "with"
+        },
+        {
+          "gloss": "文学的",
+          "lemma": "literary",
+          "surface": "literary"
+        },
+        {
+          "gloss": "抱负",
+          "lemma": "ambition",
+          "surface": "ambitions"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "were"
+        },
+        {
+          "gloss": "迅速的",
+          "lemma": "quick",
+          "surface": "quick"
+        },
+        {
+          "gloss": "转向",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "转向",
+          "lemma": "turn",
+          "surface": "turn"
+        },
+        {
+          "gloss": "到",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "这些",
+          "lemma": "these",
+          "surface": "these"
+        },
+        {
+          "gloss": "剧院",
+          "lemma": "theater",
+          "surface": "theaters"
+        },
+        {
+          "gloss": "作为",
+          "lemma": "as",
+          "surface": "as"
+        },
+        {
+          "gloss": "提供",
+          "lemma": "offer",
+          "surface": "offering"
+        },
+        {
+          "gloss": "一种",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "手段",
+          "lemma": "means",
+          "surface": "means"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "生计",
+          "lemma": "livelihood",
+          "surface": "livelihood"
+        }
+      ]
+    },
+    {
+      "cn_text": "到莎士比亚二十五岁时,黎里、皮尔和格林已创作出既流行又具文学性的喜剧;基德写就了一部令剧场爆满的悲剧;而马洛则将诗歌和天才带到了大众舞台并获得成功——自欧里庇得斯去世后,诗歌和天才就不曾在舞台上扮演任何角色。",
+      "en_text": "By the time that Shakespeare was twenty-five, Lyly, Peele, and Greene had made comedies that were at once popular and literary; Kyd had written a tragedy that crowded the pit; and Marlowe had brought poetry and genius to triumph on the common stage — where they had played no part since the death of Euripides.",
+      "id": 2018013244,
+      "order_seq": "content_2_6",
+      "task_id": 201801007,
+      "tokens": [
+        {
+          "gloss": "到...为止",
+          "lemma": "by",
+          "surface": "By"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "时间",
+          "lemma": "time",
+          "surface": "time"
+        },
+        {
+          "gloss": "当...的时候",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "莎士比亚",
+          "lemma": "shakespeare",
+          "surface": "Shakespeare"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "was"
+        },
+        {
+          "gloss": "二十",
+          "lemma": "twenty",
+          "surface": "twenty"
+        },
+        {
+          "gloss": "五",
+          "lemma": "five",
+          "surface": "five"
+        },
+        {
+          "gloss": "利利",
+          "lemma": "lyly",
+          "surface": "Lyly"
+        },
+        {
+          "gloss": "皮尔",
+          "lemma": "peele",
+          "surface": "Peele"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "格林",
+          "lemma": "greene",
+          "surface": "Greene"
+        },
+        {
+          "gloss": "已经",
+          "lemma": "have",
+          "surface": "had"
+        },
+        {
+          "gloss": "创作",
+          "lemma": "make",
+          "surface": "made"
+        },
+        {
+          "gloss": "喜剧",
+          "lemma": "comedy",
+          "surface": "comedies"
+        },
+        {
+          "gloss": "那些",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "were"
+        },
+        {
+          "gloss": "在",
+          "lemma": "at",
+          "surface": "at"
+        },
+        {
+          "gloss": "同时",
+          "lemma": "once",
+          "surface": "once"
+        },
+        {
+          "gloss": "受欢迎的",
+          "lemma": "popular",
+          "surface": "popular"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "文学性的",
+          "lemma": "literary",
+          "surface": "literary"
+        },
+        {
+          "gloss": "基德",
+          "lemma": "kyd",
+          "surface": "Kyd"
+        },
+        {
+          "gloss": "已经",
+          "lemma": "have",
+          "surface": "had"
+        },
+        {
+          "gloss": "写",
+          "lemma": "write",
+          "surface": "written"
+        },
+        {
+          "gloss": "一",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "悲剧",
+          "lemma": "tragedy",
+          "surface": "tragedy"
+        },
+        {
+          "gloss": "那",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "挤满",
+          "lemma": "crowd",
+          "surface": "crowded"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "剧场",
+          "lemma": "pit",
+          "surface": "pit"
+        },
+        {
+          "gloss": "而",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "马洛",
+          "lemma": "marlowe",
+          "surface": "Marlowe"
+        },
+        {
+          "gloss": "已经",
+          "lemma": "have",
+          "surface": "had"
+        },
+        {
+          "gloss": "带来",
+          "lemma": "bring",
+          "surface": "brought"
+        },
+        {
+          "gloss": "诗歌",
+          "lemma": "poetry",
+          "surface": "poetry"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "天才",
+          "lemma": "genius",
+          "surface": "genius"
+        },
+        {
+          "gloss": "到",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "取得胜利",
+          "lemma": "triumph",
+          "surface": "triumph"
+        },
+        {
+          "gloss": "在",
+          "lemma": "on",
+          "surface": "on"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "普通的",
+          "lemma": "common",
+          "surface": "common"
+        },
+        {
+          "gloss": "舞台",
+          "lemma": "stage",
+          "surface": "stage"
+        },
+        {
+          "gloss": "在那里",
+          "lemma": "where",
+          "surface": "where"
+        },
+        {
+          "gloss": "它们",
+          "lemma": "they",
+          "surface": "they"
+        },
+        {
+          "gloss": "曾经",
+          "lemma": "have",
+          "surface": "had"
+        },
+        {
+          "gloss": "扮演",
+          "lemma": "play",
+          "surface": "played"
+        },
+        {
+          "gloss": "没有",
+          "lemma": "no",
+          "surface": "no"
+        },
+        {
+          "gloss": "角色",
+          "lemma": "part",
+          "surface": "part"
+        },
+        {
+          "gloss": "自从",
+          "lemma": "since",
+          "surface": "since"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "去世",
+          "lemma": "death",
+          "surface": "death"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "欧里庇得斯",
+          "lemma": "euripides",
+          "surface": "Euripides"
+        }
+      ]
+    },
+    {
+      "cn_text": "一种本土文学戏剧已然形成,其与公共剧院的联盟业已确立,而且至少它的一些伟大传统已经开启。",
+      "en_text": "A native literary drama had been created, its alliance with the public playhouses established, and at least some of its great traditions had been begun.",
+      "id": 2018013245,
+      "order_seq": "content_2_7",
+      "task_id": 201801007,
+      "tokens": [
+        {
+          "gloss": "一种",
+          "lemma": "a",
+          "surface": "A"
+        },
+        {
+          "gloss": "本土的",
+          "lemma": "native",
+          "surface": "native"
+        },
+        {
+          "gloss": "文学的",
+          "lemma": "literary",
+          "surface": "literary"
+        },
+        {
+          "gloss": "戏剧",
+          "lemma": "drama",
+          "surface": "drama"
+        },
+        {
+          "gloss": "已经",
+          "lemma": "have",
+          "surface": "had"
+        },
+        {
+          "gloss": "被",
+          "lemma": "be",
+          "surface": "been"
+        },
+        {
+          "gloss": "创造",
+          "lemma": "create",
+          "surface": "created"
+        },
+        {
+          "gloss": "它的",
+          "lemma": "its",
+          "surface": "its"
+        },
+        {
+          "gloss": "联系",
+          "lemma": "alliance",
+          "surface": "alliance"
+        },
+        {
+          "gloss": "与",
+          "lemma": "with",
+          "surface": "with"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "公共的",
+          "lemma": "public",
+          "surface": "public"
+        },
+        {
+          "gloss": "剧院",
+          "lemma": "playhouse",
+          "surface": "playhouses"
+        },
+        {
+          "gloss": "确立",
+          "lemma": "establish",
+          "surface": "established"
+        },
+        {
+          "gloss": "并且",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "在",
+          "lemma": "at",
+          "surface": "at"
+        },
+        {
+          "gloss": "至少",
+          "lemma": "least",
+          "surface": "least"
+        },
+        {
+          "gloss": "一些",
+          "lemma": "some",
+          "surface": "some"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "它的",
+          "lemma": "its",
+          "surface": "its"
+        },
+        {
+          "gloss": "伟大的",
+          "lemma": "great",
+          "surface": "great"
+        },
+        {
+          "gloss": "传统",
+          "lemma": "tradition",
+          "surface": "traditions"
+        },
+        {
+          "gloss": "已经",
+          "lemma": "have",
+          "surface": "had"
+        },
+        {
+          "gloss": "被",
+          "lemma": "be",
+          "surface": "been"
+        },
+        {
+          "gloss": "开始",
+          "lemma": "begin",
+          "surface": "begun"
+        }
+      ]
+    },
+    {
+      "cn_text": "此后二十五年伊丽莎白时期戏剧的发展对于文学史研究者而言具有非凡的意义,因为在这短暂的时期里,我们可以追溯多种类型戏剧以及众多伟大事业的萌芽、成长、鼎盛与衰落。",
+      "en_text": "The development of the Elizabethan drama for the next twenty-five years is of exceptional interest to students of literary history, for in this brief period we may trace the beginning, growth, blossoming, and decay of many kinds of plays, and of many great careers.",
+      "id": 2018013246,
+      "order_seq": "content_3_1",
+      "task_id": 201801007,
+      "tokens": [
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "The"
+        },
+        {
+          "gloss": "发展",
+          "lemma": "development",
+          "surface": "development"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "伊丽莎白时期的",
+          "lemma": "elizabethan",
+          "surface": "Elizabethan"
+        },
+        {
+          "gloss": "戏剧",
+          "lemma": "drama",
+          "surface": "drama"
+        },
+        {
+          "gloss": "在...期间",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "接下来的",
+          "lemma": "next",
+          "surface": "next"
+        },
+        {
+          "gloss": "二十",
+          "lemma": "twenty",
+          "surface": "twenty"
+        },
+        {
+          "gloss": "五",
+          "lemma": "five",
+          "surface": "five"
+        },
+        {
+          "gloss": "年",
+          "lemma": "year",
+          "surface": "years"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "具有",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "非凡的",
+          "lemma": "exceptional",
+          "surface": "exceptional"
+        },
+        {
+          "gloss": "意义",
+          "lemma": "interest",
+          "surface": "interest"
+        },
+        {
+          "gloss": "对",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "研究者",
+          "lemma": "student",
+          "surface": "students"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "文学的",
+          "lemma": "literary",
+          "surface": "literary"
+        },
+        {
+          "gloss": "历史",
+          "lemma": "history",
+          "surface": "history"
+        },
+        {
+          "gloss": "因为",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "这",
+          "lemma": "this",
+          "surface": "this"
+        },
+        {
+          "gloss": "短暂的",
+          "lemma": "brief",
+          "surface": "brief"
+        },
+        {
+          "gloss": "时期",
+          "lemma": "period",
+          "surface": "period"
+        },
+        {
+          "gloss": "我们",
+          "lemma": "we",
+          "surface": "we"
+        },
+        {
+          "gloss": "可以",
+          "lemma": "may",
+          "surface": "may"
+        },
+        {
+          "gloss": "追溯",
+          "lemma": "trace",
+          "surface": "trace"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "开端",
+          "lemma": "beginning",
+          "surface": "beginning"
+        },
+        {
+          "gloss": "发展",
+          "lemma": "growth",
+          "surface": "growth"
+        },
+        {
+          "gloss": "繁荣",
+          "lemma": "blossom",
+          "surface": "blossoming"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "衰落",
+          "lemma": "decay",
+          "surface": "decay"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "许多",
+          "lemma": "many",
+          "surface": "many"
+        },
+        {
+          "gloss": "种类",
+          "lemma": "kind",
+          "surface": "kinds"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "戏剧",
+          "lemma": "play",
+          "surface": "plays"
+        },
+        {
+          "gloss": "以及",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "许多",
+          "lemma": "many",
+          "surface": "many"
+        },
+        {
+          "gloss": "伟大的",
+          "lemma": "great",
+          "surface": "great"
+        },
+        {
+          "gloss": "事业",
+          "lemma": "career",
+          "surface": "careers"
+        }
+      ]
+    },
+    {
+      "cn_text": "今天我们既惊叹于当时创作的戏剧数量之巨,也惊叹于同时期为这座仅有二十万居民的伦敦城创作的剧作家人数之众。",
+      "en_text": "We are amazed today at the mere number of plays produced, as well as by the number of dramatists writing at the same time for this London of two hundred thousand inhabitants.",
+      "id": 2018013247,
+      "order_seq": "content_3_2",
+      "task_id": 201801007,
+      "tokens": [
+        {
+          "gloss": "我们",
+          "lemma": "we",
+          "surface": "We"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "are"
+        },
+        {
+          "gloss": "惊讶",
+          "lemma": "amaze",
+          "surface": "amazed"
+        },
+        {
+          "gloss": "今天",
+          "lemma": "today",
+          "surface": "today"
+        },
+        {
+          "gloss": "对",
+          "lemma": "at",
+          "surface": "at"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "仅仅",
+          "lemma": "mere",
+          "surface": "mere"
+        },
+        {
+          "gloss": "数量",
+          "lemma": "number",
+          "surface": "number"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "戏剧",
+          "lemma": "play",
+          "surface": "plays"
+        },
+        {
+          "gloss": "创作",
+          "lemma": "produce",
+          "surface": "produced"
+        },
+        {
+          "gloss": "以及",
+          "lemma": "as",
+          "surface": "as"
+        },
+        {
+          "gloss": "也",
+          "lemma": "well",
+          "surface": "well"
+        },
+        {
+          "gloss": "和",
+          "lemma": "as",
+          "surface": "as"
+        },
+        {
+          "gloss": "由",
+          "lemma": "by",
+          "surface": "by"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "数量",
+          "lemma": "number",
+          "surface": "number"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "剧作家",
+          "lemma": "dramatist",
+          "surface": "dramatists"
+        },
+        {
+          "gloss": "创作",
+          "lemma": "write",
+          "surface": "writing"
+        },
+        {
+          "gloss": "在",
+          "lemma": "at",
+          "surface": "at"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "相同的",
+          "lemma": "same",
+          "surface": "same"
+        },
+        {
+          "gloss": "时间",
+          "lemma": "time",
+          "surface": "time"
+        },
+        {
+          "gloss": "为",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "this",
+          "surface": "this"
+        },
+        {
+          "gloss": "伦敦",
+          "lemma": "london",
+          "surface": "London"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "二",
+          "lemma": "two",
+          "surface": "two"
+        },
+        {
+          "gloss": "百",
+          "lemma": "hundred",
+          "surface": "hundred"
+        },
+        {
+          "gloss": "千",
+          "lemma": "thousand",
+          "surface": "thousand"
+        },
+        {
+          "gloss": "居民",
+          "lemma": "inhabitant",
+          "surface": "inhabitants"
+        }
+      ]
+    },
+    {
+      "cn_text": "要认识到当时戏剧活动何其繁盛,我们还须记住,大量戏剧已经散佚,而且可能没有任何一位知名作家的全部作品流传至今。",
+      "en_text": "To realize how great was the dramatic activity, we must remember further that hosts of plays have been lost, and that probably there is no author of note whose entire work has survived.",
+      "id": 2018013248,
+      "order_seq": "content_3_3",
+      "task_id": 201801007,
+      "tokens": [
+        {
+          "gloss": "为了",
+          "lemma": "to",
+          "surface": "To"
+        },
+        {
+          "gloss": "认识到",
+          "lemma": "realize",
+          "surface": "realize"
+        },
+        {
+          "gloss": "多么",
+          "lemma": "how",
+          "surface": "how"
+        },
+        {
+          "gloss": "繁荣的",
+          "lemma": "great",
+          "surface": "great"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "was"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "戏剧的",
+          "lemma": "dramatic",
+          "surface": "dramatic"
+        },
+        {
+          "gloss": "活动",
+          "lemma": "activity",
+          "surface": "activity"
+        },
+        {
+          "gloss": "我们",
+          "lemma": "we",
+          "surface": "we"
+        },
+        {
+          "gloss": "必须",
+          "lemma": "must",
+          "surface": "must"
+        },
+        {
+          "gloss": "记住",
+          "lemma": "remember",
+          "surface": "remember"
+        },
+        {
+          "gloss": "还",
+          "lemma": "further",
+          "surface": "further"
+        },
+        {
+          "gloss": "那",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "大量",
+          "lemma": "host",
+          "surface": "hosts"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "戏剧",
+          "lemma": "play",
+          "surface": "plays"
+        },
+        {
+          "gloss": "已经",
+          "lemma": "have",
+          "surface": "have"
+        },
+        {
+          "gloss": "被",
+          "lemma": "be",
+          "surface": "been"
+        },
+        {
+          "gloss": "失传",
+          "lemma": "lose",
+          "surface": "lost"
+        },
+        {
+          "gloss": "而且",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "可能",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "可能",
+          "lemma": "probably",
+          "surface": "probably"
+        },
+        {
+          "gloss": "有",
+          "lemma": "there",
+          "surface": "there"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "没有",
+          "lemma": "no",
+          "surface": "no"
+        },
+        {
+          "gloss": "作家",
+          "lemma": "author",
+          "surface": "author"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "著名",
+          "lemma": "note",
+          "surface": "note"
+        },
+        {
+          "gloss": "其",
+          "lemma": "whose",
+          "surface": "whose"
+        },
+        {
+          "gloss": "全部的",
+          "lemma": "entire",
+          "surface": "entire"
+        },
+        {
+          "gloss": "作品",
+          "lemma": "work",
+          "surface": "work"
+        },
+        {
+          "gloss": "已经",
+          "lemma": "have",
+          "surface": "has"
+        },
+        {
+          "gloss": "保存",
+          "lemma": "survive",
+          "surface": "survived"
+        }
+      ]
+    }
+  ],
+  "success": true
+}

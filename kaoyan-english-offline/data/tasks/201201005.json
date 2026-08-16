@@ -1,0 +1,976 @@
+{
+  "tasks": [
+    {
+      "content_json": {
+        "article": "If the trade unionist Jimmy Hoffa were alive today, he would probably represent civil servants.\nWhen Hoffa’s Teamsters were in their prime in 1960, only one in ten American government workers belonged to a union; now 36% do.\nIn 2009 the number of unionists in America’s public sector passed that of their fellow members in the private sector.\nIn Britain, more than half of public-sector workers but only about 15% of private-sector ones are unionized.\nThere are three reasons for the public-sector unions’ thriving.\nFirst, they can shut things down without suffering much in the way of consequences.\nSecond, they are mostly bright and well-educated.\nA quarter of America’s public-sector workers have a university degree.\nThird, they now dominate left-of-centre politics.\nSome of their ties go back a long way.\nBritain’s Labor Party, as its name implies, has long been associated with trade unionism.\nIts current leader, Ed Miliband, owes his position to votes from public-sector unions.\nAt the state level their influence can be even more fearsome.\nMark Baldassare of the Public Policy Institute of California points out that much of the state’s budget is patrolled by unions.\nThe teachers’ unions keep an eye on schools, the CCPOA on prisons and a variety of labor groups on health care.\nIn many rich countries average wages in the state sector are higher than in the private one.\nBut the real gains come in benefits and work practices.\nPoliticians have repeatedly “backloaded” public-sector pay deals, keeping the pay increases modest but adding to holidays and especially pensions that are already generous.\nReform has been vigorously opposed, perhaps most notoriously in education, where charter schools, academies and merit pay all faced drawn-out battles.\nEven though there is plenty of evidence that the quality of the teachers is the most important variable, teachers’ unions have fought against getting rid of bad ones and promoting good ones.\nAs the cost to everyone else has become clearer, politicians have begun to clamp down.\nIn Wisconsin the unions have rallied thousands of supporters against Scott Walker, the hardline Republican governor.\nBut many within the public sector suffer under the current system, too.\nJohn Donahue at Harvard’s Kennedy School points out that the norms of culture in Western civil services suit those who want to stay put but is bad for high achievers.\nThe only American public-sector workers who earn well above $250,sss000 a year are university sports coaches and the president of the United States.\nBankers’ fat pay packets have attracted much criticism, but a public-sector system that does not reward high achievers may be a much bigger problem for America.",
+        "questions": [
+          {
+            "ai_analysis_ids": [
+              2012013160
+            ],
+            "ai_analysis_text": "第一段提到，1960年只有10%的美国政府工作人员属于工会，而现在这一比例已达到36%，并且2009年公共部门的工会成员数量超过了私营部门。这表明工会在公共部门的成员数量显著增加。\nA. 第一段并未提到Teamsters目前的成员数量，因此无法支持此选项。\nB. 文中没有提到Jimmy Hoffa曾是公务员，因此此选项不正确。\nC. 文中明确提到公共部门的工会成员比例从10%增长到36%，支持此选项。\nD. 文中未提到政府与工会关系的改善，因此此选项不正确。",
+            "ai_analysis_words": [
+              "one in ten",
+              "36%",
+              "public sector"
+            ],
+            "analysis_sentence_id": 2012013160,
+            "answer": "C",
+            "id": 36,
+            "option_tokens": {
+              "A": [
+                {
+                  "gloss": "卡车司机工会",
+                  "lemma": "teamster",
+                  "surface": "Teamsters"
+                },
+                {
+                  "gloss": "仍然",
+                  "lemma": "still",
+                  "surface": "still"
+                },
+                {
+                  "gloss": "拥有",
+                  "lemma": "have",
+                  "surface": "have"
+                },
+                {
+                  "gloss": "一个",
+                  "lemma": "a",
+                  "surface": "a"
+                },
+                {
+                  "gloss": "大量的",
+                  "lemma": "large",
+                  "surface": "large"
+                },
+                {
+                  "gloss": "群体",
+                  "lemma": "body",
+                  "surface": "body"
+                },
+                {
+                  "gloss": "的",
+                  "lemma": "of",
+                  "surface": "of"
+                },
+                {
+                  "gloss": "成员",
+                  "lemma": "member",
+                  "surface": "members"
+                }
+              ],
+              "B": [
+                {
+                  "gloss": "吉米",
+                  "lemma": "jimmy",
+                  "surface": "Jimmy"
+                },
+                {
+                  "gloss": "霍法",
+                  "lemma": "hoffa",
+                  "surface": "Hoffa"
+                },
+                {
+                  "gloss": "曾经",
+                  "lemma": "use",
+                  "surface": "used"
+                },
+                {
+                  "gloss": "作为",
+                  "lemma": "to",
+                  "surface": "to"
+                },
+                {
+                  "gloss": "工作",
+                  "lemma": "work",
+                  "surface": "work"
+                },
+                {
+                  "gloss": "作为",
+                  "lemma": "as",
+                  "surface": "as"
+                },
+                {
+                  "gloss": "一名",
+                  "lemma": "a",
+                  "surface": "a"
+                },
+                {
+                  "gloss": "公务的",
+                  "lemma": "civil",
+                  "surface": "civil"
+                },
+                {
+                  "gloss": "公务员",
+                  "lemma": "servant",
+                  "surface": "servant"
+                }
+              ],
+              "C": [
+                {
+                  "gloss": "工会",
+                  "lemma": "union",
+                  "surface": "unions"
+                },
+                {
+                  "gloss": "已经",
+                  "lemma": "have",
+                  "surface": "have"
+                },
+                {
+                  "gloss": "扩大",
+                  "lemma": "enlarge",
+                  "surface": "enlarged"
+                },
+                {
+                  "gloss": "他们的",
+                  "lemma": "their",
+                  "surface": "their"
+                },
+                {
+                  "gloss": "公共的",
+                  "lemma": "public",
+                  "surface": "public"
+                },
+                {
+                  "gloss": "部门",
+                  "lemma": "sector",
+                  "surface": "sector"
+                },
+                {
+                  "gloss": "会员数量",
+                  "lemma": "membership",
+                  "surface": "membership"
+                }
+              ],
+              "D": [
+                {
+                  "gloss": "该",
+                  "lemma": "the",
+                  "surface": "the"
+                },
+                {
+                  "gloss": "政府",
+                  "lemma": "government",
+                  "surface": "government"
+                },
+                {
+                  "gloss": "已经",
+                  "lemma": "have",
+                  "surface": "has"
+                },
+                {
+                  "gloss": "改善",
+                  "lemma": "improve",
+                  "surface": "improved"
+                },
+                {
+                  "gloss": "它的",
+                  "lemma": "its",
+                  "surface": "its"
+                },
+                {
+                  "gloss": "关系",
+                  "lemma": "relationship",
+                  "surface": "relationship"
+                },
+                {
+                  "gloss": "与",
+                  "lemma": "with",
+                  "surface": "with"
+                },
+                {
+                  "gloss": "工会成员",
+                  "lemma": "unionist",
+                  "surface": "unionists"
+                }
+              ]
+            },
+            "options": [
+              "A) Teamsters still have a large body of members.",
+              "B) Jimmy Hoffa used to work as a civil servant.",
+              "C) unions have enlarged their public-sector membership.",
+              "D) the government has improved its relationship with unionists."
+            ],
+            "qid": 2012011036,
+            "text": "It can be learned from the first paragraph that ____",
+            "text_tokens": [
+              {
+                "gloss": "它",
+                "lemma": "it",
+                "surface": "It"
+              },
+              {
+                "gloss": "可以",
+                "lemma": "can",
+                "surface": "can"
+              },
+              {
+                "gloss": "是",
+                "lemma": "be",
+                "surface": "be"
+              },
+              {
+                "gloss": "了解到",
+                "lemma": "learn",
+                "surface": "learned"
+              },
+              {
+                "gloss": "从",
+                "lemma": "from",
+                "surface": "from"
+              },
+              {
+                "gloss": "该",
+                "lemma": "the",
+                "surface": "the"
+              },
+              {
+                "gloss": "第一",
+                "lemma": "first",
+                "surface": "first"
+              },
+              {
+                "gloss": "段落",
+                "lemma": "paragraph",
+                "surface": "paragraph"
+              },
+              {
+                "gloss": "表明",
+                "lemma": "that",
+                "surface": "that"
+              }
+            ]
+          },
+          {
+            "ai_analysis_ids": [
+              2012013164
+            ],
+            "ai_analysis_text": "第二段提到公共部门工会的三个原因，包括它们采取行动时后果较小、成员受教育程度较高以及在左翼政治中的主导地位。其中第一点表明它们采取行动时很少遇到麻烦。\nA. 文中并未提到公共部门工会在采取行动时表现得谨慎，因此此选项不正确。\nB. 虽然提到公共部门工会成员受教育程度较高，但并未说明教育是加入工会的必要条件，因此此选项不正确。\nC. 文中提到工党与工会的长期联系，但并未提到工党反对公共部门工会，因此此选项不正确。\nD. 文中提到公共部门工会采取行动时后果较小，支持此选项。",
+            "ai_analysis_words": [
+              "shut things down",
+              "without suffering much"
+            ],
+            "analysis_sentence_id": 2012013164,
+            "answer": "D",
+            "id": 37,
+            "option_tokens": {
+              "A": [
+                {
+                  "gloss": "公共的",
+                  "lemma": "public",
+                  "surface": "Public"
+                },
+                {
+                  "gloss": "部门",
+                  "lemma": "sector",
+                  "surface": "sector"
+                },
+                {
+                  "gloss": "工会",
+                  "lemma": "union",
+                  "surface": "unions"
+                },
+                {
+                  "gloss": "是",
+                  "lemma": "be",
+                  "surface": "are"
+                },
+                {
+                  "gloss": "谨慎的",
+                  "lemma": "prudent",
+                  "surface": "prudent"
+                },
+                {
+                  "gloss": "在...方面",
+                  "lemma": "in",
+                  "surface": "in"
+                },
+                {
+                  "gloss": "采取",
+                  "lemma": "take",
+                  "surface": "taking"
+                },
+                {
+                  "gloss": "行动",
+                  "lemma": "action",
+                  "surface": "actions"
+                }
+              ],
+              "B": [
+                {
+                  "gloss": "教育",
+                  "lemma": "education",
+                  "surface": "Education"
+                },
+                {
+                  "gloss": "是",
+                  "lemma": "be",
+                  "surface": "is"
+                },
+                {
+                  "gloss": "需要",
+                  "lemma": "require",
+                  "surface": "required"
+                },
+                {
+                  "gloss": "为了",
+                  "lemma": "for",
+                  "surface": "for"
+                },
+                {
+                  "gloss": "公共的",
+                  "lemma": "public",
+                  "surface": "public"
+                },
+                {
+                  "gloss": "部门",
+                  "lemma": "sector",
+                  "surface": "sector"
+                },
+                {
+                  "gloss": "工会",
+                  "lemma": "union",
+                  "surface": "union"
+                },
+                {
+                  "gloss": "成员资格",
+                  "lemma": "membership",
+                  "surface": "membership"
+                }
+              ],
+              "C": [
+                {
+                  "gloss": "工党",
+                  "lemma": "labor",
+                  "surface": "Labor"
+                },
+                {
+                  "gloss": "党",
+                  "lemma": "party",
+                  "surface": "Party"
+                },
+                {
+                  "gloss": "已经",
+                  "lemma": "have",
+                  "surface": "has"
+                },
+                {
+                  "gloss": "长期地",
+                  "lemma": "long",
+                  "surface": "long"
+                },
+                {
+                  "gloss": "是",
+                  "lemma": "be",
+                  "surface": "been"
+                },
+                {
+                  "gloss": "斗争",
+                  "lemma": "fight",
+                  "surface": "fighting"
+                },
+                {
+                  "gloss": "反对",
+                  "lemma": "against",
+                  "surface": "against"
+                },
+                {
+                  "gloss": "公共的",
+                  "lemma": "public",
+                  "surface": "public"
+                },
+                {
+                  "gloss": "部门",
+                  "lemma": "sector",
+                  "surface": "sector"
+                },
+                {
+                  "gloss": "工会",
+                  "lemma": "union",
+                  "surface": "unions"
+                }
+              ],
+              "D": [
+                {
+                  "gloss": "公共的",
+                  "lemma": "public",
+                  "surface": "Public"
+                },
+                {
+                  "gloss": "部门",
+                  "lemma": "sector",
+                  "surface": "sector"
+                },
+                {
+                  "gloss": "工会",
+                  "lemma": "union",
+                  "surface": "unions"
+                },
+                {
+                  "gloss": "很少",
+                  "lemma": "seldom",
+                  "surface": "seldom"
+                },
+                {
+                  "gloss": "陷入",
+                  "lemma": "get",
+                  "surface": "get"
+                },
+                {
+                  "gloss": "在...中",
+                  "lemma": "in",
+                  "surface": "in"
+                },
+                {
+                  "gloss": "麻烦",
+                  "lemma": "trouble",
+                  "surface": "trouble"
+                },
+                {
+                  "gloss": "因为",
+                  "lemma": "for",
+                  "surface": "for"
+                },
+                {
+                  "gloss": "他们的",
+                  "lemma": "their",
+                  "surface": "their"
+                },
+                {
+                  "gloss": "行为",
+                  "lemma": "action",
+                  "surface": "actions"
+                }
+              ]
+            },
+            "options": [
+              "A) Public-sector unions are prudent in taking actions.",
+              "B) Education is required for public-sector union membership.",
+              "C) Labor Party has long been fighting against public-sector unions.",
+              "D) Public-sector unions seldom get in trouble for their actions."
+            ],
+            "qid": 2012011037,
+            "text": "Which of the following is true of Paragraph 2?",
+            "text_tokens": [
+              {
+                "gloss": "哪项",
+                "lemma": "which",
+                "surface": "Which"
+              },
+              {
+                "gloss": "关于",
+                "lemma": "of",
+                "surface": "of"
+              },
+              {
+                "gloss": "该",
+                "lemma": "the",
+                "surface": "the"
+              },
+              {
+                "gloss": "以下",
+                "lemma": "follow",
+                "surface": "following"
+              },
+              {
+                "gloss": "是",
+                "lemma": "be",
+                "surface": "is"
+              },
+              {
+                "gloss": "正确的",
+                "lemma": "true",
+                "surface": "true"
+              },
+              {
+                "gloss": "关于",
+                "lemma": "of",
+                "surface": "of"
+              },
+              {
+                "gloss": "段落",
+                "lemma": "paragraph",
+                "surface": "Paragraph"
+              }
+            ]
+          },
+          {
+            "ai_analysis_ids": [
+              2012013175
+            ],
+            "ai_analysis_text": "第四段提到，尽管公共部门的平均工资高于私营部门，但真正的收益体现在福利和工作制度上，尤其是养老金和假期的增加。这表明收入是通过间接方式增加的。\nA. 文中未提到公共部门的收入是非法获得的，因此此选项不正确。\nB. 文中提到公共部门的收入通过福利和工作制度的改善间接增加，支持此选项。\nC. 文中未提到公共部门的收入被过度增加，因此此选项不正确。\nD. 文中未提到公共部门的收入是公平调整的，因此此选项不正确。",
+            "ai_analysis_words": [
+              "real gains",
+              "benefits",
+              "work practices"
+            ],
+            "analysis_sentence_id": 2012013175,
+            "answer": "B",
+            "id": 38,
+            "option_tokens": {
+              "A": [
+                {
+                  "gloss": "非法地",
+                  "lemma": "illegally",
+                  "surface": "illegally"
+                },
+                {
+                  "gloss": "获得的",
+                  "lemma": "secure",
+                  "surface": "secured"
+                }
+              ],
+              "B": [
+                {
+                  "gloss": "间接地",
+                  "lemma": "indirectly",
+                  "surface": "indirectly"
+                },
+                {
+                  "gloss": "增加的",
+                  "lemma": "augment",
+                  "surface": "augmented"
+                }
+              ],
+              "C": [
+                {
+                  "gloss": "过度地",
+                  "lemma": "excessively",
+                  "surface": "excessively"
+                },
+                {
+                  "gloss": "增加的",
+                  "lemma": "increase",
+                  "surface": "increased"
+                }
+              ],
+              "D": [
+                {
+                  "gloss": "相当",
+                  "lemma": "fairly",
+                  "surface": "fairly"
+                },
+                {
+                  "gloss": "调整",
+                  "lemma": "adjust",
+                  "surface": "adjusted"
+                }
+              ]
+            },
+            "options": [
+              "A) illegally secured.",
+              "B) indirectly augmented.",
+              "C) excessively increased.",
+              "D) fairly adjusted."
+            ],
+            "qid": 2012011038,
+            "text": "It can be learned from Paragraph 4 that the income in the state sector is ____",
+            "text_tokens": [
+              {
+                "gloss": "它",
+                "lemma": "it",
+                "surface": "It"
+              },
+              {
+                "gloss": "可以",
+                "lemma": "can",
+                "surface": "can"
+              },
+              {
+                "gloss": "是",
+                "lemma": "be",
+                "surface": "be"
+              },
+              {
+                "gloss": "得知",
+                "lemma": "learn",
+                "surface": "learned"
+              },
+              {
+                "gloss": "从",
+                "lemma": "from",
+                "surface": "from"
+              },
+              {
+                "gloss": "段落",
+                "lemma": "paragraph",
+                "surface": "Paragraph"
+              },
+              {
+                "gloss": "表明",
+                "lemma": "that",
+                "surface": "that"
+              },
+              {
+                "gloss": "这个",
+                "lemma": "the",
+                "surface": "the"
+              },
+              {
+                "gloss": "收入",
+                "lemma": "income",
+                "surface": "income"
+              },
+              {
+                "gloss": "在...中",
+                "lemma": "in",
+                "surface": "in"
+              },
+              {
+                "gloss": "这个",
+                "lemma": "the",
+                "surface": "the"
+              },
+              {
+                "gloss": "公共",
+                "lemma": "state",
+                "surface": "state"
+              },
+              {
+                "gloss": "部门",
+                "lemma": "sector",
+                "surface": "sector"
+              },
+              {
+                "gloss": "是",
+                "lemma": "be",
+                "surface": "is"
+              }
+            ]
+          },
+          {
+            "ai_analysis_ids": [
+              2012013180
+            ],
+            "ai_analysis_text": "第六段提到威斯康星州的工会反对州长的改革措施，表明工会可能成为公共部门改革的障碍。\nA. 文中未提到工会与当前政治制度对立，因此此选项不正确。\nB. 文中未提到工会改变了人们的政治态度，因此此选项不正确。\nC. 文中提到威斯康星州的工会反对改革措施，支持此选项。\nD. 文中未提到工会在政府中占主导地位，因此此选项不正确。",
+            "ai_analysis_words": [
+              "unions",
+              "rallied",
+              "against",
+              "reforms"
+            ],
+            "analysis_sentence_id": 2012013180,
+            "answer": "C",
+            "id": 39,
+            "option_tokens": {
+              "A": [
+                {
+                  "gloss": "经常",
+                  "lemma": "often",
+                  "surface": "often"
+                },
+                {
+                  "gloss": "运行",
+                  "lemma": "run",
+                  "surface": "run"
+                },
+                {
+                  "gloss": "反对",
+                  "lemma": "against",
+                  "surface": "against"
+                },
+                {
+                  "gloss": "该",
+                  "lemma": "the",
+                  "surface": "the"
+                },
+                {
+                  "gloss": "当前的",
+                  "lemma": "current",
+                  "surface": "current"
+                },
+                {
+                  "gloss": "政治的",
+                  "lemma": "political",
+                  "surface": "political"
+                },
+                {
+                  "gloss": "体系",
+                  "lemma": "system",
+                  "surface": "system"
+                }
+              ],
+              "B": [
+                {
+                  "gloss": "可以",
+                  "lemma": "can",
+                  "surface": "can"
+                },
+                {
+                  "gloss": "改变",
+                  "lemma": "change",
+                  "surface": "change"
+                },
+                {
+                  "gloss": "人们的",
+                  "lemma": "people",
+                  "surface": "people’s"
+                },
+                {
+                  "gloss": "政治的",
+                  "lemma": "political",
+                  "surface": "political"
+                },
+                {
+                  "gloss": "态度",
+                  "lemma": "attitude",
+                  "surface": "attitudes"
+                }
+              ],
+              "C": [
+                {
+                  "gloss": "可能",
+                  "lemma": "may",
+                  "surface": "may"
+                },
+                {
+                  "gloss": "是",
+                  "lemma": "be",
+                  "surface": "be"
+                },
+                {
+                  "gloss": "一个",
+                  "lemma": "a",
+                  "surface": "a"
+                },
+                {
+                  "gloss": "障碍",
+                  "lemma": "barrier",
+                  "surface": "barrier"
+                },
+                {
+                  "gloss": "对",
+                  "lemma": "to",
+                  "surface": "to"
+                },
+                {
+                  "gloss": "公共的",
+                  "lemma": "public",
+                  "surface": "public"
+                },
+                {
+                  "gloss": "部门",
+                  "lemma": "sector",
+                  "surface": "sector"
+                },
+                {
+                  "gloss": "改革",
+                  "lemma": "reform",
+                  "surface": "reforms"
+                }
+              ],
+              "D": [
+                {
+                  "gloss": "是",
+                  "lemma": "be",
+                  "surface": "are"
+                },
+                {
+                  "gloss": "占主导地位的",
+                  "lemma": "dominant",
+                  "surface": "dominant"
+                },
+                {
+                  "gloss": "在",
+                  "lemma": "in",
+                  "surface": "in"
+                },
+                {
+                  "gloss": "该",
+                  "lemma": "the",
+                  "surface": "the"
+                },
+                {
+                  "gloss": "政府",
+                  "lemma": "government",
+                  "surface": "government"
+                }
+              ]
+            },
+            "options": [
+              "A) often run against the current political system.",
+              "B) can change people’s political attitudes.",
+              "C) may be a barrier to public-sector reforms.",
+              "D) are dominant in the government."
+            ],
+            "qid": 2012011039,
+            "text": "The example of the unions in Wisconsin shows that unions ____",
+            "text_tokens": [
+              {
+                "gloss": "该",
+                "lemma": "the",
+                "surface": "The"
+              },
+              {
+                "gloss": "例子",
+                "lemma": "example",
+                "surface": "example"
+              },
+              {
+                "gloss": "的",
+                "lemma": "of",
+                "surface": "of"
+              },
+              {
+                "gloss": "该",
+                "lemma": "the",
+                "surface": "the"
+              },
+              {
+                "gloss": "工会",
+                "lemma": "union",
+                "surface": "unions"
+              },
+              {
+                "gloss": "在",
+                "lemma": "in",
+                "surface": "in"
+              },
+              {
+                "gloss": "威斯康星州",
+                "lemma": "wisconsin",
+                "surface": "Wisconsin"
+              },
+              {
+                "gloss": "表明",
+                "lemma": "show",
+                "surface": "shows"
+              },
+              {
+                "gloss": "表明",
+                "lemma": "that",
+                "surface": "that"
+              },
+              {
+                "gloss": "工会",
+                "lemma": "union",
+                "surface": "unions"
+              }
+            ]
+          },
+          {
+            "ai_analysis_ids": [
+              2012013182
+            ],
+            "ai_analysis_text": "第七段提到John Donahue认为西方公务员文化不利于高成就者，表明他对公共部门体系持否定态度。\nA. 文中提到公共部门体系对高成就者不利，表明John Donahue持否定态度，支持此选项。\nB. 文中未提到John Donahue对公共部门体系持赞赏态度，因此此选项不正确。\nC. 文中未提到John Donahue对公共部门体系持宽容态度，因此此选项不正确。\nD. 文中未提到John Donahue对公共部门体系持冷漠态度，因此此选项不正确。",
+            "ai_analysis_words": [
+              "bad for",
+              "high achievers"
+            ],
+            "analysis_sentence_id": 2012013182,
+            "answer": "A",
+            "id": 40,
+            "option_tokens": {
+              "A": [
+                {
+                  "gloss": "不赞成",
+                  "lemma": "disapproval",
+                  "surface": "disapproval"
+                }
+              ],
+              "B": [
+                {
+                  "gloss": "欣赏",
+                  "lemma": "appreciation",
+                  "surface": "appreciation"
+                }
+              ],
+              "C": [
+                {
+                  "gloss": "宽容",
+                  "lemma": "tolerance",
+                  "surface": "tolerance"
+                }
+              ],
+              "D": [
+                {
+                  "gloss": "冷漠",
+                  "lemma": "indifference",
+                  "surface": "indifference"
+                }
+              ]
+            },
+            "options": [
+              "A) disapproval.",
+              "B) appreciation.",
+              "C) tolerance.",
+              "D) indifference."
+            ],
+            "qid": 2012011040,
+            "text": "John Donahue’s attitude towards the public-sector system is one of ____",
+            "text_tokens": [
+              {
+                "gloss": "约翰",
+                "lemma": "john",
+                "surface": "John"
+              },
+              {
+                "gloss": "多纳休的",
+                "lemma": "donahue",
+                "surface": "Donahue’s"
+              },
+              {
+                "gloss": "态度",
+                "lemma": "attitude",
+                "surface": "attitude"
+              },
+              {
+                "gloss": "对",
+                "lemma": "towards",
+                "surface": "towards"
+              },
+              {
+                "gloss": "该",
+                "lemma": "the",
+                "surface": "the"
+              },
+              {
+                "gloss": "公共的",
+                "lemma": "public",
+                "surface": "public"
+              },
+              {
+                "gloss": "部门",
+                "lemma": "sector",
+                "surface": "sector"
+              },
+              {
+                "gloss": "体系",
+                "lemma": "system",
+                "surface": "system"
+              },
+              {
+                "gloss": "是",
+                "lemma": "be",
+                "surface": "is"
+              },
+              {
+                "gloss": "一种",
+                "lemma": "one",
+                "surface": "one"
+              },
+              {
+                "gloss": "的",
+                "lemma": "of",
+                "surface": "of"
+              }
+            ]
+          }
+        ],
+        "title": "Text 4"
+      },
+      "directions": "Read the following four texts. Answer the questions below each text by choosing A, B, C\nor D. Mark your answers on ANSWER SHEET 1. (10 points for each text)",
+      "exam_info": "2012(1)",
+      "exam_type": "kaoyan",
+      "id": 201201005,
+      "key_words": "sector public unions donahue john against much hoffa one pay state system workers achievers america bad civil current down government high its jimmy labor long ones only out paragraph points private teachers teamsters text work actions american answer benefits britain each education even first following gains learned many mark may members membership more most now party political politicians practices rallied real reforms schools shut suffering ten things trade union unionists university way well wisconsin without above academies adding adjusted alive",
+      "kid": 17,
+      "part": "Part III",
+      "section": "Sec C",
+      "task_key": "2012(1)_Section II_Part A_Text4",
+      "type": "Reading Comprehension"
+    }
+  ]
+}

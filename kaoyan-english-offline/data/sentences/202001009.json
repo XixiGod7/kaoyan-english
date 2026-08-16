@@ -1,0 +1,1116 @@
+{
+  "sentences": [
+    {
+      "cn_text": "这两幅漫画生动地展示了对待工作的两种截然不同的态度。",
+      "en_text": "The two cartoons vividly illustrate contrasting attitudes toward work.",
+      "id": 2026024976,
+      "order_seq": "content_1_1",
+      "task_id": 202001009,
+      "tokens": [
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "The"
+        },
+        {
+          "gloss": "两",
+          "lemma": "two",
+          "surface": "two"
+        },
+        {
+          "gloss": "漫画",
+          "lemma": "cartoon",
+          "surface": "cartoons"
+        },
+        {
+          "gloss": "生动地",
+          "lemma": "vividly",
+          "surface": "vividly"
+        },
+        {
+          "gloss": "展示",
+          "lemma": "illustrate",
+          "surface": "illustrate"
+        },
+        {
+          "gloss": "不同的",
+          "lemma": "contrast",
+          "surface": "contrasting"
+        },
+        {
+          "gloss": "态度",
+          "lemma": "attitude",
+          "surface": "attitudes"
+        },
+        {
+          "gloss": "对待",
+          "lemma": "toward",
+          "surface": "toward"
+        },
+        {
+          "gloss": "工作",
+          "lemma": "work",
+          "surface": "work"
+        }
+      ]
+    },
+    {
+      "cn_text": "左图中，一位女孩正勤奋地提前完成任务,脸上洋溢着满足的神情。",
+      "en_text": "On the left, a girl is diligently completing her tasks ahead of schedule, her face glowing with satisfaction.",
+      "id": 2026024977,
+      "order_seq": "content_1_2",
+      "task_id": 202001009,
+      "tokens": [
+        {
+          "gloss": "在",
+          "lemma": "on",
+          "surface": "On"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "左边",
+          "lemma": "left",
+          "surface": "left"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "女孩",
+          "lemma": "girl",
+          "surface": "girl"
+        },
+        {
+          "gloss": "正在",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "努力地",
+          "lemma": "diligently",
+          "surface": "diligently"
+        },
+        {
+          "gloss": "完成",
+          "lemma": "complete",
+          "surface": "completing"
+        },
+        {
+          "gloss": "她的",
+          "lemma": "her",
+          "surface": "her"
+        },
+        {
+          "gloss": "任务",
+          "lemma": "task",
+          "surface": "tasks"
+        },
+        {
+          "gloss": "提前",
+          "lemma": "ahead",
+          "surface": "ahead"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "时间表",
+          "lemma": "schedule",
+          "surface": "schedule"
+        },
+        {
+          "gloss": "她的",
+          "lemma": "her",
+          "surface": "her"
+        },
+        {
+          "gloss": "脸",
+          "lemma": "face",
+          "surface": "face"
+        },
+        {
+          "gloss": "洋溢",
+          "lemma": "glow",
+          "surface": "glowing"
+        },
+        {
+          "gloss": "带着",
+          "lemma": "with",
+          "surface": "with"
+        },
+        {
+          "gloss": "满足",
+          "lemma": "satisfaction",
+          "surface": "satisfaction"
+        }
+      ]
+    },
+    {
+      "cn_text": "右图中，一位男孩正在拖延，懒散地闲躺直至最后一刻。",
+      "en_text": "On the right, a boy is procrastinating, lounging idly until the last minute.",
+      "id": 2026024978,
+      "order_seq": "content_1_3",
+      "task_id": 202001009,
+      "tokens": [
+        {
+          "gloss": "在",
+          "lemma": "on",
+          "surface": "On"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "右边",
+          "lemma": "right",
+          "surface": "right"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "男孩",
+          "lemma": "boy",
+          "surface": "boy"
+        },
+        {
+          "gloss": "正在",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "拖延",
+          "lemma": "procrastinate",
+          "surface": "procrastinating"
+        },
+        {
+          "gloss": "懒散地躺着",
+          "lemma": "lounge",
+          "surface": "lounging"
+        },
+        {
+          "gloss": "懒散地",
+          "lemma": "idly",
+          "surface": "idly"
+        },
+        {
+          "gloss": "直到",
+          "lemma": "until",
+          "surface": "until"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "最后的",
+          "lemma": "last",
+          "surface": "last"
+        },
+        {
+          "gloss": "一刻钟",
+          "lemma": "minute",
+          "surface": "minute"
+        }
+      ]
+    },
+    {
+      "cn_text": "随着截止日期临近，他显得不知所措且压力重重，艰难地赶工。",
+      "en_text": "As the deadline approaches, he appears overwhelmed and stressed, struggling to finish his work.",
+      "id": 2026024979,
+      "order_seq": "content_1_4",
+      "task_id": 202001009,
+      "tokens": [
+        {
+          "gloss": "随着",
+          "lemma": "as",
+          "surface": "As"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "截止日期",
+          "lemma": "deadline",
+          "surface": "deadline"
+        },
+        {
+          "gloss": "临近",
+          "lemma": "approach",
+          "surface": "approaches"
+        },
+        {
+          "gloss": "他",
+          "lemma": "he",
+          "surface": "he"
+        },
+        {
+          "gloss": "显得",
+          "lemma": "appear",
+          "surface": "appears"
+        },
+        {
+          "gloss": "不知所措",
+          "lemma": "overwhelm",
+          "surface": "overwhelmed"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "压力重重",
+          "lemma": "stress",
+          "surface": "stressed"
+        },
+        {
+          "gloss": "努力",
+          "lemma": "struggle",
+          "surface": "struggling"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "完成",
+          "lemma": "finish",
+          "surface": "finish"
+        },
+        {
+          "gloss": "他的",
+          "lemma": "his",
+          "surface": "his"
+        },
+        {
+          "gloss": "工作",
+          "lemma": "work",
+          "surface": "work"
+        }
+      ]
+    },
+    {
+      "cn_text": "这些对比鲜明的场景凸显了时间管理对于取得更好成果和维持身心健康的重要性。",
+      "en_text": "These contrasting scenarios highlight the importance of time management in achieving better outcomes and maintaining well-being.",
+      "id": 2026024980,
+      "order_seq": "content_1_5",
+      "task_id": 202001009,
+      "tokens": [
+        {
+          "gloss": "这些",
+          "lemma": "these",
+          "surface": "These"
+        },
+        {
+          "gloss": "对比鲜明的",
+          "lemma": "contrast",
+          "surface": "contrasting"
+        },
+        {
+          "gloss": "场景",
+          "lemma": "scenario",
+          "surface": "scenarios"
+        },
+        {
+          "gloss": "突出了",
+          "lemma": "highlight",
+          "surface": "highlight"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "重要性",
+          "lemma": "importance",
+          "surface": "importance"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "时间",
+          "lemma": "time",
+          "surface": "time"
+        },
+        {
+          "gloss": "管理",
+          "lemma": "management",
+          "surface": "management"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "实现",
+          "lemma": "achieve",
+          "surface": "achieving"
+        },
+        {
+          "gloss": "更好的",
+          "lemma": "better",
+          "surface": "better"
+        },
+        {
+          "gloss": "结果",
+          "lemma": "outcome",
+          "surface": "outcomes"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "保持",
+          "lemma": "maintain",
+          "surface": "maintaining"
+        },
+        {
+          "gloss": "良好的",
+          "lemma": "well",
+          "surface": "well"
+        },
+        {
+          "gloss": "存在",
+          "lemma": "be",
+          "surface": "being"
+        }
+      ]
+    },
+    {
+      "cn_text": "寓意十分明确：拖延往往导致不必要的压力和糟糕的表现。",
+      "en_text": "The message is clear: procrastination often leads to unnecessary stress and poor performance.",
+      "id": 2026024981,
+      "order_seq": "content_2_1",
+      "task_id": 202001009,
+      "tokens": [
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "The"
+        },
+        {
+          "gloss": "信息",
+          "lemma": "message",
+          "surface": "message"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "明确的",
+          "lemma": "clear",
+          "surface": "clear"
+        },
+        {
+          "gloss": "拖延",
+          "lemma": "procrastination",
+          "surface": "procrastination"
+        },
+        {
+          "gloss": "通常",
+          "lemma": "often",
+          "surface": "often"
+        },
+        {
+          "gloss": "导致",
+          "lemma": "lead",
+          "surface": "leads"
+        },
+        {
+          "gloss": "到",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "不必要的",
+          "lemma": "unnecessary",
+          "surface": "unnecessary"
+        },
+        {
+          "gloss": "压力",
+          "lemma": "stress",
+          "surface": "stress"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "糟糕的",
+          "lemma": "poor",
+          "surface": "poor"
+        },
+        {
+          "gloss": "表现",
+          "lemma": "performance",
+          "surface": "performance"
+        }
+      ]
+    },
+    {
+      "cn_text": "尽管推迟任务可能看似诱人，但它会造成焦虑与低效的恶性循环。",
+      "en_text": "While delaying tasks may seem tempting, it creates a cycle of anxiety and inefficiency.",
+      "id": 2026024982,
+      "order_seq": "content_2_2",
+      "task_id": 202001009,
+      "tokens": [
+        {
+          "gloss": "虽然",
+          "lemma": "while",
+          "surface": "While"
+        },
+        {
+          "gloss": "拖延",
+          "lemma": "delay",
+          "surface": "delaying"
+        },
+        {
+          "gloss": "任务",
+          "lemma": "task",
+          "surface": "tasks"
+        },
+        {
+          "gloss": "可能",
+          "lemma": "may",
+          "surface": "may"
+        },
+        {
+          "gloss": "看起来",
+          "lemma": "seem",
+          "surface": "seem"
+        },
+        {
+          "gloss": "诱人的",
+          "lemma": "tempting",
+          "surface": "tempting"
+        },
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "it"
+        },
+        {
+          "gloss": "创造",
+          "lemma": "create",
+          "surface": "creates"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "循环",
+          "lemma": "cycle",
+          "surface": "cycle"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "焦虑",
+          "lemma": "anxiety",
+          "surface": "anxiety"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "低效",
+          "lemma": "inefficiency",
+          "surface": "inefficiency"
+        }
+      ]
+    },
+    {
+      "cn_text": "相反，提前规划能够确保更高质量的成果并带来成就感。",
+      "en_text": "In contrast, proactive planning ensures higher-quality results and a sense of accomplishment.",
+      "id": 2026024983,
+      "order_seq": "content_2_3",
+      "task_id": 202001009,
+      "tokens": [
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "对比",
+          "lemma": "contrast",
+          "surface": "contrast"
+        },
+        {
+          "gloss": "积极的",
+          "lemma": "proactive",
+          "surface": "proactive"
+        },
+        {
+          "gloss": "规划",
+          "lemma": "planning",
+          "surface": "planning"
+        },
+        {
+          "gloss": "确保",
+          "lemma": "ensure",
+          "surface": "ensures"
+        },
+        {
+          "gloss": "更高的",
+          "lemma": "high",
+          "surface": "higher"
+        },
+        {
+          "gloss": "质量",
+          "lemma": "quality",
+          "surface": "quality"
+        },
+        {
+          "gloss": "成果",
+          "lemma": "result",
+          "surface": "results"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "感觉",
+          "lemma": "sense",
+          "surface": "sense"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "成就",
+          "lemma": "accomplishment",
+          "surface": "accomplishment"
+        }
+      ]
+    },
+    {
+      "cn_text": "许多人低估了有效履行职责所需的时间和精力，这可能妨碍个人与职业成长。",
+      "en_text": "Many individuals underestimate the time and effort required to complete their responsibilities effectively, which can hinder personal and professional growth.",
+      "id": 2026024984,
+      "order_seq": "content_2_4",
+      "task_id": 202001009,
+      "tokens": [
+        {
+          "gloss": "许多",
+          "lemma": "many",
+          "surface": "many"
+        },
+        {
+          "gloss": "个人",
+          "lemma": "individual",
+          "surface": "individuals"
+        },
+        {
+          "gloss": "低估",
+          "lemma": "underestimate",
+          "surface": "underestimate"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "时间",
+          "lemma": "time",
+          "surface": "time"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "努力",
+          "lemma": "effort",
+          "surface": "effort"
+        },
+        {
+          "gloss": "需要",
+          "lemma": "require",
+          "surface": "required"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "完成",
+          "lemma": "complete",
+          "surface": "complete"
+        },
+        {
+          "gloss": "他们的",
+          "lemma": "their",
+          "surface": "their"
+        },
+        {
+          "gloss": "责任",
+          "lemma": "responsibility",
+          "surface": "responsibilities"
+        },
+        {
+          "gloss": "有效地",
+          "lemma": "effectively",
+          "surface": "effectively"
+        },
+        {
+          "gloss": "这",
+          "lemma": "which",
+          "surface": "which"
+        },
+        {
+          "gloss": "能够",
+          "lemma": "can",
+          "surface": "can"
+        },
+        {
+          "gloss": "阻碍",
+          "lemma": "hinder",
+          "surface": "hinder"
+        },
+        {
+          "gloss": "个人的",
+          "lemma": "personal",
+          "surface": "personal"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "职业的",
+          "lemma": "professional",
+          "surface": "professional"
+        },
+        {
+          "gloss": "发展",
+          "lemma": "growth",
+          "surface": "growth"
+        }
+      ]
+    },
+    {
+      "cn_text": "这凸显了合理管理时间的必要性。",
+      "en_text": "This underscores the need to manage time wisely.",
+      "id": 2026024985,
+      "order_seq": "content_2_5",
+      "task_id": 202001009,
+      "tokens": [
+        {
+          "gloss": "这",
+          "lemma": "this",
+          "surface": "this"
+        },
+        {
+          "gloss": "强调",
+          "lemma": "underscore",
+          "surface": "underscores"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "必要性",
+          "lemma": "need",
+          "surface": "need"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "管理",
+          "lemma": "manage",
+          "surface": "manage"
+        },
+        {
+          "gloss": "时间",
+          "lemma": "time",
+          "surface": "time"
+        },
+        {
+          "gloss": "明智地",
+          "lemma": "wisely",
+          "surface": "wisely"
+        }
+      ]
+    },
+    {
+      "cn_text": "要克服拖延症，培养良好习惯至关重要。",
+      "en_text": "To overcome procrastination, cultivating good habits is essential.",
+      "id": 2026024986,
+      "order_seq": "content_3_1",
+      "task_id": 202001009,
+      "tokens": [
+        {
+          "gloss": "为了",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "克服",
+          "lemma": "overcome",
+          "surface": "overcome"
+        },
+        {
+          "gloss": "拖延",
+          "lemma": "procrastination",
+          "surface": "procrastination"
+        },
+        {
+          "gloss": "培养",
+          "lemma": "cultivate",
+          "surface": "cultivating"
+        },
+        {
+          "gloss": "好的",
+          "lemma": "good",
+          "surface": "good"
+        },
+        {
+          "gloss": "习惯",
+          "lemma": "habit",
+          "surface": "habits"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "至关重要的",
+          "lemma": "essential",
+          "surface": "essential"
+        }
+      ]
+    },
+    {
+      "cn_text": "设定明确目标、制订切实可行的时间表并将任务分解为更小的步骤，有助于保持稳步推进。",
+      "en_text": "Setting clear goals, creating realistic schedules, and breaking tasks into smaller steps can help maintain steady progress.",
+      "id": 2026024987,
+      "order_seq": "content_3_2",
+      "task_id": 202001009,
+      "tokens": [
+        {
+          "gloss": "设定",
+          "lemma": "set",
+          "surface": "setting"
+        },
+        {
+          "gloss": "明确的",
+          "lemma": "clear",
+          "surface": "clear"
+        },
+        {
+          "gloss": "目标",
+          "lemma": "goal",
+          "surface": "goals"
+        },
+        {
+          "gloss": "制定",
+          "lemma": "create",
+          "surface": "creating"
+        },
+        {
+          "gloss": "现实的",
+          "lemma": "realistic",
+          "surface": "realistic"
+        },
+        {
+          "gloss": "时间表",
+          "lemma": "schedule",
+          "surface": "schedules"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "分解",
+          "lemma": "break",
+          "surface": "breaking"
+        },
+        {
+          "gloss": "任务",
+          "lemma": "task",
+          "surface": "tasks"
+        },
+        {
+          "gloss": "分成",
+          "lemma": "into",
+          "surface": "into"
+        },
+        {
+          "gloss": "较小的",
+          "lemma": "small",
+          "surface": "smaller"
+        },
+        {
+          "gloss": "步骤",
+          "lemma": "step",
+          "surface": "steps"
+        },
+        {
+          "gloss": "可以",
+          "lemma": "can",
+          "surface": "can"
+        },
+        {
+          "gloss": "帮助",
+          "lemma": "help",
+          "surface": "help"
+        },
+        {
+          "gloss": "保持",
+          "lemma": "maintain",
+          "surface": "maintain"
+        },
+        {
+          "gloss": "稳定的",
+          "lemma": "steady",
+          "surface": "steady"
+        },
+        {
+          "gloss": "进展",
+          "lemma": "progress",
+          "surface": "progress"
+        }
+      ]
+    },
+    {
+      "cn_text": "对按时完成任务给予自我奖励可以强化这种积极行为。",
+      "en_text": "Rewarding oneself for timely completion of tasks reinforces positive behavior.",
+      "id": 2026024988,
+      "order_seq": "content_3_3",
+      "task_id": 202001009,
+      "tokens": [
+        {
+          "gloss": "奖励",
+          "lemma": "reward",
+          "surface": "rewarding"
+        },
+        {
+          "gloss": "自己",
+          "lemma": "oneself",
+          "surface": "oneself"
+        },
+        {
+          "gloss": "因为",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "及时的",
+          "lemma": "timely",
+          "surface": "timely"
+        },
+        {
+          "gloss": "完成",
+          "lemma": "completion",
+          "surface": "completion"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "任务",
+          "lemma": "task",
+          "surface": "tasks"
+        },
+        {
+          "gloss": "强化",
+          "lemma": "reinforce",
+          "surface": "reinforces"
+        },
+        {
+          "gloss": "积极的",
+          "lemma": "positive",
+          "surface": "positive"
+        },
+        {
+          "gloss": "行为",
+          "lemma": "behavior",
+          "surface": "behavior"
+        }
+      ]
+    },
+    {
+      "cn_text": "像漫画中的女孩那样秉持勤奋与自律，我们便能在享受更加平衡充实生活的同时取得成功。",
+      "en_text": "By embracing diligence and discipline, like the girl in the cartoon, we can achieve success while enjoying a more balanced and fulfilling life.",
+      "id": 2026024989,
+      "order_seq": "content_3_4",
+      "task_id": 202001009,
+      "tokens": [
+        {
+          "gloss": "通过",
+          "lemma": "by",
+          "surface": "by"
+        },
+        {
+          "gloss": "拥抱",
+          "lemma": "embrace",
+          "surface": "embracing"
+        },
+        {
+          "gloss": "勤奋",
+          "lemma": "diligence",
+          "surface": "diligence"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "自律",
+          "lemma": "discipline",
+          "surface": "discipline"
+        },
+        {
+          "gloss": "像",
+          "lemma": "like",
+          "surface": "like"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "女孩",
+          "lemma": "girl",
+          "surface": "girl"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "漫画",
+          "lemma": "cartoon",
+          "surface": "cartoon"
+        },
+        {
+          "gloss": "我们",
+          "lemma": "we",
+          "surface": "we"
+        },
+        {
+          "gloss": "可以",
+          "lemma": "can",
+          "surface": "can"
+        },
+        {
+          "gloss": "获得",
+          "lemma": "achieve",
+          "surface": "achieve"
+        },
+        {
+          "gloss": "成功",
+          "lemma": "success",
+          "surface": "success"
+        },
+        {
+          "gloss": "同时",
+          "lemma": "while",
+          "surface": "while"
+        },
+        {
+          "gloss": "享受",
+          "lemma": "enjoy",
+          "surface": "enjoying"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "更",
+          "lemma": "more",
+          "surface": "more"
+        },
+        {
+          "gloss": "平衡的",
+          "lemma": "balanced",
+          "surface": "balanced"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "充实的",
+          "lemma": "fulfilling",
+          "surface": "fulfilling"
+        },
+        {
+          "gloss": "生活",
+          "lemma": "life",
+          "surface": "life"
+        }
+      ]
+    }
+  ],
+  "success": true
+}

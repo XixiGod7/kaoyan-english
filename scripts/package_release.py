@@ -14,32 +14,22 @@ def build_offline_package():
     # 1. Copy dist/index.html -> index.html
     shutil.copy2(os.path.join(root_dir, 'dist', 'index.html'), os.path.join(out_dir, 'index.html'))
     
-    # 2. Copy PWA icons and manifest
-    for icon_name in ['manifest.json', 'favicon.png', 'apple-touch-icon.png', 'icon-192.png', 'icon-512.png', 'sw.js']:
-        src_icon = os.path.join(root_dir, 'public', icon_name)
-        if os.path.exists(src_icon):
-            shutil.copy2(src_icon, os.path.join(out_dir, icon_name))
-
-    # 3. Copy server.py
+    # 2. Copy server.py
     shutil.copy2(os.path.join(root_dir, 'server.py'), os.path.join(out_dir, 'server.py'))
     
-    # 4. Copy launchers (Both Chinese and English names for 100% compatibility)
+    # 3. Copy clean launchers (Only 1 bat and 1 command)
     shutil.copy2(os.path.join(root_dir, '一键启动考研英语.bat'), os.path.join(out_dir, '一键启动考研英语.bat'))
-    shutil.copy2(os.path.join(root_dir, '一键启动考研英语.bat'), os.path.join(out_dir, 'start_windows.bat'))
-    
     shutil.copy2(os.path.join(root_dir, '一键启动_Mac.command'), os.path.join(out_dir, '一键启动_Mac.command'))
-    shutil.copy2(os.path.join(root_dir, '一键启动_Mac.command'), os.path.join(out_dir, 'start_mac.command'))
-    
-    shutil.copy2(os.path.join(root_dir, '停止服务.bat'), os.path.join(out_dir, '停止服务.bat'))
-    shutil.copy2(os.path.join(root_dir, '停止服务.bat'), os.path.join(out_dir, 'stop_windows.bat'))
-    
-    shutil.copy2(os.path.join(root_dir, '停止服务_Mac.command'), os.path.join(out_dir, '停止服务_Mac.command'))
-    shutil.copy2(os.path.join(root_dir, '停止服务_Mac.command'), os.path.join(out_dir, 'stop_mac.command'))
 
-    # 4. Copy data
+    # 4. Copy icons folder (all icons, favicon, manifest neatly inside icons/)
+    icons_src = os.path.join(root_dir, 'public', 'icons')
+    if os.path.exists(icons_src):
+        shutil.copytree(icons_src, os.path.join(out_dir, 'icons'))
+
+    # 5. Copy data
     shutil.copytree(os.path.join(root_dir, 'public', 'data'), os.path.join(out_dir, 'data'))
 
-    # 5. Copy images and thumbs if exist
+    # 6. Copy images and thumbs if exist
     img_dir = os.path.join(root_dir, 'public', 'images')
     if os.path.exists(img_dir):
         shutil.copytree(img_dir, os.path.join(out_dir, 'images'))
@@ -48,28 +38,25 @@ def build_offline_package():
     if os.path.exists(thumb_dir):
         shutil.copytree(thumb_dir, os.path.join(out_dir, 'thumbs'))
 
-    # 6. Create instructions text
+    # 7. Create clean instructions text
     instructions = """============================================================
-考研英语一真题库 (2010-2026) - 完整离线运行包
+考研英语一真题库 (2010-2026) - 完整运行包
 ============================================================
 
 【Windows 系统运行方法】
-直接双击运行【一键启动考研英语.bat】（或 start_windows.bat），系统将自动启动并弹出浏览器。
+直接双击运行【一键启动考研英语.bat】，系统将自动启动服务并弹出浏览器。
 
 【Mac 系统运行方法】
-1. 直接双击运行【一键启动_Mac.command】（或 start_mac.command）；
-2. 启动后会自动打开默认浏览器进入题库系统！
-3. 如终端需要直接运行：
-   python3 server.py
+直接双击运行【一键启动_Mac.command】，系统将自动启动服务并弹出浏览器。
+（或在 Mac 终端中运行：python3 server.py）
 
-【停止后台服务】
-- Windows: 双击【停止服务.bat】
-- Mac: 双击【停止服务_Mac.command】或直接关闭终端窗口
+【停止服务】
+直接关闭打开的命令行/终端黑色窗口，服务即会自动停止。
 """
     with open(os.path.join(out_dir, '使用说明.txt'), 'w', newline='\r\n', encoding='utf-8') as f:
         f.write(instructions)
 
-    # 7. Zip with Unix POSIX executable permissions and UTF-8 flag preserved!
+    # 8. Zip with Unix POSIX executable permissions and UTF-8 flag preserved!
     if os.path.exists(zip_path):
         os.remove(zip_path)
 
@@ -98,7 +85,7 @@ def build_offline_package():
                         content = content.replace(b'\r\n', b'\n')
                     zipf.writestr(zinfo, content)
 
-    print(f"Successfully generated complete offline zip at {zip_path}!")
+    print(f"Successfully generated clean offline zip at {zip_path}!")
 
 if __name__ == '__main__':
     build_offline_package()
