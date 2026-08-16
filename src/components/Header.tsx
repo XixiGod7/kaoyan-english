@@ -60,13 +60,15 @@ export const Header: React.FC<HeaderProps> = ({
         <div className="flex items-center gap-6">
           <button
             onClick={onGoHome}
-            className="flex items-center gap-2 text-xl font-extrabold text-blue-600 hover:opacity-80 transition-opacity"
+            className="flex items-center gap-2.5 text-xl font-extrabold text-blue-600 hover:opacity-90 transition-all group"
           >
-            <div className="w-8 h-8 rounded-lg bg-blue-600 text-white flex items-center justify-center font-black text-lg shadow">
-              库
-            </div>
-            <span className={`tracking-tight font-black text-xl ${isDark ? 'text-white' : 'text-gray-900'}`}>
-              真题库 <span className={`text-xs font-normal ${isDark ? 'text-slate-400 border-slate-700' : 'text-gray-400 border-gray-300'} border-l pl-2 ml-1`}>考研英语一</span>
+            <img 
+              src="./icons/favicon.svg" 
+              alt="真题库 Logo" 
+              className="w-8 h-8 rounded-lg shadow-sm object-contain group-hover:scale-105 transition-transform" 
+            />
+            <span className={`tracking-tight font-black text-xl flex items-center ${isDark ? 'text-white' : 'text-gray-900'}`}>
+              真题库 <span className={`text-xs font-normal ${isDark ? 'text-slate-400 border-slate-700' : 'text-gray-400 border-gray-300'} border-l pl-2 ml-1.5`}>考研英语一</span>
             </span>
           </button>
 
