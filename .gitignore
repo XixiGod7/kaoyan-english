@@ -37,7 +37,10 @@ test*.html
 test_thumb.png
 check_imgs.cjs
 zhentiqiang_home.html
-scripts/ztq_*
+# Release binary artifacts
+*.zip
+*-standalone.html
+release_notes_*.md
 
 # WorkBuddy internal
 .learnings/
