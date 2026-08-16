@@ -50,16 +50,20 @@
 
 ## 🚀 快速上手指南
 
-### 方式一：下载开箱即用的离线运行包（最便捷，推荐）
-1. 前往 [GitHub Releases 页面](https://github.com/XixiGod7/kaoyan-english/releases/tag/v1.0.0)；
-2. 下载附件中的 **`kaoyan-english-v1.0.0-offline.zip`** 并解压；
-3. **运行启动**：
-   - **Windows 用户**：直接双击运行 **`一键启动考研英语.bat`**；
-   - **macOS 用户**：直接双击运行 **`一键启动_Mac.command`**；
-4. **安装为桌面应用（可选）**：页面打开后，在浏览器地址栏右侧点击 **「安装应用」** 或在顶部菜单选择 **「桌面 App」** 即可一键生成桌面图标；
-5. **停止服务**：直接关闭启动时打开的命令行 / 终端黑框窗口即可。
+### 方式一：浏览器一键安装为桌面独立 App（最推荐 · 真正一步到位 · 免启动服务）
+1. 在 Chrome、Edge 或 Safari 浏览器中打开在线站点：[**https://xixigod7.github.io/kaoyan-english/**](https://xixigod7.github.io/kaoyan-english/)；
+2. **安装到桌面**：
+   - **Chrome / Edge**：点击地址栏右侧的 **「安装应用」** 图标（或在页面右上角点击 **「桌面 App」**）；
+   - **Safari (macOS Sonoma+)**：点击顶部菜单栏 **「文件」** $\rightarrow$ **「添加到程序坞 (Add to Dock...)」**；
+3. **一步到位体验**：安装后，桌面/程序坞将直接生成带有专属书本图标的原生 App。**之后任何时候只需双击桌面图标即可直接秒开进入刷题，完全无需启动任何服务或运行任何脚本！**（已内置 Service Worker 全量离线缓存，即使断网也能 100% 离线使用）。
 
-### 方式二：源码本地开发与构建
+### 方式二：下载离线压缩包本地运行
+1. 前往 [GitHub Releases 页面](https://github.com/XixiGod7/kaoyan-english/releases/tag/v1.0.0) 下载 **`kaoyan-english-v1.0.0-offline.zip`** 并解压；
+2. **极速运行**：
+   - **macOS 用户**：解压后直接双击 **`考研英语一真题库.app`** 即可一步直达（也可拖动到「应用程序」或桌面常驻，系统会在后台静默唤醒服务并无边框秒开）；
+   - **Windows 用户**：双击 **`启动考研英语(无黑框后台运行).vbs`**（静默秒开）或 **`一键启动考研英语.bat`**。
+
+### 方式三：源码本地开发与构建
 ```bash
 # 1. 克隆本仓库
 git clone https://github.com/XixiGod7/kaoyan-english.git
