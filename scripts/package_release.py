@@ -33,7 +33,52 @@ def build_offline_package():
     if os.path.exists(thumb_dir):
         shutil.copytree(thumb_dir, os.path.join(out_dir, 'thumbs'))
 
-    # 6. Create instructions text
+    # 6. Create native macOS App Bundle (考研英语真题库.app)
+    mac_app_dir = os.path.join(out_dir, '考研英语真题库.app', 'Contents')
+    mac_macos_dir = os.path.join(mac_app_dir, 'MacOS')
+    os.makedirs(mac_macos_dir, exist_ok=True)
+
+    plist_content = """<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleExecutable</key>
+    <string>launcher</string>
+    <key>CFBundleIdentifier</key>
+    <string>com.kaoyan.english.app</string>
+    <key>CFBundleName</key>
+    <string>考研英语真题库</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleShortVersionString</key>
+    <string>1.0.0</string>
+    <key>LSMinimumSystemVersion</key>
+    <string>10.13</string>
+    <key>LSUIElement</key>
+    <false/>
+</dict>
+</plist>
+"""
+    with open(os.path.join(mac_app_dir, 'Info.plist'), 'w', encoding='utf-8') as f:
+        f.write(plist_content)
+
+    launcher_content = """#!/bin/bash
+DIR="$(cd "$(dirname "$0")/../../.." && pwd)"
+cd "$DIR"
+export PATH="/opt/homebrew/bin:/usr/local/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:$PATH"
+if command -v python3 >/dev/null 2>&1; then
+    python3 server.py
+elif [ -x "/usr/bin/python3" ]; then
+    /usr/bin/python3 server.py
+elif [ -x "/opt/homebrew/bin/python3" ]; then
+    /opt/homebrew/bin/python3 server.py
+fi
+"""
+    launcher_path = os.path.join(mac_macos_dir, 'launcher')
+    with open(launcher_path, 'w', encoding='utf-8') as f:
+        f.write(launcher_content)
+
+    # 7. Create instructions text
     instructions = """============================================================
 考研英语一真题库 (2010-2026) - 完整离线运行包
 ============================================================
@@ -42,16 +87,9 @@ def build_offline_package():
 直接双击运行【一键启动考研英语.bat】，系统将自动在浏览器中打开。
 
 【Mac 系统运行方法】
-方式 A（推荐）：
-1. 打开 Mac【终端】(Terminal)；
-2. 执行以下命令为脚本赋予运行权限：
-   chmod +x 一键启动_Mac.command 停止服务_Mac.command
-3. 以后直接在访达中双击【一键启动_Mac.command】即可极速启动！
-
-方式 B（终端直接运行）：
-在终端中进入本文件夹，直接输入：
-   python3 server.py
-回车即可自动在浏览器中打开。
+如首次双击提示权限问题，在终端运行以下一行命令即可永久解除：
+   xattr -dr com.apple.quarantine . && chmod -R +x .
+之后双击【考研英语真题库.app】或【一键启动_Mac.command】即可秒开！
 
 【停止后台服务】
 - Windows: 双击【停止服务.bat】
@@ -72,7 +110,7 @@ def build_offline_package():
                 
                 # Check if it's executable script
                 zinfo = zipfile.ZipInfo.from_file(file_path, arcname)
-                if file.endswith('.command') or file.endswith('.sh') or file.endswith('.py'):
+                if file.endswith('.command') or file.endswith('.sh') or file.endswith('.py') or file == 'launcher':
                     # Set Unix permission to 0755 (-rwxr-xr-x)
                     zinfo.external_attr = (0o755 << 16) | 0x20
                 else:
