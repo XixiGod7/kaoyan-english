@@ -197,34 +197,76 @@ export const DesktopAppModal: React.FC<DesktopAppModalProps> = ({
             <div className="space-y-4">
               {/* Mac Option 1: Chrome PWA on macOS */}
               <div className={`p-4 rounded-xl border ${
-                isDark ? 'bg-slate-950/50 border-slate-800' : 'bg-blue-50/40 border-blue-100'
+                isDark ? 'bg-slate-950/50 border-slate-800' : 'bg-purple-50/40 border-purple-100'
               }`}>
-                <span className="text-[10px] font-bold px-2 py-0.5 rounded bg-purple-500/20 text-purple-400 uppercase tracking-wide">
-                  Mac 方式 1 · Google Chrome / Microsoft Edge
-                </span>
-                <h4 className="text-sm font-bold flex items-center gap-1.5 pt-1.5">
-                  <span>在 Mac Chrome 浏览器中一键安装到 Dock 程序坞</span>
-                </h4>
-                <ol className={`mt-2 text-xs space-y-1.5 list-decimal list-inside ${isDark ? 'text-slate-300' : 'text-gray-700'}`}>
-                  <li>在 Mac 的 Chrome 浏览器地址栏右侧，点击 <b>「在应用中打开」</b> 或 <b>「安装」</b> 图标；</li>
-                  <li>Mac 会自动在 <code className="px-1.5 py-0.5 rounded bg-black/20 text-indigo-400 font-mono">~/Applications/Chrome Apps/</code> 生成独立 App；</li>
-                  <li>右键 Dock 图标选择 <b>「选项 ➔ 在程序坞中保留」</b>，支持原生全屏、分屏与快捷键！</li>
-                </ol>
+                <div className="flex items-start justify-between gap-4">
+                  <div className="space-y-1">
+                    <span className="text-[10px] font-bold px-2 py-0.5 rounded bg-purple-500/20 text-purple-400 uppercase tracking-wide">
+                      macOS 推荐 · Chrome / Edge / Safari
+                    </span>
+                    <h4 className="text-sm font-bold flex items-center gap-1.5 pt-1">
+                      <span>一键安装为 macOS 原生独立桌面应用</span>
+                    </h4>
+                    <p className={`text-xs ${isDark ? 'text-slate-400' : 'text-gray-600'}`}>
+                      生成无边框极简独立窗口，直接常驻 Dock 程序坞，全屏分屏体验丝滑。
+                    </p>
+                  </div>
+                  <button
+                    onClick={handleInstallPWA}
+                    className="shrink-0 flex items-center gap-1.5 px-4 py-2 rounded-xl text-xs font-bold text-white bg-gradient-to-r from-purple-600 to-indigo-600 hover:from-purple-500 hover:to-indigo-500 shadow-md shadow-purple-500/20 transition-all hover:scale-105 active:scale-95"
+                  >
+                    <Sparkles className="w-3.5 h-3.5" />
+                    <span>立即安装应用</span>
+                  </button>
+                </div>
+
+                {/* Visual Guide for Mac Chrome / Safari */}
+                <div className="mt-3 space-y-2 text-xs">
+                  <div className="flex items-start gap-2 p-2 rounded-lg bg-black/20 text-slate-300">
+                    <CheckCircle className="w-4 h-4 text-emerald-400 shrink-0 mt-0.5" />
+                    <div>
+                      <b>方式 1（最快捷）</b>：直接点击上方 <b>「立即安装应用」</b> 按钮，或在 Chrome 地址栏右侧点击 <b>「在应用中打开」/「安装」</b> 图标。
+                    </div>
+                  </div>
+
+                  <div className="flex items-start gap-2 p-2 rounded-lg bg-black/20 text-slate-300">
+                    <CheckCircle className="w-4 h-4 text-emerald-400 shrink-0 mt-0.5" />
+                    <div>
+                      <b>方式 2（Chrome 菜单）</b>：点击 Chrome 右上角 <b>「⋮」 ➔ 「投放、保存和分享」 ➔ 「创建快捷方式...」</b>（勾选「在单独窗口中打开」）。
+                    </div>
+                  </div>
+
+                  <div className="flex items-start gap-2 p-2 rounded-lg bg-black/20 text-slate-300">
+                    <CheckCircle className="w-4 h-4 text-emerald-400 shrink-0 mt-0.5" />
+                    <div>
+                      <b>方式 3（Safari 浏览器）</b>：在 Safari 顶部菜单栏点击 <b>「文件」 ➔ 「添加到程序坞 (Add to Dock...)」</b>。
+                    </div>
+                  </div>
+                </div>
               </div>
 
-              {/* Mac Option 2: Safari Add to Dock */}
+              {/* Mac Local Python Command Box */}
               <div className={`p-4 rounded-xl border ${
-                isDark ? 'bg-slate-950/50 border-slate-800' : 'bg-emerald-50/40 border-emerald-100'
+                isDark ? 'bg-slate-950/40 border-slate-800' : 'bg-gray-50 border-gray-200'
               }`}>
-                <span className="text-[10px] font-bold px-2 py-0.5 rounded bg-emerald-500/20 text-emerald-400 uppercase tracking-wide">
-                  Mac 方式 2 · Safari 浏览器 (macOS Sonoma 14+)
-                </span>
-                <h4 className="text-sm font-bold flex items-center gap-1.5 pt-1.5">
-                  <span>Safari 菜单栏一键「添加到程序坞」</span>
-                </h4>
-                <p className={`mt-1.5 text-xs ${isDark ? 'text-slate-300' : 'text-gray-700'}`}>
-                  在 Safari 中点击顶部菜单栏：<b>「文件 (File)」 ➔ 「添加到程序坞 (Add to Dock...)」</b>，即可秒变原生的 macOS 桌面应用！
-                </p>
+                <div className="flex items-center justify-between">
+                  <span className="text-xs font-bold text-slate-300 flex items-center gap-1.5">
+                    <span>💻 Mac 终端一键极速启动命令</span>
+                  </span>
+                  <button
+                    onClick={() => {
+                      navigator.clipboard.writeText('python3 server.py');
+                      alert('已复制启动命令: python3 server.py');
+                    }}
+                    className="text-[11px] px-2.5 py-1 rounded bg-indigo-600/30 hover:bg-indigo-600/50 text-indigo-300 font-bold transition-all"
+                  >
+                    点击复制命令
+                  </button>
+                </div>
+                <div className="mt-2 p-2.5 rounded-lg bg-black/40 border border-slate-800 font-mono text-xs text-emerald-400 flex items-center justify-between">
+                  <span>python3 server.py</span>
+                  <span className="text-[10px] text-slate-500">（在离线包文件夹中执行）</span>
+                </div>
               </div>
             </div>
           )}
