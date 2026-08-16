@@ -2,6 +2,7 @@
 import os
 import sys
 import webbrowser
+import urllib.parse
 from http.server import SimpleHTTPRequestHandler, HTTPServer
 import socket
 import time
@@ -19,25 +20,32 @@ class CustomHandler(SimpleHTTPRequestHandler):
         super().__init__(*args, directory=DIST_DIR, **kwargs)
 
     def translate_path(self, path):
-        path = path.split('?', 1)[0].split('#', 1)[0]
+        raw_path = path.split('?', 1)[0].split('#', 1)[0]
+        decoded = urllib.parse.unquote(raw_path)
         
         # Map /data/* -> DATA_DIR
-        if path.startswith('/data/') and os.path.isdir(DATA_DIR):
-            return os.path.join(DATA_DIR, path[6:])
-        if path.startswith('data/') and os.path.isdir(DATA_DIR):
-            return os.path.join(DATA_DIR, path[5:])
+        if decoded.startswith('/data/') and os.path.isdir(DATA_DIR):
+            rel = decoded[6:].replace('/', os.sep).replace('\\', os.sep)
+            return os.path.join(DATA_DIR, rel)
+        if decoded.startswith('data/') and os.path.isdir(DATA_DIR):
+            rel = decoded[5:].replace('/', os.sep).replace('\\', os.sep)
+            return os.path.join(DATA_DIR, rel)
             
         # Map /images/* -> IMAGES_DIR
-        if path.startswith('/images/') and os.path.isdir(IMAGES_DIR):
-            return os.path.join(IMAGES_DIR, path[8:])
-        if path.startswith('images/') and os.path.isdir(IMAGES_DIR):
-            return os.path.join(IMAGES_DIR, path[7:])
+        if decoded.startswith('/images/') and os.path.isdir(IMAGES_DIR):
+            rel = decoded[8:].replace('/', os.sep).replace('\\', os.sep)
+            return os.path.join(IMAGES_DIR, rel)
+        if decoded.startswith('images/') and os.path.isdir(IMAGES_DIR):
+            rel = decoded[7:].replace('/', os.sep).replace('\\', os.sep)
+            return os.path.join(IMAGES_DIR, rel)
 
         # Map /thumbs/* -> THUMBS_DIR
-        if path.startswith('/thumbs/') and os.path.isdir(THUMBS_DIR):
-            return os.path.join(THUMBS_DIR, path[8:])
-        if path.startswith('thumbs/') and os.path.isdir(THUMBS_DIR):
-            return os.path.join(THUMBS_DIR, path[7:])
+        if decoded.startswith('/thumbs/') and os.path.isdir(THUMBS_DIR):
+            rel = decoded[8:].replace('/', os.sep).replace('\\', os.sep)
+            return os.path.join(THUMBS_DIR, rel)
+        if decoded.startswith('thumbs/') and os.path.isdir(THUMBS_DIR):
+            rel = decoded[7:].replace('/', os.sep).replace('\\', os.sep)
+            return os.path.join(THUMBS_DIR, rel)
 
         return super().translate_path(path)
 
@@ -46,27 +54,38 @@ class CustomHandler(SimpleHTTPRequestHandler):
         self.send_header("Access-Control-Allow-Origin", "*")
         super().end_headers()
 
+    def log_message(self, format, *args):
+        # Silent or concise logging
+        pass
+
 def is_port_in_use(port):
     with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
         return s.connect_ex(('127.0.0.1', port)) == 0
 
 def main():
     print("=" * 60)
-    print("      考研英语一真题库 - 智能轻量本地服务器")
+    print("      考研英语一真题库 (2010-2026) - 本地轻量服务器")
     print("=" * 60)
-    print(f"站点根目录: {DIST_DIR}")
-    print(f"数据目录: {DATA_DIR}")
+    print(f"前端根目录: {DIST_DIR}")
+    print(f"题库数据目录: {DATA_DIR}")
     print(f"访问地址: {URL}")
     print("-" * 60)
 
     if is_port_in_use(PORT):
-        print(f"[提示] 服务已在端口 {PORT} 运行，正在打开浏览器...")
+        print(f"[提示] 服务已在端口 {PORT} 正常运行中，正在为您打开浏览器...")
         webbrowser.open(URL)
         return
 
     server_address = ('0.0.0.0', PORT)
-    httpd = HTTPServer(server_address, CustomHandler)
-    print(f"[成功] 服务已就绪！正在为您自动打开浏览器: {URL}")
+    try:
+        httpd = HTTPServer(server_address, CustomHandler)
+    except Exception as e:
+        print(f"[错误] 绑定端口 {PORT} 失败: {e}")
+        return
+
+    print(f"[成功] 服务已就绪！正在为您自动弹出浏览器: {URL}")
+    print("如需停止服务，请直接关闭本窗口，或运行【停止服务】脚本。")
+    print("=" * 60)
     
     try:
         webbrowser.open(URL)

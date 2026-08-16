@@ -13,13 +13,22 @@ def build_offline_package():
 
     # 1. Copy dist/index.html -> index.html
     shutil.copy2(os.path.join(root_dir, 'dist', 'index.html'), os.path.join(out_dir, 'index.html'))
+    
     # 2. Copy server.py
     shutil.copy2(os.path.join(root_dir, 'server.py'), os.path.join(out_dir, 'server.py'))
-    # 3. Copy launchers
+    
+    # 3. Copy launchers (Both Chinese and English names for 100% compatibility)
     shutil.copy2(os.path.join(root_dir, '一键启动考研英语.bat'), os.path.join(out_dir, '一键启动考研英语.bat'))
+    shutil.copy2(os.path.join(root_dir, '一键启动考研英语.bat'), os.path.join(out_dir, 'start_windows.bat'))
+    
     shutil.copy2(os.path.join(root_dir, '一键启动_Mac.command'), os.path.join(out_dir, '一键启动_Mac.command'))
+    shutil.copy2(os.path.join(root_dir, '一键启动_Mac.command'), os.path.join(out_dir, 'start_mac.command'))
+    
     shutil.copy2(os.path.join(root_dir, '停止服务.bat'), os.path.join(out_dir, '停止服务.bat'))
+    shutil.copy2(os.path.join(root_dir, '停止服务.bat'), os.path.join(out_dir, 'stop_windows.bat'))
+    
     shutil.copy2(os.path.join(root_dir, '停止服务_Mac.command'), os.path.join(out_dir, '停止服务_Mac.command'))
+    shutil.copy2(os.path.join(root_dir, '停止服务_Mac.command'), os.path.join(out_dir, 'stop_mac.command'))
 
     # 4. Copy data
     shutil.copytree(os.path.join(root_dir, 'public', 'data'), os.path.join(out_dir, 'data'))
@@ -33,63 +42,21 @@ def build_offline_package():
     if os.path.exists(thumb_dir):
         shutil.copytree(thumb_dir, os.path.join(out_dir, 'thumbs'))
 
-    # 6. Create native macOS App Bundle (考研英语真题库.app)
-    mac_app_dir = os.path.join(out_dir, '考研英语真题库.app', 'Contents')
-    mac_macos_dir = os.path.join(mac_app_dir, 'MacOS')
-    os.makedirs(mac_macos_dir, exist_ok=True)
-
-    plist_content = """<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-    <key>CFBundleExecutable</key>
-    <string>launcher</string>
-    <key>CFBundleIdentifier</key>
-    <string>com.kaoyan.english.app</string>
-    <key>CFBundleName</key>
-    <string>考研英语真题库</string>
-    <key>CFBundlePackageType</key>
-    <string>APPL</string>
-    <key>CFBundleShortVersionString</key>
-    <string>1.0.0</string>
-    <key>LSMinimumSystemVersion</key>
-    <string>10.13</string>
-    <key>LSUIElement</key>
-    <false/>
-</dict>
-</plist>
-"""
-    with open(os.path.join(mac_app_dir, 'Info.plist'), 'w', encoding='utf-8') as f:
-        f.write(plist_content)
-
-    launcher_content = """#!/bin/bash
-DIR="$(cd "$(dirname "$0")/../../.." && pwd)"
-cd "$DIR"
-export PATH="/opt/homebrew/bin:/usr/local/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:$PATH"
-if command -v python3 >/dev/null 2>&1; then
-    python3 server.py
-elif [ -x "/usr/bin/python3" ]; then
-    /usr/bin/python3 server.py
-elif [ -x "/opt/homebrew/bin/python3" ]; then
-    /opt/homebrew/bin/python3 server.py
-fi
-"""
-    launcher_path = os.path.join(mac_macos_dir, 'launcher')
-    with open(launcher_path, 'w', encoding='utf-8') as f:
-        f.write(launcher_content)
-
-    # 7. Create instructions text
+    # 6. Create instructions text
     instructions = """============================================================
 考研英语一真题库 (2010-2026) - 完整离线运行包
 ============================================================
 
 【Windows 系统运行方法】
-直接双击运行【一键启动考研英语.bat】，系统将自动在浏览器中打开。
+直接双击运行【一键启动考研英语.bat】（或 start_windows.bat），系统将自动启动并弹出浏览器。
 
 【Mac 系统运行方法】
-如首次双击提示权限问题，在终端运行以下一行命令即可永久解除：
-   xattr -dr com.apple.quarantine . && chmod -R +x .
-之后双击【考研英语真题库.app】或【一键启动_Mac.command】即可秒开！
+1. 双击运行【一键启动_Mac.command】（或 start_mac.command）；
+2. 如首次运行提示访问权限，在终端运行以下一行命令即可永久解除：
+   chmod +x *.command server.py
+   xattr -dr com.apple.quarantine .
+3. 或直接在终端运行：
+   python3 server.py
 
 【停止后台服务】
 - Windows: 双击【停止服务.bat】
@@ -98,7 +65,7 @@ fi
     with open(os.path.join(out_dir, '使用说明.txt'), 'w', encoding='utf-8') as f:
         f.write(instructions)
 
-    # 7. Zip with Unix executable permissions preserved!
+    # 7. Zip with Unix POSIX executable permissions and UTF-8 flag preserved!
     if os.path.exists(zip_path):
         os.remove(zip_path)
 
@@ -106,15 +73,25 @@ fi
         for root, dirs, files in os.walk(out_dir):
             for file in files:
                 file_path = os.path.join(root, file)
-                arcname = os.path.relpath(file_path, root_dir)
+                rel_path = os.path.relpath(file_path, out_dir)
+                # Use Unix-style forward slashes in zip internal paths
+                arcname = rel_path.replace('\\', '/')
                 
                 # Check if it's executable script
-                zinfo = zipfile.ZipInfo.from_file(file_path, arcname)
-                if file.endswith('.command') or file.endswith('.sh') or file.endswith('.py') or file == 'launcher':
-                    # Set Unix permission to 0755 (-rwxr-xr-x)
-                    zinfo.external_attr = (0o755 << 16) | 0x20
+                zinfo = zipfile.ZipInfo(arcname)
+                zinfo.create_system = 3  # 3 = UNIX system (critical for macOS to parse POSIX permissions!)
+                zinfo.flag_bits |= 0x800  # General purpose bit 11 = UTF-8 filename
+                
+                stat = os.stat(file_path)
+                zinfo.date_time = (2026, 8, 16, 20, 0, 0)
+                
+                is_exec = file.endswith('.command') or file.endswith('.sh') or file.endswith('.py') or file.endswith('.bat')
+                if is_exec:
+                    # 0755 (-rwxr-xr-x) in Unix standard file attributes
+                    zinfo.external_attr = (0o100755 << 16) | 0x20
                 else:
-                    zinfo.external_attr = (0o644 << 16) | 0x20
+                    # 0644 (-rw-r--r--)
+                    zinfo.external_attr = (0o100644 << 16) | 0x20
                 
                 with open(file_path, 'rb') as fp:
                     zipf.writestr(zinfo, fp.read())
