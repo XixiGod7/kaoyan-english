@@ -1,0 +1,974 @@
+{
+  "tasks": [
+    {
+      "content_json": {
+        "article": "Just how much does the Constitution protect your digital data?\nThe Supreme Court will now consider whether police can search the contents of a mobile phone without a warrant if the phone is on or around a person during an arrest.\nCalifornia has asked the justices to refrain from a sweeping ruling, particularly one that upsets the old assumption that authorities may search through the possessions of suspects at the time of their arrest.\nIt is hard, the state argues, for judges to assess the implications of new and rapidly changing technologies.\nThe court would be recklessly modest if it followed California’s advice.\nEnough of the implications are discernable, even obvious, so that the justices can and should provide updated guidelines to police, lawyers and defendants.\nThey should start by discarding California’s lame argument that exploring the contents of a smartphone — a vast storehouse of digital information — is similar to, say, going through a suspect’s purse.\nThe court has ruled that police don’t violate the Fourth Amendment when they go through the wallet or pocketbook of an arrestee without a warrant.\nBut exploring one’s smartphone is more like entering his or her home.\nA smartphone may contain an arrestee’s reading history, financial history, medical history and comprehensive records of recent correspondence.\nThe development of “cloud computing,” meanwhile, has made that exploration so much the easier.\nAmericans should take steps to protect their digital privacy.\nBut keeping sensitive information on these devices is increasingly a requirement of normal life.\nCitizens still have a right to expect private documents to remain private and protected by the Constitution’s prohibition on unreasonable searches.\nAs so often is the case, stating that principle doesn’t ease the challenge of linedrawing.\nIn many cases, it would not be overly burdensome for authorities to obtain a warrant to search through phone contents.\nThey could still invalidate Fourth Amendment protections when facing severe, urgent circumstances, and they could take reasonable measures to ensure that phone data are not erased or altered while waiting for a warrant.\nThe court, though, may want to allow room for police to cite situations where they are entitled to more freedom.\nBut the justices should not swallow California’s argument whole.\nNew, disruptive technology sometimes demands novel applications of the Constitution’s protections.\nOrin Kerr, a law professor, compares the explosion and accessibility of digital information in the 21st century with the establishment of automobile use as a virtual necessity of life in the 20th: The justices had to specify novel rules for the new personal domain of the passenger car then; they must sort out how the Fourth Amendment applies to digital information now.",
+        "questions": [
+          {
+            "ai_analysis_ids": [
+              2015013061
+            ],
+            "ai_analysis_text": "根据文章第一段和第二段的内容，最高法院正在讨论是否在逮捕过程中可以未经授权检查嫌疑人的手机内容。\nA. 选项 A 提到防止嫌疑人删除手机内容，但文章并未提及这一点。\nB. 选项 B 提到搜查嫌疑人的手机本身，但文章讨论的是检查手机内容，而非搜查手机。\nC. 选项 C 准确反映了文章讨论的核心问题，即未经授权检查手机内容是否合法。\nD. 选项 D 提到禁止嫌疑人使用手机，但文章并未涉及这一点。",
+            "ai_analysis_words": [
+              "search",
+              "contents",
+              "mobile phone",
+              "without a warrant"
+            ],
+            "analysis_sentence_id": 2015013061,
+            "answer": "C",
+            "id": 26,
+            "option_tokens": {
+              "A": [
+                {
+                  "gloss": "阻止",
+                  "lemma": "prevent",
+                  "surface": "prevent"
+                },
+                {
+                  "gloss": "嫌疑人",
+                  "lemma": "suspect",
+                  "surface": "suspects"
+                },
+                {
+                  "gloss": "从",
+                  "lemma": "from",
+                  "surface": "from"
+                },
+                {
+                  "gloss": "删除",
+                  "lemma": "delete",
+                  "surface": "deleting"
+                },
+                {
+                  "gloss": "他们的",
+                  "lemma": "their",
+                  "surface": "their"
+                },
+                {
+                  "gloss": "手机",
+                  "lemma": "phone",
+                  "surface": "phone"
+                },
+                {
+                  "gloss": "内容",
+                  "lemma": "content",
+                  "surface": "contents"
+                }
+              ],
+              "B": [
+                {
+                  "gloss": "搜查",
+                  "lemma": "search",
+                  "surface": "search"
+                },
+                {
+                  "gloss": "寻找",
+                  "lemma": "for",
+                  "surface": "for"
+                },
+                {
+                  "gloss": "嫌疑人",
+                  "lemma": "suspect",
+                  "surface": "suspects"
+                },
+                {
+                  "gloss": "移动的",
+                  "lemma": "mobile",
+                  "surface": "mobile"
+                },
+                {
+                  "gloss": "手机",
+                  "lemma": "phone",
+                  "surface": "phones"
+                },
+                {
+                  "gloss": "没有",
+                  "lemma": "without",
+                  "surface": "without"
+                },
+                {
+                  "gloss": "一个",
+                  "lemma": "a",
+                  "surface": "a"
+                },
+                {
+                  "gloss": "搜查令",
+                  "lemma": "warrant",
+                  "surface": "warrant"
+                }
+              ],
+              "C": [
+                {
+                  "gloss": "检查",
+                  "lemma": "check",
+                  "surface": "check"
+                },
+                {
+                  "gloss": "嫌疑人",
+                  "lemma": "suspect",
+                  "surface": "suspects"
+                },
+                {
+                  "gloss": "手机",
+                  "lemma": "phone",
+                  "surface": "phone"
+                },
+                {
+                  "gloss": "内容",
+                  "lemma": "content",
+                  "surface": "contents"
+                },
+                {
+                  "gloss": "没有",
+                  "lemma": "without",
+                  "surface": "without"
+                },
+                {
+                  "gloss": "被",
+                  "lemma": "be",
+                  "surface": "being"
+                },
+                {
+                  "gloss": "授权",
+                  "lemma": "authorize",
+                  "surface": "authorized"
+                }
+              ],
+              "D": [
+                {
+                  "gloss": "禁止",
+                  "lemma": "prohibit",
+                  "surface": "prohibit"
+                },
+                {
+                  "gloss": "嫌疑人",
+                  "lemma": "suspect",
+                  "surface": "suspects"
+                },
+                {
+                  "gloss": "从",
+                  "lemma": "from",
+                  "surface": "from"
+                },
+                {
+                  "gloss": "使用",
+                  "lemma": "use",
+                  "surface": "using"
+                },
+                {
+                  "gloss": "他们的",
+                  "lemma": "their",
+                  "surface": "their"
+                },
+                {
+                  "gloss": "移动的",
+                  "lemma": "mobile",
+                  "surface": "mobile"
+                },
+                {
+                  "gloss": "手机",
+                  "lemma": "phone",
+                  "surface": "phones"
+                }
+              ]
+            },
+            "options": [
+              "A) prevent suspects from deleting their phone contents.",
+              "B) search for suspects’ mobile phones without a warrant.",
+              "C) check suspects’ phone contents without being authorized.",
+              "D) prohibit suspects from using their mobile phones."
+            ],
+            "qid": 2015011026,
+            "text": "The Supreme Court will work out whether, during an arrest, it is legitimate to ____",
+            "text_tokens": [
+              {
+                "gloss": "这",
+                "lemma": "the",
+                "surface": "The"
+              },
+              {
+                "gloss": "最高的",
+                "lemma": "supreme",
+                "surface": "Supreme"
+              },
+              {
+                "gloss": "法院",
+                "lemma": "court",
+                "surface": "Court"
+              },
+              {
+                "gloss": "将",
+                "lemma": "will",
+                "surface": "will"
+              },
+              {
+                "gloss": "解决",
+                "lemma": "work",
+                "surface": "work"
+              },
+              {
+                "gloss": "出",
+                "lemma": "out",
+                "surface": "out"
+              },
+              {
+                "gloss": "是否",
+                "lemma": "whether",
+                "surface": "whether"
+              },
+              {
+                "gloss": "在...期间",
+                "lemma": "during",
+                "surface": "during"
+              },
+              {
+                "gloss": "一个",
+                "lemma": "an",
+                "surface": "an"
+              },
+              {
+                "gloss": "逮捕",
+                "lemma": "arrest",
+                "surface": "arrest"
+              },
+              {
+                "gloss": "它",
+                "lemma": "it",
+                "surface": "it"
+              },
+              {
+                "gloss": "是",
+                "lemma": "be",
+                "surface": "is"
+              },
+              {
+                "gloss": "合理的",
+                "lemma": "legitimate",
+                "surface": "legitimate"
+              },
+              {
+                "gloss": "去",
+                "lemma": "to",
+                "surface": "to"
+              }
+            ]
+          },
+          {
+            "ai_analysis_ids": [
+              2015013064
+            ],
+            "ai_analysis_text": "作者对加州的观点持否定态度，认为其论点站不住脚，并多次批评其建议。\nA. 选项 A 表示不赞成，符合作者对加州观点的批评态度。\nB. 选项 B 表示冷漠，但作者对加州的观点并非漠不关心，而是明确反对。\nC. 选项 C 表示容忍，但作者并未表现出对加州观点的容忍态度。\nD. 选项 D 表示谨慎，但作者的态度更为直接和批评性。",
+            "ai_analysis_words": [
+              "recklessly modest",
+              "discarding California’s lame argument"
+            ],
+            "analysis_sentence_id": 2015013064,
+            "answer": "A",
+            "id": 27,
+            "option_tokens": {
+              "A": [
+                {
+                  "gloss": "不赞成",
+                  "lemma": "disapproval",
+                  "surface": "disapproval"
+                }
+              ],
+              "B": [
+                {
+                  "gloss": "冷漠",
+                  "lemma": "indifference",
+                  "surface": "indifference"
+                }
+              ],
+              "C": [
+                {
+                  "gloss": "容忍",
+                  "lemma": "tolerance",
+                  "surface": "tolerance"
+                }
+              ],
+              "D": [
+                {
+                  "gloss": "谨慎",
+                  "lemma": "cautiousness",
+                  "surface": "cautiousness"
+                }
+              ]
+            },
+            "options": [
+              "A) disapproval.",
+              "B) indifference.",
+              "C) tolerance.",
+              "D) cautiousness."
+            ],
+            "qid": 2015011027,
+            "text": "The author’s attitude toward California’s argument is one of ____",
+            "text_tokens": [
+              {
+                "gloss": "该",
+                "lemma": "the",
+                "surface": "The"
+              },
+              {
+                "gloss": "作者的",
+                "lemma": "author",
+                "surface": "author’s"
+              },
+              {
+                "gloss": "态度",
+                "lemma": "attitude",
+                "surface": "attitude"
+              },
+              {
+                "gloss": "对",
+                "lemma": "toward",
+                "surface": "toward"
+              },
+              {
+                "gloss": "加州的",
+                "lemma": "california",
+                "surface": "California’s"
+              },
+              {
+                "gloss": "论点",
+                "lemma": "argument",
+                "surface": "argument"
+              },
+              {
+                "gloss": "是",
+                "lemma": "be",
+                "surface": "is"
+              },
+              {
+                "gloss": "一个",
+                "lemma": "one",
+                "surface": "one"
+              },
+              {
+                "gloss": "的",
+                "lemma": "of",
+                "surface": "of"
+              }
+            ]
+          },
+          {
+            "ai_analysis_ids": [
+              2015013068
+            ],
+            "ai_analysis_text": "作者认为探索手机内容类似于进入一个人的住所，因为手机包含大量个人信息。\nA. 选项 A 准确反映了作者的观点，即探索手机内容类似于进入住所。\nB. 选项 B 提到处理历史记录，但作者并未将其作为主要类比。\nC. 选项 C 提到扫描通信记录，但这只是手机内容的一部分，未能全面概括。\nD. 选项 D 提到翻看钱包，但作者明确反对将手机与钱包类比。",
+            "ai_analysis_words": [
+              "exploring",
+              "smartphone",
+              "like entering",
+              "home"
+            ],
+            "analysis_sentence_id": 2015013068,
+            "answer": "A",
+            "id": 28,
+            "option_tokens": {
+              "A": [
+                {
+                  "gloss": "进入",
+                  "lemma": "get",
+                  "surface": "getting"
+                },
+                {
+                  "gloss": "进入",
+                  "lemma": "into",
+                  "surface": "into"
+                },
+                {
+                  "gloss": "某人的",
+                  "lemma": "one",
+                  "surface": "one’s"
+                },
+                {
+                  "gloss": "住所",
+                  "lemma": "residence",
+                  "surface": "residence"
+                }
+              ],
+              "B": [
+                {
+                  "gloss": "处理",
+                  "lemma": "handle",
+                  "surface": "handling"
+                },
+                {
+                  "gloss": "某人的",
+                  "lemma": "one",
+                  "surface": "one’s"
+                },
+                {
+                  "gloss": "历史的",
+                  "lemma": "historical",
+                  "surface": "historical"
+                },
+                {
+                  "gloss": "记录",
+                  "lemma": "record",
+                  "surface": "records"
+                }
+              ],
+              "C": [
+                {
+                  "gloss": "扫描",
+                  "lemma": "scan",
+                  "surface": "scanning"
+                },
+                {
+                  "gloss": "某人的",
+                  "lemma": "one",
+                  "surface": "one’s"
+                },
+                {
+                  "gloss": "通信记录",
+                  "lemma": "correspondence",
+                  "surface": "correspondences"
+                }
+              ],
+              "D": [
+                {
+                  "gloss": "翻查",
+                  "lemma": "go",
+                  "surface": "going"
+                },
+                {
+                  "gloss": "通过",
+                  "lemma": "through",
+                  "surface": "through"
+                },
+                {
+                  "gloss": "某人的",
+                  "lemma": "one",
+                  "surface": "one’s"
+                },
+                {
+                  "gloss": "钱包",
+                  "lemma": "wallet",
+                  "surface": "wallet"
+                }
+              ]
+            },
+            "options": [
+              "A) getting into one’s residence.",
+              "B) handling one’s historical records.",
+              "C) scanning one’s correspondences.",
+              "D) going through one’s wallet."
+            ],
+            "qid": 2015011028,
+            "text": "The author believes that exploring one’s phone contents is comparable to ____",
+            "text_tokens": [
+              {
+                "gloss": "该",
+                "lemma": "the",
+                "surface": "The"
+              },
+              {
+                "gloss": "作者",
+                "lemma": "author",
+                "surface": "author"
+              },
+              {
+                "gloss": "认为",
+                "lemma": "believe",
+                "surface": "believes"
+              },
+              {
+                "gloss": "认为",
+                "lemma": "that",
+                "surface": "that"
+              },
+              {
+                "gloss": "探索",
+                "lemma": "explore",
+                "surface": "exploring"
+              },
+              {
+                "gloss": "某人的",
+                "lemma": "one",
+                "surface": "one’s"
+              },
+              {
+                "gloss": "手机",
+                "lemma": "phone",
+                "surface": "phone"
+              },
+              {
+                "gloss": "内容",
+                "lemma": "content",
+                "surface": "contents"
+              },
+              {
+                "gloss": "是",
+                "lemma": "be",
+                "surface": "is"
+              },
+              {
+                "gloss": "相当的",
+                "lemma": "comparable",
+                "surface": "comparable"
+              },
+              {
+                "gloss": "于",
+                "lemma": "to",
+                "surface": "to"
+              }
+            ]
+          },
+          {
+            "ai_analysis_ids": [
+              2015013073
+            ],
+            "ai_analysis_text": "作者在第 5 和第 6 段表达了对公民隐私未被有效保护的担忧，并强调需要平衡隐私与执法需求。\nA. 选项 A 提到原则难以清晰表达，但文章并未突出这一点。\nB. 选项 B 提到法院限制警察行动空间，但文章并未明确表达这一担忧。\nC. 选项 C 准确反映了作者对公民隐私未被有效保护的担忧。\nD. 选项 D 提到手机存储敏感信息，但这只是问题的一部分，未能全面概括。",
+            "ai_analysis_words": [
+              "right to expect",
+              "private documents",
+              "protected"
+            ],
+            "analysis_sentence_id": 2015013073,
+            "answer": "C",
+            "id": 29,
+            "option_tokens": {
+              "A": [
+                {
+                  "gloss": "原则",
+                  "lemma": "principle",
+                  "surface": "principles"
+                },
+                {
+                  "gloss": "是",
+                  "lemma": "be",
+                  "surface": "are"
+                },
+                {
+                  "gloss": "难以",
+                  "lemma": "hard",
+                  "surface": "hard"
+                },
+                {
+                  "gloss": "去",
+                  "lemma": "to",
+                  "surface": "to"
+                },
+                {
+                  "gloss": "被",
+                  "lemma": "be",
+                  "surface": "be"
+                },
+                {
+                  "gloss": "清晰地",
+                  "lemma": "clearly",
+                  "surface": "clearly"
+                },
+                {
+                  "gloss": "表达",
+                  "lemma": "express",
+                  "surface": "expressed"
+                }
+              ],
+              "B": [
+                {
+                  "gloss": "该",
+                  "lemma": "the",
+                  "surface": "the"
+                },
+                {
+                  "gloss": "法院",
+                  "lemma": "court",
+                  "surface": "court"
+                },
+                {
+                  "gloss": "正在",
+                  "lemma": "be",
+                  "surface": "is"
+                },
+                {
+                  "gloss": "给予",
+                  "lemma": "give",
+                  "surface": "giving"
+                },
+                {
+                  "gloss": "警方",
+                  "lemma": "police",
+                  "surface": "police"
+                },
+                {
+                  "gloss": "更少的",
+                  "lemma": "less",
+                  "surface": "less"
+                },
+                {
+                  "gloss": "空间",
+                  "lemma": "room",
+                  "surface": "room"
+                },
+                {
+                  "gloss": "用于",
+                  "lemma": "for",
+                  "surface": "for"
+                },
+                {
+                  "gloss": "行动",
+                  "lemma": "action",
+                  "surface": "action"
+                }
+              ],
+              "C": [
+                {
+                  "gloss": "公民的",
+                  "lemma": "citizen",
+                  "surface": "citizens’"
+                },
+                {
+                  "gloss": "隐私",
+                  "lemma": "privacy",
+                  "surface": "privacy"
+                },
+                {
+                  "gloss": "是",
+                  "lemma": "be",
+                  "surface": "is"
+                },
+                {
+                  "gloss": "未",
+                  "lemma": "not",
+                  "surface": "not"
+                },
+                {
+                  "gloss": "有效地",
+                  "lemma": "effectively",
+                  "surface": "effectively"
+                },
+                {
+                  "gloss": "保护",
+                  "lemma": "protect",
+                  "surface": "protected"
+                }
+              ],
+              "D": [
+                {
+                  "gloss": "手机",
+                  "lemma": "phone",
+                  "surface": "phones"
+                },
+                {
+                  "gloss": "是",
+                  "lemma": "be",
+                  "surface": "are"
+                },
+                {
+                  "gloss": "使用",
+                  "lemma": "use",
+                  "surface": "used"
+                },
+                {
+                  "gloss": "用于",
+                  "lemma": "to",
+                  "surface": "to"
+                },
+                {
+                  "gloss": "存储",
+                  "lemma": "store",
+                  "surface": "store"
+                },
+                {
+                  "gloss": "敏感的",
+                  "lemma": "sensitive",
+                  "surface": "sensitive"
+                },
+                {
+                  "gloss": "信息",
+                  "lemma": "information",
+                  "surface": "information"
+                }
+              ]
+            },
+            "options": [
+              "A) principles are hard to be clearly expressed.",
+              "B) the court is giving police less room for action.",
+              "C) citizens’ privacy is not effectively protected.",
+              "D) phones are used to store sensitive information."
+            ],
+            "qid": 2015011029,
+            "text": "In Paragraphs 5 and 6, the author shows his concern that ____",
+            "text_tokens": [
+              {
+                "gloss": "在",
+                "lemma": "in",
+                "surface": "In"
+              },
+              {
+                "gloss": "段落",
+                "lemma": "paragraph",
+                "surface": "Paragraphs"
+              },
+              {
+                "gloss": "和",
+                "lemma": "and",
+                "surface": "and"
+              },
+              {
+                "gloss": "该",
+                "lemma": "the",
+                "surface": "the"
+              },
+              {
+                "gloss": "作者",
+                "lemma": "author",
+                "surface": "author"
+              },
+              {
+                "gloss": "表达",
+                "lemma": "show",
+                "surface": "shows"
+              },
+              {
+                "gloss": "他的",
+                "lemma": "his",
+                "surface": "his"
+              },
+              {
+                "gloss": "担忧",
+                "lemma": "concern",
+                "surface": "concern"
+              },
+              {
+                "gloss": "即",
+                "lemma": "that",
+                "surface": "that"
+              }
+            ]
+          },
+          {
+            "ai_analysis_ids": [
+              2015013080
+            ],
+            "ai_analysis_text": "引用 Orin Kerr 的比较是为了说明新技术需要对宪法进行重新解释，以适应时代的变化。\nA. 选项 A 提到灵活实施宪法，但文章更强调重新解释宪法，而非灵活实施。\nB. 选项 B 准确反映了作者引用 Orin Kerr 比较的目的，即新技术需要宪法的新解释。\nC. 选项 C 提到加州的论点违反宪法原则，但文章并未将重点放在这一点上。\nD. 选项 D 提到宪法原则不应改变，但文章并未表达这一观点。",
+            "ai_analysis_words": [
+              "novel rules",
+              "new personal domain",
+              "Fourth Amendment",
+              "digital information"
+            ],
+            "analysis_sentence_id": 2015013080,
+            "answer": "B",
+            "id": 30,
+            "option_tokens": {
+              "A": [
+                {
+                  "gloss": "该",
+                  "lemma": "the",
+                  "surface": "the"
+                },
+                {
+                  "gloss": "宪法",
+                  "lemma": "constitution",
+                  "surface": "Constitution"
+                },
+                {
+                  "gloss": "应该",
+                  "lemma": "should",
+                  "surface": "should"
+                },
+                {
+                  "gloss": "被",
+                  "lemma": "be",
+                  "surface": "be"
+                },
+                {
+                  "gloss": "实施",
+                  "lemma": "implement",
+                  "surface": "implemented"
+                },
+                {
+                  "gloss": "灵活地",
+                  "lemma": "flexibly",
+                  "surface": "flexibly"
+                }
+              ],
+              "B": [
+                {
+                  "gloss": "新的",
+                  "lemma": "new",
+                  "surface": "new"
+                },
+                {
+                  "gloss": "技术",
+                  "lemma": "technology",
+                  "surface": "technology"
+                },
+                {
+                  "gloss": "需要",
+                  "lemma": "require",
+                  "surface": "requires"
+                },
+                {
+                  "gloss": "重新解释",
+                  "lemma": "reinterpretation",
+                  "surface": "reinterpretation"
+                },
+                {
+                  "gloss": "对",
+                  "lemma": "of",
+                  "surface": "of"
+                },
+                {
+                  "gloss": "该",
+                  "lemma": "the",
+                  "surface": "the"
+                },
+                {
+                  "gloss": "宪法",
+                  "lemma": "constitution",
+                  "surface": "Constitution"
+                }
+              ],
+              "C": [
+                {
+                  "gloss": "加州的",
+                  "lemma": "california",
+                  "surface": "California’s"
+                },
+                {
+                  "gloss": "论点",
+                  "lemma": "argument",
+                  "surface": "argument"
+                },
+                {
+                  "gloss": "违反",
+                  "lemma": "violate",
+                  "surface": "violates"
+                },
+                {
+                  "gloss": "原则",
+                  "lemma": "principle",
+                  "surface": "principles"
+                },
+                {
+                  "gloss": "的",
+                  "lemma": "of",
+                  "surface": "of"
+                },
+                {
+                  "gloss": "该",
+                  "lemma": "the",
+                  "surface": "the"
+                },
+                {
+                  "gloss": "宪法",
+                  "lemma": "constitution",
+                  "surface": "Constitution"
+                }
+              ],
+              "D": [
+                {
+                  "gloss": "原则",
+                  "lemma": "principle",
+                  "surface": "principles"
+                },
+                {
+                  "gloss": "的",
+                  "lemma": "of",
+                  "surface": "of"
+                },
+                {
+                  "gloss": "该",
+                  "lemma": "the",
+                  "surface": "the"
+                },
+                {
+                  "gloss": "宪法",
+                  "lemma": "constitution",
+                  "surface": "Constitution"
+                },
+                {
+                  "gloss": "应该",
+                  "lemma": "should",
+                  "surface": "should"
+                },
+                {
+                  "gloss": "绝不",
+                  "lemma": "never",
+                  "surface": "never"
+                },
+                {
+                  "gloss": "被",
+                  "lemma": "be",
+                  "surface": "be"
+                },
+                {
+                  "gloss": "改变",
+                  "lemma": "alter",
+                  "surface": "altered"
+                }
+              ]
+            },
+            "options": [
+              "A) the Constitution should be implemented flexibly.",
+              "B) new technology requires reinterpretation of the Constitution.",
+              "C) California’s argument violates principles of the Constitution.",
+              "D) principles of the Constitution should never be altered."
+            ],
+            "qid": 2015011030,
+            "text": "Orin Kerr’s comparison is quoted to indicate that ____",
+            "text_tokens": [
+              {
+                "gloss": "奥林",
+                "lemma": "orin",
+                "surface": "Orin"
+              },
+              {
+                "gloss": "克尔",
+                "lemma": "kerr",
+                "surface": "Kerr’s"
+              },
+              {
+                "gloss": "比较",
+                "lemma": "comparison",
+                "surface": "comparison"
+              },
+              {
+                "gloss": "是",
+                "lemma": "be",
+                "surface": "is"
+              },
+              {
+                "gloss": "引用",
+                "lemma": "quote",
+                "surface": "quoted"
+              },
+              {
+                "gloss": "为了",
+                "lemma": "to",
+                "surface": "to"
+              },
+              {
+                "gloss": "表明",
+                "lemma": "indicate",
+                "surface": "indicate"
+              },
+              {
+                "gloss": "____",
+                "lemma": "that",
+                "surface": "that"
+              }
+            ]
+          }
+        ],
+        "title": "Text 2"
+      },
+      "directions": "Read the following four texts. Answer the questions below each text by choosing A, B, C or\nD. Mark your answers on the ANSWER SHEET. (10 points for each text)",
+      "exam_info": "2015(1)",
+      "exam_type": "kaoyan",
+      "id": 201501003,
+      "key_words": "one phone california constitution contents court digital information warrant argument new police search suspects through without amendment exploring fourth justices kerr mobile orin smartphone arrest author history may novel phones principles private protected text altered answer arrestee authorities citizens data discarding documents domain during each entering expect going hard his home implications lame life like modest more much now out personal privacy protect protections recklessly records right room rules sensitive still supreme take technology wallet whether accessibility action advice allow",
+      "kid": 10,
+      "part": "Part III",
+      "section": "Sec C",
+      "task_key": "2015(1)_Section II_Part A_Text2",
+      "type": "Reading Comprehension"
+    }
+  ]
+}

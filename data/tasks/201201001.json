@@ -1,0 +1,1827 @@
+{
+  "tasks": [
+    {
+      "content_json": {
+        "1": {
+          "A": "emphasize",
+          "B": "maintain",
+          "C": "modify",
+          "D": "recognize",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "emphasize",
+                "surface": "emphasize"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "maintain",
+                "surface": "maintain"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "modify",
+                "surface": "modify"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "recognize",
+                "surface": "recognize"
+              }
+            ]
+          },
+          "replace": {
+            "end": 25,
+            "start": 17
+          },
+          "sentence_id": 2012013002
+        },
+        "2": {
+          "A": "when",
+          "B": "lest",
+          "C": "before",
+          "D": "unless",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "when",
+                "surface": "when"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "lest",
+                "surface": "lest"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "before",
+                "surface": "before"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "unless",
+                "surface": "unless"
+              }
+            ]
+          },
+          "replace": {
+            "end": 76,
+            "start": 72
+          },
+          "sentence_id": 2012013002
+        },
+        "3": {
+          "A": "restored",
+          "B": "weakened",
+          "C": "established",
+          "D": "eliminated",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "restore",
+                "surface": "restored"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "weaken",
+                "surface": "weakened"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "establish",
+                "surface": "established"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "eliminate",
+                "surface": "eliminated"
+              }
+            ]
+          },
+          "replace": {
+            "end": 63,
+            "start": 55
+          },
+          "sentence_id": 2012013003
+        },
+        "4": {
+          "A": "challenged",
+          "B": "compromised",
+          "C": "suspected",
+          "D": "accepted",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "challenge",
+                "surface": "challenged"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "compromise",
+                "surface": "compromised"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "suspect",
+                "surface": "suspected"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "accept",
+                "surface": "accepted"
+              }
+            ]
+          },
+          "replace": {
+            "end": 86,
+            "start": 78
+          },
+          "sentence_id": 2012013005
+        },
+        "5": {
+          "A": "advanced",
+          "B": "caught",
+          "C": "bound",
+          "D": "founded",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "advance",
+                "surface": "advanced"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "catch",
+                "surface": "caught"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "bind",
+                "surface": "bound"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "find",
+                "surface": "founded"
+              }
+            ]
+          },
+          "replace": {
+            "end": 54,
+            "start": 49
+          },
+          "sentence_id": 2012013006
+        },
+        "6": {
+          "A": "resistant",
+          "B": "subject",
+          "C": "immune",
+          "D": "prone",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "resistant",
+                "surface": "resistant"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "subject",
+                "surface": "subject"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "immune",
+                "surface": "immune"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "prone",
+                "surface": "prone"
+              }
+            ]
+          },
+          "replace": {
+            "end": 55,
+            "start": 48
+          },
+          "sentence_id": 2012013007
+        },
+        "7": {
+          "A": "resorts",
+          "B": "sticks",
+          "C": "leads",
+          "D": "applies",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "resort",
+                "surface": "resorts"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "stick",
+                "surface": "sticks"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "lead",
+                "surface": "leads"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "apply",
+                "surface": "applies"
+              }
+            ]
+          },
+          "replace": {
+            "end": 91,
+            "start": 84
+          },
+          "sentence_id": 2012013007
+        },
+        "8": {
+          "A": "evade",
+          "B": "raise",
+          "C": "deny",
+          "D": "settle",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "evade",
+                "surface": "evade"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "raise",
+                "surface": "raise"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "deny",
+                "surface": "deny"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "settle",
+                "surface": "settle"
+              }
+            ]
+          },
+          "replace": {
+            "end": 34,
+            "start": 29
+          },
+          "sentence_id": 2012013008
+        },
+        "9": {
+          "A": "line",
+          "B": "barrier",
+          "C": "similarity",
+          "D": "conflict",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "line",
+                "surface": "line"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "barrier",
+                "surface": "barrier"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "similarity",
+                "surface": "similarity"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "conflict",
+                "surface": "conflict"
+              }
+            ]
+          },
+          "replace": {
+            "end": 80,
+            "start": 76
+          },
+          "sentence_id": 2012013008
+        },
+        "10": {
+          "A": "by",
+          "B": "as",
+          "C": "through",
+          "D": "towards",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "by",
+                "surface": "by"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "as",
+                "surface": "as"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "through",
+                "surface": "through"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "toward",
+                "surface": "towards"
+              }
+            ]
+          },
+          "replace": {
+            "end": 49,
+            "start": 47
+          },
+          "sentence_id": 2012013009
+        },
+        "11": {
+          "A": "so",
+          "B": "since",
+          "C": "provided",
+          "D": "though",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "so",
+                "surface": "so"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "since",
+                "surface": "since"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "provide",
+                "surface": "provided"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "though",
+                "surface": "though"
+              }
+            ]
+          },
+          "replace": {
+            "end": 41,
+            "start": 39
+          },
+          "sentence_id": 2012013010
+        },
+        "12": {
+          "A": "serve",
+          "B": "satisfy",
+          "C": "upset",
+          "D": "replace",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "serve",
+                "surface": "serve"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "satisfy",
+                "surface": "satisfy"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "upset",
+                "surface": "upset"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "replace",
+                "surface": "replace"
+              }
+            ]
+          },
+          "replace": {
+            "end": 69,
+            "start": 64
+          },
+          "sentence_id": 2012013010
+        },
+        "13": {
+          "A": "confirm",
+          "B": "express",
+          "C": "cultivate",
+          "D": "offer",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "confirm",
+                "surface": "confirm"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "express",
+                "surface": "express"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "cultivate",
+                "surface": "cultivate"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "offer",
+                "surface": "offer"
+              }
+            ]
+          },
+          "replace": {
+            "end": 114,
+            "start": 105
+          },
+          "sentence_id": 2012013010
+        },
+        "14": {
+          "A": "guarded",
+          "B": "followed",
+          "C": "studied",
+          "D": "tied",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "guard",
+                "surface": "guarded"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "follow",
+                "surface": "followed"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "study",
+                "surface": "studied"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "tie",
+                "surface": "tied"
+              }
+            ]
+          },
+          "replace": {
+            "end": 103,
+            "start": 99
+          },
+          "sentence_id": 2012013011
+        },
+        "15": {
+          "A": "concepts",
+          "B": "theories",
+          "C": "divisions",
+          "D": "conventions",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "concept",
+                "surface": "concepts"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "theory",
+                "surface": "theories"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "division",
+                "surface": "divisions"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "convention",
+                "surface": "conventions"
+              }
+            ]
+          },
+          "replace": {
+            "end": 101,
+            "start": 93
+          },
+          "sentence_id": 2012013012
+        },
+        "16": {
+          "A": "excludes",
+          "B": "questions",
+          "C": "shapes",
+          "D": "controls",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "exclude",
+                "surface": "excludes"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "question",
+                "surface": "questions"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "shape",
+                "surface": "shapes"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "control",
+                "surface": "controls"
+              }
+            ]
+          },
+          "replace": {
+            "end": 68,
+            "start": 62
+          },
+          "sentence_id": 2012013013
+        },
+        "17": {
+          "A": "dismissed",
+          "B": "released",
+          "C": "ranked",
+          "D": "distorted",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "dismiss",
+                "surface": "dismissed"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "release",
+                "surface": "released"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "rank",
+                "surface": "ranked"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "distort",
+                "surface": "distorted"
+              }
+            ]
+          },
+          "replace": {
+            "end": 172,
+            "start": 163
+          },
+          "sentence_id": 2012013013
+        },
+        "18": {
+          "A": "suppress",
+          "B": "exploit",
+          "C": "address",
+          "D": "ignore",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "suppress",
+                "surface": "suppress"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "exploit",
+                "surface": "exploit"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "address",
+                "surface": "address"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "ignore",
+                "surface": "ignore"
+              }
+            ]
+          },
+          "replace": {
+            "end": 25,
+            "start": 18
+          },
+          "sentence_id": 2012013014
+        },
+        "19": {
+          "A": "accessible",
+          "B": "amiable",
+          "C": "agreeable",
+          "D": "accountable",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "accessible",
+                "surface": "accessible"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "amiable",
+                "surface": "amiable"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "agreeable",
+                "surface": "agreeable"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "accountable",
+                "surface": "accountable"
+              }
+            ]
+          },
+          "replace": {
+            "end": 94,
+            "start": 83
+          },
+          "sentence_id": 2012013014
+        },
+        "20": {
+          "A": "by all means",
+          "B": "at all costs",
+          "C": "in a word",
+          "D": "as a result",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "by",
+                "surface": "by"
+              },
+              {
+                "lemma": "all",
+                "surface": "all"
+              },
+              {
+                "lemma": "mean",
+                "surface": "means"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "at",
+                "surface": "at"
+              },
+              {
+                "lemma": "all",
+                "surface": "all"
+              },
+              {
+                "lemma": "cost",
+                "surface": "costs"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "in",
+                "surface": "in"
+              },
+              {
+                "lemma": "a",
+                "surface": "a"
+              },
+              {
+                "lemma": "word",
+                "surface": "word"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "as",
+                "surface": "as"
+              },
+              {
+                "lemma": "a",
+                "surface": "a"
+              },
+              {
+                "lemma": "result",
+                "surface": "result"
+              }
+            ]
+          },
+          "replace": {
+            "end": 95,
+            "start": 84
+          },
+          "sentence_id": 2012013015
+        },
+        "article": "The ethical judgments of the Supreme Court justices have become an important issue recently.\nThe court cannot maintain its legitimacy as guardian of the rule of law when justices behave like politicians.\nYet, in several instances, justices acted in ways that weakened the court’s reputation for being independent and impartial.\nJustice Antonin Scalia, for example, appeared at political events.\nThat kind of activity makes it less likely that the court’s decisions will be accepted as impartial judgments.\nPart of the problem is that the justices are not bound by an ethics code.\nAt the very least, the court should make itself subject to the code of conduct that applies to the rest of the federal judiciary.\nThis and other similar cases raise the question of whether there is still a line between the court and politics.\nThe framers of the Constitution envisioned law as having authority apart from politics.\nThey gave justices permanent positions so they would be free to upset those in power and have no need to cultivate political support.\nOur legal system was designed to set law apart from politics precisely because they are so closely tied.\nConstitutional law is political because it results from choices rooted in fundamental social concepts like liberty and property.\nWhen the court deals with social policy decisions, the law it shapes is inescapably political — which is why decisions split along ideological lines are so easily dismissed as unjust.\nThe justices must address doubts about the court’s legitimacy by making themselves accountable to the code of conduct.\nThat would make their rulings more likely to be seen as separate from politics and, as a result, convincing as law.",
+        "blanks": [
+          {
+            "blank_no": 1,
+            "replace": {
+              "end": 25,
+              "start": 17
+            },
+            "sentence_id": 2012013002
+          },
+          {
+            "blank_no": 2,
+            "replace": {
+              "end": 76,
+              "start": 72
+            },
+            "sentence_id": 2012013002
+          },
+          {
+            "blank_no": 3,
+            "replace": {
+              "end": 63,
+              "start": 55
+            },
+            "sentence_id": 2012013003
+          },
+          {
+            "blank_no": 4,
+            "replace": {
+              "end": 86,
+              "start": 78
+            },
+            "sentence_id": 2012013005
+          },
+          {
+            "blank_no": 5,
+            "replace": {
+              "end": 54,
+              "start": 49
+            },
+            "sentence_id": 2012013006
+          },
+          {
+            "blank_no": 6,
+            "replace": {
+              "end": 55,
+              "start": 48
+            },
+            "sentence_id": 2012013007
+          },
+          {
+            "blank_no": 7,
+            "replace": {
+              "end": 91,
+              "start": 84
+            },
+            "sentence_id": 2012013007
+          },
+          {
+            "blank_no": 8,
+            "replace": {
+              "end": 34,
+              "start": 29
+            },
+            "sentence_id": 2012013008
+          },
+          {
+            "blank_no": 9,
+            "replace": {
+              "end": 80,
+              "start": 76
+            },
+            "sentence_id": 2012013008
+          },
+          {
+            "blank_no": 10,
+            "replace": {
+              "end": 49,
+              "start": 47
+            },
+            "sentence_id": 2012013009
+          },
+          {
+            "blank_no": 11,
+            "replace": {
+              "end": 41,
+              "start": 39
+            },
+            "sentence_id": 2012013010
+          },
+          {
+            "blank_no": 12,
+            "replace": {
+              "end": 69,
+              "start": 64
+            },
+            "sentence_id": 2012013010
+          },
+          {
+            "blank_no": 13,
+            "replace": {
+              "end": 114,
+              "start": 105
+            },
+            "sentence_id": 2012013010
+          },
+          {
+            "blank_no": 14,
+            "replace": {
+              "end": 103,
+              "start": 99
+            },
+            "sentence_id": 2012013011
+          },
+          {
+            "blank_no": 15,
+            "replace": {
+              "end": 101,
+              "start": 93
+            },
+            "sentence_id": 2012013012
+          },
+          {
+            "blank_no": 16,
+            "replace": {
+              "end": 68,
+              "start": 62
+            },
+            "sentence_id": 2012013013
+          },
+          {
+            "blank_no": 17,
+            "replace": {
+              "end": 172,
+              "start": 163
+            },
+            "sentence_id": 2012013013
+          },
+          {
+            "blank_no": 18,
+            "replace": {
+              "end": 25,
+              "start": 18
+            },
+            "sentence_id": 2012013014
+          },
+          {
+            "blank_no": 19,
+            "replace": {
+              "end": 94,
+              "start": 83
+            },
+            "sentence_id": 2012013014
+          },
+          {
+            "blank_no": 20,
+            "replace": {
+              "end": 95,
+              "start": 84
+            },
+            "sentence_id": 2012013015
+          }
+        ],
+        "questions": [
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，句子强调法院需要维持其合法性，因此选择“maintain”最符合语境。\nA. “emphasize”意为“强调”，不符合语境，因为这里不是在强调合法性，而是维持合法性。\nB. “maintain”意为“维持”，符合语境，强调法院需要维持其合法性。\nC. “modify”意为“修改”，不符合语境，因为合法性不是修改的对象。\nD. “recognize”意为“承认”，不符合语境，因为这里不是在承认合法性，而是维持合法性。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "B",
+            "id": 1,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "emphasize",
+                  "surface": "emphasize"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "maintain",
+                  "surface": "maintain"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "modify",
+                  "surface": "modify"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "recognize",
+                  "surface": "recognize"
+                }
+              ]
+            },
+            "options": [
+              "A) emphasize",
+              "B) maintain",
+              "C) modify",
+              "D) recognize"
+            ],
+            "qid": 2012011001,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "结合上下文，句子表达的是一个时间条件关系，强调“当法官表现得像政治家时”，因此选择“when”最符合语境。\nA. “when”意为“当……时”，符合语境，表示时间条件关系。\nB. “lest”意为“以免”，不符合语境，因为这里不是在表达避免某事发生。\nC. “before”意为“在……之前”，不符合语境，因为这里不是在表达时间顺序。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "A",
+            "id": 2,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "when",
+                  "surface": "when"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "lest",
+                  "surface": "lest"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "before",
+                  "surface": "before"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "unless",
+                  "surface": "unless"
+                }
+              ]
+            },
+            "options": [
+              "A) when",
+              "B) lest",
+              "C) before",
+              "D) unless"
+            ],
+            "qid": 2012011002,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，句子强调法官的行为方式对法院声誉的负面影响，因此选择“weakened”最符合语境。\nA. “restored”意为“恢复”，不符合语境，因为这里强调的是负面影响。\nB. “weakened”意为“削弱”，符合语境，强调法官的行为对法院声誉的负面影响。\nC. “established”意为“建立”，不符合语境，因为这里不是在建立声誉。\nD. “eliminated”意为“消除”，不符合语境，因为这里不是在消除声誉，而是削弱声誉。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "B",
+            "id": 3,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "restore",
+                  "surface": "restored"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "weaken",
+                  "surface": "weakened"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "establish",
+                  "surface": "established"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "eliminate",
+                  "surface": "eliminated"
+                }
+              ]
+            },
+            "options": [
+              "A) restored",
+              "B) weakened",
+              "C) established",
+              "D) eliminated"
+            ],
+            "qid": 2012011003,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，句子强调法院的裁决是否被视为公正，因此 'accepted'（被接受）最符合语境。\nA. ‘challenged’（质疑）与语境不符，因为这里强调的是裁决被接受的可能性，而不是被质疑。\nB. ‘compromised’（妥协）不符合语境，裁决的公正性并未被妥协，而是讨论其被接受的可能性。\nC. ‘suspected’（怀疑）与语境不符，因为句子强调的是裁决被接受，而不是被怀疑。\nD. ‘accepted’（被接受）符合语境，强调裁决是否被视为公正。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "D",
+            "id": 4,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "challenge",
+                  "surface": "challenged"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "compromise",
+                  "surface": "compromised"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "suspect",
+                  "surface": "suspected"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "accept",
+                  "surface": "accepted"
+                }
+              ]
+            },
+            "options": [
+              "A) challenged",
+              "B) compromised",
+              "C) suspected",
+              "D) accepted"
+            ],
+            "qid": 2012011004,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，句子强调法官们未受伦理规范约束，因此 'bound'（受约束的）最符合语境。\nA. ‘advanced’（推进）与语境不符，因为句子并未提到伦理规范的推进。\nB. ‘caught’（被抓住）不符合语境，句子强调的是约束而非抓住。\nC. ‘bound’（受约束的）符合语境，表明法官未受伦理规范的约束。\nD. ‘founded’（建立）与语境不符，句子并未讨论伦理规范的建立。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "C",
+            "id": 5,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "advance",
+                  "surface": "advanced"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "catch",
+                  "surface": "caught"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "bind",
+                  "surface": "bound"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "find",
+                  "surface": "founded"
+                }
+              ]
+            },
+            "options": [
+              "A) advanced",
+              "B) caught",
+              "C) bound",
+              "D) founded"
+            ],
+            "qid": 2012011005,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，句子强调法院应该服从行为准则，因此 'subject'（服从的）最符合语境。\nA. ‘resistant’（抵抗的）与语境不符，因为法院需要服从行为准则，而非抵抗。\nB. ‘subject’（服从的）符合语境，表明法院应该服从行为准则。\nC. ‘immune’（免疫的）不符合语境，法院并未被免除遵守行为准则的义务。\nD. ‘prone’（倾向于）不符合语境，句子强调的是服从而非倾向。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "B",
+            "id": 6,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "resistant",
+                  "surface": "resistant"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "subject",
+                  "surface": "subject"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "immune",
+                  "surface": "immune"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "prone",
+                  "surface": "prone"
+                }
+              ]
+            },
+            "options": [
+              "A) resistant",
+              "B) subject",
+              "C) immune",
+              "D) prone"
+            ],
+            "qid": 2012011006,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，句子强调行为准则适用于其他联邦司法机构，因此 'applies'（适用）最符合语境。\nA. ‘resorts’（求助）与语境不符，因为句子强调行为准则的适用性，而非求助。\nB. ‘sticks’（坚持）不符合语境，行为准则并非坚持某种原则。\nC. ‘leads’（引导）与语境不符，行为准则并未引导其他司法机构。\nD. ‘applies’（适用）符合语境，表明行为准则适用于其他联邦司法机构。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "D",
+            "id": 7,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "resort",
+                  "surface": "resorts"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "stick",
+                  "surface": "sticks"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "lead",
+                  "surface": "leads"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "apply",
+                  "surface": "applies"
+                }
+              ]
+            },
+            "options": [
+              "A) resorts",
+              "B) sticks",
+              "C) leads",
+              "D) applies"
+            ],
+            "qid": 2012011007,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "A. ‘evade’（逃避）与语境不符，因为句子强调的是提出问题，而非逃避问题。\nB. ‘raise’（提出）符合语境，表明案例提出了一个问题。\nC. ‘deny’（否认）不符合语境，句子并未否认问题的存在。\nD. ‘settle’（解决）与语境不符，因为句子强调的是提出问题，而非解决问题。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "B",
+            "id": 8,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "evade",
+                  "surface": "evade"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "raise",
+                  "surface": "raise"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "deny",
+                  "surface": "deny"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "settle",
+                  "surface": "settle"
+                }
+              ]
+            },
+            "options": [
+              "A) evade",
+              "B) raise",
+              "C) deny",
+              "D) settle"
+            ],
+            "qid": 2012011008,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "A. ‘line’（界线）符合语境，表明法院与政治之间可能存在界线。\nB. ‘barrier’（障碍）虽然表面上合理，但不如‘line’准确，因为句子强调的是界线而非障碍。\nC. ‘similarity’（相似性）不符合语境，句子讨论的是界线而非相似性。\nD. ‘conflict’（冲突）与语境不符，因为句子强调的是界线而非冲突。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "A",
+            "id": 9,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "line",
+                  "surface": "line"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "barrier",
+                  "surface": "barrier"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "similarity",
+                  "surface": "similarity"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "conflict",
+                  "surface": "conflict"
+                }
+              ]
+            },
+            "options": [
+              "A) line",
+              "B) barrier",
+              "C) similarity",
+              "D) conflict"
+            ],
+            "qid": 2012011009,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，句子强调法律的权威独立于政治，因此选择表示“作为”的选项最为合适。\nA. “by”表示通过某种方式，不符合句子语境。\nB. “as”表示“作为”，符合句子语境，强调法律的独立性。\nC. “through”表示通过某种媒介，不符合句子语境。\nD. “towards”表示朝向某物，不符合句子语境。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "B",
+            "id": 10,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "by",
+                  "surface": "by"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "as",
+                  "surface": "as"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "through",
+                  "surface": "through"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "toward",
+                  "surface": "towards"
+                }
+              ]
+            },
+            "options": [
+              "A) by",
+              "B) as",
+              "C) through",
+              "D) towards"
+            ],
+            "qid": 2012011010,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "句子强调给予法官终身职位的目的是让他们能够自由地服务于掌权者，因此选择表示“以便”的选项最为合适。\nA. “so”表示“以便”，符合句子语境。\nB. “since”表示“因为”，不符合句子语境。\nC. “provided”表示“假如”，不符合句子语境。\nD. “though”表示“虽然”，不符合句子语境。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "A",
+            "id": 11,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "so",
+                  "surface": "so"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "since",
+                  "surface": "since"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "provide",
+                  "surface": "provided"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "though",
+                  "surface": "though"
+                }
+              ]
+            },
+            "options": [
+              "A) so",
+              "B) since",
+              "C) provided",
+              "D) though"
+            ],
+            "qid": 2012011011,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "A. “serve”表示“服务”，不符合句子语境。\nB. “satisfy”表示“满足”，不符合句子语境。\nC. “upset”表示“使不安”，符合句子语境。\nD. “replace”表示“替代”，不符合句子语境。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "C",
+            "id": 12,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "serve",
+                  "surface": "serve"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "satisfy",
+                  "surface": "satisfy"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "upset",
+                  "surface": "upset"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "replace",
+                  "surface": "replace"
+                }
+              ]
+            },
+            "options": [
+              "A) serve",
+              "B) satisfy",
+              "C) upset",
+              "D) replace"
+            ],
+            "qid": 2012011012,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "句子强调法官无需培养政治支持，因此选择表示“培养”的选项最为合适。\nA. “confirm”表示“确认”，不符合句子语境。\nB. “express”表示“表达”，不符合句子语境。\nC. “cultivate”表示“培养”，符合句子语境。\nD. “offer”表示“提供”，不符合句子语境。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "C",
+            "id": 13,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "confirm",
+                  "surface": "confirm"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "express",
+                  "surface": "express"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "cultivate",
+                  "surface": "cultivate"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "offer",
+                  "surface": "offer"
+                }
+              ]
+            },
+            "options": [
+              "A) confirm",
+              "B) express",
+              "C) cultivate",
+              "D) offer"
+            ],
+            "qid": 2012011013,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "句子强调法律与政治之间的紧密联系，因此选择表示“联系”的选项最为合适。\nA. “guarded”表示“保护”，不符合句子语境。\nB. “followed”表示“遵循”，不符合句子语境。\nC. “studied”表示“研究”，不符合句子语境。\nD. “tied”表示“联系”，符合句子语境。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "D",
+            "id": 14,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "guard",
+                  "surface": "guarded"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "follow",
+                  "surface": "followed"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "study",
+                  "surface": "studied"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "tie",
+                  "surface": "tied"
+                }
+              ]
+            },
+            "options": [
+              "A) guarded",
+              "B) followed",
+              "C) studied",
+              "D) tied"
+            ],
+            "qid": 2012011014,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "句子强调宪法法律源于基本社会概念，因此选择表示“概念”的选项最为合适。\nA. “concepts”表示“概念”，符合句子语境。\nB. “theories”表示“理论”，不符合句子语境。\nC. “divisions”表示“分裂”，不符合句子语境。\nD. “conventions”表示“惯例”，不符合句子语境。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "A",
+            "id": 15,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "concept",
+                  "surface": "concepts"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "theory",
+                  "surface": "theories"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "division",
+                  "surface": "divisions"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "convention",
+                  "surface": "conventions"
+                }
+              ]
+            },
+            "options": [
+              "A) concepts",
+              "B) theories",
+              "C) divisions",
+              "D) conventions"
+            ],
+            "qid": 2012011015,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，法院处理社会政策时会制定法律，‘shapes’（塑造）符合语境，表示法院对法律的影响。\nA. ‘excludes’（排除）不符合语境，因为法院不是排除法律，而是制定法律。\nB. ‘questions’（质疑）不符合语境，因为这里强调的是法院对法律的塑造，而非质疑。\nC. ‘shapes’（塑造）最符合语境，表明法院对法律的影响和制定。\nD. ‘controls’（控制）不够准确，因为语境强调的是制定法律，而非控制法律。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "C",
+            "id": 16,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "exclude",
+                  "surface": "excludes"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "question",
+                  "surface": "questions"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "shape",
+                  "surface": "shapes"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "control",
+                  "surface": "controls"
+                }
+              ]
+            },
+            "options": [
+              "A) excludes",
+              "B) questions",
+              "C) shapes",
+              "D) controls"
+            ],
+            "qid": 2012011016,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据语境，沿意识形态分裂的决定容易被‘dismissed’（驳回）为不公正，符合逻辑。\nA. ‘dismissed’（驳回）最符合语境，强调这些决定容易被认为是不公正的。\nB. ‘released’（发布）不符合语境，因为这里不是在讨论发布决定。\nC. ‘ranked’（排名）不符合语境，因为语境中没有提到排名。\nD. ‘distorted’（扭曲）不符合语境，因为这里强调的是被驳回，而非被扭曲。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "A",
+            "id": 17,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "dismiss",
+                  "surface": "dismissed"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "release",
+                  "surface": "released"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "rank",
+                  "surface": "ranked"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "distort",
+                  "surface": "distorted"
+                }
+              ]
+            },
+            "options": [
+              "A) dismissed",
+              "B) released",
+              "C) ranked",
+              "D) distorted"
+            ],
+            "qid": 2012011017,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据语境，法官需要‘address’（解决）对法院合法性的质疑，符合逻辑。\nA. ‘suppress’（压制）不符合语境，因为法官不是压制质疑，而是解决质疑。\nB. ‘exploit’（利用）不符合语境，因为法官不是利用质疑。\nC. ‘address’（解决）最符合语境，强调法官需要解决问题。\nD. ‘ignore’（忽视）不符合语境，因为法官不能忽视质疑。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "C",
+            "id": 18,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "suppress",
+                  "surface": "suppress"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "exploit",
+                  "surface": "exploit"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "address",
+                  "surface": "address"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "ignore",
+                  "surface": "ignore"
+                }
+              ]
+            },
+            "options": [
+              "A) suppress",
+              "B) exploit",
+              "C) address",
+              "D) ignore"
+            ],
+            "qid": 2012011018,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据语境，法官需要使自己‘accountable’（负责任的）以遵守行为准则，符合逻辑。\nA. ‘accessible’（可接近的）不符合语境，因为这里强调的是责任而非接近性。\nB. ‘amiable’（友好的）不符合语境，因为这里强调的是责任而非态度。\nC. ‘agreeable’（令人愉快的）不符合语境，因为这里强调的是责任。\nD. ‘accountable’（负责任的）最符合语境，强调法官需要对行为准则负责。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "D",
+            "id": 19,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "accessible",
+                  "surface": "accessible"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "amiable",
+                  "surface": "amiable"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "agreeable",
+                  "surface": "agreeable"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "accountable",
+                  "surface": "accountable"
+                }
+              ]
+            },
+            "options": [
+              "A) accessible",
+              "B) amiable",
+              "C) agreeable",
+              "D) accountable"
+            ],
+            "qid": 2012011019,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据语境，‘as a result’（因此）符合逻辑，表明裁决与政治分离后更具说服力的因果关系。\nA. ‘by all means’（无论如何）不符合语境，因为这里强调的是因果关系。\nB. ‘at all costs’（不惜一切代价）不符合语境，因为这里没有强调代价。\nC. ‘in a word’（总之）不符合语境，因为这里不是总结。\nD. ‘as a result’（因此）最符合语境，表明因果关系。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "D",
+            "id": 20,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "by",
+                  "surface": "by"
+                },
+                {
+                  "lemma": "all",
+                  "surface": "all"
+                },
+                {
+                  "lemma": "mean",
+                  "surface": "means"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "at",
+                  "surface": "at"
+                },
+                {
+                  "lemma": "all",
+                  "surface": "all"
+                },
+                {
+                  "lemma": "cost",
+                  "surface": "costs"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "in",
+                  "surface": "in"
+                },
+                {
+                  "lemma": "a",
+                  "surface": "a"
+                },
+                {
+                  "lemma": "word",
+                  "surface": "word"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "as",
+                  "surface": "as"
+                },
+                {
+                  "lemma": "a",
+                  "surface": "a"
+                },
+                {
+                  "lemma": "result",
+                  "surface": "result"
+                }
+              ]
+            },
+            "options": [
+              "A) by all means",
+              "B) at all costs",
+              "C) in a word",
+              "D) as a result"
+            ],
+            "qid": 2012011020,
+            "text": ""
+          }
+        ]
+      },
+      "directions": "Read the following text. Choose the best word(s) for each numbered blank and mark A, B,\nC or D on ANSWER SHEET 1. (10 points)",
+      "exam_info": "2012(1)",
+      "exam_type": "kaoyan",
+      "id": 201201001,
+      "key_words": "court all justices law accountable address dismissed line maintain result shapes weakened accepted applies bound concepts cultivate political politics raise subject tied upset word accessible advanced agreeable amiable barrier before caught challenged code compromised confirm conflict controls conventions costs decisions deny distorted divisions eliminated emphasize established evade excludes exploit express followed founded guarded ignore immune leads lest means modify offer prone provided questions ranked recognize released replace resistant resorts restored satisfy serve settle similarity since sticks studied suppress suspected theories",
+      "kid": 18,
+      "part": "Part III",
+      "section": "Sec A",
+      "task_key": "2012(1)_Section I_ ",
+      "type": "Use of English"
+    }
+  ]
+}

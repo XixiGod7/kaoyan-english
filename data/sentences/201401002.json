@@ -1,0 +1,3360 @@
+{
+  "sentences": [
+    {
+      "cn_text": "为了「改善生活」并减少「依赖」，财政大臣乔治·奥斯本推出了「预先求职」计划。",
+      "en_text": "In order to “change lives for the better” and reduce “dependency”, George Osborne, Chancellor of the Exchequer, introduced the “upfront work search” scheme.",
+      "id": 2014013013,
+      "order_seq": "content_1_1",
+      "task_id": 201401002,
+      "tokens": [
+        {
+          "gloss": "为了",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "目的",
+          "lemma": "order",
+          "surface": "order"
+        },
+        {
+          "gloss": "为了",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "改变",
+          "lemma": "change",
+          "surface": "change"
+        },
+        {
+          "gloss": "生活",
+          "lemma": "life",
+          "surface": "lives"
+        },
+        {
+          "gloss": "为了",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "更好的",
+          "lemma": "better",
+          "surface": "better"
+        },
+        {
+          "gloss": "并且",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "减少",
+          "lemma": "reduce",
+          "surface": "reduce"
+        },
+        {
+          "gloss": "依赖",
+          "lemma": "dependency",
+          "surface": "dependency"
+        },
+        {
+          "gloss": "乔治",
+          "lemma": "george",
+          "surface": "George"
+        },
+        {
+          "gloss": "奥斯本",
+          "lemma": "osborne",
+          "surface": "Osborne"
+        },
+        {
+          "gloss": "财政大臣",
+          "lemma": "chancellor",
+          "surface": "Chancellor"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "财政部",
+          "lemma": "exchequer",
+          "surface": "Exchequer"
+        },
+        {
+          "gloss": "推出",
+          "lemma": "introduce",
+          "surface": "introduced"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "预先的",
+          "lemma": "upfront",
+          "surface": "upfront"
+        },
+        {
+          "gloss": "工作",
+          "lemma": "work",
+          "surface": "work"
+        },
+        {
+          "gloss": "搜索",
+          "lemma": "search",
+          "surface": "search"
+        },
+        {
+          "gloss": "计划",
+          "lemma": "scheme",
+          "surface": "scheme"
+        }
+      ]
+    },
+    {
+      "cn_text": "只有失业者携带简历来到就业中心、注册在线求职并开始寻找工作，才有资格领取福利——而且应每周报告而非每两周报告。",
+      "en_text": "Only if the jobless arrive at the jobcentre with a CV, register for online job search, and start looking for work will they be eligible for benefit — and then they should report weekly rather than fortnightly.",
+      "id": 2014013014,
+      "order_seq": "content_1_2",
+      "task_id": 201401002,
+      "tokens": [
+        {
+          "gloss": "只有",
+          "lemma": "only",
+          "surface": "only"
+        },
+        {
+          "gloss": "如果",
+          "lemma": "if",
+          "surface": "if"
+        },
+        {
+          "gloss": "这些",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "失业者",
+          "lemma": "jobless",
+          "surface": "jobless"
+        },
+        {
+          "gloss": "到达",
+          "lemma": "arrive",
+          "surface": "arrive"
+        },
+        {
+          "gloss": "在",
+          "lemma": "at",
+          "surface": "at"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "就业中心",
+          "lemma": "jobcentre",
+          "surface": "jobcentre"
+        },
+        {
+          "gloss": "带着",
+          "lemma": "with",
+          "surface": "with"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "简历",
+          "lemma": "cv",
+          "surface": "CV"
+        },
+        {
+          "gloss": "注册",
+          "lemma": "register",
+          "surface": "register"
+        },
+        {
+          "gloss": "为了",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "在线的",
+          "lemma": "online",
+          "surface": "online"
+        },
+        {
+          "gloss": "工作",
+          "lemma": "job",
+          "surface": "job"
+        },
+        {
+          "gloss": "搜索",
+          "lemma": "search",
+          "surface": "search"
+        },
+        {
+          "gloss": "并且",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "开始",
+          "lemma": "start",
+          "surface": "start"
+        },
+        {
+          "gloss": "寻找",
+          "lemma": "look",
+          "surface": "looking"
+        },
+        {
+          "gloss": "为了",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "工作",
+          "lemma": "work",
+          "surface": "work"
+        },
+        {
+          "gloss": "将",
+          "lemma": "will",
+          "surface": "will"
+        },
+        {
+          "gloss": "他们",
+          "lemma": "they",
+          "surface": "they"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "be"
+        },
+        {
+          "gloss": "有资格的",
+          "lemma": "eligible",
+          "surface": "eligible"
+        },
+        {
+          "gloss": "为了",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "福利",
+          "lemma": "benefit",
+          "surface": "benefit"
+        },
+        {
+          "gloss": "并且",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "然后",
+          "lemma": "then",
+          "surface": "then"
+        },
+        {
+          "gloss": "他们",
+          "lemma": "they",
+          "surface": "they"
+        },
+        {
+          "gloss": "应该",
+          "lemma": "should",
+          "surface": "should"
+        },
+        {
+          "gloss": "报告",
+          "lemma": "report",
+          "surface": "report"
+        },
+        {
+          "gloss": "每周",
+          "lemma": "weekly",
+          "surface": "weekly"
+        },
+        {
+          "gloss": "而不是",
+          "lemma": "rather",
+          "surface": "rather"
+        },
+        {
+          "gloss": "比",
+          "lemma": "than",
+          "surface": "than"
+        },
+        {
+          "gloss": "每两周",
+          "lemma": "fortnightly",
+          "surface": "fortnightly"
+        }
+      ]
+    },
+    {
+      "cn_text": "还有什么能比这更合理呢？",
+      "en_text": "What could be more reasonable?",
+      "id": 2014013015,
+      "order_seq": "content_1_3",
+      "task_id": 201401002,
+      "tokens": [
+        {
+          "gloss": "什么",
+          "lemma": "what",
+          "surface": "what"
+        },
+        {
+          "gloss": "可能",
+          "lemma": "could",
+          "surface": "could"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "be"
+        },
+        {
+          "gloss": "更",
+          "lemma": "more",
+          "surface": "more"
+        },
+        {
+          "gloss": "合理的",
+          "lemma": "reasonable",
+          "surface": "reasonable"
+        }
+      ]
+    },
+    {
+      "cn_text": "更多表面上的合理性紧随其后。",
+      "en_text": "More apparent reasonableness followed.",
+      "id": 2014013016,
+      "order_seq": "content_2_1",
+      "task_id": 201401002,
+      "tokens": [
+        {
+          "gloss": "更多的",
+          "lemma": "more",
+          "surface": "more"
+        },
+        {
+          "gloss": "表面的",
+          "lemma": "apparent",
+          "surface": "apparent"
+        },
+        {
+          "gloss": "合理性",
+          "lemma": "reasonableness",
+          "surface": "reasonableness"
+        },
+        {
+          "gloss": "随之而来",
+          "lemma": "follow",
+          "surface": "followed"
+        }
+      ]
+    },
+    {
+      "cn_text": "现在领取求职者津贴需要等待七天。",
+      "en_text": "There will now be a seven-day wait for the jobseeker’s allowance.",
+      "id": 2014013017,
+      "order_seq": "content_2_2",
+      "task_id": 201401002,
+      "tokens": [
+        {
+          "gloss": "有",
+          "lemma": "there",
+          "surface": "there"
+        },
+        {
+          "gloss": "将",
+          "lemma": "will",
+          "surface": "will"
+        },
+        {
+          "gloss": "现在",
+          "lemma": "now",
+          "surface": "now"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "be"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "七",
+          "lemma": "seven",
+          "surface": "seven"
+        },
+        {
+          "gloss": "天",
+          "lemma": "day",
+          "surface": "day"
+        },
+        {
+          "gloss": "等待",
+          "lemma": "wait",
+          "surface": "wait"
+        },
+        {
+          "gloss": "为了",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "求职者的",
+          "lemma": "jobseeker",
+          "surface": "jobseeker’s"
+        },
+        {
+          "gloss": "津贴",
+          "lemma": "allowance",
+          "surface": "allowance"
+        }
+      ]
+    },
+    {
+      "cn_text": "「最初的几天应该用来找工作，而不是去登记领取福利，」他声称。",
+      "en_text": "“Those first few days should be spent looking for work, not looking to sign on,” he claimed.",
+      "id": 2014013018,
+      "order_seq": "content_2_3",
+      "task_id": 201401002,
+      "tokens": [
+        {
+          "gloss": "那些",
+          "lemma": "those",
+          "surface": "those"
+        },
+        {
+          "gloss": "最初的",
+          "lemma": "first",
+          "surface": "first"
+        },
+        {
+          "gloss": "几",
+          "lemma": "few",
+          "surface": "few"
+        },
+        {
+          "gloss": "天",
+          "lemma": "day",
+          "surface": "days"
+        },
+        {
+          "gloss": "应该",
+          "lemma": "should",
+          "surface": "should"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "be"
+        },
+        {
+          "gloss": "用于",
+          "lemma": "spend",
+          "surface": "spent"
+        },
+        {
+          "gloss": "寻找",
+          "lemma": "look",
+          "surface": "looking"
+        },
+        {
+          "gloss": "为了",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "工作",
+          "lemma": "work",
+          "surface": "work"
+        },
+        {
+          "gloss": "不是",
+          "lemma": "not",
+          "surface": "not"
+        },
+        {
+          "gloss": "寻找",
+          "lemma": "look",
+          "surface": "looking"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "登记",
+          "lemma": "sign",
+          "surface": "sign"
+        },
+        {
+          "gloss": "领取",
+          "lemma": "on",
+          "surface": "on"
+        },
+        {
+          "gloss": "他",
+          "lemma": "he",
+          "surface": "he"
+        },
+        {
+          "gloss": "声称",
+          "lemma": "claim",
+          "surface": "claimed"
+        }
+      ]
+    },
+    {
+      "cn_text": "「我们做这些事情是因为我们知道它们能帮助人们避免依赖福利，并帮助那些领取福利的人更快找到工作。」帮助？",
+      "en_text": "“We’re doing these things because we know they help people stay off benefits and help those on benefits get into work faster.” Help?",
+      "id": 2014013019,
+      "order_seq": "content_2_4",
+      "task_id": 201401002,
+      "tokens": [
+        {
+          "gloss": "我们是",
+          "lemma": "we are",
+          "surface": "we’re"
+        },
+        {
+          "gloss": "做",
+          "lemma": "do",
+          "surface": "doing"
+        },
+        {
+          "gloss": "这些",
+          "lemma": "these",
+          "surface": "these"
+        },
+        {
+          "gloss": "事情",
+          "lemma": "thing",
+          "surface": "things"
+        },
+        {
+          "gloss": "因为",
+          "lemma": "because",
+          "surface": "because"
+        },
+        {
+          "gloss": "我们",
+          "lemma": "we",
+          "surface": "we"
+        },
+        {
+          "gloss": "知道",
+          "lemma": "know",
+          "surface": "know"
+        },
+        {
+          "gloss": "它们",
+          "lemma": "they",
+          "surface": "they"
+        },
+        {
+          "gloss": "帮助",
+          "lemma": "help",
+          "surface": "help"
+        },
+        {
+          "gloss": "人们",
+          "lemma": "people",
+          "surface": "people"
+        },
+        {
+          "gloss": "保持",
+          "lemma": "stay",
+          "surface": "stay"
+        },
+        {
+          "gloss": "摆脱",
+          "lemma": "off",
+          "surface": "off"
+        },
+        {
+          "gloss": "福利",
+          "lemma": "benefit",
+          "surface": "benefits"
+        },
+        {
+          "gloss": "并且",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "帮助",
+          "lemma": "help",
+          "surface": "help"
+        },
+        {
+          "gloss": "那些",
+          "lemma": "those",
+          "surface": "those"
+        },
+        {
+          "gloss": "领取",
+          "lemma": "on",
+          "surface": "on"
+        },
+        {
+          "gloss": "福利",
+          "lemma": "benefit",
+          "surface": "benefits"
+        },
+        {
+          "gloss": "找到",
+          "lemma": "get",
+          "surface": "get"
+        },
+        {
+          "gloss": "进入",
+          "lemma": "into",
+          "surface": "into"
+        },
+        {
+          "gloss": "工作",
+          "lemma": "work",
+          "surface": "work"
+        },
+        {
+          "gloss": "更快",
+          "lemma": "fast",
+          "surface": "faster"
+        },
+        {
+          "gloss": "帮助",
+          "lemma": "help",
+          "surface": "help"
+        }
+      ]
+    },
+    {
+      "cn_text": "真的吗？",
+      "en_text": "Really?",
+      "id": 2014013020,
+      "order_seq": "content_2_5",
+      "task_id": 201401002,
+      "tokens": [
+        {
+          "gloss": "真的吗",
+          "lemma": "really",
+          "surface": "really"
+        }
+      ]
+    },
+    {
+      "cn_text": "初听之下，这是一位关心社会的财政大臣，试图通过「改革」一个明显过于宽松的制度来改善生活，该制度对新失业者找工作的要求太低，并且补贴懒惰。",
+      "en_text": "On first hearing, this was the socially concerned chancellor, trying to change lives for the better, complete with “reforms” to an obviously indulgent system that demands too little effort from the newly unemployed to find work, and subsidises laziness.",
+      "id": 2014013021,
+      "order_seq": "content_2_6",
+      "task_id": 201401002,
+      "tokens": [
+        {
+          "gloss": "在...之上",
+          "lemma": "on",
+          "surface": "On"
+        },
+        {
+          "gloss": "首次的",
+          "lemma": "first",
+          "surface": "first"
+        },
+        {
+          "gloss": "听到",
+          "lemma": "hear",
+          "surface": "hearing"
+        },
+        {
+          "gloss": "这",
+          "lemma": "this",
+          "surface": "this"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "was"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "社会地",
+          "lemma": "socially",
+          "surface": "socially"
+        },
+        {
+          "gloss": "关心的",
+          "lemma": "concerned",
+          "surface": "concerned"
+        },
+        {
+          "gloss": "财政大臣",
+          "lemma": "chancellor",
+          "surface": "chancellor"
+        },
+        {
+          "gloss": "尝试",
+          "lemma": "try",
+          "surface": "trying"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "改变",
+          "lemma": "change",
+          "surface": "change"
+        },
+        {
+          "gloss": "生活",
+          "lemma": "life",
+          "surface": "lives"
+        },
+        {
+          "gloss": "为了",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "更好的",
+          "lemma": "better",
+          "surface": "better"
+        },
+        {
+          "gloss": "完整的",
+          "lemma": "complete",
+          "surface": "complete"
+        },
+        {
+          "gloss": "带有",
+          "lemma": "with",
+          "surface": "with"
+        },
+        {
+          "gloss": "改革",
+          "lemma": "reform",
+          "surface": "reforms"
+        },
+        {
+          "gloss": "针对",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "an",
+          "surface": "an"
+        },
+        {
+          "gloss": "显然地",
+          "lemma": "obviously",
+          "surface": "obviously"
+        },
+        {
+          "gloss": "宽容的",
+          "lemma": "indulgent",
+          "surface": "indulgent"
+        },
+        {
+          "gloss": "制度",
+          "lemma": "system",
+          "surface": "system"
+        },
+        {
+          "gloss": "那",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "要求",
+          "lemma": "demand",
+          "surface": "demands"
+        },
+        {
+          "gloss": "过于",
+          "lemma": "too",
+          "surface": "too"
+        },
+        {
+          "gloss": "少量的",
+          "lemma": "little",
+          "surface": "little"
+        },
+        {
+          "gloss": "努力",
+          "lemma": "effort",
+          "surface": "effort"
+        },
+        {
+          "gloss": "从",
+          "lemma": "from",
+          "surface": "from"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "新近地",
+          "lemma": "newly",
+          "surface": "newly"
+        },
+        {
+          "gloss": "失业的",
+          "lemma": "unemployed",
+          "surface": "unemployed"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "寻找",
+          "lemma": "find",
+          "surface": "find"
+        },
+        {
+          "gloss": "工作",
+          "lemma": "work",
+          "surface": "work"
+        },
+        {
+          "gloss": "并且",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "补贴",
+          "lemma": "subsidise",
+          "surface": "subsidises"
+        },
+        {
+          "gloss": "懒惰",
+          "lemma": "laziness",
+          "surface": "laziness"
+        }
+      ]
+    },
+    {
+      "cn_text": "我们应当理解，驱动他的是对「根本公平」的热情——保护纳税人、控制支出、确保只有最值得的申请者才能获得福利。",
+      "en_text": "What motivated him, we were to understand, was his zeal for “fundamental fairness” — protecting the taxpayer, controlling spending and ensuring that only the most deserving claimants received their benefits.",
+      "id": 2014013022,
+      "order_seq": "content_2_7",
+      "task_id": 201401002,
+      "tokens": [
+        {
+          "gloss": "什么",
+          "lemma": "what",
+          "surface": "What"
+        },
+        {
+          "gloss": "激励",
+          "lemma": "motivate",
+          "surface": "motivated"
+        },
+        {
+          "gloss": "他",
+          "lemma": "he",
+          "surface": "him"
+        },
+        {
+          "gloss": "我们",
+          "lemma": "we",
+          "surface": "we"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "were"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "理解",
+          "lemma": "understand",
+          "surface": "understand"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "was"
+        },
+        {
+          "gloss": "他的",
+          "lemma": "his",
+          "surface": "his"
+        },
+        {
+          "gloss": "热情",
+          "lemma": "zeal",
+          "surface": "zeal"
+        },
+        {
+          "gloss": "为了",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "基本的",
+          "lemma": "fundamental",
+          "surface": "fundamental"
+        },
+        {
+          "gloss": "公平",
+          "lemma": "fairness",
+          "surface": "fairness"
+        },
+        {
+          "gloss": "保护",
+          "lemma": "protect",
+          "surface": "protecting"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "纳税人",
+          "lemma": "taxpayer",
+          "surface": "taxpayer"
+        },
+        {
+          "gloss": "控制",
+          "lemma": "control",
+          "surface": "controlling"
+        },
+        {
+          "gloss": "开支",
+          "lemma": "spend",
+          "surface": "spending"
+        },
+        {
+          "gloss": "并且",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "确保",
+          "lemma": "ensure",
+          "surface": "ensuring"
+        },
+        {
+          "gloss": "那",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "只有",
+          "lemma": "only",
+          "surface": "only"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "最",
+          "lemma": "most",
+          "surface": "most"
+        },
+        {
+          "gloss": "值得的",
+          "lemma": "deserve",
+          "surface": "deserving"
+        },
+        {
+          "gloss": "申请者",
+          "lemma": "claimant",
+          "surface": "claimants"
+        },
+        {
+          "gloss": "获得",
+          "lemma": "receive",
+          "surface": "received"
+        },
+        {
+          "gloss": "他们的",
+          "lemma": "their",
+          "surface": "their"
+        },
+        {
+          "gloss": "福利",
+          "lemma": "benefit",
+          "surface": "benefits"
+        }
+      ]
+    },
+    {
+      "cn_text": "失业是痛苦的：你不会心里哼着歌蹦蹦跳跳地去就业中心，兴高采烈地期待通过慷慨的国家让收入翻倍。",
+      "en_text": "Losing a job is hurting: you don’t skip down to the jobcentre with a song in your heart, delighted at the prospect of doubling your income from the generous state.",
+      "id": 2014013023,
+      "order_seq": "content_3_1",
+      "task_id": 201401002,
+      "tokens": [
+        {
+          "gloss": "失去",
+          "lemma": "lose",
+          "surface": "Losing"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "工作",
+          "lemma": "job",
+          "surface": "job"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "伤害",
+          "lemma": "hurt",
+          "surface": "hurting"
+        },
+        {
+          "gloss": "你",
+          "lemma": "you",
+          "surface": "you"
+        },
+        {
+          "gloss": "不",
+          "lemma": "do",
+          "surface": "don’t"
+        },
+        {
+          "gloss": "蹦跳",
+          "lemma": "skip",
+          "surface": "skip"
+        },
+        {
+          "gloss": "向下",
+          "lemma": "down",
+          "surface": "down"
+        },
+        {
+          "gloss": "到",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "就业中心",
+          "lemma": "jobcentre",
+          "surface": "jobcentre"
+        },
+        {
+          "gloss": "带着",
+          "lemma": "with",
+          "surface": "with"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "歌曲",
+          "lemma": "song",
+          "surface": "song"
+        },
+        {
+          "gloss": "在...里面",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "你的",
+          "lemma": "your",
+          "surface": "your"
+        },
+        {
+          "gloss": "心",
+          "lemma": "heart",
+          "surface": "heart"
+        },
+        {
+          "gloss": "高兴的",
+          "lemma": "delight",
+          "surface": "delighted"
+        },
+        {
+          "gloss": "在",
+          "lemma": "at",
+          "surface": "at"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "前景",
+          "lemma": "prospect",
+          "surface": "prospect"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "翻倍",
+          "lemma": "double",
+          "surface": "doubling"
+        },
+        {
+          "gloss": "你的",
+          "lemma": "your",
+          "surface": "your"
+        },
+        {
+          "gloss": "收入",
+          "lemma": "income",
+          "surface": "income"
+        },
+        {
+          "gloss": "从",
+          "lemma": "from",
+          "surface": "from"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "慷慨的",
+          "lemma": "generous",
+          "surface": "generous"
+        },
+        {
+          "gloss": "国家",
+          "lemma": "state",
+          "surface": "state"
+        }
+      ]
+    },
+    {
+      "cn_text": "这在经济上令人恐惧，在心理上令人难堪，而且你知道支持微乎其微且极其难以获得。",
+      "en_text": "It is financially terrifying, psychologically embarrassing and you know that support is minimal and extraordinarily hard to get.",
+      "id": 2014013024,
+      "order_seq": "content_3_2",
+      "task_id": 201401002,
+      "tokens": [
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "It"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "在经济上",
+          "lemma": "financially",
+          "surface": "financially"
+        },
+        {
+          "gloss": "令人恐惧的",
+          "lemma": "terrify",
+          "surface": "terrifying"
+        },
+        {
+          "gloss": "在心理上",
+          "lemma": "psychologically",
+          "surface": "psychologically"
+        },
+        {
+          "gloss": "令人尴尬的",
+          "lemma": "embarrass",
+          "surface": "embarrassing"
+        },
+        {
+          "gloss": "并且",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "你",
+          "lemma": "you",
+          "surface": "you"
+        },
+        {
+          "gloss": "知道",
+          "lemma": "know",
+          "surface": "know"
+        },
+        {
+          "gloss": "那",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "支持",
+          "lemma": "support",
+          "surface": "support"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "极少的",
+          "lemma": "minimal",
+          "surface": "minimal"
+        },
+        {
+          "gloss": "并且",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "极其",
+          "lemma": "extraordinarily",
+          "surface": "extraordinarily"
+        },
+        {
+          "gloss": "困难的",
+          "lemma": "hard",
+          "surface": "hard"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "获得",
+          "lemma": "get",
+          "surface": "get"
+        }
+      ]
+    },
+    {
+      "cn_text": "你现在不被需要了；你现在被排除在为你的生活提供目标和结构的工作环境之外。",
+      "en_text": "You are now not wanted; you are now excluded from the work environment that offers purpose and structure in your life.",
+      "id": 2014013025,
+      "order_seq": "content_3_3",
+      "task_id": 201401002,
+      "tokens": [
+        {
+          "gloss": "你",
+          "lemma": "you",
+          "surface": "You"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "are"
+        },
+        {
+          "gloss": "现在",
+          "lemma": "now",
+          "surface": "now"
+        },
+        {
+          "gloss": "不",
+          "lemma": "not",
+          "surface": "not"
+        },
+        {
+          "gloss": "需要",
+          "lemma": "want",
+          "surface": "wanted"
+        },
+        {
+          "gloss": "你",
+          "lemma": "you",
+          "surface": "you"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "are"
+        },
+        {
+          "gloss": "现在",
+          "lemma": "now",
+          "surface": "now"
+        },
+        {
+          "gloss": "排除",
+          "lemma": "exclude",
+          "surface": "excluded"
+        },
+        {
+          "gloss": "从",
+          "lemma": "from",
+          "surface": "from"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "工作",
+          "lemma": "work",
+          "surface": "work"
+        },
+        {
+          "gloss": "环境",
+          "lemma": "environment",
+          "surface": "environment"
+        },
+        {
+          "gloss": "引导从句",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "提供",
+          "lemma": "offer",
+          "surface": "offers"
+        },
+        {
+          "gloss": "目标",
+          "lemma": "purpose",
+          "surface": "purpose"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "结构",
+          "lemma": "structure",
+          "surface": "structure"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "你的",
+          "lemma": "your",
+          "surface": "your"
+        },
+        {
+          "gloss": "生活",
+          "lemma": "life",
+          "surface": "life"
+        }
+      ]
+    },
+    {
+      "cn_text": "更糟的是，用来养活自己和家人并支付账单的关键收入已经消失。",
+      "en_text": "Worse, the crucial income to feed yourself and your family and pay the bills has disappeared.",
+      "id": 2014013026,
+      "order_seq": "content_3_4",
+      "task_id": 201401002,
+      "tokens": [
+        {
+          "gloss": "更糟糕的",
+          "lemma": "worse",
+          "surface": "Worse"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "关键的",
+          "lemma": "crucial",
+          "surface": "crucial"
+        },
+        {
+          "gloss": "收入",
+          "lemma": "income",
+          "surface": "income"
+        },
+        {
+          "gloss": "用于",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "养活",
+          "lemma": "feed",
+          "surface": "feed"
+        },
+        {
+          "gloss": "你自己",
+          "lemma": "yourself",
+          "surface": "yourself"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "你的",
+          "lemma": "your",
+          "surface": "your"
+        },
+        {
+          "gloss": "家人",
+          "lemma": "family",
+          "surface": "family"
+        },
+        {
+          "gloss": "以及",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "支付",
+          "lemma": "pay",
+          "surface": "pay"
+        },
+        {
+          "gloss": "这些",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "账单",
+          "lemma": "bill",
+          "surface": "bills"
+        },
+        {
+          "gloss": "已经",
+          "lemma": "have",
+          "surface": "has"
+        },
+        {
+          "gloss": "消失",
+          "lemma": "disappear",
+          "surface": "disappeared"
+        }
+      ]
+    },
+    {
+      "cn_text": "问任何一个刚失业的人他们想要什么，答案总是：一份工作。",
+      "en_text": "Ask anyone newly unemployed what they want and the answer is always: a job.",
+      "id": 2014013027,
+      "order_seq": "content_3_5",
+      "task_id": 201401002,
+      "tokens": [
+        {
+          "gloss": "问",
+          "lemma": "ask",
+          "surface": "Ask"
+        },
+        {
+          "gloss": "任何人",
+          "lemma": "anyone",
+          "surface": "anyone"
+        },
+        {
+          "gloss": "新近",
+          "lemma": "newly",
+          "surface": "newly"
+        },
+        {
+          "gloss": "失业的",
+          "lemma": "unemployed",
+          "surface": "unemployed"
+        },
+        {
+          "gloss": "什么",
+          "lemma": "what",
+          "surface": "what"
+        },
+        {
+          "gloss": "他们",
+          "lemma": "they",
+          "surface": "they"
+        },
+        {
+          "gloss": "想要",
+          "lemma": "want",
+          "surface": "want"
+        },
+        {
+          "gloss": "并且",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "答案",
+          "lemma": "answer",
+          "surface": "answer"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "总是",
+          "lemma": "always",
+          "surface": "always"
+        },
+        {
+          "gloss": "一",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "工作",
+          "lemma": "job",
+          "surface": "job"
+        }
+      ]
+    },
+    {
+      "cn_text": "但在奥斯本的世界里，你的第一反应是陷入依赖——如果可能的话，永久依赖——而国家非常乐意纵容你的虚假。",
+      "en_text": "But in Osborneland, your first instinct is to fall into dependency — permanent dependency if you can get it — supported by a state only too ready to indulge your falsehood.",
+      "id": 2014013028,
+      "order_seq": "content_4_1",
+      "task_id": 201401002,
+      "tokens": [
+        {
+          "gloss": "但是",
+          "lemma": "but",
+          "surface": "But"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "奥斯本的国度",
+          "lemma": "osborneland",
+          "surface": "Osborneland"
+        },
+        {
+          "gloss": "你的",
+          "lemma": "your",
+          "surface": "your"
+        },
+        {
+          "gloss": "第一",
+          "lemma": "first",
+          "surface": "first"
+        },
+        {
+          "gloss": "本能",
+          "lemma": "instinct",
+          "surface": "instinct"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "陷入",
+          "lemma": "fall",
+          "surface": "fall"
+        },
+        {
+          "gloss": "进入",
+          "lemma": "into",
+          "surface": "into"
+        },
+        {
+          "gloss": "依赖",
+          "lemma": "dependency",
+          "surface": "dependency"
+        },
+        {
+          "gloss": "永久的",
+          "lemma": "permanent",
+          "surface": "permanent"
+        },
+        {
+          "gloss": "依赖",
+          "lemma": "dependency",
+          "surface": "dependency"
+        },
+        {
+          "gloss": "如果",
+          "lemma": "if",
+          "surface": "if"
+        },
+        {
+          "gloss": "你",
+          "lemma": "you",
+          "surface": "you"
+        },
+        {
+          "gloss": "能够",
+          "lemma": "can",
+          "surface": "can"
+        },
+        {
+          "gloss": "得到",
+          "lemma": "get",
+          "surface": "get"
+        },
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "it"
+        },
+        {
+          "gloss": "支持",
+          "lemma": "support",
+          "surface": "supported"
+        },
+        {
+          "gloss": "由",
+          "lemma": "by",
+          "surface": "by"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "国家",
+          "lemma": "state",
+          "surface": "state"
+        },
+        {
+          "gloss": "仅仅",
+          "lemma": "only",
+          "surface": "only"
+        },
+        {
+          "gloss": "非常",
+          "lemma": "too",
+          "surface": "too"
+        },
+        {
+          "gloss": "乐意的",
+          "lemma": "ready",
+          "surface": "ready"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "纵容",
+          "lemma": "indulge",
+          "surface": "indulge"
+        },
+        {
+          "gloss": "你的",
+          "lemma": "your",
+          "surface": "your"
+        },
+        {
+          "gloss": "虚假",
+          "lemma": "falsehood",
+          "surface": "falsehood"
+        }
+      ]
+    },
+    {
+      "cn_text": "就好像过去20年对求职和福利管理系统日益严格的改革从未发生过一样。",
+      "en_text": "It is as though 20 years of ever-tougher reforms of the job search and benefit administration system never happened.",
+      "id": 2014013029,
+      "order_seq": "content_4_2",
+      "task_id": 201401002,
+      "tokens": [
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "It"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "好像",
+          "lemma": "as",
+          "surface": "as"
+        },
+        {
+          "gloss": "虽然",
+          "lemma": "though",
+          "surface": "though"
+        },
+        {
+          "gloss": "年",
+          "lemma": "year",
+          "surface": "years"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "日益",
+          "lemma": "ever",
+          "surface": "ever"
+        },
+        {
+          "gloss": "更严格的",
+          "lemma": "tough",
+          "surface": "tougher"
+        },
+        {
+          "gloss": "改革",
+          "lemma": "reform",
+          "surface": "reforms"
+        },
+        {
+          "gloss": "关于",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "工作",
+          "lemma": "job",
+          "surface": "job"
+        },
+        {
+          "gloss": "求职",
+          "lemma": "search",
+          "surface": "search"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "福利",
+          "lemma": "benefit",
+          "surface": "benefit"
+        },
+        {
+          "gloss": "管理",
+          "lemma": "administration",
+          "surface": "administration"
+        },
+        {
+          "gloss": "系统",
+          "lemma": "system",
+          "surface": "system"
+        },
+        {
+          "gloss": "从未",
+          "lemma": "never",
+          "surface": "never"
+        },
+        {
+          "gloss": "发生",
+          "lemma": "happen",
+          "surface": "happened"
+        }
+      ]
+    },
+    {
+      "cn_text": "英国福利的原则不再是你可以为失业风险投保，并在灾难发生时获得无条件的支付。",
+      "en_text": "The principle of British welfare is no longer that you can insure yourself against the risk of unemployment and receive unconditional payments if the disaster happens.",
+      "id": 2014013030,
+      "order_seq": "content_4_3",
+      "task_id": 201401002,
+      "tokens": [
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "The"
+        },
+        {
+          "gloss": "原则",
+          "lemma": "principle",
+          "surface": "principle"
+        },
+        {
+          "gloss": "关于",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "英国的",
+          "lemma": "british",
+          "surface": "British"
+        },
+        {
+          "gloss": "福利",
+          "lemma": "welfare",
+          "surface": "welfare"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "不",
+          "lemma": "no",
+          "surface": "no"
+        },
+        {
+          "gloss": "再也不",
+          "lemma": "longer",
+          "surface": "longer"
+        },
+        {
+          "gloss": "即",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "你",
+          "lemma": "you",
+          "surface": "you"
+        },
+        {
+          "gloss": "能够",
+          "lemma": "can",
+          "surface": "can"
+        },
+        {
+          "gloss": "投保",
+          "lemma": "insure",
+          "surface": "insure"
+        },
+        {
+          "gloss": "你自己",
+          "lemma": "yourself",
+          "surface": "yourself"
+        },
+        {
+          "gloss": "针对",
+          "lemma": "against",
+          "surface": "against"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "风险",
+          "lemma": "risk",
+          "surface": "risk"
+        },
+        {
+          "gloss": "关于",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "失业",
+          "lemma": "unemployment",
+          "surface": "unemployment"
+        },
+        {
+          "gloss": "并且",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "获得",
+          "lemma": "receive",
+          "surface": "receive"
+        },
+        {
+          "gloss": "无条件的",
+          "lemma": "unconditional",
+          "surface": "unconditional"
+        },
+        {
+          "gloss": "支付",
+          "lemma": "payment",
+          "surface": "payments"
+        },
+        {
+          "gloss": "如果",
+          "lemma": "if",
+          "surface": "if"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "灾难",
+          "lemma": "disaster",
+          "surface": "disaster"
+        },
+        {
+          "gloss": "发生",
+          "lemma": "happen",
+          "surface": "happens"
+        }
+      ]
+    },
+    {
+      "cn_text": "甚至「求职者津贴」这个短语本身就在重新定义失业者为「求职者」，他们没有通过缴纳国民保险而获得福利的基本权利。",
+      "en_text": "Even the very phrase “jobseeker’s allowance” is about redefining the unemployed as a “jobseeker” who had no fundamental right to a benefit he or she has earned through making national insurance contributions.",
+      "id": 2014013031,
+      "order_seq": "content_4_4",
+      "task_id": 201401002,
+      "tokens": [
+        {
+          "gloss": "甚至",
+          "lemma": "even",
+          "surface": "Even"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "本身",
+          "lemma": "very",
+          "surface": "very"
+        },
+        {
+          "gloss": "短语",
+          "lemma": "phrase",
+          "surface": "phrase"
+        },
+        {
+          "gloss": "求职者的",
+          "lemma": "jobseeker’s",
+          "surface": "jobseeker’s"
+        },
+        {
+          "gloss": "津贴",
+          "lemma": "allowance",
+          "surface": "allowance"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "关于",
+          "lemma": "about",
+          "surface": "about"
+        },
+        {
+          "gloss": "重新定义",
+          "lemma": "redefine",
+          "surface": "redefining"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "失业者",
+          "lemma": "unemployed",
+          "surface": "unemployed"
+        },
+        {
+          "gloss": "为",
+          "lemma": "as",
+          "surface": "as"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "求职者",
+          "lemma": "jobseeker",
+          "surface": "jobseeker"
+        },
+        {
+          "gloss": "谁",
+          "lemma": "who",
+          "surface": "who"
+        },
+        {
+          "gloss": "有",
+          "lemma": "have",
+          "surface": "had"
+        },
+        {
+          "gloss": "没有",
+          "lemma": "no",
+          "surface": "no"
+        },
+        {
+          "gloss": "基本的",
+          "lemma": "fundamental",
+          "surface": "fundamental"
+        },
+        {
+          "gloss": "权利",
+          "lemma": "right",
+          "surface": "right"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "福利",
+          "lemma": "benefit",
+          "surface": "benefit"
+        },
+        {
+          "gloss": "他",
+          "lemma": "he",
+          "surface": "he"
+        },
+        {
+          "gloss": "或",
+          "lemma": "or",
+          "surface": "or"
+        },
+        {
+          "gloss": "她",
+          "lemma": "she",
+          "surface": "she"
+        },
+        {
+          "gloss": "有",
+          "lemma": "have",
+          "surface": "has"
+        },
+        {
+          "gloss": "赚取",
+          "lemma": "earn",
+          "surface": "earned"
+        },
+        {
+          "gloss": "通过",
+          "lemma": "through",
+          "surface": "through"
+        },
+        {
+          "gloss": "缴纳",
+          "lemma": "make",
+          "surface": "making"
+        },
+        {
+          "gloss": "国家的",
+          "lemma": "national",
+          "surface": "national"
+        },
+        {
+          "gloss": "保险",
+          "lemma": "insurance",
+          "surface": "insurance"
+        },
+        {
+          "gloss": "缴纳",
+          "lemma": "contribution",
+          "surface": "contributions"
+        }
+      ]
+    },
+    {
+      "cn_text": "相反，申请者获得的是有时限的「津贴」，条件是积极寻找工作；没有权利，也没有保险，每周71.70英镑，是欧盟中最不慷慨的之一。",
+      "en_text": "Instead, the claimant receives a time-limited “allowance”, conditional on actively seeking a job; no entitlement and no insurance, at £71.70 a week, one of the least generous in the EU.",
+      "id": 2014013032,
+      "order_seq": "content_4_5",
+      "task_id": 201401002,
+      "tokens": [
+        {
+          "gloss": "相反",
+          "lemma": "instead",
+          "surface": "Instead"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "申请人",
+          "lemma": "claimant",
+          "surface": "claimant"
+        },
+        {
+          "gloss": "获得",
+          "lemma": "receive",
+          "surface": "receives"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "时间",
+          "lemma": "time",
+          "surface": "time"
+        },
+        {
+          "gloss": "有限的",
+          "lemma": "limit",
+          "surface": "limited"
+        },
+        {
+          "gloss": "津贴",
+          "lemma": "allowance",
+          "surface": "allowance"
+        },
+        {
+          "gloss": "有条件的",
+          "lemma": "conditional",
+          "surface": "conditional"
+        },
+        {
+          "gloss": "基于",
+          "lemma": "on",
+          "surface": "on"
+        },
+        {
+          "gloss": "积极地",
+          "lemma": "actively",
+          "surface": "actively"
+        },
+        {
+          "gloss": "寻找",
+          "lemma": "seek",
+          "surface": "seeking"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "工作",
+          "lemma": "job",
+          "surface": "job"
+        },
+        {
+          "gloss": "没有",
+          "lemma": "no",
+          "surface": "no"
+        },
+        {
+          "gloss": "权利",
+          "lemma": "entitlement",
+          "surface": "entitlement"
+        },
+        {
+          "gloss": "并且",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "没有",
+          "lemma": "no",
+          "surface": "no"
+        },
+        {
+          "gloss": "保险",
+          "lemma": "insurance",
+          "surface": "insurance"
+        },
+        {
+          "gloss": "以",
+          "lemma": "at",
+          "surface": "at"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "周",
+          "lemma": "week",
+          "surface": "week"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "one",
+          "surface": "one"
+        },
+        {
+          "gloss": "之一",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "最少的",
+          "lemma": "least",
+          "surface": "least"
+        },
+        {
+          "gloss": "慷慨的",
+          "lemma": "generous",
+          "surface": "generous"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "欧盟",
+          "lemma": "eu",
+          "surface": "EU"
+        }
+      ]
+    },
+    {
+      "cn_text": "乔治·奥斯本的计划旨在____",
+      "en_text": "George Osborne’s scheme was intended to ____",
+      "id": 2014013033,
+      "order_seq": "question_2014011021_stem",
+      "task_id": 201401002,
+      "tokens": [
+        {
+          "gloss": "乔治",
+          "lemma": "george",
+          "surface": "George"
+        },
+        {
+          "gloss": "奥斯本的",
+          "lemma": "osborne",
+          "surface": "Osborne’s"
+        },
+        {
+          "gloss": "计划",
+          "lemma": "scheme",
+          "surface": "scheme"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "was"
+        },
+        {
+          "gloss": "旨在",
+          "lemma": "intend",
+          "surface": "intended"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        }
+      ]
+    },
+    {
+      "cn_text": "为失业者提供更便捷的福利获取途径。",
+      "en_text": "provide the unemployed with easier access to benefits.",
+      "id": 2014013034,
+      "order_seq": "question_2014011021_A",
+      "task_id": 201401002,
+      "tokens": [
+        {
+          "gloss": "提供",
+          "lemma": "provide",
+          "surface": "provide"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "失业者",
+          "lemma": "unemployed",
+          "surface": "unemployed"
+        },
+        {
+          "gloss": "以",
+          "lemma": "with",
+          "surface": "with"
+        },
+        {
+          "gloss": "更便捷的",
+          "lemma": "easy",
+          "surface": "easier"
+        },
+        {
+          "gloss": "获取",
+          "lemma": "access",
+          "surface": "access"
+        },
+        {
+          "gloss": "到",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "福利",
+          "lemma": "benefit",
+          "surface": "benefits"
+        }
+      ]
+    },
+    {
+      "cn_text": "鼓励求职者积极参与求职。",
+      "en_text": "encourage jobseekers’ active engagement in job seeking.",
+      "id": 2014013035,
+      "order_seq": "question_2014011021_B",
+      "task_id": 201401002,
+      "tokens": [
+        {
+          "gloss": "鼓励",
+          "lemma": "encourage",
+          "surface": "encourage"
+        },
+        {
+          "gloss": "求职者的",
+          "lemma": "jobseeker",
+          "surface": "jobseekers’"
+        },
+        {
+          "gloss": "积极的",
+          "lemma": "active",
+          "surface": "active"
+        },
+        {
+          "gloss": "参与",
+          "lemma": "engagement",
+          "surface": "engagement"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "工作",
+          "lemma": "job",
+          "surface": "job"
+        },
+        {
+          "gloss": "求职",
+          "lemma": "seek",
+          "surface": "seeking"
+        }
+      ]
+    },
+    {
+      "cn_text": "激励失业者自愿报告。",
+      "en_text": "motivate the unemployed to report voluntarily.",
+      "id": 2014013036,
+      "order_seq": "question_2014011021_C",
+      "task_id": 201401002,
+      "tokens": [
+        {
+          "gloss": "激励",
+          "lemma": "motivate",
+          "surface": "motivate"
+        },
+        {
+          "gloss": "这些",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "失业者",
+          "lemma": "unemployed",
+          "surface": "unemployed"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "报告",
+          "lemma": "report",
+          "surface": "report"
+        },
+        {
+          "gloss": "主动地",
+          "lemma": "voluntarily",
+          "surface": "voluntarily"
+        }
+      ]
+    },
+    {
+      "cn_text": "保障求职者获得福利的合法权利。",
+      "en_text": "guarantee jobseekers’ legitimate right to benefits.",
+      "id": 2014013037,
+      "order_seq": "question_2014011021_D",
+      "task_id": 201401002,
+      "tokens": [
+        {
+          "gloss": "保障",
+          "lemma": "guarantee",
+          "surface": "guarantee"
+        },
+        {
+          "gloss": "求职者",
+          "lemma": "jobseeker",
+          "surface": "jobseekers"
+        },
+        {
+          "gloss": "合法的",
+          "lemma": "legitimate",
+          "surface": "legitimate"
+        },
+        {
+          "gloss": "权利",
+          "lemma": "right",
+          "surface": "right"
+        },
+        {
+          "gloss": "获得",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "福利",
+          "lemma": "benefit",
+          "surface": "benefits"
+        }
+      ]
+    },
+    {
+      "cn_text": "短语「to sign on」（第2段）最可能的意思是____",
+      "en_text": "The phrase “to sign on” (Para. 2) most probably means ____",
+      "id": 2014013038,
+      "order_seq": "question_2014011022_stem",
+      "task_id": 201401002,
+      "tokens": [
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "The"
+        },
+        {
+          "gloss": "短语",
+          "lemma": "phrase",
+          "surface": "phrase"
+        },
+        {
+          "gloss": "“",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "签署",
+          "lemma": "sign",
+          "surface": "sign"
+        },
+        {
+          "gloss": "上",
+          "lemma": "on",
+          "surface": "on"
+        },
+        {
+          "gloss": "段",
+          "lemma": "para",
+          "surface": "Para"
+        },
+        {
+          "gloss": "最",
+          "lemma": "most",
+          "surface": "most"
+        },
+        {
+          "gloss": "可能",
+          "lemma": "probably",
+          "surface": "probably"
+        },
+        {
+          "gloss": "意思是",
+          "lemma": "mean",
+          "surface": "means"
+        }
+      ]
+    },
+    {
+      "cn_text": "在就业中心查看可获得的工作机会。",
+      "en_text": "to check on the availability of jobs at the jobcentre.",
+      "id": 2014013039,
+      "order_seq": "question_2014011022_A",
+      "task_id": 201401002,
+      "tokens": [
+        {
+          "gloss": "在",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "检查",
+          "lemma": "check",
+          "surface": "check"
+        },
+        {
+          "gloss": "关于",
+          "lemma": "on",
+          "surface": "on"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "可用性",
+          "lemma": "availability",
+          "surface": "availability"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "工作",
+          "lemma": "job",
+          "surface": "jobs"
+        },
+        {
+          "gloss": "在",
+          "lemma": "at",
+          "surface": "at"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "就业中心",
+          "lemma": "jobcentre",
+          "surface": "jobcentre"
+        }
+      ]
+    },
+    {
+      "cn_text": "接受政府对津贴的限制。",
+      "en_text": "to accept the government’s restrictions on the allowance.",
+      "id": 2014013040,
+      "order_seq": "question_2014011022_B",
+      "task_id": 201401002,
+      "tokens": [
+        {
+          "gloss": "接受",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "接受",
+          "lemma": "accept",
+          "surface": "accept"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "政府的",
+          "lemma": "government",
+          "surface": "government’s"
+        },
+        {
+          "gloss": "限制",
+          "lemma": "restriction",
+          "surface": "restrictions"
+        },
+        {
+          "gloss": "对",
+          "lemma": "on",
+          "surface": "on"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "津贴",
+          "lemma": "allowance",
+          "surface": "allowance"
+        }
+      ]
+    },
+    {
+      "cn_text": "向政府登记领取津贴。",
+      "en_text": "to register for an allowance from the government.",
+      "id": 2014013041,
+      "order_seq": "question_2014011022_C",
+      "task_id": 201401002,
+      "tokens": [
+        {
+          "gloss": "向",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "登记",
+          "lemma": "register",
+          "surface": "register"
+        },
+        {
+          "gloss": "领取",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "一项",
+          "lemma": "an",
+          "surface": "an"
+        },
+        {
+          "gloss": "津贴",
+          "lemma": "allowance",
+          "surface": "allowance"
+        },
+        {
+          "gloss": "来自",
+          "lemma": "from",
+          "surface": "from"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "政府",
+          "lemma": "government",
+          "surface": "government"
+        }
+      ]
+    },
+    {
+      "cn_text": "参加政府的就业培训项目。",
+      "en_text": "to attend a governmental job-training program.",
+      "id": 2014013042,
+      "order_seq": "question_2014011022_D",
+      "task_id": 201401002,
+      "tokens": [
+        {
+          "gloss": "参加",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "参加",
+          "lemma": "attend",
+          "surface": "attend"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "政府的",
+          "lemma": "governmental",
+          "surface": "governmental"
+        },
+        {
+          "gloss": "职业",
+          "lemma": "job",
+          "surface": "job"
+        },
+        {
+          "gloss": "培训",
+          "lemma": "train",
+          "surface": "training"
+        },
+        {
+          "gloss": "项目",
+          "lemma": "program",
+          "surface": "program"
+        }
+      ]
+    },
+    {
+      "cn_text": "是什么促使财政大臣制定他的计划？",
+      "en_text": "What promoted the chancellor to develop his scheme?",
+      "id": 2014013043,
+      "order_seq": "question_2014011023_stem",
+      "task_id": 201401002,
+      "tokens": [
+        {
+          "gloss": "什么",
+          "lemma": "what",
+          "surface": "What"
+        },
+        {
+          "gloss": "促使",
+          "lemma": "promote",
+          "surface": "promoted"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "财政大臣",
+          "lemma": "chancellor",
+          "surface": "chancellor"
+        },
+        {
+          "gloss": "制定",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "制定",
+          "lemma": "develop",
+          "surface": "develop"
+        },
+        {
+          "gloss": "他的",
+          "lemma": "his",
+          "surface": "his"
+        },
+        {
+          "gloss": "计划",
+          "lemma": "scheme",
+          "surface": "scheme"
+        }
+      ]
+    },
+    {
+      "cn_text": "为所有人争取更好生活的愿望。",
+      "en_text": "A desire to secure a better life for all.",
+      "id": 2014013044,
+      "order_seq": "question_2014011023_A",
+      "task_id": 201401002,
+      "tokens": [
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "A"
+        },
+        {
+          "gloss": "愿望",
+          "lemma": "desire",
+          "surface": "desire"
+        },
+        {
+          "gloss": "为",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "争取",
+          "lemma": "secure",
+          "surface": "secure"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "更好的",
+          "lemma": "better",
+          "surface": "better"
+        },
+        {
+          "gloss": "生活",
+          "lemma": "life",
+          "surface": "life"
+        },
+        {
+          "gloss": "为",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "所有人",
+          "lemma": "all",
+          "surface": "all"
+        }
+      ]
+    },
+    {
+      "cn_text": "保护失业者的热切愿望。",
+      "en_text": "An eagerness to protect the unemployed.",
+      "id": 2014013045,
+      "order_seq": "question_2014011023_B",
+      "task_id": 201401002,
+      "tokens": [
+        {
+          "gloss": "一个",
+          "lemma": "an",
+          "surface": "An"
+        },
+        {
+          "gloss": "热情",
+          "lemma": "eagerness",
+          "surface": "eagerness"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "保护",
+          "lemma": "protect",
+          "surface": "protect"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "失业者",
+          "lemma": "unemployed",
+          "surface": "unemployed"
+        }
+      ]
+    },
+    {
+      "cn_text": "对申请者慷慨相待的冲动。",
+      "en_text": "An urge to be generous to the claimants.",
+      "id": 2014013046,
+      "order_seq": "question_2014011023_C",
+      "task_id": 201401002,
+      "tokens": [
+        {
+          "gloss": "一个",
+          "lemma": "an",
+          "surface": "An"
+        },
+        {
+          "gloss": "冲动",
+          "lemma": "urge",
+          "surface": "urge"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "be"
+        },
+        {
+          "gloss": "慷慨的",
+          "lemma": "generous",
+          "surface": "generous"
+        },
+        {
+          "gloss": "对",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "这些",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "申请者",
+          "lemma": "claimant",
+          "surface": "claimants"
+        }
+      ]
+    },
+    {
+      "cn_text": "确保纳税人公平的热情。",
+      "en_text": "A passion to ensure fairness for taxpayers.",
+      "id": 2014013047,
+      "order_seq": "question_2014011023_D",
+      "task_id": 201401002,
+      "tokens": [
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "A"
+        },
+        {
+          "gloss": "热情",
+          "lemma": "passion",
+          "surface": "passion"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "确保",
+          "lemma": "ensure",
+          "surface": "ensure"
+        },
+        {
+          "gloss": "公平",
+          "lemma": "fairness",
+          "surface": "fairness"
+        },
+        {
+          "gloss": "对",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "纳税人",
+          "lemma": "taxpayer",
+          "surface": "taxpayers"
+        }
+      ]
+    },
+    {
+      "cn_text": "根据第3段，失业使人感到____",
+      "en_text": "According to Paragraph 3, being unemployed makes one feel ____",
+      "id": 2014013048,
+      "order_seq": "question_2014011024_stem",
+      "task_id": 201401002,
+      "tokens": [
+        {
+          "gloss": "根据",
+          "lemma": "according",
+          "surface": "According"
+        },
+        {
+          "gloss": "至",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "段落",
+          "lemma": "paragraph",
+          "surface": "Paragraph"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "being"
+        },
+        {
+          "gloss": "失业的",
+          "lemma": "unemployed",
+          "surface": "unemployed"
+        },
+        {
+          "gloss": "使得",
+          "lemma": "make",
+          "surface": "makes"
+        },
+        {
+          "gloss": "某人",
+          "lemma": "one",
+          "surface": "one"
+        },
+        {
+          "gloss": "感到",
+          "lemma": "feel",
+          "surface": "feel"
+        }
+      ]
+    },
+    {
+      "cn_text": "不安。",
+      "en_text": "uneasy.",
+      "id": 2014013049,
+      "order_seq": "question_2014011024_A",
+      "task_id": 201401002,
+      "tokens": [
+        {
+          "gloss": "不安的",
+          "lemma": "uneasy",
+          "surface": "uneasy"
+        }
+      ]
+    },
+    {
+      "cn_text": "愤怒。",
+      "en_text": "enraged.",
+      "id": 2014013050,
+      "order_seq": "question_2014011024_B",
+      "task_id": 201401002,
+      "tokens": [
+        {
+          "gloss": "愤怒的",
+          "lemma": "enrage",
+          "surface": "enraged"
+        }
+      ]
+    },
+    {
+      "cn_text": "受侮辱。",
+      "en_text": "insulted.",
+      "id": 2014013051,
+      "order_seq": "question_2014011024_C",
+      "task_id": 201401002,
+      "tokens": [
+        {
+          "gloss": "受侮辱的",
+          "lemma": "insult",
+          "surface": "insulted"
+        }
+      ]
+    },
+    {
+      "cn_text": "内疚。",
+      "en_text": "guilty.",
+      "id": 2014013052,
+      "order_seq": "question_2014011024_D",
+      "task_id": 201401002,
+      "tokens": [
+        {
+          "gloss": "内疚的",
+          "lemma": "guilty",
+          "surface": "guilty"
+        }
+      ]
+    },
+    {
+      "cn_text": "作者最可能同意以下哪项？",
+      "en_text": "To which of the following would the author most probably agree?",
+      "id": 2014013053,
+      "order_seq": "question_2014011025_stem",
+      "task_id": 201401002,
+      "tokens": [
+        {
+          "gloss": "至",
+          "lemma": "to",
+          "surface": "To"
+        },
+        {
+          "gloss": "哪一个",
+          "lemma": "which",
+          "surface": "which"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "以下",
+          "lemma": "following",
+          "surface": "following"
+        },
+        {
+          "gloss": "会",
+          "lemma": "would",
+          "surface": "would"
+        },
+        {
+          "gloss": "作者",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "作者",
+          "lemma": "author",
+          "surface": "author"
+        },
+        {
+          "gloss": "最",
+          "lemma": "most",
+          "surface": "most"
+        },
+        {
+          "gloss": "可能",
+          "lemma": "probably",
+          "surface": "probably"
+        },
+        {
+          "gloss": "同意",
+          "lemma": "agree",
+          "surface": "agree"
+        }
+      ]
+    },
+    {
+      "cn_text": "英国福利制度纵容求职者的懒惰。",
+      "en_text": "The British welfare system indulges jobseekers’ laziness.",
+      "id": 2014013054,
+      "order_seq": "question_2014011025_A",
+      "task_id": 201401002,
+      "tokens": [
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "The"
+        },
+        {
+          "gloss": "英国的",
+          "lemma": "british",
+          "surface": "British"
+        },
+        {
+          "gloss": "福利",
+          "lemma": "welfare",
+          "surface": "welfare"
+        },
+        {
+          "gloss": "制度",
+          "lemma": "system",
+          "surface": "system"
+        },
+        {
+          "gloss": "纵容",
+          "lemma": "indulge",
+          "surface": "indulges"
+        },
+        {
+          "gloss": "求职者",
+          "lemma": "jobseeker",
+          "surface": "jobseekers"
+        },
+        {
+          "gloss": "懒惰",
+          "lemma": "laziness",
+          "surface": "laziness"
+        }
+      ]
+    },
+    {
+      "cn_text": "奥斯本的改革将降低失业风险。",
+      "en_text": "Osborne’s reforms will reduce the risk of unemployment.",
+      "id": 2014013055,
+      "order_seq": "question_2014011025_B",
+      "task_id": 201401002,
+      "tokens": [
+        {
+          "gloss": "奥斯本的",
+          "lemma": "osborne",
+          "surface": "Osborne’s"
+        },
+        {
+          "gloss": "改革",
+          "lemma": "reform",
+          "surface": "reforms"
+        },
+        {
+          "gloss": "将",
+          "lemma": "will",
+          "surface": "will"
+        },
+        {
+          "gloss": "降低",
+          "lemma": "reduce",
+          "surface": "reduce"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "风险",
+          "lemma": "risk",
+          "surface": "risk"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "失业",
+          "lemma": "unemployment",
+          "surface": "unemployment"
+        }
+      ]
+    },
+    {
+      "cn_text": "求职者津贴满足了他们的实际需求。",
+      "en_text": "The jobseekers’ allowance has met their actual needs.",
+      "id": 2014013056,
+      "order_seq": "question_2014011025_C",
+      "task_id": 201401002,
+      "tokens": [
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "The"
+        },
+        {
+          "gloss": "求职者的",
+          "lemma": "jobseeker",
+          "surface": "jobseekers’"
+        },
+        {
+          "gloss": "津贴",
+          "lemma": "allowance",
+          "surface": "allowance"
+        },
+        {
+          "gloss": "已经",
+          "lemma": "have",
+          "surface": "has"
+        },
+        {
+          "gloss": "满足",
+          "lemma": "meet",
+          "surface": "met"
+        },
+        {
+          "gloss": "他们的",
+          "lemma": "their",
+          "surface": "their"
+        },
+        {
+          "gloss": "实际的",
+          "lemma": "actual",
+          "surface": "actual"
+        },
+        {
+          "gloss": "需求",
+          "lemma": "need",
+          "surface": "needs"
+        }
+      ]
+    },
+    {
+      "cn_text": "失业救济金不应附加条件。",
+      "en_text": "Unemployment benefits should not be made conditional.",
+      "id": 2014013057,
+      "order_seq": "question_2014011025_D",
+      "task_id": 201401002,
+      "tokens": [
+        {
+          "gloss": "失业",
+          "lemma": "unemployment",
+          "surface": "Unemployment"
+        },
+        {
+          "gloss": "救济金",
+          "lemma": "benefit",
+          "surface": "benefits"
+        },
+        {
+          "gloss": "应该",
+          "lemma": "should",
+          "surface": "should"
+        },
+        {
+          "gloss": "不",
+          "lemma": "not",
+          "surface": "not"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "be"
+        },
+        {
+          "gloss": "使得",
+          "lemma": "make",
+          "surface": "made"
+        },
+        {
+          "gloss": "附加条件的",
+          "lemma": "conditional",
+          "surface": "conditional"
+        }
+      ]
+    }
+  ],
+  "success": true
+}

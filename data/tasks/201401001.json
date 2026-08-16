@@ -1,0 +1,1795 @@
+{
+  "tasks": [
+    {
+      "content_json": {
+        "1": {
+          "A": "where",
+          "B": "when",
+          "C": "that",
+          "D": "why",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "where",
+                "surface": "where"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "when",
+                "surface": "when"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "that",
+                "surface": "that"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "why",
+                "surface": "why"
+              }
+            ]
+          },
+          "replace": {
+            "end": 32,
+            "start": 27
+          },
+          "sentence_id": 2014013002
+        },
+        "2": {
+          "A": "improves",
+          "B": "fades",
+          "C": "recovers",
+          "D": "collapses",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "improve",
+                "surface": "improves"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "fade",
+                "surface": "fades"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "recover",
+                "surface": "recovers"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "collapse",
+                "surface": "collapses"
+              }
+            ]
+          },
+          "replace": {
+            "end": 18,
+            "start": 13
+          },
+          "sentence_id": 2014013003
+        },
+        "3": {
+          "A": "If",
+          "B": "Unless",
+          "C": "Once",
+          "D": "While",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "if",
+                "surface": "If"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "unless",
+                "surface": "Unless"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "once",
+                "surface": "Once"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "while",
+                "surface": "While"
+              }
+            ]
+          },
+          "replace": {
+            "end": 76,
+            "start": 71
+          },
+          "sentence_id": 2014013003
+        },
+        "4": {
+          "A": "uneven",
+          "B": "limited",
+          "C": "damaging",
+          "D": "obscure",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "uneven",
+                "surface": "uneven"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "limit",
+                "surface": "limited"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "damage",
+                "surface": "damaging"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "obscure",
+                "surface": "obscure"
+              }
+            ]
+          },
+          "replace": {
+            "end": 157,
+            "start": 149
+          },
+          "sentence_id": 2014013003
+        },
+        "5": {
+          "A": "wellbeing",
+          "B": "environment",
+          "C": "relationship",
+          "D": "outlook",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "wellbeing",
+                "surface": "wellbeing"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "environment",
+                "surface": "environment"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "relationship",
+                "surface": "relationship"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "outlook",
+                "surface": "outlook"
+              }
+            ]
+          },
+          "replace": {
+            "end": 216,
+            "start": 207
+          },
+          "sentence_id": 2014013003
+        },
+        "6": {
+          "A": "turns",
+          "B": "finds",
+          "C": "points",
+          "D": "figures",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "turn",
+                "surface": "turns"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "find",
+                "surface": "finds"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "point",
+                "surface": "points"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "figure",
+                "surface": "figures"
+              }
+            ]
+          },
+          "replace": {
+            "end": 8,
+            "start": 3
+          },
+          "sentence_id": 2014013005
+        },
+        "7": {
+          "A": "roundabouts",
+          "B": "responses",
+          "C": "workouts",
+          "D": "associations",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "roundabout",
+                "surface": "roundabouts"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "response",
+                "surface": "responses"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "workout",
+                "surface": "workouts"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "association",
+                "surface": "associations"
+              }
+            ]
+          },
+          "replace": {
+            "end": 109,
+            "start": 101
+          },
+          "sentence_id": 2014013005
+        },
+        "8": {
+          "A": "genre",
+          "B": "functions",
+          "C": "circumstances",
+          "D": "criterion",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "genre",
+                "surface": "genre"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "function",
+                "surface": "functions"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "circumstance",
+                "surface": "circumstances"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "criterion",
+                "surface": "criterion"
+              }
+            ]
+          },
+          "replace": {
+            "end": 165,
+            "start": 156
+          },
+          "sentence_id": 2014013005
+        },
+        "9": {
+          "A": "channel",
+          "B": "condition",
+          "C": "sequence",
+          "D": "process",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "channel",
+                "surface": "channel"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "condition",
+                "surface": "condition"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "sequence",
+                "surface": "sequence"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "process",
+                "surface": "process"
+              }
+            ]
+          },
+          "replace": {
+            "end": 33,
+            "start": 26
+          },
+          "sentence_id": 2014013006
+        },
+        "10": {
+          "A": "persist",
+          "B": "believe",
+          "C": "excel",
+          "D": "feature",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "persist",
+                "surface": "persist"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "believe",
+                "surface": "believe"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "excel",
+                "surface": "excel"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "feature",
+                "surface": "feature"
+              }
+            ]
+          },
+          "replace": {
+            "end": 41,
+            "start": 36
+          },
+          "sentence_id": 2014013007
+        },
+        "11": {
+          "A": "Therefore",
+          "B": "Moreover",
+          "C": "Otherwise",
+          "D": "However",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "therefore",
+                "surface": "Therefore"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "moreover",
+                "surface": "Moreover"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "otherwise",
+                "surface": "Otherwise"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "however",
+                "surface": "However"
+              }
+            ]
+          },
+          "replace": {
+            "end": 7,
+            "start": 0
+          },
+          "sentence_id": 2014013008
+        },
+        "12": {
+          "A": "according to",
+          "B": "regardless of",
+          "C": "apart from",
+          "D": "instead of",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "according",
+                "surface": "according"
+              },
+              {
+                "lemma": "to",
+                "surface": "to"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "regardless",
+                "surface": "regardless"
+              },
+              {
+                "lemma": "of",
+                "surface": "of"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "apart",
+                "surface": "apart"
+              },
+              {
+                "lemma": "from",
+                "surface": "from"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "instead",
+                "surface": "instead"
+              },
+              {
+                "lemma": "of",
+                "surface": "of"
+              }
+            ]
+          },
+          "replace": {
+            "end": 147,
+            "start": 135
+          },
+          "sentence_id": 2014013008
+        },
+        "13": {
+          "A": "back",
+          "B": "further",
+          "C": "aside",
+          "D": "around",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "back",
+                "surface": "back"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "further",
+                "surface": "further"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "aside",
+                "surface": "aside"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "around",
+                "surface": "around"
+              }
+            ]
+          },
+          "replace": {
+            "end": 56,
+            "start": 49
+          },
+          "sentence_id": 2014013009
+        },
+        "14": {
+          "A": "sharpness",
+          "B": "stability",
+          "C": "framework",
+          "D": "flexibility",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "sharp",
+                "surface": "sharpness"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "stability",
+                "surface": "stability"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "framework",
+                "surface": "framework"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "flexibility",
+                "surface": "flexibility"
+              }
+            ]
+          },
+          "replace": {
+            "end": 180,
+            "start": 171
+          },
+          "sentence_id": 2014013009
+        },
+        "15": {
+          "A": "forces",
+          "B": "reminds",
+          "C": "hurries",
+          "D": "allows",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "force",
+                "surface": "forces"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "remind",
+                "surface": "reminds"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "hurry",
+                "surface": "hurries"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "allow",
+                "surface": "allows"
+              }
+            ]
+          },
+          "replace": {
+            "end": 28,
+            "start": 22
+          },
+          "sentence_id": 2014013010
+        },
+        "16": {
+          "A": "hold",
+          "B": "track",
+          "C": "order",
+          "D": "pace",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "hold",
+                "surface": "hold"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "track",
+                "surface": "track"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "order",
+                "surface": "order"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "pace",
+                "surface": "pace"
+              }
+            ]
+          },
+          "replace": {
+            "end": 23,
+            "start": 18
+          },
+          "sentence_id": 2014013011
+        },
+        "17": {
+          "A": "to",
+          "B": "with",
+          "C": "for",
+          "D": "on",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "to",
+                "surface": "to"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "with",
+                "surface": "with"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "for",
+                "surface": "for"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "on",
+                "surface": "on"
+              }
+            ]
+          },
+          "replace": {
+            "end": 74,
+            "start": 72
+          },
+          "sentence_id": 2014013011
+        },
+        "18": {
+          "A": "irregularly",
+          "B": "habitually",
+          "C": "constantly",
+          "D": "unusually",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "irregularly",
+                "surface": "irregularly"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "habitual",
+                "surface": "habitually"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "constant",
+                "surface": "constantly"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "unusual",
+                "surface": "unusually"
+              }
+            ]
+          },
+          "replace": {
+            "end": 31,
+            "start": 21
+          },
+          "sentence_id": 2014013012
+        },
+        "19": {
+          "A": "carry",
+          "B": "put",
+          "C": "build",
+          "D": "take",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "carry",
+                "surface": "carry"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "put",
+                "surface": "put"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "build",
+                "surface": "build"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "take",
+                "surface": "take"
+              }
+            ]
+          },
+          "replace": {
+            "end": 81,
+            "start": 76
+          },
+          "sentence_id": 2014013012
+        },
+        "20": {
+          "A": "risky",
+          "B": "effective",
+          "C": "idle",
+          "D": "familiar",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "risky",
+                "surface": "risky"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "effective",
+                "surface": "effective"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "idle",
+                "surface": "idle"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "familiar",
+                "surface": "familiar"
+              }
+            ]
+          },
+          "replace": {
+            "end": 144,
+            "start": 135
+          },
+          "sentence_id": 2014013012
+        },
+        "article": "As many people hit middle age, they often start to notice that their memory and mental clarity are not what they used to be.\nWe suddenly can’t remember where we put the keys just a moment ago, or an old acquaintance’s name, or the name of an old band we used to love.\nAs the brain fades, we refer to these occurrences as “senior moments.” While seemingly innocent, this loss of mental focus can potentially have a(n) damaging impact on our professional, social, and personal wellbeing.\nNeuroscientists, experts who study the nervous system, are increasingly showing that there’s actually a lot that can be done.\nIt turns out that the brain needs exercise in much the same way our muscles do, and the right mental workouts can significantly improve our basic cognitive functions.\nThinking is essentially a process of making connections in the brain.\nTo a certain extent, our ability to excel in making the connections that drive intelligence is inherited.\nHowever, because these connections are made through effort and practice, scientists believe that intelligence can expand and fluctuate according to mental effort.\nNow, a new Web-based company has taken it a step further and developed the first “brain training program” designed to actually help people improve and regain their mental sharpness.\nThe Web-based program allows you to systematically improve your memory and attention skills.\nThe program keeps track of your progress and provides detailed feedback on your performance and improvement.\nMost importantly, it constantly modifies and enhances the games you play to build on the strengths you are developing — much like a(n) effective exercise routine requires you to increase resistance and vary your muscle use.",
+        "blanks": [
+          {
+            "blank_no": 1,
+            "replace": {
+              "end": 32,
+              "start": 27
+            },
+            "sentence_id": 2014013002
+          },
+          {
+            "blank_no": 2,
+            "replace": {
+              "end": 18,
+              "start": 13
+            },
+            "sentence_id": 2014013003
+          },
+          {
+            "blank_no": 3,
+            "replace": {
+              "end": 76,
+              "start": 71
+            },
+            "sentence_id": 2014013003
+          },
+          {
+            "blank_no": 4,
+            "replace": {
+              "end": 157,
+              "start": 149
+            },
+            "sentence_id": 2014013003
+          },
+          {
+            "blank_no": 5,
+            "replace": {
+              "end": 216,
+              "start": 207
+            },
+            "sentence_id": 2014013003
+          },
+          {
+            "blank_no": 6,
+            "replace": {
+              "end": 8,
+              "start": 3
+            },
+            "sentence_id": 2014013005
+          },
+          {
+            "blank_no": 7,
+            "replace": {
+              "end": 109,
+              "start": 101
+            },
+            "sentence_id": 2014013005
+          },
+          {
+            "blank_no": 8,
+            "replace": {
+              "end": 165,
+              "start": 156
+            },
+            "sentence_id": 2014013005
+          },
+          {
+            "blank_no": 9,
+            "replace": {
+              "end": 33,
+              "start": 26
+            },
+            "sentence_id": 2014013006
+          },
+          {
+            "blank_no": 10,
+            "replace": {
+              "end": 41,
+              "start": 36
+            },
+            "sentence_id": 2014013007
+          },
+          {
+            "blank_no": 11,
+            "replace": {
+              "end": 7,
+              "start": 0
+            },
+            "sentence_id": 2014013008
+          },
+          {
+            "blank_no": 12,
+            "replace": {
+              "end": 147,
+              "start": 135
+            },
+            "sentence_id": 2014013008
+          },
+          {
+            "blank_no": 13,
+            "replace": {
+              "end": 56,
+              "start": 49
+            },
+            "sentence_id": 2014013009
+          },
+          {
+            "blank_no": 14,
+            "replace": {
+              "end": 180,
+              "start": 171
+            },
+            "sentence_id": 2014013009
+          },
+          {
+            "blank_no": 15,
+            "replace": {
+              "end": 28,
+              "start": 22
+            },
+            "sentence_id": 2014013010
+          },
+          {
+            "blank_no": 16,
+            "replace": {
+              "end": 23,
+              "start": 18
+            },
+            "sentence_id": 2014013011
+          },
+          {
+            "blank_no": 17,
+            "replace": {
+              "end": 74,
+              "start": 72
+            },
+            "sentence_id": 2014013011
+          },
+          {
+            "blank_no": 18,
+            "replace": {
+              "end": 31,
+              "start": 21
+            },
+            "sentence_id": 2014013012
+          },
+          {
+            "blank_no": 19,
+            "replace": {
+              "end": 81,
+              "start": 76
+            },
+            "sentence_id": 2014013012
+          },
+          {
+            "blank_no": 20,
+            "replace": {
+              "end": 144,
+              "start": 135
+            },
+            "sentence_id": 2014013012
+          }
+        ],
+        "questions": [
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，句子表达的是记不起钥匙放在哪里，因此需要一个表示地点的词，选项 A 'where' 最符合语境。\nA. 选项 A 'where' 表示地点，与句子中 'put the keys' 的语境相符，最为合适。\nB. 选项 B 'when' 表示时间，不符合句子中询问地点的语境。\nC. 选项 C 'that' 是关系代词，无法表达地点，语义不符。\nD. 选项 D 'why' 表示原因，与句子语境不符。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "A",
+            "id": 1,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "where",
+                  "surface": "where"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "when",
+                  "surface": "when"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "that",
+                  "surface": "that"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "why",
+                  "surface": "why"
+                }
+              ]
+            },
+            "options": [
+              "A) where",
+              "B) when",
+              "C) that",
+              "D) why"
+            ],
+            "qid": 2014011001,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，句子描述的是大脑随着年龄增长逐渐衰退的现象，因此选择表示“衰退”的词最为合适。\nA. improves 意为“改善”，与句子描述的大脑衰退现象不符。\nB. fades 意为“衰退”，符合句子描述的大脑逐渐衰退的语境。\nC. recovers 意为“恢复”，与句子描述的大脑衰退现象不符。\nD. collapses 意为“崩溃”，过于极端，不符合句子中描述的逐渐变化的语境。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "B",
+            "id": 2,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "improve",
+                  "surface": "improves"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "fade",
+                  "surface": "fades"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "recover",
+                  "surface": "recovers"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "collapse",
+                  "surface": "collapses"
+                }
+              ]
+            },
+            "options": [
+              "A) improves",
+              "B) fades",
+              "C) recovers",
+              "D) collapses"
+            ],
+            "qid": 2014011002,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "句子后半部分提到这种现象看似无害，但可能会产生负面影响，因此选择表示对比关系的词最为合适。\nA. If 意为“如果”，不符合句子中描述的对比关系。\nB. Unless 意为“除非”，不符合句子中描述的对比关系。\nC. Once 意为“一旦”，不符合句子中描述的对比关系。\nD. While 意为“虽然”，符合句子中描述的对比关系，强调看似无害但可能有负面影响。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "D",
+            "id": 3,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "if",
+                  "surface": "If"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "unless",
+                  "surface": "Unless"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "once",
+                  "surface": "Once"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "while",
+                  "surface": "While"
+                }
+              ]
+            },
+            "options": [
+              "A) If",
+              "B) Unless",
+              "C) Once",
+              "D) While"
+            ],
+            "qid": 2014011003,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据句子描述，这种精神注意力的丧失可能会对多个方面产生负面影响，因此选择表示“破坏性”的词最为合适。\nA. uneven 意为“不均匀的”，与句子描述的负面影响不符。\nB. limited 意为“有限的”，与句子描述的潜在负面影响不符。\nC. damaging 意为“破坏性的”，符合句子描述的潜在负面影响。\nD. obscure 意为“模糊的”，与句子描述的负面影响不符。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "C",
+            "id": 4,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "uneven",
+                  "surface": "uneven"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "limit",
+                  "surface": "limited"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "damage",
+                  "surface": "damaging"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "obscure",
+                  "surface": "obscure"
+                }
+              ]
+            },
+            "options": [
+              "A) uneven",
+              "B) limited",
+              "C) damaging",
+              "D) obscure"
+            ],
+            "qid": 2014011004,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "句子提到精神注意力的丧失可能会影响职业、社交和个人生活，因此选择表示“幸福”的词最为合适。\nA. wellbeing 意为“幸福”，符合句子描述的个人生活的影响。\nB. environment 意为“环境”，与句子描述的个人生活不符。\nC. relationship 意为“关系”，与句子描述的整体影响不完全匹配。\nD. outlook 意为“观点”，与句子描述的个人生活不符。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "A",
+            "id": 5,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "wellbeing",
+                  "surface": "wellbeing"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "environment",
+                  "surface": "environment"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "relationship",
+                  "surface": "relationship"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "outlook",
+                  "surface": "outlook"
+                }
+              ]
+            },
+            "options": [
+              "A) wellbeing",
+              "B) environment",
+              "C) relationship",
+              "D) outlook"
+            ],
+            "qid": 2014011005,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，句子表达的是一种事实的揭示，'turns out' 是常用表达，符合语境。\nA. ‘turns’ 表示‘证明’，符合句子揭示事实的语境。\nB. ‘finds’ 表示‘发现’，但语境中并非强调发现，而是揭示事实。\nC. ‘points’ 表示‘指出’，语义不够准确。\nD. ‘figures’ 表示‘计算’，与语境不符。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "A",
+            "id": 6,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "turn",
+                  "surface": "turns"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "find",
+                  "surface": "finds"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "point",
+                  "surface": "points"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "figure",
+                  "surface": "figures"
+                }
+              ]
+            },
+            "options": [
+              "A) turns",
+              "B) finds",
+              "C) points",
+              "D) figures"
+            ],
+            "qid": 2014011006,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "‘workouts’ 表示训练，与‘exercise’形成语义呼应，符合语境。\nA. ‘roundabouts’ 表示‘环岛’，与语境不符。\nB. ‘responses’ 表示‘反应’，语义不匹配。\nC. ‘workouts’ 表示‘训练’，与‘exercise’呼应，符合语境。\nD. ‘associations’ 表示‘关联’，语义不够贴切。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "C",
+            "id": 7,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "roundabout",
+                  "surface": "roundabouts"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "response",
+                  "surface": "responses"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "workout",
+                  "surface": "workouts"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "association",
+                  "surface": "associations"
+                }
+              ]
+            },
+            "options": [
+              "A) roundabouts",
+              "B) responses",
+              "C) workouts",
+              "D) associations"
+            ],
+            "qid": 2014011007,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "‘functions’ 表示功能，与认知能力相关，符合语境。\nA. ‘genre’ 表示‘类型’，与认知能力无关。\nB. ‘functions’ 表示‘功能’，与认知能力相关，符合语境。\nC. ‘circumstances’ 表示‘情况’，语义不匹配。\nD. ‘criterion’ 表示‘标准’，与语境不符。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "B",
+            "id": 8,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "genre",
+                  "surface": "genre"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "function",
+                  "surface": "functions"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "circumstance",
+                  "surface": "circumstances"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "criterion",
+                  "surface": "criterion"
+                }
+              ]
+            },
+            "options": [
+              "A) genre",
+              "B) functions",
+              "C) circumstances",
+              "D) criterion"
+            ],
+            "qid": 2014011008,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "‘process’ 表示过程，与思考的本质相符。\nA. ‘channel’ 表示‘渠道’，与语境不符。\nB. ‘condition’ 表示‘条件’，语义不匹配。\nC. ‘sequence’ 表示‘顺序’，与语境不符。\nD. ‘process’ 表示‘过程’，符合语境。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "D",
+            "id": 9,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "channel",
+                  "surface": "channel"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "condition",
+                  "surface": "condition"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "sequence",
+                  "surface": "sequence"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "process",
+                  "surface": "process"
+                }
+              ]
+            },
+            "options": [
+              "A) channel",
+              "B) condition",
+              "C) sequence",
+              "D) process"
+            ],
+            "qid": 2014011009,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "‘excel’ 表示擅长，与语境中强调能力的遗传性相符。\nA. ‘persist’ 表示‘坚持’，语义不匹配。\nB. ‘believe’ 表示‘相信’，与语境不符。\nC. ‘excel’ 表示‘擅长’，符合语境。\nD. ‘feature’ 表示‘特征’，语义不够贴切。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "C",
+            "id": 10,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "persist",
+                  "surface": "persist"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "believe",
+                  "surface": "believe"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "excel",
+                  "surface": "excel"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "feature",
+                  "surface": "feature"
+                }
+              ]
+            },
+            "options": [
+              "A) persist",
+              "B) believe",
+              "C) excel",
+              "D) feature"
+            ],
+            "qid": 2014011010,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "‘However’ 表示转折，与前文形成逻辑对比。\nA. ‘Therefore’ 表示‘因此’，不符合转折语境。\nB. ‘Moreover’ 表示‘此外’，语义不匹配。\nC. ‘Otherwise’ 表示‘否则’，与语境不符。\nD. ‘However’ 表示‘然而’，符合转折语境。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "D",
+            "id": 11,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "therefore",
+                  "surface": "Therefore"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "moreover",
+                  "surface": "Moreover"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "otherwise",
+                  "surface": "Otherwise"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "however",
+                  "surface": "However"
+                }
+              ]
+            },
+            "options": [
+              "A) Therefore",
+              "B) Moreover",
+              "C) Otherwise",
+              "D) However"
+            ],
+            "qid": 2014011011,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "‘according to’ 表示依据，与智力根据努力变化的语境相符。\nA. ‘according to’ 表示‘根据’，符合语境。\nB. ‘regardless of’ 表示‘不管’，与语境不符。\nC. ‘apart from’ 表示‘除了’，语义不匹配。\nD. ‘instead of’ 表示‘而不是’，与语境不符。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "A",
+            "id": 12,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "according",
+                  "surface": "according"
+                },
+                {
+                  "lemma": "to",
+                  "surface": "to"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "regardless",
+                  "surface": "regardless"
+                },
+                {
+                  "lemma": "of",
+                  "surface": "of"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "apart",
+                  "surface": "apart"
+                },
+                {
+                  "lemma": "from",
+                  "surface": "from"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "instead",
+                  "surface": "instead"
+                },
+                {
+                  "lemma": "of",
+                  "surface": "of"
+                }
+              ]
+            },
+            "options": [
+              "A) according to",
+              "B) regardless of",
+              "C) apart from",
+              "D) instead of"
+            ],
+            "qid": 2014011012,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，句子强调公司更进一步开发了脑力训练计划，选项 B 'further' 表示进一步，符合语境。\nA. 选项 A 'back' 表示向后，与语境中强调进步的含义不符。\nB. 选项 B 'further' 表示更进一步，符合语境中公司开发新计划的逻辑。\nC. 选项 C 'aside' 表示在旁边，与语境不符。\nD. 选项 D 'around' 表示环绕，与语境中强调进步的含义不符。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "B",
+            "id": 13,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "back",
+                  "surface": "back"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "further",
+                  "surface": "further"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "aside",
+                  "surface": "aside"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "around",
+                  "surface": "around"
+                }
+              ]
+            },
+            "options": [
+              "A) back",
+              "B) further",
+              "C) aside",
+              "D) around"
+            ],
+            "qid": 2014011013,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据语境，句子强调帮助人们提高和恢复思维的敏锐性，选项 A 'sharpness' 符合语境。\nA. 选项 A 'sharpness' 表示敏锐性，符合语境中对思维能力的描述。\nB. 选项 B 'stability' 表示稳定性，与语境中强调敏锐性不符。\nC. 选项 C 'framework' 表示框架，与语境不符。\nD. 选项 D 'flexibility' 表示灵活性，与语境中强调敏锐性不符。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "A",
+            "id": 14,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "sharp",
+                  "surface": "sharpness"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "stability",
+                  "surface": "stability"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "framework",
+                  "surface": "framework"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "flexibility",
+                  "surface": "flexibility"
+                }
+              ]
+            },
+            "options": [
+              "A) sharpness",
+              "B) stability",
+              "C) framework",
+              "D) flexibility"
+            ],
+            "qid": 2014011014,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据语境，程序的功能是允许用户提高技能，选项 D 'allows' 符合语境。\nA. 选项 A 'forces' 表示强迫，与语境中强调允许不符。\nB. 选项 B 'reminds' 表示提醒，与语境中强调功能不符。\nC. 选项 C 'hurries' 表示催促，与语境不符。\nD. 选项 D 'allows' 表示允许，符合语境中程序的功能描述。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "D",
+            "id": 15,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "force",
+                  "surface": "forces"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "remind",
+                  "surface": "reminds"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "hurry",
+                  "surface": "hurries"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "allow",
+                  "surface": "allows"
+                }
+              ]
+            },
+            "options": [
+              "A) forces",
+              "B) reminds",
+              "C) hurries",
+              "D) allows"
+            ],
+            "qid": 2014011015,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据语境，程序的功能是跟踪用户进度，选项 B 'track' 符合语境。\nA. 选项 A 'hold' 表示保持，与语境中强调跟踪进度不符。\nB. 选项 B 'track' 表示跟踪，符合语境中程序的功能描述。\nC. 选项 C 'order' 表示顺序，与语境不符。\nD. 选项 D 'pace' 表示步伐，与语境不符。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "B",
+            "id": 16,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "hold",
+                  "surface": "hold"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "track",
+                  "surface": "track"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "order",
+                  "surface": "order"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "pace",
+                  "surface": "pace"
+                }
+              ]
+            },
+            "options": [
+              "A) hold",
+              "B) track",
+              "C) order",
+              "D) pace"
+            ],
+            "qid": 2014011016,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据语境，程序提供关于表现和改进的反馈，选项 D 'on' 表示关于，符合语境。\nA. 选项 A 'to' 表示向，与语境中强调反馈的对象不符。\nB. 选项 B 'with' 表示与，与语境不符。\nC. 选项 C 'for' 表示为了，与语境不符。\nD. 选项 D 'on' 表示关于，符合语境中反馈的含义。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "D",
+            "id": 17,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "to",
+                  "surface": "to"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "with",
+                  "surface": "with"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "for",
+                  "surface": "for"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "on",
+                  "surface": "on"
+                }
+              ]
+            },
+            "options": [
+              "A) to",
+              "B) with",
+              "C) for",
+              "D) on"
+            ],
+            "qid": 2014011017,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据语境，程序不断修改和增强游戏，选项 C 'constantly' 表示不断地，符合语境。\nA. 选项 A 'irregularly' 表示不规律地，与语境中强调持续性不符。\nB. 选项 B 'habitually' 表示习惯性地，与语境不符。\nC. 选项 C 'constantly' 表示不断地，符合语境中强调持续修改的含义。\nD. 选项 D 'unusually' 表示异常地，与语境不符。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "C",
+            "id": 18,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "irregularly",
+                  "surface": "irregularly"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "habitual",
+                  "surface": "habitually"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "constant",
+                  "surface": "constantly"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "unusual",
+                  "surface": "unusually"
+                }
+              ]
+            },
+            "options": [
+              "A) irregularly",
+              "B) habitually",
+              "C) constantly",
+              "D) unusually"
+            ],
+            "qid": 2014011018,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据语境，程序基于用户正在发展的优势进行构建，选项 C 'build' 符合语境。\nA. 选项 A 'carry' 表示携带，与语境中强调构建不符。\nB. 选项 B 'put' 表示放置，与语境不符。\nC. 选项 C 'build' 表示构建，符合语境中强调基于优势发展的含义。\nD. 选项 D 'take' 表示拿，与语境不符。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "C",
+            "id": 19,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "carry",
+                  "surface": "carry"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "put",
+                  "surface": "put"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "build",
+                  "surface": "build"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "take",
+                  "surface": "take"
+                }
+              ]
+            },
+            "options": [
+              "A) carry",
+              "B) put",
+              "C) build",
+              "D) take"
+            ],
+            "qid": 2014011019,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据语境，锻炼计划需要有效地增加阻力并改变肌肉使用，选项 B 'effective' 符合语境。\nA. 选项 A 'risky' 表示有风险的，与语境中强调有效性不符。\nB. 选项 B 'effective' 表示有效的，符合语境中锻炼计划的描述。\nC. 选项 C 'idle' 表示闲置的，与语境不符。\nD. 选项 D 'familiar' 表示熟悉的，与语境不符。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "B",
+            "id": 20,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "risky",
+                  "surface": "risky"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "effective",
+                  "surface": "effective"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "idle",
+                  "surface": "idle"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "familiar",
+                  "surface": "familiar"
+                }
+              ]
+            },
+            "options": [
+              "A) risky",
+              "B) effective",
+              "C) idle",
+              "D) familiar"
+            ],
+            "qid": 2014011020,
+            "text": ""
+          }
+        ]
+      },
+      "directions": "Read the following text. Choose the best word(s) for each numbered blank and mark A, B, C\nor D on the ANSWER SHEET. (10 points)",
+      "exam_info": "2014(1)",
+      "exam_type": "kaoyan",
+      "id": 201401001,
+      "key_words": "according excel functions however mental process turns workouts believe brain damaging exercise fades our points put wellbeing while allows apart associations build channel circumstances collapses condition connections constantly criterion effective environment feature figures finds further genre improve improves instead limited moreover obscure once otherwise outlook persist program recovers regardless relationship responses roundabouts sequence sharpness therefore track uneven unless actually allows' around aside back based build' carry constantly' effective' effort familiar flexibility forces framework further' habitually hold hurries idle intelligence irregularly",
+      "kid": 14,
+      "part": "Part III",
+      "section": "Sec A",
+      "task_key": "2014(1)_Section I_ ",
+      "type": "Use of English"
+    }
+  ]
+}

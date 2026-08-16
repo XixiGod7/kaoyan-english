@@ -1,0 +1,122 @@
+{
+  "tasks": [
+    {
+      "content_json": {
+        "41": "content_2_2",
+        "42": "content_4_2",
+        "43": "content_5_5",
+        "44": "content_6_3",
+        "45": "content_7_3",
+        "article": "Think of those fleeting moments when you look out of an aeroplane window and realise that you are flying, higher than a bird.\nNow think of your laptop, thinner than a brown-paper envelope, or your cellphone in the palm of your hand.\nTake a moment or two to wonder at those marvels.\nYou are the lucky inheritor of a dream come true.\nThe second half of the 20th century saw a collection of geniuses, warriors, entrepreneurs and visionaries labour to create a fabulous machine that could function as a typewriter and printing press, studio and theatre, paintbrush and gallery, piano and radio, the mail as well as the mail carrier.\nThe networked computer is an amazing device, the first media machine that serves as the mode of production, means of distribution, site of reception, and place of praise and critique.\nThe computer is the 21st century’s culture machine.\nBut for all the reasons there are to celebrate the computer, we must also act with caution.\nI call it a secret war for two reasons.\nFirst, most people do not realise that there are strong commercial agendas at work to keep them in passive consumption mode.\nSecond, the majority of people who use networked computers to upload are not even aware of the significance of what they are doing.\nAll animals download, but only a few upload.\nBeavers build dams and birds make nests.\nYet for the most part, the animal kingdom moves through the world downloading.\nHumans are unique in their capacity to not only make tools but then turn around and use them to create superfluous material goods — paintings, sculpture and architecture — and superfluous experiences — music, literature, religion and philosophy.\nFor all the possibilities of our new culture machines, most people are still stuck in download mode.\nEven after the advent of widespread social media, a pyramid of production remains, with a small number of people uploading material, a slightly larger group commenting on or modifying that content, and a huge percentage remaining content to just consume.\nTelevision is a one-way tap flowing into our homes.\nThe hardest task that television asks of anyone is to turn the power off after he has turned it on.\nWhat counts as meaningful uploading?\nMy definition revolves around the concept of “stickiness” — creations and experiences to which others adhere.",
+        "blanks": [
+          {
+            "blank_no": 41,
+            "block_position": "replace_whole",
+            "content_order_seq": "content_2_2",
+            "mode": "block"
+          },
+          {
+            "blank_no": 42,
+            "block_position": "replace_whole",
+            "content_order_seq": "content_4_2",
+            "mode": "block"
+          },
+          {
+            "blank_no": 43,
+            "block_position": "replace_whole",
+            "content_order_seq": "content_5_5",
+            "mode": "block"
+          },
+          {
+            "blank_no": 44,
+            "block_position": "replace_whole",
+            "content_order_seq": "content_6_3",
+            "mode": "block"
+          },
+          {
+            "blank_no": 45,
+            "block_position": "replace_whole",
+            "content_order_seq": "content_7_3",
+            "mode": "block"
+          }
+        ],
+        "option_labels": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ],
+        "questions": [
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "C",
+            "id": 41,
+            "qid": 2012011041,
+            "text": "Question 41",
+            "text_tokens": []
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "D",
+            "id": 42,
+            "qid": 2012011042,
+            "text": "Question 42",
+            "text_tokens": []
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "A",
+            "id": 43,
+            "qid": 2012011043,
+            "text": "Question 43",
+            "text_tokens": []
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "F",
+            "id": 44,
+            "qid": 2012011044,
+            "text": "Question 44",
+            "text_tokens": []
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "G",
+            "id": 45,
+            "qid": 2012011045,
+            "text": "Question 45",
+            "text_tokens": []
+          }
+        ]
+      },
+      "directions": "In the following text, some sentences have been removed. For Questions 41-45, choose the\nmost suitable one from the list A-G to fit into each of the numbered blanks. There are two\nextra choices, which do not fit in any of the blanks. Mark your answers on ANSWER\nSHEET 1. (10 points)",
+      "exam_info": "2012(1)",
+      "exam_type": "kaoyan",
+      "id": 201201006,
+      "key_words": "content block question replace whole most people all computer machine mode two after around blanks century create culture download even experiences first fit mail make material media networked one only our production realise reasons second superfluous television think those turn upload uploading use act adhere advent aeroplane agendas amazing animal animals answer answers any anyone architecture asks aware beavers bird birds brown build call capacity carrier caution celebrate cellphone choices choose collection come commenting commercial computers concept consume consumption counts",
+      "kid": 10,
+      "part": "Part III",
+      "section": "Sec B",
+      "task_key": "2012(1)_Section II_Part B",
+      "type": "Reading Comprehension"
+    }
+  ]
+}

@@ -1,0 +1,947 @@
+{
+  "tasks": [
+    {
+      "content_json": {
+        "article": "There’s no business like show business — but in Los Angeles, it feels like there’s no business at all.\nIf that sounds melodramatic, consider this: The Art Directors Guild, a labor union representing about 3,000 film workers, has suspended a training program and issued a statement explaining that “we cannot in good conscience encourage you to pursue our profession” This is a reaction to Hollywood’s decline, which is reaching a critical point for the industry and Southern California.\nProduction has been slipping away from Hollywood since the 1950s, but the effects have never been more apparent than at present.\nOther regions in the United States, Canada and Europe have steadily increased incentives to attract TV shows and movies, leaving California in the dust.\nGeorgia offers up to 30% in transferable tax credits on film and TV production costs, plus an additional 10% increase on the base tax credit if the project includes a Georgia promotional logo.\nEven as California lost a huge volume of production to other locations, there was still plenty of film production taking place in Los Angeles before this year.\nWe were kept afloat by “peak TV” the glut of content that was required by the explosion of streaming services.\nBut 2022 was the peak of peak TV.\nBack then platforms such as Netflix, Amazon and Apple TV hemorrhaged billions of dollars to generate content to attract new subscribers, resulting in 633 scripted series being released that year.\nAs the streamers’ emphasis changed from subscriber growth to profitability, prices for the services went up and the number of new shows went down to 481 released in 2023, with the number expected to dip into the 300s within a few years.\nIf productions in Southern California dip below a critical level for too long, the industry’s essential talent will drift away along with enormous sums of revenue.\nPersuading studios to film here would become much more challenging if we couldn’t offer a deep bench of local film workers, on-screen talent and local businesses that support the entertainment industry.\nThat’s why the California Film Commission and its Los Angeles counterpart, Film LA, now should act, before it’s too late.\nThese agencies and other government bodies should dramatically improve incentives to keep our current shows and attract new productions to Los Angeles.\nLet’s go on with the show...and make sure the show doesn’t go on without us.",
+        "questions": [
+          {
+            "ai_analysis_ids": [
+              2026013062
+            ],
+            "ai_analysis_text": "根据文章第二段，Art Directors Guild的声明反映了好莱坞的衰退以及行业面临的严峻形势。\nA. 选项A提到人们对电影兴趣减少，但文章并未提及这一点。\nB. 选项B提到电影工作者对过去的怀旧，但声明更多是对当前困境的反映，而非怀旧情绪。\nC. 选项C提到南加州的吸引力，但声明中并未提及这一点。\nD. 选项D正确，因为声明明确反映了好莱坞的衰退和行业的严峻形势。",
+            "ai_analysis_words": [
+              "cannot in good conscience",
+              "Hollywood’s decline"
+            ],
+            "analysis_sentence_id": 2026013062,
+            "answer": "D",
+            "id": 26,
+            "option_tokens": {
+              "A": [
+                {
+                  "gloss": "人们的",
+                  "lemma": "people",
+                  "surface": "people’s"
+                },
+                {
+                  "gloss": "减少的",
+                  "lemma": "reduce",
+                  "surface": "reduced"
+                },
+                {
+                  "gloss": "兴趣",
+                  "lemma": "interest",
+                  "surface": "interest"
+                },
+                {
+                  "gloss": "在...中",
+                  "lemma": "in",
+                  "surface": "in"
+                },
+                {
+                  "gloss": "电影",
+                  "lemma": "film",
+                  "surface": "film"
+                }
+              ],
+              "B": [
+                {
+                  "gloss": "电影",
+                  "lemma": "film",
+                  "surface": "film"
+                },
+                {
+                  "gloss": "从业者",
+                  "lemma": "worker",
+                  "surface": "workers"
+                },
+                {
+                  "gloss": "怀旧",
+                  "lemma": "nostalgia",
+                  "surface": "nostalgia"
+                },
+                {
+                  "gloss": "对",
+                  "lemma": "for",
+                  "surface": "for"
+                },
+                {
+                  "gloss": "（定冠词）",
+                  "lemma": "the",
+                  "surface": "the"
+                },
+                {
+                  "gloss": "过去",
+                  "lemma": "past",
+                  "surface": "past"
+                }
+              ],
+              "C": [
+                {
+                  "gloss": "（定冠词）",
+                  "lemma": "the",
+                  "surface": "the"
+                },
+                {
+                  "gloss": "吸引力",
+                  "lemma": "appeal",
+                  "surface": "appeal"
+                },
+                {
+                  "gloss": "的",
+                  "lemma": "of",
+                  "surface": "of"
+                },
+                {
+                  "gloss": "南部的",
+                  "lemma": "southern",
+                  "surface": "Southern"
+                },
+                {
+                  "gloss": "加利福尼亚州",
+                  "lemma": "california",
+                  "surface": "California"
+                }
+              ],
+              "D": [
+                {
+                  "gloss": "（定冠词）",
+                  "lemma": "the",
+                  "surface": "the"
+                },
+                {
+                  "gloss": "低迷的",
+                  "lemma": "gloomy",
+                  "surface": "gloomy"
+                },
+                {
+                  "gloss": "状况",
+                  "lemma": "situation",
+                  "surface": "situation"
+                },
+                {
+                  "gloss": "的",
+                  "lemma": "of",
+                  "surface": "of"
+                },
+                {
+                  "gloss": "好莱坞",
+                  "lemma": "hollywood",
+                  "surface": "Hollywood"
+                }
+              ]
+            },
+            "options": [
+              "A) people’s reduced interest in film.",
+              "B) film workers’ nostalgia for the past.",
+              "C) the appeal of Southern California.",
+              "D) the gloomy situation of Hollywood."
+            ],
+            "qid": 2026011026,
+            "text": "The Art Directors Guild’s statement reveals ____",
+            "text_tokens": [
+              {
+                "gloss": "这个",
+                "lemma": "the",
+                "surface": "The"
+              },
+              {
+                "gloss": "艺术",
+                "lemma": "art",
+                "surface": "Art"
+              },
+              {
+                "gloss": "指导",
+                "lemma": "director",
+                "surface": "Directors"
+              },
+              {
+                "gloss": "协会",
+                "lemma": "guild",
+                "surface": "Guild’s"
+              },
+              {
+                "gloss": "声明",
+                "lemma": "statement",
+                "surface": "statement"
+              },
+              {
+                "gloss": "揭示",
+                "lemma": "reveal",
+                "surface": "reveals"
+              }
+            ]
+          },
+          {
+            "ai_analysis_ids": [
+              2026013065
+            ],
+            "ai_analysis_text": "文章第三段和第四段提到乔治亚州通过税收优惠吸引电影和电视制作，说明了各地为吸引制作所做的努力。\nA. 选项A正确，因为乔治亚州的例子明确展示了通过税收优惠吸引制作的努力。\nB. 选项B提到改善电影设施，但文章未提及这一点。\nC. 选项C提到刺激州之间的竞争，但文章重点在吸引制作而非竞争。\nD. 选项D提到为电影和电视制作筹集资金，但文章未提及这一点。",
+            "ai_analysis_words": [
+              "tax credits",
+              "Georgia promotional logo"
+            ],
+            "analysis_sentence_id": 2026013065,
+            "answer": "A",
+            "id": 27,
+            "option_tokens": {
+              "A": [
+                {
+                  "gloss": "吸引",
+                  "lemma": "lure",
+                  "surface": "lure"
+                },
+                {
+                  "gloss": "制作",
+                  "lemma": "production",
+                  "surface": "production"
+                },
+                {
+                  "gloss": "通过",
+                  "lemma": "with",
+                  "surface": "with"
+                },
+                {
+                  "gloss": "税收",
+                  "lemma": "tax",
+                  "surface": "tax"
+                },
+                {
+                  "gloss": "优惠",
+                  "lemma": "incentive",
+                  "surface": "incentives"
+                }
+              ],
+              "B": [
+                {
+                  "gloss": "推动",
+                  "lemma": "drive",
+                  "surface": "drive"
+                },
+                {
+                  "gloss": "改善",
+                  "lemma": "improvement",
+                  "surface": "improvements"
+                },
+                {
+                  "gloss": "在",
+                  "lemma": "in",
+                  "surface": "in"
+                },
+                {
+                  "gloss": "电影",
+                  "lemma": "film",
+                  "surface": "film"
+                },
+                {
+                  "gloss": "设施",
+                  "lemma": "facility",
+                  "surface": "facilities"
+                }
+              ],
+              "C": [
+                {
+                  "gloss": "刺激",
+                  "lemma": "stimulate",
+                  "surface": "stimulate"
+                },
+                {
+                  "gloss": "竞争",
+                  "lemma": "competition",
+                  "surface": "competition"
+                },
+                {
+                  "gloss": "之间",
+                  "lemma": "among",
+                  "surface": "among"
+                },
+                {
+                  "gloss": "州",
+                  "lemma": "state",
+                  "surface": "states"
+                }
+              ],
+              "D": [
+                {
+                  "gloss": "收集",
+                  "lemma": "collect",
+                  "surface": "collect"
+                },
+                {
+                  "gloss": "资金",
+                  "lemma": "fund",
+                  "surface": "funds"
+                },
+                {
+                  "gloss": "为了",
+                  "lemma": "for",
+                  "surface": "for"
+                },
+                {
+                  "gloss": "电影",
+                  "lemma": "film",
+                  "surface": "film"
+                },
+                {
+                  "gloss": "和",
+                  "lemma": "and",
+                  "surface": "and"
+                },
+                {
+                  "gloss": "电视",
+                  "lemma": "tv",
+                  "surface": "TV"
+                },
+                {
+                  "gloss": "制作",
+                  "lemma": "make",
+                  "surface": "making"
+                }
+              ]
+            },
+            "options": [
+              "A) lure production with tax incentives.",
+              "B) drive improvements in film facilities.",
+              "C) stimulate competition among states.",
+              "D) collect funds for film and TV making."
+            ],
+            "qid": 2026011027,
+            "text": "The example of Georgia is used to illustrate the efforts to ____",
+            "text_tokens": [
+              {
+                "gloss": "（定冠词）",
+                "lemma": "the",
+                "surface": "The"
+              },
+              {
+                "gloss": "例子",
+                "lemma": "example",
+                "surface": "example"
+              },
+              {
+                "gloss": "的",
+                "lemma": "of",
+                "surface": "of"
+              },
+              {
+                "gloss": "乔治亚州",
+                "lemma": "georgia",
+                "surface": "Georgia"
+              },
+              {
+                "gloss": "是",
+                "lemma": "be",
+                "surface": "is"
+              },
+              {
+                "gloss": "被用来",
+                "lemma": "use",
+                "surface": "used"
+              },
+              {
+                "gloss": "以",
+                "lemma": "to",
+                "surface": "to"
+              },
+              {
+                "gloss": "说明",
+                "lemma": "illustrate",
+                "surface": "illustrate"
+              },
+              {
+                "gloss": "（定冠词）",
+                "lemma": "the",
+                "surface": "the"
+              },
+              {
+                "gloss": "努力",
+                "lemma": "effort",
+                "surface": "efforts"
+              },
+              {
+                "gloss": "以",
+                "lemma": "to",
+                "surface": "to"
+              }
+            ]
+          },
+          {
+            "ai_analysis_ids": [
+              2026013070
+            ],
+            "ai_analysis_text": "第五段提到流媒体平台从关注订阅者增长转向盈利，这导致新剧数量减少，说明了战略重点的变化。\nA. 选项A提到流媒体失去技术优势，但文章未提及这一点。\nB. 选项B正确，因为文章明确提到流媒体平台战略重点从订阅者增长转向盈利。\nC. 选项C提到订阅者对大平台的警惕，但文章未提及这一点。\nD. 选项D提到订阅者对新剧的不满，但文章未提及这一点。",
+            "ai_analysis_words": [
+              "profitability",
+              "subscriber growth"
+            ],
+            "analysis_sentence_id": 2026013070,
+            "answer": "B",
+            "id": 28,
+            "option_tokens": {
+              "A": [
+                {
+                  "gloss": "流媒体平台",
+                  "lemma": "streamer",
+                  "surface": "streamers"
+                },
+                {
+                  "gloss": "失去",
+                  "lemma": "lose",
+                  "surface": "lost"
+                },
+                {
+                  "gloss": "他们的",
+                  "lemma": "their",
+                  "surface": "their"
+                },
+                {
+                  "gloss": "技术的",
+                  "lemma": "technical",
+                  "surface": "technical"
+                },
+                {
+                  "gloss": "优势",
+                  "lemma": "advantage",
+                  "surface": "advantages"
+                }
+              ],
+              "B": [
+                {
+                  "gloss": "流媒体平台",
+                  "lemma": "streamer",
+                  "surface": "streamers"
+                },
+                {
+                  "gloss": "改变",
+                  "lemma": "change",
+                  "surface": "changed"
+                },
+                {
+                  "gloss": "他们的",
+                  "lemma": "their",
+                  "surface": "their"
+                },
+                {
+                  "gloss": "战略的",
+                  "lemma": "strategic",
+                  "surface": "strategic"
+                },
+                {
+                  "gloss": "优先事项",
+                  "lemma": "priority",
+                  "surface": "priorities"
+                }
+              ],
+              "C": [
+                {
+                  "gloss": "订阅者",
+                  "lemma": "subscriber",
+                  "surface": "subscribers"
+                },
+                {
+                  "gloss": "变得",
+                  "lemma": "grow",
+                  "surface": "grew"
+                },
+                {
+                  "gloss": "谨慎的",
+                  "lemma": "wary",
+                  "surface": "wary"
+                },
+                {
+                  "gloss": "对",
+                  "lemma": "of",
+                  "surface": "of"
+                },
+                {
+                  "gloss": "大型的",
+                  "lemma": "large",
+                  "surface": "large"
+                },
+                {
+                  "gloss": "平台",
+                  "lemma": "platform",
+                  "surface": "platforms"
+                }
+              ],
+              "D": [
+                {
+                  "gloss": "订阅者",
+                  "lemma": "subscriber",
+                  "surface": "subscribers"
+                },
+                {
+                  "gloss": "是",
+                  "lemma": "be",
+                  "surface": "were"
+                },
+                {
+                  "gloss": "不满的",
+                  "lemma": "unhappy",
+                  "surface": "unhappy"
+                },
+                {
+                  "gloss": "对",
+                  "lemma": "with",
+                  "surface": "with"
+                },
+                {
+                  "gloss": "新的",
+                  "lemma": "new",
+                  "surface": "new"
+                },
+                {
+                  "gloss": "节目",
+                  "lemma": "show",
+                  "surface": "shows"
+                }
+              ]
+            },
+            "options": [
+              "A) streamers lost their technical advantages.",
+              "B) streamers changed their strategic priorities.",
+              "C) subscribers grew wary of large platforms.",
+              "D) subscribers were unhappy with new shows."
+            ],
+            "qid": 2026011028,
+            "text": "Peak TV passed its peak as ____",
+            "text_tokens": [
+              {
+                "gloss": "巅峰",
+                "lemma": "peak",
+                "surface": "Peak"
+              },
+              {
+                "gloss": "电视",
+                "lemma": "tv",
+                "surface": "TV"
+              },
+              {
+                "gloss": "过去",
+                "lemma": "pass",
+                "surface": "passed"
+              },
+              {
+                "gloss": "它的",
+                "lemma": "its",
+                "surface": "its"
+              },
+              {
+                "gloss": "巅峰",
+                "lemma": "peak",
+                "surface": "peak"
+              },
+              {
+                "gloss": "因为",
+                "lemma": "as",
+                "surface": "as"
+              }
+            ]
+          },
+          {
+            "ai_analysis_ids": [
+              2026013071
+            ],
+            "ai_analysis_text": "第六段提到如果南加州制作量下降，行业人才可能流失到其他地方，导致收入减少。\nA. 选项A提到产品质量下降，但文章未提及这一点。\nB. 选项B提到对外国人才的需求，但文章未提及这一点。\nC. 选项C正确，因为文章明确提到行业人才可能流失到其他地方。\nD. 选项D提到劳动力成本上升，但文章未提及这一点。",
+            "ai_analysis_words": [
+              "talent will drift away",
+              "revenue"
+            ],
+            "analysis_sentence_id": 2026013071,
+            "answer": "C",
+            "id": 29,
+            "option_tokens": {
+              "A": [
+                {
+                  "gloss": "一个",
+                  "lemma": "a",
+                  "surface": "a"
+                },
+                {
+                  "gloss": "下降",
+                  "lemma": "decline",
+                  "surface": "decline"
+                },
+                {
+                  "gloss": "在",
+                  "lemma": "in",
+                  "surface": "in"
+                },
+                {
+                  "gloss": "产品",
+                  "lemma": "product",
+                  "surface": "product"
+                },
+                {
+                  "gloss": "质量",
+                  "lemma": "quality",
+                  "surface": "quality"
+                }
+              ],
+              "B": [
+                {
+                  "gloss": "一个",
+                  "lemma": "a",
+                  "surface": "a"
+                },
+                {
+                  "gloss": "需求",
+                  "lemma": "demand",
+                  "surface": "demand"
+                },
+                {
+                  "gloss": "对于",
+                  "lemma": "for",
+                  "surface": "for"
+                },
+                {
+                  "gloss": "外国的",
+                  "lemma": "foreign",
+                  "surface": "foreign"
+                },
+                {
+                  "gloss": "人才",
+                  "lemma": "talent",
+                  "surface": "talent"
+                }
+              ],
+              "C": [
+                {
+                  "gloss": "一个",
+                  "lemma": "a",
+                  "surface": "a"
+                },
+                {
+                  "gloss": "脑；人才",
+                  "lemma": "brain",
+                  "surface": "brain"
+                },
+                {
+                  "gloss": "流失",
+                  "lemma": "drain",
+                  "surface": "drain"
+                },
+                {
+                  "gloss": "到",
+                  "lemma": "to",
+                  "surface": "to"
+                },
+                {
+                  "gloss": "其他的",
+                  "lemma": "other",
+                  "surface": "other"
+                },
+                {
+                  "gloss": "地方",
+                  "lemma": "place",
+                  "surface": "places"
+                }
+              ],
+              "D": [
+                {
+                  "gloss": "一个",
+                  "lemma": "a",
+                  "surface": "a"
+                },
+                {
+                  "gloss": "急剧的",
+                  "lemma": "dramatic",
+                  "surface": "dramatic"
+                },
+                {
+                  "gloss": "上升",
+                  "lemma": "rise",
+                  "surface": "rise"
+                },
+                {
+                  "gloss": "在...方面",
+                  "lemma": "in",
+                  "surface": "in"
+                },
+                {
+                  "gloss": "劳动力",
+                  "lemma": "labor",
+                  "surface": "labor"
+                },
+                {
+                  "gloss": "成本",
+                  "lemma": "cost",
+                  "surface": "costs"
+                }
+              ]
+            },
+            "options": [
+              "A) a decline in product quality.",
+              "B) a demand for foreign talent.",
+              "C) a brain drain to other places.",
+              "D) a dramatic rise in labor costs."
+            ],
+            "qid": 2026011029,
+            "text": "According to Paragraph 6, California’s entertainment industry might face ____",
+            "text_tokens": [
+              {
+                "gloss": "根据",
+                "lemma": "according",
+                "surface": "According"
+              },
+              {
+                "gloss": "至",
+                "lemma": "to",
+                "surface": "to"
+              },
+              {
+                "gloss": "段落",
+                "lemma": "paragraph",
+                "surface": "Paragraph"
+              },
+              {
+                "gloss": "加州的",
+                "lemma": "california",
+                "surface": "California’s"
+              },
+              {
+                "gloss": "娱乐",
+                "lemma": "entertainment",
+                "surface": "entertainment"
+              },
+              {
+                "gloss": "产业",
+                "lemma": "industry",
+                "surface": "industry"
+              },
+              {
+                "gloss": "可能",
+                "lemma": "might",
+                "surface": "might"
+              },
+              {
+                "gloss": "面临",
+                "lemma": "face",
+                "surface": "face"
+              }
+            ]
+          },
+          {
+            "ai_analysis_ids": [
+              2026013074
+            ],
+            "ai_analysis_text": "文章最后一段强调加州需要采取行动，通过改善激励措施保持其在行业中的地位。\nA. 选项A正确，因为文章结尾明确强调加州需要努力保持其行业地位。\nB. 选项B提到吸引更多投资，但文章未提及这一点。\nC. 选项C提到追求更高的制作标准，但文章未提及这一点。\nD. 选项D提到加强与其他州的协调，但文章未提及这一点。",
+            "ai_analysis_words": [
+              "improve incentives",
+              "attract new productions"
+            ],
+            "analysis_sentence_id": 2026013074,
+            "answer": "A",
+            "id": 30,
+            "option_tokens": {
+              "A": [
+                {
+                  "gloss": "保持",
+                  "lemma": "maintain",
+                  "surface": "maintain"
+                },
+                {
+                  "gloss": "它的",
+                  "lemma": "its",
+                  "surface": "its"
+                },
+                {
+                  "gloss": "地位",
+                  "lemma": "position",
+                  "surface": "position"
+                },
+                {
+                  "gloss": "在...中",
+                  "lemma": "in",
+                  "surface": "in"
+                },
+                {
+                  "gloss": "这个",
+                  "lemma": "the",
+                  "surface": "the"
+                },
+                {
+                  "gloss": "行业",
+                  "lemma": "industry",
+                  "surface": "industry"
+                }
+              ],
+              "B": [
+                {
+                  "gloss": "吸引",
+                  "lemma": "attract",
+                  "surface": "attract"
+                },
+                {
+                  "gloss": "更多的",
+                  "lemma": "more",
+                  "surface": "more"
+                },
+                {
+                  "gloss": "投资",
+                  "lemma": "investment",
+                  "surface": "investment"
+                },
+                {
+                  "gloss": "比",
+                  "lemma": "than",
+                  "surface": "than"
+                },
+                {
+                  "gloss": "它",
+                  "lemma": "it",
+                  "surface": "it"
+                },
+                {
+                  "gloss": "曾经",
+                  "lemma": "have",
+                  "surface": "had"
+                }
+              ],
+              "C": [
+                {
+                  "gloss": "追求",
+                  "lemma": "pursue",
+                  "surface": "pursue"
+                },
+                {
+                  "gloss": "一个",
+                  "lemma": "a",
+                  "surface": "a"
+                },
+                {
+                  "gloss": "更高的",
+                  "lemma": "high",
+                  "surface": "higher"
+                },
+                {
+                  "gloss": "标准",
+                  "lemma": "standard",
+                  "surface": "standard"
+                },
+                {
+                  "gloss": "的",
+                  "lemma": "of",
+                  "surface": "of"
+                },
+                {
+                  "gloss": "生产",
+                  "lemma": "production",
+                  "surface": "production"
+                }
+              ],
+              "D": [
+                {
+                  "gloss": "加强",
+                  "lemma": "strengthen",
+                  "surface": "strengthen"
+                },
+                {
+                  "gloss": "协调",
+                  "lemma": "coordination",
+                  "surface": "coordination"
+                },
+                {
+                  "gloss": "与",
+                  "lemma": "with",
+                  "surface": "with"
+                },
+                {
+                  "gloss": "其他的",
+                  "lemma": "other",
+                  "surface": "other"
+                },
+                {
+                  "gloss": "州",
+                  "lemma": "state",
+                  "surface": "states"
+                }
+              ]
+            },
+            "options": [
+              "A) maintain its position in the industry.",
+              "B) attract more investment than it had.",
+              "C) pursue a higher standard of production.",
+              "D) strengthen coordination with other states."
+            ],
+            "qid": 2026011030,
+            "text": "The author concludes the text by emphasizing that California should strive to ____",
+            "text_tokens": [
+              {
+                "gloss": "这",
+                "lemma": "the",
+                "surface": "The"
+              },
+              {
+                "gloss": "作者",
+                "lemma": "author",
+                "surface": "author"
+              },
+              {
+                "gloss": "总结",
+                "lemma": "conclude",
+                "surface": "concludes"
+              },
+              {
+                "gloss": "这",
+                "lemma": "the",
+                "surface": "the"
+              },
+              {
+                "gloss": "文章",
+                "lemma": "text",
+                "surface": "text"
+              },
+              {
+                "gloss": "通过",
+                "lemma": "by",
+                "surface": "by"
+              },
+              {
+                "gloss": "强调",
+                "lemma": "emphasize",
+                "surface": "emphasizing"
+              },
+              {
+                "gloss": "表明",
+                "lemma": "that",
+                "surface": "that"
+              },
+              {
+                "gloss": "加州",
+                "lemma": "california",
+                "surface": "California"
+              },
+              {
+                "gloss": "应该",
+                "lemma": "should",
+                "surface": "should"
+              },
+              {
+                "gloss": "努力",
+                "lemma": "strive",
+                "surface": "strive"
+              },
+              {
+                "gloss": "去",
+                "lemma": "to",
+                "surface": "to"
+              }
+            ]
+          }
+        ],
+        "title": "Text 2"
+      },
+      "directions": "Read the following four texts. Answer the questions below each text by choosing A, B, C or D.\nMark your answers on the ANSWER SHEET. (10 points for each text)",
+      "exam_info": "2026(1)",
+      "exam_type": "kaoyan",
+      "id": 202601003,
+      "key_words": "film california production attract industry new other peak angeles georgia hollywood incentives los shows talent tax text art away business decline directors guild its more productions show southern states streamers subscribers workers answer before below cannot changed conscience content costs credits critical dip drift each entertainment good growth improve labor like local logo lost number our platforms profitability promotional pursue released revenue services statement subscriber too went year according act additional advantages afloat agencies all along amazon among answers apparent",
+      "kid": 15,
+      "part": "Part III",
+      "section": "Sec C",
+      "task_key": "2026(1)_Section II_Part A_Text2",
+      "type": "Reading Comprehension"
+    }
+  ]
+}

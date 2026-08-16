@@ -1,0 +1,1501 @@
+{
+  "sentences": [
+    {
+      "cn_text": "信任是一件棘手的事情。",
+      "en_text": "Trust is a tricky business.",
+      "id": 2018013001,
+      "order_seq": "content_1_1",
+      "task_id": 201801001,
+      "tokens": [
+        {
+          "gloss": "信任",
+          "lemma": "trust",
+          "surface": "trust"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "微妙的",
+          "lemma": "tricky",
+          "surface": "tricky"
+        },
+        {
+          "gloss": "事情",
+          "lemma": "business",
+          "surface": "business"
+        }
+      ]
+    },
+    {
+      "cn_text": "一方面，它是许多有价值之事的必要条件：如儿童照料、友谊等。",
+      "en_text": "On the one hand, it’s a necessary condition for many worthwhile things: child care, friendships, etc.",
+      "id": 2018013002,
+      "order_seq": "content_1_2",
+      "task_id": 201801001,
+      "tokens": [
+        {
+          "gloss": "在...上",
+          "lemma": "on",
+          "surface": "on"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "一",
+          "lemma": "one",
+          "surface": "one"
+        },
+        {
+          "gloss": "方面",
+          "lemma": "hand",
+          "surface": "hand"
+        },
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "it"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "必要的",
+          "lemma": "necessary",
+          "surface": "necessary"
+        },
+        {
+          "gloss": "条件",
+          "lemma": "condition",
+          "surface": "condition"
+        },
+        {
+          "gloss": "为了",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "许多",
+          "lemma": "many",
+          "surface": "many"
+        },
+        {
+          "gloss": "有价值的",
+          "lemma": "worthwhile",
+          "surface": "worthwhile"
+        },
+        {
+          "gloss": "事情",
+          "lemma": "thing",
+          "surface": "things"
+        },
+        {
+          "gloss": "儿童",
+          "lemma": "child",
+          "surface": "child"
+        },
+        {
+          "gloss": "照料",
+          "lemma": "care",
+          "surface": "care"
+        },
+        {
+          "gloss": "友谊",
+          "lemma": "friendship",
+          "surface": "friendships"
+        },
+        {
+          "gloss": "等等",
+          "lemma": "etc",
+          "surface": "etc"
+        }
+      ]
+    },
+    {
+      "cn_text": "另一方面，将信任寄予错误的对象往往会付出高昂代价。",
+      "en_text": "On the other hand, putting your faith in the wrong place often carries a high price.",
+      "id": 2018013003,
+      "order_seq": "content_1_3",
+      "task_id": 201801001,
+      "tokens": [
+        {
+          "gloss": "在...上",
+          "lemma": "on",
+          "surface": "on"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "其他的",
+          "lemma": "other",
+          "surface": "other"
+        },
+        {
+          "gloss": "方面",
+          "lemma": "hand",
+          "surface": "hand"
+        },
+        {
+          "gloss": "放置",
+          "lemma": "put",
+          "surface": "putting"
+        },
+        {
+          "gloss": "你的",
+          "lemma": "your",
+          "surface": "your"
+        },
+        {
+          "gloss": "信任",
+          "lemma": "faith",
+          "surface": "faith"
+        },
+        {
+          "gloss": "在...中",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "错误的",
+          "lemma": "wrong",
+          "surface": "wrong"
+        },
+        {
+          "gloss": "地方",
+          "lemma": "place",
+          "surface": "place"
+        },
+        {
+          "gloss": "经常",
+          "lemma": "often",
+          "surface": "often"
+        },
+        {
+          "gloss": "携带",
+          "lemma": "carry",
+          "surface": "carries"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "高的",
+          "lemma": "high",
+          "surface": "high"
+        },
+        {
+          "gloss": "代价",
+          "lemma": "price",
+          "surface": "price"
+        }
+      ]
+    },
+    {
+      "cn_text": "那么，我们为何还要信任他人？",
+      "en_text": "Then, why do we trust at all?",
+      "id": 2018013004,
+      "order_seq": "content_2_1",
+      "task_id": 201801001,
+      "tokens": [
+        {
+          "gloss": "那么",
+          "lemma": "then",
+          "surface": "Then"
+        },
+        {
+          "gloss": "为什么",
+          "lemma": "why",
+          "surface": "why"
+        },
+        {
+          "gloss": "做",
+          "lemma": "do",
+          "surface": "do"
+        },
+        {
+          "gloss": "我们",
+          "lemma": "we",
+          "surface": "we"
+        },
+        {
+          "gloss": "信任",
+          "lemma": "trust",
+          "surface": "trust"
+        },
+        {
+          "gloss": "在",
+          "lemma": "at",
+          "surface": "at"
+        },
+        {
+          "gloss": "完全",
+          "lemma": "all",
+          "surface": "all"
+        }
+      ]
+    },
+    {
+      "cn_text": "因为这让人感觉良好。",
+      "en_text": "Well, because it feels good.",
+      "id": 2018013005,
+      "order_seq": "content_2_2",
+      "task_id": 201801001,
+      "tokens": [
+        {
+          "gloss": "嗯",
+          "lemma": "well",
+          "surface": "well"
+        },
+        {
+          "gloss": "因为",
+          "lemma": "because",
+          "surface": "because"
+        },
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "it"
+        },
+        {
+          "gloss": "感觉",
+          "lemma": "feel",
+          "surface": "feels"
+        },
+        {
+          "gloss": "好",
+          "lemma": "good",
+          "surface": "good"
+        }
+      ]
+    },
+    {
+      "cn_text": "当人们将信任寄托于某个人或某个机构时，他们的大脑会释放催产素，这是一种能产生愉悦感并激发群体本能的激素，促使人类彼此建立联系。",
+      "en_text": "When people place their trust in an individual or an institution, their brains release oxytocin, a hormone that produces pleasurable feelings and triggers the herding instinct that prompts humans to connect with one another.",
+      "id": 2018013006,
+      "order_seq": "content_2_3",
+      "task_id": 201801001,
+      "tokens": [
+        {
+          "gloss": "当",
+          "lemma": "when",
+          "surface": "When"
+        },
+        {
+          "gloss": "人们",
+          "lemma": "people",
+          "surface": "people"
+        },
+        {
+          "gloss": "放置",
+          "lemma": "place",
+          "surface": "place"
+        },
+        {
+          "gloss": "他们的",
+          "lemma": "their",
+          "surface": "their"
+        },
+        {
+          "gloss": "信任",
+          "lemma": "trust",
+          "surface": "trust"
+        },
+        {
+          "gloss": "在...中",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "an",
+          "surface": "an"
+        },
+        {
+          "gloss": "个人",
+          "lemma": "individual",
+          "surface": "individual"
+        },
+        {
+          "gloss": "或者",
+          "lemma": "or",
+          "surface": "or"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "an",
+          "surface": "an"
+        },
+        {
+          "gloss": "机构",
+          "lemma": "institution",
+          "surface": "institution"
+        },
+        {
+          "gloss": "他们的",
+          "lemma": "their",
+          "surface": "their"
+        },
+        {
+          "gloss": "大脑",
+          "lemma": "brain",
+          "surface": "brains"
+        },
+        {
+          "gloss": "释放",
+          "lemma": "release",
+          "surface": "release"
+        },
+        {
+          "gloss": "催产素",
+          "lemma": "oxytocin",
+          "surface": "oxytocin"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "激素",
+          "lemma": "hormone",
+          "surface": "hormone"
+        },
+        {
+          "gloss": "那",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "产生",
+          "lemma": "produce",
+          "surface": "produces"
+        },
+        {
+          "gloss": "令人愉快的",
+          "lemma": "pleasurable",
+          "surface": "pleasurable"
+        },
+        {
+          "gloss": "感受",
+          "lemma": "feeling",
+          "surface": "feelings"
+        },
+        {
+          "gloss": "并且",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "触发",
+          "lemma": "trigger",
+          "surface": "triggers"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "群体的",
+          "lemma": "herding",
+          "surface": "herding"
+        },
+        {
+          "gloss": "本能",
+          "lemma": "instinct",
+          "surface": "instinct"
+        },
+        {
+          "gloss": "那",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "促使",
+          "lemma": "prompt",
+          "surface": "prompts"
+        },
+        {
+          "gloss": "人类",
+          "lemma": "human",
+          "surface": "humans"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "连接",
+          "lemma": "connect",
+          "surface": "connect"
+        },
+        {
+          "gloss": "与",
+          "lemma": "with",
+          "surface": "with"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "one",
+          "surface": "one"
+        },
+        {
+          "gloss": "另一个",
+          "lemma": "another",
+          "surface": "another"
+        }
+      ]
+    },
+    {
+      "cn_text": "科学家发现，接触这种激素会使我们进入信任的情绪状态：在一项瑞士研究中,研究人员向一半受试者的鼻腔喷入催产素；这些受试者愿意借给陌生人的金额远高于吸入其他物质的对照组。",
+      "en_text": "Scientists have found that exposure to this hormone puts us in a trusting mood: In a Swiss study, researchers sprayed oxytocin into the noses of half the subjects; those subjects were ready to lend significantly higher amounts of money to strangers than were their counterparts who inhaled something else.",
+      "id": 2018013007,
+      "order_seq": "content_2_4",
+      "task_id": 201801001,
+      "tokens": [
+        {
+          "gloss": "科学家",
+          "lemma": "scientist",
+          "surface": "scientists"
+        },
+        {
+          "gloss": "已经",
+          "lemma": "have",
+          "surface": "have"
+        },
+        {
+          "gloss": "发现",
+          "lemma": "find",
+          "surface": "found"
+        },
+        {
+          "gloss": "那",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "接触",
+          "lemma": "exposure",
+          "surface": "exposure"
+        },
+        {
+          "gloss": "到",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "this",
+          "surface": "this"
+        },
+        {
+          "gloss": "激素",
+          "lemma": "hormone",
+          "surface": "hormone"
+        },
+        {
+          "gloss": "使",
+          "lemma": "put",
+          "surface": "puts"
+        },
+        {
+          "gloss": "我们",
+          "lemma": "us",
+          "surface": "us"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "信任的",
+          "lemma": "trusting",
+          "surface": "trusting"
+        },
+        {
+          "gloss": "情绪",
+          "lemma": "mood",
+          "surface": "mood"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "瑞士的",
+          "lemma": "swiss",
+          "surface": "swiss"
+        },
+        {
+          "gloss": "研究",
+          "lemma": "study",
+          "surface": "study"
+        },
+        {
+          "gloss": "研究人员",
+          "lemma": "researcher",
+          "surface": "researchers"
+        },
+        {
+          "gloss": "喷洒",
+          "lemma": "spray",
+          "surface": "sprayed"
+        },
+        {
+          "gloss": "催产素",
+          "lemma": "oxytocin",
+          "surface": "oxytocin"
+        },
+        {
+          "gloss": "进入",
+          "lemma": "into",
+          "surface": "into"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "鼻子",
+          "lemma": "nose",
+          "surface": "noses"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "一半",
+          "lemma": "half",
+          "surface": "half"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "受试者",
+          "lemma": "subject",
+          "surface": "subjects"
+        },
+        {
+          "gloss": "那些",
+          "lemma": "those",
+          "surface": "those"
+        },
+        {
+          "gloss": "受试者",
+          "lemma": "subject",
+          "surface": "subjects"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "were"
+        },
+        {
+          "gloss": "准备好的",
+          "lemma": "ready",
+          "surface": "ready"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "借出",
+          "lemma": "lend",
+          "surface": "lend"
+        },
+        {
+          "gloss": "显著地",
+          "lemma": "significantly",
+          "surface": "significantly"
+        },
+        {
+          "gloss": "更高的",
+          "lemma": "high",
+          "surface": "higher"
+        },
+        {
+          "gloss": "数量",
+          "lemma": "amount",
+          "surface": "amounts"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "钱",
+          "lemma": "money",
+          "surface": "money"
+        },
+        {
+          "gloss": "给",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "陌生人",
+          "lemma": "stranger",
+          "surface": "strangers"
+        },
+        {
+          "gloss": "比",
+          "lemma": "than",
+          "surface": "than"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "were"
+        },
+        {
+          "gloss": "他们的",
+          "lemma": "their",
+          "surface": "their"
+        },
+        {
+          "gloss": "对应者",
+          "lemma": "counterpart",
+          "surface": "counterparts"
+        },
+        {
+          "gloss": "谁",
+          "lemma": "who",
+          "surface": "who"
+        },
+        {
+          "gloss": "吸入",
+          "lemma": "inhale",
+          "surface": "inhaled"
+        },
+        {
+          "gloss": "某物",
+          "lemma": "something",
+          "surface": "something"
+        },
+        {
+          "gloss": "其他的",
+          "lemma": "else",
+          "surface": "else"
+        }
+      ]
+    },
+    {
+      "cn_text": "幸运的是，我们还拥有一种对不诚实行为的第六感，这可能会保护我们。",
+      "en_text": "Lucky for us, we also have a sixth sense for dishonesty that may protect us.",
+      "id": 2018013008,
+      "order_seq": "content_3_1",
+      "task_id": 201801001,
+      "tokens": [
+        {
+          "gloss": "幸运的",
+          "lemma": "lucky",
+          "surface": "lucky"
+        },
+        {
+          "gloss": "对",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "我们",
+          "lemma": "us",
+          "surface": "us"
+        },
+        {
+          "gloss": "我们",
+          "lemma": "we",
+          "surface": "we"
+        },
+        {
+          "gloss": "也",
+          "lemma": "also",
+          "surface": "also"
+        },
+        {
+          "gloss": "有",
+          "lemma": "have",
+          "surface": "have"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "第六的",
+          "lemma": "sixth",
+          "surface": "sixth"
+        },
+        {
+          "gloss": "感官",
+          "lemma": "sense",
+          "surface": "sense"
+        },
+        {
+          "gloss": "对",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "不诚实",
+          "lemma": "dishonesty",
+          "surface": "dishonesty"
+        },
+        {
+          "gloss": "那",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "可能",
+          "lemma": "may",
+          "surface": "may"
+        },
+        {
+          "gloss": "保护",
+          "lemma": "protect",
+          "surface": "protect"
+        },
+        {
+          "gloss": "我们",
+          "lemma": "us",
+          "surface": "us"
+        }
+      ]
+    },
+    {
+      "cn_text": "一项加拿大研究发现，年仅14个月的儿童就能区分可信之人与不诚实之人。",
+      "en_text": "A Canadian study found that children as young as 14 months can differentiate between a credible person and a dishonest one.",
+      "id": 2018013009,
+      "order_seq": "content_3_2",
+      "task_id": 201801001,
+      "tokens": [
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "A"
+        },
+        {
+          "gloss": "加拿大的",
+          "lemma": "canadian",
+          "surface": "Canadian"
+        },
+        {
+          "gloss": "研究",
+          "lemma": "study",
+          "surface": "study"
+        },
+        {
+          "gloss": "发现",
+          "lemma": "find",
+          "surface": "found"
+        },
+        {
+          "gloss": "表明",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "儿童",
+          "lemma": "child",
+          "surface": "children"
+        },
+        {
+          "gloss": "像",
+          "lemma": "as",
+          "surface": "as"
+        },
+        {
+          "gloss": "年轻的",
+          "lemma": "young",
+          "surface": "young"
+        },
+        {
+          "gloss": "像",
+          "lemma": "as",
+          "surface": "as"
+        },
+        {
+          "gloss": "14",
+          "lemma": "14",
+          "surface": "14"
+        },
+        {
+          "gloss": "月",
+          "lemma": "month",
+          "surface": "months"
+        },
+        {
+          "gloss": "能够",
+          "lemma": "can",
+          "surface": "can"
+        },
+        {
+          "gloss": "区分",
+          "lemma": "differentiate",
+          "surface": "differentiate"
+        },
+        {
+          "gloss": "在...之间",
+          "lemma": "between",
+          "surface": "between"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "可信的",
+          "lemma": "credible",
+          "surface": "credible"
+        },
+        {
+          "gloss": "人",
+          "lemma": "person",
+          "surface": "person"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "不诚实的",
+          "lemma": "dishonest",
+          "surface": "dishonest"
+        },
+        {
+          "gloss": "人",
+          "lemma": "one",
+          "surface": "one"
+        }
+      ]
+    },
+    {
+      "cn_text": "六十名幼儿分别被引见给一名手持塑料容器的成人测试者。",
+      "en_text": "Sixty toddlers were each introduced to an adult tester holding a plastic container.",
+      "id": 2018013010,
+      "order_seq": "content_3_3",
+      "task_id": 201801001,
+      "tokens": [
+        {
+          "gloss": "六十",
+          "lemma": "sixty",
+          "surface": "Sixty"
+        },
+        {
+          "gloss": "幼儿",
+          "lemma": "toddler",
+          "surface": "toddlers"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "were"
+        },
+        {
+          "gloss": "每个",
+          "lemma": "each",
+          "surface": "each"
+        },
+        {
+          "gloss": "介绍",
+          "lemma": "introduce",
+          "surface": "introduced"
+        },
+        {
+          "gloss": "给",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "an",
+          "surface": "an"
+        },
+        {
+          "gloss": "成年人",
+          "lemma": "adult",
+          "surface": "adult"
+        },
+        {
+          "gloss": "测试者",
+          "lemma": "tester",
+          "surface": "tester"
+        },
+        {
+          "gloss": "拿着",
+          "lemma": "hold",
+          "surface": "holding"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "塑料的",
+          "lemma": "plastic",
+          "surface": "plastic"
+        },
+        {
+          "gloss": "容器",
+          "lemma": "container",
+          "surface": "container"
+        }
+      ]
+    },
+    {
+      "cn_text": "测试者会先问「这里面是什么」，然后朝容器内看去，微笑着惊叹道「哇」，接着邀请每个受试者向里面看。",
+      "en_text": "The tester would ask, “What’s in here?” before looking into the container, smiling, and exclaiming, “Wow!” Each subject was then invited to look inside.",
+      "id": 2018013011,
+      "order_seq": "content_3_4",
+      "task_id": 201801001,
+      "tokens": [
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "The"
+        },
+        {
+          "gloss": "测试者",
+          "lemma": "tester",
+          "surface": "tester"
+        },
+        {
+          "gloss": "会",
+          "lemma": "would",
+          "surface": "would"
+        },
+        {
+          "gloss": "问",
+          "lemma": "ask",
+          "surface": "ask"
+        },
+        {
+          "gloss": "是什么",
+          "lemma": "what is",
+          "surface": "What’s"
+        },
+        {
+          "gloss": "在...里面",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "这里",
+          "lemma": "here",
+          "surface": "here"
+        },
+        {
+          "gloss": "在...之前",
+          "lemma": "before",
+          "surface": "before"
+        },
+        {
+          "gloss": "看",
+          "lemma": "look",
+          "surface": "looking"
+        },
+        {
+          "gloss": "进入",
+          "lemma": "into",
+          "surface": "into"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "容器",
+          "lemma": "container",
+          "surface": "container"
+        },
+        {
+          "gloss": "微笑",
+          "lemma": "smile",
+          "surface": "smiling"
+        },
+        {
+          "gloss": "并且",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "喊道",
+          "lemma": "exclaim",
+          "surface": "exclaiming"
+        },
+        {
+          "gloss": "哇",
+          "lemma": "wow",
+          "surface": "Wow"
+        },
+        {
+          "gloss": "每个",
+          "lemma": "each",
+          "surface": "Each"
+        },
+        {
+          "gloss": "受试者",
+          "lemma": "subject",
+          "surface": "subject"
+        },
+        {
+          "gloss": "被",
+          "lemma": "be",
+          "surface": "was"
+        },
+        {
+          "gloss": "然后",
+          "lemma": "then",
+          "surface": "then"
+        },
+        {
+          "gloss": "邀请",
+          "lemma": "invite",
+          "surface": "invited"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "看",
+          "lemma": "look",
+          "surface": "look"
+        },
+        {
+          "gloss": "里面",
+          "lemma": "inside",
+          "surface": "inside"
+        }
+      ]
+    },
+    {
+      "cn_text": "其中一半发现了一个玩具；另一半发现容器是空的——并意识到测试者欺骗了他们。",
+      "en_text": "Half of them found a toy; the other half discovered the container was empty — and realized the tester had fooled them.",
+      "id": 2018013012,
+      "order_seq": "content_3_5",
+      "task_id": 201801001,
+      "tokens": [
+        {
+          "gloss": "一半",
+          "lemma": "half",
+          "surface": "Half"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "他们",
+          "lemma": "they",
+          "surface": "them"
+        },
+        {
+          "gloss": "发现",
+          "lemma": "find",
+          "surface": "found"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "玩具",
+          "lemma": "toy",
+          "surface": "toy"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "另一个",
+          "lemma": "other",
+          "surface": "other"
+        },
+        {
+          "gloss": "一半",
+          "lemma": "half",
+          "surface": "half"
+        },
+        {
+          "gloss": "发现",
+          "lemma": "discover",
+          "surface": "discovered"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "容器",
+          "lemma": "container",
+          "surface": "container"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "was"
+        },
+        {
+          "gloss": "空的",
+          "lemma": "empty",
+          "surface": "empty"
+        },
+        {
+          "gloss": "并且",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "意识到",
+          "lemma": "realize",
+          "surface": "realized"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "测试者",
+          "lemma": "tester",
+          "surface": "tester"
+        },
+        {
+          "gloss": "已经",
+          "lemma": "have",
+          "surface": "had"
+        },
+        {
+          "gloss": "愚弄",
+          "lemma": "fool",
+          "surface": "fooled"
+        },
+        {
+          "gloss": "他们",
+          "lemma": "they",
+          "surface": "them"
+        }
+      ]
+    },
+    {
+      "cn_text": "在那些未被欺骗的儿童中，大多数愿意与测试者合作学习一项新技能，这表明他们信任其引导能力。",
+      "en_text": "Among the children who had not been tricked, the majority were willing to cooperate with the tester in learning a new skill, demonstrating that they trusted his leadership.",
+      "id": 2018013013,
+      "order_seq": "content_4_1",
+      "task_id": 201801001,
+      "tokens": [
+        {
+          "gloss": "在...之中",
+          "lemma": "among",
+          "surface": "among"
+        },
+        {
+          "gloss": "定冠词",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "孩子",
+          "lemma": "child",
+          "surface": "children"
+        },
+        {
+          "gloss": "谁",
+          "lemma": "who",
+          "surface": "who"
+        },
+        {
+          "gloss": "过去完成时助动词",
+          "lemma": "have",
+          "surface": "had"
+        },
+        {
+          "gloss": "不",
+          "lemma": "not",
+          "surface": "not"
+        },
+        {
+          "gloss": "过去分词",
+          "lemma": "be",
+          "surface": "been"
+        },
+        {
+          "gloss": "欺骗",
+          "lemma": "trick",
+          "surface": "tricked"
+        },
+        {
+          "gloss": "定冠词",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "大多数",
+          "lemma": "majority",
+          "surface": "majority"
+        },
+        {
+          "gloss": "过去式助动词",
+          "lemma": "be",
+          "surface": "were"
+        },
+        {
+          "gloss": "愿意的",
+          "lemma": "willing",
+          "surface": "willing"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "合作",
+          "lemma": "cooperate",
+          "surface": "cooperate"
+        },
+        {
+          "gloss": "与...一起",
+          "lemma": "with",
+          "surface": "with"
+        },
+        {
+          "gloss": "定冠词",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "测试者",
+          "lemma": "tester",
+          "surface": "tester"
+        },
+        {
+          "gloss": "在...中",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "学习",
+          "lemma": "learn",
+          "surface": "learning"
+        },
+        {
+          "gloss": "不定冠词",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "新的",
+          "lemma": "new",
+          "surface": "new"
+        },
+        {
+          "gloss": "技能",
+          "lemma": "skill",
+          "surface": "skill"
+        },
+        {
+          "gloss": "表明",
+          "lemma": "demonstrate",
+          "surface": "demonstrating"
+        },
+        {
+          "gloss": "表明",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "他们",
+          "lemma": "they",
+          "surface": "they"
+        },
+        {
+          "gloss": "信任",
+          "lemma": "trust",
+          "surface": "trusted"
+        },
+        {
+          "gloss": "他的",
+          "lemma": "his",
+          "surface": "his"
+        },
+        {
+          "gloss": "领导能力",
+          "lemma": "leadership",
+          "surface": "leadership"
+        }
+      ]
+    },
+    {
+      "cn_text": "相比之下，与「不可靠」测试者配对的30名儿童中仅有5名参与了后续活动。",
+      "en_text": "In contrast, only five of the 30 children paired with the “unreliable” tester participated in a follow-up activity.",
+      "id": 2018013014,
+      "order_seq": "content_4_2",
+      "task_id": 201801001,
+      "tokens": [
+        {
+          "gloss": "在...中",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "对比",
+          "lemma": "contrast",
+          "surface": "contrast"
+        },
+        {
+          "gloss": "仅仅",
+          "lemma": "only",
+          "surface": "only"
+        },
+        {
+          "gloss": "五",
+          "lemma": "five",
+          "surface": "five"
+        },
+        {
+          "gloss": "...的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "定冠词",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "三十",
+          "lemma": "30",
+          "surface": "30"
+        },
+        {
+          "gloss": "孩子",
+          "lemma": "child",
+          "surface": "children"
+        },
+        {
+          "gloss": "配对",
+          "lemma": "pair",
+          "surface": "paired"
+        },
+        {
+          "gloss": "与...一起",
+          "lemma": "with",
+          "surface": "with"
+        },
+        {
+          "gloss": "定冠词",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "不可靠的",
+          "lemma": "unreliable",
+          "surface": "unreliable"
+        },
+        {
+          "gloss": "测试者",
+          "lemma": "tester",
+          "surface": "tester"
+        },
+        {
+          "gloss": "参与",
+          "lemma": "participate",
+          "surface": "participated"
+        },
+        {
+          "gloss": "在...中",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "不定冠词",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "跟随",
+          "lemma": "follow",
+          "surface": "follow"
+        },
+        {
+          "gloss": "向上",
+          "lemma": "up",
+          "surface": "up"
+        },
+        {
+          "gloss": "活动",
+          "lemma": "activity",
+          "surface": "activity"
+        }
+      ]
+    }
+  ],
+  "success": true
+}

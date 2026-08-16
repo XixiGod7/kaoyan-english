@@ -1,0 +1,610 @@
+{
+  "sentences": [
+    {
+      "cn_text": "尊敬的外教老师：",
+      "en_text": "Dear respected foreign teacher,",
+      "id": 2026024680,
+      "order_seq": "content_1_1",
+      "task_id": 201301008,
+      "tokens": [
+        {
+          "gloss": "亲爱的",
+          "lemma": "dear",
+          "surface": "Dear"
+        },
+        {
+          "gloss": "受尊敬的",
+          "lemma": "respect",
+          "surface": "respected"
+        },
+        {
+          "gloss": "外籍的",
+          "lemma": "foreign",
+          "surface": "foreign"
+        },
+        {
+          "gloss": "教师",
+          "lemma": "teacher",
+          "surface": "teacher"
+        }
+      ]
+    },
+    {
+      "cn_text": "我谨代表学生会写信邀请您担任我校英语演讲比赛的评委。",
+      "en_text": "On behalf of the Student Union, I am writing to invite you to serve as a judge for our English Speech Contest.",
+      "id": 2026024681,
+      "order_seq": "content_2_1",
+      "task_id": 201301008,
+      "tokens": [
+        {
+          "gloss": "在...之上",
+          "lemma": "on",
+          "surface": "On"
+        },
+        {
+          "gloss": "代表",
+          "lemma": "behalf",
+          "surface": "behalf"
+        },
+        {
+          "gloss": "...的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "学生",
+          "lemma": "student",
+          "surface": "Student"
+        },
+        {
+          "gloss": "联合会",
+          "lemma": "union",
+          "surface": "Union"
+        },
+        {
+          "gloss": "我",
+          "lemma": "i",
+          "surface": "I"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "am"
+        },
+        {
+          "gloss": "写",
+          "lemma": "write",
+          "surface": "writing"
+        },
+        {
+          "gloss": "给",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "邀请",
+          "lemma": "invite",
+          "surface": "invite"
+        },
+        {
+          "gloss": "您",
+          "lemma": "you",
+          "surface": "you"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "担任",
+          "lemma": "serve",
+          "surface": "serve"
+        },
+        {
+          "gloss": "作为",
+          "lemma": "as",
+          "surface": "as"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "评委",
+          "lemma": "judge",
+          "surface": "judge"
+        },
+        {
+          "gloss": "为了",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "我们的",
+          "lemma": "our",
+          "surface": "our"
+        },
+        {
+          "gloss": "英语",
+          "lemma": "english",
+          "surface": "English"
+        },
+        {
+          "gloss": "演讲",
+          "lemma": "speech",
+          "surface": "Speech"
+        },
+        {
+          "gloss": "比赛",
+          "lemma": "contest",
+          "surface": "Contest"
+        }
+      ]
+    },
+    {
+      "cn_text": "本次活动将于11月12日晚7点在报告厅举行，主题为跨文化交流。",
+      "en_text": "The event will be held in the lecture hall on November 12th at 7:00 PM, focusing on the theme of cross-cultural communication.",
+      "id": 2026024682,
+      "order_seq": "content_2_2",
+      "task_id": 201301008,
+      "tokens": [
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "The"
+        },
+        {
+          "gloss": "活动",
+          "lemma": "event",
+          "surface": "event"
+        },
+        {
+          "gloss": "将",
+          "lemma": "will",
+          "surface": "will"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "be"
+        },
+        {
+          "gloss": "举行",
+          "lemma": "hold",
+          "surface": "held"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "报告",
+          "lemma": "lecture",
+          "surface": "lecture"
+        },
+        {
+          "gloss": "大厅",
+          "lemma": "hall",
+          "surface": "hall"
+        },
+        {
+          "gloss": "在",
+          "lemma": "on",
+          "surface": "on"
+        },
+        {
+          "gloss": "十一月",
+          "lemma": "november",
+          "surface": "November"
+        },
+        {
+          "gloss": "12日",
+          "lemma": "12th",
+          "surface": "12th"
+        },
+        {
+          "gloss": "在",
+          "lemma": "at",
+          "surface": "at"
+        },
+        {
+          "gloss": "下午",
+          "lemma": "pm",
+          "surface": "PM"
+        },
+        {
+          "gloss": "聚焦",
+          "lemma": "focus",
+          "surface": "focusing"
+        },
+        {
+          "gloss": "在...上",
+          "lemma": "on",
+          "surface": "on"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "主题",
+          "lemma": "theme",
+          "surface": "theme"
+        },
+        {
+          "gloss": "...的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "跨越的",
+          "lemma": "cross",
+          "surface": "cross"
+        },
+        {
+          "gloss": "文化的",
+          "lemma": "cultural",
+          "surface": "cultural"
+        },
+        {
+          "gloss": "交流",
+          "lemma": "communication",
+          "surface": "communication"
+        }
+      ]
+    },
+    {
+      "cn_text": "您的专业素养将使比赛增色不少，并对参赛选手产生激励作用。",
+      "en_text": "Your expertise would greatly enrich the contest and inspire the participants.",
+      "id": 2026024683,
+      "order_seq": "content_2_3",
+      "task_id": 201301008,
+      "tokens": [
+        {
+          "gloss": "您的",
+          "lemma": "your",
+          "surface": "Your"
+        },
+        {
+          "gloss": "专业知识",
+          "lemma": "expertise",
+          "surface": "expertise"
+        },
+        {
+          "gloss": "将",
+          "lemma": "would",
+          "surface": "would"
+        },
+        {
+          "gloss": "极大地",
+          "lemma": "greatly",
+          "surface": "greatly"
+        },
+        {
+          "gloss": "丰富",
+          "lemma": "enrich",
+          "surface": "enrich"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "比赛",
+          "lemma": "contest",
+          "surface": "contest"
+        },
+        {
+          "gloss": "并且",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "激励",
+          "lemma": "inspire",
+          "surface": "inspire"
+        },
+        {
+          "gloss": "这些",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "参赛者",
+          "lemma": "participant",
+          "surface": "participants"
+        }
+      ]
+    },
+    {
+      "cn_text": "作为评委，您将从发音、内容及整体表现三个方面对选手进行评价。",
+      "en_text": "As a judge, you will evaluate contestants on pronunciation, content, and overall expression.",
+      "id": 2026024684,
+      "order_seq": "content_3_1",
+      "task_id": 201301008,
+      "tokens": [
+        {
+          "gloss": "作为",
+          "lemma": "as",
+          "surface": "As"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "评委",
+          "lemma": "judge",
+          "surface": "judge"
+        },
+        {
+          "gloss": "您",
+          "lemma": "you",
+          "surface": "you"
+        },
+        {
+          "gloss": "将",
+          "lemma": "will",
+          "surface": "will"
+        },
+        {
+          "gloss": "评价",
+          "lemma": "evaluate",
+          "surface": "evaluate"
+        },
+        {
+          "gloss": "参赛者",
+          "lemma": "contestant",
+          "surface": "contestants"
+        },
+        {
+          "gloss": "在...方面",
+          "lemma": "on",
+          "surface": "on"
+        },
+        {
+          "gloss": "发音",
+          "lemma": "pronunciation",
+          "surface": "pronunciation"
+        },
+        {
+          "gloss": "内容",
+          "lemma": "content",
+          "surface": "content"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "整体的",
+          "lemma": "overall",
+          "surface": "overall"
+        },
+        {
+          "gloss": "表达",
+          "lemma": "expression",
+          "surface": "expression"
+        }
+      ]
+    },
+    {
+      "cn_text": "详细评分标准将提前提供。",
+      "en_text": "Detailed scoring criteria will be provided beforehand.",
+      "id": 2026024685,
+      "order_seq": "content_3_2",
+      "task_id": 201301008,
+      "tokens": [
+        {
+          "gloss": "详细的",
+          "lemma": "detailed",
+          "surface": "Detailed"
+        },
+        {
+          "gloss": "评分",
+          "lemma": "score",
+          "surface": "scoring"
+        },
+        {
+          "gloss": "标准",
+          "lemma": "criterion",
+          "surface": "criteria"
+        },
+        {
+          "gloss": "将",
+          "lemma": "will",
+          "surface": "will"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "be"
+        },
+        {
+          "gloss": "提供",
+          "lemma": "provide",
+          "surface": "provided"
+        },
+        {
+          "gloss": "提前",
+          "lemma": "beforehand",
+          "surface": "beforehand"
+        }
+      ]
+    },
+    {
+      "cn_text": "若蒙应允，我们将不胜荣幸。",
+      "en_text": "We would be honored if you could accept this invitation.",
+      "id": 2026024686,
+      "order_seq": "content_3_3",
+      "task_id": 201301008,
+      "tokens": [
+        {
+          "gloss": "我们",
+          "lemma": "we",
+          "surface": "We"
+        },
+        {
+          "gloss": "将",
+          "lemma": "would",
+          "surface": "would"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "be"
+        },
+        {
+          "gloss": "感到荣幸",
+          "lemma": "honor",
+          "surface": "honored"
+        },
+        {
+          "gloss": "如果",
+          "lemma": "if",
+          "surface": "if"
+        },
+        {
+          "gloss": "您",
+          "lemma": "you",
+          "surface": "you"
+        },
+        {
+          "gloss": "能",
+          "lemma": "can",
+          "surface": "could"
+        },
+        {
+          "gloss": "接受",
+          "lemma": "accept",
+          "surface": "accept"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "this",
+          "surface": "this"
+        },
+        {
+          "gloss": "邀请",
+          "lemma": "invitation",
+          "surface": "invitation"
+        }
+      ]
+    },
+    {
+      "cn_text": "请您尽早告知能否出席。",
+      "en_text": "Please let us know your availability at your earliest convenience.",
+      "id": 2026024687,
+      "order_seq": "content_3_4",
+      "task_id": 201301008,
+      "tokens": [
+        {
+          "gloss": "请",
+          "lemma": "please",
+          "surface": "Please"
+        },
+        {
+          "gloss": "让",
+          "lemma": "let",
+          "surface": "let"
+        },
+        {
+          "gloss": "我们",
+          "lemma": "us",
+          "surface": "us"
+        },
+        {
+          "gloss": "知道",
+          "lemma": "know",
+          "surface": "know"
+        },
+        {
+          "gloss": "您的",
+          "lemma": "your",
+          "surface": "your"
+        },
+        {
+          "gloss": "时间安排",
+          "lemma": "availability",
+          "surface": "availability"
+        },
+        {
+          "gloss": "在",
+          "lemma": "at",
+          "surface": "at"
+        },
+        {
+          "gloss": "您的",
+          "lemma": "your",
+          "surface": "your"
+        },
+        {
+          "gloss": "最早的",
+          "lemma": "early",
+          "surface": "earliest"
+        },
+        {
+          "gloss": "方便",
+          "lemma": "convenience",
+          "surface": "convenience"
+        }
+      ]
+    },
+    {
+      "cn_text": "此致敬礼",
+      "en_text": "Yours sincerely,",
+      "id": 2026024688,
+      "order_seq": "content_4_1",
+      "task_id": 201301008,
+      "tokens": [
+        {
+          "gloss": "您的",
+          "lemma": "yours",
+          "surface": "Yours"
+        },
+        {
+          "gloss": "真诚地",
+          "lemma": "sincerely",
+          "surface": "sincerely"
+        }
+      ]
+    },
+    {
+      "cn_text": "李明",
+      "en_text": "Li Ming",
+      "id": 2026024689,
+      "order_seq": "content_5_1",
+      "task_id": 201301008,
+      "tokens": [
+        {
+          "gloss": "李",
+          "lemma": "li",
+          "surface": "Li"
+        },
+        {
+          "gloss": "明",
+          "lemma": "ming",
+          "surface": "Ming"
+        }
+      ]
+    }
+  ],
+  "success": true
+}

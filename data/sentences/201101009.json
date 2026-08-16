@@ -1,0 +1,999 @@
+{
+  "sentences": [
+    {
+      "cn_text": "这幅图生动地描绘了一艘观光船在河上航行，周围水面上漂浮着大量垃圾。",
+      "en_text": "The picture vividly depicts a sightseeing boat sailing on a river surrounded by garbage floating on the water.",
+      "id": 2026024605,
+      "order_seq": "content_1_1",
+      "task_id": 201101009,
+      "tokens": [
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "The"
+        },
+        {
+          "gloss": "图",
+          "lemma": "picture",
+          "surface": "picture"
+        },
+        {
+          "gloss": "生动地",
+          "lemma": "vividly",
+          "surface": "vividly"
+        },
+        {
+          "gloss": "描绘",
+          "lemma": "depict",
+          "surface": "depicts"
+        },
+        {
+          "gloss": "一艘",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "观光的",
+          "lemma": "sightseeing",
+          "surface": "sightseeing"
+        },
+        {
+          "gloss": "船",
+          "lemma": "boat",
+          "surface": "boat"
+        },
+        {
+          "gloss": "航行",
+          "lemma": "sail",
+          "surface": "sailing"
+        },
+        {
+          "gloss": "在",
+          "lemma": "on",
+          "surface": "on"
+        },
+        {
+          "gloss": "一条",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "河",
+          "lemma": "river",
+          "surface": "river"
+        },
+        {
+          "gloss": "围绕",
+          "lemma": "surround",
+          "surface": "surrounded"
+        },
+        {
+          "gloss": "被",
+          "lemma": "by",
+          "surface": "by"
+        },
+        {
+          "gloss": "垃圾",
+          "lemma": "garbage",
+          "surface": "garbage"
+        },
+        {
+          "gloss": "漂浮",
+          "lemma": "float",
+          "surface": "floating"
+        },
+        {
+          "gloss": "在",
+          "lemma": "on",
+          "surface": "on"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "水",
+          "lemma": "water",
+          "surface": "water"
+        }
+      ]
+    },
+    {
+      "cn_text": "这些由游客留下的垃圾不仅破坏了自然美景,还警示着不负责任的旅游行为所带来的后果。",
+      "en_text": "This trash, left by tourists, not only ruins the natural beauty but also serves as a reminder of the consequences of irresponsible travel behavior.",
+      "id": 2026024606,
+      "order_seq": "content_1_2",
+      "task_id": 201101009,
+      "tokens": [
+        {
+          "gloss": "这些",
+          "lemma": "this",
+          "surface": "This"
+        },
+        {
+          "gloss": "垃圾",
+          "lemma": "trash",
+          "surface": "trash"
+        },
+        {
+          "gloss": "留下",
+          "lemma": "leave",
+          "surface": "left"
+        },
+        {
+          "gloss": "被",
+          "lemma": "by",
+          "surface": "by"
+        },
+        {
+          "gloss": "游客",
+          "lemma": "tourist",
+          "surface": "tourists"
+        },
+        {
+          "gloss": "不",
+          "lemma": "not",
+          "surface": "not"
+        },
+        {
+          "gloss": "仅仅",
+          "lemma": "only",
+          "surface": "only"
+        },
+        {
+          "gloss": "破坏",
+          "lemma": "ruin",
+          "surface": "ruins"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "自然的",
+          "lemma": "natural",
+          "surface": "natural"
+        },
+        {
+          "gloss": "美景",
+          "lemma": "beauty",
+          "surface": "beauty"
+        },
+        {
+          "gloss": "但是",
+          "lemma": "but",
+          "surface": "but"
+        },
+        {
+          "gloss": "也",
+          "lemma": "also",
+          "surface": "also"
+        },
+        {
+          "gloss": "作为",
+          "lemma": "serve",
+          "surface": "serves"
+        },
+        {
+          "gloss": "作为",
+          "lemma": "as",
+          "surface": "as"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "提醒",
+          "lemma": "reminder",
+          "surface": "reminder"
+        },
+        {
+          "gloss": "关于",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "这些",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "后果",
+          "lemma": "consequence",
+          "surface": "consequences"
+        },
+        {
+          "gloss": "关于",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "不负责任的",
+          "lemma": "irresponsible",
+          "surface": "irresponsible"
+        },
+        {
+          "gloss": "旅行",
+          "lemma": "travel",
+          "surface": "travel"
+        },
+        {
+          "gloss": "行为",
+          "lemma": "behavior",
+          "surface": "behavior"
+        }
+      ]
+    },
+    {
+      "cn_text": "宁静的环境与刺眼的垃圾之间形成的鲜明对比,促使观者反思自身行为。",
+      "en_text": "The contrast between the serene environment and the unsightly waste urges viewers to reflect on their actions.",
+      "id": 2026024607,
+      "order_seq": "content_1_3",
+      "task_id": 201101009,
+      "tokens": [
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "The"
+        },
+        {
+          "gloss": "对比",
+          "lemma": "contrast",
+          "surface": "contrast"
+        },
+        {
+          "gloss": "在...之间",
+          "lemma": "between",
+          "surface": "between"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "宁静的",
+          "lemma": "serene",
+          "surface": "serene"
+        },
+        {
+          "gloss": "环境",
+          "lemma": "environment",
+          "surface": "environment"
+        },
+        {
+          "gloss": "与",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "这些",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "难看的",
+          "lemma": "unsightly",
+          "surface": "unsightly"
+        },
+        {
+          "gloss": "垃圾",
+          "lemma": "waste",
+          "surface": "waste"
+        },
+        {
+          "gloss": "促使",
+          "lemma": "urge",
+          "surface": "urges"
+        },
+        {
+          "gloss": "观众",
+          "lemma": "viewer",
+          "surface": "viewers"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "反思",
+          "lemma": "reflect",
+          "surface": "reflect"
+        },
+        {
+          "gloss": "关于",
+          "lemma": "on",
+          "surface": "on"
+        },
+        {
+          "gloss": "他们的",
+          "lemma": "their",
+          "surface": "their"
+        },
+        {
+          "gloss": "行为",
+          "lemma": "action",
+          "surface": "actions"
+        }
+      ]
+    },
+    {
+      "cn_text": "这幅图揭示了部分游客环保意识的缺失。",
+      "en_text": "This image highlights the lack of environmental awareness among some travelers.",
+      "id": 2026024608,
+      "order_seq": "content_2_1",
+      "task_id": 201101009,
+      "tokens": [
+        {
+          "gloss": "这",
+          "lemma": "this",
+          "surface": "This"
+        },
+        {
+          "gloss": "图",
+          "lemma": "image",
+          "surface": "image"
+        },
+        {
+          "gloss": "突出了",
+          "lemma": "highlight",
+          "surface": "highlights"
+        },
+        {
+          "gloss": "这些",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "缺乏",
+          "lemma": "lack",
+          "surface": "lack"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "环保的",
+          "lemma": "environmental",
+          "surface": "environmental"
+        },
+        {
+          "gloss": "意识",
+          "lemma": "awareness",
+          "surface": "awareness"
+        },
+        {
+          "gloss": "在...中",
+          "lemma": "among",
+          "surface": "among"
+        },
+        {
+          "gloss": "某些",
+          "lemma": "some",
+          "surface": "some"
+        },
+        {
+          "gloss": "游客",
+          "lemma": "traveler",
+          "surface": "travelers"
+        }
+      ]
+    },
+    {
+      "cn_text": "旅行中随意丢弃垃圾既破坏了自然景观,又打破了生态平衡,造成长期危害。",
+      "en_text": "Carelessly discarding waste during trips harms both the scenery and the ecological balance, causing long-term damage.",
+      "id": 2026024609,
+      "order_seq": "content_2_2",
+      "task_id": 201101009,
+      "tokens": [
+        {
+          "gloss": "随意地",
+          "lemma": "carelessly",
+          "surface": "Carelessly"
+        },
+        {
+          "gloss": "丢弃",
+          "lemma": "discard",
+          "surface": "discarding"
+        },
+        {
+          "gloss": "垃圾",
+          "lemma": "waste",
+          "surface": "waste"
+        },
+        {
+          "gloss": "在...期间",
+          "lemma": "during",
+          "surface": "during"
+        },
+        {
+          "gloss": "旅行",
+          "lemma": "trip",
+          "surface": "trips"
+        },
+        {
+          "gloss": "伤害",
+          "lemma": "harm",
+          "surface": "harms"
+        },
+        {
+          "gloss": "既",
+          "lemma": "both",
+          "surface": "both"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "风景",
+          "lemma": "scenery",
+          "surface": "scenery"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "生态的",
+          "lemma": "ecological",
+          "surface": "ecological"
+        },
+        {
+          "gloss": "平衡",
+          "lemma": "balance",
+          "surface": "balance"
+        },
+        {
+          "gloss": "造成",
+          "lemma": "cause",
+          "surface": "causing"
+        },
+        {
+          "gloss": "长的",
+          "lemma": "long",
+          "surface": "long"
+        },
+        {
+          "gloss": "期限",
+          "lemma": "term",
+          "surface": "term"
+        },
+        {
+          "gloss": "损害",
+          "lemma": "damage",
+          "surface": "damage"
+        }
+      ]
+    },
+    {
+      "cn_text": "旅行的快乐不应建立在牺牲自然的基础上。",
+      "en_text": "The joy of travel should not come at the expense of nature.",
+      "id": 2026024610,
+      "order_seq": "content_2_3",
+      "task_id": 201101009,
+      "tokens": [
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "The"
+        },
+        {
+          "gloss": "乐趣",
+          "lemma": "joy",
+          "surface": "joy"
+        },
+        {
+          "gloss": "关于",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "旅行",
+          "lemma": "travel",
+          "surface": "travel"
+        },
+        {
+          "gloss": "应该",
+          "lemma": "should",
+          "surface": "should"
+        },
+        {
+          "gloss": "不",
+          "lemma": "not",
+          "surface": "not"
+        },
+        {
+          "gloss": "来",
+          "lemma": "come",
+          "surface": "come"
+        },
+        {
+          "gloss": "以",
+          "lemma": "at",
+          "surface": "at"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "代价",
+          "lemma": "expense",
+          "surface": "expense"
+        },
+        {
+          "gloss": "关于",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "自然",
+          "lemma": "nature",
+          "surface": "nature"
+        }
+      ]
+    },
+    {
+      "cn_text": "保护环境是共同的责任,对此视而不见可能导致无法挽回的后果。",
+      "en_text": "Protecting the environment is a shared responsibility, and neglecting it can lead to irreversible consequences.",
+      "id": 2026024611,
+      "order_seq": "content_2_4",
+      "task_id": 201101009,
+      "tokens": [
+        {
+          "gloss": "保护",
+          "lemma": "protect",
+          "surface": "Protecting"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "环境",
+          "lemma": "environment",
+          "surface": "environment"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "共同的",
+          "lemma": "shared",
+          "surface": "shared"
+        },
+        {
+          "gloss": "责任",
+          "lemma": "responsibility",
+          "surface": "responsibility"
+        },
+        {
+          "gloss": "并且",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "忽视",
+          "lemma": "neglect",
+          "surface": "neglecting"
+        },
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "it"
+        },
+        {
+          "gloss": "可能",
+          "lemma": "can",
+          "surface": "can"
+        },
+        {
+          "gloss": "导致",
+          "lemma": "lead",
+          "surface": "lead"
+        },
+        {
+          "gloss": "到",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "不可逆的",
+          "lemma": "irreversible",
+          "surface": "irreversible"
+        },
+        {
+          "gloss": "后果",
+          "lemma": "consequence",
+          "surface": "consequences"
+        }
+      ]
+    },
+    {
+      "cn_text": "要解决这一问题,游客应养成环保习惯,如自行带走垃圾、使用正规处理设施等。",
+      "en_text": "To tackle this issue, tourists should adopt eco-friendly habits, such as carrying their trash away and using proper disposal facilities.",
+      "id": 2026024612,
+      "order_seq": "content_3_1",
+      "task_id": 201101009,
+      "tokens": [
+        {
+          "gloss": "为了",
+          "lemma": "to",
+          "surface": "To"
+        },
+        {
+          "gloss": "解决",
+          "lemma": "tackle",
+          "surface": "tackle"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "this",
+          "surface": "this"
+        },
+        {
+          "gloss": "问题",
+          "lemma": "issue",
+          "surface": "issue"
+        },
+        {
+          "gloss": "游客",
+          "lemma": "tourist",
+          "surface": "tourists"
+        },
+        {
+          "gloss": "应该",
+          "lemma": "should",
+          "surface": "should"
+        },
+        {
+          "gloss": "采取",
+          "lemma": "adopt",
+          "surface": "adopt"
+        },
+        {
+          "gloss": "生态",
+          "lemma": "eco",
+          "surface": "eco"
+        },
+        {
+          "gloss": "友好的",
+          "lemma": "friendly",
+          "surface": "friendly"
+        },
+        {
+          "gloss": "习惯",
+          "lemma": "habit",
+          "surface": "habits"
+        },
+        {
+          "gloss": "比如",
+          "lemma": "such",
+          "surface": "such"
+        },
+        {
+          "gloss": "例如",
+          "lemma": "as",
+          "surface": "as"
+        },
+        {
+          "gloss": "携带",
+          "lemma": "carry",
+          "surface": "carrying"
+        },
+        {
+          "gloss": "他们的",
+          "lemma": "their",
+          "surface": "their"
+        },
+        {
+          "gloss": "垃圾",
+          "lemma": "trash",
+          "surface": "trash"
+        },
+        {
+          "gloss": "带走",
+          "lemma": "away",
+          "surface": "away"
+        },
+        {
+          "gloss": "并且",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "使用",
+          "lemma": "use",
+          "surface": "using"
+        },
+        {
+          "gloss": "适当的",
+          "lemma": "proper",
+          "surface": "proper"
+        },
+        {
+          "gloss": "处理",
+          "lemma": "disposal",
+          "surface": "disposal"
+        },
+        {
+          "gloss": "设施",
+          "lemma": "facility",
+          "surface": "facilities"
+        }
+      ]
+    },
+    {
+      "cn_text": "政府部门可以制定更严格的规章制度,增设垃圾箱,并通过教育宣传活动提升公众意识。",
+      "en_text": "Authorities can enforce stricter regulations, provide more waste bins, and raise awareness through educational campaigns.",
+      "id": 2026024613,
+      "order_seq": "content_3_2",
+      "task_id": 201101009,
+      "tokens": [
+        {
+          "gloss": "政府",
+          "lemma": "authority",
+          "surface": "Authorities"
+        },
+        {
+          "gloss": "可以",
+          "lemma": "can",
+          "surface": "can"
+        },
+        {
+          "gloss": "实施",
+          "lemma": "enforce",
+          "surface": "enforce"
+        },
+        {
+          "gloss": "更严格的",
+          "lemma": "strict",
+          "surface": "stricter"
+        },
+        {
+          "gloss": "规定",
+          "lemma": "regulation",
+          "surface": "regulations"
+        },
+        {
+          "gloss": "提供",
+          "lemma": "provide",
+          "surface": "provide"
+        },
+        {
+          "gloss": "更多的",
+          "lemma": "more",
+          "surface": "more"
+        },
+        {
+          "gloss": "垃圾",
+          "lemma": "waste",
+          "surface": "waste"
+        },
+        {
+          "gloss": "垃圾箱",
+          "lemma": "bin",
+          "surface": "bins"
+        },
+        {
+          "gloss": "并且",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "提高",
+          "lemma": "raise",
+          "surface": "raise"
+        },
+        {
+          "gloss": "意识",
+          "lemma": "awareness",
+          "surface": "awareness"
+        },
+        {
+          "gloss": "通过",
+          "lemma": "through",
+          "surface": "through"
+        },
+        {
+          "gloss": "教育的",
+          "lemma": "educational",
+          "surface": "educational"
+        },
+        {
+          "gloss": "活动",
+          "lemma": "campaign",
+          "surface": "campaigns"
+        }
+      ]
+    },
+    {
+      "cn_text": "学校、媒体和社区应携手合作,推广可持续旅游理念。",
+      "en_text": "Schools, media, and communities should work together to promote sustainable tourism.",
+      "id": 2026024614,
+      "order_seq": "content_3_3",
+      "task_id": 201101009,
+      "tokens": [
+        {
+          "gloss": "学校",
+          "lemma": "school",
+          "surface": "Schools"
+        },
+        {
+          "gloss": "媒体",
+          "lemma": "media",
+          "surface": "media"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "社区",
+          "lemma": "community",
+          "surface": "communities"
+        },
+        {
+          "gloss": "应该",
+          "lemma": "should",
+          "surface": "should"
+        },
+        {
+          "gloss": "努力",
+          "lemma": "work",
+          "surface": "work"
+        },
+        {
+          "gloss": "共同",
+          "lemma": "together",
+          "surface": "together"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "促进",
+          "lemma": "promote",
+          "surface": "promote"
+        },
+        {
+          "gloss": "可持续的",
+          "lemma": "sustainable",
+          "surface": "sustainable"
+        },
+        {
+          "gloss": "旅游",
+          "lemma": "tourism",
+          "surface": "tourism"
+        }
+      ]
+    },
+    {
+      "cn_text": "唯有通过共同努力,我们才能为子孙后代保留这些旅游目的地的自然美景。",
+      "en_text": "Only through joint efforts can we preserve the natural beauty of these destinations for future generations to enjoy.",
+      "id": 2026024615,
+      "order_seq": "content_3_4",
+      "task_id": 201101009,
+      "tokens": [
+        {
+          "gloss": "只有",
+          "lemma": "only",
+          "surface": "Only"
+        },
+        {
+          "gloss": "通过",
+          "lemma": "through",
+          "surface": "through"
+        },
+        {
+          "gloss": "共同的",
+          "lemma": "joint",
+          "surface": "joint"
+        },
+        {
+          "gloss": "努力",
+          "lemma": "effort",
+          "surface": "efforts"
+        },
+        {
+          "gloss": "才能",
+          "lemma": "can",
+          "surface": "can"
+        },
+        {
+          "gloss": "我们",
+          "lemma": "we",
+          "surface": "we"
+        },
+        {
+          "gloss": "保护",
+          "lemma": "preserve",
+          "surface": "preserve"
+        },
+        {
+          "gloss": "这些",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "自然的",
+          "lemma": "natural",
+          "surface": "natural"
+        },
+        {
+          "gloss": "美景",
+          "lemma": "beauty",
+          "surface": "beauty"
+        },
+        {
+          "gloss": "关于",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "这些",
+          "lemma": "these",
+          "surface": "these"
+        },
+        {
+          "gloss": "目的地",
+          "lemma": "destination",
+          "surface": "destinations"
+        },
+        {
+          "gloss": "为了",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "未来的",
+          "lemma": "future",
+          "surface": "future"
+        },
+        {
+          "gloss": "子孙后代",
+          "lemma": "generation",
+          "surface": "generations"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "享受",
+          "lemma": "enjoy",
+          "surface": "enjoy"
+        }
+      ]
+    }
+  ],
+  "success": true
+}
