@@ -14,10 +14,16 @@ def build_offline_package():
     # 1. Copy dist/index.html -> index.html
     shutil.copy2(os.path.join(root_dir, 'dist', 'index.html'), os.path.join(out_dir, 'index.html'))
     
-    # 2. Copy server.py
+    # 2. Copy PWA icons and manifest
+    for icon_name in ['manifest.json', 'favicon.png', 'apple-touch-icon.png', 'icon-192.png', 'icon-512.png', 'sw.js']:
+        src_icon = os.path.join(root_dir, 'public', icon_name)
+        if os.path.exists(src_icon):
+            shutil.copy2(src_icon, os.path.join(out_dir, icon_name))
+
+    # 3. Copy server.py
     shutil.copy2(os.path.join(root_dir, 'server.py'), os.path.join(out_dir, 'server.py'))
     
-    # 3. Copy launchers (Both Chinese and English names for 100% compatibility)
+    # 4. Copy launchers (Both Chinese and English names for 100% compatibility)
     shutil.copy2(os.path.join(root_dir, '一键启动考研英语.bat'), os.path.join(out_dir, '一键启动考研英语.bat'))
     shutil.copy2(os.path.join(root_dir, '一键启动考研英语.bat'), os.path.join(out_dir, 'start_windows.bat'))
     

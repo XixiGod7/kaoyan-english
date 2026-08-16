@@ -31,6 +31,11 @@ def test_offline_package():
 
     endpoints_to_test = [
         ("/", "text/html"),
+        ("/manifest.json", "application/json"),
+        ("/favicon.png", "image/png"),
+        ("/apple-touch-icon.png", "image/png"),
+        ("/icon-192.png", "image/png"),
+        ("/icon-512.png", "image/png"),
         ("/data/papers_by_type.json", "application/json"),
         ("/data/kaoyan1_dict.json", "application/json"),
         ("/data/2024.json", "application/json"),

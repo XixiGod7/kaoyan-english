@@ -1,7 +1,7 @@
 {
-  "name": "考研英语一真题刷题系统",
+  "name": "考研英语一真题库",
   "short_name": "考研英语",
-  "description": "考研英语一 1980-2025 历年真题刷题与艾宾浩斯智能记忆系统",
+  "description": "考研英语一 2010-2026 历年真题与词汇智能学习系统",
   "start_url": "/",
   "id": "/",
   "display": "standalone",
@@ -10,10 +10,22 @@
   "theme_color": "#4f46e5",
   "icons": [
     {
+      "src": "/favicon.png",
+      "sizes": "64x64",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
       "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
     },
     {
       "src": "/icon-512.png",
