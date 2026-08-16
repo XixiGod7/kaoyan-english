@@ -22,9 +22,15 @@
       "purpose": "any maskable"
     },
     {
-      "src": "/icons/vite.svg",
-      "sizes": "any",
-      "type": "image/svg+xml",
+      "src": "/icons/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/favicon.png",
+      "sizes": "64x64",
+      "type": "image/png",
       "purpose": "any"
     }
   ]

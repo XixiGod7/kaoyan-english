@@ -1,8 +1,8 @@
 import os
-from PIL import Image, ImageDraw, ImageFont
+from PIL import Image, ImageDraw
 
 ROOT_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
-PUBLIC_DIR = os.path.join(ROOT_DIR, 'public')
+ICONS_DIR = os.path.join(ROOT_DIR, 'public', 'icons')
 
 def draw_icon(size):
     # Create RGBA image with indigo gradient background and rounded corners
@@ -19,14 +19,13 @@ def draw_icon(size):
         radius=radius,
         fill=(79, 70, 229, 255), # Indigo 600
         outline=(99, 102, 241, 255), # Indigo 500
-        width=int(size * 0.02)
+        width=max(1, int(size * 0.02))
     )
 
     # Draw inner badge / book symbol
     cx, cy = size // 2, size // 2
     
-    # Book / Graduation cap styling
-    # Draw book pages
+    # Book styling
     bw = int(size * 0.52)
     bh = int(size * 0.36)
     bx = (size - bw) // 2
@@ -54,28 +53,38 @@ def draw_icon(size):
         (cx + 2, by + int(bh * 0.88))
     ], fill=(199, 210, 254, 255))
 
-    # Draw letter "E" or "研" text or subtitle bar
+    # Amber yellow accent bar
     bar_y = by + bh + int(size * 0.08)
     draw.rounded_rectangle([
         (cx - int(size * 0.28), bar_y),
         (cx + int(size * 0.28), bar_y + int(size * 0.08))
-    ], radius=int(size * 0.04), fill=(254, 240, 138, 255)) # Amber yellow accent
+    ], radius=max(1, int(size * 0.04)), fill=(254, 240, 138, 255))
 
     return img
 
 def main():
-    os.makedirs(PUBLIC_DIR, exist_ok=True)
+    os.makedirs(ICONS_DIR, exist_ok=True)
     
-    for size in [192, 512]:
-        icon = draw_icon(size)
-        out_path = os.path.join(PUBLIC_DIR, f"icon-{size}.png")
-        icon.save(out_path, "PNG")
-        print(f"Generated: {out_path}")
+    # Generate 512, 192, 180, 64, 32
+    icon_512 = draw_icon(512)
+    icon_512.save(os.path.join(ICONS_DIR, "icon-512.png"), "PNG")
+    print("Generated: icon-512.png")
 
-    # Also save favicon
+    icon_192 = draw_icon(192)
+    icon_192.save(os.path.join(ICONS_DIR, "icon-192.png"), "PNG")
+    print("Generated: icon-192.png")
+
+    icon_180 = draw_icon(180)
+    icon_180.save(os.path.join(ICONS_DIR, "apple-touch-icon.png"), "PNG")
+    print("Generated: apple-touch-icon.png")
+
+    icon_64 = draw_icon(64)
+    icon_64.save(os.path.join(ICONS_DIR, "favicon.png"), "PNG")
+    print("Generated: favicon.png")
+
     icon_32 = draw_icon(32)
-    icon_32.save(os.path.join(PUBLIC_DIR, "favicon.png"), "PNG")
-    print("Generated favicon.png")
+    icon_32.save(os.path.join(ICONS_DIR, "favicon.ico"), format="ICO")
+    print("Generated: favicon.ico")
 
 if __name__ == '__main__':
     main()
