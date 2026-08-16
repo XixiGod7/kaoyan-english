@@ -1,0 +1,1310 @@
+{
+  "year": 2014,
+  "filename": "2014.pdf",
+  "era": "era3",
+  "era_label": "第三阶段+(2005至今 英一)",
+  "total_pages": 15,
+  "max_question_number": 52,
+  "found_question_count": 45,
+  "extracted_question_count": 47,
+  "sections": {
+    "cloze": {
+      "name": "Section I 完形填空",
+      "type": "cloze",
+      "question_range": [
+        1,
+        20
+      ],
+      "text": "1. [A] that    [B] when     [C] why       [D] where                   \n                                                                                  \n            2. [A] fades   [B] improves [C] co",
+      "article": "Section I Use of English\nAs many people hit middle age, they often start to notice that their memory\nand mental clarity are not what they used to be. We suddenly can't remember\n1  we put the keys just a moment ago, or an old acquaintance's name, or the\nname of an old band we used to love. As the brain 2 we refer to these\noccurrences as \"senior moments.\" 3 seemingly innocent, this loss of mental\nfocus can potentially have a(n) 4 impact on our professional, social, and\npersonal 5\nNeuroscientists, experts who study the nervous system, are increasingly\nshowing that there's actually a lot that can be done. It 6 out that the brain\nneeds exercise in much the same way our muscles do, and the right mental\n7   can significantly improve our basic cognitive 8 . Thinking is\nessentially a 9 of making connections in the brain. To a certain extent, our\nability to 10 in making the connections that drive intelligence is inherited.\n11   because these connections are made through effort and practice,\nscientists believe that intelligence can expand and fluctuate 12 mental\neffort.\nNow, a new Web-based company has taken it a step 13    and\ndeveloped the first \"brain training program\" designed to actually help people\nimprove and regain their mental 14\nThe Web-based program   15   you to systematically improve your\nmemory and attention skills. The program keeps 16 of your progress and\nprovides detailed feedback 1 7 your performance and improvement. Most\nimportantly, it 18 modifies and enhances the games you play to 19 on\nthe strengths you are developing - much like a(n) 20 exercise routine\nrequires you to increase resistance and vary your muscle use.",
+      "questions": [
+        {
+          "number": 1,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "that"
+            },
+            {
+              "label": "B",
+              "text": "when"
+            },
+            {
+              "label": "C",
+              "text": "why"
+            },
+            {
+              "label": "D",
+              "text": "where"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 2,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "fades"
+            },
+            {
+              "label": "B",
+              "text": "improves"
+            },
+            {
+              "label": "C",
+              "text": "collapses"
+            },
+            {
+              "label": "D",
+              "text": "recovers"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 3,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "Unless"
+            },
+            {
+              "label": "B",
+              "text": "While"
+            },
+            {
+              "label": "C",
+              "text": "Once"
+            },
+            {
+              "label": "D",
+              "text": "If"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 4,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "damaging"
+            },
+            {
+              "label": "B",
+              "text": "limited"
+            },
+            {
+              "label": "C",
+              "text": "uneven"
+            },
+            {
+              "label": "D",
+              "text": "obscure"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 5,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "relationship"
+            },
+            {
+              "label": "B",
+              "text": "environment [ CJ wellbeing"
+            },
+            {
+              "label": "C",
+              "text": ""
+            },
+            {
+              "label": "D",
+              "text": "outlook"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 6,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "figures"
+            },
+            {
+              "label": "B",
+              "text": "finds"
+            },
+            {
+              "label": "C",
+              "text": "points"
+            },
+            {
+              "label": "D",
+              "text": "turns"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 7,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "responses"
+            },
+            {
+              "label": "B",
+              "text": "associations [ CJ workouts"
+            },
+            {
+              "label": "C",
+              "text": ""
+            },
+            {
+              "label": "D",
+              "text": "roundabouts"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 8,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "genre"
+            },
+            {
+              "label": "B",
+              "text": "criterion [ CJ circumstances"
+            },
+            {
+              "label": "C",
+              "text": ""
+            },
+            {
+              "label": "D",
+              "text": "functions"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 9,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "channel"
+            },
+            {
+              "label": "B",
+              "text": "process"
+            },
+            {
+              "label": "C",
+              "text": "condition"
+            },
+            {
+              "label": "D",
+              "text": "sequence"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 10,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "persist"
+            },
+            {
+              "label": "B",
+              "text": "feature"
+            },
+            {
+              "label": "C",
+              "text": "excel"
+            },
+            {
+              "label": "D",
+              "text": "believe"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 11,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "However"
+            },
+            {
+              "label": "B",
+              "text": "Moreover [ CJ Otherwise"
+            },
+            {
+              "label": "C",
+              "text": ""
+            },
+            {
+              "label": "D",
+              "text": "Therefore"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 12,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "according to"
+            },
+            {
+              "label": "B",
+              "text": "regardless of"
+            },
+            {
+              "label": "C",
+              "text": "apart from"
+            },
+            {
+              "label": "D",
+              "text": "instead of"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 13,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "back"
+            },
+            {
+              "label": "B",
+              "text": "further"
+            },
+            {
+              "label": "C",
+              "text": "aside"
+            },
+            {
+              "label": "D",
+              "text": "around"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 14,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "framework"
+            },
+            {
+              "label": "B",
+              "text": "stability"
+            },
+            {
+              "label": "C",
+              "text": "flexibility"
+            },
+            {
+              "label": "D",
+              "text": "sharpness"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 15,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "hurries"
+            },
+            {
+              "label": "B",
+              "text": "reminds"
+            },
+            {
+              "label": "C",
+              "text": "allows"
+            },
+            {
+              "label": "D",
+              "text": "forces"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 16,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "order"
+            },
+            {
+              "label": "B",
+              "text": "track"
+            },
+            {
+              "label": "C",
+              "text": "pace"
+            },
+            {
+              "label": "D",
+              "text": "hold"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 17,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "on"
+            },
+            {
+              "label": "B",
+              "text": "to"
+            },
+            {
+              "label": "C",
+              "text": "for"
+            },
+            {
+              "label": "D",
+              "text": "with"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 18,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "habitually"
+            },
+            {
+              "label": "B",
+              "text": "constantly"
+            },
+            {
+              "label": "C",
+              "text": "irregularly"
+            },
+            {
+              "label": "D",
+              "text": "unusually"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 19,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "carry"
+            },
+            {
+              "label": "B",
+              "text": "put"
+            },
+            {
+              "label": "C",
+              "text": "build"
+            },
+            {
+              "label": "D",
+              "text": "take"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 20,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "idle"
+            },
+            {
+              "label": "B",
+              "text": "risky"
+            },
+            {
+              "label": "C",
+              "text": "familiar"
+            },
+            {
+              "label": "D",
+              "text": ""
+            }
+          ],
+          "type": "choice"
+        }
+      ],
+      "warnings": []
+    },
+    "reading-a": {
+      "name": "Section II 阅读A节",
+      "type": "reading",
+      "question_range": [
+        21,
+        40
+      ],
+      "text": "                             \n           9. [A] channel  [B] process  [C] condition [D] sequence                \n                                                                                  \n    ",
+      "article": "All around the world, lawyers generate more hostility than the members of\n           any other profession - with the possible exception of journalism. But there are\n                                                                                  \n           few places where clients have more grounds for complaint than America. \n              During the decade before the economic crisis, spending on legal services in\n           America grew twice as fast as inflation. The best lawyers made skyscrapers-full of\n                                                                                  \n           money, tempting ever more students to pile into law schools. But most law\n           graduates never get a big-firm job. Many of them instead become the kind of\n                                                                                  \n           nuisance-lawsuit filer that makes the tort system a costly nightmare.  \n              There are many reasons for this. One is the excessive costs of a legal\n                                                                                  \n           education. There is just one path for a lawyer in most American states: a four-year\n           undergraduate degree in some unrelated subject, then a three-year law degree at\n                                                                                  \n           one of 200 law schools authorized by the American Bar Association and an\n           expensive preparation for the bar exam. This leaves today's average law-school\n                                                                                  \n           graduate with $100,000 of debt on top of undergraduate debts. Law-school debt\n           means that they have to work fearsomely hard.                          \n              Reforming the system would help both lawyers and their customers. Sensible\n                                                                                  \n           ideas have been around for a long time, but the state-level bodies that govern the\n           profession have been too conservative to implement them. One idea is to allow\n                                                                                  \n           people to study law as an undergraduate degree. Another is to let students sit for\n           the bar after only two years of law school. If the bar exam is truly a stem enough\n                                                                                  \n           test for a would-be lawyer, those who can sit it earlier should be allowed to do so.\n           Students who do not need the extra training could cut their debt mountain by a\n                                                                                  \n           third.                                                                 \n              The other reason why costs are so high is the restrictive guild-like ownership\n                                                                                  \n           structure of the business. Except in the District of Columbia, non-lawyers may not\n           own any share of a law firm. This keeps fees high and innovation slow. There is\n           pressure for change from within the profession, but opponents of change among\n                                                                                  \n           the regulators insist that keeping outsiders out of a law firm isolates lawyers from\n           the pressure to make money rather than serve clients ethically.        \n                                                                                  \n              In fact, allowing non-lawyers to own shares in law firms would reduce costs\n           and improve services to customers, by encouraging law firms to use technology\n                                                                                  \n           and to employ professional managers to focus on improving firms' efficiency.\n           After all, other countries, such as Australia and Britain, have started liberalizing\n                                                                                  \n           their legal professions. America should follow.                        \n                                                                                  \n                            **  ( - ) ij\\;;¥! .5. ( � 14 Yi)\n\nThe US$3-million Fundamental Physics Prize is indeed an interesting \n           experiment, as Alexander Polyakov said when he accepted this year's award in\n           March. And it is fra from the only one of its type. As a News Feature article in\n                                                                                  \n           Nature discusses, a string of lucrative awards for researchers have joined the\n           Nobel Prizes in recent years. Many, like the Fundamental Physics Prize, are\n                                                                                  \n           funded from the telephone-number-sized bank accounts of Internet entrepreneurs.\n           These benefactors have succeeded in their chosen fields, they say, and they want\n           to use their wealth to draw attention to those who have succeeded in science.\n                                                                                  \n              What's not to like? Quite a lot, according to a handful of scientists quoted in\n           the News Feature. You cannot buy class, as the old saying goes, and these upstart\n                                                                                  \n           entrepreneurs cannot buy their prizes the prestige of the Nobels. The new awards\n           are an exercise in self-promotion for those behind them, say scientists. They could\n                                                                                  \n           distort the achievement-based system of peer-review-led research. They could\n           cement the status quo of peer-reviewed research. They do not fund peer-reviewed\n           research. They perpetuate the myth of the lone genius.                 \n                                                                                  \n              The goals of the prize-givers seem as scattered as the criticism. Some want to\n           shock, others to draw people into science, or to better reward those who have\n                                                                                  \n           made their careers in research.                                        \n              As Nature has pointed out before, there are some legitimate concerns about\n           how science prizes - both new and old - are distributed. The Breakthrough Prize\n                                                                                  \n           in Life Sciences, launched this year, takes an unrepresentative view of what the\n           life sciences include. But the Nobel Foundation's limit of three recipients per\n                                                                                  \n           prize, each of whom must still be living, has long been outgrown by the\n           collaborative nature of modem research - as will be demonstrated by the\n           inevitable row over who is ignored when it comes to acknowledging the discovery\n                                                                                  \n           of the Higgs boson. The Nobels were, of course, themselves set up by a very rich\n           individual who had decided what he wanted to do with his own money. Time,\n                                                                                  \n           rather than intention, has given them legitimacy.                      \n              As much as some scientists may complain about the new awards, two things\n                                                                                  \n           seem clear. ",
+      "questions": [
+        {
+          "number": 21,
+          "stem": "第21题（未提取到内容）",
+          "choices": [],
+          "type": "choice",
+          "warning": true
+        },
+        {
+          "number": 22,
+          "stem": "第22题（未提取到内容）",
+          "choices": [],
+          "type": "choice",
+          "warning": true
+        },
+        {
+          "number": 23,
+          "stem": "第23题（未提取到内容）",
+          "choices": [],
+          "type": "choice",
+          "warning": true
+        },
+        {
+          "number": 24,
+          "stem": "第24题（未提取到内容）",
+          "choices": [],
+          "type": "choice",
+          "warning": true
+        },
+        {
+          "number": 25,
+          "stem": "第25题（未提取到内容）",
+          "choices": [],
+          "type": "choice",
+          "warning": true
+        },
+        {
+          "number": 26,
+          "stem": "A lot of students take up law as their profession due to",
+          "choices": [
+            {
+              "label": "A",
+              "text": "the growing demand from clients."
+            },
+            {
+              "label": "B",
+              "text": "the increasing pressure of inflation."
+            },
+            {
+              "label": "C",
+              "text": "the prospect of working in big firms."
+            },
+            {
+              "label": "D",
+              "text": "the attraction of financial rewards."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 27,
+          "stem": "Which of the following adds to the costs of legal education in most American\n              states?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "Higher tuition fees for undergraduate studies."
+            },
+            {
+              "label": "B",
+              "text": "Receiving training by professional associations."
+            },
+            {
+              "label": "C",
+              "text": "Admissions approval from the bar association."
+            },
+            {
+              "label": "D",
+              "text": "Pursuing a bachelor's degree in another major."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 28,
+          "stem": "Hindrance to the reform of the legal system originates from",
+          "choices": [
+            {
+              "label": "A",
+              "text": "the rigid bodies governing the profession."
+            },
+            {
+              "label": "B",
+              "text": "lawyers' and clients' strong resistance."
+            },
+            {
+              "label": "C",
+              "text": "the stem exam for would-be lawyers."
+            },
+            {
+              "label": "D",
+              "text": "non-professionals' sharp criticism."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 29,
+          "stem": "The guild-like ownership structure is considered \"restrictive\" partly because it",
+          "choices": [
+            {
+              "label": "A",
+              "text": "prevents lawyers from gaining due profits."
+            },
+            {
+              "label": "B",
+              "text": "bans outsiders' involvement in the profession."
+            },
+            {
+              "label": "C",
+              "text": "aggravates the ethical situation in the trade."
+            },
+            {
+              "label": "D",
+              "text": "keeps lawyers from holding law-firm shares."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 30,
+          "stem": "In this text, the author mainly discusses",
+          "choices": [
+            {
+              "label": "A",
+              "text": "the factors that help make a successful lawyer in America."
+            },
+            {
+              "label": "B",
+              "text": "a problem in America's legal profession and solutions to it."
+            },
+            {
+              "label": "C",
+              "text": "the role of undergraduate studies in America's legal education."
+            },
+            {
+              "label": "D",
+              "text": ""
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 31,
+          "stem": "The Fundamental Physics Prize is seen as",
+          "choices": [
+            {
+              "label": "A",
+              "text": "a symbol of the entrepreneurs' wealth."
+            },
+            {
+              "label": "B",
+              "text": "a handsome reward for researchers."
+            },
+            {
+              "label": "C",
+              "text": "a possible replacement of the Nobel Prizes."
+            },
+            {
+              "label": "D",
+              "text": "an example of bankers' investments."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 32,
+          "stem": "The critics think that the new awards will most benefit",
+          "choices": [
+            {
+              "label": "A",
+              "text": "the profit-oriented scientists."
+            },
+            {
+              "label": "B",
+              "text": "the achievement-based system."
+            },
+            {
+              "label": "C",
+              "text": "the founders of the new awards."
+            },
+            {
+              "label": "D",
+              "text": "peer-review-led research."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 33,
+          "stem": "The discovery of the Higgs boson is a typical case which involves",
+          "choices": [
+            {
+              "label": "A",
+              "text": "legitimate concerns over the new prizes."
+            },
+            {
+              "label": "B",
+              "text": "controversies over the recipients' status."
+            },
+            {
+              "label": "C",
+              "text": "the joint effort of modem researchers."
+            },
+            {
+              "label": "D",
+              "text": "the demonstration of research findings."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 34,
+          "stem": "According to Paragraph 4, which of the following is true of the Nobels?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "History has never cast doubt on them."
+            },
+            {
+              "label": "B",
+              "text": "Their endurance has done justice to them."
+            },
+            {
+              "label": "C",
+              "text": "They are the most representative honor."
+            },
+            {
+              "label": "D",
+              "text": "Their legitimacy has long been in dispute."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 35,
+          "stem": "The author believes that the new awards are",
+          "choices": [
+            {
+              "label": "A",
+              "text": "unworthy of public attention."
+            },
+            {
+              "label": "B",
+              "text": "subject to undesirable changes."
+            },
+            {
+              "label": "C",
+              "text": "harmful to the culture of research."
+            },
+            {
+              "label": "D",
+              "text": "acceptable despite the criticism. ** ( - ) ij\\;;¥! .8. ( � 14 Yi)"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 36,
+          "stem": "According to Paragraph 1, what is the author's attitdu e toward the AAAS's report?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "an exclusive study of American history."
+            },
+            {
+              "label": "B",
+              "text": "a greater emphasis on theoretical subjects."
+            },
+            {
+              "label": "C",
+              "text": "the application of emerging technologies."
+            },
+            {
+              "label": "D",
+              "text": "funding for the study of foreign languages."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 37,
+          "stem": "第37题（未提取到内容）",
+          "choices": [],
+          "type": "choice",
+          "warning": true
+        },
+        {
+          "number": 38,
+          "stem": "第38题（未提取到内容）",
+          "choices": [],
+          "type": "choice",
+          "warning": true
+        },
+        {
+          "number": 39,
+          "stem": "The author implies in Paragraph 5 that professors are",
+          "choices": [
+            {
+              "label": "A",
+              "text": "supportive of free markets."
+            },
+            {
+              "label": "B",
+              "text": "conservative about public policy."
+            },
+            {
+              "label": "C",
+              "text": "biased against classical liberal ideas."
+            },
+            {
+              "label": "D",
+              "text": "cautious about intellectual investigation."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 40,
+          "stem": "Which of the following would be the best title for the text?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "Ways to Grasp \"The Heart of the Matter\""
+            },
+            {
+              "label": "B",
+              "text": "Illiberal Education and \"The Heart of the Matter\""
+            },
+            {
+              "label": "C",
+              "text": "The AAAS 's Contribution to Liberal Education"
+            },
+            {
+              "label": "D",
+              "text": ""
+            }
+          ],
+          "type": "choice"
+        }
+      ],
+      "warnings": [],
+      "text_count": 3,
+      "texts": [
+        {
+          "text_num": 2,
+          "article": "All around the world, lawyers generate more hostility than the members of\n           any other profession - with the possible exception of journalism. But there are\n                                                                                  \n           few places where clients have more grounds for complaint than America. \n              During the decade before the economic crisis, spending on legal services in\n           America grew twice as fast as inflation. The best lawyers made skyscrapers-full of\n                                                                                  \n           money, tempting ever more students to pile into law schools. But most law\n           graduates never get a big-firm job. Many of them instead become the kind of\n                                                                                  \n           nuisance-lawsuit filer that makes the tort system a costly nightmare.  \n              There are many reasons for this. One is the excessive costs of a legal\n                                                                                  \n           education. There is just one path for a lawyer in most American states: a four-year\n           undergraduate degree in some unrelated subject, then a three-year law degree at\n                                                                                  \n           one of 200 law schools authorized by the American Bar Association and an\n           expensive preparation for the bar exam. This leaves today's average law-school\n                                                                                  \n           graduate with $100,000 of debt on top of undergraduate debts. Law-school debt\n           means that they have to work fearsomely hard.                          \n              Reforming the system would help both lawyers and their customers. Sensible\n                                                                                  \n           ideas have been around for a long time, but the state-level bodies that govern the\n           profession have been too conservative to implement them. One idea is to allow\n                                                                                  \n           people to study law as an undergraduate degree. Another is to let students sit for\n           the bar after only two years of law school. If the bar exam is truly a stem enough\n                                                                                  \n           test for a would-be lawyer, those who can sit it earlier should be allowed to do so.\n           Students who do not need the extra training could cut their debt mountain by a\n                                                                                  \n           third.                                                                 \n              The other reason why costs are so high is the restrictive guild-like ownership\n                                                                                  \n           structure of the business. Except in the District of Columbia, non-lawyers may not\n           own any share of a law firm. This keeps fees high and innovation slow. There is\n           pressure for change from within the profession, but opponents of change among\n                                                                                  \n           the regulators insist that keeping outsiders out of a law firm isolates lawyers from\n           the pressure to make money rather than serve clients ethically.        \n                                                                                  \n              In fact, allowing non-lawyers to own shares in law firms would reduce costs\n           and improve services to customers, by encouraging law firms to use technology\n                                                                                  \n           and to employ professional managers to focus on improving firms' efficiency.\n           After all, other countries, such as Australia and Britain, have started liberalizing\n                                                                                  \n           their legal professions. America should follow.                        \n                                                                                  \n                            **  ( - ) ij\\;;¥! .5. ( � 14 Yi)",
+          "questions": [
+            {
+              "number": 26,
+              "stem": "A lot of students take up law as their profession due to",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "the growing demand from clients."
+                },
+                {
+                  "label": "B",
+                  "text": "the increasing pressure of inflation."
+                },
+                {
+                  "label": "C",
+                  "text": "the prospect of working in big firms."
+                },
+                {
+                  "label": "D",
+                  "text": "the attraction of financial rewards."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 27,
+              "stem": "Which of the following adds to the costs of legal education in most American\n              states?",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "Higher tuition fees for undergraduate studies."
+                },
+                {
+                  "label": "B",
+                  "text": "Receiving training by professional associations."
+                },
+                {
+                  "label": "C",
+                  "text": "Admissions approval from the bar association."
+                },
+                {
+                  "label": "D",
+                  "text": "Pursuing a bachelor's degree in another major."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 28,
+              "stem": "Hindrance to the reform of the legal system originates from",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "the rigid bodies governing the profession."
+                },
+                {
+                  "label": "B",
+                  "text": "lawyers' and clients' strong resistance."
+                },
+                {
+                  "label": "C",
+                  "text": "the stem exam for would-be lawyers."
+                },
+                {
+                  "label": "D",
+                  "text": "non-professionals' sharp criticism."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 29,
+              "stem": "The guild-like ownership structure is considered \"restrictive\" partly because it",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "prevents lawyers from gaining due profits."
+                },
+                {
+                  "label": "B",
+                  "text": "bans outsiders' involvement in the profession."
+                },
+                {
+                  "label": "C",
+                  "text": "aggravates the ethical situation in the trade."
+                },
+                {
+                  "label": "D",
+                  "text": "keeps lawyers from holding law-firm shares."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 30,
+              "stem": "In this text, the author mainly discusses",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "the factors that help make a successful lawyer in America."
+                },
+                {
+                  "label": "B",
+                  "text": "a problem in America's legal profession and solutions to it."
+                },
+                {
+                  "label": "C",
+                  "text": "the role of undergraduate studies in America's legal education."
+                },
+                {
+                  "label": "D",
+                  "text": ""
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 21,
+              "stem": "第21题（未提取到内容）",
+              "choices": [],
+              "type": "choice",
+              "warning": true
+            },
+            {
+              "number": 22,
+              "stem": "第22题（未提取到内容）",
+              "choices": [],
+              "type": "choice",
+              "warning": true
+            },
+            {
+              "number": 23,
+              "stem": "第23题（未提取到内容）",
+              "choices": [],
+              "type": "choice",
+              "warning": true
+            },
+            {
+              "number": 24,
+              "stem": "第24题（未提取到内容）",
+              "choices": [],
+              "type": "choice",
+              "warning": true
+            },
+            {
+              "number": 25,
+              "stem": "第25题（未提取到内容）",
+              "choices": [],
+              "type": "choice",
+              "warning": true
+            }
+          ]
+        },
+        {
+          "text_num": 3,
+          "article": "The US$3-million Fundamental Physics Prize is indeed an interesting \n           experiment, as Alexander Polyakov said when he accepted this year's award in\n           March. And it is fra from the only one of its type. As a News Feature article in\n                                                                                  \n           Nature discusses, a string of lucrative awards for researchers have joined the\n           Nobel Prizes in recent years. Many, like the Fundamental Physics Prize, are\n                                                                                  \n           funded from the telephone-number-sized bank accounts of Internet entrepreneurs.\n           These benefactors have succeeded in their chosen fields, they say, and they want\n           to use their wealth to draw attention to those who have succeeded in science.\n                                                                                  \n              What's not to like? Quite a lot, according to a handful of scientists quoted in\n           the News Feature. You cannot buy class, as the old saying goes, and these upstart\n                                                                                  \n           entrepreneurs cannot buy their prizes the prestige of the Nobels. The new awards\n           are an exercise in self-promotion for those behind them, say scientists. They could\n                                                                                  \n           distort the achievement-based system of peer-review-led research. They could\n           cement the status quo of peer-reviewed research. They do not fund peer-reviewed\n           research. They perpetuate the myth of the lone genius.                 \n                                                                                  \n              The goals of the prize-givers seem as scattered as the criticism. Some want to\n           shock, others to draw people into science, or to better reward those who have\n                                                                                  \n           made their careers in research.                                        \n              As Nature has pointed out before, there are some legitimate concerns about\n           how science prizes - both new and old - are distributed. The Breakthrough Prize\n                                                                                  \n           in Life Sciences, launched this year, takes an unrepresentative view of what the\n           life sciences include. But the Nobel Foundation's limit of three recipients per\n                                                                                  \n           prize, each of whom must still be living, has long been outgrown by the\n           collaborative nature of modem research - as will be demonstrated by the\n           inevitable row over who is ignored when it comes to acknowledging the discovery\n                                                                                  \n           of the Higgs boson. The Nobels were, of course, themselves set up by a very rich\n           individual who had decided what he wanted to do with his own money. Time,\n                                                                                  \n           rather than intention, has given them legitimacy.                      \n              As much as some scientists may complain about the new awards, two things\n                                                                                  \n           seem clear. First, most researchers would accept such a prize if they were offered\n           one. Second, it is surely a good thing that the money and attention come to\n           science rather than go elsewhere. It is fair to criticize and question the mechanism\n                                                                                  \n           - that is the culture of research, after all - but it is the prize-givers' money to do\n           with as they please. It is wise to take such gifts with gratitude and grace.\n                                                                                  \n                                                                                  \n                                                                                  \n                            **  ( - ) ij\\;;¥! .7. ( � 14 Yi)",
+          "questions": [
+            {
+              "number": 31,
+              "stem": "The Fundamental Physics Prize is seen as",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "a symbol of the entrepreneurs' wealth."
+                },
+                {
+                  "label": "B",
+                  "text": "a handsome reward for researchers."
+                },
+                {
+                  "label": "C",
+                  "text": "a possible replacement of the Nobel Prizes."
+                },
+                {
+                  "label": "D",
+                  "text": "an example of bankers' investments."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 32,
+              "stem": "The critics think that the new awards will most benefit",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "the profit-oriented scientists."
+                },
+                {
+                  "label": "B",
+                  "text": "the achievement-based system."
+                },
+                {
+                  "label": "C",
+                  "text": "the founders of the new awards."
+                },
+                {
+                  "label": "D",
+                  "text": "peer-review-led research."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 33,
+              "stem": "The discovery of the Higgs boson is a typical case which involves",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "legitimate concerns over the new prizes."
+                },
+                {
+                  "label": "B",
+                  "text": "controversies over the recipients' status."
+                },
+                {
+                  "label": "C",
+                  "text": "the joint effort of modem researchers."
+                },
+                {
+                  "label": "D",
+                  "text": "the demonstration of research findings."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 34,
+              "stem": "According to Paragraph 4, which of the following is true of the Nobels?",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "History has never cast doubt on them."
+                },
+                {
+                  "label": "B",
+                  "text": "Their endurance has done justice to them."
+                },
+                {
+                  "label": "C",
+                  "text": "They are the most representative honor."
+                },
+                {
+                  "label": "D",
+                  "text": "Their legitimacy has long been in dispute."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 35,
+              "stem": "The author believes that the new awards are",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "unworthy of public attention."
+                },
+                {
+                  "label": "B",
+                  "text": "subject to undesirable changes."
+                },
+                {
+                  "label": "C",
+                  "text": "harmful to the culture of research."
+                },
+                {
+                  "label": "D",
+                  "text": "acceptable despite the criticism. ** ( - ) ij\\;;¥! .8. ( � 14 Yi)"
+                }
+              ],
+              "type": "choice"
+            }
+          ]
+        },
+        {
+          "text_num": 4,
+          "article": "\"The Heart of the Matter,\" the just-released report by the American Academy\n                                                                                  \n           of Arts and Sciences (AAAS), deserves praise for affirming the importance of the\n           humanities and social sciences to the prosperity and security of liberal democracy\n           in America. Regrettably, however, the report's failure to address the true nature of\n           the crisis facing liberal education may cause more harm than good.     \n                                                                                  \n              In 2010, leading congressional Democrats and Republicans sent letters to the\n           AAAS asking that it identify actions that could be taken by \"federal, state and local\n           governments, universities, foundations, educators, individual benefactors and others\"\n           to \"maintain national excellence in humanities and social scientific scholarship\n                                                                                  \n           and education.\" In response, the American Academy formed the Commission on\n           the Humanities and Social Sciences. Among the commission's 51 members are\n           top-tier-university presidents, scholars, lawyers, judges, and business executives,\n           as well as prominent figures from diplomacy, filmmaking, music and journalism.\n                                                                                  \n              The goals identified in the report are generally admirable. Because \n           representative government presupposes an informed citizenry, the report supports\n           full literacy; stresses the study of history and government, paritcularly American\n           history and American government; and encourages the use of new digital \n                                                                                  \n           technologies. To encourage innovation and competition, the report calls for\n           increased investment in research, the crafting of coherent curricula that improve\n           students' ability to solve problems and communicate effectively in the 21s t\n           century, increased funding for teachers and the encouragement of scholars to bring\n                                                                                  \n           their learning to bear on the great challenges of the day. The report also advocates\n           greater study of foreign languages, international affairs and the expansion of study\n           abroad programs.                                                       \n              Unfortunately, despite 2½ years in the making, \"The Heart of the Matter\"\n           never gets to the heart of the matter: the illiberal nature of liberal education at our\n                                                                                  \n           leading colleges and universities. The commission ignores that for several decades\n           America's colleges and universities have produced graduates who don't know the\n           content and character of liberal education and are thus deprived of its benefits.\n           Sadly, the spirit of inquiry once at home on campus has been replaced by the use\n                                                                                  \n           of the humanities and social sciences as vehicles for publicizing \"progressive,\" or\n           left-liberal propaganda.                                               \n              Today, professors routinely treat the progressive interpretation of history and\n           progressive public policy as the proper subject of study while portraying conservative\n                                                                                  \n           or classical liberal ideas - such as free markets and self-reliance - as falling\n           outside the boundaries of routine, and sometimes legitimate, intellectual investigation.\n              The AAAS displays great enthusiasm for liberal education. Yet its report may\n           well set back reform by obscuring the depth and breadth of the challenge that\n                                                                                  \n           Congress asked it to illuminate.                                       \n                                                                                  \n                                                                                  \n                            **  ( - ) ij\\;;¥! .9. ( � 14 Yi)",
+          "questions": [
+            {
+              "number": 36,
+              "stem": "According to Paragraph 1, what is the author's attitdu e toward the AAAS's report?",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "an exclusive study of American history."
+                },
+                {
+                  "label": "B",
+                  "text": "a greater emphasis on theoretical subjects."
+                },
+                {
+                  "label": "C",
+                  "text": "the application of emerging technologies."
+                },
+                {
+                  "label": "D",
+                  "text": "funding for the study of foreign languages."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 39,
+              "stem": "The author implies in Paragraph 5 that professors are",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "supportive of free markets."
+                },
+                {
+                  "label": "B",
+                  "text": "conservative about public policy."
+                },
+                {
+                  "label": "C",
+                  "text": "biased against classical liberal ideas."
+                },
+                {
+                  "label": "D",
+                  "text": "cautious about intellectual investigation."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 40,
+              "stem": "Which of the following would be the best title for the text?",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "Ways to Grasp \"The Heart of the Matter\""
+                },
+                {
+                  "label": "B",
+                  "text": "Illiberal Education and \"The Heart of the Matter\""
+                },
+                {
+                  "label": "C",
+                  "text": "The AAAS 's Contribution to Liberal Education"
+                },
+                {
+                  "label": "D",
+                  "text": ""
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 37,
+              "stem": "第37题（未提取到内容）",
+              "choices": [],
+              "type": "choice",
+              "warning": true
+            },
+            {
+              "number": 38,
+              "stem": "第38题（未提取到内容）",
+              "choices": [],
+              "type": "choice",
+              "warning": true
+            }
+          ]
+        }
+      ]
+    },
+    "new-type": {
+      "name": "Part B 阅读新题型",
+      "type": "new_type",
+      "question_range": [
+        41,
+        45
+      ],
+      "text": "",
+      "article": "",
+      "questions": [],
+      "warnings": [
+        "未找到题目"
+      ]
+    },
+    "translation": {
+      "name": "C节 翻译",
+      "type": "translation",
+      "question_range": [
+        46,
+        50
+      ],
+      "text": "( 46) It is also the\n                                                                                  \n           reason why when we try to describe music with words, all we can do is articulate\n    ",
+      "article": "there is nothing visible on the surface of the ground? Typically, they survey\nand sample (make test excavations on) large areas of terrain to determine\nwhere excavation will yield useful information. Surveys and test samples have\nalso become important for understanding the larger landscapes that contain\narchaeological sites.\nmany researchers working around the ancient Maya city of Copan, Honduras,\nhave located hundreds of small rural villages and individual dwellings by\nusing aerial photographs and by making surveys on foot. The resulting\nsettlement maps show how the distribution and density of the rural population\naround the city changed dramatically between AD 500 and 850, when Copan\ncollapsed.\nmethods and a variety of high-technology tools and techniques. Airborne\ntechnologies, such as different types of radar and photographic equipment\ncarried by airplanes or spacecraft, allow archaeologists to learn about what\nlies beneath the ground without digging. Aerial surveys locate general areas\nof interest or larger buried features, such as ancient buildings or fields.\nhave set out to look for them. Such searches can take years. British\narchaeologist Howard Carter knew that the tomb of the Egyptian pharaoh\nTutankhamun existed from information found in other sites. Carter sifted\nthrough rubble in the Valley of the Kings for seven years before he located\nthe tomb in 1922. In the late 1800s British archaeologist Sir Arthur Evans\ncombed antique dealers' stores in Athens, Greece. He was searching for tiny\nengraved seals attributed to the ancient Mycenaean culture that dominated\nGreece from the 1400s to 1200s BC. Evans's interpretations of these\nengravings eventually led him to find the Minoan palace at Knossos (Knos6s ),\non the island of Crete, in 1900.\nsuccessful. Most ground surveys involve a lot of walking, looking for surface\nclues such as small fragments of pottery. They often include a certain amount\nof digging to test for buried materials at selected points across a landscape.\nArchaeologists also may locate buried remains by using such technologies as\nground radar, magnetic-field recording, and metal detectors. Archaeologists\ncommonly use computers to map sites and the landscapes around sites. Two­\nand three-dimensional maps are helpful tools in planning excavations,\nillustrating how sites look, and presenting the results of archaeological\nresearch.\nPartC\npoints)\nMusic means different things to different people and sometimes even\ndifferent things to the same person at different moments of his life. It might be\npoetic, philosophical, sensual, or mathematical, but in any case it must, in my\nview, have something to do with the soul of the human being. Hence it is\nmetaphysical; but the means of expression is purely and exclusively physical:\nsound. I believe it is precisely this permanent coexistence of metaphysical\nmessage through physical means that is the strength of music.",
+      "questions": [
+        {
+          "number": 46,
+          "stem": "It is also the reason why when we try to describe music with words, all we can do is articulate our reactions to it, and not grasp music itself. Beethoven's importance in music has been principally defined by the revolutionary nature of his compositions. He freed music from hitherto prevailing conventions of harmony and structure. Sometimes I feel in his late works a will to break all signs of continuity. The music is abrupt and seemingly disconnected, as in the last piano sonata. In musical expression, he did not feel restrained by the weight of convention.",
+          "choices": [],
+          "type": "translation"
+        },
+        {
+          "number": 47,
+          "stem": "By all accounts he was a freethinking person, and a courageous one, and I find courage an essential quality for the understanding, let alone the performance, of his works. This courageous attitude in fact becomes a requirement for the performers of Beethoven's music. His compositions demand the performer to show courage, for example in the use of dynamics.",
+          "choices": [],
+          "type": "translation"
+        },
+        {
+          "number": 48,
+          "stem": "Beethoven's habit of increasing the volume with an extreme intensity and then abruptly following it with a sudden soft passage was only rarely used by composers before him. Beethoven was a deeply political man in the broadest sense of the word. He was not interested in daily politics, but concerned with questions of moral behavior and the larger questions of right and wrong affecting the entire society.",
+          "choices": [],
+          "type": "translation"
+        },
+        {
+          "number": 49,
+          "stem": "Especially significant was his view of freedom, which, for him, was associated with the rights and responsibilities of the individual: he advocated freedom of thought and of personal expression. Beethoven's music tends to move from chaos to order as if order were an imperative of human existence. For him, order does not result from forgetting or ignoring the disorders that plague our existence; order is a necessary development, an improvement that may lead to the Greek ideal of spiritual elevation. It is not by chance that the Funeral March is not the last movement of the Eroica Symphony, but ",
+          "choices": [],
+          "type": "translation"
+        },
+        {
+          "number": 50,
+          "stem": "One could interpret much of the work of Beethoven by saying that suffering is inevitable, but the courage to fight it renders life worth living. �* ( - ) -i.i\\;¥! .13. (�14:vf) III",
+          "choices": [],
+          "type": "translation"
+        }
+      ],
+      "warnings": []
+    },
+    "writing-a": {
+      "name": "A节 应用文写作",
+      "type": "writing_small",
+      "question_range": [
+        51,
+        51
+      ],
+      "text": "51. Directions:                                                        \n              Write a letter of about 100 words to the president of your university,\n           suggesting how to improve studen",
+      "article": "s to 1200s BC. Evans's interpretations of these\nengravings eventually led him to find the Minoan palace at Knossos (Knos6s ),\non the island of Crete, in 1900.\nsuccessful. Most ground surveys involve a lot of walking, looking for surface\nclues such as small fragments of pottery. They often include a certain amount\nof digging to test for buried materials at selected points across a landscape.\nArchaeologists also may locate buried remains by using such technologies as\nground radar, magnetic-field recording, and metal detectors. Archaeologists\ncommonly use computers to map sites and the landscapes around sites. Two­\nand three-dimensional maps are helpful tools in planning excavations,\nillustrating how sites look, and presenting the results of archaeological\nresearch.\nPartC\npoints)\nMusic means different things to different people and sometimes even\ndifferent things to the same person at different moments of his life. It might be\npoetic, philosophical, sensual, or mathematical, but in any case it must, in my\nview, have something to do with the soul of the human being. Hence it is\nmetaphysical; but the means of expression is purely and exclusively physical:\nsound. I believe it is precisely this permanent coexistence of metaphysical\nmessage through physical means that is the strength of music. ( 46) It is also the\nreason why when we try to describe music with words, all we can do is articulate\nour reactions to it, and not grasp music itself.\nBeethoven's importance in music has been principally defined by the\nrevolutionary nature of his compositions. He freed music from hitherto prevailing\nconventions of harmony and structure. Sometimes I feel in his late works a will to\nbreak all signs of continuity. The music is abrupt and seemingly disconnected, as\nin the last piano sonata. In musical expression, he did not feel restrained by the\nweight of convention. (47) By all accounts he was a freethinking person, and a\ncourageous one, and I find courage an essential quality for the understanding, let\nalone the performance, of his works.\nThis courageous attitude in fact becomes a requirement for the performers of\nBeethoven's music. His compositions demand the performer to show courage, for\nexample in the use of dynamics. ( 48) Beethoven's habit of increasing the volume\nwith an extreme intensity and then abruptly following it with a sudden soft\npassage was only rarely used by composers before him.\nBeethoven was a deeply political man in the broadest sense of the word. He\nwas not interested in daily politics, but concerned with questions of moral\nbehavior and the larger questions of right and wrong affecting the entire society.\n( 49) Especially significant was his view of freedom, which, for him, was\nassociated with the rights and responsibilities of the individual: he advocated\nfreedom of thought and of personal expression.\nBeethoven's music tends to move from chaos to order as if order were an\nimperative of human existence. For him, order does not result from forgetting or\nignoring the disorders that plague our existence; order is a necessary development,\nan improvement that may lead to the Greek ideal of spiritual elevation. It is not by\nchance that the Funeral March is not the last movement of the Eroica Symphony,\nbut the second, so that suffering does not have the last word. (50) One could\ninterpret much of the work of Beethoven by saying that suffering is inevitable, but\nthe courage to fight it renders life worth living.\nSection     Writing\nPart A",
+      "questions": [
+        {
+          "number": 51,
+          "stem": "Directions: Write a letter of about 100 words to the president of your university, suggesting how to improve students' physical condition. You should include the details you think necessary. You should write neatly on the ANSWER SHEET. Do not sign your own name at the end of the letter. Use \"Li Ming\" instead. Do not write the address. (10 points) PartB",
+          "choices": [],
+          "type": "writing_small"
+        }
+      ],
+      "warnings": []
+    },
+    "writing-b": {
+      "name": "B节 短文写作",
+      "type": "writing_big",
+      "question_range": [
+        52,
+        52
+      ],
+      "text": "52. Directions:                                                        \n                                                                                  \n              Write an essay of 160-200 words",
+      "article": "ground radar, magnetic-field recording, and metal detectors. Archaeologists\ncommonly use computers to map sites and the landscapes around sites. Two­\nand three-dimensional maps are helpful tools in planning excavations,\nillustrating how sites look, and presenting the results of archaeological\nresearch.\nPartC\npoints)\nMusic means different things to different people and sometimes even\ndifferent things to the same person at different moments of his life. It might be\npoetic, philosophical, sensual, or mathematical, but in any case it must, in my\nview, have something to do with the soul of the human being. Hence it is\nmetaphysical; but the means of expression is purely and exclusively physical:\nsound. I believe it is precisely this permanent coexistence of metaphysical\nmessage through physical means that is the strength of music. ( 46) It is also the\nreason why when we try to describe music with words, all we can do is articulate\nour reactions to it, and not grasp music itself.\nBeethoven's importance in music has been principally defined by the\nrevolutionary nature of his compositions. He freed music from hitherto prevailing\nconventions of harmony and structure. Sometimes I feel in his late works a will to\nbreak all signs of continuity. The music is abrupt and seemingly disconnected, as\nin the last piano sonata. In musical expression, he did not feel restrained by the\nweight of convention. (47) By all accounts he was a freethinking person, and a\ncourageous one, and I find courage an essential quality for the understanding, let\nalone the performance, of his works.\nThis courageous attitude in fact becomes a requirement for the performers of\nBeethoven's music. His compositions demand the performer to show courage, for\nexample in the use of dynamics. ( 48) Beethoven's habit of increasing the volume\nwith an extreme intensity and then abruptly following it with a sudden soft\npassage was only rarely used by composers before him.\nBeethoven was a deeply political man in the broadest sense of the word. He\nwas not interested in daily politics, but concerned with questions of moral\nbehavior and the larger questions of right and wrong affecting the entire society.\n( 49) Especially significant was his view of freedom, which, for him, was\nassociated with the rights and responsibilities of the individual: he advocated\nfreedom of thought and of personal expression.\nBeethoven's music tends to move from chaos to order as if order were an\nimperative of human existence. For him, order does not result from forgetting or\nignoring the disorders that plague our existence; order is a necessary development,\nan improvement that may lead to the Greek ideal of spiritual elevation. It is not by\nchance that the Funeral March is not the last movement of the Eroica Symphony,\nbut the second, so that suffering does not have the last word. (50) One could\ninterpret much of the work of Beethoven by saying that suffering is inevitable, but\nthe courage to fight it renders life worth living.\nSection     Writing\nPart A\nWrite a letter of about 100 words to the president of your university,\nsuggesting how to improve students' physical condition.\nYou should include the details you think necessary.\nDo not sign your own name at the end of the letter. Use \"Li Ming\" instead.\nDo not write the address. (10 points)\nPartB",
+      "questions": [
+        {
+          "number": 52,
+          "stem": "Directions: Write an essay of 160-200 words based on the following drawing. In your essay, you should",
+          "choices": [],
+          "type": "writing_big"
+        }
+      ],
+      "warnings": []
+    }
+  }
+}

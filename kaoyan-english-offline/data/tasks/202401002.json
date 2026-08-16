@@ -1,0 +1,1063 @@
+{
+  "tasks": [
+    {
+      "content_json": {
+        "article": "Nearly 2,000 years ago, as the Romans began to pull out of Scotland, they left behind a curious treasure: 10 tons of nails, nearly a million of the things.\nThe nail hoard was discovered in 1960 in a four-metre-deep pit covered by two metres of gravel.\nWhy had the Romans buried a million nails?\nThe likely explanation is that the withdrawal was rushed, and they didn’t want the local Caledonians getting their hands on 10 tons of weapon-grade iron.\nThe Romans buried the nails so deep that they would not be discovered for almost two millennia.\nLater civilisations would value the skilled blacksmith’s labour in a nail even more than the raw material.\nAs Roma Agrawal explains in her new delightful book Nuts and Bolts, early 17th-century Virginians would sometimes burn down their homes if they were planning to relocate.\nThis was an attempt to recover the valuable nails, which could be reused after sifting the ashes.\nThe idea that one might burn down an entire house just to reclaim the nails underlines how scarce, costly and valuable the simple-seeming technology was.\nThe price of nails fell by 90% between the late 1700s and mid-1900s, as economist Daniel Sichel points out in a research paper.\nAccording to Sichel, although the falling price of nails was driven partly by cheaper iron and cheaper energy, most of the credit goes to nail manufacturers who simply found more efficient ways to turn steel into nails.\nNails themselves have changed over the years, but Sichel studied them because they haven’t changed much.\nRoman lamps and Roman chariots are very different from LED strips and sports cars, but Roman nails are still clearly nails.\nIt would be absurd to try to track the changing price of sports cars since 1695, but to ask the same question of nails makes perfect sense.\nI make no apology for being obsessed by a particular feature of these objects: their price.\nI am an economist, after all.\nAfter writing two books about the history of inventions, one thing I’ve learnt is that while it is the enchantingly sophisticated technologies that get all the hype, it’s the cheap technologies that change the world.\nThe Gutenberg printing press transformed civilisation not by changing the nature of writing but by changing its cost — and it would have achieved little without a parallel collapse in the price of surfaces to write on, thanks to an often-overlooked technology called paper.\nSolar panels had few niche uses until they became cheap; now they are transforming the global energy system.",
+        "questions": [
+          {
+            "ai_analysis_ids": [
+              2024013018
+            ],
+            "ai_analysis_text": "根据第二段内容，罗马人埋藏钉子的原因是为了防止当地人获得这些铁制品，避免它们被用作武器。\nA. 文中未提到罗马人是为了将钉子保存以供未来使用，因此不符合题意。\nB. 文中没有提到罗马人埋钉子是为了防止生锈，因此不符合题意。\nC. 文中没有提到罗马人埋钉子是为了让其升值，因此不符合题意。\nD. 文中明确提到罗马人埋钉子是为了防止当地人获得这些铁制品并将其用作武器，因此符合题意。",
+            "ai_analysis_words": [
+              "withdrawal was rushed",
+              "didn’t want",
+              "Caledonians",
+              "weapon-grade iron"
+            ],
+            "analysis_sentence_id": 2024013018,
+            "answer": "D",
+            "id": 21,
+            "option_tokens": {
+              "A": [
+                {
+                  "gloss": "保存",
+                  "lemma": "save",
+                  "surface": "saving"
+                },
+                {
+                  "gloss": "它们",
+                  "lemma": "they",
+                  "surface": "them"
+                },
+                {
+                  "gloss": "为了",
+                  "lemma": "for",
+                  "surface": "for"
+                },
+                {
+                  "gloss": "未来",
+                  "lemma": "future",
+                  "surface": "future"
+                },
+                {
+                  "gloss": "使用",
+                  "lemma": "use",
+                  "surface": "use"
+                }
+              ],
+              "B": [
+                {
+                  "gloss": "保持",
+                  "lemma": "keep",
+                  "surface": "keeping"
+                },
+                {
+                  "gloss": "它们",
+                  "lemma": "they",
+                  "surface": "them"
+                },
+                {
+                  "gloss": "防止",
+                  "lemma": "from",
+                  "surface": "from"
+                },
+                {
+                  "gloss": "生锈",
+                  "lemma": "rust",
+                  "surface": "rusting"
+                }
+              ],
+              "C": [
+                {
+                  "gloss": "让",
+                  "lemma": "let",
+                  "surface": "letting"
+                },
+                {
+                  "gloss": "它们",
+                  "lemma": "they",
+                  "surface": "them"
+                },
+                {
+                  "gloss": "增长",
+                  "lemma": "grow",
+                  "surface": "grow"
+                },
+                {
+                  "gloss": "在",
+                  "lemma": "in",
+                  "surface": "in"
+                },
+                {
+                  "gloss": "价值",
+                  "lemma": "value",
+                  "surface": "value"
+                }
+              ],
+              "D": [
+                {
+                  "gloss": "藏",
+                  "lemma": "hide",
+                  "surface": "hiding"
+                },
+                {
+                  "gloss": "它们",
+                  "lemma": "they",
+                  "surface": "them"
+                },
+                {
+                  "gloss": "不让",
+                  "lemma": "from",
+                  "surface": "from"
+                },
+                {
+                  "gloss": "该",
+                  "lemma": "the",
+                  "surface": "the"
+                },
+                {
+                  "gloss": "当地人",
+                  "lemma": "local",
+                  "surface": "locals"
+                }
+              ]
+            },
+            "options": [
+              "A) saving them for future use.",
+              "B) keeping them from rusting.",
+              "C) letting them grow in value.",
+              "D) hiding them from the locals."
+            ],
+            "qid": 2024011021,
+            "text": "The Romans buried the nails probably for the sake of ____",
+            "text_tokens": [
+              {
+                "gloss": "这个",
+                "lemma": "the",
+                "surface": "the"
+              },
+              {
+                "gloss": "罗马人",
+                "lemma": "roman",
+                "surface": "Romans"
+              },
+              {
+                "gloss": "埋藏",
+                "lemma": "bury",
+                "surface": "buried"
+              },
+              {
+                "gloss": "这些",
+                "lemma": "the",
+                "surface": "the"
+              },
+              {
+                "gloss": "钉子",
+                "lemma": "nail",
+                "surface": "nails"
+              },
+              {
+                "gloss": "可能",
+                "lemma": "probably",
+                "surface": "probably"
+              },
+              {
+                "gloss": "为了",
+                "lemma": "for",
+                "surface": "for"
+              },
+              {
+                "gloss": "这个",
+                "lemma": "the",
+                "surface": "the"
+              },
+              {
+                "gloss": "原因",
+                "lemma": "sake",
+                "surface": "sake"
+              },
+              {
+                "gloss": "的",
+                "lemma": "of",
+                "surface": "of"
+              }
+            ]
+          },
+          {
+            "ai_analysis_ids": [
+              2024013023
+            ],
+            "ai_analysis_text": "通过描述17世纪弗吉尼亚人烧毁房屋以回收钉子的行为，作者强调了当时钉子作为技术产品的稀缺性和价值。\nA. 虽然提到了弗吉尼亚人回收钉子，但并未强调其节俭的特点，因此不符合题意。\nB. 文中提到钉匠的劳动价值，但并未直接讨论钉匠的社会地位，因此不符合题意。\nC. 文中未对不同文明对钉子的态度进行对比，因此不符合题意。\nD. 通过弗吉尼亚人烧毁房屋以回收钉子的例子，作者突出了当时钉子技术的稀缺性和价值，因此符合题意。",
+            "ai_analysis_words": [
+              "burn down",
+              "valuable nails",
+              "scarce",
+              "costly"
+            ],
+            "analysis_sentence_id": 2024013023,
+            "answer": "D",
+            "id": 22,
+            "option_tokens": {
+              "A": [
+                {
+                  "gloss": "突出",
+                  "lemma": "highlight",
+                  "surface": "highlight"
+                },
+                {
+                  "gloss": "这个",
+                  "lemma": "the",
+                  "surface": "the"
+                },
+                {
+                  "gloss": "节俭",
+                  "lemma": "thriftiness",
+                  "surface": "thriftiness"
+                },
+                {
+                  "gloss": "的",
+                  "lemma": "of",
+                  "surface": "of"
+                },
+                {
+                  "gloss": "早期的",
+                  "lemma": "early",
+                  "surface": "early"
+                },
+                {
+                  "gloss": "美国的",
+                  "lemma": "american",
+                  "surface": "American"
+                },
+                {
+                  "gloss": "殖民者",
+                  "lemma": "colonist",
+                  "surface": "colonists"
+                }
+              ],
+              "B": [
+                {
+                  "gloss": "说明",
+                  "lemma": "illustrate",
+                  "surface": "illustrate"
+                },
+                {
+                  "gloss": "这个",
+                  "lemma": "the",
+                  "surface": "the"
+                },
+                {
+                  "gloss": "高的",
+                  "lemma": "high",
+                  "surface": "high"
+                },
+                {
+                  "gloss": "地位",
+                  "lemma": "status",
+                  "surface": "status"
+                },
+                {
+                  "gloss": "的",
+                  "lemma": "of",
+                  "surface": "of"
+                },
+                {
+                  "gloss": "铁匠",
+                  "lemma": "blacksmith",
+                  "surface": "blacksmiths"
+                },
+                {
+                  "gloss": "在",
+                  "lemma": "in",
+                  "surface": "in"
+                },
+                {
+                  "gloss": "那个",
+                  "lemma": "that",
+                  "surface": "that"
+                },
+                {
+                  "gloss": "时期",
+                  "lemma": "period",
+                  "surface": "period"
+                }
+              ],
+              "C": [
+                {
+                  "gloss": "对比",
+                  "lemma": "contrast",
+                  "surface": "contrast"
+                },
+                {
+                  "gloss": "这个",
+                  "lemma": "the",
+                  "surface": "the"
+                },
+                {
+                  "gloss": "态度",
+                  "lemma": "attitude",
+                  "surface": "attitudes"
+                },
+                {
+                  "gloss": "的",
+                  "lemma": "of",
+                  "surface": "of"
+                },
+                {
+                  "gloss": "不同的",
+                  "lemma": "different",
+                  "surface": "different"
+                },
+                {
+                  "gloss": "文明",
+                  "lemma": "civilisation",
+                  "surface": "civilisations"
+                },
+                {
+                  "gloss": "对",
+                  "lemma": "towards",
+                  "surface": "towards"
+                },
+                {
+                  "gloss": "钉子",
+                  "lemma": "nail",
+                  "surface": "nails"
+                }
+              ],
+              "D": [
+                {
+                  "gloss": "展示",
+                  "lemma": "show",
+                  "surface": "show"
+                },
+                {
+                  "gloss": "这个",
+                  "lemma": "the",
+                  "surface": "the"
+                },
+                {
+                  "gloss": "珍贵",
+                  "lemma": "preciousness",
+                  "surface": "preciousness"
+                },
+                {
+                  "gloss": "的",
+                  "lemma": "of",
+                  "surface": "of"
+                },
+                {
+                  "gloss": "钉子",
+                  "lemma": "nail",
+                  "surface": "nail"
+                },
+                {
+                  "gloss": "制造",
+                  "lemma": "make",
+                  "surface": "making"
+                },
+                {
+                  "gloss": "技术",
+                  "lemma": "technology",
+                  "surface": "technology"
+                },
+                {
+                  "gloss": "在",
+                  "lemma": "at",
+                  "surface": "at"
+                },
+                {
+                  "gloss": "那个",
+                  "lemma": "that",
+                  "surface": "that"
+                },
+                {
+                  "gloss": "时间",
+                  "lemma": "time",
+                  "surface": "time"
+                }
+              ]
+            },
+            "options": [
+              "A) highlight the thriftiness of early American colonists.",
+              "B) illustrate the high status of blacksmiths in that period.",
+              "C) contrast the attitudes of different civilisations towards nails.",
+              "D) show the preciousness of nail-making technology at that time."
+            ],
+            "qid": 2024011022,
+            "text": "The example of early 17th-century Virginians is used to ____",
+            "text_tokens": [
+              {
+                "gloss": "这个",
+                "lemma": "the",
+                "surface": "The"
+              },
+              {
+                "gloss": "例子",
+                "lemma": "example",
+                "surface": "example"
+              },
+              {
+                "gloss": "的",
+                "lemma": "of",
+                "surface": "of"
+              },
+              {
+                "gloss": "早期的",
+                "lemma": "early",
+                "surface": "early"
+              },
+              {
+                "gloss": "17世纪的",
+                "lemma": "17th",
+                "surface": "17th"
+              },
+              {
+                "gloss": "世纪",
+                "lemma": "century",
+                "surface": "century"
+              },
+              {
+                "gloss": "弗吉尼亚人",
+                "lemma": "virginian",
+                "surface": "Virginians"
+              },
+              {
+                "gloss": "是",
+                "lemma": "be",
+                "surface": "is"
+              },
+              {
+                "gloss": "使用",
+                "lemma": "use",
+                "surface": "used"
+              },
+              {
+                "gloss": "为了",
+                "lemma": "to",
+                "surface": "to"
+              }
+            ]
+          },
+          {
+            "ai_analysis_ids": [
+              2024013025
+            ],
+            "ai_analysis_text": "根据第四段内容，钉子价格下降的主要原因是制造商提高了生产效率。\nA. 文中明确指出钉子价格下降主要归功于制造商提高了生产效率，因此符合题意。\nB. 虽然提到能源成本下降，但这只是次要因素，因此不符合题意。\nC. 文中未提到市场竞争是钉子价格下降的主要原因，因此不符合题意。\nD. 虽然提到原材料成本下降，但这只是次要因素，因此不符合题意。",
+            "ai_analysis_words": [
+              "falling price",
+              "efficient ways",
+              "nail manufacturers"
+            ],
+            "analysis_sentence_id": 2024013025,
+            "answer": "A",
+            "id": 23,
+            "option_tokens": {
+              "A": [
+                {
+                  "gloss": "提高",
+                  "lemma": "increase",
+                  "surface": "Increased"
+                },
+                {
+                  "gloss": "生产力",
+                  "lemma": "productivity",
+                  "surface": "productivity"
+                }
+              ],
+              "B": [
+                {
+                  "gloss": "广泛的",
+                  "lemma": "wide",
+                  "surface": "Wider"
+                },
+                {
+                  "gloss": "使用",
+                  "lemma": "use",
+                  "surface": "use"
+                },
+                {
+                  "gloss": "的",
+                  "lemma": "of",
+                  "surface": "of"
+                },
+                {
+                  "gloss": "新的",
+                  "lemma": "new",
+                  "surface": "new"
+                },
+                {
+                  "gloss": "能源",
+                  "lemma": "energy",
+                  "surface": "energies"
+                }
+              ],
+              "C": [
+                {
+                  "gloss": "更激烈的",
+                  "lemma": "fierce",
+                  "surface": "Fiercer"
+                },
+                {
+                  "gloss": "市场",
+                  "lemma": "market",
+                  "surface": "market"
+                },
+                {
+                  "gloss": "竞争",
+                  "lemma": "competition",
+                  "surface": "competition"
+                }
+              ],
+              "D": [
+                {
+                  "gloss": "降低的",
+                  "lemma": "reduce",
+                  "surface": "Reduced"
+                },
+                {
+                  "gloss": "成本",
+                  "lemma": "cost",
+                  "surface": "cost"
+                },
+                {
+                  "gloss": "的",
+                  "lemma": "of",
+                  "surface": "of"
+                },
+                {
+                  "gloss": "原始的",
+                  "lemma": "raw",
+                  "surface": "raw"
+                },
+                {
+                  "gloss": "材料",
+                  "lemma": "material",
+                  "surface": "materials"
+                }
+              ]
+            },
+            "options": [
+              "A) Increased productivity.",
+              "B) Wider use of new energies.",
+              "C) Fiercer market competition.",
+              "D) Reduced cost of raw materials."
+            ],
+            "qid": 2024011023,
+            "text": "What played the major role in lowering the price of nails after the late 1700s?",
+            "text_tokens": [
+              {
+                "gloss": "什么",
+                "lemma": "what",
+                "surface": "What"
+              },
+              {
+                "gloss": "起作用",
+                "lemma": "play",
+                "surface": "played"
+              },
+              {
+                "gloss": "这个",
+                "lemma": "the",
+                "surface": "the"
+              },
+              {
+                "gloss": "主要的",
+                "lemma": "major",
+                "surface": "major"
+              },
+              {
+                "gloss": "作用",
+                "lemma": "role",
+                "surface": "role"
+              },
+              {
+                "gloss": "在",
+                "lemma": "in",
+                "surface": "in"
+              },
+              {
+                "gloss": "降低",
+                "lemma": "lower",
+                "surface": "lowering"
+              },
+              {
+                "gloss": "这个",
+                "lemma": "the",
+                "surface": "the"
+              },
+              {
+                "gloss": "价格",
+                "lemma": "price",
+                "surface": "price"
+              },
+              {
+                "gloss": "的",
+                "lemma": "of",
+                "surface": "of"
+              },
+              {
+                "gloss": "钉子",
+                "lemma": "nail",
+                "surface": "nails"
+              },
+              {
+                "gloss": "在……之后",
+                "lemma": "after",
+                "surface": "after"
+              },
+              {
+                "gloss": "这个",
+                "lemma": "the",
+                "surface": "the"
+              },
+              {
+                "gloss": "晚期的",
+                "lemma": "late",
+                "surface": "late"
+              },
+              {
+                "gloss": "18世纪末",
+                "lemma": "1700s",
+                "surface": "1700s"
+              }
+            ]
+          },
+          {
+            "ai_analysis_ids": [
+              2024013027
+            ],
+            "ai_analysis_text": "根据第五段内容，尽管钉子随着时间有所变化，但其基本形式自罗马时代以来并未发生显著改变。\nA. 文中提到钉子有所变化，但并未强调其经历了许多技术改进，因此不符合题意。\nB. 文中明确指出罗马时代的钉子与现代钉子在基本形式上仍然相似，因此符合题意。\nC. 文中未提到钉子的研究程度与其他日常产品的比较，因此不符合题意。\nD. 虽然钉子重要，但文中并未将其描述为“世界上最重要的发明之一”，因此不符合题意。",
+            "ai_analysis_words": [
+              "Roman nails",
+              "still clearly nails",
+              "haven’t changed much"
+            ],
+            "analysis_sentence_id": 2024013027,
+            "answer": "B",
+            "id": 24,
+            "option_tokens": {
+              "A": [
+                {
+                  "gloss": "已经",
+                  "lemma": "have",
+                  "surface": "have"
+                },
+                {
+                  "gloss": "经历",
+                  "lemma": "undergo",
+                  "surface": "undergone"
+                },
+                {
+                  "gloss": "许多",
+                  "lemma": "many",
+                  "surface": "many"
+                },
+                {
+                  "gloss": "技术的",
+                  "lemma": "technological",
+                  "surface": "technological"
+                },
+                {
+                  "gloss": "改进",
+                  "lemma": "improvement",
+                  "surface": "improvements"
+                }
+              ],
+              "B": [
+                {
+                  "gloss": "已经",
+                  "lemma": "have",
+                  "surface": "have"
+                },
+                {
+                  "gloss": "保持",
+                  "lemma": "remain",
+                  "surface": "remained"
+                },
+                {
+                  "gloss": "基本上",
+                  "lemma": "basically",
+                  "surface": "basically"
+                },
+                {
+                  "gloss": "这个",
+                  "lemma": "the",
+                  "surface": "the"
+                },
+                {
+                  "gloss": "相同的",
+                  "lemma": "same",
+                  "surface": "same"
+                },
+                {
+                  "gloss": "自从",
+                  "lemma": "since",
+                  "surface": "since"
+                },
+                {
+                  "gloss": "罗马的",
+                  "lemma": "roman",
+                  "surface": "Roman"
+                },
+                {
+                  "gloss": "时代",
+                  "lemma": "time",
+                  "surface": "times"
+                }
+              ],
+              "C": [
+                {
+                  "gloss": "是",
+                  "lemma": "be",
+                  "surface": "are"
+                },
+                {
+                  "gloss": "较少",
+                  "lemma": "less",
+                  "surface": "less"
+                },
+                {
+                  "gloss": "研究",
+                  "lemma": "study",
+                  "surface": "studied"
+                },
+                {
+                  "gloss": "比",
+                  "lemma": "than",
+                  "surface": "than"
+                },
+                {
+                  "gloss": "其他的",
+                  "lemma": "other",
+                  "surface": "other"
+                },
+                {
+                  "gloss": "日常的",
+                  "lemma": "everyday",
+                  "surface": "everyday"
+                },
+                {
+                  "gloss": "产品",
+                  "lemma": "product",
+                  "surface": "products"
+                }
+              ],
+              "D": [
+                {
+                  "gloss": "是",
+                  "lemma": "be",
+                  "surface": "are"
+                },
+                {
+                  "gloss": "一个",
+                  "lemma": "one",
+                  "surface": "one"
+                },
+                {
+                  "gloss": "的",
+                  "lemma": "of",
+                  "surface": "of"
+                },
+                {
+                  "gloss": "这个",
+                  "lemma": "the",
+                  "surface": "the"
+                },
+                {
+                  "gloss": "世界的",
+                  "lemma": "world",
+                  "surface": "world’s"
+                },
+                {
+                  "gloss": "最",
+                  "lemma": "most",
+                  "surface": "most"
+                },
+                {
+                  "gloss": "重要的",
+                  "lemma": "significant",
+                  "surface": "significant"
+                },
+                {
+                  "gloss": "发明",
+                  "lemma": "invention",
+                  "surface": "inventions"
+                }
+              ]
+            },
+            "options": [
+              "A) have undergone many technological improvements.",
+              "B) have remained basically the same since Roman times.",
+              "C) are less studied than other everyday products.",
+              "D) are one of the world’s most significant inventions."
+            ],
+            "qid": 2024011024,
+            "text": "It can be learned from Paragraph 5 that nails ____",
+            "text_tokens": [
+              {
+                "gloss": "它",
+                "lemma": "it",
+                "surface": "It"
+              },
+              {
+                "gloss": "可以",
+                "lemma": "can",
+                "surface": "can"
+              },
+              {
+                "gloss": "是",
+                "lemma": "be",
+                "surface": "be"
+              },
+              {
+                "gloss": "了解到",
+                "lemma": "learn",
+                "surface": "learned"
+              },
+              {
+                "gloss": "从",
+                "lemma": "from",
+                "surface": "from"
+              },
+              {
+                "gloss": "段落",
+                "lemma": "paragraph",
+                "surface": "Paragraph"
+              },
+              {
+                "gloss": "可以了解到",
+                "lemma": "that",
+                "surface": "that"
+              },
+              {
+                "gloss": "钉子",
+                "lemma": "nail",
+                "surface": "nails"
+              }
+            ]
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "最后两段强调了廉价技术对社会变革的巨大推动作用，例如印刷机和太阳能板的例子。\nA. 文中通过印刷机和太阳能板的例子，强调了廉价技术如何带来革命性变化，因此符合题意。\nB. 虽然提到技术创新，但重点并非经济成功，而是廉价技术的社会影响，因此不符合题意。\nC. 文中未讨论技术如何定义人们对世界的理解，因此不符合题意。\nD. 文中未提到复杂技术如何从小发明发展而来，因此不符合题意。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "A",
+            "id": 25,
+            "option_tokens": {
+              "A": [
+                {
+                  "gloss": "廉价的",
+                  "lemma": "cheap",
+                  "surface": "Cheap"
+                },
+                {
+                  "gloss": "技术",
+                  "lemma": "technology",
+                  "surface": "technologies"
+                },
+                {
+                  "gloss": "带来",
+                  "lemma": "bring",
+                  "surface": "bring"
+                },
+                {
+                  "gloss": "关于",
+                  "lemma": "about",
+                  "surface": "about"
+                },
+                {
+                  "gloss": "革命性的",
+                  "lemma": "revolutionary",
+                  "surface": "revolutionary"
+                },
+                {
+                  "gloss": "变化",
+                  "lemma": "change",
+                  "surface": "change"
+                }
+              ],
+              "B": [
+                {
+                  "gloss": "技术的",
+                  "lemma": "technological",
+                  "surface": "Technological"
+                },
+                {
+                  "gloss": "创新",
+                  "lemma": "innovation",
+                  "surface": "innovation"
+                },
+                {
+                  "gloss": "是",
+                  "lemma": "be",
+                  "surface": "is"
+                },
+                {
+                  "gloss": "不可或缺的",
+                  "lemma": "integral",
+                  "surface": "integral"
+                },
+                {
+                  "gloss": "对",
+                  "lemma": "to",
+                  "surface": "to"
+                },
+                {
+                  "gloss": "经济的",
+                  "lemma": "economic",
+                  "surface": "economic"
+                },
+                {
+                  "gloss": "成功",
+                  "lemma": "success",
+                  "surface": "success"
+                }
+              ],
+              "C": [
+                {
+                  "gloss": "技术",
+                  "lemma": "technology",
+                  "surface": "Technology"
+                },
+                {
+                  "gloss": "定义",
+                  "lemma": "define",
+                  "surface": "defines"
+                },
+                {
+                  "gloss": "人们的",
+                  "lemma": "people",
+                  "surface": "people’s"
+                },
+                {
+                  "gloss": "理解",
+                  "lemma": "understanding",
+                  "surface": "understanding"
+                },
+                {
+                  "gloss": "关于",
+                  "lemma": "of",
+                  "surface": "of"
+                },
+                {
+                  "gloss": "这个",
+                  "lemma": "the",
+                  "surface": "the"
+                },
+                {
+                  "gloss": "世界",
+                  "lemma": "world",
+                  "surface": "world"
+                }
+              ],
+              "D": [
+                {
+                  "gloss": "复杂的",
+                  "lemma": "sophisticated",
+                  "surface": "Sophisticated"
+                },
+                {
+                  "gloss": "技术",
+                  "lemma": "technology",
+                  "surface": "technologies"
+                },
+                {
+                  "gloss": "发展",
+                  "lemma": "develop",
+                  "surface": "develop"
+                },
+                {
+                  "gloss": "从",
+                  "lemma": "from",
+                  "surface": "from"
+                },
+                {
+                  "gloss": "小的",
+                  "lemma": "small",
+                  "surface": "small"
+                },
+                {
+                  "gloss": "发明",
+                  "lemma": "invention",
+                  "surface": "inventions"
+                }
+              ]
+            },
+            "options": [
+              "A) Cheap technologies bring about revolutionary change.",
+              "B) Technological innovation is integral to economic success.",
+              "C) Technology defines people’s understanding of the world.",
+              "D) Sophisticated technologies develop from small inventions."
+            ],
+            "qid": 2024011025,
+            "text": "Which of the following best summarises the last two paragraphs?",
+            "text_tokens": [
+              {
+                "gloss": "哪一个",
+                "lemma": "which",
+                "surface": "Which"
+              },
+              {
+                "gloss": "的",
+                "lemma": "of",
+                "surface": "of"
+              },
+              {
+                "gloss": "这个",
+                "lemma": "the",
+                "surface": "the"
+              },
+              {
+                "gloss": "以下的",
+                "lemma": "follow",
+                "surface": "following"
+              },
+              {
+                "gloss": "最",
+                "lemma": "best",
+                "surface": "best"
+              },
+              {
+                "gloss": "概括",
+                "lemma": "summarise",
+                "surface": "summarises"
+              },
+              {
+                "gloss": "这个",
+                "lemma": "the",
+                "surface": "the"
+              },
+              {
+                "gloss": "最后的",
+                "lemma": "last",
+                "surface": "last"
+              },
+              {
+                "gloss": "两个",
+                "lemma": "two",
+                "surface": "two"
+              },
+              {
+                "gloss": "段落",
+                "lemma": "paragraph",
+                "surface": "paragraphs"
+              }
+            ]
+          }
+        ],
+        "title": "Text 1"
+      },
+      "directions": "Read the following four texts. Answer the questions below each text by choosing A, B, C or\nD. Mark your answers on the ANSWER SHEET. (10 points for each text)",
+      "exam_info": "2024(1)",
+      "exam_type": "kaoyan",
+      "id": 202401002,
+      "key_words": "nails price nail roman after romans technologies technology two buried burn changed changing cheap down early inventions iron one sichel text valuable world all answer caledonians cars century change cheaper civilisations clearly cost costly deep didn different discovered each economist efficient energy falling following four grade haven late manufacturers million more most much nearly new out paper points raw rushed same scarce since sophisticated sports still studied technological tons use value virginians want ways weapon withdrawal writing years absurd according",
+      "kid": 15,
+      "part": "Part III",
+      "section": "Sec C",
+      "task_key": "2024(1)_Section II_Part A_Text1",
+      "type": "Reading Comprehension"
+    }
+  ]
+}

@@ -1,0 +1,3420 @@
+{
+  "sentences": [
+    {
+      "cn_text": "科学论文是研究进展的记录载体。",
+      "en_text": "Scientific papers are the recordkeepers of progress in research.",
+      "id": 2023013136,
+      "order_seq": "content_1_1",
+      "task_id": 202301005,
+      "tokens": [
+        {
+          "gloss": "科学的",
+          "lemma": "scientific",
+          "surface": "Scientific"
+        },
+        {
+          "gloss": "论文",
+          "lemma": "paper",
+          "surface": "papers"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "are"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "记录者",
+          "lemma": "recordkeeper",
+          "surface": "recordkeepers"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "进展",
+          "lemma": "progress",
+          "surface": "progress"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "研究",
+          "lemma": "research",
+          "surface": "research"
+        }
+      ]
+    },
+    {
+      "cn_text": "研究人员每年在超过30,000种期刊上发表数百万篇论文。",
+      "en_text": "Each year researchers publish millions of papers in more than 30,000 journals.",
+      "id": 2023013137,
+      "order_seq": "content_1_2",
+      "task_id": 202301005,
+      "tokens": [
+        {
+          "gloss": "每个",
+          "lemma": "each",
+          "surface": "Each"
+        },
+        {
+          "gloss": "年",
+          "lemma": "year",
+          "surface": "year"
+        },
+        {
+          "gloss": "研究人员",
+          "lemma": "researcher",
+          "surface": "researchers"
+        },
+        {
+          "gloss": "发表",
+          "lemma": "publish",
+          "surface": "publish"
+        },
+        {
+          "gloss": "百万",
+          "lemma": "million",
+          "surface": "millions"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "论文",
+          "lemma": "paper",
+          "surface": "papers"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "超过",
+          "lemma": "more",
+          "surface": "more"
+        },
+        {
+          "gloss": "比",
+          "lemma": "than",
+          "surface": "than"
+        },
+        {
+          "gloss": "期刊",
+          "lemma": "journal",
+          "surface": "journals"
+        }
+      ]
+    },
+    {
+      "cn_text": "科学界通过多种方式衡量这些论文的质量,包括期刊的公认质量(体现为该期刊的影响因子)以及特定论文所积累的引用次数。",
+      "en_text": "The scientific community measures the quality of those papers in a number of ways, including the perceived quality of the journal (as reflected by the title’s impact factor) and the number of citations a specific paper accumulates.",
+      "id": 2023013138,
+      "order_seq": "content_1_3",
+      "task_id": 202301005,
+      "tokens": [
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "The"
+        },
+        {
+          "gloss": "科学的",
+          "lemma": "scientific",
+          "surface": "scientific"
+        },
+        {
+          "gloss": "社区",
+          "lemma": "community",
+          "surface": "community"
+        },
+        {
+          "gloss": "衡量",
+          "lemma": "measure",
+          "surface": "measures"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "质量",
+          "lemma": "quality",
+          "surface": "quality"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "那些",
+          "lemma": "those",
+          "surface": "those"
+        },
+        {
+          "gloss": "论文",
+          "lemma": "paper",
+          "surface": "papers"
+        },
+        {
+          "gloss": "通过",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "数量",
+          "lemma": "number",
+          "surface": "number"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "方式",
+          "lemma": "way",
+          "surface": "ways"
+        },
+        {
+          "gloss": "包括",
+          "lemma": "include",
+          "surface": "including"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "公认的",
+          "lemma": "perceive",
+          "surface": "perceived"
+        },
+        {
+          "gloss": "质量",
+          "lemma": "quality",
+          "surface": "quality"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "期刊",
+          "lemma": "journal",
+          "surface": "journal"
+        },
+        {
+          "gloss": "如同",
+          "lemma": "as",
+          "surface": "as"
+        },
+        {
+          "gloss": "反映",
+          "lemma": "reflect",
+          "surface": "reflected"
+        },
+        {
+          "gloss": "通过",
+          "lemma": "by",
+          "surface": "by"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "标题",
+          "lemma": "title",
+          "surface": "title’s"
+        },
+        {
+          "gloss": "影响",
+          "lemma": "impact",
+          "surface": "impact"
+        },
+        {
+          "gloss": "因子",
+          "lemma": "factor",
+          "surface": "factor"
+        },
+        {
+          "gloss": "以及",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "数量",
+          "lemma": "number",
+          "surface": "number"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "引用",
+          "lemma": "citation",
+          "surface": "citations"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "特定的",
+          "lemma": "specific",
+          "surface": "specific"
+        },
+        {
+          "gloss": "论文",
+          "lemma": "paper",
+          "surface": "paper"
+        },
+        {
+          "gloss": "积累",
+          "lemma": "accumulate",
+          "surface": "accumulates"
+        }
+      ]
+    },
+    {
+      "cn_text": "科学家的职业发展和所在机构的声誉取决于其发表论文的数量和声望,但更取决于这些论文所获得的引用次数。",
+      "en_text": "The careers of scientists and the reputation of their institutions depend on the number and prestige of the papers they produce, but even more so on the citations attracted by these papers.",
+      "id": 2023013139,
+      "order_seq": "content_1_4",
+      "task_id": 202301005,
+      "tokens": [
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "The"
+        },
+        {
+          "gloss": "职业生涯",
+          "lemma": "career",
+          "surface": "careers"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "科学家",
+          "lemma": "scientist",
+          "surface": "scientists"
+        },
+        {
+          "gloss": "以及",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "声誉",
+          "lemma": "reputation",
+          "surface": "reputation"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "他们的",
+          "lemma": "their",
+          "surface": "their"
+        },
+        {
+          "gloss": "机构",
+          "lemma": "institution",
+          "surface": "institutions"
+        },
+        {
+          "gloss": "取决于",
+          "lemma": "depend",
+          "surface": "depend"
+        },
+        {
+          "gloss": "依赖于",
+          "lemma": "on",
+          "surface": "on"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "数量",
+          "lemma": "number",
+          "surface": "number"
+        },
+        {
+          "gloss": "以及",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "声望",
+          "lemma": "prestige",
+          "surface": "prestige"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "论文",
+          "lemma": "paper",
+          "surface": "papers"
+        },
+        {
+          "gloss": "他们",
+          "lemma": "they",
+          "surface": "they"
+        },
+        {
+          "gloss": "发表",
+          "lemma": "produce",
+          "surface": "produce"
+        },
+        {
+          "gloss": "但是",
+          "lemma": "but",
+          "surface": "but"
+        },
+        {
+          "gloss": "甚至",
+          "lemma": "even",
+          "surface": "even"
+        },
+        {
+          "gloss": "更",
+          "lemma": "more",
+          "surface": "more"
+        },
+        {
+          "gloss": "如此",
+          "lemma": "so",
+          "surface": "so"
+        },
+        {
+          "gloss": "依赖于",
+          "lemma": "on",
+          "surface": "on"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "引用",
+          "lemma": "citation",
+          "surface": "citations"
+        },
+        {
+          "gloss": "吸引",
+          "lemma": "attract",
+          "surface": "attracted"
+        },
+        {
+          "gloss": "通过",
+          "lemma": "by",
+          "surface": "by"
+        },
+        {
+          "gloss": "这些",
+          "lemma": "these",
+          "surface": "these"
+        },
+        {
+          "gloss": "论文",
+          "lemma": "paper",
+          "surface": "papers"
+        }
+      ]
+    },
+    {
+      "cn_text": "引用联盟,即期刊、作者和机构共谋虚增引用数量的行为,已存在很长时间。",
+      "en_text": "Citation cartels, where journals, authors, and institutions conspire to inflate citation numbers, have existed for a long time.",
+      "id": 2023013140,
+      "order_seq": "content_2_1",
+      "task_id": 202301005,
+      "tokens": [
+        {
+          "gloss": "引用",
+          "lemma": "citation",
+          "surface": "Citation"
+        },
+        {
+          "gloss": "联盟",
+          "lemma": "cartel",
+          "surface": "cartels"
+        },
+        {
+          "gloss": "在……的地方",
+          "lemma": "where",
+          "surface": "where"
+        },
+        {
+          "gloss": "期刊",
+          "lemma": "journal",
+          "surface": "journals"
+        },
+        {
+          "gloss": "作者",
+          "lemma": "author",
+          "surface": "authors"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "机构",
+          "lemma": "institution",
+          "surface": "institutions"
+        },
+        {
+          "gloss": "合谋",
+          "lemma": "conspire",
+          "surface": "conspire"
+        },
+        {
+          "gloss": "为了",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "夸大",
+          "lemma": "inflate",
+          "surface": "inflate"
+        },
+        {
+          "gloss": "引用",
+          "lemma": "citation",
+          "surface": "citation"
+        },
+        {
+          "gloss": "数量",
+          "lemma": "number",
+          "surface": "numbers"
+        },
+        {
+          "gloss": "已经",
+          "lemma": "have",
+          "surface": "have"
+        },
+        {
+          "gloss": "存在",
+          "lemma": "exist",
+          "surface": "existed"
+        },
+        {
+          "gloss": "持续",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "长的",
+          "lemma": "long",
+          "surface": "long"
+        },
+        {
+          "gloss": "时间",
+          "lemma": "time",
+          "surface": "time"
+        }
+      ]
+    },
+    {
+      "cn_text": "2016年,研究人员开发了一种算法来识别可疑的引用模式,包括作者群体之间的不成比例相互引用,以及期刊群体之间通过频繁相互引用来提高其出版物影响因子的行为。",
+      "en_text": "In 2016, researchers developed an algorithm to recognize suspicious citation patterns, including groups of authors that disproportionately cite one another and groups of journals that cite each other frequently to increase the impact factors of their publications.",
+      "id": 2023013141,
+      "order_seq": "content_2_2",
+      "task_id": 202301005,
+      "tokens": [
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "In"
+        },
+        {
+          "gloss": "研究人员",
+          "lemma": "researcher",
+          "surface": "researchers"
+        },
+        {
+          "gloss": "开发",
+          "lemma": "develop",
+          "surface": "developed"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "an",
+          "surface": "an"
+        },
+        {
+          "gloss": "算法",
+          "lemma": "algorithm",
+          "surface": "algorithm"
+        },
+        {
+          "gloss": "为了",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "识别",
+          "lemma": "recognize",
+          "surface": "recognize"
+        },
+        {
+          "gloss": "可疑的",
+          "lemma": "suspicious",
+          "surface": "suspicious"
+        },
+        {
+          "gloss": "引用",
+          "lemma": "citation",
+          "surface": "citation"
+        },
+        {
+          "gloss": "模式",
+          "lemma": "pattern",
+          "surface": "patterns"
+        },
+        {
+          "gloss": "包括",
+          "lemma": "include",
+          "surface": "including"
+        },
+        {
+          "gloss": "群体",
+          "lemma": "group",
+          "surface": "groups"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "作者",
+          "lemma": "author",
+          "surface": "authors"
+        },
+        {
+          "gloss": "那些",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "不成比例地",
+          "lemma": "disproportionately",
+          "surface": "disproportionately"
+        },
+        {
+          "gloss": "引用",
+          "lemma": "cite",
+          "surface": "cite"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "one",
+          "surface": "one"
+        },
+        {
+          "gloss": "另一个",
+          "lemma": "another",
+          "surface": "another"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "群体",
+          "lemma": "group",
+          "surface": "groups"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "期刊",
+          "lemma": "journal",
+          "surface": "journals"
+        },
+        {
+          "gloss": "那些",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "引用",
+          "lemma": "cite",
+          "surface": "cite"
+        },
+        {
+          "gloss": "每个",
+          "lemma": "each",
+          "surface": "each"
+        },
+        {
+          "gloss": "彼此",
+          "lemma": "other",
+          "surface": "other"
+        },
+        {
+          "gloss": "频繁地",
+          "lemma": "frequently",
+          "surface": "frequently"
+        },
+        {
+          "gloss": "为了",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "提高",
+          "lemma": "increase",
+          "surface": "increase"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "影响",
+          "lemma": "impact",
+          "surface": "impact"
+        },
+        {
+          "gloss": "因子",
+          "lemma": "factor",
+          "surface": "factors"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "他们的",
+          "lemma": "their",
+          "surface": "their"
+        },
+        {
+          "gloss": "出版物",
+          "lemma": "publication",
+          "surface": "publications"
+        }
+      ]
+    },
+    {
+      "cn_text": "近来,这种掠夺性行为出现了新的表现形式:所谓的支持服务咨询机构为个别作者和期刊提供语言及其他编辑支持,有时会建议投稿者在其文章中添加若干引用。",
+      "en_text": "Recently, another expression of this predatory behavior has emerged: so-called support service consultancies that provide language and other editorial support to individual authors and to journals sometimes advise contributors to add a number of citations to their articles.",
+      "id": 2023013142,
+      "order_seq": "content_2_3",
+      "task_id": 202301005,
+      "tokens": [
+        {
+          "gloss": "最近",
+          "lemma": "recently",
+          "surface": "Recently"
+        },
+        {
+          "gloss": "另一种",
+          "lemma": "another",
+          "surface": "another"
+        },
+        {
+          "gloss": "表现",
+          "lemma": "expression",
+          "surface": "expression"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "这种",
+          "lemma": "this",
+          "surface": "this"
+        },
+        {
+          "gloss": "掠夺性的",
+          "lemma": "predatory",
+          "surface": "predatory"
+        },
+        {
+          "gloss": "行为",
+          "lemma": "behavior",
+          "surface": "behavior"
+        },
+        {
+          "gloss": "已经",
+          "lemma": "have",
+          "surface": "has"
+        },
+        {
+          "gloss": "出现",
+          "lemma": "emerge",
+          "surface": "emerged"
+        },
+        {
+          "gloss": "如此",
+          "lemma": "so",
+          "surface": "so"
+        },
+        {
+          "gloss": "所谓的",
+          "lemma": "call",
+          "surface": "called"
+        },
+        {
+          "gloss": "支持",
+          "lemma": "support",
+          "surface": "support"
+        },
+        {
+          "gloss": "服务",
+          "lemma": "service",
+          "surface": "service"
+        },
+        {
+          "gloss": "咨询公司",
+          "lemma": "consultancy",
+          "surface": "consultancies"
+        },
+        {
+          "gloss": "那些",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "提供",
+          "lemma": "provide",
+          "surface": "provide"
+        },
+        {
+          "gloss": "语言",
+          "lemma": "language",
+          "surface": "language"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "其他的",
+          "lemma": "other",
+          "surface": "other"
+        },
+        {
+          "gloss": "编辑的",
+          "lemma": "editorial",
+          "surface": "editorial"
+        },
+        {
+          "gloss": "支持",
+          "lemma": "support",
+          "surface": "support"
+        },
+        {
+          "gloss": "给",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "个人的",
+          "lemma": "individual",
+          "surface": "individual"
+        },
+        {
+          "gloss": "作者",
+          "lemma": "author",
+          "surface": "authors"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "给",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "期刊",
+          "lemma": "journal",
+          "surface": "journals"
+        },
+        {
+          "gloss": "有时",
+          "lemma": "sometimes",
+          "surface": "sometimes"
+        },
+        {
+          "gloss": "建议",
+          "lemma": "advise",
+          "surface": "advise"
+        },
+        {
+          "gloss": "投稿者",
+          "lemma": "contributor",
+          "surface": "contributors"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "添加",
+          "lemma": "add",
+          "surface": "add"
+        },
+        {
+          "gloss": "一些",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "数量",
+          "lemma": "number",
+          "surface": "number"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "引用",
+          "lemma": "citation",
+          "surface": "citations"
+        },
+        {
+          "gloss": "到",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "他们的",
+          "lemma": "their",
+          "surface": "their"
+        },
+        {
+          "gloss": "文章",
+          "lemma": "article",
+          "surface": "articles"
+        }
+      ]
+    },
+    {
+      "cn_text": "电子出版的兴起以及作者寻找论文发表平台的需求催生了数千种新期刊。",
+      "en_text": "The advent of electronic publishing and authors’ need to find outlets for their papers resulted in thousands of new journals.",
+      "id": 2023013143,
+      "order_seq": "content_3_1",
+      "task_id": 202301005,
+      "tokens": [
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "The"
+        },
+        {
+          "gloss": "出现",
+          "lemma": "advent",
+          "surface": "advent"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "电子的",
+          "lemma": "electronic",
+          "surface": "electronic"
+        },
+        {
+          "gloss": "出版",
+          "lemma": "publish",
+          "surface": "publishing"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "作者",
+          "lemma": "author",
+          "surface": "authors"
+        },
+        {
+          "gloss": "需求",
+          "lemma": "need",
+          "surface": "need"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "寻找",
+          "lemma": "find",
+          "surface": "find"
+        },
+        {
+          "gloss": "渠道",
+          "lemma": "outlet",
+          "surface": "outlets"
+        },
+        {
+          "gloss": "为了",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "他们的",
+          "lemma": "their",
+          "surface": "their"
+        },
+        {
+          "gloss": "论文",
+          "lemma": "paper",
+          "surface": "papers"
+        },
+        {
+          "gloss": "导致",
+          "lemma": "result",
+          "surface": "resulted"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "数千",
+          "lemma": "thousand",
+          "surface": "thousands"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "新的",
+          "lemma": "new",
+          "surface": "new"
+        },
+        {
+          "gloss": "期刊",
+          "lemma": "journal",
+          "surface": "journals"
+        }
+      ]
+    },
+    {
+      "cn_text": "掠夺性期刊的出现紧随其后。",
+      "en_text": "The birth of predatory journals wasn’t far behind.",
+      "id": 2023013144,
+      "order_seq": "content_3_2",
+      "task_id": 202301005,
+      "tokens": [
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "The"
+        },
+        {
+          "gloss": "诞生",
+          "lemma": "birth",
+          "surface": "birth"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "掠夺性的",
+          "lemma": "predatory",
+          "surface": "predatory"
+        },
+        {
+          "gloss": "期刊",
+          "lemma": "journal",
+          "surface": "journals"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "was"
+        },
+        {
+          "gloss": "不",
+          "lemma": "not",
+          "surface": "not"
+        },
+        {
+          "gloss": "远",
+          "lemma": "far",
+          "surface": "far"
+        },
+        {
+          "gloss": "之后",
+          "lemma": "behind",
+          "surface": "behind"
+        }
+      ]
+    },
+    {
+      "cn_text": "这些期刊可充当引用工具,某一期中的每篇文章都可能引用某篇特定论文或一系列论文。",
+      "en_text": "These journals can act as milk cows where every single article in an issue may cite a specific paper or a series of papers.",
+      "id": 2023013145,
+      "order_seq": "content_3_3",
+      "task_id": 202301005,
+      "tokens": [
+        {
+          "gloss": "这些",
+          "lemma": "these",
+          "surface": "These"
+        },
+        {
+          "gloss": "期刊",
+          "lemma": "journal",
+          "surface": "journals"
+        },
+        {
+          "gloss": "可以",
+          "lemma": "can",
+          "surface": "can"
+        },
+        {
+          "gloss": "充当",
+          "lemma": "act",
+          "surface": "act"
+        },
+        {
+          "gloss": "作为",
+          "lemma": "as",
+          "surface": "as"
+        },
+        {
+          "gloss": "奶",
+          "lemma": "milk",
+          "surface": "milk"
+        },
+        {
+          "gloss": "奶牛",
+          "lemma": "cow",
+          "surface": "cows"
+        },
+        {
+          "gloss": "在……的地方",
+          "lemma": "where",
+          "surface": "where"
+        },
+        {
+          "gloss": "每一个",
+          "lemma": "every",
+          "surface": "every"
+        },
+        {
+          "gloss": "单个的",
+          "lemma": "single",
+          "surface": "single"
+        },
+        {
+          "gloss": "文章",
+          "lemma": "article",
+          "surface": "article"
+        },
+        {
+          "gloss": "在……中",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "an",
+          "surface": "an"
+        },
+        {
+          "gloss": "期刊的一期",
+          "lemma": "issue",
+          "surface": "issue"
+        },
+        {
+          "gloss": "可能",
+          "lemma": "may",
+          "surface": "may"
+        },
+        {
+          "gloss": "引用",
+          "lemma": "cite",
+          "surface": "cite"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "特定的",
+          "lemma": "specific",
+          "surface": "specific"
+        },
+        {
+          "gloss": "论文",
+          "lemma": "paper",
+          "surface": "paper"
+        },
+        {
+          "gloss": "或",
+          "lemma": "or",
+          "surface": "or"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "一系列",
+          "lemma": "series",
+          "surface": "series"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "论文",
+          "lemma": "paper",
+          "surface": "papers"
+        }
+      ]
+    },
+    {
+      "cn_text": "在某些情况下,文章内容与所引文献之间毫无关联。",
+      "en_text": "In some instances, there is absolutely no relationship between the content of the article and the citations.",
+      "id": 2023013146,
+      "order_seq": "content_3_4",
+      "task_id": 202301005,
+      "tokens": [
+        {
+          "gloss": "在……中",
+          "lemma": "in",
+          "surface": "In"
+        },
+        {
+          "gloss": "某些",
+          "lemma": "some",
+          "surface": "some"
+        },
+        {
+          "gloss": "情况",
+          "lemma": "instance",
+          "surface": "instances"
+        },
+        {
+          "gloss": "存在",
+          "lemma": "there",
+          "surface": "there"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "完全地",
+          "lemma": "absolutely",
+          "surface": "absolutely"
+        },
+        {
+          "gloss": "没有",
+          "lemma": "no",
+          "surface": "no"
+        },
+        {
+          "gloss": "关系",
+          "lemma": "relationship",
+          "surface": "relationship"
+        },
+        {
+          "gloss": "在……之间",
+          "lemma": "between",
+          "surface": "between"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "内容",
+          "lemma": "content",
+          "surface": "content"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "文章",
+          "lemma": "article",
+          "surface": "article"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "这些",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "引用",
+          "lemma": "citation",
+          "surface": "citations"
+        }
+      ]
+    },
+    {
+      "cn_text": "奇怪之处在于,编辑名义上服务的期刊本身并未从中获利——它只是为其他期刊提供引用。",
+      "en_text": "The peculiar part is that the journal that the editor is supposedly working for is not profiting at all — it is just providing citations to other journals.",
+      "id": 2023013147,
+      "order_seq": "content_3_5",
+      "task_id": 202301005,
+      "tokens": [
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "The"
+        },
+        {
+          "gloss": "奇怪的",
+          "lemma": "peculiar",
+          "surface": "peculiar"
+        },
+        {
+          "gloss": "部分",
+          "lemma": "part",
+          "surface": "part"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "表明",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "期刊",
+          "lemma": "journal",
+          "surface": "journal"
+        },
+        {
+          "gloss": "那个",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "编辑",
+          "lemma": "editor",
+          "surface": "editor"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "据称",
+          "lemma": "supposedly",
+          "surface": "supposedly"
+        },
+        {
+          "gloss": "工作",
+          "lemma": "work",
+          "surface": "working"
+        },
+        {
+          "gloss": "为",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "不",
+          "lemma": "not",
+          "surface": "not"
+        },
+        {
+          "gloss": "盈利",
+          "lemma": "profit",
+          "surface": "profiting"
+        },
+        {
+          "gloss": "在",
+          "lemma": "at",
+          "surface": "at"
+        },
+        {
+          "gloss": "完全",
+          "lemma": "all",
+          "surface": "all"
+        },
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "it"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "只是",
+          "lemma": "just",
+          "surface": "just"
+        },
+        {
+          "gloss": "提供",
+          "lemma": "provide",
+          "surface": "providing"
+        },
+        {
+          "gloss": "引用",
+          "lemma": "citation",
+          "surface": "citations"
+        },
+        {
+          "gloss": "给",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "其他的",
+          "lemma": "other",
+          "surface": "other"
+        },
+        {
+          "gloss": "期刊",
+          "lemma": "journal",
+          "surface": "journals"
+        }
+      ]
+    },
+    {
+      "cn_text": "这种做法可使一篇文章在发表当年就累积超过150次引用。",
+      "en_text": "Such practices can lead an article to accrue more than 150 citations in the same year that it was published.",
+      "id": 2023013148,
+      "order_seq": "content_3_6",
+      "task_id": 202301005,
+      "tokens": [
+        {
+          "gloss": "这样的",
+          "lemma": "such",
+          "surface": "Such"
+        },
+        {
+          "gloss": "做法",
+          "lemma": "practice",
+          "surface": "practices"
+        },
+        {
+          "gloss": "能够",
+          "lemma": "can",
+          "surface": "can"
+        },
+        {
+          "gloss": "导致",
+          "lemma": "lead",
+          "surface": "lead"
+        },
+        {
+          "gloss": "一",
+          "lemma": "an",
+          "surface": "an"
+        },
+        {
+          "gloss": "文章",
+          "lemma": "article",
+          "surface": "article"
+        },
+        {
+          "gloss": "使",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "累积",
+          "lemma": "accrue",
+          "surface": "accrue"
+        },
+        {
+          "gloss": "超过",
+          "lemma": "more",
+          "surface": "more"
+        },
+        {
+          "gloss": "比",
+          "lemma": "than",
+          "surface": "than"
+        },
+        {
+          "gloss": "引用",
+          "lemma": "citation",
+          "surface": "citations"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "同一",
+          "lemma": "same",
+          "surface": "same"
+        },
+        {
+          "gloss": "年",
+          "lemma": "year",
+          "surface": "year"
+        },
+        {
+          "gloss": "当",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "it"
+        },
+        {
+          "gloss": "被",
+          "lemma": "be",
+          "surface": "was"
+        },
+        {
+          "gloss": "发表",
+          "lemma": "publish",
+          "surface": "published"
+        }
+      ]
+    },
+    {
+      "cn_text": "这类引用操纵有多隐蔽?",
+      "en_text": "How insidious is this type of citation manipulation?",
+      "id": 2023013149,
+      "order_seq": "content_4_1",
+      "task_id": 202301005,
+      "tokens": [
+        {
+          "gloss": "多么",
+          "lemma": "how",
+          "surface": "How"
+        },
+        {
+          "gloss": "隐蔽的",
+          "lemma": "insidious",
+          "surface": "insidious"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "这种",
+          "lemma": "this",
+          "surface": "this"
+        },
+        {
+          "gloss": "类型",
+          "lemma": "type",
+          "surface": "type"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "引用",
+          "lemma": "citation",
+          "surface": "citation"
+        },
+        {
+          "gloss": "操控",
+          "lemma": "manipulation",
+          "surface": "manipulation"
+        }
+      ]
+    },
+    {
+      "cn_text": "在一个案例中,某个人同时担任作者、编辑和顾问,能够利用至少15种期刊为三所大学五位科学家发表的文章提供引用。",
+      "en_text": "In one example, an individual — acting as author, editor, and consultant — was able to use at least 15 journals as citation providers to articles published by five scientists at three universities.",
+      "id": 2023013150,
+      "order_seq": "content_4_2",
+      "task_id": 202301005,
+      "tokens": [
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "In"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "one",
+          "surface": "one"
+        },
+        {
+          "gloss": "例子",
+          "lemma": "example",
+          "surface": "example"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "an",
+          "surface": "an"
+        },
+        {
+          "gloss": "人",
+          "lemma": "individual",
+          "surface": "individual"
+        },
+        {
+          "gloss": "担任",
+          "lemma": "act",
+          "surface": "acting"
+        },
+        {
+          "gloss": "作为",
+          "lemma": "as",
+          "surface": "as"
+        },
+        {
+          "gloss": "作者",
+          "lemma": "author",
+          "surface": "author"
+        },
+        {
+          "gloss": "编辑",
+          "lemma": "editor",
+          "surface": "editor"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "顾问",
+          "lemma": "consultant",
+          "surface": "consultant"
+        },
+        {
+          "gloss": "能够",
+          "lemma": "be",
+          "surface": "was"
+        },
+        {
+          "gloss": "能够",
+          "lemma": "able",
+          "surface": "able"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "利用",
+          "lemma": "use",
+          "surface": "use"
+        },
+        {
+          "gloss": "至少",
+          "lemma": "at",
+          "surface": "at"
+        },
+        {
+          "gloss": "最少",
+          "lemma": "least",
+          "surface": "least"
+        },
+        {
+          "gloss": "期刊",
+          "lemma": "journal",
+          "surface": "journals"
+        },
+        {
+          "gloss": "作为",
+          "lemma": "as",
+          "surface": "as"
+        },
+        {
+          "gloss": "引用",
+          "lemma": "citation",
+          "surface": "citation"
+        },
+        {
+          "gloss": "提供者",
+          "lemma": "provider",
+          "surface": "providers"
+        },
+        {
+          "gloss": "为",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "文章",
+          "lemma": "article",
+          "surface": "articles"
+        },
+        {
+          "gloss": "发表",
+          "lemma": "publish",
+          "surface": "published"
+        },
+        {
+          "gloss": "由",
+          "lemma": "by",
+          "surface": "by"
+        },
+        {
+          "gloss": "五",
+          "lemma": "five",
+          "surface": "five"
+        },
+        {
+          "gloss": "科学家",
+          "lemma": "scientist",
+          "surface": "scientists"
+        },
+        {
+          "gloss": "在",
+          "lemma": "at",
+          "surface": "at"
+        },
+        {
+          "gloss": "三",
+          "lemma": "three",
+          "surface": "three"
+        },
+        {
+          "gloss": "大学",
+          "lemma": "university",
+          "surface": "universities"
+        }
+      ]
+    },
+    {
+      "cn_text": "这一问题在引文数据库Scopus中十分猖獗,该数据库收录了大量新的「国际」期刊。",
+      "en_text": "The problem is rampant in Scopus, a citation database, which includes a high number of the new “international” journals.",
+      "id": 2023013151,
+      "order_seq": "content_4_3",
+      "task_id": 202301005,
+      "tokens": [
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "The"
+        },
+        {
+          "gloss": "问题",
+          "lemma": "problem",
+          "surface": "problem"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "猖獗的",
+          "lemma": "rampant",
+          "surface": "rampant"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "Scopus",
+          "lemma": "scopus",
+          "surface": "Scopus"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "引文",
+          "lemma": "citation",
+          "surface": "citation"
+        },
+        {
+          "gloss": "数据库",
+          "lemma": "database",
+          "surface": "database"
+        },
+        {
+          "gloss": "其",
+          "lemma": "which",
+          "surface": "which"
+        },
+        {
+          "gloss": "包含",
+          "lemma": "include",
+          "surface": "includes"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "大量的",
+          "lemma": "high",
+          "surface": "high"
+        },
+        {
+          "gloss": "数量",
+          "lemma": "number",
+          "surface": "number"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "这些",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "新的",
+          "lemma": "new",
+          "surface": "new"
+        },
+        {
+          "gloss": "国际的",
+          "lemma": "international",
+          "surface": "international"
+        },
+        {
+          "gloss": "期刊",
+          "lemma": "journal",
+          "surface": "journals"
+        }
+      ]
+    },
+    {
+      "cn_text": "事实上,被Scopus收录似乎成为这类引用操纵的目标标准。",
+      "en_text": "In fact, a listing in Scopus seems to be a criterion to be targeted in this type of citation manipulation.",
+      "id": 2023013152,
+      "order_seq": "content_4_4",
+      "task_id": 202301005,
+      "tokens": [
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "In"
+        },
+        {
+          "gloss": "事实",
+          "lemma": "fact",
+          "surface": "fact"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "收录",
+          "lemma": "listing",
+          "surface": "listing"
+        },
+        {
+          "gloss": "在...中",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "Scopus",
+          "lemma": "scopus",
+          "surface": "Scopus"
+        },
+        {
+          "gloss": "似乎",
+          "lemma": "seem",
+          "surface": "seems"
+        },
+        {
+          "gloss": "作为",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "be"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "标准",
+          "lemma": "criterion",
+          "surface": "criterion"
+        },
+        {
+          "gloss": "在",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "被",
+          "lemma": "be",
+          "surface": "be"
+        },
+        {
+          "gloss": "针对",
+          "lemma": "target",
+          "surface": "targeted"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "这种",
+          "lemma": "this",
+          "surface": "this"
+        },
+        {
+          "gloss": "类型",
+          "lemma": "type",
+          "surface": "type"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "引用",
+          "lemma": "citation",
+          "surface": "citation"
+        },
+        {
+          "gloss": "操纵",
+          "lemma": "manipulation",
+          "surface": "manipulation"
+        }
+      ]
+    },
+    {
+      "cn_text": "Scopus本身拥有检测此类不当行为所需的全部数据。",
+      "en_text": "Scopus itself has all the data necessary to detect this malpractice.",
+      "id": 2023013153,
+      "order_seq": "content_5_1",
+      "task_id": 202301005,
+      "tokens": [
+        {
+          "gloss": "Scopus",
+          "lemma": "scopus",
+          "surface": "Scopus"
+        },
+        {
+          "gloss": "本身",
+          "lemma": "itself",
+          "surface": "itself"
+        },
+        {
+          "gloss": "拥有",
+          "lemma": "have",
+          "surface": "has"
+        },
+        {
+          "gloss": "全部",
+          "lemma": "all",
+          "surface": "all"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "数据",
+          "lemma": "data",
+          "surface": "data"
+        },
+        {
+          "gloss": "必要的",
+          "lemma": "necessary",
+          "surface": "necessary"
+        },
+        {
+          "gloss": "用于",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "检测",
+          "lemma": "detect",
+          "surface": "detect"
+        },
+        {
+          "gloss": "这种",
+          "lemma": "this",
+          "surface": "this"
+        },
+        {
+          "gloss": "不当行为",
+          "lemma": "malpractice",
+          "surface": "malpractice"
+        }
+      ]
+    },
+    {
+      "cn_text": "警示信号包括某篇文章在发表第一年内就获得大量引用。",
+      "en_text": "Red flags include a large number of citations to an article within the first year.",
+      "id": 2023013154,
+      "order_seq": "content_5_2",
+      "task_id": 202301005,
+      "tokens": [
+        {
+          "gloss": "红色的",
+          "lemma": "red",
+          "surface": "Red"
+        },
+        {
+          "gloss": "信号",
+          "lemma": "flag",
+          "surface": "flags"
+        },
+        {
+          "gloss": "包括",
+          "lemma": "include",
+          "surface": "include"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "大量的",
+          "lemma": "large",
+          "surface": "large"
+        },
+        {
+          "gloss": "数量",
+          "lemma": "number",
+          "surface": "number"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "引用",
+          "lemma": "citation",
+          "surface": "citations"
+        },
+        {
+          "gloss": "对",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "一篇",
+          "lemma": "an",
+          "surface": "an"
+        },
+        {
+          "gloss": "文章",
+          "lemma": "article",
+          "surface": "article"
+        },
+        {
+          "gloss": "在...内",
+          "lemma": "within",
+          "surface": "within"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "第一",
+          "lemma": "first",
+          "surface": "first"
+        },
+        {
+          "gloss": "年",
+          "lemma": "year",
+          "surface": "year"
+        }
+      ]
+    },
+    {
+      "cn_text": "对于希望避开引用联盟活动的作者而言:当编辑、审稿人或支持服务机构要求您添加不当引用时,切勿照做,并应向期刊举报这一要求。",
+      "en_text": "And for authors who wish to steer clear of citation cartel activities: when an editor, a reviewer, or a support service asks you to add inappropriate references, do not oblige and do report the request to the journal.",
+      "id": 2023013155,
+      "order_seq": "content_5_3",
+      "task_id": 202301005,
+      "tokens": [
+        {
+          "gloss": "并且",
+          "lemma": "and",
+          "surface": "And"
+        },
+        {
+          "gloss": "对于",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "作者",
+          "lemma": "author",
+          "surface": "authors"
+        },
+        {
+          "gloss": "谁",
+          "lemma": "who",
+          "surface": "who"
+        },
+        {
+          "gloss": "希望",
+          "lemma": "wish",
+          "surface": "wish"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "远离",
+          "lemma": "steer",
+          "surface": "steer"
+        },
+        {
+          "gloss": "清楚的",
+          "lemma": "clear",
+          "surface": "clear"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "引用",
+          "lemma": "citation",
+          "surface": "citation"
+        },
+        {
+          "gloss": "联盟",
+          "lemma": "cartel",
+          "surface": "cartel"
+        },
+        {
+          "gloss": "活动",
+          "lemma": "activity",
+          "surface": "activities"
+        },
+        {
+          "gloss": "当",
+          "lemma": "when",
+          "surface": "when"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "an",
+          "surface": "an"
+        },
+        {
+          "gloss": "编辑",
+          "lemma": "editor",
+          "surface": "editor"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "审稿人",
+          "lemma": "reviewer",
+          "surface": "reviewer"
+        },
+        {
+          "gloss": "或",
+          "lemma": "or",
+          "surface": "or"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "支持",
+          "lemma": "support",
+          "surface": "support"
+        },
+        {
+          "gloss": "服务",
+          "lemma": "service",
+          "surface": "service"
+        },
+        {
+          "gloss": "要求",
+          "lemma": "ask",
+          "surface": "asks"
+        },
+        {
+          "gloss": "你",
+          "lemma": "you",
+          "surface": "you"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "添加",
+          "lemma": "add",
+          "surface": "add"
+        },
+        {
+          "gloss": "不恰当的",
+          "lemma": "inappropriate",
+          "surface": "inappropriate"
+        },
+        {
+          "gloss": "参考文献",
+          "lemma": "reference",
+          "surface": "references"
+        },
+        {
+          "gloss": "不要",
+          "lemma": "do",
+          "surface": "do"
+        },
+        {
+          "gloss": "不",
+          "lemma": "not",
+          "surface": "not"
+        },
+        {
+          "gloss": "顺从",
+          "lemma": "oblige",
+          "surface": "oblige"
+        },
+        {
+          "gloss": "并且",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "请",
+          "lemma": "do",
+          "surface": "do"
+        },
+        {
+          "gloss": "报告",
+          "lemma": "report",
+          "surface": "report"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "请求",
+          "lemma": "request",
+          "surface": "request"
+        },
+        {
+          "gloss": "向",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "期刊",
+          "lemma": "journal",
+          "surface": "journal"
+        }
+      ]
+    },
+    {
+      "cn_text": "根据第一段,科学家的职业发展可由____决定。",
+      "en_text": "According to Paragraph 1, the careers of scientists can be determined by ____",
+      "id": 2023013156,
+      "order_seq": "question_2023011036_stem",
+      "task_id": 202301005,
+      "tokens": [
+        {
+          "gloss": "根据",
+          "lemma": "according",
+          "surface": "According"
+        },
+        {
+          "gloss": "根据",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "段落",
+          "lemma": "paragraph",
+          "surface": "Paragraph"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "职业生涯",
+          "lemma": "career",
+          "surface": "careers"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "科学家",
+          "lemma": "scientist",
+          "surface": "scientists"
+        },
+        {
+          "gloss": "可以",
+          "lemma": "can",
+          "surface": "can"
+        },
+        {
+          "gloss": "被",
+          "lemma": "be",
+          "surface": "be"
+        },
+        {
+          "gloss": "决定",
+          "lemma": "determine",
+          "surface": "determined"
+        },
+        {
+          "gloss": "通过",
+          "lemma": "by",
+          "surface": "by"
+        }
+      ]
+    },
+    {
+      "cn_text": "其作品包含多少引用",
+      "en_text": "how many citations their works contain.",
+      "id": 2023013157,
+      "order_seq": "question_2023011036_A",
+      "task_id": 202301005,
+      "tokens": [
+        {
+          "gloss": "多少",
+          "lemma": "how",
+          "surface": "how"
+        },
+        {
+          "gloss": "许多",
+          "lemma": "many",
+          "surface": "many"
+        },
+        {
+          "gloss": "引用",
+          "lemma": "citation",
+          "surface": "citations"
+        },
+        {
+          "gloss": "他们的",
+          "lemma": "their",
+          "surface": "their"
+        },
+        {
+          "gloss": "作品",
+          "lemma": "work",
+          "surface": "works"
+        },
+        {
+          "gloss": "包含",
+          "lemma": "contain",
+          "surface": "contain"
+        }
+      ]
+    },
+    {
+      "cn_text": "其论文被引用的次数",
+      "en_text": "how many times their papers are cited.",
+      "id": 2023013158,
+      "order_seq": "question_2023011036_B",
+      "task_id": 202301005,
+      "tokens": [
+        {
+          "gloss": "多少",
+          "lemma": "how",
+          "surface": "how"
+        },
+        {
+          "gloss": "许多",
+          "lemma": "many",
+          "surface": "many"
+        },
+        {
+          "gloss": "次数",
+          "lemma": "time",
+          "surface": "times"
+        },
+        {
+          "gloss": "他们的",
+          "lemma": "their",
+          "surface": "their"
+        },
+        {
+          "gloss": "论文",
+          "lemma": "paper",
+          "surface": "papers"
+        },
+        {
+          "gloss": "被",
+          "lemma": "be",
+          "surface": "are"
+        },
+        {
+          "gloss": "引用",
+          "lemma": "cite",
+          "surface": "cited"
+        }
+      ]
+    },
+    {
+      "cn_text": "其合作者的声望",
+      "en_text": "the prestige of the people they work with.",
+      "id": 2023013159,
+      "order_seq": "question_2023011036_C",
+      "task_id": 202301005,
+      "tokens": [
+        {
+          "gloss": "他们",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "声望",
+          "lemma": "prestige",
+          "surface": "prestige"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "这些",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "人",
+          "lemma": "people",
+          "surface": "people"
+        },
+        {
+          "gloss": "他们",
+          "lemma": "they",
+          "surface": "they"
+        },
+        {
+          "gloss": "工作",
+          "lemma": "work",
+          "surface": "work"
+        },
+        {
+          "gloss": "与",
+          "lemma": "with",
+          "surface": "with"
+        }
+      ]
+    },
+    {
+      "cn_text": "其在科学界的地位",
+      "en_text": "the status they have in scientific circles.",
+      "id": 2023013160,
+      "order_seq": "question_2023011036_D",
+      "task_id": 202301005,
+      "tokens": [
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "地位",
+          "lemma": "status",
+          "surface": "status"
+        },
+        {
+          "gloss": "他们",
+          "lemma": "they",
+          "surface": "they"
+        },
+        {
+          "gloss": "拥有",
+          "lemma": "have",
+          "surface": "have"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "科学的",
+          "lemma": "scientific",
+          "surface": "scientific"
+        },
+        {
+          "gloss": "界",
+          "lemma": "circle",
+          "surface": "circles"
+        }
+      ]
+    },
+    {
+      "cn_text": "支持服务咨询机构往往会____",
+      "en_text": "The support service consultancies tend to ____",
+      "id": 2023013161,
+      "order_seq": "question_2023011037_stem",
+      "task_id": 202301005,
+      "tokens": [
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "The"
+        },
+        {
+          "gloss": "支持",
+          "lemma": "support",
+          "surface": "support"
+        },
+        {
+          "gloss": "服务",
+          "lemma": "service",
+          "surface": "service"
+        },
+        {
+          "gloss": "咨询公司",
+          "lemma": "consultancy",
+          "surface": "consultancies"
+        },
+        {
+          "gloss": "倾向于",
+          "lemma": "tend",
+          "surface": "tend"
+        },
+        {
+          "gloss": "于",
+          "lemma": "to",
+          "surface": "to"
+        }
+      ]
+    },
+    {
+      "cn_text": "向客户推荐期刊",
+      "en_text": "recommend journals to their clients.",
+      "id": 2023013162,
+      "order_seq": "question_2023011037_A",
+      "task_id": 202301005,
+      "tokens": [
+        {
+          "gloss": "推荐",
+          "lemma": "recommend",
+          "surface": "recommend"
+        },
+        {
+          "gloss": "期刊",
+          "lemma": "journal",
+          "surface": "journals"
+        },
+        {
+          "gloss": "向",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "他们的",
+          "lemma": "their",
+          "surface": "their"
+        },
+        {
+          "gloss": "客户",
+          "lemma": "client",
+          "surface": "clients"
+        }
+      ]
+    },
+    {
+      "cn_text": "为客户列出引用模式",
+      "en_text": "list citation patterns for their clients.",
+      "id": 2023013163,
+      "order_seq": "question_2023011037_B",
+      "task_id": 202301005,
+      "tokens": [
+        {
+          "gloss": "列出",
+          "lemma": "list",
+          "surface": "list"
+        },
+        {
+          "gloss": "引用",
+          "lemma": "citation",
+          "surface": "citation"
+        },
+        {
+          "gloss": "模式",
+          "lemma": "pattern",
+          "surface": "patterns"
+        },
+        {
+          "gloss": "为",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "他们的",
+          "lemma": "their",
+          "surface": "their"
+        },
+        {
+          "gloss": "客户",
+          "lemma": "client",
+          "surface": "clients"
+        }
+      ]
+    },
+    {
+      "cn_text": "要求作者添加额外引用",
+      "en_text": "ask authors to include extra citations.",
+      "id": 2023013164,
+      "order_seq": "question_2023011037_C",
+      "task_id": 202301005,
+      "tokens": [
+        {
+          "gloss": "要求",
+          "lemma": "ask",
+          "surface": "ask"
+        },
+        {
+          "gloss": "作者",
+          "lemma": "author",
+          "surface": "authors"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "加入",
+          "lemma": "include",
+          "surface": "include"
+        },
+        {
+          "gloss": "额外的",
+          "lemma": "extra",
+          "surface": "extra"
+        },
+        {
+          "gloss": "引用",
+          "lemma": "citation",
+          "surface": "citations"
+        }
+      ]
+    },
+    {
+      "cn_text": "建议投稿者相互引用",
+      "en_text": "advise contributors to cite each other.",
+      "id": 2023013165,
+      "order_seq": "question_2023011037_D",
+      "task_id": 202301005,
+      "tokens": [
+        {
+          "gloss": "建议",
+          "lemma": "advise",
+          "surface": "advise"
+        },
+        {
+          "gloss": "投稿者",
+          "lemma": "contributor",
+          "surface": "contributors"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "引用",
+          "lemma": "cite",
+          "surface": "cite"
+        },
+        {
+          "gloss": "每个",
+          "lemma": "each",
+          "surface": "each"
+        },
+        {
+          "gloss": "其他",
+          "lemma": "other",
+          "surface": "other"
+        }
+      ]
+    },
+    {
+      "cn_text": "「引用工具」期刊的作用是____",
+      "en_text": "The function of the “milk cow” journals is to ____",
+      "id": 2023013166,
+      "order_seq": "question_2023011038_stem",
+      "task_id": 202301005,
+      "tokens": [
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "The"
+        },
+        {
+          "gloss": "功能",
+          "lemma": "function",
+          "surface": "function"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "奶",
+          "lemma": "milk",
+          "surface": "milk"
+        },
+        {
+          "gloss": "牛",
+          "lemma": "cow",
+          "surface": "cow"
+        },
+        {
+          "gloss": "期刊",
+          "lemma": "journal",
+          "surface": "journals"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        }
+      ]
+    },
+    {
+      "cn_text": "提升特定作者的引用次数",
+      "en_text": "boost citation counts for certain authors.",
+      "id": 2023013167,
+      "order_seq": "question_2023011038_A",
+      "task_id": 202301005,
+      "tokens": [
+        {
+          "gloss": "提升",
+          "lemma": "boost",
+          "surface": "boost"
+        },
+        {
+          "gloss": "引用",
+          "lemma": "citation",
+          "surface": "citation"
+        },
+        {
+          "gloss": "次数",
+          "lemma": "count",
+          "surface": "counts"
+        },
+        {
+          "gloss": "为",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "某些",
+          "lemma": "certain",
+          "surface": "certain"
+        },
+        {
+          "gloss": "作者",
+          "lemma": "author",
+          "surface": "authors"
+        }
+      ]
+    },
+    {
+      "cn_text": "帮助学者低成本发表文章",
+      "en_text": "help scholars publish articles at low cost.",
+      "id": 2023013168,
+      "order_seq": "question_2023011038_B",
+      "task_id": 202301005,
+      "tokens": [
+        {
+          "gloss": "帮助",
+          "lemma": "help",
+          "surface": "help"
+        },
+        {
+          "gloss": "学者",
+          "lemma": "scholar",
+          "surface": "scholars"
+        },
+        {
+          "gloss": "发表",
+          "lemma": "publish",
+          "surface": "publish"
+        },
+        {
+          "gloss": "文章",
+          "lemma": "article",
+          "surface": "articles"
+        },
+        {
+          "gloss": "以",
+          "lemma": "at",
+          "surface": "at"
+        },
+        {
+          "gloss": "低的",
+          "lemma": "low",
+          "surface": "low"
+        },
+        {
+          "gloss": "成本",
+          "lemma": "cost",
+          "surface": "cost"
+        }
+      ]
+    },
+    {
+      "cn_text": "指导首次投稿者进行引用",
+      "en_text": "instruct first-time contributors in citation.",
+      "id": 2023013169,
+      "order_seq": "question_2023011038_C",
+      "task_id": 202301005,
+      "tokens": [
+        {
+          "gloss": "指导",
+          "lemma": "instruct",
+          "surface": "instruct"
+        },
+        {
+          "gloss": "首次的",
+          "lemma": "first",
+          "surface": "first"
+        },
+        {
+          "gloss": "时间",
+          "lemma": "time",
+          "surface": "time"
+        },
+        {
+          "gloss": "投稿者",
+          "lemma": "contributor",
+          "surface": "contributors"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "引用",
+          "lemma": "citation",
+          "surface": "citation"
+        }
+      ]
+    },
+    {
+      "cn_text": "增加新期刊的读者群",
+      "en_text": "increase the readership of new journals.",
+      "id": 2023013170,
+      "order_seq": "question_2023011038_D",
+      "task_id": 202301005,
+      "tokens": [
+        {
+          "gloss": "增加",
+          "lemma": "increase",
+          "surface": "increase"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "读者数量",
+          "lemma": "readership",
+          "surface": "readership"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "新的",
+          "lemma": "new",
+          "surface": "new"
+        },
+        {
+          "gloss": "期刊",
+          "lemma": "journal",
+          "surface": "journals"
+        }
+      ]
+    },
+    {
+      "cn_text": "从最后两段可以了解到关于Scopus的什么信息?",
+      "en_text": "What can be learned about Scopus from the last two paragraphs?",
+      "id": 2023013171,
+      "order_seq": "question_2023011039_stem",
+      "task_id": 202301005,
+      "tokens": [
+        {
+          "gloss": "什么",
+          "lemma": "what",
+          "surface": "What"
+        },
+        {
+          "gloss": "能够",
+          "lemma": "can",
+          "surface": "can"
+        },
+        {
+          "gloss": "被",
+          "lemma": "be",
+          "surface": "be"
+        },
+        {
+          "gloss": "了解到",
+          "lemma": "learn",
+          "surface": "learned"
+        },
+        {
+          "gloss": "关于",
+          "lemma": "about",
+          "surface": "about"
+        },
+        {
+          "gloss": "Scopus",
+          "lemma": "scopus",
+          "surface": "Scopus"
+        },
+        {
+          "gloss": "从",
+          "lemma": "from",
+          "surface": "from"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "最后的",
+          "lemma": "last",
+          "surface": "last"
+        },
+        {
+          "gloss": "两",
+          "lemma": "two",
+          "surface": "two"
+        },
+        {
+          "gloss": "段落",
+          "lemma": "paragraph",
+          "surface": "paragraphs"
+        }
+      ]
+    },
+    {
+      "cn_text": "它促进引文提供者之间的竞争",
+      "en_text": "It fosters competition among citation providers.",
+      "id": 2023013172,
+      "order_seq": "question_2023011039_A",
+      "task_id": 202301005,
+      "tokens": [
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "It"
+        },
+        {
+          "gloss": "促进",
+          "lemma": "foster",
+          "surface": "fosters"
+        },
+        {
+          "gloss": "竞争",
+          "lemma": "competition",
+          "surface": "competition"
+        },
+        {
+          "gloss": "在……之间",
+          "lemma": "among",
+          "surface": "among"
+        },
+        {
+          "gloss": "引文",
+          "lemma": "citation",
+          "surface": "citation"
+        },
+        {
+          "gloss": "提供者",
+          "lemma": "provider",
+          "surface": "providers"
+        }
+      ]
+    },
+    {
+      "cn_text": "它有能力识别可疑引用",
+      "en_text": "It has the capability to identify suspicious citations.",
+      "id": 2023013173,
+      "order_seq": "question_2023011039_B",
+      "task_id": 202301005,
+      "tokens": [
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "It"
+        },
+        {
+          "gloss": "有",
+          "lemma": "have",
+          "surface": "has"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "能力",
+          "lemma": "capability",
+          "surface": "capability"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "识别",
+          "lemma": "identify",
+          "surface": "identify"
+        },
+        {
+          "gloss": "可疑的",
+          "lemma": "suspicious",
+          "surface": "suspicious"
+        },
+        {
+          "gloss": "引用",
+          "lemma": "citation",
+          "surface": "citations"
+        }
+      ]
+    },
+    {
+      "cn_text": "它阻碍「国际」期刊的发展",
+      "en_text": "It hinders the growth of “international” journals.",
+      "id": 2023013174,
+      "order_seq": "question_2023011039_C",
+      "task_id": 202301005,
+      "tokens": [
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "It"
+        },
+        {
+          "gloss": "阻碍",
+          "lemma": "hinder",
+          "surface": "hinders"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "增长",
+          "lemma": "growth",
+          "surface": "growth"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "国际的",
+          "lemma": "international",
+          "surface": "“international”"
+        },
+        {
+          "gloss": "期刊",
+          "lemma": "journal",
+          "surface": "journals"
+        }
+      ]
+    },
+    {
+      "cn_text": "它的建立旨在防止引用操纵",
+      "en_text": "It is established to prevent citation manipulation.",
+      "id": 2023013175,
+      "order_seq": "question_2023011039_D",
+      "task_id": 202301005,
+      "tokens": [
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "It"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "建立",
+          "lemma": "establish",
+          "surface": "established"
+        },
+        {
+          "gloss": "为了",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "防止",
+          "lemma": "prevent",
+          "surface": "prevent"
+        },
+        {
+          "gloss": "引用",
+          "lemma": "citation",
+          "surface": "citation"
+        },
+        {
+          "gloss": "操纵",
+          "lemma": "manipulation",
+          "surface": "manipulation"
+        }
+      ]
+    },
+    {
+      "cn_text": "作者应如何应对引用操纵者?",
+      "en_text": "What should an author do to deal with citation manipulators?",
+      "id": 2023013176,
+      "order_seq": "question_2023011040_stem",
+      "task_id": 202301005,
+      "tokens": [
+        {
+          "gloss": "什么",
+          "lemma": "what",
+          "surface": "What"
+        },
+        {
+          "gloss": "应该",
+          "lemma": "should",
+          "surface": "should"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "an",
+          "surface": "an"
+        },
+        {
+          "gloss": "作者",
+          "lemma": "author",
+          "surface": "author"
+        },
+        {
+          "gloss": "做",
+          "lemma": "do",
+          "surface": "do"
+        },
+        {
+          "gloss": "为了",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "处理",
+          "lemma": "deal",
+          "surface": "deal"
+        },
+        {
+          "gloss": "与",
+          "lemma": "with",
+          "surface": "with"
+        },
+        {
+          "gloss": "引用",
+          "lemma": "citation",
+          "surface": "citation"
+        },
+        {
+          "gloss": "操纵者",
+          "lemma": "manipulator",
+          "surface": "manipulators"
+        }
+      ]
+    },
+    {
+      "cn_text": "采取法律行动",
+      "en_text": "Take legal action.",
+      "id": 2023013177,
+      "order_seq": "question_2023011040_A",
+      "task_id": 202301005,
+      "tokens": [
+        {
+          "gloss": "采取",
+          "lemma": "take",
+          "surface": "Take"
+        },
+        {
+          "gloss": "法律的",
+          "lemma": "legal",
+          "surface": "legal"
+        },
+        {
+          "gloss": "行动",
+          "lemma": "action",
+          "surface": "action"
+        }
+      ]
+    },
+    {
+      "cn_text": "要求道歉",
+      "en_text": "Demand an apology.",
+      "id": 2023013178,
+      "order_seq": "question_2023011040_B",
+      "task_id": 202301005,
+      "tokens": [
+        {
+          "gloss": "要求",
+          "lemma": "demand",
+          "surface": "Demand"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "an",
+          "surface": "an"
+        },
+        {
+          "gloss": "道歉",
+          "lemma": "apology",
+          "surface": "apology"
+        }
+      ]
+    },
+    {
+      "cn_text": "寻求专业建议",
+      "en_text": "Seek professional advice.",
+      "id": 2023013179,
+      "order_seq": "question_2023011040_C",
+      "task_id": 202301005,
+      "tokens": [
+        {
+          "gloss": "寻求",
+          "lemma": "seek",
+          "surface": "Seek"
+        },
+        {
+          "gloss": "专业的",
+          "lemma": "professional",
+          "surface": "professional"
+        },
+        {
+          "gloss": "建议",
+          "lemma": "advice",
+          "surface": "advice"
+        }
+      ]
+    },
+    {
+      "cn_text": "揭露其不当行为",
+      "en_text": "Reveal their misconduct.",
+      "id": 2023013180,
+      "order_seq": "question_2023011040_D",
+      "task_id": 202301005,
+      "tokens": [
+        {
+          "gloss": "揭露",
+          "lemma": "reveal",
+          "surface": "Reveal"
+        },
+        {
+          "gloss": "他们的",
+          "lemma": "their",
+          "surface": "their"
+        },
+        {
+          "gloss": "不当行为",
+          "lemma": "misconduct",
+          "surface": "misconduct"
+        }
+      ]
+    }
+  ],
+  "success": true
+}

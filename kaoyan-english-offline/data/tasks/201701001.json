@@ -1,0 +1,1859 @@
+{
+  "tasks": [
+    {
+      "content_json": {
+        "1": {
+          "A": "Besides",
+          "B": "Unlike",
+          "C": "Throughout",
+          "D": "Despite",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "besides",
+                "surface": "Besides"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "unlike",
+                "surface": "Unlike"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "throughout",
+                "surface": "Throughout"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "despite",
+                "surface": "Despite"
+              }
+            ]
+          },
+          "replace": {
+            "end": 45,
+            "start": 38
+          },
+          "sentence_id": 2017013002
+        },
+        "2": {
+          "A": "equal",
+          "B": "restricted",
+          "C": "connected",
+          "D": "inferior",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "equal",
+                "surface": "equal"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "restrict",
+                "surface": "restricted"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "connect",
+                "surface": "connected"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "inferior",
+                "surface": "inferior"
+              }
+            ]
+          },
+          "replace": {
+            "end": 82,
+            "start": 73
+          },
+          "sentence_id": 2017013002
+        },
+        "3": {
+          "A": "view",
+          "B": "host",
+          "C": "lesson",
+          "D": "choice",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "view",
+                "surface": "view"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "host",
+                "surface": "host"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "lesson",
+                "surface": "lesson"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "choice",
+                "surface": "choice"
+              }
+            ]
+          },
+          "replace": {
+            "end": 148,
+            "start": 144
+          },
+          "sentence_id": 2017013002
+        },
+        "4": {
+          "A": "avoid",
+          "B": "forget",
+          "C": "recall",
+          "D": "keep",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "avoid",
+                "surface": "avoid"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "forget",
+                "surface": "forget"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "recall",
+                "surface": "recall"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "keep",
+                "surface": "keep"
+              }
+            ]
+          },
+          "replace": {
+            "end": 59,
+            "start": 54
+          },
+          "sentence_id": 2017013003
+        },
+        "5": {
+          "A": "collecting",
+          "B": "affecting",
+          "C": "guiding",
+          "D": "involving",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "collect",
+                "surface": "collecting"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "affect",
+                "surface": "affecting"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "guide",
+                "surface": "guiding"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "involve",
+                "surface": "involving"
+              }
+            ]
+          },
+          "replace": {
+            "end": 27,
+            "start": 18
+          },
+          "sentence_id": 2017013004
+        },
+        "6": {
+          "A": "on",
+          "B": "in",
+          "C": "at",
+          "D": "of",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "on",
+                "surface": "on"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "in",
+                "surface": "in"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "at",
+                "surface": "at"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "of",
+                "surface": "of"
+              }
+            ]
+          },
+          "replace": {
+            "end": 188,
+            "start": 186
+          },
+          "sentence_id": 2017013004
+        },
+        "7": {
+          "A": "devoted",
+          "B": "attracted",
+          "C": "lost",
+          "D": "exposed",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "devote",
+                "surface": "devoted"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "attract",
+                "surface": "attracted"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "lose",
+                "surface": "lost"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "expose",
+                "surface": "exposed"
+              }
+            ]
+          },
+          "replace": {
+            "end": 271,
+            "start": 264
+          },
+          "sentence_id": 2017013004
+        },
+        "8": {
+          "A": "along",
+          "B": "across",
+          "C": "down",
+          "D": "out",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "along",
+                "surface": "along"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "across",
+                "surface": "across"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "down",
+                "surface": "down"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "out",
+                "surface": "out"
+              }
+            ]
+          },
+          "replace": {
+            "end": 73,
+            "start": 69
+          },
+          "sentence_id": 2017013005
+        },
+        "9": {
+          "A": "imagined",
+          "B": "denied",
+          "C": "doubted",
+          "D": "calculated",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "imagine",
+                "surface": "imagined"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "deny",
+                "surface": "denied"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "doubt",
+                "surface": "doubted"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "calculate",
+                "surface": "calculated"
+              }
+            ]
+          },
+          "replace": {
+            "end": 117,
+            "start": 107
+          },
+          "sentence_id": 2017013005
+        },
+        "10": {
+          "A": "served",
+          "B": "restored",
+          "C": "explained",
+          "D": "required",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "serve",
+                "surface": "served"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "restore",
+                "surface": "restored"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "explain",
+                "surface": "explained"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "require",
+                "surface": "required"
+              }
+            ]
+          },
+          "replace": {
+            "end": 171,
+            "start": 162
+          },
+          "sentence_id": 2017013005
+        },
+        "11": {
+          "A": "Thus",
+          "B": "Still",
+          "C": "Rather",
+          "D": "Even",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "thus",
+                "surface": "Thus"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "still",
+                "surface": "Still"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "rather",
+                "surface": "Rather"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "even",
+                "surface": "Even"
+              }
+            ]
+          },
+          "replace": {
+            "end": 4,
+            "start": 0
+          },
+          "sentence_id": 2017013006
+        },
+        "12": {
+          "A": "defeats",
+          "B": "symptoms",
+          "C": "errors",
+          "D": "tests",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "defeat",
+                "surface": "defeats"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "symptom",
+                "surface": "symptoms"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "error",
+                "surface": "errors"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "test",
+                "surface": "tests"
+              }
+            ]
+          },
+          "replace": {
+            "end": 130,
+            "start": 122
+          },
+          "sentence_id": 2017013006
+        },
+        "13": {
+          "A": "highlighted",
+          "B": "increased",
+          "C": "controlled",
+          "D": "minimized",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "highlight",
+                "surface": "highlighted"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "increase",
+                "surface": "increased"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "control",
+                "surface": "controlled"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "minimize",
+                "surface": "minimized"
+              }
+            ]
+          },
+          "replace": {
+            "end": 64,
+            "start": 55
+          },
+          "sentence_id": 2017013007
+        },
+        "14": {
+          "A": "presented",
+          "B": "equipped",
+          "C": "associated",
+          "D": "compared",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "present",
+                "surface": "presented"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "equip",
+                "surface": "equipped"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "associate",
+                "surface": "associated"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "compare",
+                "surface": "compared"
+              }
+            ]
+          },
+          "replace": {
+            "end": 105,
+            "start": 95
+          },
+          "sentence_id": 2017013007
+        },
+        "15": {
+          "A": "assess",
+          "B": "generate",
+          "C": "moderate",
+          "D": "record",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "assess",
+                "surface": "assess"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "generate",
+                "surface": "generate"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "moderate",
+                "surface": "moderate"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "record",
+                "surface": "record"
+              }
+            ]
+          },
+          "replace": {
+            "end": 51,
+            "start": 43
+          },
+          "sentence_id": 2017013008
+        },
+        "16": {
+          "A": "in the name of",
+          "B": "in the form of",
+          "C": "in the face of",
+          "D": "in the way of",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "in",
+                "surface": "in"
+              },
+              {
+                "lemma": "the",
+                "surface": "the"
+              },
+              {
+                "lemma": "name",
+                "surface": "name"
+              },
+              {
+                "lemma": "of",
+                "surface": "of"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "in",
+                "surface": "in"
+              },
+              {
+                "lemma": "the",
+                "surface": "the"
+              },
+              {
+                "lemma": "form",
+                "surface": "form"
+              },
+              {
+                "lemma": "of",
+                "surface": "of"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "in",
+                "surface": "in"
+              },
+              {
+                "lemma": "the",
+                "surface": "the"
+              },
+              {
+                "lemma": "face",
+                "surface": "face"
+              },
+              {
+                "lemma": "of",
+                "surface": "of"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "in",
+                "surface": "in"
+              },
+              {
+                "lemma": "the",
+                "surface": "the"
+              },
+              {
+                "lemma": "way",
+                "surface": "way"
+              },
+              {
+                "lemma": "of",
+                "surface": "of"
+              }
+            ]
+          },
+          "replace": {
+            "end": 108,
+            "start": 94
+          },
+          "sentence_id": 2017013008
+        },
+        "17": {
+          "A": "attribute",
+          "B": "commit",
+          "C": "transfer",
+          "D": "return",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "attribute",
+                "surface": "attribute"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "commit",
+                "surface": "commit"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "transfer",
+                "surface": "transfer"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "return",
+                "surface": "return"
+              }
+            ]
+          },
+          "replace": {
+            "end": 22,
+            "start": 13
+          },
+          "sentence_id": 2017013009
+        },
+        "18": {
+          "A": "unless",
+          "B": "because",
+          "C": "though",
+          "D": "until",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "unless",
+                "surface": "unless"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "because",
+                "surface": "because"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "though",
+                "surface": "though"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "until",
+                "surface": "until"
+              }
+            ]
+          },
+          "replace": {
+            "end": 149,
+            "start": 142
+          },
+          "sentence_id": 2017013009
+        },
+        "19": {
+          "A": "remains",
+          "B": "emerges",
+          "C": "vanishes",
+          "D": "decreases",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "remain",
+                "surface": "remains"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "emerge",
+                "surface": "emerges"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "vanish",
+                "surface": "vanishes"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "decrease",
+                "surface": "decreases"
+              }
+            ]
+          },
+          "replace": {
+            "end": 22,
+            "start": 15
+          },
+          "sentence_id": 2017013011
+        },
+        "20": {
+          "A": "experiences",
+          "B": "combines",
+          "C": "justifies",
+          "D": "influences",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "experience",
+                "surface": "experiences"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "combine",
+                "surface": "combines"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "justify",
+                "surface": "justifies"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "influence",
+                "surface": "influences"
+              }
+            ]
+          },
+          "replace": {
+            "end": 56,
+            "start": 46
+          },
+          "sentence_id": 2017013011
+        },
+        "article": "Could a hug a day keep the doctor away?\nThe answer may be a resounding “yes!” Besides helping you feel close and connected to people you care about, it turns out that hugs can bring a host of health benefits to your body and mind.\nBelieve it or not, a warm embrace might even help you avoid getting sick this winter.\nIn a recent study involving over 400 healthy adults, researchers from Carnegie Mellon University in Pennsylvania examined the effects of perceived social support and the receipt of hugs on the participants’ susceptibility to developing the common cold after being exposed to the virus.\nPeople who perceived greater social support were less likely to come down with a cold, and the researchers calculated that the stress-reducing effects of hugging explained about 32 percent of that beneficial effect.\nEven among those who got a cold, the ones who felt greater social support and received more frequent hugs had less severe symptoms.\n“Hugging protects people who are under stress from the increased risk for colds that’s usually associated with stress,” notes Sheldon Cohen, a professor of psychology at Carnegie.\nHugging “is a marker of intimacy and helps generate the feeling that others are there to help in the face of difficulty.”\nSome experts attribute the stress-reducing, health-related benefits of hugging to the release of oxytocin, often called “the bonding hormone” because it promotes attachment in relationships, including that between mothers and their newborn babies.\nOxytocin is made primarily in the central lower part of the brain, and some of it is released into the bloodstream.\nBut some of it remains in the brain, where it influences mood, behavior and physiology.",
+        "blanks": [
+          {
+            "blank_no": 1,
+            "replace": {
+              "end": 45,
+              "start": 38
+            },
+            "sentence_id": 2017013002
+          },
+          {
+            "blank_no": 2,
+            "replace": {
+              "end": 82,
+              "start": 73
+            },
+            "sentence_id": 2017013002
+          },
+          {
+            "blank_no": 3,
+            "replace": {
+              "end": 148,
+              "start": 144
+            },
+            "sentence_id": 2017013002
+          },
+          {
+            "blank_no": 4,
+            "replace": {
+              "end": 59,
+              "start": 54
+            },
+            "sentence_id": 2017013003
+          },
+          {
+            "blank_no": 5,
+            "replace": {
+              "end": 27,
+              "start": 18
+            },
+            "sentence_id": 2017013004
+          },
+          {
+            "blank_no": 6,
+            "replace": {
+              "end": 188,
+              "start": 186
+            },
+            "sentence_id": 2017013004
+          },
+          {
+            "blank_no": 7,
+            "replace": {
+              "end": 271,
+              "start": 264
+            },
+            "sentence_id": 2017013004
+          },
+          {
+            "blank_no": 8,
+            "replace": {
+              "end": 73,
+              "start": 69
+            },
+            "sentence_id": 2017013005
+          },
+          {
+            "blank_no": 9,
+            "replace": {
+              "end": 117,
+              "start": 107
+            },
+            "sentence_id": 2017013005
+          },
+          {
+            "blank_no": 10,
+            "replace": {
+              "end": 171,
+              "start": 162
+            },
+            "sentence_id": 2017013005
+          },
+          {
+            "blank_no": 11,
+            "replace": {
+              "end": 4,
+              "start": 0
+            },
+            "sentence_id": 2017013006
+          },
+          {
+            "blank_no": 12,
+            "replace": {
+              "end": 130,
+              "start": 122
+            },
+            "sentence_id": 2017013006
+          },
+          {
+            "blank_no": 13,
+            "replace": {
+              "end": 64,
+              "start": 55
+            },
+            "sentence_id": 2017013007
+          },
+          {
+            "blank_no": 14,
+            "replace": {
+              "end": 105,
+              "start": 95
+            },
+            "sentence_id": 2017013007
+          },
+          {
+            "blank_no": 15,
+            "replace": {
+              "end": 51,
+              "start": 43
+            },
+            "sentence_id": 2017013008
+          },
+          {
+            "blank_no": 16,
+            "replace": {
+              "end": 108,
+              "start": 94
+            },
+            "sentence_id": 2017013008
+          },
+          {
+            "blank_no": 17,
+            "replace": {
+              "end": 22,
+              "start": 13
+            },
+            "sentence_id": 2017013009
+          },
+          {
+            "blank_no": 18,
+            "replace": {
+              "end": 149,
+              "start": 142
+            },
+            "sentence_id": 2017013009
+          },
+          {
+            "blank_no": 19,
+            "replace": {
+              "end": 22,
+              "start": 15
+            },
+            "sentence_id": 2017013011
+          },
+          {
+            "blank_no": 20,
+            "replace": {
+              "end": 56,
+              "start": 46
+            },
+            "sentence_id": 2017013011
+          }
+        ],
+        "questions": [
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "结合上下文，句子强调的是“除了帮助你感到亲近和联系之外”，因此 A (Besides) 最为合适。\nA. Besides 表示“除了……之外”，符合句意，强调拥抱的额外好处。\nB. Unlike 表示“与……不同”，与句意不符，因为句子并未比较两种情况。\nC. Throughout 表示“贯穿”，与句意不符，因为句子并未描述时间或范围。\nD. Despite 表示“尽管”，与句意不符，因为句子并未表达让步关系。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "A",
+            "id": 1,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "besides",
+                  "surface": "Besides"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "unlike",
+                  "surface": "Unlike"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "throughout",
+                  "surface": "Throughout"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "despite",
+                  "surface": "Despite"
+                }
+              ]
+            },
+            "options": [
+              "A) Besides",
+              "B) Unlike",
+              "C) Throughout",
+              "D) Despite"
+            ],
+            "qid": 2017011001,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，句子描述的是拥抱让人感到亲近和有联系，因此 C (connected) 最为合适。\nA. Equal 表示“平等的”，与句意不符。\nB. Restricted 表示“受限的”，与句意不符。\nC. Connected 表示“有联系的”，符合句意，强调人与人之间的情感联系。\nD. Inferior 表示“低等的”，与句意不符。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "C",
+            "id": 2,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "equal",
+                  "surface": "equal"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "restrict",
+                  "surface": "restricted"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "connect",
+                  "surface": "connected"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "inferior",
+                  "surface": "inferior"
+                }
+              ]
+            },
+            "options": [
+              "A) equal",
+              "B) restricted",
+              "C) connected",
+              "D) inferior"
+            ],
+            "qid": 2017011002,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "结合句意，hugs 带来的是“许多健康益处”，B (host) 表示“大量”，最为合适。\nA. View 表示“观点”，与句意不符。\nB. Host 表示“大量”，符合句意，描述拥抱带来的健康益处。\nC. Lesson 表示“教训”，与句意不符。\nD. Choice 表示“选择”，与句意不符。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "B",
+            "id": 3,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "view",
+                  "surface": "view"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "host",
+                  "surface": "host"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "lesson",
+                  "surface": "lesson"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "choice",
+                  "surface": "choice"
+                }
+              ]
+            },
+            "options": [
+              "A) view",
+              "B) host",
+              "C) lesson",
+              "D) choice"
+            ],
+            "qid": 2017011003,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据句意，拥抱可以帮助避免生病，因此 A (avoid) 最为合适。\nA. Avoid 表示“避免”，符合句意，强调拥抱的健康益处。\nB. Forget 表示“忘记”，与句意不符。\nC. Recall 表示“回忆”，与句意不符。\nD. Keep 表示“保持”，与句意不符。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "A",
+            "id": 4,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "avoid",
+                  "surface": "avoid"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "forget",
+                  "surface": "forget"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "recall",
+                  "surface": "recall"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "keep",
+                  "surface": "keep"
+                }
+              ]
+            },
+            "options": [
+              "A) avoid",
+              "B) forget",
+              "C) recall",
+              "D) keep"
+            ],
+            "qid": 2017011004,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "结合句意，研究涉及到400名健康成年人，因此 D (involving) 最为合适。\nA. Collecting 表示“收集”，与句意不符，因为句子描述的是研究涉及的对象。\nB. Affecting 表示“影响”，与句意不符，因为句子并未描述影响。\nC. Guiding 表示“引导”，与句意不符。\nD. Involving 表示“涉及”，符合句意，描述研究对象。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "D",
+            "id": 5,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "collect",
+                  "surface": "collecting"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "affect",
+                  "surface": "affecting"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "guide",
+                  "surface": "guiding"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "involve",
+                  "surface": "involving"
+                }
+              ]
+            },
+            "options": [
+              "A) collecting",
+              "B) affecting",
+              "C) guiding",
+              "D) involving"
+            ],
+            "qid": 2017011005,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "A. On 表示“对……的影响”，符合句意，描述拥抱对感冒易感性的影响。\nB. In 表示“在……中”，不符合句意，因为句子并未描述范围，而是描述影响对象。\nC. At 表示“在……处”，与句意不符。\nD. Of 表示“的”，与句意不符。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "A",
+            "id": 6,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "on",
+                  "surface": "on"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "in",
+                  "surface": "in"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "at",
+                  "surface": "at"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "of",
+                  "surface": "of"
+                }
+              ]
+            },
+            "options": [
+              "A) on",
+              "B) in",
+              "C) at",
+              "D) of"
+            ],
+            "qid": 2017011006,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "结合上下文，句子描述的是参与者暴露于病毒，因此 D (exposed) 最为合适。\nA. Devoted 表示“献身的”，与句意不符。\nB. Attracted 表示“吸引”，与句意不符。\nC. Lost 表示“失去”，与句意不符。\nD. Exposed 表示“暴露”，符合句意，描述参与者接触病毒的情况。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "D",
+            "id": 7,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "devote",
+                  "surface": "devoted"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "attract",
+                  "surface": "attracted"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "lose",
+                  "surface": "lost"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "expose",
+                  "surface": "exposed"
+                }
+              ]
+            },
+            "options": [
+              "A) devoted",
+              "B) attracted",
+              "C) lost",
+              "D) exposed"
+            ],
+            "qid": 2017011007,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，句子表达的是感受到更多社会支持的人不太可能患感冒，结合语境，选择“come down with”最为合适，表示“感染某种疾病”。\nA. “come along”意为“陪伴”，与语境不符。\nB. “come across”意为“偶然遇到”，与语境不符。\nC. “come down with”意为“感染某种疾病”，符合语境。\nD. “come out”意为“出现”，与语境不符。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "C",
+            "id": 8,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "along",
+                  "surface": "along"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "across",
+                  "surface": "across"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "down",
+                  "surface": "down"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "out",
+                  "surface": "out"
+                }
+              ]
+            },
+            "options": [
+              "A) along",
+              "B) across",
+              "C) down",
+              "D) out"
+            ],
+            "qid": 2017011008,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，研究人员是通过计算得出拥抱减轻压力的效果占有益影响的32%，因此“calculated”最为合适。\nA. “imagined”意为“想象”，与语境不符。\nB. “denied”意为“否认”，与语境不符。\nC. “doubted”意为“怀疑”，与语境不符。\nD. “calculated”意为“计算”，符合语境。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "D",
+            "id": 9,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "imagine",
+                  "surface": "imagined"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "deny",
+                  "surface": "denied"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "doubt",
+                  "surface": "doubted"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "calculate",
+                  "surface": "calculated"
+                }
+              ]
+            },
+            "options": [
+              "A) imagined",
+              "B) denied",
+              "C) doubted",
+              "D) calculated"
+            ],
+            "qid": 2017011009,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，拥抱减轻压力的效果解释了有益影响的32%，因此“explained”最为合适。\nA. “served”意为“服务”，与语境不符。\nB. “restored”意为“恢复”，与语境不符。\nC. “explained”意为“解释”，符合语境。\nD. “required”意为“需要”，与语境不符。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "C",
+            "id": 10,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "serve",
+                  "surface": "served"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "restore",
+                  "surface": "restored"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "explain",
+                  "surface": "explained"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "require",
+                  "surface": "required"
+                }
+              ]
+            },
+            "options": [
+              "A) served",
+              "B) restored",
+              "C) explained",
+              "D) required"
+            ],
+            "qid": 2017011010,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，即使是那些患感冒的人，感受到更多社会支持和拥抱的人症状较轻，因此“Even”最为合适。\nA. “Thus”意为“因此”，与语境不符。\nB. “Still”意为“仍然”，与语境不符。\nC. “Rather”意为“相反”，与语境不符。\nD. “Even”意为“即使”，符合语境。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "D",
+            "id": 11,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "thus",
+                  "surface": "Thus"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "still",
+                  "surface": "Still"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "rather",
+                  "surface": "Rather"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "even",
+                  "surface": "Even"
+                }
+              ]
+            },
+            "options": [
+              "A) Thus",
+              "B) Still",
+              "C) Rather",
+              "D) Even"
+            ],
+            "qid": 2017011011,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，患感冒的人症状较轻，因此“symptoms”最为合适。\nA. “defeats”意为“击败”，与语境不符。\nB. “symptoms”意为“症状”，符合语境。\nC. “errors”意为“错误”，与语境不符。\nD. “tests”意为“测试”，与语境不符。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "B",
+            "id": 12,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "defeat",
+                  "surface": "defeats"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "symptom",
+                  "surface": "symptoms"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "error",
+                  "surface": "errors"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "test",
+                  "surface": "tests"
+                }
+              ]
+            },
+            "options": [
+              "A) defeats",
+              "B) symptoms",
+              "C) errors",
+              "D) tests"
+            ],
+            "qid": 2017011012,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，压力通常会导致感冒风险增加，因此“increased”最为合适。\nA. “highlighted”意为“突出”，与语境不符。\nB. “increased”意为“增加的”，符合语境。\nC. “controlled”意为“控制的”，与语境不符。\nD. “minimized”意为“最小化的”，与语境不符。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "B",
+            "id": 13,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "highlight",
+                  "surface": "highlighted"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "increase",
+                  "surface": "increased"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "control",
+                  "surface": "controlled"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "minimize",
+                  "surface": "minimized"
+                }
+              ]
+            },
+            "options": [
+              "A) highlighted",
+              "B) increased",
+              "C) controlled",
+              "D) minimized"
+            ],
+            "qid": 2017011013,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，压力通常与感冒风险相关，因此“associated”最为合适。\nA. “presented”意为“呈现”，与语境不符。\nB. “equipped”意为“装备”，与语境不符。\nC. “associated”意为“关联”，符合语境。\nD. “compared”意为“比较”，与语境不符。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "C",
+            "id": 14,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "present",
+                  "surface": "presented"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "equip",
+                  "surface": "equipped"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "associate",
+                  "surface": "associated"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "compare",
+                  "surface": "compared"
+                }
+              ]
+            },
+            "options": [
+              "A) presented",
+              "B) equipped",
+              "C) associated",
+              "D) compared"
+            ],
+            "qid": 2017011014,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "A. “assess”意为“评估”，与语境不符，因为句子强调的是拥抱产生一种感觉，而非评估。\nB. “generate”意为“产生”，符合语境，因为拥抱的作用是产生一种感觉，即他人会在困难面前提供帮助。\nC. “moderate”意为“缓和”，虽然可以解释为缓和情绪，但与上下文中强调的“产生感觉”不完全匹配。\nD. “record”意为“记录”，与语境不符，因为句子并未涉及记录的含义。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "B",
+            "id": 15,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "assess",
+                  "surface": "assess"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "generate",
+                  "surface": "generate"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "moderate",
+                  "surface": "moderate"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "record",
+                  "surface": "record"
+                }
+              ]
+            },
+            "options": [
+              "A) assess",
+              "B) generate",
+              "C) moderate",
+              "D) record"
+            ],
+            "qid": 2017011015,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "A. “in the name of”意为“以...的名义”，与语境不符，因为句子强调的是困难情境，而非名义。\nB. “in the form of”意为“以...的形式”，与语境不符，因为句子并未涉及形式的概念。\nC. “in the face of”意为“在...面前”，符合语境，因为句子强调的是困难情境。\nD. “in the way of”意为“妨碍”，与语境不符，因为句子并未涉及妨碍的含义。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "C",
+            "id": 16,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "in",
+                  "surface": "in"
+                },
+                {
+                  "lemma": "the",
+                  "surface": "the"
+                },
+                {
+                  "lemma": "name",
+                  "surface": "name"
+                },
+                {
+                  "lemma": "of",
+                  "surface": "of"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "in",
+                  "surface": "in"
+                },
+                {
+                  "lemma": "the",
+                  "surface": "the"
+                },
+                {
+                  "lemma": "form",
+                  "surface": "form"
+                },
+                {
+                  "lemma": "of",
+                  "surface": "of"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "in",
+                  "surface": "in"
+                },
+                {
+                  "lemma": "the",
+                  "surface": "the"
+                },
+                {
+                  "lemma": "face",
+                  "surface": "face"
+                },
+                {
+                  "lemma": "of",
+                  "surface": "of"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "in",
+                  "surface": "in"
+                },
+                {
+                  "lemma": "the",
+                  "surface": "the"
+                },
+                {
+                  "lemma": "way",
+                  "surface": "way"
+                },
+                {
+                  "lemma": "of",
+                  "surface": "of"
+                }
+              ]
+            },
+            "options": [
+              "A) in the name of",
+              "B) in the form of",
+              "C) in the face of",
+              "D) in the way of"
+            ],
+            "qid": 2017011016,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据句子语境，专家将拥抱的益处归因于催产素的释放，因此 'attribute' 是最合适的选项。\nA. ‘Attribute’ 意为归因于，与句子中表达的“将益处归因于催产素释放”完全契合。\nB. ‘Commit’ 意为承诺或犯罪，与句意不符。\nC. ‘Transfer’ 意为转移，与句意不符。\nD. ‘Return’ 意为返回，与句意不符。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "A",
+            "id": 17,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "attribute",
+                  "surface": "attribute"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "commit",
+                  "surface": "commit"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "transfer",
+                  "surface": "transfer"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "return",
+                  "surface": "return"
+                }
+              ]
+            },
+            "options": [
+              "A) attribute",
+              "B) commit",
+              "C) transfer",
+              "D) return"
+            ],
+            "qid": 2017011017,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "‘Because’ 表示因果关系，符合句子中“催产素被称为纽带激素是因为它促进了依附关系”的逻辑。\nA. ‘Unless’ 意为除非，与句意不符。\nB. ‘Because’ 表示因果关系，符合句意。\nC. ‘Though’ 意为虽然，与句意不符。\nD. ‘Until’ 意为直到，与句意不符。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "B",
+            "id": 18,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "unless",
+                  "surface": "unless"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "because",
+                  "surface": "because"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "though",
+                  "surface": "though"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "until",
+                  "surface": "until"
+                }
+              ]
+            },
+            "options": [
+              "A) unless",
+              "B) because",
+              "C) though",
+              "D) until"
+            ],
+            "qid": 2017011018,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "‘Remains’ 表示“留在”，符合句子中描述催产素部分留在大脑中的逻辑。\nA. ‘Remains’ 表示“留在”，与句意完全契合。\nB. ‘Emerges’ 意为“出现”，与句意不符。\nC. ‘Vanishes’ 意为“消失”，与句意相反。\nD. ‘Decreases’ 意为“减少”，与句意不符。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "A",
+            "id": 19,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "remain",
+                  "surface": "remains"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "emerge",
+                  "surface": "emerges"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "vanish",
+                  "surface": "vanishes"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "decrease",
+                  "surface": "decreases"
+                }
+              ]
+            },
+            "options": [
+              "A) remains",
+              "B) emerges",
+              "C) vanishes",
+              "D) decreases"
+            ],
+            "qid": 2017011019,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "‘Influences’ 表示“影响”，符合句子中描述催产素对情绪、行为和生理的作用。\nA. ‘Experiences’ 意为“经历”，与句意不符。\nB. ‘Combines’ 意为“结合”，与句意不符。\nC. ‘Justifies’ 意为“证明正当”，与句意不符。\nD. ‘Influences’ 表示“影响”，与句意完全契合。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "D",
+            "id": 20,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "experience",
+                  "surface": "experiences"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "combine",
+                  "surface": "combines"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "justify",
+                  "surface": "justifies"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "influence",
+                  "surface": "influences"
+                }
+              ]
+            },
+            "options": [
+              "A) experiences",
+              "B) combines",
+              "C) justifies",
+              "D) influences"
+            ],
+            "qid": 2017011020,
+            "text": ""
+          }
+        ]
+      },
+      "directions": "Read the following text. Choose the best word(s) for each numbered blank and mark A, B,\nC or D on the ANSWER SHEET. (10 points)",
+      "exam_info": "2017(1)",
+      "exam_type": "kaoyan",
+      "id": 201701001,
+      "key_words": "come even associated avoid besides calculated connected down explained exposed host increased influences involving remains symptoms attribute face generate hugging hugs keep out stress across affecting along assess attracted choice cold collecting combines commit compared controlled decreases defeats denied despite devoted doubted emerges equal equipped errors experiences forget form guiding highlighted imagined inferior justifies lesson lost minimized moderate name people presented rather recall record required restored restricted return served social some still support tests though throughout thus transfer unless unlike",
+      "kid": 14,
+      "part": "Part III",
+      "section": "Sec A",
+      "task_key": "2017(1)_Section I_ ",
+      "type": "Use of English"
+    }
+  ]
+}

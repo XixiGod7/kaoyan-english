@@ -1,0 +1,1811 @@
+{
+  "tasks": [
+    {
+      "content_json": {
+        "1": {
+          "A": "on",
+          "B": "like",
+          "C": "for",
+          "D": "from",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "on",
+                "surface": "on"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "like",
+                "surface": "like"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "for",
+                "surface": "for"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "from",
+                "surface": "from"
+              }
+            ]
+          },
+          "replace": {
+            "end": 47,
+            "start": 44
+          },
+          "sentence_id": 2018013002
+        },
+        "2": {
+          "A": "faith",
+          "B": "concern",
+          "C": "attention",
+          "D": "interest",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "faith",
+                "surface": "faith"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "concern",
+                "surface": "concern"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "attention",
+                "surface": "attention"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "interest",
+                "surface": "interest"
+              }
+            ]
+          },
+          "replace": {
+            "end": 37,
+            "start": 32
+          },
+          "sentence_id": 2018013003
+        },
+        "3": {
+          "A": "benefit",
+          "B": "debt",
+          "C": "hope",
+          "D": "price",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "benefit",
+                "surface": "benefit"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "debt",
+                "surface": "debt"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "hope",
+                "surface": "hope"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "price",
+                "surface": "price"
+              }
+            ]
+          },
+          "replace": {
+            "end": 83,
+            "start": 78
+          },
+          "sentence_id": 2018013003
+        },
+        "4": {
+          "A": "Therefore",
+          "B": "Then",
+          "C": "Instead",
+          "D": "Again",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "therefore",
+                "surface": "Therefore"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "then",
+                "surface": "Then"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "instead",
+                "surface": "Instead"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "again",
+                "surface": "Again"
+              }
+            ]
+          },
+          "replace": {
+            "end": 4,
+            "start": 0
+          },
+          "sentence_id": 2018013004
+        },
+        "5": {
+          "A": "Until",
+          "B": "Unless",
+          "C": "Although",
+          "D": "When",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "until",
+                "surface": "Until"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "unless",
+                "surface": "Unless"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "although",
+                "surface": "Although"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "when",
+                "surface": "When"
+              }
+            ]
+          },
+          "replace": {
+            "end": 4,
+            "start": 0
+          },
+          "sentence_id": 2018013006
+        },
+        "6": {
+          "A": "selects",
+          "B": "produces",
+          "C": "applies",
+          "D": "maintains",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "select",
+                "surface": "selects"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "produce",
+                "surface": "produces"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "apply",
+                "surface": "applies"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "maintain",
+                "surface": "maintains"
+              }
+            ]
+          },
+          "replace": {
+            "end": 120,
+            "start": 112
+          },
+          "sentence_id": 2018013006
+        },
+        "7": {
+          "A": "consult",
+          "B": "compete",
+          "C": "connect",
+          "D": "compare",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "consult",
+                "surface": "consult"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "compete",
+                "surface": "compete"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "connect",
+                "surface": "connect"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "compare",
+                "surface": "compare"
+              }
+            ]
+          },
+          "replace": {
+            "end": 206,
+            "start": 199
+          },
+          "sentence_id": 2018013006
+        },
+        "8": {
+          "A": "at",
+          "B": "by",
+          "C": "of",
+          "D": "to",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "at",
+                "surface": "at"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "by",
+                "surface": "by"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "of",
+                "surface": "of"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "to",
+                "surface": "to"
+              }
+            ]
+          },
+          "replace": {
+            "end": 38,
+            "start": 36
+          },
+          "sentence_id": 2018013007
+        },
+        "9": {
+          "A": "context",
+          "B": "mood",
+          "C": "period",
+          "D": "circle",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "context",
+                "surface": "context"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "mood",
+                "surface": "mood"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "period",
+                "surface": "period"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "circle",
+                "surface": "circle"
+              }
+            ]
+          },
+          "replace": {
+            "end": 78,
+            "start": 74
+          },
+          "sentence_id": 2018013007
+        },
+        "10": {
+          "A": "counterparts",
+          "B": "substitutes",
+          "C": "colleagues",
+          "D": "supporters",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "counterpart",
+                "surface": "counterparts"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "substitute",
+                "surface": "substitutes"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "colleague",
+                "surface": "colleagues"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "support",
+                "surface": "supporters"
+              }
+            ]
+          },
+          "replace": {
+            "end": 277,
+            "start": 265
+          },
+          "sentence_id": 2018013007
+        },
+        "11": {
+          "A": "Funny",
+          "B": "Lucky",
+          "C": "Odd",
+          "D": "Ironic",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "funny",
+                "surface": "Funny"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "lucky",
+                "surface": "Lucky"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "odd",
+                "surface": "Odd"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "ironic",
+                "surface": "Ironic"
+              }
+            ]
+          },
+          "replace": {
+            "end": 5,
+            "start": 0
+          },
+          "sentence_id": 2018013008
+        },
+        "12": {
+          "A": "monitor",
+          "B": "protect",
+          "C": "surprise",
+          "D": "delight",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "monitor",
+                "surface": "monitor"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "protect",
+                "surface": "protect"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "surprise",
+                "surface": "surprise"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "delight",
+                "surface": "delight"
+              }
+            ]
+          },
+          "replace": {
+            "end": 72,
+            "start": 65
+          },
+          "sentence_id": 2018013008
+        },
+        "13": {
+          "A": "between",
+          "B": "within",
+          "C": "toward",
+          "D": "over",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "between",
+                "surface": "between"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "within",
+                "surface": "within"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "toward",
+                "surface": "toward"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "over",
+                "surface": "over"
+              }
+            ]
+          },
+          "replace": {
+            "end": 84,
+            "start": 77
+          },
+          "sentence_id": 2018013009
+        },
+        "14": {
+          "A": "transferred",
+          "B": "added",
+          "C": "introduced",
+          "D": "entrusted",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "transfer",
+                "surface": "transferred"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "add",
+                "surface": "added"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "introduce",
+                "surface": "introduced"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "entrust",
+                "surface": "entrusted"
+              }
+            ]
+          },
+          "replace": {
+            "end": 35,
+            "start": 25
+          },
+          "sentence_id": 2018013010
+        },
+        "15": {
+          "A": "out",
+          "B": "back",
+          "C": "around",
+          "D": "inside",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "out",
+                "surface": "out"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "back",
+                "surface": "back"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "around",
+                "surface": "around"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "inside",
+                "surface": "inside"
+              }
+            ]
+          },
+          "replace": {
+            "end": 151,
+            "start": 145
+          },
+          "sentence_id": 2018013011
+        },
+        "16": {
+          "A": "discovered",
+          "B": "proved",
+          "C": "insisted",
+          "D": "remembered",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "discover",
+                "surface": "discovered"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "prove",
+                "surface": "proved"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "insist",
+                "surface": "insisted"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "remember",
+                "surface": "remembered"
+              }
+            ]
+          },
+          "replace": {
+            "end": 51,
+            "start": 41
+          },
+          "sentence_id": 2018013012
+        },
+        "17": {
+          "A": "betrayed",
+          "B": "wronged",
+          "C": "fooled",
+          "D": "mocked",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "betray",
+                "surface": "betrayed"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "wrong",
+                "surface": "wronged"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "fool",
+                "surface": "fooled"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "mock",
+                "surface": "mocked"
+              }
+            ]
+          },
+          "replace": {
+            "end": 112,
+            "start": 106
+          },
+          "sentence_id": 2018013012
+        },
+        "18": {
+          "A": "forced",
+          "B": "willing",
+          "C": "hesitant",
+          "D": "entitled",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "force",
+                "surface": "forced"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "willing",
+                "surface": "willing"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "hesitant",
+                "surface": "hesitant"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "entitle",
+                "surface": "entitled"
+              }
+            ]
+          },
+          "replace": {
+            "end": 70,
+            "start": 63
+          },
+          "sentence_id": 2018013013
+        },
+        "19": {
+          "A": "In contrast",
+          "B": "As a result",
+          "C": "On the whole",
+          "D": "For instance",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "in",
+                "surface": "In"
+              },
+              {
+                "lemma": "contrast",
+                "surface": "contrast"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "as",
+                "surface": "As"
+              },
+              {
+                "lemma": "a",
+                "surface": "a"
+              },
+              {
+                "lemma": "result",
+                "surface": "result"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "on",
+                "surface": "On"
+              },
+              {
+                "lemma": "the",
+                "surface": "the"
+              },
+              {
+                "lemma": "whole",
+                "surface": "whole"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "for",
+                "surface": "For"
+              },
+              {
+                "lemma": "instance",
+                "surface": "instance"
+              }
+            ]
+          },
+          "replace": {
+            "end": 11,
+            "start": 0
+          },
+          "sentence_id": 2018013014
+        },
+        "20": {
+          "A": "inflexible",
+          "B": "incapable",
+          "C": "unreliable",
+          "D": "unsuitable",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "inflexible",
+                "surface": "inflexible"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "incapable",
+                "surface": "incapable"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "unreliable",
+                "surface": "unreliable"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "unsuitable",
+                "surface": "unsuitable"
+              }
+            ]
+          },
+          "replace": {
+            "end": 69,
+            "start": 59
+          },
+          "sentence_id": 2018013014
+        },
+        "article": "Trust is a tricky business.\nOn the one hand, it’s a necessary condition for many worthwhile things: child care, friendships, etc.\nOn the other hand, putting your faith in the wrong place often carries a high price.\nThen, why do we trust at all?\nWell, because it feels good.\nWhen people place their trust in an individual or an institution, their brains release oxytocin, a hormone that produces pleasurable feelings and triggers the herding instinct that prompts humans to connect with one another.\nScientists have found that exposure to this hormone puts us in a trusting mood: In a Swiss study, researchers sprayed oxytocin into the noses of half the subjects; those subjects were ready to lend significantly higher amounts of money to strangers than were their counterparts who inhaled something else.\nLucky for us, we also have a sixth sense for dishonesty that may protect us.\nA Canadian study found that children as young as 14 months can differentiate between a credible person and a dishonest one.\nSixty toddlers were each introduced to an adult tester holding a plastic container.\nThe tester would ask, “What’s in here?” before looking into the container, smiling, and exclaiming, “Wow!” Each subject was then invited to look inside.\nHalf of them found a toy; the other half discovered the container was empty — and realized the tester had fooled them.\nAmong the children who had not been tricked, the majority were willing to cooperate with the tester in learning a new skill, demonstrating that they trusted his leadership.\nIn contrast, only five of the 30 children paired with the “unreliable” tester participated in a follow-up activity.",
+        "blanks": [
+          {
+            "blank_no": 1,
+            "replace": {
+              "end": 47,
+              "start": 44
+            },
+            "sentence_id": 2018013002
+          },
+          {
+            "blank_no": 2,
+            "replace": {
+              "end": 37,
+              "start": 32
+            },
+            "sentence_id": 2018013003
+          },
+          {
+            "blank_no": 3,
+            "replace": {
+              "end": 83,
+              "start": 78
+            },
+            "sentence_id": 2018013003
+          },
+          {
+            "blank_no": 4,
+            "replace": {
+              "end": 4,
+              "start": 0
+            },
+            "sentence_id": 2018013004
+          },
+          {
+            "blank_no": 5,
+            "replace": {
+              "end": 4,
+              "start": 0
+            },
+            "sentence_id": 2018013006
+          },
+          {
+            "blank_no": 6,
+            "replace": {
+              "end": 120,
+              "start": 112
+            },
+            "sentence_id": 2018013006
+          },
+          {
+            "blank_no": 7,
+            "replace": {
+              "end": 206,
+              "start": 199
+            },
+            "sentence_id": 2018013006
+          },
+          {
+            "blank_no": 8,
+            "replace": {
+              "end": 38,
+              "start": 36
+            },
+            "sentence_id": 2018013007
+          },
+          {
+            "blank_no": 9,
+            "replace": {
+              "end": 78,
+              "start": 74
+            },
+            "sentence_id": 2018013007
+          },
+          {
+            "blank_no": 10,
+            "replace": {
+              "end": 277,
+              "start": 265
+            },
+            "sentence_id": 2018013007
+          },
+          {
+            "blank_no": 11,
+            "replace": {
+              "end": 5,
+              "start": 0
+            },
+            "sentence_id": 2018013008
+          },
+          {
+            "blank_no": 12,
+            "replace": {
+              "end": 72,
+              "start": 65
+            },
+            "sentence_id": 2018013008
+          },
+          {
+            "blank_no": 13,
+            "replace": {
+              "end": 84,
+              "start": 77
+            },
+            "sentence_id": 2018013009
+          },
+          {
+            "blank_no": 14,
+            "replace": {
+              "end": 35,
+              "start": 25
+            },
+            "sentence_id": 2018013010
+          },
+          {
+            "blank_no": 15,
+            "replace": {
+              "end": 151,
+              "start": 145
+            },
+            "sentence_id": 2018013011
+          },
+          {
+            "blank_no": 16,
+            "replace": {
+              "end": 51,
+              "start": 41
+            },
+            "sentence_id": 2018013012
+          },
+          {
+            "blank_no": 17,
+            "replace": {
+              "end": 112,
+              "start": 106
+            },
+            "sentence_id": 2018013012
+          },
+          {
+            "blank_no": 18,
+            "replace": {
+              "end": 70,
+              "start": 63
+            },
+            "sentence_id": 2018013013
+          },
+          {
+            "blank_no": 19,
+            "replace": {
+              "end": 11,
+              "start": 0
+            },
+            "sentence_id": 2018013014
+          },
+          {
+            "blank_no": 20,
+            "replace": {
+              "end": 69,
+              "start": 59
+            },
+            "sentence_id": 2018013014
+          }
+        ],
+        "questions": [
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据句意，空格处需要一个表示目的或用途的介词，‘for’最符合语境。\nA. ‘on’表示位置或方向，不符合句意。\nB. ‘like’表示相似或比较，不符合句意。\nC. ‘for’表示目的或用途，符合句意。\nD. ‘from’表示来源，不符合句意。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "C",
+            "id": 1,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "on",
+                  "surface": "on"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "like",
+                  "surface": "like"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "for",
+                  "surface": "for"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "from",
+                  "surface": "from"
+                }
+              ]
+            },
+            "options": [
+              "A) on",
+              "B) like",
+              "C) for",
+              "D) from"
+            ],
+            "qid": 2018011001,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "‘faith’表示信任，符合语境。\nA. ‘faith’表示信任，符合语境。\nB. ‘concern’表示关心，不符合语境。\nC. ‘attention’表示注意力，不符合语境。\nD. ‘interest’表示兴趣，不符合语境。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "A",
+            "id": 2,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "faith",
+                  "surface": "faith"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "concern",
+                  "surface": "concern"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "attention",
+                  "surface": "attention"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "interest",
+                  "surface": "interest"
+                }
+              ]
+            },
+            "options": [
+              "A) faith",
+              "B) concern",
+              "C) attention",
+              "D) interest"
+            ],
+            "qid": 2018011002,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "‘price’表示代价，符合语境。\nA. ‘benefit’表示好处，不符合语境。\nB. ‘debt’表示债务，不符合语境。\nC. ‘hope’表示希望，不符合语境。\nD. ‘price’表示代价，符合语境。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "D",
+            "id": 3,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "benefit",
+                  "surface": "benefit"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "debt",
+                  "surface": "debt"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "hope",
+                  "surface": "hope"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "price",
+                  "surface": "price"
+                }
+              ]
+            },
+            "options": [
+              "A) benefit",
+              "B) debt",
+              "C) hope",
+              "D) price"
+            ],
+            "qid": 2018011003,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "然而，结合上下文，‘Then’更符合逻辑，因为它表示一种顺承关系，强调对前文提到的信任的进一步探讨，而非直接的因果关系。\nA. ‘Therefore’表示因果关系，但此处并非在解释信任的原因，而是在引出对信任的进一步探讨，因此不合适。\nB. ‘Then’表示顺承关系，符合上下文逻辑，强调对前文提到的信任的进一步探讨，因此正确。\nC. ‘Instead’表示代替，与语境不符。\nD. ‘Again’表示重复，与语境不符。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "B",
+            "id": 4,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "therefore",
+                  "surface": "Therefore"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "then",
+                  "surface": "Then"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "instead",
+                  "surface": "Instead"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "again",
+                  "surface": "Again"
+                }
+              ]
+            },
+            "options": [
+              "A) Therefore",
+              "B) Then",
+              "C) Instead",
+              "D) Again"
+            ],
+            "qid": 2018011004,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "结合上下文，句子描述的是一种条件关系：当人们信任某人或某机构时，会发生某种生理反应。因此，表示条件的连接词 'When' 最为合适。\nA. ‘Until’表示‘直到’，通常用于描述某事发生之前的时间，不符合语境。\nB. ‘Unless’表示‘除非’，用于否定条件，不符合语境。\nC. ‘Although’表示‘虽然’，用于转折关系，不符合语境。\nD. ‘When’表示‘当’，用于描述条件关系，符合语境。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "D",
+            "id": 5,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "until",
+                  "surface": "Until"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "unless",
+                  "surface": "Unless"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "although",
+                  "surface": "Although"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "when",
+                  "surface": "When"
+                }
+              ]
+            },
+            "options": [
+              "A) Until",
+              "B) Unless",
+              "C) Although",
+              "D) When"
+            ],
+            "qid": 2018011005,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据句意，催产素是一种能够‘产生’愉悦感的激素，因此‘produces’最为合适。\nA. ‘Selects’表示‘选择’，不符合语境。\nB. ‘Produces’表示‘产生’，符合语境。\nC. ‘Applies’表示‘应用’，不符合语境。\nD. ‘Maintains’表示‘维持’，不符合语境。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "B",
+            "id": 6,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "select",
+                  "surface": "selects"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "produce",
+                  "surface": "produces"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "apply",
+                  "surface": "applies"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "maintain",
+                  "surface": "maintains"
+                }
+              ]
+            },
+            "options": [
+              "A) selects",
+              "B) produces",
+              "C) applies",
+              "D) maintains"
+            ],
+            "qid": 2018011006,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "结合上下文，催产素促使人类‘联系’彼此，因此‘connect’最为合适。\nA. ‘Consult’表示‘咨询’，不符合语境。\nB. ‘Compete’表示‘竞争’，不符合语境。\nC. ‘Connect’表示‘联系’，符合语境。\nD. ‘Compare’表示‘比较’，不符合语境。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "C",
+            "id": 7,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "consult",
+                  "surface": "consult"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "compete",
+                  "surface": "compete"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "connect",
+                  "surface": "connect"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "compare",
+                  "surface": "compare"
+                }
+              ]
+            },
+            "options": [
+              "A) consult",
+              "B) compete",
+              "C) connect",
+              "D) compare"
+            ],
+            "qid": 2018011007,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "‘Exposure to’是固定搭配，表示‘接触某物’，符合语境。\nA. ‘At’表示‘在’，不符合搭配。\nB. ‘By’表示‘通过’，不符合搭配。\nC. ‘Of’表示‘的’，不符合搭配。\nD. ‘To’表示‘到’，符合固定搭配。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "D",
+            "id": 8,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "at",
+                  "surface": "at"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "by",
+                  "surface": "by"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "of",
+                  "surface": "of"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "to",
+                  "surface": "to"
+                }
+              ]
+            },
+            "options": [
+              "A) at",
+              "B) by",
+              "C) of",
+              "D) to"
+            ],
+            "qid": 2018011008,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据句意，接触催产素会让人处于‘信任的情绪’中，因此‘mood’最为合适。\nA. ‘Context’表示‘上下文’，不符合语境。\nB. ‘Mood’表示‘情绪’，符合语境。\nC. ‘Period’表示‘时期’，不符合语境。\nD. ‘Circle’表示‘圈子’，不符合语境。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "B",
+            "id": 9,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "context",
+                  "surface": "context"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "mood",
+                  "surface": "mood"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "period",
+                  "surface": "period"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "circle",
+                  "surface": "circle"
+                }
+              ]
+            },
+            "options": [
+              "A) context",
+              "B) mood",
+              "C) period",
+              "D) circle"
+            ],
+            "qid": 2018011009,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "‘Counterparts’表示‘对应者’，与句中‘those subjects’形成对比，符合语境。\nA. ‘Counterparts’表示‘对应者’，符合语境。\nB. ‘Substitutes’表示‘替代者’，不符合语境。\nC. ‘Colleagues’表示‘同事’，不符合语境。\nD. ‘Supporters’表示‘支持者’，不符合语境。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "A",
+            "id": 10,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "counterpart",
+                  "surface": "counterparts"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "substitute",
+                  "surface": "substitutes"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "colleague",
+                  "surface": "colleagues"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "support",
+                  "surface": "supporters"
+                }
+              ]
+            },
+            "options": [
+              "A) counterparts",
+              "B) substitutes",
+              "C) colleagues",
+              "D) supporters"
+            ],
+            "qid": 2018011010,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据句意，‘Lucky’表示幸运，符合语境。\nA. ‘Funny’表示‘有趣’，不符合语境。\nB. ‘Lucky’表示‘幸运’，符合语境。\nC. ‘Odd’表示‘奇怪’，不符合语境。\nD. ‘Ironic’表示‘讽刺’，不符合语境。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "B",
+            "id": 11,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "funny",
+                  "surface": "Funny"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "lucky",
+                  "surface": "Lucky"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "odd",
+                  "surface": "Odd"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "ironic",
+                  "surface": "Ironic"
+                }
+              ]
+            },
+            "options": [
+              "A) Funny",
+              "B) Lucky",
+              "C) Odd",
+              "D) Ironic"
+            ],
+            "qid": 2018011011,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据句意，第六感能够‘保护’我们，因此‘protect’最为合适。\nA. ‘Monitor’表示‘监控’，不符合语境。\nB. ‘Protect’表示‘保护’，符合语境。\nC. ‘Surprise’表示‘使惊讶’，不符合语境。\nD. ‘Delight’表示‘使高兴’，不符合语境。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "B",
+            "id": 12,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "monitor",
+                  "surface": "monitor"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "protect",
+                  "surface": "protect"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "surprise",
+                  "surface": "surprise"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "delight",
+                  "surface": "delight"
+                }
+              ]
+            },
+            "options": [
+              "A) monitor",
+              "B) protect",
+              "C) surprise",
+              "D) delight"
+            ],
+            "qid": 2018011012,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据句子语境，‘differentiate’后需要一个介词来表示区分的对象。‘between’表示在两者之间区分，符合语义逻辑。\nA. ‘between’表示在两者之间区分，符合语义逻辑，且与‘credible person and dishonest one’搭配自然。\nB. ‘within’表示在某范围内，不适用于区分两者的语境。\nC. ‘toward’表示方向或态度，与‘differentiate’的语义不符。\nD. ‘over’表示在上方或超过，与区分两者的语义不符。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "A",
+            "id": 13,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "between",
+                  "surface": "between"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "within",
+                  "surface": "within"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "toward",
+                  "surface": "toward"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "over",
+                  "surface": "over"
+                }
+              ]
+            },
+            "options": [
+              "A) between",
+              "B) within",
+              "C) toward",
+              "D) over"
+            ],
+            "qid": 2018011013,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "‘introduced’表示将某人介绍给另一人，符合语境中测试者与幼儿的互动逻辑。\nA. ‘transferred’表示转移，不符合语境中介绍的含义。\nB. ‘added’表示增加，与句意不符。\nC. ‘introduced’表示介绍，符合语境中测试者与幼儿的互动逻辑。\nD. ‘entrusted’表示委托，不符合句意。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "C",
+            "id": 14,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "transfer",
+                  "surface": "transferred"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "add",
+                  "surface": "added"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "introduce",
+                  "surface": "introduced"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "entrust",
+                  "surface": "entrusted"
+                }
+              ]
+            },
+            "options": [
+              "A) transferred",
+              "B) added",
+              "C) introduced",
+              "D) entrusted"
+            ],
+            "qid": 2018011014,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "‘look inside’表示看容器内部，符合语境中测试者邀请受试者观察容器的逻辑。\nA. ‘look out’表示向外看，与观察容器内部的语境不符。\nB. ‘look back’表示回头看，与句意不符。\nC. ‘look around’表示环顾四周，与观察容器内部的语境不符。\nD. ‘look inside’表示看容器内部，符合语境逻辑。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "D",
+            "id": 15,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "out",
+                  "surface": "out"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "back",
+                  "surface": "back"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "around",
+                  "surface": "around"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "inside",
+                  "surface": "inside"
+                }
+              ]
+            },
+            "options": [
+              "A) out",
+              "B) back",
+              "C) around",
+              "D) inside"
+            ],
+            "qid": 2018011015,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "‘discovered’表示发现，与句意中受试者发现容器是空的逻辑一致。\nA. ‘discovered’表示发现，符合语境中受试者发现容器是空的逻辑。\nB. ‘proved’表示证明，与句意不符。\nC. ‘insisted’表示坚持，与句意不符。\nD. ‘remembered’表示记得，与句意不符。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "A",
+            "id": 16,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "discover",
+                  "surface": "discovered"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "prove",
+                  "surface": "proved"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "insist",
+                  "surface": "insisted"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "remember",
+                  "surface": "remembered"
+                }
+              ]
+            },
+            "options": [
+              "A) discovered",
+              "B) proved",
+              "C) insisted",
+              "D) remembered"
+            ],
+            "qid": 2018011016,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "‘fooled’语气较轻，贴合句子描述的情境。\nA. ‘betrayed’表示背叛，语气较重，不如‘fooled’贴合语境。\nB. ‘wronged’表示冤枉，与句意不符。\nC. ‘fooled’表示愚弄，符合语境中测试者欺骗受试者的逻辑。\nD. ‘mocked’表示嘲笑，与句意不符。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "C",
+            "id": 17,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "betray",
+                  "surface": "betrayed"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "wrong",
+                  "surface": "wronged"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "fool",
+                  "surface": "fooled"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "mock",
+                  "surface": "mocked"
+                }
+              ]
+            },
+            "options": [
+              "A) betrayed",
+              "B) wronged",
+              "C) fooled",
+              "D) mocked"
+            ],
+            "qid": 2018011017,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，句子强调孩子们愿意与测试者合作，表明信任，因此选择表示“愿意”的选项最为合适。\nA. “forced”表示“被迫”，与上下文中孩子们主动合作的语境不符，因此不合适。\nB. “willing”表示“愿意”，符合句子中孩子们主动合作的语境，因此最为合适。\nC. “hesitant”表示“犹豫的”，与句子中孩子们积极合作的语境不符，因此不合适。\nD. “entitled”表示“有权利的”，与句子中描述孩子们的行为不符，因此不合适。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "B",
+            "id": 18,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "force",
+                  "surface": "forced"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "willing",
+                  "surface": "willing"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "hesitant",
+                  "surface": "hesitant"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "entitle",
+                  "surface": "entitled"
+                }
+              ]
+            },
+            "options": [
+              "A) forced",
+              "B) willing",
+              "C) hesitant",
+              "D) entitled"
+            ],
+            "qid": 2018011018,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "句子通过对比两组儿童的行为，强调差异，因此选择表示“对比”的选项最为合适。\nA. “In contrast”表示“相比之下”，符合句子中强调两组儿童行为差异的语境，因此最为合适。\nB. “As a result”表示“结果”，与句子中强调对比的语境不符，因此不合适。\nC. “On the whole”表示“总体而言”，与句子中具体对比的语境不符，因此不合适。\nD. “For instance”表示“例如”，与句子中强调对比的语境不符，因此不合适。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "A",
+            "id": 19,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "in",
+                  "surface": "In"
+                },
+                {
+                  "lemma": "contrast",
+                  "surface": "contrast"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "as",
+                  "surface": "As"
+                },
+                {
+                  "lemma": "a",
+                  "surface": "a"
+                },
+                {
+                  "lemma": "result",
+                  "surface": "result"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "on",
+                  "surface": "On"
+                },
+                {
+                  "lemma": "the",
+                  "surface": "the"
+                },
+                {
+                  "lemma": "whole",
+                  "surface": "whole"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "for",
+                  "surface": "For"
+                },
+                {
+                  "lemma": "instance",
+                  "surface": "instance"
+                }
+              ]
+            },
+            "options": [
+              "A) In contrast",
+              "B) As a result",
+              "C) On the whole",
+              "D) For instance"
+            ],
+            "qid": 2018011019,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，句子描述测试者的不可靠性，因此选择表示“不可靠”的选项最为合适。\nA. “inflexible”表示“僵硬的”，与句子中描述测试者的不可靠性不符，因此不合适。\nB. “incapable”表示“无能力的”，与句子中强调测试者的不可靠性不符，因此不合适。\nC. “unreliable”表示“不可靠的”，符合句子中描述测试者的不可靠性，因此最为合适。\nD. “unsuitable”表示“不合适的”，与句子中强调测试者的不可靠性不符，因此不合适。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "C",
+            "id": 20,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "inflexible",
+                  "surface": "inflexible"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "incapable",
+                  "surface": "incapable"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "unreliable",
+                  "surface": "unreliable"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "unsuitable",
+                  "surface": "unsuitable"
+                }
+              ]
+            },
+            "options": [
+              "A) inflexible",
+              "B) incapable",
+              "C) unreliable",
+              "D) unsuitable"
+            ],
+            "qid": 2018011020,
+            "text": ""
+          }
+        ]
+      },
+      "directions": "Read the following text. Choose the best word(s) for each numbered blank and mark A, B,\nC or D on the ANSWER SHEET. (10 points)",
+      "exam_info": "2018(1)",
+      "exam_type": "kaoyan",
+      "id": 201801001,
+      "key_words": "fooled look between connect counterparts discovered faith inside introduced lucky mood price produces protect tester contrast one unreliable willing added again although applies around attention back benefit betrayed children circle colleagues compare compete concern consult container context debt delight differentiate each entitled entrusted forced found funny half hesitant hope incapable inflexible insisted instance instead interest ironic like maintains mocked monitor odd out over period proved remembered result selects subjects substitutes supporters surprise therefore toward transferred trust unless unsuitable until whole",
+      "kid": 5,
+      "part": "Part III",
+      "section": "Sec A",
+      "task_key": "2018(1)_Section I_ ",
+      "type": "Use of English"
+    }
+  ]
+}

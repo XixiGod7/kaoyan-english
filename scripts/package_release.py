@@ -1,6 +1,7 @@
 import os
 import shutil
 import zipfile
+import stat
 from PIL import Image
 
 def build_offline_package():
@@ -8,12 +9,13 @@ def build_offline_package():
     out_dir = os.path.join(root_dir, 'kaoyan-english-offline')
     zip_path = os.path.join(root_dir, 'kaoyan-english-v1.0.0-offline.zip')
 
-    if os.path.exists(out_dir):
-        shutil.rmtree(out_dir)
     os.makedirs(out_dir, exist_ok=True)
 
     # 1. Copy dist/index.html -> index.html
-    shutil.copy2(os.path.join(root_dir, 'dist', 'index.html'), os.path.join(out_dir, 'index.html'))
+    dist_html = os.path.join(root_dir, 'dist', 'index.html')
+    if not os.path.exists(dist_html):
+        raise FileNotFoundError("dist/index.html does not exist! Please run npm run build first.")
+    shutil.copy2(dist_html, os.path.join(out_dir, 'index.html'))
     
     # 2. Copy server.py
     shutil.copy2(os.path.join(root_dir, 'server.py'), os.path.join(out_dir, 'server.py'))
@@ -23,8 +25,6 @@ def build_offline_package():
     shutil.copy2(os.path.join(root_dir, '一键启动_Mac.command'), os.path.join(out_dir, '一键启动_Mac.command'))
 
     # 3.1 Windows Silent VBS Launcher
-    vbs_content = 'Set ws = CreateObject("Wscript.Shell")\nws.Run "cmd /c ""%~dp0一键启动考研英语.bat""", 0, False\n'
-    # Use exact path logic in VBS
     vbs_content = '''Set fso = CreateObject("Scripting.FileSystemObject")
 currentDir = fso.GetParentFolderName(WScript.ScriptFullName)
 Set ws = CreateObject("WScript.Shell")
@@ -125,38 +125,43 @@ fi
     # 5. Copy icons folder
     icons_src = os.path.join(root_dir, 'public', 'icons')
     if os.path.exists(icons_src):
-        shutil.copytree(icons_src, os.path.join(out_dir, 'icons'))
+        shutil.copytree(icons_src, os.path.join(out_dir, 'icons'), dirs_exist_ok=True)
 
     # 6. Copy data
-    shutil.copytree(os.path.join(root_dir, 'public', 'data'), os.path.join(out_dir, 'data'))
+    shutil.copytree(os.path.join(root_dir, 'public', 'data'), os.path.join(out_dir, 'data'), dirs_exist_ok=True)
 
     # 7. Copy images and thumbs
     img_dir = os.path.join(root_dir, 'public', 'images')
     if os.path.exists(img_dir):
-        shutil.copytree(img_dir, os.path.join(out_dir, 'images'))
+        shutil.copytree(img_dir, os.path.join(out_dir, 'images'), dirs_exist_ok=True)
 
     thumb_dir = os.path.join(root_dir, 'public', 'thumbs')
     if os.path.exists(thumb_dir):
-        shutil.copytree(thumb_dir, os.path.join(out_dir, 'thumbs'))
+        shutil.copytree(thumb_dir, os.path.join(out_dir, 'thumbs'), dirs_exist_ok=True)
 
     # 8. Create clean instructions text
     instructions = """============================================================
 考研英语一真题库 (2010-2026) - 完整桌面离线包
 ============================================================
 
+【Windows 一步到位使用方法】
+解压后直接双击【启动考研英语(无黑框后台运行).vbs】（或【一键启动考研英语.bat】）即可秒开使用！
+
 【macOS 一步到位使用方法】
 解压后直接双击【考研英语一真题库.app】即可直接打开使用！
 （可直接将【考研英语一真题库.app】拖到桌面或 Dock 程序坞中常驻）
 （备用方式：双击【一键启动_Mac.command】）
 
-【Windows 一步到位使用方法】
-解压后双击【启动考研英语(无黑框后台运行).vbs】或【一键启动考研英语.bat】。
-
 【停止服务】
-直接关闭浏览器窗口；如需完全退出后台服务，重新双击脚本即可或重启浏览器。
+直接关闭浏览器窗口；如需完全退出后台服务，重新双击脚本即可或重启电脑。
 """
     with open(os.path.join(out_dir, '使用说明.txt'), 'w', newline='\r\n', encoding='utf-8') as f:
         f.write(instructions)
+
+    # Verification before zip
+    final_index = os.path.join(out_dir, 'index.html')
+    if not os.path.exists(final_index) or os.path.getsize(final_index) == 0:
+        raise RuntimeError(f"Critical error: {final_index} is missing or empty!")
 
     # 9. Zip with Unix POSIX executable permissions
     if os.path.exists(zip_path):
@@ -186,7 +191,7 @@ fi
                         content = content.replace(b'\r\n', b'\n')
                     zipf.writestr(zinfo, content)
 
-    print(f"Successfully generated clean offline zip at {zip_path} with native macOS .app bundle and Windows silent launcher!")
+    print(f"Successfully generated clean offline zip at {zip_path} (Size: {os.path.getsize(zip_path)} bytes)!")
 
 if __name__ == '__main__':
     build_offline_package()
