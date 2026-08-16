@@ -2,14 +2,14 @@
 DIR="$(cd "$(dirname "$0")" && pwd)"
 cd "$DIR"
 
-echo "=========================================================="
-echo "      考研英语一真题库 - macOS 一键启动器"
-echo "=========================================================="
-
 export PATH="/opt/homebrew/bin:/usr/local/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:$PATH"
 
 PORT=8085
 URL="http://localhost:${PORT}"
+
+echo "=========================================================="
+echo "      考研英语一真题库 (2010-2026) - macOS 启动器"
+echo "=========================================================="
 
 PYTHON_CMD=""
 if command -v python3 >/dev/null 2>&1; then
@@ -25,8 +25,8 @@ elif command -v python >/dev/null 2>&1; then
 fi
 
 if [ -n "$PYTHON_CMD" ]; then
-    echo "[1/2] 检测到 Python: $($PYTHON_CMD --version 2>&1)"
-    echo "[2/2] 正在启动本地服务器..."
+    echo "[1/2] 找到 Python 环境: $($PYTHON_CMD --version 2>&1)"
+    echo "[2/2] 正在启动本地服务器并打开浏览器..."
     $PYTHON_CMD server.py
 else
     echo "=========================================================="

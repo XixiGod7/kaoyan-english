@@ -62,6 +62,18 @@ def is_port_in_use(port):
     with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
         return s.connect_ex(('127.0.0.1', port)) == 0
 
+def open_in_browser(url):
+    try:
+        if sys.platform == 'darwin':
+            os.system(f'open "{url}" &')
+        else:
+            webbrowser.open(url)
+    except Exception:
+        try:
+            webbrowser.open(url)
+        except Exception:
+            pass
+
 def main():
     print("=" * 60)
     print("      考研英语一真题库 (2010-2026) - 本地轻量服务器")
@@ -73,7 +85,7 @@ def main():
 
     if is_port_in_use(PORT):
         print(f"[提示] 服务已在端口 {PORT} 正常运行中，正在为您打开浏览器...")
-        webbrowser.open(URL)
+        open_in_browser(URL)
         return
 
     server_address = ('0.0.0.0', PORT)
@@ -87,10 +99,7 @@ def main():
     print("如需停止服务，请直接关闭本窗口，或运行【停止服务】脚本。")
     print("=" * 60)
     
-    try:
-        webbrowser.open(URL)
-    except Exception:
-        pass
+    open_in_browser(URL)
 
     try:
         httpd.serve_forever()

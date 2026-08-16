@@ -51,18 +51,16 @@ def build_offline_package():
 直接双击运行【一键启动考研英语.bat】（或 start_windows.bat），系统将自动启动并弹出浏览器。
 
 【Mac 系统运行方法】
-1. 双击运行【一键启动_Mac.command】（或 start_mac.command）；
-2. 如首次运行提示访问权限，在终端运行以下一行命令即可永久解除：
-   chmod +x *.command server.py
-   xattr -dr com.apple.quarantine .
-3. 或直接在终端运行：
+1. 直接双击运行【一键启动_Mac.command】（或 start_mac.command）；
+2. 启动后会自动打开默认浏览器进入题库系统！
+3. 如终端需要直接运行：
    python3 server.py
 
 【停止后台服务】
 - Windows: 双击【停止服务.bat】
-- Mac: 双击【停止服务_Mac.command】或在终端按 Ctrl+C
+- Mac: 双击【停止服务_Mac.command】或直接关闭终端窗口
 """
-    with open(os.path.join(out_dir, '使用说明.txt'), 'w', encoding='utf-8') as f:
+    with open(os.path.join(out_dir, '使用说明.txt'), 'w', newline='\r\n', encoding='utf-8') as f:
         f.write(instructions)
 
     # 7. Zip with Unix POSIX executable permissions and UTF-8 flag preserved!
@@ -74,27 +72,25 @@ def build_offline_package():
             for file in files:
                 file_path = os.path.join(root, file)
                 rel_path = os.path.relpath(file_path, out_dir)
-                # Use Unix-style forward slashes in zip internal paths
                 arcname = rel_path.replace('\\', '/')
                 
-                # Check if it's executable script
                 zinfo = zipfile.ZipInfo(arcname)
-                zinfo.create_system = 3  # 3 = UNIX system (critical for macOS to parse POSIX permissions!)
-                zinfo.flag_bits |= 0x800  # General purpose bit 11 = UTF-8 filename
-                
-                stat = os.stat(file_path)
+                zinfo.create_system = 3  # UNIX
+                zinfo.flag_bits |= 0x800  # UTF-8
                 zinfo.date_time = (2026, 8, 16, 20, 0, 0)
                 
                 is_exec = file.endswith('.command') or file.endswith('.sh') or file.endswith('.py') or file.endswith('.bat')
                 if is_exec:
-                    # 0755 (-rwxr-xr-x) in Unix standard file attributes
                     zinfo.external_attr = (0o100755 << 16) | 0x20
                 else:
-                    # 0644 (-rw-r--r--)
                     zinfo.external_attr = (0o100644 << 16) | 0x20
                 
                 with open(file_path, 'rb') as fp:
-                    zipf.writestr(zinfo, fp.read())
+                    content = fp.read()
+                    # Ensure Unix scripts strictly have LF line endings (strip \r)
+                    if file.endswith(('.command', '.sh', '.py')):
+                        content = content.replace(b'\r\n', b'\n')
+                    zipf.writestr(zinfo, content)
 
     print(f"Successfully generated complete offline zip at {zip_path}!")
 

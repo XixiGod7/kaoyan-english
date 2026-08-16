@@ -43,7 +43,7 @@ echo 请安装 Python 3 (https://www.python.org) 后重试。
 echo ========================================================
 pause
 """
-    with open(os.path.join(root, '一键启动考研英语.bat'), 'w', encoding='utf-8') as f:
+    with open(os.path.join(root, '一键启动考研英语.bat'), 'w', newline='\r\n', encoding='utf-8') as f:
         f.write(win_bat)
 
     # 2. 停止服务.bat (Windows)
@@ -57,10 +57,10 @@ for /f "tokens=5" %%a in ('netstat -aon ^| findstr ":8085" ^| findstr "LISTENING
 echo [成功] 考研英语服务已安全关闭！
 timeout /t 2 >nul
 """
-    with open(os.path.join(root, '停止服务.bat'), 'w', encoding='utf-8') as f:
+    with open(os.path.join(root, '停止服务.bat'), 'w', newline='\r\n', encoding='utf-8') as f:
         f.write(win_stop)
 
-    # 3. server.py (Universal Python Server with full Windows & Mac support)
+    # 3. server.py (Universal Python Server with full Windows & Mac support, LF line endings)
     server_py = """#!/usr/bin/env python3
 import os
 import sys
@@ -125,6 +125,18 @@ def is_port_in_use(port):
     with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
         return s.connect_ex(('127.0.0.1', port)) == 0
 
+def open_in_browser(url):
+    try:
+        if sys.platform == 'darwin':
+            os.system(f'open "{url}" &')
+        else:
+            webbrowser.open(url)
+    except Exception:
+        try:
+            webbrowser.open(url)
+        except Exception:
+            pass
+
 def main():
     print("=" * 60)
     print("      考研英语一真题库 (2010-2026) - 本地轻量服务器")
@@ -136,7 +148,7 @@ def main():
 
     if is_port_in_use(PORT):
         print(f"[提示] 服务已在端口 {PORT} 正常运行中，正在为您打开浏览器...")
-        webbrowser.open(URL)
+        open_in_browser(URL)
         return
 
     server_address = ('0.0.0.0', PORT)
@@ -150,10 +162,7 @@ def main():
     print("如需停止服务，请直接关闭本窗口，或运行【停止服务】脚本。")
     print("=" * 60)
     
-    try:
-        webbrowser.open(URL)
-    except Exception:
-        pass
+    open_in_browser(URL)
 
     try:
         httpd.serve_forever()
@@ -164,22 +173,22 @@ def main():
 if __name__ == '__main__':
     main()
 """
-    with open(os.path.join(root, 'server.py'), 'w', encoding='utf-8') as f:
+    with open(os.path.join(root, 'server.py'), 'w', newline='\n', encoding='utf-8') as f:
         f.write(server_py)
 
-    # 4. 一键启动_Mac.command (macOS)
+    # 4. 一键启动_Mac.command (macOS with strict LF endings)
     mac_command = """#!/bin/bash
 DIR="$(cd "$(dirname "$0")" && pwd)"
 cd "$DIR"
-
-echo "=========================================================="
-echo "      考研英语一真题库 - macOS 一键启动器"
-echo "=========================================================="
 
 export PATH="/opt/homebrew/bin:/usr/local/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:$PATH"
 
 PORT=8085
 URL="http://localhost:${PORT}"
+
+echo "=========================================================="
+echo "      考研英语一真题库 (2010-2026) - macOS 启动器"
+echo "=========================================================="
 
 PYTHON_CMD=""
 if command -v python3 >/dev/null 2>&1; then
@@ -195,8 +204,8 @@ elif command -v python >/dev/null 2>&1; then
 fi
 
 if [ -n "$PYTHON_CMD" ]; then
-    echo "[1/2] 检测到 Python: $($PYTHON_CMD --version 2>&1)"
-    echo "[2/2] 正在启动本地服务器..."
+    echo "[1/2] 找到 Python 环境: $($PYTHON_CMD --version 2>&1)"
+    echo "[2/2] 正在启动本地服务器并打开浏览器..."
     $PYTHON_CMD server.py
 else
     echo "=========================================================="
@@ -206,10 +215,20 @@ else
     read -p "按回车键退出..."
 fi
 """
-    with open(os.path.join(root, '一键启动_Mac.command'), 'w', encoding='utf-8') as f:
+    with open(os.path.join(root, '一键启动_Mac.command'), 'w', newline='\n', encoding='utf-8') as f:
         f.write(mac_command)
 
-    print("All launchers updated successfully!")
+    # 5. 停止服务_Mac.command (macOS with strict LF endings)
+    mac_stop = """#!/bin/bash
+echo "正在停止考研英语本地服务 (端口 8085)..."
+kill -9 $(lsof -t -i:8085) >/dev/null 2>&1
+echo "[成功] 考研英语服务已安全关闭！"
+sleep 1
+"""
+    with open(os.path.join(root, '停止服务_Mac.command'), 'w', newline='\n', encoding='utf-8') as f:
+        f.write(mac_stop)
+
+    print("All launchers updated successfully with correct LF/CRLF line endings!")
 
 if __name__ == '__main__':
     update_all_launchers()
