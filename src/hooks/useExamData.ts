@@ -71,7 +71,7 @@ export function useExamData(year: string | undefined) {
     setError(null);
     
     // Add cache-busting timestamp to avoid browser caching old JSON after edit
-    const url = `/data/${year}.json?t=${Date.now()}`;
+    const url = `./data/${year}.json?t=${Date.now()}`;
 
     fetch(url)
       .then(res => {

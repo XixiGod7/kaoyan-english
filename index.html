@@ -2,11 +2,11 @@
 <html lang="zh-CN">
   <head>
     <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="/icons/vite.svg" />
-    <link rel="icon" type="image/png" sizes="64x64" href="/icons/favicon.png" />
-    <link rel="apple-touch-icon" sizes="180x180" href="/icons/apple-touch-icon.png" />
-    <link rel="apple-touch-icon" sizes="192x192" href="/icons/icon-192.png" />
-    <link rel="manifest" href="/icons/manifest.json" />
+    <link rel="icon" type="image/svg+xml" href="./icons/vite.svg" />
+    <link rel="icon" type="image/png" sizes="64x64" href="./icons/favicon.png" />
+    <link rel="apple-touch-icon" sizes="180x180" href="./icons/apple-touch-icon.png" />
+    <link rel="apple-touch-icon" sizes="192x192" href="./icons/icon-192.png" />
+    <link rel="manifest" href="./icons/manifest.json" />
     <meta name="theme-color" content="#4f46e5" />
     <meta name="apple-mobile-web-app-title" content="考研英语一真题库" />
     <meta name="apple-mobile-web-app-capable" content="yes" />
@@ -20,7 +20,7 @@
     <script>
       if ('serviceWorker' in navigator) {
         window.addEventListener('load', () => {
-          navigator.serviceWorker.register('/sw.js').catch(err => {
+          navigator.serviceWorker.register('./sw.js').catch(err => {
             console.log('SW registration failed: ', err);
           });
         });

@@ -132,7 +132,7 @@ export default function QuizMode({
   }, [dict]);
 
   useEffect(() => {
-    fetch(`/data/papers/${year}.json`)
+    fetch(`./data/papers/${year}.json`)
       .then(res => res.json())
       .then(data => {
         setPaperData(data);
@@ -1617,7 +1617,7 @@ export default function QuizMode({
                 </div>
                 {task && (
                   <button
-                    onClick={() => setPreviewImageUrl(`/data/images/writing/${task.meta.id}.png`)}
+                    onClick={() => setPreviewImageUrl(`./data/images/writing/${task.meta.id}.png`)}
                     className={`text-xs px-3 py-1.5 rounded-lg border font-semibold flex items-center gap-1.5 transition-colors shadow-sm ${
                       isDark 
                         ? 'bg-slate-800 hover:bg-slate-750 text-blue-300 border-slate-700' 
@@ -1634,9 +1634,9 @@ export default function QuizMode({
               {task && (
                 <div className="w-full flex flex-col items-center my-2">
                   <img 
-                    src={`/data/images/writing/${task.meta.id}.png`} 
+                    src={`./data/images/writing/${task.meta.id}.png`} 
                     alt={`${titleName} 原题高清配图`} 
-                    onClick={() => setPreviewImageUrl(`/data/images/writing/${task.meta.id}.png`)}
+                    onClick={() => setPreviewImageUrl(`./data/images/writing/${task.meta.id}.png`)}
                     className="w-full h-auto max-w-full rounded-xl border border-gray-200 bg-white shadow-md cursor-zoom-in transition-transform duration-200 hover:shadow-lg"
                     style={{ display: 'block' }}
                     onError={(e) => {
@@ -1653,7 +1653,7 @@ export default function QuizMode({
                     <span className="flex items-center gap-1">
                       📷 {year}年考研英语一 {titleName} 原卷扫描超清大图
                     </span>
-                    <span className="flex items-center gap-1 cursor-pointer hover:underline text-blue-500" onClick={() => setPreviewImageUrl(`/data/images/writing/${task.meta.id}.png`)}>
+                    <span className="flex items-center gap-1 cursor-pointer hover:underline text-blue-500" onClick={() => setPreviewImageUrl(`./data/images/writing/${task.meta.id}.png`)}>
                       <Maximize2 className="w-3.5 h-3.5" /> 点击全屏放大查看
                     </span>
                   </div>

@@ -1,0 +1,38 @@
+#!/bin/bash
+DIR="$(cd "$(dirname "$0")/../../.." && pwd)"
+cd "$DIR"
+
+export PATH="/opt/homebrew/bin:/usr/local/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:$PATH"
+
+PORT=8085
+URL="http://localhost:${PORT}"
+
+PYTHON_CMD=""
+if command -v python3 >/dev/null 2>&1; then
+    PYTHON_CMD="python3"
+elif [ -x "/usr/bin/python3" ]; then
+    PYTHON_CMD="/usr/bin/python3"
+elif [ -x "/opt/homebrew/bin/python3" ]; then
+    PYTHON_CMD="/opt/homebrew/bin/python3"
+elif [ -x "/usr/local/bin/python3" ]; then
+    PYTHON_CMD="/usr/local/bin/python3"
+elif command -v python >/dev/null 2>&1; then
+    PYTHON_CMD="python"
+fi
+
+# If server not running, start it silently in background
+if ! nc -z 127.0.0.1 $PORT >/dev/null 2>&1; then
+    if [ -n "$PYTHON_CMD" ]; then
+        nohup $PYTHON_CMD server.py >/dev/null 2>&1 &
+        sleep 0.8
+    fi
+fi
+
+# Open in Chrome / Edge App Mode or default browser
+if [ -d "/Applications/Google Chrome.app" ]; then
+    open -na "Google Chrome" --args --app="$URL"
+elif [ -d "/Applications/Microsoft Edge.app" ]; then
+    open -na "Microsoft Edge" --args --app="$URL"
+else
+    open "$URL"
+fi

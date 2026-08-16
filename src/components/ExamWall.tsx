@@ -184,7 +184,7 @@ export const ExamWall: React.FC<ExamWallProps> = ({
                   {/* Thumbnails Column (Strictly 9 Sections per Year) */}
                   <div className={`p-1.5 flex flex-col gap-2 ${isDark ? 'bg-slate-950/60' : 'bg-slate-50/70'}`}>
                     {questions.map((q) => {
-                      const thumbPath = `/thumbs/${q.thumbnail_id}.png`;
+                      const thumbPath = `./thumbs/${q.thumbnail_id}.png`;
                       const isHighlighted = highlightedTaskIds.has(q.id);
                       const hasSelectedWord = selectedWord !== null;
                       const { tabId, label } = mapSectionToTab(q.id);
