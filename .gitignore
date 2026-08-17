@@ -39,6 +39,10 @@ check_imgs.cjs
 zhentiqiang_home.html
 # Release binary artifacts
 *.zip
+*.dmg
+kaoyan-english-offline/
+kaoyan-english-windows/
+dmg_staging/
 *-standalone.html
 release_notes_*.md
 

@@ -51,7 +51,7 @@
 ## 🚀 快速上手指南
 
 ### 方式一：macOS 用户专用 DMG 镜像安装包（最推荐 · 一步到位）
-1. 前往 [GitHub Releases 页面](https://github.com/XixiGod7/kaoyan-english/releases/tag/v1.0.0) 下载 **`kaoyan-english-v1.0.0.dmg`**；
+1. 前往 [GitHub Releases 页面](https://github.com/XixiGod7/kaoyan-english/releases/tag/v1.0.0) 下载 **`kaoyan-english-v1.0.0-macos.dmg`**；
 2. 双击打开 DMG 镜像，将 **`考研英语一真题库.app`** 拖入右侧 **`Applications (应用程序)`** 文件夹；
 3. **一步到位体验**：之后直接在 Launchpad 启动台或 Dock 程序坞双击打开应用，后台会自动拉起极速服务并进入全屏刷题窗口，完全无需任何终端命令行或手动启动服务！
 4. **安全提示**：若 macOS 首次提示“来自未知开发者”，可直接在访达应用程序中**右键点击应用选择「打开」**，或在终端执行：
@@ -59,9 +59,9 @@
    xattr -cr /Applications/考研英语一真题库.app
    ```
 
-### 方式二：Windows 离线包本地极速运行
-1. 前往 [GitHub Releases 页面](https://github.com/XixiGod7/kaoyan-english/releases/tag/v1.0.0) 下载 **`kaoyan-english-v1.0.0-offline.zip`** 并解压；
-2. 双击 **`启动考研英语(无黑框后台运行).vbs`**（静默后台秒开）或 **`一键启动考研英语.bat`** 即可直接使用！
+### 方式二：Windows 专用免安装离线包
+1. 前往 [GitHub Releases 页面](https://github.com/XixiGod7/kaoyan-english/releases/tag/v1.0.0) 下载 **`kaoyan-english-v1.0.0-windows.zip`** 并解压；
+2. 双击 **`启动考研英语(无黑框后台运行).vbs`**（静默后台秒开，无黑框）或 **`一键启动考研英语.bat`** 即可直接使用！
 
 ### 方式三：浏览器在线版一键安装为桌面独立 App（免下载任何文件）
 1. 在 Chrome、Edge 或 Safari 浏览器中打开在线站点：[**https://xixigod7.github.io/kaoyan-english/**](https://xixigod7.github.io/kaoyan-english/)；

@@ -40,44 +40,105 @@ def generate_icns(icon_png_path, target_icns_path):
 
 def build_offline_package():
     root_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-    out_dir = os.path.join(root_dir, 'kaoyan-english-offline')
-    zip_path = os.path.join(root_dir, 'kaoyan-english-v1.0.0-offline.zip')
-    dmg_path = os.path.join(root_dir, 'kaoyan-english-v1.0.0.dmg')
     public_dir = os.path.join(root_dir, 'public')
     dist_html = os.path.join(root_dir, 'dist', 'index.html')
+
+    win_zip_path = os.path.join(root_dir, 'kaoyan-english-v1.0.0-windows.zip')
+    mac_dmg_path = os.path.join(root_dir, 'kaoyan-english-v1.0.0-macos.dmg')
+
+    # Remove obsolete combined artifacts if they exist
+    for obsolete in ['kaoyan-english-v1.0.0-offline.zip', 'kaoyan-english-v1.0.0.dmg']:
+        p = os.path.join(root_dir, obsolete)
+        if os.path.exists(p):
+            os.remove(p)
 
     if not os.path.exists(dist_html):
         print("dist/index.html not found, running 'npm run build'...")
         subprocess.run(['npm', 'run', 'build'], cwd=root_dir, check=True)
 
-    if os.path.exists(out_dir):
-        shutil.rmtree(out_dir)
-    os.makedirs(out_dir, exist_ok=True)
+    # =========================================================================
+    # 1. BUILD WINDOWS DEDICATED RELEASE PACKAGE (kaoyan-english-v1.0.0-windows.zip)
+    # =========================================================================
+    print("\n[1/2] Building Windows dedicated release package...")
+    win_staging = os.path.join(root_dir, 'kaoyan-english-windows')
+    if os.path.exists(win_staging):
+        shutil.rmtree(win_staging)
+    os.makedirs(win_staging, exist_ok=True)
 
-    # 1. Copy web files for root offline directory
-    shutil.copy2(dist_html, os.path.join(out_dir, 'index.html'))
-    shutil.copy2(os.path.join(root_dir, 'server.py'), os.path.join(out_dir, 'server.py'))
-    os.chmod(os.path.join(out_dir, 'server.py'), 0o755)
+    # 1.1 Copy web files
+    shutil.copy2(dist_html, os.path.join(win_staging, 'index.html'))
+    shutil.copy2(os.path.join(root_dir, 'server.py'), os.path.join(win_staging, 'server.py'))
+    shutil.copy2(os.path.join(root_dir, '一键启动考研英语.bat'), os.path.join(win_staging, '一键启动考研英语.bat'))
 
-    shutil.copy2(os.path.join(root_dir, '一键启动考研英语.bat'), os.path.join(out_dir, '一键启动考研英语.bat'))
-    
-    mac_command_src = os.path.join(root_dir, '一键启动_Mac.command')
-    mac_command_dst = os.path.join(out_dir, '一键启动_Mac.command')
-    shutil.copy2(mac_command_src, mac_command_dst)
-    os.chmod(mac_command_dst, 0o755)
-
-    # 2. Windows Silent VBS Launcher
+    # 1.2 Windows Silent VBS Launcher
     vbs_content = '''Set fso = CreateObject("Scripting.FileSystemObject")
 currentDir = fso.GetParentFolderName(WScript.ScriptFullName)
 Set ws = CreateObject("WScript.Shell")
 ws.CurrentDirectory = currentDir
 ws.Run "cmd /c """ & currentDir & "\\一键启动考研英语.bat""", 0, False
 '''
-    with open(os.path.join(out_dir, '启动考研英语(无黑框后台运行).vbs'), 'w', newline='\r\n', encoding='gbk') as f:
+    with open(os.path.join(win_staging, '启动考研英语(无黑框后台运行).vbs'), 'w', newline='\r\n', encoding='gbk') as f:
         f.write(vbs_content)
 
-    # 3. Create 100% self-contained macOS .app bundle
-    app_bundle = os.path.join(out_dir, '考研英语一真题库.app')
+    # 1.3 Copy assets
+    shutil.copytree(os.path.join(public_dir, 'icons'), os.path.join(win_staging, 'icons'), dirs_exist_ok=True)
+    shutil.copytree(os.path.join(public_dir, 'data'), os.path.join(win_staging, 'data'), dirs_exist_ok=True)
+    shutil.copytree(os.path.join(public_dir, 'images'), os.path.join(win_staging, 'images'), dirs_exist_ok=True)
+    shutil.copytree(os.path.join(public_dir, 'thumbs'), os.path.join(win_staging, 'thumbs'), dirs_exist_ok=True)
+
+    # 1.4 Windows Instructions
+    win_readme = """============================================================
+考研英语一真题库 (2010-2026) - Windows 专用绿色免安装版
+============================================================
+
+【使用方法（任选一种）】
+方法一（最推荐 · 静默秒开）：
+直接双击【启动考研英语(无黑框后台运行).vbs】即可秒开刷题界面（无黑框、后台极速运行）！
+
+方法二（带控制台日志）：
+双击【一键启动考研英语.bat】。
+
+【安装为独立桌面 App】
+在打开的 Chrome 或 Edge 浏览器中，点击地址栏右侧的【在应用中打开】或【安装】图标，即可生成原生独立窗口！
+
+【停止服务】
+直接关闭浏览器窗口即可；如需彻底退出后台 Python 服务，可在任务管理器中结束 python.exe 进程。
+"""
+    with open(os.path.join(win_staging, '使用说明.txt'), 'w', newline='\r\n', encoding='utf-8') as f:
+        f.write(win_readme)
+
+    # 1.5 Create Windows Zip
+    if os.path.exists(win_zip_path):
+        os.remove(win_zip_path)
+
+    with zipfile.ZipFile(win_zip_path, 'w', zipfile.ZIP_DEFLATED) as zipf:
+        for root, dirs, files in os.walk(win_staging):
+            for file in files:
+                file_path = os.path.join(root, file)
+                rel_path = os.path.relpath(file_path, win_staging)
+                arcname = 'kaoyan-english-windows/' + rel_path.replace('\\', '/')
+                
+                zinfo = zipfile.ZipInfo(arcname)
+                zinfo.create_system = 0  # FAT / Windows
+                zinfo.flag_bits |= 0x800  # UTF-8
+                zinfo.date_time = (2026, 8, 17, 12, 0, 0)
+                
+                with open(file_path, 'rb') as fp:
+                    zipf.writestr(zinfo, fp.read())
+
+    shutil.rmtree(win_staging, ignore_errors=True)
+    print(f"✅ Successfully built Windows release: {win_zip_path} (Size: {os.path.getsize(win_zip_path):,} bytes)")
+
+    # =========================================================================
+    # 2. BUILD macOS DEDICATED DMG PACKAGE (kaoyan-english-v1.0.0-macos.dmg)
+    # =========================================================================
+    print("\n[2/2] Building macOS dedicated DMG installer...")
+    mac_staging = os.path.join(root_dir, 'dmg_staging')
+    if os.path.exists(mac_staging):
+        shutil.rmtree(mac_staging)
+    os.makedirs(mac_staging, exist_ok=True)
+
+    app_bundle = os.path.join(mac_staging, '考研英语一真题库.app')
     app_contents = os.path.join(app_bundle, 'Contents')
     app_macos = os.path.join(app_contents, 'MacOS')
     app_resources = os.path.join(app_contents, 'Resources')
@@ -87,7 +148,7 @@ ws.Run "cmd /c """ & currentDir & "\\一键启动考研英语.bat""", 0, False
     os.makedirs(app_resources, exist_ok=True)
     os.makedirs(app_web, exist_ok=True)
 
-    # 3.1 AppIcon.icns
+    # 2.1 Generate ICNS
     icon_512_path = os.path.join(public_dir, 'icons', 'icon-512.png')
     target_icns = os.path.join(app_resources, 'AppIcon.icns')
     public_icns = os.path.join(public_dir, 'icons', 'AppIcon.icns')
@@ -98,7 +159,7 @@ ws.Run "cmd /c """ & currentDir & "\\一键启动考研英语.bat""", 0, False
     if os.path.exists(public_icns):
         shutil.copy2(public_icns, target_icns)
 
-    # 3.2 Info.plist
+    # 2.2 Info.plist
     info_plist = """<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
@@ -129,7 +190,7 @@ ws.Run "cmd /c """ & currentDir & "\\一键启动考研英语.bat""", 0, False
     with open(os.path.join(app_contents, 'Info.plist'), 'w', newline='\n', encoding='utf-8') as f:
         f.write(info_plist)
 
-    # 3.3 app_launcher (Self-contained launcher script)
+    # 2.3 app_launcher
     app_launcher = """#!/bin/bash
 CONTENTS_DIR="$(cd "$(dirname "$0")/.." && pwd)"
 WEB_DIR="$CONTENTS_DIR/Resources/web"
@@ -207,7 +268,7 @@ open "$URL"
         f.write(app_launcher)
     os.chmod(launcher_path, 0o755)
 
-    # 3.4 Populate self-contained Resources/web directory
+    # 2.4 Populate self-contained Resources/web
     shutil.copy2(dist_html, os.path.join(app_web, 'index.html'))
     shutil.copy2(os.path.join(root_dir, 'server.py'), os.path.join(app_web, 'server.py'))
     os.chmod(os.path.join(app_web, 'server.py'), 0o755)
@@ -217,7 +278,7 @@ open "$URL"
     shutil.copytree(os.path.join(public_dir, 'images'), os.path.join(app_web, 'images'), dirs_exist_ok=True)
     shutil.copytree(os.path.join(public_dir, 'thumbs'), os.path.join(app_web, 'thumbs'), dirs_exist_ok=True)
 
-    # Recursively make sure all directories and executables in .app have correct permissions
+    # Ensure all directories and executable bits in .app
     for root, dirs, files in os.walk(app_bundle):
         for d in dirs:
             os.chmod(os.path.join(root, d), 0o755)
@@ -226,167 +287,54 @@ open "$URL"
             if file == 'app_launcher' or file.endswith(('.sh', '.command', '.py')):
                 os.chmod(p, 0o755)
 
-    # 4. Copy static assets to root offline folder for Windows/BAT users
-    shutil.copytree(os.path.join(public_dir, 'icons'), os.path.join(out_dir, 'icons'), dirs_exist_ok=True)
-    shutil.copytree(os.path.join(public_dir, 'data'), os.path.join(out_dir, 'data'), dirs_exist_ok=True)
-    shutil.copytree(os.path.join(public_dir, 'images'), os.path.join(out_dir, 'images'), dirs_exist_ok=True)
-    shutil.copytree(os.path.join(public_dir, 'thumbs'), os.path.join(out_dir, 'thumbs'), dirs_exist_ok=True)
-
-    # 5. Instructions text
-    instructions = """============================================================
-考研英语一真题库 (2010-2026) - 完整离线包
-============================================================
-
-【macOS 使用方法（任选一种）】
-方法一（最推荐 · 原生独立 App）：
-1. 直接双击打开【考研英语一真题库.app】（自动启动极速本地服务并打开全屏 App 界面）；
-2. 也可以将【考研英语一真题库.app】拖入【访达 -> 应用程序】或桌面，永久常驻 Dock 程序坞或 Launchpad 启动台。
-（如果提示“来自未知开发者”，可右键点击应用选择“打开”，或在终端执行：xattr -cr /Applications/考研英语一真题库.app）
-
-方法二（终端窗口启动）：
-双击【一键启动_Mac.command】，关闭命令行窗口即可停止服务。
-
-【Windows 使用方法（任选一种）】
-方法一：直接双击【启动考研英语(无黑框后台运行).vbs】（静默后台秒开，无任何黑框）；
-方法二：双击【一键启动考研英语.bat】。
-
-【停止服务】
-直接关闭浏览器窗口即可；如需彻底退出后台服务，可重启电脑或在任务管理器/活动监视器中退出 Python 进程。
-"""
-    with open(os.path.join(out_dir, '使用说明.txt'), 'w', newline='\r\n', encoding='utf-8') as f:
-        f.write(instructions)
-
-    # 6. Build macOS DMG installer disk image
-    print("Building macOS DMG disk image installer...")
-    if os.path.exists(dmg_path):
-        os.remove(dmg_path)
-
+    # 2.5 macOS DMG Readme & Symlink
     dmg_readme = """============================================================
 考研英语一真题库 (2010-2026) - macOS 专用 DMG 安装包
 ============================================================
 
 【安装与使用说明】
-1. 直接双击打开【考研英语一真题库.app】即可立即运行刷题（会自动启动后台服务并打开页面）！
-2. 也可以将【考研英语一真题库.app】拖入右侧【Applications (应用程序)】文件夹，即可永久常驻 Dock 程序坞或 Launchpad 启动台！
+1. 直接将【考研英语一真题库.app】拖入右侧【Applications (应用程序)】文件夹，即可永久常驻 Dock 程序坞与 Launchpad 启动台！
+2. 之后直接双击打开【考研英语一真题库.app】即可立即运行刷题（会自动启动后台服务并打开极简 App 窗口，无需任何命令行）！
 3. 若系统提示“未知的开发者”或已损坏，请在访达中右键点击该应用并选择【打开】，或在终端运行：
    xattr -cr /Applications/考研英语一真题库.app
 
 【停止服务】
-直接关闭浏览器或退出应用窗口即可。
+直接关闭应用窗口即可。
 """
+    with open(os.path.join(mac_staging, '使用说明.txt'), 'w', newline='\r\n', encoding='utf-8') as f:
+        f.write(dmg_readme)
+
+    os.symlink('/Applications', os.path.join(mac_staging, 'Applications'))
+
+    # 2.6 Build DMG with hdiutil
+    if os.path.exists(mac_dmg_path):
+        os.remove(mac_dmg_path)
 
     if shutil.which('hdiutil'):
-        # Native macOS high-compatibility DMG build using hdiutil
-        staging_dir = os.path.join(root_dir, 'dmg_staging')
-        if os.path.exists(staging_dir):
-            shutil.rmtree(staging_dir)
-        os.makedirs(staging_dir, exist_ok=True)
-
-        # Copy .app bundle preserving permissions
-        shutil.copytree(app_bundle, os.path.join(staging_dir, '考研英语一真题库.app'), symlinks=True)
-        # Create genuine Applications symlink
-        os.symlink('/Applications', os.path.join(staging_dir, 'Applications'))
-        # Add Readme
-        with open(os.path.join(staging_dir, '使用说明.txt'), 'w', newline='\r\n', encoding='utf-8') as f:
-            f.write(dmg_readme)
-
-        # Ensure executable bit on app_launcher in staging
-        stg_launcher = os.path.join(staging_dir, '考研英语一真题库.app', 'Contents', 'MacOS', 'app_launcher')
-        if os.path.exists(stg_launcher):
-            os.chmod(stg_launcher, 0o755)
-
         cmd = [
             'hdiutil', 'create',
             '-volname', '考研英语一真题库',
-            '-srcfolder', staging_dir,
+            '-srcfolder', mac_staging,
             '-ov',
             '-format', 'UDZO',
             '-imagekey', 'zlib-level=9',
-            dmg_path
+            mac_dmg_path
         ]
         res = subprocess.run(cmd, capture_output=True, text=True)
-        shutil.rmtree(staging_dir, ignore_errors=True)
+        shutil.rmtree(mac_staging, ignore_errors=True)
 
         if res.returncode != 0:
             print(f"hdiutil error: {res.stderr}")
             raise RuntimeError(f"Failed to create DMG: {res.stderr}")
-        print(f"Successfully generated macOS DMG at {dmg_path} (Size: {os.path.getsize(dmg_path):,} bytes) via hdiutil!")
+        print(f"✅ Successfully built macOS release: {mac_dmg_path} (Size: {os.path.getsize(mac_dmg_path):,} bytes)")
     else:
-        # Cross-platform fallback using pycdlib if available
-        try:
-            import pycdlib
-            iso = pycdlib.PyCdlib()
-            iso.new(udf='2.60', vol_ident='KaoyanEnglish')
-            try:
-                iso.add_symlink(udf_symlink_path='/Applications', udf_target='/Applications')
-            except Exception:
-                pass
-            created_dirs = set()
-            for root, dirs, files in os.walk(app_bundle):
-                rel_dir = os.path.relpath(root, out_dir)
-                parts = rel_dir.replace('\\', '/').split('/')
-                curr = ''
-                for p in parts:
-                    curr += '/' + p
-                    if curr not in created_dirs:
-                        try:
-                            iso.add_directory(udf_path=curr)
-                            created_dirs.add(curr)
-                        except Exception:
-                            pass
-                curr_dir = '/' + '/'.join(parts)
-                for f in files:
-                    src_file = os.path.join(root, f)
-                    udf_file = curr_dir + '/' + f
-                    try:
-                        iso.add_file(src_file, udf_path=udf_file)
-                    except Exception:
-                        pass
-            readme_temp = os.path.join(root_dir, 'temp_dmg_readme.txt')
-            with open(readme_temp, 'w', newline='\r\n', encoding='utf-8') as f:
-                f.write(dmg_readme)
-            try:
-                iso.add_file(readme_temp, udf_path='/使用说明.txt')
-            except Exception:
-                pass
-            iso.write(dmg_path)
-            iso.close()
-            if os.path.exists(readme_temp):
-                os.remove(readme_temp)
-            print(f"Successfully generated DMG fallback at {dmg_path} (Size: {os.path.getsize(dmg_path):,} bytes)!")
-        except Exception as e:
-            print(f"Warning: Could not build DMG on non-macOS host: {e}")
+        shutil.rmtree(mac_staging, ignore_errors=True)
+        print("Warning: hdiutil not found, skipped DMG build.")
 
-    # 7. Build offline zip
-    print("Building universal offline zip package...")
-    if os.path.exists(zip_path):
-        os.remove(zip_path)
-
-    with zipfile.ZipFile(zip_path, 'w', zipfile.ZIP_DEFLATED) as zipf:
-        for root, dirs, files in os.walk(out_dir):
-            for file in files:
-                file_path = os.path.join(root, file)
-                rel_path = os.path.relpath(file_path, out_dir)
-                arcname = rel_path.replace('\\', '/')
-                
-                zinfo = zipfile.ZipInfo(arcname)
-                zinfo.create_system = 3  # UNIX
-                zinfo.flag_bits |= 0x800  # UTF-8
-                zinfo.date_time = (2026, 8, 17, 12, 0, 0)
-                
-                is_exec = file.endswith('.command') or file.endswith('.sh') or file.endswith('.py') or file.endswith('.bat') or file == 'app_launcher'
-                if is_exec:
-                    zinfo.external_attr = (0o100755 << 16) | 0x20
-                else:
-                    zinfo.external_attr = (0o100644 << 16) | 0x20
-                
-                with open(file_path, 'rb') as fp:
-                    content = fp.read()
-                    if file.endswith(('.command', '.sh', '.py', 'plist')) or file == 'app_launcher':
-                        content = content.replace(b'\r\n', b'\n')
-                    zipf.writestr(zinfo, content)
-
-    print(f"Successfully generated offline zip at {zip_path} (Size: {os.path.getsize(zip_path):,} bytes)!")
+    print("\n🎉 All platform-specific release packages generated successfully!")
+    print(f"  - Windows: {win_zip_path} ({os.path.getsize(win_zip_path):,} bytes)")
+    if os.path.exists(mac_dmg_path):
+        print(f"  - macOS:   {mac_dmg_path} ({os.path.getsize(mac_dmg_path):,} bytes)")
 
 if __name__ == '__main__':
     build_offline_package()
