@@ -1,4 +1,6 @@
 import os
+import shutil
+import subprocess
 from PIL import Image, ImageDraw
 
 ROOT_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
@@ -62,12 +64,40 @@ def draw_icon(size):
 
     return img
 
+def generate_icns(icon_512_path, target_icns_path):
+    if shutil.which('iconutil') and shutil.which('sips'):
+        iconset_dir = target_icns_path + '.iconset'
+        os.makedirs(iconset_dir, exist_ok=True)
+        try:
+            img = Image.open(icon_512_path)
+            sizes = [16, 32, 64, 128, 256, 512]
+            for s in sizes:
+                img_s = img.resize((s, s), Image.Resampling.LANCZOS)
+                img_s.save(os.path.join(iconset_dir, f'icon_{s}x{s}.png'))
+                img_2x = img.resize((s * 2, s * 2), Image.Resampling.LANCZOS)
+                img_2x.save(os.path.join(iconset_dir, f'icon_{s}x{s}@2x.png'))
+            
+            subprocess.run(['iconutil', '-c', 'icns', iconset_dir, '-o', target_icns_path], check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+            shutil.rmtree(iconset_dir, ignore_errors=True)
+            print(f"Generated: {os.path.basename(target_icns_path)} (Retina ICNS via iconutil)")
+            return
+        except Exception:
+            shutil.rmtree(iconset_dir, ignore_errors=True)
+
+    try:
+        img = Image.open(icon_512_path)
+        img.save(target_icns_path, format="ICNS")
+        print(f"Generated: {os.path.basename(target_icns_path)} (via Pillow)")
+    except Exception as e:
+        print(f"Warning: Could not save ICNS: {e}")
+
 def main():
     os.makedirs(ICONS_DIR, exist_ok=True)
     
     # Generate 512, 192, 180, 64, 32
+    icon_512_path = os.path.join(ICONS_DIR, "icon-512.png")
     icon_512 = draw_icon(512)
-    icon_512.save(os.path.join(ICONS_DIR, "icon-512.png"), "PNG")
+    icon_512.save(icon_512_path, "PNG")
     print("Generated: icon-512.png")
 
     icon_192 = draw_icon(192)
@@ -85,6 +115,10 @@ def main():
     icon_32 = draw_icon(32)
     icon_32.save(os.path.join(ICONS_DIR, "favicon.ico"), format="ICO")
     print("Generated: favicon.ico")
+
+    # AppIcon.icns
+    icns_path = os.path.join(ICONS_DIR, "AppIcon.icns")
+    generate_icns(icon_512_path, icns_path)
 
 if __name__ == '__main__':
     main()

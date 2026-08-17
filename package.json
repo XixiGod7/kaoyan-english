@@ -8,6 +8,8 @@
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview",
+    "package": "python3 scripts/package_release.py",
+    "build:all": "npm run build && python3 scripts/package_release.py",
     "generate-data": "python scripts/process_all.py"
   },
   "dependencies": {

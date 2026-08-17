@@ -52,8 +52,12 @@
 
 ### 方式一：macOS 用户专用 DMG 镜像安装包（最推荐 · 一步到位）
 1. 前往 [GitHub Releases 页面](https://github.com/XixiGod7/kaoyan-english/releases/tag/v1.0.0) 下载 **`kaoyan-english-v1.0.0.dmg`**；
-2. 双击打开 DMG 镜像，将 **`考研英语一真题库.app`** 拖入 **`Applications (应用程序)`** 文件夹；
-3. **一步到位体验**：之后直接在 Launchpad 启动台或 Dock 程序坞双击打开应用，后台会自动拉起高并发服务并进入全屏刷题窗口，完全无需任何终端命令行或手动启动服务！
+2. 双击打开 DMG 镜像，将 **`考研英语一真题库.app`** 拖入右侧 **`Applications (应用程序)`** 文件夹；
+3. **一步到位体验**：之后直接在 Launchpad 启动台或 Dock 程序坞双击打开应用，后台会自动拉起极速服务并进入全屏刷题窗口，完全无需任何终端命令行或手动启动服务！
+4. **安全提示**：若 macOS 首次提示“来自未知开发者”，可直接在访达应用程序中**右键点击应用选择「打开」**，或在终端执行：
+   ```bash
+   xattr -cr /Applications/考研英语一真题库.app
+   ```
 
 ### 方式二：Windows 离线包本地极速运行
 1. 前往 [GitHub Releases 页面](https://github.com/XixiGod7/kaoyan-english/releases/tag/v1.0.0) 下载 **`kaoyan-english-v1.0.0-offline.zip`** 并解压；
@@ -66,7 +70,7 @@
    - **Safari (macOS Sonoma+)**：点击顶部菜单栏 **「文件」** $\rightarrow$ **「添加到程序坞 (Add to Dock...)」**；
 3. 安装后桌面/程序坞将直接生成带有专属书本图标的原生 App，断网也可离线使用。
 
-### 方式三：源码本地开发与构建
+### 方式四：源码本地开发与一键构建
 ```bash
 # 1. 克隆本仓库
 git clone https://github.com/XixiGod7/kaoyan-english.git
@@ -78,11 +82,14 @@ npm install
 # 3. 启动本地开发服务
 npm run dev
 
-# 4. 构建生产产物
+# 4. 构建前端生产产物
 npm run build
 
-# 5. 生成离线发布包 (打包至 kaoyan-english-v1.0.0-offline.zip)
-python scripts/package_release.py
+# 5. 一键打包 macOS DMG 与全平台通用离线 Zip
+npm run package
+
+# 或者直接全量构建加打包
+npm run build:all
 ```
 
 ---
@@ -113,10 +120,11 @@ kaoyan-english/
 │   ├── utils/                     # 艾宾浩斯算法与答题进度持久化工具
 │   ├── App.tsx                    # 应用主入口与双栏布局管理
 │   └── index.css                  # 全局样式与 Tailwind 动画定义
-├── scripts/                       # 离线服务测试、打包与发布脚本
-│   ├── package_release.py         # 离线包打包与 Zip 生成脚本
-│   ├── update_launchers.py        # 跨平台一键启动脚本与轻量本地服务
-│   └── verify_offline_server_endpoints.py # 全端点自动化测试验证
+├── scripts/                       # 自动化维护与发布脚本
+│   ├── package_release.py         # 一键构建 macOS DMG 镜像与通用离线 Zip
+│   ├── generate_pwa_icons.py      # 矢量应用图标与 Retina ICNS 生成器
+│   ├── deploy_gh_pages.py         # 一键部署前端到 GitHub Pages
+│   └── pdf_to_json.py             # 题库数据解析与维护脚本
 ├── server.py                      # 本地轻量跨平台 Python 服务端
 ├── 一键启动考研英语.bat            # Windows 一键启动脚本
 ├── 一键启动_Mac.command            # macOS 一键启动脚本 (纯 Unix LF 换行)
