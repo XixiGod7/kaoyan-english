@@ -1,5 +1,5 @@
 // Service Worker for 考研英语一真题系统 (PWA Offline Caching)
-const CACHE_NAME = 'kaoyan-english-pwa-v2';
+const CACHE_NAME = 'kaoyan-english-pwa-v3';
 
 self.addEventListener('install', (event) => {
   self.skipWaiting();
@@ -20,12 +20,30 @@ self.addEventListener('activate', (event) => {
 });
 
 self.addEventListener('fetch', (event) => {
-  // Ignore non-GET requests or chrome-extension URLs
+  // Ignore non-GET requests or non-http URLs
   if (event.request.method !== 'GET' || !event.request.url.startsWith('http')) {
     return;
   }
 
-  // Cache-first with stale-while-revalidate for maximum offline speed
+  // 1. Navigation requests (HTML documents): Network-first to always load the latest version
+  if (event.request.mode === 'navigate') {
+    event.respondWith(
+      fetch(event.request)
+        .then((networkResponse) => {
+          if (networkResponse && networkResponse.status === 200) {
+            const responseToCache = networkResponse.clone();
+            caches.open(CACHE_NAME).then((cache) => {
+              cache.put(event.request, responseToCache);
+            });
+          }
+          return networkResponse;
+        })
+        .catch(() => caches.match(event.request))
+    );
+    return;
+  }
+
+  // 2. Static assets: Cache-first with background revalidation
   event.respondWith(
     caches.match(event.request).then((cachedResponse) => {
       const fetchPromise = fetch(event.request).then((networkResponse) => {
@@ -37,7 +55,6 @@ self.addEventListener('fetch', (event) => {
         }
         return networkResponse;
       }).catch(() => {
-        // Network failed (offline), if we had cached response it will be used
         return cachedResponse;
       });
 
