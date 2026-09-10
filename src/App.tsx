@@ -6,6 +6,7 @@ import { DataBackupModal } from './components/DataBackupModal';
 import { EbbinghausNotebookModal } from './components/EbbinghausNotebookModal';
 import { StudyProgressModal } from './components/StudyProgressModal';
 import { DesktopAppModal } from './components/DesktopAppModal';
+import { AiConfigModal } from './components/AiConfigModal';
 import { ExamWall } from './components/ExamWall';
 import QuizMode from './components/QuizMode';
 import { PaperGroup, KaoyanDict, WordFreqItem } from './types/kaoyan';
@@ -26,6 +27,7 @@ export const App: React.FC = () => {
   const [isEbbinghausOpen, setIsEbbinghausOpen] = useState(false);
   const [isProgressOpen, setIsProgressOpen] = useState(false);
   const [isDesktopAppOpen, setIsDesktopAppOpen] = useState(false);
+  const [isAiConfigOpen, setIsAiConfigOpen] = useState(false);
   const [quizHistory, setQuizHistory] = useState<Record<string, QuizRecordItem[]>>(() => loadQuizHistory());
 
   const [theme, setTheme] = useState<'dark' | 'light'>(() => {
@@ -263,6 +265,7 @@ export const App: React.FC = () => {
         onOpenEbbinghaus={() => setIsEbbinghausOpen(true)}
         onOpenProgress={() => setIsProgressOpen(true)}
         onOpenDesktopApp={() => setIsDesktopAppOpen(true)}
+        onOpenAiConfig={() => setIsAiConfigOpen(true)}
         dueReviewCount={dueReviewCount}
       />
 
@@ -287,6 +290,7 @@ export const App: React.FC = () => {
             wordStatuses={wordStatuses}
             onToggleWordStatus={handleToggleStatus}
             onOpenWordModal={item => setWordModalItem(item)}
+            onOpenAiConfig={() => setIsAiConfigOpen(true)}
             onBackToHome={() => {
               setSelectedYear(null);
               setTargetSentenceId(null);
@@ -371,6 +375,13 @@ export const App: React.FC = () => {
       <DesktopAppModal
         isOpen={isDesktopAppOpen}
         onClose={() => setIsDesktopAppOpen(false)}
+        theme={theme}
+      />
+
+      {/* AI Grading & Custom API Settings Modal */}
+      <AiConfigModal
+        isOpen={isAiConfigOpen}
+        onClose={() => setIsAiConfigOpen(false)}
         theme={theme}
       />
     </div>

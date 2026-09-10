@@ -226,7 +226,7 @@ export const DesktopAppModal: React.FC<DesktopAppModalProps> = ({
                     </p>
                   </div>
                   <a
-                    href="https://github.com/XixiGod7/kaoyan-english/releases/tag/v1.0.0"
+                    href="https://github.com/XixiGod7/kaoyan-english/releases/latest"
                     target="_blank"
                     rel="noreferrer"
                     className="shrink-0 flex items-center gap-1.5 px-4 py-2 rounded-xl text-xs font-bold text-white bg-gradient-to-r from-purple-600 to-indigo-600 hover:from-purple-500 hover:to-indigo-500 shadow-md shadow-purple-500/20 transition-all hover:scale-105 active:scale-95"

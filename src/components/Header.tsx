@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Sun, Moon, Database, Brain, BarChart3, Laptop } from 'lucide-react';
+import { Sun, Moon, Database, Brain, BarChart3, Laptop, Sparkles } from 'lucide-react';
 
 interface HeaderProps {
   onGoHome: () => void;
@@ -10,6 +10,7 @@ interface HeaderProps {
   onOpenEbbinghaus?: () => void;
   onOpenProgress?: () => void;
   onOpenDesktopApp?: () => void;
+  onOpenAiConfig?: () => void;
   dueReviewCount?: number;
 }
 
@@ -22,11 +23,27 @@ export const Header: React.FC<HeaderProps> = ({
   onOpenEbbinghaus,
   onOpenProgress,
   onOpenDesktopApp,
+  onOpenAiConfig,
   dueReviewCount = 0,
 }) => {
   const isDark = theme === 'dark';
   const [deferredPrompt, setDeferredPrompt] = useState<any>(null);
   const [isStandalone, setIsStandalone] = useState<boolean>(false);
+  const [isAiConfigured, setIsAiConfigured] = useState<boolean>(false);
+
+  useEffect(() => {
+    try {
+      const raw = localStorage.getItem('kaoyan_ai_config');
+      if (raw) {
+        const parsed = JSON.parse(raw);
+        setIsAiConfigured(Boolean(parsed.provider === 'ollama' || (parsed.apiKey && parsed.apiKey.length > 5)));
+      } else {
+        setIsAiConfigured(false);
+      }
+    } catch {
+      setIsAiConfigured(false);
+    }
+  }, []);
 
   useEffect(() => {
     const isApp = window.matchMedia('(display-mode: standalone)').matches || (window.navigator as any).standalone === true;
@@ -80,14 +97,52 @@ export const Header: React.FC<HeaderProps> = ({
             <span className={`flex items-center gap-1.5 px-2.5 py-1 rounded-full border ${isDark ? 'bg-indigo-950/60 text-indigo-300 border-indigo-800/60' : 'bg-indigo-50/80 text-indigo-700 border-indigo-100'}`}>
               <span>㗊</span> 高频词汇一目了然
             </span>
-            <span className={`flex items-center gap-1.5 px-2.5 py-1 rounded-full border ${isDark ? 'bg-emerald-950/60 text-emerald-300 border-emerald-800/60' : 'bg-emerald-50/80 text-emerald-700 border-emerald-100'}`}>
-              <span>📋</span> AI批阅作文翻译
-            </span>
+            <button
+              type="button"
+              onClick={onOpenAiConfig}
+              className={`flex items-center gap-1.5 px-2.5 py-1 rounded-full border text-xs font-semibold transition-all cursor-pointer group shadow-2xs hover:scale-[1.02] ${
+                isAiConfigured
+                  ? isDark 
+                    ? 'bg-emerald-950/80 hover:bg-emerald-900 text-emerald-300 border-emerald-700/80 hover:border-emerald-500' 
+                    : 'bg-emerald-50 hover:bg-emerald-100 text-emerald-800 border-emerald-200 hover:border-emerald-300'
+                  : isDark
+                  ? 'bg-slate-900 hover:bg-slate-850 text-slate-300 border-slate-750 hover:border-blue-500'
+                  : 'bg-white hover:bg-gray-50 text-gray-700 border-gray-200 hover:border-blue-400'
+              }`}
+              title={isAiConfigured ? "AI 批阅 API 已配置（点击管理 API 与模型）" : "点击配置大模型 API Key（支持 DeepSeek/OpenAI，密钥仅保存在本地）"}
+            >
+              <span className="group-hover:rotate-12 transition-transform">📋</span>
+              <span>AI批阅作文翻译</span>
+              <span 
+                className={`w-1.5 h-1.5 rounded-full ml-0.5 ${
+                  isAiConfigured 
+                    ? 'bg-emerald-400 shadow-xs shadow-emerald-400/50 animate-pulse' 
+                    : 'bg-amber-400'
+                }`} 
+              />
+            </button>
           </div>
         </div>
 
         {/* Right: Actions */}
         <div className="flex items-center gap-2.5">
+          {/* AI Grading & Custom API Settings Button in Actions */}
+          {onOpenAiConfig && (
+            <button
+              onClick={onOpenAiConfig}
+              className={`flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-bold transition-all border shadow-xs ${
+                isDark
+                  ? 'bg-slate-850 hover:bg-slate-800 text-teal-300 border-teal-800/80 hover:border-teal-600'
+                  : 'bg-teal-50 hover:bg-teal-100 text-teal-800 border-teal-200'
+              }`}
+              title="AI 批阅与大模型 API 配置中心"
+            >
+              <Sparkles className="w-3.5 h-3.5 text-teal-400" />
+              <span className="hidden sm:inline">AI批阅设置</span>
+              <span className={`w-1.5 h-1.5 rounded-full ${isAiConfigured ? 'bg-emerald-400' : 'bg-amber-400'}`} />
+            </button>
+          )}
+
           {/* Ebbinghaus Vocabulary Notebook & Review Button */}
           {onOpenEbbinghaus && (
             <button

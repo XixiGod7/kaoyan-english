@@ -26,8 +26,18 @@ import {
   Save,
   PanelRightClose,
   PanelRightOpen,
-  ChevronRight
+  ChevronRight,
+  Loader2
 } from 'lucide-react';
+import { AiReviewCard } from './AiReviewCard';
+import { AiReviewReport } from '../types/ai';
+import { loadAiReviews, saveAiReview } from '../utils/aiReviewStorage';
+import { loadAiConfig, hasConfiguredApiKey } from '../utils/aiConfigStorage';
+import { 
+  gradeTranslationSentence, 
+  gradeWritingEssay, 
+  extractScoreFromMarkdown 
+} from '../utils/aiClient';
 
 interface QuizModeProps {
   year: string;
@@ -41,6 +51,7 @@ interface QuizModeProps {
   wordStatuses?: Record<string, 'familiar' | 'unfamiliar' | 'unknown'>;
   onToggleWordStatus?: (word: string, status: 'familiar' | 'unfamiliar' | 'unknown') => void;
   onOpenWordModal?: (item: WordFreqItem) => void;
+  onOpenAiConfig?: () => void;
 }
 
 const TABS = [
@@ -67,6 +78,7 @@ export default function QuizMode({
   wordStatuses,
   onToggleWordStatus,
   onOpenWordModal,
+  onOpenAiConfig,
 }: QuizModeProps) {
   const isDark = theme === 'dark';
   const [paperData, setPaperData] = useState<YearPaperBundle | null>(null);
@@ -87,6 +99,17 @@ export default function QuizMode({
   const [elapsedSeconds, setElapsedSeconds] = useState<number>(() => initialSavedProg?.elapsedSeconds || 0);
   const [showTranslation, setShowTranslation] = useState(false);
   const [highlightedSentenceId, setHighlightedSentenceId] = useState<number | null>(null);
+
+  // AI Review States & Cache
+  const [aiReviews, setAiReviews] = useState<Record<number, AiReviewReport>>(() => loadAiReviews(year));
+  const [evaluatingQids, setEvaluatingQids] = useState<Record<number, boolean>>({});
+  const [streamTexts, setStreamTexts] = useState<Record<number, string>>({});
+  const [aiErrors, setAiErrors] = useState<Record<number, string>>({});
+  const [isBatchEvaluatingTranslation, setIsBatchEvaluatingTranslation] = useState(false);
+
+  useEffect(() => {
+    setAiReviews(loadAiReviews(year));
+  }, [year]);
 
   // Submission & Scoring State
   const [isSubmitted, setIsSubmitted] = useState<boolean>(() => initialSavedProg?.isSubmitted || false);
@@ -244,6 +267,154 @@ export default function QuizMode({
       ...prev,
       [questionId]: answer
     }));
+  };
+
+  // AI Review Handlers
+  const handleEvaluateTranslation = async (qNum: number, s: any) => {
+    const userTranslation = (answers[qNum] || '').trim();
+    if (!userTranslation) {
+      setToastMessage(`请先在上方输入框填写第 (${qNum}) 题的中文翻译，再点击 AI 批阅`);
+      setTimeout(() => setToastMessage(null), 3200);
+      return;
+    }
+
+    if (!hasConfiguredApiKey()) {
+      setToastMessage('请先配置大模型 API Key（支持 DeepSeek / OpenAI / 本地模型等）');
+      setTimeout(() => setToastMessage(null), 3200);
+      if (onOpenAiConfig) onOpenAiConfig();
+      return;
+    }
+
+    const config = loadAiConfig();
+    setEvaluatingQids(prev => ({ ...prev, [qNum]: true }));
+    setAiErrors(prev => ({ ...prev, [qNum]: '' }));
+    setStreamTexts(prev => ({ ...prev, [qNum]: '' }));
+
+    try {
+      const fullText = await gradeTranslationSentence(
+        config,
+        {
+          year,
+          qNum,
+          sentenceEn: s?.en_text || '',
+          userTranslation,
+          standardTranslation: s?.cn_text,
+        },
+        (delta, currentFull) => {
+          setStreamTexts(prev => ({ ...prev, [qNum]: currentFull }));
+        }
+      );
+
+      const score = extractScoreFromMarkdown(fullText, 2.0);
+      const report: AiReviewReport = {
+        qid: qNum,
+        type: 'translation',
+        rawMarkdown: fullText,
+        score,
+        maxScore: 2.0,
+        evaluatedAt: Date.now(),
+        modelUsed: config.model,
+      };
+
+      saveAiReview(year, report);
+      setAiReviews(prev => ({ ...prev, [qNum]: report }));
+      setToastMessage(`第 (${qNum}) 题 AI 批阅完成！预估得分: ${score !== undefined ? `${score}/2.0分` : '已出报告'}`);
+      setTimeout(() => setToastMessage(null), 3200);
+    } catch (err: any) {
+      setAiErrors(prev => ({ ...prev, [qNum]: err.message || 'AI 批阅请求失败，请检查 API 配置与网络连接' }));
+    } finally {
+      setEvaluatingQids(prev => ({ ...prev, [qNum]: false }));
+    }
+  };
+
+  const handleBatchEvaluateTranslations = async (sentences: any[]) => {
+    if (!hasConfiguredApiKey()) {
+      setToastMessage('请先配置大模型 API Key（支持 DeepSeek / OpenAI 等）');
+      setTimeout(() => setToastMessage(null), 3200);
+      if (onOpenAiConfig) onOpenAiConfig();
+      return;
+    }
+
+    const answered = sentences.filter(s => (answers[s.id] || '').trim().length > 0);
+    if (answered.length === 0) {
+      setToastMessage('请先在第 46-50 题输入框中填写译文，再执行批量 AI 批阅');
+      setTimeout(() => setToastMessage(null), 3200);
+      return;
+    }
+
+    setIsBatchEvaluatingTranslation(true);
+    setToastMessage(`开始批量批阅已填写的 ${answered.length} 道翻译题，请稍候...`);
+
+    for (const s of answered) {
+      await handleEvaluateTranslation(s.id, s);
+    }
+
+    setIsBatchEvaluatingTranslation(false);
+    setToastMessage('英译汉批量 AI 批阅已全部完成！');
+    setTimeout(() => setToastMessage(null), 3200);
+  };
+
+  const handleEvaluateWriting = async (qid: number, type: 'writing_clinical' | 'writing_essay', task: any) => {
+    const titleName = qid === 52 ? '大作文' : '小作文';
+    const userEssay = (answers[qid] || '').trim();
+    if (!userEssay) {
+      setToastMessage(`请先在作答区输入您的${titleName}内容，再点击 AI 智能批阅`);
+      setTimeout(() => setToastMessage(null), 3200);
+      return;
+    }
+
+    if (!hasConfiguredApiKey()) {
+      setToastMessage('请先配置大模型 API Key（支持 DeepSeek / OpenAI 等）');
+      setTimeout(() => setToastMessage(null), 3200);
+      if (onOpenAiConfig) onOpenAiConfig();
+      return;
+    }
+
+    const config = loadAiConfig();
+    const totalScore = qid === 52 ? 20 : 10;
+    setEvaluatingQids(prev => ({ ...prev, [qid]: true }));
+    setAiErrors(prev => ({ ...prev, [qid]: '' }));
+    setStreamTexts(prev => ({ ...prev, [qid]: '' }));
+
+    const modelSentences = task?.detail.sentences || [];
+    const referenceEssay = modelSentences.map((s: any) => s.en_text).filter(Boolean).join('\n\n');
+
+    try {
+      const fullText = await gradeWritingEssay(
+        config,
+        {
+          year,
+          type,
+          qid,
+          directions: task?.detail.directions,
+          userEssay,
+          referenceEssay,
+        },
+        (delta, currentFull) => {
+          setStreamTexts(prev => ({ ...prev, [qid]: currentFull }));
+        }
+      );
+
+      const score = extractScoreFromMarkdown(fullText, totalScore);
+      const report: AiReviewReport = {
+        qid,
+        type,
+        rawMarkdown: fullText,
+        score,
+        maxScore: totalScore,
+        evaluatedAt: Date.now(),
+        modelUsed: config.model,
+      };
+
+      saveAiReview(year, report);
+      setAiReviews(prev => ({ ...prev, [qid]: report }));
+      setToastMessage(`${titleName} AI 批阅完成！预估得分: ${score !== undefined ? `${score}/${totalScore}分` : '已出报告'}`);
+      setTimeout(() => setToastMessage(null), 3200);
+    } catch (err: any) {
+      setAiErrors(prev => ({ ...prev, [qid]: err.message || 'AI 批阅请求失败，请检查 API 配置与网络连接' }));
+    } finally {
+      setEvaluatingQids(prev => ({ ...prev, [qid]: false }));
+    }
   };
 
   // Score Calculation
@@ -1491,15 +1662,47 @@ export default function QuizMode({
             <div className={`rounded-xl shadow-sm border p-6 md:p-8 min-h-full ${
               isDark ? 'bg-slate-900 border-slate-800 text-white' : 'bg-white border-gray-100 text-gray-900'
             }`}>
-              <div className="flex items-center justify-between pb-6 mb-8 border-b border-gray-200 dark:border-slate-800">
+              <div className="flex flex-wrap items-center justify-between gap-3 pb-6 mb-8 border-b border-gray-200 dark:border-slate-800">
                 <h2 className="text-xl md:text-2xl font-bold text-[#6a5bcd] flex items-center gap-2.5">
                   📝 Section III 英译汉作答区 (46-50 题)
                 </h2>
-                <span className={`text-xs md:text-sm px-3.5 py-1.5 rounded-full border font-bold shadow-xs ${
-                  isDark ? 'bg-slate-800 text-slate-200 border-slate-700' : 'bg-yellow-50 text-amber-900 border-yellow-200'
-                }`}>
-                  每题 2 分 · 共 10 分
-                </span>
+                <div className="flex items-center gap-2.5">
+                  <button
+                    type="button"
+                    onClick={() => handleBatchEvaluateTranslations([46, 47, 48, 49, 50].map(num => {
+                      const mark = (task.detail.content_json?.translation_marks || []).find((m: any) => m.number === num);
+                      const s = mark 
+                        ? (task.detail.sentences || []).find((x: any) => x.id === mark.sentence_id)
+                        : (task.detail.sentences || [])[num - 46];
+                      return { id: num, en_text: s?.en_text, cn_text: s?.cn_text };
+                    }))}
+                    disabled={isBatchEvaluatingTranslation}
+                    className={`text-xs md:text-sm px-3.5 py-1.5 rounded-full border font-bold flex items-center gap-1.5 transition-all shadow-xs cursor-pointer ${
+                      isDark 
+                        ? 'bg-teal-950/80 hover:bg-teal-900 text-teal-300 border-teal-700/80 hover:border-teal-500' 
+                        : 'bg-teal-50 hover:bg-teal-100 text-teal-800 border-teal-300'
+                    }`}
+                    title="一键调用大模型 AI 连续智能批阅已填写的翻译题目"
+                  >
+                    {isBatchEvaluatingTranslation ? (
+                      <>
+                        <Loader2 className="w-3.5 h-3.5 animate-spin text-teal-400" />
+                        <span>正在批量批阅中...</span>
+                      </>
+                    ) : (
+                      <>
+                        <Sparkles className="w-3.5 h-3.5 text-teal-500" />
+                        <span>AI 一键批阅全部 5 题</span>
+                      </>
+                    )}
+                  </button>
+
+                  <span className={`text-xs md:text-sm px-3.5 py-1.5 rounded-full border font-bold shadow-xs ${
+                    isDark ? 'bg-slate-800 text-slate-200 border-slate-700' : 'bg-yellow-50 text-amber-900 border-yellow-200'
+                  }`}>
+                    每题 2 分 · 共 10 分
+                  </span>
+                </div>
               </div>
 
               {/* Five Large Harmonious Question Input Cards */}
@@ -1553,10 +1756,15 @@ export default function QuizMode({
 
                       {/* Dedicated Large Textarea for this question */}
                       <div className="space-y-2.5">
-                        <label className={`block text-xs md:text-sm font-bold flex items-center gap-1.5 ${isDark ? 'text-slate-300' : 'text-gray-700'}`}>
-                          <Edit3 className="w-4 h-4 text-blue-500" />
-                          <span>请输入您的中文翻译:</span>
-                        </label>
+                        <div className="flex items-center justify-between">
+                          <label className={`block text-xs md:text-sm font-bold flex items-center gap-1.5 ${isDark ? 'text-slate-300' : 'text-gray-700'}`}>
+                            <Edit3 className="w-4 h-4 text-blue-500" />
+                            <span>请输入您的中文翻译:</span>
+                          </label>
+                          <span className={`text-xs ${isDark ? 'text-slate-400' : 'text-gray-500'}`}>
+                            已输入 {(answers[num] || '').trim().length} 个字
+                          </span>
+                        </div>
                         <textarea
                           id={`translation-input-${num}`}
                           placeholder={`在此输入第 (${num}) 题中文翻译...`}
@@ -1570,6 +1778,53 @@ export default function QuizMode({
                           }`}
                         />
                       </div>
+
+                      {/* Action Bar: AI Grading Button */}
+                      <div className="mt-3.5 flex flex-wrap items-center justify-between gap-3">
+                        <button
+                          type="button"
+                          onClick={() => handleEvaluateTranslation(num, s)}
+                          disabled={evaluatingQids[num]}
+                          className={`px-4 py-2 rounded-xl text-xs md:text-sm font-bold flex items-center gap-2 transition-all shadow-sm cursor-pointer ${
+                            isDark
+                              ? 'bg-gradient-to-r from-teal-900 to-emerald-900 hover:from-teal-850 hover:to-emerald-850 text-emerald-200 border border-teal-700/80 shadow-teal-950/40'
+                              : 'bg-gradient-to-r from-teal-600 to-emerald-600 hover:from-teal-500 hover:to-emerald-500 text-white shadow-emerald-600/20'
+                          }`}
+                        >
+                          {evaluatingQids[num] ? (
+                            <>
+                              <Loader2 className="w-4 h-4 animate-spin text-white" />
+                              <span>AI 正在阅卷诊断中...</span>
+                            </>
+                          ) : (
+                            <>
+                              <Sparkles className="w-4 h-4 text-amber-300" />
+                              <span>{aiReviews[num] ? '✨ 重新 AI 批阅此句' : '✨ AI 智能批阅此句'}</span>
+                            </>
+                          )}
+                        </button>
+
+                        {aiReviews[num]?.score !== undefined && (
+                          <div className={`px-3 py-1 rounded-full text-xs font-bold border flex items-center gap-1.5 ${
+                            isDark ? 'bg-emerald-950/80 text-emerald-300 border-emerald-700/80' : 'bg-emerald-50 text-emerald-800 border-emerald-200'
+                          }`}>
+                            <span>🎯 预估得分:</span>
+                            <span className="text-sm font-black">{aiReviews[num].score} / 2.0 分</span>
+                          </div>
+                        )}
+                      </div>
+
+                      {/* AI Review Card Display */}
+                      <AiReviewCard
+                        report={aiReviews[num]}
+                        isEvaluating={evaluatingQids[num]}
+                        streamText={streamTexts[num]}
+                        error={aiErrors[num]}
+                        onReEvaluate={() => handleEvaluateTranslation(num, s)}
+                        onOpenConfig={onOpenAiConfig}
+                        theme={theme}
+                        title={`第 (${num}) 题 考研英译汉 AI 阅卷诊断报告`}
+                      />
 
                       {/* Standard Reference Translation for this question */}
                       {(isSubmitted || showTranslation) && s?.cn_text && (
@@ -1674,15 +1929,60 @@ export default function QuizMode({
           {/* Right Column: Writing Answer Area & High-score Model Essay */}
           <div className={`flex-1 p-6 md:p-8 overflow-y-auto border-l ${isDark ? 'bg-slate-900 border-slate-800' : 'bg-white border-gray-200'}`}>
             <div className="max-w-2xl mx-auto h-full flex flex-col">
-              <h2 className="text-xl font-bold text-[#6a5bcd] mb-6 flex items-center">
-                📝 {qid}. {titleName} 作答区与范文解析
-              </h2>
+              <div className="flex flex-wrap items-center justify-between gap-2 mb-4">
+                <h2 className="text-xl font-bold text-[#6a5bcd] flex items-center">
+                  📝 {qid}. {titleName} 作答区与范文解析
+                </h2>
+                <div className="flex items-center gap-2">
+                  <span className={`text-xs px-2.5 py-1 rounded-full border font-mono ${
+                    isDark ? 'bg-slate-800 border-slate-700 text-slate-300' : 'bg-gray-100 border-gray-200 text-gray-700'
+                  }`}>
+                    词数: {((answers[qid] || '').match(/[a-zA-Z0-9'-]+/g) || []).length} 词 (建议: {isEssay ? '160-200' : '约100'}词)
+                  </span>
+                  <button
+                    type="button"
+                    onClick={() => handleEvaluateWriting(qid, isEssay ? 'writing_essay' : 'writing_clinical', task)}
+                    disabled={evaluatingQids[qid]}
+                    className={`px-3.5 py-1.5 rounded-full text-xs font-bold flex items-center gap-1.5 transition-all shadow-xs cursor-pointer ${
+                      isDark
+                        ? 'bg-gradient-to-r from-teal-900 to-emerald-900 hover:from-teal-850 hover:to-emerald-850 text-emerald-200 border border-teal-700/80 shadow-teal-950/40'
+                        : 'bg-gradient-to-r from-teal-600 to-emerald-600 hover:from-teal-500 hover:to-emerald-500 text-white shadow-emerald-600/20'
+                    }`}
+                    title="调用 AI 深度评估作文要点、词汇句式、语法病句与满分升华"
+                  >
+                    {evaluatingQids[qid] ? (
+                      <>
+                        <Loader2 className="w-3.5 h-3.5 animate-spin text-white" />
+                        <span>AI 深度阅卷中...</span>
+                      </>
+                    ) : (
+                      <>
+                        <Sparkles className="w-3.5 h-3.5 text-amber-300" />
+                        <span>{aiReviews[qid] ? `✨ 重新 AI 批阅${titleName}` : `✨ AI 智能批阅${titleName}`}</span>
+                      </>
+                    )}
+                  </button>
+                </div>
+              </div>
+
               <textarea 
                 placeholder={`在此输入您的${titleName}作答内容...`}
                 value={answers[qid] || ''}
                 onChange={e => handleAnswerSelect(qid, e.target.value)}
-                className={`w-full flex-1 min-h-[260px] p-4 border rounded-xl focus:ring-2 focus:ring-blue-500 outline-none resize-none mb-4 text-base leading-relaxed ${isDark ? 'bg-slate-950 border-slate-800 text-slate-100 placeholder-slate-500' : 'bg-white border-gray-300 text-gray-900'}`}
+                className={`w-full flex-1 min-h-[260px] p-4 border rounded-xl focus:ring-2 focus:ring-blue-500 outline-none resize-y mb-4 text-base leading-relaxed font-sans ${isDark ? 'bg-slate-950 border-slate-800 text-slate-100 placeholder-slate-500' : 'bg-white border-gray-300 text-gray-900'}`}
               ></textarea>
+
+              {/* AI Review Card for Essay */}
+              <AiReviewCard
+                report={aiReviews[qid]}
+                isEvaluating={evaluatingQids[qid]}
+                streamText={streamTexts[qid]}
+                error={aiErrors[qid]}
+                onReEvaluate={() => handleEvaluateWriting(qid, isEssay ? 'writing_essay' : 'writing_clinical', task)}
+                onOpenConfig={onOpenAiConfig}
+                theme={theme}
+                title={`${year}年考研英语一 ${titleName} (第 ${qid} 题 / 满分 ${isEssay ? '20' : '10'}分) AI 考官阅卷报告`}
+              />
               {(isSubmitted || showTranslation) && modelSentences.length > 0 && (
                 <div className={`border rounded-xl p-5 shadow-sm mb-4 ${isDark ? 'bg-emerald-950/40 border-emerald-800/60' : 'bg-emerald-50/90 border-emerald-200'}`}>
                   <h4 className={`font-bold mb-3 flex items-center gap-1.5 text-base ${isDark ? 'text-emerald-300' : 'text-emerald-900'}`}>

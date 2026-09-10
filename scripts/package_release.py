@@ -5,6 +5,8 @@ import zipfile
 import subprocess
 from PIL import Image
 
+VERSION = '1.1.0'
+
 def generate_icns(icon_png_path, target_icns_path):
     """Generate high-res macOS .icns file using iconutil (macOS native) or Pillow fallback."""
     if not os.path.exists(icon_png_path):
@@ -43,8 +45,8 @@ def build_offline_package():
     public_dir = os.path.join(root_dir, 'public')
     dist_html = os.path.join(root_dir, 'dist', 'index.html')
 
-    win_zip_path = os.path.join(root_dir, 'kaoyan-english-v1.0.0-windows.zip')
-    mac_dmg_path = os.path.join(root_dir, 'kaoyan-english-v1.0.0-macos.dmg')
+    win_zip_path = os.path.join(root_dir, f'kaoyan-english-v{VERSION}-windows.zip')
+    mac_dmg_path = os.path.join(root_dir, f'kaoyan-english-v{VERSION}-macos.dmg')
 
     # Remove obsolete combined artifacts if they exist
     for obsolete in ['kaoyan-english-v1.0.0-offline.zip', 'kaoyan-english-v1.0.0.dmg']:
@@ -177,9 +179,9 @@ ws.Run "cmd /c """ & currentDir & "\\一键启动考研英语.bat""", 0, False
     <key>CFBundlePackageType</key>
     <string>APPL</string>
     <key>CFBundleShortVersionString</key>
-    <string>1.0.0</string>
+    <string>""" + VERSION + """</string>
     <key>CFBundleVersion</key>
-    <string>1.0.0</string>
+    <string>""" + VERSION + """</string>
     <key>LSMinimumSystemVersion</key>
     <string>10.13</string>
     <key>NSHighResolutionCapable</key>
@@ -304,9 +306,12 @@ open "$URL"
     with open(os.path.join(mac_staging, '使用说明.txt'), 'w', newline='\r\n', encoding='utf-8') as f:
         f.write(dmg_readme)
 
-    os.symlink('/Applications', os.path.join(mac_staging, 'Applications'))
+    try:
+        os.symlink('/Applications', os.path.join(mac_staging, 'Applications'))
+    except Exception:
+        pass
 
-    # 2.6 Build DMG with hdiutil
+    # 2.6 Build DMG with hdiutil (macOS native) or pycdlib (cross-platform fallback)
     if os.path.exists(mac_dmg_path):
         os.remove(mac_dmg_path)
 
@@ -328,8 +333,47 @@ open "$URL"
             raise RuntimeError(f"Failed to create DMG: {res.stderr}")
         print(f"✅ Successfully built macOS release: {mac_dmg_path} (Size: {os.path.getsize(mac_dmg_path):,} bytes)")
     else:
-        shutil.rmtree(mac_staging, ignore_errors=True)
-        print("Warning: hdiutil not found, skipped DMG build.")
+        try:
+            import pycdlib
+            print("hdiutil not found, generating macOS DMG disk image via pycdlib...")
+            iso = pycdlib.PyCdlib()
+            iso.new(udf='2.60', vol_ident='KaoyanEnglish')
+            try:
+                iso.add_symlink(udf_symlink_path='/Applications', udf_target='/Applications')
+            except Exception:
+                pass
+
+            created_dirs = set()
+            for root, dirs, files in os.walk(mac_staging):
+                rel_dir = os.path.relpath(root, mac_staging)
+                if rel_dir != '.':
+                    parts = rel_dir.replace('\\', '/').split('/')
+                    curr = ''
+                    for p in parts:
+                        curr += '/' + p
+                        if curr not in created_dirs:
+                            try:
+                                iso.add_directory(udf_path=curr)
+                                created_dirs.add(curr)
+                            except Exception:
+                                pass
+
+                curr_dir = '' if rel_dir == '.' else '/' + rel_dir.replace('\\', '/')
+                for f in files:
+                    src_file = os.path.join(root, f)
+                    udf_file = curr_dir + '/' + f
+                    try:
+                        iso.add_file(src_file, udf_path=udf_file)
+                    except Exception as e:
+                        print(f"Error adding {udf_file} to DMG: {e}")
+
+            iso.write(mac_dmg_path)
+            iso.close()
+            print(f"✅ Successfully built macOS release via pycdlib: {mac_dmg_path} (Size: {os.path.getsize(mac_dmg_path):,} bytes)")
+        except Exception as e:
+            print(f"Warning: Could not generate DMG via pycdlib: {e}")
+        finally:
+            shutil.rmtree(mac_staging, ignore_errors=True)
 
     print("\n🎉 All platform-specific release packages generated successfully!")
     print(f"  - Windows: {win_zip_path} ({os.path.getsize(win_zip_path):,} bytes)")

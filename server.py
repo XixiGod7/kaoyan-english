@@ -95,6 +95,99 @@ class CustomHandler(SimpleHTTPRequestHandler):
         self.send_header("Access-Control-Allow-Origin", "*")
         super().end_headers()
 
+    def do_OPTIONS(self):
+        self.send_response(200)
+        self.send_header("Access-Control-Allow-Methods", "GET, POST, OPTIONS")
+        self.send_header("Access-Control-Allow-Headers", "*")
+        self.send_header("Access-Control-Max-Age", "86400")
+        self.end_headers()
+
+    def do_POST(self):
+        clean_path = self.path.split('?')[0].rstrip('/')
+        if clean_path == '/api/ai-proxy':
+            try:
+                import json
+                import urllib.request
+
+                content_length = int(self.headers.get('Content-Length', 0))
+                req_body = self.rfile.read(content_length)
+                payload = json.loads(req_body.decode('utf-8'))
+                
+                target_url = payload.get('url')
+                target_headers = payload.get('headers', {})
+                data_body = payload.get('body')
+
+                if not target_url:
+                    self.send_response(400)
+                    self.send_header('Content-Type', 'application/json')
+                    self.end_headers()
+                    self.wfile.write(b'{"error": {"message": "Missing target url"}}')
+                    return
+
+                # Build forward request
+                headers = {'Content-Type': 'application/json'}
+                for k, v in target_headers.items():
+                    if k.lower() in ['authorization', 'content-type']:
+                        headers[k] = v
+
+                encoded_body = json.dumps(data_body).encode('utf-8') if data_body is not None else None
+                proxy_req = urllib.request.Request(target_url, data=encoded_body, headers=headers, method='POST')
+
+                try:
+                    resp = urllib.request.urlopen(proxy_req, timeout=60)
+                    resp_ct = resp.headers.get('Content-Type', 'application/json')
+
+                    if 'text/event-stream' in resp_ct:
+                        self.send_response(resp.status)
+                        self.send_header('Content-Type', resp_ct)
+                        self.send_header('Cache-Control', 'no-cache')
+                        self.send_header('Connection', 'close')
+                        self.end_headers()
+
+                        while True:
+                            chunk = resp.read(512)
+                            if not chunk:
+                                break
+                            self.wfile.write(chunk)
+                            self.wfile.flush()
+                    else:
+                        resp_data = resp.read()
+                        self.send_response(resp.status)
+                        self.send_header('Content-Type', resp_ct)
+                        self.send_header('Content-Length', str(len(resp_data)))
+                        self.end_headers()
+                        self.wfile.write(resp_data)
+                except urllib.error.HTTPError as he:
+                    err_bytes = he.read()
+                    self.send_response(he.code)
+                    self.send_header('Content-Type', he.headers.get('Content-Type', 'application/json'))
+                    self.send_header('Content-Length', str(len(err_bytes)))
+                    self.end_headers()
+                    self.wfile.write(err_bytes)
+                except (ConnectionResetError, ConnectionAbortedError, BrokenPipeError):
+                    return
+                except Exception as e:
+                    err_msg = json.dumps({'error': {'message': f'Proxy error: {str(e)}'}}).encode('utf-8')
+                    self.send_response(502)
+                    self.send_header('Content-Type', 'application/json')
+                    self.send_header('Content-Length', str(len(err_msg)))
+                    self.end_headers()
+                    self.wfile.write(err_msg)
+            except (ConnectionResetError, ConnectionAbortedError, BrokenPipeError):
+                return
+            except Exception as e:
+                try:
+                    self.send_response(500)
+                    self.send_header('Content-Type', 'application/json')
+                    self.end_headers()
+                    self.wfile.write(json.dumps({'error': {'message': str(e)}}).encode('utf-8'))
+                except Exception:
+                    pass
+            return
+
+        self.send_response(404)
+        self.end_headers()
+
     def log_message(self, format, *args):
         pass
 
