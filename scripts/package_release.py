@@ -5,6 +5,11 @@ import zipfile
 import subprocess
 from PIL import Image
 
+if hasattr(sys.stdout, 'reconfigure'):
+    sys.stdout.reconfigure(encoding='utf-8')
+if hasattr(sys.stderr, 'reconfigure'):
+    sys.stderr.reconfigure(encoding='utf-8')
+
 VERSION = '1.1.0'
 
 def generate_icns(icon_png_path, target_icns_path):
@@ -129,7 +134,7 @@ ws.Run "cmd /c """ & currentDir & "\\一键启动考研英语.bat""", 0, False
                     zipf.writestr(zinfo, fp.read())
 
     shutil.rmtree(win_staging, ignore_errors=True)
-    print(f"✅ Successfully built Windows release: {win_zip_path} (Size: {os.path.getsize(win_zip_path):,} bytes)")
+    print(f"[SUCCESS] Successfully built Windows release: {win_zip_path} (Size: {os.path.getsize(win_zip_path):,} bytes)")
 
     # =========================================================================
     # 2. BUILD macOS DEDICATED DMG PACKAGE (kaoyan-english-v1.0.0-macos.dmg)
@@ -331,7 +336,7 @@ open "$URL"
         if res.returncode != 0:
             print(f"hdiutil error: {res.stderr}")
             raise RuntimeError(f"Failed to create DMG: {res.stderr}")
-        print(f"✅ Successfully built macOS release: {mac_dmg_path} (Size: {os.path.getsize(mac_dmg_path):,} bytes)")
+        print(f"[SUCCESS] Successfully built macOS release: {mac_dmg_path} (Size: {os.path.getsize(mac_dmg_path):,} bytes)")
     else:
         try:
             import pycdlib
@@ -369,13 +374,13 @@ open "$URL"
 
             iso.write(mac_dmg_path)
             iso.close()
-            print(f"✅ Successfully built macOS release via pycdlib: {mac_dmg_path} (Size: {os.path.getsize(mac_dmg_path):,} bytes)")
+            print(f"[SUCCESS] Successfully built macOS release via pycdlib: {mac_dmg_path} (Size: {os.path.getsize(mac_dmg_path):,} bytes)")
         except Exception as e:
             print(f"Warning: Could not generate DMG via pycdlib: {e}")
         finally:
             shutil.rmtree(mac_staging, ignore_errors=True)
 
-    print("\n🎉 All platform-specific release packages generated successfully!")
+    print("\n[SUCCESS] All platform-specific release packages generated successfully!")
     print(f"  - Windows: {win_zip_path} ({os.path.getsize(win_zip_path):,} bytes)")
     if os.path.exists(mac_dmg_path):
         print(f"  - macOS:   {mac_dmg_path} ({os.path.getsize(mac_dmg_path):,} bytes)")
