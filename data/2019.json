@@ -1,0 +1,1540 @@
+{
+  "year": 2019,
+  "filename": "2019.pdf",
+  "era": "era3",
+  "era_label": "第三阶段+(2005至今 英一)",
+  "total_pages": 15,
+  "max_question_number": 52,
+  "found_question_count": 47,
+  "extracted_question_count": 47,
+  "sections": {
+    "cloze": {
+      "name": "Section I 完形填空",
+      "type": "cloze",
+      "question_range": [
+        1,
+        20
+      ],
+      "text": "1. [A] Some    [B] Most        [C] Few          [D] All               \n                                                                                  \n            2. [A] put     [B] take        [C]",
+      "article": "Section I Use of English\nToday we live in a world where GPS systems, digital maps, and other navigation\napps are available on our smartphones. _1_ of us just walk straight into the woods\nwithout a phone. But phones _2_ on batteries, and batteries can die faster than we\nrealize. _3_ you get lost without a phone or a compass, and you _4_ can't find\nnorth, we have a few tricks to help you navigate _5_ to civilization, one of which is\nto follow the land.\nWhen you find yourselfwell _6_ a trail, but not in a completely _7_ area, you\nhave to answer two questions: Which _8_ is downhill, in this particular area? And\nwhere is the nearest water source? Humans overwhelmingly live in valleys, and on\nsupplies of fresh water. _9_, ify ou head downhill, and follow any H2O you find, you\nshould 10 see signs ofp eople.\nIf you've explored the area before, keep an eye out for familiar sights - you may\nbe 11  how quickly identifying a distinctive rock or tree can restore your bearings.\nAnother  12 : Climb high and look for signs of human habitation. 13 '\neven in dense forest, you should be able to 14 gaps in the tree line due to roads,\ntrain tracks, and other paths people carve 15 the woods. Head toward\nthese 16 to find a way out. At night, scan the horizon for 17 light sources, such\nas fires and streetlights, then walk toward the glow of light pollution.\n-1� 8�_, assuming you're lost in an area humans tend to frequent, look for\nthe  19  we leave on the landscape. Trail blazes, tire tracks, and other features\ncan 20  you to civilization.",
+      "questions": [
+        {
+          "number": 1,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "Some"
+            },
+            {
+              "label": "B",
+              "text": "Most"
+            },
+            {
+              "label": "C",
+              "text": "Few"
+            },
+            {
+              "label": "D",
+              "text": "All"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 2,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "put"
+            },
+            {
+              "label": "B",
+              "text": "take"
+            },
+            {
+              "label": "C",
+              "text": "run"
+            },
+            {
+              "label": "D",
+              "text": "come"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 3,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "Since"
+            },
+            {
+              "label": "B",
+              "text": "If"
+            },
+            {
+              "label": "C",
+              "text": "Though"
+            },
+            {
+              "label": "D",
+              "text": "Until"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 4,
+          "stem": "[ A J formally",
+          "choices": [
+            {
+              "label": "A",
+              "text": ""
+            },
+            {
+              "label": "B",
+              "text": "relatively"
+            },
+            {
+              "label": "C",
+              "text": "gradually"
+            },
+            {
+              "label": "D",
+              "text": "literally"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 5,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "back"
+            },
+            {
+              "label": "B",
+              "text": "next"
+            },
+            {
+              "label": "C",
+              "text": "around"
+            },
+            {
+              "label": "D",
+              "text": "away"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 6,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "onto"
+            },
+            {
+              "label": "B",
+              "text": "off"
+            },
+            {
+              "label": "C",
+              "text": "across"
+            },
+            {
+              "label": "D",
+              "text": "alone"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 7,
+          "stem": "[ A J unattractive",
+          "choices": [
+            {
+              "label": "A",
+              "text": ""
+            },
+            {
+              "label": "B",
+              "text": "uncrowded [ CJ unchanged"
+            },
+            {
+              "label": "C",
+              "text": ""
+            },
+            {
+              "label": "D",
+              "text": "unfamiliar"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 8,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "site"
+            },
+            {
+              "label": "B",
+              "text": "point"
+            },
+            {
+              "label": "C",
+              "text": "way"
+            },
+            {
+              "label": "D",
+              "text": "place"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 9,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "So"
+            },
+            {
+              "label": "B",
+              "text": "Yet"
+            },
+            {
+              "label": "C",
+              "text": "Instead"
+            },
+            {
+              "label": "D",
+              "text": "Besides"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 10,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "immediately"
+            },
+            {
+              "label": "B",
+              "text": "intentionally [ CJ unexpectedly"
+            },
+            {
+              "label": "C",
+              "text": ""
+            },
+            {
+              "label": "D",
+              "text": "eventually"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 11,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "surprised"
+            },
+            {
+              "label": "B",
+              "text": "annoyed [ CJ frightened"
+            },
+            {
+              "label": "C",
+              "text": ""
+            },
+            {
+              "label": "D",
+              "text": "confused"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 12,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "problem"
+            },
+            {
+              "label": "B",
+              "text": "option"
+            },
+            {
+              "label": "C",
+              "text": "view"
+            },
+            {
+              "label": "D",
+              "text": "result"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 13,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "Above all"
+            },
+            {
+              "label": "B",
+              "text": "In contrast"
+            },
+            {
+              "label": "C",
+              "text": "On average"
+            },
+            {
+              "label": "D",
+              "text": "For example"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 14,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "bridge"
+            },
+            {
+              "label": "B",
+              "text": "avoid"
+            },
+            {
+              "label": "C",
+              "text": "spot"
+            },
+            {
+              "label": "D",
+              "text": "separate"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 15,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "from"
+            },
+            {
+              "label": "B",
+              "text": "through"
+            },
+            {
+              "label": "C",
+              "text": "beyond"
+            },
+            {
+              "label": "D",
+              "text": "under"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 16,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "posts"
+            },
+            {
+              "label": "B",
+              "text": "links"
+            },
+            {
+              "label": "C",
+              "text": "shades"
+            },
+            {
+              "label": "D",
+              "text": "breaks"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 17,
+          "stem": "[ A J artificial",
+          "choices": [
+            {
+              "label": "A",
+              "text": ""
+            },
+            {
+              "label": "B",
+              "text": "mysterious"
+            },
+            {
+              "label": "C",
+              "text": "hidden"
+            },
+            {
+              "label": "D",
+              "text": "limited"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 18,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "Finally"
+            },
+            {
+              "label": "B",
+              "text": "Consequently [ CJ Incidentally"
+            },
+            {
+              "label": "C",
+              "text": ""
+            },
+            {
+              "label": "D",
+              "text": "Generally"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 19,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "memories"
+            },
+            {
+              "label": "B",
+              "text": "marks"
+            },
+            {
+              "label": "C",
+              "text": "notes"
+            },
+            {
+              "label": "D",
+              "text": "belongings"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 20,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "restrict"
+            },
+            {
+              "label": "B",
+              "text": "adopt"
+            },
+            {
+              "label": "C",
+              "text": "lead"
+            },
+            {
+              "label": "D",
+              "text": ""
+            }
+          ],
+          "type": "choice"
+        }
+      ],
+      "warnings": []
+    },
+    "reading-a": {
+      "name": "Section II 阅读A节",
+      "type": "reading",
+      "question_range": [
+        21,
+        40
+      ],
+      "text": "   10. [A] immediately [B] intentionally [ CJ unexpectedly [D] eventually \n           11. [A J surprised [B] annoyed  [ CJ frightened  [D] confused          \n                                          ",
+      "article": "Financial regulators in Britain have imposed a rather unusual rule on the bosses\n                                                                                  \n           of big banks. Starting next year, any guaranteed bonus of top executives could be\n           delayed 10 years if their banks are under investigation for wrongdoing. The main\n                                                                                  \n           purpose of this \"clawback\" rule is to hold bankers accountable for harmful risk-taking\n           and to restore public trust in financial institutions. Yet officials also hope for a much\n                                                                                  \n           larger benefit: more long-term decisionmaking, not only by banks but by all\n           corporations, to build a stronger economy for future generations.      \n              \"Short-termism\" or the desire for quick profits, has worsened in publicly traded\n                                                                                  \n           companies, says the Bank of England's top economist, Andrew Haldane. He quotes a\n           giant of classical economics, Alfred Marshall, in describing this financial impatience\n                                                                                  \n           as acting like \"children who pick the plums out of their pudding to eat them at once\"\n           rather than putting them aside to be eaten last.                       \n                                                                                  \n              The average time for holding a stock in both the United States and Britain, he\n           notes, has dropped from seven years to seven months in recent decades. Transient\n                                                                                  \n           investors, who demand high quarterly profits from companies, can hinder a firm's\n           efforts to invest in long-term research or to build up customer loyalty. This has been\n           dubbed \" arterly capitalism.\"                                          \n                 qu                                                               \n              In addition, new digital technologies have allowed more rapid trading ofe ities,\n                                                                   qu             \n           quicker use of information, and thus shorter attention spans in financial markets.\n           \"There seems to be a predominance of short-term thinking at the expense of\n           long-term investing,\" said Commissioner Daniel Gallagher of the US Securities and\n                                                                                  \n           Exchange Commission in a speech this week.                             \n              In the US, the Sarbanes-Oxley Act of 2002 has pushed most public companies to\n                                                                                  \n           defer performance bonuses for senior executives by about a year, slightly helping\n           reduce \"short-termism.\" In its latest survey of CEO pay, The Wall Street Journal finds\n                          t                                                       \n           that \"a substantial par\" ofe xecutive pay is now tied to performance.  \n              Much more could be done to encourage \"long-termism,\" such as changes in the\n           tax code and quicker disclosure of stock acquisitions. In France, shareholders who\n                                                                                  \n           hold onto a company investment for at least two years can sometimes earn more\n           voting rights in a company.                                            \n                                                                                  \n              Within companies, the right compensation design can provide incentives for\n           executives to think beyond their own time at the company and on behalf of all\n                                                                                  \n           stakeholders. Britain's new rule is a reminder to bankers that society has an interest in\n           their performance, not just for the short term but for the long term.  \n                                                                                  \n                                                                                  \n                                       .3.  ( � 14 Ji)\n\nGrade inflation - the gradual increase in average GPAs (grade-point averages)\n                                                                                  \n           over the past few decades - is often considered a product of a consumer era in higher\n           education, in which students are treated like customers to be pleased. But another,\n                                                                                  \n           related force - a policy often buried deep in course catalogs called \"grade\n           forgiveness\" - is helping raise GPAs.                                  \n                                                                                  \n               Grade forgiveness allows students to retake a course in which they received a\n                                                                                  \n           low grade, and the most recent grade or the highest grade is the only one that counts\n           in calculating a student's overall GPA.                                \n                                                                                  \n              The use of this little-known practice has accelerated in recent years, as colleges\n           continue to do their utmost to keep students in school (and paying tuition) and\n                                                                                  \n           improve their graduation rates. When this practice first started decades ago, it was\n           usually limited to freshmen, to give them a second chance to take a class in their first\n                                                                                  \n           year if they struggled in their transition to college-level courses. But now most\n           colleges, save for many selective campuses, allow all undergraduates, and even\n                                                                                  \n           graduate students, to get their low grades forgiven.                   \n               College officials tend to emphasize that the goal of grade forgiveness is less\n                                                                                  \n           about the grade itself and more about encouraging students to retake courses critical\n           to their degree program and graduation without incurring a big penalty. \"Ultimately,\"\n                                                                                  \n           said Jack Miner, Ohio State University's registrar, \"we see students achieve more\n                                                                                  \n           success because they retake a course and do better in subsequent courses or master\n           the content that allows them to graduate on time.\"                     \n                                                                                  \n              That said, there is a way in which grade forgiveness satisfies colleges' own needs as\n           well. For public institutions, state funds are sometimes tied partly to their success on metrics\n                                                                                  \n           such as graduation rates and student retention - so better grades can, by boosting figures\n           like those, mean more money. And anything that raises GPAs will likely make\n                                           ",
+      "questions": [
+        {
+          "number": 21,
+          "stem": "According to Paragraph 1, one motive in imposing the new rule is to",
+          "choices": [
+            {
+              "label": "A",
+              "text": "enhance bankers' sense ofr esponsibility."
+            },
+            {
+              "label": "B",
+              "text": "help corporations achieve larger profits."
+            },
+            {
+              "label": "C",
+              "text": "build a new system offi nancial regulation."
+            },
+            {
+              "label": "D",
+              "text": "guarantee the bonuses oft op executives."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 22,
+          "stem": "Alfred Marshall is quoted to indicate                              \n                                                                                  \n             [ A J the conditions for generating quick profits.",
+          "choices": [
+            {
+              "label": "A",
+              "text": ""
+            },
+            {
+              "label": "B",
+              "text": "governments' impatience in decision-making."
+            },
+            {
+              "label": "C",
+              "text": "the solid structure ofp ublicly traded companies."
+            },
+            {
+              "label": "D",
+              "text": "\"short-termism\" in economic activities."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 23,
+          "stem": "It is argued that the influence oft ransient investment on public companies can be\n                                                                                  \n             [ A J indirect.",
+          "choices": [
+            {
+              "label": "A",
+              "text": ""
+            },
+            {
+              "label": "B",
+              "text": "adverse."
+            },
+            {
+              "label": "C",
+              "text": "minimal."
+            },
+            {
+              "label": "D",
+              "text": "temporary."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 24,
+          "stem": "The US and France examples are used to illustrate",
+          "choices": [
+            {
+              "label": "A",
+              "text": "the obstacles to preventing \"short-termism\"."
+            },
+            {
+              "label": "B",
+              "text": "the significance ofl ong-term thinking."
+            },
+            {
+              "label": "C",
+              "text": "the approaches to promoting \"long-termism\"."
+            },
+            {
+              "label": "D",
+              "text": "the prevalence ofs hort-term thinking."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 25,
+          "stem": "Which oft he following would be the best title for the text?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "Failure ofQ uarterly Capitalism"
+            },
+            {
+              "label": "B",
+              "text": "Patience as a Corporate Virtue"
+            },
+            {
+              "label": "C",
+              "text": "Decisiveness Required ofT op Executives"
+            },
+            {
+              "label": "D",
+              "text": "Frustration ofR isk-taking Bankers .4. ( � 14 Ji)"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 26,
+          "stem": "What is commonly regarded as the cause ofg rade inflation?         \n             [ AJ The change ofc ourse catalogs.",
+          "choices": [
+            {
+              "label": "A",
+              "text": ""
+            },
+            {
+              "label": "B",
+              "text": "Students' indifference to GPAs."
+            },
+            {
+              "label": "C",
+              "text": "Colleges' neglect ofG PAs."
+            },
+            {
+              "label": "D",
+              "text": "The influence ofc onsumer culture."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 27,
+          "stem": "What was the original purpose ofg rade forgiveness?                \n                                                                                  \n             [ AJ To help freshmen adapt to college learning.",
+          "choices": [
+            {
+              "label": "A",
+              "text": ""
+            },
+            {
+              "label": "B",
+              "text": "To maintain colleges' graduation rates."
+            },
+            {
+              "label": "C",
+              "text": "To prepare graduates for a challenging future."
+            },
+            {
+              "label": "D",
+              "text": "To increase universities' income from tuition."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 28,
+          "stem": "According to Paragraph 5, grade forgiveness enables colleges to    \n                                                                                  \n             [ A J obtain more financial support.",
+          "choices": [
+            {
+              "label": "A",
+              "text": ""
+            },
+            {
+              "label": "B",
+              "text": "boost their student enrollments."
+            },
+            {
+              "label": "C",
+              "text": "improve their teaching quality."
+            },
+            {
+              "label": "D",
+              "text": "meet local governments' needs."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 29,
+          "stem": "What does the phrase \"to be aligned\" (Line 5, Para. 6) most probably mean?\n                                                                                  \n             [ A J To counterbalance each other.",
+          "choices": [
+            {
+              "label": "A",
+              "text": ""
+            },
+            {
+              "label": "B",
+              "text": "To complement each other."
+            },
+            {
+              "label": "C",
+              "text": "To be identical with each other."
+            },
+            {
+              "label": "D",
+              "text": "To be contradictory to each other."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 30,
+          "stem": "The author examines the practice ofg rade forgiveness by           \n             [ A J assessing its feasibility.",
+          "choices": [
+            {
+              "label": "A",
+              "text": ""
+            },
+            {
+              "label": "B",
+              "text": "analyzing the causes behind it."
+            },
+            {
+              "label": "C",
+              "text": "comparing different views on it."
+            },
+            {
+              "label": "D",
+              "text": "listing its long-run effects. .6. ( � 14 Ji)"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 31,
+          "stem": "Mary Shelley's novel Frankenstein is mentioned because it          \n             [ A J fascinates AI scientists all over the world.",
+          "choices": [
+            {
+              "label": "A",
+              "text": ""
+            },
+            {
+              "label": "B",
+              "text": "has remained popular for as long as 200 years."
+            },
+            {
+              "label": "C",
+              "text": "involves some concerns raised by AI today."
+            },
+            {
+              "label": "D",
+              "text": "has sparked serious ethical controversies."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 32,
+          "stem": "In David Eagleman's opinion, our current knowledge ofc onsciousness\n                                                                                  \n             [ A J helps explain artificial intelligence.",
+          "choices": [
+            {
+              "label": "A",
+              "text": ""
+            },
+            {
+              "label": "B",
+              "text": "can be misleading to robot making."
+            },
+            {
+              "label": "C",
+              "text": "inspires popular sci-fi TV series."
+            },
+            {
+              "label": "D",
+              "text": "is too limited for us to reproduce it."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 33,
+          "stem": "The solution to the ethical issues brought by autonomous vehicles  \n                                                                                  \n             [ A J can hardly ever be found.",
+          "choices": [
+            {
+              "label": "A",
+              "text": ""
+            },
+            {
+              "label": "B",
+              "text": "is still beyond our capacity."
+            },
+            {
+              "label": "C",
+              "text": "causes little public concern."
+            },
+            {
+              "label": "D",
+              "text": "has aroused much curiosity."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 34,
+          "stem": "The author's attitude toward Google's pledges is one of [ AJ affirmation.",
+          "choices": [
+            {
+              "label": "A",
+              "text": ""
+            },
+            {
+              "label": "B",
+              "text": "skepticism. [ CJ contempt."
+            },
+            {
+              "label": "C",
+              "text": ""
+            },
+            {
+              "label": "D",
+              "text": "respect."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 35,
+          "stem": "Which oft he following would be the best title for the text?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "Al's Future: In the Hands ofT ech Giants"
+            },
+            {
+              "label": "B",
+              "text": "Frankenstein, the Novel Predicting the Age ofA I"
+            },
+            {
+              "label": "C",
+              "text": "The Conscience ofA I: Complex But Inevitable"
+            },
+            {
+              "label": "D",
+              "text": "AI Shall Be Killers Once Out ofC ontrol .8. ( � 14 Ji)"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 36,
+          "stem": "The Supreme Court decision Thursday will                           \n             [ A J better businesses' relations with states.",
+          "choices": [
+            {
+              "label": "A",
+              "text": ""
+            },
+            {
+              "label": "B",
+              "text": "put most online businesses in a dilemma."
+            },
+            {
+              "label": "C",
+              "text": "make more online shoppers pay sales tax."
+            },
+            {
+              "label": "D",
+              "text": "force some states to cut sales tax."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 37,
+          "stem": "It can be learned from paragraphs 2 and 3 that the overruled decisions\n                                                                                  \n             [ A J have led to the dominance ofe -commerce.",
+          "choices": [
+            {
+              "label": "A",
+              "text": ""
+            },
+            {
+              "label": "B",
+              "text": "have cost consumers a lot over the years."
+            },
+            {
+              "label": "C",
+              "text": "were widely criticized by online purchasers."
+            },
+            {
+              "label": "D",
+              "text": "were considered unfavorable by states."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 38,
+          "stem": "According to Justice Anthony Kennedy, the physical presence rule has\n                                                                                  \n             [ A J hindered economic development.",
+          "choices": [
+            {
+              "label": "A",
+              "text": ""
+            },
+            {
+              "label": "B",
+              "text": "brought prosperity to the country."
+            },
+            {
+              "label": "C",
+              "text": "harmed fair market competition."
+            },
+            {
+              "label": "D",
+              "text": "boosted growth in states' revenue."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 39,
+          "stem": "Who are most likely to welcome the Supreme Court ruling?           \n                                                                                  \n             [ A J Internet entrepreneurs.",
+          "choices": [
+            {
+              "label": "A",
+              "text": ""
+            },
+            {
+              "label": "B",
+              "text": "Big-chain owners."
+            },
+            {
+              "label": "C",
+              "text": "Third-party sellers."
+            },
+            {
+              "label": "D",
+              "text": "Small retailers."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 40,
+          "stem": "In dealing with the Supreme Court decision Thursday, the author    \n             [ A J gives a factual account ofi t and discusses its consequences.",
+          "choices": [
+            {
+              "label": "A",
+              "text": ""
+            },
+            {
+              "label": "B",
+              "text": "describes the long and complicated process ofi ts making."
+            },
+            {
+              "label": "C",
+              "text": "presents its main points with conflicting views on them."
+            },
+            {
+              "label": "D",
+              "text": ""
+            }
+          ],
+          "type": "choice"
+        }
+      ],
+      "warnings": [],
+      "text_count": 4,
+      "texts": [
+        {
+          "text_num": 1,
+          "article": "Financial regulators in Britain have imposed a rather unusual rule on the bosses\n                                                                                  \n           of big banks. Starting next year, any guaranteed bonus of top executives could be\n           delayed 10 years if their banks are under investigation for wrongdoing. The main\n                                                                                  \n           purpose of this \"clawback\" rule is to hold bankers accountable for harmful risk-taking\n           and to restore public trust in financial institutions. Yet officials also hope for a much\n                                                                                  \n           larger benefit: more long-term decisionmaking, not only by banks but by all\n           corporations, to build a stronger economy for future generations.      \n              \"Short-termism\" or the desire for quick profits, has worsened in publicly traded\n                                                                                  \n           companies, says the Bank of England's top economist, Andrew Haldane. He quotes a\n           giant of classical economics, Alfred Marshall, in describing this financial impatience\n                                                                                  \n           as acting like \"children who pick the plums out of their pudding to eat them at once\"\n           rather than putting them aside to be eaten last.                       \n                                                                                  \n              The average time for holding a stock in both the United States and Britain, he\n           notes, has dropped from seven years to seven months in recent decades. Transient\n                                                                                  \n           investors, who demand high quarterly profits from companies, can hinder a firm's\n           efforts to invest in long-term research or to build up customer loyalty. This has been\n           dubbed \" arterly capitalism.\"                                          \n                 qu                                                               \n              In addition, new digital technologies have allowed more rapid trading ofe ities,\n                                                                   qu             \n           quicker use of information, and thus shorter attention spans in financial markets.\n           \"There seems to be a predominance of short-term thinking at the expense of\n           long-term investing,\" said Commissioner Daniel Gallagher of the US Securities and\n                                                                                  \n           Exchange Commission in a speech this week.                             \n              In the US, the Sarbanes-Oxley Act of 2002 has pushed most public companies to\n                                                                                  \n           defer performance bonuses for senior executives by about a year, slightly helping\n           reduce \"short-termism.\" In its latest survey of CEO pay, The Wall Street Journal finds\n                          t                                                       \n           that \"a substantial par\" ofe xecutive pay is now tied to performance.  \n              Much more could be done to encourage \"long-termism,\" such as changes in the\n           tax code and quicker disclosure of stock acquisitions. In France, shareholders who\n                                                                                  \n           hold onto a company investment for at least two years can sometimes earn more\n           voting rights in a company.                                            \n                                                                                  \n              Within companies, the right compensation design can provide incentives for\n           executives to think beyond their own time at the company and on behalf of all\n                                                                                  \n           stakeholders. Britain's new rule is a reminder to bankers that society has an interest in\n           their performance, not just for the short term but for the long term.  \n                                                                                  \n                                                                                  \n                                       .3.  ( � 14 Ji)",
+          "questions": [
+            {
+              "number": 21,
+              "stem": "According to Paragraph 1, one motive in imposing the new rule is to",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "enhance bankers' sense ofr esponsibility."
+                },
+                {
+                  "label": "B",
+                  "text": "help corporations achieve larger profits."
+                },
+                {
+                  "label": "C",
+                  "text": "build a new system offi nancial regulation."
+                },
+                {
+                  "label": "D",
+                  "text": "guarantee the bonuses oft op executives."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 22,
+              "stem": "Alfred Marshall is quoted to indicate                              \n                                                                                  \n             [ A J the conditions for generating quick profits.",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": ""
+                },
+                {
+                  "label": "B",
+                  "text": "governments' impatience in decision-making."
+                },
+                {
+                  "label": "C",
+                  "text": "the solid structure ofp ublicly traded companies."
+                },
+                {
+                  "label": "D",
+                  "text": "\"short-termism\" in economic activities."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 23,
+              "stem": "It is argued that the influence oft ransient investment on public companies can be\n                                                                                  \n             [ A J indirect.",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": ""
+                },
+                {
+                  "label": "B",
+                  "text": "adverse."
+                },
+                {
+                  "label": "C",
+                  "text": "minimal."
+                },
+                {
+                  "label": "D",
+                  "text": "temporary."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 24,
+              "stem": "The US and France examples are used to illustrate",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "the obstacles to preventing \"short-termism\"."
+                },
+                {
+                  "label": "B",
+                  "text": "the significance ofl ong-term thinking."
+                },
+                {
+                  "label": "C",
+                  "text": "the approaches to promoting \"long-termism\"."
+                },
+                {
+                  "label": "D",
+                  "text": "the prevalence ofs hort-term thinking."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 25,
+              "stem": "Which oft he following would be the best title for the text?",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "Failure ofQ uarterly Capitalism"
+                },
+                {
+                  "label": "B",
+                  "text": "Patience as a Corporate Virtue"
+                },
+                {
+                  "label": "C",
+                  "text": "Decisiveness Required ofT op Executives"
+                },
+                {
+                  "label": "D",
+                  "text": "Frustration ofR isk-taking Bankers .4. ( � 14 Ji)"
+                }
+              ],
+              "type": "choice"
+            }
+          ]
+        },
+        {
+          "text_num": 2,
+          "article": "Grade inflation - the gradual increase in average GPAs (grade-point averages)\n                                                                                  \n           over the past few decades - is often considered a product of a consumer era in higher\n           education, in which students are treated like customers to be pleased. But another,\n                                                                                  \n           related force - a policy often buried deep in course catalogs called \"grade\n           forgiveness\" - is helping raise GPAs.                                  \n                                                                                  \n               Grade forgiveness allows students to retake a course in which they received a\n                                                                                  \n           low grade, and the most recent grade or the highest grade is the only one that counts\n           in calculating a student's overall GPA.                                \n                                                                                  \n              The use of this little-known practice has accelerated in recent years, as colleges\n           continue to do their utmost to keep students in school (and paying tuition) and\n                                                                                  \n           improve their graduation rates. When this practice first started decades ago, it was\n           usually limited to freshmen, to give them a second chance to take a class in their first\n                                                                                  \n           year if they struggled in their transition to college-level courses. But now most\n           colleges, save for many selective campuses, allow all undergraduates, and even\n                                                                                  \n           graduate students, to get their low grades forgiven.                   \n               College officials tend to emphasize that the goal of grade forgiveness is less\n                                                                                  \n           about the grade itself and more about encouraging students to retake courses critical\n           to their degree program and graduation without incurring a big penalty. \"Ultimately,\"\n                                                                                  \n           said Jack Miner, Ohio State University's registrar, \"we see students achieve more\n                                                                                  \n           success because they retake a course and do better in subsequent courses or master\n           the content that allows them to graduate on time.\"                     \n                                                                                  \n              That said, there is a way in which grade forgiveness satisfies colleges' own needs as\n           well. For public institutions, state funds are sometimes tied partly to their success on metrics\n                                                                                  \n           such as graduation rates and student retention - so better grades can, by boosting figures\n           like those, mean more money. And anything that raises GPAs will likely make\n                                                                                  \n           students- who, at the end oft he day, are paying the bill - feel they've gotten a better value\n           for their tuition dollars, which is another big concern for colleges.  \n                                                                                  \n              Indeed, grade forgiveness is just another way that universities are responding to\n           consumers' expectations for higher education. Since students and parents expect a\n                                                                                  \n           college degree to lead to a job, it is in the best interest of a school to turn out\n           graduates who are as qualified as possible - or at least appear to be. On this, students'\n                                                                                  \n           and colleges' incentives seem to be aligned.                           \n                                                                                  \n                                                                                  \n                                       .5.  ( � 14 Ji)",
+          "questions": [
+            {
+              "number": 26,
+              "stem": "What is commonly regarded as the cause ofg rade inflation?         \n             [ AJ The change ofc ourse catalogs.",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": ""
+                },
+                {
+                  "label": "B",
+                  "text": "Students' indifference to GPAs."
+                },
+                {
+                  "label": "C",
+                  "text": "Colleges' neglect ofG PAs."
+                },
+                {
+                  "label": "D",
+                  "text": "The influence ofc onsumer culture."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 27,
+              "stem": "What was the original purpose ofg rade forgiveness?                \n                                                                                  \n             [ AJ To help freshmen adapt to college learning.",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": ""
+                },
+                {
+                  "label": "B",
+                  "text": "To maintain colleges' graduation rates."
+                },
+                {
+                  "label": "C",
+                  "text": "To prepare graduates for a challenging future."
+                },
+                {
+                  "label": "D",
+                  "text": "To increase universities' income from tuition."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 28,
+              "stem": "According to Paragraph 5, grade forgiveness enables colleges to    \n                                                                                  \n             [ A J obtain more financial support.",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": ""
+                },
+                {
+                  "label": "B",
+                  "text": "boost their student enrollments."
+                },
+                {
+                  "label": "C",
+                  "text": "improve their teaching quality."
+                },
+                {
+                  "label": "D",
+                  "text": "meet local governments' needs."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 29,
+              "stem": "What does the phrase \"to be aligned\" (Line 5, Para. 6) most probably mean?\n                                                                                  \n             [ A J To counterbalance each other.",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": ""
+                },
+                {
+                  "label": "B",
+                  "text": "To complement each other."
+                },
+                {
+                  "label": "C",
+                  "text": "To be identical with each other."
+                },
+                {
+                  "label": "D",
+                  "text": "To be contradictory to each other."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 30,
+              "stem": "The author examines the practice ofg rade forgiveness by           \n             [ A J assessing its feasibility.",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": ""
+                },
+                {
+                  "label": "B",
+                  "text": "analyzing the causes behind it."
+                },
+                {
+                  "label": "C",
+                  "text": "comparing different views on it."
+                },
+                {
+                  "label": "D",
+                  "text": "listing its long-run effects. .6. ( � 14 Ji)"
+                }
+              ],
+              "type": "choice"
+            }
+          ]
+        },
+        {
+          "text_num": 3,
+          "article": "This year marks exactly two centuries since the publication of \"Frankenstein; or,\n                                                                                  \n           The Modem Prometheus,\" by Mary Shelley. Even before the invention of the electric\n           light bulb, the author produced a remarkable work of speculative fiction that would\n           foreshadow many ethical questions to be raised by technologies yet to come.\n                                                                                  \n              Today the rapid growth of artificial intelligence (AI) raises fundamental questions:\n           \"What is intelligence, identity, or consciousness? What makes humans humans? \"\n              What is being called artificial general intelligence, machines that would imitate\n                                                                                  \n           the way humans think, continues to evade scientists. Yet humans remain fascinated by\n           the idea of robots that would look, move, and respond like humans, similar to those\n           recently depicted on popular sci-fi TV series such as \"Westworld\" and \"Humans.\"\n                                                                                  \n              Just how people think is still far too complex to be understood, let alone\n           reproduced, says David Eagleman, a Stanford University neuroscientist. \"We are just\n                                                                                  \n           in a situation where there are no good theories explaining what consciousness actually\n           is and how you could ever build a machine to get there.\"               \n              But that doesn't mean crucial ethical issues involving AI aren't at hand. The\n                                                                                  \n           coming use of autonomous vehicles, for example, poses thorny ethical questions.\n           Human drivers sometimes must make split-second decisions. Their reactions may be\n           a complex combination of instant reflexes, input from past driving experiences, and\n                                                                                  \n           what their eyes and ears tell them in that moment. AI \"vision\" today is not nearly as\n           sophisticated as that of humans. And to anticipate every imaginable driving situation\n                                                                                  \n           is a difficult programming problem.                                    \n              Whenever decisions are based on masses of data, \"you quickly get into a lot of\n           ethical questions,\" notes Tan Kiat How, chief executive of a Singapore-based agency\n                                                                                  \n           that is helping the government develop a voluntary code for the ethical use of AL\n           Along with Singapore, other governments and mega-corporations are beginning to\n           establish their own guidelines. Britain is setting up a data ethics center. India released\n                                                                                  \n           its AI ethics strategy this spring.                                    \n              On June 7 Google pledged not to \"design or deploy AI\" that would cause \"overall\n           harm,\" or to develop AI-directed weapons or use AI for surveillance that would\n                                                                                  \n           violate international norms. It also pledged not to deploy AI whose use would violate\n           international laws or human rights.                                    \n                                                                                  \n              While the statement is vague, it represents one starting point. So does the idea\n           that decisions made by AI systems should be explainable, transparent, and fair.\n              To put it another way: How can we make sure that the thinking of intelligent\n                                                                                  \n           machines reflects humanity's highest values? Only then will they be useful servants\n           and not Frankenstein's out-of-control monster.                         \n                                                                                  \n                                                                                  \n                                       .7.  ( � 14 Ji)",
+          "questions": [
+            {
+              "number": 31,
+              "stem": "Mary Shelley's novel Frankenstein is mentioned because it          \n             [ A J fascinates AI scientists all over the world.",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": ""
+                },
+                {
+                  "label": "B",
+                  "text": "has remained popular for as long as 200 years."
+                },
+                {
+                  "label": "C",
+                  "text": "involves some concerns raised by AI today."
+                },
+                {
+                  "label": "D",
+                  "text": "has sparked serious ethical controversies."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 32,
+              "stem": "In David Eagleman's opinion, our current knowledge ofc onsciousness\n                                                                                  \n             [ A J helps explain artificial intelligence.",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": ""
+                },
+                {
+                  "label": "B",
+                  "text": "can be misleading to robot making."
+                },
+                {
+                  "label": "C",
+                  "text": "inspires popular sci-fi TV series."
+                },
+                {
+                  "label": "D",
+                  "text": "is too limited for us to reproduce it."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 33,
+              "stem": "The solution to the ethical issues brought by autonomous vehicles  \n                                                                                  \n             [ A J can hardly ever be found.",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": ""
+                },
+                {
+                  "label": "B",
+                  "text": "is still beyond our capacity."
+                },
+                {
+                  "label": "C",
+                  "text": "causes little public concern."
+                },
+                {
+                  "label": "D",
+                  "text": "has aroused much curiosity."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 34,
+              "stem": "The author's attitude toward Google's pledges is one of [ AJ affirmation.",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": ""
+                },
+                {
+                  "label": "B",
+                  "text": "skepticism. [ CJ contempt."
+                },
+                {
+                  "label": "C",
+                  "text": ""
+                },
+                {
+                  "label": "D",
+                  "text": "respect."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 35,
+              "stem": "Which oft he following would be the best title for the text?",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "Al's Future: In the Hands ofT ech Giants"
+                },
+                {
+                  "label": "B",
+                  "text": "Frankenstein, the Novel Predicting the Age ofA I"
+                },
+                {
+                  "label": "C",
+                  "text": "The Conscience ofA I: Complex But Inevitable"
+                },
+                {
+                  "label": "D",
+                  "text": "AI Shall Be Killers Once Out ofC ontrol .8. ( � 14 Ji)"
+                }
+              ],
+              "type": "choice"
+            }
+          ]
+        },
+        {
+          "text_num": 4,
+          "article": "States will be able to force more people to pay sales tax when they make online\n                                                                                  \n           purchases under a Supreme Court decision Thursday that will leave shoppers with\n           lighter wallets but is a big financial win for states.                 \n                                                                                  \n              The Supreme Court's opinion Thursday overruled a pair ofd ecades-old decisions that\n           states said cost them billions ofd ollars in lost revenue annually. The decisions made it more\n                                                                                  \n           difficult fro states to collect sales tax on certain online purchases. \n              The cases the court overturned said that if a business was shipping a customer's\n           purchase to a state where the business didn't have a physical presence such as a\n                                                                                  \n           warehouse or office, the business didn't have to collect sales tax for the state.\n           Customers were generally responsible for paying the sales tax to the state themselves\n                                                                                  \n           ift hey weren't charged it, but most didn't realize they owed it and few paid.\n              Justice Anthony Kennedy wrote that the previous decisions were flawed. \"Each year\n                                                                                  \n           the physical presence rule becomes further removed from economic reality and results in\n           significant revenue losses to the States,\" he wrote in an opinion joined by four other justices.\n                                                                                  \n           Kennedy wrote that the rule \"limited states' ability to seek long-term prosperity and has\n           prevented market participants from competing on an even playing field.\"\n              The ruling is a victory for big chains with a presence in many states, since they\n                                                                                  \n           usually collect sales tax on online purchases already. Now, rivals will be charging\n           sales tax where they hadn't before. Big chains have been collecting sales tax\n                                                                                  \n           nationwide because they typically have physical stores in whatever state a purchase is\n           being shipped to. Amazon.com, with its network ofw arehouses, also collects sales tax\n                                                                                  \n           in every state that charges it, though third-party sellers who use the site don't have to.\n              Until now, many sellers that have a physical presence in only a single state or a\n                                                                                  \n           few states have been able to avoid charging sales taxes when they ship to addresses\n           outside those states. Sellers that use eBay and Etsy, which provide platforms for\n                                                                                  \n           smaller sellers, also haven't been collecting sales tax nationwide. Under the ruling\n           Thursday, states can pass laws requiring out-of-state sellers to collect the state's sales\n           tax from customers and send it to the state.                           \n                                                                                  \n              Retail trade groups praised the ruling, saying it levels the playing field for local\n           and online businesses. The losers, said retail analyst Neil Saunders, are online-only\n                                                                                  \n           retailers, especially smaller ones. Those retailers may face headaches complying with\n           various state sales tax laws. The Small Business & Entrepreneurship Council\n                                                                                  \n           advocacy group said in a statement, \"Small businesses and internet entrepreneurs are\n           not well served at all by this decision.\"                              \n                                                                                  \n                                                                                  \n                                       .9.  ( � 14 Ji)",
+          "questions": [
+            {
+              "number": 36,
+              "stem": "The Supreme Court decision Thursday will                           \n             [ A J better businesses' relations with states.",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": ""
+                },
+                {
+                  "label": "B",
+                  "text": "put most online businesses in a dilemma."
+                },
+                {
+                  "label": "C",
+                  "text": "make more online shoppers pay sales tax."
+                },
+                {
+                  "label": "D",
+                  "text": "force some states to cut sales tax."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 37,
+              "stem": "It can be learned from paragraphs 2 and 3 that the overruled decisions\n                                                                                  \n             [ A J have led to the dominance ofe -commerce.",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": ""
+                },
+                {
+                  "label": "B",
+                  "text": "have cost consumers a lot over the years."
+                },
+                {
+                  "label": "C",
+                  "text": "were widely criticized by online purchasers."
+                },
+                {
+                  "label": "D",
+                  "text": "were considered unfavorable by states."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 38,
+              "stem": "According to Justice Anthony Kennedy, the physical presence rule has\n                                                                                  \n             [ A J hindered economic development.",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": ""
+                },
+                {
+                  "label": "B",
+                  "text": "brought prosperity to the country."
+                },
+                {
+                  "label": "C",
+                  "text": "harmed fair market competition."
+                },
+                {
+                  "label": "D",
+                  "text": "boosted growth in states' revenue."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 39,
+              "stem": "Who are most likely to welcome the Supreme Court ruling?           \n                                                                                  \n             [ A J Internet entrepreneurs.",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": ""
+                },
+                {
+                  "label": "B",
+                  "text": "Big-chain owners."
+                },
+                {
+                  "label": "C",
+                  "text": "Third-party sellers."
+                },
+                {
+                  "label": "D",
+                  "text": "Small retailers."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 40,
+              "stem": "In dealing with the Supreme Court decision Thursday, the author    \n             [ A J gives a factual account ofi t and discusses its consequences.",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": ""
+                },
+                {
+                  "label": "B",
+                  "text": "describes the long and complicated process ofi ts making."
+                },
+                {
+                  "label": "C",
+                  "text": "presents its main points with conflicting views on them."
+                },
+                {
+                  "label": "D",
+                  "text": ""
+                }
+              ],
+              "type": "choice"
+            }
+          ]
+        }
+      ]
+    },
+    "new-type": {
+      "name": "Part B 阅读新题型",
+      "type": "new_type",
+      "question_range": [
+        41,
+        45
+      ],
+      "text": "",
+      "article": "",
+      "questions": [],
+      "warnings": [
+        "未找到题目"
+      ]
+    },
+    "translation": {
+      "name": "C节 翻译",
+      "type": "translation",
+      "question_range": [
+        46,
+        50
+      ],
+      "text": "( 46) There is a great deal of this kind of\n                                                                                  \n           nonsense in the medical journals which, when taken up by broad",
+      "article": "you state your position, formulate an argument for what you claim and honestly\nask yourself whether your argument is any good. Next time you talk with\nsomeone who takes a stand, ask them to give you a reason for their view. Spell\nout their argument fully and charitably. Assess its strength impartially. Raise\nobjections and listen carefully to their replies.\nthem. Like physical fights, verbal fights can leave both sides bloodied. Even\nwhen you win, you end up no better off. Your prospects would be almost as\ndismal if arguments were even just competitions - like, say, tennis games. Pairs\nof opponents hit the ball back and forth until one winner emerges from all who\nentered. Everybody else loses. This kind oft hinking is why so many people try to\navoid arguments, especially about politics and religion.\n\"There is only one way ...t o get the best ofa n argument - and that is to avoid it.\"\nThis aversion to arguments is common, but it depends on a mistaken view of\narguments that causes profound problems for our personal and social lives - and\nin many ways misses the point ofa rguing in the first place.\nfight or competition, you can win by cheating as long as you don't get caught.\nYou will be happy to convince people with bad arguments. You can call their\nviews stupid, or joke about how ignorant they are. None of these tricks will help\nyou understand them, their positions or the issues that divide you, but they can\nhelp you win - in one way.\nminimum wage in our state, and I do not. If you yell, \"Yes,\" and I yell, \"No,\"\nneither of us learns anything. We neither understand nor respect each other, and\nwe have no basis for compromise or cooperation. In contrast, suppose you give a\nreasonable argument: that full-time workers should not have to live in poverty.\nThen I counter with another reasonable argument: that a higher minimum wage\nwill force businesses to employ fewer people for less time. Now we can\nunderstand each other's positions and recognize our shared values, since we both\ncare about needy workers.\nPart C\nIt was only after I started to write a weekly column about the medical journals,\nand began to read scientific papers from beginning to end, that I realised just how bad\nmuch of the medical literature frequently was. I came to recognise various signs of a\nbad paper: the kind ofp aper that purports to show that people who eat more than one\nkilo of broccoli a week were 1.17 times more likely than those who eat less to suffer\nlate in life from pernicious anaemia.",
+      "questions": [
+        {
+          "number": 46,
+          "stem": "There is a great deal of this kind of nonsense in the medical journals which, when taken up by broadcasters and the lay press, generates both health scares and short-lived dietary enthusiasms. Why is so much bad science published? A recent paper, titled \"The Natural Selection of Bad Science\", published on the Royal Society's open science website, attempts to answer this intriguing and important question. It says that the problem is not merely that people do bad science, but that our current system of career advancement positively encourages it. What is important is not truth, but publication, ",
+          "choices": [],
+          "type": "translation"
+        },
+        {
+          "number": 47,
+          "stem": "nowadays anyone applying for a research post has to have published twice the number ofp apers that would have been required for the same post only 10 years ago. Never mind the quality, then, count the number.",
+          "choices": [],
+          "type": "translation"
+        },
+        {
+          "number": 48,
+          "stem": "Attempts have been made to curb this tendency, for example, by trying to incorporate some measure of quality as well as quantity into the assessment of an applicant's papers. This is the famed citation index, that is to say the number of times a paper has been quoted elsewhere in the scientific literature, the assumption being that an important paper will be cited more often than one of small account.",
+          "choices": [],
+          "type": "translation"
+        },
+        {
+          "number": 49,
+          "stem": "This would be reasonable if it were not for the fact that scientists can easily arrange to cite themselves in their future publications, or get associates to do so for them in return for similar favours. Boiling down an individual's output to simple metrics, such as number of publications or journal impacts, entails considerable savings in time, energy and ambiguity. Unfortunately, the long-term costs of using simple quantitative metrics to assess researcher merit are likely to be quite great.",
+          "choices": [],
+          "type": "translation"
+        },
+        {
+          "number": 50,
+          "stem": "If we are serious about ensuring that our science is both meaningful and reproducible, we must ensure that our institutions encourage that kind ofs cience. .13. C-*'-14 Jf)",
+          "choices": [],
+          "type": "translation"
+        }
+      ],
+      "warnings": []
+    },
+    "writing-a": {
+      "name": "A节 应用文写作",
+      "type": "writing_small",
+      "question_range": [
+        51,
+        51
+      ],
+      "text": "51. Directions:                                                        \n              Suppose you are working for the \"Aiding Rural Primary School\" project of your\n                                    ",
+      "article": "you understand them, their positions or the issues that divide you, but they can\nhelp you win - in one way.\nminimum wage in our state, and I do not. If you yell, \"Yes,\" and I yell, \"No,\"\nneither of us learns anything. We neither understand nor respect each other, and\nwe have no basis for compromise or cooperation. In contrast, suppose you give a\nreasonable argument: that full-time workers should not have to live in poverty.\nThen I counter with another reasonable argument: that a higher minimum wage\nwill force businesses to employ fewer people for less time. Now we can\nunderstand each other's positions and recognize our shared values, since we both\ncare about needy workers.\nPart C\nIt was only after I started to write a weekly column about the medical journals,\nand began to read scientific papers from beginning to end, that I realised just how bad\nmuch of the medical literature frequently was. I came to recognise various signs of a\nbad paper: the kind ofp aper that purports to show that people who eat more than one\nkilo of broccoli a week were 1.17 times more likely than those who eat less to suffer\nlate in life from pernicious anaemia. ( 46) There is a great deal of this kind of\nnonsense in the medical journals which, when taken up by broadcasters and the lay\npress, generates both health scares and short-lived dietary enthusiasms.\nWhy is so much bad science published? A recent paper, titled \"The Natural\nSelection of Bad Science\", published on the Royal Society's open science website,\nattempts to answer this intriguing and important question. It says that the problem is\nnot merely that people do bad science, but that our current system of career\nadvancement positively encourages it. What is important is not truth, but publication,\nwhich has become almost an end in itself. There has been a kind of inflationary\nprocess at work: (47) nowadays anyone applying for a research post has to have\npublished twice the number ofp apers that would have been required for the same post\nonly 10 years ago. Never mind the quality, then, count the number.\n( 48) Attempts have been made to curb this tendency, for example, by trying to\nincorporate some measure of quality as well as quantity into the assessment of an\napplicant's papers. This is the famed citation index, that is to say the number of times a\npaper has been quoted elsewhere in the scientific literature, the assumption being that an\nimportant paper will be cited more often than one of small account. (49) This would be\nreasonable if it were not for the fact that scientists can easily arrange to cite themselves in\ntheir future publications, or get associates to do so for them in return for similar favours.\nBoiling down an individual's output to simple metrics, such as number of\npublications or journal impacts, entails considerable savings in time, energy and\nambiguity. Unfortunately, the long-term costs of using simple quantitative metrics to\nassess researcher merit are likely to be quite great. (50) If we are serious about\nensuring that our science is both meaningful and reproducible, we must ensure that\nour institutions encourage that kind ofs cience.\nSection III Writing\nPartA",
+      "questions": [
+        {
+          "number": 51,
+          "stem": "Directions: Suppose you are working for the \"Aiding Rural Primary School\" project of your university. Write an email to answer the inquiry from an international student volunteer, specifying the details oft he project. You should write about 100 words on the ANSWER SHEET. Do not use your own name in the email. Use \"Li Ming\" instead. (10 points) PartB",
+          "choices": [],
+          "type": "writing_small"
+        }
+      ],
+      "warnings": []
+    },
+    "writing-b": {
+      "name": "B节 短文写作",
+      "type": "writing_big",
+      "question_range": [
+        52,
+        52
+      ],
+      "text": "52.Directions:                                                         \n                                                                                  \n              Write an essay of 160-200 words",
+      "article": "ime workers should not have to live in poverty.\nThen I counter with another reasonable argument: that a higher minimum wage\nwill force businesses to employ fewer people for less time. Now we can\nunderstand each other's positions and recognize our shared values, since we both\ncare about needy workers.\nPart C\nIt was only after I started to write a weekly column about the medical journals,\nand began to read scientific papers from beginning to end, that I realised just how bad\nmuch of the medical literature frequently was. I came to recognise various signs of a\nbad paper: the kind ofp aper that purports to show that people who eat more than one\nkilo of broccoli a week were 1.17 times more likely than those who eat less to suffer\nlate in life from pernicious anaemia. ( 46) There is a great deal of this kind of\nnonsense in the medical journals which, when taken up by broadcasters and the lay\npress, generates both health scares and short-lived dietary enthusiasms.\nWhy is so much bad science published? A recent paper, titled \"The Natural\nSelection of Bad Science\", published on the Royal Society's open science website,\nattempts to answer this intriguing and important question. It says that the problem is\nnot merely that people do bad science, but that our current system of career\nadvancement positively encourages it. What is important is not truth, but publication,\nwhich has become almost an end in itself. There has been a kind of inflationary\nprocess at work: (47) nowadays anyone applying for a research post has to have\npublished twice the number ofp apers that would have been required for the same post\nonly 10 years ago. Never mind the quality, then, count the number.\n( 48) Attempts have been made to curb this tendency, for example, by trying to\nincorporate some measure of quality as well as quantity into the assessment of an\napplicant's papers. This is the famed citation index, that is to say the number of times a\npaper has been quoted elsewhere in the scientific literature, the assumption being that an\nimportant paper will be cited more often than one of small account. (49) This would be\nreasonable if it were not for the fact that scientists can easily arrange to cite themselves in\ntheir future publications, or get associates to do so for them in return for similar favours.\nBoiling down an individual's output to simple metrics, such as number of\npublications or journal impacts, entails considerable savings in time, energy and\nambiguity. Unfortunately, the long-term costs of using simple quantitative metrics to\nassess researcher merit are likely to be quite great. (50) If we are serious about\nensuring that our science is both meaningful and reproducible, we must ensure that\nour institutions encourage that kind ofs cience.\nSection III Writing\nPartA\nSuppose you are working for the \"Aiding Rural Primary School\" project of your\nuniversity. Write an email to answer the inquiry from an international student\nvolunteer, specifying the details oft he project.\nDo not use your own name in the email. Use \"Li Ming\" instead. (10 points)\nPartB",
+      "questions": [
+        {
+          "number": 52,
+          "stem": "Directions: Write an essay of 160-200 words based on the picture below. In your essay, you should",
+          "choices": [],
+          "type": "writing_big"
+        }
+      ],
+      "warnings": []
+    }
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "tasks": [
+    {
+      "content_json": {
+        "41": "content_2_2",
+        "42": "content_3_1",
+        "43": "content_4_3",
+        "44": "content_6_2",
+        "45": "content_7_6",
+        "article": "The social sciences are flourishing.\nAs of 2005, there were almost half a million professional social scientists from all fields in the world, working both inside and outside academia.\nAccording to the World Social Science Report 2010, the number of socialscience students worldwide has swollen by about 11% every year since 2000.\nYet this enormous resource is not contributing enough to today’s global challenges, including climate change, security, sustainable development and health.\nHumanity has the necessary agro-technological tools to eradicate hunger, from genetically engineered crops to artificial fertilizers.\nHere, too, the problems are social: the organization and distribution of food, wealth and prosperity.\nThis is a shame — the community should be grasping the opportunity to raise its influence in the real world.\nTo paraphrase the great social scientist Joseph Schumpeter: there is no radical innovation without creative destruction.\nToday, the social sciences are largely focused on disciplinary problems and internal scholarly debates, rather than on topics with external impact.\nAnalyses reveal that the number of papers including the keywords “environmental change” or “climate change” has increased rapidly since 2004.\nWhen social scientists do tackle practical issues, their scope is often local: Belgium is interested mainly in the effects of poverty on Belgium, for example.\nAnd whether the community’s work contributes much to an overall accumulation of knowledge is doubtful.\nThe problem is not necessarily the amount of available funding.\nThis is an adequate amount so long as it is aimed in the right direction.\nSocial scientists who complain about a lack of funding should not expect more in today’s economic climate.\nThe trick is to direct these funds better.\nThe European Union Framework funding programs have long had a category specifically targeted at social scientists.\nThis year, it was proposed that the system be changed: Horizon 2020, a new program to be enacted in 2014, would not have such a category.\nThis has resulted in protests from social scientists.\nBut the intention is not to neglect social science; rather, the complete opposite.\nThat should create more collaborative endeavors and help to develop projects aimed directly at solving global problems.",
+        "article_html": "<p>The social sciences are flourishing. As of 2005, there were almost half a million professional social scientists from all fields in the world, working both inside and outside academia. According to the <em>World Social Science Report</em> 2010, the number of socialscience students worldwide has swollen by about 11% every year since 2000.</p>\n<p>Yet this enormous resource is not contributing enough to today’s global challenges, including climate change, security, sustainable development and health. Humanity has the necessary agro-technological tools to eradicate hunger, from genetically engineered crops to artificial fertilizers. Here, too, the problems are social: the organization and distribution of food, wealth and prosperity.</p>\n<p>This is a shame — the community should be grasping the opportunity to raise its influence in the real world. To paraphrase the great social scientist Joseph Schumpeter: there is no radical innovation without creative destruction.</p>\n<p>Today, the social sciences are largely focused on disciplinary problems and internal scholarly debates, rather than on topics with external impact. Analyses reveal that the number of papers including the keywords “environmental change” or “climate change” has increased rapidly since 2004.</p>\n<p>When social scientists do tackle practical issues, their scope is often local: Belgium is interested mainly in the effects of poverty on Belgium, for example. And whether the community’s work contributes much to an overall accumulation of knowledge is doubtful.</p>\n<p>The problem is not necessarily the amount of available funding. This is an adequate amount so long as it is aimed in the right direction. Social scientists who complain about a lack of funding should not expect more in today’s economic climate.</p>\n<p>The trick is to direct these funds better. The European Union Framework funding programs have long had a category specifically targeted at social scientists. This year, it was proposed that the system be changed: Horizon 2020, a new program to be enacted in 2014, would not have such a category. This has resulted in protests from social scientists. But the intention is not to neglect social science; rather, the complete opposite. That should create more collaborative endeavors and help to develop projects aimed directly at solving global problems.</p>",
+        "blanks": [
+          {
+            "blank_no": 41,
+            "block_position": "replace_whole",
+            "content_order_seq": "content_2_2",
+            "mode": "block"
+          },
+          {
+            "blank_no": 42,
+            "block_position": "replace_whole",
+            "content_order_seq": "content_3_1",
+            "mode": "block"
+          },
+          {
+            "blank_no": 43,
+            "block_position": "replace_whole",
+            "content_order_seq": "content_4_3",
+            "mode": "block"
+          },
+          {
+            "blank_no": 44,
+            "block_position": "replace_whole",
+            "content_order_seq": "content_6_2",
+            "mode": "block"
+          },
+          {
+            "blank_no": 45,
+            "block_position": "replace_whole",
+            "content_order_seq": "content_7_6",
+            "mode": "block"
+          }
+        ],
+        "option_labels": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ],
+        "questions": [
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "E",
+            "id": 41,
+            "qid": 2013011041,
+            "text": "Question 41",
+            "text_tokens": []
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "F",
+            "id": 42,
+            "qid": 2013011042,
+            "text": "Question 42",
+            "text_tokens": []
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "B",
+            "id": 43,
+            "qid": 2013011043,
+            "text": "Question 43",
+            "text_tokens": []
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "G",
+            "id": 44,
+            "qid": 2013011044,
+            "text": "Question 44",
+            "text_tokens": []
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "C",
+            "id": 45,
+            "qid": 2013011045,
+            "text": "Question 45",
+            "text_tokens": []
+          }
+        ],
+        "rich_text_marks": {
+          "2013013197": [
+            {
+              "end": 44,
+              "start": 17,
+              "tag": "em"
+            }
+          ]
+        }
+      },
+      "directions": "In the following text, some sentences have been removed. For Questions 41-45, choose\nthe most suitable one from the list A-G to fit into each of the numbered blanks. There are\ntwo extra choices, which do not fit in any of the blanks. Mark your answers on the\nANSWER SHEET. (10 points)",
+      "exam_info": "2013(1)",
+      "exam_type": "kaoyan",
+      "id": 201301006,
+      "key_words": "social content scientists change climate funding problems today world block question replace whole aimed amount belgium category community global including long more number rather science sciences since year academia according accumulation adequate agro all almost analyses artificial available better blanks both challenges changed collaborative complain complete contributes contributing create creative crops debates destruction develop development direct direction directly disciplinary distribution doubtful economic effects enacted endeavors engineered enormous enough environmental eradicate european every example expect external fertilizers fields fit flourishing focused",
+      "kid": 2,
+      "part": "Part III",
+      "section": "Sec B",
+      "task_key": "2013(1)_Section II_Part B",
+      "type": "Reading Comprehension"
+    }
+  ]
+}

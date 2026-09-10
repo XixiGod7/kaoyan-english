@@ -1,0 +1,122 @@
+{
+  "tasks": [
+    {
+      "content_json": {
+        "41": "content_2_1",
+        "42": "content_4_1",
+        "43": "content_6_1",
+        "44": "content_8_1",
+        "45": "content_10_1",
+        "article": "In a social situation, eye contact with another person can show that you are paying attention in a friendly way.\nBut it can also be antagonistic, such as when a political candidate turns toward their competitor during a debate and makes eye contact that signals hostility.\nHere’s what hard science reveals about eye contact:\nWe know that a typical infant will instinctively gaze into its mother’s eyes, and she will look back.\nThis mutual gaze is a major part of the attachment between mother and child.\nIn adulthood, looking at someone else in a pleasant way can be a complimentary sign of paying attention.\nIt can catch someone’s attention in a crowded room. “Eye contact and smiles” can signal availability and confidence, a common-sense notion supported in studies by psychologist Monica Moore.\nNeuroscientist Bonnie Auyeung found that the hormone oxytocin increased the amount of eye contact from men toward the interviewer during a brief interview when the direction of their gaze was recorded.\nThis was also found in high-functioning men with some autistic spectrum symptoms, who may tend to avoid eye contact.\nSpecific brain regions that respond during direct gaze are being explored by other researchers, using advanced methods of brain scanning.\nWith the use of eye-tracking technology, Julia Minson of the Harvard Kennedy School of Government concluded that eye contact can signal very different kinds of messages, depending on the situation.\nWhile eye contact may be a sign of connection or trust in friendly situations, it’s more likely to be associated with dominance or intimidation in adversarial situations. “Whether you’re a politician or a parent, it might be helpful to keep in mind that trying to maintain eye contact may backfire if you’re trying to convince someone who has a different set of beliefs than you,” said Minson.\nWhen we look at a face or a picture, our eyes pause on one spot at a time, often on the eyes or mouth.\nThese pauses typically occur at about three per second, and the eyes then jump to another spot, until several important points in the image are registered like a series of snapshots.\nHow the whole image is then assembled and perceived is still a mystery although it is the subject of current research.\nIn people who score high in a test of neuroticism, a personality dimension associated with self-consciousness and anxiety, eye contact triggered more activity associated with avoidance, according to the Finnish researcher Jari Hietanen and colleagues. “Our findings indicate that people do not only feel different when they are the centre of attention but that their brain reactions also differ.”\nA more direct finding is that people who scored high for negative emotions like anxiety looked at others for shorter periods of time and reported more comfortable feelings when others did not look directly at them.",
+        "blanks": [
+          {
+            "blank_no": 41,
+            "block_position": "replace_whole",
+            "content_order_seq": "content_2_1",
+            "mode": "block"
+          },
+          {
+            "blank_no": 42,
+            "block_position": "replace_whole",
+            "content_order_seq": "content_4_1",
+            "mode": "block"
+          },
+          {
+            "blank_no": 43,
+            "block_position": "replace_whole",
+            "content_order_seq": "content_6_1",
+            "mode": "block"
+          },
+          {
+            "blank_no": 44,
+            "block_position": "replace_whole",
+            "content_order_seq": "content_8_1",
+            "mode": "block"
+          },
+          {
+            "blank_no": 45,
+            "block_position": "replace_whole",
+            "content_order_seq": "content_10_1",
+            "mode": "block"
+          }
+        ],
+        "option_labels": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ],
+        "questions": [
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "C",
+            "id": 41,
+            "qid": 2020011041,
+            "text": "Question 41",
+            "text_tokens": []
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "E",
+            "id": 42,
+            "qid": 2020011042,
+            "text": "Question 42",
+            "text_tokens": []
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "G",
+            "id": 43,
+            "qid": 2020011043,
+            "text": "Question 43",
+            "text_tokens": []
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "A",
+            "id": 44,
+            "qid": 2020011044,
+            "text": "Question 44",
+            "text_tokens": []
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "D",
+            "id": 45,
+            "qid": 2020011045,
+            "text": "Question 45",
+            "text_tokens": []
+          }
+        ]
+      },
+      "directions": "Read the following text and answer the questions by choosing the most suitable\nsubheading from the list A-G for each of the numbered paragraphs (41-45). There are\ntwo extra subheadings which you do not need to use. Mark your answers on the\nANSWER SHEET. (10 points)",
+      "exam_info": "2020(1)",
+      "exam_type": "kaoyan",
+      "id": 202001006,
+      "key_words": "eye contact content whole block question replace attention eyes gaze more associated brain different during high look may people someone another answer anxiety direct found friendly image like men minson mother others our paying points sign signal situation situations spot time toward trying use way according activity adulthood advanced adversarial although amount answers antagonistic assembled attachment autistic auyeung availability avoid avoidance back backfire beliefs between bonnie brief candidate catch centre child choosing colleagues comfortable common competitor complimentary concluded confidence connection",
+      "kid": 5,
+      "part": "Part III",
+      "section": "Sec B",
+      "task_key": "2020(1)_Section II_Part B",
+      "type": "Reading Comprehension"
+    }
+  ]
+}

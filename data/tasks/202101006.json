@@ -1,0 +1,184 @@
+{
+  "tasks": [
+    {
+      "content_json": {
+        "41": {
+          "replace": {
+            "end": 125,
+            "start": 14
+          },
+          "sentence_id": 2021013187
+        },
+        "42": "content_6_4",
+        "43": {
+          "replace": {
+            "end": 184,
+            "start": 16
+          },
+          "sentence_id": 2021013200
+        },
+        "44": "content_10_3",
+        "45": {
+          "replace": {
+            "end": 108,
+            "start": 1
+          },
+          "sentence_id": 2021013208
+        },
+        "article": "In the movies and on television, artificial intelligence (AI) is typically depicted as something sinister that will upend our way of life.\nWhen it comes to AI in business, we often hear about it in relation to automation and the impending loss of jobs, but in what ways is AI changing companies and the larger economy that don’t involve doom-andgloom mass unemployment predictions?\nA recent survey of manufacturing and service industries from Tata Consultancy Services found that companies currently use AI more often in computer-to-computer activities than in automating human activities.\nHere are a few ways AI is aiding companies without replacing employees:\nBetter hiring practices\nCompanies are using artificial intelligence to remove some of the unconscious bias from hiring decisions.\n“There are experiments that show that, naturally, the results of interviews are much more biased than what AI does,” says Pedro Domingos, author of The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World and a computer science professor at the University of Washington.\nIn addition, “_______________________________________________________________________________________________________________”\nOne company that’s doing this is called Blendoor.\nIt uses analytics to help identify where there may be bias in the hiring process.\nMore effective marketing\nSome AI software can analyze and optimize marketing email subject lines to increase open rates.\nOne company in the UK, Phrasee, claims their software can outperform humans by up to 10 percent when it comes to email open rates.\nThis can mean millions more in revenue.\nThese are “tools that help people use data, not a replacement for people,” says Patrick H. Winston, a professor of artificial intelligence and computer science at MIT.\nSaving customers money\nEnergy companies can use AI to help customers reduce their electricity bills, saving them money while helping the environment.\nCompanies can also optimize their own energy use and cut down on the cost of electricity.\nInsurance companies, meanwhile, can base their premiums on AI models that more accurately assess risk.\nDomingos says, “________________________________________________________________________________________________________________________________________________________________________”\nImproved accuracy\n“Machine learning often provides a more reliable form of statistics, which makes data more valuable,” says Winston.\nIt “helps people make smarter decisions.”\nProtecting and maintaining infrastructure\nA number of companies, particularly in energy and transportation, use AI image processing technology to inspect infrastructure and prevent equipment failure or leaks before they happen.\n“If they fail first and then you fix them, it’s very expensive,” says Domingos.\n“___________________________________________________________________________________________________________”",
+        "article_html": "<p>In the movies and on television, artificial intelligence (AI) is typically depicted as something sinister that will upend our way of life. When it comes to AI in business, we often hear about it in relation to automation and the impending loss of jobs, but in what ways is AI changing companies and the larger economy that don’t involve doom-andgloom mass unemployment predictions?</p>\n<p>A recent survey of manufacturing and service industries from Tata Consultancy Services found that companies currently use AI more often in computer-to-computer activities than in automating human activities. Here are a few ways AI is aiding companies without replacing employees:</p>\n<p><strong>Better hiring practices</strong></p>\n<p>Companies are using artificial intelligence to remove some of the unconscious bias from hiring decisions. “There are experiments that show that, naturally, the results of interviews are much more biased than what AI does,” says Pedro Domingos, author of The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World and a computer science professor at the University of Washington. In addition, “_______________________________________________________________________________________________________________” One company that’s doing this is called Blendoor. It uses analytics to help identify where there may be bias in the hiring process.</p>\n<p><strong>More effective marketing</strong></p>\n<p>Some AI software can analyze and optimize marketing email subject lines to increase open rates. One company in the UK, Phrasee, claims their software can outperform humans by up to 10 percent when it comes to email open rates. This can mean millions more in revenue. These are “tools that help people use data, not a replacement for people,” says Patrick H. Winston, a professor of artificial intelligence and computer science at MIT.</p>\n<p><strong>Saving customers money</strong></p>\n<p>Energy companies can use AI to help customers reduce their electricity bills, saving them money while helping the environment. Companies can also optimize their own energy use and cut down on the cost of electricity. Insurance companies, meanwhile, can base their premiums on AI models that more accurately assess risk. Domingos says, “________________________________________________________________________________________________________________________________________________________________________”</p>\n<p><strong>Improved accuracy</strong></p>\n<p>“Machine learning often provides a more reliable form of statistics, which makes data more valuable,” says Winston. It “helps people make smarter decisions.”</p>\n<p><strong>Protecting and maintaining infrastructure</strong></p>\n<p>A number of companies, particularly in energy and transportation, use AI image processing technology to inspect infrastructure and prevent equipment failure or leaks before they happen. “If they fail first and then you fix them, it’s very expensive,” says Domingos. “___________________________________________________________________________________________________________”</p>",
+        "blanks": [
+          {
+            "blank_no": 41,
+            "replace": {
+              "end": 125,
+              "start": 14
+            },
+            "sentence_id": 2021013187
+          },
+          {
+            "blank_no": 42,
+            "block_position": "replace_whole",
+            "content_order_seq": "content_6_4",
+            "mode": "block"
+          },
+          {
+            "blank_no": 43,
+            "replace": {
+              "end": 184,
+              "start": 16
+            },
+            "sentence_id": 2021013200
+          },
+          {
+            "blank_no": 44,
+            "block_position": "replace_whole",
+            "content_order_seq": "content_10_3",
+            "mode": "block"
+          },
+          {
+            "blank_no": 45,
+            "replace": {
+              "end": 108,
+              "start": 1
+            },
+            "sentence_id": 2021013208
+          }
+        ],
+        "option_labels": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ],
+        "questions": [
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "F",
+            "id": 41,
+            "qid": 2021011041,
+            "text": "Question 41",
+            "text_tokens": []
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "B",
+            "id": 42,
+            "qid": 2021011042,
+            "text": "Question 42",
+            "text_tokens": []
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "G",
+            "id": 43,
+            "qid": 2021011043,
+            "text": "Question 43",
+            "text_tokens": []
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "C",
+            "id": 44,
+            "qid": 2021011044,
+            "text": "Question 44",
+            "text_tokens": []
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "E",
+            "id": 45,
+            "qid": 2021011045,
+            "text": "Question 45",
+            "text_tokens": []
+          }
+        ],
+        "rich_text_marks": {
+          "2021013184": [
+            {
+              "end": 23,
+              "start": 0,
+              "tag": "strong"
+            }
+          ],
+          "2021013190": [
+            {
+              "end": 24,
+              "start": 0,
+              "tag": "strong"
+            }
+          ],
+          "2021013196": [
+            {
+              "end": 22,
+              "start": 0,
+              "tag": "strong"
+            }
+          ],
+          "2021013201": [
+            {
+              "end": 17,
+              "start": 0,
+              "tag": "strong"
+            }
+          ],
+          "2021013205": [
+            {
+              "end": 41,
+              "start": 0,
+              "tag": "strong"
+            }
+          ]
+        }
+      },
+      "directions": "In the following text, some sentences have been removed. For Questions 41-45, choose\nthe most suitable one from the list A-G to fit into each of the numbered blanks. There are\ntwo extra choices, which do not fit in any of the blanks. Mark your answers on the\nANSWER SHEET. (10 points).",
+      "exam_info": "2021(1)",
+      "exam_type": "kaoyan",
+      "id": 202101006,
+      "key_words": "companies strong more says use computer artificial domingos energy help hiring intelligence often people one question some activities bias comes company content customers data decisions electricity email infrastructure learning machine marketing money open optimize our professor rates saving science software ways winston accuracy accurately addition aiding algorithm analytics analyze andgloom assess author automating automation base before better biased bills blanks blendoor block business called changing claims consultancy cost currently cut depicted does doing don doom down economy effective employees environment",
+      "kid": 10,
+      "part": "Part III",
+      "section": "Sec B",
+      "task_key": "2021(1)_Section II_Part B",
+      "type": "Reading Comprehension"
+    }
+  ]
+}

@@ -1,0 +1,1795 @@
+{
+  "tasks": [
+    {
+      "content_json": {
+        "1": {
+          "A": "pauses",
+          "B": "returns",
+          "C": "peaks",
+          "D": "fades",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "pause",
+                "surface": "pauses"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "return",
+                "surface": "returns"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "peak",
+                "surface": "peaks"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "fade",
+                "surface": "fades"
+              }
+            ]
+          },
+          "replace": {
+            "end": 8,
+            "start": 3
+          },
+          "sentence_id": 2021013002
+        },
+        "2": {
+          "A": "alternatively",
+          "B": "formally",
+          "C": "accidentally",
+          "D": "generally",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "alternative",
+                "surface": "alternatively"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "formal",
+                "surface": "formally"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "accidentally",
+                "surface": "accidentally"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "general",
+                "surface": "generally"
+              }
+            ]
+          },
+          "replace": {
+            "end": 80,
+            "start": 71
+          },
+          "sentence_id": 2021013002
+        },
+        "3": {
+          "A": "while",
+          "B": "since",
+          "C": "once",
+          "D": "until",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "while",
+                "surface": "while"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "since",
+                "surface": "since"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "once",
+                "surface": "once"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "until",
+                "surface": "until"
+              }
+            ]
+          },
+          "replace": {
+            "end": 9,
+            "start": 4
+          },
+          "sentence_id": 2021013003
+        },
+        "4": {
+          "A": "detection",
+          "B": "accumulation",
+          "C": "consumption",
+          "D": "separation",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "detection",
+                "surface": "detection"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "accumulation",
+                "surface": "accumulation"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "consumption",
+                "surface": "consumption"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "separation",
+                "surface": "separation"
+              }
+            ]
+          },
+          "replace": {
+            "end": 53,
+            "start": 41
+          },
+          "sentence_id": 2021013004
+        },
+        "5": {
+          "A": "possibility",
+          "B": "decision",
+          "C": "goal",
+          "D": "requirement",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "possibility",
+                "surface": "possibility"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "decision",
+                "surface": "decision"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "goal",
+                "surface": "goal"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "requirement",
+                "surface": "requirement"
+              }
+            ]
+          },
+          "replace": {
+            "end": 29,
+            "start": 18
+          },
+          "sentence_id": 2021013005
+        },
+        "6": {
+          "A": "delay",
+          "B": "ensure",
+          "C": "seek",
+          "D": "utilize",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "delay",
+                "surface": "delay"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "ensure",
+                "surface": "ensure"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "seek",
+                "surface": "seek"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "utilize",
+                "surface": "utilize"
+              }
+            ]
+          },
+          "replace": {
+            "end": 80,
+            "start": 75
+          },
+          "sentence_id": 2021013005
+        },
+        "7": {
+          "A": "modified",
+          "B": "supported",
+          "C": "included",
+          "D": "predicted",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "modify",
+                "surface": "modified"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "support",
+                "surface": "supported"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "include",
+                "surface": "included"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "predict",
+                "surface": "predicted"
+              }
+            ]
+          },
+          "replace": {
+            "end": 44,
+            "start": 36
+          },
+          "sentence_id": 2021013006
+        },
+        "8": {
+          "A": "devoted",
+          "B": "compared",
+          "C": "converted",
+          "D": "applied",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "devote",
+                "surface": "devoted"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "compare",
+                "surface": "compared"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "convert",
+                "surface": "converted"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "apply",
+                "surface": "applied"
+              }
+            ]
+          },
+          "replace": {
+            "end": 159,
+            "start": 151
+          },
+          "sentence_id": 2021013006
+        },
+        "9": {
+          "A": "with",
+          "B": "above",
+          "C": "by",
+          "D": "against",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "with",
+                "surface": "with"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "above",
+                "surface": "above"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "by",
+                "surface": "by"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "against",
+                "surface": "against"
+              }
+            ]
+          },
+          "replace": {
+            "end": 39,
+            "start": 35
+          },
+          "sentence_id": 2021013007
+        },
+        "10": {
+          "A": "lived",
+          "B": "managed",
+          "C": "scored",
+          "D": "played",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "live",
+                "surface": "lived"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "manage",
+                "surface": "managed"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "score",
+                "surface": "scored"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "play",
+                "surface": "played"
+              }
+            ]
+          },
+          "replace": {
+            "end": 79,
+            "start": 73
+          },
+          "sentence_id": 2021013007
+        },
+        "11": {
+          "A": "ran out",
+          "B": "set off",
+          "C": "drew in",
+          "D": "went by",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "run",
+                "surface": "ran"
+              },
+              {
+                "lemma": "out",
+                "surface": "out"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "set",
+                "surface": "set"
+              },
+              {
+                "lemma": "off",
+                "surface": "off"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "draw",
+                "surface": "drew"
+              },
+              {
+                "lemma": "in",
+                "surface": "in"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "go",
+                "surface": "went"
+              },
+              {
+                "lemma": "by",
+                "surface": "by"
+              }
+            ]
+          },
+          "replace": {
+            "end": 140,
+            "start": 133
+          },
+          "sentence_id": 2021013007
+        },
+        "12": {
+          "A": "superior",
+          "B": "attributable",
+          "C": "parallel",
+          "D": "resistant",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "superior",
+                "surface": "superior"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "attributable",
+                "surface": "attributable"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "parallel",
+                "surface": "parallel"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "resistant",
+                "surface": "resistant"
+              }
+            ]
+          },
+          "replace": {
+            "end": 46,
+            "start": 34
+          },
+          "sentence_id": 2021013008
+        },
+        "13": {
+          "A": "restored",
+          "B": "isolated",
+          "C": "involved",
+          "D": "controlled",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "restore",
+                "surface": "restored"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "isolate",
+                "surface": "isolated"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "involve",
+                "surface": "involved"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "control",
+                "surface": "controlled"
+              }
+            ]
+          },
+          "replace": {
+            "end": 166,
+            "start": 158
+          },
+          "sentence_id": 2021013008
+        },
+        "14": {
+          "A": "alter",
+          "B": "spread",
+          "C": "remove",
+          "D": "explain",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "alter",
+                "surface": "alter"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "spread",
+                "surface": "spread"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "remove",
+                "surface": "remove"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "explain",
+                "surface": "explain"
+              }
+            ]
+          },
+          "replace": {
+            "end": 45,
+            "start": 38
+          },
+          "sentence_id": 2021013009
+        },
+        "15": {
+          "A": "compensations",
+          "B": "symptoms",
+          "C": "demands",
+          "D": "treatments",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "compensation",
+                "surface": "compensations"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "symptom",
+                "surface": "symptoms"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "demand",
+                "surface": "demands"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "treatment",
+                "surface": "treatments"
+              }
+            ]
+          },
+          "replace": {
+            "end": 104,
+            "start": 94
+          },
+          "sentence_id": 2021013009
+        },
+        "16": {
+          "A": "Likewise",
+          "B": "Meanwhile",
+          "C": "Therefore",
+          "D": "Instead",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "likewise",
+                "surface": "Likewise"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "meanwhile",
+                "surface": "Meanwhile"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "therefore",
+                "surface": "Therefore"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "instead",
+                "surface": "Instead"
+              }
+            ]
+          },
+          "replace": {
+            "end": 9,
+            "start": 0
+          },
+          "sentence_id": 2021013010
+        },
+        "17": {
+          "A": "change",
+          "B": "watch",
+          "C": "count",
+          "D": "take",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "change",
+                "surface": "change"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "watch",
+                "surface": "watch"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "count",
+                "surface": "count"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "take",
+                "surface": "take"
+              }
+            ]
+          },
+          "replace": {
+            "end": 39,
+            "start": 35
+          },
+          "sentence_id": 2021013010
+        },
+        "18": {
+          "A": "wellbeing",
+          "B": "process",
+          "C": "formation",
+          "D": "coordination",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "wellbeing",
+                "surface": "wellbeing"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "process",
+                "surface": "process"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "formation",
+                "surface": "formation"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "coordination",
+                "surface": "coordination"
+              }
+            ]
+          },
+          "replace": {
+            "end": 169,
+            "start": 160
+          },
+          "sentence_id": 2021013010
+        },
+        "19": {
+          "A": "level",
+          "B": "love",
+          "C": "knowledge",
+          "D": "space",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "level",
+                "surface": "level"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "love",
+                "surface": "love"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "knowledge",
+                "surface": "knowledge"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "space",
+                "surface": "space"
+              }
+            ]
+          },
+          "replace": {
+            "end": 88,
+            "start": 83
+          },
+          "sentence_id": 2021013011
+        },
+        "20": {
+          "A": "design",
+          "B": "routine",
+          "C": "diet",
+          "D": "prescription",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "design",
+                "surface": "design"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "routine",
+                "surface": "routine"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "diet",
+                "surface": "diet"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "prescription",
+                "surface": "prescription"
+              }
+            ]
+          },
+          "replace": {
+            "end": 149,
+            "start": 145
+          },
+          "sentence_id": 2021013011
+        },
+        "article": "Fluid intelligence is the type of intelligence that has to do with short-term memory and the ability to think quickly, logically, and abstractly in order to solve new problems.\nIt peaks in young adulthood, levels out for a period of time, and then generally starts to slowly decline as we age.\nBut while aging is inevitable, scientists are finding out that certain changes in brain function may not be.\nOne study found that muscle loss and the accumulation of body fat around the abdomen are associated with a decline in fluid intelligence.\nThis suggests the possibility that lifestyle factors might help prevent or delay this type of decline.\nThe researchers looked at data that included measurements of lean muscle and abdominal fat from more than 4,000 middle-to-older-aged men and women and compared that data to reported changes in fluid intelligence over a six-year period.\nThey found that middle-aged people with higher measures of abdominal fat scored worse on measures of fluid intelligence as the years went by.\nFor women, the association may be attributable to changes in immunity that resulted from excess abdominal fat; in men, the immune system did not appear to be involved.\nIt is hoped that future studies could explain these differences and perhaps lead to different treatments for men and women.\nMeanwhile, there are steps you can take to help reduce abdominal fat and maintain lean muscle mass as you age in order to protect both your physical and mental wellbeing.\nThe two highly recommended lifestyle approaches are maintaining or increasing your level of aerobic exercise and following a Mediterranean-style diet that is high in fiber and eliminates highly processed foods.",
+        "blanks": [
+          {
+            "blank_no": 1,
+            "replace": {
+              "end": 8,
+              "start": 3
+            },
+            "sentence_id": 2021013002
+          },
+          {
+            "blank_no": 2,
+            "replace": {
+              "end": 80,
+              "start": 71
+            },
+            "sentence_id": 2021013002
+          },
+          {
+            "blank_no": 3,
+            "replace": {
+              "end": 9,
+              "start": 4
+            },
+            "sentence_id": 2021013003
+          },
+          {
+            "blank_no": 4,
+            "replace": {
+              "end": 53,
+              "start": 41
+            },
+            "sentence_id": 2021013004
+          },
+          {
+            "blank_no": 5,
+            "replace": {
+              "end": 29,
+              "start": 18
+            },
+            "sentence_id": 2021013005
+          },
+          {
+            "blank_no": 6,
+            "replace": {
+              "end": 80,
+              "start": 75
+            },
+            "sentence_id": 2021013005
+          },
+          {
+            "blank_no": 7,
+            "replace": {
+              "end": 44,
+              "start": 36
+            },
+            "sentence_id": 2021013006
+          },
+          {
+            "blank_no": 8,
+            "replace": {
+              "end": 159,
+              "start": 151
+            },
+            "sentence_id": 2021013006
+          },
+          {
+            "blank_no": 9,
+            "replace": {
+              "end": 39,
+              "start": 35
+            },
+            "sentence_id": 2021013007
+          },
+          {
+            "blank_no": 10,
+            "replace": {
+              "end": 79,
+              "start": 73
+            },
+            "sentence_id": 2021013007
+          },
+          {
+            "blank_no": 11,
+            "replace": {
+              "end": 140,
+              "start": 133
+            },
+            "sentence_id": 2021013007
+          },
+          {
+            "blank_no": 12,
+            "replace": {
+              "end": 46,
+              "start": 34
+            },
+            "sentence_id": 2021013008
+          },
+          {
+            "blank_no": 13,
+            "replace": {
+              "end": 166,
+              "start": 158
+            },
+            "sentence_id": 2021013008
+          },
+          {
+            "blank_no": 14,
+            "replace": {
+              "end": 45,
+              "start": 38
+            },
+            "sentence_id": 2021013009
+          },
+          {
+            "blank_no": 15,
+            "replace": {
+              "end": 104,
+              "start": 94
+            },
+            "sentence_id": 2021013009
+          },
+          {
+            "blank_no": 16,
+            "replace": {
+              "end": 9,
+              "start": 0
+            },
+            "sentence_id": 2021013010
+          },
+          {
+            "blank_no": 17,
+            "replace": {
+              "end": 39,
+              "start": 35
+            },
+            "sentence_id": 2021013010
+          },
+          {
+            "blank_no": 18,
+            "replace": {
+              "end": 169,
+              "start": 160
+            },
+            "sentence_id": 2021013010
+          },
+          {
+            "blank_no": 19,
+            "replace": {
+              "end": 88,
+              "start": 83
+            },
+            "sentence_id": 2021013011
+          },
+          {
+            "blank_no": 20,
+            "replace": {
+              "end": 149,
+              "start": 145
+            },
+            "sentence_id": 2021013011
+          }
+        ],
+        "questions": [
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，句子描述了流体智力在年轻成年期达到顶峰，然后保持稳定，最后随着年龄增长而下降。选项 C 'peaks'（达到顶峰）最符合语境。\nA. ‘pauses’表示暂停，与流体智力的变化趋势不符，因此不合适。\nB. ‘returns’表示返回，与流体智力的描述不符，因此不合适。\nC. ‘peaks’表示达到顶峰，符合流体智力在年轻成年期达到最高点的描述，因此最合适。\nD. ‘fades’表示逐渐消失，与句中描述的流体智力的变化趋势不符，因此不合适。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "C",
+            "id": 1,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "pause",
+                  "surface": "pauses"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "return",
+                  "surface": "returns"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "peak",
+                  "surface": "peaks"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "fade",
+                  "surface": "fades"
+                }
+              ]
+            },
+            "options": [
+              "A) pauses",
+              "B) returns",
+              "C) peaks",
+              "D) fades"
+            ],
+            "qid": 2021011001,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，句子描述了流体智力的变化趋势，‘generally’（通常）符合句子描述的普遍规律。\nA. ‘alternatively’表示替代性，与句子描述的普遍规律不符，因此不合适。\nB. ‘formally’表示正式地，与句子描述的流体智力变化趋势无关，因此不合适。\nC. ‘accidentally’表示偶然地，与句子描述的普遍规律不符，因此不合适。\nD. ‘generally’表示通常，符合句子描述的普遍规律，因此最合适。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "D",
+            "id": 2,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "alternative",
+                  "surface": "alternatively"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "formal",
+                  "surface": "formally"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "accidentally",
+                  "surface": "accidentally"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "general",
+                  "surface": "generally"
+                }
+              ]
+            },
+            "options": [
+              "A) alternatively",
+              "B) formally",
+              "C) accidentally",
+              "D) generally"
+            ],
+            "qid": 2021011002,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，‘while’（尽管）表示转折，符合句子中衰老不可避免但脑功能变化可能并非如此的逻辑关系。\nA. ‘while’表示尽管，符合句子中转折关系，因此最合适。\nB. ‘since’表示因为，与句子逻辑不符，因此不合适。\nC. ‘once’表示一旦，与句子逻辑不符，因此不合适。\nD. ‘until’表示直到，与句子逻辑不符，因此不合适。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "A",
+            "id": 3,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "while",
+                  "surface": "while"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "since",
+                  "surface": "since"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "once",
+                  "surface": "once"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "until",
+                  "surface": "until"
+                }
+              ]
+            },
+            "options": [
+              "A) while",
+              "B) since",
+              "C) once",
+              "D) until"
+            ],
+            "qid": 2021011003,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，‘accumulation’（积累）符合句子描述的腹部脂肪的增加，与流体智力下降的关联。\nA. ‘detection’表示检测，与句子描述的脂肪增加不符，因此不合适。\nB. ‘accumulation’表示积累，符合句子描述的脂肪增加，因此最合适。\nC. ‘consumption’表示消耗，与句子描述的脂肪增加不符，因此不合适。\nD. ‘separation’表示分离，与句子描述的脂肪增加不符，因此不合适。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "B",
+            "id": 4,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "detection",
+                  "surface": "detection"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "accumulation",
+                  "surface": "accumulation"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "consumption",
+                  "surface": "consumption"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "separation",
+                  "surface": "separation"
+                }
+              ]
+            },
+            "options": [
+              "A) detection",
+              "B) accumulation",
+              "C) consumption",
+              "D) separation"
+            ],
+            "qid": 2021011004,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，句子讨论了生活方式因素可能对衰退的影响，‘possibility’（可能性）最符合语境。\nA. ‘possibility’表示可能性，与句子中讨论的生活方式因素可能帮助预防或延缓衰退的主题一致，因此最合适。\nB. ‘decision’表示决定，与句子讨论的主题不符，无法表达生活方式因素的潜在影响。\nC. ‘goal’表示目标，与句子讨论的可能性主题不符。\nD. ‘requirement’表示需求，与句子讨论的可能性主题不符。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "A",
+            "id": 5,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "possibility",
+                  "surface": "possibility"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "decision",
+                  "surface": "decision"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "goal",
+                  "surface": "goal"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "requirement",
+                  "surface": "requirement"
+                }
+              ]
+            },
+            "options": [
+              "A) possibility",
+              "B) decision",
+              "C) goal",
+              "D) requirement"
+            ],
+            "qid": 2021011005,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "‘delay’（延缓）符合语境，讨论了生活方式因素可能帮助延缓衰退。\nA. ‘delay’表示延缓，与句子中讨论的生活方式因素可能帮助延缓衰退的主题一致，因此最合适。\nB. ‘ensure’表示确保，与句子讨论的主题不符，无法表达延缓衰退的意思。\nC. ‘seek’表示寻找，与句子讨论的主题不符。\nD. ‘utilize’表示利用，与句子讨论的主题不符。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "A",
+            "id": 6,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "delay",
+                  "surface": "delay"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "ensure",
+                  "surface": "ensure"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "seek",
+                  "surface": "seek"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "utilize",
+                  "surface": "utilize"
+                }
+              ]
+            },
+            "options": [
+              "A) delay",
+              "B) ensure",
+              "C) seek",
+              "D) utilize"
+            ],
+            "qid": 2021011006,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "‘included’（包含）最符合语境，描述数据中包含的内容。\nA. ‘modified’表示修改，与句子讨论的数据内容不符。\nB. ‘supported’表示支持，与句子讨论的数据内容不符。\nC. ‘included’表示包含，符合句子中数据包含测量内容的语境，因此最合适。\nD. ‘predicted’表示预测，与句子讨论的数据内容不符。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "C",
+            "id": 7,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "modify",
+                  "surface": "modified"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "support",
+                  "surface": "supported"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "include",
+                  "surface": "included"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "predict",
+                  "surface": "predicted"
+                }
+              ]
+            },
+            "options": [
+              "A) modified",
+              "B) supported",
+              "C) included",
+              "D) predicted"
+            ],
+            "qid": 2021011007,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "‘compared’（比较）符合语境，描述研究人员将数据与变化报告进行比较。\nA. ‘devoted’表示致力，与句子讨论的比较数据不符。\nB. ‘compared’表示比较，符合句子中研究人员比较数据的语境，因此最合适。\nC. ‘converted’表示转换，与句子讨论的比较数据不符。\nD. ‘applied’表示应用，与句子讨论的比较数据不符。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "B",
+            "id": 8,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "devote",
+                  "surface": "devoted"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "compare",
+                  "surface": "compared"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "convert",
+                  "surface": "converted"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "apply",
+                  "surface": "applied"
+                }
+              ]
+            },
+            "options": [
+              "A) devoted",
+              "B) compared",
+              "C) converted",
+              "D) applied"
+            ],
+            "qid": 2021011008,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "‘with’（具有）符合语境，描述中年人具有较高的腹部脂肪测量值。\nA. ‘with’表示具有，符合句子中描述中年人具有较高腹部脂肪测量值的语境，因此最合适。\nB. ‘above’表示在上方，与句子讨论的主题不符。\nC. ‘by’表示通过，与句子讨论的主题不符。\nD. ‘against’表示对抗，与句子讨论的主题不符。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "A",
+            "id": 9,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "with",
+                  "surface": "with"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "above",
+                  "surface": "above"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "by",
+                  "surface": "by"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "against",
+                  "surface": "against"
+                }
+              ]
+            },
+            "options": [
+              "A) with",
+              "B) above",
+              "C) by",
+              "D) against"
+            ],
+            "qid": 2021011009,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "‘scored’（得分）符合语境，描述中年人在流体智力测量中的表现。\nA. ‘lived’表示生活，与句子讨论的测量表现不符。\nB. ‘managed’表示管理，与句子讨论的测量表现不符。\nC. ‘scored’表示得分，符合句子中描述中年人在测量中的表现，因此最合适。\nD. ‘played’表示玩，与句子讨论的测量表现不符。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "C",
+            "id": 10,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "live",
+                  "surface": "lived"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "manage",
+                  "surface": "managed"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "score",
+                  "surface": "scored"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "play",
+                  "surface": "played"
+                }
+              ]
+            },
+            "options": [
+              "A) lived",
+              "B) managed",
+              "C) scored",
+              "D) played"
+            ],
+            "qid": 2021011010,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "‘went by’（过去）符合语境，描述随着时间的推移。\nA. ‘ran out’表示耗尽，与句子讨论的时间推移不符。\nB. ‘set off’表示出发，与句子讨论的时间推移不符。\nC. ‘drew in’表示吸引，与句子讨论的时间推移不符。\nD. ‘went by’表示过去，符合句子中描述时间推移的语境，因此最合适。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "D",
+            "id": 11,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "run",
+                  "surface": "ran"
+                },
+                {
+                  "lemma": "out",
+                  "surface": "out"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "set",
+                  "surface": "set"
+                },
+                {
+                  "lemma": "off",
+                  "surface": "off"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "draw",
+                  "surface": "drew"
+                },
+                {
+                  "lemma": "in",
+                  "surface": "in"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "go",
+                  "surface": "went"
+                },
+                {
+                  "lemma": "by",
+                  "surface": "by"
+                }
+              ]
+            },
+            "options": [
+              "A) ran out",
+              "B) set off",
+              "C) drew in",
+              "D) went by"
+            ],
+            "qid": 2021011011,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "‘attributable’（归因于）符合语境，描述女性的关联可能是由于免疫变化。\nA. ‘superior’表示优越，与句子讨论的归因主题不符。\nB. ‘attributable’表示归因于，符合句子中描述女性关联的语境，因此最合适。\nC. ‘parallel’表示平行，与句子讨论的归因主题不符。\nD. ‘resistant’表示抵抗，与句子讨论的归因主题不符。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "B",
+            "id": 12,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "superior",
+                  "surface": "superior"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "attributable",
+                  "surface": "attributable"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "parallel",
+                  "surface": "parallel"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "resistant",
+                  "surface": "resistant"
+                }
+              ]
+            },
+            "options": [
+              "A) superior",
+              "B) attributable",
+              "C) parallel",
+              "D) resistant"
+            ],
+            "qid": 2021011012,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "‘involved’（涉及）符合语境，描述男性的免疫系统未受影响。\nA. ‘restored’表示恢复，与句子讨论的未受影响主题不符。\nB. ‘isolated’表示隔离，与句子讨论的未受影响主题不符。\nC. ‘involved’表示涉及，符合句子中描述男性免疫系统未受影响的语境，因此最合适。\nD. ‘controlled’表示控制，与句子讨论的未受影响主题不符。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "C",
+            "id": 13,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "restore",
+                  "surface": "restored"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "isolate",
+                  "surface": "isolated"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "involve",
+                  "surface": "involved"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "control",
+                  "surface": "controlled"
+                }
+              ]
+            },
+            "options": [
+              "A) restored",
+              "B) isolated",
+              "C) involved",
+              "D) controlled"
+            ],
+            "qid": 2021011013,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，研究的目的是解释男性和女性之间的差异，因此 'explain' 是最合适的选项。\nA. 虽然 'alter' 意为改变，但句子中强调的是解释差异，而非改变差异，因此不合适。\nB. 'spread' 意为传播，与句意不符，因为研究的目的是解释差异。\nC. 'remove' 意为移除，与句意不符，因为研究的目标不是消除差异，而是解释差异。\nD. 'explain' 意为解释，符合句意，研究的目的是解释男性和女性之间的差异。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "D",
+            "id": 14,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "alter",
+                  "surface": "alter"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "spread",
+                  "surface": "spread"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "remove",
+                  "surface": "remove"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "explain",
+                  "surface": "explain"
+                }
+              ]
+            },
+            "options": [
+              "A) alter",
+              "B) spread",
+              "C) remove",
+              "D) explain"
+            ],
+            "qid": 2021011014,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，研究的目标是为男性和女性提供不同的治疗方法，因此 'treatments' 是最合适的选项。\nA. 'compensations' 意为补偿，与句意不符，因为句子讨论的是治疗方法。\nB. 'symptoms' 意为症状，与句意不符，因为句子讨论的是治疗方法。\nC. 'demands' 意为需求，与句意不符，因为句子讨论的是治疗方法。\nD. 'treatments' 意为治疗，符合句意，因为研究的目标是为男性和女性提供不同的治疗方法。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "D",
+            "id": 15,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "compensation",
+                  "surface": "compensations"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "symptom",
+                  "surface": "symptoms"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "demand",
+                  "surface": "demands"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "treatment",
+                  "surface": "treatments"
+                }
+              ]
+            },
+            "options": [
+              "A) compensations",
+              "B) symptoms",
+              "C) demands",
+              "D) treatments"
+            ],
+            "qid": 2021011015,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，'Meanwhile' 表示同时发生的事情，与句子的逻辑关系最为匹配。\nA. 'Likewise' 意为同样，与句意不符，因为句子强调的是同时发生的事情。\nB. 'Meanwhile' 意为与此同时，符合句意，因为句子讨论的是同时可以采取的措施。\nC. 'Therefore' 意为因此，与句意不符，因为句子没有因果关系。\nD. 'Instead' 意为相反，与句意不符，因为句子没有表达对立关系。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "B",
+            "id": 16,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "likewise",
+                  "surface": "Likewise"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "meanwhile",
+                  "surface": "Meanwhile"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "therefore",
+                  "surface": "Therefore"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "instead",
+                  "surface": "Instead"
+                }
+              ]
+            },
+            "options": [
+              "A) Likewise",
+              "B) Meanwhile",
+              "C) Therefore",
+              "D) Instead"
+            ],
+            "qid": 2021011016,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，'take' 表示采取措施，与句意最为匹配。\nA. 'change' 意为改变，与句意不符，因为句子强调的是采取措施。\nB. 'watch' 意为观察，与句意不符，因为句子强调的是采取行动。\nC. 'count' 意为计算，与句意不符，因为句子强调的是采取措施。\nD. 'take' 意为采取，符合句意，因为句子讨论的是采取措施来改善健康。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "D",
+            "id": 17,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "change",
+                  "surface": "change"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "watch",
+                  "surface": "watch"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "count",
+                  "surface": "count"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "take",
+                  "surface": "take"
+                }
+              ]
+            },
+            "options": [
+              "A) change",
+              "B) watch",
+              "C) count",
+              "D) take"
+            ],
+            "qid": 2021011017,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，'wellbeing' 表示健康，与句意最为匹配。\nA. 'wellbeing' 意为健康，符合句意，因为句子讨论的是保护身体和心理健康。\nB. 'process' 意为过程，与句意不符，因为句子讨论的是健康。\nC. 'formation' 意为形成，与句意不符，因为句子讨论的是健康。\nD. 'coordination' 意为协调，与句意不符，因为句子讨论的是健康。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "A",
+            "id": 18,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "wellbeing",
+                  "surface": "wellbeing"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "process",
+                  "surface": "process"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "formation",
+                  "surface": "formation"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "coordination",
+                  "surface": "coordination"
+                }
+              ]
+            },
+            "options": [
+              "A) wellbeing",
+              "B) process",
+              "C) formation",
+              "D) coordination"
+            ],
+            "qid": 2021011018,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，'level' 表示有氧运动的水平，与句意最为匹配。\nA. 'level' 意为水平，符合句意，因为句子讨论的是有氧运动的水平。\nB. 'love' 意为爱，与句意不符，因为句子讨论的是运动水平。\nC. 'knowledge' 意为知识，与句意不符，因为句子讨论的是运动水平。\nD. 'space' 意为空间，与句意不符，因为句子讨论的是运动水平。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "A",
+            "id": 19,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "level",
+                  "surface": "level"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "love",
+                  "surface": "love"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "knowledge",
+                  "surface": "knowledge"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "space",
+                  "surface": "space"
+                }
+              ]
+            },
+            "options": [
+              "A) level",
+              "B) love",
+              "C) knowledge",
+              "D) space"
+            ],
+            "qid": 2021011019,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，'diet' 表示饮食，与句意最为匹配。\nA. 'design' 意为设计，与句意不符，因为句子讨论的是饮食。\nB. 'routine' 意为常规，与句意不符，因为句子讨论的是饮食。\nC. 'diet' 意为饮食，符合句意，因为句子讨论的是地中海饮食。\nD. 'prescription' 意为处方，与句意不符，因为句子讨论的是饮食。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "C",
+            "id": 20,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "design",
+                  "surface": "design"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "routine",
+                  "surface": "routine"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "diet",
+                  "surface": "diet"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "prescription",
+                  "surface": "prescription"
+                }
+              ]
+            },
+            "options": [
+              "A) design",
+              "B) routine",
+              "C) diet",
+              "D) prescription"
+            ],
+            "qid": 2021011020,
+            "text": ""
+          }
+        ]
+      },
+      "directions": "Read the following text. Choose the best word(s) for each numbered blank and mark A,\nB, C or D on the ANSWER SHEET. (10 points)",
+      "exam_info": "2021(1)",
+      "exam_type": "kaoyan",
+      "id": 202101001,
+      "key_words": "accumulation attributable compared delay fat generally included intelligence involved out possibility scored went while abdominal fluid peaks above accidentally against alternatively applied changes consumption controlled converted decision decline detection devoted diet drew ensure explain fades formally goal isolated level lived managed meanwhile men modified muscle off once parallel pauses played predicted ran requirement resistant restored returns seek separation set since superior supported take treatments until utilize wellbeing women age aged alter change compensations coordination count data demands design diet' explain'",
+      "kid": 14,
+      "part": "Part III",
+      "section": "Sec A",
+      "task_key": "2021(1)_Section I_ ",
+      "type": "Use of English"
+    }
+  ]
+}

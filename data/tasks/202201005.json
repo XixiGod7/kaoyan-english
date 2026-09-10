@@ -1,0 +1,937 @@
+{
+  "tasks": [
+    {
+      "content_json": {
+        "article": "The personal grievance provisions of New Zealand’s Employment Relations Act 2000 (ERA) prevent an employer from firing an employee without good cause.\nInstead, dismissals must be justified.\nEmployers must both show cause and act in a procedurally fair way.\nPersonal grievance procedures were designed to guard the jobs of ordinary workers from “unjustified dismissals”.\nThe premise was that the common law of contract lacked sufficient safeguards for workers against arbitrary conduct by management.\nLong gone are the days when a boss could simply give an employee contractual notice.\nBut these provisions create difficulties for businesses when applied to highly paid managers and executives.\nAs countless boards and business owners will attest, constraining firms from firing poorly performing, high-earning managers is a handbrake on boosting productivity and overall performance.\nThe difference between C-grade and A-grade managers may very well be the difference between business success or failure.\nBetween preserving the jobs of ordinary workers or losing them.\nYet mediocrity is no longer enough to justify a dismissal.\nConsequently — and paradoxically — laws introduced to protect the jobs of ordinary workers may be placing those jobs at risk.\nIf not placing jobs at risk, to the extent employment protection laws constrain business owners from dismissing under-performing managers, those laws act as a constraint on firm productivity and therefore on workers’ wages.\nIndeed, in “An International Perspective on New Zealand’s Productivity Paradox” (2014), the Productivity Commission singled out the low quality of managerial capabilities as a cause of the country’s poor productivity growth record.\nNor are highly paid managers themselves immune from the harm caused by the ERA’s unjustified dismissal procedures.\nBecause employment protection laws make it costlier to fire an employee, employers are more cautious about hiring new staff.\nThis makes it harder for the marginal manager to gain employment.\nAnd firms pay staff less because firms carry the burden of the employment arrangement going wrong.\nSociety also suffers from excessive employment protections.\nStringent job dismissal regulations adversely affect productivity growth and hamper both prosperity and overall well-being.\nAcross the Tasman, Australia deals with the unjustified dismissal paradox by excluding employees earning above a specified “high-income threshold” from the protection of its unfair dismissal laws.\nIn New Zealand, a 2016 private members’ Bill tried to permit firms and high-income employees to contract out of the unjustified dismissal regime.\nHowever, the mechanisms proposed were unwieldy and the Bill was voted down following the change in government later that year.",
+        "questions": [
+          {
+            "ai_analysis_ids": [
+              2022013158
+            ],
+            "ai_analysis_text": "根据文章第二段内容，个人申诉条款的目的是保护普通工人免受不公正解雇，确保他们的权益。\nA. 文章未提到这些条款是为了惩罚公司不当行为，因此不符合题意。\nB. 文章未提及这些条款与招聘程序的改进有关，因此不正确。\nC. 条款的目的是保护工人权益，而非免除雇主的某些责任，因此不合适。\nD. 文章明确指出这些条款旨在保护普通工人的权益，因此是正确答案。",
+            "ai_analysis_words": [
+              "guard the jobs",
+              "unjustified dismissals"
+            ],
+            "analysis_sentence_id": 2022013158,
+            "answer": "D",
+            "id": 36,
+            "option_tokens": {
+              "A": [
+                {
+                  "gloss": "惩罚",
+                  "lemma": "punish",
+                  "surface": "punish"
+                },
+                {
+                  "gloss": "可疑的",
+                  "lemma": "dubious",
+                  "surface": "dubious"
+                },
+                {
+                  "gloss": "公司的",
+                  "lemma": "corporate",
+                  "surface": "corporate"
+                },
+                {
+                  "gloss": "行为",
+                  "lemma": "practice",
+                  "surface": "practices"
+                }
+              ],
+              "B": [
+                {
+                  "gloss": "改善",
+                  "lemma": "improve",
+                  "surface": "improve"
+                },
+                {
+                  "gloss": "传统的",
+                  "lemma": "traditional",
+                  "surface": "traditional"
+                },
+                {
+                  "gloss": "招聘",
+                  "lemma": "hire",
+                  "surface": "hiring"
+                },
+                {
+                  "gloss": "程序",
+                  "lemma": "procedure",
+                  "surface": "procedures"
+                }
+              ],
+              "C": [
+                {
+                  "gloss": "免除",
+                  "lemma": "exempt",
+                  "surface": "exempt"
+                },
+                {
+                  "gloss": "雇主",
+                  "lemma": "employer",
+                  "surface": "employers"
+                },
+                {
+                  "gloss": "从",
+                  "lemma": "from",
+                  "surface": "from"
+                },
+                {
+                  "gloss": "某些",
+                  "lemma": "certain",
+                  "surface": "certain"
+                },
+                {
+                  "gloss": "职责",
+                  "lemma": "duty",
+                  "surface": "duties"
+                }
+              ],
+              "D": [
+                {
+                  "gloss": "保护",
+                  "lemma": "protect",
+                  "surface": "protect"
+                },
+                {
+                  "gloss": "该",
+                  "lemma": "the",
+                  "surface": "the"
+                },
+                {
+                  "gloss": "权利",
+                  "lemma": "right",
+                  "surface": "rights"
+                },
+                {
+                  "gloss": "的",
+                  "lemma": "of",
+                  "surface": "of"
+                },
+                {
+                  "gloss": "普通的",
+                  "lemma": "ordinary",
+                  "surface": "ordinary"
+                },
+                {
+                  "gloss": "工人",
+                  "lemma": "worker",
+                  "surface": "workers"
+                }
+              ]
+            },
+            "options": [
+              "A) punish dubious corporate practices.",
+              "B) improve traditional hiring procedures.",
+              "C) exempt employers from certain duties.",
+              "D) protect the rights of ordinary workers."
+            ],
+            "qid": 2022011036,
+            "text": "The personal grievance provisions of the ERA are intended to ____",
+            "text_tokens": [
+              {
+                "gloss": "这个",
+                "lemma": "the",
+                "surface": "the"
+              },
+              {
+                "gloss": "个人的",
+                "lemma": "personal",
+                "surface": "personal"
+              },
+              {
+                "gloss": "申诉",
+                "lemma": "grievance",
+                "surface": "grievance"
+              },
+              {
+                "gloss": "条款",
+                "lemma": "provision",
+                "surface": "provisions"
+              },
+              {
+                "gloss": "的",
+                "lemma": "of",
+                "surface": "of"
+              },
+              {
+                "gloss": "这个",
+                "lemma": "the",
+                "surface": "the"
+              },
+              {
+                "gloss": "《就业关系法》",
+                "lemma": "era",
+                "surface": "era"
+              },
+              {
+                "gloss": "是",
+                "lemma": "be",
+                "surface": "are"
+              },
+              {
+                "gloss": "旨在",
+                "lemma": "intend",
+                "surface": "intended"
+              },
+              {
+                "gloss": "去",
+                "lemma": "to",
+                "surface": "to"
+              }
+            ]
+          },
+          {
+            "ai_analysis_ids": [
+              2022013162
+            ],
+            "ai_analysis_text": "第三段提到这些条款对企业解雇表现不佳的高薪管理人员造成了限制，从而阻碍了生产力和整体绩效的提升。\nA. 文章明确指出这些条款对企业发展造成了阻碍，因此是正确答案。\nB. 文章未提到这些条款削弱了管理者的权威，因此不正确。\nC. 文章未提及这些条款对企业公众形象的影响，因此不合适。\nD. 文章未提到这些条款会恶化劳资关系，因此不正确。",
+            "ai_analysis_words": [
+              "constraining firms",
+              "boosting productivity"
+            ],
+            "analysis_sentence_id": 2022013162,
+            "answer": "A",
+            "id": 37,
+            "option_tokens": {
+              "A": [
+                {
+                  "gloss": "阻碍",
+                  "lemma": "hinder",
+                  "surface": "hinder"
+                },
+                {
+                  "gloss": "商业",
+                  "lemma": "business",
+                  "surface": "business"
+                },
+                {
+                  "gloss": "发展",
+                  "lemma": "development",
+                  "surface": "development"
+                }
+              ],
+              "B": [
+                {
+                  "gloss": "削弱",
+                  "lemma": "undermine",
+                  "surface": "undermine"
+                },
+                {
+                  "gloss": "经理",
+                  "lemma": "manager",
+                  "surface": "managers"
+                },
+                {
+                  "gloss": "权威",
+                  "lemma": "authority",
+                  "surface": "authority"
+                }
+              ],
+              "C": [
+                {
+                  "gloss": "影响",
+                  "lemma": "affect",
+                  "surface": "affect"
+                },
+                {
+                  "gloss": "该",
+                  "lemma": "the",
+                  "surface": "the"
+                },
+                {
+                  "gloss": "公众的",
+                  "lemma": "public",
+                  "surface": "public"
+                },
+                {
+                  "gloss": "形象",
+                  "lemma": "image",
+                  "surface": "image"
+                },
+                {
+                  "gloss": "的",
+                  "lemma": "of",
+                  "surface": "of"
+                },
+                {
+                  "gloss": "该",
+                  "lemma": "the",
+                  "surface": "the"
+                },
+                {
+                  "gloss": "公司",
+                  "lemma": "firm",
+                  "surface": "firms"
+                }
+              ],
+              "D": [
+                {
+                  "gloss": "恶化",
+                  "lemma": "worsen",
+                  "surface": "worsen"
+                },
+                {
+                  "gloss": "劳工",
+                  "lemma": "labor",
+                  "surface": "labor"
+                },
+                {
+                  "gloss": "管理",
+                  "lemma": "management",
+                  "surface": "management"
+                },
+                {
+                  "gloss": "关系",
+                  "lemma": "relation",
+                  "surface": "relations"
+                }
+              ]
+            },
+            "options": [
+              "A) hinder business development.",
+              "B) undermine managers’ authority.",
+              "C) affect the public image of the firms.",
+              "D) worsen labor-management relations."
+            ],
+            "qid": 2022011037,
+            "text": "It can be learned from Paragraph 3 that the provisions may ____",
+            "text_tokens": [
+              {
+                "gloss": "它",
+                "lemma": "it",
+                "surface": "It"
+              },
+              {
+                "gloss": "可以",
+                "lemma": "can",
+                "surface": "can"
+              },
+              {
+                "gloss": "是",
+                "lemma": "be",
+                "surface": "be"
+              },
+              {
+                "gloss": "得知",
+                "lemma": "learn",
+                "surface": "learned"
+              },
+              {
+                "gloss": "从",
+                "lemma": "from",
+                "surface": "from"
+              },
+              {
+                "gloss": "段落",
+                "lemma": "paragraph",
+                "surface": "Paragraph"
+              },
+              {
+                "gloss": "可以得知",
+                "lemma": "that",
+                "surface": "that"
+              },
+              {
+                "gloss": "这些",
+                "lemma": "the",
+                "surface": "the"
+              },
+              {
+                "gloss": "条款",
+                "lemma": "provision",
+                "surface": "provisions"
+              },
+              {
+                "gloss": "可能",
+                "lemma": "may",
+                "surface": "may"
+              }
+            ]
+          },
+          {
+            "ai_analysis_ids": [
+              2022013168
+            ],
+            "ai_analysis_text": "根据第五段内容，生产力委员会指出低质量的管理能力是生产力增长缓慢的原因，因此支持解雇表现不佳的管理者。\nA. 文章未提到委员会支持工资限制，因此不正确。\nB. 文章未提到委员会支持加强就业保护法，因此不合适。\nC. 文章未提到委员会支持限制企业主的权力，因此不正确。\nD. 文章明确提到低质量管理者影响生产力，因此支持解雇表现不佳的管理者是正确答案。",
+            "ai_analysis_words": [
+              "low quality",
+              "productivity growth"
+            ],
+            "analysis_sentence_id": 2022013168,
+            "answer": "D",
+            "id": 38,
+            "option_tokens": {
+              "A": [
+                {
+                  "gloss": "施加",
+                  "lemma": "impose",
+                  "surface": "Imposing"
+                },
+                {
+                  "gloss": "合理的",
+                  "lemma": "reasonable",
+                  "surface": "reasonable"
+                },
+                {
+                  "gloss": "工资",
+                  "lemma": "wage",
+                  "surface": "wage"
+                },
+                {
+                  "gloss": "限制",
+                  "lemma": "restraint",
+                  "surface": "restraints"
+                }
+              ],
+              "B": [
+                {
+                  "gloss": "执行",
+                  "lemma": "enforce",
+                  "surface": "Enforcing"
+                },
+                {
+                  "gloss": "就业",
+                  "lemma": "employment",
+                  "surface": "employment"
+                },
+                {
+                  "gloss": "保护",
+                  "lemma": "protection",
+                  "surface": "protection"
+                },
+                {
+                  "gloss": "法律",
+                  "lemma": "law",
+                  "surface": "laws"
+                }
+              ],
+              "C": [
+                {
+                  "gloss": "限制",
+                  "lemma": "limit",
+                  "surface": "Limiting"
+                },
+                {
+                  "gloss": "这个",
+                  "lemma": "the",
+                  "surface": "the"
+                },
+                {
+                  "gloss": "权力",
+                  "lemma": "power",
+                  "surface": "powers"
+                },
+                {
+                  "gloss": "的",
+                  "lemma": "of",
+                  "surface": "of"
+                },
+                {
+                  "gloss": "企业",
+                  "lemma": "business",
+                  "surface": "business"
+                },
+                {
+                  "gloss": "所有者",
+                  "lemma": "owner",
+                  "surface": "owners"
+                }
+              ],
+              "D": [
+                {
+                  "gloss": "解雇",
+                  "lemma": "dismiss",
+                  "surface": "Dismissing"
+                },
+                {
+                  "gloss": "表现不佳地",
+                  "lemma": "poorly",
+                  "surface": "poorly"
+                },
+                {
+                  "gloss": "表现",
+                  "lemma": "perform",
+                  "surface": "performing"
+                },
+                {
+                  "gloss": "经理",
+                  "lemma": "manager",
+                  "surface": "managers"
+                }
+              ]
+            },
+            "options": [
+              "A) Imposing reasonable wage restraints.",
+              "B) Enforcing employment protection laws.",
+              "C) Limiting the powers of business owners.",
+              "D) Dismissing poorly performing managers."
+            ],
+            "qid": 2022011038,
+            "text": "Which of the following measures would be the Productivity Commission support?",
+            "text_tokens": [
+              {
+                "gloss": "哪一个",
+                "lemma": "which",
+                "surface": "Which"
+              },
+              {
+                "gloss": "的",
+                "lemma": "of",
+                "surface": "of"
+              },
+              {
+                "gloss": "这个",
+                "lemma": "the",
+                "surface": "the"
+              },
+              {
+                "gloss": "以下的",
+                "lemma": "follow",
+                "surface": "following"
+              },
+              {
+                "gloss": "措施",
+                "lemma": "measure",
+                "surface": "measures"
+              },
+              {
+                "gloss": "会",
+                "lemma": "would",
+                "surface": "would"
+              },
+              {
+                "gloss": "是",
+                "lemma": "be",
+                "surface": "be"
+              },
+              {
+                "gloss": "这个",
+                "lemma": "the",
+                "surface": "the"
+              },
+              {
+                "gloss": "生产力",
+                "lemma": "productivity",
+                "surface": "Productivity"
+              },
+              {
+                "gloss": "委员会",
+                "lemma": "commission",
+                "surface": "Commission"
+              },
+              {
+                "gloss": "支持",
+                "lemma": "support",
+                "surface": "support"
+              }
+            ]
+          },
+          {
+            "ai_analysis_ids": [
+              2022013172
+            ],
+            "ai_analysis_text": "第六段提到由于解雇成本增加，企业更谨慎招聘，并因此降低员工薪资。\nA. 文章提到高薪管理者更难找到工作，但未提到他们失去工作，因此不正确。\nB. 文章明确提到企业因负担增加而降低员工薪资，因此是正确答案。\nC. 文章提到社会受到负面影响，而非整体幸福感提升，因此不正确。\nD. 文章提到企业更谨慎招聘，而非需要雇佣新员工，因此不合适。",
+            "ai_analysis_words": [
+              "pay staff less",
+              "burden"
+            ],
+            "analysis_sentence_id": 2022013172,
+            "answer": "B",
+            "id": 39,
+            "option_tokens": {
+              "A": [
+                {
+                  "gloss": "高度地",
+                  "lemma": "highly",
+                  "surface": "Highly"
+                },
+                {
+                  "gloss": "支付",
+                  "lemma": "pay",
+                  "surface": "paid"
+                },
+                {
+                  "gloss": "经理",
+                  "lemma": "manager",
+                  "surface": "managers"
+                },
+                {
+                  "gloss": "失去",
+                  "lemma": "lose",
+                  "surface": "lose"
+                },
+                {
+                  "gloss": "他们的",
+                  "lemma": "their",
+                  "surface": "their"
+                },
+                {
+                  "gloss": "工作",
+                  "lemma": "job",
+                  "surface": "jobs"
+                }
+              ],
+              "B": [
+                {
+                  "gloss": "员工",
+                  "lemma": "employee",
+                  "surface": "employees"
+                },
+                {
+                  "gloss": "遭受",
+                  "lemma": "suffer",
+                  "surface": "suffer"
+                },
+                {
+                  "gloss": "由于",
+                  "lemma": "from",
+                  "surface": "from"
+                },
+                {
+                  "gloss": "工资",
+                  "lemma": "salary",
+                  "surface": "salary"
+                },
+                {
+                  "gloss": "削减",
+                  "lemma": "cut",
+                  "surface": "cuts"
+                }
+              ],
+              "C": [
+                {
+                  "gloss": "社会",
+                  "lemma": "society",
+                  "surface": "society"
+                },
+                {
+                  "gloss": "看到",
+                  "lemma": "see",
+                  "surface": "sees"
+                },
+                {
+                  "gloss": "一个",
+                  "lemma": "a",
+                  "surface": "a"
+                },
+                {
+                  "gloss": "上升",
+                  "lemma": "rise",
+                  "surface": "rise"
+                },
+                {
+                  "gloss": "在",
+                  "lemma": "in",
+                  "surface": "in"
+                },
+                {
+                  "gloss": "整体的",
+                  "lemma": "overall",
+                  "surface": "overall"
+                },
+                {
+                  "gloss": "良好",
+                  "lemma": "well",
+                  "surface": "well"
+                },
+                {
+                  "gloss": "存在",
+                  "lemma": "be",
+                  "surface": "being"
+                }
+              ],
+              "D": [
+                {
+                  "gloss": "雇主",
+                  "lemma": "employer",
+                  "surface": "employers"
+                },
+                {
+                  "gloss": "需要",
+                  "lemma": "need",
+                  "surface": "need"
+                },
+                {
+                  "gloss": "去",
+                  "lemma": "to",
+                  "surface": "to"
+                },
+                {
+                  "gloss": "雇佣",
+                  "lemma": "hire",
+                  "surface": "hire"
+                },
+                {
+                  "gloss": "新的",
+                  "lemma": "new",
+                  "surface": "new"
+                },
+                {
+                  "gloss": "员工",
+                  "lemma": "staff",
+                  "surface": "staff"
+                }
+              ]
+            },
+            "options": [
+              "A) Highly paid managers lose their jobs.",
+              "B) Employees suffer from salary cuts.",
+              "C) Society sees a rise in overall well-being.",
+              "D) Employers need to hire new staff."
+            ],
+            "qid": 2022011039,
+            "text": "What might be an effect of ERA’s unjustified dismissal procedures?",
+            "text_tokens": [
+              {
+                "gloss": "什么",
+                "lemma": "what",
+                "surface": "What"
+              },
+              {
+                "gloss": "可能",
+                "lemma": "might",
+                "surface": "might"
+              },
+              {
+                "gloss": "是",
+                "lemma": "be",
+                "surface": "be"
+              },
+              {
+                "gloss": "一个",
+                "lemma": "an",
+                "surface": "an"
+              },
+              {
+                "gloss": "影响",
+                "lemma": "effect",
+                "surface": "effect"
+              },
+              {
+                "gloss": "的",
+                "lemma": "of",
+                "surface": "of"
+              },
+              {
+                "gloss": "《就业关系法》",
+                "lemma": "era",
+                "surface": "ERA’s"
+              },
+              {
+                "gloss": "不合理的",
+                "lemma": "unjustified",
+                "surface": "unjustified"
+              },
+              {
+                "gloss": "解雇",
+                "lemma": "dismissal",
+                "surface": "dismissal"
+              },
+              {
+                "gloss": "程序",
+                "lemma": "procedure",
+                "surface": "procedures"
+              }
+            ]
+          },
+          {
+            "ai_analysis_ids": [
+              2022013175
+            ],
+            "ai_analysis_text": "第八段提到澳大利亚通过高收入门槛排除高薪员工的保护，这对企业主有利。\nA. 文章未提到高收入门槛保障了管理者的收入，因此不正确。\nB. 文章未提到高收入门槛产生了不良结果，因此不合适。\nC. 高收入门槛使企业主能够更灵活地管理高薪员工，因此是正确答案。\nD. 文章未提到高收入门槛难以实施，因此不正确。",
+            "ai_analysis_words": [
+              "excluding employees",
+              "high-income threshold"
+            ],
+            "analysis_sentence_id": 2022013175,
+            "answer": "C",
+            "id": 40,
+            "option_tokens": {
+              "A": [
+                {
+                  "gloss": "已经",
+                  "lemma": "have",
+                  "surface": "has"
+                },
+                {
+                  "gloss": "确保",
+                  "lemma": "secure",
+                  "surface": "secured"
+                },
+                {
+                  "gloss": "经理的",
+                  "lemma": "manager",
+                  "surface": "managers'"
+                },
+                {
+                  "gloss": "收入",
+                  "lemma": "earning",
+                  "surface": "earnings"
+                }
+              ],
+              "B": [
+                {
+                  "gloss": "已经",
+                  "lemma": "have",
+                  "surface": "has"
+                },
+                {
+                  "gloss": "产生",
+                  "lemma": "produce",
+                  "surface": "produced"
+                },
+                {
+                  "gloss": "不希望的",
+                  "lemma": "undesired",
+                  "surface": "undesired"
+                },
+                {
+                  "gloss": "结果",
+                  "lemma": "result",
+                  "surface": "results"
+                }
+              ],
+              "C": [
+                {
+                  "gloss": "是",
+                  "lemma": "be",
+                  "surface": "is"
+                },
+                {
+                  "gloss": "有益的",
+                  "lemma": "beneficial",
+                  "surface": "beneficial"
+                },
+                {
+                  "gloss": "对",
+                  "lemma": "to",
+                  "surface": "to"
+                },
+                {
+                  "gloss": "企业",
+                  "lemma": "business",
+                  "surface": "business"
+                },
+                {
+                  "gloss": "所有者",
+                  "lemma": "owner",
+                  "surface": "owners"
+                }
+              ],
+              "D": [
+                {
+                  "gloss": "是",
+                  "lemma": "be",
+                  "surface": "is"
+                },
+                {
+                  "gloss": "困难的",
+                  "lemma": "difficult",
+                  "surface": "difficult"
+                },
+                {
+                  "gloss": "去",
+                  "lemma": "to",
+                  "surface": "to"
+                },
+                {
+                  "gloss": "实施",
+                  "lemma": "put",
+                  "surface": "put"
+                },
+                {
+                  "gloss": "进入",
+                  "lemma": "into",
+                  "surface": "into"
+                },
+                {
+                  "gloss": "实践",
+                  "lemma": "practice",
+                  "surface": "practice"
+                }
+              ]
+            },
+            "options": [
+              "A) has secured managers’ earnings.",
+              "B) has produced undesired results.",
+              "C) is beneficial to business owners.",
+              "D) is difficult to put into practice."
+            ],
+            "qid": 2022011040,
+            "text": "It can be inferred that the “high-income threshold” in Australia ____",
+            "text_tokens": [
+              {
+                "gloss": "它",
+                "lemma": "it",
+                "surface": "it"
+              },
+              {
+                "gloss": "可以",
+                "lemma": "can",
+                "surface": "can"
+              },
+              {
+                "gloss": "是",
+                "lemma": "be",
+                "surface": "be"
+              },
+              {
+                "gloss": "推断",
+                "lemma": "infer",
+                "surface": "inferred"
+              },
+              {
+                "gloss": "表明",
+                "lemma": "that",
+                "surface": "that"
+              },
+              {
+                "gloss": "这个",
+                "lemma": "the",
+                "surface": "the"
+              },
+              {
+                "gloss": "高的",
+                "lemma": "high",
+                "surface": "high"
+              },
+              {
+                "gloss": "收入",
+                "lemma": "income",
+                "surface": "income"
+              },
+              {
+                "gloss": "门槛",
+                "lemma": "threshold",
+                "surface": "threshold"
+              },
+              {
+                "gloss": "在",
+                "lemma": "in",
+                "surface": "in"
+              },
+              {
+                "gloss": "澳大利亚",
+                "lemma": "australia",
+                "surface": "australia"
+              }
+            ]
+          }
+        ],
+        "title": "Text 4"
+      },
+      "directions": "Read the following four texts. Answer the questions after each text by choosing A, B, C or\nD. Mark your answers on the ANSWER SHEET. (10 points for each text)",
+      "exam_info": "2022(1)",
+      "exam_type": "kaoyan",
+      "id": 202201005,
+      "key_words": "managers productivity dismissal employment jobs business firms laws unjustified workers high new employees employers era income ordinary owners procedures protection provisions staff act between cause dismissals employee following grievance growth highly may overall paid performing personal text threshold well zealand affect answer australia bill boosting both burden commission constraining contract difference dismissing each earning excluding firing grade guard hiring less low management must out paradox pay placing poorly protect quality relations risk society those above across adversely after against answers",
+      "kid": 5,
+      "part": "Part III",
+      "section": "Sec C",
+      "task_key": "2022(1)_Section II_Part A_Text4",
+      "type": "Reading Comprehension"
+    }
+  ]
+}

@@ -1,0 +1,2444 @@
+{
+  "sentences": [
+    {
+      "cn_text": "围绕人工智能在数字营销中的应用已经开展了一些探索。",
+      "en_text": "There has been some exploration around the use of AI in digital marketing.",
+      "id": 2023013215,
+      "order_seq": "content_1_1",
+      "task_id": 202301007,
+      "tokens": [
+        {
+          "gloss": "存在",
+          "lemma": "there",
+          "surface": "there"
+        },
+        {
+          "gloss": "已经",
+          "lemma": "have",
+          "surface": "has"
+        },
+        {
+          "gloss": "存在",
+          "lemma": "be",
+          "surface": "been"
+        },
+        {
+          "gloss": "一些",
+          "lemma": "some",
+          "surface": "some"
+        },
+        {
+          "gloss": "探索",
+          "lemma": "exploration",
+          "surface": "exploration"
+        },
+        {
+          "gloss": "围绕",
+          "lemma": "around",
+          "surface": "around"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "使用",
+          "lemma": "use",
+          "surface": "use"
+        },
+        {
+          "gloss": "关于",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "人工智能",
+          "lemma": "ai",
+          "surface": "AI"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "数字的",
+          "lemma": "digital",
+          "surface": "digital"
+        },
+        {
+          "gloss": "营销",
+          "lemma": "marketing",
+          "surface": "marketing"
+        }
+      ]
+    },
+    {
+      "cn_text": "例如，人工智能可以通过分析大数据来揭示趋势和偏好信息，从而分析哪种类型的广告内容或文案适合与特定目标客户群体「对话」。",
+      "en_text": "For example, AI can be used to analyse what type of advertising content or copy would be appropriate to ‘speak’ to a specific target customer group by revealing information about trends and preferences through the analysis of big data.",
+      "id": 2023013216,
+      "order_seq": "content_1_2",
+      "task_id": 202301007,
+      "tokens": [
+        {
+          "gloss": "例如",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "例子",
+          "lemma": "example",
+          "surface": "example"
+        },
+        {
+          "gloss": "人工智能",
+          "lemma": "ai",
+          "surface": "AI"
+        },
+        {
+          "gloss": "能够",
+          "lemma": "can",
+          "surface": "can"
+        },
+        {
+          "gloss": "被",
+          "lemma": "be",
+          "surface": "be"
+        },
+        {
+          "gloss": "使用",
+          "lemma": "use",
+          "surface": "used"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "分析",
+          "lemma": "analyse",
+          "surface": "analyse"
+        },
+        {
+          "gloss": "什么",
+          "lemma": "what",
+          "surface": "what"
+        },
+        {
+          "gloss": "类型",
+          "lemma": "type",
+          "surface": "type"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "广告",
+          "lemma": "advertising",
+          "surface": "advertising"
+        },
+        {
+          "gloss": "内容",
+          "lemma": "content",
+          "surface": "content"
+        },
+        {
+          "gloss": "或",
+          "lemma": "or",
+          "surface": "or"
+        },
+        {
+          "gloss": "文案",
+          "lemma": "copy",
+          "surface": "copy"
+        },
+        {
+          "gloss": "将",
+          "lemma": "would",
+          "surface": "would"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "be"
+        },
+        {
+          "gloss": "适合的",
+          "lemma": "appropriate",
+          "surface": "appropriate"
+        },
+        {
+          "gloss": "与",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "对话",
+          "lemma": "speak",
+          "surface": "‘speak’"
+        },
+        {
+          "gloss": "对",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "特定的",
+          "lemma": "specific",
+          "surface": "specific"
+        },
+        {
+          "gloss": "目标的",
+          "lemma": "target",
+          "surface": "target"
+        },
+        {
+          "gloss": "客户",
+          "lemma": "customer",
+          "surface": "customer"
+        },
+        {
+          "gloss": "群体",
+          "lemma": "group",
+          "surface": "group"
+        },
+        {
+          "gloss": "通过",
+          "lemma": "by",
+          "surface": "by"
+        },
+        {
+          "gloss": "揭示",
+          "lemma": "reveal",
+          "surface": "revealing"
+        },
+        {
+          "gloss": "信息",
+          "lemma": "information",
+          "surface": "information"
+        },
+        {
+          "gloss": "关于",
+          "lemma": "about",
+          "surface": "about"
+        },
+        {
+          "gloss": "趋势",
+          "lemma": "trend",
+          "surface": "trends"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "偏好",
+          "lemma": "preference",
+          "surface": "preferences"
+        },
+        {
+          "gloss": "通过",
+          "lemma": "through",
+          "surface": "through"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "分析",
+          "lemma": "analysis",
+          "surface": "analysis"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "大规模的",
+          "lemma": "big",
+          "surface": "big"
+        },
+        {
+          "gloss": "数据",
+          "lemma": "data",
+          "surface": "data"
+        }
+      ]
+    },
+    {
+      "cn_text": "人工智能还可以用于识别客户在爱好、喜爱的名人、音乐选择和时尚方面的生活方式选择，从而在通过社交媒体发布的营销信息中提供独特的内容。",
+      "en_text": "AI can also be used to identify the lifestyle choices of customers regarding their hobbies, favourite celebrities, music choices, and fashions to provide unique content in marketing messages put out through social media.",
+      "id": 2023013217,
+      "order_seq": "content_1_3",
+      "task_id": 202301007,
+      "tokens": [
+        {
+          "gloss": "人工智能",
+          "lemma": "ai",
+          "surface": "AI"
+        },
+        {
+          "gloss": "能够",
+          "lemma": "can",
+          "surface": "can"
+        },
+        {
+          "gloss": "还",
+          "lemma": "also",
+          "surface": "also"
+        },
+        {
+          "gloss": "被",
+          "lemma": "be",
+          "surface": "be"
+        },
+        {
+          "gloss": "使用",
+          "lemma": "use",
+          "surface": "used"
+        },
+        {
+          "gloss": "用于",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "识别",
+          "lemma": "identify",
+          "surface": "identify"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "生活方式",
+          "lemma": "lifestyle",
+          "surface": "lifestyle"
+        },
+        {
+          "gloss": "选择",
+          "lemma": "choice",
+          "surface": "choices"
+        },
+        {
+          "gloss": "关于",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "客户",
+          "lemma": "customer",
+          "surface": "customers"
+        },
+        {
+          "gloss": "关于",
+          "lemma": "regard",
+          "surface": "regarding"
+        },
+        {
+          "gloss": "他们的",
+          "lemma": "their",
+          "surface": "their"
+        },
+        {
+          "gloss": "爱好",
+          "lemma": "hobby",
+          "surface": "hobbies"
+        },
+        {
+          "gloss": "喜爱的",
+          "lemma": "favourite",
+          "surface": "favourite"
+        },
+        {
+          "gloss": "名人",
+          "lemma": "celebrity",
+          "surface": "celebrities"
+        },
+        {
+          "gloss": "音乐",
+          "lemma": "music",
+          "surface": "music"
+        },
+        {
+          "gloss": "选择",
+          "lemma": "choice",
+          "surface": "choices"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "时尚",
+          "lemma": "fashion",
+          "surface": "fashions"
+        },
+        {
+          "gloss": "以便",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "提供",
+          "lemma": "provide",
+          "surface": "provide"
+        },
+        {
+          "gloss": "独特的",
+          "lemma": "unique",
+          "surface": "unique"
+        },
+        {
+          "gloss": "内容",
+          "lemma": "content",
+          "surface": "content"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "营销",
+          "lemma": "marketing",
+          "surface": "marketing"
+        },
+        {
+          "gloss": "信息",
+          "lemma": "message",
+          "surface": "messages"
+        },
+        {
+          "gloss": "发布",
+          "lemma": "put",
+          "surface": "put"
+        },
+        {
+          "gloss": "出去",
+          "lemma": "out",
+          "surface": "out"
+        },
+        {
+          "gloss": "通过",
+          "lemma": "through",
+          "surface": "through"
+        },
+        {
+          "gloss": "社交的",
+          "lemma": "social",
+          "surface": "social"
+        },
+        {
+          "gloss": "媒体",
+          "lemma": "media",
+          "surface": "media"
+        }
+      ]
+    },
+    {
+      "cn_text": "与此同时，人工智能还可以用于为社交媒体帖子和聊天网站生成内容。",
+      "en_text": "At the same time AI can also be used to generate content for social media posts and chat sites.",
+      "id": 2023013218,
+      "order_seq": "content_1_4",
+      "task_id": 202301007,
+      "tokens": [
+        {
+          "gloss": "在",
+          "lemma": "at",
+          "surface": "At"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "相同的",
+          "lemma": "same",
+          "surface": "same"
+        },
+        {
+          "gloss": "时间",
+          "lemma": "time",
+          "surface": "time"
+        },
+        {
+          "gloss": "人工智能",
+          "lemma": "ai",
+          "surface": "AI"
+        },
+        {
+          "gloss": "能够",
+          "lemma": "can",
+          "surface": "can"
+        },
+        {
+          "gloss": "也",
+          "lemma": "also",
+          "surface": "also"
+        },
+        {
+          "gloss": "被",
+          "lemma": "be",
+          "surface": "be"
+        },
+        {
+          "gloss": "使用",
+          "lemma": "use",
+          "surface": "used"
+        },
+        {
+          "gloss": "用于",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "生成",
+          "lemma": "generate",
+          "surface": "generate"
+        },
+        {
+          "gloss": "内容",
+          "lemma": "content",
+          "surface": "content"
+        },
+        {
+          "gloss": "为",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "社交的",
+          "lemma": "social",
+          "surface": "social"
+        },
+        {
+          "gloss": "媒体",
+          "lemma": "media",
+          "surface": "media"
+        },
+        {
+          "gloss": "帖子",
+          "lemma": "post",
+          "surface": "posts"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "聊天",
+          "lemma": "chat",
+          "surface": "chat"
+        },
+        {
+          "gloss": "网站",
+          "lemma": "site",
+          "surface": "sites"
+        }
+      ]
+    },
+    {
+      "cn_text": "人工智能还可以在品牌与客户进行情感沟通的需求和识别客户快速变化的需求之间搭建桥梁。",
+      "en_text": "AI can also provide a bridge between the need of the brand to communicate emotionally with the customer and identifying their rapidly changing needs.",
+      "id": 2023013219,
+      "order_seq": "content_1_5",
+      "task_id": 202301007,
+      "tokens": [
+        {
+          "gloss": "人工智能",
+          "lemma": "ai",
+          "surface": "AI"
+        },
+        {
+          "gloss": "能够",
+          "lemma": "can",
+          "surface": "can"
+        },
+        {
+          "gloss": "还",
+          "lemma": "also",
+          "surface": "also"
+        },
+        {
+          "gloss": "提供",
+          "lemma": "provide",
+          "surface": "provide"
+        },
+        {
+          "gloss": "一座",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "桥梁",
+          "lemma": "bridge",
+          "surface": "bridge"
+        },
+        {
+          "gloss": "在……之间",
+          "lemma": "between",
+          "surface": "between"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "需求",
+          "lemma": "need",
+          "surface": "need"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "品牌",
+          "lemma": "brand",
+          "surface": "brand"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "交流",
+          "lemma": "communicate",
+          "surface": "communicate"
+        },
+        {
+          "gloss": "情感上",
+          "lemma": "emotionally",
+          "surface": "emotionally"
+        },
+        {
+          "gloss": "与",
+          "lemma": "with",
+          "surface": "with"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "客户",
+          "lemma": "customer",
+          "surface": "customer"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "识别",
+          "lemma": "identify",
+          "surface": "identifying"
+        },
+        {
+          "gloss": "他们的",
+          "lemma": "their",
+          "surface": "their"
+        },
+        {
+          "gloss": "快速地",
+          "lemma": "rapidly",
+          "surface": "rapidly"
+        },
+        {
+          "gloss": "变化的",
+          "lemma": "change",
+          "surface": "changing"
+        },
+        {
+          "gloss": "需求",
+          "lemma": "need",
+          "surface": "needs"
+        }
+      ]
+    },
+    {
+      "cn_text": "使用人工智能回应客户的主要缺点在于，人们对将个人互动托付给机器存在信任方面的担忧，这不仅可能导致人际联系的随之丧失，还可能导致营销人员的减少。",
+      "en_text": "The main disadvantage of using AI to respond to customers is that there are concerns about trusting personal interactions to machines, which could lead not only to the subsequent loss of interpersonal connections, but also to a decrease in marketing personnel.",
+      "id": 2023013220,
+      "order_seq": "content_2_1",
+      "task_id": 202301007,
+      "tokens": [
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "The"
+        },
+        {
+          "gloss": "主要的",
+          "lemma": "main",
+          "surface": "main"
+        },
+        {
+          "gloss": "缺点",
+          "lemma": "disadvantage",
+          "surface": "disadvantage"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "使用",
+          "lemma": "use",
+          "surface": "using"
+        },
+        {
+          "gloss": "人工智能",
+          "lemma": "ai",
+          "surface": "AI"
+        },
+        {
+          "gloss": "来",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "回应",
+          "lemma": "respond",
+          "surface": "respond"
+        },
+        {
+          "gloss": "对",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "客户",
+          "lemma": "customer",
+          "surface": "customers"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "在于",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "存在",
+          "lemma": "there",
+          "surface": "there"
+        },
+        {
+          "gloss": "有",
+          "lemma": "be",
+          "surface": "are"
+        },
+        {
+          "gloss": "担忧",
+          "lemma": "concern",
+          "surface": "concerns"
+        },
+        {
+          "gloss": "关于",
+          "lemma": "about",
+          "surface": "about"
+        },
+        {
+          "gloss": "信任",
+          "lemma": "trust",
+          "surface": "trusting"
+        },
+        {
+          "gloss": "个人的",
+          "lemma": "personal",
+          "surface": "personal"
+        },
+        {
+          "gloss": "互动",
+          "lemma": "interaction",
+          "surface": "interactions"
+        },
+        {
+          "gloss": "交给",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "机器",
+          "lemma": "machine",
+          "surface": "machines"
+        },
+        {
+          "gloss": "这",
+          "lemma": "which",
+          "surface": "which"
+        },
+        {
+          "gloss": "可能",
+          "lemma": "could",
+          "surface": "could"
+        },
+        {
+          "gloss": "导致",
+          "lemma": "lead",
+          "surface": "lead"
+        },
+        {
+          "gloss": "不",
+          "lemma": "not",
+          "surface": "not"
+        },
+        {
+          "gloss": "仅仅",
+          "lemma": "only",
+          "surface": "only"
+        },
+        {
+          "gloss": "到",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "随之的",
+          "lemma": "subsequent",
+          "surface": "subsequent"
+        },
+        {
+          "gloss": "丧失",
+          "lemma": "loss",
+          "surface": "loss"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "人际的",
+          "lemma": "interpersonal",
+          "surface": "interpersonal"
+        },
+        {
+          "gloss": "关系",
+          "lemma": "connection",
+          "surface": "connections"
+        },
+        {
+          "gloss": "还",
+          "lemma": "but",
+          "surface": "but"
+        },
+        {
+          "gloss": "也",
+          "lemma": "also",
+          "surface": "also"
+        },
+        {
+          "gloss": "到",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "减少",
+          "lemma": "decrease",
+          "surface": "decrease"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "营销",
+          "lemma": "marketing",
+          "surface": "marketing"
+        },
+        {
+          "gloss": "人员",
+          "lemma": "personnel",
+          "surface": "personnel"
+        }
+      ]
+    },
+    {
+      "cn_text": "一些人认为，人工智能通过降低创造力和减少工作岗位，对营销人员的角色产生了负面影响，但他们也意识到这是一种降低成本和创造新信息的方式。",
+      "en_text": "Some believe that AI is negatively impacting on the marketer’s role by reducing creativity and removing jobs, but they are aware that it is a way of reducing costs and creating new information.",
+      "id": 2023013221,
+      "order_seq": "content_2_2",
+      "task_id": 202301007,
+      "tokens": [
+        {
+          "gloss": "一些",
+          "lemma": "some",
+          "surface": "Some"
+        },
+        {
+          "gloss": "认为",
+          "lemma": "believe",
+          "surface": "believe"
+        },
+        {
+          "gloss": "认为",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "人工智能",
+          "lemma": "ai",
+          "surface": "AI"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "负面地",
+          "lemma": "negatively",
+          "surface": "negatively"
+        },
+        {
+          "gloss": "影响",
+          "lemma": "impact",
+          "surface": "impacting"
+        },
+        {
+          "gloss": "对",
+          "lemma": "on",
+          "surface": "on"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "营销人员的",
+          "lemma": "marketer",
+          "surface": "marketer’s"
+        },
+        {
+          "gloss": "角色",
+          "lemma": "role",
+          "surface": "role"
+        },
+        {
+          "gloss": "通过",
+          "lemma": "by",
+          "surface": "by"
+        },
+        {
+          "gloss": "减少",
+          "lemma": "reduce",
+          "surface": "reducing"
+        },
+        {
+          "gloss": "创造力",
+          "lemma": "creativity",
+          "surface": "creativity"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "剥夺",
+          "lemma": "remove",
+          "surface": "removing"
+        },
+        {
+          "gloss": "工作",
+          "lemma": "job",
+          "surface": "jobs"
+        },
+        {
+          "gloss": "但",
+          "lemma": "but",
+          "surface": "but"
+        },
+        {
+          "gloss": "他们",
+          "lemma": "they",
+          "surface": "they"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "are"
+        },
+        {
+          "gloss": "意识到",
+          "lemma": "aware",
+          "surface": "aware"
+        },
+        {
+          "gloss": "这",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "it"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "一种",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "方式",
+          "lemma": "way",
+          "surface": "way"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "降低",
+          "lemma": "reduce",
+          "surface": "reducing"
+        },
+        {
+          "gloss": "成本",
+          "lemma": "cost",
+          "surface": "costs"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "创造",
+          "lemma": "create",
+          "surface": "creating"
+        },
+        {
+          "gloss": "新的",
+          "lemma": "new",
+          "surface": "new"
+        },
+        {
+          "gloss": "信息",
+          "lemma": "information",
+          "surface": "information"
+        }
+      ]
+    },
+    {
+      "cn_text": "通过让人工智能开发内容，一些品牌营销人员可能会发现他们正在失去对品牌叙事的控制。",
+      "en_text": "By allowing AI to develop content some brand marketers may find that they are losing control over the brand narrative.",
+      "id": 2023013222,
+      "order_seq": "content_2_3",
+      "task_id": 202301007,
+      "tokens": [
+        {
+          "gloss": "通过",
+          "lemma": "by",
+          "surface": "By"
+        },
+        {
+          "gloss": "允许",
+          "lemma": "allow",
+          "surface": "allowing"
+        },
+        {
+          "gloss": "人工智能",
+          "lemma": "ai",
+          "surface": "AI"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "开发",
+          "lemma": "develop",
+          "surface": "develop"
+        },
+        {
+          "gloss": "内容",
+          "lemma": "content",
+          "surface": "content"
+        },
+        {
+          "gloss": "一些",
+          "lemma": "some",
+          "surface": "some"
+        },
+        {
+          "gloss": "品牌",
+          "lemma": "brand",
+          "surface": "brand"
+        },
+        {
+          "gloss": "营销人员",
+          "lemma": "marketer",
+          "surface": "marketers"
+        },
+        {
+          "gloss": "可能",
+          "lemma": "may",
+          "surface": "may"
+        },
+        {
+          "gloss": "发现",
+          "lemma": "find",
+          "surface": "find"
+        },
+        {
+          "gloss": "他们",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "他们",
+          "lemma": "they",
+          "surface": "they"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "are"
+        },
+        {
+          "gloss": "失去",
+          "lemma": "lose",
+          "surface": "losing"
+        },
+        {
+          "gloss": "控制",
+          "lemma": "control",
+          "surface": "control"
+        },
+        {
+          "gloss": "对",
+          "lemma": "over",
+          "surface": "over"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "品牌",
+          "lemma": "brand",
+          "surface": "brand"
+        },
+        {
+          "gloss": "叙事",
+          "lemma": "narrative",
+          "surface": "narrative"
+        }
+      ]
+    },
+    {
+      "cn_text": "用于模拟人类互动的算法正在引发许多此类担忧,尤其是因为没有人完全确定使用人工智能与客户互动的结果将会如何。",
+      "en_text": "Algorithms that are used to simulate human interactions are creating many of these concerns, especially as no-one is quite sure what the outcomes of using AI to interact with customers will be.",
+      "id": 2023013223,
+      "order_seq": "content_2_4",
+      "task_id": 202301007,
+      "tokens": [
+        {
+          "gloss": "算法",
+          "lemma": "algorithm",
+          "surface": "Algorithms"
+        },
+        {
+          "gloss": "用于引导从句",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "are"
+        },
+        {
+          "gloss": "使用",
+          "lemma": "use",
+          "surface": "used"
+        },
+        {
+          "gloss": "用于",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "模拟",
+          "lemma": "simulate",
+          "surface": "simulate"
+        },
+        {
+          "gloss": "人类的",
+          "lemma": "human",
+          "surface": "human"
+        },
+        {
+          "gloss": "互动",
+          "lemma": "interaction",
+          "surface": "interactions"
+        },
+        {
+          "gloss": "正在",
+          "lemma": "be",
+          "surface": "are"
+        },
+        {
+          "gloss": "创造",
+          "lemma": "create",
+          "surface": "creating"
+        },
+        {
+          "gloss": "许多",
+          "lemma": "many",
+          "surface": "many"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "这些",
+          "lemma": "these",
+          "surface": "these"
+        },
+        {
+          "gloss": "担忧",
+          "lemma": "concern",
+          "surface": "concerns"
+        },
+        {
+          "gloss": "尤其",
+          "lemma": "especially",
+          "surface": "especially"
+        },
+        {
+          "gloss": "因为",
+          "lemma": "as",
+          "surface": "as"
+        },
+        {
+          "gloss": "没有",
+          "lemma": "no",
+          "surface": "no"
+        },
+        {
+          "gloss": "人",
+          "lemma": "one",
+          "surface": "one"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "完全",
+          "lemma": "quite",
+          "surface": "quite"
+        },
+        {
+          "gloss": "确定的",
+          "lemma": "sure",
+          "surface": "sure"
+        },
+        {
+          "gloss": "什么",
+          "lemma": "what",
+          "surface": "what"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "结果",
+          "lemma": "outcome",
+          "surface": "outcomes"
+        },
+        {
+          "gloss": "关于",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "使用",
+          "lemma": "use",
+          "surface": "using"
+        },
+        {
+          "gloss": "人工智能",
+          "lemma": "ai",
+          "surface": "AI"
+        },
+        {
+          "gloss": "用于",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "互动",
+          "lemma": "interact",
+          "surface": "interact"
+        },
+        {
+          "gloss": "与",
+          "lemma": "with",
+          "surface": "with"
+        },
+        {
+          "gloss": "客户",
+          "lemma": "customer",
+          "surface": "customers"
+        },
+        {
+          "gloss": "将",
+          "lemma": "will",
+          "surface": "will"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "be"
+        }
+      ]
+    },
+    {
+      "cn_text": "要让人工智能取得成功，数据需要是可访问的，但个人数据的使用正变得更加受到监管，数据的自动共享也变得更加困难。",
+      "en_text": "For AI to be successful, data needs to be accessible, but the use of personal data is becoming more regulated and the automated sharing of data is becoming more difficult.",
+      "id": 2023013224,
+      "order_seq": "content_3_1",
+      "task_id": 202301007,
+      "tokens": [
+        {
+          "gloss": "为了",
+          "lemma": "for",
+          "surface": "For"
+        },
+        {
+          "gloss": "人工智能",
+          "lemma": "ai",
+          "surface": "AI"
+        },
+        {
+          "gloss": "让",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "be"
+        },
+        {
+          "gloss": "成功的",
+          "lemma": "successful",
+          "surface": "successful"
+        },
+        {
+          "gloss": "数据",
+          "lemma": "data",
+          "surface": "data"
+        },
+        {
+          "gloss": "需要",
+          "lemma": "need",
+          "surface": "needs"
+        },
+        {
+          "gloss": "是",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "be"
+        },
+        {
+          "gloss": "可访问的",
+          "lemma": "accessible",
+          "surface": "accessible"
+        },
+        {
+          "gloss": "但是",
+          "lemma": "but",
+          "surface": "but"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "使用",
+          "lemma": "use",
+          "surface": "use"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "个人的",
+          "lemma": "personal",
+          "surface": "personal"
+        },
+        {
+          "gloss": "数据",
+          "lemma": "data",
+          "surface": "data"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "变得",
+          "lemma": "become",
+          "surface": "becoming"
+        },
+        {
+          "gloss": "更加",
+          "lemma": "more",
+          "surface": "more"
+        },
+        {
+          "gloss": "受限的",
+          "lemma": "regulated",
+          "surface": "regulated"
+        },
+        {
+          "gloss": "并且",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "自动化的",
+          "lemma": "automated",
+          "surface": "automated"
+        },
+        {
+          "gloss": "共享",
+          "lemma": "share",
+          "surface": "sharing"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "数据",
+          "lemma": "data",
+          "surface": "data"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "变得",
+          "lemma": "become",
+          "surface": "becoming"
+        },
+        {
+          "gloss": "更加",
+          "lemma": "more",
+          "surface": "more"
+        },
+        {
+          "gloss": "困难的",
+          "lemma": "difficult",
+          "surface": "difficult"
+        }
+      ]
+    },
+    {
+      "cn_text": "如果客户不愿意共享数据，人工智能将缺乏必要的信息，无法有效运作或利用机器学习来改进其营销内容和沟通方式。",
+      "en_text": "If customers are not willing to share data, AI will be starved of essential information and will not be able to function effectively or employ machine learning to improve its marketing content and communication.",
+      "id": 2023013225,
+      "order_seq": "content_3_2",
+      "task_id": 202301007,
+      "tokens": [
+        {
+          "gloss": "如果",
+          "lemma": "if",
+          "surface": "if"
+        },
+        {
+          "gloss": "客户",
+          "lemma": "customer",
+          "surface": "customers"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "are"
+        },
+        {
+          "gloss": "不",
+          "lemma": "not",
+          "surface": "not"
+        },
+        {
+          "gloss": "愿意的",
+          "lemma": "willing",
+          "surface": "willing"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "分享",
+          "lemma": "share",
+          "surface": "share"
+        },
+        {
+          "gloss": "数据",
+          "lemma": "data",
+          "surface": "data"
+        },
+        {
+          "gloss": "人工智能",
+          "lemma": "ai",
+          "surface": "AI"
+        },
+        {
+          "gloss": "将",
+          "lemma": "will",
+          "surface": "will"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "be"
+        },
+        {
+          "gloss": "缺乏",
+          "lemma": "starve",
+          "surface": "starved"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "必要的",
+          "lemma": "essential",
+          "surface": "essential"
+        },
+        {
+          "gloss": "信息",
+          "lemma": "information",
+          "surface": "information"
+        },
+        {
+          "gloss": "并且",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "将",
+          "lemma": "will",
+          "surface": "will"
+        },
+        {
+          "gloss": "不",
+          "lemma": "not",
+          "surface": "not"
+        },
+        {
+          "gloss": "能够",
+          "lemma": "be",
+          "surface": "be"
+        },
+        {
+          "gloss": "能够的",
+          "lemma": "able",
+          "surface": "able"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "运作",
+          "lemma": "function",
+          "surface": "function"
+        },
+        {
+          "gloss": "有效地",
+          "lemma": "effectively",
+          "surface": "effectively"
+        },
+        {
+          "gloss": "或者",
+          "lemma": "or",
+          "surface": "or"
+        },
+        {
+          "gloss": "利用",
+          "lemma": "employ",
+          "surface": "employ"
+        },
+        {
+          "gloss": "机器",
+          "lemma": "machine",
+          "surface": "machine"
+        },
+        {
+          "gloss": "学习",
+          "lemma": "learning",
+          "surface": "learning"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "改进",
+          "lemma": "improve",
+          "surface": "improve"
+        },
+        {
+          "gloss": "它的",
+          "lemma": "its",
+          "surface": "its"
+        },
+        {
+          "gloss": "营销",
+          "lemma": "marketing",
+          "surface": "marketing"
+        },
+        {
+          "gloss": "内容",
+          "lemma": "content",
+          "surface": "content"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "沟通",
+          "lemma": "communication",
+          "surface": "communication"
+        }
+      ]
+    },
+    {
+      "cn_text": "因此，除非客户愿意签署授权协议，否则人工智能的使用在未来可能会受到某种程度的限制。",
+      "en_text": "Therefore, unless customers are prepared to sign release agreements, the use of AI may become somewhat restricted in the future.",
+      "id": 2023013226,
+      "order_seq": "content_3_3",
+      "task_id": 202301007,
+      "tokens": [
+        {
+          "gloss": "因此",
+          "lemma": "therefore",
+          "surface": "therefore"
+        },
+        {
+          "gloss": "除非",
+          "lemma": "unless",
+          "surface": "unless"
+        },
+        {
+          "gloss": "客户",
+          "lemma": "customer",
+          "surface": "customers"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "are"
+        },
+        {
+          "gloss": "准备",
+          "lemma": "prepare",
+          "surface": "prepared"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "签署",
+          "lemma": "sign",
+          "surface": "sign"
+        },
+        {
+          "gloss": "授权",
+          "lemma": "release",
+          "surface": "release"
+        },
+        {
+          "gloss": "协议",
+          "lemma": "agreement",
+          "surface": "agreements"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "使用",
+          "lemma": "use",
+          "surface": "use"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "人工智能",
+          "lemma": "ai",
+          "surface": "AI"
+        },
+        {
+          "gloss": "可能",
+          "lemma": "may",
+          "surface": "may"
+        },
+        {
+          "gloss": "变得",
+          "lemma": "become",
+          "surface": "become"
+        },
+        {
+          "gloss": "一定程度上",
+          "lemma": "somewhat",
+          "surface": "somewhat"
+        },
+        {
+          "gloss": "限制",
+          "lemma": "restrict",
+          "surface": "restricted"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "未来",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "未来",
+          "lemma": "future",
+          "surface": "future"
+        }
+      ]
+    },
+    {
+      "cn_text": "人工智能不仅可以帮助创建营销内容，还可以提供一种非侵扰性的方式将内容传递给目标客户。",
+      "en_text": "Not only can AI help to create the marketing content, but it can also provide a non-intrusive way of delivering the content to the target customers.",
+      "id": 2023013227,
+      "order_seq": "content_3_4",
+      "task_id": 202301007,
+      "tokens": [
+        {
+          "gloss": "不",
+          "lemma": "not",
+          "surface": "Not"
+        },
+        {
+          "gloss": "仅仅",
+          "lemma": "only",
+          "surface": "only"
+        },
+        {
+          "gloss": "能够",
+          "lemma": "can",
+          "surface": "can"
+        },
+        {
+          "gloss": "人工智能",
+          "lemma": "ai",
+          "surface": "AI"
+        },
+        {
+          "gloss": "帮助",
+          "lemma": "help",
+          "surface": "help"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "创建",
+          "lemma": "create",
+          "surface": "create"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "营销",
+          "lemma": "marketing",
+          "surface": "marketing"
+        },
+        {
+          "gloss": "内容",
+          "lemma": "content",
+          "surface": "content"
+        },
+        {
+          "gloss": "但是",
+          "lemma": "but",
+          "surface": "but"
+        },
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "it"
+        },
+        {
+          "gloss": "能够",
+          "lemma": "can",
+          "surface": "can"
+        },
+        {
+          "gloss": "也",
+          "lemma": "also",
+          "surface": "also"
+        },
+        {
+          "gloss": "提供",
+          "lemma": "provide",
+          "surface": "provide"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "非",
+          "lemma": "non",
+          "surface": "non"
+        },
+        {
+          "gloss": "干扰的",
+          "lemma": "intrusive",
+          "surface": "intrusive"
+        },
+        {
+          "gloss": "方式",
+          "lemma": "way",
+          "surface": "way"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "传递",
+          "lemma": "deliver",
+          "surface": "delivering"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "内容",
+          "lemma": "content",
+          "surface": "content"
+        },
+        {
+          "gloss": "给",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "目标的",
+          "lemma": "target",
+          "surface": "target"
+        },
+        {
+          "gloss": "客户",
+          "lemma": "customer",
+          "surface": "customers"
+        }
+      ]
+    },
+    {
+      "cn_text": "可以收集关于客户可以被触达的位置的数据，例如地理位置、使用的设备、网站互动和访问过的网站，以便以适当的形式和适当的频率展示营销信息，包括电子邮件、社交媒体帖子、弹出式广告和横幅广告。",
+      "en_text": "Data can be gathered on where the customer can be engaged, such as location, devices used, website interactions, and sites visited, to display marketing messages in appropriate forms, including emails, social media posts, pop-up advertisements, and banners at an appropriate frequency.",
+      "id": 2023013228,
+      "order_seq": "content_3_5",
+      "task_id": 202301007,
+      "tokens": [
+        {
+          "gloss": "数据",
+          "lemma": "data",
+          "surface": "Data"
+        },
+        {
+          "gloss": "能够",
+          "lemma": "can",
+          "surface": "can"
+        },
+        {
+          "gloss": "被",
+          "lemma": "be",
+          "surface": "be"
+        },
+        {
+          "gloss": "收集",
+          "lemma": "gather",
+          "surface": "gathered"
+        },
+        {
+          "gloss": "关于",
+          "lemma": "on",
+          "surface": "on"
+        },
+        {
+          "gloss": "哪里",
+          "lemma": "where",
+          "surface": "where"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "客户",
+          "lemma": "customer",
+          "surface": "customer"
+        },
+        {
+          "gloss": "能够",
+          "lemma": "can",
+          "surface": "can"
+        },
+        {
+          "gloss": "被",
+          "lemma": "be",
+          "surface": "be"
+        },
+        {
+          "gloss": "吸引",
+          "lemma": "engage",
+          "surface": "engaged"
+        },
+        {
+          "gloss": "例如",
+          "lemma": "such",
+          "surface": "such"
+        },
+        {
+          "gloss": "如",
+          "lemma": "as",
+          "surface": "as"
+        },
+        {
+          "gloss": "位置",
+          "lemma": "location",
+          "surface": "location"
+        },
+        {
+          "gloss": "设备",
+          "lemma": "device",
+          "surface": "devices"
+        },
+        {
+          "gloss": "使用",
+          "lemma": "use",
+          "surface": "used"
+        },
+        {
+          "gloss": "网站",
+          "lemma": "website",
+          "surface": "website"
+        },
+        {
+          "gloss": "互动",
+          "lemma": "interaction",
+          "surface": "interactions"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "网站",
+          "lemma": "site",
+          "surface": "sites"
+        },
+        {
+          "gloss": "访问",
+          "lemma": "visit",
+          "surface": "visited"
+        },
+        {
+          "gloss": "以",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "展示",
+          "lemma": "display",
+          "surface": "display"
+        },
+        {
+          "gloss": "营销",
+          "lemma": "marketing",
+          "surface": "marketing"
+        },
+        {
+          "gloss": "信息",
+          "lemma": "message",
+          "surface": "messages"
+        },
+        {
+          "gloss": "以",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "适当的",
+          "lemma": "appropriate",
+          "surface": "appropriate"
+        },
+        {
+          "gloss": "形式",
+          "lemma": "form",
+          "surface": "forms"
+        },
+        {
+          "gloss": "包括",
+          "lemma": "include",
+          "surface": "including"
+        },
+        {
+          "gloss": "电子邮件",
+          "lemma": "email",
+          "surface": "emails"
+        },
+        {
+          "gloss": "社交的",
+          "lemma": "social",
+          "surface": "social"
+        },
+        {
+          "gloss": "媒体",
+          "lemma": "media",
+          "surface": "media"
+        },
+        {
+          "gloss": "帖子",
+          "lemma": "post",
+          "surface": "posts"
+        },
+        {
+          "gloss": "弹出",
+          "lemma": "pop",
+          "surface": "pop"
+        },
+        {
+          "gloss": "向上",
+          "lemma": "up",
+          "surface": "up"
+        },
+        {
+          "gloss": "广告",
+          "lemma": "advertisement",
+          "surface": "advertisements"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "横幅",
+          "lemma": "banner",
+          "surface": "banners"
+        },
+        {
+          "gloss": "以",
+          "lemma": "at",
+          "surface": "at"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "an",
+          "surface": "an"
+        },
+        {
+          "gloss": "适当的",
+          "lemma": "appropriate",
+          "surface": "appropriate"
+        },
+        {
+          "gloss": "频率",
+          "lemma": "frequency",
+          "surface": "frequency"
+        }
+      ]
+    },
+    {
+      "cn_text": "以一种对目标客户需求敏感的方式非侵扰性地传递营销信息，是数字营销人员面临的关键挑战之一。",
+      "en_text": "The non-intrusive delivery of the marketing messages in a way that is sensitive to the needs of the target customer is one of the critical challenges to the digital marketer.",
+      "id": 2023013229,
+      "order_seq": "content_3_6",
+      "task_id": 202301007,
+      "tokens": [
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "The"
+        },
+        {
+          "gloss": "非",
+          "lemma": "non",
+          "surface": "non"
+        },
+        {
+          "gloss": "干扰的",
+          "lemma": "intrusive",
+          "surface": "intrusive"
+        },
+        {
+          "gloss": "传递",
+          "lemma": "delivery",
+          "surface": "delivery"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "营销",
+          "lemma": "marketing",
+          "surface": "marketing"
+        },
+        {
+          "gloss": "信息",
+          "lemma": "message",
+          "surface": "messages"
+        },
+        {
+          "gloss": "以",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "一种",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "方式",
+          "lemma": "way",
+          "surface": "way"
+        },
+        {
+          "gloss": "以至于",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "敏感的",
+          "lemma": "sensitive",
+          "surface": "sensitive"
+        },
+        {
+          "gloss": "对",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "需求",
+          "lemma": "need",
+          "surface": "needs"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "目标的",
+          "lemma": "target",
+          "surface": "target"
+        },
+        {
+          "gloss": "客户",
+          "lemma": "customer",
+          "surface": "customer"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "one",
+          "surface": "one"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "关键的",
+          "lemma": "critical",
+          "surface": "critical"
+        },
+        {
+          "gloss": "挑战",
+          "lemma": "challenge",
+          "surface": "challenges"
+        },
+        {
+          "gloss": "对",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "数字的",
+          "lemma": "digital",
+          "surface": "digital"
+        },
+        {
+          "gloss": "营销人员",
+          "lemma": "marketer",
+          "surface": "marketer"
+        }
+      ]
+    },
+    {
+      "cn_text": "理解人类可能很复杂，但我们通过浏览历史揭示了大量关于什么能吸引我们的信息。",
+      "en_text": "Understanding humans may be complicated, but we reveal a considerable amount about what appeals to us through our browsing history.",
+      "id": 2023013230,
+      "order_seq": "content_4_1",
+      "task_id": 202301007,
+      "tokens": [
+        {
+          "gloss": "理解",
+          "lemma": "understand",
+          "surface": "Understanding"
+        },
+        {
+          "gloss": "人类",
+          "lemma": "human",
+          "surface": "humans"
+        },
+        {
+          "gloss": "可能",
+          "lemma": "may",
+          "surface": "may"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "be"
+        },
+        {
+          "gloss": "复杂的",
+          "lemma": "complicated",
+          "surface": "complicated"
+        },
+        {
+          "gloss": "但是",
+          "lemma": "but",
+          "surface": "but"
+        },
+        {
+          "gloss": "我们",
+          "lemma": "we",
+          "surface": "we"
+        },
+        {
+          "gloss": "揭示",
+          "lemma": "reveal",
+          "surface": "reveal"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "大量的",
+          "lemma": "considerable",
+          "surface": "considerable"
+        },
+        {
+          "gloss": "数量",
+          "lemma": "amount",
+          "surface": "amount"
+        },
+        {
+          "gloss": "关于",
+          "lemma": "about",
+          "surface": "about"
+        },
+        {
+          "gloss": "什么",
+          "lemma": "what",
+          "surface": "what"
+        },
+        {
+          "gloss": "吸引",
+          "lemma": "appeal",
+          "surface": "appeals"
+        },
+        {
+          "gloss": "对",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "我们",
+          "lemma": "us",
+          "surface": "us"
+        },
+        {
+          "gloss": "通过",
+          "lemma": "through",
+          "surface": "through"
+        },
+        {
+          "gloss": "我们的",
+          "lemma": "our",
+          "surface": "our"
+        },
+        {
+          "gloss": "浏览",
+          "lemma": "browse",
+          "surface": "browsing"
+        },
+        {
+          "gloss": "历史",
+          "lemma": "history",
+          "surface": "history"
+        }
+      ]
+    }
+  ],
+  "success": true
+}

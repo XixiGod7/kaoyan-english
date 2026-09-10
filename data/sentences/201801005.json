@@ -1,0 +1,3277 @@
+{
+  "sentences": [
+    {
+      "cn_text": "美国邮政服务（USPS）持续出现巨额亏损。",
+      "en_text": "The U.S. Postal Service (USPS) continues to bleed red ink.",
+      "id": 2018013159,
+      "order_seq": "content_1_1",
+      "task_id": 201801005,
+      "tokens": [
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "The"
+        },
+        {
+          "gloss": "美国",
+          "lemma": "u.s.",
+          "surface": "U.S."
+        },
+        {
+          "gloss": "邮政的",
+          "lemma": "postal",
+          "surface": "Postal"
+        },
+        {
+          "gloss": "服务",
+          "lemma": "service",
+          "surface": "Service"
+        },
+        {
+          "gloss": "美国邮政服务",
+          "lemma": "usps",
+          "surface": "USPS"
+        },
+        {
+          "gloss": "继续",
+          "lemma": "continue",
+          "surface": "continues"
+        },
+        {
+          "gloss": "至",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "亏损",
+          "lemma": "bleed",
+          "surface": "bleed"
+        },
+        {
+          "gloss": "红色的",
+          "lemma": "red",
+          "surface": "red"
+        },
+        {
+          "gloss": "墨水",
+          "lemma": "ink",
+          "surface": "ink"
+        }
+      ]
+    },
+    {
+      "cn_text": "该机构报告称2016财年净亏损56亿美元，这是其支出超过收入的连续第10年。",
+      "en_text": "It reported a net loss of $5.6 billion for fiscal 2016, the 10th straight year its expenses have exceeded revenue.",
+      "id": 2018013161,
+      "order_seq": "content_1_3",
+      "task_id": 201801005,
+      "tokens": [
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "It"
+        },
+        {
+          "gloss": "报告",
+          "lemma": "report",
+          "surface": "reported"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "净的",
+          "lemma": "net",
+          "surface": "net"
+        },
+        {
+          "gloss": "亏损",
+          "lemma": "loss",
+          "surface": "loss"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "十亿",
+          "lemma": "billion",
+          "surface": "billion"
+        },
+        {
+          "gloss": "对于",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "财政的",
+          "lemma": "fiscal",
+          "surface": "fiscal"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "第十",
+          "lemma": "10th",
+          "surface": "10th"
+        },
+        {
+          "gloss": "连续的",
+          "lemma": "straight",
+          "surface": "straight"
+        },
+        {
+          "gloss": "年",
+          "lemma": "year",
+          "surface": "year"
+        },
+        {
+          "gloss": "它的",
+          "lemma": "its",
+          "surface": "its"
+        },
+        {
+          "gloss": "支出",
+          "lemma": "expense",
+          "surface": "expenses"
+        },
+        {
+          "gloss": "已经",
+          "lemma": "have",
+          "surface": "have"
+        },
+        {
+          "gloss": "超过",
+          "lemma": "exceed",
+          "surface": "exceeded"
+        },
+        {
+          "gloss": "收入",
+          "lemma": "revenue",
+          "surface": "revenue"
+        }
+      ]
+    },
+    {
+      "cn_text": "与此同时，该机构拥有超过1200亿美元的无资金来源负债，主要用于员工医疗保健和退休费用。",
+      "en_text": "Meanwhile, it has more than $120 billion in unfunded liabilities, mostly for employee health and retirement costs.",
+      "id": 2018013162,
+      "order_seq": "content_1_4",
+      "task_id": 201801005,
+      "tokens": [
+        {
+          "gloss": "与此同时",
+          "lemma": "meanwhile",
+          "surface": "Meanwhile"
+        },
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "it"
+        },
+        {
+          "gloss": "有",
+          "lemma": "have",
+          "surface": "has"
+        },
+        {
+          "gloss": "更多",
+          "lemma": "more",
+          "surface": "more"
+        },
+        {
+          "gloss": "超过",
+          "lemma": "than",
+          "surface": "than"
+        },
+        {
+          "gloss": "十亿",
+          "lemma": "billion",
+          "surface": "billion"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "未偿的",
+          "lemma": "unfunded",
+          "surface": "unfunded"
+        },
+        {
+          "gloss": "债务",
+          "lemma": "liability",
+          "surface": "liabilities"
+        },
+        {
+          "gloss": "主要",
+          "lemma": "mostly",
+          "surface": "mostly"
+        },
+        {
+          "gloss": "用于",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "员工",
+          "lemma": "employee",
+          "surface": "employee"
+        },
+        {
+          "gloss": "健康",
+          "lemma": "health",
+          "surface": "health"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "退休",
+          "lemma": "retirement",
+          "surface": "retirement"
+        },
+        {
+          "gloss": "费用",
+          "lemma": "cost",
+          "surface": "costs"
+        }
+      ]
+    },
+    {
+      "cn_text": "这家曾经稳定的联邦机构濒临破产，原因众多。",
+      "en_text": "There are many reasons this formerly stable federal institution finds itself on the verge of bankruptcy.",
+      "id": 2018013163,
+      "order_seq": "content_1_5",
+      "task_id": 201801005,
+      "tokens": [
+        {
+          "gloss": "有",
+          "lemma": "there",
+          "surface": "There"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "are"
+        },
+        {
+          "gloss": "许多",
+          "lemma": "many",
+          "surface": "many"
+        },
+        {
+          "gloss": "原因",
+          "lemma": "reason",
+          "surface": "reasons"
+        },
+        {
+          "gloss": "这",
+          "lemma": "this",
+          "surface": "this"
+        },
+        {
+          "gloss": "曾经",
+          "lemma": "formerly",
+          "surface": "formerly"
+        },
+        {
+          "gloss": "稳定的",
+          "lemma": "stable",
+          "surface": "stable"
+        },
+        {
+          "gloss": "联邦的",
+          "lemma": "federal",
+          "surface": "federal"
+        },
+        {
+          "gloss": "机构",
+          "lemma": "institution",
+          "surface": "institution"
+        },
+        {
+          "gloss": "发现",
+          "lemma": "find",
+          "surface": "finds"
+        },
+        {
+          "gloss": "它自己",
+          "lemma": "itself",
+          "surface": "itself"
+        },
+        {
+          "gloss": "在",
+          "lemma": "on",
+          "surface": "on"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "边缘",
+          "lemma": "verge",
+          "surface": "verge"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "破产",
+          "lemma": "bankruptcy",
+          "surface": "bankruptcy"
+        }
+      ]
+    },
+    {
+      "cn_text": "从根本上说，美国邮政服务正处于一个历史性的两难困境：一方面，技术变革永久性地降低了其核心产品——一类邮件的需求；另一方面，监管结构使管理层无法灵活调整运营以适应新现实。",
+      "en_text": "Fundamentally, the USPS is in a historic squeeze between technological change that has permanently decreased demand for its bread-and-butter product, first-class mail, and a regulatory structure that denies management the flexibility to adjust its operations to the new reality.",
+      "id": 2018013164,
+      "order_seq": "content_1_6",
+      "task_id": 201801005,
+      "tokens": [
+        {
+          "gloss": "从根本上",
+          "lemma": "fundamentally",
+          "surface": "Fundamentally"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "美国邮政服务",
+          "lemma": "usps",
+          "surface": "USPS"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "历史性的",
+          "lemma": "historic",
+          "surface": "historic"
+        },
+        {
+          "gloss": "困境",
+          "lemma": "squeeze",
+          "surface": "squeeze"
+        },
+        {
+          "gloss": "在……之间",
+          "lemma": "between",
+          "surface": "between"
+        },
+        {
+          "gloss": "技术的",
+          "lemma": "technological",
+          "surface": "technological"
+        },
+        {
+          "gloss": "变革",
+          "lemma": "change",
+          "surface": "change"
+        },
+        {
+          "gloss": "那",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "已经",
+          "lemma": "have",
+          "surface": "has"
+        },
+        {
+          "gloss": "永久地",
+          "lemma": "permanently",
+          "surface": "permanently"
+        },
+        {
+          "gloss": "减少了",
+          "lemma": "decrease",
+          "surface": "decreased"
+        },
+        {
+          "gloss": "需求",
+          "lemma": "demand",
+          "surface": "demand"
+        },
+        {
+          "gloss": "对",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "它的",
+          "lemma": "its",
+          "surface": "its"
+        },
+        {
+          "gloss": "面包",
+          "lemma": "bread",
+          "surface": "bread"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "黄油",
+          "lemma": "butter",
+          "surface": "butter"
+        },
+        {
+          "gloss": "产品",
+          "lemma": "product",
+          "surface": "product"
+        },
+        {
+          "gloss": "第一",
+          "lemma": "first",
+          "surface": "first"
+        },
+        {
+          "gloss": "等级",
+          "lemma": "class",
+          "surface": "class"
+        },
+        {
+          "gloss": "邮件",
+          "lemma": "mail",
+          "surface": "mail"
+        },
+        {
+          "gloss": "以及",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "监管的",
+          "lemma": "regulatory",
+          "surface": "regulatory"
+        },
+        {
+          "gloss": "结构",
+          "lemma": "structure",
+          "surface": "structure"
+        },
+        {
+          "gloss": "那",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "剥夺",
+          "lemma": "deny",
+          "surface": "denies"
+        },
+        {
+          "gloss": "管理层",
+          "lemma": "management",
+          "surface": "management"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "灵活性",
+          "lemma": "flexibility",
+          "surface": "flexibility"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "调整",
+          "lemma": "adjust",
+          "surface": "adjust"
+        },
+        {
+          "gloss": "它的",
+          "lemma": "its",
+          "surface": "its"
+        },
+        {
+          "gloss": "运营",
+          "lemma": "operation",
+          "surface": "operations"
+        },
+        {
+          "gloss": "以适应",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "新的",
+          "lemma": "new",
+          "surface": "new"
+        },
+        {
+          "gloss": "现实",
+          "lemma": "reality",
+          "surface": "reality"
+        }
+      ]
+    },
+    {
+      "cn_text": "从邮政工会到贺卡制造商等利益集团对美国邮政服务的最终监管者——国会——施加了基于自身利益的压力，坚持要求无论邮政服务发生何种变化，他们所依赖的现状必须得到保护。",
+      "en_text": "And interest groups ranging from postal unions to greeting-card makers exert selfinterested pressure on the USPS’s ultimate overseer — Congress — insisting that whatever else happens to the Postal Service, aspects of the status quo they depend on get protected.",
+      "id": 2018013165,
+      "order_seq": "content_2_1",
+      "task_id": 201801005,
+      "tokens": [
+        {
+          "gloss": "而且",
+          "lemma": "and",
+          "surface": "And"
+        },
+        {
+          "gloss": "利益",
+          "lemma": "interest",
+          "surface": "interest"
+        },
+        {
+          "gloss": "集团",
+          "lemma": "group",
+          "surface": "groups"
+        },
+        {
+          "gloss": "范围从",
+          "lemma": "range",
+          "surface": "ranging"
+        },
+        {
+          "gloss": "从",
+          "lemma": "from",
+          "surface": "from"
+        },
+        {
+          "gloss": "邮政的",
+          "lemma": "postal",
+          "surface": "postal"
+        },
+        {
+          "gloss": "工会",
+          "lemma": "union",
+          "surface": "unions"
+        },
+        {
+          "gloss": "到",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "问候",
+          "lemma": "greet",
+          "surface": "greeting"
+        },
+        {
+          "gloss": "卡片",
+          "lemma": "card",
+          "surface": "card"
+        },
+        {
+          "gloss": "制造商",
+          "lemma": "maker",
+          "surface": "makers"
+        },
+        {
+          "gloss": "施加",
+          "lemma": "exert",
+          "surface": "exert"
+        },
+        {
+          "gloss": "自私的",
+          "lemma": "selfinterested",
+          "surface": "selfinterested"
+        },
+        {
+          "gloss": "压力",
+          "lemma": "pressure",
+          "surface": "pressure"
+        },
+        {
+          "gloss": "对",
+          "lemma": "on",
+          "surface": "on"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "美国邮政服务的",
+          "lemma": "usps's",
+          "surface": "USPS’s"
+        },
+        {
+          "gloss": "最终的",
+          "lemma": "ultimate",
+          "surface": "ultimate"
+        },
+        {
+          "gloss": "监管者",
+          "lemma": "overseer",
+          "surface": "overseer"
+        },
+        {
+          "gloss": "国会",
+          "lemma": "congress",
+          "surface": "Congress"
+        },
+        {
+          "gloss": "坚决要求",
+          "lemma": "insist",
+          "surface": "insisting"
+        },
+        {
+          "gloss": "无论",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "无论什么",
+          "lemma": "whatever",
+          "surface": "whatever"
+        },
+        {
+          "gloss": "其他",
+          "lemma": "else",
+          "surface": "else"
+        },
+        {
+          "gloss": "发生",
+          "lemma": "happen",
+          "surface": "happens"
+        },
+        {
+          "gloss": "对",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "邮政的",
+          "lemma": "postal",
+          "surface": "Postal"
+        },
+        {
+          "gloss": "服务",
+          "lemma": "service",
+          "surface": "Service"
+        },
+        {
+          "gloss": "方面",
+          "lemma": "aspect",
+          "surface": "aspects"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "现状",
+          "lemma": "status",
+          "surface": "status"
+        },
+        {
+          "gloss": "现状",
+          "lemma": "quo",
+          "surface": "quo"
+        },
+        {
+          "gloss": "他们",
+          "lemma": "they",
+          "surface": "they"
+        },
+        {
+          "gloss": "依赖",
+          "lemma": "depend",
+          "surface": "depend"
+        },
+        {
+          "gloss": "于",
+          "lemma": "on",
+          "surface": "on"
+        },
+        {
+          "gloss": "得到",
+          "lemma": "get",
+          "surface": "get"
+        },
+        {
+          "gloss": "保护",
+          "lemma": "protect",
+          "surface": "protected"
+        }
+      ]
+    },
+    {
+      "cn_text": "这正是近年来多次改革立法尝试均告失败的原因，致使邮政服务只能通过推迟关键的现代化改造来支付账单。",
+      "en_text": "This is why repeated attempts at reform legislation have failed in recent years, leaving the Postal Service unable to pay its bills except by deferring vital modernization.",
+      "id": 2018013166,
+      "order_seq": "content_2_2",
+      "task_id": 201801005,
+      "tokens": [
+        {
+          "gloss": "这",
+          "lemma": "this",
+          "surface": "This"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "为什么",
+          "lemma": "why",
+          "surface": "why"
+        },
+        {
+          "gloss": "多次的",
+          "lemma": "repeat",
+          "surface": "repeated"
+        },
+        {
+          "gloss": "尝试",
+          "lemma": "attempt",
+          "surface": "attempts"
+        },
+        {
+          "gloss": "在",
+          "lemma": "at",
+          "surface": "at"
+        },
+        {
+          "gloss": "改革",
+          "lemma": "reform",
+          "surface": "reform"
+        },
+        {
+          "gloss": "立法",
+          "lemma": "legislation",
+          "surface": "legislation"
+        },
+        {
+          "gloss": "已经",
+          "lemma": "have",
+          "surface": "have"
+        },
+        {
+          "gloss": "失败",
+          "lemma": "fail",
+          "surface": "failed"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "最近的",
+          "lemma": "recent",
+          "surface": "recent"
+        },
+        {
+          "gloss": "年",
+          "lemma": "year",
+          "surface": "years"
+        },
+        {
+          "gloss": "导致",
+          "lemma": "leave",
+          "surface": "leaving"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "邮政的",
+          "lemma": "postal",
+          "surface": "Postal"
+        },
+        {
+          "gloss": "服务",
+          "lemma": "service",
+          "surface": "Service"
+        },
+        {
+          "gloss": "无法",
+          "lemma": "unable",
+          "surface": "unable"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "支付",
+          "lemma": "pay",
+          "surface": "pay"
+        },
+        {
+          "gloss": "它的",
+          "lemma": "its",
+          "surface": "its"
+        },
+        {
+          "gloss": "账单",
+          "lemma": "bill",
+          "surface": "bills"
+        },
+        {
+          "gloss": "除非",
+          "lemma": "except",
+          "surface": "except"
+        },
+        {
+          "gloss": "通过",
+          "lemma": "by",
+          "surface": "by"
+        },
+        {
+          "gloss": "推迟",
+          "lemma": "defer",
+          "surface": "deferring"
+        },
+        {
+          "gloss": "必要的",
+          "lemma": "vital",
+          "surface": "vital"
+        },
+        {
+          "gloss": "现代化",
+          "lemma": "modernization",
+          "surface": "modernization"
+        }
+      ]
+    },
+    {
+      "cn_text": "现在传来消息称，所有相关方——民主党人、共和党人、邮政服务、工会以及该系统的最大用户——终于就修复该系统的计划达成了一致。",
+      "en_text": "Now comes word that everyone involved — Democrats, Republicans, the Postal Service, the unions and the system’s heaviest users — has finally agreed on a plan to fix the system.",
+      "id": 2018013167,
+      "order_seq": "content_3_1",
+      "task_id": 201801005,
+      "tokens": [
+        {
+          "gloss": "现在",
+          "lemma": "now",
+          "surface": "Now"
+        },
+        {
+          "gloss": "传来",
+          "lemma": "come",
+          "surface": "comes"
+        },
+        {
+          "gloss": "消息",
+          "lemma": "word",
+          "surface": "word"
+        },
+        {
+          "gloss": "称",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "所有人",
+          "lemma": "everyone",
+          "surface": "everyone"
+        },
+        {
+          "gloss": "相关的",
+          "lemma": "involved",
+          "surface": "involved"
+        },
+        {
+          "gloss": "民主党",
+          "lemma": "democrat",
+          "surface": "Democrats"
+        },
+        {
+          "gloss": "共和党",
+          "lemma": "republican",
+          "surface": "Republicans"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "邮政的",
+          "lemma": "postal",
+          "surface": "Postal"
+        },
+        {
+          "gloss": "服务",
+          "lemma": "service",
+          "surface": "Service"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "工会",
+          "lemma": "union",
+          "surface": "unions"
+        },
+        {
+          "gloss": "以及",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "系统的",
+          "lemma": "system's",
+          "surface": "system’s"
+        },
+        {
+          "gloss": "最主要的",
+          "lemma": "heavy",
+          "surface": "heaviest"
+        },
+        {
+          "gloss": "用户",
+          "lemma": "user",
+          "surface": "users"
+        },
+        {
+          "gloss": "已经",
+          "lemma": "have",
+          "surface": "has"
+        },
+        {
+          "gloss": "终于",
+          "lemma": "finally",
+          "surface": "finally"
+        },
+        {
+          "gloss": "达成一致",
+          "lemma": "agree",
+          "surface": "agreed"
+        },
+        {
+          "gloss": "关于",
+          "lemma": "on",
+          "surface": "on"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "计划",
+          "lemma": "plan",
+          "surface": "plan"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "修复",
+          "lemma": "fix",
+          "surface": "fix"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "系统",
+          "lemma": "system",
+          "surface": "system"
+        }
+      ]
+    },
+    {
+      "cn_text": "一项正在众议院推进的立法预计将在五年内为美国邮政服务节省约286亿美元，这些资金可用于购置新车辆及其他维持运营的措施。",
+      "en_text": "Legislation is moving through the House that would save USPS an estimated $28.6 billion over five years, which could help pay for new vehicles, among other survival measures.",
+      "id": 2018013168,
+      "order_seq": "content_3_2",
+      "task_id": 201801005,
+      "tokens": [
+        {
+          "gloss": "立法",
+          "lemma": "legislation",
+          "surface": "Legislation"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "推进",
+          "lemma": "move",
+          "surface": "moving"
+        },
+        {
+          "gloss": "通过",
+          "lemma": "through",
+          "surface": "through"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "众议院",
+          "lemma": "house",
+          "surface": "House"
+        },
+        {
+          "gloss": "引导从句",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "将",
+          "lemma": "would",
+          "surface": "would"
+        },
+        {
+          "gloss": "节省",
+          "lemma": "save",
+          "surface": "save"
+        },
+        {
+          "gloss": "美国邮政",
+          "lemma": "usps",
+          "surface": "USPS"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "an",
+          "surface": "an"
+        },
+        {
+          "gloss": "预计",
+          "lemma": "estimate",
+          "surface": "estimated"
+        },
+        {
+          "gloss": "十亿",
+          "lemma": "billion",
+          "surface": "billion"
+        },
+        {
+          "gloss": "在……期间",
+          "lemma": "over",
+          "surface": "over"
+        },
+        {
+          "gloss": "五",
+          "lemma": "five",
+          "surface": "five"
+        },
+        {
+          "gloss": "年",
+          "lemma": "year",
+          "surface": "years"
+        },
+        {
+          "gloss": "这",
+          "lemma": "which",
+          "surface": "which"
+        },
+        {
+          "gloss": "可以",
+          "lemma": "could",
+          "surface": "could"
+        },
+        {
+          "gloss": "帮助",
+          "lemma": "help",
+          "surface": "help"
+        },
+        {
+          "gloss": "支付",
+          "lemma": "pay",
+          "surface": "pay"
+        },
+        {
+          "gloss": "用于",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "新的",
+          "lemma": "new",
+          "surface": "new"
+        },
+        {
+          "gloss": "车辆",
+          "lemma": "vehicle",
+          "surface": "vehicles"
+        },
+        {
+          "gloss": "在……之中",
+          "lemma": "among",
+          "surface": "among"
+        },
+        {
+          "gloss": "其他的",
+          "lemma": "other",
+          "surface": "other"
+        },
+        {
+          "gloss": "生存",
+          "lemma": "survival",
+          "surface": "survival"
+        },
+        {
+          "gloss": "措施",
+          "lemma": "measure",
+          "surface": "measures"
+        }
+      ]
+    },
+    {
+      "cn_text": "大部分资金将来自每封信件永久性增加一美分的费率上涨，以及将邮政退休人员纳入联邦医疗保险。",
+      "en_text": "Most of the money would come from a penny-per-letter permanent rate increase and from shifting postal retirees into Medicare.",
+      "id": 2018013169,
+      "order_seq": "content_3_3",
+      "task_id": 201801005,
+      "tokens": [
+        {
+          "gloss": "大部分",
+          "lemma": "most",
+          "surface": "Most"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "资金",
+          "lemma": "money",
+          "surface": "money"
+        },
+        {
+          "gloss": "将",
+          "lemma": "would",
+          "surface": "would"
+        },
+        {
+          "gloss": "来自",
+          "lemma": "come",
+          "surface": "come"
+        },
+        {
+          "gloss": "从",
+          "lemma": "from",
+          "surface": "from"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "便士",
+          "lemma": "penny",
+          "surface": "penny"
+        },
+        {
+          "gloss": "每",
+          "lemma": "per",
+          "surface": "per"
+        },
+        {
+          "gloss": "信",
+          "lemma": "letter",
+          "surface": "letter"
+        },
+        {
+          "gloss": "永久的",
+          "lemma": "permanent",
+          "surface": "permanent"
+        },
+        {
+          "gloss": "费率",
+          "lemma": "rate",
+          "surface": "rate"
+        },
+        {
+          "gloss": "上涨",
+          "lemma": "increase",
+          "surface": "increase"
+        },
+        {
+          "gloss": "以及",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "从",
+          "lemma": "from",
+          "surface": "from"
+        },
+        {
+          "gloss": "转移",
+          "lemma": "shift",
+          "surface": "shifting"
+        },
+        {
+          "gloss": "邮政的",
+          "lemma": "postal",
+          "surface": "postal"
+        },
+        {
+          "gloss": "退休人员",
+          "lemma": "retiree",
+          "surface": "retirees"
+        },
+        {
+          "gloss": "转入",
+          "lemma": "into",
+          "surface": "into"
+        },
+        {
+          "gloss": "医疗保险",
+          "lemma": "medicare",
+          "surface": "Medicare"
+        }
+      ]
+    },
+    {
+      "cn_text": "后一措施将在很大程度上抵消每年预付退休人员医疗保健费用的财政负担，从而解决美国邮政服务及其工会长期以来的不满。",
+      "en_text": "The latter step would largely offset the financial burden of annually pre-funding retiree health care, thus addressing a long-standing complaint by the USPS and its unions.",
+      "id": 2018013170,
+      "order_seq": "content_3_4",
+      "task_id": 201801005,
+      "tokens": [
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "The"
+        },
+        {
+          "gloss": "后者的",
+          "lemma": "latter",
+          "surface": "latter"
+        },
+        {
+          "gloss": "措施",
+          "lemma": "step",
+          "surface": "step"
+        },
+        {
+          "gloss": "将",
+          "lemma": "would",
+          "surface": "would"
+        },
+        {
+          "gloss": "在很大程度上",
+          "lemma": "largely",
+          "surface": "largely"
+        },
+        {
+          "gloss": "抵消",
+          "lemma": "offset",
+          "surface": "offset"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "财政的",
+          "lemma": "financial",
+          "surface": "financial"
+        },
+        {
+          "gloss": "负担",
+          "lemma": "burden",
+          "surface": "burden"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "每年",
+          "lemma": "annually",
+          "surface": "annually"
+        },
+        {
+          "gloss": "预先",
+          "lemma": "pre",
+          "surface": "pre"
+        },
+        {
+          "gloss": "支付",
+          "lemma": "fund",
+          "surface": "funding"
+        },
+        {
+          "gloss": "退休人员",
+          "lemma": "retiree",
+          "surface": "retiree"
+        },
+        {
+          "gloss": "健康",
+          "lemma": "health",
+          "surface": "health"
+        },
+        {
+          "gloss": "护理",
+          "lemma": "care",
+          "surface": "care"
+        },
+        {
+          "gloss": "从而",
+          "lemma": "thus",
+          "surface": "thus"
+        },
+        {
+          "gloss": "解决",
+          "lemma": "address",
+          "surface": "addressing"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "长期",
+          "lemma": "long",
+          "surface": "long"
+        },
+        {
+          "gloss": "存在的",
+          "lemma": "stand",
+          "surface": "standing"
+        },
+        {
+          "gloss": "抱怨",
+          "lemma": "complaint",
+          "surface": "complaint"
+        },
+        {
+          "gloss": "由",
+          "lemma": "by",
+          "surface": "by"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "美国邮政",
+          "lemma": "usps",
+          "surface": "USPS"
+        },
+        {
+          "gloss": "以及",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "它的",
+          "lemma": "its",
+          "surface": "its"
+        },
+        {
+          "gloss": "工会",
+          "lemma": "union",
+          "surface": "unions"
+        }
+      ]
+    },
+    {
+      "cn_text": "如果该法案在众议院获得通过，仍需经参议院审议——届时必然会有人指出，这仅是维持邮政服务运转所需的最低限度措施，而非全面改革。",
+      "en_text": "If it clears the House, this measure would still have to get through the Senate — where someone is bound to point out that it amounts to the bare, bare minimum necessary to keep the Postal Service afloat, not comprehensive reform.",
+      "id": 2018013171,
+      "order_seq": "content_4_1",
+      "task_id": 201801005,
+      "tokens": [
+        {
+          "gloss": "如果",
+          "lemma": "if",
+          "surface": "If"
+        },
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "it"
+        },
+        {
+          "gloss": "通过",
+          "lemma": "clear",
+          "surface": "clears"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "众议院",
+          "lemma": "house",
+          "surface": "House"
+        },
+        {
+          "gloss": "这",
+          "lemma": "this",
+          "surface": "this"
+        },
+        {
+          "gloss": "法案",
+          "lemma": "measure",
+          "surface": "measure"
+        },
+        {
+          "gloss": "将",
+          "lemma": "would",
+          "surface": "would"
+        },
+        {
+          "gloss": "仍然",
+          "lemma": "still",
+          "surface": "still"
+        },
+        {
+          "gloss": "需要",
+          "lemma": "have",
+          "surface": "have"
+        },
+        {
+          "gloss": "到",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "通过",
+          "lemma": "get",
+          "surface": "get"
+        },
+        {
+          "gloss": "通过",
+          "lemma": "through",
+          "surface": "through"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "参议院",
+          "lemma": "senate",
+          "surface": "Senate"
+        },
+        {
+          "gloss": "在那里",
+          "lemma": "where",
+          "surface": "where"
+        },
+        {
+          "gloss": "某人",
+          "lemma": "someone",
+          "surface": "someone"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "必然",
+          "lemma": "bind",
+          "surface": "bound"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "指出",
+          "lemma": "point",
+          "surface": "point"
+        },
+        {
+          "gloss": "出",
+          "lemma": "out",
+          "surface": "out"
+        },
+        {
+          "gloss": "引导从句",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "it"
+        },
+        {
+          "gloss": "相当于",
+          "lemma": "amount",
+          "surface": "amounts"
+        },
+        {
+          "gloss": "到",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "最低限度的",
+          "lemma": "bare",
+          "surface": "bare"
+        },
+        {
+          "gloss": "最低限度的",
+          "lemma": "bare",
+          "surface": "bare"
+        },
+        {
+          "gloss": "最低限度",
+          "lemma": "minimum",
+          "surface": "minimum"
+        },
+        {
+          "gloss": "必要的",
+          "lemma": "necessary",
+          "surface": "necessary"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "维持",
+          "lemma": "keep",
+          "surface": "keep"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "邮政的",
+          "lemma": "postal",
+          "surface": "Postal"
+        },
+        {
+          "gloss": "服务",
+          "lemma": "service",
+          "surface": "Service"
+        },
+        {
+          "gloss": "运转的",
+          "lemma": "afloat",
+          "surface": "afloat"
+        },
+        {
+          "gloss": "不是",
+          "lemma": "not",
+          "surface": "not"
+        },
+        {
+          "gloss": "全面的",
+          "lemma": "comprehensive",
+          "surface": "comprehensive"
+        },
+        {
+          "gloss": "改革",
+          "lemma": "reform",
+          "surface": "reform"
+        }
+      ]
+    },
+    {
+      "cn_text": "美国邮政服务的集体谈判制度没有任何变化，考虑到人员成本占该机构成本的80%，这是一项重大缺失。",
+      "en_text": "There’s no change to collective bargaining at the USPS, a major omission considering that personnel accounts for 80 percent of the agency’s costs.",
+      "id": 2018013172,
+      "order_seq": "content_4_2",
+      "task_id": 201801005,
+      "tokens": [
+        {
+          "gloss": "存在",
+          "lemma": "there",
+          "surface": "there's"
+        },
+        {
+          "gloss": "没有",
+          "lemma": "no",
+          "surface": "no"
+        },
+        {
+          "gloss": "变化",
+          "lemma": "change",
+          "surface": "change"
+        },
+        {
+          "gloss": "对于",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "集体的",
+          "lemma": "collective",
+          "surface": "collective"
+        },
+        {
+          "gloss": "谈判",
+          "lemma": "bargaining",
+          "surface": "bargaining"
+        },
+        {
+          "gloss": "在",
+          "lemma": "at",
+          "surface": "at"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "美国邮政局",
+          "lemma": "usps",
+          "surface": "usps"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "重大的",
+          "lemma": "major",
+          "surface": "major"
+        },
+        {
+          "gloss": "遗漏",
+          "lemma": "omission",
+          "surface": "omission"
+        },
+        {
+          "gloss": "考虑到",
+          "lemma": "consider",
+          "surface": "considering"
+        },
+        {
+          "gloss": "因为",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "人员",
+          "lemma": "personnel",
+          "surface": "personnel"
+        },
+        {
+          "gloss": "占",
+          "lemma": "account",
+          "surface": "accounts"
+        },
+        {
+          "gloss": "占据",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "百分比",
+          "lemma": "percent",
+          "surface": "percent"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "机构",
+          "lemma": "agency",
+          "surface": "agency's"
+        },
+        {
+          "gloss": "成本",
+          "lemma": "cost",
+          "surface": "costs"
+        }
+      ]
+    },
+    {
+      "cn_text": "同样缺失的是关于取消周六信件投递的任何讨论。",
+      "en_text": "Also missing is any discussion of eliminating Saturday letter delivery.",
+      "id": 2018013173,
+      "order_seq": "content_4_3",
+      "task_id": 201801005,
+      "tokens": [
+        {
+          "gloss": "同样",
+          "lemma": "also",
+          "surface": "also"
+        },
+        {
+          "gloss": "缺失",
+          "lemma": "miss",
+          "surface": "missing"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "任何",
+          "lemma": "any",
+          "surface": "any"
+        },
+        {
+          "gloss": "讨论",
+          "lemma": "discussion",
+          "surface": "discussion"
+        },
+        {
+          "gloss": "关于",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "取消",
+          "lemma": "eliminate",
+          "surface": "eliminating"
+        },
+        {
+          "gloss": "周六",
+          "lemma": "saturday",
+          "surface": "saturday"
+        },
+        {
+          "gloss": "信件",
+          "lemma": "letter",
+          "surface": "letter"
+        },
+        {
+          "gloss": "投递",
+          "lemma": "delivery",
+          "surface": "delivery"
+        }
+      ]
+    },
+    {
+      "cn_text": "这一符合常识的改革获得了公众的广泛支持，并可为美国邮政服务每年节省20亿美元。",
+      "en_text": "That common-sense change enjoys wide public support and would save the USPS $2 billion per year.",
+      "id": 2018013174,
+      "order_seq": "content_4_4",
+      "task_id": 201801005,
+      "tokens": [
+        {
+          "gloss": "那个",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "常见的",
+          "lemma": "common",
+          "surface": "common"
+        },
+        {
+          "gloss": "常识",
+          "lemma": "sense",
+          "surface": "sense"
+        },
+        {
+          "gloss": "改变",
+          "lemma": "change",
+          "surface": "change"
+        },
+        {
+          "gloss": "享有",
+          "lemma": "enjoy",
+          "surface": "enjoys"
+        },
+        {
+          "gloss": "广泛的",
+          "lemma": "wide",
+          "surface": "wide"
+        },
+        {
+          "gloss": "公众的",
+          "lemma": "public",
+          "surface": "public"
+        },
+        {
+          "gloss": "支持",
+          "lemma": "support",
+          "surface": "support"
+        },
+        {
+          "gloss": "并且",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "将",
+          "lemma": "would",
+          "surface": "would"
+        },
+        {
+          "gloss": "节省",
+          "lemma": "save",
+          "surface": "save"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "美国邮政局",
+          "lemma": "usps",
+          "surface": "usps"
+        },
+        {
+          "gloss": "十亿",
+          "lemma": "billion",
+          "surface": "billion"
+        },
+        {
+          "gloss": "每",
+          "lemma": "per",
+          "surface": "per"
+        },
+        {
+          "gloss": "年",
+          "lemma": "year",
+          "surface": "year"
+        }
+      ]
+    },
+    {
+      "cn_text": "但邮政特殊利益集团似乎已扼杀了该提议，至少在众议院如此。",
+      "en_text": "But postal special-interest groups seem to have killed it, at least in the House.",
+      "id": 2018013175,
+      "order_seq": "content_4_5",
+      "task_id": 201801005,
+      "tokens": [
+        {
+          "gloss": "但是",
+          "lemma": "but",
+          "surface": "but"
+        },
+        {
+          "gloss": "邮政的",
+          "lemma": "postal",
+          "surface": "postal"
+        },
+        {
+          "gloss": "特殊的",
+          "lemma": "special",
+          "surface": "special"
+        },
+        {
+          "gloss": "利益",
+          "lemma": "interest",
+          "surface": "interest"
+        },
+        {
+          "gloss": "集团",
+          "lemma": "group",
+          "surface": "groups"
+        },
+        {
+          "gloss": "似乎",
+          "lemma": "seem",
+          "surface": "seem"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "已经",
+          "lemma": "have",
+          "surface": "have"
+        },
+        {
+          "gloss": "扼杀",
+          "lemma": "kill",
+          "surface": "killed"
+        },
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "it"
+        },
+        {
+          "gloss": "在",
+          "lemma": "at",
+          "surface": "at"
+        },
+        {
+          "gloss": "至少",
+          "lemma": "least",
+          "surface": "least"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "众议院",
+          "lemma": "house",
+          "surface": "house"
+        }
+      ]
+    },
+    {
+      "cn_text": "围绕该法案形成的共识表明，立法者对美国邮政服务可能出现的政治上令人难堪的短期崩溃感到忧虑。",
+      "en_text": "The emerging consensus around the bill is a sign that legislators are getting frightened about a politically embarrassing short-term collapse at the USPS.",
+      "id": 2018013176,
+      "order_seq": "content_4_6",
+      "task_id": 201801005,
+      "tokens": [
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "The"
+        },
+        {
+          "gloss": "新兴的",
+          "lemma": "emerge",
+          "surface": "emerging"
+        },
+        {
+          "gloss": "共识",
+          "lemma": "consensus",
+          "surface": "consensus"
+        },
+        {
+          "gloss": "围绕",
+          "lemma": "around",
+          "surface": "around"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "法案",
+          "lemma": "bill",
+          "surface": "bill"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "迹象",
+          "lemma": "sign",
+          "surface": "sign"
+        },
+        {
+          "gloss": "表明",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "立法者",
+          "lemma": "legislator",
+          "surface": "legislators"
+        },
+        {
+          "gloss": "感到",
+          "lemma": "be",
+          "surface": "are"
+        },
+        {
+          "gloss": "变得",
+          "lemma": "get",
+          "surface": "getting"
+        },
+        {
+          "gloss": "害怕的",
+          "lemma": "frighten",
+          "surface": "frightened"
+        },
+        {
+          "gloss": "关于",
+          "lemma": "about",
+          "surface": "about"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "政治上",
+          "lemma": "politically",
+          "surface": "politically"
+        },
+        {
+          "gloss": "令人尴尬的",
+          "lemma": "embarrass",
+          "surface": "embarrassing"
+        },
+        {
+          "gloss": "短期",
+          "lemma": "short",
+          "surface": "short"
+        },
+        {
+          "gloss": "期限",
+          "lemma": "term",
+          "surface": "term"
+        },
+        {
+          "gloss": "崩溃",
+          "lemma": "collapse",
+          "surface": "collapse"
+        },
+        {
+          "gloss": "在",
+          "lemma": "at",
+          "surface": "at"
+        },
+        {
+          "gloss": "美国",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "邮政局",
+          "lemma": "usps",
+          "surface": "USPS"
+        }
+      ]
+    },
+    {
+      "cn_text": "然而，这并不表明他们正在认真推动邮政系统的21世纪转型。",
+      "en_text": "It is not, however, a sign that they’re getting serious about transforming the postal system for the 21st century.",
+      "id": 2018013177,
+      "order_seq": "content_4_7",
+      "task_id": 201801005,
+      "tokens": [
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "It"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "不",
+          "lemma": "not",
+          "surface": "not"
+        },
+        {
+          "gloss": "然而",
+          "lemma": "however",
+          "surface": "however"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "迹象",
+          "lemma": "sign",
+          "surface": "sign"
+        },
+        {
+          "gloss": "表明",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "他们",
+          "lemma": "they",
+          "surface": "they"
+        },
+        {
+          "gloss": "正在",
+          "lemma": "be",
+          "surface": "’re"
+        },
+        {
+          "gloss": "变得",
+          "lemma": "get",
+          "surface": "getting"
+        },
+        {
+          "gloss": "认真",
+          "lemma": "serious",
+          "surface": "serious"
+        },
+        {
+          "gloss": "关于",
+          "lemma": "about",
+          "surface": "about"
+        },
+        {
+          "gloss": "转型",
+          "lemma": "transform",
+          "surface": "transforming"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "邮政",
+          "lemma": "postal",
+          "surface": "postal"
+        },
+        {
+          "gloss": "系统",
+          "lemma": "system",
+          "surface": "system"
+        },
+        {
+          "gloss": "适应",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "21世纪",
+          "lemma": "21st",
+          "surface": "21st"
+        },
+        {
+          "gloss": "世纪",
+          "lemma": "century",
+          "surface": "century"
+        }
+      ]
+    },
+    {
+      "cn_text": "美国邮政服务的财务问题部分是由____造成的。",
+      "en_text": "The financial problem with the USPS is caused partly by ____",
+      "id": 2018013178,
+      "order_seq": "question_2018011036_stem",
+      "task_id": 201801005,
+      "tokens": [
+        {
+          "gloss": "美国",
+          "lemma": "the",
+          "surface": "The"
+        },
+        {
+          "gloss": "财务的",
+          "lemma": "financial",
+          "surface": "financial"
+        },
+        {
+          "gloss": "问题",
+          "lemma": "problem",
+          "surface": "problem"
+        },
+        {
+          "gloss": "与",
+          "lemma": "with",
+          "surface": "with"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "邮政局",
+          "lemma": "usps",
+          "surface": "USPS"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "引起",
+          "lemma": "cause",
+          "surface": "caused"
+        },
+        {
+          "gloss": "部分地",
+          "lemma": "partly",
+          "surface": "partly"
+        },
+        {
+          "gloss": "由",
+          "lemma": "by",
+          "surface": "by"
+        }
+      ]
+    },
+    {
+      "cn_text": "其不平衡的预算",
+      "en_text": "its unbalanced budget.",
+      "id": 2018013179,
+      "order_seq": "question_2018011036_A",
+      "task_id": 201801005,
+      "tokens": [
+        {
+          "gloss": "其",
+          "lemma": "its",
+          "surface": "its"
+        },
+        {
+          "gloss": "不平衡的",
+          "lemma": "unbalanced",
+          "surface": "unbalanced"
+        },
+        {
+          "gloss": "预算",
+          "lemma": "budget",
+          "surface": "budget"
+        }
+      ]
+    },
+    {
+      "cn_text": "其僵化的管理",
+      "en_text": "its rigid management.",
+      "id": 2018013180,
+      "order_seq": "question_2018011036_B",
+      "task_id": 201801005,
+      "tokens": [
+        {
+          "gloss": "其",
+          "lemma": "its",
+          "surface": "its"
+        },
+        {
+          "gloss": "僵化的",
+          "lemma": "rigid",
+          "surface": "rigid"
+        },
+        {
+          "gloss": "管理",
+          "lemma": "management",
+          "surface": "management"
+        }
+      ]
+    },
+    {
+      "cn_text": "技术升级的成本",
+      "en_text": "the cost for technical upgrading.",
+      "id": 2018013181,
+      "order_seq": "question_2018011036_C",
+      "task_id": 201801005,
+      "tokens": [
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "成本",
+          "lemma": "cost",
+          "surface": "cost"
+        },
+        {
+          "gloss": "用于",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "技术的",
+          "lemma": "technical",
+          "surface": "technical"
+        },
+        {
+          "gloss": "升级",
+          "lemma": "upgrade",
+          "surface": "upgrading"
+        }
+      ]
+    },
+    {
+      "cn_text": "银行支持的撤出",
+      "en_text": "the withdrawal of bank support.",
+      "id": 2018013182,
+      "order_seq": "question_2018011036_D",
+      "task_id": 201801005,
+      "tokens": [
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "撤回",
+          "lemma": "withdrawal",
+          "surface": "withdrawal"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "银行",
+          "lemma": "bank",
+          "surface": "bank"
+        },
+        {
+          "gloss": "支持",
+          "lemma": "support",
+          "surface": "support"
+        }
+      ]
+    },
+    {
+      "cn_text": "根据第二段，美国邮政服务未能实现现代化是由于____。",
+      "en_text": "According to Paragraph 2, the USPS fails to modernize itself due to ____",
+      "id": 2018013183,
+      "order_seq": "question_2018011037_stem",
+      "task_id": 201801005,
+      "tokens": [
+        {
+          "gloss": "根据",
+          "lemma": "according",
+          "surface": "According"
+        },
+        {
+          "gloss": "至",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "段落",
+          "lemma": "paragraph",
+          "surface": "Paragraph"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "邮政局",
+          "lemma": "usps",
+          "surface": "USPS"
+        },
+        {
+          "gloss": "未能",
+          "lemma": "fail",
+          "surface": "fails"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "现代化",
+          "lemma": "modernize",
+          "surface": "modernize"
+        },
+        {
+          "gloss": "自身",
+          "lemma": "itself",
+          "surface": "itself"
+        },
+        {
+          "gloss": "由于",
+          "lemma": "due",
+          "surface": "due"
+        },
+        {
+          "gloss": "至",
+          "lemma": "to",
+          "surface": "to"
+        }
+      ]
+    },
+    {
+      "cn_text": "利益集团的干预",
+      "en_text": "the interference from interest groups.",
+      "id": 2018013184,
+      "order_seq": "question_2018011037_A",
+      "task_id": 201801005,
+      "tokens": [
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "干扰",
+          "lemma": "interference",
+          "surface": "interference"
+        },
+        {
+          "gloss": "来自",
+          "lemma": "from",
+          "surface": "from"
+        },
+        {
+          "gloss": "利益",
+          "lemma": "interest",
+          "surface": "interest"
+        },
+        {
+          "gloss": "集团",
+          "lemma": "group",
+          "surface": "groups"
+        }
+      ]
+    },
+    {
+      "cn_text": "国会提供的资金不足",
+      "en_text": "the inadequate funding from Congress.",
+      "id": 2018013185,
+      "order_seq": "question_2018011037_B",
+      "task_id": 201801005,
+      "tokens": [
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "不足的",
+          "lemma": "inadequate",
+          "surface": "inadequate"
+        },
+        {
+          "gloss": "资金",
+          "lemma": "funding",
+          "surface": "funding"
+        },
+        {
+          "gloss": "来自",
+          "lemma": "from",
+          "surface": "from"
+        },
+        {
+          "gloss": "国会",
+          "lemma": "congress",
+          "surface": "Congress"
+        }
+      ]
+    },
+    {
+      "cn_text": "邮政服务需求的萎缩",
+      "en_text": "the shrinking demand for postal service.",
+      "id": 2018013186,
+      "order_seq": "question_2018011037_C",
+      "task_id": 201801005,
+      "tokens": [
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "减少的",
+          "lemma": "shrink",
+          "surface": "shrinking"
+        },
+        {
+          "gloss": "需求",
+          "lemma": "demand",
+          "surface": "demand"
+        },
+        {
+          "gloss": "对于",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "邮政的",
+          "lemma": "postal",
+          "surface": "postal"
+        },
+        {
+          "gloss": "服务",
+          "lemma": "service",
+          "surface": "service"
+        }
+      ]
+    },
+    {
+      "cn_text": "邮政工会的无能",
+      "en_text": "the incompetence of postal unions.",
+      "id": 2018013187,
+      "order_seq": "question_2018011037_D",
+      "task_id": 201801005,
+      "tokens": [
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "无能",
+          "lemma": "incompetence",
+          "surface": "incompetence"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "邮政的",
+          "lemma": "postal",
+          "surface": "postal"
+        },
+        {
+          "gloss": "工会",
+          "lemma": "union",
+          "surface": "unions"
+        }
+      ]
+    },
+    {
+      "cn_text": "美国邮政服务及其工会长期以来的不满可通过____得到解决。",
+      "en_text": "The long-standing complaint by the USPS and its unions can be addressed by ____",
+      "id": 2018013188,
+      "order_seq": "question_2018011038_stem",
+      "task_id": 201801005,
+      "tokens": [
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "The"
+        },
+        {
+          "gloss": "长期",
+          "lemma": "long",
+          "surface": "long"
+        },
+        {
+          "gloss": "存在的",
+          "lemma": "stand",
+          "surface": "standing"
+        },
+        {
+          "gloss": "抱怨",
+          "lemma": "complaint",
+          "surface": "complaint"
+        },
+        {
+          "gloss": "由",
+          "lemma": "by",
+          "surface": "by"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "美国邮政局",
+          "lemma": "usps",
+          "surface": "USPS"
+        },
+        {
+          "gloss": "及",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "它的",
+          "lemma": "its",
+          "surface": "its"
+        },
+        {
+          "gloss": "工会",
+          "lemma": "union",
+          "surface": "unions"
+        },
+        {
+          "gloss": "可以",
+          "lemma": "can",
+          "surface": "can"
+        },
+        {
+          "gloss": "被",
+          "lemma": "be",
+          "surface": "be"
+        },
+        {
+          "gloss": "解决",
+          "lemma": "address",
+          "surface": "addressed"
+        },
+        {
+          "gloss": "通过",
+          "lemma": "by",
+          "surface": "by"
+        }
+      ]
+    },
+    {
+      "cn_text": "解除其退休人员医疗保健的负担",
+      "en_text": "removing its burden of retiree health care.",
+      "id": 2018013189,
+      "order_seq": "question_2018011038_A",
+      "task_id": 201801005,
+      "tokens": [
+        {
+          "gloss": "解除",
+          "lemma": "remove",
+          "surface": "removing"
+        },
+        {
+          "gloss": "它的",
+          "lemma": "its",
+          "surface": "its"
+        },
+        {
+          "gloss": "负担",
+          "lemma": "burden",
+          "surface": "burden"
+        },
+        {
+          "gloss": "关于",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "退休人员",
+          "lemma": "retiree",
+          "surface": "retiree"
+        },
+        {
+          "gloss": "健康",
+          "lemma": "health",
+          "surface": "health"
+        },
+        {
+          "gloss": "保健",
+          "lemma": "care",
+          "surface": "care"
+        }
+      ]
+    },
+    {
+      "cn_text": "对新车辆进行更多投资",
+      "en_text": "making more investment in new vehicles.",
+      "id": 2018013190,
+      "order_seq": "question_2018011038_B",
+      "task_id": 201801005,
+      "tokens": [
+        {
+          "gloss": "进行",
+          "lemma": "make",
+          "surface": "making"
+        },
+        {
+          "gloss": "更多的",
+          "lemma": "more",
+          "surface": "more"
+        },
+        {
+          "gloss": "投资",
+          "lemma": "investment",
+          "surface": "investment"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "新的",
+          "lemma": "new",
+          "surface": "new"
+        },
+        {
+          "gloss": "车辆",
+          "lemma": "vehicle",
+          "surface": "vehicles"
+        }
+      ]
+    },
+    {
+      "cn_text": "采用新的费率上涨机制",
+      "en_text": "adopting a new rate-increase mechanism.",
+      "id": 2018013191,
+      "order_seq": "question_2018011038_C",
+      "task_id": 201801005,
+      "tokens": [
+        {
+          "gloss": "采用",
+          "lemma": "adopt",
+          "surface": "adopting"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "新的",
+          "lemma": "new",
+          "surface": "new"
+        },
+        {
+          "gloss": "费率",
+          "lemma": "rate",
+          "surface": "rate"
+        },
+        {
+          "gloss": "增加",
+          "lemma": "increase",
+          "surface": "increase"
+        },
+        {
+          "gloss": "机制",
+          "lemma": "mechanism",
+          "surface": "mechanism"
+        }
+      ]
+    },
+    {
+      "cn_text": "吸引更多一类邮件用户",
+      "en_text": "attracting more first-class mail users.",
+      "id": 2018013192,
+      "order_seq": "question_2018011038_D",
+      "task_id": 201801005,
+      "tokens": [
+        {
+          "gloss": "吸引",
+          "lemma": "attract",
+          "surface": "attracting"
+        },
+        {
+          "gloss": "更多的",
+          "lemma": "more",
+          "surface": "more"
+        },
+        {
+          "gloss": "第一",
+          "lemma": "first",
+          "surface": "first"
+        },
+        {
+          "gloss": "等级",
+          "lemma": "class",
+          "surface": "class"
+        },
+        {
+          "gloss": "邮件",
+          "lemma": "mail",
+          "surface": "mail"
+        },
+        {
+          "gloss": "用户",
+          "lemma": "user",
+          "surface": "users"
+        }
+      ]
+    },
+    {
+      "cn_text": "在最后一段中，作者对立法者似乎持有____态度。",
+      "en_text": "In the last paragraph, the author seems to view legislators with ____",
+      "id": 2018013193,
+      "order_seq": "question_2018011039_stem",
+      "task_id": 201801005,
+      "tokens": [
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "In"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "最后的",
+          "lemma": "last",
+          "surface": "last"
+        },
+        {
+          "gloss": "段落",
+          "lemma": "paragraph",
+          "surface": "paragraph"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "作者",
+          "lemma": "author",
+          "surface": "author"
+        },
+        {
+          "gloss": "似乎",
+          "lemma": "seem",
+          "surface": "seems"
+        },
+        {
+          "gloss": "对",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "看待",
+          "lemma": "view",
+          "surface": "view"
+        },
+        {
+          "gloss": "立法者",
+          "lemma": "legislator",
+          "surface": "legislators"
+        },
+        {
+          "gloss": "持有",
+          "lemma": "with",
+          "surface": "with"
+        }
+      ]
+    },
+    {
+      "cn_text": "尊重",
+      "en_text": "respect.",
+      "id": 2018013194,
+      "order_seq": "question_2018011039_A",
+      "task_id": 201801005,
+      "tokens": [
+        {
+          "gloss": "尊重",
+          "lemma": "respect",
+          "surface": "respect"
+        }
+      ]
+    },
+    {
+      "cn_text": "宽容",
+      "en_text": "tolerance.",
+      "id": 2018013195,
+      "order_seq": "question_2018011039_B",
+      "task_id": 201801005,
+      "tokens": [
+        {
+          "gloss": "宽容",
+          "lemma": "tolerance",
+          "surface": "tolerance"
+        }
+      ]
+    },
+    {
+      "cn_text": "不满",
+      "en_text": "discontent.",
+      "id": 2018013196,
+      "order_seq": "question_2018011039_C",
+      "task_id": 201801005,
+      "tokens": [
+        {
+          "gloss": "不满",
+          "lemma": "discontent",
+          "surface": "discontent"
+        }
+      ]
+    },
+    {
+      "cn_text": "感激",
+      "en_text": "gratitude.",
+      "id": 2018013197,
+      "order_seq": "question_2018011039_D",
+      "task_id": 201801005,
+      "tokens": [
+        {
+          "gloss": "感激",
+          "lemma": "gratitude",
+          "surface": "gratitude"
+        }
+      ]
+    },
+    {
+      "cn_text": "以下哪项是本文的最佳标题？",
+      "en_text": "Which of the following would be the best title for the text?",
+      "id": 2018013198,
+      "order_seq": "question_2018011040_stem",
+      "task_id": 201801005,
+      "tokens": [
+        {
+          "gloss": "哪一个",
+          "lemma": "which",
+          "surface": "Which"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "以下的",
+          "lemma": "follow",
+          "surface": "following"
+        },
+        {
+          "gloss": "会",
+          "lemma": "would",
+          "surface": "would"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "be"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "最佳的",
+          "lemma": "best",
+          "surface": "best"
+        },
+        {
+          "gloss": "标题",
+          "lemma": "title",
+          "surface": "title"
+        },
+        {
+          "gloss": "对于",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "文本",
+          "lemma": "text",
+          "surface": "text"
+        }
+      ]
+    },
+    {
+      "cn_text": "美国邮政服务开始怀念往日时光",
+      "en_text": "The USPS Starts to Miss Its Good Old Days",
+      "id": 2018013199,
+      "order_seq": "question_2018011040_A",
+      "task_id": 201801005,
+      "tokens": [
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "The"
+        },
+        {
+          "gloss": "美国邮政服务",
+          "lemma": "usps",
+          "surface": "USPS"
+        },
+        {
+          "gloss": "开始",
+          "lemma": "start",
+          "surface": "Starts"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "怀念",
+          "lemma": "miss",
+          "surface": "Miss"
+        },
+        {
+          "gloss": "它的",
+          "lemma": "its",
+          "surface": "Its"
+        },
+        {
+          "gloss": "美好的",
+          "lemma": "good",
+          "surface": "Good"
+        },
+        {
+          "gloss": "旧的",
+          "lemma": "old",
+          "surface": "Old"
+        },
+        {
+          "gloss": "日子",
+          "lemma": "day",
+          "surface": "Days"
+        }
+      ]
+    },
+    {
+      "cn_text": "邮政服务：别动我的奶酪",
+      "en_text": "The Postal Service: Keep Away from My Cheese",
+      "id": 2018013200,
+      "order_seq": "question_2018011040_B",
+      "task_id": 201801005,
+      "tokens": [
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "The"
+        },
+        {
+          "gloss": "邮政的",
+          "lemma": "postal",
+          "surface": "Postal"
+        },
+        {
+          "gloss": "服务",
+          "lemma": "service",
+          "surface": "Service"
+        },
+        {
+          "gloss": "保持",
+          "lemma": "keep",
+          "surface": "Keep"
+        },
+        {
+          "gloss": "远离",
+          "lemma": "away",
+          "surface": "Away"
+        },
+        {
+          "gloss": "从",
+          "lemma": "from",
+          "surface": "from"
+        },
+        {
+          "gloss": "我的",
+          "lemma": "my",
+          "surface": "My"
+        },
+        {
+          "gloss": "奶酪",
+          "lemma": "cheese",
+          "surface": "Cheese"
+        }
+      ]
+    },
+    {
+      "cn_text": "美国邮政服务：沉疴需用猛药",
+      "en_text": "The USPS: Chronic Illness Requires a Quick Cure",
+      "id": 2018013201,
+      "order_seq": "question_2018011040_C",
+      "task_id": 201801005,
+      "tokens": [
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "The"
+        },
+        {
+          "gloss": "美国邮政局",
+          "lemma": "usps",
+          "surface": "USPS"
+        },
+        {
+          "gloss": "慢性的",
+          "lemma": "chronic",
+          "surface": "Chronic"
+        },
+        {
+          "gloss": "疾病",
+          "lemma": "illness",
+          "surface": "Illness"
+        },
+        {
+          "gloss": "需要",
+          "lemma": "require",
+          "surface": "Requires"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "快速的",
+          "lemma": "quick",
+          "surface": "Quick"
+        },
+        {
+          "gloss": "治疗",
+          "lemma": "cure",
+          "surface": "Cure"
+        }
+      ]
+    },
+    {
+      "cn_text": "邮政服务需要的不仅是权宜之计",
+      "en_text": "The Postal Service Needs More than a Band-Aid",
+      "id": 2018013202,
+      "order_seq": "question_2018011040_D",
+      "task_id": 201801005,
+      "tokens": [
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "The"
+        },
+        {
+          "gloss": "邮政的",
+          "lemma": "postal",
+          "surface": "Postal"
+        },
+        {
+          "gloss": "服务",
+          "lemma": "service",
+          "surface": "Service"
+        },
+        {
+          "gloss": "需要",
+          "lemma": "need",
+          "surface": "Needs"
+        },
+        {
+          "gloss": "更多",
+          "lemma": "more",
+          "surface": "More"
+        },
+        {
+          "gloss": "比",
+          "lemma": "than",
+          "surface": "than"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "绷带",
+          "lemma": "band",
+          "surface": "Band"
+        },
+        {
+          "gloss": "帮助",
+          "lemma": "aid",
+          "surface": "Aid"
+        }
+      ]
+    }
+  ],
+  "success": true
+}

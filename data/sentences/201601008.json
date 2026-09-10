@@ -1,0 +1,615 @@
+{
+  "sentences": [
+    {
+      "cn_text": "通知",
+      "en_text": "NOTICE",
+      "id": 2026024802,
+      "order_seq": "content_1_1",
+      "task_id": 201601008,
+      "tokens": [
+        {
+          "gloss": "通知",
+          "lemma": "notice",
+          "surface": "NOTICE"
+        }
+      ]
+    },
+    {
+      "cn_text": "欢迎各位新入学的国际学生！",
+      "en_text": "Welcome new international students!",
+      "id": 2026024803,
+      "order_seq": "content_2_1",
+      "task_id": 201601008,
+      "tokens": [
+        {
+          "gloss": "欢迎",
+          "lemma": "welcome",
+          "surface": "Welcome"
+        },
+        {
+          "gloss": "新的",
+          "lemma": "new",
+          "surface": "new"
+        },
+        {
+          "gloss": "国际的",
+          "lemma": "international",
+          "surface": "international"
+        },
+        {
+          "gloss": "学生",
+          "lemma": "student",
+          "surface": "students"
+        }
+      ]
+    },
+    {
+      "cn_text": "我们很高兴向各位介绍本校图书馆，这里将为您的学术之旅提供全面支持。",
+      "en_text": "We are delighted to introduce you to our university library, a place designed to support your academic journey.",
+      "id": 2026024804,
+      "order_seq": "content_2_2",
+      "task_id": 201601008,
+      "tokens": [
+        {
+          "gloss": "我们",
+          "lemma": "we",
+          "surface": "We"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "are"
+        },
+        {
+          "gloss": "高兴的",
+          "lemma": "delighted",
+          "surface": "delighted"
+        },
+        {
+          "gloss": "向",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "介绍",
+          "lemma": "introduce",
+          "surface": "introduce"
+        },
+        {
+          "gloss": "您",
+          "lemma": "you",
+          "surface": "you"
+        },
+        {
+          "gloss": "到",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "我们的",
+          "lemma": "our",
+          "surface": "our"
+        },
+        {
+          "gloss": "大学",
+          "lemma": "university",
+          "surface": "university"
+        },
+        {
+          "gloss": "图书馆",
+          "lemma": "library",
+          "surface": "library"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "地方",
+          "lemma": "place",
+          "surface": "place"
+        },
+        {
+          "gloss": "设计",
+          "lemma": "design",
+          "surface": "designed"
+        },
+        {
+          "gloss": "为了",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "支持",
+          "lemma": "support",
+          "surface": "support"
+        },
+        {
+          "gloss": "您的",
+          "lemma": "your",
+          "surface": "your"
+        },
+        {
+          "gloss": "学术的",
+          "lemma": "academic",
+          "surface": "academic"
+        },
+        {
+          "gloss": "旅程",
+          "lemma": "journey",
+          "surface": "journey"
+        }
+      ]
+    },
+    {
+      "cn_text": "图书馆每日开放时间为上午8:00至晚上10:00。",
+      "en_text": "The library is open daily from 8:00 AM to 10:00 PM.",
+      "id": 2026024805,
+      "order_seq": "content_3_1",
+      "task_id": 201601008,
+      "tokens": [
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "The"
+        },
+        {
+          "gloss": "图书馆",
+          "lemma": "library",
+          "surface": "library"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "开放的",
+          "lemma": "open",
+          "surface": "open"
+        },
+        {
+          "gloss": "每天",
+          "lemma": "daily",
+          "surface": "daily"
+        },
+        {
+          "gloss": "从",
+          "lemma": "from",
+          "surface": "from"
+        },
+        {
+          "gloss": "上午",
+          "lemma": "am",
+          "surface": "AM"
+        },
+        {
+          "gloss": "至",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "晚上",
+          "lemma": "pm",
+          "surface": "PM"
+        }
+      ]
+    },
+    {
+      "cn_text": "凭学生证，您可借阅图书最多10册，借期为30天。",
+      "en_text": "With your student ID card, you can borrow up to 10 books for a period of 30 days.",
+      "id": 2026024806,
+      "order_seq": "content_3_2",
+      "task_id": 201601008,
+      "tokens": [
+        {
+          "gloss": "凭借",
+          "lemma": "with",
+          "surface": "With"
+        },
+        {
+          "gloss": "您的",
+          "lemma": "your",
+          "surface": "your"
+        },
+        {
+          "gloss": "学生",
+          "lemma": "student",
+          "surface": "student"
+        },
+        {
+          "gloss": "身份证",
+          "lemma": "id",
+          "surface": "ID"
+        },
+        {
+          "gloss": "卡",
+          "lemma": "card",
+          "surface": "card"
+        },
+        {
+          "gloss": "您",
+          "lemma": "you",
+          "surface": "you"
+        },
+        {
+          "gloss": "可以",
+          "lemma": "can",
+          "surface": "can"
+        },
+        {
+          "gloss": "借阅",
+          "lemma": "borrow",
+          "surface": "borrow"
+        },
+        {
+          "gloss": "最多",
+          "lemma": "up",
+          "surface": "up"
+        },
+        {
+          "gloss": "至",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "书",
+          "lemma": "book",
+          "surface": "books"
+        },
+        {
+          "gloss": "为",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "期限",
+          "lemma": "period",
+          "surface": "period"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "天",
+          "lemma": "day",
+          "surface": "days"
+        }
+      ]
+    },
+    {
+      "cn_text": "此外，您还可免费使用我们丰富的在线数据库资源和设施完善的小组学习室。",
+      "en_text": "Additionally, you have free access to our extensive online databases and well-equipped group study rooms.",
+      "id": 2026024807,
+      "order_seq": "content_3_3",
+      "task_id": 201601008,
+      "tokens": [
+        {
+          "gloss": "此外",
+          "lemma": "additionally",
+          "surface": "Additionally"
+        },
+        {
+          "gloss": "您",
+          "lemma": "you",
+          "surface": "you"
+        },
+        {
+          "gloss": "有",
+          "lemma": "have",
+          "surface": "have"
+        },
+        {
+          "gloss": "免费的",
+          "lemma": "free",
+          "surface": "free"
+        },
+        {
+          "gloss": "访问",
+          "lemma": "access",
+          "surface": "access"
+        },
+        {
+          "gloss": "到",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "我们的",
+          "lemma": "our",
+          "surface": "our"
+        },
+        {
+          "gloss": "丰富的",
+          "lemma": "extensive",
+          "surface": "extensive"
+        },
+        {
+          "gloss": "在线的",
+          "lemma": "online",
+          "surface": "online"
+        },
+        {
+          "gloss": "数据库",
+          "lemma": "database",
+          "surface": "databases"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "很好地",
+          "lemma": "well",
+          "surface": "well"
+        },
+        {
+          "gloss": "装备的",
+          "lemma": "equip",
+          "surface": "equipped"
+        },
+        {
+          "gloss": "小组",
+          "lemma": "group",
+          "surface": "group"
+        },
+        {
+          "gloss": "学习",
+          "lemma": "study",
+          "surface": "study"
+        },
+        {
+          "gloss": "房间",
+          "lemma": "room",
+          "surface": "rooms"
+        }
+      ]
+    },
+    {
+      "cn_text": "请务必在馆内保持安静，并按时归还所借图书，以免产生滞纳金。",
+      "en_text": "Please remember to maintain silence inside the library and return borrowed books on time to avoid fines.",
+      "id": 2026024808,
+      "order_seq": "content_3_4",
+      "task_id": 201601008,
+      "tokens": [
+        {
+          "gloss": "请",
+          "lemma": "please",
+          "surface": "Please"
+        },
+        {
+          "gloss": "记住",
+          "lemma": "remember",
+          "surface": "remember"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "保持",
+          "lemma": "maintain",
+          "surface": "maintain"
+        },
+        {
+          "gloss": "安静",
+          "lemma": "silence",
+          "surface": "silence"
+        },
+        {
+          "gloss": "在...内",
+          "lemma": "inside",
+          "surface": "inside"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "图书馆",
+          "lemma": "library",
+          "surface": "library"
+        },
+        {
+          "gloss": "并且",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "归还",
+          "lemma": "return",
+          "surface": "return"
+        },
+        {
+          "gloss": "借阅的",
+          "lemma": "borrow",
+          "surface": "borrowed"
+        },
+        {
+          "gloss": "书",
+          "lemma": "book",
+          "surface": "books"
+        },
+        {
+          "gloss": "按",
+          "lemma": "on",
+          "surface": "on"
+        },
+        {
+          "gloss": "时间",
+          "lemma": "time",
+          "surface": "time"
+        },
+        {
+          "gloss": "以",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "避免",
+          "lemma": "avoid",
+          "surface": "avoid"
+        },
+        {
+          "gloss": "罚款",
+          "lemma": "fine",
+          "surface": "fines"
+        }
+      ]
+    },
+    {
+      "cn_text": "如有任何疑问或需要帮助，欢迎前往图书馆服务台咨询。",
+      "en_text": "Should you have any questions or need assistance, feel free to visit the library service desk.",
+      "id": 2026024809,
+      "order_seq": "content_4_1",
+      "task_id": 201601008,
+      "tokens": [
+        {
+          "gloss": "如果",
+          "lemma": "should",
+          "surface": "Should"
+        },
+        {
+          "gloss": "您",
+          "lemma": "you",
+          "surface": "you"
+        },
+        {
+          "gloss": "有",
+          "lemma": "have",
+          "surface": "have"
+        },
+        {
+          "gloss": "任何",
+          "lemma": "any",
+          "surface": "any"
+        },
+        {
+          "gloss": "问题",
+          "lemma": "question",
+          "surface": "questions"
+        },
+        {
+          "gloss": "或",
+          "lemma": "or",
+          "surface": "or"
+        },
+        {
+          "gloss": "需要",
+          "lemma": "need",
+          "surface": "need"
+        },
+        {
+          "gloss": "帮助",
+          "lemma": "assistance",
+          "surface": "assistance"
+        },
+        {
+          "gloss": "感到",
+          "lemma": "feel",
+          "surface": "feel"
+        },
+        {
+          "gloss": "随时",
+          "lemma": "free",
+          "surface": "free"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "访问",
+          "lemma": "visit",
+          "surface": "visit"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "图书馆",
+          "lemma": "library",
+          "surface": "library"
+        },
+        {
+          "gloss": "服务",
+          "lemma": "service",
+          "surface": "service"
+        },
+        {
+          "gloss": "服务台",
+          "lemma": "desk",
+          "surface": "desk"
+        }
+      ]
+    },
+    {
+      "cn_text": "我们将竭诚为您服务。",
+      "en_text": "We are here to help.",
+      "id": 2026024810,
+      "order_seq": "content_4_2",
+      "task_id": 201601008,
+      "tokens": [
+        {
+          "gloss": "我们",
+          "lemma": "we",
+          "surface": "We"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "are"
+        },
+        {
+          "gloss": "在这里",
+          "lemma": "here",
+          "surface": "here"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "帮助",
+          "lemma": "help",
+          "surface": "help"
+        }
+      ]
+    },
+    {
+      "cn_text": "李明",
+      "en_text": "Li Ming",
+      "id": 2026024811,
+      "order_seq": "content_5_1",
+      "task_id": 201601008,
+      "tokens": [
+        {
+          "gloss": "李",
+          "lemma": "li",
+          "surface": "Li"
+        },
+        {
+          "gloss": "明",
+          "lemma": "ming",
+          "surface": "Ming"
+        }
+      ]
+    }
+  ],
+  "success": true
+}

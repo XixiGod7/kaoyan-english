@@ -1,0 +1,2403 @@
+{
+  "sentences": [
+    {
+      "cn_text": "随着14世纪佛罗伦萨被称为文艺复兴的创造力迸发，现代世界开始脱离其曾经熟知的一切。",
+      "en_text": "Following the explosion of creativity in Florence during the 14th century Known as the Renaissance, the modem world saw a departure from what it had once known.",
+      "id": 2020013217,
+      "order_seq": "content_1_1",
+      "task_id": 202001007,
+      "tokens": [
+        {
+          "gloss": "跟随",
+          "lemma": "follow",
+          "surface": "Following"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "爆发",
+          "lemma": "explosion",
+          "surface": "explosion"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "创造力",
+          "lemma": "creativity",
+          "surface": "creativity"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "佛罗伦萨",
+          "lemma": "florence",
+          "surface": "Florence"
+        },
+        {
+          "gloss": "在...期间",
+          "lemma": "during",
+          "surface": "during"
+        },
+        {
+          "gloss": "那个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "14世纪的",
+          "lemma": "14th",
+          "surface": "14th"
+        },
+        {
+          "gloss": "世纪",
+          "lemma": "century",
+          "surface": "century"
+        },
+        {
+          "gloss": "被称为",
+          "lemma": "know",
+          "surface": "Known"
+        },
+        {
+          "gloss": "作为",
+          "lemma": "as",
+          "surface": "as"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "文艺复兴",
+          "lemma": "renaissance",
+          "surface": "Renaissance"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "现代的",
+          "lemma": "modern",
+          "surface": "modem"
+        },
+        {
+          "gloss": "世界",
+          "lemma": "world",
+          "surface": "world"
+        },
+        {
+          "gloss": "见证",
+          "lemma": "see",
+          "surface": "saw"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "离开",
+          "lemma": "departure",
+          "surface": "departure"
+        },
+        {
+          "gloss": "从",
+          "lemma": "from",
+          "surface": "from"
+        },
+        {
+          "gloss": "什么",
+          "lemma": "what",
+          "surface": "what"
+        },
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "it"
+        },
+        {
+          "gloss": "曾经",
+          "lemma": "have",
+          "surface": "had"
+        },
+        {
+          "gloss": "曾经",
+          "lemma": "once",
+          "surface": "once"
+        },
+        {
+          "gloss": "知道",
+          "lemma": "know",
+          "surface": "known"
+        }
+      ]
+    },
+    {
+      "cn_text": "它不再信奉上帝和罗马天主教会的权威，转而倾向于一种更加人文主义的存在方式。",
+      "en_text": "It turned from God and the authority of the Roman Catholic Church and instead favoured a more humanistic approach to being.",
+      "id": 2020013218,
+      "order_seq": "content_1_2",
+      "task_id": 202001007,
+      "tokens": [
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "It"
+        },
+        {
+          "gloss": "转向",
+          "lemma": "turn",
+          "surface": "turned"
+        },
+        {
+          "gloss": "从",
+          "lemma": "from",
+          "surface": "from"
+        },
+        {
+          "gloss": "上帝",
+          "lemma": "god",
+          "surface": "God"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "权威",
+          "lemma": "authority",
+          "surface": "authority"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "罗马的",
+          "lemma": "roman",
+          "surface": "Roman"
+        },
+        {
+          "gloss": "天主教的",
+          "lemma": "catholic",
+          "surface": "Catholic"
+        },
+        {
+          "gloss": "教会",
+          "lemma": "church",
+          "surface": "Church"
+        },
+        {
+          "gloss": "并且",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "反而",
+          "lemma": "instead",
+          "surface": "instead"
+        },
+        {
+          "gloss": "支持",
+          "lemma": "favour",
+          "surface": "favoured"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "更",
+          "lemma": "more",
+          "surface": "more"
+        },
+        {
+          "gloss": "人文主义的",
+          "lemma": "humanistic",
+          "surface": "humanistic"
+        },
+        {
+          "gloss": "方法",
+          "lemma": "approach",
+          "surface": "approach"
+        },
+        {
+          "gloss": "对于",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "存在",
+          "lemma": "being",
+          "surface": "being"
+        }
+      ]
+    },
+    {
+      "cn_text": "文艺复兴思想在整个欧洲传播开来，一直延续到17世纪，艺术和科学在那些更具逻辑倾向的人群中呈现出异常繁荣的景象。",
+      "en_text": "Renaissance ideas had spread throughout Europe well into the 17th century, with the arts and sciences flourishing extraordinarily among those with a more logical disposition.",
+      "id": 2020013219,
+      "order_seq": "content_1_3",
+      "task_id": 202001007,
+      "tokens": [
+        {
+          "gloss": "文艺复兴",
+          "lemma": "renaissance",
+          "surface": "Renaissance"
+        },
+        {
+          "gloss": "思想",
+          "lemma": "idea",
+          "surface": "ideas"
+        },
+        {
+          "gloss": "已经",
+          "lemma": "have",
+          "surface": "had"
+        },
+        {
+          "gloss": "传播",
+          "lemma": "spread",
+          "surface": "spread"
+        },
+        {
+          "gloss": "遍及",
+          "lemma": "throughout",
+          "surface": "throughout"
+        },
+        {
+          "gloss": "欧洲",
+          "lemma": "europe",
+          "surface": "Europe"
+        },
+        {
+          "gloss": "很",
+          "lemma": "well",
+          "surface": "well"
+        },
+        {
+          "gloss": "进入",
+          "lemma": "into",
+          "surface": "into"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "第十七",
+          "lemma": "17th",
+          "surface": "17th"
+        },
+        {
+          "gloss": "世纪",
+          "lemma": "century",
+          "surface": "century"
+        },
+        {
+          "gloss": "伴随",
+          "lemma": "with",
+          "surface": "with"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "艺术",
+          "lemma": "art",
+          "surface": "arts"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "科学",
+          "lemma": "science",
+          "surface": "sciences"
+        },
+        {
+          "gloss": "繁荣",
+          "lemma": "flourish",
+          "surface": "flourishing"
+        },
+        {
+          "gloss": "极其",
+          "lemma": "extraordinarily",
+          "surface": "extraordinarily"
+        },
+        {
+          "gloss": "在...之中",
+          "lemma": "among",
+          "surface": "among"
+        },
+        {
+          "gloss": "那些",
+          "lemma": "those",
+          "surface": "those"
+        },
+        {
+          "gloss": "具有",
+          "lemma": "with",
+          "surface": "with"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "更",
+          "lemma": "more",
+          "surface": "more"
+        },
+        {
+          "gloss": "逻辑的",
+          "lemma": "logical",
+          "surface": "logical"
+        },
+        {
+          "gloss": "性格",
+          "lemma": "disposition",
+          "surface": "disposition"
+        }
+      ]
+    },
+    {
+      "cn_text": "随着教会的教义和思维方式被文艺复兴所取代，中世纪与现代时期之间的鸿沟得以弥合，从而通向了新的、未经探索的知识领域。",
+      "en_text": "With the Church’s teachings and ways of thinking being eclipsed by the Renaissance, the gap between the Medieval and modern periods had been bridged, leading to new and unexplored intellectual territories.",
+      "id": 2020013220,
+      "order_seq": "content_1_4",
+      "task_id": 202001007,
+      "tokens": [
+        {
+          "gloss": "随着",
+          "lemma": "with",
+          "surface": "With"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "教会的",
+          "lemma": "church’s",
+          "surface": "Church’s"
+        },
+        {
+          "gloss": "教义",
+          "lemma": "teaching",
+          "surface": "teachings"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "方式",
+          "lemma": "way",
+          "surface": "ways"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "思维",
+          "lemma": "thinking",
+          "surface": "thinking"
+        },
+        {
+          "gloss": "被",
+          "lemma": "be",
+          "surface": "being"
+        },
+        {
+          "gloss": "掩盖",
+          "lemma": "eclipse",
+          "surface": "eclipsed"
+        },
+        {
+          "gloss": "被",
+          "lemma": "by",
+          "surface": "by"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "文艺复兴",
+          "lemma": "renaissance",
+          "surface": "Renaissance"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "鸿沟",
+          "lemma": "gap",
+          "surface": "gap"
+        },
+        {
+          "gloss": "在...之间",
+          "lemma": "between",
+          "surface": "between"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "中世纪的",
+          "lemma": "medieval",
+          "surface": "Medieval"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "现代的",
+          "lemma": "modern",
+          "surface": "modern"
+        },
+        {
+          "gloss": "时期",
+          "lemma": "period",
+          "surface": "periods"
+        },
+        {
+          "gloss": "已经",
+          "lemma": "have",
+          "surface": "had"
+        },
+        {
+          "gloss": "被",
+          "lemma": "be",
+          "surface": "been"
+        },
+        {
+          "gloss": "弥合",
+          "lemma": "bridge",
+          "surface": "bridged"
+        },
+        {
+          "gloss": "导致",
+          "lemma": "lead",
+          "surface": "leading"
+        },
+        {
+          "gloss": "到",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "新的",
+          "lemma": "new",
+          "surface": "new"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "未被探索的",
+          "lemma": "unexplored",
+          "surface": "unexplored"
+        },
+        {
+          "gloss": "智力的",
+          "lemma": "intellectual",
+          "surface": "intellectual"
+        },
+        {
+          "gloss": "领域",
+          "lemma": "territory",
+          "surface": "territories"
+        }
+      ]
+    },
+    {
+      "cn_text": "在文艺复兴时期,尼古拉·哥白尼、约翰内斯·开普勒和伽利略·伽利莱等伟大的思想家展示了科学研究和发现的力量。",
+      "en_text": "During the Renaissance, the great minds of Nicolaus Copernicus, Johannes Kepler and Galileo Galilei demonstrated the power of scientific study and discovery.",
+      "id": 2020013221,
+      "order_seq": "content_2_1",
+      "task_id": 202001007,
+      "tokens": [
+        {
+          "gloss": "在...期间",
+          "lemma": "during",
+          "surface": "During"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "文艺复兴",
+          "lemma": "renaissance",
+          "surface": "Renaissance"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "伟大的",
+          "lemma": "great",
+          "surface": "great"
+        },
+        {
+          "gloss": "思想家",
+          "lemma": "mind",
+          "surface": "minds"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "尼古拉斯",
+          "lemma": "nicolaus",
+          "surface": "Nicolaus"
+        },
+        {
+          "gloss": "哥白尼",
+          "lemma": "copernicus",
+          "surface": "Copernicus"
+        },
+        {
+          "gloss": "约翰内斯",
+          "lemma": "johannes",
+          "surface": "Johannes"
+        },
+        {
+          "gloss": "开普勒",
+          "lemma": "kepler",
+          "surface": "Kepler"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "伽利略",
+          "lemma": "galileo",
+          "surface": "Galileo"
+        },
+        {
+          "gloss": "伽利雷",
+          "lemma": "galilei",
+          "surface": "Galilei"
+        },
+        {
+          "gloss": "展示",
+          "lemma": "demonstrate",
+          "surface": "demonstrated"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "力量",
+          "lemma": "power",
+          "surface": "power"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "科学的",
+          "lemma": "scientific",
+          "surface": "scientific"
+        },
+        {
+          "gloss": "研究",
+          "lemma": "study",
+          "surface": "study"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "发现",
+          "lemma": "discovery",
+          "surface": "discovery"
+        }
+      ]
+    },
+    {
+      "cn_text": "在他们每次揭示真相之前，当时的许多思想家仍秉持更为古老的思维方式，包括认为地球位于宇宙中心的地心说。",
+      "en_text": "Before each of their revelations, many thinkers at the time had sustained more ancient ways of thinking, including the geocentric view that the Earth was at the centre of our universe.",
+      "id": 2020013222,
+      "order_seq": "content_2_2",
+      "task_id": 202001007,
+      "tokens": [
+        {
+          "gloss": "在...之前",
+          "lemma": "before",
+          "surface": "Before"
+        },
+        {
+          "gloss": "每一个",
+          "lemma": "each",
+          "surface": "each"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "他们的",
+          "lemma": "their",
+          "surface": "their"
+        },
+        {
+          "gloss": "揭示",
+          "lemma": "revelation",
+          "surface": "revelations"
+        },
+        {
+          "gloss": "许多",
+          "lemma": "many",
+          "surface": "many"
+        },
+        {
+          "gloss": "思想家",
+          "lemma": "thinker",
+          "surface": "thinkers"
+        },
+        {
+          "gloss": "在",
+          "lemma": "at",
+          "surface": "at"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "时间",
+          "lemma": "time",
+          "surface": "time"
+        },
+        {
+          "gloss": "曾经",
+          "lemma": "have",
+          "surface": "had"
+        },
+        {
+          "gloss": "坚持",
+          "lemma": "sustain",
+          "surface": "sustained"
+        },
+        {
+          "gloss": "更",
+          "lemma": "more",
+          "surface": "more"
+        },
+        {
+          "gloss": "古老的",
+          "lemma": "ancient",
+          "surface": "ancient"
+        },
+        {
+          "gloss": "方式",
+          "lemma": "way",
+          "surface": "ways"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "思维",
+          "lemma": "thinking",
+          "surface": "thinking"
+        },
+        {
+          "gloss": "包括",
+          "lemma": "include",
+          "surface": "including"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "地心的",
+          "lemma": "geocentric",
+          "surface": "geocentric"
+        },
+        {
+          "gloss": "观点",
+          "lemma": "view",
+          "surface": "view"
+        },
+        {
+          "gloss": "即",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "地球",
+          "lemma": "earth",
+          "surface": "Earth"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "was"
+        },
+        {
+          "gloss": "在",
+          "lemma": "at",
+          "surface": "at"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "中心",
+          "lemma": "centre",
+          "surface": "centre"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "我们的",
+          "lemma": "our",
+          "surface": "our"
+        },
+        {
+          "gloss": "宇宙",
+          "lemma": "universe",
+          "surface": "universe"
+        }
+      ]
+    },
+    {
+      "cn_text": "哥白尼在1543年提出理论，认为实际上我们所知的所有行星并非围绕地球旋转，而是围绕太阳旋转，这一体系后来由伽利略不惜代价予以支持。",
+      "en_text": "Copernicus theorized in 1543 that in actual fact, all of the planets that we knew of revolved not around the Earth, but the Sun, a system that was later upheld by Galileo at his own expense.",
+      "id": 2020013223,
+      "order_seq": "content_2_3",
+      "task_id": 202001007,
+      "tokens": [
+        {
+          "gloss": "哥白尼",
+          "lemma": "copernicus",
+          "surface": "Copernicus"
+        },
+        {
+          "gloss": "提出理论",
+          "lemma": "theorize",
+          "surface": "theorized"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "表明",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "实际上",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "实际的",
+          "lemma": "actual",
+          "surface": "actual"
+        },
+        {
+          "gloss": "事实",
+          "lemma": "fact",
+          "surface": "fact"
+        },
+        {
+          "gloss": "所有",
+          "lemma": "all",
+          "surface": "all"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "行星",
+          "lemma": "planet",
+          "surface": "planets"
+        },
+        {
+          "gloss": "我们所知道的",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "我们",
+          "lemma": "we",
+          "surface": "we"
+        },
+        {
+          "gloss": "知道",
+          "lemma": "know",
+          "surface": "knew"
+        },
+        {
+          "gloss": "关于",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "运行",
+          "lemma": "revolve",
+          "surface": "revolved"
+        },
+        {
+          "gloss": "不是",
+          "lemma": "not",
+          "surface": "not"
+        },
+        {
+          "gloss": "围绕",
+          "lemma": "around",
+          "surface": "around"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "地球",
+          "lemma": "earth",
+          "surface": "Earth"
+        },
+        {
+          "gloss": "而是",
+          "lemma": "but",
+          "surface": "but"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "太阳",
+          "lemma": "sun",
+          "surface": "Sun"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "体系",
+          "lemma": "system",
+          "surface": "system"
+        },
+        {
+          "gloss": "这一",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "was"
+        },
+        {
+          "gloss": "后来",
+          "lemma": "later",
+          "surface": "later"
+        },
+        {
+          "gloss": "支持",
+          "lemma": "uphold",
+          "surface": "upheld"
+        },
+        {
+          "gloss": "由",
+          "lemma": "by",
+          "surface": "by"
+        },
+        {
+          "gloss": "伽利略",
+          "lemma": "galileo",
+          "surface": "Galileo"
+        },
+        {
+          "gloss": "以",
+          "lemma": "at",
+          "surface": "at"
+        },
+        {
+          "gloss": "他",
+          "lemma": "his",
+          "surface": "his"
+        },
+        {
+          "gloss": "自身的",
+          "lemma": "own",
+          "surface": "own"
+        },
+        {
+          "gloss": "代价",
+          "lemma": "expense",
+          "surface": "expense"
+        }
+      ]
+    },
+    {
+      "cn_text": "在科学与宗教思想高度紧张的时期提出这样的理论被斥为异端，任何继续传播这些「谎言」的异端分子都将受到监禁甚至处死的惩罚。",
+      "en_text": "Offering up such a theory during a time of high tension between scientific and religious minds was branded as heresy, and any such heretics that continued to spread these lies were to be punished by imprisonment or even death.",
+      "id": 2020013224,
+      "order_seq": "content_2_4",
+      "task_id": 202001007,
+      "tokens": [
+        {
+          "gloss": "提出",
+          "lemma": "offer",
+          "surface": "Offering"
+        },
+        {
+          "gloss": "向上",
+          "lemma": "up",
+          "surface": "up"
+        },
+        {
+          "gloss": "这样的",
+          "lemma": "such",
+          "surface": "such"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "理论",
+          "lemma": "theory",
+          "surface": "theory"
+        },
+        {
+          "gloss": "在...期间",
+          "lemma": "during",
+          "surface": "during"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "时期",
+          "lemma": "time",
+          "surface": "time"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "高度的",
+          "lemma": "high",
+          "surface": "high"
+        },
+        {
+          "gloss": "紧张",
+          "lemma": "tension",
+          "surface": "tension"
+        },
+        {
+          "gloss": "在...之间",
+          "lemma": "between",
+          "surface": "between"
+        },
+        {
+          "gloss": "科学的",
+          "lemma": "scientific",
+          "surface": "scientific"
+        },
+        {
+          "gloss": "与",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "宗教的",
+          "lemma": "religious",
+          "surface": "religious"
+        },
+        {
+          "gloss": "思想",
+          "lemma": "mind",
+          "surface": "minds"
+        },
+        {
+          "gloss": "被",
+          "lemma": "be",
+          "surface": "was"
+        },
+        {
+          "gloss": "视为",
+          "lemma": "brand",
+          "surface": "branded"
+        },
+        {
+          "gloss": "作为",
+          "lemma": "as",
+          "surface": "as"
+        },
+        {
+          "gloss": "异端",
+          "lemma": "heresy",
+          "surface": "heresy"
+        },
+        {
+          "gloss": "并且",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "任何",
+          "lemma": "any",
+          "surface": "any"
+        },
+        {
+          "gloss": "这样的",
+          "lemma": "such",
+          "surface": "such"
+        },
+        {
+          "gloss": "异端分子",
+          "lemma": "heretic",
+          "surface": "heretics"
+        },
+        {
+          "gloss": "那些",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "继续",
+          "lemma": "continue",
+          "surface": "continued"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "传播",
+          "lemma": "spread",
+          "surface": "spread"
+        },
+        {
+          "gloss": "这些",
+          "lemma": "these",
+          "surface": "these"
+        },
+        {
+          "gloss": "谎言",
+          "lemma": "lie",
+          "surface": "lies"
+        },
+        {
+          "gloss": "将",
+          "lemma": "be",
+          "surface": "were"
+        },
+        {
+          "gloss": "被",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "be"
+        },
+        {
+          "gloss": "惩罚",
+          "lemma": "punish",
+          "surface": "punished"
+        },
+        {
+          "gloss": "通过",
+          "lemma": "by",
+          "surface": "by"
+        },
+        {
+          "gloss": "监禁",
+          "lemma": "imprisonment",
+          "surface": "imprisonment"
+        },
+        {
+          "gloss": "或者",
+          "lemma": "or",
+          "surface": "or"
+        },
+        {
+          "gloss": "甚至",
+          "lemma": "even",
+          "surface": "even"
+        },
+        {
+          "gloss": "死亡",
+          "lemma": "death",
+          "surface": "death"
+        }
+      ]
+    },
+    {
+      "cn_text": "尽管教会试图压制这一代新的逻辑学家和理性主义者，但关于宇宙如何运行的更多解释正以人们无法再忽视的速度涌现。",
+      "en_text": "Despite attempts by the Church to suppress this new generation of logicians and rationalists, more explanations for how the universe functioned were being made at a rate that the people could no longer ignore.",
+      "id": 2020013225,
+      "order_seq": "content_3_1",
+      "task_id": 202001007,
+      "tokens": [
+        {
+          "gloss": "尽管",
+          "lemma": "despite",
+          "surface": "despite"
+        },
+        {
+          "gloss": "尝试",
+          "lemma": "attempt",
+          "surface": "attempts"
+        },
+        {
+          "gloss": "由",
+          "lemma": "by",
+          "surface": "by"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "教会",
+          "lemma": "church",
+          "surface": "Church"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "压制",
+          "lemma": "suppress",
+          "surface": "suppress"
+        },
+        {
+          "gloss": "这一",
+          "lemma": "this",
+          "surface": "this"
+        },
+        {
+          "gloss": "新的",
+          "lemma": "new",
+          "surface": "new"
+        },
+        {
+          "gloss": "一代",
+          "lemma": "generation",
+          "surface": "generation"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "逻辑学家",
+          "lemma": "logician",
+          "surface": "logicians"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "理性主义者",
+          "lemma": "rationalist",
+          "surface": "rationalists"
+        },
+        {
+          "gloss": "更多的",
+          "lemma": "more",
+          "surface": "more"
+        },
+        {
+          "gloss": "解释",
+          "lemma": "explanation",
+          "surface": "explanations"
+        },
+        {
+          "gloss": "关于",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "如何",
+          "lemma": "how",
+          "surface": "how"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "宇宙",
+          "lemma": "universe",
+          "surface": "universe"
+        },
+        {
+          "gloss": "运作",
+          "lemma": "function",
+          "surface": "functioned"
+        },
+        {
+          "gloss": "被",
+          "lemma": "be",
+          "surface": "were"
+        },
+        {
+          "gloss": "被",
+          "lemma": "be",
+          "surface": "being"
+        },
+        {
+          "gloss": "提出",
+          "lemma": "make",
+          "surface": "made"
+        },
+        {
+          "gloss": "以",
+          "lemma": "at",
+          "surface": "at"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "速度",
+          "lemma": "rate",
+          "surface": "rate"
+        },
+        {
+          "gloss": "那",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "人们",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "人们",
+          "lemma": "people",
+          "surface": "people"
+        },
+        {
+          "gloss": "能够",
+          "lemma": "can",
+          "surface": "could"
+        },
+        {
+          "gloss": "不",
+          "lemma": "no",
+          "surface": "no"
+        },
+        {
+          "gloss": "再",
+          "lemma": "long",
+          "surface": "longer"
+        },
+        {
+          "gloss": "忽视",
+          "lemma": "ignore",
+          "surface": "ignore"
+        }
+      ]
+    },
+    {
+      "cn_text": "正是伴随这些伟大的发现，一种建立在理性基础上的新型哲学诞生了。",
+      "en_text": "It was with these great revelations that a new kind of philosophy founded in reason was born.",
+      "id": 2020013226,
+      "order_seq": "content_3_2",
+      "task_id": 202001007,
+      "tokens": [
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "It"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "was"
+        },
+        {
+          "gloss": "由于",
+          "lemma": "with",
+          "surface": "with"
+        },
+        {
+          "gloss": "这些",
+          "lemma": "these",
+          "surface": "these"
+        },
+        {
+          "gloss": "伟大的",
+          "lemma": "great",
+          "surface": "great"
+        },
+        {
+          "gloss": "发现",
+          "lemma": "revelation",
+          "surface": "revelations"
+        },
+        {
+          "gloss": "正是",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "一种",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "新的",
+          "lemma": "new",
+          "surface": "new"
+        },
+        {
+          "gloss": "种类",
+          "lemma": "kind",
+          "surface": "kind"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "哲学",
+          "lemma": "philosophy",
+          "surface": "philosophy"
+        },
+        {
+          "gloss": "建立",
+          "lemma": "found",
+          "surface": "founded"
+        },
+        {
+          "gloss": "以",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "理性",
+          "lemma": "reason",
+          "surface": "reason"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "was"
+        },
+        {
+          "gloss": "诞生",
+          "lemma": "bear",
+          "surface": "born"
+        }
+      ]
+    },
+    {
+      "cn_text": "教会长期坚守的教条正在关于真理的伟大较量中败给理性主义者和科学家。",
+      "en_text": "The Church’s long-standing dogma was losing the great battle for truth to rationalists and scientists.",
+      "id": 2020013227,
+      "order_seq": "content_4_1",
+      "task_id": 202001007,
+      "tokens": [
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "The"
+        },
+        {
+          "gloss": "教会",
+          "lemma": "church",
+          "surface": "Church’s"
+        },
+        {
+          "gloss": "长期的",
+          "lemma": "long",
+          "surface": "long"
+        },
+        {
+          "gloss": "存在的",
+          "lemma": "stand",
+          "surface": "standing"
+        },
+        {
+          "gloss": "教条",
+          "lemma": "dogma",
+          "surface": "dogma"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "was"
+        },
+        {
+          "gloss": "输掉",
+          "lemma": "lose",
+          "surface": "losing"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "伟大的",
+          "lemma": "great",
+          "surface": "great"
+        },
+        {
+          "gloss": "斗争",
+          "lemma": "battle",
+          "surface": "battle"
+        },
+        {
+          "gloss": "为了",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "真理",
+          "lemma": "truth",
+          "surface": "truth"
+        },
+        {
+          "gloss": "给",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "理性主义者",
+          "lemma": "rationalist",
+          "surface": "rationalists"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "科学家",
+          "lemma": "scientist",
+          "surface": "scientists"
+        }
+      ]
+    },
+    {
+      "cn_text": "这一事实本身体现了17世纪大部分时期席卷欧洲的新思维方式。",
+      "en_text": "This very fact embodied the new ways of thinking that swept through Europe during most of the 17th century.",
+      "id": 2020013228,
+      "order_seq": "content_4_2",
+      "task_id": 202001007,
+      "tokens": [
+        {
+          "gloss": "这一",
+          "lemma": "this",
+          "surface": "This"
+        },
+        {
+          "gloss": "非常",
+          "lemma": "very",
+          "surface": "very"
+        },
+        {
+          "gloss": "事实",
+          "lemma": "fact",
+          "surface": "fact"
+        },
+        {
+          "gloss": "体现",
+          "lemma": "embody",
+          "surface": "embodied"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "新的",
+          "lemma": "new",
+          "surface": "new"
+        },
+        {
+          "gloss": "方式",
+          "lemma": "way",
+          "surface": "ways"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "思维",
+          "lemma": "thinking",
+          "surface": "thinking"
+        },
+        {
+          "gloss": "那",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "席卷",
+          "lemma": "sweep",
+          "surface": "swept"
+        },
+        {
+          "gloss": "贯穿",
+          "lemma": "through",
+          "surface": "through"
+        },
+        {
+          "gloss": "欧洲",
+          "lemma": "europe",
+          "surface": "Europe"
+        },
+        {
+          "gloss": "在...期间",
+          "lemma": "during",
+          "surface": "during"
+        },
+        {
+          "gloss": "大部分",
+          "lemma": "most",
+          "surface": "most"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "十七",
+          "lemma": "17th",
+          "surface": "17th"
+        },
+        {
+          "gloss": "世纪",
+          "lemma": "century",
+          "surface": "century"
+        }
+      ]
+    },
+    {
+      "cn_text": "随着许多人承担起将理性和科学哲学融入世界的使命，文艺复兴结束了，一个新的时代——理性时代——到来了。",
+      "en_text": "As many took on the duty of trying to integrate reasoning and scientific philosophies into the world, the Renaissance was over and it was time for a new era — the Age of Reason.",
+      "id": 2020013229,
+      "order_seq": "content_4_3",
+      "task_id": 202001007,
+      "tokens": [
+        {
+          "gloss": "随着",
+          "lemma": "as",
+          "surface": "as"
+        },
+        {
+          "gloss": "许多",
+          "lemma": "many",
+          "surface": "many"
+        },
+        {
+          "gloss": "承担",
+          "lemma": "take",
+          "surface": "took"
+        },
+        {
+          "gloss": "起",
+          "lemma": "on",
+          "surface": "on"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "责任",
+          "lemma": "duty",
+          "surface": "duty"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "尝试",
+          "lemma": "try",
+          "surface": "trying"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "融入",
+          "lemma": "integrate",
+          "surface": "integrate"
+        },
+        {
+          "gloss": "理性",
+          "lemma": "reasoning",
+          "surface": "reasoning"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "科学的",
+          "lemma": "scientific",
+          "surface": "scientific"
+        },
+        {
+          "gloss": "哲学",
+          "lemma": "philosophy",
+          "surface": "philosophies"
+        },
+        {
+          "gloss": "融入",
+          "lemma": "into",
+          "surface": "into"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "世界",
+          "lemma": "world",
+          "surface": "world"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "文艺复兴",
+          "lemma": "renaissance",
+          "surface": "renaissance"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "was"
+        },
+        {
+          "gloss": "结束",
+          "lemma": "over",
+          "surface": "over"
+        },
+        {
+          "gloss": "并且",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "it"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "was"
+        },
+        {
+          "gloss": "时间",
+          "lemma": "time",
+          "surface": "time"
+        },
+        {
+          "gloss": "为了",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "新的",
+          "lemma": "new",
+          "surface": "new"
+        },
+        {
+          "gloss": "时代",
+          "lemma": "era",
+          "surface": "era"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "时代",
+          "lemma": "age",
+          "surface": "age"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "理性",
+          "lemma": "reason",
+          "surface": "reason"
+        }
+      ]
+    },
+    {
+      "cn_text": "17世纪和18世纪是充满剧变和好奇心的时代。",
+      "en_text": "The 17th and 18th centuries were times of radical change and curiosity.",
+      "id": 2020013230,
+      "order_seq": "content_5_1",
+      "task_id": 202001007,
+      "tokens": [
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "十七",
+          "lemma": "17th",
+          "surface": "17th"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "十八",
+          "lemma": "18th",
+          "surface": "18th"
+        },
+        {
+          "gloss": "世纪",
+          "lemma": "century",
+          "surface": "centuries"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "were"
+        },
+        {
+          "gloss": "时代",
+          "lemma": "time",
+          "surface": "times"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "剧变的",
+          "lemma": "radical",
+          "surface": "radical"
+        },
+        {
+          "gloss": "变化",
+          "lemma": "change",
+          "surface": "change"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "好奇心",
+          "lemma": "curiosity",
+          "surface": "curiosity"
+        }
+      ]
+    },
+    {
+      "cn_text": "科学方法、还原论以及对教会理念的质疑应当受到鼓励，自由、宽容和进步的思想也应如此。",
+      "en_text": "Scientific method, reductionism and the questioning of Church ideals was to be encouraged, as were ideas of liberty, tolerance and progress.",
+      "id": 2020013231,
+      "order_seq": "content_5_2",
+      "task_id": 202001007,
+      "tokens": [
+        {
+          "gloss": "科学的",
+          "lemma": "scientific",
+          "surface": "Scientific"
+        },
+        {
+          "gloss": "方法",
+          "lemma": "method",
+          "surface": "method"
+        },
+        {
+          "gloss": "还原论",
+          "lemma": "reductionism",
+          "surface": "reductionism"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "质疑",
+          "lemma": "question",
+          "surface": "questioning"
+        },
+        {
+          "gloss": "关于",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "教会",
+          "lemma": "church",
+          "surface": "Church"
+        },
+        {
+          "gloss": "理念",
+          "lemma": "ideal",
+          "surface": "ideals"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "was"
+        },
+        {
+          "gloss": "被",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "成为",
+          "lemma": "be",
+          "surface": "be"
+        },
+        {
+          "gloss": "鼓励",
+          "lemma": "encourage",
+          "surface": "encouraged"
+        },
+        {
+          "gloss": "同样",
+          "lemma": "as",
+          "surface": "as"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "were"
+        },
+        {
+          "gloss": "思想",
+          "lemma": "idea",
+          "surface": "ideas"
+        },
+        {
+          "gloss": "关于",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "自由",
+          "lemma": "liberty",
+          "surface": "liberty"
+        },
+        {
+          "gloss": "宽容",
+          "lemma": "tolerance",
+          "surface": "tolerance"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "进步",
+          "lemma": "progress",
+          "surface": "progress"
+        }
+      ]
+    },
+    {
+      "cn_text": "这些寻求知识并理解我们已知信息的行为被拉丁短语「sapere aude」即「敢于求知」所概括，这一短语由伊曼努尔·康德在其论文《何谓启蒙》中使用。",
+      "en_text": "Such actions to seek knowledge and to understand what information we already knew were captured by the Latin phrase “sapere aude” or “dare to know”, after Immanuel Kant used it in his essay “An Answer to the Question: What is Enlightenment?”.",
+      "id": 2020013232,
+      "order_seq": "content_5_3",
+      "task_id": 202001007,
+      "tokens": [
+        {
+          "gloss": "这样的",
+          "lemma": "such",
+          "surface": "Such"
+        },
+        {
+          "gloss": "行为",
+          "lemma": "action",
+          "surface": "actions"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "追求",
+          "lemma": "seek",
+          "surface": "seek"
+        },
+        {
+          "gloss": "知识",
+          "lemma": "knowledge",
+          "surface": "knowledge"
+        },
+        {
+          "gloss": "并且",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "理解",
+          "lemma": "understand",
+          "surface": "understand"
+        },
+        {
+          "gloss": "什么",
+          "lemma": "what",
+          "surface": "what"
+        },
+        {
+          "gloss": "信息",
+          "lemma": "information",
+          "surface": "information"
+        },
+        {
+          "gloss": "我们",
+          "lemma": "we",
+          "surface": "we"
+        },
+        {
+          "gloss": "已经",
+          "lemma": "already",
+          "surface": "already"
+        },
+        {
+          "gloss": "知道",
+          "lemma": "know",
+          "surface": "knew"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "were"
+        },
+        {
+          "gloss": "概括",
+          "lemma": "capture",
+          "surface": "captured"
+        },
+        {
+          "gloss": "通过",
+          "lemma": "by",
+          "surface": "by"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "拉丁",
+          "lemma": "latin",
+          "surface": "Latin"
+        },
+        {
+          "gloss": "短语",
+          "lemma": "phrase",
+          "surface": "phrase"
+        },
+        {
+          "gloss": "sapere",
+          "lemma": "sapere",
+          "surface": "sapere"
+        },
+        {
+          "gloss": "aude",
+          "lemma": "aude",
+          "surface": "aude"
+        },
+        {
+          "gloss": "或者",
+          "lemma": "or",
+          "surface": "or"
+        },
+        {
+          "gloss": "敢于",
+          "lemma": "dare",
+          "surface": "dare"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "知道",
+          "lemma": "know",
+          "surface": "know"
+        },
+        {
+          "gloss": "在...之后",
+          "lemma": "after",
+          "surface": "after"
+        },
+        {
+          "gloss": "伊曼努尔",
+          "lemma": "immanuel",
+          "surface": "Immanuel"
+        },
+        {
+          "gloss": "康德",
+          "lemma": "kant",
+          "surface": "Kant"
+        },
+        {
+          "gloss": "使用",
+          "lemma": "use",
+          "surface": "used"
+        },
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "it"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "他的",
+          "lemma": "his",
+          "surface": "his"
+        },
+        {
+          "gloss": "文章",
+          "lemma": "essay",
+          "surface": "essay"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "an",
+          "surface": "An"
+        },
+        {
+          "gloss": "回答",
+          "lemma": "answer",
+          "surface": "Answer"
+        },
+        {
+          "gloss": "对",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "问题",
+          "lemma": "question",
+          "surface": "Question"
+        },
+        {
+          "gloss": "什么",
+          "lemma": "what",
+          "surface": "What"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "启蒙",
+          "lemma": "enlightenment",
+          "surface": "Enlightenment"
+        }
+      ]
+    },
+    {
+      "cn_text": "伟大思想家的使命和责任是去探求真理，他们相信真理根植于知识之中。",
+      "en_text": "It was the purpose and responsibility of great minds to go forth and seek out the truth, which they believed to be founded in knowledge.",
+      "id": 2020013233,
+      "order_seq": "content_5_4",
+      "task_id": 202001007,
+      "tokens": [
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "It"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "was"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "目标",
+          "lemma": "purpose",
+          "surface": "purpose"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "责任",
+          "lemma": "responsibility",
+          "surface": "responsibility"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "伟大的",
+          "lemma": "great",
+          "surface": "great"
+        },
+        {
+          "gloss": "思想家",
+          "lemma": "mind",
+          "surface": "minds"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "前进",
+          "lemma": "go",
+          "surface": "go"
+        },
+        {
+          "gloss": "向前",
+          "lemma": "forth",
+          "surface": "forth"
+        },
+        {
+          "gloss": "并且",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "寻找",
+          "lemma": "seek",
+          "surface": "seek"
+        },
+        {
+          "gloss": "出来",
+          "lemma": "out",
+          "surface": "out"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "真理",
+          "lemma": "truth",
+          "surface": "truth"
+        },
+        {
+          "gloss": "它",
+          "lemma": "which",
+          "surface": "which"
+        },
+        {
+          "gloss": "他们",
+          "lemma": "they",
+          "surface": "they"
+        },
+        {
+          "gloss": "相信",
+          "lemma": "believe",
+          "surface": "believed"
+        },
+        {
+          "gloss": "是",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "be"
+        },
+        {
+          "gloss": "建立",
+          "lemma": "found",
+          "surface": "founded"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "知识",
+          "lemma": "knowledge",
+          "surface": "knowledge"
+        }
+      ]
+    }
+  ],
+  "success": true
+}

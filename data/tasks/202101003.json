@@ -1,0 +1,1039 @@
+{
+  "tasks": [
+    {
+      "content_json": {
+        "article": "Last year marked the third year in a row that Indonesia’s bleak rate of deforestation has slowed in pace.\nOne reason for the turnaround may be the country’s antipoverty program.\nIn 2007, Indonesia started phasing in a program that gives money to its poorest residents under certain conditions, such as requiring people to keep kids in school or get regular medical care.\nCalled conditional cash transfers or CCTs, these social assistance programs are designed to reduce inequality and break the cycle of poverty.\nThey’re already used in dozens of countries worldwide.\nIn Indonesia, the program has provided enough food and medicine to substantially reduce severe growth problems among children.\nBut CCT programs don’t generally consider effects on the environment.\nIn fact, poverty alleviation and environmental protection are often viewed as conflicting goals, says Paul Ferraro, an economist at Johns Hopkins University.\nThat’s because economic growth can be correlated with environmental degradation, while protecting the environment is sometimes correlated with greater poverty.\nHowever, those correlations don’t prove cause and effect.\nThe only previous study analyzing causality, based on an area in Mexico that had instituted CCTs, supported the traditional view.\nThere, as people got more money, some of them may have more cleared land for cattle to raise for meat, Ferraro says.\nSuch programs do not have to negatively affect the environment, though.\nFerraro wanted to see if Indonesia’s poverty-alleviation program was affecting deforestation.\nIndonesia has the third-largest area of tropical forest in the world and one of the highest deforestation rates.\nFerraro analyzed satellite data showing annual forest loss from 2008 to 2012 — including during Indonesia’s phase-in of the antipoverty program — in 7,468 forested villages across 15 provinces.\n“We see that the program is associated with a 30 percent reduction in deforestation,” Ferraro says.\nThat’s likely because the rural poor are using the money as makeshift insurance policies against inclement weather, Ferraro says.\nTypically, if rains are delayed, people may clear land to plant more rice to supplement their harvests.\nWith the CCTs, individuals instead can use the money to supplement their harvests.\nWhether this research translates elsewhere is anybody’s guess.\nFerraro suggests the results may transfer to other parts of Asia, due to commonalities such as the importance of growing rice and market access.\nAnd regardless of transferability, the study shows that what’s good for people may also be good for the environment.\nEven if this program didn’t reduce poverty, Ferraro says, “the value of the avoided deforestation just for carbon dioxide emissions alone is more than the program costs.”",
+        "questions": [
+          {
+            "ai_analysis_ids": [
+              2021013054
+            ],
+            "ai_analysis_text": "根据文章第一段和第二段内容，CCT 项目的主要目标是通过提供条件性现金补助来帮助贫困家庭改善生活条件。\nA. 文中未提到 CCT 项目与医疗改革的直接关系，因此不符合题意。\nB. 文中明确提到 CCT 项目旨在帮助最贫困的居民改善生活条件，例如提供食物和药品，减少儿童的严重生长问题。\nC. 虽然教育是 CCT 项目的一部分条件，但其主要目标并非改善教育系统，而是减贫。\nD. 降低森林砍伐率并非 CCT 项目的直接目标，而是其可能的附带效果。",
+            "ai_analysis_words": [
+              "reduce inequality",
+              "break the cycle of poverty"
+            ],
+            "analysis_sentence_id": 2021013054,
+            "answer": "B",
+            "id": 26,
+            "option_tokens": {
+              "A": [
+                {
+                  "gloss": "促进",
+                  "lemma": "facilitate",
+                  "surface": "facilitate"
+                },
+                {
+                  "gloss": "健康",
+                  "lemma": "health",
+                  "surface": "health"
+                },
+                {
+                  "gloss": "护理",
+                  "lemma": "care",
+                  "surface": "care"
+                },
+                {
+                  "gloss": "改革",
+                  "lemma": "reform",
+                  "surface": "reform"
+                }
+              ],
+              "B": [
+                {
+                  "gloss": "帮助",
+                  "lemma": "help",
+                  "surface": "help"
+                },
+                {
+                  "gloss": "贫困的",
+                  "lemma": "poor",
+                  "surface": "poor"
+                },
+                {
+                  "gloss": "家庭",
+                  "lemma": "family",
+                  "surface": "families"
+                },
+                {
+                  "gloss": "获得",
+                  "lemma": "get",
+                  "surface": "get"
+                },
+                {
+                  "gloss": "更好的",
+                  "lemma": "better",
+                  "surface": "better"
+                },
+                {
+                  "gloss": "脱离",
+                  "lemma": "off",
+                  "surface": "off"
+                }
+              ],
+              "C": [
+                {
+                  "gloss": "改善",
+                  "lemma": "improve",
+                  "surface": "improve"
+                },
+                {
+                  "gloss": "当地的",
+                  "lemma": "local",
+                  "surface": "local"
+                },
+                {
+                  "gloss": "教育",
+                  "lemma": "education",
+                  "surface": "education"
+                },
+                {
+                  "gloss": "系统",
+                  "lemma": "system",
+                  "surface": "systems"
+                }
+              ],
+              "D": [
+                {
+                  "gloss": "降低",
+                  "lemma": "lower",
+                  "surface": "lower"
+                },
+                {
+                  "gloss": "森林砍伐",
+                  "lemma": "deforestation",
+                  "surface": "deforestation"
+                },
+                {
+                  "gloss": "率",
+                  "lemma": "rate",
+                  "surface": "rates"
+                }
+              ]
+            },
+            "options": [
+              "A) facilitate health care reform.",
+              "B) help poor families get better off.",
+              "C) improve local education systems.",
+              "D) lower deforestation rates."
+            ],
+            "qid": 2021011026,
+            "text": "According to the first two paragraphs, CCT programs aim to ____",
+            "text_tokens": [
+              {
+                "gloss": "根据",
+                "lemma": "according",
+                "surface": "According"
+              },
+              {
+                "gloss": "至",
+                "lemma": "to",
+                "surface": "to"
+              },
+              {
+                "gloss": "这",
+                "lemma": "the",
+                "surface": "the"
+              },
+              {
+                "gloss": "第一",
+                "lemma": "first",
+                "surface": "first"
+              },
+              {
+                "gloss": "两个",
+                "lemma": "two",
+                "surface": "two"
+              },
+              {
+                "gloss": "段落",
+                "lemma": "paragraph",
+                "surface": "paragraphs"
+              },
+              {
+                "gloss": "CCT",
+                "lemma": "cct",
+                "surface": "CCT"
+              },
+              {
+                "gloss": "项目",
+                "lemma": "program",
+                "surface": "programs"
+              },
+              {
+                "gloss": "旨在",
+                "lemma": "aim",
+                "surface": "aim"
+              },
+              {
+                "gloss": "去",
+                "lemma": "to",
+                "surface": "to"
+              }
+            ]
+          },
+          {
+            "ai_analysis_ids": [
+              2021013062
+            ],
+            "ai_analysis_text": "墨西哥的研究被引用来说明经济增长可能导致环境恶化，从而支持传统观点。\nA. 文中提到养牛是为了说明经济增长与环境恶化的关系，而非强调养牛是主要生计。\nB. 文中未提到 CCT 项目帮助保留传统生活方式，因此不符合题意。\nC. 文中未提到反贫困努力需要当地农民的参与，因此不符合题意。\nD. 墨西哥研究的结果表明，经济增长与环境恶化之间存在相关性，这支持了传统观点。",
+            "ai_analysis_words": [
+              "cleared land",
+              "economic growth",
+              "environmental degradation"
+            ],
+            "analysis_sentence_id": 2021013062,
+            "answer": "D",
+            "id": 27,
+            "option_tokens": {
+              "A": [
+                {
+                  "gloss": "牛",
+                  "lemma": "cattle",
+                  "surface": "cattle"
+                },
+                {
+                  "gloss": "饲养",
+                  "lemma": "rear",
+                  "surface": "rearing"
+                },
+                {
+                  "gloss": "已经",
+                  "lemma": "have",
+                  "surface": "has"
+                },
+                {
+                  "gloss": "是",
+                  "lemma": "be",
+                  "surface": "been"
+                },
+                {
+                  "gloss": "一个",
+                  "lemma": "a",
+                  "surface": "a"
+                },
+                {
+                  "gloss": "主要的",
+                  "lemma": "major",
+                  "surface": "major"
+                },
+                {
+                  "gloss": "手段",
+                  "lemma": "means",
+                  "surface": "means"
+                },
+                {
+                  "gloss": "的",
+                  "lemma": "of",
+                  "surface": "of"
+                },
+                {
+                  "gloss": "生计",
+                  "lemma": "livelihood",
+                  "surface": "livelihood"
+                },
+                {
+                  "gloss": "为",
+                  "lemma": "for",
+                  "surface": "for"
+                },
+                {
+                  "gloss": "这",
+                  "lemma": "the",
+                  "surface": "the"
+                },
+                {
+                  "gloss": "贫困的",
+                  "lemma": "poor",
+                  "surface": "poor"
+                }
+              ],
+              "B": [
+                {
+                  "gloss": "CCT",
+                  "lemma": "cct",
+                  "surface": "CCT"
+                },
+                {
+                  "gloss": "项目",
+                  "lemma": "program",
+                  "surface": "programs"
+                },
+                {
+                  "gloss": "已经",
+                  "lemma": "have",
+                  "surface": "have"
+                },
+                {
+                  "gloss": "帮助",
+                  "lemma": "help",
+                  "surface": "helped"
+                },
+                {
+                  "gloss": "保留",
+                  "lemma": "preserve",
+                  "surface": "preserve"
+                },
+                {
+                  "gloss": "传统的",
+                  "lemma": "traditional",
+                  "surface": "traditional"
+                },
+                {
+                  "gloss": "生活方式",
+                  "lemma": "lifestyle",
+                  "surface": "lifestyles"
+                }
+              ],
+              "C": [
+                {
+                  "gloss": "反贫困的",
+                  "lemma": "antipoverty",
+                  "surface": "antipoverty"
+                },
+                {
+                  "gloss": "努力",
+                  "lemma": "effort",
+                  "surface": "efforts"
+                },
+                {
+                  "gloss": "需要",
+                  "lemma": "require",
+                  "surface": "require"
+                },
+                {
+                  "gloss": "这个",
+                  "lemma": "the",
+                  "surface": "the"
+                },
+                {
+                  "gloss": "参与",
+                  "lemma": "participation",
+                  "surface": "participation"
+                },
+                {
+                  "gloss": "的",
+                  "lemma": "of",
+                  "surface": "of"
+                },
+                {
+                  "gloss": "当地的",
+                  "lemma": "local",
+                  "surface": "local"
+                },
+                {
+                  "gloss": "农民",
+                  "lemma": "farmer",
+                  "surface": "farmers"
+                }
+              ],
+              "D": [
+                {
+                  "gloss": "经济的",
+                  "lemma": "economic",
+                  "surface": "economic"
+                },
+                {
+                  "gloss": "增长",
+                  "lemma": "growth",
+                  "surface": "growth"
+                },
+                {
+                  "gloss": "倾向于",
+                  "lemma": "tend",
+                  "surface": "tends"
+                },
+                {
+                  "gloss": "导致",
+                  "lemma": "to",
+                  "surface": "to"
+                },
+                {
+                  "gloss": "引起",
+                  "lemma": "cause",
+                  "surface": "cause"
+                },
+                {
+                  "gloss": "环境的",
+                  "lemma": "environmental",
+                  "surface": "environmental"
+                },
+                {
+                  "gloss": "恶化",
+                  "lemma": "degradation",
+                  "surface": "degradation"
+                }
+              ]
+            },
+            "options": [
+              "A) cattle rearing has been a major means of livelihood for the poor.",
+              "B) CCT programs have helped preserve traditional lifestyles.",
+              "C) antipoverty efforts require the participation of local farmers.",
+              "D) economic growth tends to cause environmental degradation."
+            ],
+            "qid": 2021011027,
+            "text": "The study based on an area in Mexico is cited to show that ____",
+            "text_tokens": [
+              {
+                "gloss": "这",
+                "lemma": "the",
+                "surface": "The"
+              },
+              {
+                "gloss": "研究",
+                "lemma": "study",
+                "surface": "study"
+              },
+              {
+                "gloss": "基于",
+                "lemma": "base",
+                "surface": "based"
+              },
+              {
+                "gloss": "在",
+                "lemma": "on",
+                "surface": "on"
+              },
+              {
+                "gloss": "一个",
+                "lemma": "an",
+                "surface": "an"
+              },
+              {
+                "gloss": "地区",
+                "lemma": "area",
+                "surface": "area"
+              },
+              {
+                "gloss": "在",
+                "lemma": "in",
+                "surface": "in"
+              },
+              {
+                "gloss": "墨西哥",
+                "lemma": "mexico",
+                "surface": "Mexico"
+              },
+              {
+                "gloss": "是",
+                "lemma": "be",
+                "surface": "is"
+              },
+              {
+                "gloss": "引用",
+                "lemma": "cite",
+                "surface": "cited"
+              },
+              {
+                "gloss": "以",
+                "lemma": "to",
+                "surface": "to"
+              },
+              {
+                "gloss": "表明",
+                "lemma": "show",
+                "surface": "show"
+              },
+              {
+                "gloss": "那",
+                "lemma": "that",
+                "surface": "that"
+              }
+            ]
+          },
+          {
+            "ai_analysis_ids": [
+              2021013064
+            ],
+            "ai_analysis_text": "Ferraro 的研究目的是探讨印尼的 CCT 项目与森林损失之间的关系。\nA. 文中未提到研究的目的是评估 CCT 项目的接受程度。\nB. 文中未提到研究的目的是分析年度减贫率。\nC. 文中明确提到 Ferraro 的研究目的是分析 CCT 项目是否影响了森林砍伐率。\nD. 文中未提到研究的目的是探讨森林在气候变化中的作用。",
+            "ai_analysis_words": [
+              "poverty-alleviation program",
+              "deforestation"
+            ],
+            "analysis_sentence_id": 2021013064,
+            "answer": "C",
+            "id": 28,
+            "option_tokens": {
+              "A": [
+                {
+                  "gloss": "它的",
+                  "lemma": "its",
+                  "surface": "its"
+                },
+                {
+                  "gloss": "接受",
+                  "lemma": "acceptance",
+                  "surface": "acceptance"
+                },
+                {
+                  "gloss": "程度",
+                  "lemma": "level",
+                  "surface": "level"
+                },
+                {
+                  "gloss": "对",
+                  "lemma": "of",
+                  "surface": "of"
+                },
+                {
+                  "gloss": "条件现金转移支付计划",
+                  "lemma": "ccts",
+                  "surface": "CCTs"
+                }
+              ],
+              "B": [
+                {
+                  "gloss": "它的",
+                  "lemma": "its",
+                  "surface": "its"
+                },
+                {
+                  "gloss": "年度的",
+                  "lemma": "annual",
+                  "surface": "annual"
+                },
+                {
+                  "gloss": "率",
+                  "lemma": "rate",
+                  "surface": "rate"
+                },
+                {
+                  "gloss": "的",
+                  "lemma": "of",
+                  "surface": "of"
+                },
+                {
+                  "gloss": "贫困",
+                  "lemma": "poverty",
+                  "surface": "poverty"
+                },
+                {
+                  "gloss": "缓解",
+                  "lemma": "alleviation",
+                  "surface": "alleviation"
+                }
+              ],
+              "C": [
+                {
+                  "gloss": "这个",
+                  "lemma": "the",
+                  "surface": "the"
+                },
+                {
+                  "gloss": "关系",
+                  "lemma": "relation",
+                  "surface": "relation"
+                },
+                {
+                  "gloss": "与",
+                  "lemma": "of",
+                  "surface": "of"
+                },
+                {
+                  "gloss": "条件现金转移支付计划",
+                  "lemma": "ccts",
+                  "surface": "CCTs"
+                },
+                {
+                  "gloss": "与",
+                  "lemma": "to",
+                  "surface": "to"
+                },
+                {
+                  "gloss": "它的",
+                  "lemma": "its",
+                  "surface": "its"
+                },
+                {
+                  "gloss": "森林",
+                  "lemma": "forest",
+                  "surface": "forest"
+                },
+                {
+                  "gloss": "损失",
+                  "lemma": "loss",
+                  "surface": "loss"
+                }
+              ],
+              "D": [
+                {
+                  "gloss": "这个",
+                  "lemma": "the",
+                  "surface": "the"
+                },
+                {
+                  "gloss": "作用",
+                  "lemma": "role",
+                  "surface": "role"
+                },
+                {
+                  "gloss": "的",
+                  "lemma": "of",
+                  "surface": "of"
+                },
+                {
+                  "gloss": "它的",
+                  "lemma": "its",
+                  "surface": "its"
+                },
+                {
+                  "gloss": "森林",
+                  "lemma": "forest",
+                  "surface": "forests"
+                },
+                {
+                  "gloss": "在",
+                  "lemma": "in",
+                  "surface": "in"
+                },
+                {
+                  "gloss": "气候",
+                  "lemma": "climate",
+                  "surface": "climate"
+                },
+                {
+                  "gloss": "变化",
+                  "lemma": "change",
+                  "surface": "change"
+                }
+              ]
+            },
+            "options": [
+              "A) its acceptance level of CCTs.",
+              "B) its annual rate of poverty alleviation.",
+              "C) the relation of CCTs to its forest loss.",
+              "D) the role of its forests in climate change."
+            ],
+            "qid": 2021011028,
+            "text": "In his study about Indonesia, Ferraro intends to find out ____",
+            "text_tokens": [
+              {
+                "gloss": "在",
+                "lemma": "in",
+                "surface": "In"
+              },
+              {
+                "gloss": "他的",
+                "lemma": "his",
+                "surface": "his"
+              },
+              {
+                "gloss": "研究",
+                "lemma": "study",
+                "surface": "study"
+              },
+              {
+                "gloss": "关于",
+                "lemma": "about",
+                "surface": "about"
+              },
+              {
+                "gloss": "印度尼西亚",
+                "lemma": "indonesia",
+                "surface": "Indonesia"
+              },
+              {
+                "gloss": "费拉罗",
+                "lemma": "ferraro",
+                "surface": "Ferraro"
+              },
+              {
+                "gloss": "打算",
+                "lemma": "intend",
+                "surface": "intends"
+              },
+              {
+                "gloss": "去",
+                "lemma": "to",
+                "surface": "to"
+              },
+              {
+                "gloss": "弄清楚",
+                "lemma": "find",
+                "surface": "find"
+              },
+              {
+                "gloss": "出",
+                "lemma": "out",
+                "surface": "out"
+              }
+            ]
+          },
+          {
+            "ai_analysis_ids": [
+              2021013074
+            ],
+            "ai_analysis_text": "Ferraro 认为印尼的 CCT 项目最有价值之处在于它能够保护环境，特别是减少森林砍伐。\nA. 虽然研究结果可能适用于其他亚洲国家，但这并非 Ferraro 所认为的项目最有价值之处。\nB. 文中未提到该项目的主要价值在于减少区域不平等。\nC. Ferraro 明确指出该项目的价值在于减少森林砍伐，从而保护环境。\nD. 文中提到 CCT 项目帮助农民应对天气问题，但未提到其主要价值是提高粮食产量。",
+            "ai_analysis_words": [
+              "avoided deforestation",
+              "value",
+              "carbon dioxide emissions"
+            ],
+            "analysis_sentence_id": 2021013074,
+            "answer": "C",
+            "id": 29,
+            "option_tokens": {
+              "A": [
+                {
+                  "gloss": "它",
+                  "lemma": "it",
+                  "surface": "it"
+                },
+                {
+                  "gloss": "将",
+                  "lemma": "will",
+                  "surface": "will"
+                },
+                {
+                  "gloss": "使受益",
+                  "lemma": "benefit",
+                  "surface": "benefit"
+                },
+                {
+                  "gloss": "其他的",
+                  "lemma": "other",
+                  "surface": "other"
+                },
+                {
+                  "gloss": "亚洲的",
+                  "lemma": "asian",
+                  "surface": "Asian"
+                },
+                {
+                  "gloss": "国家",
+                  "lemma": "country",
+                  "surface": "countries"
+                }
+              ],
+              "B": [
+                {
+                  "gloss": "它",
+                  "lemma": "it",
+                  "surface": "it"
+                },
+                {
+                  "gloss": "将",
+                  "lemma": "will",
+                  "surface": "will"
+                },
+                {
+                  "gloss": "减少",
+                  "lemma": "reduce",
+                  "surface": "reduce"
+                },
+                {
+                  "gloss": "地区的",
+                  "lemma": "regional",
+                  "surface": "regional"
+                },
+                {
+                  "gloss": "不平等",
+                  "lemma": "inequality",
+                  "surface": "inequality"
+                }
+              ],
+              "C": [
+                {
+                  "gloss": "它",
+                  "lemma": "it",
+                  "surface": "it"
+                },
+                {
+                  "gloss": "可以",
+                  "lemma": "can",
+                  "surface": "can"
+                },
+                {
+                  "gloss": "保护",
+                  "lemma": "protect",
+                  "surface": "protect"
+                },
+                {
+                  "gloss": "（定冠词）",
+                  "lemma": "the",
+                  "surface": "the"
+                },
+                {
+                  "gloss": "环境",
+                  "lemma": "environment",
+                  "surface": "environment"
+                }
+              ],
+              "D": [
+                {
+                  "gloss": "它",
+                  "lemma": "it",
+                  "surface": "it"
+                },
+                {
+                  "gloss": "可以",
+                  "lemma": "can",
+                  "surface": "can"
+                },
+                {
+                  "gloss": "促进",
+                  "lemma": "boost",
+                  "surface": "boost"
+                },
+                {
+                  "gloss": "粮食",
+                  "lemma": "grain",
+                  "surface": "grain"
+                },
+                {
+                  "gloss": "生产",
+                  "lemma": "production",
+                  "surface": "production"
+                }
+              ]
+            },
+            "options": [
+              "A) it will benefit other Asian countries.",
+              "B) it will reduce regional inequality.",
+              "C) it can protect the environment.",
+              "D) it can boost grain production."
+            ],
+            "qid": 2021011029,
+            "text": "According to Ferraro, the CCT program in Indonesia is most valuable in that ____",
+            "text_tokens": [
+              {
+                "gloss": "根据",
+                "lemma": "according",
+                "surface": "According"
+              },
+              {
+                "gloss": "至",
+                "lemma": "to",
+                "surface": "to"
+              },
+              {
+                "gloss": "费拉罗",
+                "lemma": "ferraro",
+                "surface": "Ferraro"
+              },
+              {
+                "gloss": "这个",
+                "lemma": "the",
+                "surface": "the"
+              },
+              {
+                "gloss": "条件现金转移支付计划",
+                "lemma": "cct",
+                "surface": "CCT"
+              },
+              {
+                "gloss": "计划",
+                "lemma": "program",
+                "surface": "program"
+              },
+              {
+                "gloss": "在",
+                "lemma": "in",
+                "surface": "in"
+              },
+              {
+                "gloss": "印度尼西亚",
+                "lemma": "indonesia",
+                "surface": "Indonesia"
+              },
+              {
+                "gloss": "是",
+                "lemma": "be",
+                "surface": "is"
+              },
+              {
+                "gloss": "最",
+                "lemma": "most",
+                "surface": "most"
+              },
+              {
+                "gloss": "有价值的",
+                "lemma": "valuable",
+                "surface": "valuable"
+              },
+              {
+                "gloss": "在",
+                "lemma": "in",
+                "surface": "in"
+              },
+              {
+                "gloss": "因为",
+                "lemma": "that",
+                "surface": "that"
+              }
+            ]
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "文章主要讨论了印尼 CCT 项目的效果，包括其对减贫和环境保护的影响。\nA. 文章主要围绕 CCT 项目的效果展开，包括减贫和减少森林砍伐的双重作用。\nB. 文章并未提到对 CCT 项目的争议，而是集中讨论其效果。\nC. 虽然文章提到了一些研究过程，但这并非文章的核心内容。\nD. 文章提到研究结果可能适用于其他地区，但这只是次要内容，非文章中心。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "A",
+            "id": 30,
+            "option_tokens": {
+              "A": [
+                {
+                  "gloss": "（定冠词）",
+                  "lemma": "the",
+                  "surface": "The"
+                },
+                {
+                  "gloss": "影响",
+                  "lemma": "effect",
+                  "surface": "effects"
+                },
+                {
+                  "gloss": "的",
+                  "lemma": "of",
+                  "surface": "of"
+                },
+                {
+                  "gloss": "一个",
+                  "lemma": "a",
+                  "surface": "a"
+                },
+                {
+                  "gloss": "项目",
+                  "lemma": "program",
+                  "surface": "program"
+                }
+              ],
+              "B": [
+                {
+                  "gloss": "（定冠词）",
+                  "lemma": "the",
+                  "surface": "The"
+                },
+                {
+                  "gloss": "争论",
+                  "lemma": "debate",
+                  "surface": "debates"
+                },
+                {
+                  "gloss": "关于",
+                  "lemma": "over",
+                  "surface": "over"
+                },
+                {
+                  "gloss": "一个",
+                  "lemma": "a",
+                  "surface": "a"
+                },
+                {
+                  "gloss": "项目",
+                  "lemma": "program",
+                  "surface": "program"
+                }
+              ],
+              "C": [
+                {
+                  "gloss": "（定冠词）",
+                  "lemma": "the",
+                  "surface": "The"
+                },
+                {
+                  "gloss": "过程",
+                  "lemma": "process",
+                  "surface": "process"
+                },
+                {
+                  "gloss": "的",
+                  "lemma": "of",
+                  "surface": "of"
+                },
+                {
+                  "gloss": "一个",
+                  "lemma": "a",
+                  "surface": "a"
+                },
+                {
+                  "gloss": "研究",
+                  "lemma": "study",
+                  "surface": "study"
+                }
+              ],
+              "D": [
+                {
+                  "gloss": "这",
+                  "lemma": "the",
+                  "surface": "The"
+                },
+                {
+                  "gloss": "可转移性",
+                  "lemma": "transferability",
+                  "surface": "transferability"
+                },
+                {
+                  "gloss": "的",
+                  "lemma": "of",
+                  "surface": "of"
+                },
+                {
+                  "gloss": "一个",
+                  "lemma": "a",
+                  "surface": "a"
+                },
+                {
+                  "gloss": "研究",
+                  "lemma": "study",
+                  "surface": "study"
+                }
+              ]
+            },
+            "options": [
+              "A) The effects of a program.",
+              "B) The debates over a program.",
+              "C) The process of a study.",
+              "D) The transferability of a study."
+            ],
+            "qid": 2021011030,
+            "text": "What is the text centered on?",
+            "text_tokens": [
+              {
+                "gloss": "什么",
+                "lemma": "what",
+                "surface": "What"
+              },
+              {
+                "gloss": "是",
+                "lemma": "be",
+                "surface": "is"
+              },
+              {
+                "gloss": "（定冠词）",
+                "lemma": "the",
+                "surface": "the"
+              },
+              {
+                "gloss": "文章",
+                "lemma": "text",
+                "surface": "text"
+              },
+              {
+                "gloss": "集中",
+                "lemma": "center",
+                "surface": "centered"
+              },
+              {
+                "gloss": "关于",
+                "lemma": "on",
+                "surface": "on"
+              }
+            ]
+          }
+        ],
+        "title": "Text 2"
+      },
+      "directions": "Read the following four texts. Answer the questions after each text by choosing A, B, C\nor D. Mark your answers on the ANSWER SHEET. (10 points for each text)",
+      "exam_info": "2021(1)",
+      "exam_type": "kaoyan",
+      "id": 202101003,
+      "key_words": "cct ferraro program deforestation indonesia poverty study ccts environment its may programs reduce says alleviation environmental growth money more people text antipoverty area degradation economic forest inequality land poor such according annual answer avoided based break carbon care cattle cause cleared correlated countries cycle dioxide don each effects emissions get good harvests local loss mexico one other rate rates rice see supplement third traditional transferability value year acceptance access across affect affecting after against aim alone already among analyzed analyzing",
+      "kid": 12,
+      "part": "Part III",
+      "section": "Sec C",
+      "task_key": "2021(1)_Section II_Part A_Text2",
+      "type": "Reading Comprehension"
+    }
+  ]
+}

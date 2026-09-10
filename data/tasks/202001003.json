@@ -1,0 +1,889 @@
+{
+  "tasks": [
+    {
+      "content_json": {
+        "article": "Scientific publishing has long been a licence to print money.\nScientists need journals in which to publish their research, so they will supply the articles without monetary reward.\nOther scientists perform the specialised work of peer review also for free, because it is a central element in the acquisition of status and the production of scientific knowledge.\nWith the content of papers secured for free, the publisher needs only to find a market for its journal.\nUntil this century, university libraries were not very price sensitive.\nScientific publishers routinely report profit margins approaching 40% on their operations, at a time when the rest of the publishing industry is in an existential crisis.\nThe Dutch giant Elsevier, which claims to publish 25% of the scientific papers produced in the world, made profits of more than £900m last year, while UK universities alone spent more than £210m in 2016 to enable researchers to access their own publicly funded research; both figures seem to rise unstoppably despite increasingly desperate efforts to change them.\nThe most drastic, and thoroughly illegal, reaction has been the emergence of SciHub, a kind of global photocopier for scientific papers, set up in 2012, which now claims to offer access to every paywalled article published since 2015.\nThe success of Sci-Hub, which relies on researchers passing on copies they have themselves legally accessed, shows the legal ecosystem has lost legitimacy among its users and must be transformed so that it works for all participants.\nIn Britain the move towards open access publishing has been driven by funding bodies.\nIn some ways it has been very successful.\nMore than half of all British scientific research is now published under open access terms: either freely available from the moment of publication, or paywalled for a year or more so that the publishers can make a profit before being placed on general release.\nYet the new system has not worked out any cheaper for the universities.\nPublishers have responded to the demand that they make their product free to readers by charging their writers fees to cover the costs of preparing an article.\nThese range from around £500 to $5,000.\nA report last year pointed out that the costs both of subscriptions and of these “article preparation costs” had been steadily rising at a rate above inflation.\nIn some ways the scientific publishing model resembles the economy of the social internet: labour is provided free in exchange for the hope of status, while huge profits are made by a few big firms who run the market places.\nIn both cases, we need a rebalancing of power.",
+        "questions": [
+          {
+            "ai_analysis_ids": [
+              2020013059
+            ],
+            "ai_analysis_text": "科学出版被视为“印钞许可证”，部分原因在于其内容获取成本几乎为零，科学家们免费提供研究文章，同行评审也无需支付报酬。\nA. 选项 A 提到资金的稳定增长，但文中并未提及资金增长是科学出版盈利的主要原因。\nB. 选项 B 提到营销策略的成功，但文中并未提到营销策略是科学出版盈利的关键。\nC. 选项 C 提到减少同行评审的支付，但实际上同行评审是完全免费的，而非减少支付。\nD. 选项 D 准确反映了文章中提到的科学出版内容获取成本为零的事实。",
+            "ai_analysis_words": [
+              "supply the articles",
+              "without monetary reward"
+            ],
+            "analysis_sentence_id": 2020013059,
+            "answer": "D",
+            "id": 26,
+            "option_tokens": {
+              "A": [
+                {
+                  "gloss": "其",
+                  "lemma": "its",
+                  "surface": "its"
+                },
+                {
+                  "gloss": "资金",
+                  "lemma": "fund",
+                  "surface": "funding"
+                },
+                {
+                  "gloss": "已经",
+                  "lemma": "have",
+                  "surface": "has"
+                },
+                {
+                  "gloss": "享受",
+                  "lemma": "enjoy",
+                  "surface": "enjoyed"
+                },
+                {
+                  "gloss": "一个",
+                  "lemma": "a",
+                  "surface": "a"
+                },
+                {
+                  "gloss": "稳定的",
+                  "lemma": "steady",
+                  "surface": "steady"
+                },
+                {
+                  "gloss": "增长",
+                  "lemma": "increase",
+                  "surface": "increase"
+                }
+              ],
+              "B": [
+                {
+                  "gloss": "其",
+                  "lemma": "its",
+                  "surface": "its"
+                },
+                {
+                  "gloss": "营销",
+                  "lemma": "market",
+                  "surface": "marketing"
+                },
+                {
+                  "gloss": "策略",
+                  "lemma": "strategy",
+                  "surface": "strategy"
+                },
+                {
+                  "gloss": "已经",
+                  "lemma": "have",
+                  "surface": "has"
+                },
+                {
+                  "gloss": "是",
+                  "lemma": "be",
+                  "surface": "been"
+                },
+                {
+                  "gloss": "成功的",
+                  "lemma": "successful",
+                  "surface": "successful"
+                }
+              ],
+              "C": [
+                {
+                  "gloss": "其",
+                  "lemma": "its",
+                  "surface": "its"
+                },
+                {
+                  "gloss": "支付",
+                  "lemma": "payment",
+                  "surface": "payment"
+                },
+                {
+                  "gloss": "用于",
+                  "lemma": "for",
+                  "surface": "for"
+                },
+                {
+                  "gloss": "同行",
+                  "lemma": "peer",
+                  "surface": "peer"
+                },
+                {
+                  "gloss": "评审",
+                  "lemma": "review",
+                  "surface": "review"
+                },
+                {
+                  "gloss": "是",
+                  "lemma": "be",
+                  "surface": "is"
+                },
+                {
+                  "gloss": "减少",
+                  "lemma": "reduce",
+                  "surface": "reduced"
+                }
+              ],
+              "D": [
+                {
+                  "gloss": "其",
+                  "lemma": "its",
+                  "surface": "its"
+                },
+                {
+                  "gloss": "内容",
+                  "lemma": "content",
+                  "surface": "content"
+                },
+                {
+                  "gloss": "获取",
+                  "lemma": "acquisition",
+                  "surface": "acquisition"
+                },
+                {
+                  "gloss": "成本",
+                  "lemma": "cost",
+                  "surface": "costs"
+                },
+                {
+                  "gloss": "没有",
+                  "lemma": "nothing",
+                  "surface": "nothing"
+                }
+              ]
+            },
+            "options": [
+              "A) its funding has enjoyed a steady increase.",
+              "B) its marketing strategy has been successful.",
+              "C) its payment for peer review is reduced.",
+              "D) its content acquisition costs nothing."
+            ],
+            "qid": 2020011026,
+            "text": "Scientific publishing is seen as “a licence to print money” partly because ____",
+            "text_tokens": [
+              {
+                "gloss": "科学的",
+                "lemma": "scientific",
+                "surface": "scientific"
+              },
+              {
+                "gloss": "出版",
+                "lemma": "publish",
+                "surface": "publishing"
+              },
+              {
+                "gloss": "是",
+                "lemma": "be",
+                "surface": "is"
+              },
+              {
+                "gloss": "被认为",
+                "lemma": "see",
+                "surface": "seen"
+              },
+              {
+                "gloss": "作为",
+                "lemma": "as",
+                "surface": "as"
+              },
+              {
+                "gloss": "一个",
+                "lemma": "a",
+                "surface": "a"
+              },
+              {
+                "gloss": "许可证",
+                "lemma": "licence",
+                "surface": "licence"
+              },
+              {
+                "gloss": "去",
+                "lemma": "to",
+                "surface": "to"
+              },
+              {
+                "gloss": "印刷",
+                "lemma": "print",
+                "surface": "print"
+              },
+              {
+                "gloss": "钱",
+                "lemma": "money",
+                "surface": "money"
+              },
+              {
+                "gloss": "部分地",
+                "lemma": "partly",
+                "surface": "partly"
+              },
+              {
+                "gloss": "因为",
+                "lemma": "because",
+                "surface": "because"
+              }
+            ]
+          },
+          {
+            "ai_analysis_ids": [
+              2020013064
+            ],
+            "ai_analysis_text": "科学出版商如 Elsevier 主要依赖大学图书馆的订阅收入，而大学图书馆对价格不敏感，这使得它们能够获得高额利润。\nA. 选项 A 准确反映了科学出版商依赖大学图书馆订阅的事实。\nB. 选项 B 提到经历生存危机，但文中明确指出科学出版商利润丰厚，与生存危机无关。\nC. 选项 C 提到复兴出版业，但文中提到的是科学出版业的高利润，而非整个出版行业的复兴。\nD. 选项 D 提到慷慨资助研究人员，但文中并未提到科学出版商资助研究人员。",
+            "ai_analysis_words": [
+              "university libraries",
+              "profit margins",
+              "£900m"
+            ],
+            "analysis_sentence_id": 2020013064,
+            "answer": "A",
+            "id": 27,
+            "option_tokens": {
+              "A": [
+                {
+                  "gloss": "繁荣",
+                  "lemma": "thrive",
+                  "surface": "thrived"
+                },
+                {
+                  "gloss": "主要地",
+                  "lemma": "mainly",
+                  "surface": "mainly"
+                },
+                {
+                  "gloss": "依赖于",
+                  "lemma": "on",
+                  "surface": "on"
+                },
+                {
+                  "gloss": "大学",
+                  "lemma": "university",
+                  "surface": "university"
+                },
+                {
+                  "gloss": "图书馆",
+                  "lemma": "library",
+                  "surface": "libraries"
+                }
+              ],
+              "B": [
+                {
+                  "gloss": "经历",
+                  "lemma": "go",
+                  "surface": "gone"
+                },
+                {
+                  "gloss": "通过",
+                  "lemma": "through",
+                  "surface": "through"
+                },
+                {
+                  "gloss": "一个",
+                  "lemma": "an",
+                  "surface": "an"
+                },
+                {
+                  "gloss": "存在的",
+                  "lemma": "existential",
+                  "surface": "existential"
+                },
+                {
+                  "gloss": "危机",
+                  "lemma": "crisis",
+                  "surface": "crisis"
+                }
+              ],
+              "C": [
+                {
+                  "gloss": "复兴",
+                  "lemma": "revive",
+                  "surface": "revived"
+                },
+                {
+                  "gloss": "该",
+                  "lemma": "the",
+                  "surface": "the"
+                },
+                {
+                  "gloss": "出版",
+                  "lemma": "publish",
+                  "surface": "publishing"
+                },
+                {
+                  "gloss": "行业",
+                  "lemma": "industry",
+                  "surface": "industry"
+                }
+              ],
+              "D": [
+                {
+                  "gloss": "资助",
+                  "lemma": "finance",
+                  "surface": "financed"
+                },
+                {
+                  "gloss": "研究人员",
+                  "lemma": "researcher",
+                  "surface": "researchers"
+                },
+                {
+                  "gloss": "慷慨地",
+                  "lemma": "generously",
+                  "surface": "generously"
+                }
+              ]
+            },
+            "options": [
+              "A) thrived mainly on university libraries.",
+              "B) gone through an existential crisis.",
+              "C) revived the publishing industry.",
+              "D) financed researchers generously."
+            ],
+            "qid": 2020011027,
+            "text": "According to Paragraphs 2 and 3, scientific publishers like Elsevier have ____",
+            "text_tokens": [
+              {
+                "gloss": "根据",
+                "lemma": "according",
+                "surface": "according"
+              },
+              {
+                "gloss": "到",
+                "lemma": "to",
+                "surface": "to"
+              },
+              {
+                "gloss": "段落",
+                "lemma": "paragraph",
+                "surface": "paragraphs"
+              },
+              {
+                "gloss": "和",
+                "lemma": "and",
+                "surface": "and"
+              },
+              {
+                "gloss": "科学的",
+                "lemma": "scientific",
+                "surface": "scientific"
+              },
+              {
+                "gloss": "出版商",
+                "lemma": "publisher",
+                "surface": "publishers"
+              },
+              {
+                "gloss": "像",
+                "lemma": "like",
+                "surface": "like"
+              },
+              {
+                "gloss": "爱思唯尔",
+                "lemma": "elsevier",
+                "surface": "elsevier"
+              },
+              {
+                "gloss": "已经",
+                "lemma": "have",
+                "surface": "have"
+              }
+            ]
+          },
+          {
+            "ai_analysis_ids": [
+              2020013066
+            ],
+            "ai_analysis_text": "然而结合全文来看，作者实际上对 Sci-Hub 的成功持担忧态度，因为它的非法性和对现有出版体系的冲击可能带来更大的问题。正确答案为 C，‘担忧’更准确地反映了作者的情绪。\nA. 选项 A 提到‘宽慰’，但文中并未表现出作者对 Sci-Hub 成功感到宽慰的情绪。\nB. 选项 B 提到‘困惑’，但作者对 Sci-Hub 的成功并未表现出困惑，而是明确表达了对现有体系合法性丧失的担忧。\nC. 选项 C 提到‘担忧’，准确反映了作者对 Sci-Hub 成功可能带来的负面影响的担忧情绪。\nD. 选项 D 提到‘鼓励’，但作者并未表现出对 Sci-Hub 成功的鼓励态度，而是指出其非法性和对出版体系的冲击。",
+            "ai_analysis_words": [
+              "lost legitimacy",
+              "must be transformed"
+            ],
+            "analysis_sentence_id": 2020013066,
+            "answer": "C",
+            "id": 28,
+            "option_tokens": {
+              "A": [
+                {
+                  "gloss": "宽慰的",
+                  "lemma": "relieved",
+                  "surface": "Relieved"
+                }
+              ],
+              "B": [
+                {
+                  "gloss": "困惑的",
+                  "lemma": "puzzled",
+                  "surface": "Puzzled"
+                }
+              ],
+              "C": [
+                {
+                  "gloss": "担忧的",
+                  "lemma": "concerned",
+                  "surface": "Concerned"
+                }
+              ],
+              "D": [
+                {
+                  "gloss": "鼓励",
+                  "lemma": "encourage",
+                  "surface": "Encouraged"
+                }
+              ]
+            },
+            "options": [
+              "A) Relieved.",
+              "B) Puzzled.",
+              "C) Concerned.",
+              "D) Encouraged."
+            ],
+            "qid": 2020011028,
+            "text": "How does the author feel about the success of Sci-Hub?",
+            "text_tokens": [
+              {
+                "gloss": "如何",
+                "lemma": "how",
+                "surface": "How"
+              },
+              {
+                "gloss": "助动词",
+                "lemma": "do",
+                "surface": "does"
+              },
+              {
+                "gloss": "该",
+                "lemma": "the",
+                "surface": "the"
+              },
+              {
+                "gloss": "作者",
+                "lemma": "author",
+                "surface": "author"
+              },
+              {
+                "gloss": "感受",
+                "lemma": "feel",
+                "surface": "feel"
+              },
+              {
+                "gloss": "关于",
+                "lemma": "about",
+                "surface": "about"
+              },
+              {
+                "gloss": "该",
+                "lemma": "the",
+                "surface": "the"
+              },
+              {
+                "gloss": "成功",
+                "lemma": "success",
+                "surface": "success"
+              },
+              {
+                "gloss": "的",
+                "lemma": "of",
+                "surface": "of"
+              },
+              {
+                "gloss": "科学",
+                "lemma": "sci",
+                "surface": "Sci"
+              },
+              {
+                "gloss": "中心",
+                "lemma": "hub",
+                "surface": "Hub"
+              }
+            ]
+          },
+          {
+            "ai_analysis_ids": [
+              2020013069
+            ],
+            "ai_analysis_text": "开放获取条款允许出版商通过在初期设置付费墙来盈利，但并未显著降低出版成本，也未完全减轻大学的经济负担。\nA. 选项 A 准确反映了开放获取条款允许出版商在初期通过付费墙盈利的事实。\nB. 选项 B 提到使科学家更容易出版，但文中并未提到开放获取条款简化了出版流程。\nC. 选项 C 提到显著降低出版成本，但文中明确指出成本并未显著降低。\nD. 选项 D 提到减轻大学经济负担，但文中指出大学的费用并未减少。",
+            "ai_analysis_words": [
+              "paywalled",
+              "make a profit"
+            ],
+            "analysis_sentence_id": 2020013069,
+            "answer": "A",
+            "id": 29,
+            "option_tokens": {
+              "A": [
+                {
+                  "gloss": "允许",
+                  "lemma": "allow",
+                  "surface": "allow"
+                },
+                {
+                  "gloss": "出版商",
+                  "lemma": "publisher",
+                  "surface": "publishers"
+                },
+                {
+                  "gloss": "一些",
+                  "lemma": "some",
+                  "surface": "some"
+                },
+                {
+                  "gloss": "空间",
+                  "lemma": "room",
+                  "surface": "room"
+                },
+                {
+                  "gloss": "去",
+                  "lemma": "to",
+                  "surface": "to"
+                },
+                {
+                  "gloss": "赚取",
+                  "lemma": "make",
+                  "surface": "make"
+                },
+                {
+                  "gloss": "钱",
+                  "lemma": "money",
+                  "surface": "money"
+                }
+              ],
+              "B": [
+                {
+                  "gloss": "使",
+                  "lemma": "render",
+                  "surface": "render"
+                },
+                {
+                  "gloss": "出版",
+                  "lemma": "publish",
+                  "surface": "publishing"
+                },
+                {
+                  "gloss": "非常",
+                  "lemma": "much",
+                  "surface": "much"
+                },
+                {
+                  "gloss": "更容易",
+                  "lemma": "easy",
+                  "surface": "easier"
+                },
+                {
+                  "gloss": "对",
+                  "lemma": "for",
+                  "surface": "for"
+                },
+                {
+                  "gloss": "科学家",
+                  "lemma": "scientist",
+                  "surface": "scientists"
+                }
+              ],
+              "C": [
+                {
+                  "gloss": "降低",
+                  "lemma": "reduce",
+                  "surface": "reduce"
+                },
+                {
+                  "gloss": "这个",
+                  "lemma": "the",
+                  "surface": "the"
+                },
+                {
+                  "gloss": "成本",
+                  "lemma": "cost",
+                  "surface": "cost"
+                },
+                {
+                  "gloss": "的",
+                  "lemma": "of",
+                  "surface": "of"
+                },
+                {
+                  "gloss": "出版",
+                  "lemma": "publication",
+                  "surface": "publication"
+                },
+                {
+                  "gloss": "大幅地",
+                  "lemma": "substantially",
+                  "surface": "substantially"
+                }
+              ],
+              "D": [
+                {
+                  "gloss": "使自由",
+                  "lemma": "free",
+                  "surface": "free"
+                },
+                {
+                  "gloss": "大学",
+                  "lemma": "university",
+                  "surface": "universities"
+                },
+                {
+                  "gloss": "从",
+                  "lemma": "from",
+                  "surface": "from"
+                },
+                {
+                  "gloss": "财政的",
+                  "lemma": "financial",
+                  "surface": "financial"
+                },
+                {
+                  "gloss": "负担",
+                  "lemma": "burden",
+                  "surface": "burdens"
+                }
+              ]
+            },
+            "options": [
+              "A) allow publishers some room to make money.",
+              "B) render publishing much easier for scientists.",
+              "C) reduce the cost of publication substantially.",
+              "D) free universities from financial burdens."
+            ],
+            "qid": 2020011029,
+            "text": "It can be learned from Paragraphs 5 and 6 that open access terms ____",
+            "text_tokens": [
+              {
+                "gloss": "它",
+                "lemma": "it",
+                "surface": "It"
+              },
+              {
+                "gloss": "能够",
+                "lemma": "can",
+                "surface": "can"
+              },
+              {
+                "gloss": "是",
+                "lemma": "be",
+                "surface": "be"
+              },
+              {
+                "gloss": "得知",
+                "lemma": "learn",
+                "surface": "learned"
+              },
+              {
+                "gloss": "从",
+                "lemma": "from",
+                "surface": "from"
+              },
+              {
+                "gloss": "段落",
+                "lemma": "paragraph",
+                "surface": "Paragraphs"
+              },
+              {
+                "gloss": "和",
+                "lemma": "and",
+                "surface": "and"
+              },
+              {
+                "gloss": "表明",
+                "lemma": "that",
+                "surface": "that"
+              },
+              {
+                "gloss": "开放的",
+                "lemma": "open",
+                "surface": "open"
+              },
+              {
+                "gloss": "访问",
+                "lemma": "access",
+                "surface": "access"
+              },
+              {
+                "gloss": "条款",
+                "lemma": "term",
+                "surface": "terms"
+              }
+            ]
+          },
+          {
+            "ai_analysis_ids": [
+              2020013074
+            ],
+            "ai_analysis_text": "科学出版模式的特点是少数大公司通过免费劳动力和市场控制获取巨额利润，类似于社交网络经济。\nA. 选项 A 提到试用订阅，但文中未提及此类内容。\nB. 选项 B 提到劳动力胜过地位，但文中提到的是劳动力换取地位，而非胜过地位。\nC. 选项 C 提到成本控制良好，但文中提到成本持续上涨，显然不符合。\nD. 选项 D 准确反映了科学出版模式中少数公司从多数人中获利的特点。",
+            "ai_analysis_words": [
+              "labour is provided free",
+              "huge profits",
+              "few big firms"
+            ],
+            "analysis_sentence_id": 2020013074,
+            "answer": "D",
+            "id": 30,
+            "option_tokens": {
+              "A": [
+                {
+                  "gloss": "试用",
+                  "lemma": "trial",
+                  "surface": "Trial"
+                },
+                {
+                  "gloss": "订阅",
+                  "lemma": "subscription",
+                  "surface": "subscription"
+                },
+                {
+                  "gloss": "是",
+                  "lemma": "be",
+                  "surface": "is"
+                },
+                {
+                  "gloss": "提供",
+                  "lemma": "offer",
+                  "surface": "offered"
+                }
+              ],
+              "B": [
+                {
+                  "gloss": "劳动",
+                  "lemma": "labour",
+                  "surface": "Labour"
+                },
+                {
+                  "gloss": "胜过",
+                  "lemma": "triumph",
+                  "surface": "triumphs"
+                },
+                {
+                  "gloss": "胜过",
+                  "lemma": "over",
+                  "surface": "over"
+                },
+                {
+                  "gloss": "地位",
+                  "lemma": "status",
+                  "surface": "status"
+                }
+              ],
+              "C": [
+                {
+                  "gloss": "成本",
+                  "lemma": "cost",
+                  "surface": "Costs"
+                },
+                {
+                  "gloss": "是",
+                  "lemma": "be",
+                  "surface": "are"
+                },
+                {
+                  "gloss": "良好地",
+                  "lemma": "well",
+                  "surface": "well"
+                },
+                {
+                  "gloss": "控制",
+                  "lemma": "control",
+                  "surface": "controlled"
+                }
+              ],
+              "D": [
+                {
+                  "gloss": "这",
+                  "lemma": "the",
+                  "surface": "The"
+                },
+                {
+                  "gloss": "少数人",
+                  "lemma": "few",
+                  "surface": "few"
+                },
+                {
+                  "gloss": "依靠",
+                  "lemma": "feed",
+                  "surface": "feed"
+                },
+                {
+                  "gloss": "依靠",
+                  "lemma": "on",
+                  "surface": "on"
+                },
+                {
+                  "gloss": "这",
+                  "lemma": "the",
+                  "surface": "the"
+                },
+                {
+                  "gloss": "多数人",
+                  "lemma": "many",
+                  "surface": "many"
+                }
+              ]
+            },
+            "options": [
+              "A) Trial subscription is offered.",
+              "B) Labour triumphs over status.",
+              "C) Costs are well controlled.",
+              "D) The few feed on the many."
+            ],
+            "qid": 2020011030,
+            "text": "Which of the following characterises the scientific publishing model?",
+            "text_tokens": [
+              {
+                "gloss": "哪一个",
+                "lemma": "which",
+                "surface": "Which"
+              },
+              {
+                "gloss": "的",
+                "lemma": "of",
+                "surface": "of"
+              },
+              {
+                "gloss": "这个",
+                "lemma": "the",
+                "surface": "the"
+              },
+              {
+                "gloss": "以下",
+                "lemma": "follow",
+                "surface": "following"
+              },
+              {
+                "gloss": "描述...的特点",
+                "lemma": "characterise",
+                "surface": "characterises"
+              },
+              {
+                "gloss": "这个",
+                "lemma": "the",
+                "surface": "the"
+              },
+              {
+                "gloss": "科学的",
+                "lemma": "scientific",
+                "surface": "scientific"
+              },
+              {
+                "gloss": "出版",
+                "lemma": "publish",
+                "surface": "publishing"
+              },
+              {
+                "gloss": "模式",
+                "lemma": "model",
+                "surface": "model"
+              }
+            ]
+          }
+        ],
+        "title": "Text 2"
+      },
+      "directions": "Read the following four texts. Answer the questions after each text by choosing A, B, C\nor D. Mark your answers on the ANSWER SHEET. (10 points for each text)",
+      "exam_info": "2020(1)",
+      "exam_type": "kaoyan",
+      "id": 202001003,
+      "key_words": "scientific publishing hub sci free its access costs publishers make more profit article both elsevier few labour libraries money open papers paywalled profits research researchers scientists some status text universities university year acquisition all answer articles big claims content crisis each existential firms following funding huge industry last legitimacy licence lost made margins market model monetary must need now out paragraphs peer print provided publication publish published report review reward success successful supply terms these transformed very ways while without",
+      "kid": 11,
+      "part": "Part III",
+      "section": "Sec C",
+      "task_key": "2020(1)_Section II_Part A_Text2",
+      "type": "Reading Comprehension"
+    }
+  ]
+}

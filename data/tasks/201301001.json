@@ -1,0 +1,1785 @@
+{
+  "tasks": [
+    {
+      "content_json": {
+        "1": {
+          "A": "grants",
+          "B": "submits",
+          "C": "transmits",
+          "D": "delivers",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "grant",
+                "surface": "grants"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "submit",
+                "surface": "submits"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "transmit",
+                "surface": "transmits"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "deliver",
+                "surface": "delivers"
+              }
+            ]
+          },
+          "replace": {
+            "end": 59,
+            "start": 53
+          },
+          "sentence_id": 2013013002
+        },
+        "2": {
+          "A": "minor",
+          "B": "objective",
+          "C": "crucial",
+          "D": "external",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "minor",
+                "surface": "minor"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "objective",
+                "surface": "objective"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "crucial",
+                "surface": "crucial"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "external",
+                "surface": "external"
+              }
+            ]
+          },
+          "replace": {
+            "end": 120,
+            "start": 112
+          },
+          "sentence_id": 2013013002
+        },
+        "3": {
+          "A": "issue",
+          "B": "vision",
+          "C": "picture",
+          "D": "moment",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "issue",
+                "surface": "issue"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "vision",
+                "surface": "vision"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "picture",
+                "surface": "picture"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "moment",
+                "surface": "moment"
+              }
+            ]
+          },
+          "replace": {
+            "end": 78,
+            "start": 71
+          },
+          "sentence_id": 2013013003
+        },
+        "4": {
+          "A": "For example",
+          "B": "On average",
+          "C": "In principle",
+          "D": "Above all",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "for",
+                "surface": "For"
+              },
+              {
+                "lemma": "example",
+                "surface": "example"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "on",
+                "surface": "On"
+              },
+              {
+                "lemma": "average",
+                "surface": "average"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "in",
+                "surface": "In"
+              },
+              {
+                "lemma": "principle",
+                "surface": "principle"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "above",
+                "surface": "Above"
+              },
+              {
+                "lemma": "all",
+                "surface": "all"
+              }
+            ]
+          },
+          "replace": {
+            "end": 11,
+            "start": 0
+          },
+          "sentence_id": 2013013005
+        },
+        "5": {
+          "A": "fond",
+          "B": "fearful",
+          "C": "capable",
+          "D": "thoughtless",
+          "option_tokens": {
+            "A": [],
+            "B": [
+              {
+                "lemma": "fearful",
+                "surface": "fearful"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "capable",
+                "surface": "capable"
+              }
+            ],
+            "D": []
+          },
+          "replace": {
+            "end": 46,
+            "start": 39
+          },
+          "sentence_id": 2013013005
+        },
+        "6": {
+          "A": "in",
+          "B": "on",
+          "C": "to",
+          "D": "for",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "in",
+                "surface": "in"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "on",
+                "surface": "on"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "to",
+                "surface": "to"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "for",
+                "surface": "for"
+              }
+            ]
+          },
+          "replace": {
+            "end": 71,
+            "start": 69
+          },
+          "sentence_id": 2013013005
+        },
+        "7": {
+          "A": "if",
+          "B": "until",
+          "C": "though",
+          "D": "unless",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "if",
+                "surface": "if"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "until",
+                "surface": "until"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "though",
+                "surface": "though"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "unless",
+                "surface": "unless"
+              }
+            ]
+          },
+          "replace": {
+            "end": 127,
+            "start": 125
+          },
+          "sentence_id": 2013013005
+        },
+        "8": {
+          "A": "promote",
+          "B": "emphasize",
+          "C": "share",
+          "D": "test",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "promote",
+                "surface": "promote"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "emphasize",
+                "surface": "emphasize"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "share",
+                "surface": "share"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "test",
+                "surface": "test"
+              }
+            ]
+          },
+          "replace": {
+            "end": 7,
+            "start": 3
+          },
+          "sentence_id": 2013013006
+        },
+        "9": {
+          "A": "decision",
+          "B": "quality",
+          "C": "status",
+          "D": "success",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "decision",
+                "surface": "decision"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "quality",
+                "surface": "quality"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "status",
+                "surface": "status"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "success",
+                "surface": "success"
+              }
+            ]
+          },
+          "replace": {
+            "end": 22,
+            "start": 15
+          },
+          "sentence_id": 2013013007
+        },
+        "10": {
+          "A": "chosen",
+          "B": "studied",
+          "C": "found",
+          "D": "identified",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "choose",
+                "surface": "chosen"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "study",
+                "surface": "studied"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "find",
+                "surface": "found"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "identify",
+                "surface": "identified"
+              }
+            ]
+          },
+          "replace": {
+            "end": 81,
+            "start": 75
+          },
+          "sentence_id": 2013013007
+        },
+        "11": {
+          "A": "exceptional",
+          "B": "defensible",
+          "C": "replaceable",
+          "D": "otherwise",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "exceptional",
+                "surface": "exceptional"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "defensible",
+                "surface": "defensible"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "replaceable",
+                "surface": "replaceable"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "otherwise",
+                "surface": "otherwise"
+              }
+            ]
+          },
+          "replace": {
+            "end": 177,
+            "start": 168
+          },
+          "sentence_id": 2013013007
+        },
+        "12": {
+          "A": "inspired",
+          "B": "expressed",
+          "C": "conducted",
+          "D": "secured",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "inspire",
+                "surface": "inspired"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "express",
+                "surface": "expressed"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "conduct",
+                "surface": "conducted"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "secure",
+                "surface": "secured"
+              }
+            ]
+          },
+          "replace": {
+            "end": 56,
+            "start": 47
+          },
+          "sentence_id": 2013013009
+        },
+        "13": {
+          "A": "assigned",
+          "B": "rated",
+          "C": "matched",
+          "D": "arranged",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "assign",
+                "surface": "assigned"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "rate",
+                "surface": "rated"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "match",
+                "surface": "matched"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "arrange",
+                "surface": "arranged"
+              }
+            ]
+          },
+          "replace": {
+            "end": 26,
+            "start": 21
+          },
+          "sentence_id": 2013013010
+        },
+        "14": {
+          "A": "put",
+          "B": "got",
+          "C": "gave",
+          "D": "took",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "put",
+                "surface": "put"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "get",
+                "surface": "got"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "give",
+                "surface": "gave"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "take",
+                "surface": "took"
+              }
+            ]
+          },
+          "replace": {
+            "end": 15,
+            "start": 11
+          },
+          "sentence_id": 2013013011
+        },
+        "15": {
+          "A": "instead",
+          "B": "then",
+          "C": "ever",
+          "D": "rather",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "instead",
+                "surface": "instead"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "then",
+                "surface": "then"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "ever",
+                "surface": "ever"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "rather",
+                "surface": "rather"
+              }
+            ]
+          },
+          "replace": {
+            "end": 20,
+            "start": 16
+          },
+          "sentence_id": 2013013012
+        },
+        "16": {
+          "A": "selected",
+          "B": "passed",
+          "C": "marked",
+          "D": "introduced",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "select",
+                "surface": "selected"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "pass",
+                "surface": "passed"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "mark",
+                "surface": "marked"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "introduce",
+                "surface": "introduced"
+              }
+            ]
+          },
+          "replace": {
+            "end": 154,
+            "start": 148
+          },
+          "sentence_id": 2013013012
+        },
+        "17": {
+          "A": "before",
+          "B": "after",
+          "C": "above",
+          "D": "below",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "before",
+                "surface": "before"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "after",
+                "surface": "after"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "above",
+                "surface": "above"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "below",
+                "surface": "below"
+              }
+            ]
+          },
+          "replace": {
+            "end": 151,
+            "start": 145
+          },
+          "sentence_id": 2013013013
+        },
+        "18": {
+          "A": "jump",
+          "B": "float",
+          "C": "drop",
+          "D": "fluctuate",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "jump",
+                "surface": "jump"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "float",
+                "surface": "float"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "drop",
+                "surface": "drop"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "fluctuate",
+                "surface": "fluctuate"
+              }
+            ]
+          },
+          "replace": {
+            "end": 206,
+            "start": 202
+          },
+          "sentence_id": 2013013013
+        },
+        "19": {
+          "A": "achieve",
+          "B": "undo",
+          "C": "maintain",
+          "D": "disregard",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "achieve",
+                "surface": "achieve"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "undo",
+                "surface": "undo"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "maintain",
+                "surface": "maintain"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "disregard",
+                "surface": "disregard"
+              }
+            ]
+          },
+          "replace": {
+            "end": 35,
+            "start": 31
+          },
+          "sentence_id": 2013013015
+        },
+        "20": {
+          "A": "promising",
+          "B": "possible",
+          "C": "necessary",
+          "D": "helpful",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "promise",
+                "surface": "promising"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "possible",
+                "surface": "possible"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "necessary",
+                "surface": "necessary"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "helpful",
+                "surface": "helpful"
+              }
+            ]
+          },
+          "replace": {
+            "end": 150,
+            "start": 141
+          },
+          "sentence_id": 2013013015
+        },
+        "article": "People are, on the whole, poor at considering background information when making individual decisions.\nAt first glance this might seem like a strength that grants the ability to make judgments which are unbiased by external factors.\nBut Dr. Uri Simonsohn speculated that an inability to consider the big picture was leading decision-makers to be biased by the daily samples of information they were working with.\nFor example, he theorised that a judge fearful of appearing too soft on crime might be more likely to send someone to prison if he had already sentenced five or six other defendants only to forced community service on that day.\nTo test this idea, he turned to the university-admissions process.\nIn theory, the success of an applicant should not depend on the few others chosen randomly for interview during the same day, but Dr. Simonsohn suspected the truth was otherwise.\nHe studied the results of 9,323 MBA interviews conducted by 31 admissions officers.\nThe interviewers had rated applicants on a scale of one to five.\nThis scale took numerous factors into consideration.\nThe scores were then used in conjunction with an applicant’s score on the Graduate Management Admission Test, or GMAT, a standardised exam which is marked out of 800 points, to make a decision on whether to accept him or her.\nDr. Simonsohn found if the score of the previous candidate in a daily series of interviewees was 0.75 points or more higher than that of the one before that, then the score for the next applicant would drop by an average of 0.075 points.\nThis might sound small, but to undo the effects of such a decrease a candidate would need 30 more GMAT points than would otherwise have been necessary.",
+        "blanks": [
+          {
+            "blank_no": 1,
+            "replace": {
+              "end": 59,
+              "start": 53
+            },
+            "sentence_id": 2013013002
+          },
+          {
+            "blank_no": 2,
+            "replace": {
+              "end": 120,
+              "start": 112
+            },
+            "sentence_id": 2013013002
+          },
+          {
+            "blank_no": 3,
+            "replace": {
+              "end": 78,
+              "start": 71
+            },
+            "sentence_id": 2013013003
+          },
+          {
+            "blank_no": 4,
+            "replace": {
+              "end": 11,
+              "start": 0
+            },
+            "sentence_id": 2013013005
+          },
+          {
+            "blank_no": 5,
+            "replace": {
+              "end": 46,
+              "start": 39
+            },
+            "sentence_id": 2013013005
+          },
+          {
+            "blank_no": 6,
+            "replace": {
+              "end": 71,
+              "start": 69
+            },
+            "sentence_id": 2013013005
+          },
+          {
+            "blank_no": 7,
+            "replace": {
+              "end": 127,
+              "start": 125
+            },
+            "sentence_id": 2013013005
+          },
+          {
+            "blank_no": 8,
+            "replace": {
+              "end": 7,
+              "start": 3
+            },
+            "sentence_id": 2013013006
+          },
+          {
+            "blank_no": 9,
+            "replace": {
+              "end": 22,
+              "start": 15
+            },
+            "sentence_id": 2013013007
+          },
+          {
+            "blank_no": 10,
+            "replace": {
+              "end": 81,
+              "start": 75
+            },
+            "sentence_id": 2013013007
+          },
+          {
+            "blank_no": 11,
+            "replace": {
+              "end": 177,
+              "start": 168
+            },
+            "sentence_id": 2013013007
+          },
+          {
+            "blank_no": 12,
+            "replace": {
+              "end": 56,
+              "start": 47
+            },
+            "sentence_id": 2013013009
+          },
+          {
+            "blank_no": 13,
+            "replace": {
+              "end": 26,
+              "start": 21
+            },
+            "sentence_id": 2013013010
+          },
+          {
+            "blank_no": 14,
+            "replace": {
+              "end": 15,
+              "start": 11
+            },
+            "sentence_id": 2013013011
+          },
+          {
+            "blank_no": 15,
+            "replace": {
+              "end": 20,
+              "start": 16
+            },
+            "sentence_id": 2013013012
+          },
+          {
+            "blank_no": 16,
+            "replace": {
+              "end": 154,
+              "start": 148
+            },
+            "sentence_id": 2013013012
+          },
+          {
+            "blank_no": 17,
+            "replace": {
+              "end": 151,
+              "start": 145
+            },
+            "sentence_id": 2013013013
+          },
+          {
+            "blank_no": 18,
+            "replace": {
+              "end": 206,
+              "start": 202
+            },
+            "sentence_id": 2013013013
+          },
+          {
+            "blank_no": 19,
+            "replace": {
+              "end": 35,
+              "start": 31
+            },
+            "sentence_id": 2013013015
+          },
+          {
+            "blank_no": 20,
+            "replace": {
+              "end": 150,
+              "start": 141
+            },
+            "sentence_id": 2013013015
+          }
+        ],
+        "questions": [
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，句子强调一种能力的赋予，最符合语义的是 A 选项。\nA. “grants”意为“赋予”，符合句意，表示赋予一种能力。\nB. “submits”意为“提交”，不符合语境，句子并未涉及提交的含义。\nC. “transmits”意为“传递”，通常用于信息或信号的传递，不符合句意。\nD. “delivers”意为“传递”，通常用于具体的物品或服务，不适合表达赋予能力的语境。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "A",
+            "id": 1,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "grant",
+                  "surface": "grants"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "submit",
+                  "surface": "submits"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "transmit",
+                  "surface": "transmits"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "deliver",
+                  "surface": "delivers"
+                }
+              ]
+            },
+            "options": [
+              "A) grants",
+              "B) submits",
+              "C) transmits",
+              "D) delivers"
+            ],
+            "qid": 2013011001,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，句子强调判断不受外部因素影响，最符合语义的是 D 选项。\nA. “minor”意为“次要的”，与句意不符，因为句子强调的是外部因素而非重要性。\nB. “objective”意为“客观的”，与句意不符，句子强调的是外部因素而非客观性。\nC. “crucial”意为“关键的”，与句意不符，因为句子强调的是外部因素而非重要性。\nD. “external”意为“外部的”，符合句意，强调判断不受外部因素影响。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "D",
+            "id": 2,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "minor",
+                  "surface": "minor"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "objective",
+                  "surface": "objective"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "crucial",
+                  "surface": "crucial"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "external",
+                  "surface": "external"
+                }
+              ]
+            },
+            "options": [
+              "A) minor",
+              "B) objective",
+              "C) crucial",
+              "D) external"
+            ],
+            "qid": 2013011002,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，句子强调整体情况，最符合语义的是 C 选项。\nA. “issue”意为“问题”，不符合语境，因为句子强调的是整体情况而非具体问题。\nB. “vision”意为“视野”，虽然与整体情况相关，但不如“picture”具体。\nC. “picture”意为“整体情况”，符合语境，强调无法考虑整体情况。\nD. “moment”意为“时刻”，不符合语境，因为句子强调的是整体情况而非时间点。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "C",
+            "id": 3,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "issue",
+                  "surface": "issue"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "vision",
+                  "surface": "vision"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "picture",
+                  "surface": "picture"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "moment",
+                  "surface": "moment"
+                }
+              ]
+            },
+            "options": [
+              "A) issue",
+              "B) vision",
+              "C) picture",
+              "D) moment"
+            ],
+            "qid": 2013011003,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，句子是对前文理论的具体举例，最符合语义的是 A 选项。\nA. “For example”意为“例如”，符合语境，表示举例。\nB. “On average”意为“平均而言”，不符合语境，因为句子并未讨论平均情况。\nC. “In principle”意为“原则上”，不符合语境，因为句子是具体举例而非原则性讨论。\nD. “Above all”意为“最重要的是”，不符合语境，因为句子并未强调重要性。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "A",
+            "id": 4,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "for",
+                  "surface": "For"
+                },
+                {
+                  "lemma": "example",
+                  "surface": "example"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "on",
+                  "surface": "On"
+                },
+                {
+                  "lemma": "average",
+                  "surface": "average"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "in",
+                  "surface": "In"
+                },
+                {
+                  "lemma": "principle",
+                  "surface": "principle"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "above",
+                  "surface": "Above"
+                },
+                {
+                  "lemma": "all",
+                  "surface": "all"
+                }
+              ]
+            },
+            "options": [
+              "A) For example",
+              "B) On average",
+              "C) In principle",
+              "D) Above all"
+            ],
+            "qid": 2013011004,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，句子强调害怕显得宽容，最符合语义的是 B 选项。\nA. “fond”意为“喜欢的”，不符合语境，因为句子强调害怕而非喜欢。\nB. “fearful”意为“害怕的”，符合语境，强调害怕显得宽容。\nC. “capable”意为“有能力的”，不符合语境，因为句子强调害怕而非能力。\nD. “thoughtless”意为“粗心的”，不符合语境，因为句子强调害怕而非粗心。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "B",
+            "id": 5,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "fond",
+                  "surface": "fond"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "fearful",
+                  "surface": "fearful"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "capable",
+                  "surface": "capable"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "thoughtless",
+                  "surface": "thoughtless"
+                }
+              ]
+            },
+            "options": [
+              "A) fond",
+              "B) fearful",
+              "C) capable",
+              "D) thoughtless"
+            ],
+            "qid": 2013011005,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "句子中强调的是法官对犯罪的态度，‘on crime’更符合语义，表示‘关于犯罪’。\nA. ‘in’意为‘在...中’，不符合语境，因为句子强调对犯罪的态度。\nB. ‘on’意为‘关于’，符合语境，表示对犯罪的态度。\nC. ‘to’意为‘去’，不符合语境，因为句子强调对犯罪的态度。\nD. ‘for’意为‘为了’，不符合语境，因为句子强调对犯罪的态度。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "B",
+            "id": 6,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "in",
+                  "surface": "in"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "on",
+                  "surface": "on"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "to",
+                  "surface": "to"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "for",
+                  "surface": "for"
+                }
+              ]
+            },
+            "options": [
+              "A) in",
+              "B) on",
+              "C) to",
+              "D) for"
+            ],
+            "qid": 2013011006,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "‘if’表示条件关系，符合句子语境，而‘unless’表示否定条件，与句意不符。\nA. ‘if’意为‘如果’，符合语境，表示条件关系。\nB. ‘until’意为‘直到’，不符合语境，因为句子强调条件关系。\nC. ‘though’意为‘虽然’，不符合语境，因为句子强调条件关系。\nD. ‘unless’意为‘除非’，不符合语境，因为句子强调条件关系。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "A",
+            "id": 7,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "if",
+                  "surface": "if"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "until",
+                  "surface": "until"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "though",
+                  "surface": "though"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "unless",
+                  "surface": "unless"
+                }
+              ]
+            },
+            "options": [
+              "A) if",
+              "B) until",
+              "C) though",
+              "D) unless"
+            ],
+            "qid": 2013011007,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，作者想验证一个假设，因此选择“test”最为合适。\nA. “promote”意为促进，与验证假设的语境不符。\nB. “emphasize”意为强调，与验证假设的语境不符。\nC. “share”意为分享，与验证假设的语境不符。\nD. “test”意为测试，符合验证假设的语境，因此最合适。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "D",
+            "id": 8,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "promote",
+                  "surface": "promote"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "emphasize",
+                  "surface": "emphasize"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "share",
+                  "surface": "share"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "test",
+                  "surface": "test"
+                }
+              ]
+            },
+            "options": [
+              "A) promote",
+              "B) emphasize",
+              "C) share",
+              "D) test"
+            ],
+            "qid": 2013011008,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "A. “decision”意为决定，虽然表面上看符合语境，但实际上句子讨论的是申请人的成功，而非具体的决定，因此不合适。\nB. “quality”意为质量，与语境不符。\nC. “status”意为状态，与语境不符。\nD. “success”意为成功，符合语境，最为合适。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "D",
+            "id": 9,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "decision",
+                  "surface": "decision"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "quality",
+                  "surface": "quality"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "status",
+                  "surface": "status"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "success",
+                  "surface": "success"
+                }
+              ]
+            },
+            "options": [
+              "A) decision",
+              "B) quality",
+              "C) status",
+              "D) success"
+            ],
+            "qid": 2013011009,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据语境，申请人是随机被选中面试的，因此“chosen”最为合适。\nA. “chosen”意为选择，符合语境，最为合适。\nB. “studied”意为研究，与语境不符。\nC. “found”意为发现，与语境不符。\nD. “identified”意为识别，与语境不符。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "A",
+            "id": 10,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "choose",
+                  "surface": "chosen"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "study",
+                  "surface": "studied"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "find",
+                  "surface": "found"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "identify",
+                  "surface": "identified"
+                }
+              ]
+            },
+            "options": [
+              "A) chosen",
+              "B) studied",
+              "C) found",
+              "D) identified"
+            ],
+            "qid": 2013011010,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，作者怀疑事实并非如此，因此“otherwise”最为合适。\nA. “exceptional”意为例外，与语境不符。\nB. “defensible”意为可辩护的，与语境不符。\nC. “replaceable”意为可替代的，与语境不符。\nD. “otherwise”意为否则，符合语境，最为合适。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "D",
+            "id": 11,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "exceptional",
+                  "surface": "exceptional"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "defensible",
+                  "surface": "defensible"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "replaceable",
+                  "surface": "replaceable"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "otherwise",
+                  "surface": "otherwise"
+                }
+              ]
+            },
+            "options": [
+              "A) exceptional",
+              "B) defensible",
+              "C) replaceable",
+              "D) otherwise"
+            ],
+            "qid": 2013011011,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据语境，面试是由招生官进行的，因此“conducted”最为合适。\nA. “inspired”意为激励，与语境不符。\nB. “expressed”意为表达，与语境不符。\nC. “conducted”意为进行，符合语境，最为合适。\nD. “secured”意为确保，与语境不符。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "C",
+            "id": 12,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "inspire",
+                  "surface": "inspired"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "express",
+                  "surface": "expressed"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "conduct",
+                  "surface": "conducted"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "secure",
+                  "surface": "secured"
+                }
+              ]
+            },
+            "options": [
+              "A) inspired",
+              "B) expressed",
+              "C) conducted",
+              "D) secured"
+            ],
+            "qid": 2013011012,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据语境，面试官对申请人进行了评分，因此“rated”最为合适。\nA. “assigned”意为分配，与语境不符。\nB. “rated”意为评分，符合语境，最为合适。\nC. “matched”意为匹配，与语境不符。\nD. “arranged”意为安排，与语境不符。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "B",
+            "id": 13,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "assign",
+                  "surface": "assigned"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "rate",
+                  "surface": "rated"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "match",
+                  "surface": "matched"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "arrange",
+                  "surface": "arranged"
+                }
+              ]
+            },
+            "options": [
+              "A) assigned",
+              "B) rated",
+              "C) matched",
+              "D) arranged"
+            ],
+            "qid": 2013011013,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，句子描述评分标准的作用，‘took’最符合语境，表示‘考虑’。\nA. ‘put’表示‘放置’，不符合语境。\nB. ‘got’表示‘得到’，与句意不符。\nC. ‘gave’表示‘给予’，不符合语境。\nD. ‘took’表示‘考虑’，与句意完全吻合。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "D",
+            "id": 14,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "put",
+                  "surface": "put"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "get",
+                  "surface": "got"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "give",
+                  "surface": "gave"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "take",
+                  "surface": "took"
+                }
+              ]
+            },
+            "options": [
+              "A) put",
+              "B) got",
+              "C) gave",
+              "D) took"
+            ],
+            "qid": 2013011014,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "‘then’表示随后，与上下文逻辑一致，描述分数的使用顺序。\nA. ‘instead’表示‘代替’，不符合语境。\nB. ‘then’表示‘随后’，符合语境。\nC. ‘ever’表示‘曾经’，不符合语境。\nD. ‘rather’表示‘相反’，与句意不符。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "B",
+            "id": 15,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "instead",
+                  "surface": "instead"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "then",
+                  "surface": "then"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "ever",
+                  "surface": "ever"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "rather",
+                  "surface": "rather"
+                }
+              ]
+            },
+            "options": [
+              "A) instead",
+              "B) then",
+              "C) ever",
+              "D) rather"
+            ],
+            "qid": 2013011015,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "‘marked’表示‘标记’，符合GMAT考试满分800分的描述。\nA. ‘selected’表示‘选择’，与句意不符。\nB. ‘passed’表示‘通过’，不符合语境。\nC. ‘marked’表示‘标记’，符合语境。\nD. ‘introduced’表示‘介绍’，与句意不符。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "C",
+            "id": 16,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "select",
+                  "surface": "selected"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "pass",
+                  "surface": "passed"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "mark",
+                  "surface": "marked"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "introduce",
+                  "surface": "introduced"
+                }
+              ]
+            },
+            "options": [
+              "A) selected",
+              "B) passed",
+              "C) marked",
+              "D) introduced"
+            ],
+            "qid": 2013011016,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "‘before’表示时间上的先后顺序，与句意一致。\nA. ‘before’表示‘之前’，符合语境。\nB. ‘after’表示‘之后’，与句意相反。\nC. ‘above’表示‘在上方’，不符合语境。\nD. ‘below’表示‘在下方’，与句意不符。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "A",
+            "id": 17,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "before",
+                  "surface": "before"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "after",
+                  "surface": "after"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "above",
+                  "surface": "above"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "below",
+                  "surface": "below"
+                }
+              ]
+            },
+            "options": [
+              "A) before",
+              "B) after",
+              "C) above",
+              "D) below"
+            ],
+            "qid": 2013011017,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "‘drop’表示分数下降，与句意完全吻合。\nA. ‘jump’表示‘跳跃’，与句意不符。\nB. ‘float’表示‘漂浮’，不符合语境。\nC. ‘drop’表示‘下降’，符合语境。\nD. ‘fluctuate’表示‘波动’，与句意不符。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "C",
+            "id": 18,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "jump",
+                  "surface": "jump"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "float",
+                  "surface": "float"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "drop",
+                  "surface": "drop"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "fluctuate",
+                  "surface": "fluctuate"
+                }
+              ]
+            },
+            "options": [
+              "A) jump",
+              "B) float",
+              "C) drop",
+              "D) fluctuate"
+            ],
+            "qid": 2013011018,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "‘undo’表示‘抵消’，符合语境。\nA. ‘achieve’表示‘实现’，与句意不符。\nB. ‘undo’表示‘抵消’，符合语境。\nC. ‘maintain’表示‘维持’，不符合语境。\nD. ‘disregard’表示‘忽视’，与句意不符。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "B",
+            "id": 19,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "achieve",
+                  "surface": "achieve"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "undo",
+                  "surface": "undo"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "maintain",
+                  "surface": "maintain"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "disregard",
+                  "surface": "disregard"
+                }
+              ]
+            },
+            "options": [
+              "A) achieve",
+              "B) undo",
+              "C) maintain",
+              "D) disregard"
+            ],
+            "qid": 2013011019,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "‘necessary’表示‘必要的’，符合句意。\nA. ‘promising’表示‘有希望的’，与句意不符。\nB. ‘possible’表示‘可能的’，不符合语境。\nC. ‘necessary’表示‘必要的’，符合语境。\nD. ‘helpful’表示‘有帮助的’，与句意不符。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "C",
+            "id": 20,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "promise",
+                  "surface": "promising"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "possible",
+                  "surface": "possible"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "necessary",
+                  "surface": "necessary"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "helpful",
+                  "surface": "helpful"
+                }
+              ]
+            },
+            "options": [
+              "A) promising",
+              "B) possible",
+              "C) necessary",
+              "D) helpful"
+            ],
+            "qid": 2013011020,
+            "text": ""
+          }
+        ]
+      },
+      "directions": "Read the following text. Choose the best word(s) for each numbered blank and mark A,\nB, C or D on the ANSWER SHEET. (10 points)",
+      "exam_info": "2013(1)",
+      "exam_type": "kaoyan",
+      "id": 201301001,
+      "key_words": "above otherwise test before chosen conducted decision drop marked necessary picture points rated took undo average example external fearful found grants studied success unless achieve after all applicant arranged assigned below capable crucial defensible delivers disregard emphasize ever exceptional expressed float fluctuate fond gave gmat got helpful identified inspired instead introduced issue jump maintain matched might minor moment more objective passed possible principle promising promote put quality rather replaceable score secured selected share simonsohn status submits though thoughtless transmits until",
+      "kid": 17,
+      "part": "Part III",
+      "section": "Sec A",
+      "task_key": "2013(1)_Section I_ ",
+      "type": "Use of English"
+    }
+  ]
+}

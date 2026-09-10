@@ -1,0 +1,2003 @@
+{
+  "tasks": [
+    {
+      "content_json": {
+        "1": {
+          "A": "displayed",
+          "B": "occupied",
+          "C": "located",
+          "D": "equipped",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "display",
+                "surface": "displayed"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "occupy",
+                "surface": "occupied"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "locate",
+                "surface": "located"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "equip",
+                "surface": "equipped"
+              }
+            ]
+          },
+          "replace": {
+            "end": 27,
+            "start": 20
+          },
+          "sentence_id": 2023013002
+        },
+        "2": {
+          "A": "privately",
+          "B": "regularly",
+          "C": "respectively",
+          "D": "permanently",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "private",
+                "surface": "privately"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "regular",
+                "surface": "regularly"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "respectively",
+                "surface": "respectively"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "permanent",
+                "surface": "permanently"
+              }
+            ]
+          },
+          "replace": {
+            "end": 124,
+            "start": 115
+          },
+          "sentence_id": 2023013002
+        },
+        "3": {
+          "A": "definition",
+          "B": "transition",
+          "C": "substitution",
+          "D": "combination",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "definition",
+                "surface": "definition"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "transition",
+                "surface": "transition"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "substitution",
+                "surface": "substitution"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "combination",
+                "surface": "combination"
+              }
+            ]
+          },
+          "replace": {
+            "end": 42,
+            "start": 31
+          },
+          "sentence_id": 2023013003
+        },
+        "4": {
+          "A": "classify",
+          "B": "record",
+          "C": "describe",
+          "D": "connect",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "classify",
+                "surface": "classify"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "record",
+                "surface": "record"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "describe",
+                "surface": "describe"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "connect",
+                "surface": "connect"
+              }
+            ]
+          },
+          "replace": {
+            "end": 37,
+            "start": 29
+          },
+          "sentence_id": 2023013004
+        },
+        "5": {
+          "A": "apart from",
+          "B": "instead of",
+          "C": "such as",
+          "D": "along with",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "apart",
+                "surface": "apart"
+              },
+              {
+                "lemma": "from",
+                "surface": "from"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "instead",
+                "surface": "instead"
+              },
+              {
+                "lemma": "of",
+                "surface": "of"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "such",
+                "surface": "such"
+              },
+              {
+                "lemma": "as",
+                "surface": "as"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "along",
+                "surface": "along"
+              },
+              {
+                "lemma": "with",
+                "surface": "with"
+              }
+            ]
+          },
+          "replace": {
+            "end": 132,
+            "start": 125
+          },
+          "sentence_id": 2023013004
+        },
+        "6": {
+          "A": "construction",
+          "B": "restoration",
+          "C": "impression",
+          "D": "evaluation",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "construction",
+                "surface": "construction"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "restoration",
+                "surface": "restoration"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "impression",
+                "surface": "impression"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "evaluation",
+                "surface": "evaluation"
+              }
+            ]
+          },
+          "replace": {
+            "end": 100,
+            "start": 88
+          },
+          "sentence_id": 2023013005
+        },
+        "7": {
+          "A": "doubted",
+          "B": "faced",
+          "C": "accepted",
+          "D": "reduced",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "doubt",
+                "surface": "doubted"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "face",
+                "surface": "faced"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "accept",
+                "surface": "accepted"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "reduce",
+                "surface": "reduced"
+              }
+            ]
+          },
+          "replace": {
+            "end": 33,
+            "start": 28
+          },
+          "sentence_id": 2023013006
+        },
+        "8": {
+          "A": "assigned",
+          "B": "subjected",
+          "C": "accustomed",
+          "D": "opposed",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "assign",
+                "surface": "assigned"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "subject",
+                "surface": "subjected"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "accustom",
+                "surface": "accustomed"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "oppose",
+                "surface": "opposed"
+              }
+            ]
+          },
+          "replace": {
+            "end": 97,
+            "start": 88
+          },
+          "sentence_id": 2023013006
+        },
+        "9": {
+          "A": "so that",
+          "B": "even if",
+          "C": "now that",
+          "D": "in case",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "so",
+                "surface": "so"
+              },
+              {
+                "lemma": "that",
+                "surface": "that"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "even",
+                "surface": "even"
+              },
+              {
+                "lemma": "if",
+                "surface": "if"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "now",
+                "surface": "now"
+              },
+              {
+                "lemma": "that",
+                "surface": "that"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "in",
+                "surface": "in"
+              },
+              {
+                "lemma": "case",
+                "surface": "case"
+              }
+            ]
+          },
+          "replace": {
+            "end": 64,
+            "start": 57
+          },
+          "sentence_id": 2023013007
+        },
+        "10": {
+          "A": "talking",
+          "B": "starting",
+          "C": "breaking",
+          "D": "meeting",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "talk",
+                "surface": "talking"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "start",
+                "surface": "starting"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "break",
+                "surface": "breaking"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "meet",
+                "surface": "meeting"
+              }
+            ]
+          },
+          "replace": {
+            "end": 43,
+            "start": 36
+          },
+          "sentence_id": 2023013008
+        },
+        "11": {
+          "A": "By the way",
+          "B": "On occasion",
+          "C": "In comparison",
+          "D": "As a result",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "by",
+                "surface": "By"
+              },
+              {
+                "lemma": "the",
+                "surface": "the"
+              },
+              {
+                "lemma": "way",
+                "surface": "way"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "on",
+                "surface": "On"
+              },
+              {
+                "lemma": "occasion",
+                "surface": "occasion"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "in",
+                "surface": "In"
+              },
+              {
+                "lemma": "comparison",
+                "surface": "comparison"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "as",
+                "surface": "As"
+              },
+              {
+                "lemma": "a",
+                "surface": "a"
+              },
+              {
+                "lemma": "result",
+                "surface": "result"
+              }
+            ]
+          },
+          "replace": {
+            "end": 11,
+            "start": 0
+          },
+          "sentence_id": 2023013009
+        },
+        "12": {
+          "A": "heritage",
+          "B": "revival",
+          "C": "exchange",
+          "D": "status",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "heritage",
+                "surface": "heritage"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "revival",
+                "surface": "revival"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "exchange",
+                "surface": "exchange"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "status",
+                "surface": "status"
+              }
+            ]
+          },
+          "replace": {
+            "end": 76,
+            "start": 68
+          },
+          "sentence_id": 2023013009
+        },
+        "13": {
+          "A": "with regard to",
+          "B": "in spite of",
+          "C": "as well as",
+          "D": "in line with",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "with",
+                "surface": "with"
+              },
+              {
+                "lemma": "regard",
+                "surface": "regard"
+              },
+              {
+                "lemma": "to",
+                "surface": "to"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "in",
+                "surface": "in"
+              },
+              {
+                "lemma": "spite",
+                "surface": "spite"
+              },
+              {
+                "lemma": "of",
+                "surface": "of"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "as",
+                "surface": "as"
+              },
+              {
+                "lemma": "well",
+                "surface": "well"
+              },
+              {
+                "lemma": "as",
+                "surface": "as"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "in",
+                "surface": "in"
+              },
+              {
+                "lemma": "line",
+                "surface": "line"
+              },
+              {
+                "lemma": "with",
+                "surface": "with"
+              }
+            ]
+          },
+          "replace": {
+            "end": 163,
+            "start": 153
+          },
+          "sentence_id": 2023013009
+        },
+        "14": {
+          "A": "completing",
+          "B": "influencing",
+          "C": "resuming",
+          "D": "pioneering",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "complete",
+                "surface": "completing"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "influence",
+                "surface": "influencing"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "resume",
+                "surface": "resuming"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "pioneer",
+                "surface": "pioneering"
+              }
+            ]
+          },
+          "replace": {
+            "end": 211,
+            "start": 200
+          },
+          "sentence_id": 2023013009
+        },
+        "15": {
+          "A": "aided",
+          "B": "invested",
+          "C": "failed",
+          "D": "competed",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "aid",
+                "surface": "aided"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "invest",
+                "surface": "invested"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "fail",
+                "surface": "failed"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "compete",
+                "surface": "competed"
+              }
+            ]
+          },
+          "replace": {
+            "end": 74,
+            "start": 69
+          },
+          "sentence_id": 2023013010
+        },
+        "16": {
+          "A": "Rather",
+          "B": "Indeed",
+          "C": "Otherwise",
+          "D": "However",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "rather",
+                "surface": "Rather"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "indeed",
+                "surface": "Indeed"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "otherwise",
+                "surface": "Otherwise"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "however",
+                "surface": "However"
+              }
+            ]
+          },
+          "replace": {
+            "end": 6,
+            "start": 0
+          },
+          "sentence_id": 2023013011
+        },
+        "17": {
+          "A": "go in for",
+          "B": "stand up for",
+          "C": "close in on",
+          "D": "stock up on",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "go",
+                "surface": "go"
+              },
+              {
+                "lemma": "in",
+                "surface": "in"
+              },
+              {
+                "lemma": "for",
+                "surface": "for"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "stand",
+                "surface": "stand"
+              },
+              {
+                "lemma": "up",
+                "surface": "up"
+              },
+              {
+                "lemma": "for",
+                "surface": "for"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "close",
+                "surface": "close"
+              },
+              {
+                "lemma": "in",
+                "surface": "in"
+              },
+              {
+                "lemma": "on",
+                "surface": "on"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "stock",
+                "surface": "stock"
+              },
+              {
+                "lemma": "up",
+                "surface": "up"
+              },
+              {
+                "lemma": "on",
+                "surface": "on"
+              }
+            ]
+          },
+          "replace": {
+            "end": 98,
+            "start": 87
+          },
+          "sentence_id": 2023013011
+        },
+        "18": {
+          "A": "believed",
+          "B": "predicted",
+          "C": "recalled",
+          "D": "implied",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "believe",
+                "surface": "believed"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "predict",
+                "surface": "predicted"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "recall",
+                "surface": "recalled"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "imply",
+                "surface": "implied"
+              }
+            ]
+          },
+          "replace": {
+            "end": 14,
+            "start": 6
+          },
+          "sentence_id": 2023013012
+        },
+        "19": {
+          "A": "until",
+          "B": "because",
+          "C": "unless",
+          "D": "although",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "until",
+                "surface": "until"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "because",
+                "surface": "because"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "unless",
+                "surface": "unless"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "although",
+                "surface": "although"
+              }
+            ]
+          },
+          "replace": {
+            "end": 98,
+            "start": 90
+          },
+          "sentence_id": 2023013012
+        },
+        "20": {
+          "A": "ruins",
+          "B": "debt",
+          "C": "fashion",
+          "D": "series",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "ruin",
+                "surface": "ruins"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "debt",
+                "surface": "debt"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "fashion",
+                "surface": "fashion"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "series",
+                "surface": "series"
+              }
+            ]
+          },
+          "replace": {
+            "end": 169,
+            "start": 164
+          },
+          "sentence_id": 2023013012
+        },
+        "article": "Caravanserais were roadside inns that were built along the Silk Road in areas including China, North Africa and the Middle East.\nThey were typically located outside the walls of a city or village and were usually funded by local governments or privately.\nThis word “Caravanserais” is a combination of the Persian words “Karvan”, which means a group of travellers or a caravan, and “saray”, a palace or enclosed building.\nThe term caravan was used to describe groups of people who travelled together across the ancient network for safety reasons, such as merchants, travellers or pilgrims.\nFrom the 10th century onwards, as merchant and travel routes became more developed, the construction of caravanserais increased and they served as a safe place for people to rest at night.\nTravellers on the Silk Road faced the possibility of being attacked by thieves or being subjected to extreme weather conditions.\nFor this reason, caravanserais were strategically placed so that they could be reached in a day’s travel time.\nCaravanserais served as an informal meeting point for the various people who travelled the Silk Road.\nAs a result, these structures became important centers for cultural exchange and interaction, with travellers sharing their cultures, ideas and beliefs, as well as taking knowledge with them, greatly influencing the development of several civilisations.\nCaravanserais were also an important marketplace for commodities and aided in the trade of goods along the Silk Road.\nIndeed, it was frequently the first stop for merchants looking to sell their wares and stock up on supplies for their own journeys.\nIt is believed that around 12,000 to 15,000 caravanserais were built along the Silk Road, although only about 3,000 are known to remain today, many of which are in ruins.",
+        "blanks": [
+          {
+            "blank_no": 1,
+            "replace": {
+              "end": 27,
+              "start": 20
+            },
+            "sentence_id": 2023013002
+          },
+          {
+            "blank_no": 2,
+            "replace": {
+              "end": 124,
+              "start": 115
+            },
+            "sentence_id": 2023013002
+          },
+          {
+            "blank_no": 3,
+            "replace": {
+              "end": 42,
+              "start": 31
+            },
+            "sentence_id": 2023013003
+          },
+          {
+            "blank_no": 4,
+            "replace": {
+              "end": 37,
+              "start": 29
+            },
+            "sentence_id": 2023013004
+          },
+          {
+            "blank_no": 5,
+            "replace": {
+              "end": 132,
+              "start": 125
+            },
+            "sentence_id": 2023013004
+          },
+          {
+            "blank_no": 6,
+            "replace": {
+              "end": 100,
+              "start": 88
+            },
+            "sentence_id": 2023013005
+          },
+          {
+            "blank_no": 7,
+            "replace": {
+              "end": 33,
+              "start": 28
+            },
+            "sentence_id": 2023013006
+          },
+          {
+            "blank_no": 8,
+            "replace": {
+              "end": 97,
+              "start": 88
+            },
+            "sentence_id": 2023013006
+          },
+          {
+            "blank_no": 9,
+            "replace": {
+              "end": 64,
+              "start": 57
+            },
+            "sentence_id": 2023013007
+          },
+          {
+            "blank_no": 10,
+            "replace": {
+              "end": 43,
+              "start": 36
+            },
+            "sentence_id": 2023013008
+          },
+          {
+            "blank_no": 11,
+            "replace": {
+              "end": 11,
+              "start": 0
+            },
+            "sentence_id": 2023013009
+          },
+          {
+            "blank_no": 12,
+            "replace": {
+              "end": 76,
+              "start": 68
+            },
+            "sentence_id": 2023013009
+          },
+          {
+            "blank_no": 13,
+            "replace": {
+              "end": 163,
+              "start": 153
+            },
+            "sentence_id": 2023013009
+          },
+          {
+            "blank_no": 14,
+            "replace": {
+              "end": 211,
+              "start": 200
+            },
+            "sentence_id": 2023013009
+          },
+          {
+            "blank_no": 15,
+            "replace": {
+              "end": 74,
+              "start": 69
+            },
+            "sentence_id": 2023013010
+          },
+          {
+            "blank_no": 16,
+            "replace": {
+              "end": 6,
+              "start": 0
+            },
+            "sentence_id": 2023013011
+          },
+          {
+            "blank_no": 17,
+            "replace": {
+              "end": 98,
+              "start": 87
+            },
+            "sentence_id": 2023013011
+          },
+          {
+            "blank_no": 18,
+            "replace": {
+              "end": 14,
+              "start": 6
+            },
+            "sentence_id": 2023013012
+          },
+          {
+            "blank_no": 19,
+            "replace": {
+              "end": 98,
+              "start": 90
+            },
+            "sentence_id": 2023013012
+          },
+          {
+            "blank_no": 20,
+            "replace": {
+              "end": 169,
+              "start": 164
+            },
+            "sentence_id": 2023013012
+          }
+        ],
+        "questions": [
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据语境，驿站的位置是描述性的，'located' 表示位于某处，符合逻辑。\nA. ‘displayed’意为展示，与描述驿站的位置不符。\nB. ‘occupied’意为占据，与驿站的位置描述不符。\nC. ‘located’意为位于，符合语境中描述驿站位置的逻辑。\nD. ‘equipped’意为装备，与描述驿站的位置不符。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "C",
+            "id": 1,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "display",
+                  "surface": "displayed"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "occupy",
+                  "surface": "occupied"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "locate",
+                  "surface": "located"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "equip",
+                  "surface": "equipped"
+                }
+              ]
+            },
+            "options": [
+              "A) displayed",
+              "B) occupied",
+              "C) located",
+              "D) equipped"
+            ],
+            "qid": 2023011001,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据语境，驿站的资助来源包括地方政府或私人资助，‘privately’符合逻辑。\nA. ‘privately’意为私人地，符合语境中描述资助来源的逻辑。\nB. ‘regularly’意为定期地，与资助来源的描述不符。\nC. ‘respectively’意为分别地，与资助来源的描述不符。\nD. ‘permanently’意为永久地，与资助来源的描述不符。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "A",
+            "id": 2,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "private",
+                  "surface": "privately"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "regular",
+                  "surface": "regularly"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "respectively",
+                  "surface": "respectively"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "permanent",
+                  "surface": "permanently"
+                }
+              ]
+            },
+            "options": [
+              "A) privately",
+              "B) regularly",
+              "C) respectively",
+              "D) permanently"
+            ],
+            "qid": 2023011002,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据语境，驿站这个词是由两个波斯语词汇组合而成，‘combination’最符合语境。\nA. ‘definition’意为定义，与语境中描述词汇的来源不符。\nB. ‘transition’意为过渡，与语境中描述词汇的来源不符。\nC. ‘substitution’意为替代，与语境中描述词汇的来源不符。\nD. ‘combination’意为组合，符合语境中描述词汇来源的逻辑。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "D",
+            "id": 3,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "definition",
+                  "surface": "definition"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "transition",
+                  "surface": "transition"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "substitution",
+                  "surface": "substitution"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "combination",
+                  "surface": "combination"
+                }
+              ]
+            },
+            "options": [
+              "A) definition",
+              "B) transition",
+              "C) substitution",
+              "D) combination"
+            ],
+            "qid": 2023011003,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据语境，‘describe’最符合逻辑，因为句子在解释术语的含义。\nA. ‘classify’意为分类，与解释术语含义不符。\nB. ‘record’意为记录，与解释术语含义不符。\nC. ‘describe’意为描述，符合语境中解释术语含义的逻辑。\nD. ‘connect’意为连接，与解释术语含义不符。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "C",
+            "id": 4,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "classify",
+                  "surface": "classify"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "record",
+                  "surface": "record"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "describe",
+                  "surface": "describe"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "connect",
+                  "surface": "connect"
+                }
+              ]
+            },
+            "options": [
+              "A) classify",
+              "B) record",
+              "C) describe",
+              "D) connect"
+            ],
+            "qid": 2023011004,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "‘such as’用于举例说明，符合语境中列举商人、旅行者和朝圣者的逻辑。\nA. ‘apart from’意为除了，与举例说明不符。\nB. ‘instead of’意为而不是，与举例说明不符。\nC. ‘such as’意为例如，符合语境中举例说明的逻辑。\nD. ‘along with’意为连同，与举例说明不符。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "C",
+            "id": 5,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "apart",
+                  "surface": "apart"
+                },
+                {
+                  "lemma": "from",
+                  "surface": "from"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "instead",
+                  "surface": "instead"
+                },
+                {
+                  "lemma": "of",
+                  "surface": "of"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "such",
+                  "surface": "such"
+                },
+                {
+                  "lemma": "as",
+                  "surface": "as"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "along",
+                  "surface": "along"
+                },
+                {
+                  "lemma": "with",
+                  "surface": "with"
+                }
+              ]
+            },
+            "options": [
+              "A) apart from",
+              "B) instead of",
+              "C) such as",
+              "D) along with"
+            ],
+            "qid": 2023011005,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "句子讨论了随着旅行路线的发展，驿站数量的增加，因此“construction”（建设）是最符合语境的选择。\nA. “Construction”（建设）符合语境，因为它指的是驿站的建造，与数量增加的概念一致。\nB. “Restoration”（修复）指修理或翻新现有建筑物，与数量增加的概念不符。\nC. “Impression”（印象）指的是心理图像或想法，与驿站的实际建造无关。\nD. “Evaluation”（评估）指的是评估或判断某事，与驿站的建造语境不符。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "A",
+            "id": 6,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "construction",
+                  "surface": "construction"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "restoration",
+                  "surface": "restoration"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "impression",
+                  "surface": "impression"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "evaluation",
+                  "surface": "evaluation"
+                }
+              ]
+            },
+            "options": [
+              "A) construction",
+              "B) restoration",
+              "C) impression",
+              "D) evaluation"
+            ],
+            "qid": 2023011006,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "句子描述了旅行者面临的挑战，因此“faced”（面对）是最恰当的选择。\nA. “Doubted”（怀疑）暗示不确定或不相信，与旅行者遇到挑战的语境不符。\nB. “Faced”（面对）准确描述了旅行者面对危险或恶劣条件的可能性。\nC. “Accepted”（接受）暗示同意或认可，与挑战的概念不符。\nD. “Reduced”（减少）暗示减少，与面对挑战的语境无关。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "B",
+            "id": 7,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "doubt",
+                  "surface": "doubted"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "face",
+                  "surface": "faced"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "accept",
+                  "surface": "accepted"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "reduce",
+                  "surface": "reduced"
+                }
+              ]
+            },
+            "options": [
+              "A) doubted",
+              "B) faced",
+              "C) accepted",
+              "D) reduced"
+            ],
+            "qid": 2023011007,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "句子描述了旅行者暴露于极端天气，因此“subjected”（遭受）是最恰当的选择。\nA. “Assigned”（分配）暗示分派或指定，与暴露于天气条件的语境不符。\nB. “Subjected”（遭受）准确描述了暴露或受到极端天气影响的情况。\nC. “Accustomed”（习惯）暗示熟悉或适应，与暴露的概念不符。\nD. “Opposed”（反对）暗示抵抗，与受到天气影响的语境不符。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "B",
+            "id": 8,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "assign",
+                  "surface": "assigned"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "subject",
+                  "surface": "subjected"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "accustom",
+                  "surface": "accustomed"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "oppose",
+                  "surface": "opposed"
+                }
+              ]
+            },
+            "options": [
+              "A) assigned",
+              "B) subjected",
+              "C) accustomed",
+              "D) opposed"
+            ],
+            "qid": 2023011008,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "句子解释了驿站的战略性布局以确保一天内可达，因此“so that”（以便）是最符合语境的选择。\nA. “So that”（以便）符合语境，因为它表示目的或结果，与战略性布局的概念一致。\nB. “Even if”（即使）暗示与预期相反的条件，与语境不符。\nC. “Now that”（既然）暗示情况发生变化，与此处不相关。\nD. “In case”（以防）暗示预防措施，与描述的目的不符。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "A",
+            "id": 9,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "so",
+                  "surface": "so"
+                },
+                {
+                  "lemma": "that",
+                  "surface": "that"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "even",
+                  "surface": "even"
+                },
+                {
+                  "lemma": "if",
+                  "surface": "if"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "now",
+                  "surface": "now"
+                },
+                {
+                  "lemma": "that",
+                  "surface": "that"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "in",
+                  "surface": "in"
+                },
+                {
+                  "lemma": "case",
+                  "surface": "case"
+                }
+              ]
+            },
+            "options": [
+              "A) so that",
+              "B) even if",
+              "C) now that",
+              "D) in case"
+            ],
+            "qid": 2023011009,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "句子描述了驿站是人们相遇的地方，因此“meeting”（相遇）是最恰当的选择。\nA. “Talking”（交谈）暗示对话，但不是句子的重点。\nB. “Starting”（开始）暗示启动，与相遇点的语境不符。\nC. “Breaking”（分离）暗示分开，与相遇点的概念相反。\nD. “Meeting”（相遇）符合语境，因为它直接指人们聚集的地方。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "D",
+            "id": 10,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "talk",
+                  "surface": "talking"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "start",
+                  "surface": "starting"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "break",
+                  "surface": "breaking"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "meet",
+                  "surface": "meeting"
+                }
+              ]
+            },
+            "options": [
+              "A) talking",
+              "B) starting",
+              "C) breaking",
+              "D) meeting"
+            ],
+            "qid": 2023011010,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "此处需要一个因果连接词，结合上下文，‘因此’（as a result）最符合逻辑。\nA. ‘By the way’表示顺便提一下，与因果关系不符。\nB. ‘On occasion’表示偶尔，与上下文逻辑不符。\nC. ‘In comparison’表示比较，与语境无关。\nD. ‘As a result’表示因果关系，符合语境。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "D",
+            "id": 11,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "by",
+                  "surface": "By"
+                },
+                {
+                  "lemma": "the",
+                  "surface": "the"
+                },
+                {
+                  "lemma": "way",
+                  "surface": "way"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "on",
+                  "surface": "On"
+                },
+                {
+                  "lemma": "occasion",
+                  "surface": "occasion"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "in",
+                  "surface": "In"
+                },
+                {
+                  "lemma": "comparison",
+                  "surface": "comparison"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "as",
+                  "surface": "As"
+                },
+                {
+                  "lemma": "a",
+                  "surface": "a"
+                },
+                {
+                  "lemma": "result",
+                  "surface": "result"
+                }
+              ]
+            },
+            "options": [
+              "A) By the way",
+              "B) On occasion",
+              "C) In comparison",
+              "D) As a result"
+            ],
+            "qid": 2023011011,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "此处需要一个与‘互动’相关的名词，‘交流’（exchange）最符合语境。\nA. ‘heritage’表示遗产，与语境不符。\nB. ‘revival’表示复兴，与语境不符。\nC. ‘exchange’表示交流，与‘互动’搭配合理。\nD. ‘status’表示地位，与语境不符。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "C",
+            "id": 12,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "heritage",
+                  "surface": "heritage"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "revival",
+                  "surface": "revival"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "exchange",
+                  "surface": "exchange"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "status",
+                  "surface": "status"
+                }
+              ]
+            },
+            "options": [
+              "A) heritage",
+              "B) revival",
+              "C) exchange",
+              "D) status"
+            ],
+            "qid": 2023011012,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "此处需要一个连接词，表示旅行者既分享又带走知识，‘as well as’最符合语境。\nA. ‘with regard to’表示关于，与语境不符。\nB. ‘in spite of’表示尽管，与语境不符。\nC. ‘as well as’表示以及，符合语境。\nD. ‘in line with’表示符合，与语境不符。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "C",
+            "id": 13,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "with",
+                  "surface": "with"
+                },
+                {
+                  "lemma": "regard",
+                  "surface": "regard"
+                },
+                {
+                  "lemma": "to",
+                  "surface": "to"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "in",
+                  "surface": "in"
+                },
+                {
+                  "lemma": "spite",
+                  "surface": "spite"
+                },
+                {
+                  "lemma": "of",
+                  "surface": "of"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "as",
+                  "surface": "as"
+                },
+                {
+                  "lemma": "well",
+                  "surface": "well"
+                },
+                {
+                  "lemma": "as",
+                  "surface": "as"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "in",
+                  "surface": "in"
+                },
+                {
+                  "lemma": "line",
+                  "surface": "line"
+                },
+                {
+                  "lemma": "with",
+                  "surface": "with"
+                }
+              ]
+            },
+            "options": [
+              "A) with regard to",
+              "B) in spite of",
+              "C) as well as",
+              "D) in line with"
+            ],
+            "qid": 2023011013,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "此处需要一个动词，表示知识对文明的影响，‘influencing’最符合语境。\nA. ‘completing’表示完成，与语境不符。\nB. ‘influencing’表示影响，符合语境。\nC. ‘resuming’表示恢复，与语境不符。\nD. ‘pioneering’表示开创，与语境不符。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "B",
+            "id": 14,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "complete",
+                  "surface": "completing"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "influence",
+                  "surface": "influencing"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "resume",
+                  "surface": "resuming"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "pioneer",
+                  "surface": "pioneering"
+                }
+              ]
+            },
+            "options": [
+              "A) completing",
+              "B) influencing",
+              "C) resuming",
+              "D) pioneering"
+            ],
+            "qid": 2023011014,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "此处需要一个动词，表示驿站在商品贸易中的作用，‘aided’最符合语境。\nA. ‘aided’表示促进，符合语境。\nB. ‘invested’表示投资，与语境不符。\nC. ‘failed’表示失败，与语境不符。\nD. ‘competed’表示竞争，与语境不符。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "A",
+            "id": 15,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "aid",
+                  "surface": "aided"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "invest",
+                  "surface": "invested"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "fail",
+                  "surface": "failed"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "compete",
+                  "surface": "competed"
+                }
+              ]
+            },
+            "options": [
+              "A) aided",
+              "B) invested",
+              "C) failed",
+              "D) competed"
+            ],
+            "qid": 2023011015,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "此处需要一个副词，表示强调事实，‘Indeed’最符合语境。\nA. ‘Rather’表示相反，与语境不符。\nB. ‘Indeed’表示确实，符合语境。\nC. ‘Otherwise’表示否则，与语境不符。\nD. ‘However’表示然而，与语境不符。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "B",
+            "id": 16,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "rather",
+                  "surface": "Rather"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "indeed",
+                  "surface": "Indeed"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "otherwise",
+                  "surface": "Otherwise"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "however",
+                  "surface": "However"
+                }
+              ]
+            },
+            "options": [
+              "A) Rather",
+              "B) Indeed",
+              "C) Otherwise",
+              "D) However"
+            ],
+            "qid": 2023011016,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "此处需要一个短语，表示商人补充物资，‘stock up on’最符合语境。\nA. ‘go in for’表示参与，与语境不符。\nB. ‘stand up for’表示支持，与语境不符。\nC. ‘close in on’表示逼近，与语境不符。\nD. ‘stock up on’表示储备，符合语境。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "D",
+            "id": 17,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "go",
+                  "surface": "go"
+                },
+                {
+                  "lemma": "in",
+                  "surface": "in"
+                },
+                {
+                  "lemma": "for",
+                  "surface": "for"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "stand",
+                  "surface": "stand"
+                },
+                {
+                  "lemma": "up",
+                  "surface": "up"
+                },
+                {
+                  "lemma": "for",
+                  "surface": "for"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "close",
+                  "surface": "close"
+                },
+                {
+                  "lemma": "in",
+                  "surface": "in"
+                },
+                {
+                  "lemma": "on",
+                  "surface": "on"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "stock",
+                  "surface": "stock"
+                },
+                {
+                  "lemma": "up",
+                  "surface": "up"
+                },
+                {
+                  "lemma": "on",
+                  "surface": "on"
+                }
+              ]
+            },
+            "options": [
+              "A) go in for",
+              "B) stand up for",
+              "C) close in on",
+              "D) stock up on"
+            ],
+            "qid": 2023011017,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "此处需要一个动词，表示‘据认为’，‘believed’最符合语境。\nA. ‘believed’表示认为，符合语境。\nB. ‘predicted’表示预测，与语境不符。\nC. ‘recalled’表示回忆，与语境不符。\nD. ‘implied’表示暗示，与语境不符。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "A",
+            "id": 18,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "believe",
+                  "surface": "believed"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "predict",
+                  "surface": "predicted"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "recall",
+                  "surface": "recalled"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "imply",
+                  "surface": "implied"
+                }
+              ]
+            },
+            "options": [
+              "A) believed",
+              "B) predicted",
+              "C) recalled",
+              "D) implied"
+            ],
+            "qid": 2023011018,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "此处需要一个连接词，表示对比关系，‘although’最符合语境。\nA. ‘until’表示直到，与语境不符。\nB. ‘because’表示因为，与语境不符。\nC. ‘unless’表示除非，与语境不符。\nD. ‘although’表示尽管，符合语境。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "D",
+            "id": 19,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "until",
+                  "surface": "until"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "because",
+                  "surface": "because"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "unless",
+                  "surface": "unless"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "although",
+                  "surface": "although"
+                }
+              ]
+            },
+            "options": [
+              "A) until",
+              "B) because",
+              "C) unless",
+              "D) although"
+            ],
+            "qid": 2023011019,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "此处需要一个名词，表示许多驿站的现状，‘ruins’最符合语境。\nA. ‘ruins’表示废墟，符合语境。\nB. ‘debt’表示债务，与语境不符。\nC. ‘fashion’表示时尚，与语境不符。\nD. ‘series’表示系列，与语境不符。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "A",
+            "id": 20,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "ruin",
+                  "surface": "ruins"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "debt",
+                  "surface": "debt"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "fashion",
+                  "surface": "fashion"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "series",
+                  "surface": "series"
+                }
+              ]
+            },
+            "options": [
+              "A) ruins",
+              "B) debt",
+              "C) fashion",
+              "D) series"
+            ],
+            "qid": 2023011020,
+            "text": ""
+          }
+        ]
+      },
+      "directions": "Read the following text. Choose the best word(s) for each numbered blank and mark A, B,\nC or D on the ANSWER SHEET. (10 points)",
+      "exam_info": "2023(1)",
+      "exam_type": "kaoyan",
+      "id": 202301001,
+      "key_words": "caravanserais along aided although believed combination construction describe exchange faced indeed influencing meeting privately result road ruins silk stock subjected such well located travellers accepted accustomed apart assigned breaking case classify close comparison competed completing connect debt definition displayed doubted equipped evaluation even failed fashion heritage however implied impression instead invested line now occasion occupied opposed otherwise people permanently pioneering predicted rather recalled record reduced regard regularly respectively restoration resuming revival series spite stand starting status substitution talking transition unless",
+      "kid": 8,
+      "part": "Part III",
+      "section": "Sec A",
+      "task_key": "2023(1)_Section I_ ",
+      "type": "Use of English"
+    }
+  ]
+}

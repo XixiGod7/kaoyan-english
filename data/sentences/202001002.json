@@ -1,0 +1,3208 @@
+{
+  "sentences": [
+    {
+      "cn_text": "一群工党议员,其中包括伊薇特·库珀,在新年之际呼吁设立英国「文化小镇」奖项。",
+      "en_text": "A group of Labour MPs, among them Yvette Cooper, are bringing in the new year with a call to institute a UK “town of culture” award.",
+      "id": 2020013016,
+      "order_seq": "content_1_1",
+      "task_id": 202001002,
+      "tokens": [
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "A"
+        },
+        {
+          "gloss": "群体",
+          "lemma": "group",
+          "surface": "group"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "工党",
+          "lemma": "labour",
+          "surface": "Labour"
+        },
+        {
+          "gloss": "议员",
+          "lemma": "mp",
+          "surface": "MPs"
+        },
+        {
+          "gloss": "其中",
+          "lemma": "among",
+          "surface": "among"
+        },
+        {
+          "gloss": "他们",
+          "lemma": "they",
+          "surface": "them"
+        },
+        {
+          "gloss": "伊薇特",
+          "lemma": "yvette",
+          "surface": "Yvette"
+        },
+        {
+          "gloss": "库珀",
+          "lemma": "cooper",
+          "surface": "Cooper"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "are"
+        },
+        {
+          "gloss": "带来",
+          "lemma": "bring",
+          "surface": "bringing"
+        },
+        {
+          "gloss": "进入",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "新的",
+          "lemma": "new",
+          "surface": "new"
+        },
+        {
+          "gloss": "年",
+          "lemma": "year",
+          "surface": "year"
+        },
+        {
+          "gloss": "以",
+          "lemma": "with",
+          "surface": "with"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "呼吁",
+          "lemma": "call",
+          "surface": "call"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "设立",
+          "lemma": "institute",
+          "surface": "institute"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "英国",
+          "lemma": "uk",
+          "surface": "UK"
+        },
+        {
+          "gloss": "小镇",
+          "lemma": "town",
+          "surface": "town"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "文化",
+          "lemma": "culture",
+          "surface": "culture"
+        },
+        {
+          "gloss": "奖项",
+          "lemma": "award",
+          "surface": "award"
+        }
+      ]
+    },
+    {
+      "cn_text": "该提议是让这一奖项与现有的「文化之城」称号并列,后者曾于2017年由赫尔市获得,并已授予考文垂市用于2021年。",
+      "en_text": "The proposal is that it should sit alongside the existing city of culture title, which was held by Hull in 2017, and has been awarded to Coventry for 2021.",
+      "id": 2020013017,
+      "order_seq": "content_1_2",
+      "task_id": 202001002,
+      "tokens": [
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "The"
+        },
+        {
+          "gloss": "提议",
+          "lemma": "proposal",
+          "surface": "proposal"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "表述从句",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "it"
+        },
+        {
+          "gloss": "应该",
+          "lemma": "should",
+          "surface": "should"
+        },
+        {
+          "gloss": "并列",
+          "lemma": "sit",
+          "surface": "sit"
+        },
+        {
+          "gloss": "与……一起",
+          "lemma": "alongside",
+          "surface": "alongside"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "现有的",
+          "lemma": "exist",
+          "surface": "existing"
+        },
+        {
+          "gloss": "城市",
+          "lemma": "city",
+          "surface": "city"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "文化",
+          "lemma": "culture",
+          "surface": "culture"
+        },
+        {
+          "gloss": "称号",
+          "lemma": "title",
+          "surface": "title"
+        },
+        {
+          "gloss": "后者",
+          "lemma": "which",
+          "surface": "which"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "was"
+        },
+        {
+          "gloss": "获得",
+          "lemma": "hold",
+          "surface": "held"
+        },
+        {
+          "gloss": "由",
+          "lemma": "by",
+          "surface": "by"
+        },
+        {
+          "gloss": "赫尔市",
+          "lemma": "hull",
+          "surface": "Hull"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "并且",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "已经",
+          "lemma": "have",
+          "surface": "has"
+        },
+        {
+          "gloss": "被",
+          "lemma": "be",
+          "surface": "been"
+        },
+        {
+          "gloss": "授予",
+          "lemma": "award",
+          "surface": "awarded"
+        },
+        {
+          "gloss": "给",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "考文垂市",
+          "lemma": "coventry",
+          "surface": "Coventry"
+        },
+        {
+          "gloss": "用于",
+          "lemma": "for",
+          "surface": "for"
+        }
+      ]
+    },
+    {
+      "cn_text": "库珀及其同事认为,赫尔市获此殊荣所取得的成功——带来了2.2亿英镑的投资和艺术活动的蓬勃发展——不应仅限于城市。",
+      "en_text": "Cooper and her colleagues argue that the success of the crown for Hull, where it brought in £220m of investment and an avalanche of arts, ought not to be confined to cities.",
+      "id": 2020013018,
+      "order_seq": "content_1_3",
+      "task_id": 202001002,
+      "tokens": [
+        {
+          "gloss": "库珀",
+          "lemma": "cooper",
+          "surface": "Cooper"
+        },
+        {
+          "gloss": "及",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "她的",
+          "lemma": "her",
+          "surface": "her"
+        },
+        {
+          "gloss": "同事",
+          "lemma": "colleague",
+          "surface": "colleagues"
+        },
+        {
+          "gloss": "认为",
+          "lemma": "argue",
+          "surface": "argue"
+        },
+        {
+          "gloss": "表述从句",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "成功",
+          "lemma": "success",
+          "surface": "success"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "荣誉",
+          "lemma": "crown",
+          "surface": "crown"
+        },
+        {
+          "gloss": "对于",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "赫尔市",
+          "lemma": "hull",
+          "surface": "Hull"
+        },
+        {
+          "gloss": "在那里",
+          "lemma": "where",
+          "surface": "where"
+        },
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "it"
+        },
+        {
+          "gloss": "带来",
+          "lemma": "bring",
+          "surface": "brought"
+        },
+        {
+          "gloss": "进入",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "2.2亿英镑",
+          "lemma": "£220m",
+          "surface": "£220m"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "投资",
+          "lemma": "investment",
+          "surface": "investment"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "an",
+          "surface": "an"
+        },
+        {
+          "gloss": "大量",
+          "lemma": "avalanche",
+          "surface": "avalanche"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "艺术",
+          "lemma": "art",
+          "surface": "arts"
+        },
+        {
+          "gloss": "应该",
+          "lemma": "ought",
+          "surface": "ought"
+        },
+        {
+          "gloss": "不",
+          "lemma": "not",
+          "surface": "not"
+        },
+        {
+          "gloss": "至",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "被",
+          "lemma": "be",
+          "surface": "be"
+        },
+        {
+          "gloss": "限制",
+          "lemma": "confine",
+          "surface": "confined"
+        },
+        {
+          "gloss": "于",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "城市",
+          "lemma": "city",
+          "surface": "cities"
+        }
+      ]
+    },
+    {
+      "cn_text": "英国的小镇确实并未被禁止申请,但它们通常缺乏资源来组织一份能够击败更大竞争对手的申请方案。",
+      "en_text": "Britain’s towns, it is true, are not prevented from applying, but they generally lack the resources to put together a bid to beat their bigger competitors.",
+      "id": 2020013019,
+      "order_seq": "content_1_4",
+      "task_id": 202001002,
+      "tokens": [
+        {
+          "gloss": "英国的",
+          "lemma": "britain",
+          "surface": "Britain’s"
+        },
+        {
+          "gloss": "小镇",
+          "lemma": "town",
+          "surface": "towns"
+        },
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "it"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "真实的",
+          "lemma": "true",
+          "surface": "true"
+        },
+        {
+          "gloss": "被",
+          "lemma": "be",
+          "surface": "are"
+        },
+        {
+          "gloss": "不",
+          "lemma": "not",
+          "surface": "not"
+        },
+        {
+          "gloss": "禁止",
+          "lemma": "prevent",
+          "surface": "prevented"
+        },
+        {
+          "gloss": "从",
+          "lemma": "from",
+          "surface": "from"
+        },
+        {
+          "gloss": "申请",
+          "lemma": "apply",
+          "surface": "applying"
+        },
+        {
+          "gloss": "但是",
+          "lemma": "but",
+          "surface": "but"
+        },
+        {
+          "gloss": "它们",
+          "lemma": "they",
+          "surface": "they"
+        },
+        {
+          "gloss": "通常",
+          "lemma": "generally",
+          "surface": "generally"
+        },
+        {
+          "gloss": "缺乏",
+          "lemma": "lack",
+          "surface": "lack"
+        },
+        {
+          "gloss": "这些",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "资源",
+          "lemma": "resource",
+          "surface": "resources"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "组织",
+          "lemma": "put",
+          "surface": "put"
+        },
+        {
+          "gloss": "一起",
+          "lemma": "together",
+          "surface": "together"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "申请",
+          "lemma": "bid",
+          "surface": "bid"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "击败",
+          "lemma": "beat",
+          "surface": "beat"
+        },
+        {
+          "gloss": "他们的",
+          "lemma": "their",
+          "surface": "their"
+        },
+        {
+          "gloss": "更大的",
+          "lemma": "big",
+          "surface": "bigger"
+        },
+        {
+          "gloss": "竞争对手",
+          "lemma": "competitor",
+          "surface": "competitors"
+        }
+      ]
+    },
+    {
+      "cn_text": "据称,文化小镇奖可以成为年度活动,吸引资金并创造就业机会。",
+      "en_text": "A town of culture award could, it is argued, become an annual event, attracting funding and creating jobs.",
+      "id": 2020013020,
+      "order_seq": "content_1_5",
+      "task_id": 202001002,
+      "tokens": [
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "A"
+        },
+        {
+          "gloss": "城镇",
+          "lemma": "town",
+          "surface": "town"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "文化",
+          "lemma": "culture",
+          "surface": "culture"
+        },
+        {
+          "gloss": "奖项",
+          "lemma": "award",
+          "surface": "award"
+        },
+        {
+          "gloss": "可以",
+          "lemma": "could",
+          "surface": "could"
+        },
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "it"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "据称",
+          "lemma": "argue",
+          "surface": "argued"
+        },
+        {
+          "gloss": "成为",
+          "lemma": "become",
+          "surface": "become"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "an",
+          "surface": "an"
+        },
+        {
+          "gloss": "年度的",
+          "lemma": "annual",
+          "surface": "annual"
+        },
+        {
+          "gloss": "活动",
+          "lemma": "event",
+          "surface": "event"
+        },
+        {
+          "gloss": "吸引",
+          "lemma": "attract",
+          "surface": "attracting"
+        },
+        {
+          "gloss": "资金",
+          "lemma": "funding",
+          "surface": "funding"
+        },
+        {
+          "gloss": "并且",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "创造",
+          "lemma": "create",
+          "surface": "creating"
+        },
+        {
+          "gloss": "就业机会",
+          "lemma": "job",
+          "surface": "jobs"
+        }
+      ]
+    },
+    {
+      "cn_text": "有人可能将这一提议视为一种安慰奖,因为英国已无法再申请更具声望的欧洲文化之都头衔——这一备受追捧的奖项曾被格拉斯哥(1990年)和利物浦(2008年)摘得。",
+      "en_text": "Some might see the proposal as a booby prize for the fact that Britain is no longer able to apply for the much more prestigious title of European capital of culture, a soughtafter award bagged by Glasgow in 1990 and Liverpool in 2008.",
+      "id": 2020013021,
+      "order_seq": "content_2_1",
+      "task_id": 202001002,
+      "tokens": [
+        {
+          "gloss": "一些人",
+          "lemma": "some",
+          "surface": "Some"
+        },
+        {
+          "gloss": "可能",
+          "lemma": "might",
+          "surface": "might"
+        },
+        {
+          "gloss": "认为",
+          "lemma": "see",
+          "surface": "see"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "提议",
+          "lemma": "proposal",
+          "surface": "proposal"
+        },
+        {
+          "gloss": "作为",
+          "lemma": "as",
+          "surface": "as"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "安慰的",
+          "lemma": "booby",
+          "surface": "booby"
+        },
+        {
+          "gloss": "奖",
+          "lemma": "prize",
+          "surface": "prize"
+        },
+        {
+          "gloss": "因为",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "事实",
+          "lemma": "fact",
+          "surface": "fact"
+        },
+        {
+          "gloss": "因为",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "英国",
+          "lemma": "britain",
+          "surface": "Britain"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "不再",
+          "lemma": "no",
+          "surface": "no"
+        },
+        {
+          "gloss": "更久",
+          "lemma": "long",
+          "surface": "longer"
+        },
+        {
+          "gloss": "能够",
+          "lemma": "able",
+          "surface": "able"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "申请",
+          "lemma": "apply",
+          "surface": "apply"
+        },
+        {
+          "gloss": "为了",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "更加",
+          "lemma": "much",
+          "surface": "much"
+        },
+        {
+          "gloss": "更",
+          "lemma": "more",
+          "surface": "more"
+        },
+        {
+          "gloss": "有声望的",
+          "lemma": "prestigious",
+          "surface": "prestigious"
+        },
+        {
+          "gloss": "头衔",
+          "lemma": "title",
+          "surface": "title"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "欧洲的",
+          "lemma": "european",
+          "surface": "European"
+        },
+        {
+          "gloss": "首都",
+          "lemma": "capital",
+          "surface": "capital"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "文化",
+          "lemma": "culture",
+          "surface": "culture"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "备受追捧的",
+          "lemma": "soughtafter",
+          "surface": "soughtafter"
+        },
+        {
+          "gloss": "奖项",
+          "lemma": "award",
+          "surface": "award"
+        },
+        {
+          "gloss": "获得",
+          "lemma": "bag",
+          "surface": "bagged"
+        },
+        {
+          "gloss": "被",
+          "lemma": "by",
+          "surface": "by"
+        },
+        {
+          "gloss": "格拉斯哥",
+          "lemma": "glasgow",
+          "surface": "Glasgow"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "利物浦",
+          "lemma": "liverpool",
+          "surface": "Liverpool"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        }
+      ]
+    },
+    {
+      "cn_text": "悲观者可能会推测,英国正处于陷入无休止的自我庆祝狂热之中的边缘,急于在后脱欧时代重塑自我:继文化小镇之后,谁知道接下来会是什么——文化村庄?",
+      "en_text": "A cynic might speculate that the UK is on the verge of disappearing into an endless fever of self-celebration in its desperation to reinvent itself for the post-Brexit world: after town of culture, who knows what will follow — village of culture?",
+      "id": 2020013022,
+      "order_seq": "content_2_2",
+      "task_id": 202001002,
+      "tokens": [
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "A"
+        },
+        {
+          "gloss": "愤世嫉俗者",
+          "lemma": "cynic",
+          "surface": "cynic"
+        },
+        {
+          "gloss": "可能",
+          "lemma": "might",
+          "surface": "might"
+        },
+        {
+          "gloss": "推测",
+          "lemma": "speculate",
+          "surface": "speculate"
+        },
+        {
+          "gloss": "认为",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "英国",
+          "lemma": "uk",
+          "surface": "UK"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "在",
+          "lemma": "on",
+          "surface": "on"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "边缘",
+          "lemma": "verge",
+          "surface": "verge"
+        },
+        {
+          "gloss": "于",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "消失",
+          "lemma": "disappear",
+          "surface": "disappearing"
+        },
+        {
+          "gloss": "进入",
+          "lemma": "into",
+          "surface": "into"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "an",
+          "surface": "an"
+        },
+        {
+          "gloss": "无尽的",
+          "lemma": "endless",
+          "surface": "endless"
+        },
+        {
+          "gloss": "狂热",
+          "lemma": "fever",
+          "surface": "fever"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "自我",
+          "lemma": "self",
+          "surface": "self"
+        },
+        {
+          "gloss": "庆祝",
+          "lemma": "celebration",
+          "surface": "celebration"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "它的",
+          "lemma": "its",
+          "surface": "its"
+        },
+        {
+          "gloss": "绝望",
+          "lemma": "desperation",
+          "surface": "desperation"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "重新定义",
+          "lemma": "reinvent",
+          "surface": "reinvent"
+        },
+        {
+          "gloss": "自己",
+          "lemma": "itself",
+          "surface": "itself"
+        },
+        {
+          "gloss": "为了",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "后",
+          "lemma": "post",
+          "surface": "post"
+        },
+        {
+          "gloss": "英国脱欧",
+          "lemma": "brexit",
+          "surface": "Brexit"
+        },
+        {
+          "gloss": "世界",
+          "lemma": "world",
+          "surface": "world"
+        },
+        {
+          "gloss": "在……之后",
+          "lemma": "after",
+          "surface": "after"
+        },
+        {
+          "gloss": "城镇",
+          "lemma": "town",
+          "surface": "town"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "文化",
+          "lemma": "culture",
+          "surface": "culture"
+        },
+        {
+          "gloss": "谁",
+          "lemma": "who",
+          "surface": "who"
+        },
+        {
+          "gloss": "知道",
+          "lemma": "know",
+          "surface": "knows"
+        },
+        {
+          "gloss": "什么",
+          "lemma": "what",
+          "surface": "what"
+        },
+        {
+          "gloss": "会",
+          "lemma": "will",
+          "surface": "will"
+        },
+        {
+          "gloss": "接下来",
+          "lemma": "follow",
+          "surface": "follow"
+        },
+        {
+          "gloss": "村庄",
+          "lemma": "village",
+          "surface": "village"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "文化",
+          "lemma": "culture",
+          "surface": "culture"
+        }
+      ]
+    },
+    {
+      "cn_text": "文化郊区?",
+      "en_text": "Suburb of culture?",
+      "id": 2020013023,
+      "order_seq": "content_2_3",
+      "task_id": 202001002,
+      "tokens": [
+        {
+          "gloss": "郊区",
+          "lemma": "suburb",
+          "surface": "Suburb"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "文化",
+          "lemma": "culture",
+          "surface": "culture"
+        }
+      ]
+    },
+    {
+      "cn_text": "文化村落?",
+      "en_text": "Hamlet of culture?",
+      "id": 2020013024,
+      "order_seq": "content_2_4",
+      "task_id": 202001002,
+      "tokens": [
+        {
+          "gloss": "村庄",
+          "lemma": "hamlet",
+          "surface": "Hamlet"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "文化",
+          "lemma": "culture",
+          "surface": "culture"
+        }
+      ]
+    },
+    {
+      "cn_text": "同样明智的是要记住,此类头衔并非万能良方。",
+      "en_text": "It is also wise to recall that such titles are not a cure-all.",
+      "id": 2020013025,
+      "order_seq": "content_3_1",
+      "task_id": 202001002,
+      "tokens": [
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "It"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "也",
+          "lemma": "also",
+          "surface": "also"
+        },
+        {
+          "gloss": "明智的",
+          "lemma": "wise",
+          "surface": "wise"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "记住",
+          "lemma": "recall",
+          "surface": "recall"
+        },
+        {
+          "gloss": "那",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "这样的",
+          "lemma": "such",
+          "surface": "such"
+        },
+        {
+          "gloss": "头衔",
+          "lemma": "title",
+          "surface": "titles"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "are"
+        },
+        {
+          "gloss": "不是",
+          "lemma": "not",
+          "surface": "not"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "治疗",
+          "lemma": "cure",
+          "surface": "cure"
+        },
+        {
+          "gloss": "所有的",
+          "lemma": "all",
+          "surface": "all"
+        }
+      ]
+    },
+    {
+      "cn_text": "一个管理不善的「文化年」如潮水般涌入又退出一个地方,带来短暂的知名度,却未能为社区留下任何持久的益处。",
+      "en_text": "A badly run “year of culture” washes in and out of a place like the tide, bringing prominence for a spell but leaving no lasting benefits to the community.",
+      "id": 2020013026,
+      "order_seq": "content_3_2",
+      "task_id": 202001002,
+      "tokens": [
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "A"
+        },
+        {
+          "gloss": "糟糕地",
+          "lemma": "badly",
+          "surface": "badly"
+        },
+        {
+          "gloss": "管理",
+          "lemma": "run",
+          "surface": "run"
+        },
+        {
+          "gloss": "年",
+          "lemma": "year",
+          "surface": "year"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "文化",
+          "lemma": "culture",
+          "surface": "culture"
+        },
+        {
+          "gloss": "涌入",
+          "lemma": "wash",
+          "surface": "washes"
+        },
+        {
+          "gloss": "进入",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "并且",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "离开",
+          "lemma": "out",
+          "surface": "out"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "地方",
+          "lemma": "place",
+          "surface": "place"
+        },
+        {
+          "gloss": "像",
+          "lemma": "like",
+          "surface": "like"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "潮水",
+          "lemma": "tide",
+          "surface": "tide"
+        },
+        {
+          "gloss": "带来",
+          "lemma": "bring",
+          "surface": "bringing"
+        },
+        {
+          "gloss": "显赫",
+          "lemma": "prominence",
+          "surface": "prominence"
+        },
+        {
+          "gloss": "为了",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "短暂时间",
+          "lemma": "spell",
+          "surface": "spell"
+        },
+        {
+          "gloss": "但是",
+          "lemma": "but",
+          "surface": "but"
+        },
+        {
+          "gloss": "留下",
+          "lemma": "leave",
+          "surface": "leaving"
+        },
+        {
+          "gloss": "没有",
+          "lemma": "no",
+          "surface": "no"
+        },
+        {
+          "gloss": "持久的",
+          "lemma": "lasting",
+          "surface": "lasting"
+        },
+        {
+          "gloss": "益处",
+          "lemma": "benefit",
+          "surface": "benefits"
+        },
+        {
+          "gloss": "对",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "社区",
+          "lemma": "community",
+          "surface": "community"
+        }
+      ]
+    },
+    {
+      "cn_text": "真正成功获得此类头衔的,是那些所作所为远不止填满酒店客房、引入高端艺术活动以及赢得一年好评的地方。",
+      "en_text": "The really successful holders of such titles are those that do a great deal more than fill hotel bedrooms and bring in high-profile arts events and good press for a year.",
+      "id": 2020013027,
+      "order_seq": "content_3_3",
+      "task_id": 202001002,
+      "tokens": [
+        {
+          "gloss": "真正",
+          "lemma": "the",
+          "surface": "The"
+        },
+        {
+          "gloss": "真正地",
+          "lemma": "really",
+          "surface": "really"
+        },
+        {
+          "gloss": "成功的",
+          "lemma": "successful",
+          "surface": "successful"
+        },
+        {
+          "gloss": "获得者",
+          "lemma": "holder",
+          "surface": "holders"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "这样的",
+          "lemma": "such",
+          "surface": "such"
+        },
+        {
+          "gloss": "头衔",
+          "lemma": "title",
+          "surface": "titles"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "are"
+        },
+        {
+          "gloss": "那些",
+          "lemma": "those",
+          "surface": "those"
+        },
+        {
+          "gloss": "那",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "做",
+          "lemma": "do",
+          "surface": "do"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "大量的",
+          "lemma": "great",
+          "surface": "great"
+        },
+        {
+          "gloss": "事情",
+          "lemma": "deal",
+          "surface": "deal"
+        },
+        {
+          "gloss": "更多",
+          "lemma": "more",
+          "surface": "more"
+        },
+        {
+          "gloss": "比",
+          "lemma": "than",
+          "surface": "than"
+        },
+        {
+          "gloss": "填满",
+          "lemma": "fill",
+          "surface": "fill"
+        },
+        {
+          "gloss": "酒店",
+          "lemma": "hotel",
+          "surface": "hotel"
+        },
+        {
+          "gloss": "房间",
+          "lemma": "bedroom",
+          "surface": "bedrooms"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "带来",
+          "lemma": "bring",
+          "surface": "bring"
+        },
+        {
+          "gloss": "进入",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "高的",
+          "lemma": "high",
+          "surface": "high"
+        },
+        {
+          "gloss": "形象",
+          "lemma": "profile",
+          "surface": "profile"
+        },
+        {
+          "gloss": "艺术",
+          "lemma": "art",
+          "surface": "arts"
+        },
+        {
+          "gloss": "活动",
+          "lemma": "event",
+          "surface": "events"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "好的",
+          "lemma": "good",
+          "surface": "good"
+        },
+        {
+          "gloss": "新闻报道",
+          "lemma": "press",
+          "surface": "press"
+        },
+        {
+          "gloss": "为了",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "年",
+          "lemma": "year",
+          "surface": "year"
+        }
+      ]
+    },
+    {
+      "cn_text": "它们改变了当地居民的愿景;它们将城市的自我形象推向更加大胆和乐观的境地。",
+      "en_text": "They transform the aspirations of the people who live there; they nudge the self-image of the city into a bolder and more optimistic light.",
+      "id": 2020013028,
+      "order_seq": "content_3_4",
+      "task_id": 202001002,
+      "tokens": [
+        {
+          "gloss": "他们",
+          "lemma": "they",
+          "surface": "They"
+        },
+        {
+          "gloss": "改变",
+          "lemma": "transform",
+          "surface": "transform"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "愿望",
+          "lemma": "aspiration",
+          "surface": "aspirations"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "人们",
+          "lemma": "people",
+          "surface": "people"
+        },
+        {
+          "gloss": "谁",
+          "lemma": "who",
+          "surface": "who"
+        },
+        {
+          "gloss": "居住",
+          "lemma": "live",
+          "surface": "live"
+        },
+        {
+          "gloss": "那里",
+          "lemma": "there",
+          "surface": "there"
+        },
+        {
+          "gloss": "他们",
+          "lemma": "they",
+          "surface": "they"
+        },
+        {
+          "gloss": "推动",
+          "lemma": "nudge",
+          "surface": "nudge"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "自我",
+          "lemma": "self",
+          "surface": "self"
+        },
+        {
+          "gloss": "形象",
+          "lemma": "image",
+          "surface": "image"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "城市",
+          "lemma": "city",
+          "surface": "city"
+        },
+        {
+          "gloss": "进入",
+          "lemma": "into",
+          "surface": "into"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "更大胆的",
+          "lemma": "bold",
+          "surface": "bolder"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "更",
+          "lemma": "more",
+          "surface": "more"
+        },
+        {
+          "gloss": "乐观的",
+          "lemma": "optimistic",
+          "surface": "optimistic"
+        },
+        {
+          "gloss": "光",
+          "lemma": "light",
+          "surface": "light"
+        }
+      ]
+    },
+    {
+      "cn_text": "这很难做到,需要非凡的远见,以及市政当局、私营部门、社区团体和文化组织之间的通力合作。",
+      "en_text": "It is hard to get right, and requires a remarkable degree of vision, as well as cooperation between city authorities, the private sector, community groups and cultural organisations.",
+      "id": 2020013029,
+      "order_seq": "content_3_5",
+      "task_id": 202001002,
+      "tokens": [
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "It"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "困难的",
+          "lemma": "hard",
+          "surface": "hard"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "得到",
+          "lemma": "get",
+          "surface": "get"
+        },
+        {
+          "gloss": "正确的",
+          "lemma": "right",
+          "surface": "right"
+        },
+        {
+          "gloss": "并且",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "需要",
+          "lemma": "require",
+          "surface": "requires"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "非凡的",
+          "lemma": "remarkable",
+          "surface": "remarkable"
+        },
+        {
+          "gloss": "程度",
+          "lemma": "degree",
+          "surface": "degree"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "远见",
+          "lemma": "vision",
+          "surface": "vision"
+        },
+        {
+          "gloss": "以及",
+          "lemma": "as",
+          "surface": "as"
+        },
+        {
+          "gloss": "也",
+          "lemma": "well",
+          "surface": "well"
+        },
+        {
+          "gloss": "如同",
+          "lemma": "as",
+          "surface": "as"
+        },
+        {
+          "gloss": "合作",
+          "lemma": "cooperation",
+          "surface": "cooperation"
+        },
+        {
+          "gloss": "在...之间",
+          "lemma": "between",
+          "surface": "between"
+        },
+        {
+          "gloss": "城市",
+          "lemma": "city",
+          "surface": "city"
+        },
+        {
+          "gloss": "当局",
+          "lemma": "authority",
+          "surface": "authorities"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "私人的",
+          "lemma": "private",
+          "surface": "private"
+        },
+        {
+          "gloss": "部门",
+          "lemma": "sector",
+          "surface": "sector"
+        },
+        {
+          "gloss": "社区",
+          "lemma": "community",
+          "surface": "community"
+        },
+        {
+          "gloss": "团体",
+          "lemma": "group",
+          "surface": "groups"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "文化的",
+          "lemma": "cultural",
+          "surface": "cultural"
+        },
+        {
+          "gloss": "组织",
+          "lemma": "organisation",
+          "surface": "organisations"
+        }
+      ]
+    },
+    {
+      "cn_text": "但这是可以做到的:格拉斯哥作为欧洲文化之都的那一年,无疑可以被视为一系列复杂因素之一,这些因素使该市成为至今仍然是艺术、音乐和戏剧重镇的动力源泉。",
+      "en_text": "But it can be done: Glasgow’s year as European capital of culture can certainly be seen as one of a complex series of factors that have turned the city into the powerhouse of art, music and theatre that it remains today.",
+      "id": 2020013030,
+      "order_seq": "content_3_6",
+      "task_id": 202001002,
+      "tokens": [
+        {
+          "gloss": "但是",
+          "lemma": "but",
+          "surface": "But"
+        },
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "it"
+        },
+        {
+          "gloss": "能够",
+          "lemma": "can",
+          "surface": "can"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "be"
+        },
+        {
+          "gloss": "完成",
+          "lemma": "do",
+          "surface": "done"
+        },
+        {
+          "gloss": "格拉斯哥的",
+          "lemma": "glasgow",
+          "surface": "Glasgow’s"
+        },
+        {
+          "gloss": "一年",
+          "lemma": "year",
+          "surface": "year"
+        },
+        {
+          "gloss": "作为",
+          "lemma": "as",
+          "surface": "as"
+        },
+        {
+          "gloss": "欧洲的",
+          "lemma": "european",
+          "surface": "European"
+        },
+        {
+          "gloss": "首都",
+          "lemma": "capital",
+          "surface": "capital"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "文化",
+          "lemma": "culture",
+          "surface": "culture"
+        },
+        {
+          "gloss": "能够",
+          "lemma": "can",
+          "surface": "can"
+        },
+        {
+          "gloss": "无疑",
+          "lemma": "certainly",
+          "surface": "certainly"
+        },
+        {
+          "gloss": "被",
+          "lemma": "be",
+          "surface": "be"
+        },
+        {
+          "gloss": "视为",
+          "lemma": "see",
+          "surface": "seen"
+        },
+        {
+          "gloss": "作为",
+          "lemma": "as",
+          "surface": "as"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "one",
+          "surface": "one"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "复杂的",
+          "lemma": "complex",
+          "surface": "complex"
+        },
+        {
+          "gloss": "系列",
+          "lemma": "series",
+          "surface": "series"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "因素",
+          "lemma": "factor",
+          "surface": "factors"
+        },
+        {
+          "gloss": "那些",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "已经",
+          "lemma": "have",
+          "surface": "have"
+        },
+        {
+          "gloss": "使成为",
+          "lemma": "turn",
+          "surface": "turned"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "城市",
+          "lemma": "city",
+          "surface": "city"
+        },
+        {
+          "gloss": "成为",
+          "lemma": "into",
+          "surface": "into"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "动力源",
+          "lemma": "powerhouse",
+          "surface": "powerhouse"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "艺术",
+          "lemma": "art",
+          "surface": "art"
+        },
+        {
+          "gloss": "音乐",
+          "lemma": "music",
+          "surface": "music"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "戏剧",
+          "lemma": "theatre",
+          "surface": "theatre"
+        },
+        {
+          "gloss": "它",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "it"
+        },
+        {
+          "gloss": "仍然是",
+          "lemma": "remain",
+          "surface": "remains"
+        },
+        {
+          "gloss": "今天",
+          "lemma": "today",
+          "surface": "today"
+        }
+      ]
+    },
+    {
+      "cn_text": "「文化小镇」不仅可以关乎艺术,还可以关乎尊重小镇的独特性——帮助维持其商业街,支持当地设施,最重要的是赞颂其居民。",
+      "en_text": "A “town of culture” could be not just about the arts but about honouring a town’s peculiarities — helping sustain its high street, supporting local facilities and above all celebrating its people.",
+      "id": 2020013031,
+      "order_seq": "content_4_1",
+      "task_id": 202001002,
+      "tokens": [
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "A"
+        },
+        {
+          "gloss": "城镇",
+          "lemma": "town",
+          "surface": "town"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "文化",
+          "lemma": "culture",
+          "surface": "culture"
+        },
+        {
+          "gloss": "可以",
+          "lemma": "could",
+          "surface": "could"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "be"
+        },
+        {
+          "gloss": "不",
+          "lemma": "not",
+          "surface": "not"
+        },
+        {
+          "gloss": "仅仅",
+          "lemma": "just",
+          "surface": "just"
+        },
+        {
+          "gloss": "关于",
+          "lemma": "about",
+          "surface": "about"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "艺术",
+          "lemma": "art",
+          "surface": "arts"
+        },
+        {
+          "gloss": "而是",
+          "lemma": "but",
+          "surface": "but"
+        },
+        {
+          "gloss": "关于",
+          "lemma": "about",
+          "surface": "about"
+        },
+        {
+          "gloss": "尊重",
+          "lemma": "honour",
+          "surface": "honouring"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "城镇的",
+          "lemma": "town",
+          "surface": "town’s"
+        },
+        {
+          "gloss": "独特性",
+          "lemma": "peculiarity",
+          "surface": "peculiarities"
+        },
+        {
+          "gloss": "帮助",
+          "lemma": "help",
+          "surface": "helping"
+        },
+        {
+          "gloss": "维持",
+          "lemma": "sustain",
+          "surface": "sustain"
+        },
+        {
+          "gloss": "它的",
+          "lemma": "its",
+          "surface": "its"
+        },
+        {
+          "gloss": "主要的",
+          "lemma": "high",
+          "surface": "high"
+        },
+        {
+          "gloss": "街道",
+          "lemma": "street",
+          "surface": "street"
+        },
+        {
+          "gloss": "支持",
+          "lemma": "support",
+          "surface": "supporting"
+        },
+        {
+          "gloss": "当地的",
+          "lemma": "local",
+          "surface": "local"
+        },
+        {
+          "gloss": "设施",
+          "lemma": "facility",
+          "surface": "facilities"
+        },
+        {
+          "gloss": "并且",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "最重要的是",
+          "lemma": "above",
+          "surface": "above"
+        },
+        {
+          "gloss": "所有",
+          "lemma": "all",
+          "surface": "all"
+        },
+        {
+          "gloss": "庆祝",
+          "lemma": "celebrate",
+          "surface": "celebrating"
+        },
+        {
+          "gloss": "它的",
+          "lemma": "its",
+          "surface": "its"
+        },
+        {
+          "gloss": "人民",
+          "lemma": "people",
+          "surface": "people"
+        }
+      ]
+    },
+    {
+      "cn_text": "文化大臣杰里米·赖特应欢迎这一充满希望的积极提议,并将其付诸行动。",
+      "en_text": "Jeremy Wright, the culture secretary, should welcome this positive hope-filled proposal, and turn it into action.",
+      "id": 2020013032,
+      "order_seq": "content_4_2",
+      "task_id": 202001002,
+      "tokens": [
+        {
+          "gloss": "杰里米",
+          "lemma": "jeremy",
+          "surface": "Jeremy"
+        },
+        {
+          "gloss": "赖特",
+          "lemma": "wright",
+          "surface": "Wright"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "文化",
+          "lemma": "culture",
+          "surface": "culture"
+        },
+        {
+          "gloss": "大臣",
+          "lemma": "secretary",
+          "surface": "secretary"
+        },
+        {
+          "gloss": "应该",
+          "lemma": "should",
+          "surface": "should"
+        },
+        {
+          "gloss": "欢迎",
+          "lemma": "welcome",
+          "surface": "welcome"
+        },
+        {
+          "gloss": "这一",
+          "lemma": "this",
+          "surface": "this"
+        },
+        {
+          "gloss": "积极的",
+          "lemma": "positive",
+          "surface": "positive"
+        },
+        {
+          "gloss": "希望",
+          "lemma": "hope",
+          "surface": "hope"
+        },
+        {
+          "gloss": "充满的",
+          "lemma": "fill",
+          "surface": "filled"
+        },
+        {
+          "gloss": "提议",
+          "lemma": "proposal",
+          "surface": "proposal"
+        },
+        {
+          "gloss": "并",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "使变成",
+          "lemma": "turn",
+          "surface": "turn"
+        },
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "it"
+        },
+        {
+          "gloss": "变成",
+          "lemma": "into",
+          "surface": "into"
+        },
+        {
+          "gloss": "行动",
+          "lemma": "action",
+          "surface": "action"
+        }
+      ]
+    },
+    {
+      "cn_text": "库珀及其同事认为,「文化小镇」奖可以____",
+      "en_text": "Cooper and her colleagues argue that a “town of culture” award could ____",
+      "id": 2020013033,
+      "order_seq": "question_2020011021_stem",
+      "task_id": 202001002,
+      "tokens": [
+        {
+          "gloss": "库珀",
+          "lemma": "cooper",
+          "surface": "Cooper"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "她的",
+          "lemma": "her",
+          "surface": "her"
+        },
+        {
+          "gloss": "同事",
+          "lemma": "colleague",
+          "surface": "colleagues"
+        },
+        {
+          "gloss": "认为",
+          "lemma": "argue",
+          "surface": "argue"
+        },
+        {
+          "gloss": "认为",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "小镇",
+          "lemma": "town",
+          "surface": "town"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "文化",
+          "lemma": "culture",
+          "surface": "culture"
+        },
+        {
+          "gloss": "奖",
+          "lemma": "award",
+          "surface": "award"
+        },
+        {
+          "gloss": "可以",
+          "lemma": "could",
+          "surface": "could"
+        }
+      ]
+    },
+    {
+      "cn_text": "巩固英国城镇与城市之间的联系。",
+      "en_text": "consolidate the town-city ties in Britain.",
+      "id": 2020013034,
+      "order_seq": "question_2020011021_A",
+      "task_id": 202001002,
+      "tokens": [
+        {
+          "gloss": "巩固",
+          "lemma": "consolidate",
+          "surface": "consolidate"
+        },
+        {
+          "gloss": "这些",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "城镇",
+          "lemma": "town",
+          "surface": "town"
+        },
+        {
+          "gloss": "城市",
+          "lemma": "city",
+          "surface": "city"
+        },
+        {
+          "gloss": "联系",
+          "lemma": "tie",
+          "surface": "ties"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "英国",
+          "lemma": "britain",
+          "surface": "Britain"
+        }
+      ]
+    },
+    {
+      "cn_text": "促进英国城镇之间的合作。",
+      "en_text": "promote cooperation among Britain’s towns.",
+      "id": 2020013035,
+      "order_seq": "question_2020011021_B",
+      "task_id": 202001002,
+      "tokens": [
+        {
+          "gloss": "促进",
+          "lemma": "promote",
+          "surface": "promote"
+        },
+        {
+          "gloss": "合作",
+          "lemma": "cooperation",
+          "surface": "cooperation"
+        },
+        {
+          "gloss": "在……之间",
+          "lemma": "among",
+          "surface": "among"
+        },
+        {
+          "gloss": "英国的",
+          "lemma": "britain’s",
+          "surface": "Britain’s"
+        },
+        {
+          "gloss": "城镇",
+          "lemma": "town",
+          "surface": "towns"
+        }
+      ]
+    },
+    {
+      "cn_text": "增强英国城镇的经济实力。",
+      "en_text": "increase the economic strength of Britain’s towns.",
+      "id": 2020013036,
+      "order_seq": "question_2020011021_C",
+      "task_id": 202001002,
+      "tokens": [
+        {
+          "gloss": "提升",
+          "lemma": "increase",
+          "surface": "increase"
+        },
+        {
+          "gloss": "这些",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "经济的",
+          "lemma": "economic",
+          "surface": "economic"
+        },
+        {
+          "gloss": "实力",
+          "lemma": "strength",
+          "surface": "strength"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "英国的",
+          "lemma": "britain’s",
+          "surface": "Britain’s"
+        },
+        {
+          "gloss": "城镇",
+          "lemma": "town",
+          "surface": "towns"
+        }
+      ]
+    },
+    {
+      "cn_text": "将英国有限的资源集中于文化活动。",
+      "en_text": "focus Britain’s limited resources on cultural events.",
+      "id": 2020013037,
+      "order_seq": "question_2020011021_D",
+      "task_id": 202001002,
+      "tokens": [
+        {
+          "gloss": "集中",
+          "lemma": "focus",
+          "surface": "focus"
+        },
+        {
+          "gloss": "英国的",
+          "lemma": "britain’s",
+          "surface": "Britain’s"
+        },
+        {
+          "gloss": "有限的",
+          "lemma": "limited",
+          "surface": "limited"
+        },
+        {
+          "gloss": "资源",
+          "lemma": "resource",
+          "surface": "resources"
+        },
+        {
+          "gloss": "于",
+          "lemma": "on",
+          "surface": "on"
+        },
+        {
+          "gloss": "文化的",
+          "lemma": "cultural",
+          "surface": "cultural"
+        },
+        {
+          "gloss": "活动",
+          "lemma": "event",
+          "surface": "events"
+        }
+      ]
+    },
+    {
+      "cn_text": "根据第二段,该提议可能会被一些人视为____",
+      "en_text": "According to Paragraph 2, the proposal might be regarded by some as ____",
+      "id": 2020013038,
+      "order_seq": "question_2020011022_stem",
+      "task_id": 202001002,
+      "tokens": [
+        {
+          "gloss": "根据",
+          "lemma": "according",
+          "surface": "According"
+        },
+        {
+          "gloss": "到",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "段落",
+          "lemma": "paragraph",
+          "surface": "Paragraph"
+        },
+        {
+          "gloss": "这一",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "提议",
+          "lemma": "proposal",
+          "surface": "proposal"
+        },
+        {
+          "gloss": "可能",
+          "lemma": "might",
+          "surface": "might"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "be"
+        },
+        {
+          "gloss": "视为",
+          "lemma": "regard",
+          "surface": "regarded"
+        },
+        {
+          "gloss": "被",
+          "lemma": "by",
+          "surface": "by"
+        },
+        {
+          "gloss": "一些",
+          "lemma": "some",
+          "surface": "some"
+        },
+        {
+          "gloss": "作为",
+          "lemma": "as",
+          "surface": "as"
+        }
+      ]
+    },
+    {
+      "cn_text": "一种明智的妥协。",
+      "en_text": "a sensible compromise.",
+      "id": 2020013039,
+      "order_seq": "question_2020011022_A",
+      "task_id": 202001002,
+      "tokens": [
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "明智的",
+          "lemma": "sensible",
+          "surface": "sensible"
+        },
+        {
+          "gloss": "妥协",
+          "lemma": "compromise",
+          "surface": "compromise"
+        }
+      ]
+    },
+    {
+      "cn_text": "一种自欺欺人的尝试。",
+      "en_text": "a self-deceiving attempt.",
+      "id": 2020013040,
+      "order_seq": "question_2020011022_B",
+      "task_id": 202001002,
+      "tokens": [
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "自我",
+          "lemma": "self",
+          "surface": "self"
+        },
+        {
+          "gloss": "欺骗的",
+          "lemma": "deceive",
+          "surface": "deceiving"
+        },
+        {
+          "gloss": "尝试",
+          "lemma": "attempt",
+          "surface": "attempt"
+        }
+      ]
+    },
+    {
+      "cn_text": "一种引人注目的额外奖赏。",
+      "en_text": "an eye-catching bonus.",
+      "id": 2020013041,
+      "order_seq": "question_2020011022_C",
+      "task_id": 202001002,
+      "tokens": [
+        {
+          "gloss": "一个",
+          "lemma": "an",
+          "surface": "an"
+        },
+        {
+          "gloss": "眼睛",
+          "lemma": "eye",
+          "surface": "eye"
+        },
+        {
+          "gloss": "吸引",
+          "lemma": "catch",
+          "surface": "catching"
+        },
+        {
+          "gloss": "奖励",
+          "lemma": "bonus",
+          "surface": "bonus"
+        }
+      ]
+    },
+    {
+      "cn_text": "一个难以企及的目标。",
+      "en_text": "an inaccessible target.",
+      "id": 2020013042,
+      "order_seq": "question_2020011022_D",
+      "task_id": 202001002,
+      "tokens": [
+        {
+          "gloss": "一个",
+          "lemma": "an",
+          "surface": "an"
+        },
+        {
+          "gloss": "难以企及的",
+          "lemma": "inaccessible",
+          "surface": "inaccessible"
+        },
+        {
+          "gloss": "目标",
+          "lemma": "target",
+          "surface": "target"
+        }
+      ]
+    },
+    {
+      "cn_text": "作者认为,头衔获得者只有在____时才算成功。",
+      "en_text": "The author suggests that a title holder is successful only if it ____",
+      "id": 2020013043,
+      "order_seq": "question_2020011023_stem",
+      "task_id": 202001002,
+      "tokens": [
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "The"
+        },
+        {
+          "gloss": "作者",
+          "lemma": "author",
+          "surface": "author"
+        },
+        {
+          "gloss": "建议",
+          "lemma": "suggest",
+          "surface": "suggests"
+        },
+        {
+          "gloss": "表明",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "头衔",
+          "lemma": "title",
+          "surface": "title"
+        },
+        {
+          "gloss": "持有者",
+          "lemma": "holder",
+          "surface": "holder"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "成功的",
+          "lemma": "successful",
+          "surface": "successful"
+        },
+        {
+          "gloss": "只有",
+          "lemma": "only",
+          "surface": "only"
+        },
+        {
+          "gloss": "如果",
+          "lemma": "if",
+          "surface": "if"
+        },
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "it"
+        }
+      ]
+    },
+    {
+      "cn_text": "努力维护其形象。",
+      "en_text": "endeavors to maintain its image.",
+      "id": 2020013044,
+      "order_seq": "question_2020011023_A",
+      "task_id": 202001002,
+      "tokens": [
+        {
+          "gloss": "努力",
+          "lemma": "endeavor",
+          "surface": "endeavors"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "维护",
+          "lemma": "maintain",
+          "surface": "maintain"
+        },
+        {
+          "gloss": "其",
+          "lemma": "its",
+          "surface": "its"
+        },
+        {
+          "gloss": "形象",
+          "lemma": "image",
+          "surface": "image"
+        }
+      ]
+    },
+    {
+      "cn_text": "满足其居民的愿景。",
+      "en_text": "meets the aspirations of its people.",
+      "id": 2020013045,
+      "order_seq": "question_2020011023_B",
+      "task_id": 202001002,
+      "tokens": [
+        {
+          "gloss": "满足",
+          "lemma": "meet",
+          "surface": "meets"
+        },
+        {
+          "gloss": "其",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "愿望",
+          "lemma": "aspiration",
+          "surface": "aspirations"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "其",
+          "lemma": "its",
+          "surface": "its"
+        },
+        {
+          "gloss": "人民",
+          "lemma": "people",
+          "surface": "people"
+        }
+      ]
+    },
+    {
+      "cn_text": "使其地方艺术获得突出地位。",
+      "en_text": "brings its local arts to prominence.",
+      "id": 2020013046,
+      "order_seq": "question_2020011023_C",
+      "task_id": 202001002,
+      "tokens": [
+        {
+          "gloss": "使",
+          "lemma": "bring",
+          "surface": "brings"
+        },
+        {
+          "gloss": "其",
+          "lemma": "its",
+          "surface": "its"
+        },
+        {
+          "gloss": "地方的",
+          "lemma": "local",
+          "surface": "local"
+        },
+        {
+          "gloss": "艺术",
+          "lemma": "art",
+          "surface": "arts"
+        },
+        {
+          "gloss": "到",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "突出",
+          "lemma": "prominence",
+          "surface": "prominence"
+        }
+      ]
+    },
+    {
+      "cn_text": "致力于其长期发展。",
+      "en_text": "commits to its long-term growth.",
+      "id": 2020013047,
+      "order_seq": "question_2020011023_D",
+      "task_id": 202001002,
+      "tokens": [
+        {
+          "gloss": "致力于",
+          "lemma": "commit",
+          "surface": "commits"
+        },
+        {
+          "gloss": "于",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "其",
+          "lemma": "its",
+          "surface": "its"
+        },
+        {
+          "gloss": "长的",
+          "lemma": "long",
+          "surface": "long"
+        },
+        {
+          "gloss": "期限",
+          "lemma": "term",
+          "surface": "term"
+        },
+        {
+          "gloss": "发展",
+          "lemma": "growth",
+          "surface": "growth"
+        }
+      ]
+    },
+    {
+      "cn_text": "第三段提到格拉斯哥是为了呈现____",
+      "en_text": "Glasgow is mentioned in Paragraph 3 to present ____",
+      "id": 2020013048,
+      "order_seq": "question_2020011024_stem",
+      "task_id": 202001002,
+      "tokens": [
+        {
+          "gloss": "格拉斯哥",
+          "lemma": "glasgow",
+          "surface": "Glasgow"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "提到",
+          "lemma": "mention",
+          "surface": "mentioned"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "段落",
+          "lemma": "paragraph",
+          "surface": "Paragraph"
+        },
+        {
+          "gloss": "为了",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "呈现",
+          "lemma": "present",
+          "surface": "present"
+        }
+      ]
+    },
+    {
+      "cn_text": "一个对比案例。",
+      "en_text": "a contrasting case.",
+      "id": 2020013049,
+      "order_seq": "question_2020011024_A",
+      "task_id": 202001002,
+      "tokens": [
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "对比的",
+          "lemma": "contrast",
+          "surface": "contrasting"
+        },
+        {
+          "gloss": "案例",
+          "lemma": "case",
+          "surface": "case"
+        }
+      ]
+    },
+    {
+      "cn_text": "一个支持性例证。",
+      "en_text": "a supporting example.",
+      "id": 2020013050,
+      "order_seq": "question_2020011024_B",
+      "task_id": 202001002,
+      "tokens": [
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "支持的",
+          "lemma": "support",
+          "surface": "supporting"
+        },
+        {
+          "gloss": "例子",
+          "lemma": "example",
+          "surface": "example"
+        }
+      ]
+    },
+    {
+      "cn_text": "一个背景故事。",
+      "en_text": "a background story.",
+      "id": 2020013051,
+      "order_seq": "question_2020011024_C",
+      "task_id": 202001002,
+      "tokens": [
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "背景",
+          "lemma": "background",
+          "surface": "background"
+        },
+        {
+          "gloss": "故事",
+          "lemma": "story",
+          "surface": "story"
+        }
+      ]
+    },
+    {
+      "cn_text": "一个相关话题。",
+      "en_text": "a related topic.",
+      "id": 2020013052,
+      "order_seq": "question_2020011024_D",
+      "task_id": 202001002,
+      "tokens": [
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "相关的",
+          "lemma": "relate",
+          "surface": "related"
+        },
+        {
+          "gloss": "话题",
+          "lemma": "topic",
+          "surface": "topic"
+        }
+      ]
+    },
+    {
+      "cn_text": "作者对该提议持何态度?",
+      "en_text": "What is the author’s attitude towards the proposal?",
+      "id": 2020013053,
+      "order_seq": "question_2020011025_stem",
+      "task_id": 202001002,
+      "tokens": [
+        {
+          "gloss": "什么",
+          "lemma": "what",
+          "surface": "What"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "作者的",
+          "lemma": "author",
+          "surface": "author’s"
+        },
+        {
+          "gloss": "态度",
+          "lemma": "attitude",
+          "surface": "attitude"
+        },
+        {
+          "gloss": "对",
+          "lemma": "towards",
+          "surface": "towards"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "提案",
+          "lemma": "proposal",
+          "surface": "proposal"
+        }
+      ]
+    },
+    {
+      "cn_text": "怀疑的。",
+      "en_text": "Skeptical.",
+      "id": 2020013054,
+      "order_seq": "question_2020011025_A",
+      "task_id": 202001002,
+      "tokens": [
+        {
+          "gloss": "怀疑的",
+          "lemma": "skeptical",
+          "surface": "Skeptical"
+        }
+      ]
+    },
+    {
+      "cn_text": "客观的。",
+      "en_text": "Objective.",
+      "id": 2020013055,
+      "order_seq": "question_2020011025_B",
+      "task_id": 202001002,
+      "tokens": [
+        {
+          "gloss": "客观的",
+          "lemma": "objective",
+          "surface": "Objective"
+        }
+      ]
+    },
+    {
+      "cn_text": "赞成的。",
+      "en_text": "Favorable.",
+      "id": 2020013056,
+      "order_seq": "question_2020011025_C",
+      "task_id": 202001002,
+      "tokens": [
+        {
+          "gloss": "有利的",
+          "lemma": "favorable",
+          "surface": "Favorable"
+        }
+      ]
+    },
+    {
+      "cn_text": "批评的。",
+      "en_text": "Critical.",
+      "id": 2020013057,
+      "order_seq": "question_2020011025_D",
+      "task_id": 202001002,
+      "tokens": [
+        {
+          "gloss": "批评的",
+          "lemma": "critical",
+          "surface": "Critical"
+        }
+      ]
+    }
+  ],
+  "success": true
+}

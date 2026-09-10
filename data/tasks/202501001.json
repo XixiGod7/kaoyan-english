@@ -1,0 +1,1763 @@
+{
+  "tasks": [
+    {
+      "content_json": {
+        "1": {
+          "A": "relevant",
+          "B": "prone",
+          "C": "available",
+          "D": "alien",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "relevant",
+                "surface": "relevant"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "prone",
+                "surface": "prone"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "available",
+                "surface": "available"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "alien",
+                "surface": "alien"
+              }
+            ]
+          },
+          "replace": {
+            "end": 36,
+            "start": 31
+          },
+          "sentence_id": 2025013002
+        },
+        "2": {
+          "A": "accidentally",
+          "B": "frequently",
+          "C": "gradually",
+          "D": "temporarily",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "accidentally",
+                "surface": "accidentally"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "frequent",
+                "surface": "frequently"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "gradual",
+                "surface": "gradually"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "temporary",
+                "surface": "temporarily"
+              }
+            ]
+          },
+          "replace": {
+            "end": 100,
+            "start": 91
+          },
+          "sentence_id": 2025013002
+        },
+        "3": {
+          "A": "disguised",
+          "B": "submerged",
+          "C": "relocated",
+          "D": "isolated",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "disguise",
+                "surface": "disguised"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "submerge",
+                "surface": "submerged"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "relocate",
+                "surface": "relocated"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "isolate",
+                "surface": "isolated"
+              }
+            ]
+          },
+          "replace": {
+            "end": 54,
+            "start": 45
+          },
+          "sentence_id": 2025013003
+        },
+        "4": {
+          "A": "legends",
+          "B": "programs",
+          "C": "remains",
+          "D": "surroundings",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "legend",
+                "surface": "legends"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "program",
+                "surface": "programs"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "remain",
+                "surface": "remains"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "surround",
+                "surface": "surroundings"
+              }
+            ]
+          },
+          "replace": {
+            "end": 33,
+            "start": 26
+          },
+          "sentence_id": 2025013004
+        },
+        "5": {
+          "A": "across",
+          "B": "off",
+          "C": "under",
+          "D": "via",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "across",
+                "surface": "across"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "off",
+                "surface": "off"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "under",
+                "surface": "under"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "via",
+                "surface": "via"
+              }
+            ]
+          },
+          "replace": {
+            "end": 46,
+            "start": 43
+          },
+          "sentence_id": 2025013005
+        },
+        "6": {
+          "A": "currents",
+          "B": "rivers",
+          "C": "seasons",
+          "D": "winds",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "current",
+                "surface": "currents"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "river",
+                "surface": "rivers"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "season",
+                "surface": "seasons"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "wind",
+                "surface": "winds"
+              }
+            ]
+          },
+          "replace": {
+            "end": 36,
+            "start": 28
+          },
+          "sentence_id": 2025013006
+        },
+        "7": {
+          "A": "elevated",
+          "B": "separated",
+          "C": "comprised",
+          "D": "protected",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "elevate",
+                "surface": "elevated"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "separate",
+                "surface": "separated"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "comprise",
+                "surface": "comprised"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "protect",
+                "surface": "protected"
+              }
+            ]
+          },
+          "replace": {
+            "end": 100,
+            "start": 91
+          },
+          "sentence_id": 2025013006
+        },
+        "8": {
+          "A": "gathering",
+          "B": "restoring",
+          "C": "updating",
+          "D": "supplying",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "gather",
+                "surface": "gathering"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "restore",
+                "surface": "restoring"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "update",
+                "surface": "updating"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "supply",
+                "surface": "supplying"
+              }
+            ]
+          },
+          "replace": {
+            "end": 69,
+            "start": 60
+          },
+          "sentence_id": 2025013007
+        },
+        "9": {
+          "A": "when",
+          "B": "until",
+          "C": "after",
+          "D": "once",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "when",
+                "surface": "when"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "until",
+                "surface": "until"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "after",
+                "surface": "after"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "once",
+                "surface": "once"
+              }
+            ]
+          },
+          "replace": {
+            "end": 112,
+            "start": 108
+          },
+          "sentence_id": 2025013007
+        },
+        "10": {
+          "A": "belongings",
+          "B": "resources",
+          "C": "products",
+          "D": "structures",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "belong",
+                "surface": "belongings"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "resource",
+                "surface": "resources"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "product",
+                "surface": "products"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "structure",
+                "surface": "structures"
+              }
+            ]
+          },
+          "replace": {
+            "end": 188,
+            "start": 178
+          },
+          "sentence_id": 2025013007
+        },
+        "11": {
+          "A": "preserve",
+          "B": "select",
+          "C": "display",
+          "D": "examine",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "preserve",
+                "surface": "preserve"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "select",
+                "surface": "select"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "display",
+                "surface": "display"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "examine",
+                "surface": "examine"
+              }
+            ]
+          },
+          "replace": {
+            "end": 56,
+            "start": 49
+          },
+          "sentence_id": 2025013008
+        },
+        "12": {
+          "A": "Despite",
+          "B": "Unlike",
+          "C": "Besides",
+          "D": "Among",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "despite",
+                "surface": "Despite"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "unlike",
+                "surface": "Unlike"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "besides",
+                "surface": "Besides"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "among",
+                "surface": "Among"
+              }
+            ]
+          },
+          "replace": {
+            "end": 7,
+            "start": 0
+          },
+          "sentence_id": 2025013010
+        },
+        "13": {
+          "A": "unchallenged",
+          "B": "unknown",
+          "C": "unorganized",
+          "D": "undisturbed",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "unchallenged",
+                "surface": "unchallenged"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "unknown",
+                "surface": "unknown"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "unorganized",
+                "surface": "unorganized"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "undisturbed",
+                "surface": "undisturbed"
+              }
+            ]
+          },
+          "replace": {
+            "end": 66,
+            "start": 55
+          },
+          "sentence_id": 2025013010
+        },
+        "14": {
+          "A": "suspended",
+          "B": "transferred",
+          "C": "resumed",
+          "D": "canceled",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "suspend",
+                "surface": "suspended"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "transfer",
+                "surface": "transferred"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "resume",
+                "surface": "resumed"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "cancel",
+                "surface": "canceled"
+              }
+            ]
+          },
+          "replace": {
+            "end": 66,
+            "start": 59
+          },
+          "sentence_id": 2025013011
+        },
+        "15": {
+          "A": "policies",
+          "B": "theories",
+          "C": "documents",
+          "D": "techniques",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "policy",
+                "surface": "policies"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "theory",
+                "surface": "theories"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "document",
+                "surface": "documents"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "technique",
+                "surface": "techniques"
+              }
+            ]
+          },
+          "replace": {
+            "end": 50,
+            "start": 40
+          },
+          "sentence_id": 2025013012
+        },
+        "16": {
+          "A": "ordered",
+          "B": "provided",
+          "C": "employed",
+          "D": "adjusted",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "order",
+                "surface": "ordered"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "provide",
+                "surface": "provided"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "employ",
+                "surface": "employed"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "adjust",
+                "surface": "adjusted"
+              }
+            ]
+          },
+          "replace": {
+            "end": 17,
+            "start": 9
+          },
+          "sentence_id": 2025013013
+        },
+        "17": {
+          "A": "effect",
+          "B": "light",
+          "C": "reality",
+          "D": "mind",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "effect",
+                "surface": "effect"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "light",
+                "surface": "light"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "reality",
+                "surface": "reality"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "mind",
+                "surface": "mind"
+              }
+            ]
+          },
+          "replace": {
+            "end": 70,
+            "start": 65
+          },
+          "sentence_id": 2025013014
+        },
+        "18": {
+          "A": "crossed",
+          "B": "connected",
+          "C": "blocked",
+          "D": "altered",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "cross",
+                "surface": "crossed"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "connect",
+                "surface": "connected"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "block",
+                "surface": "blocked"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "alter",
+                "surface": "altered"
+              }
+            ]
+          },
+          "replace": {
+            "end": 76,
+            "start": 67
+          },
+          "sentence_id": 2025013015
+        },
+        "19": {
+          "A": "expecting",
+          "B": "suggesting",
+          "C": "predicting",
+          "D": "recalling",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "expect",
+                "surface": "expecting"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "suggest",
+                "surface": "suggesting"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "predict",
+                "surface": "predicting"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "recall",
+                "surface": "recalling"
+              }
+            ]
+          },
+          "replace": {
+            "end": 76,
+            "start": 66
+          },
+          "sentence_id": 2025013016
+        },
+        "20": {
+          "A": "robust",
+          "B": "diverse",
+          "C": "marginal",
+          "D": "dependent",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "robust",
+                "surface": "robust"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "diverse",
+                "surface": "diverse"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "marginal",
+                "surface": "marginal"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "dependent",
+                "surface": "dependent"
+              }
+            ]
+          },
+          "replace": {
+            "end": 129,
+            "start": 123
+          },
+          "sentence_id": 2025013016
+        },
+        "article": "Located in the southern Peloponnesian peninsula, Pavlopetri (the modern name of the site) emerged as a Neolithic settlement around 3500 B.C.\nThis area of the Aegean Sea is prone to earthquakes and tsunamis, which caused the city to gradually sink.\nThe slow sea level rise in the Mediterranean submerged the city more than 3,000 years ago.\nFor millennia, the city’s remains lay unseen below some 13 feet of water.\nThey were covered by a thick layer of sand off the island of Laconia.\nIn recent decades, shifting currents and climate change have eroded a natural barrier that protected Pavlopetri.\nIn 1967, a scientific survey of the Peloponnesian coast was gathering data to analyze changes in sea levels when British oceanographer Nicholas Flemming first spotted the sunken structures.\nA year later, he returned with a few students to examine the location and map the site.\nThe team identified some 15 buildings, courtyards, a network of streets, and two chamber tombs.\nDespite the exciting initial finds, the site would lie undisturbed for decades before archaeologists would return.\nIn 2009 archaeologists Chrysanthi Gallon and Jon Henderson resumed excavation of Pavlopetri in cooperation with the Greek Ministry of Culture.\nSince the 1960s, underwater archaeology techniques and tools had made huge advances.\nThe team employed robotics, sonar mapping, and state-of-the-art graphics to survey the site.\nFrom 2009 to 2013 they were able to bring the underwater town to light.\nCovering about two and a half acres, Pavlopetri’s three main roads connected some 50 rectangular buildings, all of which had open courtyards.\nExcavations revealed a large number of Minoan-style loom weights, suggesting Pavlopetri was a thriving trade center with a robust textile industry.",
+        "blanks": [
+          {
+            "blank_no": 1,
+            "replace": {
+              "end": 36,
+              "start": 31
+            },
+            "sentence_id": 2025013002
+          },
+          {
+            "blank_no": 2,
+            "replace": {
+              "end": 100,
+              "start": 91
+            },
+            "sentence_id": 2025013002
+          },
+          {
+            "blank_no": 3,
+            "replace": {
+              "end": 54,
+              "start": 45
+            },
+            "sentence_id": 2025013003
+          },
+          {
+            "blank_no": 4,
+            "replace": {
+              "end": 33,
+              "start": 26
+            },
+            "sentence_id": 2025013004
+          },
+          {
+            "blank_no": 5,
+            "replace": {
+              "end": 46,
+              "start": 43
+            },
+            "sentence_id": 2025013005
+          },
+          {
+            "blank_no": 6,
+            "replace": {
+              "end": 36,
+              "start": 28
+            },
+            "sentence_id": 2025013006
+          },
+          {
+            "blank_no": 7,
+            "replace": {
+              "end": 100,
+              "start": 91
+            },
+            "sentence_id": 2025013006
+          },
+          {
+            "blank_no": 8,
+            "replace": {
+              "end": 69,
+              "start": 60
+            },
+            "sentence_id": 2025013007
+          },
+          {
+            "blank_no": 9,
+            "replace": {
+              "end": 112,
+              "start": 108
+            },
+            "sentence_id": 2025013007
+          },
+          {
+            "blank_no": 10,
+            "replace": {
+              "end": 188,
+              "start": 178
+            },
+            "sentence_id": 2025013007
+          },
+          {
+            "blank_no": 11,
+            "replace": {
+              "end": 56,
+              "start": 49
+            },
+            "sentence_id": 2025013008
+          },
+          {
+            "blank_no": 12,
+            "replace": {
+              "end": 7,
+              "start": 0
+            },
+            "sentence_id": 2025013010
+          },
+          {
+            "blank_no": 13,
+            "replace": {
+              "end": 66,
+              "start": 55
+            },
+            "sentence_id": 2025013010
+          },
+          {
+            "blank_no": 14,
+            "replace": {
+              "end": 66,
+              "start": 59
+            },
+            "sentence_id": 2025013011
+          },
+          {
+            "blank_no": 15,
+            "replace": {
+              "end": 50,
+              "start": 40
+            },
+            "sentence_id": 2025013012
+          },
+          {
+            "blank_no": 16,
+            "replace": {
+              "end": 17,
+              "start": 9
+            },
+            "sentence_id": 2025013013
+          },
+          {
+            "blank_no": 17,
+            "replace": {
+              "end": 70,
+              "start": 65
+            },
+            "sentence_id": 2025013014
+          },
+          {
+            "blank_no": 18,
+            "replace": {
+              "end": 76,
+              "start": 67
+            },
+            "sentence_id": 2025013015
+          },
+          {
+            "blank_no": 19,
+            "replace": {
+              "end": 76,
+              "start": 66
+            },
+            "sentence_id": 2025013016
+          },
+          {
+            "blank_no": 20,
+            "replace": {
+              "end": 129,
+              "start": 123
+            },
+            "sentence_id": 2025013016
+          }
+        ],
+        "questions": [
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，爱琴海地区因地震和海啸而导致城市沉没，表明该地区容易发生这些自然灾害，因此选择 B（prone）最为合适。\nA. relevant（相关的）不符合语境，因为这里强调的是自然灾害的频发性，而不是相关性。\nB. prone（容易...的）符合语境，表明该地区容易发生地震和海啸。\nC. available（可用的）不符合语境，因为自然灾害无法用“可用”来描述。\nD. alien（陌生的）不符合语境，因为自然灾害并非陌生事物。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "B",
+            "id": 1,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "relevant",
+                  "surface": "relevant"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "prone",
+                  "surface": "prone"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "available",
+                  "surface": "available"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "alien",
+                  "surface": "alien"
+                }
+              ]
+            },
+            "options": [
+              "A) relevant",
+              "B) prone",
+              "C) available",
+              "D) alien"
+            ],
+            "qid": 2025011001,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，城市因自然灾害逐渐沉没，因此选择 C（gradually）最为合适。\nA. accidentally（偶然地）不符合语境，因为沉没是自然灾害引起的，而非偶然事件。\nB. frequently（频繁地）不符合语境，因为这里强调的是沉没过程的渐进性，而非频率。\nC. gradually（逐渐地）符合语境，表明城市因自然灾害逐渐沉没。\nD. temporarily（暂时地）不符合语境，因为沉没是永久性的，而非暂时的。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "C",
+            "id": 2,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "accidentally",
+                  "surface": "accidentally"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "frequent",
+                  "surface": "frequently"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "gradual",
+                  "surface": "gradually"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "temporary",
+                  "surface": "temporarily"
+                }
+              ]
+            },
+            "options": [
+              "A) accidentally",
+              "B) frequently",
+              "C) gradually",
+              "D) temporarily"
+            ],
+            "qid": 2025011002,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，句子描述的是地中海海平面上升导致城市被淹没，因此选项 B 'submerged'（淹没）最符合语境。\nA. 选项 A 'disguised'（伪装）与语境不符，因为这里描述的是城市被淹没，而非被伪装。\nB. 选项 B 'submerged'（淹没）符合语境，描述了城市因海平面上升而被水覆盖。\nC. 选项 C 'relocated'（迁移）不符合语境，因为城市并未被迁移，而是被淹没。\nD. 选项 D 'isolated'（隔离）不符合语境，因为这里并未提到城市被隔离，而是被淹没。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "B",
+            "id": 3,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "disguise",
+                  "surface": "disguised"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "submerge",
+                  "surface": "submerged"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "relocate",
+                  "surface": "relocated"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "isolate",
+                  "surface": "isolated"
+                }
+              ]
+            },
+            "options": [
+              "A) disguised",
+              "B) submerged",
+              "C) relocated",
+              "D) isolated"
+            ],
+            "qid": 2025011003,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，句子描述的是城市的遗迹，因此选项 C 'remains'（遗迹）最符合语境。\nA. 选项 A 'legends'（传说）不符合语境，因为这里描述的是城市的遗迹，而非传说。\nB. 选项 B 'programs'（项目）与语境不符，因为这里并未提到任何项目。\nC. 选项 C 'remains'（遗迹）符合语境，描述了城市的遗迹。\nD. 选项 D 'surroundings'（周围环境）不符合语境，因为这里强调的是遗迹，而非周围环境。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "C",
+            "id": 4,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "legend",
+                  "surface": "legends"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "program",
+                  "surface": "programs"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "remain",
+                  "surface": "remains"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "surround",
+                  "surface": "surroundings"
+                }
+              ]
+            },
+            "options": [
+              "A) legends",
+              "B) programs",
+              "C) remains",
+              "D) surroundings"
+            ],
+            "qid": 2025011004,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "结合上下文，句子描述的是沙子覆盖的位置，选项 B 'off' 表示“在...附近”，与地理位置相关，最为合适。\nA. 选项 A 'across' 表示“穿过”，不符合句子中描述的沙子覆盖位置的含义。\nB. 选项 B 'off' 表示“在...附近”，符合句子中沙子覆盖在拉科尼亚岛附近的意思，因此最为合适。\nC. 选项 C 'under' 表示“在...下面”，与句子中描述的沙子覆盖的地理位置不符。\nD. 选项 D 'via' 表示“通过”，不适用于描述地理位置的语境。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "B",
+            "id": 5,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "across",
+                  "surface": "across"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "off",
+                  "surface": "off"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "under",
+                  "surface": "under"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "via",
+                  "surface": "via"
+                }
+              ]
+            },
+            "options": [
+              "A) across",
+              "B) off",
+              "C) under",
+              "D) via"
+            ],
+            "qid": 2025011005,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "句子描述的是洋流和气候变化对屏障的影响，选项 A 'currents' 表示洋流，与上下文最为契合。\nA. 选项 A 'currents' 表示洋流，与气候变化一起对屏障造成侵蚀，符合句子语境。\nB. 选项 B 'rivers' 表示河流，但句子中描述的是海洋环境，因此不合适。\nC. 选项 C 'seasons' 表示季节，与句子中描述的洋流和气候变化无关。\nD. 选项 D 'winds' 表示风，虽然与自然环境相关，但不如洋流更贴合语境。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "A",
+            "id": 6,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "current",
+                  "surface": "currents"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "river",
+                  "surface": "rivers"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "season",
+                  "surface": "seasons"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "wind",
+                  "surface": "winds"
+                }
+              ]
+            },
+            "options": [
+              "A) currents",
+              "B) rivers",
+              "C) seasons",
+              "D) winds"
+            ],
+            "qid": 2025011006,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "句子描述的是屏障的功能，选项 D 'protected' 表示保护，与屏障的作用最为契合。\nA. 选项 A 'elevated' 表示提升，与屏障的保护功能不符。\nB. 选项 B 'separated' 表示分离，与屏障的功能不符。\nC. 选项 C 'comprised' 表示包含，与屏障的保护作用无关。\nD. 选项 D 'protected' 表示保护，符合屏障的作用，因此最为合适。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "D",
+            "id": 7,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "elevate",
+                  "surface": "elevated"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "separate",
+                  "surface": "separated"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "comprise",
+                  "surface": "comprised"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "protect",
+                  "surface": "protected"
+                }
+              ]
+            },
+            "options": [
+              "A) elevated",
+              "B) separated",
+              "C) comprised",
+              "D) protected"
+            ],
+            "qid": 2025011007,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "句子描述的是科学调查正在进行数据收集，选项 A 'gathering' 表示收集，与语境最为契合。\nA. 选项 A 'gathering' 表示收集，与科学调查的目的相符，因此最为合适。\nB. 选项 B 'restoring' 表示恢复，与数据收集的语境不符。\nC. 选项 C 'updating' 表示更新，与科学调查的目的不符。\nD. 选项 D 'supplying' 表示提供，与数据收集的语境不符。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "A",
+            "id": 8,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "gather",
+                  "surface": "gathering"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "restore",
+                  "surface": "restoring"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "update",
+                  "surface": "updating"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "supply",
+                  "surface": "supplying"
+                }
+              ]
+            },
+            "options": [
+              "A) gathering",
+              "B) restoring",
+              "C) updating",
+              "D) supplying"
+            ],
+            "qid": 2025011008,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "句子描述的是科学调查正在进行时，弗莱明首次发现了沉没的结构，选项 A 'when' 表示时间关系，与语境最为契合。\nA. 选项 A 'when' 表示时间关系，符合句子中描述的科学调查和发现之间的时间关联。\nB. 选项 B 'until' 表示直到，与句子中描述的时间关系不符。\nC. 选项 C 'after' 表示在...之后，与句子中描述的同时发生的事件不符。\nD. 选项 D 'once' 表示一旦，与句子中描述的时间关系不符。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "A",
+            "id": 9,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "when",
+                  "surface": "when"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "until",
+                  "surface": "until"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "after",
+                  "surface": "after"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "once",
+                  "surface": "once"
+                }
+              ]
+            },
+            "options": [
+              "A) when",
+              "B) until",
+              "C) after",
+              "D) once"
+            ],
+            "qid": 2025011009,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "句子描述的是弗莱明发现了沉没的结构，选项 D 'structures' 表示结构，与语境最为契合。\nA. 选项 A 'belongings' 表示财物，与沉没的结构不符。\nB. 选项 B 'resources' 表示资源，与沉没的结构不符。\nC. 选项 C 'products' 表示产品，与沉没的结构不符。\nD. 选项 D 'structures' 表示结构，符合句子中描述的发现内容，因此最为合适。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "D",
+            "id": 10,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "belong",
+                  "surface": "belongings"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "resource",
+                  "surface": "resources"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "product",
+                  "surface": "products"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "structure",
+                  "surface": "structures"
+                }
+              ]
+            },
+            "options": [
+              "A) belongings",
+              "B) resources",
+              "C) products",
+              "D) structures"
+            ],
+            "qid": 2025011010,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "句子描述的是返回后检查地点并绘制地图，选项 D 'examine' 表示检查，与语境最为契合。\nA. 选项 A 'preserve' 表示保存，与句子中描述的检查地点不符。\nB. 选项 B 'select' 表示选择，与句子中描述的检查地点不符。\nC. 选项 C 'display' 表示展示，与句子中描述的检查地点不符。\nD. 选项 D 'examine' 表示检查，符合句子中描述的行动，因此最为合适。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "D",
+            "id": 11,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "preserve",
+                  "surface": "preserve"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "select",
+                  "surface": "select"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "display",
+                  "surface": "display"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "examine",
+                  "surface": "examine"
+                }
+              ]
+            },
+            "options": [
+              "A) preserve",
+              "B) select",
+              "C) display",
+              "D) examine"
+            ],
+            "qid": 2025011011,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "‘Despite’是最佳选择，因为它表明了令人兴奋的初步发现与该遗址几十年来保持未受干扰之间的对比。\nA. ‘Despite’引入了对比，符合句子中令人兴奋的发现与遗址未受干扰之间的语境。\nB. ‘Unlike’表示比较，但句子并未将遗址与其他事物进行比较。\nC. ‘Besides’表示补充，这与句子需要的对比不符。\nD. ‘Among’表示在某个群体中，这与句子语境无关。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "A",
+            "id": 12,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "despite",
+                  "surface": "Despite"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "unlike",
+                  "surface": "Unlike"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "besides",
+                  "surface": "Besides"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "among",
+                  "surface": "Among"
+                }
+              ]
+            },
+            "options": [
+              "A) Despite",
+              "B) Unlike",
+              "C) Besides",
+              "D) Among"
+            ],
+            "qid": 2025011012,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "‘Undisturbed’是最佳选择，因为它符合遗址几十年来保持未受干扰的意思。\nA. ‘Unchallenged’表示没有反对，这与遗址未受干扰的语境无关。\nB. ‘Unknown’表示未知，但遗址已经被发现。\nC. ‘Unorganized’表示混乱，这与遗址未受干扰的语境不符。\nD. ‘Undisturbed’符合语境，描述了遗址几十年来保持未受干扰的状态。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "D",
+            "id": 13,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "unchallenged",
+                  "surface": "unchallenged"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "unknown",
+                  "surface": "unknown"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "unorganized",
+                  "surface": "unorganized"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "undisturbed",
+                  "surface": "undisturbed"
+                }
+              ]
+            },
+            "options": [
+              "A) unchallenged",
+              "B) unknown",
+              "C) unorganized",
+              "D) undisturbed"
+            ],
+            "qid": 2025011013,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "‘Resumed’是最佳选择，因为它表示暂停后继续挖掘，符合句子语境。\nA. ‘Suspended’表示暂时停止，与继续挖掘的意思相矛盾。\nB. ‘Transferred’表示转移，与语境不符。\nC. ‘Resumed’正确表达了暂停后重新开始挖掘的意思。\nD. ‘Canceled’表示永久停止，与句子语境不符。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "C",
+            "id": 14,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "suspend",
+                  "surface": "suspended"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "transfer",
+                  "surface": "transferred"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "resume",
+                  "surface": "resumed"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "cancel",
+                  "surface": "canceled"
+                }
+              ]
+            },
+            "options": [
+              "A) suspended",
+              "B) transferred",
+              "C) resumed",
+              "D) canceled"
+            ],
+            "qid": 2025011014,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "‘Techniques’是最佳选择，因为它指的是方法或技能，符合水下考古技术进步的语境。\nA. ‘Policies’指规则或指导方针，与技术进步的语境不符。\nB. ‘Theories’指理论或假设，与提到的工具和方法无关。\nC. ‘Documents’指书面记录，与技术和工具的语境无关。\nD. ‘Techniques’正确指代了水下考古中使用的方法和技能。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "D",
+            "id": 15,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "policy",
+                  "surface": "policies"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "theory",
+                  "surface": "theories"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "document",
+                  "surface": "documents"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "technique",
+                  "surface": "techniques"
+                }
+              ]
+            },
+            "options": [
+              "A) policies",
+              "B) theories",
+              "C) documents",
+              "D) techniques"
+            ],
+            "qid": 2025011015,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，句子描述的是团队使用了先进技术来勘测遗址，选项中最符合语境的是“employed”，表示使用某种工具或技术。\nA. “ordered”意为“命令”，与语境不符，因为句子强调的是团队使用技术，而非下达命令。\nB. “provided”意为“提供”，与语境不符，因为句子强调的是团队使用技术，而非提供技术。\nC. “employed”意为“使用”，与语境完全匹配，描述了团队如何使用先进技术来勘测遗址。\nD. “adjusted”意为“调整”，与语境不符，因为句子强调的是使用技术，而非调整技术。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "C",
+            "id": 16,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "order",
+                  "surface": "ordered"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "provide",
+                  "surface": "provided"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "employ",
+                  "surface": "employed"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "adjust",
+                  "surface": "adjusted"
+                }
+              ]
+            },
+            "options": [
+              "A) ordered",
+              "B) provided",
+              "C) employed",
+              "D) adjusted"
+            ],
+            "qid": 2025011016,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，句子描述的是团队使水下城市重见天日，选项中最符合语境的是“light”，表示揭示或使某物显现。\nA. “effect”意为“效果”，与语境不符，因为句子强调的是揭示水下城市，而非产生效果。\nB. “light”意为“光明”，与语境完全匹配，表示使水下城市显现出来。\nC. “reality”意为“现实”，与语境不符，因为句子强调的是揭示水下城市，而非使其成为现实。\nD. “mind”意为“思想”，与语境不符，因为句子强调的是揭示水下城市，而非与思想相关。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "B",
+            "id": 17,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "effect",
+                  "surface": "effect"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "light",
+                  "surface": "light"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "reality",
+                  "surface": "reality"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "mind",
+                  "surface": "mind"
+                }
+              ]
+            },
+            "options": [
+              "A) effect",
+              "B) light",
+              "C) reality",
+              "D) mind"
+            ],
+            "qid": 2025011017,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，句子描述的是三条主要道路连接了建筑，选项中最符合语境的是“connected”，表示连接。\nA. “crossed”意为“穿过”，与语境不符，因为句子强调的是道路连接建筑，而非穿过建筑。\nB. “connected”意为“连接”，与语境完全匹配，描述了道路如何连接建筑。\nC. “blocked”意为“阻挡”，与语境不符，因为句子强调的是连接，而非阻挡。\nD. “altered”意为“改变”，与语境不符，因为句子强调的是连接，而非改变。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "B",
+            "id": 18,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "cross",
+                  "surface": "crossed"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "connect",
+                  "surface": "connected"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "block",
+                  "surface": "blocked"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "alter",
+                  "surface": "altered"
+                }
+              ]
+            },
+            "options": [
+              "A) crossed",
+              "B) connected",
+              "C) blocked",
+              "D) altered"
+            ],
+            "qid": 2025011018,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，句子描述的是挖掘结果表明帕夫洛佩特里是一个繁荣的贸易中心，选项中最符合语境的是“suggesting”，表示表明或暗示。\nA. “expecting”意为“期待”，与语境不符，因为句子强调的是表明，而非期待。\nB. “suggesting”意为“表明”，与语境完全匹配，描述了挖掘结果的意义。\nC. “predicting”意为“预测”，与语境不符，因为句子强调的是表明，而非预测。\nD. “recalling”意为“回忆”，与语境不符，因为句子强调的是表明，而非回忆。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "B",
+            "id": 19,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "expect",
+                  "surface": "expecting"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "suggest",
+                  "surface": "suggesting"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "predict",
+                  "surface": "predicting"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "recall",
+                  "surface": "recalling"
+                }
+              ]
+            },
+            "options": [
+              "A) expecting",
+              "B) suggesting",
+              "C) predicting",
+              "D) recalling"
+            ],
+            "qid": 2025011019,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，句子描述的是帕夫洛佩特里拥有强大的纺织工业，选项中最符合语境的是“robust”，表示强大的。\nA. “robust”意为“强大的”，与语境完全匹配，描述了纺织工业的繁荣。\nB. “diverse”意为“多样的”，与语境不符，因为句子强调的是强大，而非多样性。\nC. “marginal”意为“边缘的”，与语境不符，因为句子强调的是强大，而非边缘化。\nD. “dependent”意为“依赖的”，与语境不符，因为句子强调的是强大，而非依赖性。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "A",
+            "id": 20,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "robust",
+                  "surface": "robust"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "diverse",
+                  "surface": "diverse"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "marginal",
+                  "surface": "marginal"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "dependent",
+                  "surface": "dependent"
+                }
+              ]
+            },
+            "options": [
+              "A) robust",
+              "B) diverse",
+              "C) marginal",
+              "D) dependent"
+            ],
+            "qid": 2025011020,
+            "text": ""
+          }
+        ]
+      },
+      "directions": "Read the following text. Choose the best word(s) for each numbered blank and mark A, B, C or D\non the ANSWER SHEET. (10 points)",
+      "exam_info": "2025(1)",
+      "exam_type": "kaoyan",
+      "id": 202501001,
+      "key_words": "connected despite employed gradually light pavlopetri prone resumed robust suggesting techniques undisturbed site accidentally adjusted alien altered among available besides blocked canceled city crossed currents dependent diverse documents effect examine expecting frequently gathering marginal mind off ordered policies predicting protected provided reality recalling relevant remains sea some structures submerged suspended temporarily theories transferred unchallenged unknown unlike unorganized across after archaeologists belongings buildings comprised courtyards currents' decades disguised display elevated examine' gathering' isolated legends off' once peloponnesian preserve products programs protected'",
+      "kid": 11,
+      "part": "Part III",
+      "section": "Sec A",
+      "task_key": "2025(1)_Section I_ ",
+      "type": "Use of English"
+    }
+  ]
+}

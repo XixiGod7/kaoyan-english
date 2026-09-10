@@ -1,0 +1,3274 @@
+{
+  "sentences": [
+    {
+      "cn_text": "协议就是协议——但显然，当涉及 Entergy 公司时则另当别论。",
+      "en_text": "A deal is a deal — except, apparently, when Entergy is involved.",
+      "id": 2012013063,
+      "order_seq": "content_1_1",
+      "task_id": 201201003,
+      "tokens": [
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "A"
+        },
+        {
+          "gloss": "协议",
+          "lemma": "deal",
+          "surface": "deal"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "协议",
+          "lemma": "deal",
+          "surface": "deal"
+        },
+        {
+          "gloss": "除非",
+          "lemma": "except",
+          "surface": "except"
+        },
+        {
+          "gloss": "显然",
+          "lemma": "apparently",
+          "surface": "apparently"
+        },
+        {
+          "gloss": "当",
+          "lemma": "when",
+          "surface": "when"
+        },
+        {
+          "gloss": "Entergy公司",
+          "lemma": "entergy",
+          "surface": "Entergy"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "涉及",
+          "lemma": "involve",
+          "surface": "involved"
+        }
+      ]
+    },
+    {
+      "cn_text": "该公司是新英格兰地区的主要能源供应商，上周在佛蒙特州宣布将违背长期以来遵守该州严格核能法规的承诺，引发了正当的愤怒。",
+      "en_text": "The company, a major energy supplier in New England, provoked justified outrage in Vermont last week when it announced it was reneging on a longstanding commitment to abide by the state’s strict nuclear regulations.",
+      "id": 2012013064,
+      "order_seq": "content_1_2",
+      "task_id": 201201003,
+      "tokens": [
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "The"
+        },
+        {
+          "gloss": "公司",
+          "lemma": "company",
+          "surface": "company"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "主要的",
+          "lemma": "major",
+          "surface": "major"
+        },
+        {
+          "gloss": "能源",
+          "lemma": "energy",
+          "surface": "energy"
+        },
+        {
+          "gloss": "供应商",
+          "lemma": "supplier",
+          "surface": "supplier"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "新",
+          "lemma": "new",
+          "surface": "New"
+        },
+        {
+          "gloss": "英格兰",
+          "lemma": "england",
+          "surface": "England"
+        },
+        {
+          "gloss": "引发",
+          "lemma": "provoke",
+          "surface": "provoked"
+        },
+        {
+          "gloss": "正当的",
+          "lemma": "justified",
+          "surface": "justified"
+        },
+        {
+          "gloss": "愤怒",
+          "lemma": "outrage",
+          "surface": "outrage"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "佛蒙特州",
+          "lemma": "vermont",
+          "surface": "Vermont"
+        },
+        {
+          "gloss": "上一个",
+          "lemma": "last",
+          "surface": "last"
+        },
+        {
+          "gloss": "周",
+          "lemma": "week",
+          "surface": "week"
+        },
+        {
+          "gloss": "当",
+          "lemma": "when",
+          "surface": "when"
+        },
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "it"
+        },
+        {
+          "gloss": "宣布",
+          "lemma": "announce",
+          "surface": "announced"
+        },
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "it"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "was"
+        },
+        {
+          "gloss": "违背",
+          "lemma": "renege",
+          "surface": "reneging"
+        },
+        {
+          "gloss": "在...上",
+          "lemma": "on",
+          "surface": "on"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "长期的",
+          "lemma": "longstanding",
+          "surface": "longstanding"
+        },
+        {
+          "gloss": "承诺",
+          "lemma": "commitment",
+          "surface": "commitment"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "遵守",
+          "lemma": "abide",
+          "surface": "abide"
+        },
+        {
+          "gloss": "通过",
+          "lemma": "by",
+          "surface": "by"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "州的",
+          "lemma": "state",
+          "surface": "state’s"
+        },
+        {
+          "gloss": "严格的",
+          "lemma": "strict",
+          "surface": "strict"
+        },
+        {
+          "gloss": "核的",
+          "lemma": "nuclear",
+          "surface": "nuclear"
+        },
+        {
+          "gloss": "法规",
+          "lemma": "regulation",
+          "surface": "regulations"
+        }
+      ]
+    },
+    {
+      "cn_text": "相反，该公司恰恰做了它长期以来承诺不会做的事情：在联邦法院质疑佛蒙特州法规的合宪性，这是其力图维持佛蒙特洋基核电站运营的孤注一掷之举的一部分。",
+      "en_text": "Instead, the company has done precisely what it had long promised it would not: challenge the constitutionality of Vermont’s rules in the federal court, as part of a desperate effort to keep its Vermont Yankee nuclear power plant running.",
+      "id": 2012013065,
+      "order_seq": "content_2_1",
+      "task_id": 201201003,
+      "tokens": [
+        {
+          "gloss": "相反",
+          "lemma": "instead",
+          "surface": "Instead"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "公司",
+          "lemma": "company",
+          "surface": "company"
+        },
+        {
+          "gloss": "已经",
+          "lemma": "have",
+          "surface": "has"
+        },
+        {
+          "gloss": "做",
+          "lemma": "do",
+          "surface": "done"
+        },
+        {
+          "gloss": "恰恰",
+          "lemma": "precisely",
+          "surface": "precisely"
+        },
+        {
+          "gloss": "什么",
+          "lemma": "what",
+          "surface": "what"
+        },
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "it"
+        },
+        {
+          "gloss": "曾经",
+          "lemma": "have",
+          "surface": "had"
+        },
+        {
+          "gloss": "长期",
+          "lemma": "long",
+          "surface": "long"
+        },
+        {
+          "gloss": "承诺",
+          "lemma": "promise",
+          "surface": "promised"
+        },
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "it"
+        },
+        {
+          "gloss": "将",
+          "lemma": "would",
+          "surface": "would"
+        },
+        {
+          "gloss": "不",
+          "lemma": "not",
+          "surface": "not"
+        },
+        {
+          "gloss": "质疑",
+          "lemma": "challenge",
+          "surface": "challenge"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "合宪性",
+          "lemma": "constitutionality",
+          "surface": "constitutionality"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "佛蒙特州的",
+          "lemma": "vermont",
+          "surface": "Vermont’s"
+        },
+        {
+          "gloss": "法规",
+          "lemma": "rule",
+          "surface": "rules"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "联邦的",
+          "lemma": "federal",
+          "surface": "federal"
+        },
+        {
+          "gloss": "法院",
+          "lemma": "court",
+          "surface": "court"
+        },
+        {
+          "gloss": "作为",
+          "lemma": "as",
+          "surface": "as"
+        },
+        {
+          "gloss": "部分",
+          "lemma": "part",
+          "surface": "part"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "绝望的",
+          "lemma": "desperate",
+          "surface": "desperate"
+        },
+        {
+          "gloss": "努力",
+          "lemma": "effort",
+          "surface": "effort"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "维持",
+          "lemma": "keep",
+          "surface": "keep"
+        },
+        {
+          "gloss": "它的",
+          "lemma": "its",
+          "surface": "its"
+        },
+        {
+          "gloss": "佛蒙特",
+          "lemma": "vermont",
+          "surface": "Vermont"
+        },
+        {
+          "gloss": "洋基",
+          "lemma": "yankee",
+          "surface": "Yankee"
+        },
+        {
+          "gloss": "核的",
+          "lemma": "nuclear",
+          "surface": "nuclear"
+        },
+        {
+          "gloss": "电力",
+          "lemma": "power",
+          "surface": "power"
+        },
+        {
+          "gloss": "工厂",
+          "lemma": "plant",
+          "surface": "plant"
+        },
+        {
+          "gloss": "运行",
+          "lemma": "run",
+          "surface": "running"
+        }
+      ]
+    },
+    {
+      "cn_text": "这是一个令人震惊的举动。",
+      "en_text": "It’s a stunning move.",
+      "id": 2012013066,
+      "order_seq": "content_2_2",
+      "task_id": 201201003,
+      "tokens": [
+        {
+          "gloss": "这是",
+          "lemma": "it is",
+          "surface": "It’s"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "令人震惊的",
+          "lemma": "stunning",
+          "surface": "stunning"
+        },
+        {
+          "gloss": "举动",
+          "lemma": "move",
+          "surface": "move"
+        }
+      ]
+    },
+    {
+      "cn_text": "自2002年该公司收购佛蒙特州唯一的核电站——一座位于弗农的老化反应堆以来，这一冲突就开始显现。",
+      "en_text": "The conflict has been surfacing since 2002, when the corporation bought Vermont’s only nuclear power plant, an aging reactor in Vernon.",
+      "id": 2012013067,
+      "order_seq": "content_3_1",
+      "task_id": 201201003,
+      "tokens": [
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "The"
+        },
+        {
+          "gloss": "冲突",
+          "lemma": "conflict",
+          "surface": "conflict"
+        },
+        {
+          "gloss": "已经",
+          "lemma": "have",
+          "surface": "has"
+        },
+        {
+          "gloss": "被",
+          "lemma": "be",
+          "surface": "been"
+        },
+        {
+          "gloss": "浮现",
+          "lemma": "surface",
+          "surface": "surfacing"
+        },
+        {
+          "gloss": "自从",
+          "lemma": "since",
+          "surface": "since"
+        },
+        {
+          "gloss": "当",
+          "lemma": "when",
+          "surface": "when"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "公司",
+          "lemma": "corporation",
+          "surface": "corporation"
+        },
+        {
+          "gloss": "购买",
+          "lemma": "buy",
+          "surface": "bought"
+        },
+        {
+          "gloss": "佛蒙特州的",
+          "lemma": "vermont’s",
+          "surface": "Vermont’s"
+        },
+        {
+          "gloss": "唯一的",
+          "lemma": "only",
+          "surface": "only"
+        },
+        {
+          "gloss": "核的",
+          "lemma": "nuclear",
+          "surface": "nuclear"
+        },
+        {
+          "gloss": "电力",
+          "lemma": "power",
+          "surface": "power"
+        },
+        {
+          "gloss": "电站",
+          "lemma": "plant",
+          "surface": "plant"
+        },
+        {
+          "gloss": "一座",
+          "lemma": "an",
+          "surface": "an"
+        },
+        {
+          "gloss": "老化的",
+          "lemma": "aging",
+          "surface": "aging"
+        },
+        {
+          "gloss": "反应堆",
+          "lemma": "reactor",
+          "surface": "reactor"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "弗农",
+          "lemma": "vernon",
+          "surface": "Vernon"
+        }
+      ]
+    },
+    {
+      "cn_text": "作为获得州政府批准该交易的条件，该公司同意向州监管机构申请许可以在2012年后继续运营。",
+      "en_text": "As a condition of receiving state approval for the sale, the company agreed to seek permission from state regulators to operate past 2012.",
+      "id": 2012013068,
+      "order_seq": "content_3_2",
+      "task_id": 201201003,
+      "tokens": [
+        {
+          "gloss": "作为",
+          "lemma": "as",
+          "surface": "As"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "条件",
+          "lemma": "condition",
+          "surface": "condition"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "获得",
+          "lemma": "receive",
+          "surface": "receiving"
+        },
+        {
+          "gloss": "州",
+          "lemma": "state",
+          "surface": "state"
+        },
+        {
+          "gloss": "批准",
+          "lemma": "approval",
+          "surface": "approval"
+        },
+        {
+          "gloss": "为了",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "出售",
+          "lemma": "sale",
+          "surface": "sale"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "公司",
+          "lemma": "company",
+          "surface": "company"
+        },
+        {
+          "gloss": "同意",
+          "lemma": "agree",
+          "surface": "agreed"
+        },
+        {
+          "gloss": "向",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "申请",
+          "lemma": "seek",
+          "surface": "seek"
+        },
+        {
+          "gloss": "许可",
+          "lemma": "permission",
+          "surface": "permission"
+        },
+        {
+          "gloss": "从",
+          "lemma": "from",
+          "surface": "from"
+        },
+        {
+          "gloss": "州",
+          "lemma": "state",
+          "surface": "state"
+        },
+        {
+          "gloss": "监管机构",
+          "lemma": "regulator",
+          "surface": "regulators"
+        },
+        {
+          "gloss": "以",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "运营",
+          "lemma": "operate",
+          "surface": "operate"
+        },
+        {
+          "gloss": "超过",
+          "lemma": "past",
+          "surface": "past"
+        }
+      ]
+    },
+    {
+      "cn_text": "2006年，州政府进一步要求，该电站许可证的任何延期都须经佛蒙特州立法机构批准。",
+      "en_text": "In 2006, the state went a step further, requiring that any extension of the plant’s license be subject to Vermont legislature’s approval.",
+      "id": 2012013069,
+      "order_seq": "content_3_3",
+      "task_id": 201201003,
+      "tokens": [
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "In"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "州",
+          "lemma": "state",
+          "surface": "state"
+        },
+        {
+          "gloss": "采取",
+          "lemma": "go",
+          "surface": "went"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "步骤",
+          "lemma": "step",
+          "surface": "step"
+        },
+        {
+          "gloss": "更进一步",
+          "lemma": "further",
+          "surface": "further"
+        },
+        {
+          "gloss": "要求",
+          "lemma": "require",
+          "surface": "requiring"
+        },
+        {
+          "gloss": "以便",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "任何",
+          "lemma": "any",
+          "surface": "any"
+        },
+        {
+          "gloss": "延长",
+          "lemma": "extension",
+          "surface": "extension"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "电站的",
+          "lemma": "plant’s",
+          "surface": "plant’s"
+        },
+        {
+          "gloss": "许可证",
+          "lemma": "license",
+          "surface": "license"
+        },
+        {
+          "gloss": "被",
+          "lemma": "be",
+          "surface": "be"
+        },
+        {
+          "gloss": "受制于",
+          "lemma": "subject",
+          "surface": "subject"
+        },
+        {
+          "gloss": "于",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "佛蒙特州",
+          "lemma": "vermont",
+          "surface": "Vermont"
+        },
+        {
+          "gloss": "立法机构的",
+          "lemma": "legislature’s",
+          "surface": "legislature’s"
+        },
+        {
+          "gloss": "批准",
+          "lemma": "approval",
+          "surface": "approval"
+        }
+      ]
+    },
+    {
+      "cn_text": "当时，该公司也表示同意。",
+      "en_text": "Then, too, the company went along.",
+      "id": 2012013070,
+      "order_seq": "content_3_4",
+      "task_id": 201201003,
+      "tokens": [
+        {
+          "gloss": "当时",
+          "lemma": "then",
+          "surface": "Then"
+        },
+        {
+          "gloss": "也",
+          "lemma": "too",
+          "surface": "too"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "公司",
+          "lemma": "company",
+          "surface": "company"
+        },
+        {
+          "gloss": "同意",
+          "lemma": "go",
+          "surface": "went"
+        },
+        {
+          "gloss": "同意",
+          "lemma": "along",
+          "surface": "along"
+        }
+      ]
+    },
+    {
+      "cn_text": "要么 Entergy 从未真正打算履行这些承诺,要么它根本没有预见到接下来会发生什么。",
+      "en_text": "Either Entergy never really intended to live by those commitments, or it simply didn’t foresee what would happen next.",
+      "id": 2012013071,
+      "order_seq": "content_4_1",
+      "task_id": 201201003,
+      "tokens": [
+        {
+          "gloss": "要么",
+          "lemma": "either",
+          "surface": "either"
+        },
+        {
+          "gloss": "Entergy公司",
+          "lemma": "entergy",
+          "surface": "entergy"
+        },
+        {
+          "gloss": "从未",
+          "lemma": "never",
+          "surface": "never"
+        },
+        {
+          "gloss": "真正地",
+          "lemma": "really",
+          "surface": "really"
+        },
+        {
+          "gloss": "打算",
+          "lemma": "intend",
+          "surface": "intended"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "履行",
+          "lemma": "live",
+          "surface": "live"
+        },
+        {
+          "gloss": "依据",
+          "lemma": "by",
+          "surface": "by"
+        },
+        {
+          "gloss": "那些",
+          "lemma": "those",
+          "surface": "those"
+        },
+        {
+          "gloss": "承诺",
+          "lemma": "commitment",
+          "surface": "commitments"
+        },
+        {
+          "gloss": "或者",
+          "lemma": "or",
+          "surface": "or"
+        },
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "it"
+        },
+        {
+          "gloss": "仅仅",
+          "lemma": "simply",
+          "surface": "simply"
+        },
+        {
+          "gloss": "没有",
+          "lemma": "do",
+          "surface": "didn’t"
+        },
+        {
+          "gloss": "预见",
+          "lemma": "foresee",
+          "surface": "foresee"
+        },
+        {
+          "gloss": "什么",
+          "lemma": "what",
+          "surface": "what"
+        },
+        {
+          "gloss": "将",
+          "lemma": "will",
+          "surface": "would"
+        },
+        {
+          "gloss": "发生",
+          "lemma": "happen",
+          "surface": "happen"
+        },
+        {
+          "gloss": "接下来",
+          "lemma": "next",
+          "surface": "next"
+        }
+      ]
+    },
+    {
+      "cn_text": "一系列事故，包括2007年冷却塔部分坍塌和地下管道系统泄漏的发现，引发了对佛蒙特洋基核电站安全性及 Entergy 管理能力的严重质疑——尤其是在该公司就管道问题发表误导性声明之后。",
+      "en_text": "A string of accidents, including the partial collapse of a cooling tower in 2007 and the discovery of an underground pipe system leakage, raised serious questions about both Vermont Yankee’s safety and Entergy’s management — especially after the company made misleading statements about the pipe.",
+      "id": 2012013072,
+      "order_seq": "content_4_2",
+      "task_id": 201201003,
+      "tokens": [
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "一系列",
+          "lemma": "string",
+          "surface": "string"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "事故",
+          "lemma": "accident",
+          "surface": "accidents"
+        },
+        {
+          "gloss": "包括",
+          "lemma": "include",
+          "surface": "including"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "部分的",
+          "lemma": "partial",
+          "surface": "partial"
+        },
+        {
+          "gloss": "坍塌",
+          "lemma": "collapse",
+          "surface": "collapse"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "冷却的",
+          "lemma": "cooling",
+          "surface": "cooling"
+        },
+        {
+          "gloss": "塔",
+          "lemma": "tower",
+          "surface": "tower"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "发现",
+          "lemma": "discovery",
+          "surface": "discovery"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "an",
+          "surface": "an"
+        },
+        {
+          "gloss": "地下的",
+          "lemma": "underground",
+          "surface": "underground"
+        },
+        {
+          "gloss": "管道",
+          "lemma": "pipe",
+          "surface": "pipe"
+        },
+        {
+          "gloss": "系统",
+          "lemma": "system",
+          "surface": "system"
+        },
+        {
+          "gloss": "泄漏",
+          "lemma": "leakage",
+          "surface": "leakage"
+        },
+        {
+          "gloss": "引发",
+          "lemma": "raise",
+          "surface": "raised"
+        },
+        {
+          "gloss": "严重的",
+          "lemma": "serious",
+          "surface": "serious"
+        },
+        {
+          "gloss": "质疑",
+          "lemma": "question",
+          "surface": "questions"
+        },
+        {
+          "gloss": "关于",
+          "lemma": "about",
+          "surface": "about"
+        },
+        {
+          "gloss": "两者",
+          "lemma": "both",
+          "surface": "both"
+        },
+        {
+          "gloss": "Vermont州",
+          "lemma": "vermont",
+          "surface": "vermont"
+        },
+        {
+          "gloss": "Yankee核电站的",
+          "lemma": "yankee",
+          "surface": "yankee’s"
+        },
+        {
+          "gloss": "安全性",
+          "lemma": "safety",
+          "surface": "safety"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "Entergy公司的",
+          "lemma": "entergy",
+          "surface": "entergy’s"
+        },
+        {
+          "gloss": "管理",
+          "lemma": "management",
+          "surface": "management"
+        },
+        {
+          "gloss": "尤其",
+          "lemma": "especially",
+          "surface": "especially"
+        },
+        {
+          "gloss": "在……之后",
+          "lemma": "after",
+          "surface": "after"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "公司",
+          "lemma": "company",
+          "surface": "company"
+        },
+        {
+          "gloss": "发表",
+          "lemma": "make",
+          "surface": "made"
+        },
+        {
+          "gloss": "误导性的",
+          "lemma": "mislead",
+          "surface": "misleading"
+        },
+        {
+          "gloss": "声明",
+          "lemma": "statement",
+          "surface": "statements"
+        },
+        {
+          "gloss": "关于",
+          "lemma": "about",
+          "surface": "about"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "管道",
+          "lemma": "pipe",
+          "surface": "pipe"
+        }
+      ]
+    },
+    {
+      "cn_text": "由于对 Entergy 行为的愤怒，佛蒙特州参议院去年以26票对4票的结果否决了延期申请。",
+      "en_text": "Enraged by Entergy’s behavior, the Vermont Senate voted 26 to 4 last year against allowing an extension.",
+      "id": 2012013073,
+      "order_seq": "content_4_3",
+      "task_id": 201201003,
+      "tokens": [
+        {
+          "gloss": "激怒",
+          "lemma": "enrage",
+          "surface": "enraged"
+        },
+        {
+          "gloss": "由于",
+          "lemma": "by",
+          "surface": "by"
+        },
+        {
+          "gloss": "Entergy公司的",
+          "lemma": "entergy",
+          "surface": "entergy’s"
+        },
+        {
+          "gloss": "行为",
+          "lemma": "behavior",
+          "surface": "behavior"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "佛蒙特州",
+          "lemma": "vermont",
+          "surface": "vermont"
+        },
+        {
+          "gloss": "参议院",
+          "lemma": "senate",
+          "surface": "senate"
+        },
+        {
+          "gloss": "投票",
+          "lemma": "vote",
+          "surface": "voted"
+        },
+        {
+          "gloss": "对",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "去年",
+          "lemma": "last",
+          "surface": "last"
+        },
+        {
+          "gloss": "年",
+          "lemma": "year",
+          "surface": "year"
+        },
+        {
+          "gloss": "反对",
+          "lemma": "against",
+          "surface": "against"
+        },
+        {
+          "gloss": "允许",
+          "lemma": "allow",
+          "surface": "allowing"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "an",
+          "surface": "an"
+        },
+        {
+          "gloss": "延期",
+          "lemma": "extension",
+          "surface": "extension"
+        }
+      ]
+    },
+    {
+      "cn_text": "现在该公司突然声称，由于2006年的立法，2002年的协议已失效，并且只有联邦政府对核问题拥有监管权。",
+      "en_text": "Now the company is suddenly claiming that the 2002 agreement is invalid because of the 2006 legislation, and that only the federal government has regulatory power over nuclear issues.",
+      "id": 2012013074,
+      "order_seq": "content_5_1",
+      "task_id": 201201003,
+      "tokens": [
+        {
+          "gloss": "现在",
+          "lemma": "now",
+          "surface": "now"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "公司",
+          "lemma": "company",
+          "surface": "company"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "突然",
+          "lemma": "suddenly",
+          "surface": "suddenly"
+        },
+        {
+          "gloss": "声称",
+          "lemma": "claim",
+          "surface": "claiming"
+        },
+        {
+          "gloss": "因为",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "协议",
+          "lemma": "agreement",
+          "surface": "agreement"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "无效的",
+          "lemma": "invalid",
+          "surface": "invalid"
+        },
+        {
+          "gloss": "由于",
+          "lemma": "because",
+          "surface": "because"
+        },
+        {
+          "gloss": "因为",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "立法",
+          "lemma": "legislation",
+          "surface": "legislation"
+        },
+        {
+          "gloss": "并且",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "只有",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "只有",
+          "lemma": "only",
+          "surface": "only"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "联邦的",
+          "lemma": "federal",
+          "surface": "federal"
+        },
+        {
+          "gloss": "政府",
+          "lemma": "government",
+          "surface": "government"
+        },
+        {
+          "gloss": "拥有",
+          "lemma": "have",
+          "surface": "has"
+        },
+        {
+          "gloss": "监管的",
+          "lemma": "regulatory",
+          "surface": "regulatory"
+        },
+        {
+          "gloss": "权力",
+          "lemma": "power",
+          "surface": "power"
+        },
+        {
+          "gloss": "关于",
+          "lemma": "over",
+          "surface": "over"
+        },
+        {
+          "gloss": "核的",
+          "lemma": "nuclear",
+          "surface": "nuclear"
+        },
+        {
+          "gloss": "问题",
+          "lemma": "issue",
+          "surface": "issues"
+        }
+      ]
+    },
+    {
+      "cn_text": "该案的法律问题尚不明朗：尽管最高法院裁定各州确实对核能拥有一定的监管权，但法律学者表示，佛蒙特州案件将成为检验这些权力延伸范围的一次具有先例意义的考验。",
+      "en_text": "The legal issues in the case are obscure: whereas the Supreme Court has ruled that states do have some regulatory authority over nuclear power, legal scholars say the Vermont case will offer a precedent-setting test of how far those powers extend.",
+      "id": 2012013075,
+      "order_seq": "content_5_2",
+      "task_id": 201201003,
+      "tokens": [
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "The"
+        },
+        {
+          "gloss": "法律的",
+          "lemma": "legal",
+          "surface": "legal"
+        },
+        {
+          "gloss": "问题",
+          "lemma": "issue",
+          "surface": "issues"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "案件",
+          "lemma": "case",
+          "surface": "case"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "are"
+        },
+        {
+          "gloss": "模糊的",
+          "lemma": "obscure",
+          "surface": "obscure"
+        },
+        {
+          "gloss": "尽管",
+          "lemma": "whereas",
+          "surface": "whereas"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "最高的",
+          "lemma": "supreme",
+          "surface": "Supreme"
+        },
+        {
+          "gloss": "法院",
+          "lemma": "court",
+          "surface": "Court"
+        },
+        {
+          "gloss": "已经",
+          "lemma": "have",
+          "surface": "has"
+        },
+        {
+          "gloss": "裁定",
+          "lemma": "rule",
+          "surface": "ruled"
+        },
+        {
+          "gloss": "表明",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "州",
+          "lemma": "state",
+          "surface": "states"
+        },
+        {
+          "gloss": "确实",
+          "lemma": "do",
+          "surface": "do"
+        },
+        {
+          "gloss": "拥有",
+          "lemma": "have",
+          "surface": "have"
+        },
+        {
+          "gloss": "一些",
+          "lemma": "some",
+          "surface": "some"
+        },
+        {
+          "gloss": "监管的",
+          "lemma": "regulatory",
+          "surface": "regulatory"
+        },
+        {
+          "gloss": "权力",
+          "lemma": "authority",
+          "surface": "authority"
+        },
+        {
+          "gloss": "关于",
+          "lemma": "over",
+          "surface": "over"
+        },
+        {
+          "gloss": "核的",
+          "lemma": "nuclear",
+          "surface": "nuclear"
+        },
+        {
+          "gloss": "能量",
+          "lemma": "power",
+          "surface": "power"
+        },
+        {
+          "gloss": "法律的",
+          "lemma": "legal",
+          "surface": "legal"
+        },
+        {
+          "gloss": "学者",
+          "lemma": "scholar",
+          "surface": "scholars"
+        },
+        {
+          "gloss": "说",
+          "lemma": "say",
+          "surface": "say"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "佛蒙特州",
+          "lemma": "vermont",
+          "surface": "Vermont"
+        },
+        {
+          "gloss": "案件",
+          "lemma": "case",
+          "surface": "case"
+        },
+        {
+          "gloss": "将",
+          "lemma": "will",
+          "surface": "will"
+        },
+        {
+          "gloss": "提供",
+          "lemma": "offer",
+          "surface": "offer"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "先例",
+          "lemma": "precedent",
+          "surface": "precedent"
+        },
+        {
+          "gloss": "设定",
+          "lemma": "setting",
+          "surface": "setting"
+        },
+        {
+          "gloss": "测试",
+          "lemma": "test",
+          "surface": "test"
+        },
+        {
+          "gloss": "关于",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "如何",
+          "lemma": "how",
+          "surface": "how"
+        },
+        {
+          "gloss": "多远",
+          "lemma": "far",
+          "surface": "far"
+        },
+        {
+          "gloss": "那些",
+          "lemma": "those",
+          "surface": "those"
+        },
+        {
+          "gloss": "权力",
+          "lemma": "power",
+          "surface": "powers"
+        },
+        {
+          "gloss": "延伸",
+          "lemma": "extend",
+          "surface": "extend"
+        }
+      ]
+    },
+    {
+      "cn_text": "当然，如果每个州都制定自己的规则，由此可能导致的拼凑式法规确实令人担忧。",
+      "en_text": "Certainly, there are valid concerns about the patchwork regulations that could result if every state sets its own rules.",
+      "id": 2012013076,
+      "order_seq": "content_5_3",
+      "task_id": 201201003,
+      "tokens": [
+        {
+          "gloss": "当然",
+          "lemma": "certainly",
+          "surface": "Certainly"
+        },
+        {
+          "gloss": "有",
+          "lemma": "there",
+          "surface": "there"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "are"
+        },
+        {
+          "gloss": "合理的",
+          "lemma": "valid",
+          "surface": "valid"
+        },
+        {
+          "gloss": "担忧",
+          "lemma": "concern",
+          "surface": "concerns"
+        },
+        {
+          "gloss": "关于",
+          "lemma": "about",
+          "surface": "about"
+        },
+        {
+          "gloss": "这些",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "零散的",
+          "lemma": "patchwork",
+          "surface": "patchwork"
+        },
+        {
+          "gloss": "法规",
+          "lemma": "regulation",
+          "surface": "regulations"
+        },
+        {
+          "gloss": "可能",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "可能",
+          "lemma": "could",
+          "surface": "could"
+        },
+        {
+          "gloss": "导致",
+          "lemma": "result",
+          "surface": "result"
+        },
+        {
+          "gloss": "如果",
+          "lemma": "if",
+          "surface": "if"
+        },
+        {
+          "gloss": "每个",
+          "lemma": "every",
+          "surface": "every"
+        },
+        {
+          "gloss": "州",
+          "lemma": "state",
+          "surface": "state"
+        },
+        {
+          "gloss": "制定",
+          "lemma": "set",
+          "surface": "sets"
+        },
+        {
+          "gloss": "它的",
+          "lemma": "its",
+          "surface": "its"
+        },
+        {
+          "gloss": "自己的",
+          "lemma": "own",
+          "surface": "own"
+        },
+        {
+          "gloss": "规则",
+          "lemma": "rule",
+          "surface": "rules"
+        }
+      ]
+    },
+    {
+      "cn_text": "但如果 Entergy 信守承诺，这场争论就不会存在。",
+      "en_text": "But had Entergy kept its word, that debate would be beside the point.",
+      "id": 2012013077,
+      "order_seq": "content_5_4",
+      "task_id": 201201003,
+      "tokens": [
+        {
+          "gloss": "但",
+          "lemma": "but",
+          "surface": "But"
+        },
+        {
+          "gloss": "如果",
+          "lemma": "have",
+          "surface": "had"
+        },
+        {
+          "gloss": "Entergy",
+          "lemma": "entergy",
+          "surface": "Entergy"
+        },
+        {
+          "gloss": "信守",
+          "lemma": "keep",
+          "surface": "kept"
+        },
+        {
+          "gloss": "它的",
+          "lemma": "its",
+          "surface": "its"
+        },
+        {
+          "gloss": "承诺",
+          "lemma": "word",
+          "surface": "word"
+        },
+        {
+          "gloss": "这",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "争论",
+          "lemma": "debate",
+          "surface": "debate"
+        },
+        {
+          "gloss": "将",
+          "lemma": "would",
+          "surface": "would"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "be"
+        },
+        {
+          "gloss": "无关",
+          "lemma": "beside",
+          "surface": "beside"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "重点",
+          "lemma": "point",
+          "surface": "point"
+        }
+      ]
+    },
+    {
+      "cn_text": "该公司似乎认定其在佛蒙特州的声誉已经损毁殆尽，因此与该州对抗也不会有更多损失。",
+      "en_text": "The company seems to have concluded that its reputation in Vermont is already so damaged that it has nothing left to lose by going to war with the state.",
+      "id": 2012013078,
+      "order_seq": "content_6_1",
+      "task_id": 201201003,
+      "tokens": [
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "The"
+        },
+        {
+          "gloss": "公司",
+          "lemma": "company",
+          "surface": "company"
+        },
+        {
+          "gloss": "似乎",
+          "lemma": "seem",
+          "surface": "seems"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "已经",
+          "lemma": "have",
+          "surface": "have"
+        },
+        {
+          "gloss": "得出结论",
+          "lemma": "conclude",
+          "surface": "concluded"
+        },
+        {
+          "gloss": "表明",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "它的",
+          "lemma": "its",
+          "surface": "its"
+        },
+        {
+          "gloss": "声誉",
+          "lemma": "reputation",
+          "surface": "reputation"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "佛蒙特州",
+          "lemma": "vermont",
+          "surface": "Vermont"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "已经",
+          "lemma": "already",
+          "surface": "already"
+        },
+        {
+          "gloss": "如此",
+          "lemma": "so",
+          "surface": "so"
+        },
+        {
+          "gloss": "受损",
+          "lemma": "damage",
+          "surface": "damaged"
+        },
+        {
+          "gloss": "以至于",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "it"
+        },
+        {
+          "gloss": "已经",
+          "lemma": "have",
+          "surface": "has"
+        },
+        {
+          "gloss": "没有任何",
+          "lemma": "nothing",
+          "surface": "nothing"
+        },
+        {
+          "gloss": "剩下",
+          "lemma": "leave",
+          "surface": "left"
+        },
+        {
+          "gloss": "通过",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "失去",
+          "lemma": "lose",
+          "surface": "lose"
+        },
+        {
+          "gloss": "通过",
+          "lemma": "by",
+          "surface": "by"
+        },
+        {
+          "gloss": "进行",
+          "lemma": "go",
+          "surface": "going"
+        },
+        {
+          "gloss": "与",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "对抗",
+          "lemma": "war",
+          "surface": "war"
+        },
+        {
+          "gloss": "与",
+          "lemma": "with",
+          "surface": "with"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "州",
+          "lemma": "state",
+          "surface": "state"
+        }
+      ]
+    },
+    {
+      "cn_text": "但应该会有后果。",
+      "en_text": "But there should be consequences.",
+      "id": 2012013079,
+      "order_seq": "content_6_2",
+      "task_id": 201201003,
+      "tokens": [
+        {
+          "gloss": "但是",
+          "lemma": "but",
+          "surface": "but"
+        },
+        {
+          "gloss": "有",
+          "lemma": "there",
+          "surface": "there"
+        },
+        {
+          "gloss": "应该",
+          "lemma": "should",
+          "surface": "should"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "be"
+        },
+        {
+          "gloss": "后果",
+          "lemma": "consequence",
+          "surface": "consequences"
+        }
+      ]
+    },
+    {
+      "cn_text": "运营核电站的许可是一种公共信托。",
+      "en_text": "Permission to run a nuclear plant is a public trust.",
+      "id": 2012013080,
+      "order_seq": "content_6_3",
+      "task_id": 201201003,
+      "tokens": [
+        {
+          "gloss": "许可",
+          "lemma": "permission",
+          "surface": "permission"
+        },
+        {
+          "gloss": "用于",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "运行",
+          "lemma": "run",
+          "surface": "run"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "核的",
+          "lemma": "nuclear",
+          "surface": "nuclear"
+        },
+        {
+          "gloss": "电站",
+          "lemma": "plant",
+          "surface": "plant"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "一种",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "公共的",
+          "lemma": "public",
+          "surface": "public"
+        },
+        {
+          "gloss": "信任",
+          "lemma": "trust",
+          "surface": "trust"
+        }
+      ]
+    },
+    {
+      "cn_text": "Entergy 在美国运营着其他11座反应堆，包括位于普利茅斯的朝圣者核电站。",
+      "en_text": "Entergy runs 11 other reactors in the United States, including Pilgrim Nuclear station in Plymouth.",
+      "id": 2012013081,
+      "order_seq": "content_6_4",
+      "task_id": 201201003,
+      "tokens": [
+        {
+          "gloss": "Entergy公司",
+          "lemma": "entergy",
+          "surface": "entergy"
+        },
+        {
+          "gloss": "运营",
+          "lemma": "run",
+          "surface": "runs"
+        },
+        {
+          "gloss": "其他的",
+          "lemma": "other",
+          "surface": "other"
+        },
+        {
+          "gloss": "反应堆",
+          "lemma": "reactor",
+          "surface": "reactors"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "联合的",
+          "lemma": "united",
+          "surface": "united"
+        },
+        {
+          "gloss": "美国",
+          "lemma": "state",
+          "surface": "states"
+        },
+        {
+          "gloss": "包括",
+          "lemma": "include",
+          "surface": "including"
+        },
+        {
+          "gloss": "朝圣者",
+          "lemma": "pilgrim",
+          "surface": "pilgrim"
+        },
+        {
+          "gloss": "核的",
+          "lemma": "nuclear",
+          "surface": "nuclear"
+        },
+        {
+          "gloss": "电站",
+          "lemma": "station",
+          "surface": "station"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "普利茅斯",
+          "lemma": "plymouth",
+          "surface": "plymouth"
+        }
+      ]
+    },
+    {
+      "cn_text": "该公司承诺安全运营朝圣者核电站，并已向联邦申请许可使其再运营20年。",
+      "en_text": "Pledging to run Pilgrim safely, the company has applied for federal permission to keep it open for another 20 years.",
+      "id": 2012013082,
+      "order_seq": "content_6_5",
+      "task_id": 201201003,
+      "tokens": [
+        {
+          "gloss": "承诺",
+          "lemma": "pledge",
+          "surface": "pledging"
+        },
+        {
+          "gloss": "用于",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "运营",
+          "lemma": "run",
+          "surface": "run"
+        },
+        {
+          "gloss": "朝圣者",
+          "lemma": "pilgrim",
+          "surface": "pilgrim"
+        },
+        {
+          "gloss": "安全地",
+          "lemma": "safe",
+          "surface": "safely"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "公司",
+          "lemma": "company",
+          "surface": "company"
+        },
+        {
+          "gloss": "已经",
+          "lemma": "have",
+          "surface": "has"
+        },
+        {
+          "gloss": "申请",
+          "lemma": "apply",
+          "surface": "applied"
+        },
+        {
+          "gloss": "用于",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "联邦的",
+          "lemma": "federal",
+          "surface": "federal"
+        },
+        {
+          "gloss": "许可",
+          "lemma": "permission",
+          "surface": "permission"
+        },
+        {
+          "gloss": "用于",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "保持",
+          "lemma": "keep",
+          "surface": "keep"
+        },
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "it"
+        },
+        {
+          "gloss": "开放的",
+          "lemma": "open",
+          "surface": "open"
+        },
+        {
+          "gloss": "持续",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "再一个",
+          "lemma": "another",
+          "surface": "another"
+        },
+        {
+          "gloss": "年",
+          "lemma": "year",
+          "surface": "years"
+        }
+      ]
+    },
+    {
+      "cn_text": "但当核管理委员会（NRC）审查该公司的申请时，应当牢记 Entergy 的承诺究竟有多少价值。",
+      "en_text": "But as the Nuclear Regulatory Commission (NRC) reviews the company’s application, it should keep in mind what promises from Entergy are worth.",
+      "id": 2012013083,
+      "order_seq": "content_6_6",
+      "task_id": 201201003,
+      "tokens": [
+        {
+          "gloss": "但是",
+          "lemma": "but",
+          "surface": "But"
+        },
+        {
+          "gloss": "当...时",
+          "lemma": "as",
+          "surface": "as"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "核的",
+          "lemma": "nuclear",
+          "surface": "Nuclear"
+        },
+        {
+          "gloss": "监管的",
+          "lemma": "regulatory",
+          "surface": "Regulatory"
+        },
+        {
+          "gloss": "委员会",
+          "lemma": "commission",
+          "surface": "Commission"
+        },
+        {
+          "gloss": "核管理委员会",
+          "lemma": "nrc",
+          "surface": "NRC"
+        },
+        {
+          "gloss": "审查",
+          "lemma": "review",
+          "surface": "reviews"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "公司的",
+          "lemma": "company",
+          "surface": "company’s"
+        },
+        {
+          "gloss": "申请",
+          "lemma": "application",
+          "surface": "application"
+        },
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "it"
+        },
+        {
+          "gloss": "应该",
+          "lemma": "should",
+          "surface": "should"
+        },
+        {
+          "gloss": "记住",
+          "lemma": "keep",
+          "surface": "keep"
+        },
+        {
+          "gloss": "在...中",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "心中",
+          "lemma": "mind",
+          "surface": "mind"
+        },
+        {
+          "gloss": "什么",
+          "lemma": "what",
+          "surface": "what"
+        },
+        {
+          "gloss": "承诺",
+          "lemma": "promise",
+          "surface": "promises"
+        },
+        {
+          "gloss": "来自",
+          "lemma": "from",
+          "surface": "from"
+        },
+        {
+          "gloss": "Entergy公司",
+          "lemma": "entergy",
+          "surface": "Entergy"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "are"
+        },
+        {
+          "gloss": "价值",
+          "lemma": "worth",
+          "surface": "worth"
+        }
+      ]
+    },
+    {
+      "cn_text": "短语「reneging on」（第一段）的意思最接近____。",
+      "en_text": "The phrase “reneging on” (Para. 1) is closest in meaning to ____",
+      "id": 2012013084,
+      "order_seq": "question_2012011026_stem",
+      "task_id": 201201003,
+      "tokens": [
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "The"
+        },
+        {
+          "gloss": "短语",
+          "lemma": "phrase",
+          "surface": "phrase"
+        },
+        {
+          "gloss": "违背",
+          "lemma": "renege",
+          "surface": "reneging"
+        },
+        {
+          "gloss": "关于",
+          "lemma": "on",
+          "surface": "on"
+        },
+        {
+          "gloss": "段落",
+          "lemma": "para.",
+          "surface": "Para."
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "最接近的",
+          "lemma": "close",
+          "surface": "closest"
+        },
+        {
+          "gloss": "在...方面",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "意思",
+          "lemma": "meaning",
+          "surface": "meaning"
+        },
+        {
+          "gloss": "到",
+          "lemma": "to",
+          "surface": "to"
+        }
+      ]
+    },
+    {
+      "cn_text": "谴责。",
+      "en_text": "condemning.",
+      "id": 2012013085,
+      "order_seq": "question_2012011026_A",
+      "task_id": 201201003,
+      "tokens": [
+        {
+          "gloss": "谴责",
+          "lemma": "condemn",
+          "surface": "condemning"
+        }
+      ]
+    },
+    {
+      "cn_text": "重申。",
+      "en_text": "reaffirming.",
+      "id": 2012013086,
+      "order_seq": "question_2012011026_B",
+      "task_id": 201201003,
+      "tokens": [
+        {
+          "gloss": "重申",
+          "lemma": "reaffirm",
+          "surface": "reaffirming"
+        }
+      ]
+    },
+    {
+      "cn_text": "违背。",
+      "en_text": "dishonoring.",
+      "id": 2012013087,
+      "order_seq": "question_2012011026_C",
+      "task_id": 201201003,
+      "tokens": [
+        {
+          "gloss": "羞辱",
+          "lemma": "dishonor",
+          "surface": "dishonoring"
+        }
+      ]
+    },
+    {
+      "cn_text": "获得。",
+      "en_text": "securing.",
+      "id": 2012013088,
+      "order_seq": "question_2012011026_D",
+      "task_id": 201201003,
+      "tokens": [
+        {
+          "gloss": "确保",
+          "lemma": "secure",
+          "surface": "securing"
+        }
+      ]
+    },
+    {
+      "cn_text": "通过签署2002年的协议，Entergy 的意图是____。",
+      "en_text": "By entering into the 2002 agreement, Entergy intended to ____",
+      "id": 2012013089,
+      "order_seq": "question_2012011027_stem",
+      "task_id": 201201003,
+      "tokens": [
+        {
+          "gloss": "通过",
+          "lemma": "by",
+          "surface": "By"
+        },
+        {
+          "gloss": "进入",
+          "lemma": "enter",
+          "surface": "entering"
+        },
+        {
+          "gloss": "进入",
+          "lemma": "into",
+          "surface": "into"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "协议",
+          "lemma": "agreement",
+          "surface": "agreement"
+        },
+        {
+          "gloss": "Entergy公司",
+          "lemma": "entergy",
+          "surface": "Entergy"
+        },
+        {
+          "gloss": "打算",
+          "lemma": "intend",
+          "surface": "intended"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        }
+      ]
+    },
+    {
+      "cn_text": "获得佛蒙特州监管机构的保护。",
+      "en_text": "obtain protection from Vermont regulators.",
+      "id": 2012013090,
+      "order_seq": "question_2012011027_A",
+      "task_id": 201201003,
+      "tokens": [
+        {
+          "gloss": "获得",
+          "lemma": "obtain",
+          "surface": "obtain"
+        },
+        {
+          "gloss": "保护",
+          "lemma": "protection",
+          "surface": "protection"
+        },
+        {
+          "gloss": "从",
+          "lemma": "from",
+          "surface": "from"
+        },
+        {
+          "gloss": "佛蒙特州",
+          "lemma": "vermont",
+          "surface": "Vermont"
+        },
+        {
+          "gloss": "监管机构",
+          "lemma": "regulator",
+          "surface": "regulators"
+        }
+      ]
+    },
+    {
+      "cn_text": "寻求联邦立法机构的支持。",
+      "en_text": "seek favor from the federal legislature.",
+      "id": 2012013091,
+      "order_seq": "question_2012011027_B",
+      "task_id": 201201003,
+      "tokens": [
+        {
+          "gloss": "寻求",
+          "lemma": "seek",
+          "surface": "seek"
+        },
+        {
+          "gloss": "支持",
+          "lemma": "favor",
+          "surface": "favor"
+        },
+        {
+          "gloss": "从",
+          "lemma": "from",
+          "surface": "from"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "联邦的",
+          "lemma": "federal",
+          "surface": "federal"
+        },
+        {
+          "gloss": "立法机构",
+          "lemma": "legislature",
+          "surface": "legislature"
+        }
+      ]
+    },
+    {
+      "cn_text": "获得其营业执照的延期。",
+      "en_text": "acquire an extension of its business license.",
+      "id": 2012013092,
+      "order_seq": "question_2012011027_C",
+      "task_id": 201201003,
+      "tokens": [
+        {
+          "gloss": "获得",
+          "lemma": "acquire",
+          "surface": "acquire"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "an",
+          "surface": "an"
+        },
+        {
+          "gloss": "延期",
+          "lemma": "extension",
+          "surface": "extension"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "它的",
+          "lemma": "its",
+          "surface": "its"
+        },
+        {
+          "gloss": "营业",
+          "lemma": "business",
+          "surface": "business"
+        },
+        {
+          "gloss": "执照",
+          "lemma": "license",
+          "surface": "license"
+        }
+      ]
+    },
+    {
+      "cn_text": "获得购买发电厂的许可。",
+      "en_text": "get permission to purchase a power plant.",
+      "id": 2012013093,
+      "order_seq": "question_2012011027_D",
+      "task_id": 201201003,
+      "tokens": [
+        {
+          "gloss": "获得",
+          "lemma": "get",
+          "surface": "get"
+        },
+        {
+          "gloss": "许可",
+          "lemma": "permission",
+          "surface": "permission"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "购买",
+          "lemma": "purchase",
+          "surface": "purchase"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "电力",
+          "lemma": "power",
+          "surface": "power"
+        },
+        {
+          "gloss": "发电厂",
+          "lemma": "plant",
+          "surface": "plant"
+        }
+      ]
+    },
+    {
+      "cn_text": "根据第四段，Entergy 似乎在____方面存在问题。",
+      "en_text": "According to Paragraph 4, Entergy seems to have problems with its ____",
+      "id": 2012013094,
+      "order_seq": "question_2012011028_stem",
+      "task_id": 201201003,
+      "tokens": [
+        {
+          "gloss": "根据",
+          "lemma": "according",
+          "surface": "According"
+        },
+        {
+          "gloss": "至",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "段落",
+          "lemma": "paragraph",
+          "surface": "Paragraph"
+        },
+        {
+          "gloss": "Entergy公司",
+          "lemma": "entergy",
+          "surface": "Entergy"
+        },
+        {
+          "gloss": "似乎",
+          "lemma": "seem",
+          "surface": "seems"
+        },
+        {
+          "gloss": "在",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "有",
+          "lemma": "have",
+          "surface": "have"
+        },
+        {
+          "gloss": "问题",
+          "lemma": "problem",
+          "surface": "problems"
+        },
+        {
+          "gloss": "关于",
+          "lemma": "with",
+          "surface": "with"
+        },
+        {
+          "gloss": "它的",
+          "lemma": "its",
+          "surface": "its"
+        }
+      ]
+    },
+    {
+      "cn_text": "管理做法。",
+      "en_text": "managerial practices.",
+      "id": 2012013095,
+      "order_seq": "question_2012011028_A",
+      "task_id": 201201003,
+      "tokens": [
+        {
+          "gloss": "管理的",
+          "lemma": "managerial",
+          "surface": "managerial"
+        },
+        {
+          "gloss": "实践",
+          "lemma": "practice",
+          "surface": "practices"
+        }
+      ]
+    },
+    {
+      "cn_text": "技术创新。",
+      "en_text": "technical innovativeness.",
+      "id": 2012013096,
+      "order_seq": "question_2012011028_B",
+      "task_id": 201201003,
+      "tokens": [
+        {
+          "gloss": "技术的",
+          "lemma": "technical",
+          "surface": "technical"
+        },
+        {
+          "gloss": "创新性",
+          "lemma": "innovativeness",
+          "surface": "innovativeness"
+        }
+      ]
+    },
+    {
+      "cn_text": "财务目标。",
+      "en_text": "financial goals.",
+      "id": 2012013097,
+      "order_seq": "question_2012011028_C",
+      "task_id": 201201003,
+      "tokens": [
+        {
+          "gloss": "财务的",
+          "lemma": "financial",
+          "surface": "financial"
+        },
+        {
+          "gloss": "目标",
+          "lemma": "goal",
+          "surface": "goals"
+        }
+      ]
+    },
+    {
+      "cn_text": "商业远见。",
+      "en_text": "business vision.",
+      "id": 2012013098,
+      "order_seq": "question_2012011028_D",
+      "task_id": 201201003,
+      "tokens": [
+        {
+          "gloss": "商业",
+          "lemma": "business",
+          "surface": "business"
+        },
+        {
+          "gloss": "愿景",
+          "lemma": "vision",
+          "surface": "vision"
+        }
+      ]
+    },
+    {
+      "cn_text": "在作者看来，佛蒙特州案件将检验____。",
+      "en_text": "In the author’s view, the Vermont case will test ____",
+      "id": 2012013099,
+      "order_seq": "question_2012011029_stem",
+      "task_id": 201201003,
+      "tokens": [
+        {
+          "gloss": "在...中",
+          "lemma": "in",
+          "surface": "In"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "作者",
+          "lemma": "author",
+          "surface": "author’s"
+        },
+        {
+          "gloss": "观点",
+          "lemma": "view",
+          "surface": "view"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "佛蒙特州",
+          "lemma": "vermont",
+          "surface": "Vermont"
+        },
+        {
+          "gloss": "案例",
+          "lemma": "case",
+          "surface": "case"
+        },
+        {
+          "gloss": "将",
+          "lemma": "will",
+          "surface": "will"
+        },
+        {
+          "gloss": "检验",
+          "lemma": "test",
+          "surface": "test"
+        }
+      ]
+    },
+    {
+      "cn_text": "Entergy 履行其所有承诺的能力。",
+      "en_text": "Entergy’s capacity to fulfill all its promises.",
+      "id": 2012013100,
+      "order_seq": "question_2012011029_A",
+      "task_id": 201201003,
+      "tokens": [
+        {
+          "gloss": "Entergy公司",
+          "lemma": "entergy",
+          "surface": "Entergy’s"
+        },
+        {
+          "gloss": "能力",
+          "lemma": "capacity",
+          "surface": "capacity"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "履行",
+          "lemma": "fulfill",
+          "surface": "fulfill"
+        },
+        {
+          "gloss": "所有",
+          "lemma": "all",
+          "surface": "all"
+        },
+        {
+          "gloss": "它的",
+          "lemma": "its",
+          "surface": "its"
+        },
+        {
+          "gloss": "承诺",
+          "lemma": "promise",
+          "surface": "promises"
+        }
+      ]
+    },
+    {
+      "cn_text": "各州拼凑式法规的性质。",
+      "en_text": "the nature of states’ patchwork regulations.",
+      "id": 2012013101,
+      "order_seq": "question_2012011029_B",
+      "task_id": 201201003,
+      "tokens": [
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "性质",
+          "lemma": "nature",
+          "surface": "nature"
+        },
+        {
+          "gloss": "...的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "州",
+          "lemma": "state",
+          "surface": "states’"
+        },
+        {
+          "gloss": "拼凑",
+          "lemma": "patchwork",
+          "surface": "patchwork"
+        },
+        {
+          "gloss": "法规",
+          "lemma": "regulation",
+          "surface": "regulations"
+        }
+      ]
+    },
+    {
+      "cn_text": "联邦政府对核问题的权威。",
+      "en_text": "the federal authority over nuclear issues.",
+      "id": 2012013102,
+      "order_seq": "question_2012011029_C",
+      "task_id": 201201003,
+      "tokens": [
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "联邦的",
+          "lemma": "federal",
+          "surface": "federal"
+        },
+        {
+          "gloss": "权威",
+          "lemma": "authority",
+          "surface": "authority"
+        },
+        {
+          "gloss": "关于",
+          "lemma": "over",
+          "surface": "over"
+        },
+        {
+          "gloss": "核的",
+          "lemma": "nuclear",
+          "surface": "nuclear"
+        },
+        {
+          "gloss": "问题",
+          "lemma": "issue",
+          "surface": "issues"
+        }
+      ]
+    },
+    {
+      "cn_text": "州对核问题权力的边界。",
+      "en_text": "the limits of states’ power over nuclear issues.",
+      "id": 2012013103,
+      "order_seq": "question_2012011029_D",
+      "task_id": 201201003,
+      "tokens": [
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "限制",
+          "lemma": "limit",
+          "surface": "limits"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "州",
+          "lemma": "state",
+          "surface": "states"
+        },
+        {
+          "gloss": "权力",
+          "lemma": "power",
+          "surface": "power"
+        },
+        {
+          "gloss": "关于",
+          "lemma": "over",
+          "surface": "over"
+        },
+        {
+          "gloss": "核的",
+          "lemma": "nuclear",
+          "surface": "nuclear"
+        },
+        {
+          "gloss": "问题",
+          "lemma": "issue",
+          "surface": "issues"
+        }
+      ]
+    },
+    {
+      "cn_text": "从最后一段可以推断出____。",
+      "en_text": "It can be inferred from the last paragraph that ____",
+      "id": 2012013104,
+      "order_seq": "question_2012011030_stem",
+      "task_id": 201201003,
+      "tokens": [
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "It"
+        },
+        {
+          "gloss": "可以",
+          "lemma": "can",
+          "surface": "can"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "be"
+        },
+        {
+          "gloss": "推断",
+          "lemma": "infer",
+          "surface": "inferred"
+        },
+        {
+          "gloss": "从",
+          "lemma": "from",
+          "surface": "from"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "最后的",
+          "lemma": "last",
+          "surface": "last"
+        },
+        {
+          "gloss": "段落",
+          "lemma": "paragraph",
+          "surface": "paragraph"
+        },
+        {
+          "gloss": "那",
+          "lemma": "that",
+          "surface": "that"
+        }
+      ]
+    },
+    {
+      "cn_text": "Entergy 在其他地方的业务可能会受到影响。",
+      "en_text": "Entergy’s business elsewhere might be affected.",
+      "id": 2012013105,
+      "order_seq": "question_2012011030_A",
+      "task_id": 201201003,
+      "tokens": [
+        {
+          "gloss": "Entergy公司",
+          "lemma": "entergy",
+          "surface": "Entergy"
+        },
+        {
+          "gloss": "的",
+          "lemma": "’s",
+          "surface": "’s"
+        },
+        {
+          "gloss": "业务",
+          "lemma": "business",
+          "surface": "business"
+        },
+        {
+          "gloss": "其他地方",
+          "lemma": "elsewhere",
+          "surface": "elsewhere"
+        },
+        {
+          "gloss": "可能",
+          "lemma": "might",
+          "surface": "might"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "be"
+        },
+        {
+          "gloss": "影响",
+          "lemma": "affect",
+          "surface": "affected"
+        }
+      ]
+    },
+    {
+      "cn_text": "NRC 的权威将受到蔑视。",
+      "en_text": "the authority of the NRC will be defied.",
+      "id": 2012013106,
+      "order_seq": "question_2012011030_B",
+      "task_id": 201201003,
+      "tokens": [
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "权威",
+          "lemma": "authority",
+          "surface": "authority"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "核管理委员会",
+          "lemma": "nrc",
+          "surface": "NRC"
+        },
+        {
+          "gloss": "将",
+          "lemma": "will",
+          "surface": "will"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "be"
+        },
+        {
+          "gloss": "挑战",
+          "lemma": "defy",
+          "surface": "defied"
+        }
+      ]
+    },
+    {
+      "cn_text": "Entergy 将撤回其普利茅斯申请。",
+      "en_text": "Entergy will withdraw its Plymouth application.",
+      "id": 2012013107,
+      "order_seq": "question_2012011030_C",
+      "task_id": 201201003,
+      "tokens": [
+        {
+          "gloss": "Entergy公司",
+          "lemma": "entergy",
+          "surface": "Entergy"
+        },
+        {
+          "gloss": "将",
+          "lemma": "will",
+          "surface": "will"
+        },
+        {
+          "gloss": "撤回",
+          "lemma": "withdraw",
+          "surface": "withdraw"
+        },
+        {
+          "gloss": "它的",
+          "lemma": "its",
+          "surface": "its"
+        },
+        {
+          "gloss": "普利茅斯",
+          "lemma": "plymouth",
+          "surface": "Plymouth"
+        },
+        {
+          "gloss": "申请",
+          "lemma": "application",
+          "surface": "application"
+        }
+      ]
+    },
+    {
+      "cn_text": "佛蒙特州的声誉可能会受损。",
+      "en_text": "Vermont’s reputation might be damaged.",
+      "id": 2012013108,
+      "order_seq": "question_2012011030_D",
+      "task_id": 201201003,
+      "tokens": [
+        {
+          "gloss": "佛蒙特州",
+          "lemma": "vermont",
+          "surface": "Vermont"
+        },
+        {
+          "gloss": "的",
+          "lemma": "’s",
+          "surface": "’s"
+        },
+        {
+          "gloss": "声誉",
+          "lemma": "reputation",
+          "surface": "reputation"
+        },
+        {
+          "gloss": "可能",
+          "lemma": "might",
+          "surface": "might"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "be"
+        },
+        {
+          "gloss": "损害",
+          "lemma": "damage",
+          "surface": "damaged"
+        }
+      ]
+    }
+  ],
+  "success": true
+}

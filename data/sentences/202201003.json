@@ -1,0 +1,3346 @@
+{
+  "sentences": [
+    {
+      "cn_text": "随着最新一批学生填写本科申请表并权衡各种选择，或许值得思考学位的意义、目的和价值发生了怎样的变化，以及Z世代在开启教育旅程第三阶段之际需要考虑哪些问题。",
+      "en_text": "As the latest crop of students pen their undergraduate application form and weigh up their options, it may be worth considering just how the point, purpose and value of a degree has changed and what Generation Z need to consider as they start the third stage of their educational journey.",
+      "id": 2022013065,
+      "order_seq": "content_1_1",
+      "task_id": 202201003,
+      "tokens": [
+        {
+          "gloss": "随着",
+          "lemma": "as",
+          "surface": "as"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "最新的",
+          "lemma": "latest",
+          "surface": "latest"
+        },
+        {
+          "gloss": "一批",
+          "lemma": "crop",
+          "surface": "crop"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "学生",
+          "lemma": "student",
+          "surface": "students"
+        },
+        {
+          "gloss": "填写",
+          "lemma": "pen",
+          "surface": "pen"
+        },
+        {
+          "gloss": "他们的",
+          "lemma": "their",
+          "surface": "their"
+        },
+        {
+          "gloss": "本科的",
+          "lemma": "undergraduate",
+          "surface": "undergraduate"
+        },
+        {
+          "gloss": "申请",
+          "lemma": "application",
+          "surface": "application"
+        },
+        {
+          "gloss": "表格",
+          "lemma": "form",
+          "surface": "form"
+        },
+        {
+          "gloss": "并且",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "权衡",
+          "lemma": "weigh",
+          "surface": "weigh"
+        },
+        {
+          "gloss": "向上",
+          "lemma": "up",
+          "surface": "up"
+        },
+        {
+          "gloss": "他们的",
+          "lemma": "their",
+          "surface": "their"
+        },
+        {
+          "gloss": "选择",
+          "lemma": "option",
+          "surface": "options"
+        },
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "it"
+        },
+        {
+          "gloss": "可能",
+          "lemma": "may",
+          "surface": "may"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "be"
+        },
+        {
+          "gloss": "值得",
+          "lemma": "worth",
+          "surface": "worth"
+        },
+        {
+          "gloss": "考虑",
+          "lemma": "consider",
+          "surface": "considering"
+        },
+        {
+          "gloss": "仅仅",
+          "lemma": "just",
+          "surface": "just"
+        },
+        {
+          "gloss": "如何",
+          "lemma": "how",
+          "surface": "how"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "意义",
+          "lemma": "point",
+          "surface": "point"
+        },
+        {
+          "gloss": "目的",
+          "lemma": "purpose",
+          "surface": "purpose"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "价值",
+          "lemma": "value",
+          "surface": "value"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "学位",
+          "lemma": "degree",
+          "surface": "degree"
+        },
+        {
+          "gloss": "已经",
+          "lemma": "have",
+          "surface": "has"
+        },
+        {
+          "gloss": "变化",
+          "lemma": "change",
+          "surface": "changed"
+        },
+        {
+          "gloss": "以及",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "什么",
+          "lemma": "what",
+          "surface": "what"
+        },
+        {
+          "gloss": "世代",
+          "lemma": "generation",
+          "surface": "generation"
+        },
+        {
+          "gloss": "Z世代",
+          "lemma": "z",
+          "surface": "z"
+        },
+        {
+          "gloss": "需要",
+          "lemma": "need",
+          "surface": "need"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "考虑",
+          "lemma": "consider",
+          "surface": "consider"
+        },
+        {
+          "gloss": "当",
+          "lemma": "as",
+          "surface": "as"
+        },
+        {
+          "gloss": "他们",
+          "lemma": "they",
+          "surface": "they"
+        },
+        {
+          "gloss": "开始",
+          "lemma": "start",
+          "surface": "start"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "第三",
+          "lemma": "third",
+          "surface": "third"
+        },
+        {
+          "gloss": "阶段",
+          "lemma": "stage",
+          "surface": "stage"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "他们的",
+          "lemma": "their",
+          "surface": "their"
+        },
+        {
+          "gloss": "教育的",
+          "lemma": "educational",
+          "surface": "educational"
+        },
+        {
+          "gloss": "旅程",
+          "lemma": "journey",
+          "surface": "journey"
+        }
+      ]
+    },
+    {
+      "cn_text": "千禧一代曾被告知，只要在校表现优异、拿到一个体面的学位，就能一生无忧。",
+      "en_text": "Millennials were told that if you did well in school, got a decent degree, you would be set up for life.",
+      "id": 2022013066,
+      "order_seq": "content_2_1",
+      "task_id": 202201003,
+      "tokens": [
+        {
+          "gloss": "千禧一代",
+          "lemma": "millennial",
+          "surface": "millennials"
+        },
+        {
+          "gloss": "被",
+          "lemma": "be",
+          "surface": "were"
+        },
+        {
+          "gloss": "告知",
+          "lemma": "tell",
+          "surface": "told"
+        },
+        {
+          "gloss": "如果",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "如果",
+          "lemma": "if",
+          "surface": "if"
+        },
+        {
+          "gloss": "你",
+          "lemma": "you",
+          "surface": "you"
+        },
+        {
+          "gloss": "做",
+          "lemma": "do",
+          "surface": "did"
+        },
+        {
+          "gloss": "好",
+          "lemma": "well",
+          "surface": "well"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "学校",
+          "lemma": "school",
+          "surface": "school"
+        },
+        {
+          "gloss": "获得",
+          "lemma": "get",
+          "surface": "got"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "像样的",
+          "lemma": "decent",
+          "surface": "decent"
+        },
+        {
+          "gloss": "学位",
+          "lemma": "degree",
+          "surface": "degree"
+        },
+        {
+          "gloss": "你",
+          "lemma": "you",
+          "surface": "you"
+        },
+        {
+          "gloss": "会",
+          "lemma": "would",
+          "surface": "would"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "be"
+        },
+        {
+          "gloss": "安排",
+          "lemma": "set",
+          "surface": "set"
+        },
+        {
+          "gloss": "向上",
+          "lemma": "up",
+          "surface": "up"
+        },
+        {
+          "gloss": "为了",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "生活",
+          "lemma": "life",
+          "surface": "life"
+        }
+      ]
+    },
+    {
+      "cn_text": "但这一承诺已被证明并不可靠。",
+      "en_text": "But that promise has been found wanting.",
+      "id": 2022013067,
+      "order_seq": "content_2_2",
+      "task_id": 202201003,
+      "tokens": [
+        {
+          "gloss": "但是",
+          "lemma": "but",
+          "surface": "but"
+        },
+        {
+          "gloss": "那个",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "承诺",
+          "lemma": "promise",
+          "surface": "promise"
+        },
+        {
+          "gloss": "已经",
+          "lemma": "have",
+          "surface": "has"
+        },
+        {
+          "gloss": "被",
+          "lemma": "be",
+          "surface": "been"
+        },
+        {
+          "gloss": "发现",
+          "lemma": "find",
+          "surface": "found"
+        },
+        {
+          "gloss": "不足的",
+          "lemma": "wanting",
+          "surface": "wanting"
+        }
+      ]
+    },
+    {
+      "cn_text": "随着学位日益普及，其含金量也随之下降。",
+      "en_text": "As degrees became universal, they became devalued.",
+      "id": 2022013068,
+      "order_seq": "content_2_3",
+      "task_id": 202201003,
+      "tokens": [
+        {
+          "gloss": "随着",
+          "lemma": "as",
+          "surface": "as"
+        },
+        {
+          "gloss": "学位",
+          "lemma": "degree",
+          "surface": "degrees"
+        },
+        {
+          "gloss": "变得",
+          "lemma": "become",
+          "surface": "became"
+        },
+        {
+          "gloss": "普遍的",
+          "lemma": "universal",
+          "surface": "universal"
+        },
+        {
+          "gloss": "它们",
+          "lemma": "they",
+          "surface": "they"
+        },
+        {
+          "gloss": "变得",
+          "lemma": "become",
+          "surface": "became"
+        },
+        {
+          "gloss": "贬值",
+          "lemma": "devalue",
+          "surface": "devalued"
+        }
+      ]
+    },
+    {
+      "cn_text": "教育不再是实现社会流动的可靠途径。",
+      "en_text": "Education was no longer a secure route of social mobility.",
+      "id": 2022013069,
+      "order_seq": "content_2_4",
+      "task_id": 202201003,
+      "tokens": [
+        {
+          "gloss": "教育",
+          "lemma": "education",
+          "surface": "Education"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "was"
+        },
+        {
+          "gloss": "不",
+          "lemma": "no",
+          "surface": "no"
+        },
+        {
+          "gloss": "再",
+          "lemma": "long",
+          "surface": "longer"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "可靠的",
+          "lemma": "secure",
+          "surface": "secure"
+        },
+        {
+          "gloss": "途径",
+          "lemma": "route",
+          "surface": "route"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "社会的",
+          "lemma": "social",
+          "surface": "social"
+        },
+        {
+          "gloss": "流动性",
+          "lemma": "mobility",
+          "surface": "mobility"
+        }
+      ]
+    },
+    {
+      "cn_text": "如今，英国有28%的毕业生从事无需学位的工作，这一比例是经合组织国家平均水平的两倍。",
+      "en_text": "Today, 28 percent of graduates in the UK are in non-graduate roles, a percentage which is double the average among OECD countries.",
+      "id": 2022013070,
+      "order_seq": "content_2_5",
+      "task_id": 202201003,
+      "tokens": [
+        {
+          "gloss": "如今",
+          "lemma": "today",
+          "surface": "Today"
+        },
+        {
+          "gloss": "百分比",
+          "lemma": "percent",
+          "surface": "percent"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "毕业生",
+          "lemma": "graduate",
+          "surface": "graduates"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "英国",
+          "lemma": "uk",
+          "surface": "UK"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "are"
+        },
+        {
+          "gloss": "从事",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "非",
+          "lemma": "non",
+          "surface": "non"
+        },
+        {
+          "gloss": "毕业生",
+          "lemma": "graduate",
+          "surface": "graduate"
+        },
+        {
+          "gloss": "岗位",
+          "lemma": "role",
+          "surface": "roles"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "比例",
+          "lemma": "percentage",
+          "surface": "percentage"
+        },
+        {
+          "gloss": "这",
+          "lemma": "which",
+          "surface": "which"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "两倍的",
+          "lemma": "double",
+          "surface": "double"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "平均水平",
+          "lemma": "average",
+          "surface": "average"
+        },
+        {
+          "gloss": "在...之中",
+          "lemma": "among",
+          "surface": "among"
+        },
+        {
+          "gloss": "经合组织",
+          "lemma": "oecd",
+          "surface": "OECD"
+        },
+        {
+          "gloss": "国家",
+          "lemma": "country",
+          "surface": "countries"
+        }
+      ]
+    },
+    {
+      "cn_text": "这并不是说获得学位毫无意义，而是强调学位并非适合所有人，从教室到讲堂的转变并非不可避免的必然选择，此外还有其他路径可供选择。",
+      "en_text": "This is not to say that there is no point in getting a degree, but rather stress that a degree is not for everyone, that the switch from classroom to lecture hall is not an inevitable one and that other options are available.",
+      "id": 2022013071,
+      "order_seq": "content_3_1",
+      "task_id": 202201003,
+      "tokens": [
+        {
+          "gloss": "这",
+          "lemma": "this",
+          "surface": "This"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "不",
+          "lemma": "not",
+          "surface": "not"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "说",
+          "lemma": "say",
+          "surface": "say"
+        },
+        {
+          "gloss": "表明",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "有",
+          "lemma": "there",
+          "surface": "there"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "没有",
+          "lemma": "no",
+          "surface": "no"
+        },
+        {
+          "gloss": "意义",
+          "lemma": "point",
+          "surface": "point"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "获得",
+          "lemma": "get",
+          "surface": "getting"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "学位",
+          "lemma": "degree",
+          "surface": "degree"
+        },
+        {
+          "gloss": "而是",
+          "lemma": "but",
+          "surface": "but"
+        },
+        {
+          "gloss": "而是",
+          "lemma": "rather",
+          "surface": "rather"
+        },
+        {
+          "gloss": "强调",
+          "lemma": "stress",
+          "surface": "stress"
+        },
+        {
+          "gloss": "表明",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "学位",
+          "lemma": "degree",
+          "surface": "degree"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "不",
+          "lemma": "not",
+          "surface": "not"
+        },
+        {
+          "gloss": "适合",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "每个人",
+          "lemma": "everyone",
+          "surface": "everyone"
+        },
+        {
+          "gloss": "表明",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "转变",
+          "lemma": "switch",
+          "surface": "switch"
+        },
+        {
+          "gloss": "从",
+          "lemma": "from",
+          "surface": "from"
+        },
+        {
+          "gloss": "教室",
+          "lemma": "classroom",
+          "surface": "classroom"
+        },
+        {
+          "gloss": "到",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "讲堂",
+          "lemma": "lecture",
+          "surface": "lecture"
+        },
+        {
+          "gloss": "大厅",
+          "lemma": "hall",
+          "surface": "hall"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "不",
+          "lemma": "not",
+          "surface": "not"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "an",
+          "surface": "an"
+        },
+        {
+          "gloss": "不可避免的",
+          "lemma": "inevitable",
+          "surface": "inevitable"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "one",
+          "surface": "one"
+        },
+        {
+          "gloss": "并且",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "表明",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "其他的",
+          "lemma": "other",
+          "surface": "other"
+        },
+        {
+          "gloss": "选择",
+          "lemma": "option",
+          "surface": "options"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "are"
+        },
+        {
+          "gloss": "可用的",
+          "lemma": "available",
+          "surface": "available"
+        }
+      ]
+    },
+    {
+      "cn_text": "值得庆幸的是，已有迹象表明这种转变正在发生：Z世代正努力汲取千禧一代前辈的经验教训，尽管父母和教师往往仍固守学位思维。",
+      "en_text": "Thankfully, there are signs that this is already happening, with Generation Z seeking to learn from their millennial predecessors, even if parents and teachers tend to be still set in the degree mindset.",
+      "id": 2022013072,
+      "order_seq": "content_4_1",
+      "task_id": 202201003,
+      "tokens": [
+        {
+          "gloss": "值得庆幸地",
+          "lemma": "thankfully",
+          "surface": "Thankfully"
+        },
+        {
+          "gloss": "有",
+          "lemma": "there",
+          "surface": "there"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "are"
+        },
+        {
+          "gloss": "迹象",
+          "lemma": "sign",
+          "surface": "signs"
+        },
+        {
+          "gloss": "表明",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "这",
+          "lemma": "this",
+          "surface": "this"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "已经",
+          "lemma": "already",
+          "surface": "already"
+        },
+        {
+          "gloss": "发生",
+          "lemma": "happen",
+          "surface": "happening"
+        },
+        {
+          "gloss": "随着",
+          "lemma": "with",
+          "surface": "with"
+        },
+        {
+          "gloss": "世代",
+          "lemma": "generation",
+          "surface": "Generation"
+        },
+        {
+          "gloss": "Z世代",
+          "lemma": "z",
+          "surface": "Z"
+        },
+        {
+          "gloss": "寻求",
+          "lemma": "seek",
+          "surface": "seeking"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "学习",
+          "lemma": "learn",
+          "surface": "learn"
+        },
+        {
+          "gloss": "从",
+          "lemma": "from",
+          "surface": "from"
+        },
+        {
+          "gloss": "他们的",
+          "lemma": "their",
+          "surface": "their"
+        },
+        {
+          "gloss": "千禧一代的",
+          "lemma": "millennial",
+          "surface": "millennial"
+        },
+        {
+          "gloss": "前辈",
+          "lemma": "predecessor",
+          "surface": "predecessors"
+        },
+        {
+          "gloss": "即使",
+          "lemma": "even",
+          "surface": "even"
+        },
+        {
+          "gloss": "如果",
+          "lemma": "if",
+          "surface": "if"
+        },
+        {
+          "gloss": "父母",
+          "lemma": "parent",
+          "surface": "parents"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "老师",
+          "lemma": "teacher",
+          "surface": "teachers"
+        },
+        {
+          "gloss": "倾向于",
+          "lemma": "tend",
+          "surface": "tend"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "be"
+        },
+        {
+          "gloss": "仍然",
+          "lemma": "still",
+          "surface": "still"
+        },
+        {
+          "gloss": "坚持",
+          "lemma": "set",
+          "surface": "set"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "学位",
+          "lemma": "degree",
+          "surface": "degree"
+        },
+        {
+          "gloss": "思维模式",
+          "lemma": "mindset",
+          "surface": "mindset"
+        }
+      ]
+    },
+    {
+      "cn_text": "雇主们早已看到雇用中学毕业生的优势：这些人往往比大学毕业生更敬业、更忠诚。",
+      "en_text": "Employers have long seen the advantages of hiring school leavers who often prove themselves to be more committed and loyal employees than graduates.",
+      "id": 2022013073,
+      "order_seq": "content_4_2",
+      "task_id": 202201003,
+      "tokens": [
+        {
+          "gloss": "雇主",
+          "lemma": "employer",
+          "surface": "Employers"
+        },
+        {
+          "gloss": "已经",
+          "lemma": "have",
+          "surface": "have"
+        },
+        {
+          "gloss": "长期以来",
+          "lemma": "long",
+          "surface": "long"
+        },
+        {
+          "gloss": "看到",
+          "lemma": "see",
+          "surface": "seen"
+        },
+        {
+          "gloss": "这些",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "优势",
+          "lemma": "advantage",
+          "surface": "advantages"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "雇用",
+          "lemma": "hire",
+          "surface": "hiring"
+        },
+        {
+          "gloss": "学校",
+          "lemma": "school",
+          "surface": "school"
+        },
+        {
+          "gloss": "离校生",
+          "lemma": "leaver",
+          "surface": "leavers"
+        },
+        {
+          "gloss": "那些",
+          "lemma": "who",
+          "surface": "who"
+        },
+        {
+          "gloss": "经常",
+          "lemma": "often",
+          "surface": "often"
+        },
+        {
+          "gloss": "证明",
+          "lemma": "prove",
+          "surface": "prove"
+        },
+        {
+          "gloss": "他们自己",
+          "lemma": "themselves",
+          "surface": "themselves"
+        },
+        {
+          "gloss": "成为",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "be"
+        },
+        {
+          "gloss": "更",
+          "lemma": "more",
+          "surface": "more"
+        },
+        {
+          "gloss": "有责任心的",
+          "lemma": "committed",
+          "surface": "committed"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "忠诚的",
+          "lemma": "loyal",
+          "surface": "loyal"
+        },
+        {
+          "gloss": "员工",
+          "lemma": "employee",
+          "surface": "employees"
+        },
+        {
+          "gloss": "比",
+          "lemma": "than",
+          "surface": "than"
+        },
+        {
+          "gloss": "大学毕业生",
+          "lemma": "graduate",
+          "surface": "graduates"
+        }
+      ]
+    },
+    {
+      "cn_text": "许多雇主也逐渐意识到，取消某些职位的学位要求同样具有优势。",
+      "en_text": "Many too are seeing the advantages of scrapping a degree requirement for certain roles.",
+      "id": 2022013074,
+      "order_seq": "content_4_3",
+      "task_id": 202201003,
+      "tokens": [
+        {
+          "gloss": "许多",
+          "lemma": "many",
+          "surface": "Many"
+        },
+        {
+          "gloss": "也",
+          "lemma": "too",
+          "surface": "too"
+        },
+        {
+          "gloss": "正在",
+          "lemma": "be",
+          "surface": "are"
+        },
+        {
+          "gloss": "看到",
+          "lemma": "see",
+          "surface": "seeing"
+        },
+        {
+          "gloss": "这些",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "优势",
+          "lemma": "advantage",
+          "surface": "advantages"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "取消",
+          "lemma": "scrap",
+          "surface": "scrapping"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "学位",
+          "lemma": "degree",
+          "surface": "degree"
+        },
+        {
+          "gloss": "要求",
+          "lemma": "requirement",
+          "surface": "requirement"
+        },
+        {
+          "gloss": "对于",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "某些",
+          "lemma": "certain",
+          "surface": "certain"
+        },
+        {
+          "gloss": "职位",
+          "lemma": "role",
+          "surface": "roles"
+        }
+      ]
+    },
+    {
+      "cn_text": "对于那些将攻读学位视为理想途径的人来说，这或许只是他们将获得的众多学位中的第一个。",
+      "en_text": "For those for whom a degree is the desired route, consider that this may well be the first of many.",
+      "id": 2022013075,
+      "order_seq": "content_5_1",
+      "task_id": 202201003,
+      "tokens": [
+        {
+          "gloss": "对于",
+          "lemma": "for",
+          "surface": "For"
+        },
+        {
+          "gloss": "那些",
+          "lemma": "those",
+          "surface": "those"
+        },
+        {
+          "gloss": "对于",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "谁",
+          "lemma": "whom",
+          "surface": "whom"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "学位",
+          "lemma": "degree",
+          "surface": "degree"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "理想的",
+          "lemma": "desire",
+          "surface": "desired"
+        },
+        {
+          "gloss": "途径",
+          "lemma": "route",
+          "surface": "route"
+        },
+        {
+          "gloss": "考虑",
+          "lemma": "consider",
+          "surface": "consider"
+        },
+        {
+          "gloss": "这",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "这",
+          "lemma": "this",
+          "surface": "this"
+        },
+        {
+          "gloss": "可能",
+          "lemma": "may",
+          "surface": "may"
+        },
+        {
+          "gloss": "确实",
+          "lemma": "well",
+          "surface": "well"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "be"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "第一个",
+          "lemma": "first",
+          "surface": "first"
+        },
+        {
+          "gloss": "中的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "众多",
+          "lemma": "many",
+          "surface": "many"
+        }
+      ]
+    },
+    {
+      "cn_text": "在这个通才辈出的时代，拥有专业知识或技能才更加有利。",
+      "en_text": "In this age of generalists, it pays to have specific knowledge or skills.",
+      "id": 2022013076,
+      "order_seq": "content_5_2",
+      "task_id": 202201003,
+      "tokens": [
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "In"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "this",
+          "surface": "this"
+        },
+        {
+          "gloss": "时代",
+          "lemma": "age",
+          "surface": "age"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "通才",
+          "lemma": "generalist",
+          "surface": "generalists"
+        },
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "it"
+        },
+        {
+          "gloss": "有益",
+          "lemma": "pay",
+          "surface": "pays"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "拥有",
+          "lemma": "have",
+          "surface": "have"
+        },
+        {
+          "gloss": "特定的",
+          "lemma": "specific",
+          "surface": "specific"
+        },
+        {
+          "gloss": "知识",
+          "lemma": "knowledge",
+          "surface": "knowledge"
+        },
+        {
+          "gloss": "或",
+          "lemma": "or",
+          "surface": "or"
+        },
+        {
+          "gloss": "技能",
+          "lemma": "skill",
+          "surface": "skills"
+        }
+      ]
+    },
+    {
+      "cn_text": "如今研究生的收入比本科生高出40%。",
+      "en_text": "Postgraduates now earn 40 percent more than graduates.",
+      "id": 2022013077,
+      "order_seq": "content_5_3",
+      "task_id": 202201003,
+      "tokens": [
+        {
+          "gloss": "研究生",
+          "lemma": "postgraduate",
+          "surface": "Postgraduates"
+        },
+        {
+          "gloss": "现在",
+          "lemma": "now",
+          "surface": "now"
+        },
+        {
+          "gloss": "赚得",
+          "lemma": "earn",
+          "surface": "earn"
+        },
+        {
+          "gloss": "百分比",
+          "lemma": "percent",
+          "surface": "percent"
+        },
+        {
+          "gloss": "更多",
+          "lemma": "more",
+          "surface": "more"
+        },
+        {
+          "gloss": "比",
+          "lemma": "than",
+          "surface": "than"
+        },
+        {
+          "gloss": "本科生",
+          "lemma": "graduate",
+          "surface": "graduates"
+        }
+      ]
+    },
+    {
+      "cn_text": "当越来越多的人拥有一个学位时，拥有两个学位便显得更为合理。",
+      "en_text": "When more and more of us have a degree, it makes sense to have two.",
+      "id": 2022013078,
+      "order_seq": "content_5_4",
+      "task_id": 202201003,
+      "tokens": [
+        {
+          "gloss": "当",
+          "lemma": "when",
+          "surface": "When"
+        },
+        {
+          "gloss": "更多",
+          "lemma": "more",
+          "surface": "more"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "更多",
+          "lemma": "more",
+          "surface": "more"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "我们",
+          "lemma": "us",
+          "surface": "us"
+        },
+        {
+          "gloss": "拥有",
+          "lemma": "have",
+          "surface": "have"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "学位",
+          "lemma": "degree",
+          "surface": "degree"
+        },
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "it"
+        },
+        {
+          "gloss": "使得",
+          "lemma": "make",
+          "surface": "makes"
+        },
+        {
+          "gloss": "合理",
+          "lemma": "sense",
+          "surface": "sense"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "拥有",
+          "lemma": "have",
+          "surface": "have"
+        },
+        {
+          "gloss": "两个",
+          "lemma": "two",
+          "surface": "two"
+        }
+      ]
+    },
+    {
+      "cn_text": "Z世代不太可能在18岁或21岁就结束教育：他们需要在整个职业生涯中不断提升技能，以保持就业竞争力。",
+      "en_text": "It is unlikely that Generation Z will be done with education at 18 or 21: they will need to be constantly upskilling throughout their career to stay employable.",
+      "id": 2022013079,
+      "order_seq": "content_6_1",
+      "task_id": 202201003,
+      "tokens": [
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "It"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "不太可能",
+          "lemma": "unlikely",
+          "surface": "unlikely"
+        },
+        {
+          "gloss": "表明",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "世代",
+          "lemma": "generation",
+          "surface": "Generation"
+        },
+        {
+          "gloss": "Z世代",
+          "lemma": "z",
+          "surface": "Z"
+        },
+        {
+          "gloss": "将",
+          "lemma": "will",
+          "surface": "will"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "be"
+        },
+        {
+          "gloss": "完成",
+          "lemma": "do",
+          "surface": "done"
+        },
+        {
+          "gloss": "完成",
+          "lemma": "with",
+          "surface": "with"
+        },
+        {
+          "gloss": "教育",
+          "lemma": "education",
+          "surface": "education"
+        },
+        {
+          "gloss": "在",
+          "lemma": "at",
+          "surface": "at"
+        },
+        {
+          "gloss": "或",
+          "lemma": "or",
+          "surface": "or"
+        },
+        {
+          "gloss": "他们",
+          "lemma": "they",
+          "surface": "they"
+        },
+        {
+          "gloss": "将",
+          "lemma": "will",
+          "surface": "will"
+        },
+        {
+          "gloss": "需要",
+          "lemma": "need",
+          "surface": "need"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "be"
+        },
+        {
+          "gloss": "不断地",
+          "lemma": "constantly",
+          "surface": "constantly"
+        },
+        {
+          "gloss": "提升技能",
+          "lemma": "upskill",
+          "surface": "upskilling"
+        },
+        {
+          "gloss": "贯穿",
+          "lemma": "throughout",
+          "surface": "throughout"
+        },
+        {
+          "gloss": "他们的",
+          "lemma": "their",
+          "surface": "their"
+        },
+        {
+          "gloss": "职业生涯",
+          "lemma": "career",
+          "surface": "career"
+        },
+        {
+          "gloss": "以",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "保持",
+          "lemma": "stay",
+          "surface": "stay"
+        },
+        {
+          "gloss": "可就业的",
+          "lemma": "employable",
+          "surface": "employable"
+        }
+      ]
+    },
+    {
+      "cn_text": "据估计，由于技术带来的压力、对个人成就感的追求以及对多样化的渴望，这一代人在职业生涯中将为17个不同的雇主工作，并从事五种不同的职业。",
+      "en_text": "It has been estimated that this generation, due to the pressures of technology, the wish for personal fulfillment and desire for diversity will work for 17 different employers over the course of their working life and have five different careers.",
+      "id": 2022013080,
+      "order_seq": "content_6_2",
+      "task_id": 202201003,
+      "tokens": [
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "It"
+        },
+        {
+          "gloss": "已经",
+          "lemma": "have",
+          "surface": "has"
+        },
+        {
+          "gloss": "被",
+          "lemma": "be",
+          "surface": "been"
+        },
+        {
+          "gloss": "估计",
+          "lemma": "estimate",
+          "surface": "estimated"
+        },
+        {
+          "gloss": "表明",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "这",
+          "lemma": "this",
+          "surface": "this"
+        },
+        {
+          "gloss": "世代",
+          "lemma": "generation",
+          "surface": "generation"
+        },
+        {
+          "gloss": "由于",
+          "lemma": "due",
+          "surface": "due"
+        },
+        {
+          "gloss": "由于",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "表特指",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "压力",
+          "lemma": "pressure",
+          "surface": "pressures"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "技术",
+          "lemma": "technology",
+          "surface": "technology"
+        },
+        {
+          "gloss": "表特指",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "愿望",
+          "lemma": "wish",
+          "surface": "wish"
+        },
+        {
+          "gloss": "对",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "个人的",
+          "lemma": "personal",
+          "surface": "personal"
+        },
+        {
+          "gloss": "成就",
+          "lemma": "fulfillment",
+          "surface": "fulfillment"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "渴望",
+          "lemma": "desire",
+          "surface": "desire"
+        },
+        {
+          "gloss": "对",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "多样性",
+          "lemma": "diversity",
+          "surface": "diversity"
+        },
+        {
+          "gloss": "将",
+          "lemma": "will",
+          "surface": "will"
+        },
+        {
+          "gloss": "工作",
+          "lemma": "work",
+          "surface": "work"
+        },
+        {
+          "gloss": "为",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "不同的",
+          "lemma": "different",
+          "surface": "different"
+        },
+        {
+          "gloss": "雇主",
+          "lemma": "employer",
+          "surface": "employers"
+        },
+        {
+          "gloss": "在……期间",
+          "lemma": "over",
+          "surface": "over"
+        },
+        {
+          "gloss": "表特指",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "过程",
+          "lemma": "course",
+          "surface": "course"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "他们的",
+          "lemma": "their",
+          "surface": "their"
+        },
+        {
+          "gloss": "工作的",
+          "lemma": "working",
+          "surface": "working"
+        },
+        {
+          "gloss": "生活",
+          "lemma": "life",
+          "surface": "life"
+        },
+        {
+          "gloss": "并且",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "拥有",
+          "lemma": "have",
+          "surface": "have"
+        },
+        {
+          "gloss": "五",
+          "lemma": "five",
+          "surface": "five"
+        },
+        {
+          "gloss": "不同的",
+          "lemma": "different",
+          "surface": "different"
+        },
+        {
+          "gloss": "职业",
+          "lemma": "career",
+          "surface": "careers"
+        }
+      ]
+    },
+    {
+      "cn_text": "教育——而不仅仅是校园中获得的知识——将成为Z世代职业发展轨迹的核心组成部分。",
+      "en_text": "Education, and not just knowledge gained on campus, will be a core part of Generation Z’s career trajectory.",
+      "id": 2022013081,
+      "order_seq": "content_6_3",
+      "task_id": 202201003,
+      "tokens": [
+        {
+          "gloss": "教育",
+          "lemma": "education",
+          "surface": "Education"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "不",
+          "lemma": "not",
+          "surface": "not"
+        },
+        {
+          "gloss": "仅仅",
+          "lemma": "just",
+          "surface": "just"
+        },
+        {
+          "gloss": "知识",
+          "lemma": "knowledge",
+          "surface": "knowledge"
+        },
+        {
+          "gloss": "获得",
+          "lemma": "gain",
+          "surface": "gained"
+        },
+        {
+          "gloss": "在",
+          "lemma": "on",
+          "surface": "on"
+        },
+        {
+          "gloss": "校园",
+          "lemma": "campus",
+          "surface": "campus"
+        },
+        {
+          "gloss": "将",
+          "lemma": "will",
+          "surface": "will"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "be"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "核心的",
+          "lemma": "core",
+          "surface": "core"
+        },
+        {
+          "gloss": "部分",
+          "lemma": "part",
+          "surface": "part"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "世代",
+          "lemma": "generation",
+          "surface": "Generation"
+        },
+        {
+          "gloss": "Z 世代的",
+          "lemma": "z’s",
+          "surface": "Z’s"
+        },
+        {
+          "gloss": "职业",
+          "lemma": "career",
+          "surface": "career"
+        },
+        {
+          "gloss": "轨迹",
+          "lemma": "trajectory",
+          "surface": "trajectory"
+        }
+      ]
+    },
+    {
+      "cn_text": "老一辈人常以现在时和第一人称谈论自己的学位：「我是地理学家」或「我是古典学家」。",
+      "en_text": "Older generations often talk about their degree in the present and personal tense: ‘I am a geographer’ or ‘I am a classist’.",
+      "id": 2022013082,
+      "order_seq": "content_7_1",
+      "task_id": 202201003,
+      "tokens": [
+        {
+          "gloss": "年长的",
+          "lemma": "old",
+          "surface": "Older"
+        },
+        {
+          "gloss": "世代",
+          "lemma": "generation",
+          "surface": "generations"
+        },
+        {
+          "gloss": "经常",
+          "lemma": "often",
+          "surface": "often"
+        },
+        {
+          "gloss": "谈论",
+          "lemma": "talk",
+          "surface": "talk"
+        },
+        {
+          "gloss": "关于",
+          "lemma": "about",
+          "surface": "about"
+        },
+        {
+          "gloss": "他们的",
+          "lemma": "their",
+          "surface": "their"
+        },
+        {
+          "gloss": "学位",
+          "lemma": "degree",
+          "surface": "degree"
+        },
+        {
+          "gloss": "以",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "现在的",
+          "lemma": "present",
+          "surface": "present"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "个人的",
+          "lemma": "personal",
+          "surface": "personal"
+        },
+        {
+          "gloss": "时态",
+          "lemma": "tense",
+          "surface": "tense"
+        },
+        {
+          "gloss": "我",
+          "lemma": "i",
+          "surface": "I"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "am"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "地理学家",
+          "lemma": "geographer",
+          "surface": "geographer"
+        },
+        {
+          "gloss": "或者",
+          "lemma": "or",
+          "surface": "or"
+        },
+        {
+          "gloss": "我",
+          "lemma": "i",
+          "surface": "I"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "am"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "古典学家",
+          "lemma": "classist",
+          "surface": "classist"
+        }
+      ]
+    },
+    {
+      "cn_text": "他们的子女却绝不会这样说话，似乎早已明白自己的学位不会像从前那样定义他们的身份。",
+      "en_text": "Their sons or daughters would never say such a thing; it’s as if they already know that their degree won’t define them in the same way.",
+      "id": 2022013083,
+      "order_seq": "content_7_2",
+      "task_id": 202201003,
+      "tokens": [
+        {
+          "gloss": "他们的",
+          "lemma": "their",
+          "surface": "Their"
+        },
+        {
+          "gloss": "儿子",
+          "lemma": "son",
+          "surface": "sons"
+        },
+        {
+          "gloss": "或者",
+          "lemma": "or",
+          "surface": "or"
+        },
+        {
+          "gloss": "女儿",
+          "lemma": "daughter",
+          "surface": "daughters"
+        },
+        {
+          "gloss": "将",
+          "lemma": "would",
+          "surface": "would"
+        },
+        {
+          "gloss": "从不",
+          "lemma": "never",
+          "surface": "never"
+        },
+        {
+          "gloss": "说",
+          "lemma": "say",
+          "surface": "say"
+        },
+        {
+          "gloss": "这样的",
+          "lemma": "such",
+          "surface": "such"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "事情",
+          "lemma": "thing",
+          "surface": "thing"
+        },
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "it"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "好像",
+          "lemma": "as",
+          "surface": "as"
+        },
+        {
+          "gloss": "如果",
+          "lemma": "if",
+          "surface": "if"
+        },
+        {
+          "gloss": "他们",
+          "lemma": "they",
+          "surface": "they"
+        },
+        {
+          "gloss": "已经",
+          "lemma": "already",
+          "surface": "already"
+        },
+        {
+          "gloss": "知道",
+          "lemma": "know",
+          "surface": "know"
+        },
+        {
+          "gloss": "那",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "他们的",
+          "lemma": "their",
+          "surface": "their"
+        },
+        {
+          "gloss": "学位",
+          "lemma": "degree",
+          "surface": "degree"
+        },
+        {
+          "gloss": "不会",
+          "lemma": "will not",
+          "surface": "won’t"
+        },
+        {
+          "gloss": "定义",
+          "lemma": "define",
+          "surface": "define"
+        },
+        {
+          "gloss": "他们",
+          "lemma": "they",
+          "surface": "them"
+        },
+        {
+          "gloss": "以",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "同样的",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "相同的",
+          "lemma": "same",
+          "surface": "same"
+        },
+        {
+          "gloss": "方式",
+          "lemma": "way",
+          "surface": "way"
+        }
+      ]
+    },
+    {
+      "cn_text": "作者建议Z世代应该____",
+      "en_text": "the author suggests that Generation Z should ____",
+      "id": 2022013084,
+      "order_seq": "question_2022011026_stem",
+      "task_id": 202201003,
+      "tokens": [
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "作者",
+          "lemma": "author",
+          "surface": "author"
+        },
+        {
+          "gloss": "建议",
+          "lemma": "suggest",
+          "surface": "suggests"
+        },
+        {
+          "gloss": "表明",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "世代",
+          "lemma": "generation",
+          "surface": "Generation"
+        },
+        {
+          "gloss": "Z 世代",
+          "lemma": "z",
+          "surface": "Z"
+        },
+        {
+          "gloss": "应该",
+          "lemma": "should",
+          "surface": "should"
+        }
+      ]
+    },
+    {
+      "cn_text": "在选择大学时要谨慎。",
+      "en_text": "be careful in choosing a college.",
+      "id": 2022013085,
+      "order_seq": "question_2022011026_A",
+      "task_id": 202201003,
+      "tokens": [
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "be"
+        },
+        {
+          "gloss": "小心的",
+          "lemma": "careful",
+          "surface": "careful"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "选择",
+          "lemma": "choose",
+          "surface": "choosing"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "大学",
+          "lemma": "college",
+          "surface": "college"
+        }
+      ]
+    },
+    {
+      "cn_text": "在每个教育阶段都要勤奋。",
+      "en_text": "be diligent at each educational stage.",
+      "id": 2022013086,
+      "order_seq": "question_2022011026_B",
+      "task_id": 202201003,
+      "tokens": [
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "be"
+        },
+        {
+          "gloss": "勤奋的",
+          "lemma": "diligent",
+          "surface": "diligent"
+        },
+        {
+          "gloss": "在",
+          "lemma": "at",
+          "surface": "at"
+        },
+        {
+          "gloss": "每个",
+          "lemma": "each",
+          "surface": "each"
+        },
+        {
+          "gloss": "教育的",
+          "lemma": "educational",
+          "surface": "educational"
+        },
+        {
+          "gloss": "阶段",
+          "lemma": "stage",
+          "surface": "stage"
+        }
+      ]
+    },
+    {
+      "cn_text": "重新评估接受大学教育的必要性。",
+      "en_text": "reassess the necessity of college education.",
+      "id": 2022013087,
+      "order_seq": "question_2022011026_C",
+      "task_id": 202201003,
+      "tokens": [
+        {
+          "gloss": "重新评估",
+          "lemma": "reassess",
+          "surface": "reassess"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "必要性",
+          "lemma": "necessity",
+          "surface": "necessity"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "大学",
+          "lemma": "college",
+          "surface": "college"
+        },
+        {
+          "gloss": "教育",
+          "lemma": "education",
+          "surface": "education"
+        }
+      ]
+    },
+    {
+      "cn_text": "推迟本科申请。",
+      "en_text": "postpone their undergraduate application.",
+      "id": 2022013088,
+      "order_seq": "question_2022011026_D",
+      "task_id": 202201003,
+      "tokens": [
+        {
+          "gloss": "推迟",
+          "lemma": "postpone",
+          "surface": "postpone"
+        },
+        {
+          "gloss": "他们的",
+          "lemma": "their",
+          "surface": "their"
+        },
+        {
+          "gloss": "本科的",
+          "lemma": "undergraduate",
+          "surface": "undergraduate"
+        },
+        {
+          "gloss": "申请",
+          "lemma": "application",
+          "surface": "application"
+        }
+      ]
+    },
+    {
+      "cn_text": "英国毕业生从事无需学位工作的比例反映了____。",
+      "en_text": "The percentage of UK graduates in non-graduate roles reflect ____",
+      "id": 2022013089,
+      "order_seq": "question_2022011027_stem",
+      "task_id": 202201003,
+      "tokens": [
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "The"
+        },
+        {
+          "gloss": "百分比",
+          "lemma": "percentage",
+          "surface": "percentage"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "英国",
+          "lemma": "uk",
+          "surface": "UK"
+        },
+        {
+          "gloss": "毕业生",
+          "lemma": "graduate",
+          "surface": "graduates"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "非",
+          "lemma": "non",
+          "surface": "non"
+        },
+        {
+          "gloss": "毕业生",
+          "lemma": "graduate",
+          "surface": "graduate"
+        },
+        {
+          "gloss": "岗位",
+          "lemma": "role",
+          "surface": "roles"
+        },
+        {
+          "gloss": "反映",
+          "lemma": "reflect",
+          "surface": "reflect"
+        }
+      ]
+    },
+    {
+      "cn_text": "千禧一代对工作的看法。",
+      "en_text": "Millennial’s opinions about work.",
+      "id": 2022013090,
+      "order_seq": "question_2022011027_A",
+      "task_id": 202201003,
+      "tokens": [
+        {
+          "gloss": "千禧一代的",
+          "lemma": "millennial",
+          "surface": "Millennial’s"
+        },
+        {
+          "gloss": "看法",
+          "lemma": "opinion",
+          "surface": "opinions"
+        },
+        {
+          "gloss": "关于",
+          "lemma": "about",
+          "surface": "about"
+        },
+        {
+          "gloss": "工作",
+          "lemma": "work",
+          "surface": "work"
+        }
+      ]
+    },
+    {
+      "cn_text": "学位价值的贬值。",
+      "en_text": "the shrinking value of a degree.",
+      "id": 2022013091,
+      "order_seq": "question_2022011027_B",
+      "task_id": 202201003,
+      "tokens": [
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "缩水的",
+          "lemma": "shrink",
+          "surface": "shrinking"
+        },
+        {
+          "gloss": "价值",
+          "lemma": "value",
+          "surface": "value"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "学位",
+          "lemma": "degree",
+          "surface": "degree"
+        }
+      ]
+    },
+    {
+      "cn_text": "公众对教育的不满。",
+      "en_text": "public discontent with education.",
+      "id": 2022013092,
+      "order_seq": "question_2022011027_C",
+      "task_id": 202201003,
+      "tokens": [
+        {
+          "gloss": "公众的",
+          "lemma": "public",
+          "surface": "public"
+        },
+        {
+          "gloss": "不满",
+          "lemma": "discontent",
+          "surface": "discontent"
+        },
+        {
+          "gloss": "对",
+          "lemma": "with",
+          "surface": "with"
+        },
+        {
+          "gloss": "教育",
+          "lemma": "education",
+          "surface": "education"
+        }
+      ]
+    },
+    {
+      "cn_text": "社会流动的理想途径。",
+      "en_text": "the desired route of social mobility.",
+      "id": 2022013093,
+      "order_seq": "question_2022011027_D",
+      "task_id": 202201003,
+      "tokens": [
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "理想的",
+          "lemma": "desire",
+          "surface": "desired"
+        },
+        {
+          "gloss": "途径",
+          "lemma": "route",
+          "surface": "route"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "社会的",
+          "lemma": "social",
+          "surface": "social"
+        },
+        {
+          "gloss": "流动",
+          "lemma": "mobility",
+          "surface": "mobility"
+        }
+      ]
+    },
+    {
+      "cn_text": "作者认为____是一个好迹象。",
+      "en_text": "The author considers it a good sign that ____",
+      "id": 2022013094,
+      "order_seq": "question_2022011028_stem",
+      "task_id": 202201003,
+      "tokens": [
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "The"
+        },
+        {
+          "gloss": "作者",
+          "lemma": "author",
+          "surface": "author"
+        },
+        {
+          "gloss": "认为",
+          "lemma": "consider",
+          "surface": "considers"
+        },
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "it"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "好的",
+          "lemma": "good",
+          "surface": "good"
+        },
+        {
+          "gloss": "迹象",
+          "lemma": "sign",
+          "surface": "sign"
+        },
+        {
+          "gloss": "表明",
+          "lemma": "that",
+          "surface": "that"
+        }
+      ]
+    },
+    {
+      "cn_text": "Z世代正在寻求获得一份体面的学位。",
+      "en_text": "Generation Z are seeking to earn a decent degree.",
+      "id": 2022013095,
+      "order_seq": "question_2022011028_A",
+      "task_id": 202201003,
+      "tokens": [
+        {
+          "gloss": "世代",
+          "lemma": "generation",
+          "surface": "Generation"
+        },
+        {
+          "gloss": "Z世代",
+          "lemma": "z",
+          "surface": "Z"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "are"
+        },
+        {
+          "gloss": "寻求",
+          "lemma": "seek",
+          "surface": "seeking"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "获得",
+          "lemma": "earn",
+          "surface": "earn"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "体面的",
+          "lemma": "decent",
+          "surface": "decent"
+        },
+        {
+          "gloss": "学位",
+          "lemma": "degree",
+          "surface": "degree"
+        }
+      ]
+    },
+    {
+      "cn_text": "离校生愿意成为技术工人。",
+      "en_text": "school leavers are willing to be skilled workers.",
+      "id": 2022013096,
+      "order_seq": "question_2022011028_B",
+      "task_id": 202201003,
+      "tokens": [
+        {
+          "gloss": "学校",
+          "lemma": "school",
+          "surface": "school"
+        },
+        {
+          "gloss": "离校生",
+          "lemma": "leaver",
+          "surface": "leavers"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "are"
+        },
+        {
+          "gloss": "愿意的",
+          "lemma": "willing",
+          "surface": "willing"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "成为",
+          "lemma": "be",
+          "surface": "be"
+        },
+        {
+          "gloss": "技术熟练的",
+          "lemma": "skilled",
+          "surface": "skilled"
+        },
+        {
+          "gloss": "工人",
+          "lemma": "worker",
+          "surface": "workers"
+        }
+      ]
+    },
+    {
+      "cn_text": "雇主们对学位持现实态度。",
+      "en_text": "employers are taking a realistic attitude to degrees.",
+      "id": 2022013097,
+      "order_seq": "question_2022011028_C",
+      "task_id": 202201003,
+      "tokens": [
+        {
+          "gloss": "雇主",
+          "lemma": "employer",
+          "surface": "employers"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "are"
+        },
+        {
+          "gloss": "采取",
+          "lemma": "take",
+          "surface": "taking"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "现实的",
+          "lemma": "realistic",
+          "surface": "realistic"
+        },
+        {
+          "gloss": "态度",
+          "lemma": "attitude",
+          "surface": "attitude"
+        },
+        {
+          "gloss": "对",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "学位",
+          "lemma": "degree",
+          "surface": "degrees"
+        }
+      ]
+    },
+    {
+      "cn_text": "家长们正在改变对教育的看法。",
+      "en_text": "parents are changing their minds about education.",
+      "id": 2022013098,
+      "order_seq": "question_2022011028_D",
+      "task_id": 202201003,
+      "tokens": [
+        {
+          "gloss": "家长",
+          "lemma": "parent",
+          "surface": "parents"
+        },
+        {
+          "gloss": "正在",
+          "lemma": "be",
+          "surface": "are"
+        },
+        {
+          "gloss": "改变",
+          "lemma": "change",
+          "surface": "changing"
+        },
+        {
+          "gloss": "他们的",
+          "lemma": "their",
+          "surface": "their"
+        },
+        {
+          "gloss": "看法",
+          "lemma": "mind",
+          "surface": "minds"
+        },
+        {
+          "gloss": "关于",
+          "lemma": "about",
+          "surface": "about"
+        },
+        {
+          "gloss": "教育",
+          "lemma": "education",
+          "surface": "education"
+        }
+      ]
+    },
+    {
+      "cn_text": "第5段建议拥有一个学位的人应该____。",
+      "en_text": "It is advised in Paragraph 5 that those with one degree should ____",
+      "id": 2022013099,
+      "order_seq": "question_2022011029_stem",
+      "task_id": 202201003,
+      "tokens": [
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "It"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "建议",
+          "lemma": "advise",
+          "surface": "advised"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "段落",
+          "lemma": "paragraph",
+          "surface": "Paragraph"
+        },
+        {
+          "gloss": "表明",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "那些",
+          "lemma": "those",
+          "surface": "those"
+        },
+        {
+          "gloss": "拥有",
+          "lemma": "with",
+          "surface": "with"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "one",
+          "surface": "one"
+        },
+        {
+          "gloss": "学位",
+          "lemma": "degree",
+          "surface": "degree"
+        },
+        {
+          "gloss": "应该",
+          "lemma": "should",
+          "surface": "should"
+        }
+      ]
+    },
+    {
+      "cn_text": "尽早决定自己的职业方向。",
+      "en_text": "make an early decision on their career.",
+      "id": 2022013100,
+      "order_seq": "question_2022011029_A",
+      "task_id": 202201003,
+      "tokens": [
+        {
+          "gloss": "做出",
+          "lemma": "make",
+          "surface": "make"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "an",
+          "surface": "an"
+        },
+        {
+          "gloss": "早的",
+          "lemma": "early",
+          "surface": "early"
+        },
+        {
+          "gloss": "决定",
+          "lemma": "decision",
+          "surface": "decision"
+        },
+        {
+          "gloss": "关于",
+          "lemma": "on",
+          "surface": "on"
+        },
+        {
+          "gloss": "他们的",
+          "lemma": "their",
+          "surface": "their"
+        },
+        {
+          "gloss": "职业",
+          "lemma": "career",
+          "surface": "career"
+        }
+      ]
+    },
+    {
+      "cn_text": "参加在职培训项目。",
+      "en_text": "attend on the job training programs.",
+      "id": 2022013101,
+      "order_seq": "question_2022011029_B",
+      "task_id": 202201003,
+      "tokens": [
+        {
+          "gloss": "参加",
+          "lemma": "attend",
+          "surface": "attend"
+        },
+        {
+          "gloss": "关于",
+          "lemma": "on",
+          "surface": "on"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "工作",
+          "lemma": "job",
+          "surface": "job"
+        },
+        {
+          "gloss": "培训",
+          "lemma": "training",
+          "surface": "training"
+        },
+        {
+          "gloss": "项目",
+          "lemma": "program",
+          "surface": "programs"
+        }
+      ]
+    },
+    {
+      "cn_text": "与高薪研究生合作。",
+      "en_text": "team up with high-paid postgraduates.",
+      "id": 2022013102,
+      "order_seq": "question_2022011029_C",
+      "task_id": 202201003,
+      "tokens": [
+        {
+          "gloss": "合作",
+          "lemma": "team",
+          "surface": "team"
+        },
+        {
+          "gloss": "起来",
+          "lemma": "up",
+          "surface": "up"
+        },
+        {
+          "gloss": "与",
+          "lemma": "with",
+          "surface": "with"
+        },
+        {
+          "gloss": "高的",
+          "lemma": "high",
+          "surface": "high"
+        },
+        {
+          "gloss": "支付",
+          "lemma": "pay",
+          "surface": "paid"
+        },
+        {
+          "gloss": "研究生",
+          "lemma": "postgraduate",
+          "surface": "postgraduates"
+        }
+      ]
+    },
+    {
+      "cn_text": "在特定领域继续深造。",
+      "en_text": "further their studies in a specific field.",
+      "id": 2022013103,
+      "order_seq": "question_2022011029_D",
+      "task_id": 202201003,
+      "tokens": [
+        {
+          "gloss": "进一步",
+          "lemma": "further",
+          "surface": "further"
+        },
+        {
+          "gloss": "他们的",
+          "lemma": "their",
+          "surface": "their"
+        },
+        {
+          "gloss": "学习",
+          "lemma": "study",
+          "surface": "studies"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "特定的",
+          "lemma": "specific",
+          "surface": "specific"
+        },
+        {
+          "gloss": "领域",
+          "lemma": "field",
+          "surface": "field"
+        }
+      ]
+    },
+    {
+      "cn_text": "从最后两段可以得出关于Z世代的什么结论？",
+      "en_text": "What can be concluded about Generation Z from the last two paragraphs?",
+      "id": 2022013104,
+      "order_seq": "question_2022011030_stem",
+      "task_id": 202201003,
+      "tokens": [
+        {
+          "gloss": "什么",
+          "lemma": "what",
+          "surface": "What"
+        },
+        {
+          "gloss": "可以",
+          "lemma": "can",
+          "surface": "can"
+        },
+        {
+          "gloss": "被",
+          "lemma": "be",
+          "surface": "be"
+        },
+        {
+          "gloss": "得出结论",
+          "lemma": "conclude",
+          "surface": "concluded"
+        },
+        {
+          "gloss": "关于",
+          "lemma": "about",
+          "surface": "about"
+        },
+        {
+          "gloss": "世代",
+          "lemma": "generation",
+          "surface": "Generation"
+        },
+        {
+          "gloss": "Z",
+          "lemma": "z",
+          "surface": "Z"
+        },
+        {
+          "gloss": "从",
+          "lemma": "from",
+          "surface": "from"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "最后的",
+          "lemma": "last",
+          "surface": "last"
+        },
+        {
+          "gloss": "两",
+          "lemma": "two",
+          "surface": "two"
+        },
+        {
+          "gloss": "段落",
+          "lemma": "paragraph",
+          "surface": "paragraphs"
+        }
+      ]
+    },
+    {
+      "cn_text": "终身学习将定义他们的人生。",
+      "en_text": "Lifelong learning will define them.",
+      "id": 2022013105,
+      "order_seq": "question_2022011030_A",
+      "task_id": 202201003,
+      "tokens": [
+        {
+          "gloss": "终身的",
+          "lemma": "lifelong",
+          "surface": "Lifelong"
+        },
+        {
+          "gloss": "学习",
+          "lemma": "learning",
+          "surface": "learning"
+        },
+        {
+          "gloss": "将",
+          "lemma": "will",
+          "surface": "will"
+        },
+        {
+          "gloss": "定义",
+          "lemma": "define",
+          "surface": "define"
+        },
+        {
+          "gloss": "他们",
+          "lemma": "they",
+          "surface": "them"
+        }
+      ]
+    },
+    {
+      "cn_text": "他们将成为合格的教育者。",
+      "en_text": "They will make qualified educators.",
+      "id": 2022013106,
+      "order_seq": "question_2022011030_B",
+      "task_id": 202201003,
+      "tokens": [
+        {
+          "gloss": "他们",
+          "lemma": "they",
+          "surface": "They"
+        },
+        {
+          "gloss": "将",
+          "lemma": "will",
+          "surface": "will"
+        },
+        {
+          "gloss": "成为",
+          "lemma": "make",
+          "surface": "make"
+        },
+        {
+          "gloss": "合格的",
+          "lemma": "qualified",
+          "surface": "qualified"
+        },
+        {
+          "gloss": "教育者",
+          "lemma": "educator",
+          "surface": "educators"
+        }
+      ]
+    },
+    {
+      "cn_text": "学位将不再吸引他们。",
+      "en_text": "Degrees will no longer appeal them.",
+      "id": 2022013107,
+      "order_seq": "question_2022011030_C",
+      "task_id": 202201003,
+      "tokens": [
+        {
+          "gloss": "学位",
+          "lemma": "degree",
+          "surface": "Degrees"
+        },
+        {
+          "gloss": "将",
+          "lemma": "will",
+          "surface": "will"
+        },
+        {
+          "gloss": "不",
+          "lemma": "no",
+          "surface": "no"
+        },
+        {
+          "gloss": "再",
+          "lemma": "long",
+          "surface": "longer"
+        },
+        {
+          "gloss": "吸引",
+          "lemma": "appeal",
+          "surface": "appeal"
+        },
+        {
+          "gloss": "他们",
+          "lemma": "they",
+          "surface": "them"
+        }
+      ]
+    },
+    {
+      "cn_text": "他们的工作选择将会受限。",
+      "en_text": "They will have a limited choice of jobs.",
+      "id": 2022013108,
+      "order_seq": "question_2022011030_D",
+      "task_id": 202201003,
+      "tokens": [
+        {
+          "gloss": "他们",
+          "lemma": "they",
+          "surface": "They"
+        },
+        {
+          "gloss": "将",
+          "lemma": "will",
+          "surface": "will"
+        },
+        {
+          "gloss": "有",
+          "lemma": "have",
+          "surface": "have"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "有限的",
+          "lemma": "limited",
+          "surface": "limited"
+        },
+        {
+          "gloss": "选择",
+          "lemma": "choice",
+          "surface": "choice"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "工作",
+          "lemma": "job",
+          "surface": "jobs"
+        }
+      ]
+    }
+  ],
+  "success": true
+}
