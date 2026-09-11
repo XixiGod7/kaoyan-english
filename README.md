@@ -1,3 +1,5 @@
+
+
 # 考研英语一真题库 (Kaoyan English)
 
 <div align="center">
@@ -85,7 +87,7 @@ npm run dev
 # 4. 构建前端生产产物
 npm run build
 
-# 5. 一键打包 macOS DMG 与全平台通用离线 Zip
+# 5. 一键打包 macOS DMG 与全平台通用离线 Zip（需 Python 3）
 npm run package
 
 # 或者直接全量构建加打包
@@ -146,4 +148,4 @@ kaoyan-english/
 
 ## 📄 开源许可证
 
-本项目基于 [MIT License](LICENSE) 开源。欢迎 Star、Fork 与提 Issue 建议！
+本项目基于 [MIT License](LICENSE) 开源。欢迎 Star、Fork 与提 Issue 建议
