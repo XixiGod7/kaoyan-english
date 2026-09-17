@@ -178,10 +178,26 @@ export async function testAiConnection(config: AiConfig): Promise<ConnectionTest
       };
     }
     const msg = err.message || String(err);
+    const isHttps = typeof window !== 'undefined' && window.location.protocol === 'https:';
     if (msg.includes('Failed to fetch') || msg.includes('NetworkError') || msg.includes('CORS')) {
+      if (endpoint.includes('sensenova.cn')) {
+        if (isHttps) {
+          return {
+            success: false,
+            message: '【跨域限制】商汤 (SenseNova) 官方服务器尚未开放浏览器网页跨域访问 (OPTIONS 404)，且在线网页版 (HTTPS) 出于安全限制无法调用本地 HTTP 代理。建议：① 在当前网页版中切换使用完美支持网页直连的 DeepSeek (深度求索) 或 智谱 GLM；② 或使用已下载的本地桌面客户端（在 http://127.0.0.1:8085 环境下即可自动秒连商汤）！',
+          };
+        } else {
+          return {
+            success: false,
+            message: '未检测到配套本地服务。使用商汤日日新接口时，请在项目根目录运行【双击运行.bat】或运行【python server.py】启动本地服务，然后通过 http://127.0.0.1:8085 访问即可成功连接！',
+          };
+        }
+      }
       return {
         success: false,
-        message: '网络连接失败或触发跨域限制 (CORS)。如使用商汤等未开放网页跨域的接口，请运行配套本地服务（双击运行.bat 或 python server.py）即可自动通过本机端口转发成功！',
+        message: isHttps
+          ? '网络连接失败或触发跨域限制 (CORS)。当前处于在线网页版 (HTTPS)，该 API 服务商可能未开放浏览器跨域访问。推荐使用官方支持跨域直连的 DeepSeek 或 智谱 GLM，或下载本地客户端运行。'
+          : '网络连接失败或触发跨域限制 (CORS)。如使用未开放网页跨域的接口，请确保已启动配套本地服务（运行 双击运行.bat 或 python server.py，访问 http://127.0.0.1:8085）。',
       };
     }
     return {

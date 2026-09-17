@@ -186,8 +186,12 @@ export const AiConfigModal: React.FC<AiConfigModalProps> = ({
                       <span className="text-xs font-bold truncate">{preset.name.split(' ')[0]}</span>
                       {preset.tag && (
                         <span className={`text-[10px] px-1.5 py-0.2 rounded-full font-bold ${
-                          preset.tag === '强烈推荐'
+                          preset.tag.includes('强烈推荐')
                             ? 'bg-rose-500/20 text-rose-400 border border-rose-500/30'
+                            : preset.tag.includes('需本地')
+                            ? 'bg-amber-500/20 text-amber-400 border border-amber-500/30'
+                            : preset.tag.includes('免费')
+                            ? 'bg-emerald-500/20 text-emerald-400 border border-emerald-500/30'
                             : 'bg-blue-500/20 text-blue-400 border border-blue-500/30'
                         }`}>
                           {preset.tag}
@@ -200,6 +204,27 @@ export const AiConfigModal: React.FC<AiConfigModalProps> = ({
               })}
             </div>
           </div>
+
+          {/* SenseNova Notice */}
+          {config.provider === 'sensenova' && (
+            <div className={`p-3 rounded-xl border flex items-start gap-2.5 text-xs animate-in fade-in duration-150 ${
+              isDark ? 'bg-amber-950/30 border-amber-800/40 text-amber-200' : 'bg-amber-50/90 border-amber-200 text-amber-900'
+            }`}>
+              <HelpCircle className="w-4 h-4 text-amber-500 shrink-0 mt-0.5" />
+              <div className="space-y-1">
+                <div className="font-bold flex items-center gap-1.5">
+                  <span>商汤日日新 (SenseNova) 运行说明</span>
+                </div>
+                <p className="opacity-90 leading-relaxed">
+                  商汤官方服务器尚未开放浏览器网页跨域访问 (OPTIONS 404)。
+                </p>
+                <div className="opacity-90 leading-relaxed space-y-0.5 mt-1">
+                  <div>• <strong>在网页版 (GitHub Pages) 上</strong>：受浏览器跨域与混合内容安全限制无法直连。网页端推荐直接切换使用 <strong>DeepSeek</strong> 或 <strong>智谱 GLM</strong>，免配置即填即用！</div>
+                  <div>• <strong>在本地客户端上</strong>：通过配套启动服务（双击运行 <code>双击运行.bat</code> 或 Mac 客户端，在 <code>http://127.0.0.1:8085</code> 下），系统会自动通过本地后端秒通商汤！</div>
+                </div>
+              </div>
+            </div>
+          )}
 
           {/* API Credentials Input Form */}
           <div className="space-y-4">

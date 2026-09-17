@@ -11,7 +11,7 @@ export const PROVIDER_PRESETS: ProviderPreset[] = [
     defaultModel: 'deepseek-chat',
     availableModels: ['deepseek-chat', 'deepseek-reasoner'],
     helpUrl: 'https://platform.deepseek.com/api_keys',
-    tag: '强烈推荐',
+    tag: '强烈推荐 (网页直连)',
   },
   {
     id: 'openai',
@@ -31,6 +31,7 @@ export const PROVIDER_PRESETS: ProviderPreset[] = [
     defaultModel: 'moonshot-v1-8k',
     availableModels: ['moonshot-v1-8k', 'moonshot-v1-32k'],
     helpUrl: 'https://platform.moonshot.cn/',
+    tag: '网页直连',
   },
   {
     id: 'dashscope',
@@ -40,6 +41,7 @@ export const PROVIDER_PRESETS: ProviderPreset[] = [
     defaultModel: 'qwen-plus',
     availableModels: ['qwen-plus', 'qwen-turbo', 'qwen-max'],
     helpUrl: 'https://dashscope.console.aliyun.com/',
+    tag: '网页直连',
   },
   {
     id: 'zhipu',
@@ -49,6 +51,7 @@ export const PROVIDER_PRESETS: ProviderPreset[] = [
     defaultModel: 'glm-4-flash',
     availableModels: ['glm-4-flash', 'glm-4-plus', 'glm-4'],
     helpUrl: 'https://open.bigmodel.cn/',
+    tag: '免费可用 (网页直连)',
   },
   {
     id: 'ollama',
@@ -66,9 +69,9 @@ export const PROVIDER_PRESETS: ProviderPreset[] = [
     desc: '商汤科技日日新大模型，支持轻量敏捷的 6.8 Flash Lite',
     baseUrl: 'https://token.sensenova.cn/v1/chat/completions',
     defaultModel: 'sensenova-6.8-flash-lite',
-    availableModels: ['sensenova-6.8-flash-lite', 'deepseek-v4-flash', 'glm-5.2'],
+    availableModels: ['sensenova-6.8-flash-lite', 'SenseChat-5'],
     helpUrl: 'https://platform.sensenova.cn/docs',
-    tag: '支持商汤',
+    tag: '需本地服务',
   },
   {
     id: 'custom',
@@ -97,11 +100,15 @@ export function loadAiConfig(): AiConfig {
     if (baseUrl === 'https://api.deepseek.com') {
       baseUrl = 'https://api.deepseek.com/chat/completions';
     }
+    let model = (parsed.model || DEFAULT_AI_CONFIG.model).trim();
+    if (parsed.provider === 'sensenova' && (model === 'deepseek-v4-flash' || model === 'glm-5.2' || !model)) {
+      model = 'sensenova-6.8-flash-lite';
+    }
     return {
       provider: parsed.provider || DEFAULT_AI_CONFIG.provider,
       baseUrl,
       apiKey: (parsed.apiKey || '').trim(),
-      model: (parsed.model || DEFAULT_AI_CONFIG.model).trim(),
+      model,
       temperature: typeof parsed.temperature === 'number' ? parsed.temperature : DEFAULT_AI_CONFIG.temperature,
     };
   } catch (e) {
