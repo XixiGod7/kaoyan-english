@@ -27,7 +27,11 @@ import {
   PanelRightClose,
   PanelRightOpen,
   ChevronRight,
-  Loader2
+  Loader2,
+  Columns,
+  Eye,
+  Type,
+  X
 } from 'lucide-react';
 import { AiReviewCard } from './AiReviewCard';
 import { AiReviewReport } from '../types/ai';
@@ -38,6 +42,41 @@ import {
   gradeWritingEssay, 
   extractScoreFromMarkdown 
 } from '../utils/aiClient';
+
+export type ViewMode = 'split' | 'passage' | 'questions';
+export type FontSizeLevel = 'sm' | 'base' | 'lg' | 'xl';
+
+const FONT_MAP: Record<FontSizeLevel, {
+  passage: string;
+  questionTitle: string;
+  questionOption: string;
+  label: string;
+}> = {
+  sm: {
+    passage: 'text-[0.92rem] leading-[1.95]',
+    questionTitle: 'text-[0.95rem]',
+    questionOption: 'text-[0.875rem]',
+    label: '标准 (小)',
+  },
+  base: {
+    passage: 'text-[1.05rem] leading-[2.15]',
+    questionTitle: 'text-[1.05rem]',
+    questionOption: 'text-[0.95rem]',
+    label: '适中 (默认)',
+  },
+  lg: {
+    passage: 'text-[1.18rem] leading-[2.35]',
+    questionTitle: 'text-[1.15rem]',
+    questionOption: 'text-[1.05rem]',
+    label: '大号',
+  },
+  xl: {
+    passage: 'text-[1.32rem] leading-[2.55]',
+    questionTitle: 'text-[1.25rem]',
+    questionOption: 'text-[1.15rem]',
+    label: '超大',
+  },
+};
 
 interface QuizModeProps {
   year: string;
@@ -55,15 +94,15 @@ interface QuizModeProps {
 }
 
 const TABS = [
-  { id: 'cloze', label: '完形填空 (1-20)' },
-  { id: 'reading_1', label: '阅读 Text 1 (21-25)' },
-  { id: 'reading_2', label: '阅读 Text 2 (26-30)' },
-  { id: 'reading_3', label: '阅读 Text 3 (31-35)' },
-  { id: 'reading_4', label: '阅读 Text 4 (36-40)' },
-  { id: 'matching', label: '新题型 (41-45)' },
-  { id: 'translation', label: '翻译 (46-50)' },
-  { id: 'writing_clinical', label: '小作文 (51)' },
-  { id: 'writing_essay', label: '大作文 (52)' },
+  { id: 'cloze', label: '完形填空 (1-20)', shortLabel: '完形 1-20' },
+  { id: 'reading_1', label: '阅读 Text 1 (21-25)', shortLabel: 'Text 1' },
+  { id: 'reading_2', label: '阅读 Text 2 (26-30)', shortLabel: 'Text 2' },
+  { id: 'reading_3', label: '阅读 Text 3 (31-35)', shortLabel: 'Text 3' },
+  { id: 'reading_4', label: '阅读 Text 4 (36-40)', shortLabel: 'Text 4' },
+  { id: 'matching', label: '新题型 (41-45)', shortLabel: '新题型 41-45' },
+  { id: 'translation', label: '翻译 (46-50)', shortLabel: '翻译 46-50' },
+  { id: 'writing_clinical', label: '小作文 (51)', shortLabel: '小作文 51' },
+  { id: 'writing_essay', label: '大作文 (52)', shortLabel: '大作文 52' },
 ];
 
 export default function QuizMode({ 
@@ -84,8 +123,31 @@ export default function QuizMode({
   const [paperData, setPaperData] = useState<YearPaperBundle | null>(null);
   const [loading, setLoading] = useState(true);
 
-  // Collapsible Answer Sheet State
-  const [isAnswerSheetOpen, setIsAnswerSheetOpen] = useState(true);
+  // Responsive View Mode & Font Sizing
+  const [viewMode, setViewMode] = useState<ViewMode>('split');
+  const [fontSizeLevel, setFontSizeLevel] = useState<FontSizeLevel>(() => {
+    try {
+      const saved = localStorage.getItem('kaoyan_font_size') as FontSizeLevel;
+      if (saved && ['sm', 'base', 'lg', 'xl'].includes(saved)) return saved;
+    } catch {}
+    return 'base';
+  });
+
+  const handleSetFontSize = useCallback((level: FontSizeLevel) => {
+    setFontSizeLevel(level);
+    try {
+      localStorage.setItem('kaoyan_font_size', level);
+    } catch {}
+  }, []);
+
+  // Collapsible Answer Sheet State (Default open on desktop xl+, closed on narrower laptop/tablet screens)
+  const [isAnswerSheetOpen, setIsAnswerSheetOpen] = useState(() => {
+    try {
+      return typeof window !== 'undefined' && window.innerWidth >= 1280;
+    } catch {
+      return false;
+    }
+  });
 
   // Persistent Progress Initial State
   const initialSavedProg = useMemo(() => loadQuizProgress(year), [year]);
@@ -513,14 +575,14 @@ export default function QuizMode({
   const answeredCount = Object.keys(answers).length;
 
   if (loading) return (
-    <div className={`flex items-center justify-center h-screen font-bold ${
+    <div className={`flex items-center justify-center h-full min-h-0 font-bold ${
       isDark ? 'bg-slate-950 text-slate-400' : 'bg-slate-50 text-slate-500'
     }`}>
       正在加载 {year} 年真题试卷...
     </div>
   );
   if (!paperData) return (
-    <div className={`flex items-center justify-center h-screen ${
+    <div className={`flex items-center justify-center h-full min-h-0 ${
       isDark ? 'bg-slate-950 text-slate-400' : 'bg-slate-50 text-slate-500'
     }`}>
       试卷加载失败
@@ -529,54 +591,151 @@ export default function QuizMode({
 
   // Render navigation bar
   const renderNavbar = () => (
-    <div className={`px-4 h-14 flex items-center justify-between sticky top-0 z-50 shadow-sm flex-shrink-0 border-b transition-colors ${
+    <div className={`px-2 sm:px-4 h-13 sm:h-14 flex items-center justify-between sticky top-0 z-40 shadow-xs shrink-0 border-b gap-1.5 sm:gap-2.5 transition-colors ${
       isDark ? 'bg-slate-900 border-slate-800 text-slate-100' : 'bg-white border-gray-200 text-gray-900'
     }`}>
-      <div className="flex items-center gap-3">
+      {/* Left: Back & Title */}
+      <div className="flex items-center gap-1.5 sm:gap-2.5 shrink-0">
         <button 
           onClick={onBackToHome} 
-          className={`flex items-center text-sm font-medium transition-colors ${
-            isDark ? 'text-slate-400 hover:text-blue-400' : 'text-gray-500 hover:text-blue-600'
+          className={`flex items-center text-xs sm:text-sm font-semibold px-2 sm:px-2.5 py-1 rounded-lg border transition-all ${
+            isDark 
+              ? 'bg-slate-800 hover:bg-slate-750 text-slate-300 border-slate-700 hover:text-white' 
+              : 'bg-gray-100 hover:bg-gray-200 text-gray-700 border-gray-200 hover:text-gray-900'
           }`}
+          title="返回真题总览矩阵"
         >
-          <ChevronLeft className="w-4 h-4 mr-1" />
-          返回真题矩阵
+          <ChevronLeft className="w-4 h-4 mr-0.5" />
+          <span className="hidden sm:inline">返回真题矩阵</span>
+          <span className="sm:hidden">矩阵</span>
         </button>
-        <div className={`font-bold text-sm px-3 py-1 rounded-full border shadow-sm ${
+
+        <div className={`font-bold text-xs sm:text-sm px-2 sm:px-3 py-1 rounded-full border shadow-2xs truncate max-w-[110px] sm:max-w-[180px] md:max-w-none ${
           isDark 
-            ? 'bg-slate-800 border-slate-700 text-slate-200' 
-            : 'bg-yellow-50 text-gray-700 border-yellow-200'
+            ? 'bg-slate-800/90 border-slate-700 text-slate-200' 
+            : 'bg-yellow-50 text-gray-800 border-yellow-200'
         }`}>
-          {year}年全国硕士研究生招生考试英语一真题
+          {year}年考研英语一
         </div>
       </div>
 
-      <div className="flex items-center gap-1.5 overflow-x-auto max-w-[50vw] py-1 no-scrollbar">
+      {/* Middle: Horizontally Scrollable Section Tabs */}
+      <div className="flex items-center gap-1 overflow-x-auto flex-1 min-w-0 py-1 px-1 no-scrollbar">
         {TABS.map(tab => (
           <button
             key={tab.id}
             onClick={() => setActiveTab(tab.id)}
-            className={`px-3 py-1.5 rounded-full text-xs font-bold transition-all shrink-0 whitespace-nowrap ${
+            className={`px-2.5 sm:px-3 py-1 rounded-full text-xs font-bold transition-all shrink-0 whitespace-nowrap ${
               activeTab === tab.id 
-                ? 'bg-blue-600 text-white shadow-sm ring-1 ring-blue-400' 
+                ? 'bg-blue-600 text-white shadow-xs ring-1 ring-blue-400' 
                 : isDark 
                 ? 'text-slate-400 hover:bg-slate-800 hover:text-slate-100' 
                 : 'text-gray-600 hover:bg-gray-100 hover:text-gray-900'
             }`}
           >
-            {tab.label}
+            <span className="hidden md:inline">{tab.label}</span>
+            <span className="md:hidden">{tab.shortLabel}</span>
           </button>
         ))}
       </div>
 
-      <div className="flex items-center gap-2.5">
+      {/* Right: Layout Switcher, Font Size, AI, Timer, Answer Sheet & Submit */}
+      <div className="flex items-center gap-1 sm:gap-2 shrink-0">
+        {/* Layout View Mode Switcher (Split / Passage / Questions) */}
+        <div className={`flex items-center p-0.5 rounded-lg border text-xs font-bold ${
+          isDark ? 'bg-slate-850 border-slate-750' : 'bg-gray-100 border-gray-200'
+        }`}>
+          <button
+            id="view-mode-split"
+            onClick={() => setViewMode('split')}
+            className={`px-1.5 sm:px-2 py-1 rounded-md transition-all ${
+              viewMode === 'split' 
+                ? 'bg-blue-600 text-white shadow-2xs' 
+                : isDark ? 'text-slate-400 hover:text-slate-200' : 'text-gray-600 hover:text-gray-900'
+            }`}
+            title="左右并排对照模式（适合宽屏、全屏或分屏）"
+          >
+            并排
+          </button>
+          <button
+            id="view-mode-passage"
+            onClick={() => setViewMode('passage')}
+            className={`px-1.5 sm:px-2 py-1 rounded-md transition-all ${
+              viewMode === 'passage' 
+                ? 'bg-blue-600 text-white shadow-2xs' 
+                : isDark ? 'text-slate-400 hover:text-slate-200' : 'text-gray-600 hover:text-gray-900'
+            }`}
+            title="仅看原文模式（沉浸阅读文章）"
+          >
+            原文
+          </button>
+          <button
+            id="view-mode-questions"
+            onClick={() => setViewMode('questions')}
+            className={`px-1.5 sm:px-2 py-1 rounded-md transition-all ${
+              viewMode === 'questions' 
+                ? 'bg-blue-600 text-white shadow-2xs' 
+                : isDark ? 'text-slate-400 hover:text-slate-200' : 'text-gray-600 hover:text-gray-900'
+            }`}
+            title="仅看试题模式（专注做题与选项选择）"
+          >
+            试题
+          </button>
+        </div>
+
+        {/* Font Size Adjuster (A- / A+) */}
+        <div className={`hidden sm:flex items-center p-0.5 rounded-lg border text-xs font-bold ${
+          isDark ? 'bg-slate-850 border-slate-750 text-slate-300' : 'bg-gray-100 border-gray-200 text-gray-700'
+        }`} title={`当前正文字号：${FONT_MAP[fontSizeLevel].label}，点击 A- / A+ 调节`}>
+          <button
+            onClick={() => {
+              if (fontSizeLevel === 'xl') handleSetFontSize('lg');
+              else if (fontSizeLevel === 'lg') handleSetFontSize('base');
+              else if (fontSizeLevel === 'base') handleSetFontSize('sm');
+            }}
+            disabled={fontSizeLevel === 'sm'}
+            className="px-1.5 py-1 rounded hover:bg-slate-700/50 disabled:opacity-40"
+            title="缩小字号 (A-)"
+          >
+            A-
+          </button>
+          <span className="text-[10px] px-1 font-mono">{fontSizeLevel.toUpperCase()}</span>
+          <button
+            onClick={() => {
+              if (fontSizeLevel === 'sm') handleSetFontSize('base');
+              else if (fontSizeLevel === 'base') handleSetFontSize('lg');
+              else if (fontSizeLevel === 'lg') handleSetFontSize('xl');
+            }}
+            disabled={fontSizeLevel === 'xl'}
+            className="px-1.5 py-1 rounded hover:bg-slate-700/50 disabled:opacity-40"
+            title="放大字号 (A+)"
+          >
+            A+
+          </button>
+        </div>
+
+        {/* AI Config shortcut button */}
+        {onOpenAiConfig && (
+          <button
+            onClick={onOpenAiConfig}
+            className={`p-1.5 rounded-lg border transition-all ${
+              isDark 
+                ? 'bg-slate-800 hover:bg-slate-750 text-teal-300 border-teal-800/80' 
+                : 'bg-teal-50 hover:bg-teal-100 text-teal-700 border-teal-200'
+            }`}
+            title="AI 批阅与模型 API 设置"
+          >
+            <Sparkles className="w-3.5 h-3.5 text-teal-400" />
+          </button>
+        )}
+
         {/* In-quiz Theme toggle */}
         {onToggleTheme && (
           <button
             onClick={onToggleTheme}
-            className={`px-2.5 py-1 rounded-lg text-xs font-bold transition-all border ${
+            className={`px-2 py-1 rounded-lg text-xs font-bold transition-all border ${
               isDark
-                ? 'bg-slate-800 hover:bg-slate-700 text-amber-300 border-slate-700'
+                ? 'bg-slate-800 hover:bg-slate-750 text-amber-300 border-slate-700'
                 : 'bg-gray-100 hover:bg-gray-200 text-slate-700 border-gray-200'
             }`}
             title="切换浅色/深色主题"
@@ -585,22 +744,19 @@ export default function QuizMode({
           </button>
         )}
 
-        {/* Realtime Auto-save Indicator Badge */}
-        <div 
-          className={`hidden lg:flex items-center gap-1.5 text-xs font-bold px-2.5 py-1 rounded-lg border ${
-            isDark ? 'bg-emerald-950/50 border-emerald-800/60 text-emerald-300' : 'bg-emerald-50 border-emerald-200 text-emerald-700'
-          }`}
-          title="系统已开启实时自动保存，作答与计时进度即时存入本地，退出后随时可恢复"
-        >
-          <span className="w-1.5 h-1.5 rounded-full bg-emerald-400 animate-pulse"></span>
-          <span>自动保存</span>
+        {/* Timer */}
+        <div className={`flex items-center font-bold font-mono text-xs sm:text-sm px-2 sm:px-2.5 py-1 rounded-lg border ${
+          isDark ? 'bg-slate-800 border-slate-700 text-slate-200' : 'bg-gray-50 border-gray-200 text-gray-700'
+        }`}>
+          <Clock className={`w-3.5 h-3.5 mr-1 ${isDark ? 'text-slate-400' : 'text-gray-500'}`} />
+          {formatTime(elapsedSeconds)}
         </div>
 
         {/* Clear Progress Button */}
         <button
           id="clear-quiz-progress-btn"
           onClick={handleClearProgress}
-          className={`px-2.5 py-1 rounded-lg text-xs font-bold transition-all border flex items-center gap-1 shadow-xs ${
+          className={`hidden md:flex px-2 py-1 rounded-lg text-xs font-bold transition-all border items-center gap-1 shadow-2xs ${
             isDark 
               ? 'bg-rose-950/40 hover:bg-rose-900/60 text-rose-300 border-rose-800/60' 
               : 'bg-rose-50 hover:bg-rose-100 text-rose-700 border-rose-200'
@@ -608,54 +764,44 @@ export default function QuizMode({
           title="清空当前试卷的全部做题进度并重做"
         >
           <RotateCcw className="w-3.5 h-3.5" />
-          <span className="hidden sm:inline">清空进度</span>
+          <span className="hidden lg:inline">清空进度</span>
         </button>
 
-        <div className={`flex items-center font-bold font-mono text-sm px-2.5 py-1 rounded-lg border ${
-          isDark ? 'bg-slate-800 border-slate-700 text-slate-200' : 'bg-gray-50 border-gray-200 text-gray-700'
-        }`}>
-          <Clock className={`w-4 h-4 mr-1.5 ${isDark ? 'text-slate-400' : 'text-gray-500'}`} />
-          {formatTime(elapsedSeconds)}
-        </div>
-
-        {/* Interactive Collapsible Answer Sheet Toggle Button in Navbar */}
+        {/* Answer sheet toggle */}
         <button
           id="toggle-answersheet-nav-btn"
           onClick={() => setIsAnswerSheetOpen(prev => !prev)}
-          className={`flex items-center gap-1.5 text-xs font-bold px-2.5 py-1 rounded-lg border transition-all shadow-xs ${
+          className={`flex items-center gap-1 text-xs font-bold px-2 sm:px-2.5 py-1 rounded-lg border transition-all shadow-2xs ${
             isAnswerSheetOpen
               ? isDark 
-                ? 'bg-indigo-950/60 border-indigo-700/60 text-indigo-300 hover:bg-indigo-900/60' 
-                : 'bg-indigo-50 border-indigo-200 text-indigo-700 hover:bg-indigo-100'
+                ? 'bg-indigo-950/80 border-indigo-700 text-indigo-300' 
+                : 'bg-indigo-50 border-indigo-200 text-indigo-700'
               : isDark 
                 ? 'bg-slate-800 hover:bg-slate-750 text-slate-300 border-slate-700' 
                 : 'bg-gray-100 hover:bg-gray-200 text-gray-700 border-gray-200'
           }`}
-          title={isAnswerSheetOpen ? '点击收起右侧答题卡' : '点击展开右侧答题卡'}
+          title={isAnswerSheetOpen ? '点击收起答题卡' : '点击展开答题卡'}
         >
           <CheckSquare className="w-3.5 h-3.5" />
-          <span>答题卡 {answeredCount}/{allQuestionsCount}</span>
-          {isAnswerSheetOpen ? (
-            <PanelRightClose className="w-3.5 h-3.5 ml-0.5 opacity-75" />
-          ) : (
-            <PanelRightOpen className="w-3.5 h-3.5 ml-0.5 opacity-75 text-indigo-400" />
-          )}
+          <span className="hidden sm:inline">答题卡</span>
+          <span className="font-mono text-[11px]">{answeredCount}/52</span>
         </button>
 
+        {/* Submit Button */}
         {isSubmitted ? (
           <button 
             onClick={() => setShowResultModal(true)}
-            className="bg-emerald-600 hover:bg-emerald-700 text-white px-3.5 py-1.5 rounded-lg text-xs font-bold transition-all shadow-sm flex items-center gap-1"
+            className="bg-emerald-600 hover:bg-emerald-700 text-white px-2.5 sm:px-3 py-1 rounded-lg text-xs font-bold transition-all shadow-xs flex items-center gap-1 shrink-0"
           >
             <Award className="w-3.5 h-3.5" />
-            成绩单 ({scoreReport?.totalObjectiveScore}/60分)
+            <span className="hidden sm:inline">成绩单</span> ({scoreReport?.totalObjectiveScore}/60)
           </button>
         ) : (
           <button 
             onClick={handleSubmit}
-            className="bg-blue-600 text-white px-4 py-1.5 rounded-lg text-sm font-bold hover:bg-blue-700 transition-colors shadow-sm"
+            className="bg-blue-600 text-white px-3 sm:px-3.5 py-1 rounded-lg text-xs sm:text-sm font-bold hover:bg-blue-700 transition-colors shadow-xs shrink-0"
           >
-            提交答案
+            交卷
           </button>
         )}
       </div>
@@ -738,7 +884,7 @@ export default function QuizMode({
 
           return (
             <div key={group.pNum} className="space-y-3">
-              <p className={`text-[1.05rem] leading-[2.3] text-justify font-serif indent-8 ${
+              <p className={`${FONT_MAP[fontSizeLevel].passage} text-left leading-relaxed break-words font-serif indent-6 sm:indent-8 ${
                 isDark ? 'text-slate-100' : 'text-gray-900'
               }`}>
                 {paraSentences.map((s, sIdx) => {
@@ -884,7 +1030,7 @@ export default function QuizMode({
     return (
       <div className="space-y-6 relative pb-16">
         {Object.keys(paragraphs).sort((a,b)=>Number(a)-Number(b)).map((pNum) => (
-          <p key={pNum} className={`text-[1.05rem] leading-[2.2] text-justify font-serif indent-8 ${
+          <p key={pNum} className={`${FONT_MAP[fontSizeLevel].passage} text-left leading-relaxed break-words font-serif indent-6 sm:indent-8 ${
             isDark ? 'text-white' : 'text-gray-800'
           }`}>
             {paragraphs[pNum].sort((a,b)=>a.order_seq.localeCompare(b.order_seq)).map(s => {
@@ -955,7 +1101,7 @@ export default function QuizMode({
       return parseTranslationPassage(task);
     }
     return (task.detail.article || '').split('\n\n').map((paragraph, i) => (
-      <p key={i} className={`text-[1.05rem] leading-[2.2] text-justify mb-6 font-serif indent-8 ${
+      <p key={i} className={`${FONT_MAP[fontSizeLevel].passage} text-left leading-relaxed break-words mb-6 font-serif indent-6 sm:indent-8 ${
         isDark ? 'text-white' : 'text-gray-800'
       }`}>
         {paragraph}
@@ -974,13 +1120,13 @@ export default function QuizMode({
     });
 
     return (
-      <div className={`rounded-xl shadow-sm border p-8 min-h-full ${
+      <div className={`rounded-xl shadow-sm border p-4 sm:p-6 lg:p-8 min-h-full ${
         isDark ? 'bg-slate-900 border-slate-800 text-white' : 'bg-white border-gray-100 text-gray-900'
       }`}>
-        <h2 className="text-xl font-bold text-[#6a5bcd] mb-8 flex items-center justify-center">
+        <h2 className="text-lg sm:text-xl font-bold text-[#6a5bcd] mb-6 sm:mb-8 flex items-center justify-center">
           📝 {title}
         </h2>
-        <div className="space-y-12">
+        <div className="space-y-8 sm:space-y-10">
           {task.detail.questions?.map((q, idx) => {
             const qNum = q.id || (idx + 1);
             const userAns = answers[qNum] || answers[q.qid];
@@ -995,10 +1141,10 @@ export default function QuizMode({
             const isStemHighlighted = highlightedSentenceId && (stemSId === highlightedSentenceId || Number(stemSId) === Number(highlightedSentenceId));
 
             return (
-              <div key={q.qid || qNum} className={`scroll-mt-24 p-6 rounded-2xl border ${
+              <div key={q.qid || qNum} className={`scroll-mt-24 p-4 sm:p-6 rounded-2xl border ${
                 isDark ? 'bg-slate-850 border-slate-750' : 'bg-gray-50/50 border-gray-200/80'
               }`} id={`question-${qNum}`}>
-                <div className="flex items-center justify-between mb-4">
+                <div className="flex items-center justify-between mb-3 sm:mb-4">
                   <span className="text-xl font-black text-blue-500 font-sans">{qNum}.</span>
 
                   {isSubmitted && (
@@ -1023,7 +1169,7 @@ export default function QuizMode({
                 {q.text && q.text !== 'null' && (
                   <div 
                     id={stemSId ? `sentence-${stemSId}` : undefined}
-                    className={`font-bold mb-6 text-base leading-relaxed p-1.5 rounded transition-all ${
+                    className={`font-bold mb-4 sm:mb-6 ${FONT_MAP[fontSizeLevel].questionTitle} leading-relaxed p-1.5 rounded transition-all ${
                       isStemHighlighted 
                         ? 'bg-yellow-300 text-yellow-950 ring-4 ring-yellow-400 font-black shadow-md animate-pulse' 
                         : isDark ? 'text-white' : 'text-gray-800'
@@ -1034,7 +1180,9 @@ export default function QuizMode({
                 )}
                 
                 {q.options && q.options.length > 0 && (
-                  <div className="grid grid-cols-2 gap-4">
+                  <div className={`grid gap-2 sm:gap-3 ${
+                    viewMode === 'split' ? 'grid-cols-1 2xl:grid-cols-2' : 'grid-cols-1 md:grid-cols-2'
+                  }`}>
                     {q.options.map(opt => {
                       const match = opt.match(/^([A-Z])[\.\s\)\:、]+(.*)$/i);
                       const letter = match ? match[1].toUpperCase() : opt[0];
@@ -1071,9 +1219,9 @@ export default function QuizMode({
                           id={optSId ? `sentence-${optSId}` : undefined}
                           disabled={isSubmitted}
                           onClick={() => handleAnswerSelect(qNum, letter)}
-                          className={`text-left p-3.5 rounded-xl border transition-all flex items-start ${btnStyle}`}
+                          className={`text-left p-2.5 sm:p-3.5 rounded-xl border transition-all flex items-start ${btnStyle}`}
                         >
-                          <span className={`flex-shrink-0 w-8 h-8 rounded-lg flex items-center justify-center font-bold mr-3 transition-colors ${
+                          <span className={`flex-shrink-0 w-7 h-7 sm:w-8 sm:h-8 rounded-lg flex items-center justify-center font-bold mr-2 sm:mr-3 transition-colors ${
                             isOptHighlighted
                               ? 'bg-yellow-500 text-black font-black'
                               : isSubmitted
@@ -1088,7 +1236,7 @@ export default function QuizMode({
                           }`}>
                             {letter}
                           </span>
-                          <span className={`mt-1 text-sm font-medium ${
+                          <span className={`mt-0.5 sm:mt-1 ${FONT_MAP[fontSizeLevel].questionOption} font-medium break-words ${
                             isOptHighlighted 
                               ? 'text-yellow-950 font-bold' 
                               : isSelected 
@@ -1157,9 +1305,14 @@ export default function QuizMode({
       return (
         <div className="flex h-full">
           {/* Left Column: Reading & Ordering Material */}
-          <div className="flex-1 p-6 overflow-y-auto" style={{ flex: '1.2' }}>
+          <div 
+            className={`p-3 sm:p-5 lg:p-6 overflow-y-auto min-w-0 ${
+              viewMode === 'questions' ? 'hidden' : 'block flex-1'
+            }`} 
+            style={viewMode === 'split' ? { flex: '1.15' } : undefined}
+          >
             {/* Top Directions Banner */}
-            <div className={`border rounded-2xl p-6 shadow-sm mb-6 ${
+            <div className={`border rounded-2xl p-4 sm:p-6 shadow-sm mb-6 ${
               isDark ? 'bg-slate-900 border-slate-800 text-white' : 'bg-[#fffdf7] border-[#f0ebe1] text-gray-900'
             }`}>
               <div className="flex items-center text-[#6a5bcd] font-bold text-sm mb-3">
@@ -1174,7 +1327,7 @@ export default function QuizMode({
 
               {/* Sorted Orders Indicator Banner */}
               {sortedOrders && (
-                <div className={`border rounded-xl p-4 shadow-inner ${
+                <div className={`border rounded-xl p-3 sm:p-4 shadow-inner ${
                   isDark ? 'bg-slate-850 border-slate-700' : 'bg-gradient-to-r from-blue-50 to-indigo-50 border-blue-200'
                 }`}>
                   <div className={`text-xs font-bold uppercase tracking-wider mb-2 flex items-center ${
@@ -1210,7 +1363,7 @@ export default function QuizMode({
                             {idx > 0 && <span className="text-blue-400 font-bold">➜</span>}
                             <button
                               onClick={() => scrollToQuestion(qNum)}
-                              className={`px-3.5 py-1.5 rounded-lg font-bold text-sm border shadow-sm transition-all ${badgeColor}`}
+                              className={`px-3 py-1.5 rounded-lg font-bold text-xs sm:text-sm border shadow-sm transition-all ${badgeColor}`}
                             >
                               {qNum}. {curAns ? `[${curAns}]` : '___'}
                               {isSubmitted && !isCorrect && correctAns && ` (正:${correctAns})`}
@@ -1221,7 +1374,7 @@ export default function QuizMode({
                         return (
                           <React.Fragment key={idx}>
                             {idx > 0 && <span className="text-blue-400 font-bold">➜</span>}
-                            <span className="px-3.5 py-1.5 rounded-lg font-bold text-sm bg-emerald-600 text-white shadow-sm border border-emerald-700">
+                            <span className="px-3 py-1.5 rounded-lg font-bold text-xs sm:text-sm bg-emerald-600 text-white shadow-sm border border-emerald-700">
                               [{trimmed}] (已给)
                             </span>
                           </React.Fragment>
@@ -1237,11 +1390,11 @@ export default function QuizMode({
               {letters.map(letter => {
                 const paraSentences = letterParagraphs[letter].sort((a,b) => (a.order_seq || '').localeCompare(b.order_seq || ''));
                 return (
-                  <div key={letter} className={`border rounded-2xl p-6 shadow-sm relative ${isDark ? 'bg-slate-900 border-slate-800' : 'bg-[#fffdf7] border-[#f0ebe1]'}`}>
+                  <div key={letter} className={`border rounded-2xl p-4 sm:p-6 shadow-sm relative ${isDark ? 'bg-slate-900 border-slate-800' : 'bg-[#fffdf7] border-[#f0ebe1]'}`}>
                     <div className="inline-flex items-center justify-center w-8 h-8 rounded-lg bg-[#6a5bcd] text-white font-bold text-base mb-4 shadow-sm">
                       {letter}
                     </div>
-                    <p className={`text-[1.05rem] leading-[2.2] text-justify font-serif ${isDark ? 'text-slate-200' : 'text-gray-800'}`}>
+                    <p className={`${FONT_MAP[fontSizeLevel].passage} text-left leading-relaxed break-words font-serif indent-6 sm:indent-8 ${isDark ? 'text-slate-200' : 'text-gray-800'}`}>
                       {paraSentences.map(s => (
                         <span key={s.id || s.order_seq} id={`sentence-${s.id}`} className={`mr-1 ${getSentenceClass(s.id)}`}>
                           {s.en_text}
@@ -1265,9 +1418,14 @@ export default function QuizMode({
             </div>
           </div>
 
-          <div className={`flex-1 p-6 overflow-y-auto border-l ${isDark ? 'bg-slate-950 border-slate-800' : 'bg-slate-50 border-gray-200'}`}>
-            <div className={`rounded-xl shadow-sm border p-8 min-h-full ${isDark ? 'bg-slate-900 border-slate-800' : 'bg-white border-gray-100'}`}>
-              <h2 className="text-xl font-bold text-[#6a5bcd] mb-8 flex items-center justify-center">
+          <div 
+            className={`p-3 sm:p-5 lg:p-6 overflow-y-auto min-w-0 border-l ${
+              viewMode === 'passage' ? 'hidden' : 'block flex-1'
+            } ${isDark ? 'bg-slate-950 border-slate-800' : 'bg-slate-50 border-gray-200'}`} 
+            style={viewMode === 'split' ? { flex: '1' } : undefined}
+          >
+            <div className={`rounded-xl shadow-sm border p-4 sm:p-6 lg:p-8 min-h-full ${isDark ? 'bg-slate-900 border-slate-800' : 'bg-white border-gray-100'}`}>
+              <h2 className="text-lg sm:text-xl font-bold text-[#6a5bcd] mb-6 sm:mb-8 flex items-center justify-center">
                 📝 Section II 新题型 (41-45)
               </h2>
               <div className="space-y-8">
@@ -1278,9 +1436,9 @@ export default function QuizMode({
                   const isCorrect = isSubmitted && currentAns && correctAns && currentAns.toUpperCase() === correctAns.toUpperCase();
 
                   return (
-                    <div key={q.qid || qNum} className={`scroll-mt-24 p-6 rounded-xl border ${isDark ? 'bg-slate-850 border-slate-750' : 'bg-gray-50 border-gray-200'}`} id={`question-${qNum}`}>
+                    <div key={q.qid || qNum} className={`scroll-mt-24 p-4 sm:p-6 rounded-xl border ${isDark ? 'bg-slate-850 border-slate-750' : 'bg-gray-50 border-gray-200'}`} id={`question-${qNum}`}>
                       <div className="flex items-center justify-between mb-4">
-                        <span className={`text-lg font-bold flex items-center ${isDark ? 'text-slate-100' : 'text-gray-800'}`}>
+                        <span className={`text-base sm:text-lg font-bold flex items-center ${isDark ? 'text-slate-100' : 'text-gray-800'}`}>
                           <span className="w-7 h-7 rounded-full bg-blue-600 text-white flex items-center justify-center text-sm mr-2.5 font-sans">
                             {qNum}
                           </span>
@@ -1298,7 +1456,7 @@ export default function QuizMode({
                         ) : null}
                       </div>
                       
-                      <div className="flex gap-2.5 flex-wrap">
+                      <div className="flex gap-2 sm:gap-2.5 flex-wrap">
                         {optionLabels.map((letter: string) => {
                           const isSelected = currentAns === letter;
                           const isThisCorrect = isSubmitted && correctAns === letter;
@@ -1315,7 +1473,7 @@ export default function QuizMode({
                               key={letter}
                               disabled={isSubmitted}
                               onClick={() => handleAnswerSelect(qNum, letter)}
-                              className={`w-11 h-11 rounded-xl font-bold text-base transition-all flex items-center justify-center border ${btnStyle}`}
+                              className={`w-9 h-9 sm:w-11 sm:h-11 rounded-xl font-bold text-sm sm:text-base transition-all flex items-center justify-center border ${btnStyle}`}
                             >
                               {letter}
                             </button>
@@ -1359,8 +1517,13 @@ export default function QuizMode({
 
       return (
         <div className="flex h-full">
-          <div className="flex-1 p-6 overflow-y-auto" style={{ flex: '1.2' }}>
-            <div className={`border rounded-2xl p-8 shadow-sm min-h-full pb-16 ${isDark ? 'bg-slate-900 border-slate-800' : 'bg-[#fffdf7] border-[#f0ebe1]'}`}>
+          <div 
+            className={`p-3 sm:p-5 lg:p-6 overflow-y-auto min-w-0 ${
+              viewMode === 'questions' ? 'hidden' : 'block flex-1'
+            }`} 
+            style={viewMode === 'split' ? { flex: '1.15' } : undefined}
+          >
+            <div className={`border rounded-2xl p-4 sm:p-6 lg:p-8 shadow-sm min-h-full pb-16 ${isDark ? 'bg-slate-900 border-slate-800' : 'bg-[#fffdf7] border-[#f0ebe1]'}`}>
               <div className="flex items-center text-[#6a5bcd] font-bold text-sm mb-4">
                 <BookOpen className="w-4 h-4 mr-2" />
                 Section II 阅读新题型 · 文章材料
@@ -1375,7 +1538,7 @@ export default function QuizMode({
               <div className="space-y-6">
                 {Object.keys(contentParagraphs).length > 0 ? (
                   Object.keys(contentParagraphs).sort((a,b)=>Number(a)-Number(b)).map(pNum => (
-                    <p key={pNum} className={`text-[1.05rem] leading-[2.2] font-serif indent-8 ${isDark ? 'text-slate-200' : 'text-gray-800'}`}>
+                    <p key={pNum} className={`${FONT_MAP[fontSizeLevel].passage} text-left leading-relaxed break-words font-serif indent-6 sm:indent-8 ${isDark ? 'text-slate-200' : 'text-gray-800'}`}>
                       {contentParagraphs[pNum].sort((a,b)=>(a.order_seq || '').localeCompare(b.order_seq || '')).map((s: any) => (
                         <span key={s.id || s.order_seq} id={`sentence-${s.id}`} className={`mr-1 ${getSentenceClass(s.id)}`}>
                           {s.en_text}
@@ -1390,16 +1553,21 @@ export default function QuizMode({
                   ))
                 ) : (
                   (task.detail.article || '').split('\n\n').map((para: string, idx: number) => (
-                    <p key={idx} className={`text-[1.05rem] leading-[2.2] font-serif mb-6 indent-8 ${isDark ? 'text-slate-200' : 'text-gray-800'}`}>{para}</p>
+                    <p key={idx} className={`${FONT_MAP[fontSizeLevel].passage} text-left leading-relaxed break-words font-serif mb-6 indent-6 sm:indent-8 ${isDark ? 'text-slate-200' : 'text-gray-800'}`}>{para}</p>
                   ))
                 )}
               </div>
             </div>
           </div>
 
-          <div className={`flex-1 p-6 overflow-y-auto border-l ${isDark ? 'bg-slate-950 border-slate-800' : 'bg-slate-50 border-gray-200'}`}>
+          <div 
+            className={`p-3 sm:p-5 lg:p-6 overflow-y-auto min-w-0 border-l ${
+              viewMode === 'passage' ? 'hidden' : 'block flex-1'
+            } ${isDark ? 'bg-slate-950 border-slate-800' : 'bg-slate-50 border-gray-200'}`} 
+            style={viewMode === 'split' ? { flex: '1' } : undefined}
+          >
             <div className="space-y-8">
-              <div className={`rounded-xl shadow-sm border p-6 ${isDark ? 'bg-slate-900 border-slate-800' : 'bg-white border-gray-200'}`}>
+              <div className={`rounded-xl shadow-sm border p-4 sm:p-6 ${isDark ? 'bg-slate-900 border-slate-800' : 'bg-white border-gray-200'}`}>
                 <h3 className={`text-base font-bold mb-4 flex items-center ${isDark ? 'text-slate-100' : 'text-gray-800'}`}>
                   <span className="w-2.5 h-2.5 rounded-full bg-blue-600 mr-2"></span>
                   备选选项内容 (A-{optionLabels[optionLabels.length-1] || 'G'})
@@ -1408,9 +1576,9 @@ export default function QuizMode({
                   {optLetters.map(letter => {
                     const optSentences = optionParagraphs[letter].sort((a,b)=>(a.order_seq || '').localeCompare(b.order_seq || ''));
                     return (
-                      <div key={letter} className={`border rounded-xl p-4 ${isDark ? 'bg-slate-850 border-slate-750' : 'bg-slate-50 border-gray-200'}`}>
+                      <div key={letter} className={`border rounded-xl p-3.5 sm:p-4 ${isDark ? 'bg-slate-850 border-slate-750' : 'bg-slate-50 border-gray-200'}`}>
                         <div className="flex items-start">
-                          <span className="w-7 h-7 rounded-lg bg-blue-600 text-white font-bold text-sm mr-3 flex-shrink-0 flex items-center justify-center">
+                          <span className="w-7 h-7 rounded-lg bg-blue-600 text-white font-bold text-sm mr-2.5 sm:mr-3 flex-shrink-0 flex items-center justify-center">
                             [{letter}]
                           </span>
                           <div className={`text-sm font-serif ${isDark ? 'text-slate-200' : 'text-gray-800'}`}>
@@ -1432,7 +1600,7 @@ export default function QuizMode({
                 </div>
               </div>
 
-              <div className={`rounded-xl shadow-sm border p-6 ${isDark ? 'bg-slate-900 border-slate-800' : 'bg-white border-gray-200'}`}>
+              <div className={`rounded-xl shadow-sm border p-4 sm:p-6 ${isDark ? 'bg-slate-900 border-slate-800' : 'bg-white border-gray-200'}`}>
                 <h3 className="text-base font-bold text-[#6a5bcd] mb-6 flex items-center">
                   📝 作答区 (41-45 题)
                 </h3>
@@ -1445,9 +1613,9 @@ export default function QuizMode({
                     const isCorrect = isSubmitted && currentAns && correctAns && currentAns.toUpperCase() === correctAns.toUpperCase();
 
                     return (
-                      <div key={q.qid || qNum} className={`scroll-mt-24 p-5 rounded-xl border ${isDark ? 'bg-slate-850/80 border-slate-750' : 'bg-gray-50 border-gray-200'}`} id={`question-${qNum}`}>
+                      <div key={q.qid || qNum} className={`scroll-mt-24 p-4 sm:p-5 rounded-xl border ${isDark ? 'bg-slate-850/80 border-slate-750' : 'bg-gray-50 border-gray-200'}`} id={`question-${qNum}`}>
                         <div className="flex items-center justify-between mb-3">
-                          <span className={`text-base font-bold flex items-center ${isDark ? 'text-slate-100' : 'text-gray-800'}`}>
+                          <span className={`text-sm sm:text-base font-bold flex items-center ${isDark ? 'text-slate-100' : 'text-gray-800'}`}>
                             <span className="w-6 h-6 rounded-full bg-blue-600 text-white flex items-center justify-center text-xs mr-2 font-sans">
                               {qNum}
                             </span>
@@ -1465,7 +1633,7 @@ export default function QuizMode({
                           ) : null}
                         </div>
 
-                        <div className="flex gap-2 flex-wrap">
+                        <div className="flex gap-1.5 sm:gap-2 flex-wrap">
                           {optionLabels.map((letter: string) => {
                             const isSelected = currentAns === letter;
                             const isThisCorrect = isSubmitted && correctAns === letter;
@@ -1482,7 +1650,7 @@ export default function QuizMode({
                                 key={letter}
                                 disabled={isSubmitted}
                                 onClick={() => handleAnswerSelect(qNum, letter)}
-                                className={`w-10 h-10 rounded-lg font-bold text-sm transition-all flex items-center justify-center border ${btnStyle}`}
+                                className={`w-9 h-9 sm:w-10 sm:h-10 rounded-lg font-bold text-sm transition-all flex items-center justify-center border ${btnStyle}`}
                               >
                                 {letter}
                               </button>
@@ -1506,9 +1674,14 @@ export default function QuizMode({
       const task = paperData.tasks[0];
       return (
         <div className="flex h-full">
-          <div className="flex-1 p-6 overflow-y-auto" style={{ flex: '1.2' }}>
-            <div className={`border rounded-2xl p-8 shadow-sm h-auto min-h-full relative ${isDark ? 'bg-slate-900 border-slate-800' : 'bg-[#fffdf7] border-[#f0ebe1]'}`}>
-              <div className={`absolute top-0 left-0 px-4 py-1.5 rounded-tl-2xl rounded-br-2xl font-bold flex items-center text-sm ${isDark ? 'bg-indigo-950 text-indigo-300' : 'bg-indigo-50 text-[#6a5bcd]'}`}>
+          <div 
+            className={`p-3 sm:p-5 lg:p-6 overflow-y-auto min-w-0 ${
+              viewMode === 'questions' ? 'hidden' : 'block flex-1'
+            }`} 
+            style={viewMode === 'split' ? { flex: '1.15' } : undefined}
+          >
+            <div className={`border rounded-2xl p-4 sm:p-6 lg:p-8 shadow-sm h-auto min-h-full relative ${isDark ? 'bg-slate-900 border-slate-800' : 'bg-[#fffdf7] border-[#f0ebe1]'}`}>
+              <div className={`absolute top-0 left-0 px-3 sm:px-4 py-1.5 rounded-tl-2xl rounded-br-2xl font-bold flex items-center text-xs sm:text-sm ${isDark ? 'bg-indigo-950 text-indigo-300' : 'bg-indigo-50 text-[#6a5bcd]'}`}>
                 <BookOpen className="w-4 h-4 mr-1.5" />
                 阅读材料 · 完形填空
               </div>
@@ -1517,7 +1690,12 @@ export default function QuizMode({
               </div>
             </div>
           </div>
-          <div className={`flex-1 p-6 overflow-y-auto border-l ${isDark ? 'bg-slate-950 border-slate-800' : 'bg-slate-50 border-gray-200'}`}>
+          <div 
+            className={`p-3 sm:p-5 lg:p-6 overflow-y-auto min-w-0 border-l ${
+              viewMode === 'passage' ? 'hidden' : 'block flex-1'
+            } ${isDark ? 'bg-slate-950 border-slate-800' : 'bg-slate-50 border-gray-200'}`} 
+            style={viewMode === 'split' ? { flex: '1' } : undefined}
+          >
             {renderQuestions(task, 'Section I 完形填空 (1-20)')}
           </div>
         </div>
@@ -1542,15 +1720,20 @@ export default function QuizMode({
       return (
         <div className="flex h-full">
           {/* Left Column: Single Reading Material */}
-          <div className="flex-1 p-6 overflow-y-auto" style={{ flex: '1.2' }}>
+          <div 
+            className={`p-3 sm:p-5 lg:p-6 overflow-y-auto min-w-0 ${
+              viewMode === 'questions' ? 'hidden' : 'block flex-1'
+            }`} 
+            style={viewMode === 'split' ? { flex: '1.15' } : undefined}
+          >
             <div 
               key={currentTask.meta.id} 
               id={`task-section-${currentTask.meta.id}`} 
-              className={`border rounded-2xl p-8 shadow-sm relative min-h-full ${
+              className={`border rounded-2xl p-4 sm:p-6 lg:p-8 shadow-sm relative min-h-full ${
                 isDark ? 'bg-slate-900 border-slate-800' : 'bg-[#fffdf7] border-[#f0ebe1]'
               }`}
             >
-              <div className={`absolute top-0 left-0 px-4 py-1.5 rounded-tl-2xl rounded-br-2xl font-bold flex items-center text-sm ${
+              <div className={`absolute top-0 left-0 px-3 sm:px-4 py-1.5 rounded-tl-2xl rounded-br-2xl font-bold flex items-center text-xs sm:text-sm ${
                 isDark ? 'bg-indigo-950 text-indigo-300' : 'bg-indigo-50 text-[#6a5bcd]'
               }`}>
                 <BookOpen className="w-4 h-4 mr-1.5" />
@@ -1570,14 +1753,14 @@ export default function QuizMode({
                       setActiveTab(`reading_${readingIndex}`);
                       window.scrollTo({ top: 0, behavior: 'smooth' });
                     }}
-                    className={`flex items-center gap-1.5 px-4 py-2 rounded-xl text-xs font-bold transition-all border ${
+                    className={`flex items-center gap-1.5 px-3 sm:px-4 py-2 rounded-xl text-xs font-bold transition-all border ${
                       isDark 
-                        ? 'bg-slate-800 hover:bg-slate-700 text-slate-200 border-slate-700' 
+                        ? 'bg-slate-800 hover:bg-slate-750 text-slate-200 border-slate-700' 
                         : 'bg-white hover:bg-gray-50 text-gray-700 border-gray-200 shadow-sm'
                     }`}
                   >
                     <ChevronLeft className="w-4 h-4" />
-                    <span>上一篇: Text {readingIndex} ({startQ - 5}-{startQ - 1}题)</span>
+                    <span>上一篇: Text {readingIndex}</span>
                   </button>
                 ) : (
                   <button
@@ -1585,14 +1768,14 @@ export default function QuizMode({
                       setActiveTab('cloze');
                       window.scrollTo({ top: 0, behavior: 'smooth' });
                     }}
-                    className={`flex items-center gap-1.5 px-4 py-2 rounded-xl text-xs font-bold transition-all border ${
+                    className={`flex items-center gap-1.5 px-3 sm:px-4 py-2 rounded-xl text-xs font-bold transition-all border ${
                       isDark 
-                        ? 'bg-slate-800 hover:bg-slate-700 text-slate-200 border-slate-700' 
+                        ? 'bg-slate-800 hover:bg-slate-750 text-slate-200 border-slate-700' 
                         : 'bg-white hover:bg-gray-50 text-gray-700 border-gray-200 shadow-sm'
                     }`}
                   >
                     <ChevronLeft className="w-4 h-4" />
-                    <span>返回: 完形填空 (1-20)</span>
+                    <span>返回: 完形填空</span>
                   </button>
                 )}
 
@@ -1602,9 +1785,9 @@ export default function QuizMode({
                       setActiveTab(`reading_${readingIndex + 2}`);
                       window.scrollTo({ top: 0, behavior: 'smooth' });
                     }}
-                    className="flex items-center gap-1.5 px-4 py-2 rounded-xl text-xs font-bold text-white bg-blue-600 hover:bg-blue-500 shadow-md shadow-blue-500/20 transition-all hover:scale-105 active:scale-95"
+                    className="flex items-center gap-1.5 px-3 sm:px-4 py-2 rounded-xl text-xs font-bold text-white bg-blue-600 hover:bg-blue-500 shadow-md shadow-blue-500/20 transition-all hover:scale-105 active:scale-95"
                   >
-                    <span>下一篇: Text {textNum + 1} ({endQ + 1}-{endQ + 5}题)</span>
+                    <span>下一篇: Text {textNum + 1}</span>
                     <ArrowRight className="w-4 h-4" />
                   </button>
                 ) : (
@@ -1613,9 +1796,9 @@ export default function QuizMode({
                       setActiveTab('matching');
                       window.scrollTo({ top: 0, behavior: 'smooth' });
                     }}
-                    className="flex items-center gap-1.5 px-4 py-2 rounded-xl text-xs font-bold text-white bg-gradient-to-r from-blue-600 to-indigo-600 hover:from-blue-500 hover:to-indigo-500 shadow-md shadow-indigo-500/20 transition-all hover:scale-105 active:scale-95"
+                    className="flex items-center gap-1.5 px-3 sm:px-4 py-2 rounded-xl text-xs font-bold text-white bg-gradient-to-r from-blue-600 to-indigo-600 hover:from-blue-500 hover:to-indigo-500 shadow-md shadow-indigo-500/20 transition-all hover:scale-105 active:scale-95"
                   >
-                    <span>进入: 新题型 (41-45)</span>
+                    <span>进入: 新题型</span>
                     <ArrowRight className="w-4 h-4" />
                   </button>
                 )}
@@ -1624,7 +1807,12 @@ export default function QuizMode({
           </div>
 
           {/* Right Column: 5 Questions for this Single Reading Text */}
-          <div className={`flex-1 p-6 overflow-y-auto border-l ${isDark ? 'bg-slate-950 border-slate-800' : 'bg-slate-50 border-gray-200'}`}>
+          <div 
+            className={`p-3 sm:p-5 lg:p-6 overflow-y-auto min-w-0 border-l ${
+              viewMode === 'passage' ? 'hidden' : 'block flex-1'
+            } ${isDark ? 'bg-slate-950 border-slate-800' : 'bg-slate-50 border-gray-200'}`} 
+            style={viewMode === 'split' ? { flex: '1' } : undefined}
+          >
             <div className="space-y-8">
               {renderQuestions(currentTask, `Section II 阅读理解A · Text ${textNum} (${startQ}-${endQ} 题)`)}
             </div>
@@ -1645,9 +1833,14 @@ export default function QuizMode({
       return (
         <div className="flex h-full">
           {/* Left Column: Translation Passage */}
-          <div className="flex-1 p-6 md:p-8 overflow-y-auto" style={{ flex: '1.2' }}>
-            <div className={`border rounded-2xl p-6 md:p-8 shadow-sm relative min-h-full ${isDark ? 'bg-slate-900 border-slate-800' : 'bg-[#fffdf7] border-[#f0ebe1]'}`}>
-              <div className={`absolute top-0 left-0 px-4 py-1.5 rounded-tl-2xl rounded-br-2xl font-bold flex items-center text-sm ${isDark ? 'bg-indigo-950 text-indigo-300' : 'bg-indigo-50 text-[#6a5bcd]'}`}>
+          <div 
+            className={`p-3 sm:p-5 lg:p-6 overflow-y-auto min-w-0 ${
+              viewMode === 'questions' ? 'hidden' : 'block flex-1'
+            }`} 
+            style={viewMode === 'split' ? { flex: '1.15' } : undefined}
+          >
+            <div className={`border rounded-2xl p-4 sm:p-6 lg:p-8 shadow-sm relative min-h-full ${isDark ? 'bg-slate-900 border-slate-800' : 'bg-[#fffdf7] border-[#f0ebe1]'}`}>
+              <div className={`absolute top-0 left-0 px-3 sm:px-4 py-1.5 rounded-tl-2xl rounded-br-2xl font-bold flex items-center text-xs sm:text-sm ${isDark ? 'bg-indigo-950 text-indigo-300' : 'bg-indigo-50 text-[#6a5bcd]'}`}>
                 <BookOpen className="w-4 h-4 mr-1.5" />
                 翻译原文材料 (46-50)
               </div>
@@ -1658,12 +1851,17 @@ export default function QuizMode({
           </div>
 
           {/* Right Column: 5 Large Harmonious Question Input Cards (46-50) */}
-          <div className={`flex-1 p-6 md:p-8 overflow-y-auto border-l ${isDark ? 'bg-slate-950 border-slate-800' : 'bg-slate-50 border-gray-200'}`}>
-            <div className={`rounded-xl shadow-sm border p-6 md:p-8 min-h-full ${
+          <div 
+            className={`p-3 sm:p-5 lg:p-6 overflow-y-auto min-w-0 border-l ${
+              viewMode === 'passage' ? 'hidden' : 'block flex-1'
+            } ${isDark ? 'bg-slate-950 border-slate-800' : 'bg-slate-50 border-gray-200'}`} 
+            style={viewMode === 'split' ? { flex: '1' } : undefined}
+          >
+            <div className={`rounded-xl shadow-sm border p-4 sm:p-6 lg:p-8 min-h-full ${
               isDark ? 'bg-slate-900 border-slate-800 text-white' : 'bg-white border-gray-100 text-gray-900'
             }`}>
-              <div className="flex flex-wrap items-center justify-between gap-3 pb-6 mb-8 border-b border-gray-200 dark:border-slate-800">
-                <h2 className="text-xl md:text-2xl font-bold text-[#6a5bcd] flex items-center gap-2.5">
+              <div className="flex flex-wrap items-center justify-between gap-3 pb-4 sm:pb-6 mb-6 sm:mb-8 border-b border-gray-200 dark:border-slate-800">
+                <h2 className="text-lg sm:text-2xl font-bold text-[#6a5bcd] flex items-center gap-2">
                   📝 Section III 英译汉作答区 (46-50 题)
                 </h2>
                 <div className="flex items-center gap-2.5">
@@ -1697,7 +1895,7 @@ export default function QuizMode({
                     )}
                   </button>
 
-                  <span className={`text-xs md:text-sm px-3.5 py-1.5 rounded-full border font-bold shadow-xs ${
+                  <span className={`text-xs md:text-sm px-3 py-1 rounded-full border font-bold shadow-xs ${
                     isDark ? 'bg-slate-800 text-slate-200 border-slate-700' : 'bg-yellow-50 text-amber-900 border-yellow-200'
                   }`}>
                     每题 2 分 · 共 10 分
@@ -1706,7 +1904,7 @@ export default function QuizMode({
               </div>
 
               {/* Five Large Harmonious Question Input Cards */}
-              <div className="space-y-10">
+              <div className="space-y-8 sm:space-y-10">
                 {[46, 47, 48, 49, 50].map((num) => {
                   const mark = (task.detail.content_json?.translation_marks || []).find((m: any) => m.number === num);
                   const s = mark 
@@ -1718,22 +1916,22 @@ export default function QuizMode({
                     <div 
                       key={num} 
                       id={`question-${num}`}
-                      className={`scroll-mt-24 p-6 md:p-8 rounded-2xl border shadow-sm transition-all ${
+                      className={`scroll-mt-24 p-4 sm:p-6 md:p-8 rounded-2xl border shadow-sm transition-all ${
                         isDark 
                           ? 'bg-slate-850 border-slate-750 focus-within:border-blue-500 focus-within:ring-2 focus-within:ring-blue-500/20' 
                           : 'bg-gray-50/60 border-gray-200/90 focus-within:border-blue-400 focus-within:ring-2 focus-within:ring-blue-100 shadow-xs'
                       }`}
                     >
                       {/* Header with Large Question Number, Title & Status */}
-                      <div className="flex items-center justify-between mb-5">
-                        <div className="flex items-center gap-3">
-                          <span className="text-2xl font-black text-blue-500 font-sans">{num}.</span>
+                      <div className="flex items-center justify-between mb-4 sm:mb-5">
+                        <div className="flex items-center gap-2.5 sm:gap-3">
+                          <span className="text-xl sm:text-2xl font-black text-blue-500 font-sans">{num}.</span>
                           <span className={`text-base md:text-lg font-bold ${isDark ? 'text-slate-100' : 'text-gray-900'}`}>
                             第 ({num}) 题
                           </span>
                         </div>
                         {isAnswered && (
-                          <span className={`flex items-center gap-1.5 text-xs md:text-sm font-bold px-3 py-1 rounded-full border ${
+                          <span className={`flex items-center gap-1.5 text-xs md:text-sm font-bold px-2.5 sm:px-3 py-1 rounded-full border ${
                             isDark ? 'bg-emerald-950 text-emerald-300 border-emerald-700' : 'bg-emerald-100 text-emerald-800 border-emerald-300'
                           }`}>
                             <CheckCircle2 className="w-4 h-4 text-emerald-500" /> 已填写译文
@@ -1743,14 +1941,14 @@ export default function QuizMode({
 
                       {/* English original sentence reference - Large & comfortable typography */}
                       {s?.en_text && (
-                        <div className={`p-5 md:p-6 rounded-2xl mb-6 text-[1.05rem] md:text-[1.12rem] leading-[1.85] font-serif border shadow-2xs ${
+                        <div className={`p-4 sm:p-5 md:p-6 rounded-2xl mb-4 sm:mb-6 ${FONT_MAP[fontSizeLevel].passage} font-serif border shadow-2xs ${
                           isDark ? 'bg-slate-900 border-slate-750 text-slate-100' : 'bg-white border-gray-200 text-gray-900'
                         }`}>
-                          <div className="text-xs font-bold text-blue-500 mb-2.5 font-sans tracking-wide uppercase flex items-center gap-1.5">
+                          <div className="text-xs font-bold text-blue-500 mb-2 font-sans tracking-wide uppercase flex items-center gap-1.5">
                             <BookOpen className="w-4 h-4 text-blue-500" />
                             <span>原卷划线句 ({num}) 原文:</span>
                           </div>
-                          <p className="font-serif select-text font-normal">{s.en_text}</p>
+                          <p className="font-serif select-text font-normal break-words">{s.en_text}</p>
                         </div>
                       )}
 
@@ -1771,7 +1969,7 @@ export default function QuizMode({
                           value={answers[num] || ''}
                           onChange={(e) => handleAnswerSelect(num, e.target.value)}
                           rows={4}
-                          className={`w-full min-h-[130px] p-4 md:p-5 border rounded-xl focus:ring-2 focus:ring-blue-500 outline-none resize-y text-base md:text-[1.05rem] leading-[1.85] font-sans transition shadow-inner ${
+                          className={`w-full min-h-[120px] sm:min-h-[130px] p-3.5 sm:p-4 md:p-5 border rounded-xl focus:ring-2 focus:ring-blue-500 outline-none resize-y text-sm sm:text-base md:text-[1.05rem] leading-[1.85] font-sans transition shadow-inner ${
                             isDark 
                               ? 'bg-slate-900 border-slate-750 text-slate-100 placeholder-slate-500 focus:bg-slate-950' 
                               : 'bg-white border-gray-300 text-gray-900 placeholder-gray-400 focus:border-blue-500 focus:bg-white'
@@ -1785,7 +1983,7 @@ export default function QuizMode({
                           type="button"
                           onClick={() => handleEvaluateTranslation(num, s)}
                           disabled={evaluatingQids[num]}
-                          className={`px-4 py-2 rounded-xl text-xs md:text-sm font-bold flex items-center gap-2 transition-all shadow-sm cursor-pointer ${
+                          className={`px-3.5 sm:px-4 py-2 rounded-xl text-xs md:text-sm font-bold flex items-center gap-2 transition-all shadow-sm cursor-pointer ${
                             isDark
                               ? 'bg-gradient-to-r from-teal-900 to-emerald-900 hover:from-teal-850 hover:to-emerald-850 text-emerald-200 border border-teal-700/80 shadow-teal-950/40'
                               : 'bg-gradient-to-r from-teal-600 to-emerald-600 hover:from-teal-500 hover:to-emerald-500 text-white shadow-emerald-600/20'
@@ -1793,12 +1991,12 @@ export default function QuizMode({
                         >
                           {evaluatingQids[num] ? (
                             <>
-                              <Loader2 className="w-4 h-4 animate-spin text-white" />
+                              <Loader2 className="w-3.5 h-3.5 animate-spin text-white" />
                               <span>AI 正在阅卷诊断中...</span>
                             </>
                           ) : (
                             <>
-                              <Sparkles className="w-4 h-4 text-amber-300" />
+                              <Sparkles className="w-3.5 h-3.5 text-amber-300" />
                               <span>{aiReviews[num] ? '✨ 重新 AI 批阅此句' : '✨ AI 智能批阅此句'}</span>
                             </>
                           )}
@@ -1828,14 +2026,14 @@ export default function QuizMode({
 
                       {/* Standard Reference Translation for this question */}
                       {(isSubmitted || showTranslation) && s?.cn_text && (
-                        <div className={`mt-6 border rounded-xl p-5 md:p-6 text-sm md:text-base leading-relaxed shadow-sm ${
+                        <div className={`mt-6 border rounded-xl p-4 sm:p-5 md:p-6 text-sm md:text-base leading-relaxed shadow-sm ${
                           isDark ? 'bg-emerald-950/60 border-emerald-800 text-emerald-100' : 'bg-emerald-50 border-emerald-200 text-emerald-950'
                         }`}>
-                          <div className={`font-bold mb-2.5 flex items-center gap-1.5 text-base ${isDark ? 'text-emerald-300' : 'text-emerald-900'}`}>
+                          <div className={`font-bold mb-2.5 flex items-center gap-1.5 text-sm sm:text-base ${isDark ? 'text-emerald-300' : 'text-emerald-900'}`}>
                             <Sparkles className="w-4 h-4 text-emerald-500" />
                             官方标准参考译文 ({num}):
                           </div>
-                          <p className="font-medium text-[0.98rem] md:text-[1.05rem] leading-[1.8]">{s.cn_text}</p>
+                          <p className="font-medium text-[0.95rem] md:text-[1.05rem] leading-[1.8]">{s.cn_text}</p>
                         </div>
                       )}
                     </div>
@@ -1859,28 +2057,33 @@ export default function QuizMode({
       return (
         <div className="flex h-full">
           {/* Left Column: Full-width writing direction & original exam question image */}
-          <div className={`flex-1 p-6 md:p-8 overflow-y-auto ${isDark ? 'bg-slate-950' : 'bg-slate-50'}`} style={{ flex: '1.2' }}>
-            <div className={`border rounded-2xl p-6 md:p-8 shadow-sm relative min-h-full flex flex-col ${
+          <div 
+            className={`p-3 sm:p-5 lg:p-6 overflow-y-auto min-w-0 ${
+              viewMode === 'questions' ? 'hidden' : 'block flex-1'
+            } ${isDark ? 'bg-slate-950' : 'bg-slate-50'}`} 
+            style={viewMode === 'split' ? { flex: '1.15' } : undefined}
+          >
+            <div className={`border rounded-2xl p-4 sm:p-6 lg:p-8 shadow-sm relative min-h-full flex flex-col ${
               isDark ? 'bg-slate-900 border-slate-800' : 'bg-[#fffdf7] border-[#f0ebe1]'
             }`}>
-              <div className={`flex items-center justify-between font-bold pb-4 mb-4 border-b ${
+              <div className={`flex items-center justify-between font-bold pb-3 sm:pb-4 mb-3 sm:mb-4 border-b ${
                 isDark ? 'border-slate-800 text-[#8b7cf8]' : 'border-[#e8e2d8] text-[#6a5bcd]'
               }`}>
-                <div className="flex items-center gap-2 text-base md:text-lg">
-                  <BookOpen className="w-5 h-5" />
+                <div className="flex items-center gap-2 text-sm sm:text-base md:text-lg">
+                  <BookOpen className="w-4 h-4 sm:w-5 sm:h-5" />
                   <span>Section III 写作 · {titleName} (第 {qid} 题 / {isEssay ? '20' : '10'}分)</span>
                 </div>
                 {task && (
                   <button
                     onClick={() => setPreviewImageUrl(`./data/images/writing/${task.meta.id}.png`)}
-                    className={`text-xs px-3 py-1.5 rounded-lg border font-semibold flex items-center gap-1.5 transition-colors shadow-sm ${
+                    className={`text-xs px-2.5 sm:px-3 py-1.5 rounded-lg border font-semibold flex items-center gap-1.5 transition-colors shadow-sm ${
                       isDark 
                         ? 'bg-slate-800 hover:bg-slate-750 text-blue-300 border-slate-700' 
                         : 'bg-white hover:bg-gray-50 text-blue-700 border-gray-200'
                     }`}
                   >
                     <ZoomIn className="w-3.5 h-3.5" />
-                    全屏查看高清大图
+                    全屏大图
                   </button>
                 )}
               </div>
@@ -1909,7 +2112,7 @@ export default function QuizMode({
                       📷 {year}年考研英语一 {titleName} 原卷扫描超清大图
                     </span>
                     <span className="flex items-center gap-1 cursor-pointer hover:underline text-blue-500" onClick={() => setPreviewImageUrl(`./data/images/writing/${task.meta.id}.png`)}>
-                      <Maximize2 className="w-3.5 h-3.5" /> 点击全屏放大查看
+                      <Maximize2 className="w-3.5 h-3.5" /> 点击放大
                     </span>
                   </div>
                 </div>
@@ -1927,10 +2130,15 @@ export default function QuizMode({
           </div>
 
           {/* Right Column: Writing Answer Area & High-score Model Essay */}
-          <div className={`flex-1 p-6 md:p-8 overflow-y-auto border-l ${isDark ? 'bg-slate-900 border-slate-800' : 'bg-white border-gray-200'}`}>
+          <div 
+            className={`p-3 sm:p-5 lg:p-6 overflow-y-auto min-w-0 border-l ${
+              viewMode === 'passage' ? 'hidden' : 'block flex-1'
+            } ${isDark ? 'bg-slate-900 border-slate-800' : 'bg-white border-gray-200'}`} 
+            style={viewMode === 'split' ? { flex: '1' } : undefined}
+          >
             <div className="max-w-2xl mx-auto h-full flex flex-col">
               <div className="flex flex-wrap items-center justify-between gap-2 mb-4">
-                <h2 className="text-xl font-bold text-[#6a5bcd] flex items-center">
+                <h2 className="text-lg sm:text-xl font-bold text-[#6a5bcd] flex items-center">
                   📝 {qid}. {titleName} 作答区与范文解析
                 </h2>
                 <div className="flex items-center gap-2">
@@ -2063,7 +2271,7 @@ export default function QuizMode({
     };
 
     return (
-      <div className={`w-[17.5rem] border-l h-full overflow-y-auto flex flex-col flex-shrink-0 z-10 shadow-[-5px_0_15px_-5px_rgba(0,0,0,0.05)] transition-colors ${isDark ? 'bg-slate-900 border-slate-800 text-slate-200' : 'bg-[#f8f9fa] border-gray-200 text-gray-700'}`}>
+      <div className={`w-full border-l h-full overflow-y-auto flex flex-col flex-shrink-0 z-10 shadow-[-5px_0_15px_-5px_rgba(0,0,0,0.05)] transition-colors ${isDark ? 'bg-slate-900 border-slate-800 text-slate-200' : 'bg-[#f8f9fa] border-gray-200 text-gray-700'}`}>
         <div className={`p-3.5 px-4 border-b font-bold flex items-center justify-between sticky top-0 z-10 ${isDark ? 'bg-slate-900 border-slate-800' : 'bg-[#f8f9fa] border-gray-200'}`}>
           <div className="flex items-center text-sm">
             <CheckSquare className="w-4 h-4 mr-1.5 text-[#6a5bcd]" />
@@ -2078,10 +2286,10 @@ export default function QuizMode({
                 ? 'bg-slate-800 hover:bg-slate-750 text-slate-300 border-slate-700 hover:text-white' 
                 : 'bg-white hover:bg-gray-100 text-gray-600 border-gray-200 hover:text-gray-900'
             }`}
-            title="收起答题卡"
+            title="关闭/收起答题卡"
           >
             <span>收起</span>
-            <PanelRightClose className="w-3.5 h-3.5" />
+            <X className="w-3.5 h-3.5" />
           </button>
         </div>
         <div className="flex-1 py-4 overflow-y-auto">
@@ -2116,7 +2324,7 @@ export default function QuizMode({
   };
 
   return (
-    <div className={`flex flex-col h-screen font-sans overflow-hidden transition-colors duration-200 ${isDark ? 'bg-slate-950 text-slate-100' : 'bg-slate-50 text-gray-900'}`}>
+    <div className={`flex flex-col h-full min-h-0 font-sans overflow-hidden transition-colors duration-200 ${isDark ? 'bg-slate-950 text-slate-100' : 'bg-slate-50 text-gray-900'}`}>
       {renderNavbar()}
       
       {/* Toast Notification */}
@@ -2134,14 +2342,24 @@ export default function QuizMode({
       )}
 
       {/* Main View + Collapsible Answer Sheet Container */}
-      <div className="flex-1 flex overflow-hidden relative">
-        <div className="flex-1 overflow-hidden h-full shadow-sm rounded-tr-lg">
+      <div className="flex-1 flex overflow-hidden relative min-h-0">
+        <div className="flex-1 overflow-hidden h-full shadow-sm">
           {renderActiveView()}
         </div>
 
-        {/* Collapsible Answer Sheet Panel with smooth slide/width transition */}
-        <div className={`transition-all duration-300 ease-in-out overflow-hidden flex-shrink-0 ${
-          isAnswerSheetOpen ? 'w-[17.5rem] opacity-100' : 'w-0 opacity-0 pointer-events-none'
+        {/* Mobile/Narrow Screen Backdrop for Answer Sheet Drawer */}
+        {isAnswerSheetOpen && (
+          <div 
+            className="fixed inset-0 z-40 bg-black/40 backdrop-blur-xs xl:hidden animate-fade-in"
+            onClick={() => setIsAnswerSheetOpen(false)}
+          />
+        )}
+
+        {/* Collapsible Answer Sheet Panel: Slide-over drawer on < xl, docked sidebar on xl+ */}
+        <div className={`transition-all duration-300 ease-in-out overflow-hidden flex-shrink-0 z-50 xl:z-10 ${
+          isAnswerSheetOpen 
+            ? 'fixed right-0 top-0 bottom-0 w-72 sm:w-80 shadow-2xl xl:relative xl:top-auto xl:bottom-auto xl:right-auto xl:w-[17.5rem] xl:shadow-none opacity-100' 
+            : 'w-0 opacity-0 pointer-events-none'
         }`}>
           {renderAnswerSheet()}
         </div>

@@ -89,8 +89,8 @@ export const Header: React.FC<HeaderProps> = ({
             </span>
           </button>
 
-          {/* Feature Pills */}
-          <div className="hidden md:flex items-center gap-5 text-xs font-medium">
+          {/* Feature Pills (only on wide screens to prevent header overflow) */}
+          <div className="hidden xl:flex items-center gap-4 text-xs font-medium">
             <span className={`flex items-center gap-1.5 px-2.5 py-1 rounded-full border ${isDark ? 'bg-blue-950/60 text-blue-300 border-blue-800/60' : 'bg-blue-50/80 text-blue-700 border-blue-100'}`}>
               <span>👁️</span> 可视化学习，效率翻倍
             </span>
@@ -125,20 +125,20 @@ export const Header: React.FC<HeaderProps> = ({
         </div>
 
         {/* Right: Actions */}
-        <div className="flex items-center gap-2.5">
+        <div className="flex items-center gap-1 sm:gap-2 shrink-0">
           {/* AI Grading & Custom API Settings Button in Actions */}
           {onOpenAiConfig && (
             <button
               onClick={onOpenAiConfig}
-              className={`flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-bold transition-all border shadow-xs ${
+              className={`flex items-center gap-1.5 px-2 sm:px-3 py-1.5 rounded-lg text-xs font-bold transition-all border shadow-xs ${
                 isDark
                   ? 'bg-slate-850 hover:bg-slate-800 text-teal-300 border-teal-800/80 hover:border-teal-600'
                   : 'bg-teal-50 hover:bg-teal-100 text-teal-800 border-teal-200'
               }`}
               title="AI 批阅与大模型 API 配置中心"
             >
-              <Sparkles className="w-3.5 h-3.5 text-teal-400" />
-              <span className="hidden sm:inline">AI批阅设置</span>
+              <Sparkles className="w-3.5 h-3.5 text-teal-400 shrink-0" />
+              <span className="hidden md:inline">AI批阅设置</span>
               <span className={`w-1.5 h-1.5 rounded-full ${isAiConfigured ? 'bg-emerald-400' : 'bg-amber-400'}`} />
             </button>
           )}
@@ -147,15 +147,15 @@ export const Header: React.FC<HeaderProps> = ({
           {onOpenEbbinghaus && (
             <button
               onClick={onOpenEbbinghaus}
-              className={`flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-bold transition-all border relative ${
+              className={`flex items-center gap-1.5 px-2 sm:px-3 py-1.5 rounded-lg text-xs font-bold transition-all border relative ${
                 isDark
                   ? 'bg-indigo-950/70 hover:bg-indigo-900 text-indigo-300 border-indigo-800/80 shadow-sm'
                   : 'bg-indigo-50 hover:bg-indigo-100 text-indigo-700 border-indigo-200'
               }`}
               title="艾宾浩斯遗忘曲线单词本与每日背词复习"
             >
-              <Brain className="w-3.5 h-3.5 text-indigo-400" />
-              <span>单词复习</span>
+              <Brain className="w-3.5 h-3.5 text-indigo-400 shrink-0" />
+              <span className="hidden md:inline">单词复习</span>
               {dueReviewCount > 0 && (
                 <span className="bg-rose-500 text-white text-[10px] font-black px-1.5 py-0.2 rounded-full">
                   {dueReviewCount}
@@ -168,15 +168,15 @@ export const Header: React.FC<HeaderProps> = ({
           {onOpenProgress && (
             <button
               onClick={onOpenProgress}
-              className={`flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-bold transition-all border ${
+              className={`flex items-center gap-1.5 px-2 sm:px-3 py-1.5 rounded-lg text-xs font-bold transition-all border ${
                 isDark
                   ? 'bg-slate-800 hover:bg-slate-700 text-emerald-400 border-slate-700 shadow-sm'
                   : 'bg-emerald-50 hover:bg-emerald-100 text-emerald-700 border-emerald-200'
               }`}
               title="查看真题刷题进度档案"
             >
-              <BarChart3 className="w-3.5 h-3.5 text-emerald-400" />
-              <span>学习进度</span>
+              <BarChart3 className="w-3.5 h-3.5 text-emerald-400 shrink-0" />
+              <span className="hidden sm:inline">学习进度</span>
             </button>
           )}
 
@@ -184,15 +184,15 @@ export const Header: React.FC<HeaderProps> = ({
           {onOpenDataBackup && (
             <button
               onClick={onOpenDataBackup}
-              className={`flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-bold transition-all border ${
+              className={`flex items-center gap-1.5 px-2 sm:px-3 py-1.5 rounded-lg text-xs font-bold transition-all border ${
                 isDark
                   ? 'bg-slate-800 hover:bg-slate-700 text-blue-400 border-slate-700 shadow-sm'
                   : 'bg-blue-50 hover:bg-blue-100 text-blue-700 border-blue-200'
               }`}
               title="学习数据导入与导出备份"
             >
-              <Database className="w-3.5 h-3.5" />
-              <span>数据备份</span>
+              <Database className="w-3.5 h-3.5 shrink-0" />
+              <span className="hidden lg:inline">数据备份</span>
             </button>
           )}
 
@@ -200,15 +200,15 @@ export const Header: React.FC<HeaderProps> = ({
           {onOpenDesktopApp && (
             <button
               onClick={onOpenDesktopApp}
-              className={`hidden sm:flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-bold transition-all border ${
+              className={`hidden md:flex items-center gap-1.5 px-2.5 sm:px-3 py-1.5 rounded-lg text-xs font-bold transition-all border ${
                 isDark
                   ? 'bg-purple-950/70 hover:bg-purple-900 text-purple-300 border-purple-800/80 shadow-sm'
                   : 'bg-purple-50 hover:bg-purple-100 text-purple-700 border-purple-200'
               }`}
               title="生成 Windows / Mac 桌面独立应用程序或在应用中打开"
             >
-              <Laptop className="w-3.5 h-3.5 text-purple-400" />
-              <span>桌面应用</span>
+              <Laptop className="w-3.5 h-3.5 text-purple-400 shrink-0" />
+              <span className="hidden lg:inline">桌面应用</span>
             </button>
           )}
 
@@ -216,7 +216,7 @@ export const Header: React.FC<HeaderProps> = ({
           {onToggleTheme && (
             <button
               onClick={onToggleTheme}
-              className={`flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-bold transition-all border ${
+              className={`flex items-center gap-1.5 px-2 sm:px-3 py-1.5 rounded-lg text-xs font-bold transition-all border ${
                 isDark
                   ? 'bg-slate-800 hover:bg-slate-700 text-amber-300 border-slate-700 shadow-sm'
                   : 'bg-gray-100 hover:bg-gray-200 text-slate-700 border-gray-200'
@@ -225,13 +225,13 @@ export const Header: React.FC<HeaderProps> = ({
             >
               {isDark ? (
                 <>
-                  <Sun className="w-3.5 h-3.5 text-amber-400" />
-                  <span>浅色模式</span>
+                  <Sun className="w-3.5 h-3.5 text-amber-400 shrink-0" />
+                  <span className="hidden md:inline">浅色</span>
                 </>
               ) : (
                 <>
-                  <Moon className="w-3.5 h-3.5 text-indigo-600" />
-                  <span>深色模式</span>
+                  <Moon className="w-3.5 h-3.5 text-indigo-600 shrink-0" />
+                  <span className="hidden md:inline">深色</span>
                 </>
               )}
             </button>
@@ -240,13 +240,13 @@ export const Header: React.FC<HeaderProps> = ({
           {currentYear && (
             <button
               onClick={onGoHome}
-              className={`text-xs font-semibold px-3 py-1.5 rounded-md transition-colors flex items-center gap-1 ${
+              className={`text-xs font-semibold px-2.5 sm:px-3 py-1.5 rounded-md transition-colors flex items-center gap-1 shrink-0 ${
                 isDark
                   ? 'bg-slate-800 hover:bg-slate-700 text-slate-200 border border-slate-700'
                   : 'bg-gray-100 hover:bg-gray-200 text-gray-700'
               }`}
             >
-              ← 返回真题矩阵
+              ← <span className="hidden sm:inline">返回真题矩阵</span>
             </button>
           )}
         </div>

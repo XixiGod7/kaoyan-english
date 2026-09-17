@@ -249,25 +249,27 @@ export const App: React.FC = () => {
     <div className={`h-screen flex flex-col font-sans antialiased transition-colors duration-200 overflow-hidden ${
       isDark ? 'bg-slate-950 text-slate-100' : 'bg-slate-50 text-gray-900'
     }`}>
-      {/* Top Bar */}
-      <Header
-        onGoHome={() => {
-          setSelectedYear(null);
-          setTargetSentenceId(null);
-          setTargetTab(null);
-          setTargetSectionId(null);
-          refreshQuizHistory();
-        }}
-        currentYear={selectedYear}
-        theme={theme}
-        onToggleTheme={handleToggleTheme}
-        onOpenDataBackup={() => setIsBackupModalOpen(true)}
-        onOpenEbbinghaus={() => setIsEbbinghausOpen(true)}
-        onOpenProgress={() => setIsProgressOpen(true)}
-        onOpenDesktopApp={() => setIsDesktopAppOpen(true)}
-        onOpenAiConfig={() => setIsAiConfigOpen(true)}
-        dueReviewCount={dueReviewCount}
-      />
+      {/* Top Bar (Only displayed on Home Dashboard to prevent double headers and layout collisions during quiz) */}
+      {!selectedYear && (
+        <Header
+          onGoHome={() => {
+            setSelectedYear(null);
+            setTargetSentenceId(null);
+            setTargetTab(null);
+            setTargetSectionId(null);
+            refreshQuizHistory();
+          }}
+          currentYear={selectedYear}
+          theme={theme}
+          onToggleTheme={handleToggleTheme}
+          onOpenDataBackup={() => setIsBackupModalOpen(true)}
+          onOpenEbbinghaus={() => setIsEbbinghausOpen(true)}
+          onOpenProgress={() => setIsProgressOpen(true)}
+          onOpenDesktopApp={() => setIsDesktopAppOpen(true)}
+          onOpenAiConfig={() => setIsAiConfigOpen(true)}
+          dueReviewCount={dueReviewCount}
+        />
+      )}
 
       {loading ? (
         <div className={`flex-1 flex items-center justify-center text-sm font-bold gap-3 ${
@@ -278,7 +280,7 @@ export const App: React.FC = () => {
         </div>
       ) : selectedYear ? (
         /* Full Quiz Mode View for Selected Year */
-        <div className="flex-1">
+        <div className="flex-1 h-full min-h-0 overflow-hidden">
           <QuizMode
             year={selectedYear}
             initialTargetSentenceId={targetSentenceId}
