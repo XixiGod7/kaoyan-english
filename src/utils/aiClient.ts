@@ -26,14 +26,17 @@ async function executeChatRequest(
     window.location.hostname === '127.0.0.1' ||
     window.location.port === '8085'
   );
-  const proxyCandidates = isLocalHost
-    ? ['/api/ai-proxy', 'http://127.0.0.1:8085/api/ai-proxy']
-    : ['http://127.0.0.1:8085/api/ai-proxy'];
+  const isEdgeHosted = typeof window !== 'undefined' && (
+    window.location.hostname.endsWith('.pages.dev') ||
+    window.location.hostname.endsWith('.workers.dev')
+  );
+  const hasLocalOrEdgeProxy = isLocalHost || isEdgeHosted;
+  const proxyCandidates = ['/api/ai-proxy', 'http://127.0.0.1:8085/api/ai-proxy'];
 
   // Known endpoints that do not support browser CORS (e.g. SenseNova returns 404 on OPTIONS)
   const requiresProxy = endpoint.includes('sensenova.cn') || endpoint.includes('sensenova.ai');
 
-  if (requiresProxy && isLocalHost) {
+  if (requiresProxy && hasLocalOrEdgeProxy) {
     for (const proxyUrl of proxyCandidates) {
       try {
         const controller = new AbortController();
@@ -49,7 +52,9 @@ async function executeChatRequest(
           signal: controller.signal,
         });
         clearTimeout(tid);
-        return proxyResponse;
+        if (proxyResponse.ok || proxyResponse.status < 500) {
+          return proxyResponse;
+        }
       } catch {
         // Fallback to next candidate or direct attempt
       }
