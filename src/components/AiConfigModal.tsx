@@ -252,7 +252,23 @@ export const AiConfigModal: React.FC<AiConfigModalProps> = ({
               <input
                 type="text"
                 value={config.baseUrl}
-                onChange={e => setConfig(prev => ({ ...prev, baseUrl: e.target.value }))}
+                onChange={e => {
+                  const val = e.target.value;
+                  let matchedProvider: string | undefined;
+                  if (val.includes('sensenova.cn')) matchedProvider = 'sensenova';
+                  else if (val.includes('deepseek.com')) matchedProvider = 'deepseek';
+                  else if (val.includes('bigmodel.cn')) matchedProvider = 'zhipu';
+                  else if (val.includes('dashscope.aliyuncs.com')) matchedProvider = 'dashscope';
+                  else if (val.includes('moonshot.cn')) matchedProvider = 'kimi';
+                  else if (val.includes('openai.com')) matchedProvider = 'openai';
+                  else if (val.includes('localhost:11434')) matchedProvider = 'ollama';
+
+                  setConfig(prev => ({
+                    ...prev,
+                    baseUrl: val,
+                    provider: matchedProvider || prev.provider,
+                  }));
+                }}
                 placeholder="例如: https://token.sensenova.cn/v1/chat/completions 或完整接口地址"
                 className={`w-full px-3.5 py-2.5 rounded-xl border text-sm font-mono transition-colors outline-none focus:ring-2 focus:ring-blue-500/30 ${
                   isDark 

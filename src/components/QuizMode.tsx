@@ -31,7 +31,10 @@ import {
   Columns,
   Eye,
   Type,
-  X
+  X,
+  Menu,
+  ChevronDown,
+  Check
 } from 'lucide-react';
 import { AiReviewCard } from './AiReviewCard';
 import { AiReviewReport } from '../types/ai';
@@ -59,22 +62,22 @@ const FONT_MAP: Record<FontSizeLevel, {
     label: '标准 (小)',
   },
   base: {
-    passage: 'text-[1.05rem] leading-[2.15]',
+    passage: 'text-[1.03rem] leading-[2.05]',
     questionTitle: 'text-[1.05rem]',
     questionOption: 'text-[0.95rem]',
-    label: '适中 (默认)',
+    label: '适中 (中)',
   },
   lg: {
-    passage: 'text-[1.18rem] leading-[2.35]',
+    passage: 'text-[1.15rem] leading-[2.15]',
     questionTitle: 'text-[1.15rem]',
-    questionOption: 'text-[1.05rem]',
-    label: '大号',
+    questionOption: 'text-[1.03rem]',
+    label: '清晰 (大)',
   },
   xl: {
-    passage: 'text-[1.32rem] leading-[2.55]',
+    passage: 'text-[1.28rem] leading-[2.25]',
     questionTitle: 'text-[1.25rem]',
-    questionOption: 'text-[1.15rem]',
-    label: '超大',
+    questionOption: 'text-[1.12rem]',
+    label: '特大 (超大)',
   },
 };
 
@@ -93,16 +96,29 @@ interface QuizModeProps {
   onOpenAiConfig?: () => void;
 }
 
-const TABS = [
-  { id: 'cloze', label: '完形填空 (1-20)', shortLabel: '完形 1-20' },
-  { id: 'reading_1', label: '阅读 Text 1 (21-25)', shortLabel: 'Text 1' },
-  { id: 'reading_2', label: '阅读 Text 2 (26-30)', shortLabel: 'Text 2' },
-  { id: 'reading_3', label: '阅读 Text 3 (31-35)', shortLabel: 'Text 3' },
-  { id: 'reading_4', label: '阅读 Text 4 (36-40)', shortLabel: 'Text 4' },
-  { id: 'matching', label: '新题型 (41-45)', shortLabel: '新题型 41-45' },
-  { id: 'translation', label: '翻译 (46-50)', shortLabel: '翻译 46-50' },
-  { id: 'writing_clinical', label: '小作文 (51)', shortLabel: '小作文 51' },
-  { id: 'writing_essay', label: '大作文 (52)', shortLabel: '大作文 52' },
+export interface TabItem {
+  id: string;
+  label: string;
+  shortLabel: string;
+  sectionGroup: string;
+  sectionName: string;
+  qRange: string;
+  startQ: number;
+  endQ: number;
+  count: number;
+  score: string;
+}
+
+const TABS: TabItem[] = [
+  { id: 'cloze', label: '完形填空 (1-20)', shortLabel: '完形填空', sectionGroup: 'Section I 英语知识运用', sectionName: '完形填空', qRange: '1-20 题', startQ: 1, endQ: 20, count: 20, score: '10分' },
+  { id: 'reading_1', label: '阅读 Text 1 (21-25)', shortLabel: '阅读 Text 1', sectionGroup: 'Section II 阅读理解 Part A', sectionName: '阅读 Text 1', qRange: '21-25 题', startQ: 21, endQ: 25, count: 5, score: '10分' },
+  { id: 'reading_2', label: '阅读 Text 2 (26-30)', shortLabel: '阅读 Text 2', sectionGroup: 'Section II 阅读理解 Part A', sectionName: '阅读 Text 2', qRange: '26-30 题', startQ: 26, endQ: 30, count: 5, score: '10分' },
+  { id: 'reading_3', label: '阅读 Text 3 (31-35)', shortLabel: '阅读 Text 3', sectionGroup: 'Section II 阅读理解 Part A', sectionName: '阅读 Text 3', qRange: '31-35 题', startQ: 31, endQ: 35, count: 5, score: '10分' },
+  { id: 'reading_4', label: '阅读 Text 4 (36-40)', shortLabel: '阅读 Text 4', sectionGroup: 'Section II 阅读理解 Part A', sectionName: '阅读 Text 4', qRange: '36-40 题', startQ: 36, endQ: 40, count: 5, score: '10分' },
+  { id: 'matching', label: '新题型 (41-45)', shortLabel: '阅读新题型', sectionGroup: 'Section II 阅读理解 Part B', sectionName: '选择搭配/排序', qRange: '41-45 题', startQ: 41, endQ: 45, count: 5, score: '10分' },
+  { id: 'translation', label: '翻译 (46-50)', shortLabel: '英译汉', sectionGroup: 'Section II 阅读理解 Part C', sectionName: '划线句翻译', qRange: '46-50 题', startQ: 46, endQ: 50, count: 5, score: '10分' },
+  { id: 'writing_clinical', label: '小作文 (51)', shortLabel: '应用文写作', sectionGroup: 'Section III 写作 Part A', sectionName: '书信/通告应用文', qRange: '第 51 题', startQ: 51, endQ: 51, count: 1, score: '10分' },
+  { id: 'writing_essay', label: '大作文 (52)', shortLabel: '短文论说文', sectionGroup: 'Section III 写作 Part B', sectionName: '图表/图画大作文', qRange: '第 52 题', startQ: 52, endQ: 52, count: 1, score: '20分' },
 ];
 
 export default function QuizMode({ 
@@ -148,6 +164,23 @@ export default function QuizMode({
       return false;
     }
   });
+
+  // Collapsible Left Catalog Drawer State
+  const [isCatalogOpen, setIsCatalogOpen] = useState(false);
+  // Top Navbar Section Dropdown Popover State (for narrow / laptop screens)
+  const [isSectionDropdownOpen, setIsSectionDropdownOpen] = useState(false);
+
+  // Close drawers/dropdowns on Escape
+  useEffect(() => {
+    const handleKeyDown = (e: KeyboardEvent) => {
+      if (e.key === 'Escape') {
+        setIsCatalogOpen(false);
+        setIsSectionDropdownOpen(false);
+      }
+    };
+    window.addEventListener('keydown', handleKeyDown);
+    return () => window.removeEventListener('keydown', handleKeyDown);
+  }, []);
 
   // Persistent Progress Initial State
   const initialSavedProg = useMemo(() => loadQuizProgress(year), [year]);
@@ -573,6 +606,22 @@ export default function QuizMode({
 
   const allQuestionsCount = 52;
   const answeredCount = Object.keys(answers).length;
+  const currentTab = TABS.find(t => t.id === activeTab) || TABS[0];
+
+  const getTabStats = useCallback((tab: TabItem) => {
+    let answered = 0;
+    for (let i = tab.startQ; i <= tab.endQ; i++) {
+      if (answers[i] !== undefined && String(answers[i]).trim() !== '') {
+        answered++;
+      }
+    }
+    return {
+      answered,
+      total: tab.count,
+      isComplete: answered === tab.count && tab.count > 0,
+      isPartial: answered > 0 && answered < tab.count,
+    };
+  }, [answers]);
 
   if (loading) return (
     <div className={`flex items-center justify-center h-full min-h-0 font-bold ${
@@ -594,8 +643,8 @@ export default function QuizMode({
     <div className={`px-2 sm:px-4 h-13 sm:h-14 flex items-center justify-between sticky top-0 z-40 shadow-xs shrink-0 border-b gap-1.5 sm:gap-2.5 transition-colors ${
       isDark ? 'bg-slate-900 border-slate-800 text-slate-100' : 'bg-white border-gray-200 text-gray-900'
     }`}>
-      {/* Left: Back & Title */}
-      <div className="flex items-center gap-1.5 sm:gap-2.5 shrink-0">
+      {/* Left: Back & Title & Catalog Button */}
+      <div className="flex items-center gap-1.5 sm:gap-2 shrink-0">
         <button 
           onClick={onBackToHome} 
           className={`flex items-center text-xs sm:text-sm font-semibold px-2 sm:px-2.5 py-1 rounded-lg border transition-all ${
@@ -606,37 +655,151 @@ export default function QuizMode({
           title="返回真题总览矩阵"
         >
           <ChevronLeft className="w-4 h-4 mr-0.5" />
-          <span className="hidden sm:inline">返回真题矩阵</span>
+          <span className="hidden sm:inline">返回矩阵</span>
           <span className="sm:hidden">矩阵</span>
         </button>
 
-        <div className={`font-bold text-xs sm:text-sm px-2 sm:px-3 py-1 rounded-full border shadow-2xs truncate max-w-[110px] sm:max-w-[180px] md:max-w-none ${
+        {/* Collapsible Left Catalog Trigger Button */}
+        <button
+          id="open-catalog-drawer-btn"
+          onClick={() => setIsCatalogOpen(true)}
+          className={`flex items-center gap-1 text-xs font-bold px-2 sm:px-2.5 py-1 rounded-lg border transition-all ${
+            isDark
+              ? 'bg-indigo-950/70 hover:bg-indigo-900/80 text-indigo-300 border-indigo-700/60 shadow-xs'
+              : 'bg-indigo-50 hover:bg-indigo-100 text-indigo-700 border-indigo-200 shadow-xs'
+          }`}
+          title="展开全卷试题目录抽屉"
+        >
+          <Menu className="w-3.5 h-3.5" />
+          <span className="hidden md:inline">试题目录</span>
+          <span className="md:hidden">目录</span>
+        </button>
+
+        <div className={`font-bold text-xs sm:text-sm px-2 sm:px-2.5 py-1 rounded-full border shadow-2xs truncate max-w-[90px] sm:max-w-[140px] md:max-w-none ${
           isDark 
             ? 'bg-slate-800/90 border-slate-700 text-slate-200' 
             : 'bg-yellow-50 text-gray-800 border-yellow-200'
         }`}>
-          {year}年考研英语一
+          {year}年
         </div>
       </div>
 
-      {/* Middle: Horizontally Scrollable Section Tabs */}
-      <div className="flex items-center gap-1 overflow-x-auto flex-1 min-w-0 py-1 px-1 no-scrollbar">
-        {TABS.map(tab => (
-          <button
-            key={tab.id}
-            onClick={() => setActiveTab(tab.id)}
-            className={`px-2.5 sm:px-3 py-1 rounded-full text-xs font-bold transition-all shrink-0 whitespace-nowrap ${
-              activeTab === tab.id 
-                ? 'bg-blue-600 text-white shadow-xs ring-1 ring-blue-400' 
-                : isDark 
-                ? 'text-slate-400 hover:bg-slate-800 hover:text-slate-100' 
-                : 'text-gray-600 hover:bg-gray-100 hover:text-gray-900'
-            }`}
-          >
-            <span className="hidden md:inline">{tab.label}</span>
-            <span className="md:hidden">{tab.shortLabel}</span>
-          </button>
-        ))}
+      {/* Middle: Desktop Horizontal Tabs (xl+) / Narrow Screen Dropdown Selector (<xl) */}
+      
+      {/* 1. Desktop Horizontal Tabs (>= 1280px) */}
+      <div className="hidden xl:flex items-center gap-1 overflow-x-auto flex-1 min-w-0 py-1 px-1 no-scrollbar justify-center">
+        {TABS.map(tab => {
+          const stats = getTabStats(tab);
+          return (
+            <button
+              key={tab.id}
+              onClick={() => setActiveTab(tab.id)}
+              className={`px-2.5 lg:px-3 py-1 rounded-full text-xs font-bold transition-all shrink-0 whitespace-nowrap flex items-center gap-1.5 ${
+                activeTab === tab.id 
+                  ? 'bg-blue-600 text-white shadow-xs ring-1 ring-blue-400' 
+                  : isDark 
+                  ? 'text-slate-400 hover:bg-slate-800 hover:text-slate-100' 
+                  : 'text-gray-600 hover:bg-gray-100 hover:text-gray-900'
+              }`}
+            >
+              <span>{tab.label}</span>
+              {stats.isComplete ? (
+                <Check className="w-3 h-3 text-emerald-300" />
+              ) : stats.answered > 0 ? (
+                <span className="text-[10px] opacity-80 font-mono">({stats.answered}/{stats.total})</span>
+              ) : null}
+            </button>
+          );
+        })}
+      </div>
+
+      {/* 2. Narrow Screen Dropdown Selector (< 1280px) */}
+      <div className="flex xl:hidden items-center relative flex-1 min-w-0 justify-center px-1">
+        <button
+          id="section-dropdown-trigger"
+          onClick={() => setIsSectionDropdownOpen(prev => !prev)}
+          className={`flex items-center gap-1.5 px-2.5 sm:px-3.5 py-1.5 rounded-xl text-xs font-bold border shadow-xs transition-all max-w-[210px] sm:max-w-[280px] truncate ${
+            isDark 
+              ? 'bg-blue-950/80 hover:bg-blue-900 border-blue-600/80 text-blue-200' 
+              : 'bg-blue-50 hover:bg-blue-100 border-blue-300 text-blue-900'
+          }`}
+          title="点击展开下拉菜单，快速切换试题部分"
+        >
+          <BookOpen className="w-3.5 h-3.5 text-blue-500 shrink-0" />
+          <span className="truncate">{currentTab.label}</span>
+          <ChevronDown className={`w-3.5 h-3.5 shrink-0 transition-transform duration-200 ${isSectionDropdownOpen ? 'rotate-180 text-blue-400' : 'text-slate-400'}`} />
+        </button>
+
+        {/* Dropdown Menu Popup */}
+        {isSectionDropdownOpen && (
+          <>
+            <div 
+              className="fixed inset-0 z-40"
+              onClick={() => setIsSectionDropdownOpen(false)}
+            />
+            <div className={`absolute top-full left-1/2 -translate-x-1/2 mt-1.5 w-72 sm:w-80 max-h-[70vh] overflow-y-auto rounded-2xl shadow-2xl border p-2 z-50 animate-in fade-in zoom-in-95 duration-150 ${
+              isDark ? 'bg-slate-900/98 border-slate-750 text-slate-100 backdrop-blur-md' : 'bg-white/98 border-gray-200 text-gray-900 backdrop-blur-md shadow-blue-500/10'
+            }`}>
+              <div className={`px-2.5 py-1.5 mb-1.5 border-b flex items-center justify-between text-[11px] font-bold ${
+                isDark ? 'border-slate-800 text-slate-400' : 'border-gray-100 text-gray-500'
+              }`}>
+                <span>切换试卷部分 (共 9 题型)</span>
+                <span>完成情况</span>
+              </div>
+              <div className="space-y-1">
+                {TABS.map(tab => {
+                  const stats = getTabStats(tab);
+                  const isCurrent = activeTab === tab.id;
+                  return (
+                    <button
+                      key={tab.id}
+                      onClick={() => {
+                        setActiveTab(tab.id);
+                        setIsSectionDropdownOpen(false);
+                      }}
+                      className={`w-full p-2.5 rounded-xl text-left flex items-center justify-between transition-all ${
+                        isCurrent 
+                          ? 'bg-blue-600 text-white font-bold shadow-xs' 
+                          : isDark 
+                          ? 'hover:bg-slate-800/80 text-slate-200' 
+                          : 'hover:bg-gray-100 text-gray-800'
+                      }`}
+                    >
+                      <div className="flex items-center gap-2 min-w-0 pr-2">
+                        <span className={`w-2 h-2 rounded-full shrink-0 ${
+                          isCurrent 
+                            ? 'bg-white' 
+                            : stats.isComplete 
+                            ? 'bg-emerald-400' 
+                            : stats.isPartial 
+                            ? 'bg-amber-400' 
+                            : isDark ? 'bg-slate-700' : 'bg-gray-300'
+                        }`} />
+                        <div className="truncate">
+                          <div className="text-xs font-bold truncate">{tab.label}</div>
+                          <div className={`text-[10px] truncate ${isCurrent ? 'text-blue-100' : isDark ? 'text-slate-400' : 'text-gray-500'}`}>
+                            {tab.sectionGroup} · {tab.score}
+                          </div>
+                        </div>
+                      </div>
+                      <span className={`text-[10px] px-2 py-0.5 rounded-full shrink-0 font-mono font-bold ${
+                        isCurrent
+                          ? 'bg-white/20 text-white'
+                          : stats.isComplete
+                          ? isDark ? 'bg-emerald-950 text-emerald-300 border border-emerald-800' : 'bg-emerald-50 text-emerald-700 border border-emerald-200'
+                          : stats.isPartial
+                          ? isDark ? 'bg-amber-950 text-amber-300 border border-amber-800' : 'bg-amber-50 text-amber-700 border border-amber-200'
+                          : isDark ? 'bg-slate-800 text-slate-400' : 'bg-gray-100 text-gray-500'
+                      }`}>
+                        {stats.answered}/{stats.total}
+                      </span>
+                    </button>
+                  );
+                })}
+              </div>
+            </div>
+          </>
+        )}
       </div>
 
       {/* Right: Layout Switcher, Font Size, AI, Timer, Answer Sheet & Submit */}
@@ -2386,6 +2549,141 @@ export default function QuizMode({
           </button>
         )}
       </div>
+
+      {/* Left Collapsible Catalog Drawer (全卷试题结构目录抽屉) */}
+      {isCatalogOpen && (
+        <>
+          {/* Backdrop */}
+          <div 
+            className="fixed inset-0 z-50 bg-black/50 backdrop-blur-xs animate-in fade-in duration-200"
+            onClick={() => setIsCatalogOpen(false)}
+          />
+          {/* Drawer Sidebar */}
+          <div className={`fixed left-0 top-0 bottom-0 w-80 sm:w-88 z-50 shadow-2xl flex flex-col transition-all duration-300 animate-in slide-in-from-left duration-200 ${
+            isDark ? 'bg-slate-900 border-r border-slate-800 text-slate-100' : 'bg-white border-r border-gray-200 text-gray-900'
+          }`}>
+            {/* Header */}
+            <div className={`p-4 border-b flex items-center justify-between shrink-0 ${
+              isDark ? 'border-slate-800 bg-slate-950/60' : 'border-gray-200 bg-gray-50/80'
+            }`}>
+              <div className="flex items-center gap-2.5">
+                <div className="w-8 h-8 rounded-lg bg-blue-600 text-white flex items-center justify-center font-bold shadow-xs">
+                  <BookOpen className="w-4 h-4" />
+                </div>
+                <div>
+                  <h3 className="font-bold text-sm">全卷试题目录大纲</h3>
+                  <p className={`text-[11px] ${isDark ? 'text-slate-400' : 'text-gray-500'}`}>
+                    {year}年考研英语一 · 满分 100 分
+                  </p>
+                </div>
+              </div>
+              <button
+                id="close-catalog-drawer-btn"
+                onClick={() => setIsCatalogOpen(false)}
+                className={`p-1.5 rounded-lg border transition-colors ${
+                  isDark 
+                    ? 'bg-slate-800 border-slate-700 text-slate-300 hover:text-white hover:bg-slate-750' 
+                    : 'bg-white border-gray-200 text-gray-500 hover:text-gray-900 hover:bg-gray-100'
+                }`}
+                title="关闭目录"
+              >
+                <X className="w-4 h-4" />
+              </button>
+            </div>
+
+            {/* Total Progress Card */}
+            <div className={`p-3.5 mx-4 mt-4 rounded-xl border shrink-0 ${
+              isDark ? 'bg-slate-850/60 border-slate-750' : 'bg-blue-50/50 border-blue-100'
+            }`}>
+              <div className="flex items-center justify-between text-xs font-bold mb-1.5">
+                <span className="flex items-center gap-1.5 text-blue-500">
+                  <CheckSquare className="w-3.5 h-3.5" />
+                  作答总体进度
+                </span>
+                <span className="font-mono text-blue-500 font-bold">
+                  {answeredCount} / 52 题 ({Math.round((answeredCount / 52) * 100)}%)
+                </span>
+              </div>
+              <div className="w-full h-2 bg-gray-200 dark:bg-slate-700 rounded-full overflow-hidden">
+                <div 
+                  className="h-full bg-gradient-to-r from-blue-500 to-indigo-500 rounded-full transition-all duration-300"
+                  style={{ width: `${(answeredCount / 52) * 100}%` }}
+                />
+              </div>
+            </div>
+
+            {/* Catalog Section Groups */}
+            <div className="flex-1 overflow-y-auto p-4 space-y-4">
+              {['Section I', 'Section II Part A', 'Section II Part B', 'Section II Part C', 'Section III'].map(groupKey => {
+                const groupTabs = TABS.filter(t => t.sectionGroup.includes(groupKey));
+                if (groupTabs.length === 0) return null;
+
+                const groupName = groupTabs[0].sectionGroup;
+                return (
+                  <div key={groupKey} className="space-y-1.5">
+                    <div className={`text-[11px] font-black uppercase tracking-wider px-2 py-0.5 ${
+                      isDark ? 'text-slate-400' : 'text-gray-500'
+                    }`}>
+                      {groupName}
+                    </div>
+                    <div className="space-y-1">
+                      {groupTabs.map(tab => {
+                        const stats = getTabStats(tab);
+                        const isCurrent = activeTab === tab.id;
+                        return (
+                          <button
+                            key={tab.id}
+                            onClick={() => {
+                              setActiveTab(tab.id);
+                              setIsCatalogOpen(false);
+                            }}
+                            className={`w-full p-2.5 rounded-xl text-left border flex items-center justify-between transition-all ${
+                              isCurrent
+                                ? 'bg-blue-600 border-blue-500 text-white font-bold shadow-xs'
+                                : isDark
+                                ? 'bg-slate-850/50 border-slate-800 hover:bg-slate-800 text-slate-200 hover:border-slate-700'
+                                : 'bg-gray-50/60 border-gray-200 hover:bg-blue-50/60 text-gray-800 hover:border-blue-200'
+                            }`}
+                          >
+                            <div className="flex items-center gap-2 min-w-0 pr-2">
+                              <span className={`w-2 h-2 rounded-full shrink-0 ${
+                                isCurrent 
+                                  ? 'bg-white' 
+                                  : stats.isComplete 
+                                  ? 'bg-emerald-400' 
+                                  : stats.isPartial 
+                                  ? 'bg-amber-400' 
+                                  : isDark ? 'bg-slate-700' : 'bg-gray-300'
+                              }`} />
+                              <div className="truncate">
+                                <div className="text-xs font-bold truncate">{tab.label}</div>
+                                <div className={`text-[10px] truncate ${isCurrent ? 'text-blue-100' : isDark ? 'text-slate-400' : 'text-gray-500'}`}>
+                                  {tab.sectionName} · {tab.score}
+                                </div>
+                              </div>
+                            </div>
+                            <span className={`text-[10px] px-2 py-0.5 rounded-full shrink-0 font-mono font-bold ${
+                              isCurrent
+                                ? 'bg-white/20 text-white'
+                                : stats.isComplete
+                                ? isDark ? 'bg-emerald-950 text-emerald-300 border border-emerald-800' : 'bg-emerald-50 text-emerald-700 border border-emerald-200'
+                                : stats.isPartial
+                                ? isDark ? 'bg-amber-950 text-amber-300 border border-amber-800' : 'bg-amber-50 text-amber-700 border border-amber-200'
+                                : isDark ? 'bg-slate-800 text-slate-400' : 'bg-gray-100 text-gray-500'
+                            }`}>
+                              {stats.answered}/{stats.total}
+                            </span>
+                          </button>
+                        );
+                      })}
+                    </div>
+                  </div>
+                );
+              })}
+            </div>
+          </div>
+        </>
+      )}
 
       {showResultModal && scoreReport && (
         <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/70 backdrop-blur-sm p-4 animate-fade-in">

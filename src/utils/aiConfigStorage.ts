@@ -66,10 +66,10 @@ export const PROVIDER_PRESETS: ProviderPreset[] = [
   {
     id: 'sensenova',
     name: '商汤日日新 (SenseNova)',
-    desc: '商汤科技日日新大模型，支持轻量敏捷的 6.8 Flash Lite',
+    desc: '商汤科技日日新大模型，快捷支持 DeepSeek V4 Flash / Pro 及 SenseNova 模型',
     baseUrl: 'https://token.sensenova.cn/v1/chat/completions',
-    defaultModel: 'sensenova-6.8-flash-lite',
-    availableModels: ['sensenova-6.8-flash-lite', 'SenseChat-5'],
+    defaultModel: 'deepseek-v4-flash',
+    availableModels: ['deepseek-v4-flash', 'deepseek-v4-pro', 'sensenova-6.8-flash-lite', 'SenseChat-5'],
     helpUrl: 'https://platform.sensenova.cn/docs',
     tag: '需本地服务',
   },
@@ -101,8 +101,8 @@ export function loadAiConfig(): AiConfig {
       baseUrl = 'https://api.deepseek.com/chat/completions';
     }
     let model = (parsed.model || DEFAULT_AI_CONFIG.model).trim();
-    if (parsed.provider === 'sensenova' && (model === 'deepseek-v4-flash' || model === 'glm-5.2' || !model)) {
-      model = 'sensenova-6.8-flash-lite';
+    if (parsed.provider === 'sensenova' && !model) {
+      model = 'deepseek-v4-flash';
     }
     return {
       provider: parsed.provider || DEFAULT_AI_CONFIG.provider,
