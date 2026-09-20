@@ -9,7 +9,6 @@ import {
   Clock, 
   ChevronLeft, 
   BookOpen, 
-  CheckSquare, 
   Edit, 
   Edit3, 
   Image as ImageIcon,
@@ -24,15 +23,12 @@ import {
   ZoomIn,
   ArrowRight,
   Save,
-  PanelRightClose,
-  PanelRightOpen,
   ChevronRight,
   Loader2,
   Columns,
   Eye,
   Type,
   X,
-  Menu,
   ChevronDown,
   Check
 } from 'lucide-react';
@@ -156,25 +152,13 @@ export default function QuizMode({
     } catch {}
   }, []);
 
-  // Collapsible Answer Sheet State (Default open on desktop xl+, closed on narrower laptop/tablet screens)
-  const [isAnswerSheetOpen, setIsAnswerSheetOpen] = useState(() => {
-    try {
-      return typeof window !== 'undefined' && window.innerWidth >= 1280;
-    } catch {
-      return false;
-    }
-  });
-
-  // Collapsible Left Catalog Drawer State
-  const [isCatalogOpen, setIsCatalogOpen] = useState(false);
   // Top Navbar Section Dropdown Popover State (for narrow / laptop screens)
   const [isSectionDropdownOpen, setIsSectionDropdownOpen] = useState(false);
 
-  // Close drawers/dropdowns on Escape
+  // Close dropdown on Escape
   useEffect(() => {
     const handleKeyDown = (e: KeyboardEvent) => {
       if (e.key === 'Escape') {
-        setIsCatalogOpen(false);
         setIsSectionDropdownOpen(false);
       }
     };
@@ -659,22 +643,6 @@ export default function QuizMode({
           <span className="sm:hidden">矩阵</span>
         </button>
 
-        {/* Collapsible Left Catalog Trigger Button */}
-        <button
-          id="open-catalog-drawer-btn"
-          onClick={() => setIsCatalogOpen(true)}
-          className={`flex items-center gap-1 text-xs font-bold px-2 sm:px-2.5 py-1 rounded-lg border transition-all ${
-            isDark
-              ? 'bg-indigo-950/70 hover:bg-indigo-900/80 text-indigo-300 border-indigo-700/60 shadow-xs'
-              : 'bg-indigo-50 hover:bg-indigo-100 text-indigo-700 border-indigo-200 shadow-xs'
-          }`}
-          title="展开全卷试题目录抽屉"
-        >
-          <Menu className="w-3.5 h-3.5" />
-          <span className="hidden md:inline">试题目录</span>
-          <span className="md:hidden">目录</span>
-        </button>
-
         <div className={`font-bold text-xs sm:text-sm px-2 sm:px-2.5 py-1 rounded-full border shadow-2xs truncate max-w-[90px] sm:max-w-[140px] md:max-w-none ${
           isDark 
             ? 'bg-slate-800/90 border-slate-700 text-slate-200' 
@@ -930,26 +898,6 @@ export default function QuizMode({
           <span className="hidden lg:inline">清空进度</span>
         </button>
 
-        {/* Answer sheet toggle */}
-        <button
-          id="toggle-answersheet-nav-btn"
-          onClick={() => setIsAnswerSheetOpen(prev => !prev)}
-          className={`flex items-center gap-1 text-xs font-bold px-2 sm:px-2.5 py-1 rounded-lg border transition-all shadow-2xs ${
-            isAnswerSheetOpen
-              ? isDark 
-                ? 'bg-indigo-950/80 border-indigo-700 text-indigo-300' 
-                : 'bg-indigo-50 border-indigo-200 text-indigo-700'
-              : isDark 
-                ? 'bg-slate-800 hover:bg-slate-750 text-slate-300 border-slate-700' 
-                : 'bg-gray-100 hover:bg-gray-200 text-gray-700 border-gray-200'
-          }`}
-          title={isAnswerSheetOpen ? '点击收起答题卡' : '点击展开答题卡'}
-        >
-          <CheckSquare className="w-3.5 h-3.5" />
-          <span className="hidden sm:inline">答题卡</span>
-          <span className="font-mono text-[11px]">{answeredCount}/52</span>
-        </button>
-
         {/* Submit Button */}
         {isSubmitted ? (
           <button 
@@ -961,10 +909,13 @@ export default function QuizMode({
           </button>
         ) : (
           <button 
+            id="submit-exam-btn"
             onClick={handleSubmit}
-            className="bg-blue-600 text-white px-3 sm:px-3.5 py-1 rounded-lg text-xs sm:text-sm font-bold hover:bg-blue-700 transition-colors shadow-xs shrink-0"
+            className="bg-blue-600 hover:bg-blue-700 text-white px-3 sm:px-3.5 py-1 rounded-lg text-xs sm:text-sm font-bold transition-colors shadow-xs shrink-0 flex items-center gap-1.5"
+            title="提交整卷并查看客观题得分分析"
           >
-            交卷
+            <span>交卷</span>
+            <span className="text-[11px] font-mono opacity-85">({answeredCount}/52)</span>
           </button>
         )}
       </div>
@@ -2399,92 +2350,6 @@ export default function QuizMode({
     }, 150);
   };
 
-  const renderAnswerSheet = () => {
-    const renderGrid = (title: string, start: number, end: number) => {
-      const numbers = Array.from({length: end - start + 1}, (_, i) => start + i);
-      return (
-        <div className="mb-5">
-          <div className={`text-xs font-bold mb-2.5 text-center tracking-wider ${isDark ? 'text-slate-400' : 'text-gray-500'}`}>{title}</div>
-          <div className="grid grid-cols-5 gap-1.5 px-3">
-            {numbers.map(num => {
-              const isAnswered = answers[num] !== undefined && String(answers[num]).trim() !== '';
-              let btnClass = isDark ? "bg-slate-800 text-slate-300 border-slate-700 hover:border-slate-500" : "bg-gray-50 text-gray-600 border-gray-200 hover:border-gray-400";
-
-              if (isSubmitted && num <= 45) {
-                let correctAns: string | undefined;
-                for (const t of paperData.tasks) {
-                  const q = (t.detail.questions || []).find((x: any) => (x.id || x.qid) === num);
-                  if (q) { correctAns = q.answer; break; }
-                }
-                const userAns = answers[num];
-                if (userAns && correctAns && userAns.trim().toUpperCase() === correctAns.trim().toUpperCase()) btnClass = "bg-emerald-600 text-white border-emerald-500";
-                else if (userAns) btnClass = "bg-rose-600 text-white border-rose-500";
-                else btnClass = isDark ? "bg-amber-950 text-amber-300 border-amber-700" : "bg-amber-50 text-amber-800 border-amber-300";
-              } else if (isAnswered) btnClass = isDark ? "bg-blue-900 text-blue-200 border-blue-600 font-bold" : "bg-blue-50 text-blue-700 border-blue-300 font-bold";
-
-              return (
-                <button key={num} onClick={() => scrollToQuestion(num)} className={`w-[2.2rem] h-[2.2rem] flex items-center justify-center text-xs rounded-lg border transition-all shadow-xs ${btnClass}`}>
-                  {num}
-                </button>
-              );
-            })}
-          </div>
-        </div>
-      );
-    };
-
-    return (
-      <div className={`w-full border-l h-full overflow-y-auto flex flex-col flex-shrink-0 z-10 shadow-[-5px_0_15px_-5px_rgba(0,0,0,0.05)] transition-colors ${isDark ? 'bg-slate-900 border-slate-800 text-slate-200' : 'bg-[#f8f9fa] border-gray-200 text-gray-700'}`}>
-        <div className={`p-3.5 px-4 border-b font-bold flex items-center justify-between sticky top-0 z-10 ${isDark ? 'bg-slate-900 border-slate-800' : 'bg-[#f8f9fa] border-gray-200'}`}>
-          <div className="flex items-center text-sm">
-            <CheckSquare className="w-4 h-4 mr-1.5 text-[#6a5bcd]" />
-            <span>答题卡</span>
-            {isSubmitted && <span className="ml-1.5 text-xs text-emerald-500 font-bold">(已交卷)</span>}
-          </div>
-          <button
-            id="collapse-answersheet-btn"
-            onClick={() => setIsAnswerSheetOpen(false)}
-            className={`px-2 py-1 rounded-lg transition text-xs font-semibold flex items-center gap-1 border shadow-2xs ${
-              isDark 
-                ? 'bg-slate-800 hover:bg-slate-750 text-slate-300 border-slate-700 hover:text-white' 
-                : 'bg-white hover:bg-gray-100 text-gray-600 border-gray-200 hover:text-gray-900'
-            }`}
-            title="关闭/收起答题卡"
-          >
-            <span>收起</span>
-            <X className="w-3.5 h-3.5" />
-          </button>
-        </div>
-        <div className="flex-1 py-4 overflow-y-auto">
-          {renderGrid('完形填空 (1-20)', 1, 20)}
-          {renderGrid('阅读 Text 1 (21-25)', 21, 25)}
-          {renderGrid('阅读 Text 2 (26-30)', 26, 30)}
-          {renderGrid('阅读 Text 3 (31-35)', 31, 35)}
-          {renderGrid('阅读 Text 4 (36-40)', 36, 40)}
-          {renderGrid('阅读新题型 (41-45)', 41, 45)}
-          {renderGrid('翻译 (46-50)', 46, 50)}
-          {renderGrid('小作文 (51)', 51, 51)}
-          {renderGrid('大作文 (52)', 52, 52)}
-        </div>
-
-        {/* Answer sheet bottom clear button */}
-        <div className={`p-3 border-t flex flex-col gap-1.5 sticky bottom-0 z-10 ${isDark ? 'bg-slate-900/95 border-slate-800' : 'bg-gray-50/95 border-gray-200'}`}>
-          <button
-            onClick={handleClearProgress}
-            className={`w-full py-2 px-3 rounded-xl text-xs font-bold transition-all border flex items-center justify-center gap-1.5 shadow-xs ${
-              isDark
-                ? 'bg-slate-800 hover:bg-rose-950/60 text-rose-300 border-slate-700 hover:border-rose-800'
-                : 'bg-white hover:bg-rose-50 text-rose-600 border-gray-200 hover:border-rose-200'
-            }`}
-            title="清空本套试卷所有客观题、翻译与作文作答"
-          >
-            <RotateCcw className="w-3.5 h-3.5" />
-            <span>清空本卷做题进度</span>
-          </button>
-        </div>
-      </div>
-    );
-  };
 
   return (
     <div className={`flex flex-col h-full min-h-0 font-sans overflow-hidden transition-colors duration-200 ${isDark ? 'bg-slate-950 text-slate-100' : 'bg-slate-50 text-gray-900'}`}>
@@ -2504,186 +2369,10 @@ export default function QuizMode({
         </div>
       )}
 
-      {/* Main View + Collapsible Answer Sheet Container */}
-      <div className="flex-1 flex overflow-hidden relative min-h-0">
-        <div className="flex-1 overflow-hidden h-full shadow-sm">
-          {renderActiveView()}
-        </div>
-
-        {/* Mobile/Narrow Screen Backdrop for Answer Sheet Drawer */}
-        {isAnswerSheetOpen && (
-          <div 
-            className="fixed inset-0 z-40 bg-black/40 backdrop-blur-xs xl:hidden animate-fade-in"
-            onClick={() => setIsAnswerSheetOpen(false)}
-          />
-        )}
-
-        {/* Collapsible Answer Sheet Panel: Slide-over drawer on < xl, docked sidebar on xl+ */}
-        <div className={`transition-all duration-300 ease-in-out overflow-hidden flex-shrink-0 z-50 xl:z-10 ${
-          isAnswerSheetOpen 
-            ? 'fixed right-0 top-0 bottom-0 w-72 sm:w-80 shadow-2xl xl:relative xl:top-auto xl:bottom-auto xl:right-auto xl:w-[17.5rem] xl:shadow-none opacity-100' 
-            : 'w-0 opacity-0 pointer-events-none'
-        }`}>
-          {renderAnswerSheet()}
-        </div>
-
-        {/* Floating Quick Open Handle when Collapsed */}
-        {!isAnswerSheetOpen && (
-          <button
-            id="expand-answersheet-floating-btn"
-            onClick={() => setIsAnswerSheetOpen(true)}
-            className={`fixed right-0 top-1/2 -translate-y-1/2 z-40 py-3 px-2 rounded-l-2xl shadow-xl flex flex-col items-center gap-1.5 transition-all cursor-pointer border border-r-0 hover:px-2.5 ${
-              isDark 
-                ? 'bg-slate-800/95 hover:bg-slate-700/95 text-indigo-300 border-slate-700 backdrop-blur-md ring-1 ring-indigo-500/20' 
-                : 'bg-white/95 hover:bg-gray-50 text-indigo-600 border-gray-200 backdrop-blur-md shadow-indigo-500/10'
-            }`}
-            title="点击展开答题卡"
-          >
-            <PanelRightOpen className="w-4 h-4 text-indigo-500" />
-            <span className="[writing-mode:vertical-lr] tracking-widest text-[11px] font-bold">答题卡</span>
-            <span className={`text-[10px] px-1 py-0.5 rounded-full font-mono font-bold ${
-              isDark ? 'bg-indigo-950 text-indigo-300' : 'bg-indigo-50 text-indigo-700'
-            }`}>
-              {answeredCount}/52
-            </span>
-          </button>
-        )}
+      {/* Main View Container */}
+      <div className="flex-1 overflow-hidden relative min-h-0">
+        {renderActiveView()}
       </div>
-
-      {/* Left Collapsible Catalog Drawer (全卷试题结构目录抽屉) */}
-      {isCatalogOpen && (
-        <>
-          {/* Backdrop */}
-          <div 
-            className="fixed inset-0 z-50 bg-black/50 backdrop-blur-xs animate-in fade-in duration-200"
-            onClick={() => setIsCatalogOpen(false)}
-          />
-          {/* Drawer Sidebar */}
-          <div className={`fixed left-0 top-0 bottom-0 w-80 sm:w-88 z-50 shadow-2xl flex flex-col transition-all duration-300 animate-in slide-in-from-left duration-200 ${
-            isDark ? 'bg-slate-900 border-r border-slate-800 text-slate-100' : 'bg-white border-r border-gray-200 text-gray-900'
-          }`}>
-            {/* Header */}
-            <div className={`p-4 border-b flex items-center justify-between shrink-0 ${
-              isDark ? 'border-slate-800 bg-slate-950/60' : 'border-gray-200 bg-gray-50/80'
-            }`}>
-              <div className="flex items-center gap-2.5">
-                <div className="w-8 h-8 rounded-lg bg-blue-600 text-white flex items-center justify-center font-bold shadow-xs">
-                  <BookOpen className="w-4 h-4" />
-                </div>
-                <div>
-                  <h3 className="font-bold text-sm">全卷试题目录大纲</h3>
-                  <p className={`text-[11px] ${isDark ? 'text-slate-400' : 'text-gray-500'}`}>
-                    {year}年考研英语一 · 满分 100 分
-                  </p>
-                </div>
-              </div>
-              <button
-                id="close-catalog-drawer-btn"
-                onClick={() => setIsCatalogOpen(false)}
-                className={`p-1.5 rounded-lg border transition-colors ${
-                  isDark 
-                    ? 'bg-slate-800 border-slate-700 text-slate-300 hover:text-white hover:bg-slate-750' 
-                    : 'bg-white border-gray-200 text-gray-500 hover:text-gray-900 hover:bg-gray-100'
-                }`}
-                title="关闭目录"
-              >
-                <X className="w-4 h-4" />
-              </button>
-            </div>
-
-            {/* Total Progress Card */}
-            <div className={`p-3.5 mx-4 mt-4 rounded-xl border shrink-0 ${
-              isDark ? 'bg-slate-850/60 border-slate-750' : 'bg-blue-50/50 border-blue-100'
-            }`}>
-              <div className="flex items-center justify-between text-xs font-bold mb-1.5">
-                <span className="flex items-center gap-1.5 text-blue-500">
-                  <CheckSquare className="w-3.5 h-3.5" />
-                  作答总体进度
-                </span>
-                <span className="font-mono text-blue-500 font-bold">
-                  {answeredCount} / 52 题 ({Math.round((answeredCount / 52) * 100)}%)
-                </span>
-              </div>
-              <div className="w-full h-2 bg-gray-200 dark:bg-slate-700 rounded-full overflow-hidden">
-                <div 
-                  className="h-full bg-gradient-to-r from-blue-500 to-indigo-500 rounded-full transition-all duration-300"
-                  style={{ width: `${(answeredCount / 52) * 100}%` }}
-                />
-              </div>
-            </div>
-
-            {/* Catalog Section Groups */}
-            <div className="flex-1 overflow-y-auto p-4 space-y-4">
-              {['Section I', 'Section II Part A', 'Section II Part B', 'Section II Part C', 'Section III'].map(groupKey => {
-                const groupTabs = TABS.filter(t => t.sectionGroup.includes(groupKey));
-                if (groupTabs.length === 0) return null;
-
-                const groupName = groupTabs[0].sectionGroup;
-                return (
-                  <div key={groupKey} className="space-y-1.5">
-                    <div className={`text-[11px] font-black uppercase tracking-wider px-2 py-0.5 ${
-                      isDark ? 'text-slate-400' : 'text-gray-500'
-                    }`}>
-                      {groupName}
-                    </div>
-                    <div className="space-y-1">
-                      {groupTabs.map(tab => {
-                        const stats = getTabStats(tab);
-                        const isCurrent = activeTab === tab.id;
-                        return (
-                          <button
-                            key={tab.id}
-                            onClick={() => {
-                              setActiveTab(tab.id);
-                              setIsCatalogOpen(false);
-                            }}
-                            className={`w-full p-2.5 rounded-xl text-left border flex items-center justify-between transition-all ${
-                              isCurrent
-                                ? 'bg-blue-600 border-blue-500 text-white font-bold shadow-xs'
-                                : isDark
-                                ? 'bg-slate-850/50 border-slate-800 hover:bg-slate-800 text-slate-200 hover:border-slate-700'
-                                : 'bg-gray-50/60 border-gray-200 hover:bg-blue-50/60 text-gray-800 hover:border-blue-200'
-                            }`}
-                          >
-                            <div className="flex items-center gap-2 min-w-0 pr-2">
-                              <span className={`w-2 h-2 rounded-full shrink-0 ${
-                                isCurrent 
-                                  ? 'bg-white' 
-                                  : stats.isComplete 
-                                  ? 'bg-emerald-400' 
-                                  : stats.isPartial 
-                                  ? 'bg-amber-400' 
-                                  : isDark ? 'bg-slate-700' : 'bg-gray-300'
-                              }`} />
-                              <div className="truncate">
-                                <div className="text-xs font-bold truncate">{tab.label}</div>
-                                <div className={`text-[10px] truncate ${isCurrent ? 'text-blue-100' : isDark ? 'text-slate-400' : 'text-gray-500'}`}>
-                                  {tab.sectionName} · {tab.score}
-                                </div>
-                              </div>
-                            </div>
-                            <span className={`text-[10px] px-2 py-0.5 rounded-full shrink-0 font-mono font-bold ${
-                              isCurrent
-                                ? 'bg-white/20 text-white'
-                                : stats.isComplete
-                                ? isDark ? 'bg-emerald-950 text-emerald-300 border border-emerald-800' : 'bg-emerald-50 text-emerald-700 border border-emerald-200'
-                                : stats.isPartial
-                                ? isDark ? 'bg-amber-950 text-amber-300 border border-amber-800' : 'bg-amber-50 text-amber-700 border border-amber-200'
-                                : isDark ? 'bg-slate-800 text-slate-400' : 'bg-gray-100 text-gray-500'
-                            }`}>
-                              {stats.answered}/{stats.total}
-                            </span>
-                          </button>
-                        );
-                      })}
-                    </div>
-                  </div>
-                );
-              })}
-            </div>
-          </div>
-        </>
-      )}
 
       {showResultModal && scoreReport && (
         <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/70 backdrop-blur-sm p-4 animate-fade-in">
