@@ -1,0 +1,708 @@
+{
+  "exam": "en1",
+  "key": "2018-t2",
+  "year": 2018,
+  "text_no": 2,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2018-text2-s1",
+      "s": "A new survey by Harvard University finds more than two-thirds of young Americans disapprove of President Trump's use of Twitter.",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "A new survey",
+        "谓语": "finds",
+        "宾语或表语": "(宾语从句)",
+        "主干翻译": "一项新调查发现……"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "by Harvard University",
+          "修饰对象": "survey",
+          "中文翻译": "哈佛大学开展的",
+          "说明": "by 引导的介词短语修饰 survey，说明调查的实施者。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "more than two-thirds of young Americans disapprove of President Trump's use of Twitter",
+          "修饰对象": "finds",
+          "中文翻译": "超过三分之二的美国年轻人不赞同特朗普总统使用推特",
+          "说明": "省略了 that，作 finds 的宾语。"
+        }
+      ],
+      "zh": "哈佛大学的一项新调查发现，超过三分之二的美国年轻人不赞同特朗普总统使用推特。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2018-text2-s2",
+      "s": "The implication is that Millennials prefer news from the White House to be filtered through other sources, not a president's social media platform.",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "The implication",
+        "谓语": "is",
+        "宾语或表语": "(表语从句)",
+        "主干翻译": "其含义是……"
+      },
+      "components": [
+        {
+          "成分类型": "表语从句",
+          "原文": "that Millennials prefer news from the White House to be filtered through other sources, not a president's social media platform",
+          "修饰对象": "is",
+          "中文翻译": "千禧一代更希望来自白宫的消息经由其他渠道过滤，而非通过总统的社交媒体平台",
+          "说明": "that 引导，作系动词 is 的表语。"
+        },
+        {
+          "成分类型": "非谓语作宾补",
+          "原文": "to be filtered through other sources",
+          "修饰对象": "news",
+          "中文翻译": "（被）经由其他渠道过滤",
+          "说明": "不定式作 prefer 的宾语 news 的补足语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "not a president's social media platform",
+          "修饰对象": "other sources",
+          "中文翻译": "而非总统的社交媒体平台",
+          "说明": "与 other sources 形成对比并列（not 引导）。"
+        }
+      ],
+      "zh": "这意味着，千禧一代更希望来自白宫的消息是经由其他渠道过滤后传来的，而不是通过总统的社交媒体平台。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2018-text2-s3",
+      "s": "Most Americans rely on social media to check daily headlines.",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Most Americans",
+        "谓语": "rely on",
+        "宾语或表语": "social media",
+        "主干翻译": "大多数美国人依赖社交媒体。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to check daily headlines",
+          "修饰对象": "rely",
+          "中文翻译": "来查看每日新闻头条",
+          "说明": "不定式作目的状语，修饰 rely。"
+        }
+      ],
+      "zh": "大多数美国人依靠社交媒体来查看每日的新闻头条。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2018-text2-s4",
+      "s": "Yet as distrust has risen toward all media, people may be starting to beef up their media literacy skills.",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "people",
+        "谓语": "may be starting",
+        "宾语或表语": "to beef up their media literacy skills",
+        "主干翻译": "人们也许正开始增强自己的媒体素养能力。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(原因)",
+          "原文": "as distrust has risen toward all media",
+          "修饰对象": "starting",
+          "中文翻译": "由于人们对所有媒体的不信任都在上升",
+          "说明": "as 在此引导原因状语从句，修饰主句。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to beef up their media literacy skills",
+          "修饰对象": "starting",
+          "中文翻译": "（开始动用）他们的媒体素养能力",
+          "说明": "不定式短语作 start 的补足成分（原文似有省略动词），承接 start。"
+        }
+      ],
+      "zh": "然而，随着人们对所有媒体的不信任日益上升，他们或许正开始增强自己的媒体素养能力。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2018-text2-s5",
+      "s": "Such a trend is badly needed.",
+      "para_no": 2,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Such a trend",
+        "谓语": "is needed",
+        "宾语或表语": "badly",
+        "主干翻译": "这样一种趋势是亟需的。"
+      },
+      "components": [],
+      "zh": "这样一种趋势是非常必要的。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2018-text2-s6",
+      "s": "During the 2016 presidential campaign, nearly a quarter of web content shared by Twitter users in the politically critical state of Michigan was fake news, according to the University of Oxford.",
+      "para_no": 2,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "nearly a quarter of web content",
+        "谓语": "was",
+        "宾语或表语": "fake news",
+        "主干翻译": "近四分之一的网络内容是假新闻。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "During the 2016 presidential campaign",
+          "修饰对象": "was",
+          "中文翻译": "在2016年总统竞选期间",
+          "说明": "时间状语，修饰主句。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "shared by Twitter users in the politically critical state of Michigan",
+          "修饰对象": "content",
+          "中文翻译": "由政治上关键的密歇根州的推特用户分享的",
+          "说明": "过去分词短语作后置定语，修饰 web content。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "according to the University of Oxford",
+          "修饰对象": "was",
+          "中文翻译": "据牛津大学称",
+          "说明": "插入性介词短语，表信息来源。"
+        }
+      ],
+      "zh": "据牛津大学称，在2016年总统竞选期间，由政治上至关重要的密歇根州的推特用户所分享的网络内容中，近四分之一是假新闻。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2018-text2-s7",
+      "s": "And a survey conducted for BuzzFeed News found 44 percent of Facebook users rarely or never trust news from the media giant.",
+      "para_no": 2,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "a survey",
+        "谓语": "found",
+        "宾语或表语": "(宾语从句)",
+        "主干翻译": "一项调查发现……"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "conducted for BuzzFeed News",
+          "修饰对象": "survey",
+          "中文翻译": "为BuzzFeed新闻所做的",
+          "说明": "过去分词短语作后置定语，修饰 survey。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "44 percent of Facebook users rarely or never trust news from the media giant",
+          "修饰对象": "found",
+          "中文翻译": "44%的脸书用户很少或从不信任来自这家媒体巨头的新闻",
+          "说明": "省略 that，作 found 的宾语。"
+        }
+      ],
+      "zh": "一项为BuzzFeed新闻所做的调查发现，44%的脸书用户很少或从不信任来自这家媒体巨头的新闻。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2018-text2-s8",
+      "s": "Young people who are digital natives are indeed becoming more skillful at separating fact from fiction in cyberspace.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Young people",
+        "谓语": "are becoming",
+        "宾语或表语": "more skillful",
+        "主干翻译": "年轻人正变得更熟练。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "who are digital natives",
+          "修饰对象": "people",
+          "中文翻译": "作为数字原住民的",
+          "说明": "who 引导定语从句，修饰 Young people。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "at separating fact from fiction in cyberspace",
+          "修饰对象": "skillful",
+          "中文翻译": "在网络空间中辨别真假方面",
+          "说明": "at 引导的介词短语，说明 skillful 的方面。"
+        }
+      ],
+      "zh": "作为数字原住民的年轻人，确实在网络空间辨别真伪方面变得越来越在行。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2018-text2-s9",
+      "s": "A Knight Foundation focus-group survey of young people between ages 14 and 24 found they use \"distributed trust\" to verify stories.",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "A Knight Foundation focus-group survey",
+        "谓语": "found",
+        "宾语或表语": "(宾语从句)",
+        "主干翻译": "一项焦点小组调查发现……"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "of young people between ages 14 and 24",
+          "修饰对象": "survey",
+          "中文翻译": "针对14至24岁年轻人的",
+          "说明": "of 引导介词短语作后置定语，修饰 survey。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "they use \"distributed trust\" to verify stories",
+          "修饰对象": "found",
+          "中文翻译": "他们使用“分布式信任”来核实报道",
+          "说明": "省略 that，作 found 的宾语。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to verify stories",
+          "修饰对象": "use",
+          "中文翻译": "来核实报道",
+          "说明": "不定式作目的状语，修饰 use。"
+        }
+      ],
+      "zh": "奈特基金会对14至24岁年轻人进行的焦点小组调查发现，他们使用“分布式信任”来核实报道。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2018-text2-s10",
+      "s": "They cross-check sources and prefer news from different perspectives—especially those that are open about any bias.",
+      "para_no": 3,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "They",
+        "谓语": "cross-check / prefer",
+        "宾语或表语": "sources / news",
+        "主干翻译": "他们交叉核对来源，并偏好新闻。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "cross-check sources and prefer news from different perspectives",
+          "修饰对象": "They",
+          "中文翻译": "交叉核对来源，并偏好来自不同视角的新闻",
+          "说明": "and 连接两个并列谓语 cross-check 与 prefer。"
+        },
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "from different perspectives",
+          "修饰对象": "news",
+          "中文翻译": "来自不同视角的",
+          "说明": "介词短语作后置定语，修饰 news。"
+        },
+        {
+          "成分类型": "同位语",
+          "原文": "especially those that are open about any bias",
+          "修饰对象": "news",
+          "中文翻译": "尤其是那些坦诚承认任何偏见的（新闻来源）",
+          "说明": "破折号引出，对前文 news/perspectives 的补充说明。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that are open about any bias",
+          "修饰对象": "those",
+          "中文翻译": "坦诚承认任何偏见的",
+          "说明": "that 引导定语从句，修饰 those。"
+        }
+      ],
+      "zh": "他们交叉核对信息来源，偏好来自不同视角的新闻——尤其是那些对自身任何偏见都坦诚相告的来源。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2018-text2-s11",
+      "s": "\"Many young people assume a great deal of personal responsibility for educating themselves and actively seeking out opposing viewpoints,\" the survey concluded.",
+      "para_no": 3,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "the survey",
+        "谓语": "concluded",
+        "宾语或表语": "(宾语从句/直接引语)",
+        "主干翻译": "这项调查总结道……"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "Many young people assume a great deal of personal responsibility for educating themselves and actively seeking out opposing viewpoints",
+          "修饰对象": "concluded",
+          "中文翻译": "许多年轻人承担起大量个人责任，去自我教育并主动寻求对立观点",
+          "说明": "直接引语作 concluded 的宾语内容。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "educating themselves and actively seeking out opposing viewpoints",
+          "修饰对象": "responsibility",
+          "中文翻译": "自我教育并主动寻求对立的观点",
+          "说明": "for 后两个并列动名词 educating 与 seeking。"
+        }
+      ],
+      "zh": "这项调查总结道：“许多年轻人承担起大量个人责任，去自我教育并主动寻求对立的观点。”",
+      "underline": null
+    },
+    {
+      "sid": "en1-2018-text2-s12",
+      "s": "Such active research can have another effect.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Such active research",
+        "谓语": "can have",
+        "宾语或表语": "another effect",
+        "主干翻译": "这种主动的探究可以产生另一种效果。"
+      },
+      "components": [],
+      "zh": "这种主动的探究还可以产生另一种效果。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2018-text2-s13",
+      "s": "A 2014 survey conducted in Australia, Britain, and the United States by the University of Wisconsin-Madison found that young people's reliance on social media led to greater political engagement.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "A 2014 survey",
+        "谓语": "found",
+        "宾语或表语": "(宾语从句)",
+        "主干翻译": "2014年的一项调查发现……"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "conducted in Australia, Britain, and the United States by the University of Wisconsin-Madison",
+          "修饰对象": "survey",
+          "中文翻译": "由威斯康星大学麦迪逊分校在澳大利亚、英国和美国开展的",
+          "说明": "过去分词短语作后置定语，修饰 survey。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "Australia, Britain, and the United States",
+          "修饰对象": "conducted",
+          "中文翻译": "澳大利亚、英国和美国",
+          "说明": "三个国家由 and 并列，作 conducted in 的对象。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that young people's reliance on social media led to greater political engagement",
+          "修饰对象": "found",
+          "中文翻译": "年轻人对社交媒体的依赖带来了更高的政治参与度",
+          "说明": "that 引导，作 found 的宾语。"
+        }
+      ],
+      "zh": "威斯康星大学麦迪逊分校2014年在澳大利亚、英国和美国进行的一项调查发现，年轻人对社交媒体的依赖带来了更高的政治参与度。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2018-text2-s14",
+      "s": "Social media allows users to experience news events more intimately and immediately while also permitting them to re-share news as a projection of their values and interests.",
+      "para_no": 5,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Social media",
+        "谓语": "allows",
+        "宾语或表语": "users (to experience...)",
+        "主干翻译": "社交媒体让用户能够体验新闻事件。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作宾补",
+          "原文": "to experience news events more intimately and immediately",
+          "修饰对象": "users",
+          "中文翻译": "更亲近、更即时地体验新闻事件",
+          "说明": "不定式作 allows 的宾语 users 的补足语。"
+        },
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "while also permitting them to re-share news as a projection of their values and interests",
+          "修饰对象": "allows",
+          "中文翻译": "同时还使他们能够重新分享新闻，作为其价值观与兴趣的投射",
+          "说明": "while 引导时间/伴随状语从句（省略主语，分词形式），修饰主句。"
+        },
+        {
+          "成分类型": "非谓语作宾补",
+          "原文": "to re-share news as a projection of their values and interests",
+          "修饰对象": "them",
+          "中文翻译": "重新分享新闻，作为其价值观与兴趣的投射",
+          "说明": "不定式作 permitting 的宾语 them 的补足语。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "as a projection of their values and interests",
+          "修饰对象": "re-share",
+          "中文翻译": "作为其价值观与兴趣的投射",
+          "说明": "as 引导介词短语，作方式状语，修饰 re-share。"
+        }
+      ],
+      "zh": "社交媒体让用户能够更亲近、更即时地体验新闻事件，同时也使他们能够重新分享新闻，将其作为自身价值观和兴趣的一种投射。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2018-text2-s15",
+      "s": "This forces users to be more conscious of their role in passing along information.",
+      "para_no": 5,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "This",
+        "谓语": "forces",
+        "宾语或表语": "users (to be...)",
+        "主干翻译": "这迫使用户更加注意。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作宾补",
+          "原文": "to be more conscious of their role in passing along information",
+          "修饰对象": "users",
+          "中文翻译": "更加意识到自己在传递信息中所扮演的角色",
+          "说明": "不定式作 forces 的宾语 users 的补足语。"
+        },
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "in passing along information",
+          "修饰对象": "role",
+          "中文翻译": "在传递信息中的",
+          "说明": "in 引导介词短语作后置定语，修饰 role。"
+        }
+      ],
+      "zh": "这迫使用户更加意识到自己在传递信息过程中所扮演的角色。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2018-text2-s16",
+      "s": "A survey by Barna research group found the top reason given by Americans for the fake news phenomenon is \"reader error,\" more so than made-up stories or factual mistakes in reporting.",
+      "para_no": 5,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "A survey",
+        "谓语": "found",
+        "宾语或表语": "(宾语从句)",
+        "主干翻译": "一项调查发现……"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "by Barna research group",
+          "修饰对象": "survey",
+          "中文翻译": "巴纳研究集团开展的",
+          "说明": "by 引导介词短语作后置定语，修饰 survey。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "the top reason given by Americans for the fake news phenomenon is \"reader error,\" more so than made-up stories or factual mistakes in reporting",
+          "修饰对象": "found",
+          "中文翻译": "美国人为假新闻现象给出的首要原因是“读者失误”，而非编造的故事或报道中的事实性错误",
+          "说明": "省略 that，作 found 的宾语。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "given by Americans",
+          "修饰对象": "reason",
+          "中文翻译": "美国人给出的",
+          "说明": "过去分词短语作后置定语，修饰 reason。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "made-up stories or factual mistakes in reporting",
+          "修饰对象": "reader error",
+          "中文翻译": "编造的故事或报道中的事实性错误",
+          "说明": "or 连接的并列名词短语，与 reader error 作比较。"
+        }
+      ],
+      "zh": "巴纳研究集团的一项调查发现，美国人为假新闻现象给出的首要原因是“读者失误”，其程度甚于编造的故事或报道中的事实性错误。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2018-text2-s17",
+      "s": "About a third say the problem of fake news lies in \"misinterpretation or exaggeration of actual news\" via social media.",
+      "para_no": 5,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "About a third",
+        "谓语": "say",
+        "宾语或表语": "(宾语从句)",
+        "主干翻译": "大约三分之一的人表示……"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "the problem of fake news lies in \"misinterpretation or exaggeration of actual news\" via social media",
+          "修饰对象": "say",
+          "中文翻译": "假新闻问题在于通过社交媒体对真实新闻的“误读或夸大”",
+          "说明": "省略 that，作 say 的宾语。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "via social media",
+          "修饰对象": "lies",
+          "中文翻译": "通过社交媒体",
+          "说明": "via 引导介词短语作方式状语。"
+        }
+      ],
+      "zh": "大约三分之一的人表示，假新闻问题在于通过社交媒体对真实新闻的“误读或夸大”。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2018-text2-s18",
+      "s": "In other words, the choice to share news on social media may be the heart of the issue.",
+      "para_no": 5,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "the choice",
+        "谓语": "may be",
+        "宾语或表语": "the heart of the issue",
+        "主干翻译": "这种选择或许是问题的核心。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "In other words",
+          "修饰对象": "may be",
+          "中文翻译": "换句话说",
+          "说明": "插入性介词短语，承上启下。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to share news on social media",
+          "修饰对象": "choice",
+          "中文翻译": "在社交媒体上分享新闻的",
+          "说明": "不定式短语作后置定语，修饰 choice。"
+        }
+      ],
+      "zh": "换句话说，在社交媒体上分享新闻的这一选择，或许才是问题的核心所在。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2018-text2-s19",
+      "s": "\"This indicates there is a real personal responsibility in counteracting this problem,\" says Roxanne Stone, editor in chief at Barna Group.",
+      "para_no": 5,
+      "para_seq": 5,
+      "trunk": {
+        "主语": "Roxanne Stone",
+        "谓语": "says",
+        "宾语或表语": "(直接引语)",
+        "主干翻译": "罗克珊·斯通说……"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "This indicates there is a real personal responsibility in counteracting this problem",
+          "修饰对象": "says",
+          "中文翻译": "这表明在应对这一问题上存在着实实在在的个人责任",
+          "说明": "直接引语作 says 的宾语内容。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "there is a real personal responsibility in counteracting this problem",
+          "修饰对象": "indicates",
+          "中文翻译": "在应对这一问题上存在着实实在在的个人责任",
+          "说明": "省略 that，作 indicates 的宾语。"
+        },
+        {
+          "成分类型": "同位语",
+          "原文": "editor in chief at Barna Group",
+          "修饰对象": "Stone",
+          "中文翻译": "巴纳集团的主编",
+          "说明": "名词短语作 Roxanne Stone 的同位语。"
+        }
+      ],
+      "zh": "巴纳集团主编罗克珊·斯通说：“这表明，在应对这一问题上，确实存在着切实的个人责任。”",
+      "underline": null
+    },
+    {
+      "sid": "en1-2018-text2-s20",
+      "s": "So when young people are critical of an over-tweeting president, they reveal a mental discipline in thinking skills—and in their choices on when to share on social media.",
+      "para_no": 6,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "they",
+        "谓语": "reveal",
+        "宾语或表语": "a mental discipline",
+        "主干翻译": "他们展现出一种心智上的自律。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "when young people are critical of an over-tweeting president",
+          "修饰对象": "reveal",
+          "中文翻译": "当年轻人批评一位过度发推的总统时",
+          "说明": "when 引导时间状语从句，修饰主句。"
+        },
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "in thinking skills",
+          "修饰对象": "discipline",
+          "中文翻译": "在思维技能方面的",
+          "说明": "in 引导介词短语，修饰 mental discipline。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "and in their choices on when to share on social media",
+          "修饰对象": "in thinking skills",
+          "中文翻译": "以及在何时于社交媒体上分享的选择方面",
+          "说明": "and 连接两个并列的 in 介词短语，共同修饰 discipline。"
+        }
+      ],
+      "zh": "因此，当年轻人批评一位过度发推的总统时，他们展现出一种心智上的自律——既体现在思维技能上，也体现在何时于社交媒体上分享的选择上。",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2018-text2-s1",
+        "en1-2018-text2-s2"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2018-text2-s3",
+        "en1-2018-text2-s4",
+        "en1-2018-text2-s5",
+        "en1-2018-text2-s6",
+        "en1-2018-text2-s7"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2018-text2-s8",
+        "en1-2018-text2-s9",
+        "en1-2018-text2-s10",
+        "en1-2018-text2-s11"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2018-text2-s12",
+        "en1-2018-text2-s13"
+      ]
+    },
+    {
+      "para_no": 5,
+      "sids": [
+        "en1-2018-text2-s14",
+        "en1-2018-text2-s15",
+        "en1-2018-text2-s16",
+        "en1-2018-text2-s17",
+        "en1-2018-text2-s18",
+        "en1-2018-text2-s19"
+      ]
+    },
+    {
+      "para_no": 6,
+      "sids": [
+        "en1-2018-text2-s20"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3306 @@
+{
+  "sentences": [
+    {
+      "cn_text": "直到几十年前，我们对未来的憧憬在很大程度上——尽管绝非一致——都是光辉灿烂的。",
+      "en_text": "Up until a few decades ago, our visions of the future were largely — though by no means uniformly — glowingly positive.",
+      "id": 2013013106,
+      "order_seq": "content_1_1",
+      "task_id": 201301004,
+      "tokens": [
+        {
+          "gloss": "直到",
+          "lemma": "up",
+          "surface": "up"
+        },
+        {
+          "gloss": "直到",
+          "lemma": "until",
+          "surface": "until"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "几个",
+          "lemma": "few",
+          "surface": "few"
+        },
+        {
+          "gloss": "十年",
+          "lemma": "decade",
+          "surface": "decades"
+        },
+        {
+          "gloss": "以前",
+          "lemma": "ago",
+          "surface": "ago"
+        },
+        {
+          "gloss": "我们的",
+          "lemma": "our",
+          "surface": "our"
+        },
+        {
+          "gloss": "憧憬",
+          "lemma": "vision",
+          "surface": "visions"
+        },
+        {
+          "gloss": "关于",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "未来",
+          "lemma": "future",
+          "surface": "future"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "were"
+        },
+        {
+          "gloss": "大体上",
+          "lemma": "largely",
+          "surface": "largely"
+        },
+        {
+          "gloss": "尽管",
+          "lemma": "though",
+          "surface": "though"
+        },
+        {
+          "gloss": "通过",
+          "lemma": "by",
+          "surface": "by"
+        },
+        {
+          "gloss": "没有",
+          "lemma": "no",
+          "surface": "no"
+        },
+        {
+          "gloss": "方式",
+          "lemma": "means",
+          "surface": "means"
+        },
+        {
+          "gloss": "一致地",
+          "lemma": "uniformly",
+          "surface": "uniformly"
+        },
+        {
+          "gloss": "光明地",
+          "lemma": "glowingly",
+          "surface": "glowingly"
+        },
+        {
+          "gloss": "积极的",
+          "lemma": "positive",
+          "surface": "positive"
+        }
+      ]
+    },
+    {
+      "cn_text": "科学与技术将治愈人类的一切弊病，为所有人带来充实而充满机遇的生活。",
+      "en_text": "Science and technology would cure all the ills of humanity, leading to lives of fulfilment and opportunity for all.",
+      "id": 2013013107,
+      "order_seq": "content_1_2",
+      "task_id": 201301004,
+      "tokens": [
+        {
+          "gloss": "科学",
+          "lemma": "science",
+          "surface": "science"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "技术",
+          "lemma": "technology",
+          "surface": "technology"
+        },
+        {
+          "gloss": "将",
+          "lemma": "would",
+          "surface": "would"
+        },
+        {
+          "gloss": "治愈",
+          "lemma": "cure",
+          "surface": "cure"
+        },
+        {
+          "gloss": "所有",
+          "lemma": "all",
+          "surface": "all"
+        },
+        {
+          "gloss": "这些",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "疾病",
+          "lemma": "ill",
+          "surface": "ills"
+        },
+        {
+          "gloss": "关于",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "人类",
+          "lemma": "humanity",
+          "surface": "humanity"
+        },
+        {
+          "gloss": "导致",
+          "lemma": "lead",
+          "surface": "leading"
+        },
+        {
+          "gloss": "到",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "生活",
+          "lemma": "life",
+          "surface": "lives"
+        },
+        {
+          "gloss": "关于",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "充实",
+          "lemma": "fulfilment",
+          "surface": "fulfilment"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "机遇",
+          "lemma": "opportunity",
+          "surface": "opportunity"
+        },
+        {
+          "gloss": "为",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "所有人",
+          "lemma": "all",
+          "surface": "all"
+        }
+      ]
+    },
+    {
+      "cn_text": "如今，乌托邦已经不再流行，因为我们对所面临威胁的范围有了更深刻的认识，从小行星撞击到流行性流感再到气候变化。",
+      "en_text": "Now utopia has grown unfashionable, as we have gained a deeper appreciation of the range of threats facing us, from asteroid strike to epidemic flu and to climate change.",
+      "id": 2013013108,
+      "order_seq": "content_2_1",
+      "task_id": 201301004,
+      "tokens": [
+        {
+          "gloss": "如今",
+          "lemma": "now",
+          "surface": "now"
+        },
+        {
+          "gloss": "乌托邦",
+          "lemma": "utopia",
+          "surface": "utopia"
+        },
+        {
+          "gloss": "已经",
+          "lemma": "have",
+          "surface": "has"
+        },
+        {
+          "gloss": "变得",
+          "lemma": "grow",
+          "surface": "grown"
+        },
+        {
+          "gloss": "不流行的",
+          "lemma": "unfashionable",
+          "surface": "unfashionable"
+        },
+        {
+          "gloss": "因为",
+          "lemma": "as",
+          "surface": "as"
+        },
+        {
+          "gloss": "我们",
+          "lemma": "we",
+          "surface": "we"
+        },
+        {
+          "gloss": "已经",
+          "lemma": "have",
+          "surface": "have"
+        },
+        {
+          "gloss": "获得",
+          "lemma": "gain",
+          "surface": "gained"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "更深刻的",
+          "lemma": "deep",
+          "surface": "deeper"
+        },
+        {
+          "gloss": "认识",
+          "lemma": "appreciation",
+          "surface": "appreciation"
+        },
+        {
+          "gloss": "关于",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "这些",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "范围",
+          "lemma": "range",
+          "surface": "range"
+        },
+        {
+          "gloss": "关于",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "威胁",
+          "lemma": "threat",
+          "surface": "threats"
+        },
+        {
+          "gloss": "面对",
+          "lemma": "face",
+          "surface": "facing"
+        },
+        {
+          "gloss": "我们",
+          "lemma": "us",
+          "surface": "us"
+        },
+        {
+          "gloss": "从",
+          "lemma": "from",
+          "surface": "from"
+        },
+        {
+          "gloss": "小行星",
+          "lemma": "asteroid",
+          "surface": "asteroid"
+        },
+        {
+          "gloss": "撞击",
+          "lemma": "strike",
+          "surface": "strike"
+        },
+        {
+          "gloss": "到",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "流行的",
+          "lemma": "epidemic",
+          "surface": "epidemic"
+        },
+        {
+          "gloss": "流感",
+          "lemma": "flu",
+          "surface": "flu"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "到",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "气候",
+          "lemma": "climate",
+          "surface": "climate"
+        },
+        {
+          "gloss": "变化",
+          "lemma": "change",
+          "surface": "change"
+        }
+      ]
+    },
+    {
+      "cn_text": "你甚至可能会倾向于认为人类几乎没有什么未来可以期待。",
+      "en_text": "You might even be tempted to assume that humanity has little future to look forward to.",
+      "id": 2013013109,
+      "order_seq": "content_2_2",
+      "task_id": 201301004,
+      "tokens": [
+        {
+          "gloss": "你",
+          "lemma": "you",
+          "surface": "you"
+        },
+        {
+          "gloss": "可能",
+          "lemma": "might",
+          "surface": "might"
+        },
+        {
+          "gloss": "甚至",
+          "lemma": "even",
+          "surface": "even"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "be"
+        },
+        {
+          "gloss": "倾向于",
+          "lemma": "tempt",
+          "surface": "tempted"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "认为",
+          "lemma": "assume",
+          "surface": "assume"
+        },
+        {
+          "gloss": "认为",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "人类",
+          "lemma": "humanity",
+          "surface": "humanity"
+        },
+        {
+          "gloss": "有",
+          "lemma": "have",
+          "surface": "has"
+        },
+        {
+          "gloss": "几乎没有",
+          "lemma": "little",
+          "surface": "little"
+        },
+        {
+          "gloss": "未来",
+          "lemma": "future",
+          "surface": "future"
+        },
+        {
+          "gloss": "可以",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "期待",
+          "lemma": "look",
+          "surface": "look"
+        },
+        {
+          "gloss": "向前",
+          "lemma": "forward",
+          "surface": "forward"
+        },
+        {
+          "gloss": "到",
+          "lemma": "to",
+          "surface": "to"
+        }
+      ]
+    },
+    {
+      "cn_text": "但这种悲观情绪是不当的。",
+      "en_text": "But such gloominess is misplaced.",
+      "id": 2013013110,
+      "order_seq": "content_3_1",
+      "task_id": 201301004,
+      "tokens": [
+        {
+          "gloss": "但是",
+          "lemma": "but",
+          "surface": "but"
+        },
+        {
+          "gloss": "这样的",
+          "lemma": "such",
+          "surface": "such"
+        },
+        {
+          "gloss": "悲观情绪",
+          "lemma": "gloominess",
+          "surface": "gloominess"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "错误的",
+          "lemma": "misplace",
+          "surface": "misplaced"
+        }
+      ]
+    },
+    {
+      "cn_text": "化石记录显示许多物种已经存续了数百万年——那么我们为什么不能呢？",
+      "en_text": "The fossil record shows that many species have endured for millions of years — so why shouldn’t we?",
+      "id": 2013013111,
+      "order_seq": "content_3_2",
+      "task_id": 201301004,
+      "tokens": [
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "化石",
+          "lemma": "fossil",
+          "surface": "fossil"
+        },
+        {
+          "gloss": "记录",
+          "lemma": "record",
+          "surface": "record"
+        },
+        {
+          "gloss": "表明",
+          "lemma": "show",
+          "surface": "shows"
+        },
+        {
+          "gloss": "表明",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "许多",
+          "lemma": "many",
+          "surface": "many"
+        },
+        {
+          "gloss": "物种",
+          "lemma": "species",
+          "surface": "species"
+        },
+        {
+          "gloss": "已经",
+          "lemma": "have",
+          "surface": "have"
+        },
+        {
+          "gloss": "存续",
+          "lemma": "endure",
+          "surface": "endured"
+        },
+        {
+          "gloss": "达",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "百万",
+          "lemma": "million",
+          "surface": "millions"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "年",
+          "lemma": "year",
+          "surface": "years"
+        },
+        {
+          "gloss": "那么",
+          "lemma": "so",
+          "surface": "so"
+        },
+        {
+          "gloss": "为什么",
+          "lemma": "why",
+          "surface": "why"
+        },
+        {
+          "gloss": "不能",
+          "lemma": "should not",
+          "surface": "shouldn’t"
+        },
+        {
+          "gloss": "我们",
+          "lemma": "we",
+          "surface": "we"
+        }
+      ]
+    },
+    {
+      "cn_text": "从更广阔的视角看待我们物种在宇宙中的位置，就会清楚地发现，我们极有可能存续数万年，甚至数十万年。",
+      "en_text": "Take a broader look at our species’ place in the universe, and it becomes clear that we have an excellent chance of surviving for tens, if not hundreds, of thousands of years.",
+      "id": 2013013112,
+      "order_seq": "content_3_3",
+      "task_id": 201301004,
+      "tokens": [
+        {
+          "gloss": "看",
+          "lemma": "take",
+          "surface": "take"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "更广泛的",
+          "lemma": "broad",
+          "surface": "broader"
+        },
+        {
+          "gloss": "角度",
+          "lemma": "look",
+          "surface": "look"
+        },
+        {
+          "gloss": "看",
+          "lemma": "at",
+          "surface": "at"
+        },
+        {
+          "gloss": "我们",
+          "lemma": "our",
+          "surface": "our"
+        },
+        {
+          "gloss": "物种",
+          "lemma": "species",
+          "surface": "species’"
+        },
+        {
+          "gloss": "位置",
+          "lemma": "place",
+          "surface": "place"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "宇宙",
+          "lemma": "universe",
+          "surface": "universe"
+        },
+        {
+          "gloss": "并且",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "it"
+        },
+        {
+          "gloss": "变得",
+          "lemma": "become",
+          "surface": "becomes"
+        },
+        {
+          "gloss": "明显的",
+          "lemma": "clear",
+          "surface": "clear"
+        },
+        {
+          "gloss": "表明",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "我们",
+          "lemma": "we",
+          "surface": "we"
+        },
+        {
+          "gloss": "有",
+          "lemma": "have",
+          "surface": "have"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "an",
+          "surface": "an"
+        },
+        {
+          "gloss": "很大的",
+          "lemma": "excellent",
+          "surface": "excellent"
+        },
+        {
+          "gloss": "机会",
+          "lemma": "chance",
+          "surface": "chance"
+        },
+        {
+          "gloss": "去",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "存续",
+          "lemma": "survive",
+          "surface": "surviving"
+        },
+        {
+          "gloss": "达",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "数十",
+          "lemma": "ten",
+          "surface": "tens"
+        },
+        {
+          "gloss": "如果",
+          "lemma": "if",
+          "surface": "if"
+        },
+        {
+          "gloss": "不是",
+          "lemma": "not",
+          "surface": "not"
+        },
+        {
+          "gloss": "数百",
+          "lemma": "hundred",
+          "surface": "hundreds"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "数千",
+          "lemma": "thousand",
+          "surface": "thousands"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "年",
+          "lemma": "year",
+          "surface": "years"
+        }
+      ]
+    },
+    {
+      "cn_text": "在国际自然保护联盟（IUCN）的濒危物种「红色名录」中查找智人，你会看到：「被列为无危物种，因为该物种分布极为广泛，适应性强，目前数量正在增加，并且没有导致整体种群数量下降的主要威胁。」",
+      "en_text": "Look up Homo sapiens in the “Red List” of threatened species of the International Union for the Conservation of Nature (IUCN) and you will read: “Listed as Least Concern as the species is very widely distributed, adaptable, currently increasing, and there are no major threats resulting in an overall population decline.”",
+      "id": 2013013113,
+      "order_seq": "content_3_4",
+      "task_id": 201301004,
+      "tokens": [
+        {
+          "gloss": "查看",
+          "lemma": "look",
+          "surface": "Look"
+        },
+        {
+          "gloss": "向上",
+          "lemma": "up",
+          "surface": "up"
+        },
+        {
+          "gloss": "人属",
+          "lemma": "homo",
+          "surface": "Homo"
+        },
+        {
+          "gloss": "智人",
+          "lemma": "sapiens",
+          "surface": "sapiens"
+        },
+        {
+          "gloss": "在...中",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "红色",
+          "lemma": "red",
+          "surface": "Red"
+        },
+        {
+          "gloss": "名单",
+          "lemma": "list",
+          "surface": "List"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "受威胁的",
+          "lemma": "threaten",
+          "surface": "threatened"
+        },
+        {
+          "gloss": "物种",
+          "lemma": "species",
+          "surface": "species"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "国际",
+          "lemma": "international",
+          "surface": "International"
+        },
+        {
+          "gloss": "联盟",
+          "lemma": "union",
+          "surface": "Union"
+        },
+        {
+          "gloss": "为了",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "保护",
+          "lemma": "conservation",
+          "surface": "Conservation"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "自然",
+          "lemma": "nature",
+          "surface": "Nature"
+        },
+        {
+          "gloss": "国际自然保护联盟",
+          "lemma": "iucn",
+          "surface": "IUCN"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "你",
+          "lemma": "you",
+          "surface": "you"
+        },
+        {
+          "gloss": "将",
+          "lemma": "will",
+          "surface": "will"
+        },
+        {
+          "gloss": "阅读",
+          "lemma": "read",
+          "surface": "read"
+        },
+        {
+          "gloss": "列出",
+          "lemma": "list",
+          "surface": "Listed"
+        },
+        {
+          "gloss": "作为",
+          "lemma": "as",
+          "surface": "as"
+        },
+        {
+          "gloss": "最少的",
+          "lemma": "least",
+          "surface": "Least"
+        },
+        {
+          "gloss": "关注",
+          "lemma": "concern",
+          "surface": "Concern"
+        },
+        {
+          "gloss": "因为",
+          "lemma": "as",
+          "surface": "as"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "物种",
+          "lemma": "species",
+          "surface": "species"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "非常",
+          "lemma": "very",
+          "surface": "very"
+        },
+        {
+          "gloss": "广泛地",
+          "lemma": "widely",
+          "surface": "widely"
+        },
+        {
+          "gloss": "分布",
+          "lemma": "distribute",
+          "surface": "distributed"
+        },
+        {
+          "gloss": "适应性强的",
+          "lemma": "adaptable",
+          "surface": "adaptable"
+        },
+        {
+          "gloss": "目前",
+          "lemma": "currently",
+          "surface": "currently"
+        },
+        {
+          "gloss": "增加",
+          "lemma": "increase",
+          "surface": "increasing"
+        },
+        {
+          "gloss": "并且",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "那里",
+          "lemma": "there",
+          "surface": "there"
+        },
+        {
+          "gloss": "有",
+          "lemma": "be",
+          "surface": "are"
+        },
+        {
+          "gloss": "没有",
+          "lemma": "no",
+          "surface": "no"
+        },
+        {
+          "gloss": "主要的",
+          "lemma": "major",
+          "surface": "major"
+        },
+        {
+          "gloss": "威胁",
+          "lemma": "threat",
+          "surface": "threats"
+        },
+        {
+          "gloss": "导致",
+          "lemma": "result",
+          "surface": "resulting"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "an",
+          "surface": "an"
+        },
+        {
+          "gloss": "总体的",
+          "lemma": "overall",
+          "surface": "overall"
+        },
+        {
+          "gloss": "人口",
+          "lemma": "population",
+          "surface": "population"
+        },
+        {
+          "gloss": "下降",
+          "lemma": "decline",
+          "surface": "decline"
+        }
+      ]
+    },
+    {
+      "cn_text": "那么我们的深远未来将会怎样呢？",
+      "en_text": "So what does our deep future hold?",
+      "id": 2013013114,
+      "order_seq": "content_4_1",
+      "task_id": 201301004,
+      "tokens": [
+        {
+          "gloss": "那么",
+          "lemma": "so",
+          "surface": "so"
+        },
+        {
+          "gloss": "什么",
+          "lemma": "what",
+          "surface": "what"
+        },
+        {
+          "gloss": "助动词",
+          "lemma": "do",
+          "surface": "does"
+        },
+        {
+          "gloss": "我们的",
+          "lemma": "our",
+          "surface": "our"
+        },
+        {
+          "gloss": "遥远的",
+          "lemma": "deep",
+          "surface": "deep"
+        },
+        {
+          "gloss": "未来",
+          "lemma": "future",
+          "surface": "future"
+        },
+        {
+          "gloss": "包含",
+          "lemma": "hold",
+          "surface": "hold"
+        }
+      ]
+    },
+    {
+      "cn_text": "越来越多的研究人员和组织现在正在认真思考这个问题。",
+      "en_text": "A growing number of researchers and organisations are now thinking seriously about that question.",
+      "id": 2013013115,
+      "order_seq": "content_4_2",
+      "task_id": 201301004,
+      "tokens": [
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "越来越多的",
+          "lemma": "grow",
+          "surface": "growing"
+        },
+        {
+          "gloss": "数量",
+          "lemma": "number",
+          "surface": "number"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "研究人员",
+          "lemma": "researcher",
+          "surface": "researchers"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "组织",
+          "lemma": "organisation",
+          "surface": "organisations"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "are"
+        },
+        {
+          "gloss": "现在",
+          "lemma": "now",
+          "surface": "now"
+        },
+        {
+          "gloss": "思考",
+          "lemma": "think",
+          "surface": "thinking"
+        },
+        {
+          "gloss": "认真地",
+          "lemma": "seriously",
+          "surface": "seriously"
+        },
+        {
+          "gloss": "关于",
+          "lemma": "about",
+          "surface": "about"
+        },
+        {
+          "gloss": "那个",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "问题",
+          "lemma": "question",
+          "surface": "question"
+        }
+      ]
+    },
+    {
+      "cn_text": "例如，「长远现在基金会」的旗舰项目是一座机械钟，它被设计成在数千年后依然能够报时。",
+      "en_text": "For example, the Long Now Foundation has as its flagship project a mechanical clock that is designed to still be marking time thousands of years hence.",
+      "id": 2013013116,
+      "order_seq": "content_4_3",
+      "task_id": 201301004,
+      "tokens": [
+        {
+          "gloss": "例如",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "例子",
+          "lemma": "example",
+          "surface": "example"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "长远的",
+          "lemma": "long",
+          "surface": "long"
+        },
+        {
+          "gloss": "现在",
+          "lemma": "now",
+          "surface": "now"
+        },
+        {
+          "gloss": "基金会",
+          "lemma": "foundation",
+          "surface": "foundation"
+        },
+        {
+          "gloss": "有",
+          "lemma": "have",
+          "surface": "has"
+        },
+        {
+          "gloss": "作为",
+          "lemma": "as",
+          "surface": "as"
+        },
+        {
+          "gloss": "它的",
+          "lemma": "its",
+          "surface": "its"
+        },
+        {
+          "gloss": "旗舰的",
+          "lemma": "flagship",
+          "surface": "flagship"
+        },
+        {
+          "gloss": "项目",
+          "lemma": "project",
+          "surface": "project"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "机械的",
+          "lemma": "mechanical",
+          "surface": "mechanical"
+        },
+        {
+          "gloss": "钟",
+          "lemma": "clock",
+          "surface": "clock"
+        },
+        {
+          "gloss": "它",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "设计",
+          "lemma": "design",
+          "surface": "designed"
+        },
+        {
+          "gloss": "为了",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "仍然",
+          "lemma": "still",
+          "surface": "still"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "be"
+        },
+        {
+          "gloss": "标记",
+          "lemma": "mark",
+          "surface": "marking"
+        },
+        {
+          "gloss": "时间",
+          "lemma": "time",
+          "surface": "time"
+        },
+        {
+          "gloss": "几千",
+          "lemma": "thousand",
+          "surface": "thousands"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "年",
+          "lemma": "year",
+          "surface": "years"
+        },
+        {
+          "gloss": "未来",
+          "lemma": "hence",
+          "surface": "hence"
+        }
+      ]
+    },
+    {
+      "cn_text": "也许是有意为之，思考如此漫长的时间跨度可能比思考更为紧迫的未来要容易些。",
+      "en_text": "Perhaps willfully, it may be easier to think about such lengthy timescales than about the more immediate future.",
+      "id": 2013013117,
+      "order_seq": "content_5_1",
+      "task_id": 201301004,
+      "tokens": [
+        {
+          "gloss": "或许",
+          "lemma": "perhaps",
+          "surface": "perhaps"
+        },
+        {
+          "gloss": "有意地",
+          "lemma": "willfully",
+          "surface": "willfully"
+        },
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "it"
+        },
+        {
+          "gloss": "可能",
+          "lemma": "may",
+          "surface": "may"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "be"
+        },
+        {
+          "gloss": "更容易的",
+          "lemma": "easy",
+          "surface": "easier"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "思考",
+          "lemma": "think",
+          "surface": "think"
+        },
+        {
+          "gloss": "关于",
+          "lemma": "about",
+          "surface": "about"
+        },
+        {
+          "gloss": "如此",
+          "lemma": "such",
+          "surface": "such"
+        },
+        {
+          "gloss": "漫长的",
+          "lemma": "lengthy",
+          "surface": "lengthy"
+        },
+        {
+          "gloss": "时间跨度",
+          "lemma": "timescale",
+          "surface": "timescales"
+        },
+        {
+          "gloss": "比",
+          "lemma": "than",
+          "surface": "than"
+        },
+        {
+          "gloss": "关于",
+          "lemma": "about",
+          "surface": "about"
+        },
+        {
+          "gloss": "更为",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "更",
+          "lemma": "more",
+          "surface": "more"
+        },
+        {
+          "gloss": "迫近的",
+          "lemma": "immediate",
+          "surface": "immediate"
+        },
+        {
+          "gloss": "未来",
+          "lemma": "future",
+          "surface": "future"
+        }
+      ]
+    },
+    {
+      "cn_text": "当今技术的潜在演变及其社会后果极其复杂，或许最好留给科幻作家和未来学家去探索我们能够设想的诸多可能性。",
+      "en_text": "The potential evolution of today’s technology, and its social consequences, is dazzlingly complicated, and it’s perhaps best left to science fiction writers and futurologists to explore the many possibilities we can envisage.",
+      "id": 2013013118,
+      "order_seq": "content_5_2",
+      "task_id": 201301004,
+      "tokens": [
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "The"
+        },
+        {
+          "gloss": "潜在的",
+          "lemma": "potential",
+          "surface": "potential"
+        },
+        {
+          "gloss": "演变",
+          "lemma": "evolution",
+          "surface": "evolution"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "今天的",
+          "lemma": "today",
+          "surface": "today’s"
+        },
+        {
+          "gloss": "技术",
+          "lemma": "technology",
+          "surface": "technology"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "它的",
+          "lemma": "its",
+          "surface": "its"
+        },
+        {
+          "gloss": "社会的",
+          "lemma": "social",
+          "surface": "social"
+        },
+        {
+          "gloss": "后果",
+          "lemma": "consequence",
+          "surface": "consequences"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "极其",
+          "lemma": "dazzlingly",
+          "surface": "dazzlingly"
+        },
+        {
+          "gloss": "复杂的",
+          "lemma": "complicated",
+          "surface": "complicated"
+        },
+        {
+          "gloss": "并且",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "it’s"
+        },
+        {
+          "gloss": "也许",
+          "lemma": "perhaps",
+          "surface": "perhaps"
+        },
+        {
+          "gloss": "最好",
+          "lemma": "best",
+          "surface": "best"
+        },
+        {
+          "gloss": "留给",
+          "lemma": "leave",
+          "surface": "left"
+        },
+        {
+          "gloss": "给",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "科学",
+          "lemma": "science",
+          "surface": "science"
+        },
+        {
+          "gloss": "小说",
+          "lemma": "fiction",
+          "surface": "fiction"
+        },
+        {
+          "gloss": "作家",
+          "lemma": "writer",
+          "surface": "writers"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "未来学家",
+          "lemma": "futurologist",
+          "surface": "futurologists"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "探索",
+          "lemma": "explore",
+          "surface": "explore"
+        },
+        {
+          "gloss": "这些",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "许多",
+          "lemma": "many",
+          "surface": "many"
+        },
+        {
+          "gloss": "可能性",
+          "lemma": "possibility",
+          "surface": "possibilities"
+        },
+        {
+          "gloss": "我们",
+          "lemma": "we",
+          "surface": "we"
+        },
+        {
+          "gloss": "能够",
+          "lemma": "can",
+          "surface": "can"
+        },
+        {
+          "gloss": "设想",
+          "lemma": "envisage",
+          "surface": "envisage"
+        }
+      ]
+    },
+    {
+      "cn_text": "这就是我们推出《Arc》这本致力于近期未来的新刊物的原因之一。",
+      "en_text": "That’s one reason why we have launched Arc, a new publication dedicated to the near future.",
+      "id": 2013013119,
+      "order_seq": "content_5_3",
+      "task_id": 201301004,
+      "tokens": [
+        {
+          "gloss": "那是",
+          "lemma": "that",
+          "surface": "That’s"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "one",
+          "surface": "one"
+        },
+        {
+          "gloss": "原因",
+          "lemma": "reason",
+          "surface": "reason"
+        },
+        {
+          "gloss": "为什么",
+          "lemma": "why",
+          "surface": "why"
+        },
+        {
+          "gloss": "我们",
+          "lemma": "we",
+          "surface": "we"
+        },
+        {
+          "gloss": "已经",
+          "lemma": "have",
+          "surface": "have"
+        },
+        {
+          "gloss": "推出",
+          "lemma": "launch",
+          "surface": "launched"
+        },
+        {
+          "gloss": "《Arc》",
+          "lemma": "arc",
+          "surface": "Arc"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "新的",
+          "lemma": "new",
+          "surface": "new"
+        },
+        {
+          "gloss": "出版物",
+          "lemma": "publication",
+          "surface": "publication"
+        },
+        {
+          "gloss": "致力于",
+          "lemma": "dedicate",
+          "surface": "dedicated"
+        },
+        {
+          "gloss": "于",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "近期的",
+          "lemma": "near",
+          "surface": "near"
+        },
+        {
+          "gloss": "未来",
+          "lemma": "future",
+          "surface": "future"
+        }
+      ]
+    },
+    {
+      "cn_text": "但从更长远的角度来看，有许多事情我们可以相当有把握地断言。",
+      "en_text": "But take a longer view and there is a surprising amount that we can say with considerable assurance.",
+      "id": 2013013120,
+      "order_seq": "content_6_1",
+      "task_id": 201301004,
+      "tokens": [
+        {
+          "gloss": "但是",
+          "lemma": "but",
+          "surface": "But"
+        },
+        {
+          "gloss": "采取",
+          "lemma": "take",
+          "surface": "take"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "更长远的",
+          "lemma": "long",
+          "surface": "longer"
+        },
+        {
+          "gloss": "视角",
+          "lemma": "view",
+          "surface": "view"
+        },
+        {
+          "gloss": "并且",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "有",
+          "lemma": "there",
+          "surface": "there"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "令人惊讶的",
+          "lemma": "surprising",
+          "surface": "surprising"
+        },
+        {
+          "gloss": "数量",
+          "lemma": "amount",
+          "surface": "amount"
+        },
+        {
+          "gloss": "那些",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "我们",
+          "lemma": "we",
+          "surface": "we"
+        },
+        {
+          "gloss": "可以",
+          "lemma": "can",
+          "surface": "can"
+        },
+        {
+          "gloss": "说",
+          "lemma": "say",
+          "surface": "say"
+        },
+        {
+          "gloss": "以",
+          "lemma": "with",
+          "surface": "with"
+        },
+        {
+          "gloss": "相当大的",
+          "lemma": "considerable",
+          "surface": "considerable"
+        },
+        {
+          "gloss": "把握",
+          "lemma": "assurance",
+          "surface": "assurance"
+        }
+      ]
+    },
+    {
+      "cn_text": "正如常见的那样，过去是通往未来的钥匙：我们现在已经识别出足够多塑造地球及我们物种历史的长期模式，从而能够基于证据对我们的后代所处的境况做出预测。",
+      "en_text": "As so often, the past holds the key to the future: we have now identified enough of the long-term patterns shaping the history of the planet, and our species, to make evidence-based forecasts about the situations in which our descendants will find themselves.",
+      "id": 2013013121,
+      "order_seq": "content_6_2",
+      "task_id": 201301004,
+      "tokens": [
+        {
+          "gloss": "正如",
+          "lemma": "as",
+          "surface": "As"
+        },
+        {
+          "gloss": "如此",
+          "lemma": "so",
+          "surface": "so"
+        },
+        {
+          "gloss": "常见的",
+          "lemma": "often",
+          "surface": "often"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "过去",
+          "lemma": "past",
+          "surface": "past"
+        },
+        {
+          "gloss": "持有",
+          "lemma": "hold",
+          "surface": "holds"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "钥匙",
+          "lemma": "key",
+          "surface": "key"
+        },
+        {
+          "gloss": "通向",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "未来",
+          "lemma": "future",
+          "surface": "future"
+        },
+        {
+          "gloss": "我们",
+          "lemma": "we",
+          "surface": "we"
+        },
+        {
+          "gloss": "已经",
+          "lemma": "have",
+          "surface": "have"
+        },
+        {
+          "gloss": "现在",
+          "lemma": "now",
+          "surface": "now"
+        },
+        {
+          "gloss": "确定",
+          "lemma": "identify",
+          "surface": "identified"
+        },
+        {
+          "gloss": "足够多的",
+          "lemma": "enough",
+          "surface": "enough"
+        },
+        {
+          "gloss": "关于",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "这些",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "长期的",
+          "lemma": "long",
+          "surface": "long"
+        },
+        {
+          "gloss": "期限",
+          "lemma": "term",
+          "surface": "term"
+        },
+        {
+          "gloss": "模式",
+          "lemma": "pattern",
+          "surface": "patterns"
+        },
+        {
+          "gloss": "塑造",
+          "lemma": "shape",
+          "surface": "shaping"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "历史",
+          "lemma": "history",
+          "surface": "history"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "地球",
+          "lemma": "planet",
+          "surface": "planet"
+        },
+        {
+          "gloss": "以及",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "我们的",
+          "lemma": "our",
+          "surface": "our"
+        },
+        {
+          "gloss": "物种",
+          "lemma": "species",
+          "surface": "species"
+        },
+        {
+          "gloss": "以",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "做出",
+          "lemma": "make",
+          "surface": "make"
+        },
+        {
+          "gloss": "证据",
+          "lemma": "evidence",
+          "surface": "evidence"
+        },
+        {
+          "gloss": "基于的",
+          "lemma": "base",
+          "surface": "based"
+        },
+        {
+          "gloss": "预测",
+          "lemma": "forecast",
+          "surface": "forecasts"
+        },
+        {
+          "gloss": "关于",
+          "lemma": "about",
+          "surface": "about"
+        },
+        {
+          "gloss": "这些",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "情境",
+          "lemma": "situation",
+          "surface": "situations"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "其中",
+          "lemma": "which",
+          "surface": "which"
+        },
+        {
+          "gloss": "我们的",
+          "lemma": "our",
+          "surface": "our"
+        },
+        {
+          "gloss": "后代",
+          "lemma": "descendant",
+          "surface": "descendants"
+        },
+        {
+          "gloss": "将",
+          "lemma": "will",
+          "surface": "will"
+        },
+        {
+          "gloss": "发现",
+          "lemma": "find",
+          "surface": "find"
+        },
+        {
+          "gloss": "他们自己",
+          "lemma": "themselves",
+          "surface": "themselves"
+        }
+      ]
+    },
+    {
+      "cn_text": "这种长远的视角使得对我们前景的悲观看法更可能只是一时的风潮。",
+      "en_text": "This long perspective makes the pessimistic view of our prospects seem more likely to be a passing fad.",
+      "id": 2013013122,
+      "order_seq": "content_7_1",
+      "task_id": 201301004,
+      "tokens": [
+        {
+          "gloss": "这个",
+          "lemma": "this",
+          "surface": "This"
+        },
+        {
+          "gloss": "长远的",
+          "lemma": "long",
+          "surface": "long"
+        },
+        {
+          "gloss": "视角",
+          "lemma": "perspective",
+          "surface": "perspective"
+        },
+        {
+          "gloss": "使得",
+          "lemma": "make",
+          "surface": "makes"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "悲观的",
+          "lemma": "pessimistic",
+          "surface": "pessimistic"
+        },
+        {
+          "gloss": "看法",
+          "lemma": "view",
+          "surface": "view"
+        },
+        {
+          "gloss": "关于",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "我们的",
+          "lemma": "our",
+          "surface": "our"
+        },
+        {
+          "gloss": "前景",
+          "lemma": "prospect",
+          "surface": "prospects"
+        },
+        {
+          "gloss": "显得",
+          "lemma": "seem",
+          "surface": "seem"
+        },
+        {
+          "gloss": "更",
+          "lemma": "more",
+          "surface": "more"
+        },
+        {
+          "gloss": "可能的",
+          "lemma": "likely",
+          "surface": "likely"
+        },
+        {
+          "gloss": "是",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "be"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "短暂的",
+          "lemma": "passing",
+          "surface": "passing"
+        },
+        {
+          "gloss": "时尚",
+          "lemma": "fad",
+          "surface": "fad"
+        }
+      ]
+    },
+    {
+      "cn_text": "可以肯定的是，未来并非一片玫瑰色。",
+      "en_text": "To be sure, the future is not all rosy.",
+      "id": 2013013123,
+      "order_seq": "content_7_2",
+      "task_id": 201301004,
+      "tokens": [
+        {
+          "gloss": "为了",
+          "lemma": "to",
+          "surface": "To"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "be"
+        },
+        {
+          "gloss": "确定的",
+          "lemma": "sure",
+          "surface": "sure"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "未来",
+          "lemma": "future",
+          "surface": "future"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "不",
+          "lemma": "not",
+          "surface": "not"
+        },
+        {
+          "gloss": "完全",
+          "lemma": "all",
+          "surface": "all"
+        },
+        {
+          "gloss": "光明的",
+          "lemma": "rosy",
+          "surface": "rosy"
+        }
+      ]
+    },
+    {
+      "cn_text": "但我们现在已经足够有知识，可以减少许多威胁早期人类生存的风险，并改善后代的境遇。",
+      "en_text": "But we are now knowledgeable enough to reduce many of the risks that threatened the existence of earlier humans, and to improve the lot of those to come.",
+      "id": 2013013124,
+      "order_seq": "content_7_3",
+      "task_id": 201301004,
+      "tokens": [
+        {
+          "gloss": "但是",
+          "lemma": "but",
+          "surface": "But"
+        },
+        {
+          "gloss": "我们",
+          "lemma": "we",
+          "surface": "we"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "are"
+        },
+        {
+          "gloss": "现在",
+          "lemma": "now",
+          "surface": "now"
+        },
+        {
+          "gloss": "有知识的",
+          "lemma": "knowledgeable",
+          "surface": "knowledgeable"
+        },
+        {
+          "gloss": "足够",
+          "lemma": "enough",
+          "surface": "enough"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "减少",
+          "lemma": "reduce",
+          "surface": "reduce"
+        },
+        {
+          "gloss": "许多",
+          "lemma": "many",
+          "surface": "many"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "这些",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "风险",
+          "lemma": "risk",
+          "surface": "risks"
+        },
+        {
+          "gloss": "那些",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "威胁",
+          "lemma": "threaten",
+          "surface": "threatened"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "生存",
+          "lemma": "existence",
+          "surface": "existence"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "早期的",
+          "lemma": "early",
+          "surface": "earlier"
+        },
+        {
+          "gloss": "人类",
+          "lemma": "human",
+          "surface": "humans"
+        },
+        {
+          "gloss": "并且",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "改善",
+          "lemma": "improve",
+          "surface": "improve"
+        },
+        {
+          "gloss": "这些",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "命运",
+          "lemma": "lot",
+          "surface": "lot"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "那些",
+          "lemma": "those",
+          "surface": "those"
+        },
+        {
+          "gloss": "将",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "到来",
+          "lemma": "come",
+          "surface": "come"
+        }
+      ]
+    },
+    {
+      "cn_text": "我们对未来的憧憬曾经受到____的激励。",
+      "en_text": "Our vision of the future used to be inspired by ____",
+      "id": 2013013125,
+      "order_seq": "question_2013011031_stem",
+      "task_id": 201301004,
+      "tokens": [
+        {
+          "gloss": "我们的",
+          "lemma": "our",
+          "surface": "Our"
+        },
+        {
+          "gloss": "愿景",
+          "lemma": "vision",
+          "surface": "vision"
+        },
+        {
+          "gloss": "关于",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "未来",
+          "lemma": "future",
+          "surface": "future"
+        },
+        {
+          "gloss": "曾经",
+          "lemma": "use",
+          "surface": "used"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "be"
+        },
+        {
+          "gloss": "启发",
+          "lemma": "inspire",
+          "surface": "inspired"
+        },
+        {
+          "gloss": "通过",
+          "lemma": "by",
+          "surface": "by"
+        }
+      ]
+    },
+    {
+      "cn_text": "我们对充实生活的渴望。",
+      "en_text": "our desire for lives of fulfillment.",
+      "id": 2013013126,
+      "order_seq": "question_2013011031_A",
+      "task_id": 201301004,
+      "tokens": [
+        {
+          "gloss": "我们的",
+          "lemma": "our",
+          "surface": "our"
+        },
+        {
+          "gloss": "渴望",
+          "lemma": "desire",
+          "surface": "desire"
+        },
+        {
+          "gloss": "为了",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "生活",
+          "lemma": "life",
+          "surface": "lives"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "充实",
+          "lemma": "fulfillment",
+          "surface": "fulfillment"
+        }
+      ]
+    },
+    {
+      "cn_text": "我们对科学与技术的信念。",
+      "en_text": "our faith in science and technology.",
+      "id": 2013013127,
+      "order_seq": "question_2013011031_B",
+      "task_id": 201301004,
+      "tokens": [
+        {
+          "gloss": "我们的",
+          "lemma": "our",
+          "surface": "our"
+        },
+        {
+          "gloss": "信仰",
+          "lemma": "faith",
+          "surface": "faith"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "科学",
+          "lemma": "science",
+          "surface": "science"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "技术",
+          "lemma": "technology",
+          "surface": "technology"
+        }
+      ]
+    },
+    {
+      "cn_text": "我们对潜在风险的认识。",
+      "en_text": "our awareness of potential risks.",
+      "id": 2013013128,
+      "order_seq": "question_2013011031_C",
+      "task_id": 201301004,
+      "tokens": [
+        {
+          "gloss": "我们的",
+          "lemma": "our",
+          "surface": "our"
+        },
+        {
+          "gloss": "意识",
+          "lemma": "awareness",
+          "surface": "awareness"
+        },
+        {
+          "gloss": "关于",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "潜在的",
+          "lemma": "potential",
+          "surface": "potential"
+        },
+        {
+          "gloss": "风险",
+          "lemma": "risk",
+          "surface": "risks"
+        }
+      ]
+    },
+    {
+      "cn_text": "我们对机会平等的信念。",
+      "en_text": "our belief in equal opportunity.",
+      "id": 2013013129,
+      "order_seq": "question_2013011031_D",
+      "task_id": 201301004,
+      "tokens": [
+        {
+          "gloss": "我们的",
+          "lemma": "our",
+          "surface": "our"
+        },
+        {
+          "gloss": "信念",
+          "lemma": "belief",
+          "surface": "belief"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "平等的",
+          "lemma": "equal",
+          "surface": "equal"
+        },
+        {
+          "gloss": "机会",
+          "lemma": "opportunity",
+          "surface": "opportunity"
+        }
+      ]
+    },
+    {
+      "cn_text": "国际自然保护联盟的「红色名录」表明人类是____。",
+      "en_text": "The IUCN’s “Red List” suggests that human beings are ____",
+      "id": 2013013130,
+      "order_seq": "question_2013011032_stem",
+      "task_id": 201301004,
+      "tokens": [
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "The"
+        },
+        {
+          "gloss": "国际自然保护联盟的",
+          "lemma": "iucn",
+          "surface": "IUCN’s"
+        },
+        {
+          "gloss": "红色的",
+          "lemma": "red",
+          "surface": "Red"
+        },
+        {
+          "gloss": "名录",
+          "lemma": "list",
+          "surface": "List"
+        },
+        {
+          "gloss": "表明",
+          "lemma": "suggest",
+          "surface": "suggests"
+        },
+        {
+          "gloss": "表明",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "人类的",
+          "lemma": "human",
+          "surface": "human"
+        },
+        {
+          "gloss": "生物",
+          "lemma": "being",
+          "surface": "beings"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "are"
+        }
+      ]
+    },
+    {
+      "cn_text": "一个可持续的物种。",
+      "en_text": "a sustained species.",
+      "id": 2013013131,
+      "order_seq": "question_2013011032_A",
+      "task_id": 201301004,
+      "tokens": [
+        {
+          "gloss": "一种",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "持续的",
+          "lemma": "sustained",
+          "surface": "sustained"
+        },
+        {
+          "gloss": "物种",
+          "lemma": "species",
+          "surface": "species"
+        }
+      ]
+    },
+    {
+      "cn_text": "对环境的威胁。",
+      "en_text": "a threat to the environment.",
+      "id": 2013013132,
+      "order_seq": "question_2013011032_B",
+      "task_id": 201301004,
+      "tokens": [
+        {
+          "gloss": "一种",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "威胁",
+          "lemma": "threat",
+          "surface": "threat"
+        },
+        {
+          "gloss": "对",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "环境",
+          "lemma": "environment",
+          "surface": "environment"
+        }
+      ]
+    },
+    {
+      "cn_text": "世界的统治力量。",
+      "en_text": "the world’s dominant power.",
+      "id": 2013013133,
+      "order_seq": "question_2013011032_C",
+      "task_id": 201301004,
+      "tokens": [
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "世界的",
+          "lemma": "world",
+          "surface": "world’s"
+        },
+        {
+          "gloss": "主导的",
+          "lemma": "dominant",
+          "surface": "dominant"
+        },
+        {
+          "gloss": "力量",
+          "lemma": "power",
+          "surface": "power"
+        }
+      ]
+    },
+    {
+      "cn_text": "一个位置不当的种族。",
+      "en_text": "a misplaced race.",
+      "id": 2013013134,
+      "order_seq": "question_2013011032_D",
+      "task_id": 201301004,
+      "tokens": [
+        {
+          "gloss": "一种",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "被误解的",
+          "lemma": "misplaced",
+          "surface": "misplaced"
+        },
+        {
+          "gloss": "种族",
+          "lemma": "race",
+          "surface": "race"
+        }
+      ]
+    },
+    {
+      "cn_text": "根据第5段，以下哪一项是正确的？",
+      "en_text": "Which of the following is true according to Paragraph 5?",
+      "id": 2013013135,
+      "order_seq": "question_2013011033_stem",
+      "task_id": 201301004,
+      "tokens": [
+        {
+          "gloss": "哪一个",
+          "lemma": "which",
+          "surface": "Which"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "以下的",
+          "lemma": "following",
+          "surface": "following"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "正确的",
+          "lemma": "true",
+          "surface": "true"
+        },
+        {
+          "gloss": "根据",
+          "lemma": "according",
+          "surface": "according"
+        },
+        {
+          "gloss": "到",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "段落",
+          "lemma": "paragraph",
+          "surface": "Paragraph"
+        }
+      ]
+    },
+    {
+      "cn_text": "《Arc》有助于限定未来学研究的范围。",
+      "en_text": "Arc helps limit the scope of futurological studies.",
+      "id": 2013013136,
+      "order_seq": "question_2013011033_A",
+      "task_id": 201301004,
+      "tokens": [
+        {
+          "gloss": "Arc",
+          "lemma": "arc",
+          "surface": "Arc"
+        },
+        {
+          "gloss": "帮助",
+          "lemma": "help",
+          "surface": "helps"
+        },
+        {
+          "gloss": "限制",
+          "lemma": "limit",
+          "surface": "limit"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "范围",
+          "lemma": "scope",
+          "surface": "scope"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "未来学的",
+          "lemma": "futurological",
+          "surface": "futurological"
+        },
+        {
+          "gloss": "研究",
+          "lemma": "study",
+          "surface": "studies"
+        }
+      ]
+    },
+    {
+      "cn_text": "技术为社会问题提供解决方案。",
+      "en_text": "Technology offers solutions to social problems.",
+      "id": 2013013137,
+      "order_seq": "question_2013011033_B",
+      "task_id": 201301004,
+      "tokens": [
+        {
+          "gloss": "技术",
+          "lemma": "technology",
+          "surface": "Technology"
+        },
+        {
+          "gloss": "提供",
+          "lemma": "offer",
+          "surface": "offers"
+        },
+        {
+          "gloss": "解决方案",
+          "lemma": "solution",
+          "surface": "solutions"
+        },
+        {
+          "gloss": "对",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "社会的",
+          "lemma": "social",
+          "surface": "social"
+        },
+        {
+          "gloss": "问题",
+          "lemma": "problem",
+          "surface": "problems"
+        }
+      ]
+    },
+    {
+      "cn_text": "对科幻小说的兴趣正在上升。",
+      "en_text": "The interest in science fiction is on the rise.",
+      "id": 2013013138,
+      "order_seq": "question_2013011033_C",
+      "task_id": 201301004,
+      "tokens": [
+        {
+          "gloss": "定冠词",
+          "lemma": "the",
+          "surface": "The"
+        },
+        {
+          "gloss": "兴趣",
+          "lemma": "interest",
+          "surface": "interest"
+        },
+        {
+          "gloss": "在...中",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "科学",
+          "lemma": "science",
+          "surface": "science"
+        },
+        {
+          "gloss": "小说",
+          "lemma": "fiction",
+          "surface": "fiction"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "在...上",
+          "lemma": "on",
+          "surface": "on"
+        },
+        {
+          "gloss": "定冠词",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "上升",
+          "lemma": "rise",
+          "surface": "rise"
+        }
+      ]
+    },
+    {
+      "cn_text": "我们的近期未来难以设想。",
+      "en_text": "Our immediate future is hard to conceive.",
+      "id": 2013013139,
+      "order_seq": "question_2013011033_D",
+      "task_id": 201301004,
+      "tokens": [
+        {
+          "gloss": "我们的",
+          "lemma": "our",
+          "surface": "Our"
+        },
+        {
+          "gloss": "近期的",
+          "lemma": "immediate",
+          "surface": "immediate"
+        },
+        {
+          "gloss": "未来",
+          "lemma": "future",
+          "surface": "future"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "困难的",
+          "lemma": "hard",
+          "surface": "hard"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "想象",
+          "lemma": "conceive",
+          "surface": "conceive"
+        }
+      ]
+    },
+    {
+      "cn_text": "为了确保人类的未来，关键是____。",
+      "en_text": "To ensure the future of mankind, it is crucial to ____",
+      "id": 2013013140,
+      "order_seq": "question_2013011034_stem",
+      "task_id": 201301004,
+      "tokens": [
+        {
+          "gloss": "为了",
+          "lemma": "to",
+          "surface": "To"
+        },
+        {
+          "gloss": "确保",
+          "lemma": "ensure",
+          "surface": "ensure"
+        },
+        {
+          "gloss": "定冠词",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "未来",
+          "lemma": "future",
+          "surface": "future"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "人类",
+          "lemma": "mankind",
+          "surface": "mankind"
+        },
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "it"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "至关重要的",
+          "lemma": "crucial",
+          "surface": "crucial"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        }
+      ]
+    },
+    {
+      "cn_text": "探索我们星球的丰富资源。",
+      "en_text": "explore our planet’s abundant resources.",
+      "id": 2013013141,
+      "order_seq": "question_2013011034_A",
+      "task_id": 201301004,
+      "tokens": [
+        {
+          "gloss": "探索",
+          "lemma": "explore",
+          "surface": "explore"
+        },
+        {
+          "gloss": "我们的",
+          "lemma": "our",
+          "surface": "our"
+        },
+        {
+          "gloss": "星球",
+          "lemma": "planet",
+          "surface": "planet’s"
+        },
+        {
+          "gloss": "丰富的",
+          "lemma": "abundant",
+          "surface": "abundant"
+        },
+        {
+          "gloss": "资源",
+          "lemma": "resource",
+          "surface": "resources"
+        }
+      ]
+    },
+    {
+      "cn_text": "对世界采取乐观的看法。",
+      "en_text": "adopt an optimistic view of the world.",
+      "id": 2013013142,
+      "order_seq": "question_2013011034_B",
+      "task_id": 201301004,
+      "tokens": [
+        {
+          "gloss": "采取",
+          "lemma": "adopt",
+          "surface": "adopt"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "an",
+          "surface": "an"
+        },
+        {
+          "gloss": "乐观的",
+          "lemma": "optimistic",
+          "surface": "optimistic"
+        },
+        {
+          "gloss": "观点",
+          "lemma": "view",
+          "surface": "view"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "定冠词",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "世界",
+          "lemma": "world",
+          "surface": "world"
+        }
+      ]
+    },
+    {
+      "cn_text": "借鉴我们过去的经验。",
+      "en_text": "draw on our experience from the past.",
+      "id": 2013013143,
+      "order_seq": "question_2013011034_C",
+      "task_id": 201301004,
+      "tokens": [
+        {
+          "gloss": "借鉴",
+          "lemma": "draw",
+          "surface": "draw"
+        },
+        {
+          "gloss": "基于",
+          "lemma": "on",
+          "surface": "on"
+        },
+        {
+          "gloss": "我们的",
+          "lemma": "our",
+          "surface": "our"
+        },
+        {
+          "gloss": "经验",
+          "lemma": "experience",
+          "surface": "experience"
+        },
+        {
+          "gloss": "从",
+          "lemma": "from",
+          "surface": "from"
+        },
+        {
+          "gloss": "定冠词",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "过去",
+          "lemma": "past",
+          "surface": "past"
+        }
+      ]
+    },
+    {
+      "cn_text": "抑制我们重塑历史的野心。",
+      "en_text": "curb our ambition to reshape history.",
+      "id": 2013013144,
+      "order_seq": "question_2013011034_D",
+      "task_id": 201301004,
+      "tokens": [
+        {
+          "gloss": "抑制",
+          "lemma": "curb",
+          "surface": "curb"
+        },
+        {
+          "gloss": "我们的",
+          "lemma": "our",
+          "surface": "our"
+        },
+        {
+          "gloss": "野心",
+          "lemma": "ambition",
+          "surface": "ambition"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "重塑",
+          "lemma": "reshape",
+          "surface": "reshape"
+        },
+        {
+          "gloss": "历史",
+          "lemma": "history",
+          "surface": "history"
+        }
+      ]
+    },
+    {
+      "cn_text": "以下哪一项是本文的最佳标题？",
+      "en_text": "Which of the following would be the best title for the text?",
+      "id": 2013013145,
+      "order_seq": "question_2013011035_stem",
+      "task_id": 201301004,
+      "tokens": [
+        {
+          "gloss": "哪一个",
+          "lemma": "which",
+          "surface": "Which"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "定冠词",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "以下",
+          "lemma": "follow",
+          "surface": "following"
+        },
+        {
+          "gloss": "会",
+          "lemma": "would",
+          "surface": "would"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "be"
+        },
+        {
+          "gloss": "定冠词",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "最佳的",
+          "lemma": "best",
+          "surface": "best"
+        },
+        {
+          "gloss": "标题",
+          "lemma": "title",
+          "surface": "title"
+        },
+        {
+          "gloss": "对于",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "定冠词",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "文本",
+          "lemma": "text",
+          "surface": "text"
+        }
+      ]
+    },
+    {
+      "cn_text": "对我们未来的不确定性。",
+      "en_text": "Uncertainty About Our Future.",
+      "id": 2013013146,
+      "order_seq": "question_2013011035_A",
+      "task_id": 201301004,
+      "tokens": [
+        {
+          "gloss": "不确定性",
+          "lemma": "uncertainty",
+          "surface": "Uncertainty"
+        },
+        {
+          "gloss": "关于",
+          "lemma": "about",
+          "surface": "About"
+        },
+        {
+          "gloss": "我们的",
+          "lemma": "our",
+          "surface": "Our"
+        },
+        {
+          "gloss": "未来",
+          "lemma": "future",
+          "surface": "Future"
+        }
+      ]
+    },
+    {
+      "cn_text": "人类物种的演化。",
+      "en_text": "Evolution of the Human Species.",
+      "id": 2013013147,
+      "order_seq": "question_2013011035_B",
+      "task_id": 201301004,
+      "tokens": [
+        {
+          "gloss": "进化",
+          "lemma": "evolution",
+          "surface": "Evolution"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "人类的",
+          "lemma": "human",
+          "surface": "Human"
+        },
+        {
+          "gloss": "物种",
+          "lemma": "species",
+          "surface": "Species"
+        }
+      ]
+    },
+    {
+      "cn_text": "人类永远光明的前景。",
+      "en_text": "The Ever-bright Prospects of Mankind.",
+      "id": 2013013148,
+      "order_seq": "question_2013011035_C",
+      "task_id": 201301004,
+      "tokens": [
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "The"
+        },
+        {
+          "gloss": "永远",
+          "lemma": "ever",
+          "surface": "Ever"
+        },
+        {
+          "gloss": "光明的",
+          "lemma": "bright",
+          "surface": "bright"
+        },
+        {
+          "gloss": "前景",
+          "lemma": "prospect",
+          "surface": "Prospects"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "人类",
+          "lemma": "mankind",
+          "surface": "Mankind"
+        }
+      ]
+    },
+    {
+      "cn_text": "科学、技术与人性。",
+      "en_text": "Science, Technology and Humanity.",
+      "id": 2013013149,
+      "order_seq": "question_2013011035_D",
+      "task_id": 201301004,
+      "tokens": [
+        {
+          "gloss": "科学",
+          "lemma": "science",
+          "surface": "Science"
+        },
+        {
+          "gloss": "技术",
+          "lemma": "technology",
+          "surface": "Technology"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "人类",
+          "lemma": "humanity",
+          "surface": "Humanity"
+        }
+      ]
+    }
+  ],
+  "success": true
+}

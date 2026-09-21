@@ -1,0 +1,812 @@
+{
+  "exam": "en1",
+  "key": "2001-t4",
+  "year": 2001,
+  "text_no": 4,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2001-text4-s1",
+      "s": "The world is going through the biggest wave of mergers and acquisitions ever witnessed.",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The world",
+        "谓语": "is going through",
+        "宾语或表语": "the biggest wave of mergers and acquisitions",
+        "主干翻译": "世界正在经历最大的兼并与收购浪潮。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "ever witnessed",
+          "修饰对象": "wave",
+          "中文翻译": "有史以来所见过的",
+          "说明": "过去分词短语作后置定语修饰wave，省略了which has been，含义为'迄今所目睹的'。"
+        }
+      ],
+      "zh": "世界正在经历一场有史以来规模最大的兼并与收购浪潮。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2001-text4-s2",
+      "s": "The process sweeps from hyperactive America to Europe and reaches the emerging countries with unsurpassed might.",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "The process",
+        "谓语": "sweeps ... and reaches",
+        "宾语或表语": "the emerging countries",
+        "主干翻译": "这一进程席卷而来并抵达新兴国家。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "reaches the emerging countries with unsurpassed might",
+          "修饰对象": "sweeps",
+          "中文翻译": "以无与伦比的威力抵达新兴国家",
+          "说明": "and连接的第二个并列谓语，与sweeps from...to...并列，共用主语The process；with unsurpassed might为介词短语作状语，表方式。"
+        }
+      ],
+      "zh": "这一进程从极度活跃的美国席卷至欧洲，并以无与伦比的威力抵达新兴国家。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2001-text4-s3",
+      "s": "Many in these countries are looking at this process and worrying: \"",
+      "para_no": 1,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Many",
+        "谓语": "are looking at and worrying",
+        "宾语或表语": "this process",
+        "主干翻译": "这些国家中的许多人正注视着这一进程并忧心忡忡。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "in these countries",
+          "修饰对象": "Many",
+          "中文翻译": "这些国家中的",
+          "说明": "介词短语后置修饰代词Many，指明'许多人'的范围。"
+        }
+      ],
+      "zh": "这些国家中的许多人正注视着这一进程，并忧心忡忡地问道：\"",
+      "underline": null
+    },
+    {
+      "sid": "en1-2001-text4-s4",
+      "s": "Won't the wave of business concentration turn into an uncontrollable anti-competitive force?\"",
+      "para_no": 1,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "the wave of business concentration",
+        "谓语": "Won't ... turn into",
+        "宾语或表语": "an uncontrollable anti-competitive force",
+        "主干翻译": "商业集中的浪潮难道不会变成一股无法控制的反竞争力量吗？"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "of business concentration",
+          "修饰对象": "wave",
+          "中文翻译": "商业集中的",
+          "说明": "介词短语作定语修饰wave。"
+        }
+      ],
+      "zh": "商业集中的浪潮难道不会变成一股无法控制的反竞争力量吗？\"",
+      "underline": null
+    },
+    {
+      "sid": "en1-2001-text4-s5",
+      "s": "There's no question that the big are getting bigger and more powerful.",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "There",
+        "谓语": "is",
+        "宾语或表语": "no question",
+        "主干翻译": "毫无疑问。"
+      },
+      "components": [
+        {
+          "成分类型": "同位语从句",
+          "原文": "that the big are getting bigger and more powerful",
+          "修饰对象": "question",
+          "中文翻译": "大企业正变得越来越大、越来越强",
+          "说明": "that引导同位语从句，解释说明question的具体内容；the big为'the+形容词'表一类人/物，指大企业。"
+        }
+      ],
+      "zh": "毫无疑问，大企业正变得越来越大、越来越强。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2001-text4-s6",
+      "s": "Multinational corporations accounted for less than 20% of international trade in 1982.",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Multinational corporations",
+        "谓语": "accounted for",
+        "宾语或表语": "less than 20% of international trade",
+        "主干翻译": "跨国公司占国际贸易的份额不到20%。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "in 1982",
+          "修饰对象": "accounted",
+          "中文翻译": "在1982年",
+          "说明": "时间状语，指明该数据所属年份。"
+        }
+      ],
+      "zh": "1982年，跨国公司在国际贸易中所占份额不足20%。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2001-text4-s7",
+      "s": "Today the figure is more than 25% and growing rapidly.",
+      "para_no": 2,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "the figure",
+        "谓语": "is and growing",
+        "宾语或表语": "more than 25%",
+        "主干翻译": "如今这一数字超过了25%，并且还在迅速增长。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "growing rapidly",
+          "修饰对象": "is",
+          "中文翻译": "正迅速增长",
+          "说明": "and连接的并列谓语成分，与is more than 25%并列，共用主语the figure。"
+        }
+      ],
+      "zh": "如今这一数字已超过25%，并且还在迅速增长。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2001-text4-s8",
+      "s": "International affiliates account for a fast-growing segment of production in economies that open up and welcome foreign investment.",
+      "para_no": 2,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "International affiliates",
+        "谓语": "account for",
+        "宾语或表语": "a fast-growing segment of production",
+        "主干翻译": "国际子公司在生产中占据着快速增长的份额。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "in economies",
+          "修饰对象": "production",
+          "中文翻译": "在某些经济体中的",
+          "说明": "介词短语修饰production，限定生产所在的经济体范围。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that open up and welcome foreign investment",
+          "修饰对象": "economies",
+          "中文翻译": "那些开放并欢迎外国投资的",
+          "说明": "that引导限制性定语从句修饰economies。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "welcome foreign investment",
+          "修饰对象": "open",
+          "中文翻译": "欢迎外国投资",
+          "说明": "and连接的并列谓语，与open up并列，共用从句关系词主语that(=economies)。"
+        }
+      ],
+      "zh": "在那些开放并欢迎外国投资的经济体中，国际子公司在生产中所占的份额正在快速增长。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2001-text4-s9",
+      "s": "In Argentina, for instance, after the reforms of the early 1990s, multinationals went from 43% to almost 70% of the industrial production of the 200 largest firms.",
+      "para_no": 2,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "multinationals",
+        "谓语": "went",
+        "宾语或表语": "from 43% to almost 70% of the industrial production",
+        "主干翻译": "跨国公司的份额从43%上升到了几乎70%的工业产值。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "for instance",
+          "修饰对象": "—",
+          "中文翻译": "例如",
+          "说明": "插入语，举例说明，前后用逗号隔开。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "In Argentina",
+          "修饰对象": "went",
+          "中文翻译": "在阿根廷",
+          "说明": "地点状语。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "after the reforms of the early 1990s",
+          "修饰对象": "went",
+          "中文翻译": "在20世纪90年代初的改革之后",
+          "说明": "时间状语，of the early 1990 s为介词短语作定语修饰reforms。"
+        },
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "of the 200 largest firms",
+          "修饰对象": "production",
+          "中文翻译": "200家最大企业的",
+          "说明": "介词短语作定语，限定industrial production的范围。"
+        }
+      ],
+      "zh": "以阿根廷为例，在20世纪90年代初的改革之后，跨国公司在200家最大企业的工业产值中所占比例从43%上升到了近70%。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2001-text4-s10",
+      "s": "This phenomenon has created serious concerns over the role of smaller economic firms, of national businessmen and over the ultimate stability of the world economy.",
+      "para_no": 2,
+      "para_seq": 5,
+      "trunk": {
+        "主语": "This phenomenon",
+        "谓语": "has created",
+        "宾语或表语": "serious concerns",
+        "主干翻译": "这一现象引发了严重的担忧。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "over the role of smaller economic firms",
+          "修饰对象": "concerns",
+          "中文翻译": "对小型经济企业作用的",
+          "说明": "介词短语作定语修饰concerns，说明担忧的对象。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "of national businessmen",
+          "修饰对象": "role",
+          "中文翻译": "（以及）本国企业家的（作用）",
+          "说明": "of national businessmen与of smaller economic firms并列，共同修饰role。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "over the ultimate stability of the world economy",
+          "修饰对象": "concerns",
+          "中文翻译": "以及对世界经济最终稳定性的（担忧）",
+          "说明": "and连接的第二个over介词短语，与over the role...并列，同作concerns的定语；of the world economy为介词短语作定语修饰stability。"
+        }
+      ],
+      "zh": "这一现象引发了人们对小型经济企业和本国企业家所起作用的严重担忧，也引发了对世界经济最终稳定性的严重担忧。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2001-text4-s11",
+      "s": "I believe that the most important forces behind the massive M&A wave are the same that underlie the globalization process: falling transportation and communication costs, lower trade and investment barriers and enlarged markets that require enlarged operations capable of meeting customers' demands.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "I",
+        "谓语": "believe",
+        "宾语或表语": "that...（宾语从句）",
+        "主干翻译": "我认为……（某个观点）。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "that the most important forces behind the massive M&A wave are the same that underlie the globalization process",
+          "修饰对象": "believe",
+          "中文翻译": "推动这场大规模并购浪潮的最重要力量，与那些促成全球化进程的力量是相同的",
+          "说明": "that引导believe的宾语从句；从句主语forces，系动词are，表语the same。"
+        },
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "behind the massive M&A wave",
+          "修饰对象": "forces",
+          "中文翻译": "这场大规模并购浪潮背后的",
+          "说明": "介词短语作定语修饰forces。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that underlie the globalization process",
+          "修饰对象": "same",
+          "中文翻译": "构成全球化进程基础的",
+          "说明": "that引导定语从句修饰the same（指代forces），underlie意为'构成…的基础/支撑'。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "falling transportation and communication costs, lower trade and investment barriers and enlarged markets that require enlarged operations capable of meeting customers' demands",
+          "修饰对象": "forces",
+          "中文翻译": "即不断下降的运输和通信成本、不断降低的贸易和投资壁垒，以及要求扩大经营规模以满足顾客需求的扩大化市场",
+          "说明": "冒号后的成分对forces作同位（具体列举），由三项并列名词短语构成。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "lower trade and investment barriers and enlarged markets that require enlarged operations capable of meeting customers' demands",
+          "修饰对象": "costs",
+          "中文翻译": "更低的贸易和投资壁垒以及扩大化的市场",
+          "说明": "冒号后三项名词短语的并列，与falling...costs并列。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "enlarged markets that require enlarged operations capable of meeting customers' demands",
+          "修饰对象": "barriers",
+          "中文翻译": "扩大化的市场",
+          "说明": "第三个并列名词短语，与前两项并列。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that require enlarged operations capable of meeting customers' demands",
+          "修饰对象": "markets",
+          "中文翻译": "要求扩大经营规模以满足顾客需求的",
+          "说明": "that引导定语从句修饰markets；capable of meeting customers' demands为形容词短语作后置定语修饰operations。"
+        }
+      ],
+      "zh": "我认为，推动这场大规模并购浪潮的最重要力量，与构成全球化进程基础的力量是相同的：即不断下降的运输和通信成本、不断降低的贸易和投资壁垒，以及要求扩大经营规模以满足顾客需求的扩大化市场。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2001-text4-s12",
+      "s": "All these are beneficial, not detrimental, to consumers.",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "All these",
+        "谓语": "are",
+        "宾语或表语": "beneficial, not detrimental, to consumers",
+        "主干翻译": "所有这些对消费者都是有益的，而非有害的。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "not detrimental",
+          "修饰对象": "—",
+          "中文翻译": "而非有害",
+          "说明": "插入性对比成分，与表语beneficial形成对照，强调有益而非有害。"
+        }
+      ],
+      "zh": "所有这些对消费者都是有益的，而非有害的。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2001-text4-s13",
+      "s": "As productivity grows, the world's wealth increases.",
+      "para_no": 3,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "the world's wealth",
+        "谓语": "increases",
+        "宾语或表语": "—",
+        "主干翻译": "世界的财富增加。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(原因)",
+          "原文": "As productivity grows",
+          "修饰对象": "increases",
+          "中文翻译": "随着生产率的提高",
+          "说明": "As引导状语从句，此处表伴随/随着（兼具因果意味），描述生产率提高与财富增加的同步关系。"
+        }
+      ],
+      "zh": "随着生产率的提高，世界的财富也随之增加。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2001-text4-s14",
+      "s": "Examples of benefits or costs of the current concentration wave are scanty.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Examples",
+        "谓语": "are",
+        "宾语或表语": "scanty",
+        "主干翻译": "例子是稀少的。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "of benefits or costs of the current concentration wave",
+          "修饰对象": "Examples",
+          "中文翻译": "当前集中浪潮带来的利益或代价的",
+          "说明": "介词短语作定语修饰Examples；of the current concentration wave进一步修饰benefits or costs。"
+        }
+      ],
+      "zh": "有关当前集中浪潮所带来利益或代价的例子十分稀少。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2001-text4-s15",
+      "s": "Yet it is hard to imagine that the merger of a few oil firms today could re-create the same threats to competition that were feared nearly a century ago in the U.S., when the Standard Oil trust was broken up.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "it",
+        "谓语": "is",
+        "宾语或表语": "hard",
+        "主干翻译": "（要……）是困难的。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to imagine that the merger of a few oil firms today could re-create the same threats to competition that were feared nearly a century ago in the U.S., when the Standard Oil trust was broken up",
+          "修饰对象": "hard",
+          "中文翻译": "去想象如今几家石油公司的合并会重新造成那些威胁",
+          "说明": "it为形式主语，to imagine...为真正主语（不定式短语），本句为It is hard to do结构。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that the merger of a few oil firms today could re-create the same threats to competition that were feared nearly a century ago in the U.S., when the Standard Oil trust was broken up",
+          "修饰对象": "imagine",
+          "中文翻译": "如今几家石油公司的合并会重新造成那些大约一个世纪前在美国曾令人担忧的对竞争的威胁",
+          "说明": "that引导imagine的宾语从句；从句主语the merger，谓语could re-create，宾语the same threats。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that were feared nearly a century ago in the U.S.",
+          "修饰对象": "threats",
+          "中文翻译": "大约一个世纪前在美国曾令人担忧的",
+          "说明": "that引导定语从句修饰the same threats。"
+        },
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "when the Standard Oil trust was broken up",
+          "修饰对象": "feared",
+          "中文翻译": "当时标准石油托拉斯被拆分",
+          "说明": "when引导时间状语从句，修饰were feared，点明那一时间背景。"
+        }
+      ],
+      "zh": "然而，很难想象如今几家石油公司的合并会重新造成那些威胁，即大约一个世纪前在美国标准石油托拉斯被拆分时人们所担忧的对竞争的威胁。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2001-text4-s16",
+      "s": "The mergers of telecom companies, such as WorldCom, hardly seem to bring higher prices for consumers or a reduction in the pace of technical progress.",
+      "para_no": 4,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "The mergers of telecom companies",
+        "谓语": "hardly seem to bring",
+        "宾语或表语": "higher prices or a reduction",
+        "主干翻译": "电信公司的合并似乎几乎不会带来更高的价格或放缓。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "such as WorldCom",
+          "修饰对象": "companies",
+          "中文翻译": "例如世通公司",
+          "说明": "such as引导举例插入语，对telecom companies举例说明。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to bring higher prices for consumers or a reduction in the pace of technical progress",
+          "修饰对象": "seem",
+          "中文翻译": "给消费者带来更高的价格或使技术进步步伐放缓",
+          "说明": "不定式作seem的补足成分（seem to do结构）。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "a reduction in the pace of technical progress",
+          "修饰对象": "prices",
+          "中文翻译": "技术进步步伐的放缓",
+          "说明": "or连接的并列宾语，与higher prices并列，同作bring的宾语；in the pace of technical progress为介词短语作定语修饰reduction。"
+        }
+      ],
+      "zh": "诸如世通公司之类的电信公司合并，似乎几乎不会给消费者带来更高的价格，也不会使技术进步的步伐放缓。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2001-text4-s17",
+      "s": "On the contrary, the price of communications is coming down fast.",
+      "para_no": 4,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "the price of communications",
+        "谓语": "is coming down",
+        "宾语或表语": "—",
+        "主干翻译": "通信价格正在快速下降。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "On the contrary",
+          "修饰对象": "—",
+          "中文翻译": "相反",
+          "说明": "句首插入语，表示与前文相反的转折关系。"
+        },
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "of communications",
+          "修饰对象": "price",
+          "中文翻译": "通信的",
+          "说明": "介词短语作定语修饰price。"
+        }
+      ],
+      "zh": "相反，通信价格正在迅速下降。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2001-text4-s18",
+      "s": "In cars, too, concentration is increasing—witness Daimler and Chrysler, Renault and Nissan-but it does not appear that consumers are being hurt.",
+      "para_no": 4,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "concentration",
+        "谓语": "is increasing",
+        "宾语或表语": "—",
+        "主干翻译": "（汽车业的）集中正在加剧。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "too",
+          "修饰对象": "—",
+          "中文翻译": "也",
+          "说明": "插入语，表'同样、也'，与前文情形呼应。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "In cars",
+          "修饰对象": "is increasing",
+          "中文翻译": "在汽车业",
+          "说明": "范围/领域状语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "witness Daimler and Chrysler, Renault and Nissan",
+          "修饰对象": "increasing",
+          "中文翻译": "试看戴姆勒与克莱斯勒、雷诺与日产（的合并）",
+          "说明": "破折号后的祈使插入式举例成分witness（试看、可见证）引出例证，与前句以破折号衔接。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "Renault and Nissan",
+          "修饰对象": "Daimler",
+          "中文翻译": "雷诺与日产",
+          "说明": "与Daimler and Chrysler并列，列举集中加剧的实例。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "it does not appear that consumers are being hurt",
+          "修饰对象": "increasing",
+          "中文翻译": "但似乎消费者并未受到损害",
+          "说明": "but连接的并列分句，与前一分句构成转折并列；it为形式主语。"
+        },
+        {
+          "成分类型": "主语从句",
+          "原文": "that consumers are being hurt",
+          "修饰对象": "appear",
+          "中文翻译": "消费者正在受到损害",
+          "说明": "that引导主语从句，it为其形式主语（It does not appear that...结构）。"
+        }
+      ],
+      "zh": "在汽车业，集中程度同样在加剧——试看戴姆勒与克莱斯勒、雷诺与日产的合并——但消费者似乎并未因此受到损害。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2001-text4-s19",
+      "s": "Yet the fact remains that the merger movement must be watched.",
+      "para_no": 5,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "the fact",
+        "谓语": "remains",
+        "宾语或表语": "that...（同位语从句）",
+        "主干翻译": "事实依然是……。"
+      },
+      "components": [
+        {
+          "成分类型": "同位语从句",
+          "原文": "that the merger movement must be watched",
+          "修饰对象": "fact",
+          "中文翻译": "并购运动必须受到密切关注",
+          "说明": "that引导同位语从句，说明the fact的具体内容（此处因remains隔开，为分隔式同位语从句）。"
+        }
+      ],
+      "zh": "然而，事实依然如此：并购运动必须受到密切关注。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2001-text4-s20",
+      "s": "A few weeks ago, Alan Greenspan warned against the megamergers in the banking industry.",
+      "para_no": 5,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Alan Greenspan",
+        "谓语": "warned against",
+        "宾语或表语": "the megamergers",
+        "主干翻译": "艾伦·格林斯潘对超大型合并提出了警告。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "A few weeks ago",
+          "修饰对象": "warned",
+          "中文翻译": "几周前",
+          "说明": "时间状语。"
+        },
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "in the banking industry",
+          "修饰对象": "megamergers",
+          "中文翻译": "银行业的",
+          "说明": "介词短语作定语修饰megamergers。"
+        }
+      ],
+      "zh": "几周前，艾伦·格林斯潘对银行业的超大型合并提出了警告。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2001-text4-s21",
+      "s": "Who is going to supervise, regulate and operate as lender of last resort with the gigantic banks that are being created?",
+      "para_no": 5,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Who",
+        "谓语": "is going to supervise, regulate and operate",
+        "宾语或表语": "—",
+        "主干翻译": "谁来监管、调控和运作？"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to supervise, regulate and operate as lender of last resort with the gigantic banks that are being created",
+          "修饰对象": "going",
+          "中文翻译": "监管、调控并充当最后贷款人来应对正在形成的巨型银行",
+          "说明": "be going to do结构中的不定式；as lender of last resort为方式状语，意为'作为最后贷款人'。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "regulate and operate as lender of last resort with the gigantic banks that are being created",
+          "修饰对象": "supervise",
+          "中文翻译": "调控并充当最后贷款人来应对正在形成的巨型银行",
+          "说明": "与supervise并列的并列谓语动词。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "operate as lender of last resort with the gigantic banks that are being created",
+          "修饰对象": "regulate",
+          "中文翻译": "作为最后贷款人来运作应对正在形成的巨型银行",
+          "说明": "与regulate并列的第三个并列谓语动词。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that are being created",
+          "修饰对象": "banks",
+          "中文翻译": "正在形成的",
+          "说明": "that引导定语从句修饰the gigantic banks。"
+        }
+      ],
+      "zh": "面对正在形成的这些巨型银行，谁来对其进行监管、调控，并充当其最后贷款人呢？",
+      "underline": null
+    },
+    {
+      "sid": "en1-2001-text4-s22",
+      "s": "Won't multinationals shift production from one place to another when a nation gets too strict about infringements to fair competition?",
+      "para_no": 5,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "multinationals",
+        "谓语": "Won't ... shift",
+        "宾语或表语": "production",
+        "主干翻译": "跨国公司难道不会转移生产吗？"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "from one place to another",
+          "修饰对象": "shift",
+          "中文翻译": "从一地转移到另一地",
+          "说明": "方向/处所状语，说明shift production的去向。"
+        },
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "when a nation gets too strict about infringements to fair competition",
+          "修饰对象": "shift",
+          "中文翻译": "当某个国家对侵害公平竞争的行为管得过严时",
+          "说明": "when引导时间状语从句（兼含条件意味），about infringements to fair competition为介词短语作状语。"
+        }
+      ],
+      "zh": "当某个国家对侵害公平竞争的行为管制过严时，跨国公司难道不会把生产从一地转移到另一地吗？",
+      "underline": null
+    },
+    {
+      "sid": "en1-2001-text4-s23",
+      "s": "And should one country take upon itself the role of \"defending competition\" on issues that affect many other nations, as in the U.S. vs. Microsoft case?",
+      "para_no": 5,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "one country",
+        "谓语": "should ... take upon itself",
+        "宾语或表语": "the role",
+        "主干翻译": "一个国家是否应当承担起这一角色？"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "of \"defending competition\"",
+          "修饰对象": "role",
+          "中文翻译": "\"捍卫竞争\"的",
+          "说明": "介词短语作定语修饰the role，说明角色的内容。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "on issues",
+          "修饰对象": "defending",
+          "中文翻译": "在某些问题上",
+          "说明": "介词短语作状语，限定'捍卫竞争'所涉及的问题范围。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that affect many other nations",
+          "修饰对象": "issues",
+          "中文翻译": "影响许多其他国家的",
+          "说明": "that引导定语从句修饰issues。"
+        },
+        {
+          "成分类型": "状语从句(方式)",
+          "原文": "as in the U.S. vs. Microsoft case",
+          "修饰对象": "take",
+          "中文翻译": "如同在美国诉微软案中那样",
+          "说明": "as引导方式状语（省略式比较/方式），举例类比；此处为省略结构（as it did in...）。"
+        }
+      ],
+      "zh": "在那些影响许多其他国家的问题上，一个国家是否应当像在美国诉微软案中那样，自行承担起\"捍卫竞争\"的角色呢？",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2001-text4-s1",
+        "en1-2001-text4-s2",
+        "en1-2001-text4-s3",
+        "en1-2001-text4-s4"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2001-text4-s5",
+        "en1-2001-text4-s6",
+        "en1-2001-text4-s7",
+        "en1-2001-text4-s8",
+        "en1-2001-text4-s9",
+        "en1-2001-text4-s10"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2001-text4-s11",
+        "en1-2001-text4-s12",
+        "en1-2001-text4-s13"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2001-text4-s14",
+        "en1-2001-text4-s15",
+        "en1-2001-text4-s16",
+        "en1-2001-text4-s17",
+        "en1-2001-text4-s18"
+      ]
+    },
+    {
+      "para_no": 5,
+      "sids": [
+        "en1-2001-text4-s19",
+        "en1-2001-text4-s20",
+        "en1-2001-text4-s21",
+        "en1-2001-text4-s22",
+        "en1-2001-text4-s23"
+      ]
+    }
+  ]
+}

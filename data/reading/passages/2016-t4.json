@@ -1,0 +1,950 @@
+{
+  "exam": "en1",
+  "key": "2016-t4",
+  "year": 2016,
+  "text_no": 4,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2016-text4-s1",
+      "s": "There will eventually come a day when The New York Times ceases to publish stories on newsprint.",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "a day",
+        "谓语": "will come",
+        "宾语或表语": "—",
+        "主干翻译": "终将有一天会到来。"
+      },
+      "components": [
+        {
+          "成分类型": "倒装",
+          "原文": "There will eventually come a day",
+          "修饰对象": "—",
+          "中文翻译": "终将有一天到来",
+          "说明": "there引导的存在句式倒装，真正主语a day后置于谓语will come之后。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "when The New York Times ceases to publish stories on newsprint",
+          "修饰对象": "day",
+          "中文翻译": "《纽约时报》不再用新闻纸印刷报道（的那一天）",
+          "说明": "when引导定语从句修饰先行词day，when在从句中作时间状语。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to publish stories on newsprint",
+          "修饰对象": "ceases",
+          "中文翻译": "用新闻纸印刷报道",
+          "说明": "动词不定式作cease的宾语/补足成分，on newsprint为介词短语作方式状语。"
+        }
+      ],
+      "zh": "终将有一天，《纽约时报》会不再用新闻纸印刷报道。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text4-s2",
+      "s": "Exactly when that day will be is a matter of debate.",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Exactly when that day will be",
+        "谓语": "is",
+        "宾语或表语": "a matter of debate",
+        "主干翻译": "（某事）是一个有争议的问题。"
+      },
+      "components": [
+        {
+          "成分类型": "主语从句",
+          "原文": "Exactly when that day will be",
+          "修饰对象": "—",
+          "中文翻译": "那一天究竟会是什么时候",
+          "说明": "when引导的主语从句，整体作句子主语，Exactly为强调副词。"
+        }
+      ],
+      "zh": "那一天究竟会在何时到来，是一个有争议的问题。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text4-s3",
+      "s": "\"Sometime in the future,\" the paper's publisher said back in 2010.",
+      "para_no": 1,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "the paper's publisher",
+        "谓语": "said",
+        "宾语或表语": "Sometime in the future",
+        "主干翻译": "该报的出版人说\"未来某个时候\"。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "back in 2010",
+          "修饰对象": "said",
+          "中文翻译": "早在2010年",
+          "说明": "时间状语，修饰said，交代说话时间。"
+        }
+      ],
+      "zh": "\"未来的某个时候，\"该报出版人早在2010年就这样说过。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text4-s4",
+      "s": "Nostalgia for ink on paper and the rustle of pages aside, there's plenty of incentive to ditch print.",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "plenty of incentive",
+        "谓语": "there's",
+        "宾语或表语": "—",
+        "主干翻译": "有大量的动因。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "Nostalgia for ink on paper and the rustle of pages aside",
+          "修饰对象": "there's",
+          "中文翻译": "撇开对纸上油墨和翻页沙沙声的怀念不谈",
+          "说明": "aside构成独立结构作让步性插入语，置于句首。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "ink on paper and the rustle of pages",
+          "修饰对象": "Nostalgia",
+          "中文翻译": "纸上的油墨和翻页的沙沙声",
+          "说明": "and连接两个并列的介词宾语，均为Nostalgia for的怀念对象。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to ditch print",
+          "修饰对象": "incentive",
+          "中文翻译": "放弃纸质印刷的",
+          "说明": "动词不定式作后置定语，修饰incentive。"
+        }
+      ],
+      "zh": "撇开对纸上油墨和翻页沙沙声的怀念不谈，放弃纸质印刷有着大量充足的理由。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text4-s5",
+      "s": "The infrastructure required to make a physical newspaper—printing presses, delivery trucks—isn't just expensive; it's excessive at a time when online-only competitors don't have the same set of financial constraints.",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "The infrastructure",
+        "谓语": "isn't / it's",
+        "宾语或表语": "expensive / excessive",
+        "主干翻译": "基础设施不仅昂贵；它还过度奢侈。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "required to make a physical newspaper",
+          "修饰对象": "infrastructure",
+          "中文翻译": "制作一份实体报纸所需要的",
+          "说明": "过去分词短语作后置定语修饰infrastructure。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to make a physical newspaper",
+          "修饰对象": "required",
+          "中文翻译": "制作一份实体报纸",
+          "说明": "不定式作目的状语，承接required，表示为何而需要。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "printing presses, delivery trucks",
+          "修饰对象": "infrastructure",
+          "中文翻译": "印刷机、运货卡车",
+          "说明": "破折号间的同位语，举例说明infrastructure的具体内容，作插入成分。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "when online-only competitors don't have the same set of financial constraints",
+          "修饰对象": "time",
+          "中文翻译": "纯线上竞争对手没有同样一套财务约束（的时候）",
+          "说明": "when引导定语从句修饰先行词time，when在从句中作时间状语。"
+        }
+      ],
+      "zh": "制作一份实体报纸所需的基础设施——印刷机、运货卡车——不仅昂贵，而且在纯线上竞争对手并不受同样一套财务约束的当下，它更显得过度奢侈。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text4-s6",
+      "s": "Readers are migrating away from print anyway.",
+      "para_no": 2,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Readers",
+        "谓语": "are migrating",
+        "宾语或表语": "—",
+        "主干翻译": "读者正在迁移。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "away from print",
+          "修饰对象": "are migrating",
+          "中文翻译": "远离纸质版",
+          "说明": "介词短语作方向状语，修饰migrating；anyway为语气副词，意为\"无论如何\"。"
+        }
+      ],
+      "zh": "无论如何，读者们正在不断地远离纸质版报纸。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text4-s7",
+      "s": "And though print ad sales still dwarf their online and mobile counterparts, revenue from print is still declining.",
+      "para_no": 2,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "revenue",
+        "谓语": "is declining",
+        "宾语或表语": "—",
+        "主干翻译": "收入仍在下降。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(让步)",
+          "原文": "though print ad sales still dwarf their online and mobile counterparts",
+          "修饰对象": "declining",
+          "中文翻译": "尽管纸质广告销售额仍使其线上和移动端的同类相形见绌",
+          "说明": "though引导让步状语从句，dwarf意为\"使相形见绌\"。"
+        },
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "from print",
+          "修饰对象": "revenue",
+          "中文翻译": "来自纸质版的",
+          "说明": "介词短语作后置定语，修饰revenue。"
+        }
+      ],
+      "zh": "尽管纸质广告的销售额仍让其线上和移动端的同类相形见绌，但来自纸质版的收入仍在持续下降。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text4-s8",
+      "s": "Overhead may be high and circulation lower, but rushing to eliminate its print edition would be a mistake, says BuzzFeed CEO Jonah Peretti.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "BuzzFeed CEO Jonah Peretti",
+        "谓语": "says",
+        "宾语或表语": "(宾语从句)",
+        "主干翻译": "BuzzFeed首席执行官乔纳·佩雷蒂说……"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "Overhead may be high and circulation lower, but rushing to eliminate its print edition would be a mistake",
+          "修饰对象": "says",
+          "中文翻译": "管理费用可能很高、发行量可能更低，但匆忙取消其纸质版会是一个错误",
+          "说明": "前置的宾语从句，句尾says BuzzFeed CEO Jonah Peretti为倒装的引述。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "Overhead may be high and circulation lower",
+          "修饰对象": "—",
+          "中文翻译": "管理费用可能很高，发行量可能更低",
+          "说明": "and连接两个并列分句，后一分句省略may be。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "but rushing to eliminate its print edition would be a mistake",
+          "修饰对象": "—",
+          "中文翻译": "但匆忙取消其纸质版会是个错误",
+          "说明": "but引导转折并列分句，动名词rushing...作主语。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to eliminate its print edition",
+          "修饰对象": "rushing",
+          "中文翻译": "取消其纸质版",
+          "说明": "不定式承接rushing，说明匆忙去做的具体事情。"
+        }
+      ],
+      "zh": "BuzzFeed首席执行官乔纳·佩雷蒂说，管理费用可能很高、发行量可能更低，但匆忙取消其纸质版将会是一个错误。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text4-s9",
+      "s": "Peretti says the Times shouldn't waste time getting out of the print business, but only if they go about doing it the right way.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Peretti",
+        "谓语": "says",
+        "宾语或表语": "(宾语从句)",
+        "主干翻译": "佩雷蒂说……"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "the Times shouldn't waste time getting out of the print business, but only if they go about doing it the right way",
+          "修饰对象": "says",
+          "中文翻译": "《纽约时报》不应在退出纸质业务上浪费时间，但前提是他们以正确的方式去做",
+          "说明": "say的宾语从句，省略了that。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "getting out of the print business",
+          "修饰对象": "waste",
+          "中文翻译": "退出纸质业务（这件事上）",
+          "说明": "动名词短语，承接waste time，说明在何事上浪费时间。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "but only if they go about doing it the right way",
+          "修饰对象": "—",
+          "中文翻译": "但前提是他们以正确的方式去做",
+          "说明": "but连接的转折并列成分，对前句加以限定。"
+        },
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "if they go about doing it the right way",
+          "修饰对象": "—",
+          "中文翻译": "如果他们以正确的方式去做的话",
+          "说明": "if引导条件状语从句，only强调唯一条件。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "doing it the right way",
+          "修饰对象": "go",
+          "中文翻译": "以正确的方式去做这件事",
+          "说明": "go about doing固定搭配，动名词作go about的宾语。"
+        }
+      ],
+      "zh": "佩雷蒂说，《纽约时报》不应在退出纸质业务上浪费时间，但前提是他们要以正确的方式去做。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text4-s10",
+      "s": "\"Figuring out a way to accelerate that transition would make sense for them,\" he said, \"but if you discontinue it, you're going to have your most loyal customers really upset with you.\"",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Figuring out a way / you",
+        "谓语": "would make / are going to have",
+        "宾语或表语": "sense / customers upset",
+        "主干翻译": "想出一个办法会有意义；但如果停掉，你会让顾客很不满。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作主语",
+          "原文": "Figuring out a way to accelerate that transition",
+          "修饰对象": "—",
+          "中文翻译": "想出一个加速那种转变的办法",
+          "说明": "动名词短语作前一分句主语（归入此节点说明）。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "to accelerate that transition",
+          "修饰对象": "way",
+          "中文翻译": "加速那种转变的",
+          "说明": "不定式作后置定语修饰way。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "but if you discontinue it, you're going to have your most loyal customers really upset with you",
+          "修饰对象": "—",
+          "中文翻译": "但如果你停掉它，你会让你最忠实的顾客对你非常不满",
+          "说明": "but连接的转折并列分句。"
+        },
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "if you discontinue it",
+          "修饰对象": "going",
+          "中文翻译": "如果你把它停掉",
+          "说明": "if引导条件状语从句，修饰主句going to have。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to have your most loyal customers really upset with you",
+          "修饰对象": "going",
+          "中文翻译": "让你最忠实的顾客对你非常不满",
+          "说明": "be going to后的不定式，构成将来时谓语。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "your most loyal customers really upset with you",
+          "修饰对象": "have",
+          "中文翻译": "你最忠实的顾客对你非常不满",
+          "说明": "have的复合宾语（宾语+宾补upset），此处按提示归为宾语成分。"
+        }
+      ],
+      "zh": "他说：\"想出一个办法来加速那种转变，对他们是有意义的，但如果你直接停掉它，你就会让你最忠实的顾客对你非常不满。\"",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text4-s11",
+      "s": "Sometimes that's worth making a change anyway.",
+      "para_no": 5,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "that",
+        "谓语": "'s",
+        "宾语或表语": "worth making a change",
+        "主干翻译": "那也值得做出改变。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "making a change",
+          "修饰对象": "worth",
+          "中文翻译": "做出改变",
+          "说明": "动名词作worth的宾语，构成worth doing结构；Sometimes、anyway为状语副词。"
+        }
+      ],
+      "zh": "有时候，无论如何那也值得去做出改变。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text4-s12",
+      "s": "Peretti gives the example of Netflix discontinuing its DVD–mailing service to focus on streaming.",
+      "para_no": 5,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Peretti",
+        "谓语": "gives",
+        "宾语或表语": "the example",
+        "主干翻译": "佩雷蒂举了一个例子。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "of Netflix discontinuing its DVD–mailing service",
+          "修饰对象": "example",
+          "中文翻译": "网飞停止其DVD邮寄服务的",
+          "说明": "of介词短语作后置定语，Netflix为动名词discontinuing的逻辑主语。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to focus on streaming",
+          "修饰对象": "discontinuing",
+          "中文翻译": "以专注于流媒体",
+          "说明": "不定式作目的状语，说明停止服务的目的。"
+        }
+      ],
+      "zh": "佩雷蒂举了网飞为专注于流媒体而停止其DVD邮寄服务的例子。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text4-s13",
+      "s": "\"It was seen as a blunder,\" he said.",
+      "para_no": 5,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "he",
+        "谓语": "said",
+        "宾语或表语": "(宾语从句)",
+        "主干翻译": "他说……"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "It was seen as a blunder",
+          "修饰对象": "said",
+          "中文翻译": "它被视为一个失误",
+          "说明": "前置的直接引语作said的宾语，be seen as意为\"被看作\"。"
+        }
+      ],
+      "zh": "\"它当时被看作是一个失误，\"他说。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text4-s14",
+      "s": "The move turned out to be foresighted.",
+      "para_no": 5,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "The move",
+        "谓语": "turned out",
+        "宾语或表语": "to be foresighted",
+        "主干翻译": "这一举措结果证明是有远见的。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to be foresighted",
+          "修饰对象": "turned",
+          "中文翻译": "是有远见的",
+          "说明": "不定式作turn out的补足成分，构成turn out to be结构。"
+        }
+      ],
+      "zh": "事实证明，这一举措是颇有远见的。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text4-s15",
+      "s": "And if Peretti were in charge at the Times?",
+      "para_no": 5,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "Peretti",
+        "谓语": "were",
+        "宾语或表语": "in charge",
+        "主干翻译": "（要是）佩雷蒂主管……？"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "if Peretti were in charge at the Times",
+          "修饰对象": "—",
+          "中文翻译": "如果佩雷蒂在《纽约时报》掌管大局",
+          "说明": "if引导虚拟条件状语从句，were表虚拟语气；全句为省略主句的疑问设问。"
+        }
+      ],
+      "zh": "那么，假如佩雷蒂在《纽约时报》掌管大局，他会怎么做呢？",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text4-s16",
+      "s": "\"I wouldn't pick a year to end print,\" he said.",
+      "para_no": 5,
+      "para_seq": 5,
+      "trunk": {
+        "主语": "I",
+        "谓语": "wouldn't pick",
+        "宾语或表语": "a year",
+        "主干翻译": "我不会挑定某一年。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "I wouldn't pick a year to end print",
+          "修饰对象": "said",
+          "中文翻译": "我不会挑定某一年来终结纸质版",
+          "说明": "前置的直接引语作said的宾语。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "to end print",
+          "修饰对象": "year",
+          "中文翻译": "终结纸质版的",
+          "说明": "不定式作后置定语修饰year。"
+        }
+      ],
+      "zh": "\"我不会挑定某一年来终结纸质版，\"他说。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text4-s17",
+      "s": "\"I would raise prices and make it into more of a legacy product.\"",
+      "para_no": 5,
+      "para_seq": 6,
+      "trunk": {
+        "主语": "I",
+        "谓语": "would raise / make",
+        "宾语或表语": "prices / it",
+        "主干翻译": "我会提高价格，并把它变成更具传承意味的产品。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "raise prices and make it into more of a legacy product",
+          "修饰对象": "—",
+          "中文翻译": "提高价格并把它变成更像传承遗产的产品",
+          "说明": "and连接两个并列谓语raise和make，共用主语I would。"
+        }
+      ],
+      "zh": "\"我会提高价格，并把它变成更具传承意味的产品。\"",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text4-s18",
+      "s": "The most loyal customers would still get the product they favor, the idea goes, and they'd feel like they were helping sustain the quality of something they believe in.",
+      "para_no": 6,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The most loyal customers / they",
+        "谓语": "would get / 'd feel",
+        "宾语或表语": "the product / like...",
+        "主干翻译": "最忠实的顾客仍能得到他们喜爱的产品，而且他们会觉得……"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "they favor",
+          "修饰对象": "product",
+          "中文翻译": "他们喜爱的",
+          "说明": "省略关系代词that的定语从句修饰product。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "the idea goes",
+          "修饰对象": "—",
+          "中文翻译": "这种想法是这样的",
+          "说明": "插入语，表明这是一种设想/说法。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "and they'd feel like they were helping sustain the quality of something they believe in",
+          "修饰对象": "—",
+          "中文翻译": "并且他们会感觉自己在帮助维持他们所信赖之物的品质",
+          "说明": "and连接的并列分句。"
+        },
+        {
+          "成分类型": "状语从句(方式)",
+          "原文": "like they were helping sustain the quality of something they believe in",
+          "修饰对象": "feel",
+          "中文翻译": "好像自己正在帮助维持他们所信赖之物的品质",
+          "说明": "like引导方式状语从句（口语中相当于as if），修饰feel。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "sustain the quality of something they believe in",
+          "修饰对象": "helping",
+          "中文翻译": "维持他们所信赖之物的品质",
+          "说明": "help后省略to的动词原形，作helping的宾语。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "they believe in",
+          "修饰对象": "something",
+          "中文翻译": "他们所信赖的",
+          "说明": "省略关系代词的定语从句修饰something。"
+        }
+      ],
+      "zh": "按这种设想，最忠实的顾客仍能得到他们喜爱的产品，而且他们会觉得自己是在帮助维系自己所信赖之物的品质。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text4-s19",
+      "s": "\"So if you're overpaying for print, you could feel like you were helping,\" Peretti said.",
+      "para_no": 6,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "you",
+        "谓语": "could feel",
+        "宾语或表语": "like...",
+        "主干翻译": "你会觉得（自己在出力）。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "if you're overpaying for print",
+          "修饰对象": "feel",
+          "中文翻译": "如果你为纸质版多付了钱",
+          "说明": "if引导条件状语从句，修饰主句could feel。"
+        },
+        {
+          "成分类型": "状语从句(方式)",
+          "原文": "like you were helping",
+          "修饰对象": "feel",
+          "中文翻译": "好像你正在出一份力",
+          "说明": "like引导方式状语从句（相当于as if），修饰feel。"
+        }
+      ],
+      "zh": "\"所以，如果你为纸质版多付了钱，你会感觉自己是在帮忙出力，\"佩雷蒂说。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text4-s20",
+      "s": "\"Then increase it at a higher rate each year and essentially try to generate additional revenue.\"",
+      "para_no": 6,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "(you)",
+        "谓语": "increase / try",
+        "宾语或表语": "it / to generate...",
+        "主干翻译": "然后（你）逐年以更高幅度涨价，本质上设法创造额外收入。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "increase it at a higher rate each year and essentially try to generate additional revenue",
+          "修饰对象": "—",
+          "中文翻译": "每年以更高的幅度涨价，并实质上设法创造额外的收入",
+          "说明": "and连接两个并列祈使谓语increase和try。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to generate additional revenue",
+          "修饰对象": "try",
+          "中文翻译": "去创造额外的收入",
+          "说明": "不定式作try的宾语，构成try to do结构。"
+        }
+      ],
+      "zh": "\"然后每年以更高的幅度涨价，本质上就是设法创造额外的收入。\"",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text4-s21",
+      "s": "In other words, if you're going to make a print product, make it for the people who are already obsessed with it.",
+      "para_no": 6,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "(you)",
+        "谓语": "make",
+        "宾语或表语": "it",
+        "主干翻译": "（就）为那些人去制作它。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "if you're going to make a print product",
+          "修饰对象": "make",
+          "中文翻译": "如果你打算做一款纸质产品",
+          "说明": "if引导条件状语从句，修饰主句祈使句make it。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to make a print product",
+          "修饰对象": "going",
+          "中文翻译": "做一款纸质产品",
+          "说明": "be going to后的不定式，构成将来意图。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "who are already obsessed with it",
+          "修饰对象": "people",
+          "中文翻译": "已经对它痴迷的",
+          "说明": "who引导定语从句修饰先行词people。"
+        }
+      ],
+      "zh": "换句话说，如果你打算做一款纸质产品，那就为那些已经痴迷于它的人去做。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text4-s22",
+      "s": "Which may be what the Times is doing already.",
+      "para_no": 6,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "Which",
+        "谓语": "may be",
+        "宾语或表语": "(表语从句)",
+        "主干翻译": "而这或许正是……"
+      },
+      "components": [
+        {
+          "成分类型": "表语从句",
+          "原文": "what the Times is doing already",
+          "修饰对象": "be",
+          "中文翻译": "《纽约时报》已经在做的事",
+          "说明": "what引导表语从句，Which作关系代词承接上句内容引出本句。"
+        }
+      ],
+      "zh": "而这或许正是《纽约时报》已经在做的事情。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text4-s23",
+      "s": "Getting the print edition seven days a week costs nearly $500 a year—more than twice as much as a digital–only subscription.",
+      "para_no": 6,
+      "para_seq": 5,
+      "trunk": {
+        "主语": "Getting the print edition seven days a week",
+        "谓语": "costs",
+        "宾语或表语": "nearly $500 a year",
+        "主干翻译": "一周七天都订阅纸质版每年要花将近500美元。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作主语",
+          "原文": "Getting the print edition seven days a week",
+          "修饰对象": "—",
+          "中文翻译": "一周七天都获取纸质版",
+          "说明": "动名词短语作句子主语。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "more than twice as much as a digital–only subscription",
+          "修饰对象": "$500",
+          "中文翻译": "是纯数字版订阅费的两倍多",
+          "说明": "破折号后的补充说明，对前面金额作比较，挂靠$500。"
+        }
+      ],
+      "zh": "一周七天都订阅纸质版，每年要花将近500美元——是纯数字版订阅费的两倍多。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text4-s24",
+      "s": "\"It's a really hard thing to do and it's a tremendous luxury that BuzzFeed doesn't have a legacy business,\" Peretti remarked.",
+      "para_no": 7,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "It / it",
+        "谓语": "'s / 's",
+        "宾语或表语": "a hard thing / a luxury",
+        "主干翻译": "这是一件很难做的事，而且是一种巨大的奢侈。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "to do",
+          "修饰对象": "thing",
+          "中文翻译": "做的",
+          "说明": "不定式作后置定语修饰thing，构成hard to do结构。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "it's a tremendous luxury that BuzzFeed doesn't have a legacy business",
+          "修饰对象": "—",
+          "中文翻译": "BuzzFeed没有传统遗留业务是一种巨大的幸运",
+          "说明": "and连接的并列分句，it为形式主语。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "that BuzzFeed doesn't have a legacy business",
+          "修饰对象": "luxury",
+          "中文翻译": "BuzzFeed没有传统遗留业务（这一点）",
+          "说明": "that引导从句，解释luxury的具体内容，it为形式主语而此从句为真正主语，按提示归为说明luxury的内容性从句。"
+        }
+      ],
+      "zh": "\"这是一件很难做的事，而BuzzFeed没有需要背负的传统遗留业务，这是一种巨大的幸运，\"佩雷蒂评论道。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text4-s25",
+      "s": "\"But we're going to have questions like that where we have things we're doing that don't make sense when the market changes and the world changes.",
+      "para_no": 7,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "we",
+        "谓语": "'re going to have",
+        "宾语或表语": "questions",
+        "主干翻译": "我们将会遇到那样的问题。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to have questions like that where we have things we're doing that don't make sense when the market changes and the world changes",
+          "修饰对象": "going",
+          "中文翻译": "遇到那样的问题，即我们在做一些当市场和世界发生变化时就变得不合理的事情",
+          "说明": "be going to后的不定式构成将来时。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "where we have things we're doing that don't make sense when the market changes and the world changes",
+          "修饰对象": "that",
+          "中文翻译": "在其中我们做着一些（当市场和世界变化时）不合理的事情",
+          "说明": "where引导定语从句修饰指代questions的that。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "we're doing",
+          "修饰对象": "things",
+          "中文翻译": "我们正在做的",
+          "说明": "省略关系代词的定语从句修饰things。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that don't make sense when the market changes and the world changes",
+          "修饰对象": "things",
+          "中文翻译": "当市场和世界变化时就变得没有意义的",
+          "说明": "that引导定语从句修饰things。"
+        },
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "when the market changes and the world changes",
+          "修饰对象": "make",
+          "中文翻译": "当市场和世界发生变化时",
+          "说明": "when引导时间状语从句，修饰don't make sense。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "the market changes and the world changes",
+          "修饰对象": "—",
+          "中文翻译": "市场变化、世界变化",
+          "说明": "and连接时间从句内两个并列分句。"
+        }
+      ],
+      "zh": "\"但我们将会遇到诸如此类的问题：我们做着一些事情，而当市场和世界发生变化时，这些事情就变得不合理了。\"",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text4-s26",
+      "s": "In those situations, it's better to be more aggressive than less aggressive.\"",
+      "para_no": 7,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "it",
+        "谓语": "'s",
+        "宾语或表语": "better",
+        "主干翻译": "更明智的做法是更具进取心。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作主语",
+          "原文": "to be more aggressive than less aggressive",
+          "修饰对象": "—",
+          "中文翻译": "更具进取心而非畏缩保守",
+          "说明": "不定式作真正主语，it为形式主语；than引出比较。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "In those situations",
+          "修饰对象": "'s",
+          "中文翻译": "在那些情况下",
+          "说明": "介词短语作状语，置于句首交代条件背景。"
+        }
+      ],
+      "zh": "\"在那些情况下，更具进取心要好过畏缩保守。\"",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2016-text4-s1",
+        "en1-2016-text4-s2",
+        "en1-2016-text4-s3"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2016-text4-s4",
+        "en1-2016-text4-s5",
+        "en1-2016-text4-s6",
+        "en1-2016-text4-s7"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2016-text4-s8"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2016-text4-s9",
+        "en1-2016-text4-s10"
+      ]
+    },
+    {
+      "para_no": 5,
+      "sids": [
+        "en1-2016-text4-s11",
+        "en1-2016-text4-s12",
+        "en1-2016-text4-s13",
+        "en1-2016-text4-s14",
+        "en1-2016-text4-s15",
+        "en1-2016-text4-s16",
+        "en1-2016-text4-s17"
+      ]
+    },
+    {
+      "para_no": 6,
+      "sids": [
+        "en1-2016-text4-s18",
+        "en1-2016-text4-s19",
+        "en1-2016-text4-s20",
+        "en1-2016-text4-s21",
+        "en1-2016-text4-s22",
+        "en1-2016-text4-s23"
+      ]
+    },
+    {
+      "para_no": 7,
+      "sids": [
+        "en1-2016-text4-s24",
+        "en1-2016-text4-s25",
+        "en1-2016-text4-s26"
+      ]
+    }
+  ]
+}

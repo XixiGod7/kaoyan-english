@@ -1,0 +1,122 @@
+{
+  "tasks": [
+    {
+      "content_json": {
+        "41": "content_1_3",
+        "42": "content_2_4",
+        "43": "content_3_3",
+        "44": "content_4_2",
+        "45": "content_5_2",
+        "article": "How does your reading proceed?\nClearly you try to comprehend, in the sense of identifying meanings for individual words and working out relationships between them, drawing on your implicit knowledge of English grammar.\nYou begin to infer a context for the text, for instance, by making decisions about what kind of speech event is involved: who is making the utterance, to whom, when and where.\nThe ways of reading indicated here are without doubt kinds of comprehension.\nBut they show comprehension to consist not just of passive assimilation but of active engagement in inference and problem-solving.\nYou infer information you feel the writer has invited you to grasp by presenting you with specific evidence and clues.\nConceived in this way, comprehension will not follow exactly the same track for each reader.\nWhat is in question is not the retrieval of an absolute, fixed or “true” meaning that can be read off and checked for accuracy, or some timeless relation of the text to the world.\nSuch background material inevitably reflects who we are.\nThis doesn’t, however, make interpretation merely relative or even pointless.\nPrecisely because readers from different historical periods, places and social experiences produce different but overlapping readings of the same words on the page — including for texts that engage with fundamental human concerns — debates about texts can play an important role in social discussion of beliefs and values.\nHow we read a given text also depends to some extent on our particular interest in reading it.\nSuch dimensions of reading suggest — as others introduced later in the book will also do — that we bring an implicit (often unacknowledged) agenda to any act of reading.\nIt doesn’t then necessarily follow that one kind of reading is fuller, more advanced and more worthwhile than another.\nIdeally, different kinds of reading inform each other, and act as useful reference points for and counterbalances to one another.\nTogether, they make up the reading component of your overall literacy, or relationship to your surrounding textual environment.",
+        "blanks": [
+          {
+            "blank_no": 41,
+            "block_position": "replace_whole",
+            "content_order_seq": "content_1_3",
+            "mode": "block"
+          },
+          {
+            "blank_no": 42,
+            "block_position": "replace_whole",
+            "content_order_seq": "content_2_4",
+            "mode": "block"
+          },
+          {
+            "blank_no": 43,
+            "block_position": "replace_whole",
+            "content_order_seq": "content_3_3",
+            "mode": "block"
+          },
+          {
+            "blank_no": 44,
+            "block_position": "replace_whole",
+            "content_order_seq": "content_4_2",
+            "mode": "block"
+          },
+          {
+            "blank_no": 45,
+            "block_position": "replace_whole",
+            "content_order_seq": "content_5_2",
+            "mode": "block"
+          }
+        ],
+        "option_labels": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ],
+        "questions": [
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "C",
+            "id": 41,
+            "qid": 2015011041,
+            "text": "Question 41",
+            "text_tokens": []
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "E",
+            "id": 42,
+            "qid": 2015011042,
+            "text": "Question 42",
+            "text_tokens": []
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "G",
+            "id": 43,
+            "qid": 2015011043,
+            "text": "Question 43",
+            "text_tokens": []
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "B",
+            "id": 44,
+            "qid": 2015011044,
+            "text": "Question 44",
+            "text_tokens": []
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "A",
+            "id": 45,
+            "qid": 2015011045,
+            "text": "Question 45",
+            "text_tokens": []
+          }
+        ]
+      },
+      "directions": "In the following text, some sentences have been removed. For Questions 41—45, choose the\nmost suitable one from the list A—G to fit into each of the numbered blanks. There are two\nextra choices, which do not fit in any of the blanks. Mark your answers on the ANSWER\nSHEET. (10 points)",
+      "exam_info": "2015(1)",
+      "exam_type": "kaoyan",
+      "id": 201501006,
+      "key_words": "content reading question block replace whole text comprehension different each one some act another any blanks doesn fit follow implicit infer kind kinds make making more points read same social such texts words absolute accuracy active advanced agenda answer answers assimilation background begin beliefs between book bring checked choices choose clearly clues component comprehend conceived concerns consist context counterbalances debates decisions depends dimensions discussion does doubt drawing engage engagement english environment even event evidence exactly experiences extent extra feel fixed",
+      "kid": 2,
+      "part": "Part III",
+      "section": "Sec B",
+      "task_key": "2015(1)_Section II_Part B",
+      "type": "Reading Comprehension"
+    }
+  ]
+}

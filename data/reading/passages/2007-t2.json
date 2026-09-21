@@ -1,0 +1,774 @@
+{
+  "exam": "en1",
+  "key": "2007-t2",
+  "year": 2007,
+  "text_no": 2,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2007-text2-s1",
+      "s": "For the past several years, the Sunday newspaper supplement Parade has featured a column called \"Ask Marilyn.\"",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "the Sunday newspaper supplement Parade",
+        "谓语": "has featured",
+        "宾语或表语": "a column",
+        "主干翻译": "周日报纸副刊《大观》一直刊登一个专栏。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "supplement Parade",
+          "修饰对象": "the Sunday newspaper",
+          "中文翻译": "副刊《大观》",
+          "说明": "Parade 是 supplement 的同位语，点明副刊名称。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "called \"Ask Marilyn.\"",
+          "修饰对象": "column",
+          "中文翻译": "名为\"问问玛丽莲\"的",
+          "说明": "过去分词短语作后置定语，修饰 column。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "For the past several years",
+          "修饰对象": "has featured",
+          "中文翻译": "在过去的几年里",
+          "说明": "时间状语，与现在完成时呼应。"
+        }
+      ],
+      "zh": "在过去的几年里，周日报纸副刊《大观》一直刊登一个名为\"问问玛丽莲\"的专栏。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2007-text2-s2",
+      "s": "People are invited to query Marilyn vos Savant, who at age 10 had tested at a mental level of someone about 23 years old; that gave her an IQ of 228—the highest score ever recorded.",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "People",
+        "谓语": "are invited",
+        "宾语或表语": "to query Marilyn vos Savant",
+        "主干翻译": "人们受邀向玛丽莲·沃斯·莎凡特提问。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to query Marilyn vos Savant",
+          "修饰对象": "are invited",
+          "中文翻译": "向玛丽莲·沃斯·莎凡特提问",
+          "说明": "不定式作 invited 的补足成分，表示被邀请去做的事。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "who at age 10 had tested at a mental level of someone about 23 years old",
+          "修饰对象": "Marilyn vos Savant",
+          "中文翻译": "她在10岁时的智力测试就已达到约23岁成人的水平",
+          "说明": "who 引导的非限制性定语从句，修饰先行词 Marilyn vos Savant。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "that gave her an IQ of 228",
+          "修饰对象": "—",
+          "中文翻译": "这使她的智商达到228",
+          "说明": "分号后的并列分句，that 指代前一情况，与前句构成并列。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "the highest score ever recorded",
+          "修饰对象": "228",
+          "中文翻译": "有记录以来的最高分",
+          "说明": "破折号引出的同位语，补充说明 228 这一分数。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "ever recorded",
+          "修饰对象": "score",
+          "中文翻译": "有记录以来的",
+          "说明": "过去分词短语作后置定语，修饰 score。"
+        }
+      ],
+      "zh": "人们受邀向玛丽莲·沃斯·莎凡特提问，她在10岁时的智力测试就已达到约23岁成人的水平；这使她的智商高达228——这是有记录以来的最高分。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2007-text2-s3",
+      "s": "IQ tests ask you to complete verbal and visual analogies, to envision paper after it has been folded and cut, and to deduce numerical sequences, among other similar tasks.",
+      "para_no": 1,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "IQ tests",
+        "谓语": "ask",
+        "宾语或表语": "you",
+        "主干翻译": "智商测试要求你（做某些事）。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to complete verbal and visual analogies",
+          "修饰对象": "ask",
+          "中文翻译": "完成文字和图形类比",
+          "说明": "不定式作 ask 的宾语补足语，第一项任务。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "to envision paper after it has been folded and cut",
+          "修饰对象": "to complete",
+          "中文翻译": "想象纸张被折叠和裁剪后的样子",
+          "说明": "与前一不定式并列的第二项任务。"
+        },
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "after it has been folded and cut",
+          "修饰对象": "envision",
+          "中文翻译": "在它被折叠和裁剪之后",
+          "说明": "after 引导时间状语从句，修饰 envision。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "to deduce numerical sequences",
+          "修饰对象": "to envision",
+          "中文翻译": "推断数列",
+          "说明": "由 and 连接的第三项并列不定式任务。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "among other similar tasks",
+          "修饰对象": "ask",
+          "中文翻译": "以及其他类似的任务",
+          "说明": "介词短语，概括补充上述各项任务之外还有同类任务。"
+        }
+      ],
+      "zh": "智商测试要求你完成文字和图形类比、想象纸张被折叠和裁剪后的样子、推断数列，以及完成其他类似的任务。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2007-text2-s4",
+      "s": "So it is a bit confusing when vos Savant fields such queries from the average Joe (whose IQ is 100) as, What's the difference between love and fondness?",
+      "para_no": 1,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "it",
+        "谓语": "is",
+        "宾语或表语": "a bit confusing",
+        "主干翻译": "这有点令人困惑。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "when vos Savant fields such queries from the average Joe (whose IQ is 100) as, What's the difference between love and fondness?",
+          "修饰对象": "is",
+          "中文翻译": "当沃斯·莎凡特应对来自智商为100的普通人提出的诸如\"爱与喜欢有何区别？\"之类的问题时",
+          "说明": "when 引导时间状语从句，此处 it 为形式主语指代该从句所述情形；such...as 为固定搭配引出例子。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "whose IQ is 100",
+          "修饰对象": "Joe",
+          "中文翻译": "其智商为100的",
+          "说明": "whose 引导定语从句，修饰 the average Joe（普通人）。"
+        }
+      ],
+      "zh": "因此，当沃斯·莎凡特应对来自智商仅为100的普通人提出的诸如\"爱与喜欢有何区别？\"之类的问题时，就显得有点令人费解了。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2007-text2-s5",
+      "s": "Or what is the nature of luck and coincidence?",
+      "para_no": 1,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "what",
+        "谓语": "is",
+        "宾语或表语": "the nature of luck and coincidence",
+        "主干翻译": "运气和巧合的本质是什么？"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "Or",
+          "修饰对象": "—",
+          "中文翻译": "或者",
+          "说明": "Or 表明本句与上一句的例子构成并列，承接前文的提问。"
+        }
+      ],
+      "zh": "又或者，运气和巧合的本质是什么？",
+      "underline": null
+    },
+    {
+      "sid": "en1-2007-text2-s6",
+      "s": "It's not obvious how the capacity to visualize objects and to figure out numerical patterns suits one to answer questions that have eluded some of the best poets and philosophers.",
+      "para_no": 1,
+      "para_seq": 5,
+      "trunk": {
+        "主语": "It",
+        "谓语": "is",
+        "宾语或表语": "not obvious",
+        "主干翻译": "（某事）并不明显。"
+      },
+      "components": [
+        {
+          "成分类型": "主语从句",
+          "原文": "how the capacity to visualize objects and to figure out numerical patterns suits one to answer questions that have eluded some of the best poets and philosophers",
+          "修饰对象": "It",
+          "中文翻译": "想象物体和找出数字规律的能力，如何能让一个人有资格回答那些连最杰出的诗人和哲学家都未能解答的问题",
+          "说明": "how 引导主语从句，It 为形式主语。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to visualize objects and to figure out numerical patterns",
+          "修饰对象": "capacity",
+          "中文翻译": "想象物体和找出数字规律的",
+          "说明": "不定式短语作后置定语，修饰 capacity。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "to figure out numerical patterns",
+          "修饰对象": "to visualize objects",
+          "中文翻译": "找出数字规律",
+          "说明": "由 and 连接，与 to visualize objects 并列充当 capacity 的定语。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to answer questions",
+          "修饰对象": "suits",
+          "中文翻译": "回答问题",
+          "说明": "不定式作 suits one 的补足成分，说明使人胜任之事。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that have eluded some of the best poets and philosophers",
+          "修饰对象": "questions",
+          "中文翻译": "那些连一些最杰出的诗人和哲学家都未能解答的",
+          "说明": "that 引导定语从句，修饰 questions。"
+        }
+      ],
+      "zh": "想象物体和找出数字规律的能力，如何能让一个人有资格去回答那些连最杰出的诗人和哲学家都未能解答的问题，这一点并不显而易见。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2007-text2-s7",
+      "s": "Clearly, intelligence encompasses more than a score on a test.",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "intelligence",
+        "谓语": "encompasses",
+        "宾语或表语": "more than a score on a test",
+        "主干翻译": "智力所涵盖的远不止考试分数。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "Clearly",
+          "修饰对象": "—",
+          "中文翻译": "显然",
+          "说明": "句首副词作评注性状语，对全句作出评价。"
+        },
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "on a test",
+          "修饰对象": "score",
+          "中文翻译": "考试的",
+          "说明": "介词短语作后置定语，修饰 score。"
+        }
+      ],
+      "zh": "显然，智力所涵盖的远不止一张考卷上的分数。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2007-text2-s8",
+      "s": "Just what does it mean to be smart?",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "it",
+        "谓语": "does mean",
+        "宾语或表语": "what",
+        "主干翻译": "这究竟意味着什么？"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to be smart",
+          "修饰对象": "mean",
+          "中文翻译": "聪明",
+          "说明": "不定式作真正主语，it 为形式主语，与 mean 构成\"意味着……\"的结构。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "Just",
+          "修饰对象": "what",
+          "中文翻译": "究竟",
+          "说明": "Just 加强疑问语气，修饰 what。"
+        }
+      ],
+      "zh": "那么，聪明究竟意味着什么呢？",
+      "underline": null
+    },
+    {
+      "sid": "en1-2007-text2-s9",
+      "s": "How much of intelligence can be specified, and how much can we learn about it from neurology, genetics, computer science and other fields?",
+      "para_no": 2,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "How much of intelligence",
+        "谓语": "can be specified",
+        "宾语或表语": "—",
+        "主干翻译": "智力中有多少能够被界定？"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "how much can we learn about it from neurology, genetics, computer science and other fields?",
+          "修饰对象": "—",
+          "中文翻译": "我们能从神经学、遗传学、计算机科学及其他领域了解到多少关于它的知识",
+          "说明": "由 and 连接的并列分句，与前一问句并列。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "genetics, computer science and other fields",
+          "修饰对象": "neurology",
+          "中文翻译": "遗传学、计算机科学及其他领域",
+          "说明": "与 neurology 并列，共同作介词 from 的宾语。"
+        }
+      ],
+      "zh": "智力中有多少能够被明确界定？我们又能从神经学、遗传学、计算机科学及其他领域了解到多少关于它的知识？",
+      "underline": null
+    },
+    {
+      "sid": "en1-2007-text2-s10",
+      "s": "The defining term of intelligence in humans still seems to be the IQ score, even though IQ tests are not given as often as they used to be.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The defining term of intelligence in humans",
+        "谓语": "seems to be",
+        "宾语或表语": "the IQ score",
+        "主干翻译": "人类智力的界定标准似乎仍是智商分数。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to be the IQ score",
+          "修饰对象": "seems",
+          "中文翻译": "是智商分数",
+          "说明": "不定式作 seems 的补足成分，构成系表结构 seems to be。"
+        },
+        {
+          "成分类型": "状语从句(让步)",
+          "原文": "even though IQ tests are not given as often as they used to be",
+          "修饰对象": "seems",
+          "中文翻译": "尽管智商测试如今的施测频率不如以往",
+          "说明": "even though 引导让步状语从句。"
+        },
+        {
+          "成分类型": "状语从句(比较)",
+          "原文": "as they used to be",
+          "修饰对象": "often",
+          "中文翻译": "像它们过去那样（频繁）",
+          "说明": "as...as 比较结构，第二个 as 引导比较状语从句，修饰 often。"
+        },
+        {
+          "成分类型": "省略",
+          "原文": "used to be",
+          "修饰对象": "—",
+          "中文翻译": "过去常常（被施测）",
+          "说明": "be 后省略 given，承前省略以避免重复。"
+        }
+      ],
+      "zh": "尽管如今智商测试的施测频率已不如以往，但人类智力的界定标准似乎依然是智商分数。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2007-text2-s11",
+      "s": "The test comes primarily in two forms: the Stanford-Binet Intelligence Scale and the Wechsler Intelligence Scales (both come in adult and children's version).",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "The test",
+        "谓语": "comes",
+        "宾语或表语": "in two forms",
+        "主干翻译": "该测试主要有两种形式。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "the Stanford-Binet Intelligence Scale and the Wechsler Intelligence Scales (both come in adult and children's version)",
+          "修饰对象": "forms",
+          "中文翻译": "斯坦福-比奈智力量表和韦氏智力量表（两者都有成人版和儿童版）",
+          "说明": "冒号后引出的同位语，具体说明 two forms 指哪两种。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "the Wechsler Intelligence Scales",
+          "修饰对象": "the Stanford-Binet Intelligence Scale",
+          "中文翻译": "韦氏智力量表",
+          "说明": "由 and 连接，与斯坦福-比奈量表并列，共同构成两种形式。"
+        }
+      ],
+      "zh": "该测试主要有两种形式：斯坦福-比奈智力量表和韦氏智力量表（两者都有成人版和儿童版）。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2007-text2-s12",
+      "s": "Generally costing several hundred dollars, they are usually given only by psychologists, although variations of them populate bookstores and the World Wide Web.",
+      "para_no": 3,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "they",
+        "谓语": "are given",
+        "宾语或表语": "by psychologists",
+        "主干翻译": "它们通常只由心理学家来施测。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "Generally costing several hundred dollars",
+          "修饰对象": "are given",
+          "中文翻译": "通常要花费数百美元",
+          "说明": "现在分词短语作伴随状语，修饰主句。"
+        },
+        {
+          "成分类型": "状语从句(让步)",
+          "原文": "although variations of them populate bookstores and the World Wide Web",
+          "修饰对象": "are given",
+          "中文翻译": "尽管它们的各种变体充斥着书店和互联网",
+          "说明": "although 引导让步状语从句。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "the World Wide Web",
+          "修饰对象": "bookstores",
+          "中文翻译": "互联网",
+          "说明": "由 and 连接，与 bookstores 并列作 populate 的宾语。"
+        }
+      ],
+      "zh": "这类测试通常要花费数百美元，一般只由心理学家施测，尽管它们的各种变体在书店和互联网上随处可见。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2007-text2-s13",
+      "s": "Superhigh scores like vos Savant's are no longer possible, because scoring is now based on a statistical population distribution among age peers, rather than simply dividing the mental age by the chronological age and multiplying by 100.",
+      "para_no": 3,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "Superhigh scores like vos Savant's",
+        "谓语": "are",
+        "宾语或表语": "no longer possible",
+        "主干翻译": "像沃斯·莎凡特那样的超高分已不再可能出现。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(原因)",
+          "原文": "because scoring is now based on a statistical population distribution among age peers, rather than simply dividing the mental age by the chronological age and multiplying by 100",
+          "修饰对象": "are",
+          "中文翻译": "因为如今的评分是基于同龄人群体的统计学分布，而不再是简单地用心理年龄除以实际年龄再乘以100",
+          "说明": "because 引导原因状语从句。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "multiplying by 100",
+          "修饰对象": "dividing",
+          "中文翻译": "乘以100",
+          "说明": "由 and 连接，与 dividing the mental age by the chronological age 并列，同作 rather than 的宾语。"
+        }
+      ],
+      "zh": "像沃斯·莎凡特那样的超高分已不再可能出现，因为如今的评分是基于同龄人群体的统计学分布，而不再是简单地用心理年龄除以实际年龄再乘以100。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2007-text2-s14",
+      "s": "Other standardized tests, such as the Scholastic Assessment Test (SAT) and the Graduate Record Exam (GRE), capture the main aspects of IQ tests.",
+      "para_no": 3,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "Other standardized tests",
+        "谓语": "capture",
+        "宾语或表语": "the main aspects of IQ tests",
+        "主干翻译": "其他标准化测试涵盖了智商测试的主要方面。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "such as the Scholastic Assessment Test (SAT) and the Graduate Record Exam (GRE)",
+          "修饰对象": "Other standardized tests",
+          "中文翻译": "比如学术能力评估测试（SAT）和研究生入学考试（GRE）",
+          "说明": "such as 引出举例的同位成分，说明 Other standardized tests。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "the Graduate Record Exam (GRE)",
+          "修饰对象": "the Scholastic Assessment Test (SAT)",
+          "中文翻译": "研究生入学考试（GRE）",
+          "说明": "由 and 连接，与 SAT 并列。"
+        }
+      ],
+      "zh": "其他标准化测试，如学术能力评估测试（SAT）和研究生入学考试（GRE），也涵盖了智商测试的主要方面。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2007-text2-s15",
+      "s": "Such standardized tests may not assess all the important elements necessary to succeed in school and in life, argues Robert J. Sternberg.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Robert J. Sternberg",
+        "谓语": "argues",
+        "宾语或表语": "（that 从句）",
+        "主干翻译": "罗伯特·J·斯滕伯格认为（……）。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "Such standardized tests may not assess all the important elements necessary to succeed in school and in life",
+          "修饰对象": "argues",
+          "中文翻译": "这类标准化测试未必能评估出在学校和生活中取得成功所必需的全部重要因素",
+          "说明": "前置的宾语从句，主句 argues Robert J. Sternberg 为倒装。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "necessary to succeed in school and in life",
+          "修饰对象": "elements",
+          "中文翻译": "在学校和生活中取得成功所必需的",
+          "说明": "形容词短语 necessary（含其后不定式）作后置定语，修饰 elements。"
+        },
+        {
+          "成分类型": "倒装",
+          "原文": "argues Robert J. Sternberg",
+          "修饰对象": "—",
+          "中文翻译": "罗伯特·J·斯滕伯格认为",
+          "说明": "引述句主谓倒装，谓语 argues 置于主语之前。"
+        }
+      ],
+      "zh": "罗伯特·J·斯滕伯格认为，这类标准化测试未必能评估出在学校和生活中取得成功所必需的全部重要因素。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2007-text2-s16",
+      "s": "In his article \"How Intelligent Is Intelligence Testing?\", Sternberg notes that traditional tests best assess analytical and verbal skills but fail to measure creativity and practical knowledge, components also critical to problem solving and life success.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Sternberg",
+        "谓语": "notes",
+        "宾语或表语": "（that 从句）",
+        "主干翻译": "斯滕伯格指出（……）。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "\"How Intelligent Is Intelligence Testing?\"",
+          "修饰对象": "article",
+          "中文翻译": "《智力测试究竟有多智能？》",
+          "说明": "文章标题作 his article 的同位语。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "In his article \"How Intelligent Is Intelligence Testing?\"",
+          "修饰对象": "notes",
+          "中文翻译": "在他题为《智力测试究竟有多智能？》的文章中",
+          "说明": "介词短语作地点/出处状语，修饰 notes。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that traditional tests best assess analytical and verbal skills but fail to measure creativity and practical knowledge",
+          "修饰对象": "notes",
+          "中文翻译": "传统测试最擅长评估分析能力和语言能力，却无法衡量创造力和实践知识",
+          "说明": "that 引导宾语从句，作 notes 的宾语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "but fail to measure creativity and practical knowledge",
+          "修饰对象": "best assess",
+          "中文翻译": "但无法衡量创造力和实践知识",
+          "说明": "由 but 连接，与 best assess... 并列，同为从句主语 traditional tests 的谓语。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to measure creativity and practical knowledge",
+          "修饰对象": "fail",
+          "中文翻译": "衡量创造力和实践知识",
+          "说明": "不定式作 fail 的补足成分。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "components also critical to problem solving and life success",
+          "修饰对象": "creativity and practical knowledge",
+          "中文翻译": "而这些（创造力和实践知识）也是解决问题和人生成功的关键要素",
+          "说明": "名词短语作同位语，补充说明 creativity and practical knowledge。"
+        }
+      ],
+      "zh": "斯滕伯格在他题为《智力测试究竟有多智能？》的文章中指出，传统测试最擅长评估分析能力和语言能力，却无法衡量创造力和实践知识，而这些也是解决问题和取得人生成功的关键要素。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2007-text2-s17",
+      "s": "Moreover, IQ tests do not necessarily predict so well once populations or situations change.",
+      "para_no": 4,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "IQ tests",
+        "谓语": "do not predict",
+        "宾语或表语": "so well",
+        "主干翻译": "智商测试未必能很好地作出预测。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "once populations or situations change",
+          "修饰对象": "predict",
+          "中文翻译": "一旦人群或情境发生变化",
+          "说明": "once 引导条件状语从句，修饰 predict。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "Moreover",
+          "修饰对象": "—",
+          "中文翻译": "此外",
+          "说明": "连接性副词，承接上文递进。"
+        }
+      ],
+      "zh": "此外，一旦人群或情境发生变化，智商测试未必还能很好地作出预测。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2007-text2-s18",
+      "s": "Research has found that IQ predicted leadership skills when the tests were given under low-stress conditions, but under high-stress conditions, IQ was negatively correlated with leadership—that is, it predicted the opposite.",
+      "para_no": 4,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "Research",
+        "谓语": "has found",
+        "宾语或表语": "（that 从句）",
+        "主干翻译": "研究发现（……）。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "that IQ predicted leadership skills when the tests were given under low-stress conditions, but under high-stress conditions, IQ was negatively correlated with leadership",
+          "修饰对象": "has found",
+          "中文翻译": "在低压力条件下施测时智商能预测领导能力，但在高压力条件下智商却与领导能力呈负相关",
+          "说明": "that 引导宾语从句，作 found 的宾语。"
+        },
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "when the tests were given under low-stress conditions",
+          "修饰对象": "predicted",
+          "中文翻译": "当测试在低压力条件下施行时",
+          "说明": "when 引导时间状语从句，修饰从句谓语 predicted。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "but under high-stress conditions, IQ was negatively correlated with leadership",
+          "修饰对象": "IQ predicted leadership skills",
+          "中文翻译": "但在高压力条件下，智商与领导能力呈负相关",
+          "说明": "由 but 连接，与前一分句在宾语从句内构成并列对比。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "that is, it predicted the opposite",
+          "修饰对象": "—",
+          "中文翻译": "也就是说，它预测的结果恰恰相反",
+          "说明": "破折号引出的解释性插入说明，that is 引导补充阐释。"
+        }
+      ],
+      "zh": "研究发现，在低压力条件下施测时，智商能预测领导能力，但在高压力条件下，智商却与领导能力呈负相关——也就是说，它预测出的结果恰恰相反。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2007-text2-s19",
+      "s": "Anyone who has toiled through SAT will testify that test-taking skill also matters, whether it's knowing when to guess or what questions to skip.",
+      "para_no": 4,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "Anyone",
+        "谓语": "will testify",
+        "宾语或表语": "（that 从句）",
+        "主干翻译": "任何人都会证实（……）。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "who has toiled through SAT",
+          "修饰对象": "Anyone",
+          "中文翻译": "苦熬着考过SAT的",
+          "说明": "who 引导定语从句，修饰 Anyone。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that test-taking skill also matters",
+          "修饰对象": "testify",
+          "中文翻译": "应试技巧同样重要",
+          "说明": "that 引导宾语从句，作 testify 的宾语。"
+        },
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "whether it's knowing when to guess or what questions to skip",
+          "修饰对象": "matters",
+          "中文翻译": "无论这种技巧是指懂得何时该猜还是该跳过哪些题",
+          "说明": "whether...or 引导让步/条件状语从句，修饰 matters。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "knowing when to guess or what questions to skip",
+          "修饰对象": "'s",
+          "中文翻译": "懂得何时该猜或该跳过哪些题",
+          "说明": "动名词短语作从句的表语，说明 it（应试技巧）的内容。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "what questions to skip",
+          "修饰对象": "when to guess",
+          "中文翻译": "该跳过哪些题",
+          "说明": "由 or 连接，与 when to guess 并列，同作 knowing 的宾语。"
+        }
+      ],
+      "zh": "任何苦熬着考过SAT的人都会证实：应试技巧同样重要——无论它指的是懂得何时该猜，还是该跳过哪些题。",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2007-text2-s1",
+        "en1-2007-text2-s2",
+        "en1-2007-text2-s3",
+        "en1-2007-text2-s4",
+        "en1-2007-text2-s5",
+        "en1-2007-text2-s6"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2007-text2-s7",
+        "en1-2007-text2-s8",
+        "en1-2007-text2-s9"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2007-text2-s10",
+        "en1-2007-text2-s11",
+        "en1-2007-text2-s12",
+        "en1-2007-text2-s13",
+        "en1-2007-text2-s14"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2007-text2-s15",
+        "en1-2007-text2-s16",
+        "en1-2007-text2-s17",
+        "en1-2007-text2-s18",
+        "en1-2007-text2-s19"
+      ]
+    }
+  ]
+}

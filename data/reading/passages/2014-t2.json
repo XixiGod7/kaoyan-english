@@ -1,0 +1,812 @@
+{
+  "exam": "en1",
+  "key": "2014-t2",
+  "year": 2014,
+  "text_no": 2,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2014-text2-s1",
+      "s": "All around the world, lawyers generate more hostility than the members of any other profession—with the possible exception of journalism.",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "lawyers",
+        "谓语": "generate",
+        "宾语或表语": "more hostility",
+        "主干翻译": "律师招致更多的敌意。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "All around the world",
+          "修饰对象": "generate",
+          "中文翻译": "在世界各地",
+          "说明": "句首地点状语，修饰整个谓语动作。"
+        },
+        {
+          "成分类型": "状语从句(比较)",
+          "原文": "than the members of any other profession",
+          "修饰对象": "more",
+          "中文翻译": "比任何其他职业的从业者",
+          "说明": "more...than 构成比较结构，than 后为比较对象。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "with the possible exception of journalism",
+          "修饰对象": "generate",
+          "中文翻译": "新闻业可能是个例外",
+          "说明": "破折号后的补充说明，对前面比较的让步性补充。"
+        }
+      ],
+      "zh": "在世界各地，律师比任何其他职业的从业者都更招人厌恶——新闻业可能是个例外。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2014-text2-s2",
+      "s": "But there are few places where clients have more grounds for complaint than America.",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "there",
+        "谓语": "are",
+        "宾语或表语": "few places",
+        "主干翻译": "几乎没有什么地方。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "where clients have more grounds for complaint than America",
+          "修饰对象": "places",
+          "中文翻译": "客户比在美国有更多抱怨理由的（地方）",
+          "说明": "where 引导定语从句修饰 places，从句内含 more...than 比较结构。"
+        }
+      ],
+      "zh": "但是，没有几个地方能比美国让客户有更多的抱怨理由。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2014-text2-s3",
+      "s": "During the decade before the economic crisis, spending on legal services in America grew twice as fast as inflation.",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "spending",
+        "谓语": "grew",
+        "宾语或表语": "(twice as fast as inflation)",
+        "主干翻译": "支出增长了。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "During the decade before the economic crisis",
+          "修饰对象": "grew",
+          "中文翻译": "在经济危机前的十年间",
+          "说明": "句首时间状语。"
+        },
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "on legal services in America",
+          "修饰对象": "spending",
+          "中文翻译": "美国在法律服务上的（支出）",
+          "说明": "介词短语修饰主语 spending。"
+        },
+        {
+          "成分类型": "状语从句(比较)",
+          "原文": "twice as fast as inflation",
+          "修饰对象": "grew",
+          "中文翻译": "速度是通货膨胀的两倍",
+          "说明": "twice as...as 倍数比较结构，作 grew 的程度状语。"
+        }
+      ],
+      "zh": "在经济危机前的十年间，美国在法律服务上的支出增长速度是通货膨胀的两倍。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2014-text2-s4",
+      "s": "The best lawyers made skyscrapers-full of money, tempting ever more students to pile into law schools.",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "The best lawyers",
+        "谓语": "made",
+        "宾语或表语": "money",
+        "主干翻译": "最优秀的律师赚到了钱。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "tempting ever more students to pile into law schools",
+          "修饰对象": "made",
+          "中文翻译": "从而吸引越来越多的学生涌入法学院",
+          "说明": "现在分词短语作结果状语，表示前面赚钱所带来的结果。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to pile into law schools",
+          "修饰对象": "tempting",
+          "中文翻译": "涌入法学院",
+          "说明": "动词不定式作 tempting 的宾语补足语，说明 students 被引诱去做的动作。"
+        }
+      ],
+      "zh": "最优秀的律师赚得盆满钵满，从而吸引越来越多的学生涌入法学院。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2014-text2-s5",
+      "s": "But most law graduates never get a big-firm job.",
+      "para_no": 2,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "most law graduates",
+        "谓语": "never get",
+        "宾语或表语": "a big-firm job",
+        "主干翻译": "大多数法学毕业生从未得到过大律所的工作。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "But most law graduates never",
+          "修饰对象": "get",
+          "中文翻译": "但大多数从不（得到）",
+          "说明": "never 为频度副词作状语，表示否定；但作转折。此句结构简单，无从句。"
+        }
+      ],
+      "zh": "但大多数法学毕业生从未能找到大律师事务所的工作。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2014-text2-s6",
+      "s": "Many of them instead become the kind of nuisance-lawsuit filer that makes the tort system a costly nightmare.",
+      "para_no": 2,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "Many of them",
+        "谓语": "become",
+        "宾语或表语": "the kind of nuisance-lawsuit filer",
+        "主干翻译": "他们中的许多人成为某类滥诉的提起者。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "that makes the tort system a costly nightmare",
+          "修饰对象": "kind",
+          "中文翻译": "使侵权法律制度成为代价高昂的噩梦的（那类人）",
+          "说明": "that 引导定语从句修饰 the kind of nuisance-lawsuit filer。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "the tort system a costly nightmare",
+          "修饰对象": "makes",
+          "中文翻译": "侵权法律制度（成为）代价高昂的噩梦",
+          "说明": "make + 宾语 + 宾语补足语结构，the tort system 为宾语，a costly nightmare 为宾补。"
+        }
+      ],
+      "zh": "相反，他们中的许多人沦为那种滥诉者，使侵权法律制度变成代价高昂的噩梦。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2014-text2-s7",
+      "s": "There are many reasons for this.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "there",
+        "谓语": "are",
+        "宾语或表语": "many reasons",
+        "主干翻译": "有许多原因。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "for this",
+          "修饰对象": "reasons",
+          "中文翻译": "造成这种情况的（原因）",
+          "说明": "介词短语修饰 reasons。"
+        }
+      ],
+      "zh": "造成这种情况的原因有很多。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2014-text2-s8",
+      "s": "One is the excessive costs of a legal education.",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "One",
+        "谓语": "is",
+        "宾语或表语": "the excessive costs",
+        "主干翻译": "其中之一是过高的费用。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "of a legal education",
+          "修饰对象": "costs",
+          "中文翻译": "法律教育的（费用）",
+          "说明": "介词短语修饰 costs。"
+        }
+      ],
+      "zh": "其中一个原因是法律教育费用过高。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2014-text2-s9",
+      "s": "There is just one path for a lawyer in most American states: a four-year undergraduate degree in some unrelated subject, then a three-year law degree at one of 200 law schools authorized by the American Bar Association and an expensive preparation for the bar exam.",
+      "para_no": 3,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "There",
+        "谓语": "is",
+        "宾语或表语": "just one path",
+        "主干翻译": "只有一条路径。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "for a lawyer in most American states",
+          "修饰对象": "path",
+          "中文翻译": "对于大多数美国州的律师而言",
+          "说明": "介词短语限定 path 的范围。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "a four-year undergraduate degree in some unrelated subject, then a three-year law degree at one of 200 law schools authorized by the American Bar Association and an expensive preparation for the bar exam",
+          "修饰对象": "path",
+          "中文翻译": "在某些不相关学科上的四年本科学位，然后在美国律师协会认可的200所法学院之一攻读三年法律学位，以及为律师资格考试进行的昂贵备考",
+          "说明": "冒号后的整个内容作 path 的同位语，对其具体说明。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "then a three-year law degree at one of 200 law schools authorized by the American Bar Association and an expensive preparation for the bar exam",
+          "修饰对象": "degree",
+          "中文翻译": "然后是三年法律学位以及昂贵的律考备考",
+          "说明": "与前面 a four-year undergraduate degree 并列，构成同位语内部的并列成分。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "authorized by the American Bar Association",
+          "修饰对象": "schools",
+          "中文翻译": "经美国律师协会认可的（法学院）",
+          "说明": "过去分词短语作定语修饰 law schools。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "an expensive preparation for the bar exam",
+          "修饰对象": "degree",
+          "中文翻译": "为律师资格考试进行的昂贵备考",
+          "说明": "由 and 连接，与前两个学位项并列，同为 path 的同位成分。"
+        }
+      ],
+      "zh": "在美国大多数州，成为律师只有一条路：先在某些不相关学科上取得四年本科学位，然后在美国律师协会认可的200所法学院之一攻读三年法律学位，再加上为律师资格考试进行的昂贵备考。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2014-text2-s10",
+      "s": "This leaves today's average law-school graduate with $100, 000 of debt on top of undergraduate debts.",
+      "para_no": 3,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "This",
+        "谓语": "leaves",
+        "宾语或表语": "today's average law-school graduate",
+        "主干翻译": "这让如今普通的法学院毕业生负债。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "with $100, 000 of debt on top of undergraduate debts",
+          "修饰对象": "leaves",
+          "中文翻译": "背负除本科债务之外的10万美元债务",
+          "说明": "with 介词短语作宾语补足语，说明 graduate 所处的状态；on top of 表示在……之上。"
+        }
+      ],
+      "zh": "这使得如今普通的法学院毕业生除本科债务之外，还要再背上10万美元的债务。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2014-text2-s11",
+      "s": "Law-school debt means that they have to work fearsomely hard.",
+      "para_no": 3,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "Law-school debt",
+        "谓语": "means",
+        "宾语或表语": "that 从句",
+        "主干翻译": "法学院债务意味着……。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "that they have to work fearsomely hard",
+          "修饰对象": "means",
+          "中文翻译": "他们不得不拼命努力工作",
+          "说明": "that 引导宾语从句作 means 的宾语。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to work fearsomely hard",
+          "修饰对象": "have",
+          "中文翻译": "拼命努力地工作",
+          "说明": "have to + 动词不定式，构成谓语，to work 为不定式部分。"
+        }
+      ],
+      "zh": "法学院债务意味着他们不得不拼命努力工作。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2014-text2-s12",
+      "s": "Reforming the system would help both lawyers and their customers.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Reforming the system",
+        "谓语": "would help",
+        "宾语或表语": "both lawyers and their customers",
+        "主干翻译": "改革这一制度将对律师和他们的客户都有帮助。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作主语",
+          "原文": "Reforming the system",
+          "修饰对象": "—",
+          "中文翻译": "改革这一制度",
+          "说明": "动名词短语作句子主语。"
+        }
+      ],
+      "zh": "改革这一制度将对律师和他们的客户都有好处。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2014-text2-s13",
+      "s": "Sensible ideas have been around for a long time, but the state-level bodies that govern the profession have been too conservative to implement them.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Sensible ideas / the state-level bodies",
+        "谓语": "have been around / have been",
+        "宾语或表语": "(too conservative)",
+        "主干翻译": "明智的主意早已存在，但相关机构过于保守。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "but the state-level bodies that govern the profession have been too conservative to implement them",
+          "修饰对象": "—",
+          "中文翻译": "但管理这一行业的州级机构过于保守，以致无法实施这些主意",
+          "说明": "but 连接的并列分句，与前一分句构成转折并列。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that govern the profession",
+          "修饰对象": "bodies",
+          "中文翻译": "管理这一行业的（机构）",
+          "说明": "that 引导定语从句修饰 the state-level bodies。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to implement them",
+          "修饰对象": "conservative",
+          "中文翻译": "去实施这些主意",
+          "说明": "too...to 结构，to implement them 作结果状语，表示太保守以致不能实施。"
+        }
+      ],
+      "zh": "明智的改革主意早已存在多年，但管理这一行业的州级机构过于保守，以致迟迟不予实施。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2014-text2-s14",
+      "s": "One idea is to allow people to study law as an undergraduate degree.",
+      "para_no": 4,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "One idea",
+        "谓语": "is",
+        "宾语或表语": "to allow people to study law as an undergraduate degree",
+        "主干翻译": "一个主意是允许人们攻读法律本科学位。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作表语",
+          "原文": "to allow people to study law as an undergraduate degree",
+          "修饰对象": "is",
+          "中文翻译": "允许人们将法律作为本科学位来学习",
+          "说明": "动词不定式短语作表语。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "people to study law as an undergraduate degree",
+          "修饰对象": "allow",
+          "中文翻译": "人们去学习作为本科学位的法律",
+          "说明": "allow + 宾语 + 不定式补足语结构，people 为宾语，to study 为宾补。"
+        }
+      ],
+      "zh": "一个主意是允许人们将法律作为本科专业来攻读。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2014-text2-s15",
+      "s": "Another is to let students sit for the bar after only two years of law school.",
+      "para_no": 4,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "Another",
+        "谓语": "is",
+        "宾语或表语": "to let students sit for the bar after only two years of law school",
+        "主干翻译": "另一个主意是让学生只读两年法学院就参加律考。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作表语",
+          "原文": "to let students sit for the bar after only two years of law school",
+          "修饰对象": "is",
+          "中文翻译": "让学生在仅读两年法学院后就参加律师资格考试",
+          "说明": "动词不定式短语作表语。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "students sit for the bar after only two years of law school",
+          "修饰对象": "let",
+          "中文翻译": "学生在仅两年法学院后参加律考",
+          "说明": "let + 宾语 + 不带 to 的动词原形补足语，students 为宾语，sit 为宾补。"
+        }
+      ],
+      "zh": "另一个主意是让学生只读两年法学院就可以参加律师资格考试。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2014-text2-s16",
+      "s": "If the bar exam is truly a stern enough test for a would-be lawyer, those who can sit it earlier should be allowed to do so.",
+      "para_no": 4,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "those",
+        "谓语": "should be allowed",
+        "宾语或表语": "to do so",
+        "主干翻译": "那些人应当被允许这样做。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "If the bar exam is truly a stern enough test for a would-be lawyer",
+          "修饰对象": "should be allowed",
+          "中文翻译": "如果律师资格考试对于一名准律师来说确实是足够严格的检验",
+          "说明": "If 引导条件状语从句。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "who can sit it earlier",
+          "修饰对象": "those",
+          "中文翻译": "那些能够更早参加考试的（人）",
+          "说明": "who 引导定语从句修饰 those。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to do so",
+          "修饰对象": "allowed",
+          "中文翻译": "这样做",
+          "说明": "动词不定式，作 be allowed 的补足成分，指代提前参加考试。"
+        }
+      ],
+      "zh": "如果律师资格考试对于一名准律师来说确实是足够严格的检验，那么那些能够更早参加考试的人就应当被允许这样做。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2014-text2-s17",
+      "s": "Students who do not need the extra training could cut their debt mountain by a third.",
+      "para_no": 4,
+      "para_seq": 5,
+      "trunk": {
+        "主语": "Students",
+        "谓语": "could cut",
+        "宾语或表语": "their debt mountain",
+        "主干翻译": "学生们能够削减他们如山的债务。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "who do not need the extra training",
+          "修饰对象": "Students",
+          "中文翻译": "那些不需要额外培训的（学生）",
+          "说明": "who 引导定语从句修饰主语 Students。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "by a third",
+          "修饰对象": "cut",
+          "中文翻译": "削减三分之一",
+          "说明": "by 表示削减的幅度，作程度状语。"
+        }
+      ],
+      "zh": "那些不需要额外培训的学生能够把他们如山的债务削减三分之一。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2014-text2-s18",
+      "s": "The other reason why costs are so high is the restrictive guild-like ownership structure of the business.",
+      "para_no": 5,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The other reason",
+        "谓语": "is",
+        "宾语或表语": "the restrictive guild-like ownership structure",
+        "主干翻译": "另一个原因是限制性的、行会式的所有权结构。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "why costs are so high",
+          "修饰对象": "reason",
+          "中文翻译": "费用之所以如此之高的（原因）",
+          "说明": "why 引导定语从句修饰 reason。"
+        },
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "of the business",
+          "修饰对象": "structure",
+          "中文翻译": "这一行业的（所有权结构）",
+          "说明": "介词短语修饰 ownership structure。"
+        }
+      ],
+      "zh": "费用如此之高的另一个原因，是这一行业限制性的、行会式的所有权结构。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2014-text2-s19",
+      "s": "Except in the District of Columbia, non-lawyers may not own any share of a law firm.",
+      "para_no": 5,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "non-lawyers",
+        "谓语": "may not own",
+        "宾语或表语": "any share of a law firm",
+        "主干翻译": "非律师不得拥有律师事务所的任何股份。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "Except in the District of Columbia",
+          "修饰对象": "may not own",
+          "中文翻译": "除哥伦比亚特区外",
+          "说明": "句首介词短语作让步/范围状语，表示例外。"
+        }
+      ],
+      "zh": "除哥伦比亚特区外，非律师不得拥有律师事务所的任何股份。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2014-text2-s20",
+      "s": "This keeps fees high and innovation slow.",
+      "para_no": 5,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "This",
+        "谓语": "keeps",
+        "宾语或表语": "fees high and innovation slow",
+        "主干翻译": "这使得收费居高不下、创新步履迟缓。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "fees high and innovation slow",
+          "修饰对象": "keeps",
+          "中文翻译": "收费居高、创新迟缓",
+          "说明": "keep + 宾语 + 宾补结构，两组宾语-宾补 (fees high) 与 (innovation slow) 由 and 并列。"
+        }
+      ],
+      "zh": "这使得收费居高不下、创新步履迟缓。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2014-text2-s21",
+      "s": "There is pressure for change from within the profession, but opponents of change among the regulators insist that keeping outsiders out of a law firm isolates lawyers from the pressure to make money rather than serve clients ethically.",
+      "para_no": 5,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "There / opponents",
+        "谓语": "is / insist",
+        "宾语或表语": "pressure / that 从句",
+        "主干翻译": "存在改革的压力，但反对者坚称……。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "for change from within the profession",
+          "修饰对象": "pressure",
+          "中文翻译": "来自行业内部的、要求变革的（压力）",
+          "说明": "介词短语修饰 pressure，说明压力的内容与来源。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "but opponents of change among the regulators insist that keeping outsiders out of a law firm isolates lawyers from the pressure to make money rather than serve clients ethically",
+          "修饰对象": "—",
+          "中文翻译": "但监管者中反对变革的人坚称，将外来者挡在律师事务所之外可以使律师免受赚钱压力的影响",
+          "说明": "but 连接的并列分句，与前一分句构成转折。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that keeping outsiders out of a law firm isolates lawyers from the pressure to make money rather than serve clients ethically",
+          "修饰对象": "insist",
+          "中文翻译": "把外来者挡在律师事务所之外可以使律师隔离于赚钱而非道德地服务客户的压力之外",
+          "说明": "that 引导宾语从句作 insist 的宾语；从句主语为动名词 keeping。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to make money rather than serve clients ethically",
+          "修饰对象": "pressure",
+          "中文翻译": "去赚钱而非合乎职业道德地服务客户的（压力）",
+          "说明": "动词不定式短语作定语修饰 the pressure。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "serve clients ethically",
+          "修饰对象": "make",
+          "中文翻译": "合乎道德地服务客户",
+          "说明": "rather than 连接 make money 与 serve clients，构成对比并列。"
+        }
+      ],
+      "zh": "行业内部存在要求变革的压力，但监管者中反对变革的人坚称，把外来者挡在律师事务所之外，能使律师免受那种只顾赚钱而不顾职业道德地服务客户的压力。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2014-text2-s22",
+      "s": "In fact, allowing non-lawyers to own shares in law firms would reduce costs and improve services to customers, by encouraging law firms to use technology and to employ professional managers to focus on improving firms' efficiency.",
+      "para_no": 6,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "allowing non-lawyers to own shares in law firms",
+        "谓语": "would reduce / improve",
+        "宾语或表语": "costs / services",
+        "主干翻译": "允许非律师持有律师事务所的股份将降低成本并改善服务。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作主语",
+          "原文": "allowing non-lawyers to own shares in law firms",
+          "修饰对象": "—",
+          "中文翻译": "允许非律师拥有律师事务所的股份",
+          "说明": "动名词短语作句子主语。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "non-lawyers to own shares in law firms",
+          "修饰对象": "allowing",
+          "中文翻译": "非律师拥有律师事务所股份",
+          "说明": "allow + 宾语 + 不定式补足语结构，non-lawyers 为宾语，to own 为宾补。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "improve services to customers",
+          "修饰对象": "reduce",
+          "中文翻译": "改善对客户的服务",
+          "说明": "and 连接 reduce costs 与 improve services，构成并列谓语。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "by encouraging law firms to use technology and to employ professional managers to focus on improving firms' efficiency",
+          "修饰对象": "reduce",
+          "中文翻译": "通过鼓励律所采用技术并雇用专业管理者来专注于提高律所效率",
+          "说明": "by + 动名词短语作方式状语，说明降低成本、改善服务的途径。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to use technology and to employ professional managers",
+          "修饰对象": "encouraging",
+          "中文翻译": "采用技术并雇用专业管理者",
+          "说明": "两个并列不定式作 encouraging 的宾语补足语，说明鼓励律所做的事。"
+        },
+        {
+          "成分类型": "状语从句(目的)",
+          "原文": "to focus on improving firms' efficiency",
+          "修饰对象": "employ",
+          "中文翻译": "以专注于提高律所效率",
+          "说明": "动词不定式作目的状语，说明雇用专业管理者的目的。"
+        }
+      ],
+      "zh": "事实上，允许非律师持有律师事务所的股份将会降低成本并改善对客户的服务，因为这能鼓励律所采用新技术，并雇用专业管理者来专注于提高律所的效率。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2014-text2-s23",
+      "s": "After all, other countries, such as Australia and Britain, have started liberalizing their legal professions.",
+      "para_no": 6,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "other countries",
+        "谓语": "have started",
+        "宾语或表语": "liberalizing their legal professions",
+        "主干翻译": "其他国家已开始放开其法律行业。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "such as Australia and Britain",
+          "修饰对象": "countries",
+          "中文翻译": "比如澳大利亚和英国",
+          "说明": "such as 引导的举例插入成分，对 other countries 举例。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "liberalizing their legal professions",
+          "修饰对象": "started",
+          "中文翻译": "放开其法律行业",
+          "说明": "动名词短语作 started 的宾语。"
+        }
+      ],
+      "zh": "毕竟，其他国家，比如澳大利亚和英国，已经开始放开它们的法律行业了。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2014-text2-s24",
+      "s": "America should follow.",
+      "para_no": 6,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "America",
+        "谓语": "should follow",
+        "宾语或表语": "—",
+        "主干翻译": "美国应当效仿。"
+      },
+      "components": [],
+      "zh": "美国应当效仿。",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2014-text2-s1",
+        "en1-2014-text2-s2"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2014-text2-s3",
+        "en1-2014-text2-s4",
+        "en1-2014-text2-s5",
+        "en1-2014-text2-s6"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2014-text2-s7",
+        "en1-2014-text2-s8",
+        "en1-2014-text2-s9",
+        "en1-2014-text2-s10",
+        "en1-2014-text2-s11"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2014-text2-s12",
+        "en1-2014-text2-s13",
+        "en1-2014-text2-s14",
+        "en1-2014-text2-s15",
+        "en1-2014-text2-s16",
+        "en1-2014-text2-s17"
+      ]
+    },
+    {
+      "para_no": 5,
+      "sids": [
+        "en1-2014-text2-s18",
+        "en1-2014-text2-s19",
+        "en1-2014-text2-s20",
+        "en1-2014-text2-s21"
+      ]
+    },
+    {
+      "para_no": 6,
+      "sids": [
+        "en1-2014-text2-s22",
+        "en1-2014-text2-s23",
+        "en1-2014-text2-s24"
+      ]
+    }
+  ]
+}

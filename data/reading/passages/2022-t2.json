@@ -1,0 +1,687 @@
+{
+  "exam": "en1",
+  "key": "2022-t2",
+  "year": 2022,
+  "text_no": 2,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2022-text2-s1",
+      "s": "As the latest crop of students pen their undergraduate application form and weigh up their options, it may be worth considering just how the point, purpose and value of a degree has changed and what Generation Z need to consider as they start the third stage of their educational journey.",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "it",
+        "谓语": "may be worth",
+        "宾语或表语": "considering ...",
+        "主干翻译": "或许值得思考……"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "As the latest crop of students pen their undergraduate application form and weigh up their options",
+          "修饰对象": "be",
+          "中文翻译": "在最新一批学生填写本科申请表、权衡各种选择之际",
+          "说明": "As 引导时间状语从句，表示\"当……的时候\"。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "weigh up their options",
+          "修饰对象": "pen",
+          "中文翻译": "权衡他们的各种选择",
+          "说明": "与 pen 由 and 并列，共用主语 students。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "considering just how the point, purpose and value of a degree has changed and what Generation Z need to consider as they start the third stage of their educational journey",
+          "修饰对象": "worth",
+          "中文翻译": "思考一下学位的意义、目的和价值究竟发生了怎样的变化，以及Z世代在开启教育旅程第三阶段时需要考虑什么",
+          "说明": "worth doing 结构，动名词 considering 作 worth 的补足成分，后接两个宾语从句。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "purpose and value",
+          "修饰对象": "point",
+          "中文翻译": "目的和价值",
+          "说明": "the point, purpose and value 三者并列作 of a degree 的中心名词。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "just how the point, purpose and value of a degree has changed",
+          "修饰对象": "considering",
+          "中文翻译": "学位的意义、目的和价值究竟发生了怎样的变化",
+          "说明": "how 引导的宾语从句，作 considering 的宾语。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "what Generation Z need to consider as they start the third stage of their educational journey",
+          "修饰对象": "changed",
+          "中文翻译": "Z世代在开启教育旅程第三阶段时需要考虑什么",
+          "说明": "what 引导的宾语从句，与前一 how 从句由 and 并列，共同作 considering 的宾语。"
+        },
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "as they start the third stage of their educational journey",
+          "修饰对象": "consider",
+          "中文翻译": "当他们开启教育旅程的第三阶段时",
+          "说明": "as 引导时间状语从句，修饰 need to consider。"
+        }
+      ],
+      "zh": "在最新一批学生填写本科申请表、权衡各种选择之际，或许值得思考一下学位的意义、目的和价值究竟发生了怎样的变化，以及Z世代在开启教育旅程第三阶段时需要考虑些什么。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2022-text2-s2",
+      "s": "Millennials were told that if you did well in school, got a decent degree, you would be set up for life.",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Millennials",
+        "谓语": "were told",
+        "宾语或表语": "that ...",
+        "主干翻译": "千禧一代被告知……"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "that if you did well in school, got a decent degree, you would be set up for life",
+          "修饰对象": "told",
+          "中文翻译": "如果你在学校表现优异、拿到一个像样的学位，你这辈子就有保障了",
+          "说明": "that 引导从句，作 were told 的直接宾语（被动后保留的宾语从句）。"
+        },
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "if you did well in school, got a decent degree",
+          "修饰对象": "set",
+          "中文翻译": "如果你在学校表现优异、拿到一个像样的学位",
+          "说明": "if 引导条件状语从句；did well 与 got a decent degree 并列共享主语 you。"
+        }
+      ],
+      "zh": "千禧一代曾被告知，如果你在学校表现优异、拿到一个像样的学位，你这辈子就高枕无忧了。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2022-text2-s3",
+      "s": "But that promise has been found wanting.",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "that promise",
+        "谓语": "has been found",
+        "宾语或表语": "wanting",
+        "主干翻译": "那个承诺被发现是空洞的。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "wanting",
+          "修饰对象": "found",
+          "中文翻译": "有所欠缺的、不尽如人意的",
+          "说明": "find sth wanting 结构中的宾语补足语，被动后作主语补足语，意为\"被发现是不足的\"。"
+        }
+      ],
+      "zh": "但这个承诺已被证明是空洞的。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2022-text2-s4",
+      "s": "As degrees became universal, they became devalued.",
+      "para_no": 2,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "they",
+        "谓语": "became",
+        "宾语或表语": "devalued",
+        "主干翻译": "它们贬值了。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "As degrees became universal",
+          "修饰对象": "devalued",
+          "中文翻译": "随着学位变得普及",
+          "说明": "As 引导时间状语从句，含\"随着\"之意。"
+        }
+      ],
+      "zh": "随着学位变得普及，它们也就贬值了。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2022-text2-s5",
+      "s": "Education was no longer a secure route of social mobility.",
+      "para_no": 2,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "Education",
+        "谓语": "was",
+        "宾语或表语": "a secure route of social mobility",
+        "主干翻译": "教育（不再）是一条可靠的社会上升通道。"
+      },
+      "components": [],
+      "zh": "教育不再是一条可靠的社会上升通道。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2022-text2-s6",
+      "s": "Today, 28 per cent of graduates in the UK are in non-graduate roles, a percentage which is double the average among the OECD countries.",
+      "para_no": 2,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "28 per cent of graduates in the UK",
+        "谓语": "are",
+        "宾语或表语": "in non-graduate roles",
+        "主干翻译": "英国28%的毕业生从事着不需要学位的工作。"
+      },
+      "components": [
+        {
+          "成分类型": "同位语从句",
+          "原文": "a percentage which is double the average among the OECD countries",
+          "修饰对象": "—",
+          "中文翻译": "这一比例是经合组织国家平均水平的两倍",
+          "说明": "a percentage 作前面整个句子的同位语，对该比例加以说明。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "which is double the average among the OECD countries",
+          "修饰对象": "percentage",
+          "中文翻译": "是经合组织国家平均水平的两倍",
+          "说明": "which 引导定语从句，修饰先行词 percentage。"
+        }
+      ],
+      "zh": "如今，英国28%的毕业生从事着不需要学位的工作，这一比例是经合组织国家平均水平的两倍。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2022-text2-s7",
+      "s": "This is not to say that there is no point in getting a degree, but rather stress that a degree is not for everyone, that the switch from classroom to lecture hall is not an inevitable one and that other options are available.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "This",
+        "谓语": "is",
+        "宾语或表语": "not to say ... but rather stress ...",
+        "主干翻译": "这并不是说……而是要强调……"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to say that there is no point in getting a degree, but rather stress that a degree is not for everyone, that the switch from classroom to lecture hall is not an inevitable one and that other options are available",
+          "修饰对象": "is",
+          "中文翻译": "是要说取得学位毫无意义，而是要强调学位并非人人适合……",
+          "说明": "be (not) to do 结构，不定式作表语；say 与 stress 由 but rather 并列。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that there is no point in getting a degree",
+          "修饰对象": "say",
+          "中文翻译": "取得学位毫无意义",
+          "说明": "that 引导宾语从句，作 say 的宾语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "stress that a degree is not for everyone, that the switch from classroom to lecture hall is not an inevitable one and that other options are available",
+          "修饰对象": "say",
+          "中文翻译": "强调学位并非人人适合、从课堂到大学讲堂的转变并非不可避免、还有其他选择可供选择",
+          "说明": "stress 与 say 由 but rather 并列，作不定式的第二个动词。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that a degree is not for everyone",
+          "修饰对象": "stress",
+          "中文翻译": "学位并非人人适合",
+          "说明": "that 引导宾语从句，作 stress 的第一个宾语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "that the switch from classroom to lecture hall is not an inevitable one",
+          "修饰对象": "stress",
+          "中文翻译": "从课堂到大学讲堂的转变并非不可避免",
+          "说明": "that 引导的宾语从句，与前一 that 从句并列，作 stress 的宾语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "that other options are available",
+          "修饰对象": "stress",
+          "中文翻译": "还有其他选择可供选择",
+          "说明": "that 引导的宾语从句，由 and 与前两个 that 从句并列，作 stress 的宾语。"
+        }
+      ],
+      "zh": "这并不是说取得学位毫无意义，而是要强调学位并非适合所有人，从课堂走向大学讲堂并非不可避免的必然之路，而且还有其他选择可供考虑。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2022-text2-s8",
+      "s": "Thankfully, there are signs that this is already happening, with Generation Z seeking to learn from their millennial predecessors, even if parents and teachers tend to be still set in the degree mindset.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "there",
+        "谓语": "are",
+        "宾语或表语": "signs",
+        "主干翻译": "有迹象表明……"
+      },
+      "components": [
+        {
+          "成分类型": "同位语从句",
+          "原文": "that this is already happening, with Generation Z seeking to learn from their millennial predecessors, even if parents and teachers tend to be still set in the degree mindset",
+          "修饰对象": "signs",
+          "中文翻译": "这一情况已经在发生，Z世代正努力向千禧一代前辈学习，尽管家长和老师往往仍固守学位至上的思维",
+          "说明": "that 引导同位语从句，对 signs 的内容加以说明。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "with Generation Z seeking to learn from their millennial predecessors, even if parents and teachers tend to be still set in the degree mindset",
+          "修饰对象": "happening",
+          "中文翻译": "Z世代正努力向千禧一代前辈学习",
+          "说明": "with 复合结构作伴随状语，seeking 为其中现在分词。"
+        },
+        {
+          "成分类型": "状语从句(让步)",
+          "原文": "even if parents and teachers tend to be still set in the degree mindset",
+          "修饰对象": "seeking",
+          "中文翻译": "尽管家长和老师往往仍固守学位至上的思维",
+          "说明": "even if 引导让步状语从句。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to learn from their millennial predecessors",
+          "修饰对象": "seeking",
+          "中文翻译": "向他们的千禧一代前辈学习",
+          "说明": "不定式作 seek 的宾语/补足成分，表所追求的内容。"
+        }
+      ],
+      "zh": "令人欣慰的是，有迹象表明这一转变已经在发生，Z世代正努力向他们的千禧一代前辈学习，尽管家长和老师往往仍固守着学位至上的思维定式。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2022-text2-s9",
+      "s": "Employers have long seen the advantages of hiring school leavers who often prove themselves to be more committed and loyal employees than graduates.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Employers",
+        "谓语": "have long seen",
+        "宾语或表语": "the advantages of hiring school leavers",
+        "主干翻译": "雇主们早已看到雇用中学毕业生的好处。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "who often prove themselves to be more committed and loyal employees than graduates",
+          "修饰对象": "leavers",
+          "中文翻译": "他们往往证明自己比大学毕业生是更敬业、更忠诚的员工",
+          "说明": "who 引导定语从句，修饰先行词 school leavers。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "themselves to be more committed and loyal employees than graduates",
+          "修饰对象": "prove",
+          "中文翻译": "（证明）自己是比大学毕业生更敬业、更忠诚的员工",
+          "说明": "prove 后接复合宾语，themselves 为宾语、不定式 to be... 为宾语补足语。"
+        }
+      ],
+      "zh": "雇主们早就看到了雇用中学毕业生的好处，这些人往往证明自己是比大学毕业生更敬业、更忠诚的员工。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2022-text2-s10",
+      "s": "Many too are seeing the advantages of scrapping a degree requirement for certain roles.",
+      "para_no": 4,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Many",
+        "谓语": "are seeing",
+        "宾语或表语": "the advantages of scrapping a degree requirement for certain roles",
+        "主干翻译": "许多人也看到了取消某些岗位学位要求的好处。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "of scrapping a degree requirement for certain roles",
+          "修饰对象": "advantages",
+          "中文翻译": "取消某些岗位学位要求的（好处）",
+          "说明": "of 介词短语作 advantages 的后置定语，内含动名词 scrapping。"
+        }
+      ],
+      "zh": "许多雇主也开始看到，针对某些岗位取消学位要求所带来的好处。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2022-text2-s11",
+      "s": "For those for whom a degree is the desired route, consider that this may well be the first of many.",
+      "para_no": 5,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "(you)",
+        "谓语": "consider",
+        "宾语或表语": "that this may well be the first of many",
+        "主干翻译": "（你要）考虑到这很可能只是众多学位中的第一个。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "For those for whom a degree is the desired route",
+          "修饰对象": "consider",
+          "中文翻译": "对于那些把学位视为理想路径的人来说",
+          "说明": "For 引导介词短语作状语，内嵌定语从句修饰 those。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "for whom a degree is the desired route",
+          "修饰对象": "those",
+          "中文翻译": "对他们而言学位是理想的路径",
+          "说明": "for whom 引导定语从句，修饰先行词 those。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that this may well be the first of many",
+          "修饰对象": "consider",
+          "中文翻译": "这很可能只是众多学位中的第一个",
+          "说明": "that 引导宾语从句，作祈使句动词 consider 的宾语。"
+        }
+      ],
+      "zh": "对于那些把学位视为理想之路的人来说，要意识到这很可能只是众多学位中的第一个。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2022-text2-s12",
+      "s": "In this age of generalists, it pays to have specific knowledge or skills.",
+      "para_no": 5,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "it",
+        "谓语": "pays",
+        "宾语或表语": "to have specific knowledge or skills",
+        "主干翻译": "拥有专门的知识或技能是值得的。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "In this age of generalists",
+          "修饰对象": "pays",
+          "中文翻译": "在这个通才盛行的时代",
+          "说明": "In 介词短语作时间/背景状语。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to have specific knowledge or skills",
+          "修饰对象": "pays",
+          "中文翻译": "拥有专门的知识或技能",
+          "说明": "it pays to do 结构，it 为形式主语，不定式为真正主语。"
+        }
+      ],
+      "zh": "在这个通才盛行的时代，拥有专门的知识或技能是很有价值的。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2022-text2-s13",
+      "s": "Postgraduates now earn 40 per cent more than graduates.",
+      "para_no": 5,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Postgraduates",
+        "谓语": "earn",
+        "宾语或表语": "40 per cent more",
+        "主干翻译": "研究生的收入多出40%。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(比较)",
+          "原文": "than graduates",
+          "修饰对象": "more",
+          "中文翻译": "比本科毕业生（多40%）",
+          "说明": "than 引导比较结构（省略形式），与 more 构成比较。"
+        }
+      ],
+      "zh": "如今研究生的收入比本科毕业生高出40%。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2022-text2-s14",
+      "s": "When more and more of us have a degree, it makes sense to have two.",
+      "para_no": 5,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "it",
+        "谓语": "makes",
+        "宾语或表语": "sense",
+        "主干翻译": "（拥有两个学位）是有道理的。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "When more and more of us have a degree",
+          "修饰对象": "makes",
+          "中文翻译": "当我们当中越来越多的人拥有学位时",
+          "说明": "When 引导时间状语从句，亦含条件意味。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to have two",
+          "修饰对象": "makes",
+          "中文翻译": "拥有两个（学位）",
+          "说明": "it makes sense to do 结构，it 为形式主语，不定式为真正主语。"
+        }
+      ],
+      "zh": "当我们当中越来越多的人都拥有一个学位时，拥有两个学位便是合情合理的了。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2022-text2-s15",
+      "s": "It is unlikely that Generation Z will be done with education at 18 or 21; they will need to be constantly up-skilling throughout their career to stay employable.",
+      "para_no": 6,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "It / they",
+        "谓语": "is unlikely / will need",
+        "宾语或表语": "that ... / to be constantly up-skilling",
+        "主干翻译": "Z世代不大可能在18或21岁就结束教育；他们将需要不断提升技能。"
+      },
+      "components": [
+        {
+          "成分类型": "主语从句",
+          "原文": "that Generation Z will be done with education at 18 or 21",
+          "修饰对象": "is",
+          "中文翻译": "Z世代会在18或21岁结束教育",
+          "说明": "that 引导主语从句，It 为形式主语（k 给的中心词为 is）。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to be constantly up-skilling throughout their career",
+          "修饰对象": "need",
+          "中文翻译": "在整个职业生涯中不断提升技能",
+          "说明": "need to do 结构，不定式作 need 的宾语/补足成分。"
+        },
+        {
+          "成分类型": "状语从句(目的)",
+          "原文": "to stay employable",
+          "修饰对象": "need",
+          "中文翻译": "以保持自身的可雇用性",
+          "说明": "不定式作目的状语，表示\"为了……\"。"
+        }
+      ],
+      "zh": "Z世代不大可能在18或21岁就结束教育；为了保持自身的就业竞争力，他们在整个职业生涯中都需要不断提升技能。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2022-text2-s16",
+      "s": "It has been estimated that this generation, due to the pressures of technology, the wish for personal fulfilment and desire for diversity, will work for 17 different employers over the course of their working life and have five different careers.",
+      "para_no": 6,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "It",
+        "谓语": "has been estimated",
+        "宾语或表语": "that ...",
+        "主干翻译": "据估计……"
+      },
+      "components": [
+        {
+          "成分类型": "主语从句",
+          "原文": "that this generation, due to the pressures of technology, the wish for personal fulfilment and desire for diversity, will work for 17 different employers over the course of their working life and have five different careers",
+          "修饰对象": "estimated",
+          "中文翻译": "这一代人……将在其职业生涯中为17家不同的雇主工作，并从事五种不同的职业",
+          "说明": "that 引导主语从句，It 为形式主语（被动 has been estimated）。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "due to the pressures of technology, the wish for personal fulfilment and desire for diversity",
+          "修饰对象": "work",
+          "中文翻译": "由于技术带来的压力、对个人成就感的渴望以及对多样性的追求",
+          "说明": "due to 短语插入主谓之间，作原因状语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "the wish for personal fulfilment and desire for diversity",
+          "修饰对象": "pressures",
+          "中文翻译": "对个人成就感的渴望以及对多样性的追求",
+          "说明": "三个名词短语（pressures、wish、desire）并列作 due to 的宾语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "desire for diversity",
+          "修饰对象": "wish",
+          "中文翻译": "对多样性的追求",
+          "说明": "desire 与 wish 并列。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "have five different careers",
+          "修饰对象": "work",
+          "中文翻译": "从事五种不同的职业",
+          "说明": "have 与 will work 由 and 并列，共享主语与 will。"
+        }
+      ],
+      "zh": "据估计，由于技术带来的压力、对个人成就感的渴望以及对多样性的追求，这一代人在其职业生涯中将为17家不同的雇主工作，并从事五种不同的职业。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2022-text2-s17",
+      "s": "Education, and not just knowledge gained on campus, will be a core part of Generation Z's career trajectory.",
+      "para_no": 6,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Education",
+        "谓语": "will be",
+        "宾语或表语": "a core part of Generation Z's career trajectory",
+        "主干翻译": "教育将是Z世代职业轨迹的核心组成部分。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "and not just knowledge gained on campus,",
+          "修饰对象": "Education",
+          "中文翻译": "而不仅仅是在校园里获得的知识",
+          "说明": "and not just... 作插入性并列补充，修饰主语 Education。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "gained on campus",
+          "修饰对象": "knowledge",
+          "中文翻译": "在校园里获得的",
+          "说明": "过去分词短语作后置定语，修饰 knowledge。"
+        }
+      ],
+      "zh": "教育——而不仅仅是在校园里获得的知识——将成为Z世代职业发展轨迹的核心组成部分。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2022-text2-s18",
+      "s": "Older generations often talk about their degree in the present and personal tense: 'I am a geographer.' or 'I am a classicist.' Their sons or daughters would never say such a thing; it's as if they already know that their degree won't define them in the same way.",
+      "para_no": 7,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Older generations / it",
+        "谓语": "talk about / 's",
+        "宾语或表语": "their degree / as if ...",
+        "主干翻译": "老一辈人常用现在时和第一人称谈论他们的学位；这就好像……"
+      },
+      "components": [
+        {
+          "成分类型": "同位语从句",
+          "原文": "'I am a geographer.' or 'I am a classicist.'",
+          "修饰对象": "tense",
+          "中文翻译": "\"我是一名地理学家\"或\"我是一名古典学者\"",
+          "说明": "引语对 the present and personal tense 加以举例说明，作同位语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "'I am a classicist.'",
+          "修饰对象": "am",
+          "中文翻译": "\"我是一名古典学者\"",
+          "说明": "由 or 与前一引语并列。"
+        },
+        {
+          "成分类型": "状语从句(方式)",
+          "原文": "as if they already know that their degree won't define them in the same way",
+          "修饰对象": "'s",
+          "中文翻译": "仿佛他们已经知道自己的学位不会以同样的方式来定义自己",
+          "说明": "as if 引导方式状语从句，表\"好像\"。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that their degree won't define them in the same way",
+          "修饰对象": "know",
+          "中文翻译": "自己的学位不会以同样的方式来定义他们",
+          "说明": "that 引导宾语从句，作 know 的宾语。"
+        }
+      ],
+      "zh": "老一辈人常用现在时和第一人称来谈论自己的学位：\"我是一名地理学家\"或\"我是一名古典学者\"。而他们的子女绝不会这样说，仿佛他们早已明白，自己的学位不会以同样的方式来定义自己。",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2022-text2-s1"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2022-text2-s2",
+        "en1-2022-text2-s3",
+        "en1-2022-text2-s4",
+        "en1-2022-text2-s5",
+        "en1-2022-text2-s6"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2022-text2-s7"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2022-text2-s8",
+        "en1-2022-text2-s9",
+        "en1-2022-text2-s10"
+      ]
+    },
+    {
+      "para_no": 5,
+      "sids": [
+        "en1-2022-text2-s11",
+        "en1-2022-text2-s12",
+        "en1-2022-text2-s13",
+        "en1-2022-text2-s14"
+      ]
+    },
+    {
+      "para_no": 6,
+      "sids": [
+        "en1-2022-text2-s15",
+        "en1-2022-text2-s16",
+        "en1-2022-text2-s17"
+      ]
+    },
+    {
+      "para_no": 7,
+      "sids": [
+        "en1-2022-text2-s18"
+      ]
+    }
+  ]
+}

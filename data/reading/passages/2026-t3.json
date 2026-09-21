@@ -1,0 +1,528 @@
+{
+  "exam": "en1",
+  "key": "2026-t3",
+  "year": 2026,
+  "text_no": 3,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2026-text3-s1",
+      "s": "The pioneers of wireless saw it as a gift to all the people.",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The pioneers of wireless",
+        "谓语": "saw",
+        "宾语或表语": "it",
+        "主干翻译": "无线电的先驱们将其视为一件礼物。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作宾语补足语",
+          "原文": "as a gift to all the people",
+          "修饰对象": "it",
+          "中文翻译": "作为献给全人类的礼物",
+          "说明": "see ... as ... 固定搭配，意为“将……视为……”。"
+        }
+      ],
+      "zh": "无线电的先驱们将其视为献给全人类的礼物。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2026-text3-s2",
+      "s": "Sir John Reith said that it would end “isolation of the spirit” and rejoiced: “It does not matter how many thousands may be listening, there is always enough for others...the genius and the fool, the wealthy and the poor listen simultaneously.”",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Sir John Reith",
+        "谓语": "said and rejoiced",
+        "宾语或表语": "that 从句与引语",
+        "主干翻译": "约翰·里斯爵士说它将终结“精神上的孤立”，并欣喜地表示……"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "that it would end “isolation of the spirit”",
+          "修饰对象": "said",
+          "中文翻译": "它将结束“心灵的孤立”",
+          "说明": "that 引导宾语从句。"
+        }
+      ],
+      "zh": "约翰·里斯爵士曾说它将终结“心灵的孤立”，并欣喜地表示：“无论有多少千万人可能正在收听都无妨，总有足够的空间留给其他人……天才与傻瓜、富人与穷人都在同时收听。”",
+      "underline": null
+    },
+    {
+      "sid": "en1-2026-text3-s3",
+      "s": "Between two great wars this technological innovation built a new kind of national consciousness.",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "this technological innovation",
+        "谓语": "built",
+        "宾语或表语": "a new kind of national consciousness",
+        "主干翻译": "这项技术创新构建了一种新型的国家意识。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作时间状语",
+          "原文": "Between two great wars",
+          "修饰对象": "built",
+          "中文翻译": "在两次世界大战之间",
+          "说明": "介词短语充当时间状语置于句首。"
+        }
+      ],
+      "zh": "在两次世界大战之间，这项技术创新建立了一种新的国家意识。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2026-text3-s4",
+      "s": "Opening this week, a book and exhibition curated by Beatty Rubens at the Bodleian in Oxford records how radio changed everyday life from 1922 to 1939.",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "a book and exhibition",
+        "谓语": "records",
+        "宾语或表语": "how 引导的宾语从句",
+        "主干翻译": "一本书和一场展览记录了广播如何改变了日常生活。"
+      },
+      "components": [
+        {
+          "成分类型": "现在分词短语作状语(时间)",
+          "原文": "Opening this week",
+          "修饰对象": "主句",
+          "中文翻译": "于本周开幕",
+          "说明": "现在分词短语作时间伴随状语。"
+        },
+        {
+          "成分类型": "过去分词短语作后置定语",
+          "原文": "curated by Beatty Rubens at the Bodleian in Oxford",
+          "修饰对象": "book and exhibition",
+          "中文翻译": "由比蒂·鲁宾斯在牛津大学博德利图书馆策划的",
+          "说明": "过去分词短语作定语修饰主语。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "how radio changed everyday life from 1922 to 1939",
+          "修饰对象": "records",
+          "中文翻译": "广播在1922年至1939年间如何改变了日常生活",
+          "说明": "how 引导宾语从句。"
+        }
+      ],
+      "zh": "本周开幕的由比蒂·鲁本斯在牛津大学博德利图书馆策划的一本书和一场展览，记录了1922年至1939年间无线电如何改变了日常生活。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2026-text3-s5",
+      "s": "She draws on letters, diaries and fiction, and a 1939 field notebook of verbatim audience research by Winifred Gill.",
+      "para_no": 2,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "She",
+        "谓语": "draws on",
+        "宾语或表语": "letters, diaries, fiction, and a notebook",
+        "主干翻译": "她借鉴了信件、日记、小说以及一份实地调研笔记本。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "of verbatim audience research by Winifred Gill",
+          "修饰对象": "notebook",
+          "中文翻译": "由温妮弗雷德·吉尔记录的逐字受众调查的",
+          "说明": "介词短语修饰 notebook。"
+        }
+      ],
+      "zh": "她借鉴了信件、日记和小说的内容，以及温妮弗雷德·吉尔于1939年记录的逐字受众调查的实地笔记本。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2026-text3-s6",
+      "s": "There’s fun in testimonies of people enjoying the sheer newness.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "fun",
+        "谓语": "is",
+        "宾语或表语": "in testimonies",
+        "主干翻译": "在人们享受纯粹新奇感的证词中充满着乐趣。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "of people enjoying the sheer newness",
+          "修饰对象": "testimonies",
+          "中文翻译": "关于人们享受这种纯粹新奇感的",
+          "说明": "介词短语作定语，内含现在分词短语 enjoying... 修饰 people。"
+        }
+      ],
+      "zh": "在人们享受这种全新体验的叙述中，充满了乐趣。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2026-text3-s7",
+      "s": "A cartoon mocks a group failing to converse because they’re all in headphones.",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "A cartoon",
+        "谓语": "mocks",
+        "宾语或表语": "a group failing to converse",
+        "主干翻译": "一幅漫画嘲讽了一群无法交谈的人。"
+      },
+      "components": [
+        {
+          "成分类型": "原因状语从句",
+          "原文": "because they’re all in headphones",
+          "修饰对象": "failing to converse",
+          "中文翻译": "因为他们都戴着耳机",
+          "说明": "because 引导原因状语从句。"
+        }
+      ],
+      "zh": "一幅漫画嘲讽了一群由于都戴着耳机而无法交流的人。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2026-text3-s8",
+      "s": "People report that broadcast music made workmen whistle new tunes.",
+      "para_no": 3,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "People",
+        "谓语": "report",
+        "宾语或表语": "that 从句",
+        "主干翻译": "人们报告说……"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "that broadcast music made workmen whistle new tunes",
+          "修饰对象": "report",
+          "中文翻译": "广播音乐让工人们吹起了新的曲调",
+          "说明": "that 引导宾语从句，从句内部 make sb do sth 使役结构。"
+        }
+      ],
+      "zh": "人们报告说，广播音乐让工人们吹口哨吹出了新曲调。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2026-text3-s9",
+      "s": "A woman says there have been fewer street fights since the arrival of the wireless but also less stopping and “talking on the brush handle”.",
+      "para_no": 3,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "A woman",
+        "谓语": "says",
+        "宾语或表语": "宾语从句",
+        "主干翻译": "一位女士说街头斗殴减少了，但停下来闲聊也减少了。"
+      },
+      "components": [
+        {
+          "成分类型": "并列主语结构",
+          "原文": "fewer street fights ... but also less stopping and “talking on the brush handle”",
+          "修饰对象": "there have been",
+          "中文翻译": "街头斗殴更少了，但驻足“倚着扫帚柄闲聊”的现象也减少了",
+          "说明": "there be 句型后接由 but also 连接的对比并列项。"
+        },
+        {
+          "成分类型": "介词短语作时间状语",
+          "原文": "since the arrival of the wireless",
+          "修饰对象": "have been",
+          "中文翻译": "自从无线电到来以来",
+          "说明": "since 引导时间介词短语。"
+        }
+      ],
+      "zh": "一位女士说，自从有了无线电后，街头打架事件变少了，但停下脚步“靠在刷柄上聊天”的人也变少了。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2026-text3-s10",
+      "s": "By and large the wireless was welcome.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "the wireless",
+        "谓语": "was",
+        "宾语或表语": "welcome",
+        "主干翻译": "无线电大体上是受到欢迎的。"
+      },
+      "components": [
+        {
+          "成分类型": "评注性状语",
+          "原文": "By and large",
+          "修饰对象": "主句",
+          "中文翻译": "大体上/总的来说",
+          "说明": "固定习语作全句评注性状语。"
+        }
+      ],
+      "zh": "总的来说，无线电是受到欢迎的。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2026-text3-s11",
+      "s": "I loved the man from the Thirties research who found that wireless suddenly offered “a lot of variety...things I thought I’d never be interested in...ice hockey perhaps”.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "I",
+        "谓语": "loved",
+        "宾语或表语": "the man",
+        "主干翻译": "我喜欢那位三十年代调研中的受访者。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "who found that wireless suddenly offered “a lot of variety...things I thought I’d never be interested in...ice hockey perhaps”",
+          "修饰对象": "the man",
+          "中文翻译": "他发现无线电突然带来了“丰富多样的内容……那些我原以为自己绝不会感兴趣的事物……比如冰球”",
+          "说明": "who 引导限制性定语从句修饰 the man。"
+        }
+      ],
+      "zh": "我非常喜欢30年代调查中的那个人，他发现无线电突然提供了“很多种类……我以为我永远不会感兴趣的事情……也许是冰球”。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2026-text3-s12",
+      "s": "True: for more than 80 pre-digital years, linear speech broadcasting brought the gift of serendipity, random enlivening of a car journey or dull manual task.",
+      "para_no": 4,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "linear speech broadcasting",
+        "谓语": "brought",
+        "宾语或表语": "the gift of serendipity",
+        "主干翻译": "线性语音广播带来了意外惊喜的礼物。"
+      },
+      "components": [
+        {
+          "成分类型": "同位语",
+          "原文": "random enlivening of a car journey or dull manual task",
+          "修饰对象": "the gift of serendipity",
+          "中文翻译": "对驾车旅程或枯燥体力劳动的随机增趣点亮",
+          "说明": "同位语短语对 serendipity (意外偶得的惊喜) 进行形象阐释。"
+        }
+      ],
+      "zh": "确实如此：在数字时代到来之前的80多年里，线性语音广播带来了意外收获的礼物，为驾车旅行或乏味的体力劳动随机增添了生机。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2026-text3-s13",
+      "s": "In my own book about radio I recorded how, on one drive: “I caught up with the news, learnt some 17thcentury history, and was startlingly educated by an unpretentious programme on the history of the stethoscope.”",
+      "para_no": 4,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "I",
+        "谓语": "recorded",
+        "宾语或表语": "how 引导的宾语从句",
+        "主干翻译": "在我自己关于广播的书里，我记录了……"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语(地点)",
+          "原文": "In my own book about radio",
+          "修饰对象": "recorded",
+          "中文翻译": "在我自己关于收音机的书中",
+          "说明": "介词短语置于句首作地点状语。"
+        }
+      ],
+      "zh": "在我自己关于收音机的书中，我记录了在一次驾车途中的经历：“我了解了新闻，学到了一些17世纪的历史，并且意外地从一个关于听诊器历史的低调节目中受到了教育。”",
+      "underline": null
+    },
+    {
+      "sid": "en1-2026-text3-s14",
+      "s": "But radio’s enriching serendipity is ebbing.",
+      "para_no": 5,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "radio’s enriching serendipity",
+        "谓语": "is ebbing",
+        "宾语或表语": "—",
+        "主干翻译": "广播丰富充实的意外惊喜正在消退。"
+      },
+      "components": [],
+      "zh": "但广播那份充实的意外惊喜正在逐渐消退。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2026-text3-s15",
+      "s": "With multiple networks and countless podcasts, a smartphone user selects what to hear and when.",
+      "para_no": 5,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "a smartphone user",
+        "谓语": "selects",
+        "宾语或表语": "what to hear and when",
+        "主干翻译": "智能手机用户自行选择听什么以及何时听。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语(伴随/背景)",
+          "原文": "With multiple networks and countless podcasts",
+          "修饰对象": "selects",
+          "中文翻译": "拥有多元化的网络与数不胜数的播客",
+          "说明": "With 复合结构作背景状语。"
+        }
+      ],
+      "zh": "随着多个网络和无数播客的出现，智能手机用户可以自行选择收听的内容和时间。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2026-text3-s16",
+      "s": "And while it is wonderful to take a walk with anything in your headphones, infinite choice encourages us to shrink into niche interests and sympathetic beliefs.",
+      "para_no": 5,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "infinite choice",
+        "谓语": "encourages",
+        "宾语或表语": "us to shrink into niche interests and sympathetic beliefs",
+        "主干翻译": "无限的选择促使我们退缩进小众兴趣与志同道合的信念中。"
+      },
+      "components": [
+        {
+          "成分类型": "让步状语从句",
+          "原文": "while it is wonderful to take a walk with anything in your headphones",
+          "修饰对象": "主句",
+          "中文翻译": "尽管戴着耳机随意听着漫步是件美好的事",
+          "说明": "while 引导让步状语从句，从句内部 it 为形式主语。"
+        }
+      ],
+      "zh": "虽然戴着耳机听着任何东西散步都很美妙，但无限的选择促使我们退缩到利基兴趣和产生共鸣的信仰中。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2026-text3-s17",
+      "s": "A hundred years on from Marconi and Reith, is the art of mere listening endangered?",
+      "para_no": 6,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "the art of mere listening",
+        "谓语": "is",
+        "宾语或表语": "endangered",
+        "主干翻译": "单纯倾听的艺术陷入濒危了吗？"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作时间状语",
+          "原文": "A hundred years on from Marconi and Reith",
+          "修饰对象": "主句疑问句",
+          "中文翻译": "自马可尼和里斯时代过去百年之后",
+          "说明": "时间状语修饰一般疑问句。"
+        }
+      ],
+      "zh": "自马可尼和里斯时代过去一百年后的今天，单纯倾听的艺术濒危了吗？",
+      "underline": null
+    },
+    {
+      "sid": "en1-2026-text3-s18",
+      "s": "Some will say the audiobook boom revives it, though I suppose you can then worry about the decline of reading.",
+      "para_no": 6,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Some",
+        "谓语": "will say",
+        "宾语或表语": "宾语从句",
+        "主干翻译": "有些人会说有声书的繁荣复兴了它。"
+      },
+      "components": [
+        {
+          "成分类型": "让步状语从句",
+          "原文": "though I suppose you can then worry about the decline of reading",
+          "修饰对象": "主句",
+          "中文翻译": "尽管我想你随后又可以担忧阅读本身的式微",
+          "说明": "though 引导让步状语从句。"
+        }
+      ],
+      "zh": "有些人会说有声读物的兴起复兴了它，尽管我认为你可能会进而担心阅读的衰落。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2026-text3-s19",
+      "s": "But inventions shape all of us and it is worth noticing when techno-social habits do change, and asking whether to control them a bit or shield the youngest.",
+      "para_no": 6,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "inventions and it",
+        "谓语": "shape and is",
+        "宾语或表语": "worth noticing and asking",
+        "主干翻译": "发明塑造了我们所有人，值得关注技术社会习惯何时改变并反思如何应对。"
+      },
+      "components": [
+        {
+          "成分类型": "时间状语从句",
+          "原文": "when techno-social habits do change",
+          "修饰对象": "noticing",
+          "中文翻译": "当技术社会习惯确实发生改变时",
+          "说明": "when 引导时间从句，do 表示强调。"
+        }
+      ],
+      "zh": "但发明塑造了我们所有人，当技术社会习惯发生变化时，值得去关注，并追问是否应当对其稍加控制或保护最年轻的一代。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2026-text3-s20",
+      "s": "Whatever we do, innovation will happen.",
+      "para_no": 6,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "innovation",
+        "谓语": "will happen",
+        "宾语或表语": "—",
+        "主干翻译": "创新终将发生。"
+      },
+      "components": [
+        {
+          "成分类型": "让步状语从句",
+          "原文": "Whatever we do",
+          "修饰对象": "主句",
+          "中文翻译": "无论我们做什么",
+          "说明": "Whatever 引导让步从句，相当于 no matter what we do。"
+        }
+      ],
+      "zh": "无论我们做什么，创新都会发生。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2026-text3-s21",
+      "s": "Today we fret about the isolating culture of smartphone-staring and selfievanity, but already in 1939 there was that lady regretting how, when all her street got wirelesses, it lost the neighbourly habit of “talking on the brush handle”.",
+      "para_no": 6,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "we and there",
+        "谓语": "fret and was",
+        "宾语或表语": "that lady",
+        "主干翻译": "今天我们为手机低头族与自拍虚荣的孤立文化而烦恼，但早在1939年就有一位女士叹息邻里闲聊习惯的丧失。"
+      },
+      "components": [
+        {
+          "成分类型": "现在分词短语作后置定语",
+          "原文": "regretting how, when all her street got wirelesses, it lost the neighbourly habit of “talking on the brush handle”",
+          "修饰对象": "that lady",
+          "中文翻译": "遗憾当时整条街都装了收音机后，失去了靠着扫帚柄闲聊的邻里习俗",
+          "说明": "regretting 引出宾语从句 how 从句。"
+        }
+      ],
+      "zh": "今天我们对盯着智能手机和自拍自恋这种孤立文化感到烦恼，但早在1939年，就有那位女士感到遗憾，当她整条街的人都有了收音机时，就失去了“在扫帚柄上聊天”的邻里习惯。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2026-text3-s22",
+      "s": "It’s enough to make a person put down the smartphone and go out front with a yard broom.",
+      "para_no": 6,
+      "para_seq": 5,
+      "trunk": {
+        "主语": "It",
+        "谓语": "is",
+        "宾语或表语": "enough to make a person put down the smartphone",
+        "主干翻译": "这足以让人放下智能手机走出门前。"
+      },
+      "components": [
+        {
+          "成分类型": "结果/程度不定式短语",
+          "原文": "to make a person put down the smartphone and go out front with a yard broom",
+          "修饰对象": "enough",
+          "中文翻译": "足以促使一个人放下手机，拿着院子里的扫帚走到门前",
+          "说明": "enough to do 结构，使役动词 make 后接省略 to 的不定式并列短语。"
+        }
+      ],
+      "zh": "这足以让人放下智能手机，拿着院子里的扫帚走到门前。",
+      "underline": null
+    }
+  ]
+}

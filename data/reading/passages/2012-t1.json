@@ -1,0 +1,786 @@
+{
+  "exam": "en1",
+  "key": "2012-t1",
+  "year": 2012,
+  "text_no": 1,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2012-text1-s1",
+      "s": "Come on—Everybody's doing it.",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Everybody",
+        "谓语": "is doing",
+        "宾语或表语": "it",
+        "主干翻译": "每个人都在这么做。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "Come on",
+          "修饰对象": "Everybody's doing it",
+          "中文翻译": "得了吧",
+          "说明": "独立感叹语，作插入语，引出后面的劝说。"
+        }
+      ],
+      "zh": "得了吧——每个人都在这么做。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2012-text1-s2",
+      "s": "That whispered message, half invitation and half forcing, is what most of us think of when we hear the words peer pressure.",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "That whispered message",
+        "谓语": "is",
+        "宾语或表语": "what most of us think of",
+        "主干翻译": "那句悄声的话语，正是我们大多数人所想到的。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "half invitation and half forcing",
+          "修饰对象": "message",
+          "中文翻译": "一半是邀请，一半是强迫",
+          "说明": "同位/插入成分，补充说明message的性质。"
+        },
+        {
+          "成分类型": "表语从句",
+          "原文": "what most of us think of when we hear the words peer pressure",
+          "修饰对象": "is",
+          "中文翻译": "我们大多数人在听到'同辈压力'这个词时所想到的东西",
+          "说明": "what引导表语从句，作系动词is的表语。"
+        },
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "when we hear the words peer pressure",
+          "修饰对象": "think",
+          "中文翻译": "当我们听到'同辈压力'这个词时",
+          "说明": "when引导时间状语从句，修饰think of。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "peer pressure",
+          "修饰对象": "words",
+          "中文翻译": "同辈压力",
+          "说明": "对the words的同位说明，点明所指的具体词语。"
+        }
+      ],
+      "zh": "那句一半是邀请、一半是强迫的悄声话语，正是我们大多数人一听到'同辈压力'这个词时所想到的东西。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2012-text1-s3",
+      "s": "It usually leads to no good—drinking, drugs and casual sex.",
+      "para_no": 1,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "It",
+        "谓语": "leads to",
+        "宾语或表语": "no good",
+        "主干翻译": "它通常没有好结果。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "drinking, drugs and casual sex",
+          "修饰对象": "good",
+          "中文翻译": "酗酒、吸毒和随意的性行为",
+          "说明": "破折号后对no good的同位列举，说明具体的不良后果。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "drugs and casual sex",
+          "修饰对象": "drinking",
+          "中文翻译": "吸毒和随意的性行为",
+          "说明": "与drinking构成名词并列。"
+        }
+      ],
+      "zh": "它通常不会带来什么好结果——酗酒、吸毒和随意的性行为。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2012-text1-s4",
+      "s": "But in her new book Join the Club, Tina Rosenberg contends that peer pressure can also be a positive force through what she calls the social cure, in which organizations and officials use the power of group dynamics to help individuals improve their lives and possibly the world.",
+      "para_no": 1,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "Tina Rosenberg",
+        "谓语": "contends",
+        "宾语或表语": "that peer pressure can also be a positive force",
+        "主干翻译": "蒂娜·罗森伯格主张，同辈压力也可以是一种积极的力量。"
+      },
+      "components": [
+        {
+          "成分类型": "同位语",
+          "原文": "Join the Club",
+          "修饰对象": "book",
+          "中文翻译": "《加入俱乐部》",
+          "说明": "对her new book的同位说明，点明书名。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that peer pressure can also be a positive force through what she calls the social cure, in which organizations and officials use the power of group dynamics to help individuals improve their lives and possibly the world",
+          "修饰对象": "contends",
+          "中文翻译": "同辈压力通过她所谓的'社会疗法'也可以成为一种积极的力量，在这种疗法中各组织和官员利用群体动力的力量帮助个人改善他们的生活乃至整个世界",
+          "说明": "that引导宾语从句，作contends的宾语。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "in which organizations and officials use the power of group dynamics to help individuals improve their lives and possibly the world",
+          "修饰对象": "cure",
+          "中文翻译": "在这种疗法中各组织和官员利用群体动力的力量帮助个人改善他们的生活乃至整个世界",
+          "说明": "in which引导定语从句，修饰先行词the social cure（k标为挂靠cure）。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to help individuals improve their lives and possibly the world",
+          "修饰对象": "use",
+          "中文翻译": "以帮助个人改善他们的生活乃至整个世界",
+          "说明": "不定式作目的状语，修饰use。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "individuals improve their lives and possibly the world",
+          "修饰对象": "help",
+          "中文翻译": "个人改善他们的生活乃至整个世界",
+          "说明": "help+宾语+省略to的不定式构成复合宾语，improve为宾语补足语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "possibly the world",
+          "修饰对象": "lives",
+          "中文翻译": "乃至整个世界",
+          "说明": "与their lives构成improve的并列宾语。"
+        }
+      ],
+      "zh": "但在她的新书《加入俱乐部》中，蒂娜·罗森伯格主张：通过她所谓的'社会疗法'，同辈压力也可以成为一种积极的力量；在这种疗法中，各组织和官员利用群体动力的力量来帮助个人改善他们的生活，乃至改善整个世界。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2012-text1-s5",
+      "s": "Rosenberg, the recipient of a Pulitzer Prize, offers a host of examples of the social cure in action: In South Carolina, a state-sponsored antismoking program called Rage Against the Haze sets out to make cigarettes uncool.",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Rosenberg",
+        "谓语": "offers",
+        "宾语或表语": "a host of examples",
+        "主干翻译": "罗森伯格提供了大量例证。"
+      },
+      "components": [
+        {
+          "成分类型": "同位语",
+          "原文": "the recipient of a Pulitzer Prize",
+          "修饰对象": "Rosenberg",
+          "中文翻译": "一位普利策奖得主",
+          "说明": "对主语Rosenberg的同位说明。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "called Rage Against the Haze",
+          "修饰对象": "program",
+          "中文翻译": "名为'怒驱烟霾'的",
+          "说明": "过去分词短语作定语，修饰program。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to make cigarettes uncool",
+          "修饰对象": "sets",
+          "中文翻译": "以使香烟变得不再'酷'",
+          "说明": "不定式作目的状语，与sets out搭配。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "cigarettes uncool",
+          "修饰对象": "make",
+          "中文翻译": "香烟变得不酷",
+          "说明": "make+宾语+形容词构成复合宾语，uncool为宾语补足语。"
+        }
+      ],
+      "zh": "罗森伯格作为普利策奖得主，提供了大量社会疗法实际运用的例证：在南卡罗来纳州，一个名为'怒驱烟霾'的州资助禁烟项目着手让香烟变得不再'酷'。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2012-text1-s6",
+      "s": "In South Africa, an HIV-prevention initiative known as loveLife recruits young people to promote safe sex among their peers.",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "an HIV-prevention initiative",
+        "谓语": "recruits",
+        "宾语或表语": "young people",
+        "主干翻译": "一项艾滋病预防行动招募年轻人。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "known as loveLife",
+          "修饰对象": "initiative",
+          "中文翻译": "名为'爱生活'的",
+          "说明": "过去分词短语作定语，修饰initiative。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to promote safe sex among their peers",
+          "修饰对象": "recruits",
+          "中文翻译": "以在同龄人中推广安全性行为",
+          "说明": "不定式作目的状语，修饰recruits。"
+        }
+      ],
+      "zh": "在南非，一项名为'爱生活'的艾滋病预防行动招募年轻人在同龄人中推广安全性行为。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2012-text1-s7",
+      "s": "The idea seems promising, and Rosenberg is a perceptive observer.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The idea",
+        "谓语": "seems",
+        "宾语或表语": "promising",
+        "主干翻译": "这个想法看起来很有前景。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "Rosenberg is a perceptive observer",
+          "修饰对象": "—",
+          "中文翻译": "罗森伯格是一位敏锐的观察者",
+          "说明": "由and连接的并列分句，与前一分句并列。"
+        }
+      ],
+      "zh": "这个想法看起来很有前景，而且罗森伯格是一位敏锐的观察者。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2012-text1-s8",
+      "s": "Her critique of the lameness of many public-health campaigns is spot-on: they fail to mobilize peer pressure for healthy habits, and they demonstrate a seriously flawed understanding of psychology.",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Her critique",
+        "谓语": "is",
+        "宾语或表语": "spot-on",
+        "主干翻译": "她的批评一针见血。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "of the lameness of many public-health campaigns",
+          "修饰对象": "critique",
+          "中文翻译": "对许多公共卫生运动之拙劣的",
+          "说明": "of短语作定语，修饰critique。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "they fail to mobilize peer pressure for healthy habits, and they demonstrate a seriously flawed understanding of psychology",
+          "修饰对象": "—",
+          "中文翻译": "它们未能为养成健康习惯而调动同辈压力，而且暴露出对心理学的严重错误理解",
+          "说明": "冒号后两个由and连接的并列分句，对spot-on的内容加以展开说明。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to mobilize peer pressure for healthy habits",
+          "修饰对象": "fail",
+          "中文翻译": "调动同辈压力以养成健康习惯",
+          "说明": "不定式作fail的宾语/补足成分（fail to do）。"
+        }
+      ],
+      "zh": "她对许多公共卫生运动之拙劣的批评一针见血：它们未能为养成健康习惯而调动同辈压力，而且暴露出对心理学的严重错误理解。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2012-text1-s9",
+      "s": "\"Dare to be different, please don't smoke!\" pleads one billboard campaign aimed at reducing smoking among teenagers—teenagers, who desire nothing more than fitting in.",
+      "para_no": 3,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "one billboard campaign",
+        "谓语": "pleads",
+        "宾语或表语": "\"Dare to be different, please don't smoke!\"",
+        "主干翻译": "一则广告牌宣传恳求道：'敢于与众不同，请别吸烟！'"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "Dare to be different, please don't smoke",
+          "修饰对象": "pleads",
+          "中文翻译": "敢于与众不同，请别吸烟",
+          "说明": "引语内容作pleads的宾语（直接引语前置形成倒装）。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to be different",
+          "修饰对象": "Dare",
+          "中文翻译": "与众不同",
+          "说明": "不定式与Dare搭配（dare to do）。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "aimed at reducing smoking among teenagers—teenagers, who desire nothing more than fitting in",
+          "修饰对象": "campaign",
+          "中文翻译": "旨在减少青少年吸烟的——而这些青少年最渴望的莫过于融入群体",
+          "说明": "过去分词短语作定语，修饰campaign。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "teenagers, who desire nothing more than fitting in",
+          "修饰对象": "teenagers",
+          "中文翻译": "青少年——他们最渴望的莫过于融入群体",
+          "说明": "破折号后对teenagers的同位重复并加以补充。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "who desire nothing more than fitting in",
+          "修饰对象": "teenagers",
+          "中文翻译": "他们最渴望的莫过于融入群体",
+          "说明": "who引导非限制性定语从句，修饰teenagers。"
+        }
+      ],
+      "zh": "'敢于与众不同，请别吸烟！'——一则旨在减少青少年吸烟的广告牌宣传如此恳求，而这些青少年最渴望的莫过于融入群体。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2012-text1-s10",
+      "s": "Rosenberg argues convincingly that public-health advocates ought to take a page from advertisers, so skilled at applying peer pressure.",
+      "para_no": 3,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "Rosenberg",
+        "谓语": "argues",
+        "宾语或表语": "that public-health advocates ought to take a page from advertisers",
+        "主干翻译": "罗森伯格令人信服地论证：公共卫生倡导者应当向广告商学习。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "that public-health advocates ought to take a page from advertisers, so skilled at applying peer pressure",
+          "修饰对象": "argues",
+          "中文翻译": "公共卫生倡导者应当向如此善于施加同辈压力的广告商借鉴取经",
+          "说明": "that引导宾语从句，作argues的宾语。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to take a page from advertisers, so skilled at applying peer pressure",
+          "修饰对象": "ought",
+          "中文翻译": "向如此善于施加同辈压力的广告商借鉴取经",
+          "说明": "不定式与ought搭配（ought to do）；'so skilled...'为形容词短语作advertisers的后置定语。"
+        }
+      ],
+      "zh": "罗森伯格令人信服地论证：公共卫生倡导者应当向那些如此善于施加同辈压力的广告商借鉴取经。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2012-text1-s11",
+      "s": "But on the general effectiveness of the social cure, Rosenberg is less persuasive.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Rosenberg",
+        "谓语": "is",
+        "宾语或表语": "less persuasive",
+        "主干翻译": "罗森伯格的说服力较弱。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "on the general effectiveness of the social cure",
+          "修饰对象": "is",
+          "中文翻译": "在社会疗法的总体效果方面",
+          "说明": "前置介词短语作状语，限定论述的范围。"
+        }
+      ],
+      "zh": "但在社会疗法的总体效果方面，罗森伯格的论证就缺乏说服力了。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2012-text1-s12",
+      "s": "Join the Club is filled with too much irrelevant detail and not enough exploration of the social and biological factors that make peer pressure so powerful.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Join the Club",
+        "谓语": "is filled with",
+        "宾语或表语": "too much irrelevant detail and not enough exploration",
+        "主干翻译": "《加入俱乐部》充斥着过多无关的细节，而缺乏足够的探讨。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "not enough exploration of the social and biological factors that make peer pressure so powerful",
+          "修饰对象": "detail",
+          "中文翻译": "对令同辈压力如此强大的社会与生物因素缺乏足够的探讨",
+          "说明": "与too much irrelevant detail并列，同为is filled with的宾语。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that make peer pressure so powerful",
+          "修饰对象": "factors",
+          "中文翻译": "使同辈压力如此强大的",
+          "说明": "that引导定语从句，修饰factors。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "peer pressure so powerful",
+          "修饰对象": "make",
+          "中文翻译": "同辈压力如此强大",
+          "说明": "make+宾语+形容词构成复合宾语，so powerful为宾语补足语。"
+        }
+      ],
+      "zh": "《加入俱乐部》充斥着过多无关的细节，却没有对令同辈压力如此强大的社会与生物因素进行足够的探讨。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2012-text1-s13",
+      "s": "The most glaring flaw of the social cure as it's presented here is that it doesn't work very well for very long.",
+      "para_no": 4,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "The most glaring flaw",
+        "谓语": "is",
+        "宾语或表语": "that it doesn't work very well for very long",
+        "主干翻译": "最明显的缺陷在于它不能长久地很好地起作用。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "of the social cure",
+          "修饰对象": "flaw",
+          "中文翻译": "社会疗法的",
+          "说明": "of短语作定语，修饰flaw。"
+        },
+        {
+          "成分类型": "状语从句(方式)",
+          "原文": "as it's presented here",
+          "修饰对象": "cure",
+          "中文翻译": "如本书所呈现的",
+          "说明": "as引导方式状语从句，限定the social cure（k挂靠cure）。"
+        },
+        {
+          "成分类型": "表语从句",
+          "原文": "that it doesn't work very well for very long",
+          "修饰对象": "is",
+          "中文翻译": "它无法在很长时间内很好地发挥作用",
+          "说明": "that引导表语从句，作is的表语。"
+        }
+      ],
+      "zh": "如本书所呈现的，社会疗法最明显的缺陷在于：它无法在很长时间内很好地发挥作用。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2012-text1-s14",
+      "s": "Rage Against the Haze failed once state funding was cut.",
+      "para_no": 4,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "Rage Against the Haze",
+        "谓语": "failed",
+        "宾语或表语": "—",
+        "主干翻译": "'怒驱烟霾'项目失败了。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "once state funding was cut",
+          "修饰对象": "failed",
+          "中文翻译": "一旦州政府的资金被削减",
+          "说明": "once引导时间状语从句（一……就……），修饰failed。"
+        }
+      ],
+      "zh": "州政府的资金一被削减，'怒驱烟霾'项目就失败了。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2012-text1-s15",
+      "s": "Evidence that the loveLife program produces lasting changes is limited and mixed.",
+      "para_no": 4,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "Evidence",
+        "谓语": "is",
+        "宾语或表语": "limited and mixed",
+        "主干翻译": "证据既有限又参差不齐。"
+      },
+      "components": [
+        {
+          "成分类型": "同位语从句",
+          "原文": "that the loveLife program produces lasting changes",
+          "修饰对象": "Evidence",
+          "中文翻译": "'爱生活'项目能带来持久改变的",
+          "说明": "that引导同位语从句，说明Evidence的具体内容。"
+        }
+      ],
+      "zh": "关于'爱生活'项目能否带来持久改变的证据既有限又相互矛盾。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2012-text1-s16",
+      "s": "There's no doubt that our peer groups exert enormous influence on our behavior.",
+      "para_no": 5,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "There",
+        "谓语": "'s",
+        "宾语或表语": "no doubt",
+        "主干翻译": "毫无疑问。"
+      },
+      "components": [
+        {
+          "成分类型": "同位语从句",
+          "原文": "that our peer groups exert enormous influence on our behavior",
+          "修饰对象": "doubt",
+          "中文翻译": "我们的同辈群体对我们的行为施加着巨大的影响",
+          "说明": "that引导同位语从句，说明doubt的内容。"
+        }
+      ],
+      "zh": "毫无疑问，我们的同辈群体对我们的行为施加着巨大的影响。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2012-text1-s17",
+      "s": "An emerging body of research shows that positive health habits—as well as negative ones—spread through networks of friends via social communication.",
+      "para_no": 5,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "An emerging body of research",
+        "谓语": "shows",
+        "宾语或表语": "that positive health habits spread through networks of friends",
+        "主干翻译": "一系列新兴研究表明，积极的健康习惯通过朋友网络传播。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "that positive health habits—as well as negative ones—spread through networks of friends via social communication",
+          "修饰对象": "shows",
+          "中文翻译": "积极的健康习惯——以及消极的习惯——通过社会交往在朋友网络中传播",
+          "说明": "that引导宾语从句，作shows的宾语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "negative ones",
+          "修饰对象": "habits",
+          "中文翻译": "消极的习惯",
+          "说明": "as well as连接，与positive health habits构成并列主语。"
+        }
+      ],
+      "zh": "一系列新兴的研究表明，积极的健康习惯——以及消极的习惯——都会通过社会交往在朋友网络中传播。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2012-text1-s18",
+      "s": "This is a subtle form of peer pressure: we unconsciously imitate the behavior we see every day.",
+      "para_no": 5,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "This / we",
+        "谓语": "is / imitate",
+        "宾语或表语": "a subtle form of peer pressure / the behavior",
+        "主干翻译": "这是一种微妙的同伴压力：我们会不自觉地模仿那些行为。"
+      },
+      "components": [
+        {
+          "成分类型": "表语从句",
+          "原文": "This is a subtle form of peer pressure",
+          "修饰对象": "imitate",
+          "中文翻译": "这是一种微妙的同伴压力",
+          "说明": "冒号前为系表结构主句，a subtle form of peer pressure作表语。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "we see every day",
+          "修饰对象": "behavior",
+          "中文翻译": "我们每天所见到的（行为）",
+          "说明": "省略引导词的定语从句，修饰behavior。"
+        }
+      ],
+      "zh": "这是一种微妙的同伴压力：我们会不自觉地模仿自己每天所见到的行为。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2012-text1-s19",
+      "s": "Far less certain, however, is how successfully experts and bureaucrats can select our peer groups and steer their activities in virtuous directions.",
+      "para_no": 6,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "how successfully experts and bureaucrats can select our peer groups and steer their activities",
+        "谓语": "is",
+        "宾语或表语": "Far less certain",
+        "主干翻译": "专家和官僚能多么成功地选择我们的同辈群体并引导其活动，则远不那么确定。"
+      },
+      "components": [
+        {
+          "成分类型": "倒装",
+          "原文": "Far less certain, however, is how successfully experts and bureaucrats can select our peer groups and steer their activities in virtuous directions",
+          "修饰对象": "—",
+          "中文翻译": "然而，专家和官僚能多么成功地选择我们的同辈群体并将其活动引向良性方向，则远不那么确定",
+          "说明": "表语Far less certain前置形成完全倒装，真正主语是后面的how引导的主语从句。"
+        },
+        {
+          "成分类型": "主语从句",
+          "原文": "how successfully experts and bureaucrats can select our peer groups and steer their activities in virtuous directions",
+          "修饰对象": "is",
+          "中文翻译": "专家和官僚能多么成功地选择我们的同辈群体并将其活动引向良性方向",
+          "说明": "how引导主语从句，作句子真正的主语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "steer their activities in virtuous directions",
+          "修饰对象": "select",
+          "中文翻译": "将其活动引向良性方向",
+          "说明": "与select our peer groups并列，同为can的谓语。"
+        }
+      ],
+      "zh": "然而，专家和官僚能够多么成功地选择我们的同辈群体并将其活动引向良性方向，这一点则远不那么确定。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2012-text1-s20",
+      "s": "It's like the teacher who breaks up the troublemakers in the back row by pairing them with better-behaved classmates.",
+      "para_no": 6,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "It",
+        "谓语": "'s like",
+        "宾语或表语": "the teacher",
+        "主干翻译": "这就像那位老师。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "who breaks up the troublemakers in the back row by pairing them with better-behaved classmates",
+          "修饰对象": "teacher",
+          "中文翻译": "通过把后排的捣蛋鬼与表现较好的同学配对来拆散他们的",
+          "说明": "who引导定语从句，修饰teacher。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "by pairing them with better-behaved classmates",
+          "修饰对象": "breaks",
+          "中文翻译": "通过把他们与表现较好的同学配对",
+          "说明": "by+动名词短语作方式状语，修饰breaks up。"
+        }
+      ],
+      "zh": "这就像那位通过把后排捣蛋的学生与表现较好的同学配对来拆散他们的老师。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2012-text1-s21",
+      "s": "The tactic never really works.",
+      "para_no": 6,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "The tactic",
+        "谓语": "never really works",
+        "宾语或表语": "—",
+        "主干翻译": "这种策略从来没有真正奏效过。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "never really",
+          "修饰对象": "works",
+          "中文翻译": "从来没有真正",
+          "说明": "副词never really作状语，修饰works（否定）。"
+        }
+      ],
+      "zh": "这种策略从来都没有真正奏效过。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2012-text1-s22",
+      "s": "And that's the problem with a social cure engineered from the outside: in the real world, as in school, we insist on choosing our own friends.",
+      "para_no": 6,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "that",
+        "谓语": "'s",
+        "宾语或表语": "the problem",
+        "主干翻译": "那就是问题所在。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "with a social cure engineered from the outside",
+          "修饰对象": "problem",
+          "中文翻译": "从外部设计出来的社会疗法所存在的",
+          "说明": "with短语作定语，修饰the problem。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "engineered from the outside",
+          "修饰对象": "cure",
+          "中文翻译": "从外部人为设计的",
+          "说明": "过去分词短语作定语，修饰a social cure。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "in the real world, as in school, we insist on choosing our own friends",
+          "修饰对象": "—",
+          "中文翻译": "在现实世界中，正如在学校里一样，我们坚持选择自己的朋友",
+          "说明": "冒号后的分句对前句加以解释说明（k挂靠insist）；'as in school'为as引导的比较/方式状语。"
+        }
+      ],
+      "zh": "这正是从外部人为设计的社会疗法所存在的问题：在现实世界中，正如在学校里一样，我们坚持选择自己的朋友。",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2012-text1-s1",
+        "en1-2012-text1-s2",
+        "en1-2012-text1-s3",
+        "en1-2012-text1-s4"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2012-text1-s5",
+        "en1-2012-text1-s6"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2012-text1-s7",
+        "en1-2012-text1-s8",
+        "en1-2012-text1-s9",
+        "en1-2012-text1-s10"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2012-text1-s11",
+        "en1-2012-text1-s12",
+        "en1-2012-text1-s13",
+        "en1-2012-text1-s14",
+        "en1-2012-text1-s15"
+      ]
+    },
+    {
+      "para_no": 5,
+      "sids": [
+        "en1-2012-text1-s16",
+        "en1-2012-text1-s17",
+        "en1-2012-text1-s18"
+      ]
+    },
+    {
+      "para_no": 6,
+      "sids": [
+        "en1-2012-text1-s19",
+        "en1-2012-text1-s20",
+        "en1-2012-text1-s21",
+        "en1-2012-text1-s22"
+      ]
+    }
+  ]
+}

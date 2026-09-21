@@ -1,0 +1,676 @@
+{
+  "exam": "en1",
+  "key": "2010-t3",
+  "year": 2010,
+  "text_no": 3,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2010-text3-s1",
+      "s": "In his book The Tipping Point, Malcolm Gladwell argues that \"social epidemics\" are driven in large part by the actions of a tiny minority of special individuals, often called influentials, who are unusually informed, persuasive, or well-connected.",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Malcolm Gladwell",
+        "谓语": "argues",
+        "宾语或表语": "that \"social epidemics\" are driven ... by the acting of a tiny minority of special individuals",
+        "主干翻译": "马尔科姆·格拉德威尔认为，\"社会流行潮\"在很大程度上是由一小群特殊个体的行为所推动的。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "The Tipping Point",
+          "修饰对象": "book",
+          "中文翻译": "《引爆点》",
+          "说明": "his book 的同位语，点明书名。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that \"social epidemics\" are driven in large part by the actions of a tiny minority of special individuals, often called influentials, who are unusually informed, persuasive, or well-connected",
+          "修饰对象": "argues",
+          "中文翻译": "\"社会流行潮\"在很大程度上是由一小群特殊个体的行为所推动的，这些人常被称为有影响力者，他们见多识广、能言善道或人脉广博，异于常人。",
+          "说明": "由 that 引导，作 argues 的宾语。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "often called influentials",
+          "修饰对象": "individuals",
+          "中文翻译": "常被称为\"有影响力者\"",
+          "说明": "过去分词短语作 individuals 的后置定语（兼具同位说明作用）。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "who are unusually informed, persuasive, or well-connected",
+          "修饰对象": "individuals",
+          "中文翻译": "他们异乎寻常地见多识广、富有说服力或人脉广博",
+          "说明": "who 引导的定语从句，修饰 special individuals。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "informed, persuasive, or well-connected",
+          "修饰对象": "informed",
+          "中文翻译": "见多识广、富有说服力或人脉广博",
+          "说明": "三个表语形容词由 or 并列。"
+        }
+      ],
+      "zh": "马尔科姆·格拉德威尔在其著作《引爆点》中提出，\"社会流行潮\"在很大程度上是由一小群特殊个体的行为推动的，这些人常被称为\"有影响力者\"，他们异乎寻常地见多识广、富有说服力或人脉广博。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2010-text3-s2",
+      "s": "The idea is intuitively compelling, but it doesn't explain how ideas actually spread.",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "The idea / it",
+        "谓语": "is compelling / doesn't explain",
+        "宾语或表语": "compelling / how ideas actually spread",
+        "主干翻译": "这一观点很有说服力，但它并未解释观念实际是如何传播的。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "but it doesn't explain how ideas actually spread",
+          "修饰对象": "is",
+          "中文翻译": "但它并没有解释观念实际上是如何传播的",
+          "说明": "由 but 连接的并列分句，与前一分句构成转折并列。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "how ideas actually spread",
+          "修饰对象": "explain",
+          "中文翻译": "观念实际上是如何传播的",
+          "说明": "how 引导，作 explain 的宾语。"
+        }
+      ],
+      "zh": "这一观点凭直觉看颇具说服力，但它并未解释观念实际上是如何传播的。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2010-text3-s3",
+      "s": "The supposed importance of influentials derives from a plausible-sounding but largely untested theory called the \"two-step flow of communication\": Information flows from the media to the influentials and from them to everyone else.",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The supposed importance of influentials",
+        "谓语": "derives from",
+        "宾语或表语": "a plausible-sounding but largely untested theory",
+        "主干翻译": "所谓有影响力者的重要性，源自一个听上去合理但大体未经检验的理论。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "called the \"two-step flow of communication\"",
+          "修饰对象": "theory",
+          "中文翻译": "被称为\"传播的两级流动\"",
+          "说明": "过去分词短语作 theory 的后置定语，兼点明该理论名称。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": ": Information flows from the media to the influentials and from them to everyone else",
+          "修饰对象": "theory",
+          "中文翻译": "信息先从媒体流向有影响力者，再从他们流向其他所有人",
+          "说明": "冒号后的句子对 theory 作进一步解释说明（同位/阐释成分）。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "from the media to the influentials and from them to everyone else",
+          "修饰对象": "flows",
+          "中文翻译": "从媒体流向有影响力者，并从他们流向其他所有人",
+          "说明": "两个 from...to... 介词短语由 and 并列作 flows 的状语。"
+        }
+      ],
+      "zh": "所谓有影响力者的重要性，源自一个听上去合理但大体上未经检验的理论，即\"传播的两级流动\"：信息先从媒体流向有影响力者，再由他们流向其他所有人。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2010-text3-s4",
+      "s": "Marketers have embraced the two-step flow because it suggests that if they can just find and influence the influentials, those select people will do most of the work for them.",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Marketers",
+        "谓语": "have embraced",
+        "宾语或表语": "the two-step flow",
+        "主干翻译": "营销人员欣然接受了这种两级流动理论。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(原因)",
+          "原文": "because it suggests that if they can just find and influence the influentials, those select people will do most of the work for them",
+          "修饰对象": "embraced",
+          "中文翻译": "因为它暗示，只要他们能找到并影响那些有影响力者，被选中的人就会替他们完成大部分工作",
+          "说明": "because 引导原因状语从句，说明营销人员接受该理论的原因。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that if they can just find and influence the influentials, those select people will do most of the work for them",
+          "修饰对象": "suggests",
+          "中文翻译": "只要他们能找到并影响那些有影响力者，被选中的人就会替他们完成大部分工作",
+          "说明": "that 引导，作 suggests 的宾语。"
+        },
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "if they can just find and influence the influentials",
+          "修饰对象": "do",
+          "中文翻译": "只要他们能找到并影响那些有影响力者",
+          "说明": "if 引导条件状语从句，修饰主句谓语 will do。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "find and influence the influentials",
+          "修饰对象": "find",
+          "中文翻译": "找到并影响那些有影响力者",
+          "说明": "find 与 influence 两个动词由 and 并列。"
+        }
+      ],
+      "zh": "营销人员欣然接受了这种两级流动理论，因为它暗示：只要能找到并影响那些有影响力者，这些被选中的人就会替他们完成大部分工作。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2010-text3-s5",
+      "s": "The theory also seems to explain the sudden and unexpected popularity of certain looks, brands, or neighborhoods.",
+      "para_no": 2,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "The theory",
+        "谓语": "seems to explain",
+        "宾语或表语": "the sudden and unexpected popularity of certain looks, brands, or neighborhoods",
+        "主干翻译": "该理论似乎还能解释某些造型、品牌或街区突如其来、出人意料的流行。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to explain the sudden and unexpected popularity of certain looks, brands, or neighborhoods",
+          "修饰对象": "seems",
+          "中文翻译": "解释某些造型、品牌或街区突如其来、出人意料的流行",
+          "说明": "动词不定式与 seems 构成 seem to do 结构，作 seems 的补足成分。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "certain looks, brands, or neighborhoods",
+          "修饰对象": "looks",
+          "中文翻译": "某些造型、品牌或街区",
+          "说明": "三个名词由 or 并列，作 of 的宾语。"
+        }
+      ],
+      "zh": "该理论似乎还能解释某些造型、品牌或街区突如其来、出人意料的走红。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2010-text3-s6",
+      "s": "In many such cases, a cursory search for causes finds that some small group of people was wearing, promoting, or developing whatever it is before anyone else paid attention.",
+      "para_no": 2,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "a cursory search for causes",
+        "谓语": "finds",
+        "宾语或表语": "that some small group of people was wearing, promoting, or developing whatever it is",
+        "主干翻译": "对成因的粗略查考会发现，某个小群体一直在穿戴、推广或开发某种事物。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "In many such cases",
+          "修饰对象": "finds",
+          "中文翻译": "在许多此类情形中",
+          "说明": "介词短语作句首状语，限定语境。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that some small group of people was wearing, promoting, or developing whatever it is before anyone else paid attention",
+          "修饰对象": "finds",
+          "中文翻译": "在其他任何人留意之前，某个小群体就一直在穿戴、推广或开发某种事物",
+          "说明": "that 引导，作 finds 的宾语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "wearing, promoting, or developing",
+          "修饰对象": "wearing",
+          "中文翻译": "穿戴、推广或开发",
+          "说明": "三个现在分词由 or 并列，构成过去进行时谓语。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "whatever it is",
+          "修饰对象": "developing",
+          "中文翻译": "无论那是什么东西",
+          "说明": "whatever 引导的从句作 wearing/promoting/developing 的宾语。"
+        },
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "before anyone else paid attention",
+          "修饰对象": "wearing",
+          "中文翻译": "在其他任何人留意之前",
+          "说明": "before 引导时间状语从句。"
+        }
+      ],
+      "zh": "在许多此类情形中，对成因的粗略查考会发现：早在其他人留意之前，某个小群体就一直在穿戴、推广或开发某种东西。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2010-text3-s7",
+      "s": "Anecdotal evidence of this kind fits nicely with the idea that only certain special people can drive trends.",
+      "para_no": 2,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "Anecdotal evidence of this kind",
+        "谓语": "fits with",
+        "宾语或表语": "the idea",
+        "主干翻译": "这类轶事性证据与这一观点正好相符。"
+      },
+      "components": [
+        {
+          "成分类型": "同位语从句",
+          "原文": "that only certain special people can drive trends",
+          "修饰对象": "idea",
+          "中文翻译": "只有某些特殊人物才能引领潮流",
+          "说明": "that 引导，对 the idea 作同位语说明。"
+        }
+      ],
+      "zh": "这类轶事性证据恰好印证了这样一种观点：只有某些特殊人物才能引领潮流。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2010-text3-s8",
+      "s": "In their recent work, however, some researchers have come up with the finding that influentials have far less impact on social epidemics than is generally supposed.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "some researchers",
+        "谓语": "have come up with",
+        "宾语或表语": "the finding",
+        "主干翻译": "一些研究者得出了这一发现。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "however",
+          "修饰对象": "—",
+          "中文翻译": "然而",
+          "说明": "插入语，表转折语气。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "In their recent work",
+          "修饰对象": "come up with",
+          "中文翻译": "在他们近期的研究中",
+          "说明": "介词短语作句首状语。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "that influentials have far less impact on social epidemics than is generally supposed",
+          "修饰对象": "finding",
+          "中文翻译": "有影响力者对社会流行潮的影响远比人们普遍设想的要小",
+          "说明": "that 引导，对 the finding 作同位语说明。"
+        },
+        {
+          "成分类型": "状语从句(比较)",
+          "原文": "than is generally supposed",
+          "修饰对象": "impact",
+          "中文翻译": "比人们普遍设想的（要小）",
+          "说明": "than 引导比较状语从句，与 far less 呼应。"
+        }
+      ],
+      "zh": "然而，一些研究者在其近期研究中得出了这样一个发现：有影响力者对社会流行潮的影响，远比人们通常设想的要小得多。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2010-text3-s9",
+      "s": "In fact, they don't seem to be required at all.",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "they",
+        "谓语": "don't seem to be required",
+        "宾语或表语": "—",
+        "主干翻译": "事实上，他们似乎根本就不是必需的。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to be required at all",
+          "修饰对象": "seem",
+          "中文翻译": "根本就是必需的",
+          "说明": "不定式与 seem 构成 seem to be 结构，作 seem 的补足成分。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "In fact",
+          "修饰对象": "—",
+          "中文翻译": "事实上",
+          "说明": "句首插入性状语，承接上文。"
+        }
+      ],
+      "zh": "事实上，他们似乎根本就不是必需的。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2010-text3-s10",
+      "s": "The researchers' argument stems from a simple observation about social influence: With the exception of a few celebrities like Oprah Winfrey—whose outsize presence is primarily a function of media, not interpersonal, influence—even the most influential members of a population simply don't interact with that many others.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The researchers' argument",
+        "谓语": "stems from",
+        "宾语或表语": "a simple observation about social influence",
+        "主干翻译": "研究者的论点源于一个关于社会影响的简单观察。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "even the most influential members of a population simply don't interact with that many others",
+          "修饰对象": "a simple observing about social influence",
+          "中文翻译": "即便是人群中最有影响力的成员，也根本不会与那么多其他人互动",
+          "说明": "冒号后的分句，对 observing 的内容作具体阐述。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "With the exception of a few celebrities like Oprah Winfrey",
+          "修饰对象": "don't interact",
+          "中文翻译": "除了像奥普拉·温弗瑞这样的少数名人之外",
+          "说明": "介词短语作状语，表示例外。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "whose outsize presence is primarily a function of media, not interpersonal, influence",
+          "修饰对象": "celebrities",
+          "中文翻译": "他们超大的影响力主要是媒体影响（而非人际影响）的产物",
+          "说明": "由 whose 引导的定语从句，修饰 celebrities，破折号间插入；其中 media, not interpersonal 共同修饰 influence。"
+        }
+      ],
+      "zh": "研究者的论点源于一个关于社会影响的简单观察：除了像奥普拉·温弗瑞这样超大影响力主要源自媒体而非人际影响的少数名人之外，即便是人群中最有影响力的成员，也根本不会与那么多其他人互动。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2010-text3-s11",
+      "s": "Yet it is precisely these non-celebrity influentials who, according to the two-step-flow theory, are supposed to drive social epidemics, by influencing their friends and colleagues directly.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "it (these non-celebrity influentials)",
+        "谓语": "is",
+        "宾语或表语": "these non-celebrity influentials who ... are supposed to drive social epidemics",
+        "主干翻译": "然而，恰恰是这些非名人的有影响力者，被认为推动着社会流行潮。"
+      },
+      "components": [
+        {
+          "成分类型": "强调句",
+          "原文": "it is precisely these non-celebrity influentials who, according to the two-step-flow theory, are supposed to drive social epidemics",
+          "修饰对象": "—",
+          "中文翻译": "正是这些非名人的有影响力者……被认为推动着社会流行潮",
+          "说明": "it is ... who ... 强调句型，强调主语 these non-celebrity influentials。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "according to the two-step-flow theory",
+          "修饰对象": "supposed",
+          "中文翻译": "根据两级流动理论",
+          "说明": "插入语，交代论断依据。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to drive social epidemics",
+          "修饰对象": "supposed",
+          "中文翻译": "推动社会流行潮",
+          "说明": "不定式与 be supposed 构成 be supposed to do 结构。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "by influencing their friends and colleagues directly",
+          "修饰对象": "drive",
+          "中文翻译": "通过直接影响他们的朋友和同事",
+          "说明": "by + 动名词短语作方式状语，修饰 drive。"
+        }
+      ],
+      "zh": "然而，根据两级流动理论，恰恰正是这些非名人的有影响力者，被认为通过直接影响其朋友和同事来推动社会流行潮。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2010-text3-s12",
+      "s": "For a social epidemic to occur, however, each person so affected must then influence his or her own acquaintances, who must in turn influence theirs, and so on; and just how many others pay attention to each of these people has little to do with the initial influential.",
+      "para_no": 4,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "each person / how many others",
+        "谓语": "must influence / has",
+        "宾语或表语": "his or her own acquaintances / little to do with the initial influential",
+        "主干翻译": "每个受影响者必须再去影响自己的熟人；而有多少人关注每个人，与最初的有影响力者关系不大。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "For a social epidemic to occur",
+          "修饰对象": "influence",
+          "中文翻译": "要使一场社会流行潮发生",
+          "说明": "for + 不定式复合结构作条件/目的状语，修饰主句 must influence。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "however",
+          "修饰对象": "—",
+          "中文翻译": "然而",
+          "说明": "插入语，表转折。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "so affected",
+          "修饰对象": "person",
+          "中文翻译": "如此受影响的",
+          "说明": "过去分词短语作 each person 的后置定语。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "who must in turn influence theirs, and so on",
+          "修饰对象": "acquaintances",
+          "中文翻译": "这些熟人又必须转而去影响他们各自的熟人，如此循环往复",
+          "说明": "who 引导的非限定性定语从句，修饰 acquaintances。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "and just how many others pay attention to each of these people has little to do with the initial influential",
+          "修饰对象": "—",
+          "中文翻译": "而有多少人关注其中每个人，与最初的有影响力者关系不大",
+          "说明": "分号后由 and 连接的并列分句，其主语为 how 引导的主语从句。"
+        },
+        {
+          "成分类型": "主语从句",
+          "原文": "just how many others pay attention to each of",
+          "修饰对象": "has",
+          "中文翻译": "究竟有多少人关注其中每一个人",
+          "说明": "how 引导的从句作并列分句的主语。"
+        }
+      ],
+      "zh": "然而，要使一场社会流行潮发生，每个如此受影响的人都必须再去影响自己的熟人，这些熟人又须转而影响他们各自的熟人，如此循环往复；而究竟有多少人关注其中每一个人，与最初的有影响力者并无多大关系。",
+      "underline": "these people"
+    },
+    {
+      "sid": "en1-2010-text3-s13",
+      "s": "If people in the network just two degrees removed from the initial influential prove resistant, for example, the cascade of change won't propagate very far or affect many people.",
+      "para_no": 4,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "the cascade of change",
+        "谓语": "won't propagate / affect",
+        "宾语或表语": "very far / many people",
+        "主干翻译": "这场变化的连锁反应就不会传播很远，也不会波及很多人。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "If people in the network just two degrees removed from the initial influential prove resistant",
+          "修饰对象": "propagate",
+          "中文翻译": "如果网络中与最初的有影响力者仅隔两层的人表现出抵触",
+          "说明": "if 引导条件状语从句；其中 just two degrees removed from... 为后置定语修饰 people。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "for example",
+          "修饰对象": "—",
+          "中文翻译": "举例来说",
+          "说明": "插入语，举例衔接。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "propagate very far or affect many people",
+          "修饰对象": "propagate",
+          "中文翻译": "传播很远或波及很多人",
+          "说明": "propagate 与 affect 两个谓语由 or 并列，共用 won't。"
+        }
+      ],
+      "zh": "举例来说，如果网络中与最初的有影响力者仅隔两层的人表现出抵触，那么这场变化的连锁反应就既不会传播很远，也不会波及很多人。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2010-text3-s14",
+      "s": "Building on this basic truth about interpersonal influence, the researchers studied the dynamics of social influence by conducting thousands of computer simulations of populations, manipulating a number of variables relating to people's ability to influence others and their tendency to be influenced.",
+      "para_no": 5,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "the researchers",
+        "谓语": "studied",
+        "宾语或表语": "the dynamics of social influence",
+        "主干翻译": "研究者们研究了社会影响的动态机制。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "Building on this basic truth about interpersonal influence",
+          "修饰对象": "studied",
+          "中文翻译": "基于关于人际影响的这一基本事实",
+          "说明": "现在分词短语作伴随/方式状语，修饰 studied。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "by conducting thousands of computer simulations of populations",
+          "修饰对象": "studied",
+          "中文翻译": "通过对人群进行成千上万次计算机模拟",
+          "说明": "by + 动名词短语作方式状语。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "manipulating a number of variables relating to people's ability to influence others and their tendency to be influenced",
+          "修饰对象": "studied",
+          "中文翻译": "并操控一系列与人们影响他人的能力及其受影响的倾向有关的变量",
+          "说明": "现在分词短语作伴随状语，补充 conducting 的具体做法。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "relating to people's ability to influence others and their tendency to be influenced",
+          "修饰对象": "variables",
+          "中文翻译": "与人们影响他人的能力及其受影响的倾向有关的",
+          "说明": "现在分词短语作 variables 的后置定语。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to influence others",
+          "修饰对象": "ability",
+          "中文翻译": "影响他人的",
+          "说明": "不定式作 ability 的后置定语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "people's ability to influence others and their tendency to be influenced",
+          "修饰对象": "ability",
+          "中文翻译": "人们影响他人的能力及其受影响的倾向",
+          "说明": "ability 与 tendency 两个名词短语由 and 并列。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to be influenced",
+          "修饰对象": "tendency",
+          "中文翻译": "受影响的",
+          "说明": "不定式作 tendency 的后置定语。"
+        }
+      ],
+      "zh": "基于关于人际影响的这一基本事实，研究者们通过对人群进行成千上万次计算机模拟，并操控一系列与人们影响他人的能力及其受影响倾向有关的变量，研究了社会影响的动态机制。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2010-text3-s15",
+      "s": "They found that the principal requirement for what is called \"global cascades\"—the widespread propagation of influence through networks—is the presence not of a few influentials but, rather, of a critical mass of easily influenced people.",
+      "para_no": 5,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "They",
+        "谓语": "found",
+        "宾语或表语": "that ... the principal requirement ... is the presence ... of a critical mass of easily influenced people",
+        "主干翻译": "他们发现，关键要求并不在于少数有影响力者，而在于存在大量易受影响的人。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "that the principal requirement for what is called \"global cascades\"—the widespread propagation of influence through networks—is the presence not of a few influentials but, rather, of a critical mass of easily influenced people",
+          "修饰对象": "found",
+          "中文翻译": "所谓\"全局级联\"……的首要条件，并非存在少数有影响力者，而是存在大量易受影响的人",
+          "说明": "that 引导，作 found 的宾语。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "what is called \"global cascades\"",
+          "修饰对象": "for",
+          "中文翻译": "所谓的\"全局级联\"",
+          "说明": "what 引导的从句作介词 for 的宾语。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "the widespread propagation of influence through networks",
+          "修饰对象": "global cascades",
+          "中文翻译": "即影响在网络中的广泛传播",
+          "说明": "破折号间的名词短语作 \"global cascades\" 的同位语解释。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "not of a few influentials but, rather, of a critical mass of easily influenced people",
+          "修饰对象": "presence",
+          "中文翻译": "不在于少数有影响力者，而在于大量易受影响的人",
+          "说明": "not...but... 并列结构，两个 of 短语作 the presence 的定语。"
+        }
+      ],
+      "zh": "他们发现，所谓\"全局级联\"（即影响在网络中的广泛传播）的首要条件，并不在于存在少数有影响力者，而恰恰在于存在大量易受影响的人。",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2010-text3-s1",
+        "en1-2010-text3-s2"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2010-text3-s3",
+        "en1-2010-text3-s4",
+        "en1-2010-text3-s5",
+        "en1-2010-text3-s6",
+        "en1-2010-text3-s7"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2010-text3-s8",
+        "en1-2010-text3-s9"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2010-text3-s10",
+        "en1-2010-text3-s11",
+        "en1-2010-text3-s12",
+        "en1-2010-text3-s13"
+      ]
+    },
+    {
+      "para_no": 5,
+      "sids": [
+        "en1-2010-text3-s14",
+        "en1-2010-text3-s15"
+      ]
+    }
+  ]
+}

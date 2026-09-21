@@ -1,0 +1,711 @@
+{
+  "exam": "en1",
+  "key": "2005-t1",
+  "year": 2005,
+  "text_no": 1,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2005-text1-s1",
+      "s": "Everybody loves a fat pay rise.",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Everybody",
+        "谓语": "loves",
+        "宾语或表语": "a fat pay rise",
+        "主干翻译": "每个人都喜欢大幅加薪。"
+      },
+      "components": [],
+      "zh": "人人都喜欢大幅加薪。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2005-text1-s2",
+      "s": "Yet pleasure at your own can vanish if you learn that a colleague has been given a bigger one.",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "pleasure (at your own)",
+        "谓语": "can vanish",
+        "宾语或表语": "—",
+        "主干翻译": "（你对自己加薪的）愉悦可能会消失。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "if you learn that a colleague has been given a bigger one",
+          "修饰对象": "vanish",
+          "中文翻译": "如果你得知一位同事获得了更大幅度的加薪",
+          "说明": "if 引导条件状语从句，挂靠谓语 vanish，说明愉悦消失的条件。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that a colleague has been given a bigger one",
+          "修饰对象": "learn",
+          "中文翻译": "一位同事获得了更大幅度的加薪",
+          "说明": "that 引导 learn 的宾语从句，one 指代 pay rise。"
+        }
+      ],
+      "zh": "然而，如果你得知某位同事获得了更大幅度的加薪，你对自己加薪的喜悦就可能荡然无存。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2005-text1-s3",
+      "s": "Indeed, if he has a reputation for slacking, you might even be outraged.",
+      "para_no": 1,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "you",
+        "谓语": "might be outraged",
+        "宾语或表语": "—",
+        "主干翻译": "你甚至可能会被激怒。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "if he has a reputation for slacking",
+          "修饰对象": "be",
+          "中文翻译": "如果他素有偷懒的名声",
+          "说明": "if 引导条件状语从句，挂靠系动词 be（be outraged）。"
+        }
+      ],
+      "zh": "事实上，如果这位同事素以偷懒著称，你甚至可能会勃然大怒。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2005-text1-s4",
+      "s": "Such behaviour is regarded as \"all too human\", with the underlying assumption that other animals would not be capable of this finely developed sense of grievance.",
+      "para_no": 1,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "Such behaviour",
+        "谓语": "is regarded as",
+        "宾语或表语": "\"all too human\"",
+        "主干翻译": "这种行为被视为\"太过人性\"。"
+      },
+      "components": [
+        {
+          "成分类型": "同位语从句",
+          "原文": "that other animals would not be capable of this finely developed sense of grievance",
+          "修饰对象": "assumption",
+          "中文翻译": "其他动物不可能具有这种高度发达的不平之感",
+          "说明": "that 引导同位语从句，解释名词 assumption 的内容；with the underlying assumption 为伴随状语。"
+        }
+      ],
+      "zh": "这种行为被视为\"太过人之常情\"，其背后隐含的假设是：其他动物不可能拥有这种高度发达的不平之感。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2005-text1-s5",
+      "s": "But a study by Sarah Brosnan and Frans de Waal of Emory University in Atlanta, Georgia, which has just been published in Nature, suggests that it is all too monkey, as well.",
+      "para_no": 1,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "a study",
+        "谓语": "suggests",
+        "宾语或表语": "(宾语从句)",
+        "主干翻译": "一项研究表明……"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "Sarah Brosnan and Frans de Waal",
+          "修饰对象": "study",
+          "中文翻译": "莎拉·布罗斯南和弗朗斯·德瓦尔",
+          "说明": "and 连接两位研究者，作 by 的并列宾语，说明研究的完成者。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "Atlanta, Georgia",
+          "修饰对象": "University",
+          "中文翻译": "佐治亚州亚特兰大",
+          "说明": "Georgia 为 Atlanta 的同位说明，标明埃默里大学所在地。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "which has just been published in Nature",
+          "修饰对象": "study",
+          "中文翻译": "这项研究刚刚发表在《自然》杂志上",
+          "说明": "which 引导非限定性定语从句，修饰先行词 study。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that it is all too monkey, as well",
+          "修饰对象": "suggests",
+          "中文翻译": "这种行为同样\"太过猴性\"",
+          "说明": "that 引导 suggests 的宾语从句，monkey 此处仿造 human 用作表语。"
+        }
+      ],
+      "zh": "但佐治亚州亚特兰大埃默里大学的莎拉·布罗斯南和弗朗斯·德瓦尔所做的一项研究（刚发表于《自然》杂志）表明，这种行为同样\"太过猴性\"。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2005-text1-s6",
+      "s": "The researchers studied the behaviour of female brown capuchin monkeys.",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The researchers",
+        "谓语": "studied",
+        "宾语或表语": "the behaviour of female brown capuchin monkeys",
+        "主干翻译": "研究者们研究了雌性棕色卷尾猴的行为。"
+      },
+      "components": [],
+      "zh": "研究者们研究了雌性棕色卷尾猴的行为。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2005-text1-s7",
+      "s": "They look cute.",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "They",
+        "谓语": "look",
+        "宾语或表语": "cute",
+        "主干翻译": "它们看上去很可爱。"
+      },
+      "components": [],
+      "zh": "它们看上去很可爱。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2005-text1-s8",
+      "s": "They are good-natured, co-operative creatures, and they share their food readily.",
+      "para_no": 2,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "They",
+        "谓语": "are",
+        "宾语或表语": "good-natured, co-operative creatures",
+        "主干翻译": "它们是性情温和、乐于合作的动物。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "they share their food readily",
+          "修饰对象": "—",
+          "中文翻译": "它们乐于分享食物",
+          "说明": "and 连接的并列分句，与前一主系表分句并列。"
+        }
+      ],
+      "zh": "它们性情温和、乐于合作，而且乐于与同伴分享食物。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2005-text1-s9",
+      "s": "Above all, like their female human counterparts, they tend to pay much closer attention to the value of \"goods and services\" than males.",
+      "para_no": 2,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "they",
+        "谓语": "tend to pay",
+        "宾语或表语": "much closer attention to the value of \"goods and services\"",
+        "主干翻译": "它们往往更加关注\"商品和服务\"的价值。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "like their female human counterparts",
+          "修饰对象": "tend",
+          "中文翻译": "就像人类的女性同类一样",
+          "说明": "like 引导的介词短语作方式/类比状语。"
+        },
+        {
+          "成分类型": "状语从句(比较)",
+          "原文": "than males",
+          "修饰对象": "pay",
+          "中文翻译": "比雄性更（关注）",
+          "说明": "than 引导比较结构，与 much closer 构成比较，省略了重复成分。"
+        }
+      ],
+      "zh": "尤其是，与人类女性同类一样，它们往往比雄性更加关注\"商品和服务\"的价值。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2005-text1-s10",
+      "s": "Such characteristics make them perfect candidates for Dr. Brosnan's and Dr. de Waal's study.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Such characteristics",
+        "谓语": "make",
+        "宾语或表语": "them perfect candidates",
+        "主干翻译": "这些特性使它们成为完美的研究对象。"
+      },
+      "components": [
+        {
+          "成分类型": "省略",
+          "原文": "them perfect candidates for Dr. Brosnan's and Dr. de Waal's study",
+          "修饰对象": "make",
+          "中文翻译": "它们成为布罗斯南博士和德瓦尔博士研究的完美对象",
+          "说明": "make + 宾语 them + 宾补 perfect candidates 构成复合宾语结构。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "Dr. Brosnan's and Dr. de Waal's",
+          "修饰对象": "study",
+          "中文翻译": "布罗斯南博士和德瓦尔博士的",
+          "说明": "and 连接两个所有格定语，共同修饰 study。"
+        }
+      ],
+      "zh": "这些特性使它们成为布罗斯南博士和德瓦尔博士研究的完美对象。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2005-text1-s11",
+      "s": "The researchers spent two years teaching their monkeys to exchange tokens for food.",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "The researchers",
+        "谓语": "spent",
+        "宾语或表语": "two years",
+        "主干翻译": "研究者们花了两年时间。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "teaching their monkeys to exchange tokens for food",
+          "修饰对象": "spent",
+          "中文翻译": "教这些猴子用代币换取食物",
+          "说明": "spent time doing 结构中的现在分词短语，说明时间花在何处。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to exchange tokens for food",
+          "修饰对象": "teaching",
+          "中文翻译": "用代币换取食物",
+          "说明": "不定式作 teach sb. to do 的宾补，表明所教内容。"
+        }
+      ],
+      "zh": "研究者们花了两年时间，教这些猴子用代币换取食物。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2005-text1-s12",
+      "s": "Normally, the monkeys were happy enough to exchange pieces of rock for slices of cucumber.",
+      "para_no": 3,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "the monkeys",
+        "谓语": "were",
+        "宾语或表语": "happy enough",
+        "主干翻译": "猴子们相当乐意。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to exchange pieces of rock for slices of cucumber",
+          "修饰对象": "happy",
+          "中文翻译": "用石块换取黄瓜片",
+          "说明": "不定式作 happy 的状语（表程度/范围），说明乐意做什么。"
+        }
+      ],
+      "zh": "通常情况下，猴子们都相当乐意用石块来换取黄瓜片。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2005-text1-s13",
+      "s": "However, when two monkeys were placed in separate but adjoining chambers, so that each could observe what the other was getting in return for its rock, their behaviour became markedly different.",
+      "para_no": 3,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "their behaviour",
+        "谓语": "became",
+        "宾语或表语": "markedly different",
+        "主干翻译": "它们的行为变得明显不同。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "when two monkeys were placed in separate but adjoining chambers, so that each could observe what the other was getting in return for its rock",
+          "修饰对象": "became",
+          "中文翻译": "当两只猴子被分别置于相邻的独立隔间时",
+          "说明": "when 引导时间状语从句，挂靠主句谓语 became。"
+        },
+        {
+          "成分类型": "状语从句(目的)",
+          "原文": "so that each could observe what the other was getting in return for its rock",
+          "修饰对象": "placed",
+          "中文翻译": "以便每只猴子都能看到另一只用石块换到了什么",
+          "说明": "so that 引导目的状语从句，挂靠 were placed。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "what the other was getting in return for its rock",
+          "修饰对象": "observe",
+          "中文翻译": "另一只猴子用石块换得了什么",
+          "说明": "what 引导 observe 的宾语从句。"
+        }
+      ],
+      "zh": "然而，当两只猴子被分别置于相邻的独立隔间，使彼此都能看到对方用石块换得了什么时，它们的行为就变得迥然不同了。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2005-text1-s14",
+      "s": "In the world of capuchins grapes are luxury goods (and much preferable to cucumbers).",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "grapes",
+        "谓语": "are",
+        "宾语或表语": "luxury goods",
+        "主干翻译": "葡萄是奢侈品。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "much preferable to cucumbers",
+          "修饰对象": "goods",
+          "中文翻译": "比黄瓜更受青睐",
+          "说明": "and 连接的形容词短语，与 luxury 并列补充说明 grapes/goods。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "In the world of capuchins",
+          "修饰对象": "are",
+          "中文翻译": "在卷尾猴的世界里",
+          "说明": "介词短语作地点/范围状语，置于句首。"
+        }
+      ],
+      "zh": "在卷尾猴的世界里，葡萄是奢侈品（而且比黄瓜更受青睐）。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2005-text1-s15",
+      "s": "So when one monkey was handed a grape in exchange for her token, the second was reluctant to hand hers over for a mere piece of cucumber.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "the second",
+        "谓语": "was",
+        "宾语或表语": "reluctant",
+        "主干翻译": "第二只猴子很不情愿。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "when one monkey was handed a grape in exchange for her token",
+          "修饰对象": "was",
+          "中文翻译": "当一只猴子用代币换到一颗葡萄时",
+          "说明": "when 引导时间状语从句，挂靠主句系动词 was。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to hand hers over for a mere piece of cucumber",
+          "修饰对象": "reluctant",
+          "中文翻译": "仅仅为换一片黄瓜而交出自己的代币",
+          "说明": "不定式作 reluctant 的状语，说明不情愿做的事。"
+        }
+      ],
+      "zh": "因此，当一只猴子用代币换得一颗葡萄时，另一只就不愿意仅仅为换一片黄瓜而交出自己的代币了。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2005-text1-s16",
+      "s": "And if one received a grape without having to provide her token in exchange at all, the other either tossed her own token at the researcher or out of the chamber, or refused to accept the slice of cucumber.",
+      "para_no": 4,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "the other",
+        "谓语": "tossed / refused",
+        "宾语或表语": "her own token / to accept the slice",
+        "主干翻译": "另一只猴子要么扔掉自己的代币，要么拒绝接受黄瓜片。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "if one received a grape without having to provide her token in exchange at all",
+          "修饰对象": "tossed",
+          "中文翻译": "如果一只猴子根本无需提供代币就得到了一颗葡萄",
+          "说明": "if 引导条件状语从句，挂靠主句谓语 tossed。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "having to provide her token in exchange at all",
+          "修饰对象": "without",
+          "中文翻译": "（无需）提供代币来交换",
+          "说明": "without + 动名词短语作伴随/方式状语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "out of the chamber",
+          "修饰对象": "tossed",
+          "中文翻译": "扔到隔间外",
+          "说明": "either...or 连接的并列地点状语，与 at the researcher 并列。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "refused to accept the slice of cucumber",
+          "修饰对象": "—",
+          "中文翻译": "拒绝接受那片黄瓜",
+          "说明": "or 连接的并列谓语，与 tossed 并列。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to accept the slice of cucumber",
+          "修饰对象": "refused",
+          "中文翻译": "接受那片黄瓜",
+          "说明": "不定式作 refused 的宾语。"
+        }
+      ],
+      "zh": "而且，如果一只猴子根本无需交出代币就得到一颗葡萄，另一只要么把自己的代币扔向研究者或扔出隔间，要么拒绝接受那片黄瓜。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2005-text1-s17",
+      "s": "Indeed, the mere presence of a grape in the other chamber (without an actual monkey to eat it) was enough to induce resentment in a female capuchin.",
+      "para_no": 4,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "the mere presence of a grape",
+        "谓语": "was",
+        "宾语或表语": "enough",
+        "主干翻译": "仅仅一颗葡萄的存在就足够了。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to eat it",
+          "修饰对象": "monkey",
+          "中文翻译": "来吃它（葡萄）",
+          "说明": "不定式作后置定语，修饰 monkey；without an actual monkey 为插入说明。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to induce resentment in a female capuchin",
+          "修饰对象": "enough",
+          "中文翻译": "足以在一只雌性卷尾猴身上引发怨恨",
+          "说明": "不定式作 enough 的结果/范围状语。"
+        }
+      ],
+      "zh": "事实上，另一隔间里仅仅有一颗葡萄存在（哪怕没有真正的猴子去吃它），就足以在一只雌性卷尾猴身上引发怨恨。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2005-text1-s18",
+      "s": "The researchers suggest that capuchin monkeys, like humans, are guided by social emotions.",
+      "para_no": 5,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The researchers",
+        "谓语": "suggest",
+        "宾语或表语": "(宾语从句)",
+        "主干翻译": "研究者们认为……"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "that capuchin monkeys, like humans, are guided by social emotions",
+          "修饰对象": "suggest",
+          "中文翻译": "卷尾猴和人类一样受社会情感支配",
+          "说明": "that 引导 suggest 的宾语从句；like humans 为插入比较成分。"
+        }
+      ],
+      "zh": "研究者们认为，卷尾猴和人类一样，也受社会情感的支配。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2005-text1-s19",
+      "s": "In the wild, they are a co-operative, group-living species.",
+      "para_no": 5,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "they",
+        "谓语": "are",
+        "宾语或表语": "a co-operative, group-living species",
+        "主干翻译": "它们是一种合作的、群居的物种。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "In the wild",
+          "修饰对象": "are",
+          "中文翻译": "在野外",
+          "说明": "介词短语作地点状语，置于句首。"
+        }
+      ],
+      "zh": "在野外，它们是一种乐于合作、群居生活的物种。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2005-text1-s20",
+      "s": "Such co-operation is likely to be stable only when each animal feels it is not being cheated.",
+      "para_no": 5,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Such co-operation",
+        "谓语": "is",
+        "宾语或表语": "likely",
+        "主干翻译": "这种合作很可能（稳定）。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to be stable only when each animal feels it is not being cheated",
+          "修饰对象": "likely",
+          "中文翻译": "只有当每只动物都觉得自己未被欺骗时才会稳定",
+          "说明": "不定式作 likely 的状语，构成 be likely to do 结构。"
+        },
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "only when each animal feels it is not being cheated",
+          "修饰对象": "be",
+          "中文翻译": "只有当每只动物都觉得自己未被欺骗时",
+          "说明": "only when 引导时间/条件状语从句，挂靠 to be。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "it is not being cheated",
+          "修饰对象": "feels",
+          "中文翻译": "自己没有被欺骗",
+          "说明": "feels 后省略 that 的宾语从句。"
+        }
+      ],
+      "zh": "只有当每只动物都觉得自己没有受骗时，这种合作才可能保持稳定。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2005-text1-s21",
+      "s": "Feelings of righteous indignation, it seems, are not the preserve of people alone.",
+      "para_no": 5,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "Feelings of righteous indignation",
+        "谓语": "are not",
+        "宾语或表语": "the preserve of people alone",
+        "主干翻译": "义愤之情并非人类独有。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "it seems",
+          "修饰对象": "—",
+          "中文翻译": "看来",
+          "说明": "it seems 为插入语，表说话者的推测语气。"
+        }
+      ],
+      "zh": "看来，义愤之情并非人类所独有。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2005-text1-s22",
+      "s": "Refusing a lesser reward completely makes these feelings abundantly clear to other members of the group.",
+      "para_no": 5,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "Refusing a lesser reward completely",
+        "谓语": "makes",
+        "宾语或表语": "these feelings abundantly clear",
+        "主干翻译": "彻底拒绝较少的回报使这些情绪表露无遗。"
+      },
+      "components": [
+        {
+          "成分类型": "省略",
+          "原文": "these feelings abundantly clear to other members of the group",
+          "修饰对象": "makes",
+          "中文翻译": "向群体中其他成员充分表明这些情绪",
+          "说明": "make + 宾语 these feelings + 宾补 abundantly clear 构成复合宾语；主语为动名词短语 Refusing...。"
+        }
+      ],
+      "zh": "彻底拒绝较少的回报，会向群体中的其他成员清楚地表露出这些情绪。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2005-text1-s23",
+      "s": "However, whether such a sense of fairness evolved independently in capuchins and humans, or whether it stems from the common ancestor that the species had 35 million years ago, is, as yet, an unanswered question.",
+      "para_no": 5,
+      "para_seq": 5,
+      "trunk": {
+        "主语": "whether...or whether... (主语从句)",
+        "谓语": "is",
+        "宾语或表语": "an unanswered question",
+        "主干翻译": "……是否……仍是一个尚未解答的问题。"
+      },
+      "components": [
+        {
+          "成分类型": "主语从句",
+          "原文": "whether such a sense of fairness evolved independently in capuchins and humans",
+          "修饰对象": "is",
+          "中文翻译": "这种公平感是否在卷尾猴和人类身上各自独立地演化而来",
+          "说明": "whether 引导的主语从句之一，作全句主语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "whether it stems from the common ancestor that the species had 35 million years ago",
+          "修饰对象": "—",
+          "中文翻译": "还是源自这些物种在3500万年前的共同祖先",
+          "说明": "or 连接的第二个 whether 主语从句，与前一从句并列共作主语。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that the species had 35 million years ago",
+          "修饰对象": "ancestor",
+          "中文翻译": "这些物种在3500万年前所拥有的",
+          "说明": "that 引导限定性定语从句，修饰先行词 common ancestor。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "as yet",
+          "修饰对象": "—",
+          "中文翻译": "迄今为止",
+          "说明": "as yet 作插入语，置于系动词与表语之间，表时间限定。"
+        }
+      ],
+      "zh": "然而，这种公平感究竟是在卷尾猴和人类身上各自独立演化而来，还是源自两个物种在3500万年前的共同祖先，迄今为止仍是一个悬而未决的问题。",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2005-text1-s1",
+        "en1-2005-text1-s2",
+        "en1-2005-text1-s3",
+        "en1-2005-text1-s4",
+        "en1-2005-text1-s5"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2005-text1-s6",
+        "en1-2005-text1-s7",
+        "en1-2005-text1-s8",
+        "en1-2005-text1-s9"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2005-text1-s10",
+        "en1-2005-text1-s11",
+        "en1-2005-text1-s12",
+        "en1-2005-text1-s13"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2005-text1-s14",
+        "en1-2005-text1-s15",
+        "en1-2005-text1-s16",
+        "en1-2005-text1-s17"
+      ]
+    },
+    {
+      "para_no": 5,
+      "sids": [
+        "en1-2005-text1-s18",
+        "en1-2005-text1-s19",
+        "en1-2005-text1-s20",
+        "en1-2005-text1-s21",
+        "en1-2005-text1-s22",
+        "en1-2005-text1-s23"
+      ]
+    }
+  ]
+}

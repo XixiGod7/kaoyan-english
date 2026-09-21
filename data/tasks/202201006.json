@@ -1,0 +1,122 @@
+{
+  "tasks": [
+    {
+      "content_json": {
+        "article": "I am a zoo and wildlife park employee for years.\nBoth the wildlife park and zoo claimed to be operating for the benefit of the animals and for conservation purposes.\nThis claim was false.\nNeither one of them actually participated in any contributions to animal research or conservation.\nThey are profitable institutions whose bottom line is much more important than the condition of the animals.\nAnimals despise being captives in zoos.\nNo matter how you “enhance” enclosures, they do not allow for freedom, a natural diet or adequate exercise.\nIt’s past time for transparency with these institutions, and it’s past time to eliminate zoos from our culture.\nAs a zoology professor, I agree with Emma Marris that zoo displays can be sad and cruel.\nBut she underestimates the educational value of zoos.\nThe zoology program at my university attracts students for whom zoo visits were the crucial formative experience that led them to major in biological sciences.\nThese are mostly students who had no opportunity as children to travel to wilderness areas, wildlife refuges or national parks.\nAlthough good TV shows can help stir children’s interest in conservation, they cannot replace the excitement of a zoo visit as an intense, immersive and interactive experience.\nSurely there must be some middle ground that balances zoos’ treatment of animals with their educational potential.\nEmma Marris’s article is an insult and a disservice to the thousands of passionate people who work tirelessly to improve the lives of animals and protect our planet.\nShe uses outdated research and decades-old examples to undermine the noble mission of organizations committed to connecting children to a world beyond their own.\nZoos are at the forefront of conservation and constantly evolving to improve how they care for animals and protect each species in its natural habitat.\nAre there tragedies?\nOf course.\nBut they are the exception, not the norm that Ms. Marris implies.\nA distressed animal in a zoo will get as good or better treatment than most of us at our local hospital.\nAs a fellow environmentalist, animal-protection advocate and longtime vegetarian, I could properly be in the same camp as Emma Marris on the issue of zoos.\nBut I believe that well-run zoos, and the heroic animals that suffer their captivity, do serve a higher purpose.\nWere it not for opportunities to observe these beautiful, wild creatures close to home, many more people would be driven by their fascination to travel to wild areas to seek out, disturb and even hunt them down.\nZoos are, in that sense, similar to natural history and archaeology museums, serving to satisfy our need for contact with these living creatures while leaving the vast majority undisturbed in their natural environments.\nEmma Marris selectively describes and misrepresents the findings of our research.\nOur studies focused on the impact of zoo experiences on how people think about themselves and nature, and the data points extracted from our studies do not, in any way, discount what is learned in a zoo visit.\nZoos are tools for thinking.\nOur research provides strong support for the value of zoos in connecting people with animals and with nature.\nZoos provide a critical voice for conservation and environmental protection.\nThey afford an opportunity for people from all backgrounds to encounter a range of animals, from drone bees to springbok or salmon, to better understand the natural world we live in.",
+        "option_labels": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ],
+        "question_titles": {
+          "41": "Teri Byrd",
+          "42": "Karen R. Sime",
+          "43": "Greg Newberry",
+          "44": "Dean Gallea",
+          "45": "John Fraser"
+        },
+        "questions": [
+          {
+            "ai_analysis_ids": [
+              2022013210
+            ],
+            "ai_analysis_text": "Teri Byrd认为动物园以盈利为目的，忽视动物福利，主张关闭动物园。",
+            "ai_analysis_words": [
+              "eliminate zoos",
+              "culture",
+              "money making"
+            ],
+            "analysis_sentence_id": 2022013210,
+            "answer": "F",
+            "id": 41,
+            "qid": 2022011041,
+            "text": "Teri Byrd",
+            "text_tokens": []
+          },
+          {
+            "ai_analysis_ids": [
+              2022013213
+            ],
+            "ai_analysis_text": "Karen R. Sime认为动物园对年轻人学习生物科学有重要启发作用。",
+            "ai_analysis_words": [
+              "zoology program",
+              "students",
+              "formative experience"
+            ],
+            "analysis_sentence_id": 2022013213,
+            "answer": "C",
+            "id": 42,
+            "qid": 2022011042,
+            "text": "Karen R. Sime",
+            "text_tokens": []
+          },
+          {
+            "ai_analysis_ids": [
+              2022013217
+            ],
+            "ai_analysis_text": "Greg Newberry认为动物园为了改善动物生活条件付出了巨大努力，不应受到不公平的批评。",
+            "ai_analysis_words": [
+              "insult",
+              "disservice",
+              "improve the lives of animals"
+            ],
+            "analysis_sentence_id": 2022013217,
+            "answer": "A",
+            "id": 43,
+            "qid": 2022011043,
+            "text": "Greg Newberry",
+            "text_tokens": []
+          },
+          {
+            "ai_analysis_ids": [
+              2022013227
+            ],
+            "ai_analysis_text": "Dean Gallea认为动物园通过提供观察野生动物的机会，减少了人们前往野生区域的需求，从而保护了野生动物。",
+            "ai_analysis_words": [
+              "observe",
+              "wild creatures",
+              "disturb"
+            ],
+            "analysis_sentence_id": 2022013227,
+            "answer": "D",
+            "id": 44,
+            "qid": 2022011044,
+            "text": "Dean Gallea",
+            "text_tokens": []
+          },
+          {
+            "ai_analysis_ids": [
+              2022013233
+            ],
+            "ai_analysis_text": "John Fraser认为Marris歪曲了研究结果，实际上研究证明动物园是人与自然的重要纽带。",
+            "ai_analysis_words": [
+              "research",
+              "value of zoos",
+              "connecting people"
+            ],
+            "analysis_sentence_id": 2022013233,
+            "answer": "G",
+            "id": 45,
+            "qid": 2022011045,
+            "text": "John Fraser",
+            "text_tokens": []
+          }
+        ]
+      },
+      "directions": "Read the following text and choose the most suitable description from the list A-G for each\nnumbered subheading (41-45). There are two extra descriptions that you do not need to use.\nMark your answers on the ANSWER SHEET. (10 points)",
+      "exam_info": "2022(1)",
+      "exam_type": "kaoyan",
+      "id": 202201006,
+      "key_words": "zoos animals our zoo marris people conservation natural research emma these animal byrd children connecting creatures dean experience fraser gallea greg improve john karen newberry sime students teri value wild wildlife zoology any areas better culture disservice disturb each educational eliminate formative good institutions insult lives more most nature need observe opportunity park past points program protect protection she studies time travel treatment visit world actually adequate advocate afford agree all allow although answer answers archaeology article attracts backgrounds balances",
+      "kid": 17,
+      "part": "Part III",
+      "section": "Sec B",
+      "task_key": "2022(1)_Section II_Part B",
+      "type": "Reading Comprehension"
+    }
+  ]
+}

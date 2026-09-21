@@ -1,0 +1,807 @@
+{
+  "exam": "en1",
+  "key": "2012-t4",
+  "year": 2012,
+  "text_no": 4,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2012-text4-s1",
+      "s": "If the trade unionist Jimmy Hoffa were alive today, he would probably represent civil servants.",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "he",
+        "谓语": "would represent",
+        "宾语或表语": "civil servants",
+        "主干翻译": "他可能会代表公务员。"
+      },
+      "components": [
+        {
+          "成分类型": "同位语/插入语",
+          "原文": "Jimmy Hoffa",
+          "修饰对象": "unionist",
+          "中文翻译": "吉米·霍法",
+          "说明": "作 the trade unionist 的同位语，点明这位工会会员的具体姓名。"
+        },
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "If the trade unionist Jimmy Hoffa were alive today",
+          "修饰对象": "represent",
+          "中文翻译": "如果工会会员吉米·霍法今天还活着",
+          "说明": "If 引导的虚拟条件状语从句，were 为虚拟语气，表示与现在事实相反的假设。"
+        }
+      ],
+      "zh": "如果工会会员吉米·霍法今天还活着，他可能会代表公务员。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2012-text4-s2",
+      "s": "When Hoffa's Teamsters were in their prime in 1960, only one in ten American government workers belonged to a union; now 36% do.",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "one in ten American government workers",
+        "谓语": "belonged",
+        "宾语或表语": "to a union",
+        "主干翻译": "十分之一的美国政府雇员加入了工会。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "When Hoffa's Teamsters were in their prime in 1960",
+          "修饰对象": "belonged",
+          "中文翻译": "在1960年霍法的卡车司机工会鼎盛之时",
+          "说明": "When 引导时间状语从句，交代前一分句所述情况发生的时间背景。"
+        },
+        {
+          "成分类型": "省略",
+          "原文": "now 36% do",
+          "修饰对象": "—",
+          "中文翻译": "如今则有36%（加入工会）",
+          "说明": "并列分句，do 为替代动词，承前省略 belong to a union，与前文今昔对比。"
+        }
+      ],
+      "zh": "在1960年霍法的卡车司机工会鼎盛之时，只有十分之一的美国政府雇员加入工会；而如今这一比例达到了36%。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2012-text4-s3",
+      "s": "In 2009 the number of unionists in America's public sector passed that of their fellow members in the private sector.",
+      "para_no": 1,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "the number of unionists in America's public sector",
+        "谓语": "passed",
+        "宾语或表语": "that of their fellow members in the private sector",
+        "主干翻译": "美国公共部门工会会员的数量超过了私营部门的会员数量。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "In 2009",
+          "修饰对象": "passed",
+          "中文翻译": "在2009年",
+          "说明": "时间状语，交代该事件发生的年份。"
+        },
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "of unionists in America's public sector",
+          "修饰对象": "number",
+          "中文翻译": "美国公共部门工会会员的",
+          "说明": "修饰 the number，说明所指数量的对象；that 指代 the number，避免重复。"
+        }
+      ],
+      "zh": "2009年，美国公共部门的工会会员数量超过了私营部门的会员数量。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2012-text4-s4",
+      "s": "In Britain, more than half of public-sector workers but only about 15% of private-sector ones are unionized.",
+      "para_no": 1,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "more than half of public-sector workers",
+        "谓语": "are unionized",
+        "宾语或表语": "—",
+        "主干翻译": "超过半数的公共部门雇员加入了工会。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "In Britain",
+          "修饰对象": "are unionized",
+          "中文翻译": "在英国",
+          "说明": "地点状语，限定全句讨论的范围。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "only about 15% of private-sector ones",
+          "修饰对象": "half",
+          "中文翻译": "只有约15%的私营部门雇员",
+          "说明": "由 but 连接，与 more than half of public-sector workers 并列作主语，形成公私部门对比；ones 替代 workers。"
+        }
+      ],
+      "zh": "在英国，超过半数的公共部门雇员加入了工会，而私营部门雇员的入会率却只有约15%。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2012-text4-s5",
+      "s": "There are three reasons for the public-sector unions' thriving.",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "three reasons",
+        "谓语": "are",
+        "宾语或表语": "(There be 句型)",
+        "主干翻译": "有三个原因。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "for the public-sector unions' thriving",
+          "修饰对象": "reasons",
+          "中文翻译": "公共部门工会蓬勃发展的",
+          "说明": "修饰 three reasons，说明这三个原因所针对的事项。"
+        }
+      ],
+      "zh": "公共部门工会之所以蓬勃发展，有三个原因。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2012-text4-s6",
+      "s": "First, they can shut things down without suffering much in the way of consequences.",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "they",
+        "谓语": "can shut down",
+        "宾语或表语": "things",
+        "主干翻译": "他们能让事情停摆。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "without suffering much in the way of consequences",
+          "修饰对象": "shut",
+          "中文翻译": "而不会承受多少后果",
+          "说明": "方式/伴随状语，without + 动名词，说明罢工停摆时几乎不付出代价。"
+        }
+      ],
+      "zh": "首先，他们可以让事情停摆，而几乎不会承受什么后果。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2012-text4-s7",
+      "s": "Second, they are mostly bright and well-educated.",
+      "para_no": 2,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "they",
+        "谓语": "are",
+        "宾语或表语": "bright and well-educated",
+        "主干翻译": "他们大多聪明且受过良好教育。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "well-educated",
+          "修饰对象": "bright",
+          "中文翻译": "受过良好教育的",
+          "说明": "由 and 连接，与 bright 并列作表语。"
+        }
+      ],
+      "zh": "其次，他们大多聪明且受过良好教育。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2012-text4-s8",
+      "s": "A quarter of America's public-sector workers have a university degree.",
+      "para_no": 2,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "A quarter of America's public-sector workers",
+        "谓语": "have",
+        "宾语或表语": "a university degree",
+        "主干翻译": "四分之一的美国公共部门雇员拥有大学学位。"
+      },
+      "components": [],
+      "zh": "四分之一的美国公共部门雇员拥有大学学位。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2012-text4-s9",
+      "s": "Third, they now dominate left–of–centre politics.",
+      "para_no": 2,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "they",
+        "谓语": "dominate",
+        "宾语或表语": "left–of–centre politics",
+        "主干翻译": "他们如今主导着中左翼政治。"
+      },
+      "components": [],
+      "zh": "第三，他们如今主导着中左翼政治。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2012-text4-s10",
+      "s": "Some of their ties go back a long way.",
+      "para_no": 2,
+      "para_seq": 5,
+      "trunk": {
+        "主语": "Some of their ties",
+        "谓语": "go back",
+        "宾语或表语": "a long way",
+        "主干翻译": "他们的一些关系由来已久。"
+      },
+      "components": [],
+      "zh": "他们的一些关系由来已久。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2012-text4-s11",
+      "s": "Britain's Labor Party, as its name implies, has long been associated with trade unionism.",
+      "para_no": 2,
+      "para_seq": 6,
+      "trunk": {
+        "主语": "Britain's Labor Party",
+        "谓语": "has been associated",
+        "宾语或表语": "with trade unionism",
+        "主干翻译": "英国工党长期以来一直与工会运动联系在一起。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(方式)",
+          "原文": "as its name implies",
+          "修饰对象": "associated",
+          "中文翻译": "正如其名称所暗示的那样",
+          "说明": "as 引导方式状语从句，作插入成分，呼应 Labor（劳工）这一党名。"
+        }
+      ],
+      "zh": "正如其名称所暗示的，英国工党长期以来一直与工会运动联系在一起。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2012-text4-s12",
+      "s": "Its current leader, Ed Miliband, owes his position to votes from public–sector unions.",
+      "para_no": 2,
+      "para_seq": 7,
+      "trunk": {
+        "主语": "Its current leader",
+        "谓语": "owes",
+        "宾语或表语": "his position",
+        "主干翻译": "其现任领导人将自己的职位归功于（公共部门工会的选票）。"
+      },
+      "components": [
+        {
+          "成分类型": "同位语/插入语",
+          "原文": "Ed Miliband",
+          "修饰对象": "leader",
+          "中文翻译": "埃德·米利班德",
+          "说明": "作 Its current leader 的同位语，点明现任领导人的姓名。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "to votes from public–sector unions",
+          "修饰对象": "owes",
+          "中文翻译": "归功于来自公共部门工会的选票",
+          "说明": "owe ... to ... 结构中的介词短语，说明其职位的来源。"
+        }
+      ],
+      "zh": "其现任领导人埃德·米利班德能登上这一职位，靠的是来自公共部门工会的选票。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2012-text4-s13",
+      "s": "At the state level their influence can be even more fearsome.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "their influence",
+        "谓语": "can be",
+        "宾语或表语": "more fearsome",
+        "主干翻译": "他们的影响力可能更加令人生畏。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "At the state level",
+          "修饰对象": "can be",
+          "中文翻译": "在州一级",
+          "说明": "地点/范围状语，限定影响力更大所发生的层级。"
+        }
+      ],
+      "zh": "在州一级，他们的影响力甚至更加令人生畏。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2012-text4-s14",
+      "s": "Mark Baldassare of the Public Policy Institute of California points out that much of the state's budget is patrolled by unions.",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Mark Baldassare",
+        "谓语": "points out",
+        "宾语或表语": "that 宾语从句",
+        "主干翻译": "马克·巴尔达萨雷指出（某情况）。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "of the Public Policy Institute of California",
+          "修饰对象": "Baldassare",
+          "中文翻译": "加州公共政策研究所的",
+          "说明": "修饰主语 Mark Baldassare，说明其所属机构。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that much of the state's budget is patrolled by unions",
+          "修饰对象": "points",
+          "中文翻译": "该州的大部分预算都受到工会的监管",
+          "说明": "that 引导 points out 的宾语从句，内含被动结构。"
+        }
+      ],
+      "zh": "加州公共政策研究所的马克·巴尔达萨雷指出，该州的大部分预算都受到工会的把控。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2012-text4-s15",
+      "s": "The teachers' unions keep an eye on schools, the CCPOA on prisons and a variety of labor groups on health care.",
+      "para_no": 3,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "The teachers' unions",
+        "谓语": "keep",
+        "宾语或表语": "an eye on schools",
+        "主干翻译": "教师工会盯着学校。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "the CCPOA on prisons and a variety of labor groups on health care",
+          "修饰对象": "keep",
+          "中文翻译": "加州惩教和平警官协会盯着监狱，各类劳工团体盯着医疗保健",
+          "说明": "与主句并列，承前省略谓语 keep an eye，三组并列构成排比。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "a variety of labor groups on health care",
+          "修饰对象": "CCPOA",
+          "中文翻译": "各类劳工团体盯着医疗保健",
+          "说明": "由 and 连接，与 the CCPOA on prisons 并列，同样省略谓语。"
+        }
+      ],
+      "zh": "教师工会盯着学校，加州惩教和平警官协会盯着监狱，而形形色色的劳工团体则盯着医疗保健。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2012-text4-s16",
+      "s": "In many rich countries average wages in the state sector are higher than in the private one.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "average wages in the state sector",
+        "谓语": "are",
+        "宾语或表语": "higher than in the private one",
+        "主干翻译": "国有部门的平均工资高于私营部门。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "In many rich countries",
+          "修饰对象": "are",
+          "中文翻译": "在许多富裕国家",
+          "说明": "范围状语，限定该结论适用的国家范围。"
+        },
+        {
+          "成分类型": "状语从句(比较)",
+          "原文": "than in the private one",
+          "修饰对象": "higher",
+          "中文翻译": "比私营部门的（工资）",
+          "说明": "than 引导比较状语，省略 wages are，one 替代 sector。"
+        }
+      ],
+      "zh": "在许多富裕国家，国有部门的平均工资都高于私营部门。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2012-text4-s17",
+      "s": "But the real gains come in benefits and work practices.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "the real gains",
+        "谓语": "come",
+        "宾语或表语": "in benefits and work practices",
+        "主干翻译": "真正的好处体现在福利和工作惯例上。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "benefits and work practices",
+          "修饰对象": "come",
+          "中文翻译": "福利和工作惯例",
+          "说明": "由 and 连接的两个并列名词，作介词 in 的宾语。"
+        }
+      ],
+      "zh": "但真正的好处体现在福利待遇和工作惯例方面。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2012-text4-s18",
+      "s": "Politicians have repeatedly \"backloaded\" public-sector pay deals, keeping the pay increases modest but adding to holidays and especially pensions that are already generous.",
+      "para_no": 4,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Politicians",
+        "谓语": "have backloaded",
+        "宾语或表语": "public-sector pay deals",
+        "主干翻译": "政客们一再把公共部门的薪酬协议做成后置加码的形式。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "keeping the pay increases modest but adding to holidays and especially pensions that are already generous",
+          "修饰对象": "backloaded",
+          "中文翻译": "使工资涨幅保持温和，却增加了本已优厚的假期、尤其是养老金",
+          "说明": "现在分词短语作伴随/方式状语，具体说明 backloaded 的做法。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "adding to holidays and especially pensions that are already generous",
+          "修饰对象": "keeping",
+          "中文翻译": "增加了本已优厚的假期、尤其是养老金",
+          "说明": "由 but 连接，与 keeping the pay increases modest 并列，构成对比。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that are already generous",
+          "修饰对象": "pensions",
+          "中文翻译": "本已优厚的",
+          "说明": "that 引导限定性定语从句，修饰 holidays and pensions（侧重 pensions）。"
+        }
+      ],
+      "zh": "政客们一再对公共部门薪酬协议进行后置加码处理：工资涨幅保持温和，却增加了本已优厚的假期，尤其是养老金。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2012-text4-s19",
+      "s": "Reform has been vigorously opposed, perhaps most notoriously in education, where charter schools, academies and merit pay all faced drawn-out battles.",
+      "para_no": 5,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Reform",
+        "谓语": "has been opposed",
+        "宾语或表语": "—",
+        "主干翻译": "改革遭到了强烈反对。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "perhaps most notoriously in education",
+          "修饰对象": "opposed",
+          "中文翻译": "或许其中最为人诟病的就是教育领域",
+          "说明": "插入性状语，举例说明反对最激烈的领域。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "where charter schools, academies and merit pay all faced drawn-out battles",
+          "修饰对象": "education",
+          "中文翻译": "在那里，特许学校、自治学校和绩效工资都经历了旷日持久的斗争",
+          "说明": "where 引导非限定性定语从句，修饰 education，补充其反对激烈的具体表现。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "academies and merit pay",
+          "修饰对象": "schools",
+          "中文翻译": "自治学校和绩效工资",
+          "说明": "与 charter schools 并列，共同作从句主语。"
+        }
+      ],
+      "zh": "改革遭到了强烈反对，或许其中最为人诟病的就是教育领域——在那里，特许学校、自治学校和绩效工资都经历了旷日持久的斗争。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2012-text4-s20",
+      "s": "Even though there is plenty of evidence that the quality of the teachers is the most important variable, teachers' unions have fought against getting rid of bad ones and promoting good ones.",
+      "para_no": 5,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "teachers' unions",
+        "谓语": "have fought",
+        "宾语或表语": "against getting rid of bad ones and promoting good ones",
+        "主干翻译": "教师工会一直反对淘汰差教师、提拔好教师。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(让步)",
+          "原文": "Even though there is plenty of evidence that the quality of the teachers is the most important variable",
+          "修饰对象": "fought",
+          "中文翻译": "尽管有大量证据表明教师的素质是最重要的变量",
+          "说明": "Even though 引导让步状语从句，与主句构成转折让步关系。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "that the quality of the teachers is the most important variable",
+          "修饰对象": "evidence",
+          "中文翻译": "教师的素质是最重要的变量",
+          "说明": "that 引导同位语从句，说明 evidence 的具体内容。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "promoting good ones",
+          "修饰对象": "rid",
+          "中文翻译": "提拔好教师",
+          "说明": "由 and 连接，与 getting rid of bad ones 并列，同作介词 against 的宾语；ones 替代 teachers。"
+        }
+      ],
+      "zh": "尽管大量证据表明教师素质是最重要的变量，教师工会却一直反对淘汰差教师、提拔好教师。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2012-text4-s21",
+      "s": "As the cost to everyone else has become clearer, politicians have begun to clamp down.",
+      "para_no": 6,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "politicians",
+        "谓语": "have begun",
+        "宾语或表语": "to clamp down",
+        "主干翻译": "政客们已开始采取强硬措施。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(原因)",
+          "原文": "As the cost to everyone else has become clearer",
+          "修饰对象": "begun",
+          "中文翻译": "随着其他所有人所付出的代价变得越来越明显",
+          "说明": "As 引导原因/随着状语从句，表明政客采取行动的背景原因。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to clamp down",
+          "修饰对象": "begun",
+          "中文翻译": "采取强硬措施",
+          "说明": "动词不定式作 begin 的宾语（补足语），表示开始做的动作。"
+        }
+      ],
+      "zh": "随着其他所有人所付出的代价日益明显，政客们已开始着手严加管控。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2012-text4-s22",
+      "s": "In Wisconsin the unions have rallied thousands of supporters against Scott Walker, the hardline Republican governor.",
+      "para_no": 6,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "the unions",
+        "谓语": "have rallied",
+        "宾语或表语": "thousands of supporters",
+        "主干翻译": "工会已经动员了成千上万的支持者。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "In Wisconsin",
+          "修饰对象": "have rallied",
+          "中文翻译": "在威斯康星州",
+          "说明": "地点状语，限定该事件发生的地区。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "against Scott Walker",
+          "修饰对象": "rallied",
+          "中文翻译": "反对斯科特·沃克",
+          "说明": "说明动员支持者所针对的对象。"
+        },
+        {
+          "成分类型": "同位语/插入语",
+          "原文": "the hardline Republican governor",
+          "修饰对象": "Walker",
+          "中文翻译": "这位强硬的共和党州长",
+          "说明": "作 Scott Walker 的同位语，补充其身份。"
+        }
+      ],
+      "zh": "在威斯康星州，工会已经动员了成千上万的支持者来反对强硬的共和党州长斯科特·沃克。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2012-text4-s23",
+      "s": "But many within the public sector suffer under the current system, too.",
+      "para_no": 6,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "many within the public sector",
+        "谓语": "suffer",
+        "宾语或表语": "under the current system",
+        "主干翻译": "公共部门内部许多人也在现行制度下遭受痛苦。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "within the public sector",
+          "修饰对象": "many",
+          "中文翻译": "公共部门内部的",
+          "说明": "修饰代词 many，说明这些人所属的范围。"
+        }
+      ],
+      "zh": "但公共部门内部也有许多人在现行制度下深受其苦。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2012-text4-s24",
+      "s": "John Donahue at Harvard's Kennedy School points out that the norms of culture in Western civil services suit those who want to stay put but is bad for high achievers.",
+      "para_no": 7,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "John Donahue",
+        "谓语": "points out",
+        "宾语或表语": "that 宾语从句",
+        "主干翻译": "约翰·多纳休指出（某情况）。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "at Harvard's Kennedy School",
+          "修饰对象": "Donahue",
+          "中文翻译": "哈佛大学肯尼迪学院的",
+          "说明": "修饰主语 John Donahue，说明其任职机构。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that the norms of culture in Western civil services suit those who want to stay put but is bad for high achievers",
+          "修饰对象": "points",
+          "中文翻译": "西方公务员体系中的文化规范适合那些想原地不动的人，却不利于高成就者",
+          "说明": "that 引导 points out 的宾语从句。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "who want to stay put",
+          "修饰对象": "those",
+          "中文翻译": "那些想要原地不动的",
+          "说明": "who 引导定语从句，修饰先行词 those。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to stay put",
+          "修饰对象": "want",
+          "中文翻译": "安于现状、原地不动",
+          "说明": "不定式作 want 的宾语，表示愿望的内容。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "is bad for high achievers",
+          "修饰对象": "suit",
+          "中文翻译": "却不利于高成就者",
+          "说明": "由 but 连接，与 suit those... 并列作宾语从句的谓语，构成转折。"
+        }
+      ],
+      "zh": "哈佛大学肯尼迪学院的约翰·多纳休指出，西方公务员体系中的文化规范适合那些安于现状的人，却不利于高成就者。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2012-text4-s25",
+      "s": "The only American public-sector workers who earn well above $250, 000 a year are university sports coaches and the president of the United States.",
+      "para_no": 7,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "The only American public-sector workers",
+        "谓语": "are",
+        "宾语或表语": "university sports coaches and the president of the United States",
+        "主干翻译": "唯一的（高薪）美国公共部门雇员是大学体育教练和美国总统。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "who earn well above $250, 000 a year",
+          "修饰对象": "workers",
+          "中文翻译": "年收入远高于25万美元的",
+          "说明": "who 引导限定性定语从句，修饰 The only American public-sector workers。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "the president of the United States",
+          "修饰对象": "coaches",
+          "中文翻译": "美国总统",
+          "说明": "由 and 连接，与 university sports coaches 并列作表语。"
+        }
+      ],
+      "zh": "唯一年收入远超25万美元的美国公共部门雇员是大学体育教练和美国总统。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2012-text4-s26",
+      "s": "Bankers' fat pay packets have attracted much criticism, but a public-sector system that does not reward high achievers may be a much bigger problem for America.",
+      "para_no": 7,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "a public-sector system",
+        "谓语": "may be",
+        "宾语或表语": "a much bigger problem for America",
+        "主干翻译": "一个公共部门体系对美国来说可能是个大得多的问题。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "Bankers' fat pay packets have attracted much criticism",
+          "修饰对象": "—",
+          "中文翻译": "银行家丰厚的薪酬已招致诸多批评",
+          "说明": "由 but 连接的前一并列分句，与主句构成转折对比。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that does not reward high achievers",
+          "修饰对象": "system",
+          "中文翻译": "不奖励高成就者的",
+          "说明": "that 引导限定性定语从句，修饰 a public-sector system。"
+        }
+      ],
+      "zh": "银行家丰厚的薪酬已招致诸多批评，但一个不奖励高成就者的公共部门体系，对美国来说或许是个严重得多的问题。",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2012-text4-s1",
+        "en1-2012-text4-s2",
+        "en1-2012-text4-s3",
+        "en1-2012-text4-s4"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2012-text4-s5",
+        "en1-2012-text4-s6",
+        "en1-2012-text4-s7",
+        "en1-2012-text4-s8",
+        "en1-2012-text4-s9",
+        "en1-2012-text4-s10",
+        "en1-2012-text4-s11",
+        "en1-2012-text4-s12"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2012-text4-s13",
+        "en1-2012-text4-s14",
+        "en1-2012-text4-s15"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2012-text4-s16",
+        "en1-2012-text4-s17",
+        "en1-2012-text4-s18"
+      ]
+    },
+    {
+      "para_no": 5,
+      "sids": [
+        "en1-2012-text4-s19",
+        "en1-2012-text4-s20"
+      ]
+    },
+    {
+      "para_no": 6,
+      "sids": [
+        "en1-2012-text4-s21",
+        "en1-2012-text4-s22",
+        "en1-2012-text4-s23"
+      ]
+    },
+    {
+      "para_no": 7,
+      "sids": [
+        "en1-2012-text4-s24",
+        "en1-2012-text4-s25",
+        "en1-2012-text4-s26"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,810 @@
+{
+  "exam": "en1",
+  "key": "2004-t3",
+  "year": 2004,
+  "text_no": 3,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2004-text3-s1",
+      "s": "When it comes to the slowing economy, Ellen Spero isn't biting her nails just yet.",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Ellen Spero",
+        "谓语": "isn't biting",
+        "宾语或表语": "her nails",
+        "主干翻译": "埃伦·斯佩罗还没有咬指甲（还不至于发慌）。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "When it comes to the slowing economy",
+          "修饰对象": "—",
+          "中文翻译": "当谈到放缓的经济时",
+          "说明": "When it comes to 为固定搭配，意为“说到/谈及”，作时间/话题状语；本句主句部分缺失（原文残缺）。"
+        }
+      ],
+      "zh": "说到正在放缓的经济，埃伦·斯佩罗还不至于紧张得直咬指甲。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2004-text3-s2",
+      "s": "But the 47-year-old manicurist isn't cutting, filing or polishing as many nails as she'd like to, either.",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "the 47-year-old manicurist",
+        "谓语": "isn't cutting, filing or polishing",
+        "宾语或表语": "as many nails",
+        "主干翻译": "这位47岁的修甲师没有修剪、锉磨或打磨那么多的指甲。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "cutting, filing or polishing",
+          "修饰对象": "isn't",
+          "中文翻译": "修剪、锉磨或打磨",
+          "说明": "三个动名词由 or 并列，共同作进行时谓语的核心动词。"
+        },
+        {
+          "成分类型": "状语从句(比较)",
+          "原文": "as she'd like to",
+          "修饰对象": "as many nails",
+          "中文翻译": "（不像）她想要的那么多",
+          "说明": "as...as 比较结构，as she'd like to 为比较状语从句，表达数量上的对比。"
+        },
+        {
+          "成分类型": "省略",
+          "原文": "she'd like to",
+          "修饰对象": "like",
+          "中文翻译": "她想要（做的）",
+          "说明": "to 后省略了 cut, file or polish，承前省略不定式后的动词。"
+        }
+      ],
+      "zh": "但这位47岁的修甲师如今也没能像她希望的那样修剪、锉磨或打磨那么多的指甲。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2004-text3-s3",
+      "s": "Most of her clients spend $12 to $50 weekly, but last month two longtime customers suddenly stopped showing up.",
+      "para_no": 1,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Most of her clients / two longtime customers",
+        "谓语": "spend / stopped",
+        "宾语或表语": "$12 to $50 / showing up",
+        "主干翻译": "她的大多数客户每周花费12到50美元，但上个月两位老顾客突然不再露面了。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "but last month two longtime customers suddenly stopped showing up",
+          "修饰对象": "spend",
+          "中文翻译": "但上个月两位老顾客突然不再光顾了",
+          "说明": "由 but 连接的并列分句，与前一分句构成转折关系。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "showing up",
+          "修饰对象": "stopped",
+          "中文翻译": "露面/光顾",
+          "说明": "stop doing 结构，动名词作 stopped 的宾语，表示停止正在做的事。"
+        }
+      ],
+      "zh": "她的大多数客户每周花费12到50美元，但上个月有两位老顾客突然不再光顾了。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2004-text3-s4",
+      "s": "Spero blames the softening economy.",
+      "para_no": 1,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "Spero",
+        "谓语": "blames",
+        "宾语或表语": "the softening economy",
+        "主干翻译": "斯佩罗将其归咎于正在走软的经济。"
+      },
+      "components": [],
+      "zh": "斯佩罗把这归咎于日渐疲软的经济。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2004-text3-s5",
+      "s": "\"I'm a good economic indicator,\" she says.",
+      "para_no": 1,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "she",
+        "谓语": "says",
+        "宾语或表语": "(引语宾语从句)",
+        "主干翻译": "她说。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "I'm a good economic indicator",
+          "修饰对象": "says",
+          "中文翻译": "我是个不错的经济晴雨表",
+          "说明": "引语内容作 says 的宾语从句（直接引语）。"
+        }
+      ],
+      "zh": "“我是个很好的经济晴雨表，”她说。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2004-text3-s6",
+      "s": "\"I provide a service that people can do without when they're concerned about saving some dollars.\"",
+      "para_no": 1,
+      "para_seq": 5,
+      "trunk": {
+        "主语": "I",
+        "谓语": "provide",
+        "宾语或表语": "a service",
+        "主干翻译": "我提供一种服务。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "that people can do without",
+          "修饰对象": "service",
+          "中文翻译": "人们可以不需要的（服务）",
+          "说明": "that 引导限制性定语从句，修饰 service，do without 意为“没有……也行”。"
+        },
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "when they're concerned about saving some dollars",
+          "修饰对象": "do without / provide",
+          "中文翻译": "当他们想着省点钱的时候",
+          "说明": "when 引导时间状语从句，限定人们“可以不需要这项服务”的情形。"
+        }
+      ],
+      "zh": "“我提供的是一种当人们想省钱时可有可无的服务。”",
+      "underline": null
+    },
+    {
+      "sid": "en1-2004-text3-s7",
+      "s": "So Spero is downscaling, shopping at middle-brow Dillard's department store near her suburban Cleveland home, instead of Neiman Marcus.",
+      "para_no": 1,
+      "para_seq": 6,
+      "trunk": {
+        "主语": "Spero",
+        "谓语": "is downscaling",
+        "宾语或表语": "—",
+        "主干翻译": "于是斯佩罗在降低消费档次。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "shopping at middle-brow Dillard's department store near her suburban Cleveland home, instead of Neiman Marcus",
+          "修饰对象": "downscaling",
+          "中文翻译": "在她克利夫兰郊区住所附近那家档次中等的迪拉德百货店购物，而不是去尼曼百货",
+          "说明": "现在分词短语作伴随状语，对 downscaling 加以具体说明；instead of Neiman Marcus 为对比成分。"
+        }
+      ],
+      "zh": "于是斯佩罗开始降低消费档次，去她克利夫兰郊区家附近那家档次居中的迪拉德百货购物，而不再光顾尼曼百货。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2004-text3-s8",
+      "s": "\"I don't know if other clients are going to abandon me, too,\" she says.",
+      "para_no": 1,
+      "para_seq": 7,
+      "trunk": {
+        "主语": "I / she",
+        "谓语": "don't know / says",
+        "宾语或表语": "(if从句) / (引语)",
+        "主干翻译": "“我不知道……”她说。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "I don't know if other clients are going to abandon me, too",
+          "修饰对象": "says",
+          "中文翻译": "我不知道是否其他客户也会抛弃我",
+          "说明": "直接引语整体作 says 的宾语从句。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "if other clients are going to abandon me, too",
+          "修饰对象": "know",
+          "中文翻译": "其他客户是否也会离我而去",
+          "说明": "if 引导宾语从句作 know 的宾语，表示“是否”。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "going to abandon me, too",
+          "修饰对象": "are",
+          "中文翻译": "将要抛弃我",
+          "说明": "be going to 结构，表将来意图，构成从句谓语。"
+        }
+      ],
+      "zh": "“我不知道其他客户是不是也会离我而去，”她说。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2004-text3-s9",
+      "s": "Even before Alan Greenspan's admission that America's red-hot economy is cooling, lots of working folks had already seen signs of the slowdown themselves.",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "lots of working folks",
+        "谓语": "had already seen",
+        "宾语或表语": "signs of the slowdown",
+        "主干翻译": "许多上班族自己早已看到了经济放缓的迹象。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "Even before Alan Greenspan's admission",
+          "修饰对象": "had already seen",
+          "中文翻译": "甚至在艾伦·格林斯潘承认……之前",
+          "说明": "before 引导的介词短语作时间状语，admission 为其宾语中心词。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "that America's red-hot economy is cooling",
+          "修饰对象": "admission",
+          "中文翻译": "美国炙手可热的经济正在降温",
+          "说明": "that 引导同位语从句，对抽象名词 admission 的内容加以说明。"
+        }
+      ],
+      "zh": "甚至早在艾伦·格林斯潘承认美国炙手可热的经济正在降温之前，许多上班族自己就已经察觉到了经济放缓的迹象。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2004-text3-s10",
+      "s": "From car dealerships to Gap outlets, sales have been lagging for months as shoppers temper their spending.",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "sales",
+        "谓语": "have been lagging",
+        "宾语或表语": "—",
+        "主干翻译": "销售已经低迷了好几个月。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "From car dealerships to Gap outlets",
+          "修饰对象": "have been lagging",
+          "中文翻译": "从汽车经销店到盖璞专卖店",
+          "说明": "From...to... 介词短语作范围状语，列举销售低迷涉及的领域。"
+        },
+        {
+          "成分类型": "状语从句(原因)",
+          "原文": "as shoppers temper their spending",
+          "修饰对象": "have been lagging",
+          "中文翻译": "由于购物者节制了开支",
+          "说明": "as 引导原因状语从句，说明销售低迷的原因。"
+        }
+      ],
+      "zh": "从汽车经销店到盖璞专卖店，由于购物者纷纷节制开支，销售已连续数月低迷。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2004-text3-s11",
+      "s": "For retailers, who last year took in 24 percent of their revenue between Thanksgiving and Christmas, the cautious approach is coming at a crucial time.",
+      "para_no": 2,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "the cautious approach",
+        "谓语": "is coming",
+        "宾语或表语": "at a crucial time",
+        "主干翻译": "这种谨慎的态度出现在一个关键时刻。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "For retailers",
+          "修饰对象": "is coming",
+          "中文翻译": "对零售商而言",
+          "说明": "介词短语作状语，限定整句的适用对象。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "who last year took in 24 percent of their revenue between Thanksgiving and Christmas",
+          "修饰对象": "retailers",
+          "中文翻译": "他们去年在感恩节到圣诞节期间获得了全年收入的24%",
+          "说明": "who 引导非限制性定语从句，补充说明 retailers 的收入特点。"
+        }
+      ],
+      "zh": "对零售商而言——他们去年在感恩节至圣诞节期间获得了全年收入的24%——这种谨慎的消费心态出现在一个关键的时刻。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2004-text3-s12",
+      "s": "Already, experts say, holiday sales are off 7 percent from last year's pace.",
+      "para_no": 2,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "holiday sales",
+        "谓语": "are off",
+        "宾语或表语": "7 percent",
+        "主干翻译": "节日销售已经比去年同期下降了7%。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "experts say",
+          "修饰对象": "—",
+          "中文翻译": "专家称",
+          "说明": "experts say 作插入语，插在句中表明信息来源。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "from last year's pace",
+          "修饰对象": "are off",
+          "中文翻译": "相比去年的节奏",
+          "说明": "介词短语作比较状语，给出下降的参照基准。"
+        }
+      ],
+      "zh": "专家称，目前节日销售额已比去年同期下降了7%。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2004-text3-s13",
+      "s": "But don't sound any alarms just yet.",
+      "para_no": 2,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "(you 省略)",
+        "谓语": "don't sound",
+        "宾语或表语": "any alarms",
+        "主干翻译": "先别拉响任何警报。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "just yet",
+          "修饰对象": "don't sound",
+          "中文翻译": "暂时还不必",
+          "说明": "just yet 作时间状语，表“目前还不要”。"
+        }
+      ],
+      "zh": "但先别急着拉响警报。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2004-text3-s14",
+      "s": "Consumers seem only mildly concerned, not panicked, and many say they remain optimistic about the economy's long-term prospects even as they do some modest belt-tightening.",
+      "para_no": 2,
+      "para_seq": 5,
+      "trunk": {
+        "主语": "Consumers / many",
+        "谓语": "seem / say",
+        "宾语或表语": "concerned / (宾语从句)",
+        "主干翻译": "消费者似乎只是略有担忧而非恐慌，许多人说他们仍然乐观。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "many say they remain optimistic about the economy's long-term prospects even as they do some modest belt-tightening",
+          "修饰对象": "seem",
+          "中文翻译": "许多人说尽管他们也在适度勒紧裤腰带，但仍对经济的长期前景持乐观态度",
+          "说明": "由 and 连接的并列分句，与前一分句并列。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "they remain optimistic about the economy's long-term prospects even as they do some modest belt-tightening",
+          "修饰对象": "say",
+          "中文翻译": "他们对经济的长期前景仍然乐观",
+          "说明": "省略 that 的宾语从句，作 say 的宾语。"
+        },
+        {
+          "成分类型": "状语从句(让步)",
+          "原文": "even as they do some modest belt-tightening",
+          "修饰对象": "remain",
+          "中文翻译": "即便他们正在适度地勒紧裤腰带",
+          "说明": "even as 引导让步状语从句，表“即便/尽管同时”。"
+        }
+      ],
+      "zh": "消费者似乎只是略有担忧，而非惊慌失措；许多人表示，尽管他们正在适度地勒紧裤腰带，但仍对经济的长期前景保持乐观。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2004-text3-s15",
+      "s": "Consumers say they're not in despair because, despite the dreadful headlines, their own fortunes still feel pretty good.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Consumers",
+        "谓语": "say",
+        "宾语或表语": "(宾语从句)",
+        "主干翻译": "消费者说他们并不绝望。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "they're not in despair because, despite the dreadful headlines, their own fortunes still feel pretty good",
+          "修饰对象": "say",
+          "中文翻译": "他们并不绝望，因为尽管头条新闻很可怕，但他们自己的财务状况依然感觉相当不错",
+          "说明": "省略 that 的宾语从句，作 say 的宾语。"
+        },
+        {
+          "成分类型": "状语从句(原因)",
+          "原文": "because, despite the dreadful headlines, their own fortunes still feel pretty good",
+          "修饰对象": "'re",
+          "中文翻译": "因为尽管头条新闻令人担忧，他们自身的境况仍然感觉不错",
+          "说明": "because 引导原因状语从句；其中 despite the dreadful headlines 为让步性插入的介词短语。"
+        }
+      ],
+      "zh": "消费者说他们并不绝望，因为尽管头条新闻令人不安，但他们自身的财务状况依然让人感觉相当不错。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2004-text3-s16",
+      "s": "Home prices are holding steady in most regions.",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Home prices",
+        "谓语": "are holding",
+        "宾语或表语": "steady",
+        "主干翻译": "房价在大多数地区保持稳定。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "in most regions",
+          "修饰对象": "are holding",
+          "中文翻译": "在大多数地区",
+          "说明": "介词短语作地点状语。"
+        }
+      ],
+      "zh": "在大多数地区，房价保持平稳。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2004-text3-s17",
+      "s": "In Manhattan, \"there's a new gold rush happening in the $4 million to $10 million range, predominantly fed by Wall Street bonuses,\" says broker Barbara Corcoran.",
+      "para_no": 3,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "broker Barbara Corcoran",
+        "谓语": "says",
+        "宾语或表语": "(引语)",
+        "主干翻译": "经纪人芭芭拉·科克伦说。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "there's a new gold rush happening in the $4 million to $10 million range, predominantly fed by Wall Street bonuses",
+          "修饰对象": "says",
+          "中文翻译": "（这里）正在出现一波新的淘金热，主要由华尔街的奖金所助推",
+          "说明": "引语整体作 says 的宾语从句（there be 结构）。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "happening in",
+          "修饰对象": "rush",
+          "中文翻译": "正在发生的",
+          "说明": "现在分词短语作后置定语，修饰 a new gold rush。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "predominantly fed by Wall Street bonuses",
+          "修饰对象": "rush",
+          "中文翻译": "主要由华尔街奖金推动的",
+          "说明": "过去分词短语作后置定语，修饰 a new gold rush，表被动。"
+        }
+      ],
+      "zh": "经纪人芭芭拉·科克伦说，在曼哈顿，“400 万到 1000 万美元这个价位段正出现一波新的淘金热，主要由华尔街的奖金助推。”",
+      "underline": null
+    },
+    {
+      "sid": "en1-2004-text3-s18",
+      "s": "In San Francisco, prices are still rising even as frenzied overbidding quiets.",
+      "para_no": 3,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "prices",
+        "谓语": "are rising",
+        "宾语或表语": "—",
+        "主干翻译": "（在旧金山）房价仍在上涨。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "In San Francisco",
+          "修饰对象": "are rising",
+          "中文翻译": "在旧金山",
+          "说明": "介词短语作地点状语。"
+        },
+        {
+          "成分类型": "状语从句(让步)",
+          "原文": "even as frenzied overbidding quiets",
+          "修饰对象": "rising",
+          "中文翻译": "即便疯狂的竞相抬价已经平息",
+          "说明": "even as 引导让步状语从句，表“即便同时”。"
+        }
+      ],
+      "zh": "在旧金山，尽管疯狂的竞相加价已趋平静，房价仍在上涨。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2004-text3-s19",
+      "s": "\"Instead of 20 to 30 offers, now maybe you only get two or three,\" says John Tealdi, a Bay Area real-estate broker.",
+      "para_no": 3,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "John Tealdi",
+        "谓语": "says",
+        "宾语或表语": "(引语)",
+        "主干翻译": "约翰·特尔迪说。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "Instead of 20 to 30 offers, now maybe you only get two or three",
+          "修饰对象": "says",
+          "中文翻译": "以前会有20到30个报价，现在或许只能拿到两三个",
+          "说明": "引语整体作 says 的宾语从句。"
+        },
+        {
+          "成分类型": "同位语",
+          "原文": "a Bay Area real-estate broker",
+          "修饰对象": "Tealdi",
+          "中文翻译": "一位旧金山湾区的房地产经纪人",
+          "说明": "名词短语作 John Tealdi 的同位语，对其身份加以说明。"
+        }
+      ],
+      "zh": "“过去会有20到30个报价，现在也许你只能收到两三个，”湾区房地产经纪人约翰·特尔迪说。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2004-text3-s20",
+      "s": "And most folks still feel pretty comfortable about their ability to find and keep a job.",
+      "para_no": 3,
+      "para_seq": 5,
+      "trunk": {
+        "主语": "most folks",
+        "谓语": "feel",
+        "宾语或表语": "comfortable",
+        "主干翻译": "大多数人对自己的能力仍感到相当踏实。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to find and keep a job",
+          "修饰对象": "ability",
+          "中文翻译": "找到并保住一份工作的（能力）",
+          "说明": "不定式短语作后置定语，修饰 ability。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "find and keep a job",
+          "修饰对象": "find",
+          "中文翻译": "找到并保住一份工作",
+          "说明": "动词 find 与 keep 由 and 并列，共享宾语 a job。"
+        }
+      ],
+      "zh": "而且大多数人对自己找到并保住一份工作的能力仍然感觉相当踏实。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2004-text3-s21",
+      "s": "Many folks see silver linings to this slowdown.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Many folks",
+        "谓语": "see",
+        "宾语或表语": "silver linings",
+        "主干翻译": "许多人在这次放缓中看到了一线希望。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "to this slowdown",
+          "修饰对象": "silver linings",
+          "中文翻译": "这次放缓中的（一线光明）",
+          "说明": "介词短语作后置定语，修饰 silver linings。"
+        }
+      ],
+      "zh": "许多人在这次经济放缓中看到了一线希望。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2004-text3-s22",
+      "s": "Potential home buyers would cheer for lower interest rates.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Potential home buyers",
+        "谓语": "would cheer",
+        "宾语或表语": "—",
+        "主干翻译": "潜在的购房者会为此欢呼。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "for lower interest rates",
+          "修饰对象": "would cheer",
+          "中文翻译": "为更低的利率（而欢呼）",
+          "说明": "cheer for 介词短语作状语，说明欢呼的对象/原因。"
+        }
+      ],
+      "zh": "潜在的购房者会为更低的利率而欢呼。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2004-text3-s23",
+      "s": "Employers wouldn't mind a little fewer bubbles in the job market.",
+      "para_no": 4,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Employers",
+        "谓语": "wouldn't mind",
+        "宾语或表语": "a little fewer bubbles",
+        "主干翻译": "雇主们也不介意就业市场上的泡沫少一点。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "in the job market",
+          "修饰对象": "bubbles",
+          "中文翻译": "就业市场上的（泡沫）",
+          "说明": "介词短语作后置定语，修饰 bubbles。"
+        }
+      ],
+      "zh": "雇主们也不会介意就业市场上的泡沫少一些。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2004-text3-s24",
+      "s": "Many consumers seem to have been influenced by stock-market swings, which investors now view as a necessary ingredient to a sustained boom.",
+      "para_no": 4,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "Many consumers",
+        "谓语": "seem to have been influenced",
+        "宾语或表语": "by stock-market swings",
+        "主干翻译": "许多消费者似乎受到了股市波动的影响。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to have been influenced by stock-market swings, which investors now view as a necessary ingredient to a sustained boom",
+          "修饰对象": "seem",
+          "中文翻译": "（似乎）受到了股市波动的影响",
+          "说明": "seem 后接不定式完成被动式作其补足语，构成 seem to do 结构。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "which investors now view as a necessary ingredient to a sustained boom",
+          "修饰对象": "swings",
+          "中文翻译": "投资者如今将其视为持续繁荣所必需的要素",
+          "说明": "which 引导非限制性定语从句，修饰 stock-market swings；view...as... 意为“把……看作”。"
+        }
+      ],
+      "zh": "许多消费者似乎受到了股市波动的影响，而如今投资者将这种波动视为经济持续繁荣所不可或缺的要素。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2004-text3-s25",
+      "s": "Diners might see an upside, too.",
+      "para_no": 4,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "Diners",
+        "谓语": "might see",
+        "宾语或表语": "an upside",
+        "主干翻译": "外出就餐的人或许也能看到好的一面。"
+      },
+      "components": [],
+      "zh": "外出就餐的人或许也能从中看到好处。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2004-text3-s26",
+      "s": "Getting a table at Manhattan's hot new Alain Ducasse restaurant used to be impossible. Not anymore.",
+      "para_no": 4,
+      "para_seq": 5,
+      "trunk": {
+        "主语": "Getting a table",
+        "谓语": "used to be",
+        "宾语或表语": "impossible",
+        "主干翻译": "订到一张餐桌过去是不可能的事。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to be impossible",
+          "修饰对象": "used",
+          "中文翻译": "（过去）是不可能的",
+          "说明": "used to do 结构，不定式构成谓语的一部分，表过去的常态。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "Getting a table at Manhattan's hot new Alain Ducasse restaurant",
+          "修饰对象": "—",
+          "中文翻译": "在曼哈顿炙手可热的新餐厅阿兰·杜卡斯订到一张桌子",
+          "说明": "动名词短语作句子主语；at... 介词短语并入其中作地点状语。"
+        }
+      ],
+      "zh": "过去，要在曼哈顿炙手可热的新餐厅阿兰·杜卡斯订到一张桌子几乎是不可能的。如今不再如此。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2004-text3-s27",
+      "s": "For that, Greenspan & Co. may still be worth toasting.",
+      "para_no": 4,
+      "para_seq": 6,
+      "trunk": {
+        "主语": "Greenspan & Co.",
+        "谓语": "may be worth",
+        "宾语或表语": "toasting",
+        "主干翻译": "格林斯潘及其同僚或许仍值得为之举杯。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "toasting",
+          "修饰对象": "worth",
+          "中文翻译": "举杯（祝贺）",
+          "说明": "be worth doing 结构，动名词作 worth 的宾语，表“值得做”。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "For that",
+          "修饰对象": "may be worth",
+          "中文翻译": "为此",
+          "说明": "介词短语作状语，承接上文指代“这一点”。"
+        }
+      ],
+      "zh": "为此，格林斯潘及其同僚或许仍然值得人们为之举杯庆贺。",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2004-text3-s1",
+        "en1-2004-text3-s2",
+        "en1-2004-text3-s3",
+        "en1-2004-text3-s4",
+        "en1-2004-text3-s5",
+        "en1-2004-text3-s6",
+        "en1-2004-text3-s7",
+        "en1-2004-text3-s8"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2004-text3-s9",
+        "en1-2004-text3-s10",
+        "en1-2004-text3-s11",
+        "en1-2004-text3-s12",
+        "en1-2004-text3-s13",
+        "en1-2004-text3-s14"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2004-text3-s15",
+        "en1-2004-text3-s16",
+        "en1-2004-text3-s17",
+        "en1-2004-text3-s18",
+        "en1-2004-text3-s19",
+        "en1-2004-text3-s20"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2004-text3-s21",
+        "en1-2004-text3-s22",
+        "en1-2004-text3-s23",
+        "en1-2004-text3-s24",
+        "en1-2004-text3-s25",
+        "en1-2004-text3-s26",
+        "en1-2004-text3-s27"
+      ]
+    }
+  ]
+}

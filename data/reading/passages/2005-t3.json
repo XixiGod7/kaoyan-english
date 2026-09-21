@@ -1,0 +1,913 @@
+{
+  "exam": "en1",
+  "key": "2005-t3",
+  "year": 2005,
+  "text_no": 3,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2005-text3-s1",
+      "s": "Of all the components of a good night's sleep, dreams seem to be least within our control.",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "dreams",
+        "谓语": "seem to be",
+        "宾语或表语": "least within our control",
+        "主干翻译": "梦似乎最不受我们控制。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to be least within our control",
+          "修饰对象": "seem",
+          "中文翻译": "最不受我们的控制",
+          "说明": "seem to be 构成系动词结构，不定式作 seem 的补足语，此处归为非谓语成分，表述主语状态。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "Of all the components of a good night's sleep",
+          "修饰对象": "seem",
+          "中文翻译": "在一夜好眠的所有组成部分中",
+          "说明": "句首介词短语作范围状语，限定比较的范围。"
+        }
+      ],
+      "zh": "在一夜好眠的所有组成部分中，梦似乎是最不受我们控制的。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2005-text3-s2",
+      "s": "In dreams, a window opens into a world where logic is suspended and dead people speak.",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "a window",
+        "谓语": "opens",
+        "宾语或表语": "into a world",
+        "主干翻译": "一扇窗户开向一个世界。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "In dreams",
+          "修饰对象": "opens",
+          "中文翻译": "在梦中",
+          "说明": "句首介词短语作地点/情境状语。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "where logic is suspended and dead people speak",
+          "修饰对象": "world",
+          "中文翻译": "在那里逻辑被搁置，死者会开口说话",
+          "说明": "where 引导定语从句，修饰 world，where 作地点状语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "logic is suspended and dead people speak",
+          "修饰对象": "suspended",
+          "中文翻译": "逻辑被搁置，并且死者开口说话",
+          "说明": "由 and 连接的两个并列分句，共同构成定语从句的主体。"
+        }
+      ],
+      "zh": "在梦中，一扇窗户开向一个逻辑被搁置、死者也能开口说话的世界。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2005-text3-s3",
+      "s": "A century ago, Freud formulated his revolutionary theory that dreams were the disguised shadows of our unconscious desires and fears; by the late 1970 s, neurologists had switched to thinking of them as just \"mental noise\"—the random byproducts of the neural-repair work that goes on during sleep.",
+      "para_no": 1,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "neurologists",
+        "谓语": "had switched to thinking of",
+        "宾语或表语": "them as just \"mental noise\"",
+        "主干翻译": "神经学家已转而把它们仅仅看作\"精神噪音\"。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "A century ago, Freud formulated his revolutionary theory that dreams were the disguised shadows of our unconscious desires and fears",
+          "修饰对象": "—",
+          "中文翻译": "一个世纪前，弗洛伊德提出了他革命性的理论，即梦是我们潜意识欲望和恐惧的伪装影像",
+          "说明": "分号连接的前一并列分句，与后半句形成今昔对照（前句主干：Freud formulated his theory）。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "that dreams were the disguised shadows of our unconscious desires and fears",
+          "修饰对象": "theory",
+          "中文翻译": "梦是我们潜意识欲望和恐惧的伪装影像",
+          "说明": "that 引导同位语从句，说明 theory 的具体内容。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "by the late 1970 s",
+          "修饰对象": "had switched",
+          "中文翻译": "到20世纪70年代末",
+          "说明": "时间状语，限定 switched 发生的时间。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "the random byproducts of the neural-repair work that goes on during sleep",
+          "修饰对象": "noise",
+          "中文翻译": "睡眠期间进行的神经修复工作的随机副产品",
+          "说明": "破折号后的名词短语作 \"mental noise\" 的同位语，进一步解释其本质。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that goes on during sleep",
+          "修饰对象": "work",
+          "中文翻译": "在睡眠期间进行的",
+          "说明": "that 引导定语从句，修饰 neural-repair work。"
+        }
+      ],
+      "zh": "一个世纪前，弗洛伊德提出了他革命性的理论，认为梦是我们潜意识欲望和恐惧的伪装影像；而到了20世纪70年代末，神经学家已转而把梦仅仅看作\"精神噪音\"——即睡眠期间进行的神经修复工作的随机副产品。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2005-text3-s4",
+      "s": "Now researchers suspect that dreams are part of the mind's emotional thermostat, regulating moods while the brain is \"off-line.\"",
+      "para_no": 1,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "researchers",
+        "谓语": "suspect",
+        "宾语或表语": "that dreams are part of the mind's emotional thermostat",
+        "主干翻译": "研究者怀疑梦是大脑情绪调节器的一部分。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "that dreams are part of the mind's emotional thermostat, regulating moods while the brain is \"off-line.\"",
+          "修饰对象": "suspect",
+          "中文翻译": "梦是大脑情绪调节器的一部分，在大脑\"离线\"时调节情绪",
+          "说明": "that 引导宾语从句，作 suspect 的宾语。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "regulating moods while the brain is \"off-line.\"",
+          "修饰对象": "are",
+          "中文翻译": "（梦）在大脑\"离线\"时调节情绪",
+          "说明": "现在分词短语作伴随状语，说明梦所起的作用。"
+        },
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "while the brain is \"off-line.\"",
+          "修饰对象": "regulating",
+          "中文翻译": "当大脑\"离线\"时",
+          "说明": "while 引导时间状语从句，修饰 regulating。"
+        }
+      ],
+      "zh": "如今研究者怀疑，梦是大脑情绪调节器的一部分，在大脑\"离线\"时负责调节情绪。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2005-text3-s5",
+      "s": "And one leading authority says that these intensely powerful mental events can be not only harnessed but actually brought under conscious control, to help us sleep and feel better.",
+      "para_no": 1,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "one leading authority",
+        "谓语": "says",
+        "宾语或表语": "that ...（宾语从句）",
+        "主干翻译": "一位权威人士说……。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "that these intensely powerful mental events can be not only harnessed but actually brought under conscious control, to help us sleep and feel better",
+          "修饰对象": "says",
+          "中文翻译": "这些极其强烈的心理活动不仅能被驾驭，而且实际上能被纳入有意识的控制之下",
+          "说明": "that 引导宾语从句，作 says 的宾语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "not only harnessed but actually brought under conscious control",
+          "修饰对象": "harnessed",
+          "中文翻译": "不仅能被驾驭，而且能被纳入有意识的控制",
+          "说明": "not only...but... 连接两个并列过去分词，作 can be 的并列表语/被动结构。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to help us sleep and feel better",
+          "修饰对象": "brought",
+          "中文翻译": "以帮助我们睡得更好、感觉更好",
+          "说明": "不定式短语作目的状语。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "us sleep and feel better",
+          "修饰对象": "help",
+          "中文翻译": "我们睡得更好、感觉更好",
+          "说明": "help 后的复合宾语结构（us 作宾语，sleep and feel 为省略 to 的不定式作宾补）。"
+        }
+      ],
+      "zh": "一位权威人士说，这些极其强烈的心理活动不仅能被驾驭，而且实际上能被纳入有意识的控制之下，从而帮助我们睡得更好、感觉更好。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2005-text3-s6",
+      "s": "\"It's your dream,\" says Rosalind Cartwright, chair of psychology at Chicago's Medical Center.",
+      "para_no": 1,
+      "para_seq": 5,
+      "trunk": {
+        "主语": "Rosalind Cartwright",
+        "谓语": "says",
+        "宾语或表语": "It's your dream",
+        "主干翻译": "罗莎琳德·卡特赖特说：\"这是你的梦。\""
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "It's your dream",
+          "修饰对象": "says",
+          "中文翻译": "这是你的梦",
+          "说明": "直接引语作 says 的宾语内容（倒装句中前置）。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "chair of psychology at Chicago's Medical Center",
+          "修饰对象": "Cartwright",
+          "中文翻译": "芝加哥医学中心心理学系主任",
+          "说明": "名词短语作 Cartwright 的同位语，补充其身份。"
+        }
+      ],
+      "zh": "\"这是你的梦，\"芝加哥医学中心心理学系主任罗莎琳德·卡特赖特说。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2005-text3-s7",
+      "s": "\"If you don't like it, change it.\"",
+      "para_no": 1,
+      "para_seq": 6,
+      "trunk": {
+        "主语": "(you)",
+        "谓语": "change",
+        "宾语或表语": "it",
+        "主干翻译": "（你就）改变它。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "If you don't like it",
+          "修饰对象": "change",
+          "中文翻译": "如果你不喜欢它",
+          "说明": "If 引导条件状语从句，修饰主句祈使句 change。"
+        }
+      ],
+      "zh": "\"如果你不喜欢它，就改变它。\"",
+      "underline": null
+    },
+    {
+      "sid": "en1-2005-text3-s8",
+      "s": "Evidence from brain imaging supports this view.",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Evidence",
+        "谓语": "supports",
+        "宾语或表语": "this view",
+        "主干翻译": "证据支持这一观点。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "from brain imaging",
+          "修饰对象": "Evidence",
+          "中文翻译": "来自脑成像的",
+          "说明": "介词短语作定语，修饰 Evidence。"
+        }
+      ],
+      "zh": "来自脑成像的证据支持这一观点。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2005-text3-s9",
+      "s": "The brain is as active during REM (rapid eye movement) sleep—when most vivid dreams occur—as it is when fully awake, says Dr. Eric Nofzinger at the University of Pittsburgh.",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Dr. Eric Nofzinger",
+        "谓语": "says",
+        "宾语或表语": "The brain is as active ... as it is when fully awake",
+        "主干翻译": "埃里克·诺夫辛格博士说，大脑……和完全清醒时一样活跃。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "The brain is as active during REM (rapid eye movement) sleep—when most vivid dreams occur—as it is when fully awake",
+          "修饰对象": "says",
+          "中文翻译": "大脑在快速眼动睡眠期间和完全清醒时一样活跃",
+          "说明": "前置的直接引语内容作 says 的宾语。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "rapid eye movement",
+          "修饰对象": "REM",
+          "中文翻译": "快速眼动",
+          "说明": "括号内内容作 REM 的同位语，解释缩写含义。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "when most vivid dreams occur",
+          "修饰对象": "sleep",
+          "中文翻译": "（此时）最生动的梦境出现",
+          "说明": "破折号间 when 引导定语从句，修饰 REM sleep。"
+        },
+        {
+          "成分类型": "状语从句(比较)",
+          "原文": "as it is when fully awake",
+          "修饰对象": "is",
+          "中文翻译": "和它完全清醒时一样",
+          "说明": "as...as 比较结构的后半部分，构成程度比较状语从句（其中 when fully awake 为时间状语）。"
+        }
+      ],
+      "zh": "匹兹堡大学的埃里克·诺夫辛格博士说，大脑在快速眼动（REM）睡眠期间——也就是最生动的梦境出现之时——和它完全清醒时一样活跃。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2005-text3-s10",
+      "s": "But not all parts of the brain are equally involved; the limbic system (the \"emotional brain\") is especially active, while the prefrontal cortex (the center of intellect and reasoning) is relatively quiet.",
+      "para_no": 2,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "the limbic system",
+        "谓语": "is",
+        "宾语或表语": "especially active",
+        "主干翻译": "边缘系统格外活跃。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "But not all parts of the brain are equally involved",
+          "修饰对象": "—",
+          "中文翻译": "但并非大脑的所有部分都同等参与其中",
+          "说明": "分号前的独立分句（部分否定），与后句构成对照（k 标注挂靠在 is，此处作独立主句呈现）。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "the \"emotional brain\"",
+          "修饰对象": "system",
+          "中文翻译": "情绪脑",
+          "说明": "括号内作 limbic system 的同位语。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "the center of intellect and reasoning",
+          "修饰对象": "cortex",
+          "中文翻译": "智力与推理的中枢",
+          "说明": "括号内作 prefrontal cortex 的同位语。"
+        },
+        {
+          "成分类型": "状语从句(让步)",
+          "原文": "while the prefrontal cortex (the center of intellect and reasoning) is relatively quiet",
+          "修饰对象": "is",
+          "中文翻译": "而前额叶皮层（智力与推理的中枢）则相对平静",
+          "说明": "while 引导对比/让步状语从句，与主句形成反差。"
+        }
+      ],
+      "zh": "但并非大脑的所有部分都同等参与其中：边缘系统（\"情绪脑\"）格外活跃，而前额叶皮层（智力与推理的中枢）则相对平静。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2005-text3-s11",
+      "s": "\"We wake up from dreams happy or depressed, and those feelings can stay with us all day.\" says Stanford sleep researcher Dr. William Dement.",
+      "para_no": 2,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "Dr. William Dement",
+        "谓语": "says",
+        "宾语或表语": "We wake up ... all day（引语）",
+        "主干翻译": "威廉·迪门特博士说……。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "\"We wake up from dreams happy or depressed, and those feelings can stay with us all day.\"",
+          "修饰对象": "says",
+          "中文翻译": "我们从梦中醒来时或快乐或沮丧，而这些感受会伴随我们一整天",
+          "说明": "前置直接引语作 says 的宾语。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "happy or depressed",
+          "修饰对象": "wake",
+          "中文翻译": "快乐或沮丧地",
+          "说明": "形容词短语作主语补足语/伴随状语，描述醒来时的状态。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "those feelings can stay with us all day",
+          "修饰对象": "wake",
+          "中文翻译": "这些感受能伴随我们一整天",
+          "说明": "由 and 连接的并列分句，与前一分句并列。"
+        }
+      ],
+      "zh": "\"我们从梦中醒来时或快乐或沮丧，而这些感受会伴随我们一整天，\"斯坦福大学睡眠研究者威廉·迪门特博士说。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2005-text3-s12",
+      "s": "The link between dreams and emotions shows up among the patients in Cartwright's clinic.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The link",
+        "谓语": "shows up",
+        "宾语或表语": "among the patients",
+        "主干翻译": "这种联系在病人中显现出来。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "between dreams and emotions",
+          "修饰对象": "link",
+          "中文翻译": "梦与情绪之间的",
+          "说明": "介词短语作定语，修饰 link。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "in Cartwright's clinic",
+          "修饰对象": "patients",
+          "中文翻译": "卡特赖特诊所里的",
+          "说明": "介词短语作定语，修饰 patients，限定病人范围。"
+        }
+      ],
+      "zh": "梦与情绪之间的联系，在卡特赖特诊所的病人身上显现了出来。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2005-text3-s13",
+      "s": "Most people seem to have more bad dreams early in the night, progressing toward happier ones before awakening, suggesting that they are working through negative feelings generated during the day.",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Most people",
+        "谓语": "seem to have",
+        "宾语或表语": "more bad dreams",
+        "主干翻译": "大多数人似乎会做更多噩梦。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to have more bad dreams early in the night",
+          "修饰对象": "seem",
+          "中文翻译": "在夜晚早些时候做更多噩梦",
+          "说明": "seem to 结构，不定式作 seem 的补足语，描述主语情况。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "progressing toward happier ones before awakening",
+          "修饰对象": "have",
+          "中文翻译": "在醒来前逐渐转向更愉快的梦",
+          "说明": "现在分词短语作伴随状语，描述梦境的演变过程。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "suggesting that they are working through negative feelings generated during the day",
+          "修饰对象": "have",
+          "中文翻译": "这表明他们正在化解白天产生的负面情绪",
+          "说明": "现在分词短语作结果状语，表明前述现象的含义。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that they are working through negative feelings generated during the day",
+          "修饰对象": "suggesting",
+          "中文翻译": "他们正在化解白天产生的负面情绪",
+          "说明": "that 引导宾语从句，作 suggesting 的宾语。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "generated during the day",
+          "修饰对象": "feelings",
+          "中文翻译": "白天产生的",
+          "说明": "过去分词短语作后置定语，修饰 negative feelings。"
+        }
+      ],
+      "zh": "大多数人似乎在夜晚早些时候做更多噩梦，临近醒来时逐渐转向更愉快的梦，这表明他们正在化解白天产生的负面情绪。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2005-text3-s14",
+      "s": "Because our conscious mind is occupied with daily life we don't always think about the emotional significance of the day's events—until, it appears, we begin to dream.",
+      "para_no": 3,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "we",
+        "谓语": "don't always think about",
+        "宾语或表语": "the emotional significance of the day's events",
+        "主干翻译": "我们并不总是去思考当天事件的情感意义。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(原因)",
+          "原文": "Because our conscious mind is occupied with daily life",
+          "修饰对象": "think",
+          "中文翻译": "因为我们的意识被日常生活占据",
+          "说明": "Because 引导原因状语从句，修饰主句谓语 think。"
+        },
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "until, it appears, we begin to dream",
+          "修饰对象": "think",
+          "中文翻译": "直到（看起来）我们开始做梦",
+          "说明": "until 引导时间状语从句，限定 think 的持续到何时（其中 it appears 为插入语）。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "it appears",
+          "修饰对象": "until",
+          "中文翻译": "看起来",
+          "说明": "插入语，表达说话者的推测语气。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to dream",
+          "修饰对象": "begin",
+          "中文翻译": "做梦",
+          "说明": "不定式作 begin 的宾语/补足语。"
+        }
+      ],
+      "zh": "由于我们的意识被日常生活所占据，我们并不总是会去思考当天事件的情感意义——直到，看起来，我们开始做梦的时候。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2005-text3-s15",
+      "s": "And this process need not be left to the unconscious.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "this process",
+        "谓语": "need not be left",
+        "宾语或表语": "to the unconscious",
+        "主干翻译": "这一过程不必交给潜意识。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "to the unconscious",
+          "修饰对象": "left",
+          "中文翻译": "给潜意识",
+          "说明": "介词短语作状语，与 be left 搭配，表示交付的对象。"
+        }
+      ],
+      "zh": "而且这一过程不必完全交由潜意识来处理。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2005-text3-s16",
+      "s": "Cartwright believes one can exercise conscious control over recurring bad dreams.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Cartwright",
+        "谓语": "believes",
+        "宾语或表语": "one can exercise conscious control",
+        "主干翻译": "卡特赖特相信人能够施加有意识的控制。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "one can exercise conscious control over recurring bad dreams",
+          "修饰对象": "believes",
+          "中文翻译": "人能够对反复出现的噩梦施加有意识的控制",
+          "说明": "省略 that 的宾语从句，作 believes 的宾语。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "over recurring bad dreams",
+          "修饰对象": "control",
+          "中文翻译": "对反复出现的噩梦",
+          "说明": "介词短语作定语/状语，说明 control 的对象。"
+        }
+      ],
+      "zh": "卡特赖特相信，人能够对反复出现的噩梦施加有意识的控制。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2005-text3-s17",
+      "s": "As soon as you awaken, identify what is upsetting about the dream.",
+      "para_no": 4,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "(you)",
+        "谓语": "identify",
+        "宾语或表语": "what is upsetting about the dream",
+        "主干翻译": "（你要）辨明梦中令人不安的是什么。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "As soon as you awaken",
+          "修饰对象": "identify",
+          "中文翻译": "你一醒来",
+          "说明": "As soon as 引导时间状语从句，修饰祈使句 identify。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "what is upsetting about the dream",
+          "修饰对象": "identify",
+          "中文翻译": "梦中令人不安的是什么",
+          "说明": "what 引导宾语从句，作 identify 的宾语。"
+        }
+      ],
+      "zh": "你一醒来，就辨明梦中究竟是什么令人不安。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2005-text3-s18",
+      "s": "Visualize how you would like it to end instead; the next time it occurs, try to wake up just enough to control its course.",
+      "para_no": 4,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "(you)",
+        "谓语": "Visualize / try",
+        "宾语或表语": "how you would like it to end / to wake up",
+        "主干翻译": "（你要）想象你希望它如何结束；试着醒来。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "how you would like it to end instead",
+          "修饰对象": "Visualize",
+          "中文翻译": "你希望它如何换个方式结束",
+          "说明": "how 引导宾语从句，作 Visualize 的宾语。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "how you would like it to end",
+          "修饰对象": "like",
+          "中文翻译": "你希望它如何结束",
+          "说明": "how 引导的从句内部，it to end 为 like 的复合宾语。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "it occurs",
+          "修饰对象": "time",
+          "中文翻译": "它（噩梦）发生（之时）",
+          "说明": "省略关系词的定语从句，修饰 the next time。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to wake up just enough to control its course",
+          "修饰对象": "try",
+          "中文翻译": "醒来到刚好能控制其走向的程度",
+          "说明": "不定式作 try 的宾语。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to control its course",
+          "修饰对象": "enough",
+          "中文翻译": "以控制它的走向",
+          "说明": "不定式作 enough 的结果/目的状语。"
+        }
+      ],
+      "zh": "想象一下你希望它换个什么样的结局；下次它再出现时，试着醒到刚好能控制其走向的程度。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2005-text3-s19",
+      "s": "With much practice people can learn to, literally, do it in their sleep.",
+      "para_no": 4,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "people",
+        "谓语": "can learn",
+        "宾语或表语": "to do it",
+        "主干翻译": "人们能够学会做到这一点。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to, literally, do it in their sleep",
+          "修饰对象": "learn",
+          "中文翻译": "在睡梦中（字面意义上地）做到这一点",
+          "说明": "不定式作 learn 的宾语（其中 literally 为插入副词）。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "With much practice",
+          "修饰对象": "learn",
+          "中文翻译": "经过大量练习",
+          "说明": "介词短语作条件/方式状语。"
+        }
+      ],
+      "zh": "经过大量练习，人们就能学会真正在睡梦中做到这一点。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2005-text3-s20",
+      "s": "At the end of the day, there's probably little reason to pay attention to our dreams at all unless they keep us from sleeping or \"we wake up in a panic,\" Cartwright says.",
+      "para_no": 5,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "there",
+        "谓语": "'s",
+        "宾语或表语": "little reason",
+        "主干翻译": "几乎没有什么理由。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to pay attention to our dreams at all",
+          "修饰对象": "reason",
+          "中文翻译": "去关注我们的梦",
+          "说明": "不定式作后置定语，修饰 reason。"
+        },
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "unless they keep us from sleeping or \"we wake up in a panic,\"",
+          "修饰对象": "'s",
+          "中文翻译": "除非它们使我们无法入睡，或者\"我们在惊恐中醒来\"",
+          "说明": "unless 引导否定条件状语从句，修饰主句 there's。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "\"we wake up in a panic,\"",
+          "修饰对象": "keep",
+          "中文翻译": "我们在惊恐中醒来",
+          "说明": "由 or 连接的并列分句，与 they keep us from sleeping 并列，同属 unless 从句。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "At the end of the day",
+          "修饰对象": "'s",
+          "中文翻译": "归根结底",
+          "说明": "句首介词短语作状语，此处为习语，意为\"归根结底/说到底\"。"
+        }
+      ],
+      "zh": "归根结底，我们大概没什么理由去理会自己的梦——除非梦让我们无法入睡，或者\"我们在惊恐中醒来\"，卡特赖特说。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2005-text3-s21",
+      "s": "Terrorism, economic uncertainties and general feelings of insecurity have increased people's anxiety.",
+      "para_no": 5,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Terrorism, economic uncertainties and general feelings of insecurity",
+        "谓语": "have increased",
+        "宾语或表语": "people's anxiety",
+        "主干翻译": "恐怖主义、经济不确定性和普遍的不安全感加剧了人们的焦虑。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "Terrorism, economic uncertainties and general feelings of insecurity",
+          "修饰对象": "—",
+          "中文翻译": "恐怖主义、经济不确定性以及普遍的不安全感",
+          "说明": "由逗号和 and 连接的三项并列主语。"
+        },
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "of insecurity",
+          "修饰对象": "feelings",
+          "中文翻译": "不安全的",
+          "说明": "介词短语作定语，修饰 general feelings。"
+        }
+      ],
+      "zh": "恐怖主义、经济上的不确定性以及普遍的不安全感，加剧了人们的焦虑。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2005-text3-s22",
+      "s": "Those suffering from persistent nightmares should seek help from a therapist.",
+      "para_no": 5,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Those",
+        "谓语": "should seek",
+        "宾语或表语": "help",
+        "主干翻译": "那些人应当寻求帮助。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "suffering from persistent nightmares",
+          "修饰对象": "Those",
+          "中文翻译": "那些饱受持续噩梦折磨的（人）",
+          "说明": "现在分词短语作后置定语，修饰 Those。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "from a therapist",
+          "修饰对象": "help",
+          "中文翻译": "向治疗师（寻求）",
+          "说明": "介词短语作状语，说明寻求帮助的来源。"
+        }
+      ],
+      "zh": "那些饱受持续噩梦折磨的人，应当向治疗师寻求帮助。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2005-text3-s23",
+      "s": "For the rest of us, the brain has its ways of working through bad feelings.",
+      "para_no": 5,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "the brain",
+        "谓语": "has",
+        "宾语或表语": "its ways",
+        "主干翻译": "大脑有它自己的办法。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "For the rest of us",
+          "修饰对象": "has",
+          "中文翻译": "对我们其余的人来说",
+          "说明": "句首介词短语作状语。"
+        },
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "of working through bad feelings",
+          "修饰对象": "ways",
+          "中文翻译": "化解不良情绪的",
+          "说明": "介词短语作定语，修饰 ways。"
+        }
+      ],
+      "zh": "对我们其余的人来说，大脑自有它化解不良情绪的办法。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2005-text3-s24",
+      "s": "Sleep—or rather dream—on it and you'll feel better in the morning.",
+      "para_no": 5,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "(you)",
+        "谓语": "Sleep ... and ... feel",
+        "宾语或表语": "better",
+        "主干翻译": "（你）好好睡一觉，早上就会感觉好些。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "rather dream—on it",
+          "修饰对象": "Sleep",
+          "中文翻译": "或者说，对它好好做个梦",
+          "说明": "or rather 引出对 Sleep on it 的修正性并列说法（sleep on it 意为\"留待第二天再决定\"）。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "you'll feel better in the morning",
+          "修饰对象": "Sleep",
+          "中文翻译": "你早上就会感觉好些",
+          "说明": "由 and 连接的并列分句，与前面的祈使句构成\"祈使句 + and + 陈述句\"结构，表条件结果。"
+        }
+      ],
+      "zh": "对它好好睡一觉——或者说，好好做个梦——你第二天早上就会感觉好些。",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2005-text3-s1",
+        "en1-2005-text3-s2",
+        "en1-2005-text3-s3",
+        "en1-2005-text3-s4",
+        "en1-2005-text3-s5",
+        "en1-2005-text3-s6",
+        "en1-2005-text3-s7"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2005-text3-s8",
+        "en1-2005-text3-s9",
+        "en1-2005-text3-s10",
+        "en1-2005-text3-s11"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2005-text3-s12",
+        "en1-2005-text3-s13",
+        "en1-2005-text3-s14"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2005-text3-s15",
+        "en1-2005-text3-s16",
+        "en1-2005-text3-s17",
+        "en1-2005-text3-s18",
+        "en1-2005-text3-s19"
+      ]
+    },
+    {
+      "para_no": 5,
+      "sids": [
+        "en1-2005-text3-s20",
+        "en1-2005-text3-s21",
+        "en1-2005-text3-s22",
+        "en1-2005-text3-s23",
+        "en1-2005-text3-s24"
+      ]
+    }
+  ]
+}

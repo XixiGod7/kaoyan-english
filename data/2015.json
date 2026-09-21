@@ -1,0 +1,1691 @@
+{
+  "year": 2015,
+  "filename": "2015.pdf",
+  "era": "era3",
+  "era_label": "第三阶段+(2005至今 英一)",
+  "total_pages": 15,
+  "max_question_number": 52,
+  "found_question_count": 52,
+  "extracted_question_count": 51,
+  "sections": {
+    "cloze": {
+      "name": "Section I 完形填空",
+      "type": "cloze",
+      "question_range": [
+        1,
+        20
+      ],
+      "text": "1. [A] when      [B] why       [C] how       [D] what                 \n                                                                                  \n            2. [A] defended  [B] concluded [C]",
+      "article": "Section I Use of English\nThough not biologically related, friends are as \"related\" as fourth cousins,\nsharing about 1 % of genes. That is 1 a study, published from the University\nof California and Yale University in the Proceedings of the National Academy of\nSciences, has 2 .\nThe study is a genome-wide analysis conducted 3 1,932 unique subjects\nwhich  4   pairs of unrelated friends and unrelated strangers. The same people\nwere used in both 5\nWhile 1 % may seem 6 , it is not so to a geneticist. As James Fowler,\nprofessor of medical genetics at UC San Diego, says, \"Most people do not even\n7   their fourth cousins but somehow manage to select as friends the people\nwho  8   our kin.\"\nThe study      found that the genes for smell were something shared in\nfriends but not genes for immunity. Why this similarity exists in smell genes is\ndifficult to explain, for now. 10 , as the team suggests, it draws us to similar\nenvironments but there is more 11 it. There could be many mechanisms\nworking together that 12 us in choosing genetically similar friends 13\n\"functional kinship\" of being friends with 14\nOne of the remarkable findings of the study was that the similar genes seem\nto be evolving 15 than other genes. Studying this could help 16 why\nhuman evolution picked pace in the last 30,000 years, with social environment\nbeing a major 17 factor.\nThe findings do not simply explain people's 18 to befriend those of\nsimilar 19   backgrounds, say the researchers. Though all the subjects were\ndrawn from a population of European extraction, care was taken to that\nall subjects, friends and strangers, were taken from the same population.",
+      "questions": [
+        {
+          "number": 1,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "when"
+            },
+            {
+              "label": "B",
+              "text": "why"
+            },
+            {
+              "label": "C",
+              "text": "how"
+            },
+            {
+              "label": "D",
+              "text": "what"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 2,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "defended"
+            },
+            {
+              "label": "B",
+              "text": "concluded"
+            },
+            {
+              "label": "C",
+              "text": "withdrawn"
+            },
+            {
+              "label": "D",
+              "text": "advised"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 3,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "for"
+            },
+            {
+              "label": "B",
+              "text": "with"
+            },
+            {
+              "label": "C",
+              "text": "on"
+            },
+            {
+              "label": "D",
+              "text": "by"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 4,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "compared"
+            },
+            {
+              "label": "B",
+              "text": "sought"
+            },
+            {
+              "label": "C",
+              "text": "separated"
+            },
+            {
+              "label": "D",
+              "text": "connected"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 5,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "tests"
+            },
+            {
+              "label": "B",
+              "text": "objects"
+            },
+            {
+              "label": "C",
+              "text": "samples"
+            },
+            {
+              "label": "D",
+              "text": "examples"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 6,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "insignificant"
+            },
+            {
+              "label": "B",
+              "text": "unexpected"
+            },
+            {
+              "label": "C",
+              "text": "unreliable"
+            },
+            {
+              "label": "D",
+              "text": "incredible"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 7,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "visit"
+            },
+            {
+              "label": "B",
+              "text": "miss"
+            },
+            {
+              "label": "C",
+              "text": "seek"
+            },
+            {
+              "label": "D",
+              "text": "know"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 8,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "resemble"
+            },
+            {
+              "label": "B",
+              "text": "influence"
+            },
+            {
+              "label": "C",
+              "text": "favor"
+            },
+            {
+              "label": "D",
+              "text": "surpass"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 9,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "Meanwhile"
+            },
+            {
+              "label": "B",
+              "text": "Furthermore"
+            },
+            {
+              "label": "C",
+              "text": "Likewise"
+            },
+            {
+              "label": "D",
+              "text": "Perhaps"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 10,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "about"
+            },
+            {
+              "label": "B",
+              "text": "to"
+            },
+            {
+              "label": "C",
+              "text": "from"
+            },
+            {
+              "label": "D",
+              "text": "like"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 12,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "dirve"
+            },
+            {
+              "label": "B",
+              "text": "observe"
+            },
+            {
+              "label": "C",
+              "text": "confuse"
+            },
+            {
+              "label": "D",
+              "text": "limit"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 13,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "according to"
+            },
+            {
+              "label": "B",
+              "text": "rather than"
+            },
+            {
+              "label": "C",
+              "text": "regardless of"
+            },
+            {
+              "label": "D",
+              "text": "along with"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 14,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "chances"
+            },
+            {
+              "label": "B",
+              "text": "responses"
+            },
+            {
+              "label": "C",
+              "text": "missions"
+            },
+            {
+              "label": "D",
+              "text": "benefits"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 15,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "later"
+            },
+            {
+              "label": "B",
+              "text": "slower"
+            },
+            {
+              "label": "C",
+              "text": "faster"
+            },
+            {
+              "label": "D",
+              "text": "earlier"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 16,
+          "stem": "[ A J forecast",
+          "choices": [
+            {
+              "label": "A",
+              "text": ""
+            },
+            {
+              "label": "B",
+              "text": "remember"
+            },
+            {
+              "label": "C",
+              "text": "understand"
+            },
+            {
+              "label": "D",
+              "text": "express"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 17,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "unpredictable"
+            },
+            {
+              "label": "B",
+              "text": "contributory"
+            },
+            {
+              "label": "C",
+              "text": "controllable"
+            },
+            {
+              "label": "D",
+              "text": "disruptive"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 18,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "endeavor"
+            },
+            {
+              "label": "B",
+              "text": "decision [ CJ arrangement"
+            },
+            {
+              "label": "C",
+              "text": ""
+            },
+            {
+              "label": "D",
+              "text": "tendency"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 19,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "political"
+            },
+            {
+              "label": "B",
+              "text": "religious"
+            },
+            {
+              "label": "C",
+              "text": "ethnic"
+            },
+            {
+              "label": "D",
+              "text": "economic"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 20,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "see"
+            },
+            {
+              "label": "B",
+              "text": "show"
+            },
+            {
+              "label": "C",
+              "text": "prove"
+            },
+            {
+              "label": "D",
+              "text": ""
+            }
+          ],
+          "type": "choice"
+        }
+      ],
+      "warnings": []
+    },
+    "reading-a": {
+      "name": "Section II 阅读A节",
+      "type": "reading",
+      "question_range": [
+        21,
+        40
+      ],
+      "text": "hile  [B] Furthermore [C] Likewise [D] Perhaps             \n           10.                                                                    \n           11. [A] about     [B] to        [C] from      ",
+      "article": "King Juan Carlos of Spain once insisted \"kings don't abdicate, they die in\n           their sleep.\" But embarrassing scandals and the popularity of the republican left in\n                                                                                  \n           the recent Euro-elections have forced him to eat his words and stand down. So,\n           does the Spanish crisis suggest that monarchy is seeing its last days? Does that\n           mean the writing is on the wall for all European royals, with their magnificent\n                                                                                  \n           uniforms and majestic lifestyles?                                      \n              The Spanish case provides arguments both for and against monarchy. When\n           public opinion is paritcularly polarised, as it was following the end of the Franco\n                                                                                  \n           regime, monarchs can rise above \"mere\" politics and \"embody\" a spirit of\n           national unity.                                                        \n                                                                                  \n              It is this apparent transcendence of politics that explains monarchs'\n           continuing popularity as heads of state. And so, the Middle East excepted, Europe\n           is the most monarch-infested region in the world, with 10 kingdoms (not counting\n                                                                                  \n           Vatican city and Andorra). But unlike their absolutist counterparts in the Gulf and\n           Asia, most royal families have survived because they allow voters to avoid the\n           difficult search for a non-controversial but respected public figure.  \n                                                                                  \n              Even so, kings and queens undoubtedly have a downside. Symbolic of  \n           national unity as they claim to be, their very history - and sometimes the way they\n                                                                                  \n           behave today - embodies outdated and indefensible privileges and inequalities. At a\n           time when Thomas Piketty and other economists are warning of rising inequality\n           and the increasing power of inherited wealth, it is bizarre that wealthy aristocratic\n                                                                                  \n           families should still be the symbolic heart of modem democratic states.\n              The most successful monarchies strive to abandon or hide their old  \n           aristocratic ways. Princes and princesses have day-jobs and ride bicycles, not\n                                                                                  \n           horses (or helicopters). Even so, these are wealthy families who party with the\n           international 1 %, and media intrusiveness makes it increasingly difficult to\n           maintain the right image.                                              \n                                                                                  \n              While Europe's monarchies will no doubt be smart enough to survive for some\n           time to come, it is the British royals who have most to fear from the Spanish example.\n                                                                                  \n              It is only the Queen who has preserved the monarchy's reputation with her\n           rather ordinary (if well-heeled) granny style. The danger will come with Charles,\n           who has both an expensive taste of lifestyle and a pretty hierarchical view of the\n                                                                                  \n           world. He has failed to understand that monarchies have largely survived because\n           they provide a service - as non-controversial and non-political heads of state.\n          Charles ought to know that as English history shows, it is kings, not republicans,\n                                                                                  \n           who are the monarchy's worst enemies.                                  \n                                                                                  \n                                                                                  \n                                              (-3¾-14 yf)                         \n                                         .3.\n\nJust how much does the Constitution protect your digital data? The Supreme\n          Court will now consider whether police can search the contents of a mobile phone\n                                                                                  \n           without a warrant if the phone is on or around a person during an arrest.\n              California has asked the justices to refrain from a sweeping ruling,\n           particularly one that upsets the old assumption that authorities may search through\n                                                                                  \n           the possessions of suspects at the time of their arrest. It is hard, the state argues,\n           for judges to assess the implications of new and rapidly changing technologies.\n              The court would be recklessly modest if it followed California's advice.\n                                                                                  \n           Enough of the implications are discernable, even obvious, so that the justices can\n           and should provide updated guidelines to police, lawyers and defendants.\n              They should start by discarding California's lame argument that exploring the\n                                                                                  \n           contents of a smartphone - a vast storehouse of digital information - is similar to,\n           say, going through a suspect's purse. The court has ruled that police don't violate\n           the Fourth Amendment when they go through the wallet or pocketbook of an\n           arrestee without a warrant. But exploring one's smartphone is more like entering\n                                                                                  \n           his or her home. A smartphone may contain an arrestee's reading history, financial\n           history, medical history and comprehensive records of recent correspondence. The\n           development of \"cloud computing\", meanwhile, has made that exploration so\n                                                                                  \n           much the easier.                                                       \n              Americans should take steps to protect their digital privacy. But keeping\n                                                                                  \n           sensitive information on these devices is increasingly a requirement of normal life.\n          Citizens still have a right to expect private documents to remain private and\n           protected by the Constitution's prohibition on unreasonable searches.  \n              As so often is the case, stating that principle doesn't ease the challenge of\n                                                                                  \n           line-drawing. In many cases, it would not be overly burdensome for authorities to\n           obtain a warrant to search through phone contents. They could still invalidate\n           Fourth Amendment protections when facing severe, urgent circumstances, and\n                                                                                  \n           they could take reasonable measures to ensure that phone data are not erased or\n           altered while waiting for a warrant. The court, though, may want to allow room\n           for police to cite situations where they are entitled to more ",
+      "questions": [
+        {
+          "number": 21,
+          "stem": "According to the first two paragraphs, King Juan Carl of Spain",
+          "choices": [
+            {
+              "label": "A",
+              "text": "eased his relationship with his rivals."
+            },
+            {
+              "label": "B",
+              "text": "used to enjoy high public support."
+            },
+            {
+              "label": "C",
+              "text": "was unpopular among European royals."
+            },
+            {
+              "label": "D",
+              "text": "ended his reign in embarrassment."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 22,
+          "stem": "Monarchs are kept as heads of state in Europe mostly               \n              [ A J to give voters more public figures to look up to.",
+          "choices": [
+            {
+              "label": "A",
+              "text": ""
+            },
+            {
+              "label": "B",
+              "text": "to achieve a balance between tradition and reality."
+            },
+            {
+              "label": "C",
+              "text": "owing to their undoubted and respectable status."
+            },
+            {
+              "label": "D",
+              "text": "due to their everlasting political embodiment."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 23,
+          "stem": "Which of the following is shown to be odd, according to Paragraph 4?\n              [ A J Aristocrats' excessive reliance on inherited wealth.",
+          "choices": [
+            {
+              "label": "A",
+              "text": ""
+            },
+            {
+              "label": "B",
+              "text": "The role of the nobility in modem democracies."
+            },
+            {
+              "label": "C",
+              "text": "The simple lifestyle of the aristocratic families."
+            },
+            {
+              "label": "D",
+              "text": "The nobility's adherence to their privileges."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 24,
+          "stem": "The British royals \"have most to fear\" because Charles",
+          "choices": [
+            {
+              "label": "A",
+              "text": "fails to adapt himself to his future role."
+            },
+            {
+              "label": "B",
+              "text": "fails to change his lifestyle as advised."
+            },
+            {
+              "label": "C",
+              "text": "takes republicans as his potential allies."
+            },
+            {
+              "label": "D",
+              "text": "takes a tough line on political issues."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 25,
+          "stem": "Which of the following is the best title of the text?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "Carlos, Glory and Disgrace Combined"
+            },
+            {
+              "label": "B",
+              "text": "Charles, Anxious to Succeed to the Throne"
+            },
+            {
+              "label": "C",
+              "text": "Carlos, a Lesson for All European Monarchs"
+            },
+            {
+              "label": "D",
+              "text": "Charles, Slow to React to the Coming Threats (-3¾-14 yf) .4."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 26,
+          "stem": "The Supreme Court will work out whether, during an arrest, it is legitimate to",
+          "choices": [
+            {
+              "label": "A",
+              "text": "prevent suspects from deleting their phone contents."
+            },
+            {
+              "label": "B",
+              "text": "search for suspects' mobile phones without a warrant."
+            },
+            {
+              "label": "C",
+              "text": "check suspects' phone contents without being authorized."
+            },
+            {
+              "label": "D",
+              "text": "prohibit suspects from using their mobile phones."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 27,
+          "stem": "The author's attitude toward California's argument is one of",
+          "choices": [
+            {
+              "label": "A",
+              "text": "disapproval."
+            },
+            {
+              "label": "B",
+              "text": "indifference."
+            },
+            {
+              "label": "C",
+              "text": "tolerance."
+            },
+            {
+              "label": "D",
+              "text": "cautiousness."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 28,
+          "stem": "The author believes that exploring one's phone contents is comparable to",
+          "choices": [
+            {
+              "label": "A",
+              "text": "going through one's wallet."
+            },
+            {
+              "label": "B",
+              "text": "handling one's historical records."
+            },
+            {
+              "label": "C",
+              "text": "scanning one's correspondences."
+            },
+            {
+              "label": "D",
+              "text": "getting into one's residence."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 29,
+          "stem": "In Paragraphs 5 and 6, the author shows his concern that",
+          "choices": [
+            {
+              "label": "A",
+              "text": "principles are hard to be clearly expressed."
+            },
+            {
+              "label": "B",
+              "text": "the court is giving police less room for action."
+            },
+            {
+              "label": "C",
+              "text": "phones are used to store sensitive information."
+            },
+            {
+              "label": "D",
+              "text": "citizens' privacy is not effectively protected."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 30,
+          "stem": "Orin Kerr's comparison is quoted to indicate that",
+          "choices": [
+            {
+              "label": "A",
+              "text": "the Constitution should be implemented flexibly."
+            },
+            {
+              "label": "B",
+              "text": "principles of the Constitution should never be altered."
+            },
+            {
+              "label": "C",
+              "text": "California's argument violates principles of the Constitution."
+            },
+            {
+              "label": "D",
+              "text": "new technology requires reinterpretation of the Constitution. .6. (-3¾-14 yf)"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 31,
+          "stem": "It can be learned from Paragraph 1 that",
+          "choices": [
+            {
+              "label": "A",
+              "text": "Science intends to simplify its peer-review process."
+            },
+            {
+              "label": "B",
+              "text": "journals are strengthening their statistical checks."
+            },
+            {
+              "label": "C",
+              "text": "few journals are blamed for mistakes in data analysis."
+            },
+            {
+              "label": "D",
+              "text": "lack of data analysis is common in research projects."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 32,
+          "stem": "The phrase \"flagged up\" (Para. 2) is the closest in meaning to",
+          "choices": [
+            {
+              "label": "A",
+              "text": "found."
+            },
+            {
+              "label": "B",
+              "text": "revised."
+            },
+            {
+              "label": "C",
+              "text": "marked."
+            },
+            {
+              "label": "D",
+              "text": "stored."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 33,
+          "stem": "Giovanni Parmigiani believes that the establishment of the SBoRE may",
+          "choices": [
+            {
+              "label": "A",
+              "text": "pose a threat to all its peers."
+            },
+            {
+              "label": "B",
+              "text": "meet with strong opposition."
+            },
+            {
+              "label": "C",
+              "text": "increase Science's circulation."
+            },
+            {
+              "label": "D",
+              "text": "set an example for other journals."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 34,
+          "stem": "David Vaux holds that what Science is doing now                    \n              [ A J adds to researchers' workload.",
+          "choices": [
+            {
+              "label": "A",
+              "text": ""
+            },
+            {
+              "label": "B",
+              "text": "diminishes the role of reviewers."
+            },
+            {
+              "label": "C",
+              "text": "has room for further improvement."
+            },
+            {
+              "label": "D",
+              "text": "is to fail in the foreseeable future."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 35,
+          "stem": "Which of the following is the best title of the text?              \n              [ A J Science Joins Push to Screen Statistics in Papers",
+          "choices": [
+            {
+              "label": "A",
+              "text": ""
+            },
+            {
+              "label": "B",
+              "text": "Professional Statisticians Deserve More Respect"
+            },
+            {
+              "label": "C",
+              "text": "Data Analysis Finds Its Way onto Editors' Desks"
+            },
+            {
+              "label": "D",
+              "text": "Statisticians Are Coming Back with Science (-3¾-14 yf) .8."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 36,
+          "stem": "According to the first two paragraphs, Elisabeth was upset by",
+          "choices": [
+            {
+              "label": "A",
+              "text": "the consequences of the current sorting mechanism."
+            },
+            {
+              "label": "B",
+              "text": "companies' financial loss due to immoral practices."
+            },
+            {
+              "label": "C",
+              "text": "governmental ineffectiveness on moral issues."
+            },
+            {
+              "label": "D",
+              "text": "the wide misuse of integrity among institutions."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 37,
+          "stem": "It can be inferred from Paragraph 3 that                          \n              [ A J Glenn Mulcaire may deny phone hacking as a crime.",
+          "choices": [
+            {
+              "label": "A",
+              "text": ""
+            },
+            {
+              "label": "B",
+              "text": "more journalists may be found guilty of phone hacking."
+            },
+            {
+              "label": "C",
+              "text": "Andy Coulson should be held innocent of the charge."
+            },
+            {
+              "label": "D",
+              "text": "phone hacking will be accepted on certain occasions."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 38,
+          "stem": "The author believes that Rebekah Brooks's defence",
+          "choices": [
+            {
+              "label": "A",
+              "text": "was hardly convincing."
+            },
+            {
+              "label": "B",
+              "text": "centered on trivial issues."
+            },
+            {
+              "label": "C",
+              "text": "revealed a cunning personality."
+            },
+            {
+              "label": "D",
+              "text": "was part of a conspiracy."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 39,
+          "stem": "The author holds that the current collective doctrine shows        \n                                                                                  \n              [ A J a marginalized lifestyle.",
+          "choices": [
+            {
+              "label": "A",
+              "text": ""
+            },
+            {
+              "label": "B",
+              "text": "unfair wealth distribution."
+            },
+            {
+              "label": "C",
+              "text": "generally distorted values."
+            },
+            {
+              "label": "D",
+              "text": "a rigid moral code."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 40,
+          "stem": "Which of the following is suggested in the last paragraph?         \n              [ A J The quality of writings is of primary importance.",
+          "choices": [
+            {
+              "label": "A",
+              "text": ""
+            },
+            {
+              "label": "B",
+              "text": "Moral awareness matters in editing a newspaper."
+            },
+            {
+              "label": "C",
+              "text": "Common humanity is central to news reporting."
+            },
+            {
+              "label": "D",
+              "text": ""
+            }
+          ],
+          "type": "choice"
+        }
+      ],
+      "warnings": [],
+      "text_count": 4,
+      "texts": [
+        {
+          "text_num": 1,
+          "article": "King Juan Carlos of Spain once insisted \"kings don't abdicate, they die in\n           their sleep.\" But embarrassing scandals and the popularity of the republican left in\n                                                                                  \n           the recent Euro-elections have forced him to eat his words and stand down. So,\n           does the Spanish crisis suggest that monarchy is seeing its last days? Does that\n           mean the writing is on the wall for all European royals, with their magnificent\n                                                                                  \n           uniforms and majestic lifestyles?                                      \n              The Spanish case provides arguments both for and against monarchy. When\n           public opinion is paritcularly polarised, as it was following the end of the Franco\n                                                                                  \n           regime, monarchs can rise above \"mere\" politics and \"embody\" a spirit of\n           national unity.                                                        \n                                                                                  \n              It is this apparent transcendence of politics that explains monarchs'\n           continuing popularity as heads of state. And so, the Middle East excepted, Europe\n           is the most monarch-infested region in the world, with 10 kingdoms (not counting\n                                                                                  \n           Vatican city and Andorra). But unlike their absolutist counterparts in the Gulf and\n           Asia, most royal families have survived because they allow voters to avoid the\n           difficult search for a non-controversial but respected public figure.  \n                                                                                  \n              Even so, kings and queens undoubtedly have a downside. Symbolic of  \n           national unity as they claim to be, their very history - and sometimes the way they\n                                                                                  \n           behave today - embodies outdated and indefensible privileges and inequalities. At a\n           time when Thomas Piketty and other economists are warning of rising inequality\n           and the increasing power of inherited wealth, it is bizarre that wealthy aristocratic\n                                                                                  \n           families should still be the symbolic heart of modem democratic states.\n              The most successful monarchies strive to abandon or hide their old  \n           aristocratic ways. Princes and princesses have day-jobs and ride bicycles, not\n                                                                                  \n           horses (or helicopters). Even so, these are wealthy families who party with the\n           international 1 %, and media intrusiveness makes it increasingly difficult to\n           maintain the right image.                                              \n                                                                                  \n              While Europe's monarchies will no doubt be smart enough to survive for some\n           time to come, it is the British royals who have most to fear from the Spanish example.\n                                                                                  \n              It is only the Queen who has preserved the monarchy's reputation with her\n           rather ordinary (if well-heeled) granny style. The danger will come with Charles,\n           who has both an expensive taste of lifestyle and a pretty hierarchical view of the\n                                                                                  \n           world. He has failed to understand that monarchies have largely survived because\n           they provide a service - as non-controversial and non-political heads of state.\n          Charles ought to know that as English history shows, it is kings, not republicans,\n                                                                                  \n           who are the monarchy's worst enemies.                                  \n                                                                                  \n                                                                                  \n                                              (-3¾-14 yf)                         \n                                         .3.",
+          "questions": [
+            {
+              "number": 21,
+              "stem": "According to the first two paragraphs, King Juan Carl of Spain",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "eased his relationship with his rivals."
+                },
+                {
+                  "label": "B",
+                  "text": "used to enjoy high public support."
+                },
+                {
+                  "label": "C",
+                  "text": "was unpopular among European royals."
+                },
+                {
+                  "label": "D",
+                  "text": "ended his reign in embarrassment."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 22,
+              "stem": "Monarchs are kept as heads of state in Europe mostly               \n              [ A J to give voters more public figures to look up to.",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": ""
+                },
+                {
+                  "label": "B",
+                  "text": "to achieve a balance between tradition and reality."
+                },
+                {
+                  "label": "C",
+                  "text": "owing to their undoubted and respectable status."
+                },
+                {
+                  "label": "D",
+                  "text": "due to their everlasting political embodiment."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 23,
+              "stem": "Which of the following is shown to be odd, according to Paragraph 4?\n              [ A J Aristocrats' excessive reliance on inherited wealth.",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": ""
+                },
+                {
+                  "label": "B",
+                  "text": "The role of the nobility in modem democracies."
+                },
+                {
+                  "label": "C",
+                  "text": "The simple lifestyle of the aristocratic families."
+                },
+                {
+                  "label": "D",
+                  "text": "The nobility's adherence to their privileges."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 24,
+              "stem": "The British royals \"have most to fear\" because Charles",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "fails to adapt himself to his future role."
+                },
+                {
+                  "label": "B",
+                  "text": "fails to change his lifestyle as advised."
+                },
+                {
+                  "label": "C",
+                  "text": "takes republicans as his potential allies."
+                },
+                {
+                  "label": "D",
+                  "text": "takes a tough line on political issues."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 25,
+              "stem": "Which of the following is the best title of the text?",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "Carlos, Glory and Disgrace Combined"
+                },
+                {
+                  "label": "B",
+                  "text": "Charles, Anxious to Succeed to the Throne"
+                },
+                {
+                  "label": "C",
+                  "text": "Carlos, a Lesson for All European Monarchs"
+                },
+                {
+                  "label": "D",
+                  "text": "Charles, Slow to React to the Coming Threats (-3¾-14 yf) .4."
+                }
+              ],
+              "type": "choice"
+            }
+          ]
+        },
+        {
+          "text_num": 2,
+          "article": "Just how much does the Constitution protect your digital data? The Supreme\n          Court will now consider whether police can search the contents of a mobile phone\n                                                                                  \n           without a warrant if the phone is on or around a person during an arrest.\n              California has asked the justices to refrain from a sweeping ruling,\n           particularly one that upsets the old assumption that authorities may search through\n                                                                                  \n           the possessions of suspects at the time of their arrest. It is hard, the state argues,\n           for judges to assess the implications of new and rapidly changing technologies.\n              The court would be recklessly modest if it followed California's advice.\n                                                                                  \n           Enough of the implications are discernable, even obvious, so that the justices can\n           and should provide updated guidelines to police, lawyers and defendants.\n              They should start by discarding California's lame argument that exploring the\n                                                                                  \n           contents of a smartphone - a vast storehouse of digital information - is similar to,\n           say, going through a suspect's purse. The court has ruled that police don't violate\n           the Fourth Amendment when they go through the wallet or pocketbook of an\n           arrestee without a warrant. But exploring one's smartphone is more like entering\n                                                                                  \n           his or her home. A smartphone may contain an arrestee's reading history, financial\n           history, medical history and comprehensive records of recent correspondence. The\n           development of \"cloud computing\", meanwhile, has made that exploration so\n                                                                                  \n           much the easier.                                                       \n              Americans should take steps to protect their digital privacy. But keeping\n                                                                                  \n           sensitive information on these devices is increasingly a requirement of normal life.\n          Citizens still have a right to expect private documents to remain private and\n           protected by the Constitution's prohibition on unreasonable searches.  \n              As so often is the case, stating that principle doesn't ease the challenge of\n                                                                                  \n           line-drawing. In many cases, it would not be overly burdensome for authorities to\n           obtain a warrant to search through phone contents. They could still invalidate\n           Fourth Amendment protections when facing severe, urgent circumstances, and\n                                                                                  \n           they could take reasonable measures to ensure that phone data are not erased or\n           altered while waiting for a warrant. The court, though, may want to allow room\n           for police to cite situations where they are entitled to more freedom. \n                                                                                  \n              But the justices should not swallow California's argument whole. New,\n           disruptive technology sometimes demands novel applications of the Constitution's\n           protections. Orin Kerr, a law professor, compares the explosion and accessibility\n                                                                                  \n           of digital information in the 21s t century with the establishment of automobile use\n           as a virtual necessity of life in the 20th: The justices had to specify novel rules for\n           the new personal domain of the passenger car then; they must sort out how the\n                                                                                  \n           Fourth Amendment applies to digital information now.                   \n                                                                                  \n                                                                                  \n                                              (-3¾-14 yf)                         \n                                         .5.",
+          "questions": [
+            {
+              "number": 26,
+              "stem": "The Supreme Court will work out whether, during an arrest, it is legitimate to",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "prevent suspects from deleting their phone contents."
+                },
+                {
+                  "label": "B",
+                  "text": "search for suspects' mobile phones without a warrant."
+                },
+                {
+                  "label": "C",
+                  "text": "check suspects' phone contents without being authorized."
+                },
+                {
+                  "label": "D",
+                  "text": "prohibit suspects from using their mobile phones."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 27,
+              "stem": "The author's attitude toward California's argument is one of",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "disapproval."
+                },
+                {
+                  "label": "B",
+                  "text": "indifference."
+                },
+                {
+                  "label": "C",
+                  "text": "tolerance."
+                },
+                {
+                  "label": "D",
+                  "text": "cautiousness."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 28,
+              "stem": "The author believes that exploring one's phone contents is comparable to",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "going through one's wallet."
+                },
+                {
+                  "label": "B",
+                  "text": "handling one's historical records."
+                },
+                {
+                  "label": "C",
+                  "text": "scanning one's correspondences."
+                },
+                {
+                  "label": "D",
+                  "text": "getting into one's residence."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 29,
+              "stem": "In Paragraphs 5 and 6, the author shows his concern that",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "principles are hard to be clearly expressed."
+                },
+                {
+                  "label": "B",
+                  "text": "the court is giving police less room for action."
+                },
+                {
+                  "label": "C",
+                  "text": "phones are used to store sensitive information."
+                },
+                {
+                  "label": "D",
+                  "text": "citizens' privacy is not effectively protected."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 30,
+              "stem": "Orin Kerr's comparison is quoted to indicate that",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "the Constitution should be implemented flexibly."
+                },
+                {
+                  "label": "B",
+                  "text": "principles of the Constitution should never be altered."
+                },
+                {
+                  "label": "C",
+                  "text": "California's argument violates principles of the Constitution."
+                },
+                {
+                  "label": "D",
+                  "text": "new technology requires reinterpretation of the Constitution. .6. (-3¾-14 yf)"
+                }
+              ],
+              "type": "choice"
+            }
+          ]
+        },
+        {
+          "text_num": 3,
+          "article": "The journal Science is adding an extra round of statistical checks to its\n           peer-review process, editor-in-chief Marcia McNutt announced today. The policy\n           follows similar efforts from other journals, after widespread concern that basic\n                                                                                  \n           mistakes in data analysis are contributing to the irreproducibility of many\n           published research findings.                                           \n                                                                                  \n              \"Readers must have confidence in the conclusions published in our journal,\"\n           writes McNutt in an editorial. Working with the American Statistical Association, the\n           journal has appointed seven experts to a statistics board of reviewing editors (SBoRE).\n                                                                                  \n           Manuscripts will be flagged up for additional scrutiny by the journal's internal\n           editors, or by its existing Board of Reviewing Editors or by outside peer reviewers.\n           The SBoRE panel will then find external statisticians to review these manuscripts.\n                                                                                  \n              Asked whether any particular papers had impelled the change, McNutt said:\n           \"The creation of the 'statistics board' was motivated by concerns broadly with the\n                                                                                  \n           application of statistics and data analysis in scientific research and is part of\n           Science's overall drive to increase reproducibility in the research we publish.\"\n              Giovanni Parmigiani, a biostatistician at the Harvard School of Public Health,\n                                                                                  \n           a member of the SBoRE group, says he expects the board to \"play primarily an\n           advisory role.\" He agreed to join because he \"found the foresight behind the\n           establishment of the SBoRE to be novel, unique and likely to have a lasting\n                                                                                  \n           impact. This impact will not only be through the publications in Science itself, but\n           hopefully through a larger group of publishing places that may want to model\n           their approach after Science.\"                                         \n                                                                                  \n              John Ioannidis, a physician who studies research methodology, says that the\n           policy is \"a most welcome step forward\" and \"long overdue\". \"Most journals are\n                                                                                  \n           weak in statistical review, and this damages the quality of what they publish. I\n           think that, for the majority of scientific papers nowadays, statistical review is\n           more essential than expert review,\" he says, but he noted that biomedical journals\n                                                                                  \n           such as Annals of Internal Medicine, the Journal of the American Medical\n           Association and The Lancet pay strong attention to statistical review. \n              Professional scientists are expected to know how to analyse data, but\n                                                                                  \n           statistical errors are alarmingly common in published research, according to\n          David Vaux, a cell biologist. Researchers should improve their standards, he wrote\n           in 2012, but journals should also take a tougher line, \"engaging reviewers who are\n                                                                                  \n           statistically literate and editors who can verify the process\". Vaux says that\n           Science's idea to pass some papers to statisticians \"has some merit, but a\n                                                                                  \n           weakness is that it relies on the board of reviewing editors to identify 'the papers\n           that need scrutiny' in the first place\".                               \n                                                                                  \n                                              (-3¾-14 yf)                         \n                                         .7.",
+          "questions": [
+            {
+              "number": 31,
+              "stem": "It can be learned from Paragraph 1 that",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "Science intends to simplify its peer-review process."
+                },
+                {
+                  "label": "B",
+                  "text": "journals are strengthening their statistical checks."
+                },
+                {
+                  "label": "C",
+                  "text": "few journals are blamed for mistakes in data analysis."
+                },
+                {
+                  "label": "D",
+                  "text": "lack of data analysis is common in research projects."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 32,
+              "stem": "The phrase \"flagged up\" (Para. 2) is the closest in meaning to",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "found."
+                },
+                {
+                  "label": "B",
+                  "text": "revised."
+                },
+                {
+                  "label": "C",
+                  "text": "marked."
+                },
+                {
+                  "label": "D",
+                  "text": "stored."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 33,
+              "stem": "Giovanni Parmigiani believes that the establishment of the SBoRE may",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "pose a threat to all its peers."
+                },
+                {
+                  "label": "B",
+                  "text": "meet with strong opposition."
+                },
+                {
+                  "label": "C",
+                  "text": "increase Science's circulation."
+                },
+                {
+                  "label": "D",
+                  "text": "set an example for other journals."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 34,
+              "stem": "David Vaux holds that what Science is doing now                    \n              [ A J adds to researchers' workload.",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": ""
+                },
+                {
+                  "label": "B",
+                  "text": "diminishes the role of reviewers."
+                },
+                {
+                  "label": "C",
+                  "text": "has room for further improvement."
+                },
+                {
+                  "label": "D",
+                  "text": "is to fail in the foreseeable future."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 35,
+              "stem": "Which of the following is the best title of the text?              \n              [ A J Science Joins Push to Screen Statistics in Papers",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": ""
+                },
+                {
+                  "label": "B",
+                  "text": "Professional Statisticians Deserve More Respect"
+                },
+                {
+                  "label": "C",
+                  "text": "Data Analysis Finds Its Way onto Editors' Desks"
+                },
+                {
+                  "label": "D",
+                  "text": "Statisticians Are Coming Back with Science (-3¾-14 yf) .8."
+                }
+              ],
+              "type": "choice"
+            }
+          ]
+        },
+        {
+          "text_num": 4,
+          "article": "Two years ago, Rupert Murdoch's daughter, Elisabeth, spoke of the   \n           \"unsettling dearth of integrity across so many of our institutions\". Integrity had\n                                                                                  \n           collapsed, she argued, because of a collective acceptance that the only \"sorting\n           mechanism\" in society should be profit and the market. But \"it's us, human beings,\n           we the people who create the society we want, not profit.\"             \n                                                                                  \n              Driving her point home, she continued: \"It's increasingly apparent that the\n           absence of purpose, of a moral language within government, media or business\n                                                                                  \n           could become one of the most dangerous goals for capitalism and freedom.\" This\n           same absence of moral purpose was wounding companies such as News      \n           International, she thought, making it more likely that it would lose its way as it\n                                                                                  \n           had with widespread illegal telephone hacking.                         \n              As the hacking trial concludes - finding guilty one ex-editor of the News of the\n           World, Andy Coulson, for conspiring to hack phones, and finding his    \n                                                                                  \n           predecessor, Rebekah Brooks, innocent of the same charge - the wider issue of\n           dearth of integrity still stands. Journalists are known to have hacked the phones of\n           up to 5,500 people. This is hacking on an industrial scale, as was acknowledged\n                                                                                  \n           by Glenn Mulcaire, the man hired by the News of the World in 2001 to be the\n           point person for phone hacking. Others await trial. This long story still unfolds.\n                                                                                  \n              In many respects, the dearth of moral purpose frames not only the fact of such\n           widespread phone hacking but the terms on which the trial took place. One of the\n           astonishing revelations was how little Rebekah Brooks knew of what went on in\n                                                                                  \n           her newsroom, how little she thought to ask and the fact that she never inquired\n           how the stories arrived. The core of her successful defence was that she knew\n           nothing.                                                               \n                                                                                  \n              In today's world, it has become normal that well-paid executives should not\n           be accountable for what happens in the organisations that they run. Perhaps we\n                                                                                  \n           should not be so surprised. For a generation, the collective doctrine has been that\n           the sorting mechanism of society should be profit. The words that have mattered\n           are efficiency, flexibility, shareholder value, business-friendly, wealth generation,\n                                                                                  \n           sales, impact and, in newspapers, circulation. Words degraded to the margin have\n           been justice, fairness, tolerance, proporitonality and accountability. \n              The purpose of editing the News of the World was not to promote reader\n                                                                                  \n           understanding, to be fair in what was written or to betray any common humanity.\n           It was to ruin lives in the quest for circulation and impact. Ms Brooks may or may\n           not have had suspicions about how her journalists got their stories, but she asked\n                                                                                  \n           no questions, gave no instructions -nor received traceable, recorded answers.\n                                                                                  \n                                                                                  \n                                         .9.  (-3¾-14 yf)",
+          "questions": [
+            {
+              "number": 36,
+              "stem": "According to the first two paragraphs, Elisabeth was upset by",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "the consequences of the current sorting mechanism."
+                },
+                {
+                  "label": "B",
+                  "text": "companies' financial loss due to immoral practices."
+                },
+                {
+                  "label": "C",
+                  "text": "governmental ineffectiveness on moral issues."
+                },
+                {
+                  "label": "D",
+                  "text": "the wide misuse of integrity among institutions."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 37,
+              "stem": "It can be inferred from Paragraph 3 that                          \n              [ A J Glenn Mulcaire may deny phone hacking as a crime.",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": ""
+                },
+                {
+                  "label": "B",
+                  "text": "more journalists may be found guilty of phone hacking."
+                },
+                {
+                  "label": "C",
+                  "text": "Andy Coulson should be held innocent of the charge."
+                },
+                {
+                  "label": "D",
+                  "text": "phone hacking will be accepted on certain occasions."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 38,
+              "stem": "The author believes that Rebekah Brooks's defence",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "was hardly convincing."
+                },
+                {
+                  "label": "B",
+                  "text": "centered on trivial issues."
+                },
+                {
+                  "label": "C",
+                  "text": "revealed a cunning personality."
+                },
+                {
+                  "label": "D",
+                  "text": "was part of a conspiracy."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 39,
+              "stem": "The author holds that the current collective doctrine shows        \n                                                                                  \n              [ A J a marginalized lifestyle.",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": ""
+                },
+                {
+                  "label": "B",
+                  "text": "unfair wealth distribution."
+                },
+                {
+                  "label": "C",
+                  "text": "generally distorted values."
+                },
+                {
+                  "label": "D",
+                  "text": "a rigid moral code."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 40,
+              "stem": "Which of the following is suggested in the last paragraph?         \n              [ A J The quality of writings is of primary importance.",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": ""
+                },
+                {
+                  "label": "B",
+                  "text": "Moral awareness matters in editing a newspaper."
+                },
+                {
+                  "label": "C",
+                  "text": "Common humanity is central to news reporting."
+                },
+                {
+                  "label": "D",
+                  "text": ""
+                }
+              ],
+              "type": "choice"
+            }
+          ]
+        }
+      ]
+    },
+    "new-type": {
+      "name": "Part B 阅读新题型",
+      "type": "new_type",
+      "question_range": [
+        41,
+        45
+      ],
+      "text": "( 41) _______________         You begin to infer a context    \n                                                                                  \n           for the text, for instance by making decisi",
+      "article": "took place. One of the\nastonishing revelations was how little Rebekah Brooks knew of what went on in\nher newsroom, how little she thought to ask and the fact that she never inquired\nhow the stories arrived. The core of her successful defence was that she knew\nnothing.\nIn today's world, it has become normal that well-paid executives should not\nbe accountable for what happens in the organisations that they run. Perhaps we\nshould not be so surprised. For a generation, the collective doctrine has been that\nthe sorting mechanism of society should be profit. The words that have mattered\nare efficiency, flexibility, shareholder value, business-friendly, wealth generation,\nsales, impact and, in newspapers, circulation. Words degraded to the margin have\nbeen justice, fairness, tolerance, proporitonality and accountability.\nThe purpose of editing the News of the World was not to promote reader\nunderstanding, to be fair in what was written or to betray any common humanity.\nIt was to ruin lives in the quest for circulation and impact. Ms Brooks may or may\nnot have had suspicions about how her journalists got their stories, but she asked\nno questions, gave no instructions -nor received traceable, recorded answers.\n[ A J Glenn Mulcaire may deny phone hacking as a crime.\n[ A J a marginalized lifestyle.\n[ A J The quality of writings is of primary importance.\nPartB\nIn the following text, some sentences have been removed. For Questions 41-45,\nchoose the most suitable one from the list A-G to fit into each of the numbered\nblanks. There are two extra choices, which do not fit in any of the blanks. Mark\nHow does your reading proceed? Clearly you try to comprehend, in the\nsense of identifying meanings for individual words and working out\nrelationships between them, drawing on your implicit knowledge of English\ngrammar.",
+      "questions": [
+        {
+          "number": 41,
+          "stem": "( 41) _______________ You begin to infer a context for the text, for instance by making decisions about what kind of speech event is involved: Who is making the utterance, to whom, when an",
+          "choices": [
+            {
+              "label": "A",
+              "text": "Are we studying that text and trying to respond in a way that fulfils the requirement of a given course? Reading it simply for pleasure? Skimming it for information? Ways of reading on a train or in bed are likely to differ considerably from reading in a seminar room."
+            },
+            {
+              "label": "B",
+              "text": "Factors such as the place and period in which we are reading, our gender, ethnicity, age and social class will encourage us towards certain interpretations but at the same time obscure or even close off others."
+            },
+            {
+              "label": "C",
+              "text": "If you are unfamiliar with words or idioms, you guess at their meaning, using clues presented in the context. On the assumption that they will become relevant later, you make a mental note of discourse entities as well as possible links between them."
+            },
+            {
+              "label": "D",
+              "text": "In effect, you try to reconstruct the likely meanings or effects that any given sentence, image or reference might have had: These might be the ones the author intended."
+            },
+            {
+              "label": "E",
+              "text": "You make further inferences, for instance, about how the text may be significant to you, or about its validity - inferences that form the basis of a personal response for which the author will inevitably be far less responsible."
+            },
+            {
+              "label": "F",
+              "text": "In plays, novels and narrative poems, characters speak as constructs created by the author, not necessarily as mouthpieces for the author's own thoughts."
+            },
+            {
+              "label": "G",
+              "text": "Rather, we ascribe meanings to texts on the basis of interaction between what we might call textual and contextual material: between kinds of organization or patterning we perceive in a text's formal structures (so especially its language structures) and various kinds of background, social knowledge"
+            }
+          ],
+          "type": "new_type"
+        },
+        {
+          "number": 42,
+          "stem": "u feel the writer has invited you to grasp by presenting you with specific evidence and clues. (42) _____________ Conceived in this way, comprehension will not follow exactly the same track for each reader. What is in question is not the retrieval of an absolute, fixed or",
+          "choices": [
+            {
+              "label": "A",
+              "text": "Are we studying that text and trying to respond in a way that fulfils the requirement of a given course? Reading it simply for pleasure? Skimming it for information? Ways of reading on a train or in bed are likely to differ considerably from reading in a seminar room."
+            },
+            {
+              "label": "B",
+              "text": "Factors such as the place and period in which we are reading, our gender, ethnicity, age and social class will encourage us towards certain interpretations but at the same time obscure or even close off others."
+            },
+            {
+              "label": "C",
+              "text": "If you are unfamiliar with words or idioms, you guess at their meaning, using clues presented in the context. On the assumption that they will become relevant later, you make a mental note of discourse entities as well as possible links between them."
+            },
+            {
+              "label": "D",
+              "text": "In effect, you try to reconstruct the likely meanings or effects that any given sentence, image or reference might have had: These might be the ones the author intended."
+            },
+            {
+              "label": "E",
+              "text": "You make further inferences, for instance, about how the text may be significant to you, or about its validity - inferences that form the basis of a personal response for which the author will inevitably be far less responsible."
+            },
+            {
+              "label": "F",
+              "text": "In plays, novels and narrative poems, characters speak as constructs created by the author, not necessarily as mouthpieces for the author's own thoughts."
+            },
+            {
+              "label": "G",
+              "text": "Rather, we ascribe meanings to texts on the basis of interaction between what we might call textual and contextual material: between kinds of organization or patterning we perceive in a text's formal structures (so especially its language structures) and various kinds of background, social knowledge"
+            }
+          ],
+          "type": "new_type"
+        },
+        {
+          "number": 43,
+          "stem": "\"true\" meaning that can be read off and checked for accuracy, or some timeless relation of the text to the world. (43) ______________ Such background material inevitably reflects who we are. (44) ______ ___________ This doesn't, however, make interpretation merely relativ",
+          "choices": [
+            {
+              "label": "A",
+              "text": "Are we studying that text and trying to respond in a way that fulfils the requirement of a given course? Reading it simply for pleasure? Skimming it for information? Ways of reading on a train or in bed are likely to differ considerably from reading in a seminar room."
+            },
+            {
+              "label": "B",
+              "text": "Factors such as the place and period in which we are reading, our gender, ethnicity, age and social class will encourage us towards certain interpretations but at the same time obscure or even close off others."
+            },
+            {
+              "label": "C",
+              "text": "If you are unfamiliar with words or idioms, you guess at their meaning, using clues presented in the context. On the assumption that they will become relevant later, you make a mental note of discourse entities as well as possible links between them."
+            },
+            {
+              "label": "D",
+              "text": "In effect, you try to reconstruct the likely meanings or effects that any given sentence, image or reference might have had: These might be the ones the author intended."
+            },
+            {
+              "label": "E",
+              "text": "You make further inferences, for instance, about how the text may be significant to you, or about its validity - inferences that form the basis of a personal response for which the author will inevitably be far less responsible."
+            },
+            {
+              "label": "F",
+              "text": "In plays, novels and narrative poems, characters speak as constructs created by the author, not necessarily as mouthpieces for the author's own thoughts."
+            },
+            {
+              "label": "G",
+              "text": "Rather, we ascribe meanings to texts on the basis of interaction between what we might call textual and contextual material: between kinds of organization or patterning we perceive in a text's formal structures (so especially its language structures) and various kinds of background, social knowledge"
+            }
+          ],
+          "type": "new_type"
+        },
+        {
+          "number": 44,
+          "stem": "ff and checked for accuracy, or some timeless relation of the text to the world. (43) ______________ Such background material inevitably reflects who we are. (44) ______ ___________ This doesn't, however, make interpretation merely relative or even pointless. Precisely because readers from different historical",
+          "choices": [
+            {
+              "label": "A",
+              "text": "Are we studying that text and trying to respond in a way that fulfils the requirement of a given course? Reading it simply for pleasure? Skimming it for information? Ways of reading on a train or in bed are likely to differ considerably from reading in a seminar room."
+            },
+            {
+              "label": "B",
+              "text": "Factors such as the place and period in which we are reading, our gender, ethnicity, age and social class will encourage us towards certain interpretations but at the same time obscure or even close off others."
+            },
+            {
+              "label": "C",
+              "text": "If you are unfamiliar with words or idioms, you guess at their meaning, using clues presented in the context. On the assumption that they will become relevant later, you make a mental note of discourse entities as well as possible links between them."
+            },
+            {
+              "label": "D",
+              "text": "In effect, you try to reconstruct the likely meanings or effects that any given sentence, image or reference might have had: These might be the ones the author intended."
+            },
+            {
+              "label": "E",
+              "text": "You make further inferences, for instance, about how the text may be significant to you, or about its validity - inferences that form the basis of a personal response for which the author will inevitably be far less responsible."
+            },
+            {
+              "label": "F",
+              "text": "In plays, novels and narrative poems, characters speak as constructs created by the author, not necessarily as mouthpieces for the author's own thoughts."
+            },
+            {
+              "label": "G",
+              "text": "Rather, we ascribe meanings to texts on the basis of interaction between what we might call textual and contextual material: between kinds of organization or patterning we perceive in a text's formal structures (so especially its language structures) and various kinds of background, social knowledge"
+            }
+          ],
+          "type": "new_type"
+        },
+        {
+          "number": 45,
+          "stem": "discussion of beliefs and values. How we read a given text also depends to some extent on our particular interest in reading it. ( 45) _______________ Such dimensions of reading suggest - as others introduced later in the book will also do - that we bring an implicit (often unacknowledged) agenda to any act of reading",
+          "choices": [
+            {
+              "label": "A",
+              "text": "Are we studying that text and trying to respond in a way that fulfils the requirement of a given course? Reading it simply for pleasure? Skimming it for information? Ways of reading on a train or in bed are likely to differ considerably from reading in a seminar room."
+            },
+            {
+              "label": "B",
+              "text": "Factors such as the place and period in which we are reading, our gender, ethnicity, age and social class will encourage us towards certain interpretations but at the same time obscure or even close off others."
+            },
+            {
+              "label": "C",
+              "text": "If you are unfamiliar with words or idioms, you guess at their meaning, using clues presented in the context. On the assumption that they will become relevant later, you make a mental note of discourse entities as well as possible links between them."
+            },
+            {
+              "label": "D",
+              "text": "In effect, you try to reconstruct the likely meanings or effects that any given sentence, image or reference might have had: These might be the ones the author intended."
+            },
+            {
+              "label": "E",
+              "text": "You make further inferences, for instance, about how the text may be significant to you, or about its validity - inferences that form the basis of a personal response for which the author will inevitably be far less responsible."
+            },
+            {
+              "label": "F",
+              "text": "In plays, novels and narrative poems, characters speak as constructs created by the author, not necessarily as mouthpieces for the author's own thoughts."
+            },
+            {
+              "label": "G",
+              "text": "Rather, we ascribe meanings to texts on the basis of interaction between what we might call textual and contextual material: between kinds of organization or patterning we perceive in a text's formal structures (so especially its language structures) and various kinds of background, social knowledge"
+            }
+          ],
+          "type": "new_type"
+        }
+      ],
+      "warnings": []
+    },
+    "translation": {
+      "name": "C节 翻译",
+      "type": "translation",
+      "question_range": [
+        46,
+        50
+      ],
+      "text": "( 46) This movement, driven by powerful and\n                                                                                  \n           diverse motivations, built a nation out of a wilderness and, b",
+      "article": "\"true\" meaning that can be read off and checked for accuracy, or some timeless\nrelation of the text to the world. (43) ______________\nSuch background material inevitably reflects who we are. (44) ______\n___________          This doesn't, however, make interpretation merely\nrelative or even pointless. Precisely because readers from different historical\nperiods, places and social experiences produce different but overlapping readings\nof the same words on the page - including for texts that engage with fundamental\nhuman concerns - debates about texts can play an important role in social\ndiscussion of beliefs and values.\nHow we read a given text also depends to some extent on our particular\ninterest in reading it. ( 45) _______________  Such dimensions\nof reading suggest - as others introduced later in the book will also do - that we\nbring an implicit (often unacknowledged) agenda to any act of reading. It doesn't\nthen necessarily follow that one kind of reading is fuller, more advanced or more\nworthwhile than another. Ideally, different kinds of reading inform each other, and\nact as useful reference points for and counterbalances to one another. Together,\nthey make up the reading component of your overall literacy, or relationship to\nyour surrounding textual environment.\nrequirement of a given course? Reading it simply for pleasure? Skimming it\nfor information? Ways of reading on a train or in bed are likely to differ\nconsiderably from reading in a seminar room.\nethnicity, age and social class will encourage us towards certain\ninterpretations but at the same time obscure or even close off others.\nclues presented in the context. On the assumption that they will become\nrelevant later, you make a mental note of discourse entities as well as possible\nlinks between them.\nsentence, image or reference might have had: These might be the ones the\nauthor intended.\nsignificant to you, or about its validity - inferences that form the basis of a\npersonal response for which the author will inevitably be far less responsible.\nthe author, not necessarily as mouthpieces for the author's own thoughts.\nwe might call textual and contextual material: between kinds of organization\nor patterning we perceive in a text's formal structures (so especially its\nlanguage structures) and various kinds of background, social knowledge,\nbelief and attitude that we bring to the text.\nPartC\npoints)\nWithin the span of a hundred years, in the seventeenth and early eighteenth\ncenturies, a tide of emigration - one of the great folk wanderings of history -\nswept from Europe to America.",
+      "questions": [
+        {
+          "number": 46,
+          "stem": "This movement, driven by powerful and diverse motivations, built a nation out of a wilderness and, by its nature, shaped the character and destiny of an uncharted continent.",
+          "choices": [],
+          "type": "translation"
+        },
+        {
+          "number": 47,
+          "stem": "The United States is the product of two principal forces - the immigration of European peoples with their varied ideas, customs, and national characteristics and the impact of a new country which modified these traits. Of necessity, colonial America was a projection of Europe. Across the Atlantic came successive groups of Englishmen, Frenchmen, Germans, Scots, Irishmen, Dutchmen, Swedes, and many others who attempted to transplant their habits and traditions to the new world.",
+          "choices": [],
+          "type": "translation"
+        },
+        {
+          "number": 48,
+          "stem": "But the force of geographic conditions peculiar to America, the interplay of the varied national groups upon one another, and the sheer difficulty of maintaining old-world ways in a raw, new continent caused significant changes. These changes were gradual and at first scarcely visible. But the result was a new social pattern which, although it resembled European society in many ways, had a character that was distinctly American.",
+          "choices": [],
+          "type": "translation"
+        },
+        {
+          "number": 49,
+          "stem": "The first shiploads of immigrants bound for the territory which is now the United States crossed the Atlantic more than a hundred years after the 15th-and-16th-century explorations of North America. In the meantime, thriving Spanish colonies had been established in Mexico, the West Indies, and South America. These travelers to North America came in small, unmercifully overcrowded craft. During their six- to twelve-week voyage, they survived on barely enough food allotted to them. Many of the ships were lost in storms, many passengers died of disease, and infants rarely survived the journey. So",
+          "choices": [],
+          "type": "translation"
+        },
+        {
+          "number": 50,
+          "stem": "The virgin forest with its richness and variety of trees was a real treasure-house which extended from Maine all the way down to Georgia. Here was abundant fuel and lumber. Here was the raw material of houses and furniture, ships and potash, dyes and naval stores. �* ( -) iA.� .13. (-3l 14 yf)",
+          "choices": [],
+          "type": "translation"
+        }
+      ],
+      "warnings": []
+    },
+    "writing-a": {
+      "name": "A节 应用文写作",
+      "type": "writing_small",
+      "question_range": [
+        51,
+        51
+      ],
+      "text": "51. Directions:                                                        \n                                                                                  \n              You are going to host a club re",
+      "article": "sentence, image or reference might have had: These might be the ones the\nauthor intended.\nsignificant to you, or about its validity - inferences that form the basis of a\npersonal response for which the author will inevitably be far less responsible.\nthe author, not necessarily as mouthpieces for the author's own thoughts.\nwe might call textual and contextual material: between kinds of organization\nor patterning we perceive in a text's formal structures (so especially its\nlanguage structures) and various kinds of background, social knowledge,\nbelief and attitude that we bring to the text.\nPartC\npoints)\nWithin the span of a hundred years, in the seventeenth and early eighteenth\ncenturies, a tide of emigration - one of the great folk wanderings of history -\nswept from Europe to America. ( 46) This movement, driven by powerful and\ndiverse motivations, built a nation out of a wilderness and, by its nature, shaped\nthe character and destiny of an uncharted continent.\n(47) The United States is the product of two principal forces - the\nimmigration of European peoples with their varied ideas, customs, and national\ncharacteristics and the impact of a new country which modified these traits. Of\nnecessity, colonial America was a projection of Europe. Across the Atlantic came\nsuccessive groups of Englishmen, Frenchmen, Germans, Scots, Irishmen,\nDutchmen, Swedes, and many others who attempted to transplant their habits and\ntraditions to the new world. ( 48) But the force of geographic conditions peculiar\nto America, the interplay of the varied national groups upon one another, and the\nsheer difficulty of maintaining old-world ways in a raw, new continent caused\nsignificant changes. These changes were gradual and at first scarcely visible. But\nthe result was a new social pattern which, although it resembled European society\nin many ways, had a character that was distinctly American.\n( 49) The first shiploads of immigrants bound for the territory which is now\nthe United States crossed the Atlantic more than a hundred years after the\n15th-and-16th-century explorations of North America. In the meantime, thriving\nSpanish colonies had been established in Mexico, the West Indies, and South\nAmerica. These travelers to North America came in small, unmercifully overcrowded\ncraft. During their six- to twelve-week voyage, they survived on barely enough\nfood allotted to them. Many of the ships were lost in storms, many passengers\ndied of disease, and infants rarely survived the journey. Sometimes storms blew\nthe vessels far off their course, and often calm brought unbearably long delay.\nTo the anxious travelers the sight of the American shore brought almost\ninexpressible relief. Said one recorder of events, \"The air at twelve leagues'\ndistance smelt as sweet as a new-blown garden.\" The colonists' first glimpse of\nthe new land was a sight of dense woods. (50) The virgin forest with its richness\nand variety of trees was a real treasure-house which extended from Maine all the\nway down to Georgia. Here was abundant fuel and lumber. Here was the raw\nmaterial of houses and furniture, ships and potash, dyes and naval stores.\nSection III Writing\nPartA",
+      "questions": [
+        {
+          "number": 51,
+          "stem": "Directions: You are going to host a club reading session. Write an email of about 100 words recommending a book to the club members. You should state reasons for your recommendation. You should write neatly on the ANSWER SHEET. Do not sign your own name at the end of the letter, use \"Li Ming \" instead. Do not write the address. (10 points) PartB",
+          "choices": [],
+          "type": "writing_small"
+        }
+      ],
+      "warnings": []
+    },
+    "writing-b": {
+      "name": "B节 短文写作",
+      "type": "writing_big",
+      "question_range": [
+        52,
+        52
+      ],
+      "text": "52. Directions:                                                        \n                                                                                  \n              Write an essay of 160-200 words",
+      "article": "ext's formal structures (so especially its\nlanguage structures) and various kinds of background, social knowledge,\nbelief and attitude that we bring to the text.\nPartC\npoints)\nWithin the span of a hundred years, in the seventeenth and early eighteenth\ncenturies, a tide of emigration - one of the great folk wanderings of history -\nswept from Europe to America. ( 46) This movement, driven by powerful and\ndiverse motivations, built a nation out of a wilderness and, by its nature, shaped\nthe character and destiny of an uncharted continent.\n(47) The United States is the product of two principal forces - the\nimmigration of European peoples with their varied ideas, customs, and national\ncharacteristics and the impact of a new country which modified these traits. Of\nnecessity, colonial America was a projection of Europe. Across the Atlantic came\nsuccessive groups of Englishmen, Frenchmen, Germans, Scots, Irishmen,\nDutchmen, Swedes, and many others who attempted to transplant their habits and\ntraditions to the new world. ( 48) But the force of geographic conditions peculiar\nto America, the interplay of the varied national groups upon one another, and the\nsheer difficulty of maintaining old-world ways in a raw, new continent caused\nsignificant changes. These changes were gradual and at first scarcely visible. But\nthe result was a new social pattern which, although it resembled European society\nin many ways, had a character that was distinctly American.\n( 49) The first shiploads of immigrants bound for the territory which is now\nthe United States crossed the Atlantic more than a hundred years after the\n15th-and-16th-century explorations of North America. In the meantime, thriving\nSpanish colonies had been established in Mexico, the West Indies, and South\nAmerica. These travelers to North America came in small, unmercifully overcrowded\ncraft. During their six- to twelve-week voyage, they survived on barely enough\nfood allotted to them. Many of the ships were lost in storms, many passengers\ndied of disease, and infants rarely survived the journey. Sometimes storms blew\nthe vessels far off their course, and often calm brought unbearably long delay.\nTo the anxious travelers the sight of the American shore brought almost\ninexpressible relief. Said one recorder of events, \"The air at twelve leagues'\ndistance smelt as sweet as a new-blown garden.\" The colonists' first glimpse of\nthe new land was a sight of dense woods. (50) The virgin forest with its richness\nand variety of trees was a real treasure-house which extended from Maine all the\nway down to Georgia. Here was abundant fuel and lumber. Here was the raw\nmaterial of houses and furniture, ships and potash, dyes and naval stores.\nSection III Writing\nPartA\nYou are going to host a club reading session. Write an email of about 100\nwords recommending a book to the club members.\nYou should state reasons for your recommendation.\nDo not sign your own name at the end of the letter, use \"Li Ming \" instead.\nDo not write the address. (10 points)\nPartB",
+      "questions": [
+        {
+          "number": 52,
+          "stem": "Directions: Write an essay of 160-200 words based on the following picture. In your essay, you should",
+          "choices": [],
+          "type": "writing_big"
+        }
+      ],
+      "warnings": []
+    }
+  }
+}

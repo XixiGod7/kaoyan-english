@@ -1,0 +1,494 @@
+{
+  "exam": "en1",
+  "key": "2026-t1",
+  "year": 2026,
+  "text_no": 1,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2026-text1-s1",
+      "s": "For thousands of years, donkeys have been critical for propelling human civilizations forward.",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "donkeys",
+        "谓语": "have been",
+        "宾语或表语": "critical",
+        "主干翻译": "驴是至关重要的。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语(时间)",
+          "原文": "For thousands of years",
+          "修饰对象": "have been critical",
+          "中文翻译": "数千年来",
+          "说明": "介词短语充当时间状语，修饰全句主干谓语动词。"
+        },
+        {
+          "成分类型": "介词短语作状语(目的)",
+          "原文": "for propelling human civilizations forward",
+          "修饰对象": "critical",
+          "中文翻译": "在推动人类文明前行方面",
+          "说明": "for+动名词短语作目的/方面状语，修饰形容词 critical。"
+        }
+      ],
+      "zh": "数千年来，驴在推动人类文明进程中发挥了关键作用。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2026-text1-s2",
+      "s": "They've helped pull wheeled vehicles, carry travelers and move goods across the world.",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "They",
+        "谓语": "'ve helped",
+        "宾语或表语": "pull wheeled vehicles, carry travelers and move goods",
+        "主干翻译": "它们帮助拉动轮式车辆、运送旅行者并搬运货物。"
+      },
+      "components": [
+        {
+          "成分类型": "并列非谓语结构",
+          "原文": "pull wheeled vehicles, carry travelers and move goods",
+          "修饰对象": "helped",
+          "中文翻译": "拉动轮式车辆、运送旅行者并运送货物",
+          "说明": "help 后的省略 to 不定式并列宾语短语，由 and 连接三项。"
+        },
+        {
+          "成分类型": "介词短语作状语(地点)",
+          "原文": "across the world",
+          "修饰对象": "move goods",
+          "中文翻译": "在全世界各地",
+          "说明": "介词短语作地点状语，修饰 move goods。"
+        }
+      ],
+      "zh": "它们曾帮助拉动轮式车、搭载旅客并运送货物周游世界。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2026-text1-s3",
+      "s": "Yet while horses and dogs have long basked in the glow of human fascination with their histories, donkeys have toiled in comparative obscurity, says Evelyn Todd, a population geneticist.",
+      "para_no": 1,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "donkeys",
+        "谓语": "have toiled",
+        "宾语或表语": "in comparative obscurity",
+        "主干翻译": "驴一直在相对默默无闻中辛勤劳作。"
+      },
+      "components": [
+        {
+          "成分类型": "让步状语从句",
+          "原文": "while horses and dogs have long basked in the glow of human fascination with their histories",
+          "修饰对象": "主句",
+          "中文翻译": "尽管马和狗长期以来一直享受着人类对其历史着迷的荣耀",
+          "说明": "while 引导让步状语从句，与主句驴的境遇形成鲜明对比。"
+        },
+        {
+          "成分类型": "同位语",
+          "原文": "a population geneticist",
+          "修饰对象": "Evelyn Todd",
+          "中文翻译": "一位群体遗传学家",
+          "说明": "名词短语作 Evelyn Todd 的同位语，说明其专业身份。"
+        }
+      ],
+      "zh": "然而，群体遗传学家伊芙琳·托德表示，尽管马和狗长期以来在人类对其历史的着迷中备受青睐，但驴却在相对默默无闻中劳作。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2026-text1-s4",
+      "s": "“Donkeys are super important working animals that sustain the livelihoods of millions of people,” Todd says.",
+      "para_no": 1,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "Donkeys",
+        "谓语": "are",
+        "宾语或表语": "super important working animals",
+        "主干翻译": "驴是极其重要的役用动物。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "that sustain the livelihoods of millions of people",
+          "修饰对象": "working animals",
+          "中文翻译": "维系着数百万人的生计",
+          "说明": "that 引导限制性定语从句修饰先行词 animals，在从句中作主语。"
+        }
+      ],
+      "zh": "托德说：“驴是极其重要的工作动物，维持着数百万人的生计。”",
+      "underline": null
+    },
+    {
+      "sid": "en1-2026-text1-s5",
+      "s": "“Yet they are underappreciated.”",
+      "para_no": 1,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "they",
+        "谓语": "are",
+        "宾语或表语": "underappreciated",
+        "主干翻译": "它们却被低估了。"
+      },
+      "components": [
+        {
+          "成分类型": "连词作状语",
+          "原文": "Yet",
+          "修饰对象": "主句",
+          "中文翻译": "然而",
+          "说明": "副词连词表示强烈的语意转折。"
+        }
+      ],
+      "zh": "“然而它们并未受到应有的重视。”",
+      "underline": null
+    },
+    {
+      "sid": "en1-2026-text1-s6",
+      "s": "Brooks agreed, noting: “The humble donkey has supported humans for thousands of years, and this research reminds us of the value of this creature.”",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Brooks",
+        "谓语": "agreed",
+        "宾语或表语": "—",
+        "主干翻译": "布鲁克斯表示赞同。"
+      },
+      "components": [
+        {
+          "成分类型": "现在分词短语作状语(伴随)",
+          "原文": "noting: “The humble donkey has supported humans for thousands of years, and this research reminds us of the value of this creature.”",
+          "修饰对象": "agreed",
+          "中文翻译": "指出：“谦卑的驴已经支持人类数千年，而这项研究提醒了我们这种生物的价值。”",
+          "说明": "现在分词短语作伴随状语，补充说明赞同时陈述的内容。"
+        }
+      ],
+      "zh": "布鲁克斯对此表示赞同，他指出：“卑微的驴千百年来一直支持着人类，而这项研究提醒我们注意这种生物的价值。”",
+      "underline": null
+    },
+    {
+      "sid": "en1-2026-text1-s7",
+      "s": "“We hope that it will raise awareness of their importance and prevent people from neglecting them.”",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "We",
+        "谓语": "hope",
+        "宾语或表语": "that 从句",
+        "主干翻译": "我们希望……"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "that it will raise awareness of their importance and prevent people from neglecting them",
+          "修饰对象": "hope",
+          "中文翻译": "这将提高人们对其重要性的认识，并防止人们忽视它们",
+          "说明": "that 引导 hope 的宾语从句，从句内部谓语为 raise and prevent 并列。"
+        }
+      ],
+      "zh": "“我们希望这能提高人们对其重要性的认识，防止人们忽视它们。”",
+      "underline": null
+    },
+    {
+      "sid": "en1-2026-text1-s8",
+      "s": "Now, the largest-ever genetic study of the animals is pulling donkeys out of the past’s shadows.",
+      "para_no": 2,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "the largest-ever genetic study of the animals",
+        "谓语": "is pulling",
+        "宾语或表语": "donkeys",
+        "主干翻译": "这项有史以来最大规模的动物基因研究正在将驴从过去的阴影中拉出来。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "of the animals",
+          "修饰对象": "genetic study",
+          "中文翻译": "针对这些动物的",
+          "说明": "介词短语作后置定语修饰 study。"
+        },
+        {
+          "成分类型": "介词短语作状语(方向)",
+          "原文": "out of the past’s shadows",
+          "修饰对象": "is pulling",
+          "中文翻译": "从过去的阴影中",
+          "说明": "介词短语作方向状语，与 pulling 构成习语搭配。"
+        }
+      ],
+      "zh": "如今，有史以来针对这些动物规模最大的基因研究正将驴从过去的阴影中拉出来。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2026-text1-s9",
+      "s": "By analyzing the genomes of more than 200 modern donkeys and dozens of ancient ones, researchers mapped their domestication timeline to about 7,000 years ago in East Africa.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "researchers",
+        "谓语": "mapped",
+        "宾语或表语": "their domestication timeline",
+        "主干翻译": "研究人员确定了它们的驯化时间表。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语(方式)",
+          "原文": "By analyzing the genomes of more than 200 modern donkeys and dozens of ancient ones",
+          "修饰对象": "mapped",
+          "中文翻译": "通过分析200多头现代驴和数十头古代驴的基因组",
+          "说明": "By+动名词短语作方式状语，说明研究团队获得成果的研究方法。"
+        },
+        {
+          "成分类型": "介词短语作状语(时间与地点)",
+          "原文": "to about 7,000 years ago in East Africa",
+          "修饰对象": "mapped",
+          "中文翻译": "追溯至大约7000年前的东非",
+          "说明": "介词短语定位驯化发生的具体年代与发源地。"
+        }
+      ],
+      "zh": "通过分析200多头现代驴和几十头古代驴的基因组，研究人员将它们的驯化时间表绘制到大约7000年前的东非。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2026-text1-s10",
+      "s": "That was about 3,000 years before horses were domesticated.",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "That",
+        "谓语": "was",
+        "宾语或表语": "about 3,000 years before horses were domesticated",
+        "主干翻译": "那是在马被驯化之前的大约3000年。"
+      },
+      "components": [
+        {
+          "成分类型": "时间状语从句",
+          "原文": "before horses were domesticated",
+          "修饰对象": "about 3,000 years",
+          "中文翻译": "在马被驯化之前",
+          "说明": "before 引导时间状语从句，被驯化使用被动语态。"
+        }
+      ],
+      "zh": "那大约是在马被驯化前3000年。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2026-text1-s11",
+      "s": "It also appears that the animals were domesticated in a single event, rather than independently in different parts of the globe.",
+      "para_no": 3,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "It (形式主语)",
+        "谓语": "appears",
+        "宾语或表语": "that 从句 (真正主语)",
+        "主干翻译": "似乎情况是……"
+      },
+      "components": [
+        {
+          "成分类型": "主语从句",
+          "原文": "that the animals were domesticated in a single event, rather than independently in different parts of the globe",
+          "修饰对象": "It",
+          "中文翻译": "这些动物是在单次事件中被驯化的，而不是在地球不同地区独立驯化的",
+          "说明": "that 引导真正主语从句，rather than 连接对比成分。"
+        }
+      ],
+      "zh": "此外，这些动物似乎是在一次单一事件中被驯化的，而不是在全球不同地区独立驯化的。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2026-text1-s12",
+      "s": "From East Africa, donkeys spread quickly throughout the continent, northward into Europe and eastward into Asia, and differentiated into genetically distinct lineages based on their geographical isolation.",
+      "para_no": 3,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "donkeys",
+        "谓语": "spread and differentiated",
+        "宾语或表语": "into genetically distinct lineages",
+        "主干翻译": "驴扩散并分化成了遗传上不同的谱系。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语(起点与方向)",
+          "原文": "From East Africa, northward into Europe and eastward into Asia",
+          "修饰对象": "spread",
+          "中文翻译": "从东非出发，向北进入欧洲，向东进入亚洲",
+          "说明": "并列的方向状语说明扩散轨迹。"
+        },
+        {
+          "成分类型": "介词短语作原因状语",
+          "原文": "based on their geographical isolation",
+          "修饰对象": "differentiated",
+          "中文翻译": "基于它们的地理隔离",
+          "说明": "过去分词短语作状语，解释分化的驱动诱因。"
+        }
+      ],
+      "zh": "从东非开始，驴迅速在整个非洲大陆蔓延，向北进入欧洲，向东进入亚洲，并根据地理隔离分化为基因上不同的品系。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2026-text1-s13",
+      "s": "The exact catalyst for donkeys’ domestication is unknown.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The exact catalyst for donkeys’ domestication",
+        "谓语": "is",
+        "宾语或表语": "unknown",
+        "主干翻译": "驴被驯化的确切催化剂是未知的。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "for donkeys’ domestication",
+          "修饰对象": "catalyst",
+          "中文翻译": "对于驴驯化而言的",
+          "说明": "介词短语限定修饰 catalyst (触发因素/催化剂)。"
+        }
+      ],
+      "zh": "驴驯化的确切诱因尚不得而知。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2026-text1-s14",
+      "s": "However, the animals’ original taming coincided with a period when the Sahara rapidly dried and expanded into the desert it is today.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "the animals’ original taming",
+        "谓语": "coincided with",
+        "宾语或表语": "a period",
+        "主干翻译": "这些动物最初的驯化恰好与一个时期相吻合。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "when the Sahara rapidly dried and expanded into the desert it is today",
+          "修饰对象": "a period",
+          "中文翻译": "当时撒哈拉沙漠迅速干涸并扩大成为如今的沙漠",
+          "说明": "when 引导关系副词定语从句，修饰表示时间的先行词 a period。"
+        }
+      ],
+      "zh": "然而，这些动物最初的驯化与撒哈拉沙漠迅速变干并扩张成如今这片沙漠的时期相吻合。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2026-text1-s15",
+      "s": "Donkeys may have been an essential tool for people looking to haul goods across the increasingly parched environment, says Ludovic Orlando, a paleogenomicist.",
+      "para_no": 4,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Donkeys",
+        "谓语": "may have been",
+        "宾语或表语": "an essential tool",
+        "主干翻译": "驴可能一直是一种不可或缺的工具。"
+      },
+      "components": [
+        {
+          "成分类型": "现在分词短语作后置定语",
+          "原文": "looking to haul goods across the increasingly parched environment",
+          "修饰对象": "people",
+          "中文翻译": "希望穿越日益干旱的环境搬运货物的人们",
+          "说明": "现在分词短语修饰 people，表示其目的与行动。"
+        }
+      ],
+      "zh": "古基因组学家卢多维奇·奥兰多表示，对于希望在这个日益干旱的环境中运送货物的人们来说，驴可能是一种必不可少的工具。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2026-text1-s16",
+      "s": "“The desert was growing and they had to adapt to this new situation, and they needed a lot of transportation,” Orlando says.",
+      "para_no": 5,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The desert and they and they",
+        "谓语": "was growing, had to adapt, needed",
+        "宾语或表语": "transportation",
+        "主干翻译": "沙漠在扩大，他们必须适应新局势，并且他们需要大量的运输工具。"
+      },
+      "components": [
+        {
+          "成分类型": "并列句",
+          "原文": "The desert was growing and they had to adapt to this new situation, and they needed a lot of transportation",
+          "修饰对象": "—",
+          "中文翻译": "沙漠在不断扩大，他们必须适应这种新局面，因此他们需要大量的交通工具",
+          "说明": "由 and 连接三个并列分句构成的复合叙述。"
+        }
+      ],
+      "zh": "“沙漠正在扩大，他们必须适应这种新局面，而且他们需要大量的交通工具，”奥兰多说。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2026-text1-s17",
+      "s": "“Donkeys were the key.”",
+      "para_no": 5,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Donkeys",
+        "谓语": "were",
+        "宾语或表语": "the key",
+        "主干翻译": "驴是关键所在。"
+      },
+      "components": [],
+      "zh": "“驴是关键。”",
+      "underline": null
+    },
+    {
+      "sid": "en1-2026-text1-s18",
+      "s": "Donkeys are also more heat tolerant than horses, and their bodies require less water to function, Brooks notes.",
+      "para_no": 5,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Donkeys and their bodies",
+        "谓语": "are and require",
+        "宾语或表语": "heat tolerant and less water",
+        "主干翻译": "驴比马更耐热，它们的身体运转所需的水也更少。"
+      },
+      "components": [
+        {
+          "成分类型": "比较结构",
+          "原文": "more heat tolerant than horses",
+          "修饰对象": "are",
+          "中文翻译": "比马更具耐热性",
+          "说明": "more...than 比较级结构修饰表语形容词。"
+        },
+        {
+          "成分类型": "动词不定式作定语",
+          "原文": "to function",
+          "修饰对象": "water",
+          "中文翻译": "用于维持机能",
+          "说明": "不定式作后置定语修饰 water。"
+        }
+      ],
+      "zh": "布鲁克斯指出，驴也比马更耐热，它们的身体运转所需的水分也更少。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2026-text1-s19",
+      "s": "Not only does understanding the equines’ genetic makeup help reveal their contribution to human history, but it also might improve their management in the future, as climate change alters the planet’s environment, write the authors.",
+      "para_no": 6,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "understanding the equines’ genetic makeup and it",
+        "谓语": "does help and might improve",
+        "宾语或表语": "reveal their contribution and their management",
+        "主干翻译": "了解马科动物的基因构成不仅有助于揭示它们对人类历史的贡献，还可能改善未来的管理。"
+      },
+      "components": [
+        {
+          "成分类型": "部分倒装结构",
+          "原文": "Not only does understanding the equines’ genetic makeup help reveal their contribution to human history",
+          "修饰对象": "主句",
+          "中文翻译": "不仅了解马科动物的基因构成有助于揭示它们对人类历史的贡献",
+          "说明": "Not only 置于句首引起主谓部分倒装（助动词 does 提前）。"
+        },
+        {
+          "成分类型": "时间/原因状语从句",
+          "原文": "as climate change alters the planet’s environment",
+          "修饰对象": "might improve their management",
+          "中文翻译": "随着气候变化改变地球环境",
+          "说明": "as 引导时间/伴随状语从句。"
+        }
+      ],
+      "zh": "作者写道，了解这些马科动物的基因构成不仅有助于揭示它们对人类历史的贡献，还可能在气候变化改变地球环境之际改善未来对它们的管理。",
+      "underline": null
+    }
+  ]
+}

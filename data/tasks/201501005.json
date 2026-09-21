@@ -1,0 +1,990 @@
+{
+  "tasks": [
+    {
+      "content_json": {
+        "article": "Two years ago, Rupert Murdoch’s daughter, Elisabeth, spoke of the “unsettling dearth of integrity across so many of our institutions”.\nIntegrity had collapsed, she argued, because of a collective acceptance that the only “sorting mechanism” in society should be profit and the market.\nBut “it’s us, human beings, we the people who create the society we want, not profit.”\nDriving her point home, she continued: “It’s increasingly apparent that the absence of purpose, of a moral language within government, media or business could become one of the most dangerous goals for capitalism and freedom.”\nThis same absence of moral purpose was wounding companies such as News International, she thought, making it more likely that it would lose its way as it had with widespread illegal telephone hacking.\nAs the hacking trial concludes — finding guilty one ex-editor of the News of the World, Andy Coulson, for conspiring to hack phones, and finding his predecessor, Rebekah Brooks, innocent of the same charge — the wider issue of dearth of integrity still stands.\nJournalists are known to have hacked the phones of up to 5,500 people.\nThis is hacking on an industrial scale, as was acknowledged by Glenn Mulcaire, the man hired by the News of the World in 2001 to be the point person for phone hacking.\nOthers await trial.\nThis long story still unfolds.\nIn many respects, the dearth of moral purpose frames not only the fact of such widespread phone hacking but the terms on which the trial took place.\nOne of the astonishing revelations was how little Rebekah Brooks knew of what went on in her newsroom, how little she thought to ask and the fact that she never inquired how the stories arrived.\nThe core of her successful defence was that she knew nothing.\nIn today’s world, it has become normal that well-paid executives should not be accountable for what happens in the organisations that they run.\nPerhaps we should not be so surprised.\nFor a generation, the collective doctrine has been that the sorting mechanism of society should be profit.\nThe words that have mattered are efficiency, flexibility, shareholder value, business-friendly, wealth generation, sales, impact and, in newspapers, circulation.\nWords degraded to the margin have been justice, fairness, tolerance, proportionality and accountability.\nThe purpose of editing the News of the World was not to promote reader understanding, to be fair in what was written or to betray any common humanity.\nIt was to ruin lives in the quest for circulation and impact.\nMs Brooks may or may not have had suspicions about how her journalists got their stories, but she asked no questions, gave no instructions — nor received traceable, recorded answers.",
+        "questions": [
+          {
+            "ai_analysis_ids": [
+              2015013148
+            ],
+            "ai_analysis_text": "根据第一段和第二段，Elisabeth对社会中以利润和市场为唯一排序机制的现状感到不满，并认为这导致了诚信的崩塌。\nA. 正确，因为选项提到了当前排序机制的后果，这正是Elisabeth所批评的内容。\nB. 不合适，因为文中没有提到公司因不道德行为而遭受财务损失。\nC. 不合适，因为文中没有提到政府在道德问题上的无效性。\nD. 不合适，因为文中提到的是诚信的缺乏，而不是诚信的滥用。",
+            "ai_analysis_words": [
+              "sorting mechanism",
+              "profit",
+              "market"
+            ],
+            "analysis_sentence_id": 2015013148,
+            "answer": "A",
+            "id": 36,
+            "option_tokens": {
+              "A": [
+                {
+                  "gloss": "这",
+                  "lemma": "the",
+                  "surface": "the"
+                },
+                {
+                  "gloss": "后果",
+                  "lemma": "consequence",
+                  "surface": "consequences"
+                },
+                {
+                  "gloss": "的",
+                  "lemma": "of",
+                  "surface": "of"
+                },
+                {
+                  "gloss": "这",
+                  "lemma": "the",
+                  "surface": "the"
+                },
+                {
+                  "gloss": "当前的",
+                  "lemma": "current",
+                  "surface": "current"
+                },
+                {
+                  "gloss": "分类",
+                  "lemma": "sort",
+                  "surface": "sorting"
+                },
+                {
+                  "gloss": "机制",
+                  "lemma": "mechanism",
+                  "surface": "mechanism"
+                }
+              ],
+              "B": [
+                {
+                  "gloss": "公司",
+                  "lemma": "company",
+                  "surface": "companies"
+                },
+                {
+                  "gloss": "财务的",
+                  "lemma": "financial",
+                  "surface": "financial"
+                },
+                {
+                  "gloss": "损失",
+                  "lemma": "loss",
+                  "surface": "loss"
+                },
+                {
+                  "gloss": "由于",
+                  "lemma": "due",
+                  "surface": "due"
+                },
+                {
+                  "gloss": "至",
+                  "lemma": "to",
+                  "surface": "to"
+                },
+                {
+                  "gloss": "不道德的",
+                  "lemma": "immoral",
+                  "surface": "immoral"
+                },
+                {
+                  "gloss": "行为",
+                  "lemma": "practice",
+                  "surface": "practices"
+                }
+              ],
+              "C": [
+                {
+                  "gloss": "政府的",
+                  "lemma": "governmental",
+                  "surface": "governmental"
+                },
+                {
+                  "gloss": "无效性",
+                  "lemma": "ineffectiveness",
+                  "surface": "ineffectiveness"
+                },
+                {
+                  "gloss": "在……上",
+                  "lemma": "on",
+                  "surface": "on"
+                },
+                {
+                  "gloss": "道德的",
+                  "lemma": "moral",
+                  "surface": "moral"
+                },
+                {
+                  "gloss": "问题",
+                  "lemma": "issue",
+                  "surface": "issues"
+                }
+              ],
+              "D": [
+                {
+                  "gloss": "这",
+                  "lemma": "the",
+                  "surface": "the"
+                },
+                {
+                  "gloss": "广泛的",
+                  "lemma": "wide",
+                  "surface": "wide"
+                },
+                {
+                  "gloss": "滥用",
+                  "lemma": "misuse",
+                  "surface": "misuse"
+                },
+                {
+                  "gloss": "的",
+                  "lemma": "of",
+                  "surface": "of"
+                },
+                {
+                  "gloss": "诚信",
+                  "lemma": "integrity",
+                  "surface": "integrity"
+                },
+                {
+                  "gloss": "在……之中",
+                  "lemma": "among",
+                  "surface": "among"
+                },
+                {
+                  "gloss": "机构",
+                  "lemma": "institution",
+                  "surface": "institutions"
+                }
+              ]
+            },
+            "options": [
+              "A) the consequences of the current sorting mechanism.",
+              "B) companies’ financial loss due to immoral practices.",
+              "C) governmental ineffectiveness on moral issues.",
+              "D) the wide misuse of integrity among institutions."
+            ],
+            "qid": 2015011036,
+            "text": "According to the first two paragraphs, Elisabeth was upset by ____",
+            "text_tokens": [
+              {
+                "gloss": "根据",
+                "lemma": "according",
+                "surface": "According"
+              },
+              {
+                "gloss": "至",
+                "lemma": "to",
+                "surface": "to"
+              },
+              {
+                "gloss": "这",
+                "lemma": "the",
+                "surface": "the"
+              },
+              {
+                "gloss": "第一",
+                "lemma": "first",
+                "surface": "first"
+              },
+              {
+                "gloss": "两",
+                "lemma": "two",
+                "surface": "two"
+              },
+              {
+                "gloss": "段落",
+                "lemma": "paragraph",
+                "surface": "paragraphs"
+              },
+              {
+                "gloss": "伊丽莎白",
+                "lemma": "elisabeth",
+                "surface": "Elisabeth"
+              },
+              {
+                "gloss": "是",
+                "lemma": "be",
+                "surface": "was"
+              },
+              {
+                "gloss": "不安的",
+                "lemma": "upset",
+                "surface": "upset"
+              },
+              {
+                "gloss": "由于",
+                "lemma": "by",
+                "surface": "by"
+              }
+            ]
+          },
+          {
+            "ai_analysis_ids": [
+              2015013155
+            ],
+            "ai_analysis_text": "从第三段可以推断，更多记者可能会因电话窃听被判有罪，因为案件仍在继续，且已有多人被发现参与其中。\nA. 不合适，因为文中没有提到Glenn Mulcaire否认电话窃听是犯罪行为。\nB. 正确，因为文中提到其他人仍在等待审判，暗示可能会有更多记者被判有罪。\nC. 不合适，因为Andy Coulson已被判有罪，不能被认为是无辜的。\nD. 不合适，因为文中没有暗示电话窃听在某些情况下会被接受。",
+            "ai_analysis_words": [
+              "await trial",
+              "hacking"
+            ],
+            "analysis_sentence_id": 2015013155,
+            "answer": "B",
+            "id": 37,
+            "option_tokens": {
+              "A": [
+                {
+                  "gloss": "格伦",
+                  "lemma": "glenn",
+                  "surface": "Glenn"
+                },
+                {
+                  "gloss": "穆尔凯尔",
+                  "lemma": "mulcaire",
+                  "surface": "Mulcaire"
+                },
+                {
+                  "gloss": "可能",
+                  "lemma": "may",
+                  "surface": "may"
+                },
+                {
+                  "gloss": "否认",
+                  "lemma": "deny",
+                  "surface": "deny"
+                },
+                {
+                  "gloss": "电话",
+                  "lemma": "phone",
+                  "surface": "phone"
+                },
+                {
+                  "gloss": "窃听",
+                  "lemma": "hacking",
+                  "surface": "hacking"
+                },
+                {
+                  "gloss": "作为",
+                  "lemma": "as",
+                  "surface": "as"
+                },
+                {
+                  "gloss": "一个",
+                  "lemma": "a",
+                  "surface": "a"
+                },
+                {
+                  "gloss": "犯罪",
+                  "lemma": "crime",
+                  "surface": "crime"
+                }
+              ],
+              "B": [
+                {
+                  "gloss": "更多的",
+                  "lemma": "more",
+                  "surface": "more"
+                },
+                {
+                  "gloss": "记者",
+                  "lemma": "journalist",
+                  "surface": "journalists"
+                },
+                {
+                  "gloss": "可能",
+                  "lemma": "may",
+                  "surface": "may"
+                },
+                {
+                  "gloss": "被",
+                  "lemma": "be",
+                  "surface": "be"
+                },
+                {
+                  "gloss": "判定",
+                  "lemma": "find",
+                  "surface": "found"
+                },
+                {
+                  "gloss": "有罪的",
+                  "lemma": "guilty",
+                  "surface": "guilty"
+                },
+                {
+                  "gloss": "关于",
+                  "lemma": "of",
+                  "surface": "of"
+                },
+                {
+                  "gloss": "电话",
+                  "lemma": "phone",
+                  "surface": "phone"
+                },
+                {
+                  "gloss": "窃听",
+                  "lemma": "hacking",
+                  "surface": "hacking"
+                }
+              ],
+              "C": [
+                {
+                  "gloss": "安迪",
+                  "lemma": "andy",
+                  "surface": "Andy"
+                },
+                {
+                  "gloss": "库尔森",
+                  "lemma": "coulson",
+                  "surface": "Coulson"
+                },
+                {
+                  "gloss": "应该",
+                  "lemma": "should",
+                  "surface": "should"
+                },
+                {
+                  "gloss": "被",
+                  "lemma": "be",
+                  "surface": "be"
+                },
+                {
+                  "gloss": "判定",
+                  "lemma": "hold",
+                  "surface": "held"
+                },
+                {
+                  "gloss": "无罪的",
+                  "lemma": "innocent",
+                  "surface": "innocent"
+                },
+                {
+                  "gloss": "关于",
+                  "lemma": "of",
+                  "surface": "of"
+                },
+                {
+                  "gloss": "这",
+                  "lemma": "the",
+                  "surface": "the"
+                },
+                {
+                  "gloss": "指控",
+                  "lemma": "charge",
+                  "surface": "charge"
+                }
+              ],
+              "D": [
+                {
+                  "gloss": "电话",
+                  "lemma": "phone",
+                  "surface": "phone"
+                },
+                {
+                  "gloss": "窃听",
+                  "lemma": "hacking",
+                  "surface": "hacking"
+                },
+                {
+                  "gloss": "将",
+                  "lemma": "will",
+                  "surface": "will"
+                },
+                {
+                  "gloss": "被",
+                  "lemma": "be",
+                  "surface": "be"
+                },
+                {
+                  "gloss": "接受",
+                  "lemma": "accept",
+                  "surface": "accepted"
+                },
+                {
+                  "gloss": "在……上",
+                  "lemma": "on",
+                  "surface": "on"
+                },
+                {
+                  "gloss": "某些的",
+                  "lemma": "certain",
+                  "surface": "certain"
+                },
+                {
+                  "gloss": "情况",
+                  "lemma": "occasion",
+                  "surface": "occasions"
+                }
+              ]
+            },
+            "options": [
+              "A) Glenn Mulcaire may deny phone hacking as a crime.",
+              "B) more journalists may be found guilty of phone hacking.",
+              "C) Andy Coulson should be held innocent of the charge.",
+              "D) phone hacking will be accepted on certain occasions."
+            ],
+            "qid": 2015011037,
+            "text": "It can be inferred from Paragraph 3 that ____",
+            "text_tokens": [
+              {
+                "gloss": "它",
+                "lemma": "it",
+                "surface": "It"
+              },
+              {
+                "gloss": "可以",
+                "lemma": "can",
+                "surface": "can"
+              },
+              {
+                "gloss": "是",
+                "lemma": "be",
+                "surface": "be"
+              },
+              {
+                "gloss": "推断",
+                "lemma": "infer",
+                "surface": "inferred"
+              },
+              {
+                "gloss": "从",
+                "lemma": "from",
+                "surface": "from"
+              },
+              {
+                "gloss": "段落",
+                "lemma": "paragraph",
+                "surface": "Paragraph"
+              },
+              {
+                "gloss": "……的",
+                "lemma": "that",
+                "surface": "that"
+              }
+            ]
+          },
+          {
+            "ai_analysis_ids": [
+              2015013159
+            ],
+            "ai_analysis_text": "作者认为Rebekah Brooks的辩护难以令人信服，因为她对新闻编辑室的情况一无所知，这成为她辩护的核心。\nA. 不合适，因为文中没有提到她的辩护表现出狡猾的个性。\nB. 不合适，因为文中没有提到她的辩护集中在琐碎问题上。\nC. 正确，因为作者对她的辩护持批评态度，认为她的辩护难以令人信服。\nD. 不合适，因为文中没有提到她的辩护是阴谋的一部分。",
+            "ai_analysis_words": [
+              "successful defence",
+              "knew nothing"
+            ],
+            "analysis_sentence_id": 2015013159,
+            "answer": "C",
+            "id": 38,
+            "option_tokens": {
+              "A": [
+                {
+                  "gloss": "揭示",
+                  "lemma": "reveal",
+                  "surface": "revealed"
+                },
+                {
+                  "gloss": "一个",
+                  "lemma": "a",
+                  "surface": "a"
+                },
+                {
+                  "gloss": "狡猾的",
+                  "lemma": "cunning",
+                  "surface": "cunning"
+                },
+                {
+                  "gloss": "性格",
+                  "lemma": "personality",
+                  "surface": "personality"
+                }
+              ],
+              "B": [
+                {
+                  "gloss": "集中",
+                  "lemma": "center",
+                  "surface": "centered"
+                },
+                {
+                  "gloss": "在...上",
+                  "lemma": "on",
+                  "surface": "on"
+                },
+                {
+                  "gloss": "琐碎的",
+                  "lemma": "trivial",
+                  "surface": "trivial"
+                },
+                {
+                  "gloss": "问题",
+                  "lemma": "issue",
+                  "surface": "issues"
+                }
+              ],
+              "C": [
+                {
+                  "gloss": "是",
+                  "lemma": "be",
+                  "surface": "was"
+                },
+                {
+                  "gloss": "几乎不",
+                  "lemma": "hardly",
+                  "surface": "hardly"
+                },
+                {
+                  "gloss": "有说服力的",
+                  "lemma": "convince",
+                  "surface": "convincing"
+                }
+              ],
+              "D": [
+                {
+                  "gloss": "是",
+                  "lemma": "be",
+                  "surface": "was"
+                },
+                {
+                  "gloss": "部分",
+                  "lemma": "part",
+                  "surface": "part"
+                },
+                {
+                  "gloss": "属于",
+                  "lemma": "of",
+                  "surface": "of"
+                },
+                {
+                  "gloss": "一个",
+                  "lemma": "a",
+                  "surface": "a"
+                },
+                {
+                  "gloss": "阴谋",
+                  "lemma": "conspiracy",
+                  "surface": "conspiracy"
+                }
+              ]
+            },
+            "options": [
+              "A) revealed a cunning personality.",
+              "B) centered on trivial issues.",
+              "C) was hardly convincing.",
+              "D) was part of a conspiracy."
+            ],
+            "qid": 2015011038,
+            "text": "The author believes that Rebekah Brooks’s defence ____",
+            "text_tokens": [
+              {
+                "gloss": "这",
+                "lemma": "the",
+                "surface": "The"
+              },
+              {
+                "gloss": "作者",
+                "lemma": "author",
+                "surface": "author"
+              },
+              {
+                "gloss": "认为",
+                "lemma": "believe",
+                "surface": "believes"
+              },
+              {
+                "gloss": "……的",
+                "lemma": "that",
+                "surface": "that"
+              },
+              {
+                "gloss": "丽贝卡",
+                "lemma": "rebekah",
+                "surface": "Rebekah"
+              },
+              {
+                "gloss": "布鲁克斯的",
+                "lemma": "brooks’s",
+                "surface": "Brooks’s"
+              },
+              {
+                "gloss": "辩护",
+                "lemma": "defence",
+                "surface": "defence"
+              }
+            ]
+          },
+          {
+            "ai_analysis_ids": [
+              2015013164
+            ],
+            "ai_analysis_text": "作者认为当前的集体教义反映了价值观的普遍扭曲，因为社会更关注利润和效率，而忽视了公平、正义等道德价值。\nA. 正确，因为文中提到社会的排序机制以利润为中心，忽视了道德价值，反映了价值观的扭曲。\nB. 不合适，因为文中没有提到财富分配的不公平。\nC. 不合适，因为文中没有提到生活方式被边缘化。\nD. 不合适，因为文中提到的是道德价值被忽视，而不是严格的道德规范。",
+            "ai_analysis_words": [
+              "justice",
+              "fairness",
+              "accountability"
+            ],
+            "analysis_sentence_id": 2015013164,
+            "answer": "A",
+            "id": 39,
+            "option_tokens": {
+              "A": [
+                {
+                  "gloss": "普遍地",
+                  "lemma": "generally",
+                  "surface": "generally"
+                },
+                {
+                  "gloss": "扭曲的",
+                  "lemma": "distort",
+                  "surface": "distorted"
+                },
+                {
+                  "gloss": "价值观",
+                  "lemma": "value",
+                  "surface": "values"
+                }
+              ],
+              "B": [
+                {
+                  "gloss": "不公平的",
+                  "lemma": "unfair",
+                  "surface": "unfair"
+                },
+                {
+                  "gloss": "财富",
+                  "lemma": "wealth",
+                  "surface": "wealth"
+                },
+                {
+                  "gloss": "分配",
+                  "lemma": "distribution",
+                  "surface": "distribution"
+                }
+              ],
+              "C": [
+                {
+                  "gloss": "一个",
+                  "lemma": "a",
+                  "surface": "a"
+                },
+                {
+                  "gloss": "边缘化的",
+                  "lemma": "marginalize",
+                  "surface": "marginalized"
+                },
+                {
+                  "gloss": "生活方式",
+                  "lemma": "lifestyle",
+                  "surface": "lifestyle"
+                }
+              ],
+              "D": [
+                {
+                  "gloss": "一个",
+                  "lemma": "a",
+                  "surface": "a"
+                },
+                {
+                  "gloss": "严格的",
+                  "lemma": "rigid",
+                  "surface": "rigid"
+                },
+                {
+                  "gloss": "道德的",
+                  "lemma": "moral",
+                  "surface": "moral"
+                },
+                {
+                  "gloss": "准则",
+                  "lemma": "code",
+                  "surface": "code"
+                }
+              ]
+            },
+            "options": [
+              "A) generally distorted values.",
+              "B) unfair wealth distribution.",
+              "C) a marginalized lifestyle.",
+              "D) a rigid moral code."
+            ],
+            "qid": 2015011039,
+            "text": "The author holds that the current collective doctrine shows ____",
+            "text_tokens": [
+              {
+                "gloss": "该",
+                "lemma": "the",
+                "surface": "The"
+              },
+              {
+                "gloss": "作者",
+                "lemma": "author",
+                "surface": "author"
+              },
+              {
+                "gloss": "认为",
+                "lemma": "hold",
+                "surface": "holds"
+              },
+              {
+                "gloss": "认为",
+                "lemma": "that",
+                "surface": "that"
+              },
+              {
+                "gloss": "该",
+                "lemma": "the",
+                "surface": "the"
+              },
+              {
+                "gloss": "当前的",
+                "lemma": "current",
+                "surface": "current"
+              },
+              {
+                "gloss": "集体的",
+                "lemma": "collective",
+                "surface": "collective"
+              },
+              {
+                "gloss": "理论",
+                "lemma": "doctrine",
+                "surface": "doctrine"
+              },
+              {
+                "gloss": "表现出",
+                "lemma": "show",
+                "surface": "shows"
+              }
+            ]
+          },
+          {
+            "ai_analysis_ids": [
+              2015013166
+            ],
+            "ai_analysis_text": "最后一段强调了编辑报纸的目的应该是促进读者理解、公平报道和体现人类共同的价值观，说明道德意识在新闻编辑中至关重要。\nA. 不合适，因为文中没有提到写作质量是首要考虑因素。\nB. 不合适，因为文中提到的是共同人性被忽视，而不是其在新闻报道中的中心地位。\nC. 正确，因为文中明确提到编辑报纸的目的应该包括公平和人类共同价值，强调了道德意识的重要性。\nD. 不合适，因为文中没有提到需要更严格的行业规定。",
+            "ai_analysis_words": [
+              "common humanity",
+              "impact",
+              "circulation"
+            ],
+            "analysis_sentence_id": 2015013166,
+            "answer": "C",
+            "id": 40,
+            "option_tokens": {
+              "A": [
+                {
+                  "gloss": "这",
+                  "lemma": "the",
+                  "surface": "The"
+                },
+                {
+                  "gloss": "质量",
+                  "lemma": "quality",
+                  "surface": "quality"
+                },
+                {
+                  "gloss": "的",
+                  "lemma": "of",
+                  "surface": "of"
+                },
+                {
+                  "gloss": "写作",
+                  "lemma": "writing",
+                  "surface": "writings"
+                },
+                {
+                  "gloss": "是",
+                  "lemma": "be",
+                  "surface": "is"
+                },
+                {
+                  "gloss": "的",
+                  "lemma": "of",
+                  "surface": "of"
+                },
+                {
+                  "gloss": "主要的",
+                  "lemma": "primary",
+                  "surface": "primary"
+                },
+                {
+                  "gloss": "重要性",
+                  "lemma": "importance",
+                  "surface": "importance"
+                }
+              ],
+              "B": [
+                {
+                  "gloss": "共同的",
+                  "lemma": "common",
+                  "surface": "Common"
+                },
+                {
+                  "gloss": "人性",
+                  "lemma": "humanity",
+                  "surface": "humanity"
+                },
+                {
+                  "gloss": "是",
+                  "lemma": "be",
+                  "surface": "is"
+                },
+                {
+                  "gloss": "核心的",
+                  "lemma": "central",
+                  "surface": "central"
+                },
+                {
+                  "gloss": "对于",
+                  "lemma": "to",
+                  "surface": "to"
+                },
+                {
+                  "gloss": "新闻",
+                  "lemma": "news",
+                  "surface": "news"
+                },
+                {
+                  "gloss": "报道",
+                  "lemma": "reporting",
+                  "surface": "reporting"
+                }
+              ],
+              "C": [
+                {
+                  "gloss": "道德的",
+                  "lemma": "moral",
+                  "surface": "Moral"
+                },
+                {
+                  "gloss": "意识",
+                  "lemma": "awareness",
+                  "surface": "awareness"
+                },
+                {
+                  "gloss": "重要",
+                  "lemma": "matter",
+                  "surface": "matters"
+                },
+                {
+                  "gloss": "在",
+                  "lemma": "in",
+                  "surface": "in"
+                },
+                {
+                  "gloss": "编辑",
+                  "lemma": "edit",
+                  "surface": "editing"
+                },
+                {
+                  "gloss": "一份",
+                  "lemma": "a",
+                  "surface": "a"
+                },
+                {
+                  "gloss": "报纸",
+                  "lemma": "newspaper",
+                  "surface": "newspaper"
+                }
+              ],
+              "D": [
+                {
+                  "gloss": "记者",
+                  "lemma": "journalist",
+                  "surface": "Journalists"
+                },
+                {
+                  "gloss": "需要",
+                  "lemma": "need",
+                  "surface": "need"
+                },
+                {
+                  "gloss": "更严格的",
+                  "lemma": "strict",
+                  "surface": "stricter"
+                },
+                {
+                  "gloss": "行业的",
+                  "lemma": "industrial",
+                  "surface": "industrial"
+                },
+                {
+                  "gloss": "规范",
+                  "lemma": "regulation",
+                  "surface": "regulations"
+                }
+              ]
+            },
+            "options": [
+              "A) The quality of writings is of primary importance.",
+              "B) Common humanity is central to news reporting.",
+              "C) Moral awareness matters in editing a newspaper.",
+              "D) Journalists need stricter industrial regulations."
+            ],
+            "qid": 2015011040,
+            "text": "Which of the following is suggested in the last paragraph?",
+            "text_tokens": [
+              {
+                "gloss": "哪一个",
+                "lemma": "which",
+                "surface": "Which"
+              },
+              {
+                "gloss": "的",
+                "lemma": "of",
+                "surface": "of"
+              },
+              {
+                "gloss": "这",
+                "lemma": "the",
+                "surface": "the"
+              },
+              {
+                "gloss": "以下的",
+                "lemma": "following",
+                "surface": "following"
+              },
+              {
+                "gloss": "是",
+                "lemma": "be",
+                "surface": "is"
+              },
+              {
+                "gloss": "暗示",
+                "lemma": "suggest",
+                "surface": "suggested"
+              },
+              {
+                "gloss": "在",
+                "lemma": "in",
+                "surface": "in"
+              },
+              {
+                "gloss": "这",
+                "lemma": "the",
+                "surface": "the"
+              },
+              {
+                "gloss": "最后的",
+                "lemma": "last",
+                "surface": "last"
+              },
+              {
+                "gloss": "段落",
+                "lemma": "paragraph",
+                "surface": "paragraph"
+              }
+            ]
+          }
+        ],
+        "title": "Text 4"
+      },
+      "directions": "Read the following four texts. Answer the questions below each text by choosing A, B, C or\nD. Mark your answers on the ANSWER SHEET. (10 points for each text)",
+      "exam_info": "2015(1)",
+      "exam_type": "kaoyan",
+      "id": 201501005,
+      "key_words": "hacking she moral brooks news phone elisabeth her integrity journalists may mechanism profit purpose rebekah sorting trial world andy circulation collective common coulson dearth defence glenn humanity impact knew mulcaire one society text absence accountability answer answers author await become business charge companies current doctrine each editing fact fairness finding following generation guilty industrial innocent institutions issues justice little many market more nothing only paragraph people phones point questions same still stories successful such thought two wealth widespread words acceptance",
+      "kid": 17,
+      "part": "Part III",
+      "section": "Sec C",
+      "task_key": "2015(1)_Section II_Part A_Text4",
+      "type": "Reading Comprehension"
+    }
+  ]
+}

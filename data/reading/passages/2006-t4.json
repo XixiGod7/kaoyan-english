@@ -1,0 +1,877 @@
+{
+  "exam": "en1",
+  "key": "2006-t4",
+  "year": 2006,
+  "text_no": 4,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2006-text4-s1",
+      "s": "Many things make people think artists are weird.",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Many things",
+        "谓语": "make",
+        "宾语或表语": "people think (artists are weird)",
+        "主干翻译": "许多事情让人们认为(艺术家很古怪)。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "people think artists are weird",
+          "修饰对象": "make",
+          "中文翻译": "人们认为艺术家很古怪",
+          "说明": "make的复合宾语，people作宾语、think...作宾语补足语，整体充当make的宾语内容。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "artists are weird",
+          "修饰对象": "think",
+          "中文翻译": "艺术家很古怪",
+          "说明": "think的宾语从句，省略了引导词that。"
+        }
+      ],
+      "zh": "许多事情让人们觉得艺术家很古怪。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2006-text4-s2",
+      "s": "But the weirdest may be this: artists' only job is to explore emotions, and yet they choose to focus on the ones that feel bad.",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "the weirdest",
+        "谓语": "may be",
+        "宾语或表语": "this",
+        "主干翻译": "但最古怪的也许就是这一点。"
+      },
+      "components": [
+        {
+          "成分类型": "同位语从句",
+          "原文": "artists' only job is to explore emotions, and yet they choose to focus on the ones that feel bad",
+          "修饰对象": "this",
+          "中文翻译": "艺术家唯一的工作就是探索情感，可他们偏偏选择聚焦于那些令人不快的情感",
+          "说明": "冒号后内容对代词this进行具体说明，构成同位语。"
+        },
+        {
+          "成分类型": "非谓语作表语",
+          "原文": "to explore emotions",
+          "修饰对象": "is",
+          "中文翻译": "探索情感",
+          "说明": "动词不定式作系动词is的表语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "yet they choose to focus on the ones that feel bad",
+          "修饰对象": "is",
+          "中文翻译": "可他们却选择聚焦于那些令人不快的情感",
+          "说明": "and yet连接的并列分句，与前一分句并列。"
+        },
+        {
+          "成分类型": "非谓语作宾语",
+          "原文": "to focus on the ones that feel bad",
+          "修饰对象": "choose",
+          "中文翻译": "聚焦于那些令人不快的情感",
+          "说明": "不定式作choose的宾语。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that feel bad",
+          "修饰对象": "ones",
+          "中文翻译": "令人不快的（那些情感）",
+          "说明": "that引导的定语从句修饰the ones（emotions）。"
+        }
+      ],
+      "zh": "但最古怪的或许正是这一点：艺术家唯一的工作就是探索情感，可他们偏偏选择聚焦于那些令人痛苦的情感。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2006-text4-s3",
+      "s": "This wasn't always so.",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "This",
+        "谓语": "wasn't",
+        "宾语或表语": "always so",
+        "主干翻译": "情况并非一向如此。"
+      },
+      "components": [],
+      "zh": "情况并非一向如此。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2006-text4-s4",
+      "s": "The earliest forms of art, like painting and music, are those best suited for expressing joy.",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "The earliest forms of art",
+        "谓语": "are",
+        "宾语或表语": "those",
+        "主干翻译": "最早的艺术形式是那些（艺术形式）。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "like painting and music",
+          "修饰对象": "forms",
+          "中文翻译": "比如绘画和音乐",
+          "说明": "like引导举例，对forms of art作补充说明（插入性举例）。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "best suited for expressing joy",
+          "修饰对象": "those",
+          "中文翻译": "最适合表达欢乐的",
+          "说明": "过去分词短语作后置定语修饰those。"
+        }
+      ],
+      "zh": "最早的艺术形式，如绘画和音乐，正是那些最适于表达欢乐的形式。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2006-text4-s5",
+      "s": "But somewhere from the 19th century onward, more artists began seeing happiness as meaningless, phony or, worst of all, boring, as we went from Wordsworth's daffodils to Baudelaire's flowers of evil.",
+      "para_no": 2,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "more artists",
+        "谓语": "began",
+        "宾语或表语": "seeing happiness as meaningless, phony or boring",
+        "主干翻译": "更多艺术家开始把幸福看作毫无意义、虚假或乏味。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "somewhere from the 19th century onward",
+          "修饰对象": "began",
+          "中文翻译": "从19世纪某个时候起",
+          "说明": "时间状语，修饰began。"
+        },
+        {
+          "成分类型": "非谓语作宾语",
+          "原文": "seeing happiness as meaningless, phony or, worst of all, boring",
+          "修饰对象": "began",
+          "中文翻译": "把幸福看作毫无意义、虚假，乃至最糟糕的——乏味",
+          "说明": "动名词短语作began的宾语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "phony or, worst of all, boring",
+          "修饰对象": "meaningless",
+          "中文翻译": "虚假，或者最糟糕的——乏味",
+          "说明": "与meaningless并列的表语成分，由or连接。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "worst of all",
+          "修饰对象": "boring",
+          "中文翻译": "最糟糕的是",
+          "说明": "插入语，强调boring这一评价。"
+        },
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "as we went from Wordsworth's daffodils to Baudelaire's flowers of evil",
+          "修饰对象": "began",
+          "中文翻译": "随着我们从华兹华斯的水仙花走向波德莱尔的恶之花",
+          "说明": "as引导时间/伴随状语，表示与主句变化同步发生。"
+        }
+      ],
+      "zh": "但从19世纪的某个时候起，越来越多的艺术家开始把幸福视为毫无意义、虚假，乃至最糟糕的——乏味，正如我们从华兹华斯的水仙花走向了波德莱尔的恶之花。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2006-text4-s6",
+      "s": "You could argue that art became more skeptical of happiness because modern times have seen so much misery.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "You",
+        "谓语": "could argue",
+        "宾语或表语": "that art became more skeptical of happiness",
+        "主干翻译": "你可以辩称艺术对幸福变得更为怀疑。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "that art became more skeptical of happiness because modern times have seen so much misery",
+          "修饰对象": "argue",
+          "中文翻译": "艺术之所以对幸福更加怀疑，是因为现代社会目睹了太多苦难",
+          "说明": "that引导argue的宾语从句。"
+        },
+        {
+          "成分类型": "状语从句(原因)",
+          "原文": "because modern times have seen so much misery",
+          "修饰对象": "became",
+          "中文翻译": "因为现代社会目睹了太多苦难",
+          "说明": "because引导原因状语从句，修饰从句谓语became。"
+        }
+      ],
+      "zh": "你可以辩称，艺术之所以对幸福更加怀疑，是因为现代社会经历了太多的苦难。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2006-text4-s7",
+      "s": "But it's not as if earlier times didn't know perpetual war, disaster and the massacre of innocents.",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "it",
+        "谓语": "'s not",
+        "宾语或表语": "as if earlier times didn't know perpetual war, disaster and the massacre of innocents",
+        "主干翻译": "但情况并非好像从前的时代不曾经历过……。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(方式)",
+          "原文": "as if earlier times didn't know perpetual war, disaster and the massacre of innocents",
+          "修饰对象": "'s",
+          "中文翻译": "仿佛从前的时代不曾经历过连绵的战争、灾难和对无辜者的屠杀",
+          "说明": "as if引导方式状语从句，作系动词's后的表语成分。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "disaster and the massacre of innocents",
+          "修饰对象": "war",
+          "中文翻译": "灾难以及对无辜者的屠杀",
+          "说明": "与perpetual war并列，共同作know的宾语。"
+        }
+      ],
+      "zh": "但这并不是说从前的时代就不曾经历连绵不断的战争、灾难和对无辜者的屠杀。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2006-text4-s8",
+      "s": "The reason, in fact, may be just the opposite: there is too much damn happiness in the world today.",
+      "para_no": 3,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "The reason",
+        "谓语": "may be",
+        "宾语或表语": "just the opposite",
+        "主干翻译": "事实上，原因也许恰恰相反。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "in fact",
+          "修饰对象": "may be",
+          "中文翻译": "事实上",
+          "说明": "插入语，表明语气。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "there is too much damn happiness in the world today",
+          "修饰对象": "opposite",
+          "中文翻译": "如今世上的幸福实在太多了",
+          "说明": "冒号后内容对the opposite作具体说明，构成同位语。"
+        }
+      ],
+      "zh": "事实上，原因也许恰恰相反：如今这个世界上的幸福实在太多了。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2006-text4-s9",
+      "s": "After all, what is the one modern form of expression almost completely dedicated to depicting happiness? Advertising.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "what",
+        "谓语": "is",
+        "宾语或表语": "the one modern form of expression",
+        "主干翻译": "那一种现代表达形式是什么？"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "After all",
+          "修饰对象": "is",
+          "中文翻译": "毕竟",
+          "说明": "句首插入语，承接上文。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "almost completely dedicated to depicting happiness",
+          "修饰对象": "form",
+          "中文翻译": "几乎完全致力于描绘幸福的",
+          "说明": "过去分词短语作后置定语修饰form。"
+        }
+      ],
+      "zh": "毕竟，那种几乎完全致力于描绘幸福的现代表达形式是什么呢？是广告。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2006-text4-s10",
+      "s": "The rise of anti-happy art almost exactly tracks the emergence of mass media, and with it, a commercial culture in which happiness is not just an ideal but an ideology.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "The rise of anti-happy art",
+        "谓语": "tracks",
+        "宾语或表语": "the emergence of mass media",
+        "主干翻译": "反幸福艺术的兴起与大众传媒的出现几乎完全同步。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "a commercial culture in which happiness is not just an ideal but an ideology",
+          "修饰对象": "media",
+          "中文翻译": "一种把幸福不仅当作理想、更当作意识形态的商业文化",
+          "说明": "与mass media并列，作tracks的宾语，由and with it引出。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "in which happiness is not just an ideal but an ideology",
+          "修饰对象": "culture",
+          "中文翻译": "在其中幸福不仅是一种理想，更是一种意识形态",
+          "说明": "in which引导定语从句修饰commercial culture。"
+        }
+      ],
+      "zh": "反幸福艺术的兴起几乎与大众传媒的出现完全同步，也与随之而来的一种商业文化的出现同步——在这种文化中，幸福不仅是一种理想，更是一种意识形态。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2006-text4-s11",
+      "s": "People in earlier eras were surrounded by reminders of misery.",
+      "para_no": 5,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "People",
+        "谓语": "were surrounded",
+        "宾语或表语": "by reminders of misery",
+        "主干翻译": "人们被种种关于苦难的提醒所包围。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "in earlier eras",
+          "修饰对象": "People",
+          "中文翻译": "早先时代的",
+          "说明": "介词短语作后置定语修饰People。"
+        }
+      ],
+      "zh": "早先时代的人们被种种提示苦难的事物所包围。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2006-text4-s12",
+      "s": "They worked until exhausted, lived with few protections and died young.",
+      "para_no": 5,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "They",
+        "谓语": "worked, lived and died",
+        "宾语或表语": "—",
+        "主干翻译": "他们劳作、生活并死去。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "until exhausted",
+          "修饰对象": "worked",
+          "中文翻译": "直到精疲力竭",
+          "说明": "until引导时间状语从句，省略了they were，修饰worked。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "lived with few protections and died young",
+          "修饰对象": "worked",
+          "中文翻译": "在几乎没有保障的情况下生活，年纪轻轻便死去",
+          "说明": "与worked并列的谓语，由and连接。"
+        },
+        {
+          "成分类型": "省略",
+          "原文": "died young",
+          "修饰对象": "died",
+          "中文翻译": "年纪轻轻就死去",
+          "说明": "young作主语补足语，表死时的状态（相当于when they were young）。"
+        }
+      ],
+      "zh": "他们劳作至精疲力竭，在几乎毫无保障的境况下生活，又年纪轻轻便死去。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2006-text4-s13",
+      "s": "In the West, before mass communication and literacy, the most powerful mass medium was the church, which reminded worshippers that their souls were in danger and that they would someday be meat for worms.",
+      "para_no": 5,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "the most powerful mass medium",
+        "谓语": "was",
+        "宾语或表语": "the church",
+        "主干翻译": "最强大的大众媒介是教会。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "In the West, before mass communication and literacy",
+          "修饰对象": "was",
+          "中文翻译": "在西方，在大众传播和识字普及之前",
+          "说明": "地点与时间状语，修饰主句。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "which reminded worshippers that their souls were in danger and that they would someday be meat for worms",
+          "修饰对象": "church",
+          "中文翻译": "它提醒信徒们他们的灵魂处于危险之中，且总有一天会成为蛆虫的食物",
+          "说明": "which引导非限制性定语从句修饰the church。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that their souls were in danger",
+          "修饰对象": "reminded",
+          "中文翻译": "他们的灵魂处于危险之中",
+          "说明": "that引导remind的宾语从句（remind sb. that）。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "that they would someday be meat for worms",
+          "修饰对象": "were",
+          "中文翻译": "他们总有一天会成为蛆虫的食物",
+          "说明": "与前一个that从句并列，同作reminded的宾语从句。"
+        }
+      ],
+      "zh": "在西方，在大众传播和普遍识字出现之前，最强大的大众媒介是教会，它不断提醒信徒：他们的灵魂岌岌可危，且总有一天会沦为蛆虫的食物。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2006-text4-s14",
+      "s": "Given all this, they did not exactly need their art to be a bummer too.",
+      "para_no": 5,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "they",
+        "谓语": "did not need",
+        "宾语或表语": "their art to be a bummer too",
+        "主干翻译": "他们并不太需要艺术也成为扫兴之物。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "Given all this",
+          "修饰对象": "need",
+          "中文翻译": "鉴于这一切",
+          "说明": "过去分词短语作条件/原因状语，相当于considering all this。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "their art to be a bummer too",
+          "修饰对象": "need",
+          "中文翻译": "艺术也成为令人扫兴的东西",
+          "说明": "need的复合宾语（不定式复合结构），their art作宾语、to be...作宾语补足语。"
+        }
+      ],
+      "zh": "鉴于这一切，他们实在不需要连艺术也来扫他们的兴。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2006-text4-s15",
+      "s": "Today the messages the average Westerner is surrounded with are not religious but commercial, and forever happy.",
+      "para_no": 6,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "the messages",
+        "谓语": "are not ... but",
+        "宾语或表语": "religious but commercial, and forever happy",
+        "主干翻译": "如今的信息不是宗教的，而是商业的，且永远是欢乐的。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "the average Westerner is surrounded with",
+          "修饰对象": "messages",
+          "中文翻译": "普通西方人所被包围的",
+          "说明": "省略了关系代词that/which的定语从句修饰messages。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "commercial, and forever happy",
+          "修饰对象": "religious",
+          "中文翻译": "商业的，并且永远是欢乐的",
+          "说明": "not...but...结构中与religious对立的表语，并由and并列happy。"
+        }
+      ],
+      "zh": "如今，普通西方人所被包围的信息已不再是宗教性的，而是商业性的，而且永远洋溢着欢乐。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2006-text4-s16",
+      "s": "Fast-food eaters, news anchors, text messengers, all smiling, smiling, smiling.",
+      "para_no": 6,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Fast-food eaters, news anchors, text messengers",
+        "谓语": "（无谓语，名词性罗列）",
+        "宾语或表语": "—",
+        "主干翻译": "快餐食客、新闻主播、发短信的人。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "news anchors",
+          "修饰对象": "eaters",
+          "中文翻译": "新闻主播",
+          "说明": "与Fast-food eaters并列罗列。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "text messengers",
+          "修饰对象": "eaters",
+          "中文翻译": "发短信的人",
+          "说明": "与前两项并列罗列。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "all smiling, smiling, smiling",
+          "修饰对象": "eaters",
+          "中文翻译": "全都在微笑、微笑、微笑",
+          "说明": "现在分词短语作状语/补充说明，描述前面所列人物的状态。"
+        }
+      ],
+      "zh": "快餐食客、新闻主播、发短信的人，个个都在微笑、微笑、再微笑。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2006-text4-s17",
+      "s": "Our magazines feature beaming celebrities and happy families in perfect homes.",
+      "para_no": 6,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Our magazines",
+        "谓语": "feature",
+        "宾语或表语": "beaming celebrities and happy families",
+        "主干翻译": "我们的杂志以满面笑容的名人和幸福的家庭为主打内容。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "in perfect homes",
+          "修饰对象": "families",
+          "中文翻译": "住在完美家居中的",
+          "说明": "介词短语作后置定语修饰happy families。"
+        }
+      ],
+      "zh": "我们的杂志专门刊登满面笑容的名人和住在完美居所里的幸福家庭。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2006-text4-s18",
+      "s": "And since these messages have an agenda—to lure us to open our wallets—they make the very idea of happiness seem unreliable.",
+      "para_no": 6,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "they",
+        "谓语": "make",
+        "宾语或表语": "the very idea of happiness seem unreliable",
+        "主干翻译": "它们使幸福这一观念本身显得不可靠。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(原因)",
+          "原文": "since these messages have an agenda—to lure us to open our wallets—",
+          "修饰对象": "make",
+          "中文翻译": "由于这些信息怀有某种企图——诱使我们掏腰包",
+          "说明": "since引导原因状语从句修饰主句make。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to lure us to open our wallets",
+          "修饰对象": "agenda",
+          "中文翻译": "诱使我们掏出钱包的（企图）",
+          "说明": "不定式作后置定语修饰an agenda（破折号插入说明）。"
+        },
+        {
+          "成分类型": "非谓语作宾语",
+          "原文": "to open our wallets",
+          "修饰对象": "lure",
+          "中文翻译": "打开我们的钱包",
+          "说明": "不定式作lure us的宾语补足语（lure sb. to do）。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "the very idea of happiness seem unreliable",
+          "修饰对象": "make",
+          "中文翻译": "幸福这一观念本身显得不可靠",
+          "说明": "make的复合宾语，the very idea作宾语、seem unreliable作宾语补足语。"
+        }
+      ],
+      "zh": "而且，由于这些信息都怀有某种企图——诱使我们打开钱包——它们使幸福这一观念本身显得不可信。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2006-text4-s19",
+      "s": "\"Celebrate!\" commanded the ads for the arthritis drug Celebrex, before we found out it could increase the risk of heart attacks.",
+      "para_no": 6,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "the ads for the arthritis drug Celebrex",
+        "谓语": "commanded",
+        "宾语或表语": "\"Celebrate!\"",
+        "主干翻译": "关节炎药物西乐葆的广告下令道：“庆祝吧！”"
+      },
+      "components": [
+        {
+          "成分类型": "倒装",
+          "原文": "\"Celebrate!\" commanded the ads for the arthritis drug Celebrex",
+          "修饰对象": "—",
+          "中文翻译": "“庆祝吧！”西乐葆的广告这样命令道",
+          "说明": "引语提前导致的主谓全部倒装（commanded + 主语ads）。"
+        },
+        {
+          "成分类型": "同位语",
+          "原文": "Celebrex",
+          "修饰对象": "drug",
+          "中文翻译": "西乐葆",
+          "说明": "专有名词作the arthritis drug的同位语。"
+        },
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "before we found out it could increase the risk of heart attacks",
+          "修饰对象": "commanded",
+          "中文翻译": "在我们发现它可能增加心脏病发作风险之前",
+          "说明": "before引导时间状语从句修饰commanded。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "it could increase the risk of heart attacks",
+          "修饰对象": "found",
+          "中文翻译": "它可能增加心脏病发作的风险",
+          "说明": "found out的宾语从句，省略引导词that。"
+        }
+      ],
+      "zh": "“庆祝吧！”关节炎药物西乐葆的广告这样命令道——这是在我们发现它可能增加心脏病发作风险之前。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2006-text4-s20",
+      "s": "But what we forget—what our economy depends on us forgetting—is that happiness is more than pleasure without pain.",
+      "para_no": 7,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "what we forget",
+        "谓语": "is",
+        "宾语或表语": "that happiness is more than pleasure without pain",
+        "主干翻译": "我们所忘记的是：幸福不仅仅是没有痛苦的快乐。"
+      },
+      "components": [
+        {
+          "成分类型": "主语从句",
+          "原文": "what we forget",
+          "修饰对象": "is",
+          "中文翻译": "我们所忘记的（东西）",
+          "说明": "what引导的主语从句作is的主语。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "what our economy depends on us forgetting",
+          "修饰对象": "what we forget",
+          "中文翻译": "我们的经济有赖于我们去忘记的（东西）",
+          "说明": "破折号插入，对主语what we forget作补充说明（同位性插入语）。"
+        },
+        {
+          "成分类型": "表语从句",
+          "原文": "that happiness is more than pleasure without pain",
+          "修饰对象": "is",
+          "中文翻译": "幸福不只是没有痛苦的快乐",
+          "说明": "that引导表语从句。"
+        }
+      ],
+      "zh": "但是，我们所遗忘的——也正是我们的经济有赖于我们去遗忘的——是：幸福绝不只是没有痛苦的快乐。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2006-text4-s21",
+      "s": "The things that bring the greatest joy carry the greatest potential for loss and disappointment.",
+      "para_no": 7,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "The things",
+        "谓语": "carry",
+        "宾语或表语": "the greatest potential for loss and disappointment",
+        "主干翻译": "这些事物蕴含着最大的失去与失望的可能。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "that bring the greatest joy",
+          "修饰对象": "things",
+          "中文翻译": "带来最大欢乐的",
+          "说明": "that引导定语从句修饰The things。"
+        }
+      ],
+      "zh": "那些带来最大欢乐的事物，也蕴藏着最大的失去与失望的可能。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2006-text4-s22",
+      "s": "Today, surrounded by promises of easy happiness, we need art to tell us, as religion once did, Memento mori: remember that you will die, that everything ends, and that happiness comes not in denying this but in living with it.",
+      "para_no": 7,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "we",
+        "谓语": "need",
+        "宾语或表语": "art to tell us ... Memento mori",
+        "主干翻译": "如今，我们需要艺术告诉我们：记住你终将死去。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "surrounded by promises of easy happiness",
+          "修饰对象": "need",
+          "中文翻译": "在被关于轻易获得幸福的种种许诺所包围之时",
+          "说明": "过去分词短语作伴随/原因状语，修饰主句we need。"
+        },
+        {
+          "成分类型": "非谓语作宾语",
+          "原文": "to tell us, as religion once did, Memento mori",
+          "修饰对象": "need",
+          "中文翻译": "告诉我们，如同宗教曾经所做的那样，记住你终有一死",
+          "说明": "need art to do结构中的不定式，作art的宾语补足语。"
+        },
+        {
+          "成分类型": "状语从句(方式)",
+          "原文": "as religion once did",
+          "修饰对象": "tell",
+          "中文翻译": "正如宗教曾经所做的那样",
+          "说明": "as引导方式状语从句（插入），修饰tell。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "remember that you will die, that everything ends, and that happiness comes not in denying this but in living with it",
+          "修饰对象": "tell",
+          "中文翻译": "记住：你终将死去，一切都会终结，而幸福不在于否认这一点，而在于坦然面对它",
+          "说明": "Memento mori的释义内容，即tell的传达内容（祈使语气作直接引语）。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that you will die",
+          "修饰对象": "remember",
+          "中文翻译": "你终将死去",
+          "说明": "that引导remember的宾语从句。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "that everything ends",
+          "修饰对象": "die",
+          "中文翻译": "一切都会终结",
+          "说明": "与that you will die并列，同作remember的宾语从句。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "that happiness comes not in denying this but in living with it",
+          "修饰对象": "ends",
+          "中文翻译": "幸福不在于否认这一点，而在于与之共处",
+          "说明": "由and连接的第三个that宾语从句，与前两个并列。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "in living with it",
+          "修饰对象": "comes",
+          "中文翻译": "在于与它共处",
+          "说明": "not...but...结构中与in denying this对立的状语部分。"
+        }
+      ],
+      "zh": "今天，在被种种轻易获得幸福的许诺所包围之际，我们需要艺术像宗教曾经所做的那样，告诉我们“勿忘人终有一死”：记住你终将死去，记住一切都会终结，记住幸福不在于否认这一切，而在于坦然与之共处。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2006-text4-s23",
+      "s": "It's a message even more bitter than a clove cigarette, yet, somehow, a breath of fresh air.",
+      "para_no": 7,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "It",
+        "谓语": "'s",
+        "宾语或表语": "a message",
+        "主干翻译": "这是一条讯息。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "even more bitter than a clove cigarette",
+          "修饰对象": "message",
+          "中文翻译": "比丁香烟还要苦涩的",
+          "说明": "形容词比较结构作后置定语修饰a message。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "a breath of fresh air",
+          "修饰对象": "message",
+          "中文翻译": "（却又）是一股新鲜空气",
+          "说明": "由yet连接，与前述表语并列，构成对比。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "somehow",
+          "修饰对象": "a breath of fresh air",
+          "中文翻译": "不知怎地",
+          "说明": "插入语，缓和语气。"
+        }
+      ],
+      "zh": "这是一条比丁香烟还要苦涩的讯息，然而不知怎地，又像一股清新的空气。",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2006-text4-s1",
+        "en1-2006-text4-s2"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2006-text4-s3",
+        "en1-2006-text4-s4",
+        "en1-2006-text4-s5"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2006-text4-s6",
+        "en1-2006-text4-s7",
+        "en1-2006-text4-s8"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2006-text4-s9",
+        "en1-2006-text4-s10"
+      ]
+    },
+    {
+      "para_no": 5,
+      "sids": [
+        "en1-2006-text4-s11",
+        "en1-2006-text4-s12",
+        "en1-2006-text4-s13",
+        "en1-2006-text4-s14"
+      ]
+    },
+    {
+      "para_no": 6,
+      "sids": [
+        "en1-2006-text4-s15",
+        "en1-2006-text4-s16",
+        "en1-2006-text4-s17",
+        "en1-2006-text4-s18",
+        "en1-2006-text4-s19"
+      ]
+    },
+    {
+      "para_no": 7,
+      "sids": [
+        "en1-2006-text4-s20",
+        "en1-2006-text4-s21",
+        "en1-2006-text4-s22",
+        "en1-2006-text4-s23"
+      ]
+    }
+  ]
+}

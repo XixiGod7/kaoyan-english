@@ -1,0 +1,1121 @@
+{
+  "tasks": [
+    {
+      "content_json": {
+        "article": "Parenting tips obtained from hunter-gatherers in Africa may be the key to bringing up more contented children, researchers have suggested.\nThe idea is based on studies of communities such as the Kung of Botswana, where each child is cared for by many adults.\nKung children as young as four will help to look after younger ones and “baby-wearing”, in which infants are carried in slings, is considered the norm.\nAccording to Dr Nikhil Chaudhary, an evolutionary anthropologist at Cambridge University, these practices, known as alloparenting, could lead to less anxiety for children and parents.\nDr Annie Swanepoel, a child psychiatrist, believes that there are ways to incorporate them into western life.\nIn Germany, one scheme has paired an old people’s home with a nursery.\nThe residents help to look after the children, an arrangement akin to alloparenting.\nAnother measure could be encouraging friendships between children in different school years, to mirror the unsupervised mixed-age playgroups in hunter-gatherer communities.\nIn a paper published in the Journal of Child Psychology and Psychiatry, researchers said that the western nuclear family was a recent invention which broke with evolutionary history.\nThis abrupt shift to an “intensive mothering narrative”, which suggests that mothers should manage childcare alone, was likely to have been harmful.\n“Such narratives can lead to maternal exhaustion and have dangerous consequences,” they wrote.\nBy contrast, in hunter-gatherer societies adults other than the parents can provide almost half of a child’s care.\nOne previous study looked at the Efé people of the Democratic Republic of Congo.\nIt found that infants had an average of 14 alloparents a day by the time they were 18 weeks old, and were passed between caregivers eight times an hour.\nChaudhary said that parents now have less childcare support from family and social networks than during most of humans’ evolutionary history, but introducing additional caregivers could reduce stress and maternal depression, which could have a “knock-on” benefit to a child’s wellbeing.\nAn infant born to a hunter-gatherer society could have more than ten caregivers — this contrasts starkly to nursery settings in the UK where regulations call for a ratio of one carer to four children aged two to three.\nWhile hunter-gatherer children learnt from observation and imitation in mixed-age playgroups, researchers said that western “instructive teaching”, where pupils are asked to sit still, may contribute to conditions such as attention deficit hyperactivity disorder.\nChaudhary said that Britain should explore the possibility that older siblings helping their parents “might also enhance their own social development.”",
+        "questions": [
+          {
+            "ai_analysis_ids": [
+              2024013062
+            ],
+            "ai_analysis_text": "根据第一段和第二段内容，alloparenting指的是社区成员共同分担育儿责任，这在如Kung这样的狩猎采集者社区中表现明显。\nA. 正确，文中提到在Kung社区中，孩子由多个成年人共同照顾，这符合共享育儿的定义。\nB. 不正确，文中没有提到将婴儿分配给特定的成年照顾者。\nC. 不正确，文中提到的是年长儿童帮助照顾幼儿，但这并非alloparenting的核心定义。\nD. 不正确，虽然提到婴儿被用吊带携带，但这只是育儿方式的一部分，不是alloparenting的定义。",
+            "ai_analysis_words": [
+              "alloparenting",
+              "less anxiety",
+              "many adults"
+            ],
+            "analysis_sentence_id": 2024013062,
+            "answer": "A",
+            "id": 26,
+            "option_tokens": {
+              "A": [
+                {
+                  "gloss": "分担",
+                  "lemma": "share",
+                  "surface": "sharing"
+                },
+                {
+                  "gloss": "育儿",
+                  "lemma": "childcare",
+                  "surface": "childcare"
+                },
+                {
+                  "gloss": "在……之间",
+                  "lemma": "among",
+                  "surface": "among"
+                },
+                {
+                  "gloss": "社区",
+                  "lemma": "community",
+                  "surface": "community"
+                },
+                {
+                  "gloss": "成员",
+                  "lemma": "member",
+                  "surface": "members"
+                }
+              ],
+              "B": [
+                {
+                  "gloss": "分配",
+                  "lemma": "assign",
+                  "surface": "assigning"
+                },
+                {
+                  "gloss": "婴儿",
+                  "lemma": "baby",
+                  "surface": "babies"
+                },
+                {
+                  "gloss": "给",
+                  "lemma": "to",
+                  "surface": "to"
+                },
+                {
+                  "gloss": "特定的",
+                  "lemma": "specific",
+                  "surface": "specific"
+                },
+                {
+                  "gloss": "成年",
+                  "lemma": "adult",
+                  "surface": "adult"
+                },
+                {
+                  "gloss": "看护人",
+                  "lemma": "caregiver",
+                  "surface": "caregivers"
+                }
+              ],
+              "C": [
+                {
+                  "gloss": "教",
+                  "lemma": "teach",
+                  "surface": "teaching"
+                },
+                {
+                  "gloss": "育儿",
+                  "lemma": "parenting",
+                  "surface": "parenting"
+                },
+                {
+                  "gloss": "技能",
+                  "lemma": "skill",
+                  "surface": "skills"
+                },
+                {
+                  "gloss": "给",
+                  "lemma": "to",
+                  "surface": "to"
+                },
+                {
+                  "gloss": "年长的",
+                  "lemma": "old",
+                  "surface": "older"
+                },
+                {
+                  "gloss": "孩子",
+                  "lemma": "child",
+                  "surface": "children"
+                }
+              ],
+              "D": [
+                {
+                  "gloss": "抱着",
+                  "lemma": "carry",
+                  "surface": "carrying"
+                },
+                {
+                  "gloss": "婴儿",
+                  "lemma": "infant",
+                  "surface": "infants"
+                },
+                {
+                  "gloss": "四处",
+                  "lemma": "around",
+                  "surface": "around"
+                },
+                {
+                  "gloss": "由",
+                  "lemma": "by",
+                  "surface": "by"
+                },
+                {
+                  "gloss": "他们的",
+                  "lemma": "their",
+                  "surface": "their"
+                },
+                {
+                  "gloss": "父母",
+                  "lemma": "parent",
+                  "surface": "parents"
+                }
+              ]
+            },
+            "options": [
+              "A) sharing childcare among community members.",
+              "B) assigning babies to specific adult caregivers.",
+              "C) teaching parenting skills to older children.",
+              "D) carrying infants around by their parents."
+            ],
+            "qid": 2024011026,
+            "text": "According to the first two paragraphs, alloparenting refers to the practice of ____",
+            "text_tokens": [
+              {
+                "gloss": "根据",
+                "lemma": "according",
+                "surface": "According"
+              },
+              {
+                "gloss": "根据",
+                "lemma": "to",
+                "surface": "to"
+              },
+              {
+                "gloss": "该",
+                "lemma": "the",
+                "surface": "the"
+              },
+              {
+                "gloss": "第一的",
+                "lemma": "first",
+                "surface": "first"
+              },
+              {
+                "gloss": "两",
+                "lemma": "two",
+                "surface": "two"
+              },
+              {
+                "gloss": "段落",
+                "lemma": "paragraph",
+                "surface": "paragraphs"
+              },
+              {
+                "gloss": "共同育儿",
+                "lemma": "alloparenting",
+                "surface": "alloparenting"
+              },
+              {
+                "gloss": "指",
+                "lemma": "refer",
+                "surface": "refers"
+              },
+              {
+                "gloss": "至",
+                "lemma": "to",
+                "surface": "to"
+              },
+              {
+                "gloss": "该",
+                "lemma": "the",
+                "surface": "the"
+              },
+              {
+                "gloss": "做法",
+                "lemma": "practice",
+                "surface": "practice"
+              },
+              {
+                "gloss": "的",
+                "lemma": "of",
+                "surface": "of"
+              }
+            ]
+          },
+          {
+            "ai_analysis_ids": [
+              2024013065
+            ],
+            "ai_analysis_text": "德国的案例被用来说明如何将alloparenting的理念融入西方社会。\nA. 不正确，文中并未提到该方案旨在促进代际交流。\nB. 正确，文中提到德国的方案类似于alloparenting，是将这一理念融入西方社会的尝试。\nC. 不正确，文中提到的是对传统西方育儿方式的改进，而非描述传统方式本身。\nD. 不正确，文中并未对比西方和非洲的生活方式差异。",
+            "ai_analysis_words": [
+              "akin to alloparenting",
+              "residents help",
+              "nursery"
+            ],
+            "analysis_sentence_id": 2024013065,
+            "answer": "B",
+            "id": 27,
+            "option_tokens": {
+              "A": [
+                {
+                  "gloss": "一个",
+                  "lemma": "an",
+                  "surface": "an"
+                },
+                {
+                  "gloss": "尝试",
+                  "lemma": "attempt",
+                  "surface": "attempt"
+                },
+                {
+                  "gloss": "为了",
+                  "lemma": "to",
+                  "surface": "to"
+                },
+                {
+                  "gloss": "促进",
+                  "lemma": "facilitate",
+                  "surface": "facilitate"
+                },
+                {
+                  "gloss": "代际的",
+                  "lemma": "intergenerational",
+                  "surface": "intergenerational"
+                },
+                {
+                  "gloss": "沟通",
+                  "lemma": "communication",
+                  "surface": "communication"
+                }
+              ],
+              "B": [
+                {
+                  "gloss": "一个",
+                  "lemma": "an",
+                  "surface": "an"
+                },
+                {
+                  "gloss": "方法",
+                  "lemma": "approach",
+                  "surface": "approach"
+                },
+                {
+                  "gloss": "用于",
+                  "lemma": "to",
+                  "surface": "to"
+                },
+                {
+                  "gloss": "融入",
+                  "lemma": "integrate",
+                  "surface": "integrating"
+                },
+                {
+                  "gloss": "共同育儿",
+                  "lemma": "alloparenting",
+                  "surface": "alloparenting"
+                },
+                {
+                  "gloss": "进入",
+                  "lemma": "into",
+                  "surface": "into"
+                },
+                {
+                  "gloss": "西方的",
+                  "lemma": "western",
+                  "surface": "western"
+                },
+                {
+                  "gloss": "社会",
+                  "lemma": "society",
+                  "surface": "society"
+                }
+              ],
+              "C": [
+                {
+                  "gloss": "这个",
+                  "lemma": "the",
+                  "surface": "the"
+                },
+                {
+                  "gloss": "传统的",
+                  "lemma": "conventional",
+                  "surface": "conventional"
+                },
+                {
+                  "gloss": "育儿",
+                  "lemma": "parenting",
+                  "surface": "parenting"
+                },
+                {
+                  "gloss": "方式",
+                  "lemma": "style",
+                  "surface": "style"
+                },
+                {
+                  "gloss": "在",
+                  "lemma": "in",
+                  "surface": "in"
+                },
+                {
+                  "gloss": "西方的",
+                  "lemma": "western",
+                  "surface": "western"
+                },
+                {
+                  "gloss": "文化",
+                  "lemma": "culture",
+                  "surface": "culture"
+                }
+              ],
+              "D": [
+                {
+                  "gloss": "这些",
+                  "lemma": "the",
+                  "surface": "the"
+                },
+                {
+                  "gloss": "差异",
+                  "lemma": "difference",
+                  "surface": "differences"
+                },
+                {
+                  "gloss": "在……之间",
+                  "lemma": "between",
+                  "surface": "between"
+                },
+                {
+                  "gloss": "西方的",
+                  "lemma": "western",
+                  "surface": "western"
+                },
+                {
+                  "gloss": "和",
+                  "lemma": "and",
+                  "surface": "and"
+                },
+                {
+                  "gloss": "非洲的",
+                  "lemma": "african",
+                  "surface": "African"
+                },
+                {
+                  "gloss": "方式",
+                  "lemma": "way",
+                  "surface": "ways"
+                },
+                {
+                  "gloss": "的",
+                  "lemma": "of",
+                  "surface": "of"
+                },
+                {
+                  "gloss": "生活",
+                  "lemma": "living",
+                  "surface": "living"
+                }
+              ]
+            },
+            "options": [
+              "A) an attempt to facilitate intergenerational communication.",
+              "B) an approach to integrating alloparenting into western society.",
+              "C) the conventional parenting style in western culture.",
+              "D) the differences between western and African ways of living."
+            ],
+            "qid": 2024011027,
+            "text": "The scheme in Germany is mentioned to illustrate ____",
+            "text_tokens": [
+              {
+                "gloss": "这个",
+                "lemma": "the",
+                "surface": "The"
+              },
+              {
+                "gloss": "方案",
+                "lemma": "scheme",
+                "surface": "scheme"
+              },
+              {
+                "gloss": "在",
+                "lemma": "in",
+                "surface": "in"
+              },
+              {
+                "gloss": "德国",
+                "lemma": "germany",
+                "surface": "Germany"
+              },
+              {
+                "gloss": "是",
+                "lemma": "be",
+                "surface": "is"
+              },
+              {
+                "gloss": "提到",
+                "lemma": "mention",
+                "surface": "mentioned"
+              },
+              {
+                "gloss": "为了",
+                "lemma": "to",
+                "surface": "to"
+              },
+              {
+                "gloss": "说明",
+                "lemma": "illustrate",
+                "surface": "illustrate"
+              }
+            ]
+          },
+          {
+            "ai_analysis_ids": [
+              2024013068
+            ],
+            "ai_analysis_text": "第四段指出“密集母职叙事”与人类进化历史背离，并可能对母亲和孩子产生负面影响。\nA. 不正确，文中提到这种叙事可能导致母亲精疲力竭，而非缓解压力。\nB. 不正确，文中未提到这种叙事巩固家庭关系。\nC. 不正确，文中未提到这种叙事导致以孩子为中心的家庭。\nD. 正确，文中明确指出这种叙事与人类进化历史背离。",
+            "ai_analysis_words": [
+              "intensive mothering narrative",
+              "harmful",
+              "evolutionary history"
+            ],
+            "analysis_sentence_id": 2024013068,
+            "answer": "D",
+            "id": 28,
+            "option_tokens": {
+              "A": [
+                {
+                  "gloss": "缓解",
+                  "lemma": "alleviate",
+                  "surface": "alleviates"
+                },
+                {
+                  "gloss": "育儿",
+                  "lemma": "parenting",
+                  "surface": "parenting"
+                },
+                {
+                  "gloss": "压力",
+                  "lemma": "pressure",
+                  "surface": "pressure"
+                }
+              ],
+              "B": [
+                {
+                  "gloss": "巩固",
+                  "lemma": "consolidate",
+                  "surface": "consolidates"
+                },
+                {
+                  "gloss": "家庭",
+                  "lemma": "family",
+                  "surface": "family"
+                },
+                {
+                  "gloss": "关系",
+                  "lemma": "relationship",
+                  "surface": "relationships"
+                }
+              ],
+              "C": [
+                {
+                  "gloss": "导致",
+                  "lemma": "result",
+                  "surface": "results"
+                },
+                {
+                  "gloss": "导致",
+                  "lemma": "in",
+                  "surface": "in"
+                },
+                {
+                  "gloss": "这个",
+                  "lemma": "the",
+                  "surface": "the"
+                },
+                {
+                  "gloss": "孩子",
+                  "lemma": "child",
+                  "surface": "child"
+                },
+                {
+                  "gloss": "以...为中心的",
+                  "lemma": "center",
+                  "surface": "centered"
+                },
+                {
+                  "gloss": "家庭",
+                  "lemma": "family",
+                  "surface": "family"
+                }
+              ],
+              "D": [
+                {
+                  "gloss": "偏离",
+                  "lemma": "depart",
+                  "surface": "departs"
+                },
+                {
+                  "gloss": "从",
+                  "lemma": "from",
+                  "surface": "from"
+                },
+                {
+                  "gloss": "这个",
+                  "lemma": "the",
+                  "surface": "the"
+                },
+                {
+                  "gloss": "轨迹",
+                  "lemma": "course",
+                  "surface": "course"
+                },
+                {
+                  "gloss": "的",
+                  "lemma": "of",
+                  "surface": "of"
+                },
+                {
+                  "gloss": "进化",
+                  "lemma": "evolution",
+                  "surface": "evolution"
+                }
+              ]
+            },
+            "options": [
+              "A) alleviates parenting pressure.",
+              "B) consolidates family relationships.",
+              "C) results in the child-centered family.",
+              "D) departs from the course of evolution."
+            ],
+            "qid": 2024011028,
+            "text": "According to Paragraph 4, the “intensive mothering narrative” ____",
+            "text_tokens": [
+              {
+                "gloss": "根据",
+                "lemma": "according",
+                "surface": "According"
+              },
+              {
+                "gloss": "至",
+                "lemma": "to",
+                "surface": "to"
+              },
+              {
+                "gloss": "段落",
+                "lemma": "paragraph",
+                "surface": "Paragraph"
+              },
+              {
+                "gloss": "这个",
+                "lemma": "the",
+                "surface": "the"
+              },
+              {
+                "gloss": "密集的",
+                "lemma": "intensive",
+                "surface": "“intensive"
+              },
+              {
+                "gloss": "母职",
+                "lemma": "mothering",
+                "surface": "mothering"
+              },
+              {
+                "gloss": "叙事",
+                "lemma": "narrative",
+                "surface": "narrative"
+              }
+            ]
+          },
+          {
+            "ai_analysis_ids": [
+              2024013074
+            ],
+            "ai_analysis_text": "第六段提到英国托儿所的照护比例与狩猎采集者社会形成鲜明对比，暗示需要改善这一比例。\nA. 不正确，文中未提到托儿所未达到官方要求。\nB. 不正确，文中未提到托儿所难以找到足够的照护者。\nC. 正确，文中提到英国托儿所的照护比例远低于狩猎采集者社会，暗示需要改进。\nD. 不正确，文中提到引入额外照护者可以减少压力，但未直接建议托儿所预防父母抑郁。",
+            "ai_analysis_words": [
+              "contrast",
+              "ratio",
+              "nursery settings"
+            ],
+            "analysis_sentence_id": 2024013074,
+            "answer": "C",
+            "id": 29,
+            "option_tokens": {
+              "A": [
+                {
+                  "gloss": "它们",
+                  "lemma": "they",
+                  "surface": "They"
+                },
+                {
+                  "gloss": "倾向于",
+                  "lemma": "tend",
+                  "surface": "tend"
+                },
+                {
+                  "gloss": "去",
+                  "lemma": "to",
+                  "surface": "to"
+                },
+                {
+                  "gloss": "达不到",
+                  "lemma": "fall",
+                  "surface": "fall"
+                },
+                {
+                  "gloss": "不足",
+                  "lemma": "short",
+                  "surface": "short"
+                },
+                {
+                  "gloss": "的",
+                  "lemma": "of",
+                  "surface": "of"
+                },
+                {
+                  "gloss": "官方的",
+                  "lemma": "official",
+                  "surface": "official"
+                },
+                {
+                  "gloss": "要求",
+                  "lemma": "requirement",
+                  "surface": "requirements"
+                }
+              ],
+              "B": [
+                {
+                  "gloss": "它们",
+                  "lemma": "they",
+                  "surface": "They"
+                },
+                {
+                  "gloss": "有",
+                  "lemma": "have",
+                  "surface": "have"
+                },
+                {
+                  "gloss": "困难",
+                  "lemma": "difficulty",
+                  "surface": "difficulty"
+                },
+                {
+                  "gloss": "找到",
+                  "lemma": "find",
+                  "surface": "finding"
+                },
+                {
+                  "gloss": "足够的",
+                  "lemma": "enough",
+                  "surface": "enough"
+                },
+                {
+                  "gloss": "护理人员",
+                  "lemma": "caregiver",
+                  "surface": "caregivers"
+                }
+              ],
+              "C": [
+                {
+                  "gloss": "它们",
+                  "lemma": "they",
+                  "surface": "They"
+                },
+                {
+                  "gloss": "应该",
+                  "lemma": "ought",
+                  "surface": "ought"
+                },
+                {
+                  "gloss": "去",
+                  "lemma": "to",
+                  "surface": "to"
+                },
+                {
+                  "gloss": "改善",
+                  "lemma": "improve",
+                  "surface": "improve"
+                },
+                {
+                  "gloss": "它们的",
+                  "lemma": "their",
+                  "surface": "their"
+                },
+                {
+                  "gloss": "护理人员",
+                  "lemma": "carer",
+                  "surface": "carer"
+                },
+                {
+                  "gloss": "与",
+                  "lemma": "to",
+                  "surface": "to"
+                },
+                {
+                  "gloss": "儿童",
+                  "lemma": "child",
+                  "surface": "child"
+                },
+                {
+                  "gloss": "比例",
+                  "lemma": "ratio",
+                  "surface": "ratio"
+                }
+              ],
+              "D": [
+                {
+                  "gloss": "它们",
+                  "lemma": "they",
+                  "surface": "They"
+                },
+                {
+                  "gloss": "应该",
+                  "lemma": "should",
+                  "surface": "should"
+                },
+                {
+                  "gloss": "努力",
+                  "lemma": "try",
+                  "surface": "try"
+                },
+                {
+                  "gloss": "去",
+                  "lemma": "to",
+                  "surface": "to"
+                },
+                {
+                  "gloss": "防止",
+                  "lemma": "prevent",
+                  "surface": "prevent"
+                },
+                {
+                  "gloss": "父母的",
+                  "lemma": "parental",
+                  "surface": "parental"
+                },
+                {
+                  "gloss": "抑郁",
+                  "lemma": "depression",
+                  "surface": "depression"
+                }
+              ]
+            },
+            "options": [
+              "A) They tend to fall short of official requirements.",
+              "B) They have difficulty finding enough caregivers.",
+              "C) They ought to improve their carer-to-child ratio.",
+              "D) They should try to prevent parental depression."
+            ],
+            "qid": 2024011029,
+            "text": "According to Paragraph 6, what can we learn about the nurseries in the UK?",
+            "text_tokens": [
+              {
+                "gloss": "根据",
+                "lemma": "according",
+                "surface": "According"
+              },
+              {
+                "gloss": "至",
+                "lemma": "to",
+                "surface": "to"
+              },
+              {
+                "gloss": "段落",
+                "lemma": "paragraph",
+                "surface": "Paragraph"
+              },
+              {
+                "gloss": "什么",
+                "lemma": "what",
+                "surface": "what"
+              },
+              {
+                "gloss": "能够",
+                "lemma": "can",
+                "surface": "can"
+              },
+              {
+                "gloss": "我们",
+                "lemma": "we",
+                "surface": "we"
+              },
+              {
+                "gloss": "了解到",
+                "lemma": "learn",
+                "surface": "learn"
+              },
+              {
+                "gloss": "关于",
+                "lemma": "about",
+                "surface": "about"
+              },
+              {
+                "gloss": "这些",
+                "lemma": "the",
+                "surface": "the"
+              },
+              {
+                "gloss": "托儿所",
+                "lemma": "nursery",
+                "surface": "nurseries"
+              },
+              {
+                "gloss": "在",
+                "lemma": "in",
+                "surface": "in"
+              },
+              {
+                "gloss": "英国的",
+                "lemma": "the",
+                "surface": "the"
+              },
+              {
+                "gloss": "英国",
+                "lemma": "uk",
+                "surface": "UK"
+              }
+            ]
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "文章主要讨论从狩猎采集者社会中学习育儿方式以改善家庭幸福。\nA. 不正确，文章并未聚焦于“指令式教学”的困境。\nB. 正确，文章核心在于从狩猎采集者社会中学习育儿经验以提升家庭幸福感。\nC. 不正确，混龄游戏只是文章提到的一个具体措施，而非主题。\nD. 不正确，文章并未系统追溯育儿历史，而是讨论如何借鉴狩猎采集者的经验。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "B",
+            "id": 30,
+            "option_tokens": {
+              "A": [
+                {
+                  "gloss": "启发式的",
+                  "lemma": "instructive",
+                  "surface": "Instructive"
+                },
+                {
+                  "gloss": "教学",
+                  "lemma": "teaching",
+                  "surface": "Teaching"
+                },
+                {
+                  "gloss": "一个",
+                  "lemma": "a",
+                  "surface": "A"
+                },
+                {
+                  "gloss": "困境",
+                  "lemma": "dilemma",
+                  "surface": "Dilemma"
+                },
+                {
+                  "gloss": "对于",
+                  "lemma": "for",
+                  "surface": "for"
+                },
+                {
+                  "gloss": "焦虑的",
+                  "lemma": "anxious",
+                  "surface": "Anxious"
+                },
+                {
+                  "gloss": "父母",
+                  "lemma": "parent",
+                  "surface": "Parents"
+                }
+              ],
+              "B": [
+                {
+                  "gloss": "为了",
+                  "lemma": "for",
+                  "surface": "For"
+                },
+                {
+                  "gloss": "一个",
+                  "lemma": "a",
+                  "surface": "a"
+                },
+                {
+                  "gloss": "更幸福的",
+                  "lemma": "happy",
+                  "surface": "Happier"
+                },
+                {
+                  "gloss": "家庭",
+                  "lemma": "family",
+                  "surface": "Family"
+                },
+                {
+                  "gloss": "学习",
+                  "lemma": "learn",
+                  "surface": "Learn"
+                },
+                {
+                  "gloss": "从",
+                  "lemma": "from",
+                  "surface": "from"
+                },
+                {
+                  "gloss": "这个",
+                  "lemma": "the",
+                  "surface": "the"
+                },
+                {
+                  "gloss": "猎人",
+                  "lemma": "hunter",
+                  "surface": "Hunter"
+                },
+                {
+                  "gloss": "采集者",
+                  "lemma": "gatherer",
+                  "surface": "gatherers"
+                }
+              ],
+              "C": [
+                {
+                  "gloss": "混合的",
+                  "lemma": "mixed",
+                  "surface": "Mixed"
+                },
+                {
+                  "gloss": "年龄",
+                  "lemma": "age",
+                  "surface": "age"
+                },
+                {
+                  "gloss": "游戏小组",
+                  "lemma": "playgroup",
+                  "surface": "Playgroup"
+                },
+                {
+                  "gloss": "一个",
+                  "lemma": "a",
+                  "surface": "a"
+                },
+                {
+                  "gloss": "更好的",
+                  "lemma": "better",
+                  "surface": "Better"
+                },
+                {
+                  "gloss": "选择",
+                  "lemma": "choice",
+                  "surface": "Choice"
+                },
+                {
+                  "gloss": "对于",
+                  "lemma": "for",
+                  "surface": "for"
+                },
+                {
+                  "gloss": "孤独的",
+                  "lemma": "lonely",
+                  "surface": "Lonely"
+                },
+                {
+                  "gloss": "儿童",
+                  "lemma": "child",
+                  "surface": "Children"
+                }
+              ],
+              "D": [
+                {
+                  "gloss": "追溯",
+                  "lemma": "trace",
+                  "surface": "Tracing"
+                },
+                {
+                  "gloss": "这个",
+                  "lemma": "the",
+                  "surface": "the"
+                },
+                {
+                  "gloss": "历史",
+                  "lemma": "history",
+                  "surface": "History"
+                },
+                {
+                  "gloss": "的",
+                  "lemma": "of",
+                  "surface": "of"
+                },
+                {
+                  "gloss": "育儿",
+                  "lemma": "parenting",
+                  "surface": "Parenting"
+                },
+                {
+                  "gloss": "从",
+                  "lemma": "from",
+                  "surface": "from"
+                },
+                {
+                  "gloss": "非洲",
+                  "lemma": "africa",
+                  "surface": "Africa"
+                },
+                {
+                  "gloss": "到",
+                  "lemma": "to",
+                  "surface": "to"
+                },
+                {
+                  "gloss": "欧洲",
+                  "lemma": "europe",
+                  "surface": "Europe"
+                }
+              ]
+            },
+            "options": [
+              "A) Instructive Teaching: A Dilemma for Anxious Parents",
+              "B) For a Happier Family, Learn from the Hunter-gatherers",
+              "C) Mixed-age Playgroup, a Better Choice for Lonely Children",
+              "D) Tracing the History of Parenting: from Africa to Europe"
+            ],
+            "qid": 2024011030,
+            "text": "Which of the following would be the best title for the text?",
+            "text_tokens": [
+              {
+                "gloss": "哪一项",
+                "lemma": "which",
+                "surface": "Which"
+              },
+              {
+                "gloss": "的",
+                "lemma": "of",
+                "surface": "of"
+              },
+              {
+                "gloss": "这些",
+                "lemma": "the",
+                "surface": "the"
+              },
+              {
+                "gloss": "以下",
+                "lemma": "following",
+                "surface": "following"
+              },
+              {
+                "gloss": "将",
+                "lemma": "would",
+                "surface": "would"
+              },
+              {
+                "gloss": "是",
+                "lemma": "be",
+                "surface": "be"
+              },
+              {
+                "gloss": "这个",
+                "lemma": "the",
+                "surface": "the"
+              },
+              {
+                "gloss": "最佳",
+                "lemma": "best",
+                "surface": "best"
+              },
+              {
+                "gloss": "标题",
+                "lemma": "title",
+                "surface": "title"
+              },
+              {
+                "gloss": "对于",
+                "lemma": "for",
+                "surface": "for"
+              },
+              {
+                "gloss": "这个",
+                "lemma": "the",
+                "surface": "the"
+              },
+              {
+                "gloss": "文章",
+                "lemma": "text",
+                "surface": "text"
+              }
+            ]
+          }
+        ],
+        "title": "Text 2"
+      },
+      "directions": "Read the following four texts. Answer the questions below each text by choosing A, B, C or\nD. Mark your answers on the ANSWER SHEET. (10 points for each text)",
+      "exam_info": "2024(1)",
+      "exam_type": "kaoyan",
+      "id": 202401003,
+      "key_words": "alloparenting children child hunter parents western caregivers family parenting according evolutionary gatherer history kung nursery said text adults age between chaudhary childcare each four help infants intensive less mixed mothering narrative one ratio researchers such teaching africa after akin answer anxiety carer communities contrast depression following gatherers germany harmful instructive lead learn look many maternal may more old older paragraph people playgroups residents scheme settings social society two ways abrupt additional adult african aged alleviates alloparents almost alone among annie",
+      "kid": 5,
+      "part": "Part III",
+      "section": "Sec C",
+      "task_key": "2024(1)_Section II_Part A_Text2",
+      "type": "Reading Comprehension"
+    }
+  ]
+}

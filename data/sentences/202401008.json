@@ -1,0 +1,640 @@
+{
+  "sentences": [
+    {
+      "cn_text": "亲爱的保罗：",
+      "en_text": "Dear Paul,",
+      "id": 2026025132,
+      "order_seq": "content_1_1",
+      "task_id": 202401008,
+      "tokens": [
+        {
+          "gloss": "亲爱的",
+          "lemma": "dear",
+          "surface": "Dear"
+        },
+        {
+          "gloss": "保罗",
+          "lemma": "paul",
+          "surface": "Paul"
+        }
+      ]
+    },
+    {
+      "cn_text": "很高兴能为你的口头报告提供一些实用建议。",
+      "en_text": "I'm glad to offer you practical tips for your oral report.",
+      "id": 2026025133,
+      "order_seq": "content_2_1",
+      "task_id": 202401008,
+      "tokens": [
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "I'm"
+        },
+        {
+          "gloss": "高兴的",
+          "lemma": "glad",
+          "surface": "glad"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "提供",
+          "lemma": "offer",
+          "surface": "offer"
+        },
+        {
+          "gloss": "你",
+          "lemma": "you",
+          "surface": "you"
+        },
+        {
+          "gloss": "实用的",
+          "lemma": "practical",
+          "surface": "practical"
+        },
+        {
+          "gloss": "建议",
+          "lemma": "tip",
+          "surface": "tips"
+        },
+        {
+          "gloss": "关于",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "你的",
+          "lemma": "your",
+          "surface": "your"
+        },
+        {
+          "gloss": "口头的",
+          "lemma": "oral",
+          "surface": "oral"
+        },
+        {
+          "gloss": "报告",
+          "lemma": "report",
+          "surface": "report"
+        }
+      ]
+    },
+    {
+      "cn_text": "首先，你可以选择一位具有代表性的中国古代科学家，例如张衡,介绍他的重要发明(如地动仪)以及他所处时代的历史背景。",
+      "en_text": "First, you can choose a representative ancient Chinese scientist, such as Zhang Heng, and introduce his significant inventions, like the seismoscope, along with the historical background of his era.",
+      "id": 2026025134,
+      "order_seq": "content_2_2",
+      "task_id": 202401008,
+      "tokens": [
+        {
+          "gloss": "首先",
+          "lemma": "first",
+          "surface": "First"
+        },
+        {
+          "gloss": "你",
+          "lemma": "you",
+          "surface": "you"
+        },
+        {
+          "gloss": "可以",
+          "lemma": "can",
+          "surface": "can"
+        },
+        {
+          "gloss": "选择",
+          "lemma": "choose",
+          "surface": "choose"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "具有代表性的",
+          "lemma": "representative",
+          "surface": "representative"
+        },
+        {
+          "gloss": "古代的",
+          "lemma": "ancient",
+          "surface": "ancient"
+        },
+        {
+          "gloss": "中国的",
+          "lemma": "chinese",
+          "surface": "Chinese"
+        },
+        {
+          "gloss": "科学家",
+          "lemma": "scientist",
+          "surface": "scientist"
+        },
+        {
+          "gloss": "比如",
+          "lemma": "such",
+          "surface": "such"
+        },
+        {
+          "gloss": "如同",
+          "lemma": "as",
+          "surface": "as"
+        },
+        {
+          "gloss": "张",
+          "lemma": "zhang",
+          "surface": "Zhang"
+        },
+        {
+          "gloss": "衡",
+          "lemma": "heng",
+          "surface": "Heng"
+        },
+        {
+          "gloss": "并且",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "介绍",
+          "lemma": "introduce",
+          "surface": "introduce"
+        },
+        {
+          "gloss": "他的",
+          "lemma": "his",
+          "surface": "his"
+        },
+        {
+          "gloss": "重要的",
+          "lemma": "significant",
+          "surface": "significant"
+        },
+        {
+          "gloss": "发明",
+          "lemma": "invention",
+          "surface": "inventions"
+        },
+        {
+          "gloss": "比如",
+          "lemma": "like",
+          "surface": "like"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "地动仪",
+          "lemma": "seismoscope",
+          "surface": "seismoscope"
+        },
+        {
+          "gloss": "以及",
+          "lemma": "along",
+          "surface": "along"
+        },
+        {
+          "gloss": "和",
+          "lemma": "with",
+          "surface": "with"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "历史的",
+          "lemma": "historical",
+          "surface": "historical"
+        },
+        {
+          "gloss": "背景",
+          "lemma": "background",
+          "surface": "background"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "他的",
+          "lemma": "his",
+          "surface": "his"
+        },
+        {
+          "gloss": "时代",
+          "lemma": "era",
+          "surface": "era"
+        }
+      ]
+    },
+    {
+      "cn_text": "加入一些关于他生平的生动轶事，会让你的演讲更具吸引力和感染力。",
+      "en_text": "Adding vivid anecdotes about his life will make your presentation more engaging and memorable.",
+      "id": 2026025135,
+      "order_seq": "content_2_3",
+      "task_id": 202401008,
+      "tokens": [
+        {
+          "gloss": "添加",
+          "lemma": "add",
+          "surface": "Adding"
+        },
+        {
+          "gloss": "生动的",
+          "lemma": "vivid",
+          "surface": "vivid"
+        },
+        {
+          "gloss": "轶事",
+          "lemma": "anecdote",
+          "surface": "anecdotes"
+        },
+        {
+          "gloss": "关于",
+          "lemma": "about",
+          "surface": "about"
+        },
+        {
+          "gloss": "他的",
+          "lemma": "his",
+          "surface": "his"
+        },
+        {
+          "gloss": "生活",
+          "lemma": "life",
+          "surface": "life"
+        },
+        {
+          "gloss": "将会",
+          "lemma": "will",
+          "surface": "will"
+        },
+        {
+          "gloss": "使",
+          "lemma": "make",
+          "surface": "make"
+        },
+        {
+          "gloss": "你的",
+          "lemma": "your",
+          "surface": "your"
+        },
+        {
+          "gloss": "演讲",
+          "lemma": "presentation",
+          "surface": "presentation"
+        },
+        {
+          "gloss": "更",
+          "lemma": "more",
+          "surface": "more"
+        },
+        {
+          "gloss": "吸引人的",
+          "lemma": "engaging",
+          "surface": "engaging"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "令人难忘的",
+          "lemma": "memorable",
+          "surface": "memorable"
+        }
+      ]
+    },
+    {
+      "cn_text": "此外，你可以在PPT中加入相关图片或图表，以直观呈现你的观点。",
+      "en_text": "Additionally, you could include relevant pictures or diagrams in your PPT to visually support your points.",
+      "id": 2026025136,
+      "order_seq": "content_3_1",
+      "task_id": 202401008,
+      "tokens": [
+        {
+          "gloss": "此外",
+          "lemma": "additionally",
+          "surface": "Additionally"
+        },
+        {
+          "gloss": "你",
+          "lemma": "you",
+          "surface": "you"
+        },
+        {
+          "gloss": "可以",
+          "lemma": "could",
+          "surface": "could"
+        },
+        {
+          "gloss": "包括",
+          "lemma": "include",
+          "surface": "include"
+        },
+        {
+          "gloss": "相关的",
+          "lemma": "relevant",
+          "surface": "relevant"
+        },
+        {
+          "gloss": "图片",
+          "lemma": "picture",
+          "surface": "pictures"
+        },
+        {
+          "gloss": "或",
+          "lemma": "or",
+          "surface": "or"
+        },
+        {
+          "gloss": "图表",
+          "lemma": "diagram",
+          "surface": "diagrams"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "你的",
+          "lemma": "your",
+          "surface": "your"
+        },
+        {
+          "gloss": "PPT",
+          "lemma": "ppt",
+          "surface": "PPT"
+        },
+        {
+          "gloss": "以",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "直观地",
+          "lemma": "visually",
+          "surface": "visually"
+        },
+        {
+          "gloss": "支持",
+          "lemma": "support",
+          "surface": "support"
+        },
+        {
+          "gloss": "你的",
+          "lemma": "your",
+          "surface": "your"
+        },
+        {
+          "gloss": "观点",
+          "lemma": "point",
+          "surface": "points"
+        }
+      ]
+    },
+    {
+      "cn_text": "多次练习演讲，以确保表达流畅、时间把控得当。",
+      "en_text": "Practice your speech several times to ensure smooth delivery and proper time management.",
+      "id": 2026025137,
+      "order_seq": "content_3_2",
+      "task_id": 202401008,
+      "tokens": [
+        {
+          "gloss": "练习",
+          "lemma": "practice",
+          "surface": "Practice"
+        },
+        {
+          "gloss": "你的",
+          "lemma": "your",
+          "surface": "your"
+        },
+        {
+          "gloss": "演讲",
+          "lemma": "speech",
+          "surface": "speech"
+        },
+        {
+          "gloss": "几次",
+          "lemma": "several",
+          "surface": "several"
+        },
+        {
+          "gloss": "次",
+          "lemma": "time",
+          "surface": "times"
+        },
+        {
+          "gloss": "以",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "确保",
+          "lemma": "ensure",
+          "surface": "ensure"
+        },
+        {
+          "gloss": "流畅的",
+          "lemma": "smooth",
+          "surface": "smooth"
+        },
+        {
+          "gloss": "表达",
+          "lemma": "delivery",
+          "surface": "delivery"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "适当的",
+          "lemma": "proper",
+          "surface": "proper"
+        },
+        {
+          "gloss": "时间",
+          "lemma": "time",
+          "surface": "time"
+        },
+        {
+          "gloss": "管理",
+          "lemma": "management",
+          "surface": "management"
+        }
+      ]
+    },
+    {
+      "cn_text": "如果可能，向朋友征求反馈意见，以便进一步完善你的表现。",
+      "en_text": "If possible, seek feedback from friends to refine your performance.",
+      "id": 2026025138,
+      "order_seq": "content_3_3",
+      "task_id": 202401008,
+      "tokens": [
+        {
+          "gloss": "如果",
+          "lemma": "if",
+          "surface": "If"
+        },
+        {
+          "gloss": "可能的",
+          "lemma": "possible",
+          "surface": "possible"
+        },
+        {
+          "gloss": "寻求",
+          "lemma": "seek",
+          "surface": "seek"
+        },
+        {
+          "gloss": "反馈",
+          "lemma": "feedback",
+          "surface": "feedback"
+        },
+        {
+          "gloss": "从",
+          "lemma": "from",
+          "surface": "from"
+        },
+        {
+          "gloss": "朋友",
+          "lemma": "friend",
+          "surface": "friends"
+        },
+        {
+          "gloss": "以",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "改进",
+          "lemma": "refine",
+          "surface": "refine"
+        },
+        {
+          "gloss": "你的",
+          "lemma": "your",
+          "surface": "your"
+        },
+        {
+          "gloss": "表现",
+          "lemma": "performance",
+          "surface": "performance"
+        }
+      ]
+    },
+    {
+      "cn_text": "希望这些建议能帮助你取得优异成绩。",
+      "en_text": "I hope these suggestions help you achieve an excellent result.",
+      "id": 2026025139,
+      "order_seq": "content_4_1",
+      "task_id": 202401008,
+      "tokens": [
+        {
+          "gloss": "我",
+          "lemma": "i",
+          "surface": "I"
+        },
+        {
+          "gloss": "希望",
+          "lemma": "hope",
+          "surface": "hope"
+        },
+        {
+          "gloss": "这些",
+          "lemma": "these",
+          "surface": "these"
+        },
+        {
+          "gloss": "建议",
+          "lemma": "suggestion",
+          "surface": "suggestions"
+        },
+        {
+          "gloss": "帮助",
+          "lemma": "help",
+          "surface": "help"
+        },
+        {
+          "gloss": "你",
+          "lemma": "you",
+          "surface": "you"
+        },
+        {
+          "gloss": "取得",
+          "lemma": "achieve",
+          "surface": "achieve"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "an",
+          "surface": "an"
+        },
+        {
+          "gloss": "优异的",
+          "lemma": "excellent",
+          "surface": "excellent"
+        },
+        {
+          "gloss": "成绩",
+          "lemma": "result",
+          "surface": "result"
+        }
+      ]
+    },
+    {
+      "cn_text": "你真诚的，",
+      "en_text": "Yours sincerely,",
+      "id": 2026025140,
+      "order_seq": "content_5_1",
+      "task_id": 202401008,
+      "tokens": [
+        {
+          "gloss": "你的",
+          "lemma": "yours",
+          "surface": "Yours"
+        },
+        {
+          "gloss": "真诚地",
+          "lemma": "sincerely",
+          "surface": "sincerely"
+        }
+      ]
+    },
+    {
+      "cn_text": "李明",
+      "en_text": "Li Ming",
+      "id": 2026025141,
+      "order_seq": "content_6_1",
+      "task_id": 202401008,
+      "tokens": [
+        {
+          "gloss": "李",
+          "lemma": "li",
+          "surface": "Li"
+        },
+        {
+          "gloss": "明",
+          "lemma": "ming",
+          "surface": "Ming"
+        }
+      ]
+    }
+  ],
+  "success": true
+}

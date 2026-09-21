@@ -1,0 +1,796 @@
+{
+  "exam": "en1",
+  "key": "2008-t3",
+  "year": 2008,
+  "text_no": 3,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2008-text3-s1",
+      "s": "In the early 1960s Wilt Chamberlain was one of the only three players in the National Basketball Association (NBA) listed at over seven feet.",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Wilt Chamberlain",
+        "谓语": "was",
+        "宾语或表语": "one of the only three players",
+        "主干翻译": "威尔特·张伯伦是仅有的三名球员之一。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "In the early 1960s",
+          "修饰对象": "was",
+          "中文翻译": "在20世纪60年代初",
+          "说明": "时间状语，置于句首修饰全句"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "(NBA)",
+          "修饰对象": "Association",
+          "中文翻译": "（NBA）",
+          "说明": "对National Basketball Association的缩写注解，作同位说明"
+        },
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "in the National Basketball Association",
+          "修饰对象": "players",
+          "中文翻译": "在美国国家篮球协会中",
+          "说明": "修饰players，限定范围"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "listed at over seven feet",
+          "修饰对象": "players",
+          "中文翻译": "身高在七英尺以上（被列出）的",
+          "说明": "过去分词短语作后置定语，修饰players"
+        }
+      ],
+      "zh": "在20世纪60年代初，威尔特·张伯伦是美国国家篮球协会（NBA）中仅有的三名身高超过七英尺的球员之一。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2008-text3-s2",
+      "s": "If he had played last season, however, he would have been one of 42.",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "he",
+        "谓语": "would have been",
+        "宾语或表语": "one of 42",
+        "主干翻译": "他本会是42人当中的一员。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "If he had played last season",
+          "修饰对象": "would have been",
+          "中文翻译": "如果他在上个赛季打球的话",
+          "说明": "if引导的非真实条件状语从句（虚拟语气，与过去事实相反）"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "however",
+          "修饰对象": "—",
+          "中文翻译": "然而",
+          "说明": "插入语，表转折"
+        }
+      ],
+      "zh": "然而，如果他在上个赛季打球的话，他将只是42名（高个球员）当中的一员。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2008-text3-s3",
+      "s": "The bodies playing major professional sports have changed dramatically over the years, and managers have been more than willing to adjust team uniforms to fit the growing numbers of bigger, longer frames.",
+      "para_no": 1,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "The bodies / managers",
+        "谓语": "have changed / have been willing",
+        "宾语或表语": "（无）/ willing",
+        "主干翻译": "（运动员的）身体已经发生了巨大变化，管理者们也一直十分乐意调整队服。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "playing major professional sports",
+          "修饰对象": "bodies",
+          "中文翻译": "从事主要职业体育运动的",
+          "说明": "现在分词短语作后置定语，修饰bodies"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "managers have been more than willing to adjust team uniforms to fit the growing numbers of bigger, longer frames.",
+          "修饰对象": "—",
+          "中文翻译": "管理者们一直十分乐意调整队服以适应日益增多的更高大、更修长的身形",
+          "说明": "由and连接的并列分句，与前一分句并列"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to adjust team uniforms",
+          "修饰对象": "willing",
+          "中文翻译": "去调整队服",
+          "说明": "动词不定式，作willing的补足语/状语"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to fit the growing numbers of bigger, longer frames",
+          "修饰对象": "adjust",
+          "中文翻译": "以适应日益增多的更高大、更修长的身形",
+          "说明": "动词不定式短语作目的状语，修饰adjust"
+        }
+      ],
+      "zh": "多年来，从事主要职业体育运动的人的体格已经发生了巨大变化，管理者们也一直十分乐意调整队服，以适应日益增多的更高大、更修长的身形。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2008-text3-s4",
+      "s": "The trend in sports, though, may be obscuring an unrecognized reality: Americans have generally stopped growing.",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The trend in sports",
+        "谓语": "may be obscuring",
+        "宾语或表语": "an unrecognized reality",
+        "主干翻译": "体育运动中的这种趋势可能正在掩盖一个未被认识到的事实。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "though",
+          "修饰对象": "—",
+          "中文翻译": "不过",
+          "说明": "插入语，表转折"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "Americans have generally stopped growing",
+          "修饰对象": "reality",
+          "中文翻译": "美国人总体上已经停止长高了",
+          "说明": "冒号引出，对reality进行同位说明"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "growing",
+          "修饰对象": "stopped",
+          "中文翻译": "长高",
+          "说明": "动名词作stopped的宾语，表示停止的动作内容"
+        }
+      ],
+      "zh": "不过，体育运动中的这种趋势可能正在掩盖一个未被认识到的事实：美国人总体上已经停止长高了。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2008-text3-s5",
+      "s": "Though typically about two inches taller now than 140 years ago, today's people—especially those born to families who have lived in the U.S. for many generations—apparently reached their limit in the early 1960 s.",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "today's people",
+        "谓语": "reached",
+        "宾语或表语": "their limit",
+        "主干翻译": "今天的人们达到了他们的（身高）极限。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(让步)",
+          "原文": "Though typically about two inches taller now than 140 years ago",
+          "修饰对象": "reached",
+          "中文翻译": "尽管如今通常比140年前高约两英寸",
+          "说明": "though引导的让步状语从句（省略主谓they are）"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "especially those born to families who have lived in the U.S. for many generations",
+          "修饰对象": "people",
+          "中文翻译": "尤其是那些出生于已在美国生活了好几代的家庭的人",
+          "说明": "破折号间插入，作people的同位说明"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "born to families",
+          "修饰对象": "those",
+          "中文翻译": "出生于……家庭的",
+          "说明": "过去分词短语作后置定语，修饰those"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "who have lived in the U.S. for many generations",
+          "修饰对象": "families",
+          "中文翻译": "已在美国生活了好几代的",
+          "说明": "who引导的定语从句，修饰families"
+        }
+      ],
+      "zh": "尽管如今的人通常比140年前高约两英寸，但今天的人——尤其是那些出生于已在美国生活了好几代的家庭的人——显然在20世纪60年代初就已达到了他们的身高极限。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2008-text3-s6",
+      "s": "And they aren't likely to get any taller.",
+      "para_no": 2,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "they",
+        "谓语": "aren't likely",
+        "宾语或表语": "likely",
+        "主干翻译": "他们不太可能（再长高）。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to get any taller",
+          "修饰对象": "likely",
+          "中文翻译": "变得更高",
+          "说明": "动词不定式，作likely的补足语，说明可能性的内容"
+        }
+      ],
+      "zh": "而且他们也不太可能再长高了。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2008-text3-s7",
+      "s": "\"In the general population today, at this genetic, environmental level, we've pretty much gone as far as we can go,\" says anthropologist William Cameron Chumlea of Wright State University.",
+      "para_no": 2,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "anthropologist William Cameron Chumlea",
+        "谓语": "says",
+        "宾语或表语": "\"...we've pretty much gone as far as we can go\"",
+        "主干翻译": "人类学家威廉·卡梅伦·钱姆利亚说……"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "In the general population today, at this genetic, environmental level, we've pretty much gone as far as we can go",
+          "修饰对象": "says",
+          "中文翻译": "就当今的普通人群而言，在现有的基因和环境水平上，我们差不多已经走到了所能达到的极限",
+          "说明": "引语作says的宾语（直接引语，相当于宾语从句）"
+        },
+        {
+          "成分类型": "状语从句(比较)",
+          "原文": "as we can go",
+          "修饰对象": "far",
+          "中文翻译": "我们所能达到的（那么远）",
+          "说明": "as...as比较结构中的比较状语从句，修饰far"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "at this genetic, environmental level",
+          "修饰对象": "gone",
+          "中文翻译": "在现有的基因和环境水平上",
+          "说明": "介词短语作状语"
+        }
+      ],
+      "zh": "莱特州立大学的人类学家威廉·卡梅伦·钱姆利亚说：“就当今普通人群而言，在现有的基因和环境水平下，我们差不多已经走到了所能达到的极限。”",
+      "underline": null
+    },
+    {
+      "sid": "en1-2008-text3-s8",
+      "s": "In the case of NBA players, their increase in height appears to result from the increasingly common practice of recruiting players from all over the world.",
+      "para_no": 2,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "their increase in height",
+        "谓语": "appears to result",
+        "宾语或表语": "（from the practice）",
+        "主干翻译": "他们身高的增长似乎源于……做法。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "In the case of NBA players",
+          "修饰对象": "appears",
+          "中文翻译": "就NBA球员而言",
+          "说明": "介词短语作状语，置于句首"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to result from the increasingly common practice of recruiting players from all over the world",
+          "修饰对象": "appears",
+          "中文翻译": "源于从世界各地招募球员这种日益普遍的做法",
+          "说明": "动词不定式作appears的补足语"
+        },
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "of recruiting players from all over the world",
+          "修饰对象": "practice",
+          "中文翻译": "从世界各地招募球员的",
+          "说明": "of介词短语作后置定语，修饰practice"
+        }
+      ],
+      "zh": "就NBA球员而言，他们身高的增长似乎源于从世界各地招募球员这种日益普遍的做法。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2008-text3-s9",
+      "s": "Growth, which rarely continues beyond the age of 20, demands calories and nutrients—notably, protein—to feed expanding tissues.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Growth",
+        "谓语": "demands",
+        "宾语或表语": "calories and nutrients",
+        "主干翻译": "生长需要热量和营养。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "which rarely continues beyond the age of 20",
+          "修饰对象": "Growth",
+          "中文翻译": "很少持续到20岁以后的",
+          "说明": "which引导的非限制性定语从句，修饰Growth"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "calories and nutrients",
+          "修饰对象": "demands",
+          "中文翻译": "热量和营养",
+          "说明": "由and连接的并列宾语"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "notably, protein",
+          "修饰对象": "nutrients",
+          "中文翻译": "尤其是蛋白质",
+          "说明": "破折号间插入，对nutrients举例同位说明"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to feed expanding tissues",
+          "修饰对象": "demands",
+          "中文翻译": "来供养不断扩张的组织",
+          "说明": "动词不定式短语作目的状语，修饰demands"
+        }
+      ],
+      "zh": "生长（很少持续到20岁以后）需要热量和营养——尤其是蛋白质——来供养不断扩张的（身体）组织。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2008-text3-s10",
+      "s": "At the start of the 20th century, under-nutrition and childhood infections got in the way.",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "under-nutrition and childhood infections",
+        "谓语": "got in the way",
+        "宾语或表语": "（无）",
+        "主干翻译": "营养不良和儿童期感染成为了障碍。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "At the start of the 20th century",
+          "修饰对象": "got",
+          "中文翻译": "在20世纪初",
+          "说明": "时间状语，置于句首"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "under-nutrition and childhood infections",
+          "修饰对象": "—",
+          "中文翻译": "营养不良和儿童期感染",
+          "说明": "由and连接的并列主语"
+        }
+      ],
+      "zh": "在20世纪初，营养不良和儿童期感染阻碍了（人们长高）。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2008-text3-s11",
+      "s": "But as diet and health improved, children and adolescents have, on average, increased in height by about an inch and a half every 20 years, a pattern known as the secular trend in height.",
+      "para_no": 3,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "children and adolescents",
+        "谓语": "have increased",
+        "宾语或表语": "in height",
+        "主干翻译": "儿童和青少年的身高有所增长。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "as diet and health improved",
+          "修饰对象": "increased",
+          "中文翻译": "随着饮食和健康状况的改善",
+          "说明": "as引导的时间状语从句（表伴随/随着）"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "on average",
+          "修饰对象": "increased",
+          "中文翻译": "平均而言",
+          "说明": "插入语"
+        },
+        {
+          "成分类型": "同位语",
+          "原文": "a pattern",
+          "修饰对象": "—",
+          "中文翻译": "一种模式",
+          "说明": "对前面整个增长现象的同位概括"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "known as the secular trend in height",
+          "修饰对象": "pattern",
+          "中文翻译": "被称为身高的长期增长趋势的",
+          "说明": "过去分词短语作后置定语，修饰pattern"
+        }
+      ],
+      "zh": "但随着饮食和健康状况的改善，儿童和青少年平均每20年身高增长约一英寸半，这一模式被称为身高的长期增长趋势。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2008-text3-s12",
+      "s": "Yet according to the Centers for Disease Control and Prevention, average height—5'9\" for men, 5'4\" for women—hasn't really changed since 1960.",
+      "para_no": 3,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "average height",
+        "谓语": "hasn't changed",
+        "宾语或表语": "（无）",
+        "主干翻译": "平均身高没有真正改变。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "according to the Centers for Disease Control and Prevention",
+          "修饰对象": "hasn't changed",
+          "中文翻译": "根据美国疾病控制与预防中心的数据",
+          "说明": "介词短语作状语，表信息来源"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "5'9\" for men, 5'4\" for women",
+          "修饰对象": "height",
+          "中文翻译": "男性5英尺9英寸，女性5英尺4英寸",
+          "说明": "破折号间插入，对average height作具体数据同位说明"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "since 1960",
+          "修饰对象": "hasn't changed",
+          "中文翻译": "自1960年以来",
+          "说明": "时间状语，与现在完成时呼应"
+        }
+      ],
+      "zh": "然而，根据美国疾病控制与预防中心的数据，平均身高——男性5英尺9英寸，女性5英尺4英寸——自1960年以来就没有真正改变过。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2008-text3-s13",
+      "s": "Genetically speaking, there are advantages to avoiding substantial height.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "there",
+        "谓语": "are",
+        "宾语或表语": "advantages",
+        "主干翻译": "存在着一些好处。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "Genetically speaking",
+          "修饰对象": "are",
+          "中文翻译": "从基因角度来说",
+          "说明": "独立分词结构作状语（评注性状语）"
+        },
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "to avoiding substantial height",
+          "修饰对象": "advantages",
+          "中文翻译": "避免长得过高的",
+          "说明": "to介词短语作后置定语，修饰advantages"
+        }
+      ],
+      "zh": "从基因角度来说，避免长得过高是有好处的。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2008-text3-s14",
+      "s": "During childbirth, larger babies have more difficulty passing through the birth canal.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "larger babies",
+        "谓语": "have",
+        "宾语或表语": "more difficulty",
+        "主干翻译": "较大的婴儿会有更多困难。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "During childbirth",
+          "修饰对象": "have",
+          "中文翻译": "在分娩过程中",
+          "说明": "时间状语，置于句首"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "passing through the birth canal",
+          "修饰对象": "difficulty",
+          "中文翻译": "通过产道（时）",
+          "说明": "动名词短语，说明difficulty的内容（have difficulty (in) doing结构）"
+        }
+      ],
+      "zh": "在分娩过程中，较大的婴儿通过产道时会遇到更多困难。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2008-text3-s15",
+      "s": "Moreover, even though humans have been upright for millions of years, our feet and back continue to struggle with bipedal posture and cannot easily withstand repeated strain imposed by oversize limbs.",
+      "para_no": 4,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "our feet and back",
+        "谓语": "continue / cannot withstand",
+        "宾语或表语": "（to struggle...）/ repeated strain",
+        "主干翻译": "我们的脚和背仍在与双足直立的姿势抗争，并且不能轻易承受反复的压力。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(让步)",
+          "原文": "even though humans have been upright for millions of years",
+          "修饰对象": "continue",
+          "中文翻译": "尽管人类直立行走已有数百万年",
+          "说明": "even though引导的让步状语从句"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to struggle with bipedal posture",
+          "修饰对象": "continue",
+          "中文翻译": "与双足直立的姿势抗争",
+          "说明": "动词不定式作continue的补足语"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "cannot easily withstand repeated strain imposed by oversize limbs",
+          "修饰对象": "—",
+          "中文翻译": "不能轻易承受由超大的四肢带来的反复压力",
+          "说明": "由and连接的并列谓语，与continue并列，共用主语our feet and back"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "imposed by oversize limbs",
+          "修饰对象": "strain",
+          "中文翻译": "由超大的四肢施加的",
+          "说明": "过去分词短语作后置定语，修饰strain"
+        }
+      ],
+      "zh": "此外，尽管人类直立行走已有数百万年，我们的脚和背仍在与双足直立的姿势抗争，并且不能轻易承受由超大四肢所带来的反复压力。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2008-text3-s16",
+      "s": "\"There are some real constraints that are set by the genetic architecture of the individual organism,\" says anthropologist William Leonard of Northwestern University.",
+      "para_no": 4,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "anthropologist William Leonard",
+        "谓语": "says",
+        "宾语或表语": "\"There are some real constraints...\"",
+        "主干翻译": "人类学家威廉·伦纳德说……"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "There are some real constraints that are set by the genetic architecture of the individual organism",
+          "修饰对象": "says",
+          "中文翻译": "存在着一些由个体有机体的基因结构所设定的真正限制",
+          "说明": "引语作says的宾语（直接引语，相当于宾语从句）"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that are set by the genetic architecture of the individual organism",
+          "修饰对象": "constraints",
+          "中文翻译": "由个体有机体的基因结构所设定的",
+          "说明": "that引导的定语从句，修饰constraints"
+        }
+      ],
+      "zh": "西北大学的人类学家威廉·伦纳德说：“存在着一些由个体有机体的基因结构所设定的真正的限制。”",
+      "underline": null
+    },
+    {
+      "sid": "en1-2008-text3-s17",
+      "s": "Genetic maximums can change, but don't expect this to happen soon.",
+      "para_no": 5,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Genetic maximums / (you)",
+        "谓语": "can change / don't expect",
+        "宾语或表语": "（无）/ this",
+        "主干翻译": "基因的上限可以改变，但别指望这会很快发生。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "don't expect this to happen soon",
+          "修饰对象": "—",
+          "中文翻译": "别指望这会很快发生",
+          "说明": "由but连接的并列分句（祈使句），与前一分句并列"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "this to happen soon",
+          "修饰对象": "expect",
+          "中文翻译": "这会很快发生",
+          "说明": "复合宾语（不定式复合结构）作expect的宾语"
+        }
+      ],
+      "zh": "基因的上限是可以改变的，但别指望这会很快发生。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2008-text3-s18",
+      "s": "Claire C. Gordon, senior anthropologist at the Army Research Center in Natick, Mass., ensures that 90 percent of the uniforms and workstations fit recruits without alteration.",
+      "para_no": 5,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Claire C. Gordon",
+        "谓语": "ensures",
+        "宾语或表语": "that 90 percent of the uniforms and workstations fit recruits",
+        "主干翻译": "克莱尔·C·戈登确保90%的制服和工作台适合新兵。"
+      },
+      "components": [
+        {
+          "成分类型": "同位语",
+          "原文": "senior anthropologist at the Army Research Center in Natick, Mass.",
+          "修饰对象": "Gordon",
+          "中文翻译": "马萨诸塞州内蒂克陆军研究中心的高级人类学家",
+          "说明": "名词短语作Gordon的同位语"
+        },
+        {
+          "成分类型": "同位语",
+          "原文": "Mass.",
+          "修饰对象": "Natick",
+          "中文翻译": "马萨诸塞州",
+          "说明": "对地名Natick所属州的同位说明"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that 90 percent of the uniforms and workstations fit recruits without alteration",
+          "修饰对象": "ensures",
+          "中文翻译": "90%的制服和工作台无需改动就能适合新兵",
+          "说明": "that引导的宾语从句，作ensures的宾语"
+        }
+      ],
+      "zh": "马萨诸塞州内蒂克陆军研究中心的高级人类学家克莱尔·C·戈登确保，90%的制服和工作台无需改动就能适合新兵。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2008-text3-s19",
+      "s": "She says that, unlike those for basketball, the length of military uniforms has not changed for some time.",
+      "para_no": 5,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "She",
+        "谓语": "says",
+        "宾语或表语": "that...the length of military uniforms has not changed",
+        "主干翻译": "她说军服的尺寸没有改变。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "that, unlike those for basketball, the length of military uniforms has not changed for some time",
+          "修饰对象": "says",
+          "中文翻译": "与篮球运动服不同，军服的尺寸已有一段时间没有改变了",
+          "说明": "that引导的宾语从句，作says的宾语"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "unlike those for basketball",
+          "修饰对象": "length",
+          "中文翻译": "与篮球（运动服）的尺寸不同",
+          "说明": "介词短语作插入语/比较状语，those指代the length"
+        }
+      ],
+      "zh": "她说，与篮球运动服不同，军服的尺寸已经有一段时间没有改变了。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2008-text3-s20",
+      "s": "And if you need to predict human height in the near future to design a piece of equipment, Gordon says that by and large, \"you could use today's data and feel fairly confident.\"",
+      "para_no": 5,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "Gordon",
+        "谓语": "says",
+        "宾语或表语": "that...\"you could use today's data and feel fairly confident\"",
+        "主干翻译": "戈登说……你可以使用今天的数据并相当有信心。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "if you need to predict human height in the near future to design a piece of equipment",
+          "修饰对象": "says",
+          "中文翻译": "如果你需要预测不久的将来人类的身高以设计某件设备",
+          "说明": "if引导的条件状语从句，修饰主句says"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to predict human height in the near future",
+          "修饰对象": "need",
+          "中文翻译": "预测不久的将来人类的身高",
+          "说明": "动词不定式作need的宾语"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to design a piece of equipment",
+          "修饰对象": "predict",
+          "中文翻译": "以设计某件设备",
+          "说明": "动词不定式短语作目的状语，修饰predict"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that by and large, \"you could use today's data and feel fairly confident",
+          "修饰对象": "says",
+          "中文翻译": "总的来说，你可以使用今天的数据并感到相当有信心",
+          "说明": "that引导的宾语从句，作says的宾语"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "feel fairly confident",
+          "修饰对象": "—",
+          "中文翻译": "感到相当有信心",
+          "说明": "由and连接的并列谓语，与use today's data并列，共用主语you"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "by and large",
+          "修饰对象": "—",
+          "中文翻译": "总的来说",
+          "说明": "插入语，置于宾语从句句首"
+        }
+      ],
+      "zh": "戈登说，如果你需要预测不久的将来人类的身高以设计某件设备，那么总的来说，“你可以使用今天的数据，并对此相当有信心。”",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2008-text3-s1",
+        "en1-2008-text3-s2",
+        "en1-2008-text3-s3"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2008-text3-s4",
+        "en1-2008-text3-s5",
+        "en1-2008-text3-s6",
+        "en1-2008-text3-s7",
+        "en1-2008-text3-s8"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2008-text3-s9",
+        "en1-2008-text3-s10",
+        "en1-2008-text3-s11",
+        "en1-2008-text3-s12"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2008-text3-s13",
+        "en1-2008-text3-s14",
+        "en1-2008-text3-s15",
+        "en1-2008-text3-s16"
+      ]
+    },
+    {
+      "para_no": 5,
+      "sids": [
+        "en1-2008-text3-s17",
+        "en1-2008-text3-s18",
+        "en1-2008-text3-s19",
+        "en1-2008-text3-s20"
+      ]
+    }
+  ]
+}

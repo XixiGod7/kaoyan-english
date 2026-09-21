@@ -1,0 +1,2229 @@
+{
+  "sentences": [
+    {
+      "cn_text": "当今的科学教育围绕科学素养这一理念展开——即非科学家有效应对现实世界所需的基础科学知识。",
+      "en_text": "Science education today revolves around the idea of scientific literacy — the base-level knowledge about science that nonscientists require to effectively get on in the world.",
+      "id": 2026013233,
+      "order_seq": "content_1_1",
+      "task_id": 202601007,
+      "tokens": [
+        {
+          "gloss": "科学",
+          "lemma": "science",
+          "surface": "science"
+        },
+        {
+          "gloss": "教育",
+          "lemma": "education",
+          "surface": "education"
+        },
+        {
+          "gloss": "今天",
+          "lemma": "today",
+          "surface": "today"
+        },
+        {
+          "gloss": "围绕",
+          "lemma": "revolve",
+          "surface": "revolves"
+        },
+        {
+          "gloss": "围绕",
+          "lemma": "around",
+          "surface": "around"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "理念",
+          "lemma": "idea",
+          "surface": "idea"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "科学的",
+          "lemma": "scientific",
+          "surface": "scientific"
+        },
+        {
+          "gloss": "素养",
+          "lemma": "literacy",
+          "surface": "literacy"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "基础的",
+          "lemma": "base",
+          "surface": "base"
+        },
+        {
+          "gloss": "水平",
+          "lemma": "level",
+          "surface": "level"
+        },
+        {
+          "gloss": "知识",
+          "lemma": "knowledge",
+          "surface": "knowledge"
+        },
+        {
+          "gloss": "关于",
+          "lemma": "about",
+          "surface": "about"
+        },
+        {
+          "gloss": "科学",
+          "lemma": "science",
+          "surface": "science"
+        },
+        {
+          "gloss": "那",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "非科学家",
+          "lemma": "nonscientist",
+          "surface": "nonscientists"
+        },
+        {
+          "gloss": "需要",
+          "lemma": "require",
+          "surface": "require"
+        },
+        {
+          "gloss": "为了",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "有效地",
+          "lemma": "effectively",
+          "surface": "effectively"
+        },
+        {
+          "gloss": "生存",
+          "lemma": "get",
+          "surface": "get"
+        },
+        {
+          "gloss": "在",
+          "lemma": "on",
+          "surface": "on"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "世界",
+          "lemma": "world",
+          "surface": "world"
+        }
+      ]
+    },
+    {
+      "cn_text": "自近80年前这一概念被引入以来，它一直是课程开发者、地方学校董事会、商业和社区领袖以及政策制定者的核心目标。",
+      "en_text": "This concept has served as a central goal for curriculum developers, local school boards, business and community leaders, and policymakers ever since its introduction nearly 80 years ago.",
+      "id": 2026013234,
+      "order_seq": "content_1_2",
+      "task_id": 202601007,
+      "tokens": [
+        {
+          "gloss": "这个",
+          "lemma": "this",
+          "surface": "this"
+        },
+        {
+          "gloss": "概念",
+          "lemma": "concept",
+          "surface": "concept"
+        },
+        {
+          "gloss": "已经",
+          "lemma": "have",
+          "surface": "has"
+        },
+        {
+          "gloss": "作为",
+          "lemma": "serve",
+          "surface": "served"
+        },
+        {
+          "gloss": "作为",
+          "lemma": "as",
+          "surface": "as"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "核心的",
+          "lemma": "central",
+          "surface": "central"
+        },
+        {
+          "gloss": "目标",
+          "lemma": "goal",
+          "surface": "goal"
+        },
+        {
+          "gloss": "对于",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "课程",
+          "lemma": "curriculum",
+          "surface": "curriculum"
+        },
+        {
+          "gloss": "开发者",
+          "lemma": "developer",
+          "surface": "developers"
+        },
+        {
+          "gloss": "地方的",
+          "lemma": "local",
+          "surface": "local"
+        },
+        {
+          "gloss": "学校",
+          "lemma": "school",
+          "surface": "school"
+        },
+        {
+          "gloss": "董事会",
+          "lemma": "board",
+          "surface": "boards"
+        },
+        {
+          "gloss": "商业",
+          "lemma": "business",
+          "surface": "business"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "社区",
+          "lemma": "community",
+          "surface": "community"
+        },
+        {
+          "gloss": "领袖",
+          "lemma": "leader",
+          "surface": "leaders"
+        },
+        {
+          "gloss": "以及",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "政策制定者",
+          "lemma": "policymaker",
+          "surface": "policymakers"
+        },
+        {
+          "gloss": "自从",
+          "lemma": "ever",
+          "surface": "ever"
+        },
+        {
+          "gloss": "自从",
+          "lemma": "since",
+          "surface": "since"
+        },
+        {
+          "gloss": "它的",
+          "lemma": "its",
+          "surface": "its"
+        },
+        {
+          "gloss": "引入",
+          "lemma": "introduction",
+          "surface": "introduction"
+        },
+        {
+          "gloss": "近",
+          "lemma": "nearly",
+          "surface": "nearly"
+        },
+        {
+          "gloss": "年",
+          "lemma": "year",
+          "surface": "years"
+        },
+        {
+          "gloss": "以前",
+          "lemma": "ago",
+          "surface": "ago"
+        }
+      ]
+    },
+    {
+      "cn_text": "追溯这一术语的历史，我们可以看到科学素养的定义如何随时间推移而变化，这使得确定科学教育目标变得愈发模糊。",
+      "en_text": "Tracing the history of the term, we can see how the definition of scientific literacy has shifted over time, muddying the waters when it comes to determining the goals of science education.",
+      "id": 2026013235,
+      "order_seq": "content_2_1",
+      "task_id": 202601007,
+      "tokens": [
+        {
+          "gloss": "追溯",
+          "lemma": "trace",
+          "surface": "tracing"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "历史",
+          "lemma": "history",
+          "surface": "history"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "术语",
+          "lemma": "term",
+          "surface": "term"
+        },
+        {
+          "gloss": "我们",
+          "lemma": "we",
+          "surface": "we"
+        },
+        {
+          "gloss": "可以",
+          "lemma": "can",
+          "surface": "can"
+        },
+        {
+          "gloss": "看到",
+          "lemma": "see",
+          "surface": "see"
+        },
+        {
+          "gloss": "如何",
+          "lemma": "how",
+          "surface": "how"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "定义",
+          "lemma": "definition",
+          "surface": "definition"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "科学的",
+          "lemma": "scientific",
+          "surface": "scientific"
+        },
+        {
+          "gloss": "素养",
+          "lemma": "literacy",
+          "surface": "literacy"
+        },
+        {
+          "gloss": "已经",
+          "lemma": "have",
+          "surface": "has"
+        },
+        {
+          "gloss": "变化",
+          "lemma": "shift",
+          "surface": "shifted"
+        },
+        {
+          "gloss": "随着",
+          "lemma": "over",
+          "surface": "over"
+        },
+        {
+          "gloss": "时间",
+          "lemma": "time",
+          "surface": "time"
+        },
+        {
+          "gloss": "使复杂",
+          "lemma": "muddy",
+          "surface": "muddying"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "局势",
+          "lemma": "water",
+          "surface": "waters"
+        },
+        {
+          "gloss": "当",
+          "lemma": "when",
+          "surface": "when"
+        },
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "it"
+        },
+        {
+          "gloss": "涉及",
+          "lemma": "come",
+          "surface": "comes"
+        },
+        {
+          "gloss": "到",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "确定",
+          "lemma": "determine",
+          "surface": "determining"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "目标",
+          "lemma": "goal",
+          "surface": "goals"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "科学",
+          "lemma": "science",
+          "surface": "science"
+        },
+        {
+          "gloss": "教育",
+          "lemma": "education",
+          "surface": "education"
+        }
+      ]
+    },
+    {
+      "cn_text": "这令人遗憾，因为科学素养这一理念在1945年最初提出时确有许多可取之处，彼时科学似乎是进步的关键，科学家似乎将世界的命运掌握在手中。",
+      "en_text": "And that’s a shame, because there is much to recommend in the idea of scientific literacy as it was originally articulated in 1945, a time when science appeared to be the key to progress and scientists seemingly held the fate of the world in their hands.",
+      "id": 2026013236,
+      "order_seq": "content_2_2",
+      "task_id": 202601007,
+      "tokens": [
+        {
+          "gloss": "并且",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "那是",
+          "lemma": "that is",
+          "surface": "that’s"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "遗憾",
+          "lemma": "shame",
+          "surface": "shame"
+        },
+        {
+          "gloss": "因为",
+          "lemma": "because",
+          "surface": "because"
+        },
+        {
+          "gloss": "有",
+          "lemma": "there",
+          "surface": "there"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "许多",
+          "lemma": "much",
+          "surface": "much"
+        },
+        {
+          "gloss": "值得",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "称道",
+          "lemma": "recommend",
+          "surface": "recommend"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "理念",
+          "lemma": "idea",
+          "surface": "idea"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "科学的",
+          "lemma": "scientific",
+          "surface": "scientific"
+        },
+        {
+          "gloss": "素养",
+          "lemma": "literacy",
+          "surface": "literacy"
+        },
+        {
+          "gloss": "正如",
+          "lemma": "as",
+          "surface": "as"
+        },
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "it"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "was"
+        },
+        {
+          "gloss": "最初",
+          "lemma": "originally",
+          "surface": "originally"
+        },
+        {
+          "gloss": "提出",
+          "lemma": "articulate",
+          "surface": "articulated"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "时间",
+          "lemma": "time",
+          "surface": "time"
+        },
+        {
+          "gloss": "当",
+          "lemma": "when",
+          "surface": "when"
+        },
+        {
+          "gloss": "科学",
+          "lemma": "science",
+          "surface": "science"
+        },
+        {
+          "gloss": "显得",
+          "lemma": "appear",
+          "surface": "appeared"
+        },
+        {
+          "gloss": "是",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "be"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "关键",
+          "lemma": "key",
+          "surface": "key"
+        },
+        {
+          "gloss": "对于",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "进步",
+          "lemma": "progress",
+          "surface": "progress"
+        },
+        {
+          "gloss": "并且",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "科学家",
+          "lemma": "scientist",
+          "surface": "scientists"
+        },
+        {
+          "gloss": "似乎",
+          "lemma": "seemingly",
+          "surface": "seemingly"
+        },
+        {
+          "gloss": "掌握",
+          "lemma": "hold",
+          "surface": "held"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "命运",
+          "lemma": "fate",
+          "surface": "fate"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "世界",
+          "lemma": "world",
+          "surface": "world"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "他们的",
+          "lemma": "their",
+          "surface": "their"
+        },
+        {
+          "gloss": "手中",
+          "lemma": "hand",
+          "surface": "hands"
+        }
+      ]
+    },
+    {
+      "cn_text": "回归那个版本的科学素养——更注重教授科学的本质及其运作方式,而非记忆科学事实——似乎正是当今社会迫切需要的。",
+      "en_text": "A return to that version of scientific literacy, which focused more on teaching what science is and how it works and less on memorizing scientific facts, seems like something society today desperately needs.",
+      "id": 2026013237,
+      "order_seq": "content_2_3",
+      "task_id": 202601007,
+      "tokens": [
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "A"
+        },
+        {
+          "gloss": "回归",
+          "lemma": "return",
+          "surface": "return"
+        },
+        {
+          "gloss": "到",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "那个",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "版本",
+          "lemma": "version",
+          "surface": "version"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "科学的",
+          "lemma": "scientific",
+          "surface": "scientific"
+        },
+        {
+          "gloss": "素养",
+          "lemma": "literacy",
+          "surface": "literacy"
+        },
+        {
+          "gloss": "其",
+          "lemma": "which",
+          "surface": "which"
+        },
+        {
+          "gloss": "集中",
+          "lemma": "focus",
+          "surface": "focused"
+        },
+        {
+          "gloss": "更多",
+          "lemma": "more",
+          "surface": "more"
+        },
+        {
+          "gloss": "在",
+          "lemma": "on",
+          "surface": "on"
+        },
+        {
+          "gloss": "教授",
+          "lemma": "teach",
+          "surface": "teaching"
+        },
+        {
+          "gloss": "什么",
+          "lemma": "what",
+          "surface": "what"
+        },
+        {
+          "gloss": "科学",
+          "lemma": "science",
+          "surface": "science"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "如何",
+          "lemma": "how",
+          "surface": "how"
+        },
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "it"
+        },
+        {
+          "gloss": "运作",
+          "lemma": "work",
+          "surface": "works"
+        },
+        {
+          "gloss": "以及",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "较少",
+          "lemma": "less",
+          "surface": "less"
+        },
+        {
+          "gloss": "在",
+          "lemma": "on",
+          "surface": "on"
+        },
+        {
+          "gloss": "记忆",
+          "lemma": "memorize",
+          "surface": "memorizing"
+        },
+        {
+          "gloss": "科学的",
+          "lemma": "scientific",
+          "surface": "scientific"
+        },
+        {
+          "gloss": "事实",
+          "lemma": "fact",
+          "surface": "facts"
+        },
+        {
+          "gloss": "似乎",
+          "lemma": "seem",
+          "surface": "seems"
+        },
+        {
+          "gloss": "像",
+          "lemma": "like",
+          "surface": "like"
+        },
+        {
+          "gloss": "某事",
+          "lemma": "something",
+          "surface": "something"
+        },
+        {
+          "gloss": "社会",
+          "lemma": "society",
+          "surface": "society"
+        },
+        {
+          "gloss": "今天",
+          "lemma": "today",
+          "surface": "today"
+        },
+        {
+          "gloss": "迫切地",
+          "lemma": "desperately",
+          "surface": "desperately"
+        },
+        {
+          "gloss": "需要",
+          "lemma": "need",
+          "surface": "needs"
+        }
+      ]
+    },
+    {
+      "cn_text": "在美国,为公众提供普遍性、非技术性科学教育的愿望早在19世纪末便已产生。",
+      "en_text": "In the United States, the desire to provide the public with a general, nontechnical education in science originated as far back as the late 1800s.",
+      "id": 2026013238,
+      "order_seq": "content_3_1",
+      "task_id": 202601007,
+      "tokens": [
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "In"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "联合的",
+          "lemma": "united",
+          "surface": "United"
+        },
+        {
+          "gloss": "美国",
+          "lemma": "states",
+          "surface": "States"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "愿望",
+          "lemma": "desire",
+          "surface": "desire"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "提供",
+          "lemma": "provide",
+          "surface": "provide"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "公众",
+          "lemma": "public",
+          "surface": "public"
+        },
+        {
+          "gloss": "用",
+          "lemma": "with",
+          "surface": "with"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "普遍的",
+          "lemma": "general",
+          "surface": "general"
+        },
+        {
+          "gloss": "非技术性的",
+          "lemma": "nontechnical",
+          "surface": "nontechnical"
+        },
+        {
+          "gloss": "教育",
+          "lemma": "education",
+          "surface": "education"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "科学",
+          "lemma": "science",
+          "surface": "science"
+        },
+        {
+          "gloss": "起源",
+          "lemma": "originate",
+          "surface": "originated"
+        },
+        {
+          "gloss": "作为",
+          "lemma": "as",
+          "surface": "as"
+        },
+        {
+          "gloss": "远",
+          "lemma": "far",
+          "surface": "far"
+        },
+        {
+          "gloss": "回溯",
+          "lemma": "back",
+          "surface": "back"
+        },
+        {
+          "gloss": "如同",
+          "lemma": "as",
+          "surface": "as"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "晚期的",
+          "lemma": "late",
+          "surface": "late"
+        },
+        {
+          "gloss": "19世纪",
+          "lemma": "1800s",
+          "surface": "1800s"
+        }
+      ]
+    },
+    {
+      "cn_text": "教育工作者提出让学生在高中完成详细实验室练习的主张,认为这类工作的主要益处在于增强逻辑推理和观察能力。",
+      "en_text": "Educators advanced the idea of having students complete detailed laboratory exercises in high schools in the belief that such work was beneficial primarily as a way to enhance logical reasoning and observational skills.",
+      "id": 2026013239,
+      "order_seq": "content_3_2",
+      "task_id": 202601007,
+      "tokens": [
+        {
+          "gloss": "教育工作者",
+          "lemma": "educator",
+          "surface": "educators"
+        },
+        {
+          "gloss": "提出",
+          "lemma": "advance",
+          "surface": "advanced"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "想法",
+          "lemma": "idea",
+          "surface": "idea"
+        },
+        {
+          "gloss": "关于",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "让",
+          "lemma": "have",
+          "surface": "having"
+        },
+        {
+          "gloss": "学生",
+          "lemma": "student",
+          "surface": "students"
+        },
+        {
+          "gloss": "完成",
+          "lemma": "complete",
+          "surface": "complete"
+        },
+        {
+          "gloss": "详细的",
+          "lemma": "detailed",
+          "surface": "detailed"
+        },
+        {
+          "gloss": "实验室",
+          "lemma": "laboratory",
+          "surface": "laboratory"
+        },
+        {
+          "gloss": "练习",
+          "lemma": "exercise",
+          "surface": "exercises"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "高的",
+          "lemma": "high",
+          "surface": "high"
+        },
+        {
+          "gloss": "学校",
+          "lemma": "school",
+          "surface": "schools"
+        },
+        {
+          "gloss": "基于",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "信念",
+          "lemma": "belief",
+          "surface": "belief"
+        },
+        {
+          "gloss": "认为",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "这种",
+          "lemma": "such",
+          "surface": "such"
+        },
+        {
+          "gloss": "工作",
+          "lemma": "work",
+          "surface": "work"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "was"
+        },
+        {
+          "gloss": "有益的",
+          "lemma": "beneficial",
+          "surface": "beneficial"
+        },
+        {
+          "gloss": "主要地",
+          "lemma": "primarily",
+          "surface": "primarily"
+        },
+        {
+          "gloss": "作为",
+          "lemma": "as",
+          "surface": "as"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "方式",
+          "lemma": "way",
+          "surface": "way"
+        },
+        {
+          "gloss": "以",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "增强",
+          "lemma": "enhance",
+          "surface": "enhance"
+        },
+        {
+          "gloss": "逻辑的",
+          "lemma": "logical",
+          "surface": "logical"
+        },
+        {
+          "gloss": "推理",
+          "lemma": "reasoning",
+          "surface": "reasoning"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "观察的",
+          "lemma": "observational",
+          "surface": "observational"
+        },
+        {
+          "gloss": "能力",
+          "lemma": "skill",
+          "surface": "skills"
+        }
+      ]
+    },
+    {
+      "cn_text": "1915年开设的热门新科目「普通科学」是另一项努力,旨在训练学生将科学原理应用于日常非科学问题。",
+      "en_text": "The development in 1915 of the popular new subject “general science” was another effort to train students to apply the principles of science to everyday, nonscience problems.",
+      "id": 2026013240,
+      "order_seq": "content_3_3",
+      "task_id": 202601007,
+      "tokens": [
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "The"
+        },
+        {
+          "gloss": "开发",
+          "lemma": "development",
+          "surface": "development"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "流行的",
+          "lemma": "popular",
+          "surface": "popular"
+        },
+        {
+          "gloss": "新的",
+          "lemma": "new",
+          "surface": "new"
+        },
+        {
+          "gloss": "课程",
+          "lemma": "subject",
+          "surface": "subject"
+        },
+        {
+          "gloss": "普通的",
+          "lemma": "general",
+          "surface": "general"
+        },
+        {
+          "gloss": "科学",
+          "lemma": "science",
+          "surface": "science"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "was"
+        },
+        {
+          "gloss": "另一种",
+          "lemma": "another",
+          "surface": "another"
+        },
+        {
+          "gloss": "努力",
+          "lemma": "effort",
+          "surface": "effort"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "训练",
+          "lemma": "train",
+          "surface": "train"
+        },
+        {
+          "gloss": "学生",
+          "lemma": "student",
+          "surface": "students"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "应用",
+          "lemma": "apply",
+          "surface": "apply"
+        },
+        {
+          "gloss": "这些",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "原理",
+          "lemma": "principle",
+          "surface": "principles"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "科学",
+          "lemma": "science",
+          "surface": "science"
+        },
+        {
+          "gloss": "到",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "日常的",
+          "lemma": "everyday",
+          "surface": "everyday"
+        },
+        {
+          "gloss": "非科学",
+          "lemma": "nonscience",
+          "surface": "nonscience"
+        },
+        {
+          "gloss": "问题",
+          "lemma": "problem",
+          "surface": "problems"
+        }
+      ]
+    },
+    {
+      "cn_text": "尽管这些努力面向非理工科学生,但它们从未真正进入主流思想和公共话语,未能成为号召广泛支持学校科学教学重要性的手段。",
+      "en_text": "Although these efforts were aimed at the nonscience-bound student, they never really made their way into mainstream thought and public discourse as a means to rally widespread support for the importance of science teaching in schools.",
+      "id": 2026013241,
+      "order_seq": "content_4_1",
+      "task_id": 202601007,
+      "tokens": [
+        {
+          "gloss": "尽管",
+          "lemma": "although",
+          "surface": "although"
+        },
+        {
+          "gloss": "这些",
+          "lemma": "these",
+          "surface": "these"
+        },
+        {
+          "gloss": "努力",
+          "lemma": "effort",
+          "surface": "efforts"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "were"
+        },
+        {
+          "gloss": "针对",
+          "lemma": "aim",
+          "surface": "aimed"
+        },
+        {
+          "gloss": "针对",
+          "lemma": "at",
+          "surface": "at"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "非科学",
+          "lemma": "nonscience",
+          "surface": "nonscience"
+        },
+        {
+          "gloss": "受限的",
+          "lemma": "bound",
+          "surface": "bound"
+        },
+        {
+          "gloss": "学生",
+          "lemma": "student",
+          "surface": "student"
+        },
+        {
+          "gloss": "它们",
+          "lemma": "they",
+          "surface": "they"
+        },
+        {
+          "gloss": "从未",
+          "lemma": "never",
+          "surface": "never"
+        },
+        {
+          "gloss": "真正",
+          "lemma": "really",
+          "surface": "really"
+        },
+        {
+          "gloss": "进入",
+          "lemma": "make",
+          "surface": "made"
+        },
+        {
+          "gloss": "它们的",
+          "lemma": "their",
+          "surface": "their"
+        },
+        {
+          "gloss": "路径",
+          "lemma": "way",
+          "surface": "way"
+        },
+        {
+          "gloss": "进入",
+          "lemma": "into",
+          "surface": "into"
+        },
+        {
+          "gloss": "主流",
+          "lemma": "mainstream",
+          "surface": "mainstream"
+        },
+        {
+          "gloss": "思想",
+          "lemma": "thought",
+          "surface": "thought"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "公众的",
+          "lemma": "public",
+          "surface": "public"
+        },
+        {
+          "gloss": "话语",
+          "lemma": "discourse",
+          "surface": "discourse"
+        },
+        {
+          "gloss": "作为",
+          "lemma": "as",
+          "surface": "as"
+        },
+        {
+          "gloss": "一种",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "手段",
+          "lemma": "means",
+          "surface": "means"
+        },
+        {
+          "gloss": "为了",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "号召",
+          "lemma": "rally",
+          "surface": "rally"
+        },
+        {
+          "gloss": "广泛的",
+          "lemma": "widespread",
+          "surface": "widespread"
+        },
+        {
+          "gloss": "支持",
+          "lemma": "support",
+          "surface": "support"
+        },
+        {
+          "gloss": "对",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "重要性",
+          "lemma": "importance",
+          "surface": "importance"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "科学",
+          "lemma": "science",
+          "surface": "science"
+        },
+        {
+          "gloss": "教学",
+          "lemma": "teaching",
+          "surface": "teaching"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "学校",
+          "lemma": "school",
+          "surface": "schools"
+        }
+      ]
+    },
+    {
+      "cn_text": "直到20世纪40年代「科学素养」这一短语出现,科学才拥有了吸引公众注意所需的有力口号,并使改善科学教育成为重要的国家目标。",
+      "en_text": "It wasn’t until the phrase “scientific literacy” came along in the 1940s that science had the formidable slogan it needed to command public attention and make improving science education an important national goal.",
+      "id": 2026013242,
+      "order_seq": "content_4_2",
+      "task_id": 202601007,
+      "tokens": [
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "it"
+        },
+        {
+          "gloss": "不是",
+          "lemma": "be",
+          "surface": "wasn’t"
+        },
+        {
+          "gloss": "直到",
+          "lemma": "until",
+          "surface": "until"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "短语",
+          "lemma": "phrase",
+          "surface": "phrase"
+        },
+        {
+          "gloss": "科学的",
+          "lemma": "scientific",
+          "surface": "scientific"
+        },
+        {
+          "gloss": "素养",
+          "lemma": "literacy",
+          "surface": "literacy"
+        },
+        {
+          "gloss": "出现",
+          "lemma": "come",
+          "surface": "came"
+        },
+        {
+          "gloss": "出现",
+          "lemma": "along",
+          "surface": "along"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "20世纪40年代",
+          "lemma": "1940s",
+          "surface": "1940s"
+        },
+        {
+          "gloss": "这",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "科学",
+          "lemma": "science",
+          "surface": "science"
+        },
+        {
+          "gloss": "拥有",
+          "lemma": "have",
+          "surface": "had"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "强有力的",
+          "lemma": "formidable",
+          "surface": "formidable"
+        },
+        {
+          "gloss": "口号",
+          "lemma": "slogan",
+          "surface": "slogan"
+        },
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "it"
+        },
+        {
+          "gloss": "需要",
+          "lemma": "need",
+          "surface": "needed"
+        },
+        {
+          "gloss": "为了",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "吸引",
+          "lemma": "command",
+          "surface": "command"
+        },
+        {
+          "gloss": "公众的",
+          "lemma": "public",
+          "surface": "public"
+        },
+        {
+          "gloss": "注意力",
+          "lemma": "attention",
+          "surface": "attention"
+        },
+        {
+          "gloss": "并且",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "使",
+          "lemma": "make",
+          "surface": "make"
+        },
+        {
+          "gloss": "改善",
+          "lemma": "improve",
+          "surface": "improving"
+        },
+        {
+          "gloss": "科学",
+          "lemma": "science",
+          "surface": "science"
+        },
+        {
+          "gloss": "教育",
+          "lemma": "education",
+          "surface": "education"
+        },
+        {
+          "gloss": "一项",
+          "lemma": "an",
+          "surface": "an"
+        },
+        {
+          "gloss": "重要的",
+          "lemma": "important",
+          "surface": "important"
+        },
+        {
+          "gloss": "国家的",
+          "lemma": "national",
+          "surface": "national"
+        },
+        {
+          "gloss": "目标",
+          "lemma": "goal",
+          "surface": "goal"
+        }
+      ]
+    },
+    {
+      "cn_text": "美国对科学素养的高度关注最初源于科学技术在第二次世界大战中的关键作用,以及对美国士兵能力不足的认知。",
+      "en_text": "The intense focus on scientific literacy in the United States originally grew out of the critical role of science and technology during World War II, as well as the perceived deficiencies of American soldiers.",
+      "id": 2026013243,
+      "order_seq": "content_5_1",
+      "task_id": 202601007,
+      "tokens": [
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "The"
+        },
+        {
+          "gloss": "强烈的",
+          "lemma": "intense",
+          "surface": "intense"
+        },
+        {
+          "gloss": "关注",
+          "lemma": "focus",
+          "surface": "focus"
+        },
+        {
+          "gloss": "关于",
+          "lemma": "on",
+          "surface": "on"
+        },
+        {
+          "gloss": "科学的",
+          "lemma": "scientific",
+          "surface": "scientific"
+        },
+        {
+          "gloss": "素养",
+          "lemma": "literacy",
+          "surface": "literacy"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "联合的",
+          "lemma": "united",
+          "surface": "United"
+        },
+        {
+          "gloss": "美国",
+          "lemma": "states",
+          "surface": "States"
+        },
+        {
+          "gloss": "最初",
+          "lemma": "originally",
+          "surface": "originally"
+        },
+        {
+          "gloss": "发展",
+          "lemma": "grow",
+          "surface": "grew"
+        },
+        {
+          "gloss": "来自",
+          "lemma": "out",
+          "surface": "out"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "关键的",
+          "lemma": "critical",
+          "surface": "critical"
+        },
+        {
+          "gloss": "角色",
+          "lemma": "role",
+          "surface": "role"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "科学",
+          "lemma": "science",
+          "surface": "science"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "技术",
+          "lemma": "technology",
+          "surface": "technology"
+        },
+        {
+          "gloss": "在...期间",
+          "lemma": "during",
+          "surface": "during"
+        },
+        {
+          "gloss": "世界",
+          "lemma": "world",
+          "surface": "World"
+        },
+        {
+          "gloss": "战争",
+          "lemma": "war",
+          "surface": "War"
+        },
+        {
+          "gloss": "二",
+          "lemma": "ii",
+          "surface": "II"
+        },
+        {
+          "gloss": "以及",
+          "lemma": "as",
+          "surface": "as"
+        },
+        {
+          "gloss": "也",
+          "lemma": "well",
+          "surface": "well"
+        },
+        {
+          "gloss": "像",
+          "lemma": "as",
+          "surface": "as"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "感知到的",
+          "lemma": "perceive",
+          "surface": "perceived"
+        },
+        {
+          "gloss": "不足",
+          "lemma": "deficiency",
+          "surface": "deficiencies"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "美国的",
+          "lemma": "american",
+          "surface": "American"
+        },
+        {
+          "gloss": "士兵",
+          "lemma": "soldier",
+          "surface": "soldiers"
+        }
+      ]
+    },
+    {
+      "cn_text": "随着战争的展开,科学迅速发挥起核心作用。",
+      "en_text": "As the war unfolded, science rapidly assumed a central role.",
+      "id": 2026013244,
+      "order_seq": "content_5_2",
+      "task_id": 202601007,
+      "tokens": [
+        {
+          "gloss": "随着",
+          "lemma": "as",
+          "surface": "as"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "战争",
+          "lemma": "war",
+          "surface": "war"
+        },
+        {
+          "gloss": "展开",
+          "lemma": "unfold",
+          "surface": "unfolded"
+        },
+        {
+          "gloss": "科学",
+          "lemma": "science",
+          "surface": "science"
+        },
+        {
+          "gloss": "迅速地",
+          "lemma": "rapidly",
+          "surface": "rapidly"
+        },
+        {
+          "gloss": "承担",
+          "lemma": "assume",
+          "surface": "assumed"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "核心的",
+          "lemma": "central",
+          "surface": "central"
+        },
+        {
+          "gloss": "角色",
+          "lemma": "role",
+          "surface": "role"
+        }
+      ]
+    },
+    {
+      "cn_text": "战斗越来越依赖雷达和近炸引信等新型军事技术。",
+      "en_text": "Battles increasingly depended on new military technologies such as radar and the proximity fuze.",
+      "id": 2026013245,
+      "order_seq": "content_5_3",
+      "task_id": 202601007,
+      "tokens": [
+        {
+          "gloss": "战斗",
+          "lemma": "battle",
+          "surface": "Battles"
+        },
+        {
+          "gloss": "越来越",
+          "lemma": "increasingly",
+          "surface": "increasingly"
+        },
+        {
+          "gloss": "依赖",
+          "lemma": "depend",
+          "surface": "depended"
+        },
+        {
+          "gloss": "在……上",
+          "lemma": "on",
+          "surface": "on"
+        },
+        {
+          "gloss": "新的",
+          "lemma": "new",
+          "surface": "new"
+        },
+        {
+          "gloss": "军事的",
+          "lemma": "military",
+          "surface": "military"
+        },
+        {
+          "gloss": "技术",
+          "lemma": "technology",
+          "surface": "technologies"
+        },
+        {
+          "gloss": "这样的",
+          "lemma": "such",
+          "surface": "such"
+        },
+        {
+          "gloss": "如同",
+          "lemma": "as",
+          "surface": "as"
+        },
+        {
+          "gloss": "雷达",
+          "lemma": "radar",
+          "surface": "radar"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "接近",
+          "lemma": "proximity",
+          "surface": "proximity"
+        },
+        {
+          "gloss": "引信",
+          "lemma": "fuze",
+          "surface": "fuze"
+        }
+      ]
+    },
+    {
+      "cn_text": "基于科学的分析方法在大西洋搜寻德国潜艇行动中取得了显著成效。",
+      "en_text": "Sciencebased analytical approaches proved remarkably successful in the hunt for German submarines in the Atlantic Ocean.",
+      "id": 2026013246,
+      "order_seq": "content_5_4",
+      "task_id": 202601007,
+      "tokens": [
+        {
+          "gloss": "基于科学的",
+          "lemma": "sciencebased",
+          "surface": "Sciencebased"
+        },
+        {
+          "gloss": "分析的",
+          "lemma": "analytical",
+          "surface": "analytical"
+        },
+        {
+          "gloss": "方法",
+          "lemma": "approach",
+          "surface": "approaches"
+        },
+        {
+          "gloss": "证明",
+          "lemma": "prove",
+          "surface": "proved"
+        },
+        {
+          "gloss": "非凡地",
+          "lemma": "remarkably",
+          "surface": "remarkably"
+        },
+        {
+          "gloss": "成功的",
+          "lemma": "successful",
+          "surface": "successful"
+        },
+        {
+          "gloss": "在……中",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "搜寻",
+          "lemma": "hunt",
+          "surface": "hunt"
+        },
+        {
+          "gloss": "为了",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "德国的",
+          "lemma": "german",
+          "surface": "German"
+        },
+        {
+          "gloss": "潜艇",
+          "lemma": "submarine",
+          "surface": "submarines"
+        },
+        {
+          "gloss": "在……中",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "大西洋",
+          "lemma": "atlantic",
+          "surface": "Atlantic"
+        },
+        {
+          "gloss": "海洋",
+          "lemma": "ocean",
+          "surface": "Ocean"
+        }
+      ]
+    },
+    {
+      "cn_text": "还有建造世界首颗原子弹的工作(当时属于机密)。",
+      "en_text": "And there was the (then-secret) work building the world’s first atomic bomb.",
+      "id": 2026013247,
+      "order_seq": "content_5_5",
+      "task_id": 202601007,
+      "tokens": [
+        {
+          "gloss": "还有",
+          "lemma": "and",
+          "surface": "And"
+        },
+        {
+          "gloss": "有",
+          "lemma": "there",
+          "surface": "there"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "was"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "当时",
+          "lemma": "then",
+          "surface": "then"
+        },
+        {
+          "gloss": "秘密的",
+          "lemma": "secret",
+          "surface": "secret"
+        },
+        {
+          "gloss": "工作",
+          "lemma": "work",
+          "surface": "work"
+        },
+        {
+          "gloss": "建造",
+          "lemma": "build",
+          "surface": "building"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "世界的",
+          "lemma": "world",
+          "surface": "world’s"
+        },
+        {
+          "gloss": "第一的",
+          "lemma": "first",
+          "surface": "first"
+        },
+        {
+          "gloss": "原子的",
+          "lemma": "atomic",
+          "surface": "atomic"
+        },
+        {
+          "gloss": "炸弹",
+          "lemma": "bomb",
+          "surface": "bomb"
+        }
+      ]
+    },
+    {
+      "cn_text": "因此,科学家——尤其是物理学家——需求量大增。",
+      "en_text": "As a result, scientists — physicists in particular — found themselves in high demand.",
+      "id": 2026013248,
+      "order_seq": "content_5_6",
+      "task_id": 202601007,
+      "tokens": [
+        {
+          "gloss": "因此",
+          "lemma": "as",
+          "surface": "As"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "结果",
+          "lemma": "result",
+          "surface": "result"
+        },
+        {
+          "gloss": "科学家",
+          "lemma": "scientist",
+          "surface": "scientists"
+        },
+        {
+          "gloss": "物理学家",
+          "lemma": "physicist",
+          "surface": "physicists"
+        },
+        {
+          "gloss": "在……中",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "尤其",
+          "lemma": "particular",
+          "surface": "particular"
+        },
+        {
+          "gloss": "发现",
+          "lemma": "find",
+          "surface": "found"
+        },
+        {
+          "gloss": "他们自己",
+          "lemma": "themselves",
+          "surface": "themselves"
+        },
+        {
+          "gloss": "在……中",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "高的",
+          "lemma": "high",
+          "surface": "high"
+        },
+        {
+          "gloss": "需求",
+          "lemma": "demand",
+          "surface": "demand"
+        }
+      ]
+    }
+  ],
+  "success": true
+}

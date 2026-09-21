@@ -1,0 +1,1795 @@
+{
+  "tasks": [
+    {
+      "content_json": {
+        "1": {
+          "A": "coined",
+          "B": "discovered",
+          "C": "collected",
+          "D": "issued",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "coin",
+                "surface": "coined"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "discover",
+                "surface": "discovered"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "collect",
+                "surface": "collected"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "issue",
+                "surface": "issued"
+              }
+            ]
+          },
+          "replace": {
+            "end": 131,
+            "start": 125
+          },
+          "sentence_id": 2022013001
+        },
+        "2": {
+          "A": "attributed",
+          "B": "directed",
+          "C": "compared",
+          "D": "confined",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "attribute",
+                "surface": "attributed"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "direct",
+                "surface": "directed"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "compare",
+                "surface": "compared"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "confine",
+                "surface": "confined"
+              }
+            ]
+          },
+          "replace": {
+            "end": 203,
+            "start": 195
+          },
+          "sentence_id": 2022013001
+        },
+        "3": {
+          "A": "Unless",
+          "B": "When",
+          "C": "Once",
+          "D": "Though",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "unless",
+                "surface": "Unless"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "when",
+                "surface": "When"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "once",
+                "surface": "Once"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "though",
+                "surface": "Though"
+              }
+            ]
+          },
+          "replace": {
+            "end": 6,
+            "start": 0
+          },
+          "sentence_id": 2022013002
+        },
+        "4": {
+          "A": "coped with",
+          "B": "consisted of",
+          "C": "hinted at",
+          "D": "extended to",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "cope",
+                "surface": "coped"
+              },
+              {
+                "lemma": "with",
+                "surface": "with"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "consist",
+                "surface": "consisted"
+              },
+              {
+                "lemma": "of",
+                "surface": "of"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "hint",
+                "surface": "hinted"
+              },
+              {
+                "lemma": "at",
+                "surface": "at"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "extend",
+                "surface": "extended"
+              },
+              {
+                "lemma": "to",
+                "surface": "to"
+              }
+            ]
+          },
+          "replace": {
+            "end": 132,
+            "start": 123
+          },
+          "sentence_id": 2022013002
+        },
+        "5": {
+          "A": "suffers",
+          "B": "benefits",
+          "C": "develops",
+          "D": "differs",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "suffer",
+                "surface": "suffers"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "benefit",
+                "surface": "benefits"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "develop",
+                "surface": "develops"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "differ",
+                "surface": "differs"
+              }
+            ]
+          },
+          "replace": {
+            "end": 56,
+            "start": 49
+          },
+          "sentence_id": 2022013004
+        },
+        "6": {
+          "A": "acceptance",
+          "B": "evidence",
+          "C": "cultivation",
+          "D": "creation",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "acceptance",
+                "surface": "acceptance"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "evidence",
+                "surface": "evidence"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "cultivation",
+                "surface": "cultivation"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "creation",
+                "surface": "creation"
+              }
+            ]
+          },
+          "replace": {
+            "end": 112,
+            "start": 104
+          },
+          "sentence_id": 2022013004
+        },
+        "7": {
+          "A": "doubted",
+          "B": "denied",
+          "C": "argued",
+          "D": "requested",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "doubt",
+                "surface": "doubted"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "deny",
+                "surface": "denied"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "argue",
+                "surface": "argued"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "request",
+                "surface": "requested"
+              }
+            ]
+          },
+          "replace": {
+            "end": 46,
+            "start": 40
+          },
+          "sentence_id": 2022013005
+        },
+        "8": {
+          "A": "adapting",
+          "B": "forming",
+          "C": "repairing",
+          "D": "testing",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "adapt",
+                "surface": "adapting"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "form",
+                "surface": "forming"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "repair",
+                "surface": "repairing"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "test",
+                "surface": "testing"
+              }
+            ]
+          },
+          "replace": {
+            "end": 143,
+            "start": 136
+          },
+          "sentence_id": 2022013005
+        },
+        "9": {
+          "A": "analogous",
+          "B": "essential",
+          "C": "suitable",
+          "D": "sensitive",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "analogous",
+                "surface": "analogous"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "essential",
+                "surface": "essential"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "suitable",
+                "surface": "suitable"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "sensitive",
+                "surface": "sensitive"
+              }
+            ]
+          },
+          "replace": {
+            "end": 178,
+            "start": 169
+          },
+          "sentence_id": 2022013005
+        },
+        "10": {
+          "A": "just",
+          "B": "ever",
+          "C": "still",
+          "D": "even",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "just",
+                "surface": "just"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "ever",
+                "surface": "ever"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "still",
+                "surface": "still"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "even",
+                "surface": "even"
+              }
+            ]
+          },
+          "replace": {
+            "end": 247,
+            "start": 243
+          },
+          "sentence_id": 2022013005
+        },
+        "11": {
+          "A": "restriction",
+          "B": "experiment",
+          "C": "perspective",
+          "D": "demand",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "restriction",
+                "surface": "restriction"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "experiment",
+                "surface": "experiment"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "perspective",
+                "surface": "perspective"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "demand",
+                "surface": "demand"
+              }
+            ]
+          },
+          "replace": {
+            "end": 16,
+            "start": 5
+          },
+          "sentence_id": 2022013006
+        },
+        "12": {
+          "A": "attaching",
+          "B": "reducing",
+          "C": "returning",
+          "D": "exposing",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "attach",
+                "surface": "attaching"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "reduce",
+                "surface": "reducing"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "return",
+                "surface": "returning"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "expose",
+                "surface": "exposing"
+              }
+            ]
+          },
+          "replace": {
+            "end": 86,
+            "start": 78
+          },
+          "sentence_id": 2022013006
+        },
+        "13": {
+          "A": "However",
+          "B": "Moreover",
+          "C": "Therefore",
+          "D": "Otherwise",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "however",
+                "surface": "However"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "moreover",
+                "surface": "Moreover"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "therefore",
+                "surface": "Therefore"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "otherwise",
+                "surface": "Otherwise"
+              }
+            ]
+          },
+          "replace": {
+            "end": 7,
+            "start": 0
+          },
+          "sentence_id": 2022013007
+        },
+        "14": {
+          "A": "temporarily",
+          "B": "literally",
+          "C": "superficially",
+          "D": "imaginarily",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "temporary",
+                "surface": "temporarily"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "literal",
+                "surface": "literally"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "superficially",
+                "surface": "superficially"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "imaginarily",
+                "surface": "imaginarily"
+              }
+            ]
+          },
+          "replace": {
+            "end": 55,
+            "start": 42
+          },
+          "sentence_id": 2022013007
+        },
+        "15": {
+          "A": "list",
+          "B": "level",
+          "C": "label",
+          "D": "local",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "list",
+                "surface": "list"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "level",
+                "surface": "level"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "label",
+                "surface": "label"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "local",
+                "surface": "local"
+              }
+            ]
+          },
+          "replace": {
+            "end": 60,
+            "start": 55
+          },
+          "sentence_id": 2022013008
+        },
+        "16": {
+          "A": "recalled",
+          "B": "agreed",
+          "C": "questioned",
+          "D": "added",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "recall",
+                "surface": "recalled"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "agree",
+                "surface": "agreed"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "question",
+                "surface": "questioned"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "add",
+                "surface": "added"
+              }
+            ]
+          },
+          "replace": {
+            "end": 110,
+            "start": 105
+          },
+          "sentence_id": 2022013008
+        },
+        "17": {
+          "A": "chances",
+          "B": "risks",
+          "C": "excuses",
+          "D": "assumptions",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "chance",
+                "surface": "chances"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "risk",
+                "surface": "risks"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "excuse",
+                "surface": "excuses"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "assumption",
+                "surface": "assumptions"
+              }
+            ]
+          },
+          "replace": {
+            "end": 53,
+            "start": 46
+          },
+          "sentence_id": 2022013009
+        },
+        "18": {
+          "A": "danger",
+          "B": "failure",
+          "C": "warning",
+          "D": "control",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "danger",
+                "surface": "danger"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "failure",
+                "surface": "failure"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "warn",
+                "surface": "warning"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "control",
+                "surface": "control"
+              }
+            ]
+          },
+          "replace": {
+            "end": 33,
+            "start": 27
+          },
+          "sentence_id": 2022013011
+        },
+        "19": {
+          "A": "represents",
+          "B": "includes",
+          "C": "reveals",
+          "D": "recognizes",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "represent",
+                "surface": "represents"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "include",
+                "surface": "includes"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "reveal",
+                "surface": "reveals"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "recognize",
+                "surface": "recognizes"
+              }
+            ]
+          },
+          "replace": {
+            "end": 88,
+            "start": 78
+          },
+          "sentence_id": 2022013011
+        },
+        "20": {
+          "A": "humble",
+          "B": "poor",
+          "C": "practical",
+          "D": "easy",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "humble",
+                "surface": "humble"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "poor",
+                "surface": "poor"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "practical",
+                "surface": "practical"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "easy",
+                "surface": "easy"
+              }
+            ]
+          },
+          "replace": {
+            "end": 136,
+            "start": 132
+          },
+          "sentence_id": 2022013011
+        },
+        "article": "The idea that plants have some degree of consciousness first took root in the early 2000s; the term “plant neurobiology” was coined around the notion that some aspects of plant behavior could be compared to intelligence in animals.\nThough plants lack brains, the firing of electrical signals in their stems and leaves nonetheless triggered responses that hinted at consciousness, researchers previously reported.\nBut such an idea is untrue, according to a new opinion article.\nPlant biology is complex and fascinating, but it differs so greatly from that of animals that so-called evidence of plants’ intelligence is inconclusive, the authors wrote.\nBeginning in 2006, some scientists have argued that plants possess neuron-like cells that interact with hormones and neurotransmitters, forming “a plant nervous system, analogous to that in animals,” said lead study author Lincoln Taiz, “They even claimed that plants have ‘brain-like command centers’ at their root tips.”\nThis perspective makes sense if you simplify the workings of a complex brain, reducing it to an array of electrical pulses; cells in plants also communicate through electrical signals.\nHowever, the signaling in a plant is only superficially similar to the firing in a complex animal brain, which is more than “a mass of cells that communicate by electricity,” Taiz said.\n“For consciousness to evolve, a brain with a threshold level of complexity and capacity is required,” he added.\n“Since plants don’t have nervous systems, the chances that they have consciousness are effectively zero.”\nAnd what’s so great about consciousness, anyway?\nPlants can’t run away from danger, so investing energy in a body system which recognizes a threat and can feel pain would be a very poor evolutionary strategy, according to the article.",
+        "blanks": [
+          {
+            "blank_no": 1,
+            "replace": {
+              "end": 131,
+              "start": 125
+            },
+            "sentence_id": 2022013001
+          },
+          {
+            "blank_no": 2,
+            "replace": {
+              "end": 203,
+              "start": 195
+            },
+            "sentence_id": 2022013001
+          },
+          {
+            "blank_no": 3,
+            "replace": {
+              "end": 6,
+              "start": 0
+            },
+            "sentence_id": 2022013002
+          },
+          {
+            "blank_no": 4,
+            "replace": {
+              "end": 132,
+              "start": 123
+            },
+            "sentence_id": 2022013002
+          },
+          {
+            "blank_no": 5,
+            "replace": {
+              "end": 56,
+              "start": 49
+            },
+            "sentence_id": 2022013004
+          },
+          {
+            "blank_no": 6,
+            "replace": {
+              "end": 112,
+              "start": 104
+            },
+            "sentence_id": 2022013004
+          },
+          {
+            "blank_no": 7,
+            "replace": {
+              "end": 46,
+              "start": 40
+            },
+            "sentence_id": 2022013005
+          },
+          {
+            "blank_no": 8,
+            "replace": {
+              "end": 143,
+              "start": 136
+            },
+            "sentence_id": 2022013005
+          },
+          {
+            "blank_no": 9,
+            "replace": {
+              "end": 178,
+              "start": 169
+            },
+            "sentence_id": 2022013005
+          },
+          {
+            "blank_no": 10,
+            "replace": {
+              "end": 247,
+              "start": 243
+            },
+            "sentence_id": 2022013005
+          },
+          {
+            "blank_no": 11,
+            "replace": {
+              "end": 16,
+              "start": 5
+            },
+            "sentence_id": 2022013006
+          },
+          {
+            "blank_no": 12,
+            "replace": {
+              "end": 86,
+              "start": 78
+            },
+            "sentence_id": 2022013006
+          },
+          {
+            "blank_no": 13,
+            "replace": {
+              "end": 7,
+              "start": 0
+            },
+            "sentence_id": 2022013007
+          },
+          {
+            "blank_no": 14,
+            "replace": {
+              "end": 55,
+              "start": 42
+            },
+            "sentence_id": 2022013007
+          },
+          {
+            "blank_no": 15,
+            "replace": {
+              "end": 60,
+              "start": 55
+            },
+            "sentence_id": 2022013008
+          },
+          {
+            "blank_no": 16,
+            "replace": {
+              "end": 110,
+              "start": 105
+            },
+            "sentence_id": 2022013008
+          },
+          {
+            "blank_no": 17,
+            "replace": {
+              "end": 53,
+              "start": 46
+            },
+            "sentence_id": 2022013009
+          },
+          {
+            "blank_no": 18,
+            "replace": {
+              "end": 33,
+              "start": 27
+            },
+            "sentence_id": 2022013011
+          },
+          {
+            "blank_no": 19,
+            "replace": {
+              "end": 88,
+              "start": 78
+            },
+            "sentence_id": 2022013011
+          },
+          {
+            "blank_no": 20,
+            "replace": {
+              "end": 136,
+              "start": 132
+            },
+            "sentence_id": 2022013011
+          }
+        ],
+        "questions": [
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，句子描述了术语“植物神经生物学”的起源，强调其是围绕某种概念而创造的，因此“coined”最符合语境。\nA. “coined”意为“创造（新词或短语）”，符合语境中对术语起源的描述。\nB. “discovered”意为“发现”，不符合语境，因为术语是被创造而非被发现的。\nC. “collected”意为“收集”，与术语的创造无关，不符合语境。\nD. “issued”意为“发布”，虽然术语可能被发布，但语境更强调其创造过程，因此不合适。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "A",
+            "id": 1,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "coin",
+                  "surface": "coined"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "discover",
+                  "surface": "discovered"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "collect",
+                  "surface": "collected"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "issue",
+                  "surface": "issued"
+                }
+              ]
+            },
+            "options": [
+              "A) coined",
+              "B) discovered",
+              "C) collected",
+              "D) issued"
+            ],
+            "qid": 2022011001,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "A. “attributed”意为“归因于”，虽然与智能相关，但语境更强调比较而非归因。\nB. “directed”意为“指向”，不符合语境。\nC. “compared”意为“比较”，符合语境中植物行为与动物智能之间的相似性描述。\nD. “confined”意为“限制”，与语境无关。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "C",
+            "id": 2,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "attribute",
+                  "surface": "attributed"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "direct",
+                  "surface": "directed"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "compare",
+                  "surface": "compared"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "confine",
+                  "surface": "confined"
+                }
+              ]
+            },
+            "options": [
+              "A) attributed",
+              "B) directed",
+              "C) compared",
+              "D) confined"
+            ],
+            "qid": 2022011002,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "句子前后形成让步关系，因此“Though”最符合语境。\nA. “Unless”意为“除非”，不符合语境中的让步关系。\nB. “When”意为“当……时”，不符合语境。\nC. “Once”意为“一旦”，不符合语境。\nD. “Though”意为“尽管”，符合语境中的让步关系。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "D",
+            "id": 3,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "unless",
+                  "surface": "Unless"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "when",
+                  "surface": "When"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "once",
+                  "surface": "Once"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "though",
+                  "surface": "Though"
+                }
+              ]
+            },
+            "options": [
+              "A) Unless",
+              "B) When",
+              "C) Once",
+              "D) Though"
+            ],
+            "qid": 2022011003,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "句子描述电信号触发的反应暗示了意识，因此“hinted at”最符合语境。\nA. “coped with”意为“应对”，不符合语境。\nB. “consisted of”意为“由……组成”，不符合语境。\nC. “hinted at”意为“暗示”，符合语境。\nD. “extended to”意为“扩展到”，不符合语境。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "C",
+            "id": 4,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "cope",
+                  "surface": "coped"
+                },
+                {
+                  "lemma": "with",
+                  "surface": "with"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "consist",
+                  "surface": "consisted"
+                },
+                {
+                  "lemma": "of",
+                  "surface": "of"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "hint",
+                  "surface": "hinted"
+                },
+                {
+                  "lemma": "at",
+                  "surface": "at"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "extend",
+                  "surface": "extended"
+                },
+                {
+                  "lemma": "to",
+                  "surface": "to"
+                }
+              ]
+            },
+            "options": [
+              "A) coped with",
+              "B) consisted of",
+              "C) hinted at",
+              "D) extended to"
+            ],
+            "qid": 2022011004,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "句子强调植物生物学与动物生物学的差异，因此“differs”最符合语境。\nA. “suffers”意为“遭受”，不符合语境。\nB. “benefits”意为“受益”，不符合语境。\nC. “develops”意为“发展”，不符合语境。\nD. “differs”意为“不同”，符合语境。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "D",
+            "id": 5,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "suffer",
+                  "surface": "suffers"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "benefit",
+                  "surface": "benefits"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "develop",
+                  "surface": "develops"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "differ",
+                  "surface": "differs"
+                }
+              ]
+            },
+            "options": [
+              "A) suffers",
+              "B) benefits",
+              "C) develops",
+              "D) differs"
+            ],
+            "qid": 2022011005,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "句子讨论植物智能的证据，因此“evidence”最符合语境。\nA. “acceptance”意为“接受”，不符合语境。\nB. “evidence”意为“证据”，符合语境。\nC. “cultivation”意为“培养”，不符合语境。\nD. “creation”意为“创造”，不符合语境。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "B",
+            "id": 6,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "acceptance",
+                  "surface": "acceptance"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "evidence",
+                  "surface": "evidence"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "cultivation",
+                  "surface": "cultivation"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "creation",
+                  "surface": "creation"
+                }
+              ]
+            },
+            "options": [
+              "A) acceptance",
+              "B) evidence",
+              "C) cultivation",
+              "D) creation"
+            ],
+            "qid": 2022011006,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，科学家提出了关于植物神经系统的理论，因此选择表示“提出”的选项最为合适。\nA. “doubted”意为“怀疑”，与科学家提出理论的语境不符。\nB. “denied”意为“否认”，与科学家提出理论的语境不符。\nC. “argued”意为“提出”，符合科学家提出理论的语境。\nD. “requested”意为“请求”，与科学家提出理论的语境不符。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "C",
+            "id": 7,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "doubt",
+                  "surface": "doubted"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "deny",
+                  "surface": "denied"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "argue",
+                  "surface": "argued"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "request",
+                  "surface": "requested"
+                }
+              ]
+            },
+            "options": [
+              "A) doubted",
+              "B) denied",
+              "C) argued",
+              "D) requested"
+            ],
+            "qid": 2022011007,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，植物的神经元样细胞与激素和神经递质相互作用，形成了一个系统，因此“forming”最符合语境。\nA. “adapting”意为“适应”，不符合形成系统的语境。\nB. “forming”意为“形成”，符合语境，描述了系统的形成。\nC. “repairing”意为“修复”，不符合形成系统的语境。\nD. “testing”意为“测试”，不符合形成系统的语境。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "B",
+            "id": 8,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "adapt",
+                  "surface": "adapting"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "form",
+                  "surface": "forming"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "repair",
+                  "surface": "repairing"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "test",
+                  "surface": "testing"
+                }
+              ]
+            },
+            "options": [
+              "A) adapting",
+              "B) forming",
+              "C) repairing",
+              "D) testing"
+            ],
+            "qid": 2022011008,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，植物系统被描述为类似于动物系统，因此“analogous”最符合语境。\nA. “analogous”意为“类似的”，符合语境。\nB. “essential”意为“必要的”，不符合语境。\nC. “suitable”意为“适合的”，不符合语境。\nD. “sensitive”意为“敏感的”，不符合语境。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "A",
+            "id": 9,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "analogous",
+                  "surface": "analogous"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "essential",
+                  "surface": "essential"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "suitable",
+                  "surface": "suitable"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "sensitive",
+                  "surface": "sensitive"
+                }
+              ]
+            },
+            "options": [
+              "A) analogous",
+              "B) essential",
+              "C) suitable",
+              "D) sensitive"
+            ],
+            "qid": 2022011009,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，科学家进一步声称植物有类似大脑的指挥中心，因此“even”最符合语境，表示进一步的强调。\nA. “just”意为“仅仅”，不符合强调语境。\nB. “ever”意为“曾经”，不符合语境。\nC. “still”意为“仍然”，不符合语境。\nD. “even”意为“甚至”，符合强调语境。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "D",
+            "id": 10,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "just",
+                  "surface": "just"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "ever",
+                  "surface": "ever"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "still",
+                  "surface": "still"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "even",
+                  "surface": "even"
+                }
+              ]
+            },
+            "options": [
+              "A) just",
+              "B) ever",
+              "C) still",
+              "D) even"
+            ],
+            "qid": 2022011010,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，科学家在讨论一种观点，因此“perspective”最符合语境。\nA. “restriction”意为“限制”，不符合语境。\nB. “experiment”意为“实验”，不符合语境。\nC. “perspective”意为“观点”，符合语境。\nD. “demand”意为“需求”，不符合语境。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "C",
+            "id": 11,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "restriction",
+                  "surface": "restriction"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "experiment",
+                  "surface": "experiment"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "perspective",
+                  "surface": "perspective"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "demand",
+                  "surface": "demand"
+                }
+              ]
+            },
+            "options": [
+              "A) restriction",
+              "B) experiment",
+              "C) perspective",
+              "D) demand"
+            ],
+            "qid": 2022011011,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，复杂大脑的运作被简化为电脉冲，因此“reducing”最符合语境。\nA. “attaching”意为“附加”，不符合简化语境。\nB. “reducing”意为“简化”，符合语境。\nC. “returning”意为“返回”，不符合语境。\nD. “exposing”意为“暴露”，不符合语境。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "B",
+            "id": 12,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "attach",
+                  "surface": "attaching"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "reduce",
+                  "surface": "reducing"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "return",
+                  "surface": "returning"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "expose",
+                  "surface": "exposing"
+                }
+              ]
+            },
+            "options": [
+              "A) attaching",
+              "B) reducing",
+              "C) returning",
+              "D) exposing"
+            ],
+            "qid": 2022011012,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，前后句存在转折关系，因此“However”最符合语境。\nA. “However”意为“然而”，符合转折语境。\nB. “Moreover”意为“此外”，不符合转折语境。\nC. “Therefore”意为“因此”，不符合转折语境。\nD. “Otherwise”意为“否则”，不符合转折语境。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "A",
+            "id": 13,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "however",
+                  "surface": "However"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "moreover",
+                  "surface": "Moreover"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "therefore",
+                  "surface": "Therefore"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "otherwise",
+                  "surface": "Otherwise"
+                }
+              ]
+            },
+            "options": [
+              "A) However",
+              "B) Moreover",
+              "C) Therefore",
+              "D) Otherwise"
+            ],
+            "qid": 2022011013,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，植物的信号传递仅仅在表面上类似于动物大脑，因此“superficially”最符合语境。\nA. “temporarily”意为“暂时地”，不符合语境。\nB. “literally”意为“字面上”，不符合语境。\nC. “superficially”意为“表面上”，符合语境。\nD. “imaginarily”意为“虚构地”，不符合语境。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "C",
+            "id": 14,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "temporary",
+                  "surface": "temporarily"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "literal",
+                  "surface": "literally"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "superficially",
+                  "surface": "superficially"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "imaginarily",
+                  "surface": "imaginarily"
+                }
+              ]
+            },
+            "options": [
+              "A) temporarily",
+              "B) literally",
+              "C) superficially",
+              "D) imaginarily"
+            ],
+            "qid": 2022011014,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，复杂性和能力需要达到某种阈值，因此“level”最符合语境。\nA. “list”意为“列表”，不符合语境。\nB. “level”意为“水平”，符合语境。\nC. “label”意为“标签”，不符合语境。\nD. “local”意为“局部的”，不符合语境。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "B",
+            "id": 15,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "list",
+                  "surface": "list"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "level",
+                  "surface": "level"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "label",
+                  "surface": "label"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "local",
+                  "surface": "local"
+                }
+              ]
+            },
+            "options": [
+              "A) list",
+              "B) level",
+              "C) label",
+              "D) local"
+            ],
+            "qid": 2022011015,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，作者补充了关于意识进化的观点，因此“added”最符合语境。\nA. “recalled”意为“回忆”，不符合语境。\nB. “agreed”意为“同意”，不符合语境。\nC. “questioned”意为“质疑”，不符合语境。\nD. “added”意为“补充”，符合语境。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "D",
+            "id": 16,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "recall",
+                  "surface": "recalled"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "agree",
+                  "surface": "agreed"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "question",
+                  "surface": "questioned"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "add",
+                  "surface": "added"
+                }
+              ]
+            },
+            "options": [
+              "A) recalled",
+              "B) agreed",
+              "C) questioned",
+              "D) added"
+            ],
+            "qid": 2022011016,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，句子强调植物没有神经系统，因此它们具有意识的可能性为零。选项 A 'chances'（可能性）最符合语境。\nA. 选项 A 'chances' 表示可能性，与句子中强调的植物具有意识的可能性为零的语境完全契合。\nB. 选项 B 'risks' 表示风险，与句子中讨论的可能性无关，因此不合适。\nC. 选项 C 'excuses' 表示借口，与句子讨论的科学可能性无关，因此不合适。\nD. 选项 D 'assumptions' 表示假设，与句子中强调的可能性为零的语境不符，因此不合适。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "A",
+            "id": 17,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "chance",
+                  "surface": "chances"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "risk",
+                  "surface": "risks"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "excuse",
+                  "surface": "excuses"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "assumption",
+                  "surface": "assumptions"
+                }
+              ]
+            },
+            "options": [
+              "A) chances",
+              "B) risks",
+              "C) excuses",
+              "D) assumptions"
+            ],
+            "qid": 2022011017,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据句子语境，植物无法逃避危险，因此选项 A 'danger'（危险）最符合语境。\nA. 选项 A 'danger' 表示危险，与句子中植物无法逃避危险的语境完全契合。\nB. 选项 B 'failure' 表示失败，与句子中强调的危险无关，因此不合适。\nC. 选项 C 'warning' 表示警告，与句子中讨论的危险不符，因此不合适。\nD. 选项 D 'control' 表示控制，与句子中强调的危险无关，因此不合适。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "A",
+            "id": 18,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "danger",
+                  "surface": "danger"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "failure",
+                  "surface": "failure"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "warn",
+                  "surface": "warning"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "control",
+                  "surface": "control"
+                }
+              ]
+            },
+            "options": [
+              "A) danger",
+              "B) failure",
+              "C) warning",
+              "D) control"
+            ],
+            "qid": 2022011018,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据句子语境，植物的身体系统需要识别威胁，因此选项 D 'recognizes'（识别）最符合语境。\nA. 选项 A 'represents' 表示代表，与句子中强调的识别威胁不符，因此不合适。\nB. 选项 B 'includes' 表示包括，与句子中强调的识别威胁不符，因此不合适。\nC. 选项 C 'reveals' 表示揭示，与句子中强调的识别威胁不符，因此不合适。\nD. 选项 D 'recognizes' 表示识别，与句子中强调的身体系统识别威胁的语境完全契合。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "D",
+            "id": 19,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "represent",
+                  "surface": "represents"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "include",
+                  "surface": "includes"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "reveal",
+                  "surface": "reveals"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "recognize",
+                  "surface": "recognizes"
+                }
+              ]
+            },
+            "options": [
+              "A) represents",
+              "B) includes",
+              "C) reveals",
+              "D) recognizes"
+            ],
+            "qid": 2022011019,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据句子语境，植物的身体系统如果感受疼痛会是一个糟糕的进化策略，因此选项 B 'poor'（糟糕的）最符合语境。\nA. 选项 A 'humble' 表示谦逊，与句子中强调的糟糕策略不符，因此不合适。\nB. 选项 B 'poor' 表示糟糕的，与句子中强调的糟糕进化策略完全契合。\nC. 选项 C 'practical' 表示实用的，与句子中强调的糟糕策略不符，因此不合适。\nD. 选项 D 'easy' 表示容易的，与句子中强调的糟糕策略不符，因此不合适。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "B",
+            "id": 20,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "humble",
+                  "surface": "humble"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "poor",
+                  "surface": "poor"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "practical",
+                  "surface": "practical"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "easy",
+                  "surface": "easy"
+                }
+              ]
+            },
+            "options": [
+              "A) humble",
+              "B) poor",
+              "C) practical",
+              "D) easy"
+            ],
+            "qid": 2022011020,
+            "text": ""
+          }
+        ]
+      },
+      "directions": "Read the following text. Choose the best word(s) for each numbered blank and mark A, B,\nC or D on the ANSWER SHEET. (10 points)",
+      "exam_info": "2022(1)",
+      "exam_type": "kaoyan",
+      "id": 202201001,
+      "key_words": "plants added analogous coined consciousness differs even evidence forming hinted however level perspective plant reducing superficially though argued brain compared acceptance adapting agreed animals attaching attributed benefits cells chances collected complex confined consisted coped creation cultivation danger demand denied develops directed discovered doubted electrical essential ever experiment exposing extended imaginarily issued just label list literally local moreover once otherwise poor questioned recalled recognizes repairing requested restriction returning sensitive some still suffers suitable temporarily testing therefore unless according article assumptions chances'",
+      "kid": 11,
+      "part": "Part III",
+      "section": "Sec A",
+      "task_key": "2022(1)_Section I_ ",
+      "type": "Use of English"
+    }
+  ]
+}

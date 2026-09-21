@@ -1,0 +1,568 @@
+{
+  "exam": "en1",
+  "key": "2001-t1",
+  "year": 2001,
+  "text_no": 1,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2001-text1-s1",
+      "s": "Specialisation can be seen as a response to the problem of an increasing accumulation of scientific knowledge.",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Specialisation",
+        "谓语": "can be seen",
+        "宾语或表语": "as a response",
+        "主干翻译": "专业化可以被看作是一种应对。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "to the problem of an increasing accumulation of scientific knowledge",
+          "修饰对象": "response",
+          "中文翻译": "对科学知识不断积累这一问题的（应对）",
+          "说明": "介词短语to the problem...作response的后置定语，其中of短语层层修饰problem。"
+        }
+      ],
+      "zh": "专业化可以被看作是对科学知识不断积累这一问题的一种应对。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2001-text1-s2",
+      "s": "By splitting up the subject matter into smaller units, one man could continue to handle the information and use it as the basis for further research.",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "one man",
+        "谓语": "could continue",
+        "宾语或表语": "to handle the information and use it as the basis for further research",
+        "主干翻译": "一个人能够继续处理这些信息。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "By splitting up the subject matter into smaller units",
+          "修饰对象": "continue",
+          "中文翻译": "通过把研究主题分割成更小的单元",
+          "说明": "By+动名词短语作方式状语，置于句首。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to handle the information and use it as the basis for further research",
+          "修饰对象": "continue",
+          "中文翻译": "继续处理这些信息并把它作为进一步研究的基础",
+          "说明": "动词不定式作continue的补足语，承接其后构成continue to do结构。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "use it as the basis for further research",
+          "修饰对象": "handle",
+          "中文翻译": "把它作为进一步研究的基础",
+          "说明": "与handle the information由and并列，共同作不定式的两个谓核。"
+        }
+      ],
+      "zh": "通过把研究主题分割成更小的单元，一个人就能够继续处理这些信息，并把它作为进一步研究的基础。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2001-text1-s3",
+      "s": "But specialisation was only one of a series of related developments in science affecting the process of communication.",
+      "para_no": 1,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "specialisation",
+        "谓语": "was",
+        "宾语或表语": "only one of a series of related developments in science",
+        "主干翻译": "专业化只是科学领域一系列相关发展之一。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "affecting the process of communication",
+          "修饰对象": "developments",
+          "中文翻译": "影响交流过程的（一系列发展）",
+          "说明": "现在分词短语作developments的后置定语。"
+        }
+      ],
+      "zh": "但专业化只是科学领域影响交流过程的一系列相关发展之一。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2001-text1-s4",
+      "s": "Another was the growing professionalisation of scientific activity.",
+      "para_no": 1,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "Another",
+        "谓语": "was",
+        "宾语或表语": "the growing professionalisation of scientific activity",
+        "主干翻译": "另一个（发展）是科学活动日益增长的职业化。"
+      },
+      "components": [],
+      "zh": "另一个（发展）则是科学活动日益增长的职业化。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2001-text1-s5",
+      "s": "No clear-cut distinction can be drawn between professionals and amateurs in science: exceptions can be found to any rule.",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "No clear-cut distinction",
+        "谓语": "can be drawn",
+        "宾语或表语": "between professionals and amateurs",
+        "主干翻译": "在专业人士和业余爱好者之间无法划出清晰的界限。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "between professionals and amateurs in science",
+          "修饰对象": "drawn",
+          "中文翻译": "在科学领域的专业人士和业余爱好者之间",
+          "说明": "介词短语作状语，说明界限划分的两方及范围。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "exceptions can be found to any rule",
+          "修饰对象": "No clear-cut distinction can be drawn between professionals and amateurs in science",
+          "中文翻译": "任何规则都能找到例外",
+          "说明": "冒号后的分句，对前句作补充说明，构成并列/解释关系，其中 to any rule 为后置定语修饰 exceptions。"
+        }
+      ],
+      "zh": "在科学领域，无法在专业人士和业余爱好者之间划出清晰的界限：任何规则都能找到例外。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2001-text1-s6",
+      "s": "Nevertheless, the word \"amateur\" does carry a connotation that the person concerned is not fully integrated into the scientific community and, in particular, may not fully share its values.",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "the word \"amateur\"",
+        "谓语": "does carry",
+        "宾语或表语": "a connotation",
+        "主干翻译": "“业余爱好者”一词确实带有一种含义。"
+      },
+      "components": [
+        {
+          "成分类型": "同位语",
+          "原文": "\"amateur\"",
+          "修饰对象": "word",
+          "中文翻译": "“业余爱好者”（这个词）",
+          "说明": "引号中的词与the word构成同位关系，说明是哪个词。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "that the person concerned is not fully integrated into the scientific community and, in particular, may not fully share its values",
+          "修饰对象": "connotation",
+          "中文翻译": "即：相关的人没有完全融入科学共同体，尤其是可能没有完全认同其价值观",
+          "说明": "that引导的同位语从句，解释connotation的具体内容。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "concerned",
+          "修饰对象": "person",
+          "中文翻译": "相关的（那个人）",
+          "说明": "过去分词concerned后置作person的定语，意为“有关的、所涉及的”。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "in particular, may not fully share its values",
+          "修饰对象": "integrated",
+          "中文翻译": "尤其是可能没有完全认同其价值观",
+          "说明": "与is not fully integrated由and并列，同为同位语从句内的两个谓语；in particular为插入语。"
+        }
+      ],
+      "zh": "然而，“业余爱好者”一词确实带有这样一种含义：即相关的人没有完全融入科学共同体，尤其是可能没有完全认同科学共同体的价值观。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2001-text1-s7",
+      "s": "The growth of specialisation in the nineteenth century, with its consequent requirement of a longer, more complex training, implied greater problems for amateur participation in science.",
+      "para_no": 2,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "The growth of specialisation",
+        "谓语": "implied",
+        "宾语或表语": "greater problems for amateur participation in science",
+        "主干翻译": "专业化的发展意味着业余爱好者参与科学会面临更大的困难。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "in the nineteenth century",
+          "修饰对象": "growth",
+          "中文翻译": "十九世纪的（专业化发展）",
+          "说明": "介词短语作growth of specialisation的时间限定定语。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "with its consequent requirement of a longer, more complex training",
+          "修饰对象": "growth",
+          "中文翻译": "（专业化发展）随之要求接受更长、更复杂的训练",
+          "说明": "with引导的独立结构作伴随状语，两逗号间插入，补充说明专业化发展带来的后果。"
+        }
+      ],
+      "zh": "十九世纪专业化的发展，连同随之而来的对更长、更复杂训练的要求，意味着业余爱好者参与科学会面临更大的困难。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2001-text1-s8",
+      "s": "The trend was naturally most obvious in those areas of science based especially on a mathematical or laboratory training, and can be illustrated in terms of the development of geology in the United Kingdom.",
+      "para_no": 2,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "The trend",
+        "谓语": "was / can be illustrated",
+        "宾语或表语": "most obvious",
+        "主干翻译": "这种趋势最为明显，并且可以得到说明。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "in those areas of science",
+          "修饰对象": "obvious",
+          "中文翻译": "在那些科学领域中",
+          "说明": "介词短语作most obvious的范围状语。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "based especially on a mathematical or laboratory training",
+          "修饰对象": "science",
+          "中文翻译": "尤其以数学或实验室训练为基础的（科学领域）",
+          "说明": "过去分词短语作those areas of science的后置定语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "can be illustrated in terms of the development of geology in the United Kingdom",
+          "修饰对象": "was",
+          "中文翻译": "可以通过英国地质学的发展来加以说明",
+          "说明": "与was most obvious由and并列，共用主语The trend。"
+        }
+      ],
+      "zh": "这种趋势在那些尤其以数学或实验室训练为基础的科学领域中最为明显，并且可以通过英国地质学的发展加以说明。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2001-text1-s9",
+      "s": "A comparison of British geological publications over the last century and a half reveals not simply an increasing emphasis on the primacy of research, but also a changing definition of what constitutes an acceptable research paper.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "A comparison of British geological publications",
+        "谓语": "reveals",
+        "宾语或表语": "not simply an increasing emphasis on the primacy of research, but also a changing definition",
+        "主干翻译": "对英国地质学出版物的比较不仅揭示出对研究首要地位日益重视，也揭示出一种不断变化的定义。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "over the last century and a half",
+          "修饰对象": "comparison",
+          "中文翻译": "在过去一个半世纪里",
+          "说明": "介词短语限定comparison所涵盖的时间跨度。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "a changing definition of what constitutes an acceptable research paper",
+          "修饰对象": "emphasis",
+          "中文翻译": "对何为合格研究论文这一定义的不断变化",
+          "说明": "由not simply...but also...连接，与an increasing emphasis...并列作reveals的宾语。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "what constitutes an acceptable research paper",
+          "修饰对象": "definition",
+          "中文翻译": "什么才构成一篇合格的研究论文",
+          "说明": "what引导的从句作介词of的宾语（宾语从句），修饰definition。"
+        }
+      ],
+      "zh": "对过去一个半世纪英国地质学出版物的比较，不仅揭示出人们对研究首要地位日益重视，也揭示出关于何为合格研究论文这一定义的不断变化。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2001-text1-s10",
+      "s": "Thus, in the nineteenth century, local geological studies represented worthwhile research in their own right; but, in the twentieth century, local studies have increasingly become acceptable to professionals only if they incorporate, and reflect on, the wider geological picture.",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "local geological studies / local studies",
+        "谓语": "represented / have become",
+        "宾语或表语": "worthwhile research / acceptable",
+        "主干翻译": "地方性地质研究本身就代表有价值的研究；而地方性研究越来越只在某种条件下才被专业人士接受。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "in the nineteenth century",
+          "修饰对象": "represented",
+          "中文翻译": "在十九世纪",
+          "说明": "时间状语，限定前一分句。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "in the twentieth century, local studies have increasingly become acceptable to professionals only if they incorporate, and reflect on, the wider geological picture",
+          "修饰对象": "represented",
+          "中文翻译": "在二十世纪，地方性研究只有在纳入并反映更广阔的地质图景时，才越来越被专业人士所接受",
+          "说明": "由but与前一分句构成转折并列关系，自成完整分句。"
+        },
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "only if they incorporate, and reflect on, the wider geological picture",
+          "修饰对象": "become",
+          "中文翻译": "只有当它们纳入并反映更广阔的地质图景时",
+          "说明": "only if引导条件状语从句，修饰have become acceptable。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "reflect on, the wider geological picture",
+          "修饰对象": "incorporate",
+          "中文翻译": "反映更广阔的地质图景",
+          "说明": "与incorporate由and并列，共用宾语the wider geological picture。"
+        }
+      ],
+      "zh": "因此，在十九世纪，地方性地质研究本身就被视为有价值的研究；但到了二十世纪，地方性研究只有在纳入并反映更广阔的地质图景时，才越来越能被专业人士所接受。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2001-text1-s11",
+      "s": "Amateurs, on the other hand, have continued to pursue local studies in the old way.",
+      "para_no": 3,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Amateurs",
+        "谓语": "have continued",
+        "宾语或表语": "to pursue local studies in the old way",
+        "主干翻译": "业余爱好者则继续从事地方性研究。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "on the other hand",
+          "修饰对象": "—",
+          "中文翻译": "另一方面",
+          "说明": "插入语，表示与前文的对照关系。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to pursue local studies in the old way",
+          "修饰对象": "continued",
+          "中文翻译": "以老办法从事地方性研究",
+          "说明": "不定式作continued的补足语，构成continue to do结构。"
+        }
+      ],
+      "zh": "另一方面，业余爱好者则一直以老办法继续从事地方性研究。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2001-text1-s12",
+      "s": "The overall result has been to make entrance to professional geological journals harder for amateurs, a result that has been reinforced by the widespread introduction of refereeing, first by national journals in the nineteenth century and then by several local geological journals in the twentieth century.",
+      "para_no": 3,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "The overall result",
+        "谓语": "has been",
+        "宾语或表语": "to make entrance to professional geological journals harder for amateurs",
+        "主干翻译": "总的结果是使业余爱好者更难进入专业地质期刊。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to make entrance to professional geological journals harder for amateurs",
+          "修饰对象": "been",
+          "中文翻译": "使业余爱好者更难进入专业地质期刊",
+          "说明": "不定式作系动词has been的表语。其中entrance...harder为make的复合宾语（宾补结构）。"
+        },
+        {
+          "成分类型": "同位语",
+          "原文": "a result that has been reinforced by the widespread introduction of refereeing",
+          "修饰对象": "—",
+          "中文翻译": "这一结果由于评审制度的广泛引入而得到强化",
+          "说明": "a result作前面整个主句的同位语，概括前述内容。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that has been reinforced by the widespread introduction of refereeing, first by national journals in the nineteenth century and then by several local geological journals in the twentieth century",
+          "修饰对象": "result",
+          "中文翻译": "这一结果由于评审制度的广泛引入而得到强化——先是十九世纪的全国性期刊，随后是二十世纪的若干地方性地质期刊（引入了评审制度）",
+          "说明": "that引导的定语从句修饰a result。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "then by several local geological journals in the twentieth century",
+          "修饰对象": "by",
+          "中文翻译": "随后由二十世纪的若干地方性地质期刊（引入）",
+          "说明": "first...and then...连接两个by短语并列，作reinforced的方式/施动状语。"
+        }
+      ],
+      "zh": "总的结果是使业余爱好者更难进入专业地质期刊，这一结果又因评审制度的广泛引入而得到强化——先是十九世纪的全国性期刊引入评审，随后是二十世纪若干地方性地质期刊也引入了评审。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2001-text1-s13",
+      "s": "As a logical consequence of this development, separate journals have now appeared aimed mainly towards either professional or amateur readership.",
+      "para_no": 3,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "separate journals",
+        "谓语": "have appeared",
+        "宾语或表语": "—",
+        "主干翻译": "如今出现了各自独立的期刊。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "As a logical consequence of this development",
+          "修饰对象": "appeared",
+          "中文翻译": "作为这一发展的必然结果",
+          "说明": "As引导介词短语作原因/结果状语，置于句首。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "aimed mainly towards either professional or amateur readership",
+          "修饰对象": "journals",
+          "中文翻译": "主要面向专业读者或业余读者的（独立期刊）",
+          "说明": "过去分词短语作separate journals的后置定语。"
+        }
+      ],
+      "zh": "作为这一发展的必然结果，如今出现了各自独立的期刊，它们主要面向专业读者或业余读者。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2001-text1-s14",
+      "s": "A rather similar process of differentiation has led to professional geologists coming together nationally within one or two specific societies, whereas the amateurs have tended either to remain in local societies or to come together nationally in a different way.",
+      "para_no": 3,
+      "para_seq": 5,
+      "trunk": {
+        "主语": "A rather similar process of differentiation",
+        "谓语": "has led to",
+        "宾语或表语": "professional geologists coming together nationally within one or two specific societies",
+        "主干翻译": "一个颇为相似的分化过程导致专业地质学家在全国范围内聚集于一两个特定的学会之中。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(比较)",
+          "原文": "whereas the amateurs have tended either to remain in local societies or to come together nationally in a different way",
+          "修饰对象": "led",
+          "中文翻译": "而业余爱好者则倾向于要么留在地方性学会中，要么以另一种方式在全国范围内聚集",
+          "说明": "whereas引导对比/比较状语从句，表示前后对照。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "either to remain in local societies or to come together nationally in a different way",
+          "修饰对象": "tended",
+          "中文翻译": "要么留在地方性学会，要么以另一种方式在全国范围内聚集",
+          "说明": "不定式作tended的补足语，构成tend to do结构。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "to come together nationally in a different way",
+          "修饰对象": "remain",
+          "中文翻译": "以另一种方式在全国范围内聚集",
+          "说明": "由either...or...连接，与to remain in local societies并列。"
+        }
+      ],
+      "zh": "一个颇为相似的分化过程使专业地质学家在全国范围内聚集于一两个特定的学会之中，而业余爱好者则倾向于要么留在地方性学会，要么以另一种方式在全国范围内聚集。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2001-text1-s15",
+      "s": "Although the process of professionalisation and specialisation was already well under way in British geology during the nineteenth century, its full consequences were thus delayed until the twentieth century.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "its full consequences",
+        "谓语": "were delayed",
+        "宾语或表语": "until the twentieth century",
+        "主干翻译": "其全部影响因而被推迟到了二十世纪。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(让步)",
+          "原文": "Although the process of professionalisation and specialisation was already well under way in British geology during the nineteenth century",
+          "修饰对象": "delayed",
+          "中文翻译": "尽管职业化和专业化的进程在十九世纪的英国地质学中已经全面展开",
+          "说明": "Although引导让步状语从句，置于句首。"
+        }
+      ],
+      "zh": "尽管职业化和专业化的进程在十九世纪的英国地质学中已经全面展开，但其全部影响却因此被推迟到了二十世纪。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2001-text1-s16",
+      "s": "In science generally, however, the nineteenth century must be reckoned as the crucial period for this change in the structure of science.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "the nineteenth century",
+        "谓语": "must be reckoned",
+        "宾语或表语": "as the crucial period",
+        "主干翻译": "十九世纪必须被视为关键时期。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "In science generally",
+          "修饰对象": "reckoned",
+          "中文翻译": "就整个科学而言",
+          "说明": "介词短语作范围状语，置于句首。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "however",
+          "修饰对象": "—",
+          "中文翻译": "然而",
+          "说明": "插入语，表转折，逗号隔开。"
+        },
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "for this change in the structure of science",
+          "修饰对象": "period",
+          "中文翻译": "科学结构发生这一变化的（关键时期）",
+          "说明": "for引导的介词短语作the crucial period的后置定语。"
+        }
+      ],
+      "zh": "然而，就整个科学而言，十九世纪必须被视为科学结构发生这一变化的关键时期。",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2001-text1-s1",
+        "en1-2001-text1-s2",
+        "en1-2001-text1-s3",
+        "en1-2001-text1-s4"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2001-text1-s5",
+        "en1-2001-text1-s6",
+        "en1-2001-text1-s7",
+        "en1-2001-text1-s8"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2001-text1-s9",
+        "en1-2001-text1-s10",
+        "en1-2001-text1-s11",
+        "en1-2001-text1-s12",
+        "en1-2001-text1-s13",
+        "en1-2001-text1-s14"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2001-text1-s15",
+        "en1-2001-text1-s16"
+      ]
+    }
+  ]
+}

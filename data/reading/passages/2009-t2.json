@@ -1,0 +1,679 @@
+{
+  "exam": "en1",
+  "key": "2009-t2",
+  "year": 2009,
+  "text_no": 2,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2009-text2-s1",
+      "s": "It is a wise father that knows his own child, but today a man can boost his paternal (fatherly) wisdom—or at least confirm that he's the kid's dad.",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "It / a man",
+        "谓语": "is / can boost",
+        "宾语或表语": "a wise father / his paternal wisdom",
+        "主干翻译": "能了解自己孩子的父亲才算聪明；但如今一个男人可以提升自己作为父亲的智慧。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "that knows his own child",
+          "修饰对象": "father",
+          "中文翻译": "了解自己孩子的",
+          "说明": "强调句式 It is...that... 实际等同于含蓄让步的谚语，that 从句修饰 a wise father，意为'能了解自己孩子的父亲才算聪明'。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "but today a man can boost his paternal (fatherly) wisdom—or at least confirm that he's the kid's dad",
+          "修饰对象": "—",
+          "中文翻译": "但如今一个男人可以提升自己作为父亲的智慧——或者至少证实自己就是孩子的父亲",
+          "说明": "but 连接前后两个分句，构成对比并列。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "or at least confirm that he's the kid's dad",
+          "修饰对象": "boost",
+          "中文翻译": "或者至少证实自己就是孩子的父亲",
+          "说明": "or 连接 boost 与 confirm 两个并列谓语动词。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that he's the kid's dad",
+          "修饰对象": "confirm",
+          "中文翻译": "他就是这孩子的父亲",
+          "说明": "that 引导，作 confirm 的宾语。"
+        }
+      ],
+      "zh": "能了解自己孩子的父亲才算聪明；但如今一个男人可以提升自己作为父亲的智慧——或者至少证实自己就是这孩子的父亲。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2009-text2-s2",
+      "s": "All he needs to do is shell out $30 for a paternity testing kit (PTK) at his local drugstore—and another $120 to get the results.",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "All",
+        "谓语": "is",
+        "宾语或表语": "shell out $30 for a paternity testing kit",
+        "主干翻译": "他所要做的全部就是（去当地药店）花30美元买一套亲子鉴定试剂盒。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "he needs to do",
+          "修饰对象": "All",
+          "中文翻译": "他需要做的",
+          "说明": "省略了关系代词 that，修饰主语 All。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to do",
+          "修饰对象": "needs",
+          "中文翻译": "去做（的事）",
+          "说明": "动词不定式作 needs 的宾语/补足成分。"
+        },
+        {
+          "成分类型": "省略",
+          "原文": "shell out $30 for a paternity testing kit (PTK) at his local drugstore—and another $120 to get the results",
+          "修饰对象": "is",
+          "中文翻译": "（去）当地药店花30美元买一套亲子鉴定试剂盒——再花120美元拿到检测结果",
+          "说明": "作表语的不定式短语省略了 to（系动词 is 后省 to），shell out 为表语动词。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "(PTK)",
+          "修饰对象": "kit",
+          "中文翻译": "（即PTK）",
+          "说明": "paternity testing kit 的缩写，作同位说明。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "and another $120 to get the results",
+          "修饰对象": "shell",
+          "中文翻译": "再花另外120美元（以拿到结果）",
+          "说明": "and 连接，与 shell out $30 并列，承前省略 shell out。"
+        },
+        {
+          "成分类型": "状语从句(目的)",
+          "原文": "to get the results",
+          "修饰对象": "$120",
+          "中文翻译": "以拿到检测结果",
+          "说明": "不定式作目的状语，说明花120美元的目的。"
+        }
+      ],
+      "zh": "他所要做的全部就是去当地药店花30美元买一套亲子鉴定试剂盒（PTK）——再花另外120美元来拿到检测结果。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2009-text2-s3",
+      "s": "More than 60,000 people have purchased the PTKs since they first became available without prescriptions last year, according to Doug Fogg, chief operating officer of Identigene, which makes the over-the-counter kits.",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "More than 60,000 people",
+        "谓语": "have purchased",
+        "宾语或表语": "the PTKs",
+        "主干翻译": "超过6万人购买了这种亲子鉴定试剂盒。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "since they first became available without prescriptions last year",
+          "修饰对象": "purchased",
+          "中文翻译": "自从去年它们首次无需处方即可买到以来",
+          "说明": "since 引导时间状语从句，与现在完成时呼应。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "according to Doug Fogg, chief operating officer of Identigene, which makes the over-the-counter kits",
+          "修饰对象": "—",
+          "中文翻译": "据Identigene公司首席运营官道格·福格所言",
+          "说明": "according to 短语作消息来源，作全句状语。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "chief operating officer of Identigene",
+          "修饰对象": "Fogg",
+          "中文翻译": "Identigene公司的首席运营官",
+          "说明": "名词短语作 Doug Fogg 的同位语，说明其身份。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "which makes the over-the-counter kits",
+          "修饰对象": "Identigene",
+          "中文翻译": "（该公司）生产这种非处方试剂盒",
+          "说明": "which 引导非限制性定语从句，修饰 Identigene。"
+        }
+      ],
+      "zh": "据生产这种非处方试剂盒的Identigene公司首席运营官道格·福格所言，自从去年这种试剂盒首次无需处方即可买到以来，已有超过6万人购买了它。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2009-text2-s4",
+      "s": "More than two dozen companies sell DNA tests directly to the public, ranging in price from a few hundred dollars to more than $2500.",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "More than two dozen companies",
+        "谓语": "sell",
+        "宾语或表语": "DNA tests",
+        "主干翻译": "二十多家公司直接向公众出售DNA检测。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "ranging in price from a few hundred dollars to more than $2500",
+          "修饰对象": "sell",
+          "中文翻译": "价格从几百美元到2500多美元不等",
+          "说明": "现在分词短语作伴随状语，说明 DNA tests 的价格幅度。"
+        }
+      ],
+      "zh": "二十多家公司直接向公众出售DNA检测，价格从几百美元到2500多美元不等。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2009-text2-s5",
+      "s": "Among the most popular: paternity and kinship testing, which adopted children can use to find their biological relatives and families can use to track down kids put up for adoption.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "paternity and kinship testing",
+        "谓语": "(is)",
+        "宾语或表语": "Among the most popular",
+        "主干翻译": "最受欢迎的是亲子鉴定和亲缘鉴定。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "which adopted children can use to find their biological relatives and families can use to track down kids put up for adoption",
+          "修饰对象": "testing",
+          "中文翻译": "被收养的孩子可以用它来寻找亲生亲属，家庭也可以用它来找到被送养的孩子",
+          "说明": "which 引导定语从句，修饰 paternity and kinship testing，从句内含两个并列分句共用 which。"
+        },
+        {
+          "成分类型": "状语从句(目的)",
+          "原文": "to find their biological relatives",
+          "修饰对象": "use",
+          "中文翻译": "来寻找他们的亲生亲属",
+          "说明": "不定式作目的状语，说明 use 的目的。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "and families can use to track down kids put up for adoption",
+          "修饰对象": "use",
+          "中文翻译": "家庭也可以用它来找到被送养的孩子",
+          "说明": "and 连接定语从句内的第二个并列分句。"
+        },
+        {
+          "成分类型": "状语从句(目的)",
+          "原文": "to track down kids put up for adoption",
+          "修饰对象": "use",
+          "中文翻译": "来找到被送养的孩子",
+          "说明": "不定式作目的状语。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "put up for adoption",
+          "修饰对象": "kids",
+          "中文翻译": "被送养的（孩子）",
+          "说明": "过去分词短语作后置定语，修饰 kids。"
+        }
+      ],
+      "zh": "其中最受欢迎的是亲子鉴定和亲缘鉴定：被收养的孩子可以借此寻找自己的亲生亲属，而家庭也可以借此找到被送出收养的孩子。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2009-text2-s6",
+      "s": "DNA testing is also the latest rage among passionate genealogists—and supports businesses that offer to search for a family's geographic roots.",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "DNA testing",
+        "谓语": "is / supports",
+        "宾语或表语": "the latest rage / businesses",
+        "主干翻译": "DNA检测也是热门时尚，并扶持了一些企业。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "and supports businesses that offer to search for a family's geographic roots",
+          "修饰对象": "is",
+          "中文翻译": "并扶持了那些提供寻找家族地理根源服务的企业",
+          "说明": "and 连接 is 与 supports 两个并列谓语。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that offer to search for a family's geographic roots",
+          "修饰对象": "businesses",
+          "中文翻译": "提供寻找家族地理根源（服务）的",
+          "说明": "that 引导定语从句，修饰 businesses。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to search for a family's geographic roots",
+          "修饰对象": "offer",
+          "中文翻译": "去寻找一个家族的地理根源",
+          "说明": "不定式作 offer 的宾语。"
+        }
+      ],
+      "zh": "DNA检测也是热衷于家谱研究者中最新的潮流，并扶持了那些提供寻找家族地理根源服务的企业。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2009-text2-s7",
+      "s": "Most tests require collecting cells by swabbing saliva in the mouth and sending it to the company for testing.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Most tests",
+        "谓语": "require",
+        "宾语或表语": "collecting cells",
+        "主干翻译": "大多数检测都需要采集细胞。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "collecting cells by swabbing saliva in the mouth and sending it to the company for testing",
+          "修饰对象": "require",
+          "中文翻译": "通过擦拭口腔中的唾液来采集细胞，并把它寄给公司进行检测",
+          "说明": "动名词短语作 require 的宾语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "and sending it to the company for testing",
+          "修饰对象": "swabbing",
+          "中文翻译": "并把它寄给公司进行检测",
+          "说明": "and 连接 swabbing 与 sending 两个并列动名词，均为 by 的宾语。"
+        }
+      ],
+      "zh": "大多数检测都需要通过擦拭口腔中的唾液来采集细胞，然后把它寄给公司进行检测。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2009-text2-s8",
+      "s": "All tests require a potential candidate with whom to compare DNA.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "All tests",
+        "谓语": "require",
+        "宾语或表语": "a potential candidate",
+        "主干翻译": "所有检测都需要一个潜在的对照对象。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "with whom to compare DNA",
+          "修饰对象": "candidate",
+          "中文翻译": "用来与之比对DNA的",
+          "说明": "with whom 引导的不定式定语从句，修饰 candidate。"
+        }
+      ],
+      "zh": "所有检测都需要一个可供比对DNA的潜在对照对象。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2009-text2-s9",
+      "s": "But some observers are skeptical.",
+      "para_no": 5,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "some observers",
+        "谓语": "are",
+        "宾语或表语": "skeptical",
+        "主干翻译": "一些观察者持怀疑态度。"
+      },
+      "components": [],
+      "zh": "但一些观察者对此持怀疑态度。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2009-text2-s10",
+      "s": "\"There's a kind of false precision being hawked by people claiming they are doing ancestry testing,\" says Troy Duster, a New York University sociologist.",
+      "para_no": 5,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Troy Duster",
+        "谓语": "says",
+        "宾语或表语": "\"There's a kind of false precision...\"",
+        "主干翻译": "特洛伊·杜斯特说……"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "There's a kind of false precision being hawked by people claiming they are doing ancestry testing",
+          "修饰对象": "says",
+          "中文翻译": "有一种虚假的精确性正被那些声称在做血统检测的人兜售",
+          "说明": "引语整体作 says 的宾语（倒装在前）。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "being hawked by people claiming they are doing ancestry testing",
+          "修饰对象": "precision",
+          "中文翻译": "正被……人兜售的",
+          "说明": "现在分词被动式作后置定语，修饰 false precision。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "claiming they are doing ancestry testing",
+          "修饰对象": "people",
+          "中文翻译": "声称自己在做血统检测的",
+          "说明": "现在分词短语作后置定语，修饰 people。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "they are doing ancestry testing",
+          "修饰对象": "claiming",
+          "中文翻译": "他们在做血统检测",
+          "说明": "省略 that，作 claiming 的宾语从句。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "a New York University sociologist",
+          "修饰对象": "Duster",
+          "中文翻译": "一位纽约大学的社会学家",
+          "说明": "名词短语作 Troy Duster 的同位语。"
+        }
+      ],
+      "zh": "纽约大学社会学家特洛伊·杜斯特说：'那些声称在做血统检测的人正在兜售一种虚假的精确性。'",
+      "underline": null
+    },
+    {
+      "sid": "en1-2009-text2-s11",
+      "s": "He notes that each individual has many ancestors—numbering in the hundreds just a few centuries back.",
+      "para_no": 5,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "He",
+        "谓语": "notes",
+        "宾语或表语": "that each individual has many ancestors",
+        "主干翻译": "他指出每个人都有许多祖先。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "that each individual has many ancestors—numbering in the hundreds just a few centuries back",
+          "修饰对象": "notes",
+          "中文翻译": "每个人都有许多祖先——仅仅几个世纪前就数以百计",
+          "说明": "that 引导，作 notes 的宾语从句。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "numbering in the hundreds just a few centuries back",
+          "修饰对象": "ancestors",
+          "中文翻译": "仅在几个世纪前就数以百计",
+          "说明": "现在分词短语作后置定语/伴随，修饰 ancestors。"
+        }
+      ],
+      "zh": "他指出，每个人都有许多祖先——仅仅几个世纪以前，祖先的数量就已多达数百人。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2009-text2-s12",
+      "s": "Yet most ancestry testing only considers a single lineage, either the Y chromosome inherited through men in a father's line or mitochondrial DNA, which is passed down only from mothers.",
+      "para_no": 5,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "most ancestry testing",
+        "谓语": "considers",
+        "宾语或表语": "a single lineage",
+        "主干翻译": "大多数血统检测只考虑单一的世系。"
+      },
+      "components": [
+        {
+          "成分类型": "同位语从句",
+          "原文": "either the Y chromosome inherited through men in a father's line or mitochondrial DNA, which is passed down only from mothers",
+          "修饰对象": "lineage",
+          "中文翻译": "要么是通过父系男性遗传的Y染色体，要么是只从母亲那里传下来的线粒体DNA",
+          "说明": "either...or... 名词结构作 a single lineage 的同位语，进一步解释。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "inherited through men in a father's line",
+          "修饰对象": "chromosome",
+          "中文翻译": "通过父系一脉的男性遗传下来的",
+          "说明": "过去分词短语作后置定语，修饰 Y chromosome。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "or mitochondrial DNA, which is passed down only from mothers",
+          "修饰对象": "chromosome",
+          "中文翻译": "或是只从母亲那里遗传的线粒体DNA",
+          "说明": "either...or... 连接两个并列名词，与 Y chromosome 并列。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "which is passed down only from mothers",
+          "修饰对象": "DNA",
+          "中文翻译": "只从母亲那里传下来的",
+          "说明": "which 引导非限制性定语从句，修饰 mitochondrial DNA。"
+        }
+      ],
+      "zh": "然而，大多数血统检测只考虑单一的世系，要么是通过父系男性遗传下来的Y染色体，要么是只从母亲那里传下来的线粒体DNA。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2009-text2-s13",
+      "s": "This DNA can reveal genetic information about only one or two ancestors, even though, for example, just three generations back people also have six other great-grandparents or, four generations back, 14 other great-great-grandparents.",
+      "para_no": 5,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "This DNA",
+        "谓语": "can reveal",
+        "宾语或表语": "genetic information",
+        "主干翻译": "这种DNA只能揭示关于一两个祖先的遗传信息。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(让步)",
+          "原文": "even though, for example, just three generations back people also have six other great-grandparents or, four generations back, 14 other great-great-grandparents",
+          "修饰对象": "reveal",
+          "中文翻译": "尽管举例来说，仅三代以前，人们还有另外六位曾祖父母，或四代以前还有另外十四位高祖父母",
+          "说明": "even though 引导让步状语从句。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "or, four generations back, 14 other great-great-grandparents",
+          "修饰对象": "great-grandparents",
+          "中文翻译": "或者四代以前还有另外十四位高祖父母",
+          "说明": "or 连接，与 six other great-grandparents 并列，承前省略 people have。"
+        }
+      ],
+      "zh": "这种DNA只能揭示关于一两个祖先的遗传信息，尽管举例来说，仅仅三代以前，人们还有另外六位曾祖父母，而四代以前则还有另外十四位高祖父母。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2009-text2-s14",
+      "s": "Critics also argue that commercial genetic testing is only as good as the reference collections to which a sample is compared.",
+      "para_no": 6,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Critics",
+        "谓语": "argue",
+        "宾语或表语": "that commercial genetic testing is only as good as the reference collections",
+        "主干翻译": "批评者还认为商业基因检测的好坏取决于参照数据库。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "that commercial genetic testing is only as good as the reference collections to which a sample is compared",
+          "修饰对象": "argue",
+          "中文翻译": "商业基因检测只与样本所比对的参照数据库一样好",
+          "说明": "that 引导，作 argue 的宾语从句，内含 as...as 比较结构。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "to which a sample is compared",
+          "修饰对象": "collections",
+          "中文翻译": "样本与之进行比对的",
+          "说明": "to which 引导定语从句，修饰 reference collections。"
+        }
+      ],
+      "zh": "批评者还认为，商业基因检测的可靠程度，仅取决于样本所比对的那些参照数据库的好坏。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2009-text2-s15",
+      "s": "Databases used by some companies don't rely on data collected systematically but rather lump together information from different research projects.",
+      "para_no": 6,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Databases",
+        "谓语": "don't rely on / lump together",
+        "宾语或表语": "data / information",
+        "主干翻译": "数据库并不依赖数据，而是把信息混杂在一起。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "used by some companies",
+          "修饰对象": "Databases",
+          "中文翻译": "被一些公司使用的",
+          "说明": "过去分词短语作后置定语，修饰 Databases。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "collected systematically",
+          "修饰对象": "data",
+          "中文翻译": "系统采集的",
+          "说明": "过去分词短语作后置定语，修饰 data。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "but rather lump together information from different research projects",
+          "修饰对象": "rely",
+          "中文翻译": "而是把来自不同研究项目的信息混杂在一起",
+          "说明": "not...but rather... 连接两个并列谓语 rely 与 lump together。"
+        }
+      ],
+      "zh": "一些公司使用的数据库并不依赖系统采集的数据，而是把来自不同研究项目的信息混杂在一起。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2009-text2-s16",
+      "s": "This means that a DNA database may have a lot of data from some regions and not others, so a person's test results may differ depending on the company that processes the results.",
+      "para_no": 6,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "This",
+        "谓语": "means",
+        "宾语或表语": "that a DNA database may have a lot of data...",
+        "主干翻译": "这意味着一个DNA数据库可能有大量数据。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "that a DNA database may have a lot of data from some regions and not others, so a person's test results may differ depending on the company that processes the results",
+          "修饰对象": "means",
+          "中文翻译": "一个DNA数据库可能拥有来自某些地区而非其他地区的大量数据，因此一个人的检测结果可能因处理结果的公司不同而有所差异",
+          "说明": "that 引导，作 means 的宾语从句，从句内含 so 引导的结果分句。"
+        },
+        {
+          "成分类型": "状语从句(结果)",
+          "原文": "so a person's test results may differ depending on the company that processes the results",
+          "修饰对象": "differ",
+          "中文翻译": "因此一个人的检测结果可能因处理结果的公司不同而有所差异",
+          "说明": "so 引导结果状语，与前半句构成因果。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that processes the results",
+          "修饰对象": "company",
+          "中文翻译": "处理结果的",
+          "说明": "that 引导定语从句，修饰 the company。"
+        }
+      ],
+      "zh": "这意味着，一个DNA数据库可能拥有来自某些地区而非其他地区的大量数据，因此一个人的检测结果可能会因处理结果的公司不同而有所差异。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2009-text2-s17",
+      "s": "In addition, the computer programs a company uses to estimate relationships may be patented and not subject to peer review or outside evaluation.",
+      "para_no": 6,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "the computer programs",
+        "谓语": "may be",
+        "宾语或表语": "patented",
+        "主干翻译": "（公司所用的）计算机程序可能受专利保护。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "a company uses to estimate relationships",
+          "修饰对象": "programs",
+          "中文翻译": "公司用来估算亲缘关系的",
+          "说明": "省略关系代词 that/which，修饰 the computer programs。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to estimate relationships",
+          "修饰对象": "uses",
+          "中文翻译": "用来估算亲缘关系",
+          "说明": "不定式作目的状语，说明 uses 的目的。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "and not subject to peer review or outside evaluation",
+          "修饰对象": "patented",
+          "中文翻译": "且不接受同行评议或外部评估",
+          "说明": "and 连接两个并列表语 patented 与 not subject to...。"
+        }
+      ],
+      "zh": "此外，公司用来估算亲缘关系的计算机程序可能受专利保护，因而不接受同行评议或外部评估。",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2009-text2-s1",
+        "en1-2009-text2-s2"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2009-text2-s3",
+        "en1-2009-text2-s4"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2009-text2-s5",
+        "en1-2009-text2-s6"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2009-text2-s7",
+        "en1-2009-text2-s8"
+      ]
+    },
+    {
+      "para_no": 5,
+      "sids": [
+        "en1-2009-text2-s9",
+        "en1-2009-text2-s10",
+        "en1-2009-text2-s11",
+        "en1-2009-text2-s12",
+        "en1-2009-text2-s13"
+      ]
+    },
+    {
+      "para_no": 6,
+      "sids": [
+        "en1-2009-text2-s14",
+        "en1-2009-text2-s15",
+        "en1-2009-text2-s16",
+        "en1-2009-text2-s17"
+      ]
+    }
+  ]
+}

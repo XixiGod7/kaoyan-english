@@ -1,0 +1,739 @@
+{
+  "exam": "en1",
+  "key": "2004-t2",
+  "year": 2004,
+  "text_no": 2,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2004-text2-s1",
+      "s": "Over the past century, all kinds of unfairness and discrimination have been condemned or made illegal.",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "all kinds of unfairness and discrimination",
+        "谓语": "have been condemned or made illegal",
+        "宾语或表语": "—",
+        "主干翻译": "各种各样的不公平和歧视已被谴责或被宣布为非法。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "Over the past century",
+          "修饰对象": "have been condemned or made illegal",
+          "中文翻译": "在过去的一个世纪里",
+          "说明": "时间状语，修饰整个谓语动作。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "unfairness and discrimination",
+          "修饰对象": "unfairness",
+          "中文翻译": "不公平与歧视",
+          "说明": "两个并列名词共同作主语中心。"
+        }
+      ],
+      "zh": "在过去的一个世纪里，各种各样的不公平和歧视都已遭到谴责或被宣布为非法。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2004-text2-s2",
+      "s": "But one insidious form continues to thrive: alphabetism.",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "one insidious form",
+        "谓语": "continues to thrive",
+        "宾语或表语": "—",
+        "主干翻译": "一种隐蔽的形式仍在盛行。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to thrive",
+          "修饰对象": "continues",
+          "中文翻译": "盛行下去",
+          "说明": "动词不定式作 continues 的补足成分，表持续的状态。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "alphabetism",
+          "修饰对象": "form",
+          "中文翻译": "字母歧视",
+          "说明": "冒号后的名词对 one insidious form 作同位语，点明其具体所指。"
+        }
+      ],
+      "zh": "但有一种隐蔽的形式仍在盛行，那就是字母歧视。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2004-text2-s3",
+      "s": "This, for those as yet unaware of such a disadvantage, refers to discrimination against those whose surnames begin with a letter in the lower half of the alphabet.",
+      "para_no": 1,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "This",
+        "谓语": "refers to",
+        "宾语或表语": "discrimination",
+        "主干翻译": "这指的是一种歧视。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "for those as yet unaware of such a disadvantage",
+          "修饰对象": "refers to",
+          "中文翻译": "对于那些尚未意识到这种不利处境的人来说",
+          "说明": "插入在主谓之间的介词短语，面向读者作解释性说明。"
+        },
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "against those",
+          "修饰对象": "discrimination",
+          "中文翻译": "针对那些人的（歧视）",
+          "说明": "介词短语限定 discrimination 的对象。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "whose surnames begin with a letter in the lower half of the alphabet",
+          "修饰对象": "those",
+          "中文翻译": "其姓氏以字母表后半部分的字母开头的（那些人）",
+          "说明": "whose 引导的定语从句修饰先行词 those。"
+        }
+      ],
+      "zh": "对于那些尚未意识到这种不利处境的人来说，这指的是针对姓氏以字母表后半部分字母开头的人的歧视。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2004-text2-s4",
+      "s": "It has long been known that a taxi firm called AAAA cars has a big advantage over Zodiac cars when customers thumb through their phone directories.",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "It (形式主语)",
+        "谓语": "has long been known",
+        "宾语或表语": "that 主语从句",
+        "主干翻译": "人们早就知道（某事）。"
+      },
+      "components": [
+        {
+          "成分类型": "主语从句",
+          "原文": "that a taxi firm called AAAA cars has a big advantage over Zodiac cars when customers thumb through their phone directories",
+          "修饰对象": "It",
+          "中文翻译": "一家名为AAAA的出租车公司比Zodiac出租车公司有很大优势（当顾客翻查电话簿时）",
+          "说明": "that 引导真正的主语从句，It 为形式主语。k 提示标为宾语/表语，此处实为形式主语对应的主语从句。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "called AAAA cars",
+          "修饰对象": "firm",
+          "中文翻译": "名为AAAA的（出租车公司）",
+          "说明": "过去分词短语作 firm 的后置定语。"
+        },
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "when customers thumb through their phone directories",
+          "修饰对象": "has",
+          "中文翻译": "当顾客翻查电话簿时",
+          "说明": "when 引导时间状语从句，修饰从句谓语 has。"
+        }
+      ],
+      "zh": "人们早就知道，当顾客翻查电话簿时，一家名为AAAA的出租车公司比Zodiac出租车公司具有很大的优势。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2004-text2-s5",
+      "s": "Less well known is the advantage that Adam Abbott has in life over Zoë Zysman.",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "the advantage",
+        "谓语": "is",
+        "宾语或表语": "Less well known",
+        "主干翻译": "（某种）优势鲜为人知。"
+      },
+      "components": [
+        {
+          "成分类型": "倒装",
+          "原文": "Less well known is the advantage",
+          "修饰对象": "—",
+          "中文翻译": "更鲜为人知的是这种优势",
+          "说明": "表语 Less well known 前置造成主系表倒装，正常语序为 the advantage is less well known。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that Adam Abbott has in life over Zoë Zysman",
+          "修饰对象": "advantage",
+          "中文翻译": "亚当·阿伯特在人生中相对于佐伊·齐斯曼所拥有的（优势）",
+          "说明": "that 引导限制性定语从句，that 作 has 的宾语，修饰 advantage。"
+        }
+      ],
+      "zh": "更鲜为人知的是亚当·阿伯特在人生中相对于佐伊·齐斯曼所拥有的那种优势。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2004-text2-s6",
+      "s": "English names are fairly evenly spread between the halves of the alphabet.",
+      "para_no": 2,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "English names",
+        "谓语": "are spread",
+        "宾语或表语": "—",
+        "主干翻译": "英文名字是分布的。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "between the halves of the alphabet",
+          "修饰对象": "are spread",
+          "中文翻译": "在字母表的两半之间",
+          "说明": "介词短语作地点/范围状语，修饰 are spread。"
+        }
+      ],
+      "zh": "英文名字在字母表的前后两半之间分布得相当均匀。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2004-text2-s7",
+      "s": "Yet a suspiciously large number of top people have surnames beginning with letters between A and K.",
+      "para_no": 2,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "a suspiciously large number of top people",
+        "谓语": "have",
+        "宾语或表语": "surnames",
+        "主干翻译": "数量大得可疑的高层人物拥有姓氏。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "beginning with letters between A and K",
+          "修饰对象": "surnames",
+          "中文翻译": "以A到K之间字母开头的（姓氏）",
+          "说明": "现在分词短语作 surnames 的后置定语。"
+        }
+      ],
+      "zh": "然而，数量大得可疑的高层人物，其姓氏都以A到K之间的字母开头。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2004-text2-s8",
+      "s": "Thus the American president and vice-president have surnames starting with B and C respectively; and 26 of George Bush's predecessors (including his father) had surnames in the first half of the alphabet against just 16 in the second half.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "the American president and vice-president",
+        "谓语": "have",
+        "宾语或表语": "surnames",
+        "主干翻译": "美国总统和副总统拥有姓氏。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "starting with B and C respectively",
+          "修饰对象": "surnames",
+          "中文翻译": "分别以B和C开头的（姓氏）",
+          "说明": "现在分词短语作 surnames 的后置定语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "26 of George Bush's predecessors (including his father) had surnames in the first half of the alphabet against just 16 in the second half",
+          "修饰对象": "have",
+          "中文翻译": "乔治·布什的前任中有26位姓氏在字母表前半部分，而后半部分仅有16位",
+          "说明": "由分号和 and 连接的并列分句，与前一分句并列。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "(including his father)",
+          "修饰对象": "predecessors",
+          "中文翻译": "（包括他父亲）",
+          "说明": "括号内插入语，补充说明 predecessors。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "against just 16 in the second half",
+          "修饰对象": "had",
+          "中文翻译": "相比之下后半部分仅有16位",
+          "说明": "against 引导对比性介词短语，与前文形成对照。"
+        }
+      ],
+      "zh": "因此，美国总统和副总统的姓氏分别以B和C开头；乔治·布什的前任中（包括他的父亲）有26位姓氏处于字母表前半部分，而处于后半部分的仅有16位。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2004-text2-s9",
+      "s": "Even more striking, six of the seven heads of government of the G 7 rich countries are alphabetically advantaged (Berlusconi, Blair, Bush, Chirac, Chrétien and Koizumi).",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "six of the seven heads of government of the G 7 rich countries",
+        "谓语": "are",
+        "宾语或表语": "alphabetically advantaged",
+        "主干翻译": "七国集团富国中七位政府首脑里有六位在字母上占优。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "Even more striking",
+          "修饰对象": "—",
+          "中文翻译": "更引人注目的是",
+          "说明": "句首形容词短语作评注性插入语，引出后文。"
+        },
+        {
+          "成分类型": "同位语",
+          "原文": "(Berlusconi, Blair, Bush, Chirac, Chrétien and Koizumi)",
+          "修饰对象": "heads",
+          "中文翻译": "（贝卢斯科尼、布莱尔、布什、希拉克、克雷蒂安和小泉）",
+          "说明": "括号内人名列举对 heads of government 作同位语。k 提示标为同位语/插入语，此处取同位语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "Berlusconi, Blair, Bush, Chirac, Chrétien and Koizumi",
+          "修饰对象": "Berlusconi",
+          "中文翻译": "贝卢斯科尼、布莱尔、布什、希拉克、克雷蒂安和小泉",
+          "说明": "六个并列人名共同构成同位成分内部的并列结构。"
+        }
+      ],
+      "zh": "更引人注目的是，七国集团富裕国家的七位政府首脑中有六位在字母上占优（贝卢斯科尼、布莱尔、布什、希拉克、克雷蒂安和小泉）。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2004-text2-s10",
+      "s": "The world's three top central bankers (Greenspan, Duisenberg and Hayami) are all close to the top of the alphabet, even if one of them really uses Japanese characters.",
+      "para_no": 3,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "The world's three top central bankers",
+        "谓语": "are",
+        "宾语或表语": "all close to the top of the alphabet",
+        "主干翻译": "世界三大顶尖央行行长都接近字母表的顶端。"
+      },
+      "components": [
+        {
+          "成分类型": "同位语",
+          "原文": "(Greenspan, Duisenberg and Hayami)",
+          "修饰对象": "bankers",
+          "中文翻译": "（格林斯潘、杜伊森贝赫和速水）",
+          "说明": "括号内人名对 central bankers 作同位语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "Greenspan, Duisenberg and Hayami",
+          "修饰对象": "Greenspan",
+          "中文翻译": "格林斯潘、杜伊森贝赫和速水",
+          "说明": "三个并列人名构成同位成分内部的并列结构。"
+        },
+        {
+          "成分类型": "状语从句(让步)",
+          "原文": "even if one of them really uses Japanese characters",
+          "修饰对象": "are",
+          "中文翻译": "即便他们当中有一位实际上使用的是日文字符",
+          "说明": "even if 引导让步状语从句，修饰主句谓语 are。"
+        }
+      ],
+      "zh": "世界三大顶尖央行行长（格林斯潘、杜伊森贝赫和速水）都接近字母表的顶端，即便他们当中有一位实际上使用的是日文字符。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2004-text2-s11",
+      "s": "As are the world's five richest men (Gates, Buffett, Allen, Ellison and Albrecht).",
+      "para_no": 3,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "the world's five richest men",
+        "谓语": "are",
+        "宾语或表语": "(承前省略)",
+        "主干翻译": "世界五大富豪也是如此。"
+      },
+      "components": [
+        {
+          "成分类型": "倒装",
+          "原文": "As are the world's five richest men",
+          "修饰对象": "—",
+          "中文翻译": "世界五大富豪也是如此",
+          "说明": "As 引导的省略+倒装结构，are 提到主语前，表示同样情况，承接上句。"
+        },
+        {
+          "成分类型": "省略",
+          "原文": "As are the world's five richest men",
+          "修饰对象": "are",
+          "中文翻译": "（也是接近字母表顶端的）",
+          "说明": "省略了与上句相同的表语 close to the top of the alphabet。"
+        },
+        {
+          "成分类型": "同位语",
+          "原文": "(Gates, Buffett, Allen, Ellison and Albrecht)",
+          "修饰对象": "men",
+          "中文翻译": "（盖茨、巴菲特、艾伦、埃里森和阿尔布雷希特）",
+          "说明": "括号内人名对 men 作同位语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "Gates, Buffett, Allen, Ellison and Albrecht",
+          "修饰对象": "Gates",
+          "中文翻译": "盖茨、巴菲特、艾伦、埃里森和阿尔布雷希特",
+          "说明": "五个并列人名构成同位成分内部的并列结构。"
+        }
+      ],
+      "zh": "世界五大富豪（盖茨、巴菲特、艾伦、埃里森和阿尔布雷希特）同样如此。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2004-text2-s12",
+      "s": "Can this merely be coincidence?",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "this",
+        "谓语": "Can be",
+        "宾语或表语": "coincidence",
+        "主干翻译": "这能仅仅是巧合吗？"
+      },
+      "components": [
+        {
+          "成分类型": "倒装",
+          "原文": "Can this merely be coincidence",
+          "修饰对象": "—",
+          "中文翻译": "这能仅仅是巧合吗",
+          "说明": "一般疑问句中情态动词 Can 提至主语前，构成疑问倒装。"
+        }
+      ],
+      "zh": "这难道仅仅是巧合吗？",
+      "underline": null
+    },
+    {
+      "sid": "en1-2004-text2-s13",
+      "s": "One theory, dreamt up in all the spare time enjoyed by the alphabetically disadvantaged, is that the rot sets in early.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "One theory",
+        "谓语": "is",
+        "宾语或表语": "that 表语从句",
+        "主干翻译": "有一种理论认为（某事）。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "dreamt up in all the spare time enjoyed by the alphabetically disadvantaged",
+          "修饰对象": "theory",
+          "中文翻译": "在字母上处于不利地位者所享有的全部空闲时间里凭空想出的（理论）",
+          "说明": "过去分词短语作 theory 的后置定语，插在主谓之间。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "enjoyed by the alphabetically disadvantaged",
+          "修饰对象": "time",
+          "中文翻译": "被字母上处于不利地位者所享有的（空闲时间）",
+          "说明": "过去分词短语作 spare time 的后置定语。"
+        },
+        {
+          "成分类型": "表语从句",
+          "原文": "that the rot sets in early",
+          "修饰对象": "is",
+          "中文翻译": "这种弊病在早期就已埋下",
+          "说明": "that 引导表语从句，说明 theory 的内容。"
+        }
+      ],
+      "zh": "有一种理论是那些在字母上处于不利地位的人利用其全部空闲时间凭空想出来的，它认为这种弊病在很早的时候就已经埋下了。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2004-text2-s14",
+      "s": "At the start of the first year in infant school, teachers seat pupils alphabetically from the front, to make it easier to remember their names.",
+      "para_no": 4,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "teachers",
+        "谓语": "seat",
+        "宾语或表语": "pupils",
+        "主干翻译": "老师给学生排座位。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "At the start of the first year in infant school",
+          "修饰对象": "seat",
+          "中文翻译": "在幼儿学校第一学年开始时",
+          "说明": "句首介词短语作时间状语。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "alphabetically from the front",
+          "修饰对象": "seat",
+          "中文翻译": "按字母顺序从前排开始",
+          "说明": "方式/方位状语，说明排座位的方式。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to make it easier to remember their names",
+          "修饰对象": "seat",
+          "中文翻译": "以便更容易记住他们的名字",
+          "说明": "不定式短语作目的状语，修饰主句谓语 seat。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "it easier to remember their names",
+          "修饰对象": "make",
+          "中文翻译": "使记住他们的名字这件事更容易",
+          "说明": "make 后接 it 形式宾语+宾补，真正宾语为后面的不定式。k 提示按宾语成分处理。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to remember their names",
+          "修饰对象": "easier",
+          "中文翻译": "记住他们的名字",
+          "说明": "不定式作 easier 的逻辑主语（真正宾语），it 为形式宾语指代该不定式。"
+        }
+      ],
+      "zh": "在幼儿学校第一学年开始时，老师们按字母顺序从前排开始给学生排座位，以便更容易记住他们的名字。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2004-text2-s15",
+      "s": "So short-sighted Zysman junior gets stuck in the back row, and is rarely asked the improving questions posed by those insensitive teachers.",
+      "para_no": 4,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "short-sighted Zysman junior",
+        "谓语": "gets stuck",
+        "宾语或表语": "—",
+        "主干翻译": "近视的小齐斯曼被困住了。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "in the back row",
+          "修饰对象": "gets stuck",
+          "中文翻译": "在后排",
+          "说明": "介词短语作地点状语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "is rarely asked the improving questions posed by those insensitive teachers",
+          "修饰对象": "gets stuck",
+          "中文翻译": "也很少被那些迟钝的老师提问那些能让人进步的问题",
+          "说明": "由 and 连接的并列谓语，与 gets stuck 并列共用主语。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "posed by those insensitive teachers",
+          "修饰对象": "questions",
+          "中文翻译": "由那些迟钝的老师提出的（问题）",
+          "说明": "过去分词短语作 questions 的后置定语。"
+        }
+      ],
+      "zh": "于是，近视的小齐斯曼被困在后排，也很少被那些麻木不仁的老师提问那些能让人进步的问题。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2004-text2-s16",
+      "s": "At the time the alphabetically disadvantaged may think they have had a lucky escape.",
+      "para_no": 4,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "the alphabetically disadvantaged",
+        "谓语": "may think",
+        "宾语或表语": "宾语从句",
+        "主干翻译": "字母上处于不利地位的人可能会认为（某事）。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "At the time",
+          "修饰对象": "may think",
+          "中文翻译": "在当时",
+          "说明": "句首介词短语作时间状语。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "they have had a lucky escape",
+          "修饰对象": "think",
+          "中文翻译": "他们幸运地逃过了一劫",
+          "说明": "省略引导词 that 的宾语从句，作 think 的宾语。"
+        }
+      ],
+      "zh": "在当时，那些字母上处于不利地位的人可能会以为自己幸运地逃过了一劫。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2004-text2-s17",
+      "s": "Yet the result may be worse qualifications, because they get less individual attention, as well as less confidence in speaking publicly.",
+      "para_no": 4,
+      "para_seq": 5,
+      "trunk": {
+        "主语": "the result",
+        "谓语": "may be",
+        "宾语或表语": "worse qualifications",
+        "主干翻译": "其结果可能是更差的资历。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(原因)",
+          "原文": "because they get less individual attention, as well as less confidence in speaking publicly",
+          "修饰对象": "be",
+          "中文翻译": "因为他们得到的个别关注较少，当众讲话的自信也较少",
+          "说明": "because 引导原因状语从句，修饰主句系动词 be。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "less confidence in speaking publicly",
+          "修饰对象": "attention",
+          "中文翻译": "更少的当众讲话的自信",
+          "说明": "由 as well as 连接，与 less individual attention 并列，同作 get 的宾语。"
+        }
+      ],
+      "zh": "然而，其结果可能是较差的资历，因为他们得到的个别关注较少，当众讲话的自信也较低。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2004-text2-s18",
+      "s": "The humiliation continues.",
+      "para_no": 5,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The humiliation",
+        "谓语": "continues",
+        "宾语或表语": "—",
+        "主干翻译": "这种羞辱仍在继续。"
+      },
+      "components": [],
+      "zh": "这种羞辱还在继续。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2004-text2-s19",
+      "s": "At university graduation ceremonies, the ABCs proudly get their awards first; by the time they reach the Zysmans most people are literally having a ZZZ.",
+      "para_no": 5,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "the ABCs",
+        "谓语": "get",
+        "宾语或表语": "their awards",
+        "主干翻译": "姓氏以ABC开头的人领取他们的奖项。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "At university graduation ceremonies",
+          "修饰对象": "get",
+          "中文翻译": "在大学毕业典礼上",
+          "说明": "句首介词短语作地点/时间状语。"
+        },
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "by the time they reach the Zysmans",
+          "修饰对象": "get",
+          "中文翻译": "等到轮到齐斯曼这类人时",
+          "说明": "by the time 引导时间状语从句（原句此处不完整）。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "they reach the Zysmans",
+          "修饰对象": "time",
+          "中文翻译": "他们轮到齐斯曼这类人的（那个时候）",
+          "说明": "k 提示将其视作修饰 time 的从句，by the time 引导，从句修饰 time。"
+        }
+      ],
+      "zh": "在大学毕业典礼上，姓氏以 ABC 开头的人骄傲地最先领奖；而等轮到齐斯曼这类姓氏时，大多数人简直已经昏昏欲睡了。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2004-text2-s20",
+      "s": "Shortlists for job interviews, election ballot papers, lists of conference speakers and attendees: all tend to be drawn up alphabetically, and their recipients lose interest as they plough through them.",
+      "para_no": 5,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "all",
+        "谓语": "tend to be drawn up",
+        "宾语或表语": "—",
+        "主干翻译": "所有这些往往都是按字母顺序拟定的。"
+      },
+      "components": [
+        {
+          "成分类型": "同位语",
+          "原文": "Shortlists for job interviews, election ballot papers, lists of conference speakers and attendees",
+          "修饰对象": "all",
+          "中文翻译": "求职面试的候选名单、选举投票单、会议发言者和与会者名单",
+          "说明": "冒号前的列举性名词短语，由 all 复指作同位说明；其内部为并列结构。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "Shortlists for job interviews, election ballot papers, lists of conference speakers and attendees",
+          "修饰对象": "Shortlists",
+          "中文翻译": "求职候选名单、选举投票单、会议发言者及与会者名单",
+          "说明": "三类名单并列罗列。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to be drawn up alphabetically",
+          "修饰对象": "tend",
+          "中文翻译": "按字母顺序拟定",
+          "说明": "不定式作 tend 的补足成分。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "their recipients lose interest as they plough through them",
+          "修饰对象": "tend",
+          "中文翻译": "收到名单的人在艰难地从头看到尾时会逐渐失去兴趣",
+          "说明": "由 and 连接的并列分句，与前一分句并列。"
+        },
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "as they plough through them",
+          "修饰对象": "lose",
+          "中文翻译": "当他们费力地从头读到尾时",
+          "说明": "as 引导时间状语从句，表伴随的时间过程，修饰 lose。"
+        }
+      ],
+      "zh": "求职面试的候选名单、选举投票单、会议发言者及与会者名单——所有这些往往都按字母顺序拟定，而收到这些名单的人在费力地从头看到尾的过程中会逐渐失去兴趣。",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2004-text2-s1",
+        "en1-2004-text2-s2",
+        "en1-2004-text2-s3"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2004-text2-s4",
+        "en1-2004-text2-s5",
+        "en1-2004-text2-s6",
+        "en1-2004-text2-s7"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2004-text2-s8",
+        "en1-2004-text2-s9",
+        "en1-2004-text2-s10",
+        "en1-2004-text2-s11"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2004-text2-s12",
+        "en1-2004-text2-s13",
+        "en1-2004-text2-s14",
+        "en1-2004-text2-s15",
+        "en1-2004-text2-s16",
+        "en1-2004-text2-s17"
+      ]
+    },
+    {
+      "para_no": 5,
+      "sids": [
+        "en1-2004-text2-s18",
+        "en1-2004-text2-s19",
+        "en1-2004-text2-s20"
+      ]
+    }
+  ]
+}

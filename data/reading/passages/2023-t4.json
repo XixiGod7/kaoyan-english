@@ -1,0 +1,789 @@
+{
+  "exam": "en1",
+  "key": "2023-t4",
+  "year": 2023,
+  "text_no": 4,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2023-text4-s1",
+      "s": "Scientific papers are the recordkeepers of progress in research.",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Scientific papers",
+        "谓语": "are",
+        "宾语或表语": "the recordkeepers",
+        "主干翻译": "科学论文是记录者。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "of progress in research",
+          "修饰对象": "recordkeepers",
+          "中文翻译": "研究进展的",
+          "说明": "of短语修饰recordkeepers，其中in research进一步修饰progress"
+        }
+      ],
+      "zh": "科学论文是研究进展的记录者。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2023-text4-s2",
+      "s": "Each year researchers publish millions of papers in more than 30,000 journals.",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "researchers",
+        "谓语": "publish",
+        "宾语或表语": "millions of papers",
+        "主干翻译": "研究人员发表数百万篇论文。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "Each year",
+          "修饰对象": "publish",
+          "中文翻译": "每年",
+          "说明": "时间状语，修饰谓语publish"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "in more than 30,000 journals",
+          "修饰对象": "publish",
+          "中文翻译": "在三万多种期刊上",
+          "说明": "地点状语，修饰publish"
+        }
+      ],
+      "zh": "每年，研究人员在三万多种期刊上发表数百万篇论文。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2023-text4-s3",
+      "s": "The scientific community measures the quality of those papers in a number of ways, including the perceived quality of the journal (as reflected by the title's impact factor) and the number of citations a specific paper accumulates.",
+      "para_no": 1,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "The scientific community",
+        "谓语": "measures",
+        "宾语或表语": "the quality of those papers",
+        "主干翻译": "科学界衡量那些论文的质量。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "in a number of ways, including the perceived quality of the journal",
+          "修饰对象": "measures",
+          "中文翻译": "通过多种方式，包括期刊被认为的质量",
+          "说明": "方式状语，including引出方式的具体内容"
+        },
+        {
+          "成分类型": "状语从句(比较)",
+          "原文": "as reflected by the title's impact factor",
+          "修饰对象": "quality",
+          "中文翻译": "正如该刊物的影响因子所反映的那样",
+          "说明": "as引导方式/比较状语（省略it is），说明perceived quality如何体现"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "the number of citations a specific paper accumulates",
+          "修饰对象": "quality",
+          "中文翻译": "某篇具体论文所累积的引用数量",
+          "说明": "与the perceived quality并列，同为including的宾语"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "a specific paper accumulates",
+          "修饰对象": "number",
+          "中文翻译": "某篇具体论文所累积的",
+          "说明": "省略关系词that/which的定语从句，修饰the number of citations"
+        }
+      ],
+      "zh": "科学界通过多种方式衡量这些论文的质量，包括期刊被认为的质量（正如该刊影响因子所反映的那样）以及某篇具体论文所累积的引用数量。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2023-text4-s4",
+      "s": "The careers of scientists and the reputation of their institutions depend on the number and prestige of the papers they produce, but even more so on the citations attracted by these papers.",
+      "para_no": 1,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "The careers of scientists and the reputation of their institutions",
+        "谓语": "depend",
+        "宾语或表语": "on the number and prestige of the papers",
+        "主干翻译": "科学家的职业生涯和其所在机构的声誉取决于论文的数量和声望。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "the reputation of their institutions",
+          "修饰对象": "careers",
+          "中文翻译": "其所在机构的声誉",
+          "说明": "与The careers of scientists并列作主语"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "they produce",
+          "修饰对象": "papers",
+          "中文翻译": "他们所产出的",
+          "说明": "省略关系词的定语从句，修饰the papers"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "even more so on the citations attracted by these papers",
+          "修饰对象": "on",
+          "中文翻译": "更取决于这些论文所吸引的引用",
+          "说明": "由but连接，与前一on短语并列作状语，even more so表程度递进"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "attracted by these papers",
+          "修饰对象": "citations",
+          "中文翻译": "由这些论文所吸引的",
+          "说明": "过去分词短语作定语，修饰the citations"
+        }
+      ],
+      "zh": "科学家的职业生涯及其所在机构的声誉，取决于他们所产出论文的数量和声望，而更取决于这些论文所吸引的引用。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2023-text4-s5",
+      "s": "Citation cartels, where journals, authors, and institutions conspire to inflate citation numbers, have existed for a long time.",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Citation cartels",
+        "谓语": "have existed",
+        "宾语或表语": "for a long time",
+        "主干翻译": "引用卡特尔已经存在了很长时间。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "where journals, authors, and institutions conspire to inflate citation numbers",
+          "修饰对象": "cartels",
+          "中文翻译": "在其中，期刊、作者和机构串通起来虚增引用数量",
+          "说明": "where引导的定语从句修饰Citation cartels"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "authors, and institutions",
+          "修饰对象": "journals",
+          "中文翻译": "作者和机构",
+          "说明": "与journals并列作从句主语"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to inflate citation numbers",
+          "修饰对象": "conspire",
+          "中文翻译": "以虚增引用数量",
+          "说明": "动词不定式作目的状语，修饰conspire"
+        }
+      ],
+      "zh": "引用卡特尔——即期刊、作者和机构串通起来虚增引用数量——早已存在很久了。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2023-text4-s6",
+      "s": "In 2016, researchers developed an algorithm to recognize suspicious citation patterns, including groups of authors that disproportionately cite one another and groups of journals that cite each other frequently to increase the impact factors of their publications.",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "researchers",
+        "谓语": "developed",
+        "宾语或表语": "an algorithm",
+        "主干翻译": "研究人员开发了一种算法。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "In 2016",
+          "修饰对象": "developed",
+          "中文翻译": "2016年",
+          "说明": "时间状语，修饰developed"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to recognize suspicious citation patterns, including groups of authors that disproportionately cite one another and groups of journals that cite each other frequently to increase the impact factors of their publications",
+          "修饰对象": "algorithm",
+          "中文翻译": "用来识别可疑引用模式（包括相互过度引用的作者群体和相互频繁引用的期刊群体）的",
+          "说明": "动词不定式作定语修饰algorithm，including引出citation patterns的具体内容"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that disproportionately cite one another",
+          "修饰对象": "groups",
+          "中文翻译": "相互过度引用的",
+          "说明": "that引导的定语从句，修饰第一个groups of authors"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "groups of journals that cite each other frequently to increase the impact factors of their publications",
+          "修饰对象": "groups",
+          "中文翻译": "相互频繁引用以提高其刊物影响因子的期刊群体",
+          "说明": "与groups of authors并列，同为including的宾语"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that cite each other frequently to increase the impact factors of their publications",
+          "修饰对象": "groups",
+          "中文翻译": "相互频繁引用以提高其刊物影响因子的",
+          "说明": "that引导的定语从句，修饰groups of journals"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to increase the impact factors of their publications",
+          "修饰对象": "cite",
+          "中文翻译": "以提高其刊物的影响因子",
+          "说明": "不定式作目的状语，修饰cite each other frequently"
+        }
+      ],
+      "zh": "2016年，研究人员开发了一种算法，用以识别可疑的引用模式，包括相互过度引用的作者群体，以及为提高自身刊物影响因子而相互频繁引用的期刊群体。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2023-text4-s7",
+      "s": "Recently, another expression of this predatory behavior has emerged: so-called support service consultancies that provide language and other editorial support to individual authors and to journals sometimes advise contributors to add a number of citations to their articles.",
+      "para_no": 2,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "another expression of this predatory behavior",
+        "谓语": "has emerged",
+        "宾语或表语": "—",
+        "主干翻译": "这种掠夺性行为的另一种表现已经出现。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "Recently",
+          "修饰对象": "has emerged",
+          "中文翻译": "最近",
+          "说明": "时间状语，修饰has emerged"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "so-called support service consultancies that provide language and other editorial support to individual authors and to journals sometimes advise contributors to add a number of citations to their articles",
+          "修饰对象": "expression",
+          "中文翻译": "即所谓的支持服务咨询机构……有时会建议投稿者在其文章中添加若干引用",
+          "说明": "冒号后内容作expression的同位语，具体说明这种表现，其本身为一个完整句子（主语consultancies，谓语advise）"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that provide language and other editorial support to individual authors and to journals",
+          "修饰对象": "consultancies",
+          "中文翻译": "为个人作者和期刊提供语言及其他编辑支持的",
+          "说明": "that引导的定语从句，修饰consultancies"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "other editorial support",
+          "修饰对象": "language",
+          "中文翻译": "其他编辑支持",
+          "说明": "与language并列作provide的宾语"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to add a number of citations to their articles",
+          "修饰对象": "advise",
+          "中文翻译": "在其文章中添加若干引用",
+          "说明": "不定式作advise contributors的宾语补足语（advise sb to do）"
+        }
+      ],
+      "zh": "最近，这种掠夺性行为的另一种表现已经出现：那些为个人作者和期刊提供语言及其他编辑支持的所谓支持服务咨询机构，有时会建议投稿者在其文章中添加若干引用。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2023-text4-s8",
+      "s": "The advent of electronic publishing and authors' need to find outlets for their papers resulted in thousands of new journals.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The advent of electronic publishing and authors' need",
+        "谓语": "resulted in",
+        "宾语或表语": "thousands of new journals",
+        "主干翻译": "电子出版的出现和作者的需求催生了数千种新期刊。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "authors' need to find outlets for their papers",
+          "修饰对象": "advent",
+          "中文翻译": "作者为其论文寻找发表渠道的需求",
+          "说明": "与The advent of electronic publishing并列作主语"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to find outlets for their papers",
+          "修饰对象": "need",
+          "中文翻译": "为其论文寻找发表渠道的",
+          "说明": "不定式作定语，修饰need"
+        }
+      ],
+      "zh": "电子出版的出现以及作者为其论文寻找发表渠道的需求，催生了数千种新期刊。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2023-text4-s9",
+      "s": "The birth of predatory journals wasn't far behind.",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "The birth of predatory journals",
+        "谓语": "wasn't",
+        "宾语或表语": "far behind",
+        "主干翻译": "掠夺性期刊的诞生紧随其后。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "of predatory journals",
+          "修饰对象": "birth",
+          "中文翻译": "掠夺性期刊的",
+          "说明": "of短语修饰The birth"
+        }
+      ],
+      "zh": "掠夺性期刊的诞生也紧随其后。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2023-text4-s10",
+      "s": "These journals can act as milk cows where every single article in an issue may cite a specific paper or a series of papers.",
+      "para_no": 3,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "These journals",
+        "谓语": "can act",
+        "宾语或表语": "as milk cows",
+        "主干翻译": "这些期刊可充当奶牛。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "where every single article in an issue may cite a specific paper or a series of papers",
+          "修饰对象": "cows",
+          "中文翻译": "在其中，某一期里的每一篇文章都可能引用某一篇或一系列特定论文",
+          "说明": "where引导的定语从句，修饰milk cows"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "a series of papers",
+          "修饰对象": "paper",
+          "中文翻译": "一系列论文",
+          "说明": "由or连接，与a specific paper并列作cite的宾语"
+        }
+      ],
+      "zh": "这些期刊可充当“奶牛”：某一期中的每一篇文章都可能引用某一篇或一系列特定论文。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2023-text4-s11",
+      "s": "In some instances, there is absolutely no relationship between the content of the article and the citations.",
+      "para_no": 3,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "there",
+        "谓语": "is",
+        "宾语或表语": "absolutely no relationship",
+        "主干翻译": "完全不存在任何关联。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "In some instances",
+          "修饰对象": "is",
+          "中文翻译": "在某些情况下",
+          "说明": "状语，修饰全句"
+        },
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "between the content of the article and the citations",
+          "修饰对象": "relationship",
+          "中文翻译": "文章内容与引用之间的",
+          "说明": "between...and...短语修饰relationship"
+        }
+      ],
+      "zh": "在某些情况下，文章内容与引用之间完全没有任何关联。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2023-text4-s12",
+      "s": "The peculiar part is that the journal that the editor is supposedly working for is not profiting at all — it is just providing citations to other journals.",
+      "para_no": 3,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "The peculiar part",
+        "谓语": "is",
+        "宾语或表语": "that...（表语从句）",
+        "主干翻译": "奇怪之处在于（某种情况）。"
+      },
+      "components": [
+        {
+          "成分类型": "表语从句",
+          "原文": "that the journal that the editor is supposedly working for is not profiting at all",
+          "修饰对象": "—",
+          "中文翻译": "编辑名义上为之工作的那家期刊根本没有从中获利",
+          "说明": "that引导表语从句，作is的表语"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that the editor is supposedly working for",
+          "修饰对象": "journal",
+          "中文翻译": "编辑名义上为之工作的",
+          "说明": "that引导的定语从句，修饰表语从句中的主语the journal"
+        },
+        {
+          "成分类型": "省略",
+          "原文": "it is just providing citations to other journals",
+          "修饰对象": "—",
+          "中文翻译": "它只是在为其他期刊提供引用",
+          "说明": "破折号后的并列分句，对前文作补充说明"
+        }
+      ],
+      "zh": "奇怪的是，编辑名义上为之工作的那家期刊根本没有从中获利——它只是在为其他期刊提供引用而已。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2023-text4-s13",
+      "s": "Such practices can lead an article to accrue more than 150 citations in the same year that it was published.",
+      "para_no": 3,
+      "para_seq": 5,
+      "trunk": {
+        "主语": "Such practices",
+        "谓语": "can lead",
+        "宾语或表语": "an article",
+        "主干翻译": "这类做法能使一篇文章（累积大量引用）。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to accrue more than 150 citations in the same year that it was published",
+          "修饰对象": "lead",
+          "中文翻译": "在发表的同一年内累积超过150次引用",
+          "说明": "不定式作lead an article的宾语补足语（lead sth to do）"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that it was published",
+          "修饰对象": "year",
+          "中文翻译": "它得以发表的",
+          "说明": "that引导的定语从句，修饰the same year"
+        }
+      ],
+      "zh": "这类做法能使一篇文章在其发表的同一年内累积超过150次引用。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2023-text4-s14",
+      "s": "How insidious is this type of citation manipulation?",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "this type of citation manipulation",
+        "谓语": "is",
+        "宾语或表语": "How insidious",
+        "主干翻译": "这种引用操纵有多阴险？"
+      },
+      "components": [
+        {
+          "成分类型": "倒装",
+          "原文": "How insidious is this type of citation manipulation",
+          "修饰对象": "—",
+          "中文翻译": "这种引用操纵有多阴险",
+          "说明": "特殊疑问句结构，表语How insidious前置导致主谓倒装"
+        }
+      ],
+      "zh": "这种引用操纵到底有多阴险呢？",
+      "underline": null
+    },
+    {
+      "sid": "en1-2023-text4-s15",
+      "s": "In one example, an individual — acting as author, editor, and consultant — was able to use at least 15 journals as citation providers to articles published by five scientists at three universities.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "an individual",
+        "谓语": "was able",
+        "宾语或表语": "to use at least 15 journals",
+        "主干翻译": "一个人能够利用至少15种期刊。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "In one example",
+          "修饰对象": "was",
+          "中文翻译": "举一个例子",
+          "说明": "状语，修饰全句"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "acting as author, editor, and consultant",
+          "修饰对象": "was",
+          "中文翻译": "同时担任作者、编辑和顾问",
+          "说明": "现在分词短语作伴随状语（插入于破折号间），说明an individual的身份"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "editor, and consultant",
+          "修饰对象": "author",
+          "中文翻译": "编辑和顾问",
+          "说明": "与author并列，作as的宾语"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to use at least 15 journals as citation providers to articles published by five scientists at three universities",
+          "修饰对象": "able",
+          "中文翻译": "把至少15种期刊用作引用提供者，为三所大学五位科学家发表的文章提供引用",
+          "说明": "不定式作be able to的补足成分"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "published by five scientists at three universities",
+          "修饰对象": "articles",
+          "中文翻译": "由三所大学五位科学家发表的",
+          "说明": "过去分词短语作定语，修饰articles"
+        }
+      ],
+      "zh": "举个例子，某人同时担任作者、编辑和顾问，竟能将至少15种期刊用作引用提供者，为三所大学五位科学家发表的文章提供引用。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2023-text4-s16",
+      "s": "The problem is rampant in Scopus, a citation database, which includes a high number of the new \"international\" journals.",
+      "para_no": 4,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "The problem",
+        "谓语": "is",
+        "宾语或表语": "rampant in Scopus",
+        "主干翻译": "这一问题在Scopus中十分猖獗。"
+      },
+      "components": [
+        {
+          "成分类型": "同位语从句",
+          "原文": "a citation database",
+          "修饰对象": "Scopus",
+          "中文翻译": "一个引文数据库",
+          "说明": "名词短语作Scopus的同位语（非从句，说明Scopus是什么）"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "which includes a high number of the new \"international\" journals",
+          "修饰对象": "Scopus",
+          "中文翻译": "它收录了大量新的“国际”期刊",
+          "说明": "which引导的非限制性定语从句，修饰Scopus"
+        }
+      ],
+      "zh": "这一问题在Scopus（一个收录了大量新的“国际”期刊的引文数据库）中十分猖獗。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2023-text4-s17",
+      "s": "In fact, a listing in Scopus seems to be a criterion to be targeted in this type of citation manipulation.",
+      "para_no": 4,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "a listing in Scopus",
+        "谓语": "seems to be",
+        "宾语或表语": "a criterion",
+        "主干翻译": "被Scopus收录似乎是一个标准。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "In fact",
+          "修饰对象": "seems",
+          "中文翻译": "事实上",
+          "说明": "状语，修饰全句"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to be a criterion to be targeted in this type of citation manipulation",
+          "修饰对象": "seems",
+          "中文翻译": "成为在这类引用操纵中被瞄准的一个标准",
+          "说明": "不定式作seem的表语成分"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to be targeted in this type of citation manipulation",
+          "修饰对象": "criterion",
+          "中文翻译": "在这类引用操纵中被瞄准的",
+          "说明": "不定式（被动）作定语，修饰a criterion"
+        }
+      ],
+      "zh": "事实上，被Scopus收录似乎成了在这类引用操纵中被瞄准的一个标准。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2023-text4-s18",
+      "s": "Scopus itself has all the data necessary to detect this malpractice.",
+      "para_no": 5,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Scopus",
+        "谓语": "has",
+        "宾语或表语": "all the data",
+        "主干翻译": "Scopus本身拥有所有数据。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "itself",
+          "修饰对象": "Scopus",
+          "中文翻译": "本身",
+          "说明": "反身代词作同位语，强调Scopus"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "necessary to detect this malpractice",
+          "修饰对象": "data",
+          "中文翻译": "检测这种不当行为所必需的",
+          "说明": "形容词短语necessary（含不定式to detect）作后置定语，修饰the data"
+        }
+      ],
+      "zh": "Scopus自身就拥有检测这种不当行为所需的全部数据。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2023-text4-s19",
+      "s": "Red flags include a large number of citations to an article within the first year.",
+      "para_no": 5,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Red flags",
+        "谓语": "include",
+        "宾语或表语": "a large number of citations",
+        "主干翻译": "危险信号包括大量引用。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "to an article",
+          "修饰对象": "citations",
+          "中文翻译": "对一篇文章的",
+          "说明": "to短语修饰citations"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "within the first year",
+          "修饰对象": "citations",
+          "中文翻译": "在第一年内",
+          "说明": "时间状语，限定引用发生的时间"
+        }
+      ],
+      "zh": "危险信号包括一篇文章在第一年内就获得大量引用。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2023-text4-s20",
+      "s": "And for authors who wish to steer clear of citation cartel activities: when an editor, a reviewer, or a support service asks you to add inappropriate references, do not oblige and do report the request to the journal.",
+      "para_no": 5,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "(you)",
+        "谓语": "do not oblige and do report",
+        "宾语或表语": "the request",
+        "主干翻译": "（你）不要照办，而要举报这一要求。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "for authors who wish to steer clear of citation cartel activities",
+          "修饰对象": "report",
+          "中文翻译": "对于希望远离引用卡特尔活动的作者来说",
+          "说明": "for短语作全句状语，点明建议的对象"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "who wish to steer clear of citation cartel activities",
+          "修饰对象": "authors",
+          "中文翻译": "希望远离引用卡特尔活动的",
+          "说明": "who引导的定语从句，修饰authors"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to steer clear of citation cartel activities",
+          "修饰对象": "wish",
+          "中文翻译": "远离引用卡特尔活动",
+          "说明": "不定式作wish的宾语"
+        },
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "when an editor, a reviewer, or a support service asks you to add inappropriate references",
+          "修饰对象": "oblige",
+          "中文翻译": "当编辑、审稿人或支持服务机构要求你添加不当引用时",
+          "说明": "when引导时间状语从句，修饰主句的祈使动作"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "a reviewer, or a support service",
+          "修饰对象": "editor",
+          "中文翻译": "审稿人或支持服务机构",
+          "说明": "与an editor并列作从句主语"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to add inappropriate references",
+          "修饰对象": "asks",
+          "中文翻译": "添加不当引用",
+          "说明": "不定式作asks you的宾语补足语（ask sb to do）"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "do report the request to the journal",
+          "修饰对象": "oblige",
+          "中文翻译": "务必向期刊举报这一要求",
+          "说明": "由and连接，与do not oblige并列作主句谓语"
+        }
+      ],
+      "zh": "对于希望远离引用卡特尔活动的作者来说：当编辑、审稿人或支持服务机构要求你添加不当引用时，切勿照办，而务必向该期刊举报这一要求。",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2023-text4-s1",
+        "en1-2023-text4-s2",
+        "en1-2023-text4-s3",
+        "en1-2023-text4-s4"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2023-text4-s5",
+        "en1-2023-text4-s6",
+        "en1-2023-text4-s7"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2023-text4-s8",
+        "en1-2023-text4-s9",
+        "en1-2023-text4-s10",
+        "en1-2023-text4-s11",
+        "en1-2023-text4-s12",
+        "en1-2023-text4-s13"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2023-text4-s14",
+        "en1-2023-text4-s15",
+        "en1-2023-text4-s16",
+        "en1-2023-text4-s17"
+      ]
+    },
+    {
+      "para_no": 5,
+      "sids": [
+        "en1-2023-text4-s18",
+        "en1-2023-text4-s19",
+        "en1-2023-text4-s20"
+      ]
+    }
+  ]
+}

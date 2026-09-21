@@ -1,0 +1,697 @@
+{
+  "exam": "en1",
+  "key": "2007-t1",
+  "year": 2007,
+  "text_no": 1,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2007-text1-s1",
+      "s": "If you were to examine the birth certificates of every soccer player in 2006's World Cup tournament, you would most likely find a noteworthy quirk: elite soccer players are more likely to have been born in the earlier months of the year than in the later months.",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "you",
+        "谓语": "would find",
+        "宾语或表语": "a noteworthy quirk",
+        "主干翻译": "你会发现一个值得注意的怪现象。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "If you were to examine the birth certificates of every soccer player in 2006's World Cup tournament",
+          "修饰对象": "find",
+          "中文翻译": "如果你去查看2006年世界杯赛上每一名足球运动员的出生证明",
+          "说明": "If 引导虚拟条件状语从句，were to examine 表示对将来的假设。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to examine the birth certificates of every soccer player in 2006's World Cup tournament",
+          "修饰对象": "were",
+          "中文翻译": "去查看2006年世界杯赛上每一名足球运动员的出生证明",
+          "说明": "were to examine 为虚拟语气结构中的不定式，构成谓语，此处的不定式短语作其核心动词补足。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "elite soccer players are more likely to have been born in the earlier months of the year than in the later months",
+          "修饰对象": "quirk",
+          "中文翻译": "顶级足球运动员出生在一年中较早月份的可能性，比出生在较晚月份的可能性更大",
+          "说明": "冒号后的句子说明 quirk（怪现象）的具体内容，为同位语从句。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to have been born in the earlier months of the year than in the later months",
+          "修饰对象": "likely",
+          "中文翻译": "出生在一年中较早的月份而非较晚的月份",
+          "说明": "be likely to do 结构中的不定式，含 than 引导的比较。"
+        }
+      ],
+      "zh": "如果你去查看2006年世界杯赛上每一名足球运动员的出生证明，你很可能会发现一个值得注意的怪现象：顶级足球运动员出生在一年中较早月份的可能性，要大于出生在较晚月份的可能性。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2007-text1-s2",
+      "s": "If you then examined the European national youth teams that feed the World Cup and professional ranks, you would find this strange phenomenon to be even more pronounced.",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "you",
+        "谓语": "would find",
+        "宾语或表语": "this strange phenomenon to be even more pronounced",
+        "主干翻译": "你会发现这一奇怪现象更加明显。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "If you then examined the European national youth teams that feed the World Cup and professional ranks",
+          "修饰对象": "find",
+          "中文翻译": "如果你接着考察那些向世界杯和职业队输送人才的欧洲国家青年队",
+          "说明": "If 引导条件状语从句。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that feed the World Cup and professional ranks",
+          "修饰对象": "teams",
+          "中文翻译": "向世界杯和职业队输送（球员）的",
+          "说明": "that 引导定语从句修饰 teams。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "this strange phenomenon to be even more pronounced",
+          "修饰对象": "find",
+          "中文翻译": "这一奇怪现象变得更加明显",
+          "说明": "find + 宾语 + to be 的复合宾语结构，作 find 的宾语成分。"
+        }
+      ],
+      "zh": "如果你接着考察那些向世界杯和职业队输送人才的欧洲国家青年队，你会发现这一奇怪现象更加明显。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2007-text1-s3",
+      "s": "What might account for this strange phenomenon?",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "What",
+        "谓语": "might account for",
+        "宾语或表语": "this strange phenomenon",
+        "主干翻译": "什么能解释这一奇怪现象？"
+      },
+      "components": [],
+      "zh": "什么能解释这一奇怪现象呢？",
+      "underline": null
+    },
+    {
+      "sid": "en1-2007-text1-s4",
+      "s": "Here are a few guesses: a) certain astrological signs confer superior soccer skills; b) winter-born babies tend to have higher oxygen capacity, which increases soccer stamina; c) soccer-mad parents are more likely to conceive children in springtime, at the annual peak of soccer mania; d) none of the above.",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "a few guesses",
+        "谓语": "Here are",
+        "宾语或表语": "a few guesses",
+        "主干翻译": "这里有几种猜测。"
+      },
+      "components": [
+        {
+          "成分类型": "同位语从句",
+          "原文": "a) certain astrological signs confer superior soccer skills",
+          "修饰对象": "guesses",
+          "中文翻译": "a）某些星座赋予人卓越的足球技能",
+          "说明": "冒号后列举的各项内容是对 guesses 的同位说明，此为第 a 项。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "; b) winter-born babies tend to have higher oxygen capacity, which increases soccer stamina; c) soccer-mad parents are more likely to conceive children in springtime, at the annual peak of soccer mania; d) none of the above",
+          "修饰对象": "guesses",
+          "中文翻译": "b）冬季出生的婴儿往往拥有更高的氧气容量，这能增强足球耐力；c）痴迷足球的父母更可能在春季（足球的年度高峰期）怀上孩子；d）以上皆非",
+          "说明": "b、c、d 各项与 a 项并列，同为对 guesses 的列举说明。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to have higher oxygen capacity, which increases soccer stamina",
+          "修饰对象": "tend",
+          "中文翻译": "拥有更高的氧气容量",
+          "说明": "tend to do 结构中的不定式。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "which increases soccer stamina",
+          "修饰对象": "capacity",
+          "中文翻译": "（这）能增强足球耐力",
+          "说明": "which 引导非限制性定语从句修饰前面的 oxygen capacity（或整个小句）。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to conceive children in springtime, at the annual peak of soccer",
+          "修饰对象": "likely",
+          "中文翻译": "在春季（足球的年度高峰期）怀上孩子",
+          "说明": "be likely to do 结构中的不定式。"
+        }
+      ],
+      "zh": "这里有几种猜测：a）某些星座赋予人卓越的足球技能；b）冬季出生的婴儿往往拥有更高的氧气容量，这能增强足球耐力；c）痴迷足球的父母更可能在春季（足球的年度高峰期）怀上孩子；d）以上皆非。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2007-text1-s5",
+      "s": "Anders Ericsson, a 58-year-old psychology professor at Florida State University, says he believes strongly in \"none of the above.\"",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Anders Ericsson",
+        "谓语": "says",
+        "宾语或表语": "he believes strongly in \"none of the above.\"",
+        "主干翻译": "安德斯·埃里克森说他坚信“以上皆非”。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "a 58-year-old psychology professor at Florida State University",
+          "修饰对象": "Ericsson",
+          "中文翻译": "一位58岁的佛罗里达州立大学心理学教授",
+          "说明": "主语 Anders Ericsson 的同位语，插入说明其身份。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "he believes strongly in \"none of the above",
+          "修饰对象": "says",
+          "中文翻译": "他坚信“以上皆非”",
+          "说明": "省略 that 的宾语从句，作 says 的宾语。"
+        }
+      ],
+      "zh": "安德斯·埃里克森——一位58岁的佛罗里达州立大学心理学教授——说他坚信“以上皆非”这一答案。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2007-text1-s6",
+      "s": "Ericsson grew up in Sweden, and studied nuclear engineering until he realized he would have more opportunity to conduct his own research if he switched to psychology.",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Ericsson",
+        "谓语": "grew up; studied",
+        "宾语或表语": "nuclear engineering",
+        "主干翻译": "埃里克森在瑞典长大，学习核工程。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "studied nuclear engineering until he realized he would have more opportunity to conduct his own research if he switched to psychology",
+          "修饰对象": "grew",
+          "中文翻译": "学习核工程，直到他意识到如果改学心理学，他将有更多机会从事自己的研究",
+          "说明": "studied... 与 grew up 由 and 连接构成并列谓语。"
+        },
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "until he realized he would have more opportunity to conduct his own research if he switched to psychology",
+          "修饰对象": "studied",
+          "中文翻译": "直到他意识到（……）",
+          "说明": "until 引导时间状语从句修饰 studied。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "he would have more opportunity to conduct his own research if he switched to psychology",
+          "修饰对象": "realized",
+          "中文翻译": "如果改学心理学，他将有更多机会从事自己的研究",
+          "说明": "省略 that 的宾语从句，作 realized 的宾语。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to conduct his own research",
+          "修饰对象": "opportunity",
+          "中文翻译": "从事自己研究的（机会）",
+          "说明": "不定式作定语修饰 opportunity。"
+        },
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "if he switched to psychology",
+          "修饰对象": "have",
+          "中文翻译": "如果他改学心理学",
+          "说明": "if 引导条件状语从句，修饰宾语从句中的谓语 would have。"
+        }
+      ],
+      "zh": "埃里克森在瑞典长大，曾学习核工程，直到他意识到：如果改学心理学，他将有更多机会从事自己的研究。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2007-text1-s7",
+      "s": "His first experiment, nearly 30 years ago, involved memory: training a person to hear and then repeat a random series of numbers.",
+      "para_no": 3,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "His first experiment",
+        "谓语": "involved",
+        "宾语或表语": "memory",
+        "主干翻译": "他的第一项实验涉及记忆。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "nearly 30 years ago",
+          "修饰对象": "experiment",
+          "中文翻译": "大约30年前",
+          "说明": "插入的时间状语，补充说明实验的时间。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "training a person to hear and then repeat a random series of numbers",
+          "修饰对象": "memory",
+          "中文翻译": "训练一个人听并随后复述一串随机数字",
+          "说明": "冒号后的动名词短语作 memory 的同位语，说明实验内容。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to hear and then repeat a random series of numbers",
+          "修饰对象": "training",
+          "中文翻译": "去听并随后复述一串随机数字",
+          "说明": "train sb. to do 结构中的不定式。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "then repeat a random series of numbers",
+          "修饰对象": "hear",
+          "中文翻译": "随后复述一串随机数字",
+          "说明": "repeat 与 hear 由 and 连接，并列作不定式。"
+        }
+      ],
+      "zh": "他大约30年前的第一项实验涉及记忆：训练一个人听并随后复述一串随机数字。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2007-text1-s8",
+      "s": "\"With the first subject, after about 20 hours of training, his digit span had risen from 7 to 20,\" Ericsson recalls.",
+      "para_no": 3,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "his digit span",
+        "谓语": "had risen",
+        "宾语或表语": "from 7 to 20",
+        "主干翻译": "他的数字记忆广度从7位提高到了20位。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "With the first subject",
+          "修饰对象": "had risen",
+          "中文翻译": "对于第一位实验对象",
+          "说明": "with 引导的介词短语作状语，点明所述对象。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "after about 20 hours of training",
+          "修饰对象": "had risen",
+          "中文翻译": "在大约20小时的训练之后",
+          "说明": "after 引导的介词短语作时间状语。"
+        }
+      ],
+      "zh": "“对于第一位实验对象，在大约20小时的训练之后，他的数字记忆广度从7位提高到了20位，”埃里克森回忆道。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2007-text1-s9",
+      "s": "\"He kept improving, and after about 200 hours of training he had risen to over 80 numbers.\"",
+      "para_no": 3,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "He",
+        "谓语": "kept improving; had risen",
+        "宾语或表语": "improving; to over 80 numbers",
+        "主干翻译": "他不断进步，提高到了80多个数字。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "improving",
+          "修饰对象": "kept",
+          "中文翻译": "（不断）进步",
+          "说明": "keep doing 结构中的动名词作宾语，表持续的动作。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "after about 200 hours of training he had risen to over 80 numbers.\"",
+          "修饰对象": "kept",
+          "中文翻译": "在大约200小时的训练之后，他提高到了80多个数字",
+          "说明": "与前一分句由 and 连接构成并列句。"
+        }
+      ],
+      "zh": "“他不断进步，在大约200小时的训练之后，他已能记住80多个数字。”",
+      "underline": null
+    },
+    {
+      "sid": "en1-2007-text1-s10",
+      "s": "This success, coupled with later research showing that memory itself is not genetically determined, led Ericsson to conclude that the act of memorizing is more of a cognitive exercise than an intuitive one.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "This success",
+        "谓语": "led",
+        "宾语或表语": "Ericsson to conclude (...)",
+        "主干翻译": "这一成功使埃里克森得出结论。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "coupled with later research showing that memory itself is not genetically determined",
+          "修饰对象": "success",
+          "中文翻译": "再加上后来表明记忆本身并非由基因决定的研究",
+          "说明": "过去分词短语 coupled with... 作后置定语/插入，补充修饰 This success。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "showing that memory itself is not genetically determined",
+          "修饰对象": "research",
+          "中文翻译": "表明记忆本身并非由基因决定的",
+          "说明": "现在分词短语 showing... 作定语修饰 research。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "itself",
+          "修饰对象": "memory",
+          "中文翻译": "本身",
+          "说明": "反身代词 itself 用作 memory 的同位语，起强调作用。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that memory itself is not genetically determined",
+          "修饰对象": "showing",
+          "中文翻译": "记忆本身并非由基因决定",
+          "说明": "that 引导宾语从句，作分词 showing 的宾语。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to conclude that the act of memorizing is more of a cognitive exercise than an intuitive one",
+          "修饰对象": "led",
+          "中文翻译": "得出记忆行为更多是一种认知锻炼而非直觉行为的结论",
+          "说明": "lead sb. to do 结构中的不定式，作宾语补足语。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that the act of memorizing is more of a cognitive exercise than an intuitive one",
+          "修饰对象": "conclude",
+          "中文翻译": "记忆行为与其说是直觉行为，不如说更是一种认知锻炼",
+          "说明": "that 引导宾语从句，作 conclude 的宾语，含 more...than 比较结构。"
+        }
+      ],
+      "zh": "这一成功，再加上后来表明记忆本身并非由基因决定的研究，使埃里克森得出结论：记忆行为与其说是一种直觉行为，不如说更是一种认知锻炼。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2007-text1-s11",
+      "s": "In other words, whatever inborn differences two people may exhibit in their abilities to memorize, those differences are swamped by how well each person \"encodes\" the information.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "those differences",
+        "谓语": "are swamped",
+        "宾语或表语": "by how well each person \"encodes\" the information",
+        "主干翻译": "这些差异被每个人对信息的编码程度所淹没。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(让步)",
+          "原文": "whatever inborn differences two people may exhibit in their abilities to memorize",
+          "修饰对象": "swamped",
+          "中文翻译": "无论两个人在记忆能力上可能表现出怎样的天生差异",
+          "说明": "whatever 引导让步状语从句。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to memorize",
+          "修饰对象": "abilities",
+          "中文翻译": "记忆的（能力）",
+          "说明": "不定式作定语修饰 abilities。"
+        }
+      ],
+      "zh": "换句话说，无论两个人在记忆能力上可能表现出怎样的天生差异，这些差异都会被每个人“编码”信息的能力强弱所掩盖。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2007-text1-s12",
+      "s": "And the best way to learn how to encode information meaningfully, Ericsson determined, was a process known as deliberate practice.",
+      "para_no": 4,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "the best way",
+        "谓语": "was",
+        "宾语或表语": "a process",
+        "主干翻译": "最好的方法是一种过程。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to learn how to encode information meaningfully",
+          "修饰对象": "way",
+          "中文翻译": "学会如何有意义地编码信息的（方法）",
+          "说明": "不定式短语作定语修饰 way。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "how to encode information meaningfully",
+          "修饰对象": "learn",
+          "中文翻译": "如何有意义地编码信息",
+          "说明": "how + 不定式构成的疑问词结构，作 learn 的宾语。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "Ericsson determined",
+          "修饰对象": "was",
+          "中文翻译": "埃里克森断定",
+          "说明": "插入语，相当于主句框架，主句其余部分实为其宾语内容。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "known as deliberate practice",
+          "修饰对象": "process",
+          "中文翻译": "被称为刻意练习的",
+          "说明": "过去分词短语作定语修饰 process。"
+        }
+      ],
+      "zh": "埃里克森断定，学会如何有意义地对信息进行编码的最佳方法，是一种被称为“刻意练习”的过程。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2007-text1-s13",
+      "s": "Deliberate practice entails more than simply repeating a task.",
+      "para_no": 4,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "Deliberate practice",
+        "谓语": "entails",
+        "宾语或表语": "more than simply repeating a task",
+        "主干翻译": "刻意练习不仅仅是简单地重复一项任务。"
+      },
+      "components": [],
+      "zh": "刻意练习所包含的，不仅仅是简单地重复一项任务。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2007-text1-s14",
+      "s": "Rather, it involves setting specific goals, obtaining immediate feedback and concentrating as much on technique as on outcome.",
+      "para_no": 4,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "it",
+        "谓语": "involves",
+        "宾语或表语": "setting specific goals, obtaining immediate feedback and concentrating (...)",
+        "主干翻译": "它包括设定具体目标、获得即时反馈以及专注于（技巧与结果）。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "setting specific goals, obtaining immediate feedback and concentrating as much on technique as on outcome",
+          "修饰对象": "involves",
+          "中文翻译": "设定具体目标、获得即时反馈以及既关注技巧又关注结果",
+          "说明": "三个并列的动名词短语作 involves 的宾语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "obtaining immediate feedback and concentrating as much on technique as on outcome",
+          "修饰对象": "setting",
+          "中文翻译": "获得即时反馈以及既关注技巧又关注结果",
+          "说明": "与 setting 并列的动名词短语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "concentrating as much on technique as on outcome",
+          "修饰对象": "obtaining",
+          "中文翻译": "对技巧的关注不亚于对结果的关注",
+          "说明": "与 obtaining 并列的动名词短语，含 as much...as 比较结构。"
+        }
+      ],
+      "zh": "相反，它包括设定具体目标、获得即时反馈，以及对技巧的关注不亚于对结果的关注。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2007-text1-s15",
+      "s": "Ericsson and his colleagues have thus taken to studying expert performers in a wide range of pursuits, including soccer.",
+      "para_no": 5,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Ericsson and his colleagues",
+        "谓语": "have taken to studying",
+        "宾语或表语": "expert performers",
+        "主干翻译": "埃里克森和他的同事们因而着手研究专家级表现者。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "in a wide range of pursuits, including soccer",
+          "修饰对象": "performers",
+          "中文翻译": "在包括足球在内的广泛领域中的（表现者）",
+          "说明": "介词短语修饰 expert performers，including soccer 进一步举例。"
+        }
+      ],
+      "zh": "因此，埃里克森和他的同事们着手研究包括足球在内的众多领域中的专家级表现者。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2007-text1-s16",
+      "s": "They gather all the data they can, not just performance statistics and biographical details but also the results of their own laboratory experiments with high achievers.",
+      "para_no": 5,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "They",
+        "谓语": "gather",
+        "宾语或表语": "all the data",
+        "主干翻译": "他们收集所有能收集到的数据。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "they can",
+          "修饰对象": "data",
+          "中文翻译": "他们所能（收集）的",
+          "说明": "省略关系词和 gather 的定语从句修饰 data。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "not just performance statistics and biographical details but also the results of their own laboratory experiments with high achievers",
+          "修饰对象": "data",
+          "中文翻译": "不仅包括成绩统计和传记细节，还包括他们对高成就者进行的实验室实验的结果",
+          "说明": "not just...but also... 结构对 all the data 进行同位说明。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "the results of their own laboratory experiments with high achievers",
+          "修饰对象": "statistics",
+          "中文翻译": "他们对高成就者进行的实验室实验的结果",
+          "说明": "由 but also 连接，与 performance statistics and biographical details 并列。"
+        }
+      ],
+      "zh": "他们收集所有能收集到的数据，不仅包括成绩统计和传记细节，还包括他们自己对高成就者所做实验室实验的结果。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2007-text1-s17",
+      "s": "Their work makes a rather startling assertion: the trait we commonly call talent is highly overrated.",
+      "para_no": 5,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Their work",
+        "谓语": "makes",
+        "宾语或表语": "a rather startling assertion",
+        "主干翻译": "他们的研究提出了一个相当惊人的论断。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "we commonly call talent",
+          "修饰对象": "trait",
+          "中文翻译": "我们通常称之为天赋的",
+          "说明": "省略关系词的定语从句修饰 trait。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": ": the trait we commonly call talent is highly overrated",
+          "修饰对象": "assertion",
+          "中文翻译": "我们通常称之为天赋的那种特质被严重高估了",
+          "说明": "冒号后的句子作 assertion 的同位语，说明论断的具体内容。"
+        }
+      ],
+      "zh": "他们的研究提出了一个相当惊人的论断：我们通常所说的“天赋”这种特质，被严重高估了。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2007-text1-s18",
+      "s": "Or, put another way, expert performers—whether in memory or surgery, ballet or computer programming—are nearly always made, not born.",
+      "para_no": 5,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "expert performers",
+        "谓语": "are made",
+        "宾语或表语": "made, not born",
+        "主干翻译": "专家级表现者几乎总是后天造就的，而非天生的。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "put another way",
+          "修饰对象": "made",
+          "中文翻译": "换一种说法",
+          "说明": "过去分词短语作状语，表换言之。"
+        },
+        {
+          "成分类型": "状语从句(让步)",
+          "原文": "whether in memory or surgery, ballet or computer programming",
+          "修饰对象": "made",
+          "中文翻译": "无论是在记忆领域还是外科手术领域，无论是芭蕾还是计算机编程",
+          "说明": "whether...or... 引导让步状语从句（省略主谓），插入修饰主句。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "ballet or computer programming",
+          "修饰对象": "memory",
+          "中文翻译": "芭蕾或计算机编程",
+          "说明": "与 memory or surgery 并列，同为 whether 所列举的领域。"
+        }
+      ],
+      "zh": "或者换一种说法，专家级表现者——无论是在记忆还是外科手术领域，芭蕾还是计算机编程领域——几乎总是后天造就的，而非天生的。",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2007-text1-s1",
+        "en1-2007-text1-s2"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2007-text1-s3",
+        "en1-2007-text1-s4"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2007-text1-s5",
+        "en1-2007-text1-s6",
+        "en1-2007-text1-s7",
+        "en1-2007-text1-s8",
+        "en1-2007-text1-s9"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2007-text1-s10",
+        "en1-2007-text1-s11",
+        "en1-2007-text1-s12",
+        "en1-2007-text1-s13",
+        "en1-2007-text1-s14"
+      ]
+    },
+    {
+      "para_no": 5,
+      "sids": [
+        "en1-2007-text1-s15",
+        "en1-2007-text1-s16",
+        "en1-2007-text1-s17",
+        "en1-2007-text1-s18"
+      ]
+    }
+  ]
+}

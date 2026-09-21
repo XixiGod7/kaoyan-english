@@ -1,0 +1,1526 @@
+{
+  "sentences": [
+    {
+      "cn_text": "尽管不存在生物学上的血缘关系，朋友之间的「相关性」相当于四代表亲，共享约1%的基因。",
+      "en_text": "Though not biologically related, friends are as “related” as fourth cousins, sharing about 1% of genes.",
+      "id": 2015013001,
+      "order_seq": "content_1_1",
+      "task_id": 201501001,
+      "tokens": [
+        {
+          "gloss": "尽管",
+          "lemma": "though",
+          "surface": "though"
+        },
+        {
+          "gloss": "不",
+          "lemma": "not",
+          "surface": "not"
+        },
+        {
+          "gloss": "生物学上",
+          "lemma": "biologically",
+          "surface": "biologically"
+        },
+        {
+          "gloss": "有关系的",
+          "lemma": "related",
+          "surface": "related"
+        },
+        {
+          "gloss": "朋友",
+          "lemma": "friend",
+          "surface": "friends"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "are"
+        },
+        {
+          "gloss": "像",
+          "lemma": "as",
+          "surface": "as"
+        },
+        {
+          "gloss": "有关系的",
+          "lemma": "related",
+          "surface": "related"
+        },
+        {
+          "gloss": "如同",
+          "lemma": "as",
+          "surface": "as"
+        },
+        {
+          "gloss": "第四的",
+          "lemma": "fourth",
+          "surface": "fourth"
+        },
+        {
+          "gloss": "堂兄弟姐妹",
+          "lemma": "cousin",
+          "surface": "cousins"
+        },
+        {
+          "gloss": "分享",
+          "lemma": "share",
+          "surface": "sharing"
+        },
+        {
+          "gloss": "大约",
+          "lemma": "about",
+          "surface": "about"
+        },
+        {
+          "gloss": "1%",
+          "lemma": "1%",
+          "surface": "1%"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "基因",
+          "lemma": "gene",
+          "surface": "genes"
+        }
+      ]
+    },
+    {
+      "cn_text": "这是加州大学和耶鲁大学在《美国国家科学院院刊》上发表的一项研究得出的结论。",
+      "en_text": "That is what a study, published from the University of California and Yale University in the Proceedings of the National Academy of Sciences, has concluded.",
+      "id": 2015013002,
+      "order_seq": "content_1_2",
+      "task_id": 201501001,
+      "tokens": [
+        {
+          "gloss": "那",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "什么",
+          "lemma": "what",
+          "surface": "what"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "研究",
+          "lemma": "study",
+          "surface": "study"
+        },
+        {
+          "gloss": "发表",
+          "lemma": "publish",
+          "surface": "published"
+        },
+        {
+          "gloss": "来自",
+          "lemma": "from",
+          "surface": "from"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "大学",
+          "lemma": "university",
+          "surface": "university"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "加州",
+          "lemma": "california",
+          "surface": "california"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "耶鲁",
+          "lemma": "yale",
+          "surface": "yale"
+        },
+        {
+          "gloss": "大学",
+          "lemma": "university",
+          "surface": "university"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "会议记录",
+          "lemma": "proceeding",
+          "surface": "proceedings"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "国家的",
+          "lemma": "national",
+          "surface": "national"
+        },
+        {
+          "gloss": "科学院",
+          "lemma": "academy",
+          "surface": "academy"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "科学",
+          "lemma": "science",
+          "surface": "sciences"
+        },
+        {
+          "gloss": "已经",
+          "lemma": "have",
+          "surface": "has"
+        },
+        {
+          "gloss": "得出结论",
+          "lemma": "conclude",
+          "surface": "concluded"
+        }
+      ]
+    },
+    {
+      "cn_text": "该研究是一项针对1932名不同个体进行的全基因组分析,比较了非亲缘朋友配对与非亲缘陌生人配对。",
+      "en_text": "The study is a genome-wide analysis conducted on 1,932 unique subjects which compared pairs of unrelated friends and unrelated strangers.",
+      "id": 2015013003,
+      "order_seq": "content_2_1",
+      "task_id": 201501001,
+      "tokens": [
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "The"
+        },
+        {
+          "gloss": "研究",
+          "lemma": "study",
+          "surface": "study"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "基因组",
+          "lemma": "genome",
+          "surface": "genome"
+        },
+        {
+          "gloss": "范围的",
+          "lemma": "wide",
+          "surface": "wide"
+        },
+        {
+          "gloss": "分析",
+          "lemma": "analysis",
+          "surface": "analysis"
+        },
+        {
+          "gloss": "进行",
+          "lemma": "conduct",
+          "surface": "conducted"
+        },
+        {
+          "gloss": "针对",
+          "lemma": "on",
+          "surface": "on"
+        },
+        {
+          "gloss": "1932",
+          "lemma": "1,932",
+          "surface": "1,932"
+        },
+        {
+          "gloss": "独特的",
+          "lemma": "unique",
+          "surface": "unique"
+        },
+        {
+          "gloss": "个体",
+          "lemma": "subject",
+          "surface": "subjects"
+        },
+        {
+          "gloss": "哪个",
+          "lemma": "which",
+          "surface": "which"
+        },
+        {
+          "gloss": "比较",
+          "lemma": "compare",
+          "surface": "compared"
+        },
+        {
+          "gloss": "配对",
+          "lemma": "pair",
+          "surface": "pairs"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "无关的",
+          "lemma": "unrelated",
+          "surface": "unrelated"
+        },
+        {
+          "gloss": "朋友",
+          "lemma": "friend",
+          "surface": "friends"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "无关的",
+          "lemma": "unrelated",
+          "surface": "unrelated"
+        },
+        {
+          "gloss": "陌生人",
+          "lemma": "stranger",
+          "surface": "strangers"
+        }
+      ]
+    },
+    {
+      "cn_text": "两组样本使用了相同的受试者。",
+      "en_text": "The same people were used in both samples.",
+      "id": 2015013004,
+      "order_seq": "content_2_2",
+      "task_id": 201501001,
+      "tokens": [
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "相同的",
+          "lemma": "same",
+          "surface": "same"
+        },
+        {
+          "gloss": "人",
+          "lemma": "people",
+          "surface": "people"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "were"
+        },
+        {
+          "gloss": "使用",
+          "lemma": "use",
+          "surface": "used"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "两个",
+          "lemma": "both",
+          "surface": "both"
+        },
+        {
+          "gloss": "样本",
+          "lemma": "sample",
+          "surface": "samples"
+        }
+      ]
+    },
+    {
+      "cn_text": "虽然1%看似微不足道,但对遗传学家而言却并非如此。",
+      "en_text": "While 1% may seem insignificant, it is not so to a geneticist.",
+      "id": 2015013005,
+      "order_seq": "content_3_1",
+      "task_id": 201501001,
+      "tokens": [
+        {
+          "gloss": "虽然",
+          "lemma": "while",
+          "surface": "while"
+        },
+        {
+          "gloss": "可能",
+          "lemma": "may",
+          "surface": "may"
+        },
+        {
+          "gloss": "看起来",
+          "lemma": "seem",
+          "surface": "seem"
+        },
+        {
+          "gloss": "微不足道的",
+          "lemma": "insignificant",
+          "surface": "insignificant"
+        },
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "it"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "不",
+          "lemma": "not",
+          "surface": "not"
+        },
+        {
+          "gloss": "如此",
+          "lemma": "so",
+          "surface": "so"
+        },
+        {
+          "gloss": "对",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "遗传学家",
+          "lemma": "geneticist",
+          "surface": "geneticist"
+        }
+      ]
+    },
+    {
+      "cn_text": "正如加州大学圣迭戈分校医学遗传学教授詹姆斯·福勒所言:「大多数人甚至不认识自己的四代表亲,却能以某种方式选择与我们亲属相似的人作为朋友。」",
+      "en_text": "As James Fowler, professor of medical genetics at UC San Diego, says, “Most people do not even know their fourth cousins but somehow manage to select as friends the people who resemble our kin.”",
+      "id": 2015013006,
+      "order_seq": "content_3_2",
+      "task_id": 201501001,
+      "tokens": [
+        {
+          "gloss": "正如",
+          "lemma": "as",
+          "surface": "as"
+        },
+        {
+          "gloss": "詹姆斯",
+          "lemma": "james",
+          "surface": "James"
+        },
+        {
+          "gloss": "福勒",
+          "lemma": "fowler",
+          "surface": "Fowler"
+        },
+        {
+          "gloss": "教授",
+          "lemma": "professor",
+          "surface": "professor"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "医学的",
+          "lemma": "medical",
+          "surface": "medical"
+        },
+        {
+          "gloss": "遗传学",
+          "lemma": "genetics",
+          "surface": "genetics"
+        },
+        {
+          "gloss": "在",
+          "lemma": "at",
+          "surface": "at"
+        },
+        {
+          "gloss": "加州大学",
+          "lemma": "uc",
+          "surface": "UC"
+        },
+        {
+          "gloss": "圣",
+          "lemma": "san",
+          "surface": "San"
+        },
+        {
+          "gloss": "地亚哥",
+          "lemma": "diego",
+          "surface": "Diego"
+        },
+        {
+          "gloss": "说",
+          "lemma": "say",
+          "surface": "says"
+        },
+        {
+          "gloss": "大多数",
+          "lemma": "most",
+          "surface": "most"
+        },
+        {
+          "gloss": "人们",
+          "lemma": "people",
+          "surface": "people"
+        },
+        {
+          "gloss": "做",
+          "lemma": "do",
+          "surface": "do"
+        },
+        {
+          "gloss": "不",
+          "lemma": "not",
+          "surface": "not"
+        },
+        {
+          "gloss": "甚至",
+          "lemma": "even",
+          "surface": "even"
+        },
+        {
+          "gloss": "认识",
+          "lemma": "know",
+          "surface": "know"
+        },
+        {
+          "gloss": "他们的",
+          "lemma": "their",
+          "surface": "their"
+        },
+        {
+          "gloss": "第四的",
+          "lemma": "fourth",
+          "surface": "fourth"
+        },
+        {
+          "gloss": "堂/表亲",
+          "lemma": "cousin",
+          "surface": "cousins"
+        },
+        {
+          "gloss": "但是",
+          "lemma": "but",
+          "surface": "but"
+        },
+        {
+          "gloss": "以某种方式",
+          "lemma": "somehow",
+          "surface": "somehow"
+        },
+        {
+          "gloss": "设法",
+          "lemma": "manage",
+          "surface": "manage"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "选择",
+          "lemma": "select",
+          "surface": "select"
+        },
+        {
+          "gloss": "作为",
+          "lemma": "as",
+          "surface": "as"
+        },
+        {
+          "gloss": "朋友",
+          "lemma": "friend",
+          "surface": "friends"
+        },
+        {
+          "gloss": "那些",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "人们",
+          "lemma": "people",
+          "surface": "people"
+        },
+        {
+          "gloss": "谁",
+          "lemma": "who",
+          "surface": "who"
+        },
+        {
+          "gloss": "与...相似",
+          "lemma": "resemble",
+          "surface": "resemble"
+        },
+        {
+          "gloss": "我们的",
+          "lemma": "our",
+          "surface": "our"
+        },
+        {
+          "gloss": "亲属",
+          "lemma": "kin",
+          "surface": "kin"
+        }
+      ]
+    },
+    {
+      "cn_text": "研究还发现,朋友之间共享嗅觉相关基因,而非免疫相关基因。",
+      "en_text": "The study also found that the genes for smell were something shared in friends but not genes for immunity.",
+      "id": 2015013007,
+      "order_seq": "content_4_1",
+      "task_id": 201501001,
+      "tokens": [
+        {
+          "gloss": "这些",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "研究",
+          "lemma": "study",
+          "surface": "study"
+        },
+        {
+          "gloss": "也",
+          "lemma": "also",
+          "surface": "also"
+        },
+        {
+          "gloss": "发现",
+          "lemma": "find",
+          "surface": "found"
+        },
+        {
+          "gloss": "那",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "这些",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "基因",
+          "lemma": "gene",
+          "surface": "genes"
+        },
+        {
+          "gloss": "用于",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "嗅觉",
+          "lemma": "smell",
+          "surface": "smell"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "were"
+        },
+        {
+          "gloss": "某物",
+          "lemma": "something",
+          "surface": "something"
+        },
+        {
+          "gloss": "共享",
+          "lemma": "share",
+          "surface": "shared"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "朋友",
+          "lemma": "friend",
+          "surface": "friends"
+        },
+        {
+          "gloss": "但是",
+          "lemma": "but",
+          "surface": "but"
+        },
+        {
+          "gloss": "不",
+          "lemma": "not",
+          "surface": "not"
+        },
+        {
+          "gloss": "基因",
+          "lemma": "gene",
+          "surface": "genes"
+        },
+        {
+          "gloss": "用于",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "免疫",
+          "lemma": "immunity",
+          "surface": "immunity"
+        }
+      ]
+    },
+    {
+      "cn_text": "嗅觉基因中为何存在这种相似性,目前尚难以解释。",
+      "en_text": "Why this similarity exists in smell genes is difficult to explain, for now.",
+      "id": 2015013008,
+      "order_seq": "content_4_2",
+      "task_id": 201501001,
+      "tokens": [
+        {
+          "gloss": "为什么",
+          "lemma": "why",
+          "surface": "why"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "this",
+          "surface": "this"
+        },
+        {
+          "gloss": "相似性",
+          "lemma": "similarity",
+          "surface": "similarity"
+        },
+        {
+          "gloss": "存在",
+          "lemma": "exist",
+          "surface": "exists"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "嗅觉",
+          "lemma": "smell",
+          "surface": "smell"
+        },
+        {
+          "gloss": "基因",
+          "lemma": "gene",
+          "surface": "genes"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "困难的",
+          "lemma": "difficult",
+          "surface": "difficult"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "解释",
+          "lemma": "explain",
+          "surface": "explain"
+        },
+        {
+          "gloss": "目前",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "现在",
+          "lemma": "now",
+          "surface": "now"
+        }
+      ]
+    },
+    {
+      "cn_text": "也许正如研究团队所提出的,这种相似性会吸引我们进入相似的环境,但其中还有更深层的原因。",
+      "en_text": "Perhaps, as the team suggests, it draws us to similar environments but there is more to it.",
+      "id": 2015013009,
+      "order_seq": "content_4_3",
+      "task_id": 201501001,
+      "tokens": [
+        {
+          "gloss": "或许",
+          "lemma": "perhaps",
+          "surface": "perhaps"
+        },
+        {
+          "gloss": "正如",
+          "lemma": "as",
+          "surface": "as"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "团队",
+          "lemma": "team",
+          "surface": "team"
+        },
+        {
+          "gloss": "建议",
+          "lemma": "suggest",
+          "surface": "suggests"
+        },
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "it"
+        },
+        {
+          "gloss": "吸引",
+          "lemma": "draw",
+          "surface": "draws"
+        },
+        {
+          "gloss": "我们",
+          "lemma": "us",
+          "surface": "us"
+        },
+        {
+          "gloss": "到",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "相似的",
+          "lemma": "similar",
+          "surface": "similar"
+        },
+        {
+          "gloss": "环境",
+          "lemma": "environment",
+          "surface": "environments"
+        },
+        {
+          "gloss": "但是",
+          "lemma": "but",
+          "surface": "but"
+        },
+        {
+          "gloss": "那里",
+          "lemma": "there",
+          "surface": "there"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "更多的",
+          "lemma": "more",
+          "surface": "more"
+        },
+        {
+          "gloss": "关于",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "it"
+        }
+      ]
+    },
+    {
+      "cn_text": "可能有多种机制共同作用,驱使我们选择基因相似的朋友,而非基于「功能性亲缘关系」的互利性友谊。",
+      "en_text": "There could be many mechanisms working together that drive us in choosing genetically similar friends rather than “functional kinship” of being friends with benefits!",
+      "id": 2015013010,
+      "order_seq": "content_4_4",
+      "task_id": 201501001,
+      "tokens": [
+        {
+          "gloss": "那里",
+          "lemma": "there",
+          "surface": "There"
+        },
+        {
+          "gloss": "可能",
+          "lemma": "could",
+          "surface": "could"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "be"
+        },
+        {
+          "gloss": "许多",
+          "lemma": "many",
+          "surface": "many"
+        },
+        {
+          "gloss": "机制",
+          "lemma": "mechanism",
+          "surface": "mechanisms"
+        },
+        {
+          "gloss": "工作",
+          "lemma": "work",
+          "surface": "working"
+        },
+        {
+          "gloss": "一起",
+          "lemma": "together",
+          "surface": "together"
+        },
+        {
+          "gloss": "那",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "驱使",
+          "lemma": "drive",
+          "surface": "drive"
+        },
+        {
+          "gloss": "我们",
+          "lemma": "us",
+          "surface": "us"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "选择",
+          "lemma": "choose",
+          "surface": "choosing"
+        },
+        {
+          "gloss": "基因上",
+          "lemma": "genetically",
+          "surface": "genetically"
+        },
+        {
+          "gloss": "相似的",
+          "lemma": "similar",
+          "surface": "similar"
+        },
+        {
+          "gloss": "朋友",
+          "lemma": "friend",
+          "surface": "friends"
+        },
+        {
+          "gloss": "而不是",
+          "lemma": "rather",
+          "surface": "rather"
+        },
+        {
+          "gloss": "比",
+          "lemma": "than",
+          "surface": "than"
+        },
+        {
+          "gloss": "功能性的",
+          "lemma": "functional",
+          "surface": "functional"
+        },
+        {
+          "gloss": "亲属关系",
+          "lemma": "kinship",
+          "surface": "kinship"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "being"
+        },
+        {
+          "gloss": "朋友",
+          "lemma": "friend",
+          "surface": "friends"
+        },
+        {
+          "gloss": "与",
+          "lemma": "with",
+          "surface": "with"
+        },
+        {
+          "gloss": "利益",
+          "lemma": "benefit",
+          "surface": "benefits"
+        }
+      ]
+    },
+    {
+      "cn_text": "该研究的一个重要发现是,这些相似基因的进化速度似乎快于其他基因。",
+      "en_text": "One of the remarkable findings of the study was that the similar genes seem to be evolving faster than other genes.",
+      "id": 2015013011,
+      "order_seq": "content_5_1",
+      "task_id": 201501001,
+      "tokens": [
+        {
+          "gloss": "一个",
+          "lemma": "one",
+          "surface": "one"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "显著的",
+          "lemma": "remarkable",
+          "surface": "remarkable"
+        },
+        {
+          "gloss": "发现",
+          "lemma": "finding",
+          "surface": "findings"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "研究",
+          "lemma": "study",
+          "surface": "study"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "was"
+        },
+        {
+          "gloss": "那",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "相似的",
+          "lemma": "similar",
+          "surface": "similar"
+        },
+        {
+          "gloss": "基因",
+          "lemma": "gene",
+          "surface": "genes"
+        },
+        {
+          "gloss": "似乎",
+          "lemma": "seem",
+          "surface": "seem"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "be"
+        },
+        {
+          "gloss": "进化",
+          "lemma": "evolve",
+          "surface": "evolving"
+        },
+        {
+          "gloss": "更快地",
+          "lemma": "fast",
+          "surface": "faster"
+        },
+        {
+          "gloss": "比",
+          "lemma": "than",
+          "surface": "than"
+        },
+        {
+          "gloss": "其他的",
+          "lemma": "other",
+          "surface": "other"
+        },
+        {
+          "gloss": "基因",
+          "lemma": "gene",
+          "surface": "genes"
+        }
+      ]
+    },
+    {
+      "cn_text": "对此进行研究有助于理解为何人类进化在过去三万年间加速,而社会环境正是主要的促进因素。",
+      "en_text": "Studying this could help understand why human evolution picked pace in the last 30,000 years, with social environment being a major contributory factor.",
+      "id": 2015013012,
+      "order_seq": "content_5_2",
+      "task_id": 201501001,
+      "tokens": [
+        {
+          "gloss": "研究",
+          "lemma": "study",
+          "surface": "studying"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "this",
+          "surface": "this"
+        },
+        {
+          "gloss": "可能",
+          "lemma": "could",
+          "surface": "could"
+        },
+        {
+          "gloss": "帮助",
+          "lemma": "help",
+          "surface": "help"
+        },
+        {
+          "gloss": "理解",
+          "lemma": "understand",
+          "surface": "understand"
+        },
+        {
+          "gloss": "为什么",
+          "lemma": "why",
+          "surface": "why"
+        },
+        {
+          "gloss": "人类的",
+          "lemma": "human",
+          "surface": "human"
+        },
+        {
+          "gloss": "进化",
+          "lemma": "evolution",
+          "surface": "evolution"
+        },
+        {
+          "gloss": "加速",
+          "lemma": "pick",
+          "surface": "picked"
+        },
+        {
+          "gloss": "速度",
+          "lemma": "pace",
+          "surface": "pace"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "过去的",
+          "lemma": "last",
+          "surface": "last"
+        },
+        {
+          "gloss": "三万",
+          "lemma": "30,000",
+          "surface": "30,000"
+        },
+        {
+          "gloss": "年",
+          "lemma": "year",
+          "surface": "years"
+        },
+        {
+          "gloss": "伴随",
+          "lemma": "with",
+          "surface": "with"
+        },
+        {
+          "gloss": "社会的",
+          "lemma": "social",
+          "surface": "social"
+        },
+        {
+          "gloss": "环境",
+          "lemma": "environment",
+          "surface": "environment"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "being"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "主要的",
+          "lemma": "major",
+          "surface": "major"
+        },
+        {
+          "gloss": "促成的",
+          "lemma": "contributory",
+          "surface": "contributory"
+        },
+        {
+          "gloss": "因素",
+          "lemma": "factor",
+          "surface": "factor"
+        }
+      ]
+    },
+    {
+      "cn_text": "研究人员表示,这些发现并不能简单地解释人们倾向于与相似种族背景者交友的现象。",
+      "en_text": "The findings do not simply explain people’s tendency to befriend those of similar ethnic backgrounds, say the researchers.",
+      "id": 2015013013,
+      "order_seq": "content_6_1",
+      "task_id": 201501001,
+      "tokens": [
+        {
+          "gloss": "表示特定的",
+          "lemma": "the",
+          "surface": "The"
+        },
+        {
+          "gloss": "发现",
+          "lemma": "finding",
+          "surface": "findings"
+        },
+        {
+          "gloss": "表示否定或强调",
+          "lemma": "do",
+          "surface": "do"
+        },
+        {
+          "gloss": "不",
+          "lemma": "not",
+          "surface": "not"
+        },
+        {
+          "gloss": "简单地",
+          "lemma": "simply",
+          "surface": "simply"
+        },
+        {
+          "gloss": "解释",
+          "lemma": "explain",
+          "surface": "explain"
+        },
+        {
+          "gloss": "人们的",
+          "lemma": "people",
+          "surface": "people’s"
+        },
+        {
+          "gloss": "倾向",
+          "lemma": "tendency",
+          "surface": "tendency"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "与...交朋友",
+          "lemma": "befriend",
+          "surface": "befriend"
+        },
+        {
+          "gloss": "那些",
+          "lemma": "those",
+          "surface": "those"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "相似的",
+          "lemma": "similar",
+          "surface": "similar"
+        },
+        {
+          "gloss": "种族的",
+          "lemma": "ethnic",
+          "surface": "ethnic"
+        },
+        {
+          "gloss": "背景",
+          "lemma": "background",
+          "surface": "backgrounds"
+        },
+        {
+          "gloss": "说",
+          "lemma": "say",
+          "surface": "say"
+        },
+        {
+          "gloss": "表示特定的",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "研究人员",
+          "lemma": "researcher",
+          "surface": "researchers"
+        }
+      ]
+    },
+    {
+      "cn_text": "尽管所有受试者均来自欧洲血统人群,但研究特别注意确保所有对象——无论朋友还是陌生人——均来自同一人群。",
+      "en_text": "Though all the subjects were drawn from a population of European extraction, care was taken to see that all subjects, friends and strangers, were taken from the same population.",
+      "id": 2015013014,
+      "order_seq": "content_6_2",
+      "task_id": 201501001,
+      "tokens": [
+        {
+          "gloss": "尽管",
+          "lemma": "though",
+          "surface": "Though"
+        },
+        {
+          "gloss": "所有的",
+          "lemma": "all",
+          "surface": "all"
+        },
+        {
+          "gloss": "表示特定的",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "研究对象",
+          "lemma": "subject",
+          "surface": "subjects"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "were"
+        },
+        {
+          "gloss": "抽取",
+          "lemma": "draw",
+          "surface": "drawn"
+        },
+        {
+          "gloss": "从",
+          "lemma": "from",
+          "surface": "from"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "人群",
+          "lemma": "population",
+          "surface": "population"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "欧洲的",
+          "lemma": "european",
+          "surface": "European"
+        },
+        {
+          "gloss": "血统",
+          "lemma": "extraction",
+          "surface": "extraction"
+        },
+        {
+          "gloss": "注意",
+          "lemma": "care",
+          "surface": "care"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "was"
+        },
+        {
+          "gloss": "采取",
+          "lemma": "take",
+          "surface": "taken"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "确保",
+          "lemma": "see",
+          "surface": "see"
+        },
+        {
+          "gloss": "表从句",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "所有的",
+          "lemma": "all",
+          "surface": "all"
+        },
+        {
+          "gloss": "研究对象",
+          "lemma": "subject",
+          "surface": "subjects"
+        },
+        {
+          "gloss": "朋友",
+          "lemma": "friend",
+          "surface": "friends"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "陌生人",
+          "lemma": "stranger",
+          "surface": "strangers"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "were"
+        },
+        {
+          "gloss": "抽取",
+          "lemma": "take",
+          "surface": "taken"
+        },
+        {
+          "gloss": "从",
+          "lemma": "from",
+          "surface": "from"
+        },
+        {
+          "gloss": "表示特定的",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "相同的",
+          "lemma": "same",
+          "surface": "same"
+        },
+        {
+          "gloss": "人群",
+          "lemma": "population",
+          "surface": "population"
+        }
+      ]
+    }
+  ],
+  "success": true
+}

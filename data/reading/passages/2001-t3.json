@@ -1,0 +1,673 @@
+{
+  "exam": "en1",
+  "key": "2001-t3",
+  "year": 2001,
+  "text_no": 3,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2001-text3-s1",
+      "s": "Why do so many Americans distrust what they read in their newspapers?",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "so many Americans",
+        "谓语": "distrust",
+        "宾语或表语": "what they read in their newspapers",
+        "主干翻译": "如此多的美国人不信任他们在报纸上读到的东西。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "what they read in their newspapers",
+          "修饰对象": "distrust",
+          "中文翻译": "他们在自己的报纸上所读到的内容",
+          "说明": "what引导的宾语从句作distrust的宾语，what在从句中作read的宾语；in their newspapers为介词短语作状语并入本节点。"
+        }
+      ],
+      "zh": "为什么如此多的美国人不信任他们在报纸上读到的东西呢？",
+      "underline": null
+    },
+    {
+      "sid": "en1-2001-text3-s2",
+      "s": "The American Society of Newspaper Editors is trying to answer this painful question.",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "The American Society of Newspaper Editors",
+        "谓语": "is trying",
+        "宾语或表语": "to answer this painful question",
+        "主干翻译": "美国报纸编辑协会正试图回答这个棘手的问题。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to answer this painful question",
+          "修饰对象": "trying",
+          "中文翻译": "去回答这个令人痛苦的问题",
+          "说明": "动词不定式作try的宾语/补足成分，表明try的内容。"
+        }
+      ],
+      "zh": "美国报纸编辑协会正试图回答这个令人痛苦的问题。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2001-text3-s3",
+      "s": "The organization is deep into a long self-analysis known as the journalism credibility project.",
+      "para_no": 1,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "The organization",
+        "谓语": "is",
+        "宾语或表语": "deep into a long self-analysis",
+        "主干翻译": "该组织正深入进行一项长期的自我剖析。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "known as the journalism credibility project",
+          "修饰对象": "self-analysis",
+          "中文翻译": "被称为“新闻可信度项目”的",
+          "说明": "过去分词短语作后置定语，修饰self-analysis，known as意为“被称作”。"
+        }
+      ],
+      "zh": "该组织正深入开展一项被称为“新闻可信度项目”的长期自我剖析。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2001-text3-s4",
+      "s": "Sad to say, this project has turned out to be mostly low-level findings about factual errors and spelling and grammar mistakes, combined with lots of head-scratching puzzlement about what in the world those readers really want.",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "this project",
+        "谓语": "has turned out",
+        "宾语或表语": "to be mostly low-level findings",
+        "主干翻译": "这个项目结果证明大多是些低层次的发现。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "Sad to say",
+          "修饰对象": "—",
+          "中文翻译": "遗憾的是",
+          "说明": "不定式短语作独立成分（插入语），表说话人态度，相当于it is sad to say。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to be mostly low-level findings about factual errors and spelling and grammar mistakes, combined with lots of head-scratching puzzlement about what in the world those readers really want",
+          "修饰对象": "turned",
+          "中文翻译": "结果大多是关于事实错误、拼写和语法错误的低层次发现，外加大量令人挠头的困惑——搞不清那些读者到底想要什么",
+          "说明": "不定式作turn out的表语补足成分；about短语作findings的定语并入。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "spelling and grammar mistakes",
+          "修饰对象": "errors",
+          "中文翻译": "拼写和语法错误",
+          "说明": "与factual errors并列，由and连接，同作about的宾语。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "combined with lots of head-scratching puzzlement about what in the world those readers really want",
+          "修饰对象": "findings",
+          "中文翻译": "外加大量关于读者究竟想要什么的令人挠头的困惑",
+          "说明": "过去分词短语combined with作findings的后置定语；其中what引导的宾语从句作about的宾语。"
+        }
+      ],
+      "zh": "遗憾的是，这个项目最终得出的大多是些低层次的发现，涉及事实差错、拼写和语法错误，外加大量令人挠头的困惑——搞不清那些读者究竟想要什么。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2001-text3-s5",
+      "s": "But the sources of distrust go way deeper.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "the sources of distrust",
+        "谓语": "go",
+        "宾语或表语": "way deeper",
+        "主干翻译": "不信任的根源要深得多。"
+      },
+      "components": [],
+      "zh": "但不信任的根源要深得多。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2001-text3-s6",
+      "s": "Most journalists learn to see the world through a set of standard templates (patterns) into which they plug each day's events.",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Most journalists",
+        "谓语": "learn",
+        "宾语或表语": "to see the world",
+        "主干翻译": "大多数记者学会观察世界。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to see the world through a set of standard templates (patterns) into which they plug each day's events",
+          "修饰对象": "learn",
+          "中文翻译": "透过一套固定的模板（套路）来观察世界，并把每天的事件套入其中",
+          "说明": "不定式作learn的宾语/补足成分；through短语作其状语。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "patterns",
+          "修饰对象": "templates",
+          "中文翻译": "套路",
+          "说明": "括号内的同位语，解释说明standard templates。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "into which they plug each day's events",
+          "修饰对象": "templates",
+          "中文翻译": "他们把每天的事件套入其中",
+          "说明": "into which引导的定语从句修饰templates，介词into前置，关系代词which指代templates。"
+        }
+      ],
+      "zh": "大多数记者学会透过一套固定的模板（套路）来观察世界，并把每天发生的事件都套进这些模板中。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2001-text3-s7",
+      "s": "In other words, there is a conventional story line in the newsroom culture that provides a backbone and a ready-made narrative structure for otherwise confusing news.",
+      "para_no": 3,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "a conventional story line",
+        "谓语": "is",
+        "宾语或表语": "(there is) in the newsroom culture",
+        "主干翻译": "新闻编辑室文化中存在一种固定的故事框架。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "In other words",
+          "修饰对象": "—",
+          "中文翻译": "换句话说",
+          "说明": "状语性插入语，连接上下文。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that provides a backbone and a ready-made narrative structure for otherwise confusing news",
+          "修饰对象": "line",
+          "中文翻译": "它为本来杂乱无章的新闻提供主线和现成的叙事结构",
+          "说明": "that引导的定语从句修饰story line，that作从句主语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "a ready-made narrative structure",
+          "修饰对象": "backbone",
+          "中文翻译": "现成的叙事结构",
+          "说明": "与a backbone并列，由and连接，同作provides的宾语。"
+        }
+      ],
+      "zh": "换句话说，新闻编辑室文化中存在一条固定的故事主线，它为那些原本杂乱无章的新闻提供了主干和现成的叙事结构。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2001-text3-s8",
+      "s": "There exists a social and cultural disconnect between journalists and their readers which helps explain why the \"standard templates\"of the newsroom seem alien to many readers.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "a social and cultural disconnect",
+        "谓语": "exists",
+        "宾语或表语": "between journalists and their readers",
+        "主干翻译": "记者与读者之间存在一种社会和文化上的脱节。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "which helps explain why the \"standard templates\"of the newsroom seem alien to many readers",
+          "修饰对象": "disconnect",
+          "中文翻译": "这种脱节有助于解释为什么新闻编辑室的“标准模板”在许多读者看来很陌生",
+          "说明": "which引导的定语从句修饰disconnect，which作从句主语。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "explain why the \"standard templates\"of the newsroom seem alien to many readers",
+          "修饰对象": "helps",
+          "中文翻译": "解释为什么……",
+          "说明": "省略to的不定式作help的宾语补足成分。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "why the \"standard templates\"of the newsroom seem alien to many readers",
+          "修饰对象": "explain",
+          "中文翻译": "为什么新闻编辑室的“标准模板”对许多读者而言显得陌生",
+          "说明": "why引导的宾语从句作explain的宾语；the standard templates...为主语，seem alien...为谓表（k拆为两条，此处合并为完整宾语从句）。"
+        }
+      ],
+      "zh": "记者与读者之间存在一种社会和文化上的脱节，这有助于解释为什么新闻编辑室的“标准模板”在许多读者看来显得格格不入。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2001-text3-s9",
+      "s": "In a recent survey, questionnaires were sent to reporters in five middle size cities around the country, plus one large metropolitan area.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "questionnaires",
+        "谓语": "were sent",
+        "宾语或表语": "to reporters",
+        "主干翻译": "问卷被寄给了记者。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "In a recent survey",
+          "修饰对象": "—",
+          "中文翻译": "在最近一次调查中",
+          "说明": "介词短语作句首时间/范围状语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "plus one large metropolitan area",
+          "修饰对象": "cities",
+          "中文翻译": "外加一个大都市区",
+          "说明": "plus连接，与five middle size cities并列，同为记者所在地。"
+        }
+      ],
+      "zh": "在最近一次调查中，问卷被寄给了全国五个中等城市以及一个大都市区的记者。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2001-text3-s10",
+      "s": "Then residents in these communities were phoned at random and asked the same questions.",
+      "para_no": 4,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "residents in these communities",
+        "谓语": "were phoned and asked",
+        "宾语或表语": "the same questions",
+        "主干翻译": "这些社区的居民被随机电话访问并问了同样的问题。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "asked the same questions",
+          "修饰对象": "phoned",
+          "中文翻译": "被问了同样的问题",
+          "说明": "与were phoned并列，共用被动谓语were，由and连接。"
+        }
+      ],
+      "zh": "随后，这些社区的居民被随机打电话，并被问及同样的问题。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2001-text3-s11",
+      "s": "Replies show that compared with other Americans, journalists are more likely to live in upscale neighborhoods, have maids, own Mercedeses, and trade stocks, and they're less likely to go to church, do volunteer work, or put down roots in community.",
+      "para_no": 5,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Replies",
+        "谓语": "show",
+        "宾语或表语": "that journalists are more likely... and they're less likely...",
+        "主干翻译": "回复表明，记者更可能……且更不可能……。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "that compared with other Americans, journalists are more likely to live in upscale neighborhoods, have maids, own Mercedeses, and trade stocks, and they're less likely to go to church, do volunteer work, or put down roots in community",
+          "修饰对象": "show",
+          "中文翻译": "与其他美国人相比，记者更可能……且更不可能……",
+          "说明": "that引导宾语从句作show的宾语，内部含两个由and连接的并列分句。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "compared with other Americans",
+          "修饰对象": "are",
+          "中文翻译": "与其他美国人相比",
+          "说明": "过去分词短语作比较状语，修饰前一并列分句。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to live in upscale neighborhoods, have maids, own Mercedeses, and trade stocks",
+          "修饰对象": "likely",
+          "中文翻译": "住高档社区、雇佣女佣、拥有奔驰车并买卖股票",
+          "说明": "不定式作be likely的逻辑补足成分；含四项并列动作。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "have maids, own Mercedeses, and trade stocks",
+          "修饰对象": "live",
+          "中文翻译": "雇佣女佣、拥有奔驰车并买卖股票",
+          "说明": "与to live并列，共用前面的to，多项由逗号及and连接。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "they're less likely to go to church, do volunteer work, or put down roots in community",
+          "修饰对象": "are",
+          "中文翻译": "他们不太可能去教堂、做志愿者工作或在社区扎根",
+          "说明": "与前一分句journalists are more likely...由and连接的并列分句。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to go to church, do volunteer work, or put down roots in community",
+          "修饰对象": "likely",
+          "中文翻译": "去教堂、做志愿工作或在社区扎根",
+          "说明": "不定式作be less likely的逻辑补足成分；含三项并列动作。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "do volunteer work, or put down roots in community",
+          "修饰对象": "go",
+          "中文翻译": "做志愿工作或在社区扎根",
+          "说明": "与to go并列，共用前面的to，由逗号及or连接。"
+        }
+      ],
+      "zh": "回复表明，与其他美国人相比，记者更有可能住在高档社区、雇有女佣、开着奔驰、炒股，而较少去教堂、做志愿工作或在社区扎根。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2001-text3-s12",
+      "s": "Reporters tend to be part of a broadly defined social and cultural elite, so their work tends to reflect the conventional values of this elite.",
+      "para_no": 6,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Reporters",
+        "谓语": "tend",
+        "宾语或表语": "to be part of a ... elite",
+        "主干翻译": "记者往往属于一个……精英阶层。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to be part of a broadly defined social and cultural elite",
+          "修饰对象": "tend",
+          "中文翻译": "成为广义上的社会文化精英阶层的一员",
+          "说明": "不定式作tend的补足成分。"
+        },
+        {
+          "成分类型": "状语从句(结果)",
+          "原文": "so their work tends to reflect the conventional values of this elite",
+          "修饰对象": "—",
+          "中文翻译": "因此他们的作品往往反映这一精英阶层的传统价值观",
+          "说明": "so引导结果状语从句，连接前后两个分句。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to reflect the conventional values of this elite",
+          "修饰对象": "tends",
+          "中文翻译": "反映这一精英阶层的传统价值观",
+          "说明": "不定式作后一分句中tend的补足成分。"
+        }
+      ],
+      "zh": "记者往往属于一个广义上的社会文化精英阶层，因此他们的作品也往往反映这一精英阶层的传统价值观。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2001-text3-s13",
+      "s": "The astonishing distrust of the news media isn't rooted in inaccuracy or poor reportorial skills but in the daily clash of world views between reporters and their readers.",
+      "para_no": 6,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "The astonishing distrust of the news media",
+        "谓语": "isn't rooted",
+        "宾语或表语": "not in inaccuracy... but in the daily clash...",
+        "主干翻译": "对新闻媒体的惊人不信任并非源于……而是源于……。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "poor reportorial skills",
+          "修饰对象": "inaccuracy",
+          "中文翻译": "拙劣的报道技巧",
+          "说明": "与inaccuracy并列，由or连接，同作in的宾语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "in the daily clash of world views between reporters and their readers",
+          "修饰对象": "in",
+          "中文翻译": "在于记者与读者之间世界观的日常冲突",
+          "说明": "由not...but...连接，与in inaccuracy or poor reportorial skills构成转折并列，作rooted的状语。"
+        }
+      ],
+      "zh": "对新闻媒体这种惊人的不信任，其根源不在于报道失实或报道技巧拙劣，而在于记者与读者之间世界观的日常冲突。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2001-text3-s14",
+      "s": "This is an explosive situation for any industry, particularly a declining one.",
+      "para_no": 7,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "This",
+        "谓语": "is",
+        "宾语或表语": "an explosive situation",
+        "主干翻译": "这对任何行业来说都是一种一触即发的局面。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "particularly a declining one",
+          "修饰对象": "industry",
+          "中文翻译": "尤其是对一个正在衰落的行业而言",
+          "说明": "补充性插入成分，one指代industry，进一步限定any industry。"
+        }
+      ],
+      "zh": "对任何行业而言，这都是一种一触即发的危险局面，对一个正在衰落的行业来说尤其如此。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2001-text3-s15",
+      "s": "Here is a troubled business that keeps hiring employees whose attitudes vastly annoy the customers.",
+      "para_no": 7,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "a troubled business",
+        "谓语": "is",
+        "宾语或表语": "(Here is) a troubled business",
+        "主干翻译": "这里有一个陷入困境的行业。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "that keeps hiring employees whose attitudes vastly annoy the customers",
+          "修饰对象": "business",
+          "中文翻译": "它不断雇用那些态度极其惹恼顾客的员工",
+          "说明": "that引导的定语从句修饰business，that作从句主语。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "hiring employees whose attitudes vastly annoy the customers",
+          "修饰对象": "keeps",
+          "中文翻译": "雇用那些态度极其惹恼顾客的员工",
+          "说明": "动名词作keep的宾语。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "whose attitudes vastly annoy the customers",
+          "修饰对象": "employees",
+          "中文翻译": "他们的态度极大地惹恼了顾客",
+          "说明": "whose引导的定语从句修饰employees，whose attitudes作从句主语。"
+        }
+      ],
+      "zh": "这是一个陷入困境的行业，它不断雇用那些态度极其惹恼顾客的员工。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2001-text3-s16",
+      "s": "Then it sponsors lots of symposiums and a credibility project dedicated to wondering why customers are annoyed and fleeing in large numbers.",
+      "para_no": 7,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "it",
+        "谓语": "sponsors",
+        "宾语或表语": "lots of symposiums and a credibility project",
+        "主干翻译": "它赞助了许多研讨会和一个可信度项目。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "a credibility project dedicated to wondering why customers are annoyed and fleeing in large numbers",
+          "修饰对象": "lots",
+          "中文翻译": "一个专门探究顾客为何恼火并大量流失的可信度项目",
+          "说明": "与lots of symposiums并列，由and连接，同作sponsors的宾语。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "dedicated to wondering why customers are annoyed and fleeing in large numbers",
+          "修饰对象": "project",
+          "中文翻译": "专门用来探究顾客为何恼火并大量流失的",
+          "说明": "过去分词短语作project的后置定语。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "why customers are annoyed and fleeing in large numbers",
+          "修饰对象": "wondering",
+          "中文翻译": "顾客为何恼火并大量流失",
+          "说明": "why引导的宾语从句作wondering（动名词）的宾语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "fleeing in large numbers",
+          "修饰对象": "annoyed",
+          "中文翻译": "大量流失",
+          "说明": "在从句内与are annoyed并列，共用系动词are，由and连接。"
+        }
+      ],
+      "zh": "接着，它又赞助了大量研讨会和一个可信度项目，专门用来探究顾客为何恼火并大量流失。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2001-text3-s17",
+      "s": "But it never seems to get around to noticing the cultural and class biases that so many former buyers are complaining about.",
+      "para_no": 7,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "it",
+        "谓语": "seems",
+        "宾语或表语": "never to get around to noticing the cultural and class biases",
+        "主干翻译": "它似乎从未抽出空来注意到那些文化和阶层偏见。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to get around to noticing the cultural and class biases that so many former buyers are complaining about",
+          "修饰对象": "seems",
+          "中文翻译": "腾出空去注意到那么多昔日买家所抱怨的文化和阶层偏见",
+          "说明": "不定式作seem的补足成分；get around to doing意为“抽空去做”。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that so many former buyers are complaining about",
+          "修饰对象": "biases",
+          "中文翻译": "那么多昔日的买家正在抱怨的",
+          "说明": "that引导的定语从句修饰biases，that作介词about的宾语。"
+        }
+      ],
+      "zh": "但它似乎从未抽出空来注意到那么多昔日读者正在抱怨的文化偏见和阶层偏见。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2001-text3-s18",
+      "s": "If it did, it would open up its diversity program, now focused narrowly on race and gender, and look for reporters who differ broadly by outlook, values, education, and class.",
+      "para_no": 7,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "it",
+        "谓语": "would open up and look for",
+        "宾语或表语": "its diversity program ... reporters",
+        "主干翻译": "它就会开放其多样化计划，并寻找记者。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "If it did",
+          "修饰对象": "open",
+          "中文翻译": "如果它真这么做",
+          "说明": "if引导的条件状语从句，did为代动词替代上文动作，表与现在事实相反的虚拟。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "now focused narrowly on race and gender",
+          "修饰对象": "program",
+          "中文翻译": "目前仅狭隘地聚焦于种族和性别的",
+          "说明": "过去分词短语作diversity program的后置定语（插入说明）。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "look for reporters who differ broadly by outlook, values, education, and class",
+          "修饰对象": "open",
+          "中文翻译": "寻找那些在观念、价值观、教育和阶层上差异广泛的记者",
+          "说明": "与open up并列，共用谓语would，由and连接。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "who differ broadly by outlook, values, education, and class",
+          "修饰对象": "reporters",
+          "中文翻译": "他们在观念、价值观、教育和阶层方面差异显著",
+          "说明": "who引导的定语从句修饰reporters，who作从句主语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "values, education, and class",
+          "修饰对象": "outlook",
+          "中文翻译": "价值观、教育和阶层",
+          "说明": "与outlook并列，同作介词by的宾语，由逗号及and连接。"
+        }
+      ],
+      "zh": "如果它真这么做，就会开放目前仅狭隘聚焦于种族和性别的多样化计划，去寻找那些在观念、价值观、教育和阶层上差异广泛的记者。",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2001-text3-s1",
+        "en1-2001-text3-s2",
+        "en1-2001-text3-s3"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2001-text3-s4"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2001-text3-s5",
+        "en1-2001-text3-s6",
+        "en1-2001-text3-s7"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2001-text3-s8",
+        "en1-2001-text3-s9",
+        "en1-2001-text3-s10"
+      ]
+    },
+    {
+      "para_no": 5,
+      "sids": [
+        "en1-2001-text3-s11"
+      ]
+    },
+    {
+      "para_no": 6,
+      "sids": [
+        "en1-2001-text3-s12",
+        "en1-2001-text3-s13"
+      ]
+    },
+    {
+      "para_no": 7,
+      "sids": [
+        "en1-2001-text3-s14",
+        "en1-2001-text3-s15",
+        "en1-2001-text3-s16",
+        "en1-2001-text3-s17",
+        "en1-2001-text3-s18"
+      ]
+    }
+  ]
+}

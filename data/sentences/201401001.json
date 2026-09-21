@@ -1,0 +1,1518 @@
+{
+  "sentences": [
+    {
+      "cn_text": "当许多人步入中年时，他们往往开始注意到自己的记忆力和思维清晰度已大不如前。",
+      "en_text": "As many people hit middle age, they often start to notice that their memory and mental clarity are not what they used to be.",
+      "id": 2014013001,
+      "order_seq": "content_1_1",
+      "task_id": 201401001,
+      "tokens": [
+        {
+          "gloss": "当",
+          "lemma": "as",
+          "surface": "As"
+        },
+        {
+          "gloss": "许多",
+          "lemma": "many",
+          "surface": "many"
+        },
+        {
+          "gloss": "人们",
+          "lemma": "people",
+          "surface": "people"
+        },
+        {
+          "gloss": "到达",
+          "lemma": "hit",
+          "surface": "hit"
+        },
+        {
+          "gloss": "中间的",
+          "lemma": "middle",
+          "surface": "middle"
+        },
+        {
+          "gloss": "年龄",
+          "lemma": "age",
+          "surface": "age"
+        },
+        {
+          "gloss": "他们",
+          "lemma": "they",
+          "surface": "they"
+        },
+        {
+          "gloss": "经常",
+          "lemma": "often",
+          "surface": "often"
+        },
+        {
+          "gloss": "开始",
+          "lemma": "start",
+          "surface": "start"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "注意到",
+          "lemma": "notice",
+          "surface": "notice"
+        },
+        {
+          "gloss": "那",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "他们的",
+          "lemma": "their",
+          "surface": "their"
+        },
+        {
+          "gloss": "记忆",
+          "lemma": "memory",
+          "surface": "memory"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "心理的",
+          "lemma": "mental",
+          "surface": "mental"
+        },
+        {
+          "gloss": "清晰",
+          "lemma": "clarity",
+          "surface": "clarity"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "are"
+        },
+        {
+          "gloss": "不",
+          "lemma": "not",
+          "surface": "not"
+        },
+        {
+          "gloss": "什么",
+          "lemma": "what",
+          "surface": "what"
+        },
+        {
+          "gloss": "他们",
+          "lemma": "they",
+          "surface": "they"
+        },
+        {
+          "gloss": "曾经",
+          "lemma": "use",
+          "surface": "used"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "be"
+        }
+      ]
+    },
+    {
+      "cn_text": "我们会突然想不起刚才把钥匙放在哪里，或是一位老熟人的名字，抑或是我们曾经喜爱的某个老乐队的名字。",
+      "en_text": "We suddenly can’t remember where we put the keys just a moment ago, or an old acquaintance’s name, or the name of an old band we used to love.",
+      "id": 2014013002,
+      "order_seq": "content_1_2",
+      "task_id": 201401001,
+      "tokens": [
+        {
+          "gloss": "我们",
+          "lemma": "we",
+          "surface": "we"
+        },
+        {
+          "gloss": "突然",
+          "lemma": "suddenly",
+          "surface": "suddenly"
+        },
+        {
+          "gloss": "不能",
+          "lemma": "cannot",
+          "surface": "can’t"
+        },
+        {
+          "gloss": "记得",
+          "lemma": "remember",
+          "surface": "remember"
+        },
+        {
+          "gloss": "在哪里",
+          "lemma": "where",
+          "surface": "where"
+        },
+        {
+          "gloss": "我们",
+          "lemma": "we",
+          "surface": "we"
+        },
+        {
+          "gloss": "放置",
+          "lemma": "put",
+          "surface": "put"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "钥匙",
+          "lemma": "key",
+          "surface": "keys"
+        },
+        {
+          "gloss": "刚刚",
+          "lemma": "just",
+          "surface": "just"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "片刻",
+          "lemma": "moment",
+          "surface": "moment"
+        },
+        {
+          "gloss": "之前",
+          "lemma": "ago",
+          "surface": "ago"
+        },
+        {
+          "gloss": "或者",
+          "lemma": "or",
+          "surface": "or"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "an",
+          "surface": "an"
+        },
+        {
+          "gloss": "旧的",
+          "lemma": "old",
+          "surface": "old"
+        },
+        {
+          "gloss": "熟人的",
+          "lemma": "acquaintance",
+          "surface": "acquaintance’s"
+        },
+        {
+          "gloss": "名字",
+          "lemma": "name",
+          "surface": "name"
+        },
+        {
+          "gloss": "或者",
+          "lemma": "or",
+          "surface": "or"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "名字",
+          "lemma": "name",
+          "surface": "name"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "an",
+          "surface": "an"
+        },
+        {
+          "gloss": "旧的",
+          "lemma": "old",
+          "surface": "old"
+        },
+        {
+          "gloss": "乐队",
+          "lemma": "band",
+          "surface": "band"
+        },
+        {
+          "gloss": "我们",
+          "lemma": "we",
+          "surface": "we"
+        },
+        {
+          "gloss": "曾经",
+          "lemma": "use",
+          "surface": "used"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "喜欢",
+          "lemma": "love",
+          "surface": "love"
+        }
+      ]
+    },
+    {
+      "cn_text": "随着大脑功能衰退，我们将这些现象称为「老年时刻」。这种心智专注力的丧失看似无害，实则可能对我们的职业、社交和个人福祉造成破坏性影响。",
+      "en_text": "As the brain fades, we refer to these occurrences as “senior moments.” While seemingly innocent, this loss of mental focus can potentially have a(n) damaging impact on our professional, social, and personal wellbeing.",
+      "id": 2014013003,
+      "order_seq": "content_1_3",
+      "task_id": 201401001,
+      "tokens": [
+        {
+          "gloss": "当",
+          "lemma": "as",
+          "surface": "As"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "大脑",
+          "lemma": "brain",
+          "surface": "brain"
+        },
+        {
+          "gloss": "衰退",
+          "lemma": "fade",
+          "surface": "fades"
+        },
+        {
+          "gloss": "我们",
+          "lemma": "we",
+          "surface": "we"
+        },
+        {
+          "gloss": "称作",
+          "lemma": "refer",
+          "surface": "refer"
+        },
+        {
+          "gloss": "为",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "这些",
+          "lemma": "these",
+          "surface": "these"
+        },
+        {
+          "gloss": "事件",
+          "lemma": "occurrence",
+          "surface": "occurrences"
+        },
+        {
+          "gloss": "作为",
+          "lemma": "as",
+          "surface": "as"
+        },
+        {
+          "gloss": "年长的",
+          "lemma": "senior",
+          "surface": "senior"
+        },
+        {
+          "gloss": "时刻",
+          "lemma": "moment",
+          "surface": "moments"
+        },
+        {
+          "gloss": "虽然",
+          "lemma": "while",
+          "surface": "While"
+        },
+        {
+          "gloss": "表面上",
+          "lemma": "seemingly",
+          "surface": "seemingly"
+        },
+        {
+          "gloss": "无害的",
+          "lemma": "innocent",
+          "surface": "innocent"
+        },
+        {
+          "gloss": "这",
+          "lemma": "this",
+          "surface": "this"
+        },
+        {
+          "gloss": "丧失",
+          "lemma": "loss",
+          "surface": "loss"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "心理的",
+          "lemma": "mental",
+          "surface": "mental"
+        },
+        {
+          "gloss": "专注",
+          "lemma": "focus",
+          "surface": "focus"
+        },
+        {
+          "gloss": "可能",
+          "lemma": "can",
+          "surface": "can"
+        },
+        {
+          "gloss": "潜在地",
+          "lemma": "potentially",
+          "surface": "potentially"
+        },
+        {
+          "gloss": "有",
+          "lemma": "have",
+          "surface": "have"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "（用于元音前）",
+          "lemma": "n",
+          "surface": "n"
+        },
+        {
+          "gloss": "有害的",
+          "lemma": "damage",
+          "surface": "damaging"
+        },
+        {
+          "gloss": "影响",
+          "lemma": "impact",
+          "surface": "impact"
+        },
+        {
+          "gloss": "对",
+          "lemma": "on",
+          "surface": "on"
+        },
+        {
+          "gloss": "我们的",
+          "lemma": "our",
+          "surface": "our"
+        },
+        {
+          "gloss": "职业的",
+          "lemma": "professional",
+          "surface": "professional"
+        },
+        {
+          "gloss": "社交的",
+          "lemma": "social",
+          "surface": "social"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "个人的",
+          "lemma": "personal",
+          "surface": "personal"
+        },
+        {
+          "gloss": "幸福",
+          "lemma": "wellbeing",
+          "surface": "wellbeing"
+        }
+      ]
+    },
+    {
+      "cn_text": "研究神经系统的专家——神经科学家们，正越来越多地证明实际上有许多应对之策。",
+      "en_text": "Neuroscientists, experts who study the nervous system, are increasingly showing that there’s actually a lot that can be done.",
+      "id": 2014013004,
+      "order_seq": "content_2_1",
+      "task_id": 201401001,
+      "tokens": [
+        {
+          "gloss": "神经科学家",
+          "lemma": "neuroscientist",
+          "surface": "neuroscientists"
+        },
+        {
+          "gloss": "专家",
+          "lemma": "expert",
+          "surface": "experts"
+        },
+        {
+          "gloss": "谁",
+          "lemma": "who",
+          "surface": "who"
+        },
+        {
+          "gloss": "研究",
+          "lemma": "study",
+          "surface": "study"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "神经的",
+          "lemma": "nervous",
+          "surface": "nervous"
+        },
+        {
+          "gloss": "系统",
+          "lemma": "system",
+          "surface": "system"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "are"
+        },
+        {
+          "gloss": "越来越多地",
+          "lemma": "increasingly",
+          "surface": "increasingly"
+        },
+        {
+          "gloss": "表明",
+          "lemma": "show",
+          "surface": "showing"
+        },
+        {
+          "gloss": "表明",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "那里",
+          "lemma": "there",
+          "surface": "there"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "实际上",
+          "lemma": "actually",
+          "surface": "actually"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "很多",
+          "lemma": "lot",
+          "surface": "lot"
+        },
+        {
+          "gloss": "那个",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "可以",
+          "lemma": "can",
+          "surface": "can"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "be"
+        },
+        {
+          "gloss": "完成",
+          "lemma": "do",
+          "surface": "done"
+        }
+      ]
+    },
+    {
+      "cn_text": "事实证明，大脑同肌肉一样需要锻炼，而恰当的心智训练能够显著改善我们的基本认知功能。",
+      "en_text": "It turns out that the brain needs exercise in much the same way our muscles do, and the right mental workouts can significantly improve our basic cognitive functions.",
+      "id": 2014013005,
+      "order_seq": "content_2_2",
+      "task_id": 201401001,
+      "tokens": [
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "It"
+        },
+        {
+          "gloss": "证明",
+          "lemma": "turn",
+          "surface": "turns"
+        },
+        {
+          "gloss": "结果",
+          "lemma": "out",
+          "surface": "out"
+        },
+        {
+          "gloss": "表明",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "定冠词",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "大脑",
+          "lemma": "brain",
+          "surface": "brain"
+        },
+        {
+          "gloss": "需要",
+          "lemma": "need",
+          "surface": "needs"
+        },
+        {
+          "gloss": "锻炼",
+          "lemma": "exercise",
+          "surface": "exercise"
+        },
+        {
+          "gloss": "在...方面",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "非常",
+          "lemma": "much",
+          "surface": "much"
+        },
+        {
+          "gloss": "定冠词",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "相同的",
+          "lemma": "same",
+          "surface": "same"
+        },
+        {
+          "gloss": "方式",
+          "lemma": "way",
+          "surface": "way"
+        },
+        {
+          "gloss": "我们的",
+          "lemma": "our",
+          "surface": "our"
+        },
+        {
+          "gloss": "肌肉",
+          "lemma": "muscle",
+          "surface": "muscles"
+        },
+        {
+          "gloss": "做",
+          "lemma": "do",
+          "surface": "do"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "定冠词",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "正确的",
+          "lemma": "right",
+          "surface": "right"
+        },
+        {
+          "gloss": "心理的",
+          "lemma": "mental",
+          "surface": "mental"
+        },
+        {
+          "gloss": "训练",
+          "lemma": "workout",
+          "surface": "workouts"
+        },
+        {
+          "gloss": "能够",
+          "lemma": "can",
+          "surface": "can"
+        },
+        {
+          "gloss": "显著地",
+          "lemma": "significantly",
+          "surface": "significantly"
+        },
+        {
+          "gloss": "提高",
+          "lemma": "improve",
+          "surface": "improve"
+        },
+        {
+          "gloss": "我们的",
+          "lemma": "our",
+          "surface": "our"
+        },
+        {
+          "gloss": "基本的",
+          "lemma": "basic",
+          "surface": "basic"
+        },
+        {
+          "gloss": "认知的",
+          "lemma": "cognitive",
+          "surface": "cognitive"
+        },
+        {
+          "gloss": "功能",
+          "lemma": "function",
+          "surface": "functions"
+        }
+      ]
+    },
+    {
+      "cn_text": "思维本质上是一个在大脑中建立联结的过程。",
+      "en_text": "Thinking is essentially a process of making connections in the brain.",
+      "id": 2014013006,
+      "order_seq": "content_2_3",
+      "task_id": 201401001,
+      "tokens": [
+        {
+          "gloss": "思考",
+          "lemma": "think",
+          "surface": "Thinking"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "本质上",
+          "lemma": "essentially",
+          "surface": "essentially"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "过程",
+          "lemma": "process",
+          "surface": "process"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "建立",
+          "lemma": "make",
+          "surface": "making"
+        },
+        {
+          "gloss": "联系",
+          "lemma": "connection",
+          "surface": "connections"
+        },
+        {
+          "gloss": "在...中",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "定冠词",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "大脑",
+          "lemma": "brain",
+          "surface": "brain"
+        }
+      ]
+    },
+    {
+      "cn_text": "在某种程度上，我们在建立驱动智力的联结方面的卓越能力是由遗传决定的。",
+      "en_text": "To a certain extent, our ability to excel in making the connections that drive intelligence is inherited.",
+      "id": 2014013007,
+      "order_seq": "content_2_4",
+      "task_id": 201401001,
+      "tokens": [
+        {
+          "gloss": "到",
+          "lemma": "to",
+          "surface": "To"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "某种",
+          "lemma": "certain",
+          "surface": "certain"
+        },
+        {
+          "gloss": "程度",
+          "lemma": "extent",
+          "surface": "extent"
+        },
+        {
+          "gloss": "我们的",
+          "lemma": "our",
+          "surface": "our"
+        },
+        {
+          "gloss": "能力",
+          "lemma": "ability",
+          "surface": "ability"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "擅长",
+          "lemma": "excel",
+          "surface": "excel"
+        },
+        {
+          "gloss": "在...方面",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "建立",
+          "lemma": "make",
+          "surface": "making"
+        },
+        {
+          "gloss": "定冠词",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "联系",
+          "lemma": "connection",
+          "surface": "connections"
+        },
+        {
+          "gloss": "引导从句",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "推动",
+          "lemma": "drive",
+          "surface": "drive"
+        },
+        {
+          "gloss": "智力",
+          "lemma": "intelligence",
+          "surface": "intelligence"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "遗传",
+          "lemma": "inherit",
+          "surface": "inherited"
+        }
+      ]
+    },
+    {
+      "cn_text": "然而，由于这些联结是通过努力和练习建立的，科学家认为智力能够随着心智投入而扩展和波动。",
+      "en_text": "However, because these connections are made through effort and practice, scientists believe that intelligence can expand and fluctuate according to mental effort.",
+      "id": 2014013008,
+      "order_seq": "content_2_5",
+      "task_id": 201401001,
+      "tokens": [
+        {
+          "gloss": "然而",
+          "lemma": "however",
+          "surface": "However"
+        },
+        {
+          "gloss": "因为",
+          "lemma": "because",
+          "surface": "because"
+        },
+        {
+          "gloss": "这些",
+          "lemma": "these",
+          "surface": "these"
+        },
+        {
+          "gloss": "联系",
+          "lemma": "connection",
+          "surface": "connections"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "are"
+        },
+        {
+          "gloss": "建立",
+          "lemma": "make",
+          "surface": "made"
+        },
+        {
+          "gloss": "通过",
+          "lemma": "through",
+          "surface": "through"
+        },
+        {
+          "gloss": "努力",
+          "lemma": "effort",
+          "surface": "effort"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "练习",
+          "lemma": "practice",
+          "surface": "practice"
+        },
+        {
+          "gloss": "科学家",
+          "lemma": "scientist",
+          "surface": "scientists"
+        },
+        {
+          "gloss": "认为",
+          "lemma": "believe",
+          "surface": "believe"
+        },
+        {
+          "gloss": "引导从句",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "智力",
+          "lemma": "intelligence",
+          "surface": "intelligence"
+        },
+        {
+          "gloss": "能够",
+          "lemma": "can",
+          "surface": "can"
+        },
+        {
+          "gloss": "扩展",
+          "lemma": "expand",
+          "surface": "expand"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "波动",
+          "lemma": "fluctuate",
+          "surface": "fluctuate"
+        },
+        {
+          "gloss": "根据",
+          "lemma": "according",
+          "surface": "according"
+        },
+        {
+          "gloss": "到",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "心理的",
+          "lemma": "mental",
+          "surface": "mental"
+        },
+        {
+          "gloss": "努力",
+          "lemma": "effort",
+          "surface": "effort"
+        }
+      ]
+    },
+    {
+      "cn_text": "如今，一家新兴的互联网公司将此理念推进了一步，开发出首个旨在切实帮助人们提升和恢复思维敏锐度的「大脑训练项目」。",
+      "en_text": "Now, a new Web-based company has taken it a step further and developed the first “brain training program” designed to actually help people improve and regain their mental sharpness.",
+      "id": 2014013009,
+      "order_seq": "content_3_1",
+      "task_id": 201401001,
+      "tokens": [
+        {
+          "gloss": "现在",
+          "lemma": "now",
+          "surface": "now"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "新的",
+          "lemma": "new",
+          "surface": "new"
+        },
+        {
+          "gloss": "网络",
+          "lemma": "web",
+          "surface": "web"
+        },
+        {
+          "gloss": "基于的",
+          "lemma": "base",
+          "surface": "based"
+        },
+        {
+          "gloss": "公司",
+          "lemma": "company",
+          "surface": "company"
+        },
+        {
+          "gloss": "已经",
+          "lemma": "have",
+          "surface": "has"
+        },
+        {
+          "gloss": "采取",
+          "lemma": "take",
+          "surface": "taken"
+        },
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "it"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "一步",
+          "lemma": "step",
+          "surface": "step"
+        },
+        {
+          "gloss": "更进一步",
+          "lemma": "further",
+          "surface": "further"
+        },
+        {
+          "gloss": "并且",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "开发",
+          "lemma": "develop",
+          "surface": "developed"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "第一个",
+          "lemma": "first",
+          "surface": "first"
+        },
+        {
+          "gloss": "脑",
+          "lemma": "brain",
+          "surface": "brain"
+        },
+        {
+          "gloss": "训练",
+          "lemma": "training",
+          "surface": "training"
+        },
+        {
+          "gloss": "计划",
+          "lemma": "program",
+          "surface": "program"
+        },
+        {
+          "gloss": "设计",
+          "lemma": "design",
+          "surface": "designed"
+        },
+        {
+          "gloss": "为了",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "真正地",
+          "lemma": "actually",
+          "surface": "actually"
+        },
+        {
+          "gloss": "帮助",
+          "lemma": "help",
+          "surface": "help"
+        },
+        {
+          "gloss": "人们",
+          "lemma": "people",
+          "surface": "people"
+        },
+        {
+          "gloss": "提高",
+          "lemma": "improve",
+          "surface": "improve"
+        },
+        {
+          "gloss": "并且",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "恢复",
+          "lemma": "regain",
+          "surface": "regain"
+        },
+        {
+          "gloss": "他们的",
+          "lemma": "their",
+          "surface": "their"
+        },
+        {
+          "gloss": "思维的",
+          "lemma": "mental",
+          "surface": "mental"
+        },
+        {
+          "gloss": "敏锐性",
+          "lemma": "sharpness",
+          "surface": "sharpness"
+        }
+      ]
+    },
+    {
+      "cn_text": "该网络程序能够让你系统性地提升记忆力和注意力技能。",
+      "en_text": "The Web-based program allows you to systematically improve your memory and attention skills.",
+      "id": 2014013010,
+      "order_seq": "content_4_1",
+      "task_id": 201401001,
+      "tokens": [
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "网络",
+          "lemma": "web",
+          "surface": "web"
+        },
+        {
+          "gloss": "基于的",
+          "lemma": "base",
+          "surface": "based"
+        },
+        {
+          "gloss": "程序",
+          "lemma": "program",
+          "surface": "program"
+        },
+        {
+          "gloss": "允许",
+          "lemma": "allow",
+          "surface": "allows"
+        },
+        {
+          "gloss": "你",
+          "lemma": "you",
+          "surface": "you"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "系统地",
+          "lemma": "systematically",
+          "surface": "systematically"
+        },
+        {
+          "gloss": "提高",
+          "lemma": "improve",
+          "surface": "improve"
+        },
+        {
+          "gloss": "你的",
+          "lemma": "your",
+          "surface": "your"
+        },
+        {
+          "gloss": "记忆力",
+          "lemma": "memory",
+          "surface": "memory"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "注意力",
+          "lemma": "attention",
+          "surface": "attention"
+        },
+        {
+          "gloss": "技能",
+          "lemma": "skill",
+          "surface": "skills"
+        }
+      ]
+    },
+    {
+      "cn_text": "该程序会追踪你的进展情况，并就你的表现和提升提供详细反馈。",
+      "en_text": "The program keeps track of your progress and provides detailed feedback on your performance and improvement.",
+      "id": 2014013011,
+      "order_seq": "content_4_2",
+      "task_id": 201401001,
+      "tokens": [
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "程序",
+          "lemma": "program",
+          "surface": "program"
+        },
+        {
+          "gloss": "保持",
+          "lemma": "keep",
+          "surface": "keeps"
+        },
+        {
+          "gloss": "跟踪",
+          "lemma": "track",
+          "surface": "track"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "你的",
+          "lemma": "your",
+          "surface": "your"
+        },
+        {
+          "gloss": "进度",
+          "lemma": "progress",
+          "surface": "progress"
+        },
+        {
+          "gloss": "并且",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "提供",
+          "lemma": "provide",
+          "surface": "provides"
+        },
+        {
+          "gloss": "详细的",
+          "lemma": "detailed",
+          "surface": "detailed"
+        },
+        {
+          "gloss": "反馈",
+          "lemma": "feedback",
+          "surface": "feedback"
+        },
+        {
+          "gloss": "关于",
+          "lemma": "on",
+          "surface": "on"
+        },
+        {
+          "gloss": "你的",
+          "lemma": "your",
+          "surface": "your"
+        },
+        {
+          "gloss": "表现",
+          "lemma": "performance",
+          "surface": "performance"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "改进",
+          "lemma": "improvement",
+          "surface": "improvement"
+        }
+      ]
+    },
+    {
+      "cn_text": "最重要的是,它会持续调整和强化你所进行的游戏训练,以你正在培养的优势为基础——正如一套有效的锻炼计划要求你增加阻力并变换肌肉使用方式。",
+      "en_text": "Most importantly, it constantly modifies and enhances the games you play to build on the strengths you are developing — much like a(n) effective exercise routine requires you to increase resistance and vary your muscle use.",
+      "id": 2014013012,
+      "order_seq": "content_4_3",
+      "task_id": 201401001,
+      "tokens": [
+        {
+          "gloss": "最",
+          "lemma": "most",
+          "surface": "Most"
+        },
+        {
+          "gloss": "重要地",
+          "lemma": "importantly",
+          "surface": "importantly"
+        },
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "it"
+        },
+        {
+          "gloss": "不断地",
+          "lemma": "constantly",
+          "surface": "constantly"
+        },
+        {
+          "gloss": "修改",
+          "lemma": "modify",
+          "surface": "modifies"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "增强",
+          "lemma": "enhance",
+          "surface": "enhances"
+        },
+        {
+          "gloss": "这些",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "游戏",
+          "lemma": "game",
+          "surface": "games"
+        },
+        {
+          "gloss": "你",
+          "lemma": "you",
+          "surface": "you"
+        },
+        {
+          "gloss": "玩",
+          "lemma": "play",
+          "surface": "play"
+        },
+        {
+          "gloss": "以",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "建立",
+          "lemma": "build",
+          "surface": "build"
+        },
+        {
+          "gloss": "基于",
+          "lemma": "on",
+          "surface": "on"
+        },
+        {
+          "gloss": "这些",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "优势",
+          "lemma": "strength",
+          "surface": "strengths"
+        },
+        {
+          "gloss": "你",
+          "lemma": "you",
+          "surface": "you"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "are"
+        },
+        {
+          "gloss": "发展",
+          "lemma": "develop",
+          "surface": "developing"
+        },
+        {
+          "gloss": "非常",
+          "lemma": "much",
+          "surface": "much"
+        },
+        {
+          "gloss": "像",
+          "lemma": "like",
+          "surface": "like"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "（用于元音前）",
+          "lemma": "n",
+          "surface": "n"
+        },
+        {
+          "gloss": "有效的",
+          "lemma": "effective",
+          "surface": "effective"
+        },
+        {
+          "gloss": "锻炼",
+          "lemma": "exercise",
+          "surface": "exercise"
+        },
+        {
+          "gloss": "常规",
+          "lemma": "routine",
+          "surface": "routine"
+        },
+        {
+          "gloss": "需要",
+          "lemma": "require",
+          "surface": "requires"
+        },
+        {
+          "gloss": "你",
+          "lemma": "you",
+          "surface": "you"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "增加",
+          "lemma": "increase",
+          "surface": "increase"
+        },
+        {
+          "gloss": "阻力",
+          "lemma": "resistance",
+          "surface": "resistance"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "变化",
+          "lemma": "vary",
+          "surface": "vary"
+        },
+        {
+          "gloss": "你的",
+          "lemma": "your",
+          "surface": "your"
+        },
+        {
+          "gloss": "肌肉",
+          "lemma": "muscle",
+          "surface": "muscle"
+        },
+        {
+          "gloss": "使用",
+          "lemma": "use",
+          "surface": "use"
+        }
+      ]
+    }
+  ],
+  "success": true
+}

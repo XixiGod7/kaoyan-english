@@ -1,0 +1,814 @@
+{
+  "exam": "en1",
+  "key": "2023-t2",
+  "year": 2023,
+  "text_no": 2,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2023-text2-s1",
+      "s": "Communities throughout New England have been attempting to regulate short-term rentals since sites like Airbnb took off in the 2010s.",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Communities",
+        "谓语": "have been attempting",
+        "宾语或表语": "to regulate short-term rentals",
+        "主干翻译": "各社区一直试图监管短期租赁。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "throughout New England",
+          "修饰对象": "Communities",
+          "中文翻译": "遍布新英格兰各地的",
+          "说明": "介词短语修饰主语 Communities，说明社区的范围。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to regulate short-term rentals",
+          "修饰对象": "attempting",
+          "中文翻译": "去监管短期租赁",
+          "说明": "不定式作 attempting 的宾语补足，表示试图做的事。"
+        },
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "since sites like Airbnb took off in the 2010s",
+          "修饰对象": "attempting",
+          "中文翻译": "自从爱彼迎之类的网站在2010年代兴起以来",
+          "说明": "since 引导时间状语从句，与现在完成进行时呼应，表示起始时间点。"
+        }
+      ],
+      "zh": "自从爱彼迎之类的网站在2010年代兴起以来，遍布新英格兰各地的社区就一直试图监管短期租赁。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2023-text2-s2",
+      "s": "Now, with record-high home prices and historically low inventory, there's an increased urgency in such regulation, particularly among those who worry that developers will come in and buy up swaths of housing to flip for a fortune on the short-term rental market.",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "there",
+        "谓语": "is",
+        "宾语或表语": "an increased urgency",
+        "主干翻译": "存在一种愈发增强的紧迫感。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "with record-high home prices and historically low inventory",
+          "修饰对象": "is",
+          "中文翻译": "鉴于房价创历史新高、库存处于历史低位",
+          "说明": "with 引导的介词短语作伴随/原因状语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "historically low inventory",
+          "修饰对象": "prices",
+          "中文翻译": "历史性低位的库存",
+          "说明": "与 record-high home prices 由 and 并列，同为 with 的宾语。"
+        },
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "in such regulation",
+          "修饰对象": "urgency",
+          "中文翻译": "在此类监管方面的",
+          "说明": "介词短语修饰 urgency，说明紧迫感的方面。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "particularly among those who worry that developers will come in and buy up swaths of housing to flip for a fortune on the short-term rental market",
+          "修饰对象": "is",
+          "中文翻译": "尤其是在那些担忧的人当中",
+          "说明": "among 短语作范围状语，指出紧迫感集中的人群。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "who worry that developers will come in and buy up swaths of housing to flip for a fortune on the short-term rental market",
+          "修饰对象": "those",
+          "中文翻译": "担忧开发商会进场大量收购房产以在短租市场上转手牟取暴利的（那些人）",
+          "说明": "who 引导定语从句修饰先行词 those。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that developers will come in and buy up swaths of housing to flip for a fortune on the short-term rental market",
+          "修饰对象": "worry",
+          "中文翻译": "开发商将进场大量收购房产以在短租市场上转手牟取暴利",
+          "说明": "that 引导宾语从句作 worry 的宾语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "buy up swaths of housing to flip for a fortune on the short-term rental market",
+          "修饰对象": "come",
+          "中文翻译": "大量收购房产以在短租市场上转手牟取暴利",
+          "说明": "与 come in 由 and 并列，共用主语 developers。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to flip for a fortune on the short-term rental market",
+          "修饰对象": "buy",
+          "中文翻译": "以在短租市场上转手牟取暴利",
+          "说明": "不定式作目的状语，修饰 buy up。"
+        }
+      ],
+      "zh": "如今，鉴于房价创历史新高、库存处于历史低位，人们对此类监管的紧迫感愈发增强，尤其是在那些担忧开发商会进场大量收购房产、以在短租市场上转手牟取暴利的人当中。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2023-text2-s3",
+      "s": "In New Hampshire, where the rental vacancy rate has dropped below 1 percent, housing advocates fear unchecked short-term rentals will put further pressure on an already strained market.",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "housing advocates",
+        "谓语": "fear",
+        "宾语或表语": "unchecked short-term rentals will put further pressure on an already strained market",
+        "主干翻译": "住房权益倡导者担心不受约束的短期租赁会进一步给本已紧张的市场施压。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "In New Hampshire",
+          "修饰对象": "fear",
+          "中文翻译": "在新罕布什尔州",
+          "说明": "地点状语，限定全句的范围。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "where the rental vacancy rate has dropped below 1 percent",
+          "修饰对象": "Hampshire",
+          "中文翻译": "（该州）租房空置率已降至1%以下",
+          "说明": "where 引导定语从句修饰 New Hampshire，表地点。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "unchecked short-term rentals will put further pressure on an already strained market",
+          "修饰对象": "fear",
+          "中文翻译": "不受约束的短期租赁会进一步给本已紧张的市场施压",
+          "说明": "省略 that 的宾语从句，作 fear 的宾语。"
+        }
+      ],
+      "zh": "在租房空置率已降至1%以下的新罕布什尔州，住房权益倡导者担心，不受约束的短期租赁会给本已紧张的市场进一步施压。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2023-text2-s4",
+      "s": "The State Legislature recently voted against a bill that would've made it illegal for towns to create legislation restricting short-term rentals.",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "The State Legislature",
+        "谓语": "voted",
+        "宾语或表语": "against a bill",
+        "主干翻译": "州议会投票否决了一项法案。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "that would've made it illegal for towns to create legislation restricting short-term rentals",
+          "修饰对象": "bill",
+          "中文翻译": "本会使各城镇制定限制短期租赁的法规成为非法行为的（法案）",
+          "说明": "that 引导定语从句修饰先行词 bill。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "it illegal for towns to create legislation restricting short-term rentals",
+          "修饰对象": "made",
+          "中文翻译": "使各城镇制定相关法规成为非法",
+          "说明": "made 后的复合宾语结构，it 为形式宾语，illegal 为宾补。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "for towns to create legislation restricting short-term rentals",
+          "修饰对象": "illegal",
+          "中文翻译": "（对各城镇而言）制定限制短期租赁的法规",
+          "说明": "for 引出逻辑主语，不定式为形式宾语 it 所指代的真正内容。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "restricting short-term rentals",
+          "修饰对象": "legislation",
+          "中文翻译": "限制短期租赁的",
+          "说明": "现在分词短语作定语修饰 legislation。"
+        }
+      ],
+      "zh": "州议会最近投票否决了一项法案，该法案本会使各城镇制定限制短期租赁的法规成为非法行为。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2023-text2-s5",
+      "s": "\"We are at a crisis level on the supply of rental housing,\" said Nick Taylor, executive director of the Workforce Housing Coalition of the Greater Seacoast.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Nick Taylor",
+        "谓语": "said",
+        "宾语或表语": "We are at a crisis level on the supply of rental housing",
+        "主干翻译": "尼克·泰勒说，我们在租赁住房供应上正处于危机水平。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "We are at a crisis level on the supply of rental housing",
+          "修饰对象": "said",
+          "中文翻译": "我们在租赁住房供应上正处于危机水平",
+          "说明": "直接引语作 said 的宾语。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "executive director of the Workforce Housing Coalition of the Greater Seacoast",
+          "修饰对象": "Taylor",
+          "中文翻译": "大海滨地区劳动力住房联盟的执行主任",
+          "说明": "同位语，对 Nick Taylor 的身份作补充说明。"
+        }
+      ],
+      "zh": "大海滨地区劳动力住房联盟执行主任尼克·泰勒说：“我们在租赁住房供应上正处于危机水平。”",
+      "underline": null
+    },
+    {
+      "sid": "en1-2023-text2-s6",
+      "s": "Without enough affordable housing in southern New Hampshire towns, \"employers are having a hard time attracting employees, and workers are having a hard time finding a place to live,\" Taylor said.",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "employers",
+        "谓语": "are having",
+        "宾语或表语": "a hard time",
+        "主干翻译": "雇主们正面临困难。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "Without enough affordable housing in southern New Hampshire towns",
+          "修饰对象": "are having",
+          "中文翻译": "由于新罕布什尔州南部各城镇缺乏足够的可负担住房",
+          "说明": "without 短语作条件/原因状语。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "attracting employees",
+          "修饰对象": "time",
+          "中文翻译": "在吸引雇员（方面）",
+          "说明": "动名词短语说明 a hard time 的内容（have a hard time doing 结构）。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "workers are having a hard time finding a place to live,\"",
+          "修饰对象": "having",
+          "中文翻译": "工人们在找住处方面也很困难",
+          "说明": "由 and 与前一分句并列，构成对照。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "finding a place to live",
+          "修饰对象": "time",
+          "中文翻译": "在找住处（方面）",
+          "说明": "动名词短语说明后一分句 a hard time 的内容。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "to live",
+          "修饰对象": "place",
+          "中文翻译": "可供居住的",
+          "说明": "不定式作定语修饰 place。"
+        }
+      ],
+      "zh": "由于新罕布什尔州南部各城镇缺乏足够的可负担住房，“雇主们难以吸引雇员，工人们也难以找到住处”，泰勒说。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2023-text2-s7",
+      "s": "However, short-term rentals also provide housing for tourists, pointed out Ryan Castle, CEO of a local association of realtors.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "short-term rentals",
+        "谓语": "provide",
+        "宾语或表语": "housing",
+        "主干翻译": "短期租赁为游客提供了住处。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "However",
+          "修饰对象": "—",
+          "中文翻译": "然而",
+          "说明": "连接副词，表转折，独立于句子结构。"
+        },
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "for tourists",
+          "修饰对象": "housing",
+          "中文翻译": "供游客（使用的）",
+          "说明": "介词短语说明 housing 的用途对象。"
+        },
+        {
+          "成分类型": "倒装",
+          "原文": "pointed out Ryan Castle",
+          "修饰对象": "—",
+          "中文翻译": "瑞安·卡斯尔指出",
+          "说明": "引语后的主谓倒装（pointed out + 主语 Ryan Castle）。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "CEO of a local association of realtors",
+          "修饰对象": "Castle",
+          "中文翻译": "当地一家房地产经纪人协会的首席执行官",
+          "说明": "同位语，补充说明 Ryan Castle 的身份。"
+        }
+      ],
+      "zh": "然而，当地一家房地产经纪人协会的首席执行官瑞安·卡斯尔指出，短期租赁也为游客提供了住处。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2023-text2-s8",
+      "s": "\"A lot of workers are servicing the tourist industry, and the tourism industry is serviced by those people coming in short term,\"",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "A lot of workers",
+        "谓语": "are servicing",
+        "宾语或表语": "the tourist industry",
+        "主干翻译": "很多工人在为旅游业服务。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "the tourism industry is serviced by those people coming in short term,\"",
+          "修饰对象": "servicing",
+          "中文翻译": "而旅游业则由那些短期前来的人来服务",
+          "说明": "由 and 与前一分句并列，构成主动与被动的呼应。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "coming in short term",
+          "修饰对象": "people",
+          "中文翻译": "短期前来的",
+          "说明": "现在分词短语作定语修饰 those people。"
+        }
+      ],
+      "zh": "“很多工人在为旅游业服务，而旅游业又由那些短期前来的人来支撑，”",
+      "underline": null
+    },
+    {
+      "sid": "en1-2023-text2-s9",
+      "s": "Castle said, \"and so it's a cyclical effect.\"",
+      "para_no": 4,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Castle",
+        "谓语": "said",
+        "宾语或表语": "and so it's a cyclical effect",
+        "主干翻译": "卡斯尔说，所以这是一种循环效应。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "and so it's a cyclical effect",
+          "修饰对象": "said",
+          "中文翻译": "所以这是一种循环效应",
+          "说明": "直接引语作 said 的宾语，so 表结果衔接。"
+        }
+      ],
+      "zh": "卡斯尔说，“所以这是一种循环效应。”",
+      "underline": null
+    },
+    {
+      "sid": "en1-2023-text2-s10",
+      "s": "Short-term rentals themselves are not the crux of the issue, said Keren Horn, an expert on affordable housing policy.",
+      "para_no": 5,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Keren Horn",
+        "谓语": "said",
+        "宾语或表语": "Short-term rentals themselves are not the crux of the issue",
+        "主干翻译": "凯伦·霍恩说，短期租赁本身并非问题的关键。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "themselves",
+          "修饰对象": "rentals",
+          "中文翻译": "（短期租赁）本身",
+          "说明": "反身代词作同位语，强调 Short-term rentals。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "Short-term rentals themselves are not the crux of the issue",
+          "修饰对象": "said",
+          "中文翻译": "短期租赁本身并非问题的关键",
+          "说明": "引语作 said 的宾语，句首前置后接倒装的 said。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "an expert on affordable housing policy",
+          "修饰对象": "Horn",
+          "中文翻译": "一位可负担住房政策方面的专家",
+          "说明": "同位语，补充说明 Keren Horn 的身份。"
+        }
+      ],
+      "zh": "可负担住房政策专家凯伦·霍恩说，短期租赁本身并非问题的关键。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2023-text2-s11",
+      "s": "\"I think individuals being able to rent out their second home is a good thing.",
+      "para_no": 5,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "I",
+        "谓语": "think",
+        "宾语或表语": "individuals being able to rent out their second home is a good thing",
+        "主干翻译": "我认为个人能够出租自己的第二套住房是件好事。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "individuals being able to rent out their second home is a good thing",
+          "修饰对象": "think",
+          "中文翻译": "个人能够出租自己的第二套住房是件好事",
+          "说明": "省略 that 的宾语从句，作 think 的宾语；动名词复合结构 individuals being able...作从句主语。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to rent out their second home",
+          "修饰对象": "able",
+          "中文翻译": "出租自己的第二套住房",
+          "说明": "不定式与 be able to 搭配，作 able 的补足成分。"
+        }
+      ],
+      "zh": "“我认为，个人能够出租自己的第二套住房是件好事。”",
+      "underline": null
+    },
+    {
+      "sid": "en1-2023-text2-s12",
+      "s": "If it's their vacation home anyway, and it's just empty, why can't you make money off it?\" Horn said.",
+      "para_no": 5,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "you",
+        "谓语": "can make",
+        "宾语或表语": "money",
+        "主干翻译": "你为什么不能靠它赚钱呢？"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "If it's their vacation home anyway, and it's just empty",
+          "修饰对象": "make",
+          "中文翻译": "如果它反正是他们的度假屋，而且就那么空着",
+          "说明": "if 引导条件状语从句，含两个并列分句。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "it's just empty",
+          "修饰对象": "'s",
+          "中文翻译": "它就那么空着",
+          "说明": "由 and 与 it's their vacation home 在条件从句内并列。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "off it",
+          "修饰对象": "make",
+          "中文翻译": "靠它",
+          "说明": "介词短语说明 make money 的来源。"
+        }
+      ],
+      "zh": "“如果那反正是他们的度假屋，而且就那么空着，你为什么不能靠它赚点钱呢？”霍恩说。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2023-text2-s13",
+      "s": "Issues arise, however, when developers attempt to create large-scale short-term rental facilities — de facto hotels — to bypass taxes and regulations.",
+      "para_no": 5,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "Issues",
+        "谓语": "arise",
+        "宾语或表语": "—",
+        "主干翻译": "问题就出现了。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "however",
+          "修饰对象": "—",
+          "中文翻译": "然而",
+          "说明": "连接副词，表转折，插入主谓之间。"
+        },
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "when developers attempt to create large-scale short-term rental facilities — de facto hotels — to bypass taxes and regulations",
+          "修饰对象": "arise",
+          "中文翻译": "当开发商试图建造大规模的短租设施以规避税收和监管时",
+          "说明": "when 引导时间状语从句，说明问题出现的情形。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to create large-scale short-term rental facilities — de facto hotels — to bypass taxes and regulations",
+          "修饰对象": "attempt",
+          "中文翻译": "建造大规模的短租设施",
+          "说明": "不定式作 attempt 的宾语补足。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "de facto hotels",
+          "修饰对象": "facilities",
+          "中文翻译": "实际上就是酒店",
+          "说明": "破折号间的同位语，对 facilities 作补充说明。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to bypass taxes and regulations",
+          "修饰对象": "create",
+          "中文翻译": "以规避税收和监管",
+          "说明": "不定式作目的状语，修饰 create。"
+        }
+      ],
+      "zh": "然而，当开发商试图建造大规模的短租设施——实际上就是酒店——以规避税收和监管时，问题就出现了。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2023-text2-s14",
+      "s": "\"I think the question is, shouldn't a developer who's really building a hotel, but disguising it as not a hotel, be treated and taxed and regulated like a hotel?\" Horn said.",
+      "para_no": 5,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "I",
+        "谓语": "think",
+        "宾语或表语": "the question is, shouldn't a developer be treated and taxed and regulated like a hotel",
+        "主干翻译": "我认为，问题在于：一个开发商难道不应该被当作酒店来对待、征税和监管吗？"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "the question is, shouldn't a developer who's really building a hotel, but disguising it as not a hotel, be treated and taxed and regulated like a hotel",
+          "修饰对象": "think",
+          "中文翻译": "问题在于，一个开发商……难道不应该被当作酒店来对待、征税和监管吗",
+          "说明": "省略 that 的宾语从句，作 think 的宾语。"
+        },
+        {
+          "成分类型": "表语从句",
+          "原文": "shouldn't a developer who's really building a hotel, but disguising it as not a hotel, be treated and taxed and regulated like a hotel",
+          "修饰对象": "is",
+          "中文翻译": "一个……开发商难道不应该被当作酒店来对待、征税和监管吗",
+          "说明": "the question is 后的表语从句（特殊疑问/反问形式）。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "who's really building a hotel, but disguising it as not a hotel",
+          "修饰对象": "developer",
+          "中文翻译": "实际上在建酒店却把它伪装成非酒店的（开发商）",
+          "说明": "who 引导定语从句修饰 developer。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "disguising it as not a hotel",
+          "修饰对象": "building",
+          "中文翻译": "把它伪装成非酒店",
+          "说明": "由 but 与 building a hotel 在定语从句内并列。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "taxed and regulated like a hotel",
+          "修饰对象": "treated",
+          "中文翻译": "像酒店一样征税和监管",
+          "说明": "treated、taxed、regulated 三个过去分词并列作谓语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "regulated like a hotel",
+          "修饰对象": "taxed",
+          "中文翻译": "像酒店一样受监管",
+          "说明": "与 taxed 进一步由 and 并列。"
+        }
+      ],
+      "zh": "“我认为，问题在于：一个实际上在建酒店、却把它伪装成非酒店的开发商，难道不应该像酒店一样被对待、征税和监管吗？”霍恩说。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2023-text2-s15",
+      "s": "At the end of 2018, Governor Charlie Baker of Massachusetts signed a bill to rein in those potential investor-buyers.",
+      "para_no": 6,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Governor Charlie Baker",
+        "谓语": "signed",
+        "宾语或表语": "a bill",
+        "主干翻译": "州长查理·贝克签署了一项法案。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "At the end of 2018",
+          "修饰对象": "signed",
+          "中文翻译": "在2018年底",
+          "说明": "时间状语，限定签署发生的时间。"
+        },
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "of Massachusetts",
+          "修饰对象": "Baker",
+          "中文翻译": "马萨诸塞州的",
+          "说明": "介词短语修饰 Governor Charlie Baker，说明其所属州。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to rein in those potential investor-buyers",
+          "修饰对象": "bill",
+          "中文翻译": "旨在遏制那些潜在投资型购房者的",
+          "说明": "不定式作定语修饰 bill，说明其目的/作用。"
+        }
+      ],
+      "zh": "2018年底，马萨诸塞州州长查理·贝克签署了一项旨在遏制那些潜在投资型购房者的法案。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2023-text2-s16",
+      "s": "The bill requires every rental host to register with the state, mandates they carry insurance, and opens the potential for local taxes on top of a new state levy.",
+      "para_no": 6,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "The bill",
+        "谓语": "requires",
+        "宾语或表语": "every rental host",
+        "主干翻译": "该法案要求每个租赁房东（向州政府登记）。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to register with the state",
+          "修饰对象": "requires",
+          "中文翻译": "向州政府登记",
+          "说明": "不定式作 require sb. to do 结构中的宾语补足。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "mandates they carry insurance, and opens the potential for local taxes on top of a new state levy",
+          "修饰对象": "requires",
+          "中文翻译": "规定他们必须投保，并为在新的州税之外征收地方税开辟了可能",
+          "说明": "requires、mandates、opens 三个谓语动词并列。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "they carry insurance",
+          "修饰对象": "mandates",
+          "中文翻译": "他们投保（购买保险）",
+          "说明": "省略 that 的宾语从句，作 mandates 的宾语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "opens the potential for local taxes on top of a new state levy",
+          "修饰对象": "mandates",
+          "中文翻译": "为在新的州税之外征收地方税开辟了可能",
+          "说明": "由 and 与 mandates 分句进一步并列。"
+        }
+      ],
+      "zh": "该法案要求每个租赁房东向州政府登记，规定他们必须投保，并为在新设州税之外再征收地方税开辟了可能性。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2023-text2-s17",
+      "s": "Boston took things even further, requiring renters to register with the city's Inspectional Services Department.",
+      "para_no": 6,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Boston",
+        "谓语": "took",
+        "宾语或表语": "things",
+        "主干翻译": "波士顿则更进一步。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "requiring renters to register with the city's Inspectional Services Department",
+          "修饰对象": "took",
+          "中文翻译": "要求出租者向该市的检查服务局登记",
+          "说明": "现在分词短语作结果状语，说明 took things further 的具体做法。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to register with the city's Inspectional Services Department",
+          "修饰对象": "requiring",
+          "中文翻译": "向该市的检查服务局登记",
+          "说明": "不定式作 require sb. to do 结构中的宾语补足。"
+        }
+      ],
+      "zh": "波士顿则更进一步，要求出租者向该市的检查服务局登记。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2023-text2-s18",
+      "s": "Horn said similar registration requirements could benefit struggling cities and towns, but \"if we want to make a change in the housing market, the main one is we have to build a lot more.\"",
+      "para_no": 7,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Horn",
+        "谓语": "said",
+        "宾语或表语": "similar registration requirements could benefit struggling cities and towns, but ...",
+        "主干翻译": "霍恩说，类似的登记要求可能有益于陷入困境的城镇，但……"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "similar registration requirements could benefit struggling cities and towns, but \"if we want to make a change in the housing market, the main one is we have to build a lot more.\"",
+          "修饰对象": "said",
+          "中文翻译": "类似的登记要求可能有益于陷入困境的城镇，但“如果我们想改变住房市场，最主要的一点是我们必须建造更多住房”",
+          "说明": "省略 that 的宾语从句，作 said 的宾语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "\"if we want to make a change in the housing market, the main one is we have to build a lot more.\"",
+          "修饰对象": "benefit",
+          "中文翻译": "“如果我们想改变住房市场，最主要的一点是我们必须建造更多住房”",
+          "说明": "由 but 与 benefit 分句并列，构成转折。"
+        },
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "if we want to make a change in the housing market",
+          "修饰对象": "is",
+          "中文翻译": "如果我们想改变住房市场",
+          "说明": "if 引导条件状语从句，修饰主句 the main one is...。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to make a change in the housing market",
+          "修饰对象": "want",
+          "中文翻译": "改变住房市场",
+          "说明": "不定式作 want 的宾语。"
+        },
+        {
+          "成分类型": "表语从句",
+          "原文": "we have to build a lot more",
+          "修饰对象": "is",
+          "中文翻译": "我们必须建造更多（住房）",
+          "说明": "省略 that 的表语从句，作 the main one is 的表语。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to build a lot more",
+          "修饰对象": "have",
+          "中文翻译": "建造更多（住房）",
+          "说明": "不定式与 have to 搭配，构成谓语的一部分。"
+        }
+      ],
+      "zh": "霍恩说，类似的登记要求可能有益于陷入困境的城镇，但“如果我们想改变住房市场，最主要的一点是，我们必须建造更多的住房”。",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2023-text2-s1",
+        "en1-2023-text2-s2"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2023-text2-s3",
+        "en1-2023-text2-s4"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2023-text2-s5",
+        "en1-2023-text2-s6"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2023-text2-s7",
+        "en1-2023-text2-s8",
+        "en1-2023-text2-s9"
+      ]
+    },
+    {
+      "para_no": 5,
+      "sids": [
+        "en1-2023-text2-s10",
+        "en1-2023-text2-s11",
+        "en1-2023-text2-s12",
+        "en1-2023-text2-s13",
+        "en1-2023-text2-s14"
+      ]
+    },
+    {
+      "para_no": 6,
+      "sids": [
+        "en1-2023-text2-s15",
+        "en1-2023-text2-s16",
+        "en1-2023-text2-s17"
+      ]
+    },
+    {
+      "para_no": 7,
+      "sids": [
+        "en1-2023-text2-s18"
+      ]
+    }
+  ]
+}

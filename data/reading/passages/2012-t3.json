@@ -1,0 +1,860 @@
+{
+  "exam": "en1",
+  "key": "2012-t3",
+  "year": 2012,
+  "text_no": 3,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2012-text3-s1",
+      "s": "In the idealized version of how science is done, facts about the world are waiting to be observed and collected by objective researchers who use the scientific method to carry out their work.",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "facts about the world",
+        "谓语": "are waiting",
+        "宾语或表语": "to be observed and collected",
+        "主干翻译": "关于世界的事实正等待着被观察和收集。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "In the idealized version of how science is done",
+          "修饰对象": "are waiting",
+          "中文翻译": "在科学如何展开的理想化版本中",
+          "说明": "句首介词短语作背景状语，其中 of how science is done 为介词宾语从句修饰 version"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to be observed and collected by objective researchers who use the scientific method to carry out their work",
+          "修饰对象": "waiting",
+          "中文翻译": "被客观的研究者们观察和收集，这些研究者运用科学方法来开展工作",
+          "说明": "不定式作 waiting 的补足成分，表示等待的内容（被动）"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "observed and collected",
+          "修饰对象": "observed",
+          "中文翻译": "被观察和被收集",
+          "说明": "两个过去分词由 and 并列，共作不定式被动结构"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "who use the scientific method to carry out their work",
+          "修饰对象": "researchers",
+          "中文翻译": "他们运用科学方法来开展自己的工作",
+          "说明": "who 引导定语从句修饰 researchers"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to carry out their work",
+          "修饰对象": "use",
+          "中文翻译": "来开展他们的工作",
+          "说明": "不定式作目的状语，修饰 use"
+        }
+      ],
+      "zh": "在科学如何展开的理想化版本中，关于世界的事实正等待着被客观的研究者们观察和收集，这些研究者运用科学方法来开展自己的工作。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2012-text3-s2",
+      "s": "But in the everyday practice of science, discovery frequently follows an ambiguous and complicated route.",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "discovery",
+        "谓语": "follows",
+        "宾语或表语": "an ambiguous and complicated route",
+        "主干翻译": "发现往往遵循一条模糊而复杂的路径。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "But in the everyday practice of science",
+          "修饰对象": "follows",
+          "中文翻译": "但在科学的日常实践中",
+          "说明": "句首介词短语作状语，But 表示转折"
+        }
+      ],
+      "zh": "但在科学的日常实践中，发现往往遵循一条模糊而复杂的路径。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2012-text3-s3",
+      "s": "We aim to be objective, but we cannot escape the context of our unique life experiences.",
+      "para_no": 1,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "We / we",
+        "谓语": "aim / cannot escape",
+        "宾语或表语": "to be objective / the context",
+        "主干翻译": "我们力求客观，但我们无法摆脱自身独特人生经历的影响。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作宾语",
+          "原文": "to be objective",
+          "修饰对象": "aim",
+          "中文翻译": "做到客观",
+          "说明": "动词不定式作aim的宾语（aim to do）。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "we cannot escape the context of our unique life experiences.",
+          "修饰对象": "aim",
+          "中文翻译": "我们无法摆脱自身独特人生经历所构成的语境",
+          "说明": "but连接的并列分句，与前一分句构成转折并列。"
+        }
+      ],
+      "zh": "我们力求做到客观，但我们无法摆脱自身独特人生经历所形成的背景的影响。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2012-text3-s4",
+      "s": "Prior knowledge and interests influence what we experience, what we think our experiences mean, and the subsequent actions we take.",
+      "para_no": 1,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "Prior knowledge and interests",
+        "谓语": "influence",
+        "宾语或表语": "what we experience, what we think our experiences mean, and the subsequent actions we take",
+        "主干翻译": "先前的知识和兴趣影响着我们的体验、我们认为体验意味着什么以及我们随后采取的行动。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "what we experience",
+          "修饰对象": "influence",
+          "中文翻译": "我们所体验到的东西",
+          "说明": "what 引导宾语从句，作 influence 的宾语之一"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "what we think our experiences mean, and the subsequent actions we take",
+          "修饰对象": "what we experience",
+          "中文翻译": "我们认为体验意味着什么，以及我们随后采取的行动",
+          "说明": "三个并列宾语由逗号和 and 连接"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "what we think our experiences mean",
+          "修饰对象": "influence",
+          "中文翻译": "我们认为我们的体验意味着什么",
+          "说明": "what 引导宾语从句，we think 为插入，mean 的宾语前移为 what"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "we take",
+          "修饰对象": "actions",
+          "中文翻译": "我们所采取的",
+          "说明": "省略关系代词 that/which 的定语从句修饰 actions"
+        }
+      ],
+      "zh": "先前的知识和兴趣影响着我们所体验到的东西、我们认为这些体验意味着什么，以及我们随后采取的行动。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2012-text3-s5",
+      "s": "Opportunities for misinterpretation, error, and self-deception abound.",
+      "para_no": 1,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "Opportunities for misinterpretation, error, and self-deception",
+        "谓语": "abound",
+        "宾语或表语": "—",
+        "主干翻译": "误读、错误和自欺的可能性比比皆是。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "misinterpretation, error, and self-deception",
+          "修饰对象": "Opportunities",
+          "中文翻译": "误读、错误和自欺",
+          "说明": "三个名词由逗号和 and 并列，作介词 for 的宾语"
+        }
+      ],
+      "zh": "误读、错误和自欺的可能性比比皆是。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2012-text3-s6",
+      "s": "Consequently, discovery claims should be thought of as protoscience.",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "discovery claims",
+        "谓语": "should be thought of",
+        "宾语或表语": "as protoscience",
+        "主干翻译": "发现性主张应被视为原科学。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "Consequently",
+          "修饰对象": "should be thought of",
+          "中文翻译": "因此",
+          "说明": "句首副词作连接性状语，表示结果"
+        }
+      ],
+      "zh": "因此，发现性主张应被视为原科学（尚未成熟的科学）。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2012-text3-s7",
+      "s": "Similar to newly staked mining claims, they are full of potential.",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "they",
+        "谓语": "are",
+        "宾语或表语": "full of potential",
+        "主干翻译": "它们充满潜力。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "Similar to newly staked mining claims",
+          "修饰对象": "are",
+          "中文翻译": "与新近圈定的采矿权主张相似",
+          "说明": "形容词短语作状语，置于句首表伴随/比较状态"
+        }
+      ],
+      "zh": "与新近圈定的采矿权主张相似，它们充满潜力。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2012-text3-s8",
+      "s": "But it takes collective scrutiny and acceptance to transform a discovery claim into a mature discovery.",
+      "para_no": 2,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "it (形式主语，真正主语为 to transform...)",
+        "谓语": "takes",
+        "宾语或表语": "collective scrutiny and acceptance",
+        "主干翻译": "把一项发现性主张转变为成熟的发现需要集体的审查与认可。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to transform a discovery claim into a mature discovery",
+          "修饰对象": "takes",
+          "中文翻译": "把一项发现性主张转变为成熟的发现",
+          "说明": "不定式为真正主语，it 为形式主语；含 transform...into 结构"
+        }
+      ],
+      "zh": "但是，要把一项发现性主张转变为成熟的发现，需要集体的审查与认可。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2012-text3-s9",
+      "s": "This is the credibility process, through which the individual researcher's me, here, now becomes the community's anyone, anywhere, anytime.",
+      "para_no": 2,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "This",
+        "谓语": "is",
+        "宾语或表语": "the credibility process",
+        "主干翻译": "这就是确立可信度的过程。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "through which the individual researcher's me, here, now becomes the community's anyone, anywhere, anytime",
+          "修饰对象": "process",
+          "中文翻译": "通过这一过程，单个研究者的“我、此地、此刻”变成了科学共同体的“任何人、任何地点、任何时间”",
+          "说明": "through which 引导非限制性定语从句修饰 process"
+        }
+      ],
+      "zh": "这就是确立可信度的过程，通过这一过程，单个研究者的“我、此地、此刻”变成了科学共同体的“任何人、任何地点、任何时间”。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2012-text3-s10",
+      "s": "Objective knowledge is the goal, not the starting point.",
+      "para_no": 2,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "Objective knowledge",
+        "谓语": "is",
+        "宾语或表语": "the goal",
+        "主干翻译": "客观知识是目标。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "not the starting point",
+          "修饰对象": "the goal",
+          "中文翻译": "而不是起点",
+          "说明": "not 引导的对比性并列成分，与 the goal 形成对照"
+        }
+      ],
+      "zh": "客观知识是目标，而不是起点。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2012-text3-s11",
+      "s": "Once a discovery claim becomes public, the discoverer receives intellectual credit.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "the discoverer",
+        "谓语": "receives",
+        "宾语或表语": "intellectual credit",
+        "主干翻译": "发现者获得知识上的功劳。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "Once a discovery claim becomes public",
+          "修饰对象": "receives",
+          "中文翻译": "一旦一项发现性主张公之于众",
+          "说明": "Once 引导时间状语从句，表“一旦……就……”"
+        }
+      ],
+      "zh": "一旦一项发现性主张公之于众，发现者便获得知识上的功劳。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2012-text3-s12",
+      "s": "But, unlike with mining claims, the community takes control of what happens next.",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "the community",
+        "谓语": "takes",
+        "宾语或表语": "control of what happens next",
+        "主干翻译": "科学共同体掌控接下来发生的事。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "But, unlike with mining claims",
+          "修饰对象": "takes",
+          "中文翻译": "但是，与采矿权主张不同的是",
+          "说明": "But 表转折，unlike with mining claims 为插入性对比状语"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "what happens next",
+          "修饰对象": "control",
+          "中文翻译": "接下来发生的事",
+          "说明": "what 引导从句作介词 of 的宾语"
+        }
+      ],
+      "zh": "但是，与采矿权主张不同的是，科学共同体掌控着接下来所发生的一切。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2012-text3-s13",
+      "s": "Within the complex social structure of the scientific community, researchers make discoveries; editors and reviewers act as gatekeepers by controlling the publication process; other scientists use the new finding to suit their own purposes; and finally, the public (including other scientists) receives the new discovery and possibly accompanying technology.",
+      "para_no": 3,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "researchers / editors and reviewers / other scientists / the public",
+        "谓语": "make / act / use / receives",
+        "宾语或表语": "discoveries / as gatekeepers / the new finding / the new discovery and possibly accompanying technology",
+        "主干翻译": "研究者作出发现；编辑和审稿人充当把关人；其他科学家利用新发现；最终公众接收新发现。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "Within the complex social structure of the scientific community",
+          "修饰对象": "make",
+          "中文翻译": "在科学共同体复杂的社会结构内",
+          "说明": "句首介词短语作背景状语"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "editors and reviewers act as gatekeepers by controlling the publication process; other scientists use the new finding to suit their own purposes; and finally, the public (including other scientists) receives the new discovery and possibly accompanying technology",
+          "修饰对象": "—",
+          "中文翻译": "编辑和审稿人通过控制发表过程充当把关人；其他科学家利用新发现来服务于自己的目的；最终，公众（包括其他科学家）接收新发现以及可能随之而来的技术",
+          "说明": "由分号连接的若干并列分句，与首个分句 researchers make discoveries 并列"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "by controlling the publication process",
+          "修饰对象": "act",
+          "中文翻译": "通过控制发表过程",
+          "说明": "by + 动名词短语作方式状语，修饰 act"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to suit their own purposes",
+          "修饰对象": "use",
+          "中文翻译": "来服务于他们自己的目的",
+          "说明": "不定式作目的状语，修饰 use"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "and possibly accompanying technology",
+          "修饰对象": "discovery",
+          "中文翻译": "以及可能随之而来的技术",
+          "说明": "与 the new discovery 并列，共作 receives 的宾语"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "(including other scientists)",
+          "修饰对象": "public",
+          "中文翻译": "（包括其他科学家）",
+          "说明": "括号内插入成分，补充说明 the public"
+        }
+      ],
+      "zh": "在科学共同体复杂的社会结构内，研究者作出发现；编辑和审稿人通过控制发表过程充当把关人；其他科学家利用新发现来服务于自己的目的；最终，公众（包括其他科学家）接收新发现以及可能随之而来的技术。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2012-text3-s14",
+      "s": "As a discovery claim works its way through the community, the interaction and confrontation between shared and competing beliefs about the science and the technology involved transforms an individual's discovery claim into the community's credible discovery.",
+      "para_no": 3,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "the interaction and confrontation",
+        "谓语": "transforms",
+        "宾语或表语": "an individual's discovery claim into the community's credible discovery",
+        "主干翻译": "（不同信念之间的）相互作用与碰撞把个人的发现性主张转变为科学共同体可信的发现。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "As a discovery claim works its way through the community",
+          "修饰对象": "transforms",
+          "中文翻译": "随着一项发现性主张在共同体中逐步推进",
+          "说明": "As 引导时间状语从句，表“随着……”"
+        },
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "between shared and competing beliefs about the science and the technology involved",
+          "修饰对象": "interaction and confrontation",
+          "中文翻译": "在关于所涉科学与技术的共享信念与相互竞争的信念之间",
+          "说明": "between...短语作后置定语修饰 interaction and confrontation"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "involved",
+          "修饰对象": "science and the technology",
+          "中文翻译": "所涉及的",
+          "说明": "过去分词 involved 后置作定语，修饰 the science and the technology"
+        }
+      ],
+      "zh": "随着一项发现性主张在科学共同体中逐步推进，围绕所涉科学与技术的共享信念与相互竞争的信念之间的相互作用与碰撞，便将个人的发现性主张转变为共同体可信的发现。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2012-text3-s15",
+      "s": "Two paradoxes exist throughout this credibility process.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Two paradoxes",
+        "谓语": "exist",
+        "宾语或表语": "—",
+        "主干翻译": "存在两个悖论。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "throughout this credibility process",
+          "修饰对象": "exist",
+          "中文翻译": "贯穿这一确立可信度的过程",
+          "说明": "介词短语作地点/范围状语"
+        }
+      ],
+      "zh": "在这一确立可信度的整个过程中，存在着两个悖论。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2012-text3-s16",
+      "s": "First, scientific work tends to focus on some aspect of prevailing knowledge that is viewed as incomplete or incorrect.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "scientific work",
+        "谓语": "tends",
+        "宾语或表语": "to focus on some aspect of prevailing knowledge",
+        "主干翻译": "科学工作往往聚焦于主流知识的某些方面。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "First",
+          "修饰对象": "tends",
+          "中文翻译": "第一",
+          "说明": "序数副词作连接性状语"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to focus on some aspect of prevailing knowledge that is viewed as incomplete or incorrect",
+          "修饰对象": "tends",
+          "中文翻译": "聚焦于被视为不完整或不正确的主流知识的某些方面",
+          "说明": "不定式作 tends 的补足成分"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that is viewed as incomplete or incorrect",
+          "修饰对象": "aspect",
+          "中文翻译": "被视为不完整或不正确的",
+          "说明": "that 引导定语从句修饰 some aspect（of prevailing knowledge）"
+        }
+      ],
+      "zh": "第一，科学工作往往聚焦于主流知识中被视为不完整或不正确的某些方面。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2012-text3-s17",
+      "s": "Little reward accompanies duplication and confirmation of what is already known and believed.",
+      "para_no": 4,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Little reward",
+        "谓语": "accompanies",
+        "宾语或表语": "duplication and confirmation of what is already known and believed",
+        "主干翻译": "对已知和已被相信之事的重复与确认几乎得不到回报。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "what is already known and believed",
+          "修饰对象": "duplication and confirmation",
+          "中文翻译": "已经被知晓和相信的东西",
+          "说明": "what 引导从句作介词 of 的宾语；known and believed 为并列被动"
+        }
+      ],
+      "zh": "对已经被知晓和相信之事的重复与确认，几乎得不到什么回报。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2012-text3-s18",
+      "s": "The goal is new-search, not re-search.",
+      "para_no": 4,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "The goal",
+        "谓语": "is",
+        "宾语或表语": "new-search",
+        "主干翻译": "目标是“新探”。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "not re-search",
+          "修饰对象": "new-search",
+          "中文翻译": "而不是“重探（重复研究）”",
+          "说明": "not 引导对比性并列成分，与 new-search 构成文字游戏式对照"
+        }
+      ],
+      "zh": "目标是“新探”，而不是“重探（重复已有研究）”。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2012-text3-s19",
+      "s": "Not surprisingly, newly published discovery claims and credible discoveries that appear to be important and convincing will always be open to challenge and potential modification or refutation by future researchers.",
+      "para_no": 4,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "newly published discovery claims and credible discoveries",
+        "谓语": "will always be",
+        "宾语或表语": "open to challenge and potential modification or refutation",
+        "主干翻译": "新发表的发现性主张和可信的发现总是会面临质疑、可能的修正或反驳。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "Not surprisingly",
+          "修饰对象": "will always be",
+          "中文翻译": "不出所料",
+          "说明": "句首评注性状语/插入语"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that appear to be important and convincing",
+          "修饰对象": "claims",
+          "中文翻译": "看起来重要且令人信服的",
+          "说明": "that 引导定语从句，修饰 discovery claims and credible discoveries"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to be important and convincing",
+          "修饰对象": "appear",
+          "中文翻译": "重要且令人信服",
+          "说明": "不定式作 appear 的补足成分"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "potential modification or refutation by future researchers",
+          "修饰对象": "challenge",
+          "中文翻译": "未来研究者可能作出的修正或反驳",
+          "说明": "与 challenge 并列，同为介词 to 的宾语"
+        }
+      ],
+      "zh": "不出所料，新发表的、看起来重要且令人信服的发现性主张和可信的发现，总是会面临未来研究者的质疑以及可能的修正或反驳。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2012-text3-s20",
+      "s": "Second, novelty itself frequently provokes disbelief.",
+      "para_no": 4,
+      "para_seq": 5,
+      "trunk": {
+        "主语": "novelty",
+        "谓语": "provokes",
+        "宾语或表语": "disbelief",
+        "主干翻译": "新颖性本身常常引发怀疑。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "Second",
+          "修饰对象": "provokes",
+          "中文翻译": "第二",
+          "说明": "序数副词作连接性状语"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "itself",
+          "修饰对象": "novelty",
+          "中文翻译": "本身",
+          "说明": "反身代词 itself 作强调性同位语，修饰 novelty"
+        }
+      ],
+      "zh": "第二，新颖性本身常常引发怀疑。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2012-text3-s21",
+      "s": "Nobel Laureate and physiologist Albert Szent-Györgyi once described discovery as \"seeing what everybody has seen and thinking what nobody has thought.\"",
+      "para_no": 4,
+      "para_seq": 6,
+      "trunk": {
+        "主语": "Nobel Laureate and physiologist Albert Szent-Györgyi",
+        "谓语": "described",
+        "宾语或表语": "discovery as \"seeing what everybody has seen and thinking what nobody has thought\"",
+        "主干翻译": "诺贝尔奖得主、生理学家阿尔伯特·圣捷尔吉曾把发现描述为“看到人人都看到的东西，想到无人想到的东西”。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "what everybody has seen",
+          "修饰对象": "seeing",
+          "中文翻译": "人人都看到过的东西",
+          "说明": "what 引导从句作动名词 seeing 的宾语"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "thinking what nobody has thought",
+          "修饰对象": "seeing",
+          "中文翻译": "想到无人想到过的东西",
+          "说明": "与 seeing... 并列，同作 as 后的宾语"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "what nobody has thought",
+          "修饰对象": "thinking",
+          "中文翻译": "无人想到过的东西",
+          "说明": "what 引导从句作动名词 thinking 的宾语"
+        }
+      ],
+      "zh": "诺贝尔奖得主、生理学家阿尔伯特·圣捷尔吉曾把发现描述为“看到人人都看到的东西，却想到无人想到的东西”。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2012-text3-s22",
+      "s": "But thinking what nobody else has thought and telling others what they have missed may not change their views.",
+      "para_no": 4,
+      "para_seq": 7,
+      "trunk": {
+        "主语": "thinking what nobody else has thought and telling others what they have missed",
+        "谓语": "may not change",
+        "宾语或表语": "their views",
+        "主干翻译": "想到他人未曾想到的东西并告诉别人他们错过了什么，未必能改变他们的看法。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "what nobody else has thought",
+          "修饰对象": "thinking",
+          "中文翻译": "其他任何人都未曾想到的东西",
+          "说明": "what 引导从句作动名词 thinking 的宾语"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "telling others what they have missed",
+          "修饰对象": "thinking",
+          "中文翻译": "告诉别人他们错过了什么",
+          "说明": "与 thinking... 并列，共同构成动名词主语"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "what they have missed",
+          "修饰对象": "telling",
+          "中文翻译": "他们错过的东西",
+          "说明": "what 引导从句作 telling 的直接宾语（others 为间接宾语）"
+        }
+      ],
+      "zh": "但是，想到其他人未曾想到的东西、并告诉别人他们错过了什么，却未必能改变他们的看法。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2012-text3-s23",
+      "s": "Sometimes years are required for truly novel discovery claims to be accepted and appreciated.",
+      "para_no": 4,
+      "para_seq": 8,
+      "trunk": {
+        "主语": "years",
+        "谓语": "are required",
+        "宾语或表语": "—",
+        "主干翻译": "需要数年时间。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "Sometimes",
+          "修饰对象": "are required",
+          "中文翻译": "有时",
+          "说明": "时间副词作状语"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "for truly novel discovery claims to be accepted and appreciated",
+          "修饰对象": "are required",
+          "中文翻译": "（为使）真正新颖的发现性主张被接受和认可",
+          "说明": "for + 逻辑主语 + 不定式结构，作目的/说明状语；to be accepted and appreciated 为不定式被动并列"
+        }
+      ],
+      "zh": "有时，真正新颖的发现性主张需要数年时间才能被接受和认可。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2012-text3-s24",
+      "s": "In the end, credibility \"happens\" to a discovery claim—a process that corresponds to what philosopher Annette Baier has described as the commons of the mind.",
+      "para_no": 5,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "credibility",
+        "谓语": "\"happens\"",
+        "宾语或表语": "to a discovery claim",
+        "主干翻译": "最终，可信度“降临”到一项发现性主张之上。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "In the end",
+          "修饰对象": "\"happens\"",
+          "中文翻译": "最终",
+          "说明": "句首介词短语作时间状语"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "a process that corresponds to what philosopher Annette Baier has described as the commons of the mind",
+          "修饰对象": "claim",
+          "中文翻译": "这一过程对应于哲学家安妮特·拜尔所称的“心智的公共领域”",
+          "说明": "破折号后的名词短语作整个前句的同位语，对前述过程作补充说明"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that corresponds to what philosopher Annette Baier has described as the commons of the mind",
+          "修饰对象": "process",
+          "中文翻译": "对应于哲学家安妮特·拜尔所描述的“心智的公共领域”的",
+          "说明": "that 引导定语从句修饰 a process；其中 what...从句作 corresponds to 的介词宾语"
+        }
+      ],
+      "zh": "最终，可信度“降临”到一项发现性主张之上——这一过程对应于哲学家安妮特·拜尔所描述的“心智的公共领域”。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2012-text3-s25",
+      "s": "\"We reason together, challenge, revise, and complete each other's reasoning and each other's conceptions of reason.\"",
+      "para_no": 5,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "We",
+        "谓语": "reason together, challenge, revise, and complete",
+        "宾语或表语": "each other's reasoning and each other's conceptions of reason",
+        "主干翻译": "我们一起推理，相互质疑、修正并完善彼此的推理和彼此对理性的理解。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "challenge, revise, and complete each other's reasoning and each other's conceptions of reason",
+          "修饰对象": "reason",
+          "中文翻译": "质疑、修正并完善彼此的推理和彼此对理性的理解",
+          "说明": "与 reason 并列的谓语动词序列，由逗号和 and 连接"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "revise, and complete each other's reasoning and each other's conceptions of reason",
+          "修饰对象": "challenge",
+          "中文翻译": "修正并完善彼此的推理和彼此对理性的理解",
+          "说明": "并列谓语动词，与 challenge 并列"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "complete each other's reasoning and each other's conceptions of reason",
+          "修饰对象": "revise",
+          "中文翻译": "完善彼此的推理和彼此对理性的理解",
+          "说明": "并列谓语动词，与 revise 并列"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "each other's conceptions of reason",
+          "修饰对象": "reasoning",
+          "中文翻译": "彼此对理性的理解",
+          "说明": "与 each other's reasoning 并列，共作宾语"
+        }
+      ],
+      "zh": "“我们一起推理，相互质疑、修正并完善彼此的推理，以及彼此对理性的理解。”",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2012-text3-s1",
+        "en1-2012-text3-s2",
+        "en1-2012-text3-s3",
+        "en1-2012-text3-s4",
+        "en1-2012-text3-s5"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2012-text3-s6",
+        "en1-2012-text3-s7",
+        "en1-2012-text3-s8",
+        "en1-2012-text3-s9",
+        "en1-2012-text3-s10"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2012-text3-s11",
+        "en1-2012-text3-s12",
+        "en1-2012-text3-s13",
+        "en1-2012-text3-s14"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2012-text3-s15",
+        "en1-2012-text3-s16",
+        "en1-2012-text3-s17",
+        "en1-2012-text3-s18",
+        "en1-2012-text3-s19",
+        "en1-2012-text3-s20",
+        "en1-2012-text3-s21",
+        "en1-2012-text3-s22",
+        "en1-2012-text3-s23"
+      ]
+    },
+    {
+      "para_no": 5,
+      "sids": [
+        "en1-2012-text3-s24",
+        "en1-2012-text3-s25"
+      ]
+    }
+  ]
+}

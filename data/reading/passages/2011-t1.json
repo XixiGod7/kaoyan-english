@@ -1,0 +1,685 @@
+{
+  "exam": "en1",
+  "key": "2011-t1",
+  "year": 2011,
+  "text_no": 1,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2011-text1-s1",
+      "s": "The decision of the New York Philharmonic to hire Alan Gilbert as its next music director has been the talk of the classical-music world ever since the sudden announcement of his appointment in 2009.",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The decision",
+        "谓语": "has been",
+        "宾语或表语": "the talk of the classical-music world",
+        "主干翻译": "这一决定一直是古典音乐界的热门话题。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to hire Alan Gilbert as its next music director",
+          "修饰对象": "decision",
+          "中文翻译": "聘请阿兰·吉尔伯特担任下一任音乐总监",
+          "说明": "动词不定式作后置定语，修饰名词decision，说明决定的具体内容（as短语作hire的宾语补足语）。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "ever since the sudden announcement of his appointment in 2009",
+          "修饰对象": "has been",
+          "中文翻译": "自2009年突然宣布对他的任命以来",
+          "说明": "ever since引导的时间状语，修饰谓语has been，表示状态持续的起点。"
+        }
+      ],
+      "zh": "自2009年突然宣布对阿兰·吉尔伯特的任命以来，纽约爱乐乐团聘请他担任下一任音乐总监这一决定，一直是古典音乐界的热门话题。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2011-text1-s2",
+      "s": "For the most part, the response has been favorable, to say the least.",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "the response",
+        "谓语": "has been",
+        "宾语或表语": "favorable",
+        "主干翻译": "反响一直是积极的。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "For the most part",
+          "修饰对象": "has been",
+          "中文翻译": "在很大程度上",
+          "说明": "介词短语作句首状语，限定整句的适用范围。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to say the least",
+          "修饰对象": "has been",
+          "中文翻译": "退一步说",
+          "说明": "不定式作独立成分（插入性评注状语），表说话人的保留语气，意为'至少可以这么说'。"
+        }
+      ],
+      "zh": "在很大程度上，至少可以说，反响一直是积极的。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2011-text1-s3",
+      "s": "\"Hooray! At last!\" wrote Anthony Tommasini, a sober-sided classical-music critic.",
+      "para_no": 1,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Anthony Tommasini",
+        "谓语": "wrote",
+        "宾语或表语": "\"At last!\"",
+        "主干翻译": "安东尼·托马西尼写道：'终于来了！'"
+      },
+      "components": [
+        {
+          "成分类型": "同位语从句",
+          "原文": "a sober-sided classical-music critic",
+          "修饰对象": "Tommasini",
+          "中文翻译": "一位严肃认真的古典音乐评论家",
+          "说明": "名词短语作同位语，对专有名词Tommasini作补充说明（此处为同位语成分，非真正从句）。"
+        }
+      ],
+      "zh": "'万岁！终于来了！'严肃认真的古典音乐评论家安东尼·托马西尼这样写道。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2011-text1-s4",
+      "s": "One of the reasons why the appointment came as such a surprise, however, is that Gilbert is comparatively little known.",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "One of the reasons",
+        "谓语": "is",
+        "宾语或表语": "that Gilbert is comparatively little known",
+        "主干翻译": "原因之一是吉尔伯特相对而言鲜为人知。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "why the appointment came as such a surprise",
+          "修饰对象": "reasons",
+          "中文翻译": "这一任命如此令人意外的（原因）",
+          "说明": "why引导的定语从句，修饰先行词reasons，关系副词why表原因。"
+        },
+        {
+          "成分类型": "表语从句",
+          "原文": "that Gilbert is comparatively little known",
+          "修饰对象": "—",
+          "中文翻译": "吉尔伯特相对而言鲜为人知",
+          "说明": "that引导的表语从句，作系动词is的表语。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "however",
+          "修饰对象": "—",
+          "中文翻译": "然而",
+          "说明": "副词作插入语，表转折，独立于句子结构之外。"
+        }
+      ],
+      "zh": "然而，这一任命之所以如此令人意外，原因之一便是吉尔伯特相对而言鲜为人知。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2011-text1-s5",
+      "s": "Even Tommasini, who had advocated Gilbert's appointment in the Times, calls him \"an unpretentious musician with no air of the formidable conductor about him.\"",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Tommasini",
+        "谓语": "calls",
+        "宾语或表语": "him \"an unpretentious musician\"",
+        "主干翻译": "托马西尼称他是一位不爱张扬的音乐家。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "who had advocated Gilbert's appointment in the Times",
+          "修饰对象": "Tommasini",
+          "中文翻译": "曾在《纽约时报》上支持对吉尔伯特的任命",
+          "说明": "who引导的非限制性定语从句，修饰主语Tommasini，补充其立场背景。"
+        },
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "with no air of the formidable conductor about him",
+          "修饰对象": "musician",
+          "中文翻译": "身上毫无令人敬畏的指挥家的派头",
+          "说明": "with引导的介词短语作后置定语，修饰musician，说明其特点。"
+        }
+      ],
+      "zh": "就连曾在《纽约时报》上支持对吉尔伯特任命的托马西尼，也称他是'一位不爱张扬、身上毫无令人敬畏的指挥家派头的音乐家'。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2011-text1-s6",
+      "s": "As a description of the next music director of an orchestra that has hitherto been led by musicians like Gustav Mahler and Pierre Boulez, that seems likely to have struck at least some Times readers as faint praise.",
+      "para_no": 2,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "that",
+        "谓语": "seems likely to have struck",
+        "宾语或表语": "at least some Times readers as faint praise",
+        "主干翻译": "这（番话）似乎会让至少一些《纽约时报》读者觉得是不痛不痒的赞扬。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "As a description of the next music director of an orchestra",
+          "修饰对象": "seems",
+          "中文翻译": "作为对一个乐团下一任音乐总监的描述",
+          "说明": "As引导的介词短语作句首状语，表身份/方式，限定that所指的评价。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that has hitherto been led by musicians like Gustav Mahler and Pierre Boulez",
+          "修饰对象": "orchestra",
+          "中文翻译": "迄今一直由古斯塔夫·马勒和皮埃尔·布列兹这样的音乐家执掌",
+          "说明": "that引导的定语从句，修饰先行词orchestra，说明该乐团的辉煌历史。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to have struck at least some Times readers as faint praise",
+          "修饰对象": "likely",
+          "中文翻译": "让至少一些《纽约时报》读者觉得是不痛不痒的赞扬",
+          "说明": "不定式（完成式）作likely的补足成分，构成seems likely to结构，strike sb. as意为'使某人觉得'。"
+        }
+      ],
+      "zh": "作为对一个迄今一直由古斯塔夫·马勒和皮埃尔·布列兹这样的音乐家执掌的乐团的下一任音乐总监的描述，这番话似乎会让至少一些《纽约时报》读者觉得不过是不痛不痒的赞扬。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2011-text1-s7",
+      "s": "For my part, I have no idea whether Gilbert is a great conductor or even a good one.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "I",
+        "谓语": "have",
+        "宾语或表语": "no idea",
+        "主干翻译": "我不知道。"
+      },
+      "components": [
+        {
+          "成分类型": "同位语从句",
+          "原文": "whether Gilbert is a great conductor or even a good one",
+          "修饰对象": "idea",
+          "中文翻译": "吉尔伯特是否是一位伟大的指挥家，甚至是否是一位优秀的指挥家",
+          "说明": "whether引导的同位语从句，对名词idea作内容上的补充说明。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "or even a good one",
+          "修饰对象": "conductor",
+          "中文翻译": "甚至（是否是）一位优秀的指挥家",
+          "说明": "or连接的并列成分，与a great conductor并列，one替代conductor，even表递进。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "For my part",
+          "修饰对象": "have",
+          "中文翻译": "就我而言",
+          "说明": "介词短语作句首状语，表明这是作者个人的看法。"
+        }
+      ],
+      "zh": "就我而言，我不知道吉尔伯特是否是一位伟大的指挥家，甚至连他是否称得上是一位优秀的指挥家都不清楚。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2011-text1-s8",
+      "s": "To be sure, he performs an impressive variety of interesting compositions, but it is not necessary for me to visit Avery Fisher Hall, or anywhere else, to hear interesting orchestral music.",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "he / it",
+        "谓语": "performs / is",
+        "宾语或表语": "an impressive variety of interesting compositions / not necessary",
+        "主干翻译": "他演奏了种类繁多、令人印象深刻的有趣作品，但我没有必要……"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "To be sure",
+          "修饰对象": "performs",
+          "中文翻译": "诚然",
+          "说明": "不定式作独立成分（评注性状语），表让步语气，引出后文but的转折。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "but it is not necessary for me to visit Avery Fisher Hall, or anywhere else, to hear interesting orchestral music",
+          "修饰对象": "—",
+          "中文翻译": "但我没有必要为了听有趣的管弦乐而去艾弗里·费舍尔音乐厅或其他任何地方",
+          "说明": "but连接的并列分句，与前一分句构成转折并列关系。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "for me to visit Avery Fisher Hall, or anywhere else",
+          "修饰对象": "is",
+          "中文翻译": "我去艾弗里·费舍尔音乐厅或其他任何地方",
+          "说明": "it is not necessary结构中，for me to visit...为真正主语（不定式复合结构），it为形式主语。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to hear interesting orchestral music",
+          "修饰对象": "visit",
+          "中文翻译": "为了听有趣的管弦乐",
+          "说明": "不定式作目的状语，修饰visit，表去音乐厅的目的。"
+        }
+      ],
+      "zh": "诚然，他演奏了种类繁多、令人印象深刻的有趣作品，但我并不需要专程去艾弗里·费舍尔音乐厅或其他任何地方，才能听到有趣的管弦乐。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2011-text1-s9",
+      "s": "All I have to do is to go to my CD shelf, or boot up my computer and download still more recorded music from iTunes.",
+      "para_no": 3,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "All",
+        "谓语": "is",
+        "宾语或表语": "to go to my CD shelf, or ...",
+        "主干翻译": "我所要做的就是走到我的CD架前，或者……"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "I have to do",
+          "修饰对象": "All",
+          "中文翻译": "我所要做的",
+          "说明": "省略关系代词that的定语从句，修饰先行词All。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to do",
+          "修饰对象": "have",
+          "中文翻译": "做（的事）",
+          "说明": "不定式作have to结构的一部分（此处have to do意为'必须做'），to do为have的不定式补足。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to go to my CD shelf, or boot up my computer and download still more recorded music from iTunes",
+          "修饰对象": "is",
+          "中文翻译": "走到我的CD架前，或者启动电脑从iTunes下载更多录制好的音乐",
+          "说明": "不定式作表语，主系表结构中作is的表语（boot/download承接to，构成不定式并列）。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "or boot up my computer and download still more recorded music from iTunes",
+          "修饰对象": "go",
+          "中文翻译": "或者启动我的电脑并从iTunes下载更多录制好的音乐",
+          "说明": "or连接的并列不定式短语，与go to my CD shelf并列（共用to）。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "download still more recorded music from iTunes",
+          "修饰对象": "boot",
+          "中文翻译": "从iTunes下载更多录制好的音乐",
+          "说明": "and连接的并列谓语，与boot up my computer并列。"
+        }
+      ],
+      "zh": "我所要做的，不过是走到我的CD架前，或者启动电脑，从iTunes上下载更多录制好的音乐罢了。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2011-text1-s10",
+      "s": "Devoted concertgoers who reply that recordings are no substitute for live performance are missing the point.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Devoted concertgoers",
+        "谓语": "are missing",
+        "宾语或表语": "the point",
+        "主干翻译": "忠实的音乐会观众没有抓住要点。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "who reply that recordings are no substitute for live performance",
+          "修饰对象": "concertgoers",
+          "中文翻译": "回应说录音无法替代现场演出的（观众）",
+          "说明": "who引导的限制性定语从句，修饰先行词concertgoers。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that recordings are no substitute for live performance",
+          "修饰对象": "reply",
+          "中文翻译": "录音无法替代现场演出",
+          "说明": "that引导的宾语从句，作定语从句中谓语动词reply的宾语。"
+        }
+      ],
+      "zh": "那些反驳说录音无法替代现场演出的忠实音乐会观众，其实没有抓住问题的要点。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2011-text1-s11",
+      "s": "For the time, attention, and money of the art-loving public, classical instrumentalists must compete not only with opera houses, dance troupes, theater companies, and museums, but also with the recorded performances of the great classical musicians of the 20th century.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "classical instrumentalists",
+        "谓语": "must compete",
+        "宾语或表语": "with opera houses ... but also with the recorded performances",
+        "主干翻译": "古典器乐演奏家不仅必须与歌剧院……竞争，还必须与录制的演出竞争。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "For the time, attention, and money of the art-loving public",
+          "修饰对象": "compete",
+          "中文翻译": "为了争夺热爱艺术的公众的时间、注意力和金钱",
+          "说明": "For引导的介词短语作句首状语，表竞争的目的/对象。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "attention, and money",
+          "修饰对象": "time",
+          "中文翻译": "注意力和金钱",
+          "说明": "and连接的并列名词，与time共同作介词For的宾语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "dance troupes, theater companies, and museums",
+          "修饰对象": "houses",
+          "中文翻译": "舞蹈团、剧团和博物馆",
+          "说明": "并列名词，与opera houses共同作not only with的宾语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "but also with the recorded performances of the great classical musicians of the 20th century",
+          "修饰对象": "with",
+          "中文翻译": "还要与20世纪伟大古典音乐家的录制演出竞争",
+          "说明": "not only...but also连接的并列结构，第二个with短语与前一个with短语并列。"
+        }
+      ],
+      "zh": "为了争夺热爱艺术的公众的时间、注意力和金钱，古典器乐演奏家不仅要与歌剧院、舞蹈团、剧团和博物馆竞争，还要与20世纪那些伟大古典音乐家的录制演出一较高下。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2011-text1-s12",
+      "s": "These recordings are cheap, available everywhere, and very often much higher in artistic quality than today's live performances; moreover, they can be \"consumed\" at a time and place of the listener's choosing.",
+      "para_no": 4,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "These recordings",
+        "谓语": "are",
+        "宾语或表语": "cheap, available everywhere, and very often much higher in artistic quality",
+        "主干翻译": "这些录音价格低廉、随处可得，而且往往在艺术质量上高得多。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "available everywhere, and very often much higher in artistic quality than today's live performances",
+          "修饰对象": "cheap",
+          "中文翻译": "随处可得，而且往往在艺术质量上远高于当今的现场演出",
+          "说明": "并列表语，与cheap一同作are的表语。"
+        },
+        {
+          "成分类型": "状语从句(比较)",
+          "原文": "than today's live performances",
+          "修饰对象": "higher",
+          "中文翻译": "比当今的现场演出",
+          "说明": "than引导的比较状语，与much higher构成比较结构。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "moreover, they can be \"consumed\" at a time and place of the listener's choosing",
+          "修饰对象": "—",
+          "中文翻译": "此外，它们可以在听众选择的时间和地点被'消费'",
+          "说明": "分号连接的并列分句，moreover表递进，引出另一优势。"
+        }
+      ],
+      "zh": "这些录音价格低廉、随处可得，而且在艺术质量上往往远高于当今的现场演出；此外，它们还可以在听众自己选定的时间和地点被'消费'。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2011-text1-s13",
+      "s": "The widespread availability of such recordings has thus brought about a crisis in the institution of the traditional classical concert.",
+      "para_no": 4,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "The widespread availability",
+        "谓语": "has brought about",
+        "宾语或表语": "a crisis",
+        "主干翻译": "广泛的可获得性带来了一场危机。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "of such recordings",
+          "修饰对象": "availability",
+          "中文翻译": "这类录音的",
+          "说明": "of介词短语作后置定语，修饰availability，说明什么的可获得性。"
+        },
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "in the institution of the traditional classical concert",
+          "修饰对象": "crisis",
+          "中文翻译": "传统古典音乐会这一体制中的",
+          "说明": "in介词短语作后置定语，修饰crisis，说明危机所在的领域。"
+        }
+      ],
+      "zh": "因此，这类录音的广泛普及，给传统古典音乐会这一体制带来了一场危机。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2011-text1-s14",
+      "s": "One possible response is for classical performers to program attractive new music that is not yet available on record.",
+      "para_no": 5,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "One possible response",
+        "谓语": "is",
+        "宾语或表语": "for classical performers to program attractive new music",
+        "主干翻译": "一种可能的应对方法是让古典演奏家编排有吸引力的新音乐。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "for classical performers to program attractive new music that is not yet available on record",
+          "修饰对象": "is",
+          "中文翻译": "让古典演奏家编排尚未出过唱片的、有吸引力的新音乐",
+          "说明": "for sb. to do结构作表语，for classical performers为不定式的逻辑主语。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that is not yet available on record",
+          "修饰对象": "music",
+          "中文翻译": "尚未出过唱片的",
+          "说明": "that引导的限制性定语从句，修饰先行词music。"
+        }
+      ],
+      "zh": "一种可能的应对方法，是让古典演奏家编排那些尚未出过唱片、有吸引力的新音乐。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2011-text1-s15",
+      "s": "Gilbert's own interest in new music has been widely noted: Alex Ross, a classical-music critic, has described him as a man who is capable of turning the Philharmonic into \"a markedly different, more vibrant organization.\"",
+      "para_no": 5,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Gilbert's own interest / Alex Ross",
+        "谓语": "has been noted / has described",
+        "宾语或表语": "(被动) / him as a man",
+        "主干翻译": "吉尔伯特本人对新音乐的兴趣已被广泛注意到；阿历克斯·罗斯把他描述为一个人。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "in new music",
+          "修饰对象": "interest",
+          "中文翻译": "对新音乐的",
+          "说明": "in介词短语作后置定语，修饰interest，说明兴趣的对象。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "a classical-music critic",
+          "修饰对象": "Ross",
+          "中文翻译": "一位古典音乐评论家",
+          "说明": "名词短语作同位语，对专有名词Alex Ross作补充说明（同位语成分）。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "who is capable of turning the Philharmonic into \"a markedly different, more vibrant organization.\"",
+          "修饰对象": "man",
+          "中文翻译": "能够把爱乐乐团变成一个'明显不同、更具活力的机构'",
+          "说明": "who引导的定语从句，修饰先行词man，说明这个人的能力。"
+        }
+      ],
+      "zh": "吉尔伯特本人对新音乐的兴趣已被广泛注意到：古典音乐评论家阿历克斯·罗斯曾把他描述为一个能够把爱乐乐团变成'一个明显不同、更具活力的机构'的人。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2011-text1-s16",
+      "s": "But what will be the nature of that difference?",
+      "para_no": 5,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "the nature of that difference",
+        "谓语": "will be",
+        "宾语或表语": "what",
+        "主干翻译": "那种差别的本质会是什么呢？"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "of that difference",
+          "修饰对象": "nature",
+          "中文翻译": "那种差别的",
+          "说明": "of介词短语作后置定语，修饰nature，说明本质所属。"
+        }
+      ],
+      "zh": "但是，那种差别的本质究竟会是什么呢？",
+      "underline": null
+    },
+    {
+      "sid": "en1-2011-text1-s17",
+      "s": "Merely expanding the orchestra's repertoire will not be enough.",
+      "para_no": 5,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "Merely expanding the orchestra's repertoire",
+        "谓语": "will not be",
+        "宾语或表语": "enough",
+        "主干翻译": "仅仅扩大乐团的曲目是不够的。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "Merely expanding the orchestra's repertoire",
+          "修饰对象": "—",
+          "中文翻译": "仅仅扩大乐团的曲目",
+          "说明": "动名词短语作主语，Merely为副词修饰expanding。"
+        }
+      ],
+      "zh": "仅仅扩大乐团的演出曲目是远远不够的。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2011-text1-s18",
+      "s": "If Gilbert and the Philharmonic are to succeed, they must first change the relationship between America's oldest orchestra and the new audience it hopes to attract.",
+      "para_no": 5,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "they",
+        "谓语": "must change",
+        "宾语或表语": "the relationship",
+        "主干翻译": "他们必须首先改变这种关系。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "If Gilbert and the Philharmonic are to succeed",
+          "修饰对象": "change",
+          "中文翻译": "如果吉尔伯特和爱乐乐团想要成功",
+          "说明": "If引导的条件状语从句，be to do表'打算/想要'。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to succeed",
+          "修饰对象": "are",
+          "中文翻译": "成功",
+          "说明": "不定式与are构成be to do结构，表意图。"
+        },
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "between America's oldest orchestra and the new audience it hopes to attract",
+          "修饰对象": "relationship",
+          "中文翻译": "美国最古老的乐团与它希望吸引的新观众之间的",
+          "说明": "between...and...介词短语作后置定语，修饰relationship，说明关系的双方。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "the new audience it hopes to attract",
+          "修饰对象": "orchestra",
+          "中文翻译": "它希望吸引的新观众",
+          "说明": "and连接的并列宾语，与America's oldest orchestra共同作between...and的对象。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "it hopes to attract",
+          "修饰对象": "audience",
+          "中文翻译": "它希望吸引的",
+          "说明": "省略关系代词that/whom的定语从句，修饰先行词audience。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to attract",
+          "修饰对象": "hopes",
+          "中文翻译": "吸引",
+          "说明": "不定式作hopes的宾语（hope to do结构），to attract的逻辑宾语为先行词audience。"
+        }
+      ],
+      "zh": "如果吉尔伯特和爱乐乐团想要取得成功，他们就必须首先改变美国这个最古老的乐团与它希望吸引的新观众之间的关系。",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2011-text1-s1",
+        "en1-2011-text1-s2",
+        "en1-2011-text1-s3"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2011-text1-s4",
+        "en1-2011-text1-s5",
+        "en1-2011-text1-s6"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2011-text1-s7",
+        "en1-2011-text1-s8",
+        "en1-2011-text1-s9"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2011-text1-s10",
+        "en1-2011-text1-s11",
+        "en1-2011-text1-s12",
+        "en1-2011-text1-s13"
+      ]
+    },
+    {
+      "para_no": 5,
+      "sids": [
+        "en1-2011-text1-s14",
+        "en1-2011-text1-s15",
+        "en1-2011-text1-s16",
+        "en1-2011-text1-s17",
+        "en1-2011-text1-s18"
+      ]
+    }
+  ]
+}

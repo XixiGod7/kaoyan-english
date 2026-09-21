@@ -1,0 +1,633 @@
+{
+  "exam": "en1",
+  "key": "2005-t4",
+  "year": 2005,
+  "text_no": 4,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2005-text4-s1",
+      "s": "Americans no longer expect public figures, whether in speech or in writing, to command the English language with skill and gift.",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Americans",
+        "谓语": "no longer expect",
+        "宾语或表语": "public figures to command the English language",
+        "主干翻译": "美国人不再指望公众人物去驾驭英语。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "public figures, whether in speech or in writing, to command the English language with skill and gift",
+          "修饰对象": "expect",
+          "中文翻译": "公众人物（无论是口头还是书面）能熟练而有天赋地驾驭英语",
+          "说明": "expect sb to do 结构作宾语；此处为不定式复合宾语，承担宾语从句的语义功能。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "whether in speech or in writing",
+          "修饰对象": "command",
+          "中文翻译": "无论是口头表达还是书面写作",
+          "说明": "whether...or... 让步性插入语，插在 public figures 与 to command 之间，补充说明驾驭语言的场合。"
+        }
+      ],
+      "zh": "美国人不再指望公众人物——无论是口头表达还是书面写作——能熟练而有天赋地驾驭英语。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2005-text4-s2",
+      "s": "Nor do they aspire to such command themselves.",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "they",
+        "谓语": "do aspire to",
+        "宾语或表语": "such command themselves",
+        "主干翻译": "他们自己也不渴望拥有这样的驾驭能力。"
+      },
+      "components": [
+        {
+          "成分类型": "倒装",
+          "原文": "Nor do they aspire to such command themselves",
+          "修饰对象": "—",
+          "中文翻译": "他们自己也不渴望拥有这样的驾驭能力",
+          "说明": "否定词 Nor 置于句首引起部分倒装（助动词 do 提到主语 they 之前），表示\"也不\"。"
+        }
+      ],
+      "zh": "他们自己也不渴望拥有这样的语言驾驭能力。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2005-text4-s3",
+      "s": "In his latest book, Doing Our Own Thing: The Degradation of language and Music and Why We Should, Like, Care, John McWhorter, a linguist and controversialist of mixed liberal and conservative views, sees the triumph of 1960s counter-culture as responsible for the decline of formal English.",
+      "para_no": 1,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "John McWhorter",
+        "谓语": "sees",
+        "宾语或表语": "the triumph of 1960s counter-culture as responsible for the decline of formal English",
+        "主干翻译": "约翰·麦克沃特认为20世纪60年代反主流文化的胜利应对正式英语的衰落负责。"
+      },
+      "components": [
+        {
+          "成分类型": "同位语",
+          "原文": "Doing Our Own Thing: The Degradation of language and Music and Why We Should, Like, Care",
+          "修饰对象": "book",
+          "中文翻译": "《做我们自己的事：语言和音乐的退化以及我们为什么应该，嗯，在意》",
+          "说明": "his latest book 的同位语，给出书名。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "Why We Should, Like, Care",
+          "修饰对象": "Degradation",
+          "中文翻译": "以及我们为什么应该，嗯，在意",
+          "说明": "书名副标题内部由 and 连接的并列成分，与 The Degradation of language and Music 并列。"
+        },
+        {
+          "成分类型": "同位语",
+          "原文": "a linguist and controversialist of mixed liberal and conservative views",
+          "修饰对象": "McWhorter",
+          "中文翻译": "一位兼具自由派与保守派观点的语言学家兼好辩之士",
+          "说明": "John McWhorter 的同位语，说明其身份。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "In his latest book",
+          "修饰对象": "sees",
+          "中文翻译": "在他的新书中",
+          "说明": "句首地点/范围状语，限定 sees 这一论断的出处。"
+        }
+      ],
+      "zh": "在他的新书《做我们自己的事：语言和音乐的退化以及我们为什么应该，嗯，在意》中，约翰·麦克沃特——一位兼具自由派与保守派观点的语言学家兼好辩之士——认为，20世纪60年代反主流文化的胜利应为正式英语的衰落负责。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2005-text4-s4",
+      "s": "Blaming the permissive 1960s is nothing new, but this is not yet another criticism against the decline in education.",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Blaming the permissive 1960s",
+        "谓语": "is",
+        "宾语或表语": "nothing new",
+        "主干翻译": "指责放任的20世纪60年代并不是什么新鲜事。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "this is not yet another criticism against the decline in education",
+          "修饰对象": "is",
+          "中文翻译": "但这并非又一篇针对教育衰退的批评文章",
+          "说明": "由 but 连接的并列分句，与前一分句构成转折并列。"
+        },
+        {
+          "成分类型": "非谓语作主语",
+          "原文": "Blaming the permissive 1960s",
+          "修饰对象": "—",
+          "中文翻译": "指责放任的20世纪60年代",
+          "说明": "动名词短语作句子主语。"
+        }
+      ],
+      "zh": "指责放任的20世纪60年代并不是什么新鲜事，但这并非又一篇针对教育衰退的批评文章。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2005-text4-s5",
+      "s": "Mr. McWhorter's academic speciality is language history and change, and he sees the gradual disappearance of \"whom\", for example, to be natural and no more regrettable than the loss of the case-endings of Old English.",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Mr. McWhorter's academic speciality",
+        "谓语": "is",
+        "宾语或表语": "language history and change",
+        "主干翻译": "麦克沃特先生的学术专长是语言史与语言变迁。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "he sees the gradual disappearance of \"whom\", for example, to be natural and no more regrettable than the loss of the case-endings of Old English",
+          "修饰对象": "is",
+          "中文翻译": "他认为，比如\"whom\"一词的逐渐消失是自然的，并不比古英语格尾的丧失更令人惋惜",
+          "说明": "由 and 连接的并列分句，与前一分句并列。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "the gradual disappearance of \"whom\", for example, to be natural and no more regrettable than the loss of the case-endings of Old English",
+          "修饰对象": "sees",
+          "中文翻译": "\"whom\"一词的逐渐消失是自然的，并不比古英语格尾的丧失更令人惋惜",
+          "说明": "see sth to be 结构，不定式复合宾语承担宾语从句语义功能。"
+        },
+        {
+          "成分类型": "状语从句(比较)",
+          "原文": "no more regrettable than the loss of the case-endings of Old English",
+          "修饰对象": "natural",
+          "中文翻译": "并不比古英语格尾的丧失更令人惋惜",
+          "说明": "no more...than... 比较结构，与 natural 由 and 并列充当宾语补足语。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "for example",
+          "修饰对象": "disappearance",
+          "中文翻译": "比如",
+          "说明": "举例性插入语，插在宾语短语之中。"
+        }
+      ],
+      "zh": "麦克沃特先生的学术专长是语言史与语言变迁，他认为，比如\"whom\"一词的逐渐消失是自然现象，并不比古英语格尾的丧失更令人惋惜。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2005-text4-s6",
+      "s": "But the cult of the authentic and the personal, \"doing our own thing\", has spelt the death of formal speech, writing, poetry and music.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "the cult of the authentic and the personal",
+        "谓语": "has spelt",
+        "宾语或表语": "the death of formal speech, writing, poetry and music",
+        "主干翻译": "对本真与个性的崇拜宣告了正式言说、写作、诗歌和音乐的终结。"
+      },
+      "components": [
+        {
+          "成分类型": "同位语",
+          "原文": "\"doing our own thing\"",
+          "修饰对象": "cult",
+          "中文翻译": "即\"做我们自己的事\"",
+          "说明": "对前面 the cult of the authentic and the personal 的同位解释（k 提示的成分，按同位语处理）。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "writing, poetry and music",
+          "修饰对象": "speech",
+          "中文翻译": "写作、诗歌和音乐",
+          "说明": "与 formal speech 并列，共同充当 the death of 的宾语。"
+        }
+      ],
+      "zh": "然而，对本真与个性的崇拜，即\"做我们自己的事\"，已宣告了正式言说、写作、诗歌和音乐的终结。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2005-text4-s7",
+      "s": "While even the modestly educated sought an elevated tone when they put pen to paper before the 1960 s, even the most well regarded writing since then has sought to capture spoken English on the page.",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "even the most well regarded writing",
+        "谓语": "has sought",
+        "宾语或表语": "to capture spoken English on the page",
+        "主干翻译": "即便是最受推崇的写作也力图在纸面上捕捉口语化的英语。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(让步)",
+          "原文": "While even the modestly educated sought an elevated tone when they put pen to paper before the 1960 s",
+          "修饰对象": "sought",
+          "中文翻译": "尽管在20世纪60年代之前，即便受教育程度一般的人在提笔写作时也追求一种典雅的格调",
+          "说明": "While 引导让步状语从句，与主句构成今昔对比的让步关系。"
+        },
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "when they put pen to paper",
+          "修饰对象": "sought",
+          "中文翻译": "当他们提笔写作时",
+          "说明": "when 引导时间状语从句，修饰从句内的 sought。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "before the 1960 s",
+          "修饰对象": "sought",
+          "中文翻译": "在20世纪60年代之前",
+          "说明": "时间状语，限定 While 从句中的 sought。"
+        },
+        {
+          "成分类型": "非谓语作宾语",
+          "原文": "to capture spoken English on the page",
+          "修饰对象": "sought",
+          "中文翻译": "在纸面上捕捉口语化的英语",
+          "说明": "不定式短语作 has sought 的宾语。"
+        }
+      ],
+      "zh": "尽管在20世纪60年代之前，即便受教育程度一般的人提笔写作时也追求一种典雅的格调，但此后即便是最受推崇的写作也力图在纸面上捕捉口语化的英语。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2005-text4-s8",
+      "s": "Equally, in poetry, the highly personal, performative genre is the only form that could claim real liveliness.",
+      "para_no": 3,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "the highly personal, performative genre",
+        "谓语": "is",
+        "宾语或表语": "the only form",
+        "主干翻译": "高度个人化、表演性的体裁是唯一的形式。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "that could claim real liveliness",
+          "修饰对象": "form",
+          "中文翻译": "能够称得上真正富有生气的",
+          "说明": "that 引导限制性定语从句，修饰 the only form。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "in poetry",
+          "修饰对象": "is",
+          "中文翻译": "在诗歌方面",
+          "说明": "句首范围状语，限定论断适用的领域。"
+        }
+      ],
+      "zh": "同样，在诗歌方面，高度个人化、表演性的体裁是唯一能够称得上真正富有生气的形式。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2005-text4-s9",
+      "s": "In both oral and written English, talking is triumphing over speaking, spontaneity over craft.",
+      "para_no": 3,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "talking",
+        "谓语": "is triumphing over",
+        "宾语或表语": "speaking",
+        "主干翻译": "随意交谈正在压倒正式言说。"
+      },
+      "components": [
+        {
+          "成分类型": "省略",
+          "原文": "spontaneity over craft",
+          "修饰对象": "—",
+          "中文翻译": "（即）自发性正在压倒技艺",
+          "说明": "并列省略结构，承前省略谓语 is triumphing，补全为 spontaneity is triumphing over craft。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "In both oral and written English",
+          "修饰对象": "is triumphing",
+          "中文翻译": "在口语和书面英语中",
+          "说明": "句首范围状语。"
+        }
+      ],
+      "zh": "在口语和书面英语中，随意交谈正在压倒正式言说，自发性正在压倒技艺。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2005-text4-s10",
+      "s": "Illustrated with an entertaining array of examples from both high and low culture, the trend that Mr. McWhorter documents is unmistakable.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "the trend",
+        "谓语": "is",
+        "宾语或表语": "unmistakable",
+        "主干翻译": "这一趋势是显而易见的。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "Illustrated with an entertaining array of examples from both high and low culture",
+          "修饰对象": "trend",
+          "中文翻译": "在用一系列来自高雅文化和通俗文化的有趣例子加以说明之后",
+          "说明": "过去分词短语作状语，逻辑主语为 the trend，表伴随/方式。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that Mr. McWhorter documents",
+          "修饰对象": "trend",
+          "中文翻译": "麦克沃特先生所记录的",
+          "说明": "that 引导限制性定语从句，修饰 the trend，作 documents 的宾语。"
+        }
+      ],
+      "zh": "在用一系列来自高雅文化和通俗文化的有趣例子加以说明之后，麦克沃特先生所记录的这一趋势便显而易见了。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2005-text4-s11",
+      "s": "But it is less clear, to take the question of his subtitle, why we should, like, care.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "it",
+        "谓语": "is",
+        "宾语或表语": "less clear",
+        "主干翻译": "（但）较不清楚的是。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to take the question of his subtitle",
+          "修饰对象": "is",
+          "中文翻译": "就他副标题所提的问题而言",
+          "说明": "不定式短语作插入性目的/方式状语。"
+        },
+        {
+          "成分类型": "主语从句",
+          "原文": "why we should, like, care",
+          "修饰对象": "it",
+          "中文翻译": "我们为什么应该，嗯，在意",
+          "说明": "why 引导的从句为真正主语，it 为形式主语。"
+        }
+      ],
+      "zh": "但是，就他副标题所提的问题而言，我们为什么应该，嗯，在意，这一点就不那么清楚了。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2005-text4-s12",
+      "s": "As a linguist, he acknowledges that all varieties of human language, including non-standard ones like Black English, can be powerfully expressive—there exists no language or dialect in the world that cannot convey complex ideas.",
+      "para_no": 4,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "he",
+        "谓语": "acknowledges",
+        "宾语或表语": "that all varieties of human language can be powerfully expressive",
+        "主干翻译": "他承认，人类语言的所有变体都能极富表现力。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "that all varieties of human language, including non-standard ones like Black English, can be powerfully expressive",
+          "修饰对象": "acknowledges",
+          "中文翻译": "人类语言的所有变体——包括像黑人英语这样的非标准变体——都能极富表现力",
+          "说明": "that 引导宾语从句，作 acknowledges 的宾语。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "including non-standard ones like Black English",
+          "修饰对象": "varieties",
+          "中文翻译": "包括像黑人英语这样的非标准变体",
+          "说明": "including 引导的介词短语作插入性补充，举例说明 all varieties。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that cannot convey complex ideas",
+          "修饰对象": "language",
+          "中文翻译": "不能表达复杂思想的",
+          "说明": "that 引导定语从句，修饰 no language or dialect。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "As a linguist",
+          "修饰对象": "acknowledges",
+          "中文翻译": "作为一名语言学家",
+          "说明": "句首身份状语。"
+        }
+      ],
+      "zh": "作为一名语言学家，他承认人类语言的所有变体——包括像黑人英语这样的非标准变体——都能极富表现力：世界上不存在任何不能表达复杂思想的语言或方言。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2005-text4-s13",
+      "s": "He is not arguing, as many do, that we can no longer think straight because we do not talk proper.",
+      "para_no": 4,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "He",
+        "谓语": "is not arguing",
+        "宾语或表语": "that we can no longer think straight",
+        "主干翻译": "他并不是在论证说我们再也不能清晰地思考。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(方式)",
+          "原文": "as many do",
+          "修饰对象": "arguing",
+          "中文翻译": "像许多人所做的那样",
+          "说明": "as 引导方式状语从句，do 替代 argue。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that we can no longer think straight because we do not talk proper",
+          "修饰对象": "arguing",
+          "中文翻译": "我们因为说话不规范就再也不能清晰地思考了",
+          "说明": "that 引导宾语从句，作 arguing 的宾语。"
+        },
+        {
+          "成分类型": "状语从句(原因)",
+          "原文": "because we do not talk proper",
+          "修饰对象": "think",
+          "中文翻译": "因为我们说话不规范",
+          "说明": "because 引导原因状语从句，修饰宾语从句内的 think straight。"
+        }
+      ],
+      "zh": "他并不像许多人那样论证说：我们因为说话不规范，就再也不能清晰地思考了。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2005-text4-s14",
+      "s": "Russians have a deep love for their own language and carry large chunks of memorized poetry in their heads, while Italian politicians tend to elaborate speech that would seem old-fashioned to most English-speakers.",
+      "para_no": 5,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Russians",
+        "谓语": "have / carry",
+        "宾语或表语": "a deep love for their own language / large chunks of memorized poetry",
+        "主干翻译": "俄罗斯人深爱自己的语言，并在头脑中记诵大段大段的诗歌。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "carry large chunks of memorized poetry in their heads",
+          "修饰对象": "have",
+          "中文翻译": "在头脑中记诵着大段大段的诗歌",
+          "说明": "由 and 连接，与 have a deep love 并列，共用主语 Russians。"
+        },
+        {
+          "成分类型": "状语从句(比较)",
+          "原文": "while Italian politicians tend to elaborate speech that would seem old-fashioned to most English-speakers",
+          "修饰对象": "carry",
+          "中文翻译": "而意大利政客则倾向于精心雕琢的言辞，这在大多数说英语的人看来会显得过时",
+          "说明": "while 在此表对比，引导比较/对比状语从句。"
+        },
+        {
+          "成分类型": "非谓语作宾语",
+          "原文": "to elaborate speech that would seem old-fashioned to most English-speakers",
+          "修饰对象": "tend",
+          "中文翻译": "倾向于精心雕琢言辞",
+          "说明": "不定式短语作 tend 的宾语（tend to do）。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that would seem old-fashioned to most English-speakers",
+          "修饰对象": "speech",
+          "中文翻译": "在大多数说英语的人看来会显得过时的",
+          "说明": "that 引导定语从句，修饰 speech。"
+        }
+      ],
+      "zh": "俄罗斯人深爱自己的语言，并在头脑中记诵着大段大段的诗歌，而意大利政客则倾向于精心雕琢的言辞——这在大多数说英语的人看来会显得过时。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2005-text4-s15",
+      "s": "Mr. McWhorter acknowledges that formal language is not strictly necessary, and proposes no radical education reforms—he is really grieving over the loss of something beautiful more than useful.",
+      "para_no": 5,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Mr. McWhorter",
+        "谓语": "acknowledges / proposes",
+        "宾语或表语": "that formal language is not strictly necessary / no radical education reforms",
+        "主干翻译": "麦克沃特先生承认正式语言并非绝对必要，也没有提出任何激进的教育改革方案。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "that formal language is not strictly necessary",
+          "修饰对象": "acknowledges",
+          "中文翻译": "正式语言并非绝对必要",
+          "说明": "that 引导宾语从句，作 acknowledges 的宾语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "proposes no radical education reforms",
+          "修饰对象": "acknowledges",
+          "中文翻译": "也没有提出任何激进的教育改革方案",
+          "说明": "由 and 连接，与 acknowledges 并列，共用主语 Mr. McWhorter。"
+        },
+        {
+          "成分类型": "状语从句(比较)",
+          "原文": "he is really grieving over the loss of something beautiful more than useful",
+          "修饰对象": "—",
+          "中文翻译": "他其实是在哀叹某种美好之物的失去，而非实用之物的失去",
+          "说明": "破折号后的分句，对前句进行总结性说明，内含 more than 比较结构（beautiful more than useful）。"
+        }
+      ],
+      "zh": "麦克沃特先生承认正式语言并非绝对必要，也没有提出任何激进的教育改革方案——他其实是在哀叹某种美好而非实用之物的失去。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2005-text4-s16",
+      "s": "We now take our English \"on paper plates instead of china\".",
+      "para_no": 5,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "We",
+        "谓语": "take",
+        "宾语或表语": "our English",
+        "主干翻译": "我们如今享用英语。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "\"on paper plates instead of china\"",
+          "修饰对象": "take",
+          "中文翻译": "\"用纸盘子而非瓷器盛装\"",
+          "说明": "方式状语，比喻我们如今对待英语的随意态度。"
+        }
+      ],
+      "zh": "如今我们\"用纸盘子而非瓷器\"来享用英语。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2005-text4-s17",
+      "s": "A shame, perhaps, but probably an inevitable one.",
+      "para_no": 5,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "(it is)",
+        "谓语": "(is)",
+        "宾语或表语": "A shame",
+        "主干翻译": "（这）也许是一件憾事。"
+      },
+      "components": [
+        {
+          "成分类型": "省略",
+          "原文": "A shame, perhaps, but probably an inevitable one",
+          "修饰对象": "—",
+          "中文翻译": "也许是件憾事，但很可能是一件不可避免的憾事",
+          "说明": "无谓语省略句，承前省略主语和系动词（It is），one 替代 shame。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "probably an inevitable one",
+          "修饰对象": "shame",
+          "中文翻译": "但很可能是一件不可避免的（憾事）",
+          "说明": "由 but 连接，与 A shame 并列构成转折。"
+        }
+      ],
+      "zh": "这也许是一件憾事，但很可能是一件不可避免的憾事。",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2005-text4-s1",
+        "en1-2005-text4-s2",
+        "en1-2005-text4-s3"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2005-text4-s4",
+        "en1-2005-text4-s5"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2005-text4-s6",
+        "en1-2005-text4-s7",
+        "en1-2005-text4-s8",
+        "en1-2005-text4-s9"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2005-text4-s10",
+        "en1-2005-text4-s11",
+        "en1-2005-text4-s12",
+        "en1-2005-text4-s13"
+      ]
+    },
+    {
+      "para_no": 5,
+      "sids": [
+        "en1-2005-text4-s14",
+        "en1-2005-text4-s15",
+        "en1-2005-text4-s16",
+        "en1-2005-text4-s17"
+      ]
+    }
+  ]
+}

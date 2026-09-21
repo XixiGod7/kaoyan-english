@@ -1,0 +1,774 @@
+{
+  "exam": "en1",
+  "key": "2015-t4",
+  "year": 2015,
+  "text_no": 4,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2015-text4-s1",
+      "s": "Two years ago, Rupert Murdoch's daughter, Elisabeth, spoke of the \"unsettling dearth of integrity across so many of our institutions.\"",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Rupert Murdoch's daughter, Elisabeth",
+        "谓语": "spoke",
+        "宾语或表语": "of the \"unsettling dearth of integrity across so many of our institutions\"",
+        "主干翻译": "鲁伯特·默多克的女儿伊丽莎白谈到了\"我们如此众多的机构中令人不安的诚信缺失\"。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "Elisabeth",
+          "修饰对象": "daughter",
+          "中文翻译": "伊丽莎白",
+          "说明": "作 daughter 的同位语，以逗号插入，进一步说明默多克的女儿是谁。"
+        }
+      ],
+      "zh": "两年前，鲁伯特·默多克的女儿伊丽莎白谈到了\"我们如此众多的机构中令人不安的诚信缺失\"。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2015-text4-s2",
+      "s": "Integrity had collapsed, she argued, because of a collective acceptance that the only \"sorting mechanism\" in society should be profit and the market.",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Integrity",
+        "谓语": "had collapsed",
+        "宾语或表语": "—",
+        "主干翻译": "诚信已然崩塌。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "she argued",
+          "修饰对象": "—",
+          "中文翻译": "她说",
+          "说明": "插入语，标明这是她的论断。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "because of a collective acceptance",
+          "修饰对象": "had collapsed",
+          "中文翻译": "由于一种集体性的认同",
+          "说明": "原因状语，because of 引导，acceptance 为其核心名词。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "that the only \"sorting mechanism\" in society should be profit and the market",
+          "修饰对象": "acceptance",
+          "中文翻译": "即社会中唯一的\"分类机制\"应当是利润和市场",
+          "说明": "that 引导的同位语从句，解释 acceptance（集体认同）的具体内容。"
+        }
+      ],
+      "zh": "她说，诚信之所以崩塌，是因为人们集体地认同：社会中唯一的\"分类机制\"应当是利润和市场。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2015-text4-s3",
+      "s": "But \"it's us, human beings, we the people who create the society we want, not profit\".",
+      "para_no": 1,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "it",
+        "谓语": "is",
+        "宾语或表语": "us, human beings, we the people ... who create the society we want, not profit",
+        "主干翻译": "是我们，是人类，是我们这些人民创造了我们想要的社会，而非利润。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "human beings",
+          "修饰对象": "us",
+          "中文翻译": "人类",
+          "说明": "us 的同位语，进一步重申其所指。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "we the people who create the society we want, not profit",
+          "修饰对象": "us",
+          "中文翻译": "我们这些创造自己想要的社会的人民，而非利润",
+          "说明": "us 的同位语，重述并强调创造社会的主体。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "who create the society we want, not profit",
+          "修饰对象": "people",
+          "中文翻译": "创造我们想要的社会（而非利润创造它）",
+          "说明": "who 引导的定语从句，修饰 the people。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "we want",
+          "修饰对象": "society",
+          "中文翻译": "我们想要的",
+          "说明": "省略关系代词 that 的定语从句，修饰 the society。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "not profit",
+          "修饰对象": "society",
+          "中文翻译": "而不是利润",
+          "说明": "对比性补充，强调创造社会的是人而非利润。"
+        }
+      ],
+      "zh": "但是\"是我们，是人类，是我们这些人民创造了我们想要的社会，而不是利润\"。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2015-text4-s4",
+      "s": "Driving her point home, she continued: \"It's increasingly apparent that the absence of purpose, of a moral language within government, media or business could become one of the most dangerous goals for capitalism and freedom.\"",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "she",
+        "谓语": "continued",
+        "宾语或表语": "（引出直接引语）",
+        "主干翻译": "她继续说道。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "Driving her point home",
+          "修饰对象": "continued",
+          "中文翻译": "为把自己的观点讲透彻",
+          "说明": "现在分词短语作伴随/方式状语，修饰 she continued。"
+        },
+        {
+          "成分类型": "表语从句",
+          "原文": "that the absence of purpose, of a moral language within government, media or business could become one of the most dangerous goals for capitalism and freedom",
+          "修饰对象": "is",
+          "中文翻译": "目标的缺失、政府、媒体或商界中道德语言的缺失，可能成为资本主义和自由所面临的最危险的目标之一",
+          "说明": "that 引导的表语从句，作 It's increasingly apparent 中形式主语 it 所指代的真正主语；整个引语作 continued 的宾语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "media or business",
+          "修饰对象": "government",
+          "中文翻译": "媒体或商界",
+          "说明": "与 government 并列，构成 within government, media or business。"
+        }
+      ],
+      "zh": "为了把观点讲透，她接着说道：\"越来越明显的是，目标的缺失，即政府、媒体或商界中道德语言的缺失，可能成为资本主义和自由所面临的最危险的目标之一。\"",
+      "underline": null
+    },
+    {
+      "sid": "en1-2015-text4-s5",
+      "s": "This same absence of moral purpose was wounding companies such as News International, she thought, making it more likely that it would lose its way as it had with widespread illegal telephone hacking.",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "This same absence of moral purpose",
+        "谓语": "was wounding",
+        "宾语或表语": "companies such as News International",
+        "主干翻译": "同样的这种道德目标的缺失正在伤害诸如新闻国际这样的公司。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "she thought",
+          "修饰对象": "—",
+          "中文翻译": "她认为",
+          "说明": "插入语，标明这是她的看法。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "making it more likely that it would lose its way as it had with widespread illegal telephone hacking",
+          "修饰对象": "was wounding",
+          "中文翻译": "从而使其更有可能像在大规模非法电话窃听中那样误入歧途",
+          "说明": "现在分词短语作结果状语，修饰主句谓语。其中 it 为形式宾语。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that it would lose its way as it had with widespread illegal telephone hacking",
+          "修饰对象": "making",
+          "中文翻译": "它会误入歧途",
+          "说明": "that 从句作 making 的真正宾语，由形式宾语 it 指代。"
+        },
+        {
+          "成分类型": "状语从句(方式)",
+          "原文": "as it had with widespread illegal telephone hacking",
+          "修饰对象": "lose",
+          "中文翻译": "就像它在大规模非法电话窃听中所做的那样",
+          "说明": "as 引导方式状语从句，had 后省略 lost its way。"
+        }
+      ],
+      "zh": "她认为，同样的这种道德目标的缺失正在伤害诸如新闻国际这样的公司，使其更有可能像在大规模非法电话窃听中那样误入歧途。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2015-text4-s6",
+      "s": "As the hacking trial concludes—finding guilty one ex-editor of the News of the World, Andy Coulson, for conspiring to hack phones, and finding his predecessor, Rebekah Brooks, innocent of the same charge—the wider issue of dearth of integrity still stands.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "the wider issue of dearth of integrity",
+        "谓语": "still stands",
+        "宾语或表语": "—",
+        "主干翻译": "诚信缺失这一更广泛的问题依然存在。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "As the hacking trial concludes",
+          "修饰对象": "stands",
+          "中文翻译": "随着窃听案审判的结束",
+          "说明": "As 引导时间状语从句，修饰主句。破折号间内容是对 concludes 的伴随说明。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "finding guilty one ex-editor of the News of the World, Andy Coulson, for conspiring to hack phones",
+          "修饰对象": "concludes",
+          "中文翻译": "判定《世界新闻报》的一名前主编安迪·库尔森因密谋窃听电话而有罪",
+          "说明": "现在分词短语作伴随状语，说明 trial concludes 的结果。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "Andy Coulson",
+          "修饰对象": "editor",
+          "中文翻译": "安迪·库尔森",
+          "说明": "one ex-editor 的同位语。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "for conspiring to hack phones",
+          "修饰对象": "finding",
+          "中文翻译": "因密谋窃听电话",
+          "说明": "for+动名词作原因状语，说明判罪缘由；to hack phones 为 conspiring 的不定式补足语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "and finding his predecessor, Rebekah Brooks, innocent of the same charge",
+          "修饰对象": "finding",
+          "中文翻译": "同时判定其前任丽贝卡·布鲁克斯无同样罪行",
+          "说明": "与前一 finding 分词短语并列，构成对比。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "Rebekah Brooks",
+          "修饰对象": "predecessor",
+          "中文翻译": "丽贝卡·布鲁克斯",
+          "说明": "his predecessor 的同位语。"
+        }
+      ],
+      "zh": "随着窃听案审判落下帷幕——判定《世界新闻报》前主编安迪·库尔森因密谋窃听电话有罪，同时判定其前任丽贝卡·布鲁克斯在同一指控上无罪——诚信缺失这一更广泛的问题依然存在。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2015-text4-s7",
+      "s": "Journalists are known to have hacked the phones of up to 5, 500 people.",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Journalists",
+        "谓语": "are known",
+        "宾语或表语": "to have hacked the phones of up to 5, 500 people",
+        "主干翻译": "据悉，记者们窃听了多达5500人的电话。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to have hacked the phones of up to 5, 500 people",
+          "修饰对象": "known",
+          "中文翻译": "窃听了多达5500人的电话",
+          "说明": "动词不定式（完成式）作主语补足语，与 are known 构成\"据悉……\"结构。"
+        }
+      ],
+      "zh": "据悉，记者们窃听了多达5500人的电话。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2015-text4-s8",
+      "s": "This is hacking on an industrial scale, as was acknowledged by Glenn Mulcaire, the man hired by the News of the World in 2001 to be the point person for phone hacking.",
+      "para_no": 3,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "This",
+        "谓语": "is",
+        "宾语或表语": "hacking on an industrial scale",
+        "主干翻译": "这是工业规模的窃听。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(方式)",
+          "原文": "as was acknowledged by Glenn Mulcaire, the man hired by the News of the World in 2001 to be the point person for phone hacking",
+          "修饰对象": "is",
+          "中文翻译": "正如格伦·穆尔凯尔所承认的那样",
+          "说明": "as 引导方式/非限制性关系状语从句，as 在从句中作主语，was acknowledged 为谓语。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "the man hired by the News of the World in 2001 to be the point person for phone hacking",
+          "修饰对象": "Mulcaire",
+          "中文翻译": "他是2001年被《世界新闻报》雇来负责电话窃听的关键人物",
+          "说明": "Glenn Mulcaire 的同位语。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "hired by the News of the World in 2001 to be the point person for phone hacking",
+          "修饰对象": "man",
+          "中文翻译": "2001年被《世界新闻报》雇来负责电话窃听的",
+          "说明": "过去分词短语作后置定语，修饰 the man。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to be the point person for phone hacking",
+          "修饰对象": "hired",
+          "中文翻译": "去充当电话窃听的关键负责人",
+          "说明": "不定式作目的状语，说明雇用的目的。"
+        }
+      ],
+      "zh": "正如格伦·穆尔凯尔所承认的那样，这是工业规模的窃听——穆尔凯尔正是2001年被《世界新闻报》雇来负责电话窃听的关键人物。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2015-text4-s9",
+      "s": "Others await trial.",
+      "para_no": 3,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "Others",
+        "谓语": "await",
+        "宾语或表语": "trial",
+        "主干翻译": "其他人等待受审。"
+      },
+      "components": [],
+      "zh": "其他人正等待受审。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2015-text4-s10",
+      "s": "This long story still unfolds.",
+      "para_no": 3,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "This long story",
+        "谓语": "still unfolds",
+        "宾语或表语": "—",
+        "主干翻译": "这个漫长的故事仍在展开。"
+      },
+      "components": [],
+      "zh": "这个漫长的故事仍在继续上演。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2015-text4-s11",
+      "s": "In many respects, the dearth of moral purpose frames not only the fact of such widespread phone hacking but the terms on which the trial took place.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "the dearth of moral purpose",
+        "谓语": "frames",
+        "宾语或表语": "not only the fact of such widespread phone hacking but the terms",
+        "主干翻译": "道德目标的缺失不仅框定了如此大规模电话窃听这一事实，也框定了审判赖以进行的条件。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "In many respects",
+          "修饰对象": "frames",
+          "中文翻译": "在许多方面",
+          "说明": "句首介词短语作状语，修饰全句。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "but the terms on which the trial took place",
+          "修饰对象": "fact",
+          "中文翻译": "而且还框定了审判得以进行的条件",
+          "说明": "与前面 the fact 并列，构成 not only...but... 结构，同作 frames 的宾语。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "on which the trial took place",
+          "修饰对象": "terms",
+          "中文翻译": "审判据以进行的",
+          "说明": "on which 引导的定语从句，修饰 the terms。"
+        }
+      ],
+      "zh": "在许多方面，道德目标的缺失不仅框定了如此大规模电话窃听这一事实，也框定了审判赖以进行的条件。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2015-text4-s12",
+      "s": "One of the astonishing revelations was how little Rebekah Brooks knew of what went on in her newsroom, how little she thought to ask and the fact that she never inquired how the stories arrived.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "One of the astonishing revelations",
+        "谓语": "was",
+        "宾语或表语": "how little ... how little ... and the fact ...",
+        "主干翻译": "最令人吃惊的揭露之一是……。"
+      },
+      "components": [
+        {
+          "成分类型": "表语从句",
+          "原文": "how little Rebekah Brooks knew of what went on in her newsroom",
+          "修饰对象": "was",
+          "中文翻译": "丽贝卡·布鲁克斯对其编辑部里发生的事知道得何其之少",
+          "说明": "how 引导的表语从句，作系动词 was 的表语。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "what went on in her newsroom",
+          "修饰对象": "knew",
+          "中文翻译": "她编辑部里所发生的事",
+          "说明": "what 引导的宾语从句，作 knew of 的宾语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "how little she thought to ask and the fact that she never inquired how the stories arrived",
+          "修饰对象": "knew",
+          "中文翻译": "她多么想不到去问，以及她从不过问这些报道是如何得来的这一事实",
+          "说明": "与第一个 how 从句并列，共同作 was 的表语（三项并列）。"
+        },
+        {
+          "成分类型": "表语从句",
+          "原文": "how little she thought to ask",
+          "修饰对象": "was",
+          "中文翻译": "她多么没有想到去发问",
+          "说明": "并列表语从句之二。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "that she never inquired how the stories arrived",
+          "修饰对象": "fact",
+          "中文翻译": "她从不过问这些报道是怎么来的",
+          "说明": "that 引导的同位语从句，解释 the fact 的内容。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "how the stories arrived",
+          "修饰对象": "inquired",
+          "中文翻译": "这些报道是如何得来的",
+          "说明": "how 引导的宾语从句，作 inquired 的宾语。"
+        }
+      ],
+      "zh": "最令人吃惊的揭露之一是：丽贝卡·布鲁克斯对其编辑部里所发生的事知道得何其之少，她多么没有想到去过问，以及她从不询问这些报道是如何得来的这一事实。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2015-text4-s13",
+      "s": "The core of her successful defence was that she knew nothing.",
+      "para_no": 4,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "The core of her successful defence",
+        "谓语": "was",
+        "宾语或表语": "that she knew nothing",
+        "主干翻译": "她成功辩护的核心是她一无所知。"
+      },
+      "components": [
+        {
+          "成分类型": "表语从句",
+          "原文": "that she knew nothing",
+          "修饰对象": "was",
+          "中文翻译": "她什么都不知道",
+          "说明": "that 引导的表语从句，作系动词 was 的表语。"
+        }
+      ],
+      "zh": "她成功辩护的核心就在于她对一切一无所知。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2015-text4-s14",
+      "s": "In today's world, it has become normal that well-paid executives should not be accountable for what happens in the organisations that they run.",
+      "para_no": 5,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "it",
+        "谓语": "has become",
+        "宾语或表语": "normal",
+        "主干翻译": "（这）已变得稀松平常。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "In today's world",
+          "修饰对象": "become",
+          "中文翻译": "在当今世界",
+          "说明": "句首介词短语作状语。"
+        },
+        {
+          "成分类型": "主语从句",
+          "原文": "that well-paid executives should not be accountable for what happens in the organisations that they run",
+          "修饰对象": "it",
+          "中文翻译": "高薪主管不必为其所掌管的机构中发生的事负责",
+          "说明": "that 引导的主语从句，由形式主语 it 指代。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "what happens in the organisations",
+          "修饰对象": "accountable",
+          "中文翻译": "机构中发生的事",
+          "说明": "what 引导，作介词 for 的宾语。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that they run",
+          "修饰对象": "organizations",
+          "中文翻译": "他们所掌管的",
+          "说明": "that 引导的定语从句，修饰 the organizations。"
+        }
+      ],
+      "zh": "在当今世界，高薪主管不必为其所掌管的机构中发生的事情负责，这已经成了一件稀松平常的事。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2015-text4-s15",
+      "s": "Perhaps we should not be so surprised.",
+      "para_no": 5,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "we",
+        "谓语": "should not be",
+        "宾语或表语": "so surprised",
+        "主干翻译": "我们不应如此惊讶。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "Perhaps",
+          "修饰对象": "—",
+          "中文翻译": "也许",
+          "说明": "句首副词作评注性状语，表语气。"
+        }
+      ],
+      "zh": "也许我们本不应如此惊讶。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2015-text4-s16",
+      "s": "For a generation, the collective doctrine has been that the sorting mechanism of society should be profit.",
+      "para_no": 5,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "the collective doctrine",
+        "谓语": "has been",
+        "宾语或表语": "that the sorting mechanism of society should be profit",
+        "主干翻译": "集体信条一直是社会的分类机制应当是利润。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "For a generation",
+          "修饰对象": "been",
+          "中文翻译": "整整一代人以来",
+          "说明": "句首介词短语作时间状语。"
+        },
+        {
+          "成分类型": "表语从句",
+          "原文": "that the sorting mechanism of society should be profit",
+          "修饰对象": "been",
+          "中文翻译": "社会的分类机制应当是利润",
+          "说明": "that 引导的表语从句，作 has been 的表语。"
+        }
+      ],
+      "zh": "整整一代人以来，集体奉行的信条一直是：社会的分类机制应当是利润。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2015-text4-s17",
+      "s": "The words that have mattered are efficiency, flexibility, shareholder value, business–friendly, wealth generation, sales, impact and, in newspapers, circulation.",
+      "para_no": 5,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "The words",
+        "谓语": "are",
+        "宾语或表语": "efficiency, flexibility, shareholder value, business–friendly, wealth generation, sales, impact and ... circulation",
+        "主干翻译": "重要的那些词是效率、灵活性、股东价值、利商、财富创造、销售、影响力以及（在报业中）发行量。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "that have mattered",
+          "修饰对象": "words",
+          "中文翻译": "一直至关重要的",
+          "说明": "that 引导的定语从句，修饰 The words。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "flexibility, shareholder value, business–friendly, wealth generation, sales, impact and, in newspapers, circulation",
+          "修饰对象": "efficiency",
+          "中文翻译": "灵活性、股东价值、利商、财富创造、销售、影响力，以及（在报业中）发行量",
+          "说明": "一系列名词与 efficiency 并列，共同作表语。"
+        }
+      ],
+      "zh": "一直至关重要的那些词是：效率、灵活性、股东价值、利于经营、财富创造、销售、影响力，以及（在报业中）发行量。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2015-text4-s18",
+      "s": "Words degraded to the margin have been justice, fairness, tolerance, proportionality and accountability.",
+      "para_no": 5,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "Words",
+        "谓语": "have been",
+        "宾语或表语": "justice, fairness, tolerance, proportionality and accountability",
+        "主干翻译": "（被贬到边缘的）那些词是公正、公平、宽容、相称与问责。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "degraded to the margin",
+          "修饰对象": "Words",
+          "中文翻译": "被贬到边缘的",
+          "说明": "过去分词短语作后置定语，修饰主语 Words。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "fairness, tolerance, proportionality and accountability",
+          "修饰对象": "justice",
+          "中文翻译": "公平、宽容、相称与问责",
+          "说明": "与 justice 并列，共同作表语。"
+        }
+      ],
+      "zh": "被贬到边缘的那些词则是：公正、公平、宽容、相称与问责。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2015-text4-s19",
+      "s": "The purpose of editing the News of the World was not to promote reader understanding, to be fair in what was written or to betray any common humanity.",
+      "para_no": 6,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The purpose of editing the News of the World",
+        "谓语": "was",
+        "宾语或表语": "not to promote reader understanding, to be fair in what was written or to betray any common humanity",
+        "主干翻译": "编辑《世界新闻报》的目的并不是增进读者的理解、在所写内容上做到公正，或体现任何共同的人性。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to promote reader understanding, to be fair in what was written or to betray any common humanity",
+          "修饰对象": "was",
+          "中文翻译": "去增进读者理解、在所写内容上做到公正、或体现任何共同的人性",
+          "说明": "三个并列不定式作表语，说明 purpose 的内容（被 not 否定）。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "to be fair in what was written or to betray any common humanity",
+          "修饰对象": "promote",
+          "中文翻译": "在所写内容上做到公正，或体现任何共同的人性",
+          "说明": "与 to promote 并列的不定式。其中 what was written 为介词 in 的宾语从句。"
+        }
+      ],
+      "zh": "编辑《世界新闻报》的目的并不是为了增进读者的理解、在报道内容上做到公正，或体现任何共同的人性。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2015-text4-s20",
+      "s": "It was to ruin lives in the quest for circulation and impact.",
+      "para_no": 6,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "It",
+        "谓语": "was",
+        "宾语或表语": "to ruin lives in the quest for circulation and impact",
+        "主干翻译": "它（编辑该报的目的）是为了在追逐发行量和影响力的过程中毁掉他人的生活。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to ruin lives in the quest for circulation and impact",
+          "修饰对象": "was",
+          "中文翻译": "在追逐发行量和影响力的过程中毁掉他人生活",
+          "说明": "不定式作表语，说明 It（目的）的实质。"
+        }
+      ],
+      "zh": "其目的乃是在追逐发行量和影响力的过程中毁掉他人的生活。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2015-text4-s21",
+      "s": "Ms Brooks may or may not have had suspicions about how her journalists got their stories, but she asked no questions, gave no instructions—nor received traceable, recorded answers.",
+      "para_no": 6,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Ms Brooks",
+        "谓语": "may or may not have had / asked / gave / received",
+        "宾语或表语": "suspicions ... no questions ... no instructions ... answers",
+        "主干翻译": "布鲁克斯女士也许有也许没有过怀疑，但她没问任何问题，没下任何指示，也没收到可追溯、有记录的答复。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "may not have had suspicions about how her journalists got their stories",
+          "修饰对象": "may",
+          "中文翻译": "也许并没有过怀疑——对她手下记者如何得到报道的怀疑",
+          "说明": "与 may（have had）构成 may or may not 并列结构。其中 how... 为介词 about 的宾语从句。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "but she asked no questions, gave no instructions—nor received traceable, recorded answers.",
+          "修饰对象": "may",
+          "中文翻译": "但她没问任何问题，没下任何指示，也没收到可追溯、有记录的答复",
+          "说明": "but 引导的并列分句，与前一分句构成转折并列。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "gave no instructions—nor received traceable, recorded answers",
+          "修饰对象": "asked",
+          "中文翻译": "没下任何指示，也没收到可追溯、有记录的答复",
+          "说明": "与 asked no questions 并列；nor 后为否定倒装的并列项（received 前承前省略主语）。"
+        }
+      ],
+      "zh": "布鲁克斯女士对手下记者如何得到报道也许有过怀疑，也许没有，但她没问任何问题，没下任何指示，也没收到任何可追溯、有记录的答复。",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2015-text4-s1",
+        "en1-2015-text4-s2",
+        "en1-2015-text4-s3"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2015-text4-s4",
+        "en1-2015-text4-s5"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2015-text4-s6",
+        "en1-2015-text4-s7",
+        "en1-2015-text4-s8",
+        "en1-2015-text4-s9",
+        "en1-2015-text4-s10"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2015-text4-s11",
+        "en1-2015-text4-s12",
+        "en1-2015-text4-s13"
+      ]
+    },
+    {
+      "para_no": 5,
+      "sids": [
+        "en1-2015-text4-s14",
+        "en1-2015-text4-s15",
+        "en1-2015-text4-s16",
+        "en1-2015-text4-s17",
+        "en1-2015-text4-s18"
+      ]
+    },
+    {
+      "para_no": 6,
+      "sids": [
+        "en1-2015-text4-s19",
+        "en1-2015-text4-s20",
+        "en1-2015-text4-s21"
+      ]
+    }
+  ]
+}

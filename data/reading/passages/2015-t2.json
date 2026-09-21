@@ -1,0 +1,739 @@
+{
+  "exam": "en1",
+  "key": "2015-t2",
+  "year": 2015,
+  "text_no": 2,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2015-text2-s1",
+      "s": "Just how much does the Constitution protect your digital data?",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "the Constitution",
+        "谓语": "protect",
+        "宾语或表语": "your digital data",
+        "主干翻译": "宪法保护你的数字数据。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "Just how much",
+          "修饰对象": "protect",
+          "中文翻译": "究竟在多大程度上",
+          "说明": "由how much引导的程度状语，前置疑问，Just加强语气，构成特殊疑问句。"
+        }
+      ],
+      "zh": "宪法究竟在多大程度上保护你的数字数据？",
+      "underline": null
+    },
+    {
+      "sid": "en1-2015-text2-s2",
+      "s": "The Supreme Court will now consider whether police can search the contents of a mobile phone without a warrant if the phone is on or around a person during an arrest.",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "The Supreme Court",
+        "谓语": "will now consider",
+        "宾语或表语": "whether...（宾语从句）",
+        "主干翻译": "最高法院现将审议是否……"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "whether police can search the contents of a mobile phone without a warrant if the phone is on or around a person during an arrest",
+          "修饰对象": "consider",
+          "中文翻译": "如果手机在逮捕时位于某人身上或身边，警方是否可以在无搜查令的情况下搜查手机内容",
+          "说明": "whether引导的宾语从句，作consider的宾语。"
+        },
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "if the phone is on or around a person during an arrest",
+          "修饰对象": "search",
+          "中文翻译": "如果在逮捕过程中手机位于某人身上或身边",
+          "说明": "if引导的条件状语从句，修饰从句内的谓语search。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "on or around a person",
+          "修饰对象": "is",
+          "中文翻译": "在某人身上或身边",
+          "说明": "on与around两个介词并列作表语。"
+        }
+      ],
+      "zh": "最高法院现将审议：如果手机在逮捕时位于某人身上或身边，警方是否可以在没有搜查令的情况下搜查手机内容。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2015-text2-s3",
+      "s": "California has asked the justices to refrain from a sweeping ruling, particularly one that upsets the old assumption that authorities may search through the possessions of suspects at the time of their arrest.",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "California",
+        "谓语": "has asked",
+        "宾语或表语": "the justices to refrain from a sweeping ruling",
+        "主干翻译": "加利福尼亚州已请求大法官们不要做出宽泛的裁决。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to refrain from a sweeping ruling, particularly one that upsets the old assumption that authorities may search through the possessions of suspects at the time of their arrest",
+          "修饰对象": "asked",
+          "中文翻译": "（请求大法官）不要做出宽泛的裁决，尤其是不要做出会颠覆旧有假定的裁决",
+          "说明": "动词不定式作asked的宾语补足语，说明请求的内容。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "particularly one that upsets the old assumption that authorities may search through the possessions of suspects at the time of their arrest",
+          "修饰对象": "ruling",
+          "中文翻译": "尤其是一项会颠覆旧有假定的裁决",
+          "说明": "one为a sweeping ruling的同位语，particularly起强调作用。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that upsets the old assumption that authorities may search through the possessions of suspects at the time of their arrest",
+          "修饰对象": "one",
+          "中文翻译": "会颠覆旧有假定的（那种裁决）",
+          "说明": "that引导的定语从句，修饰先行词one，that在从句中作主语。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "that authorities may search through the possessions of suspects at the time of their arrest",
+          "修饰对象": "assumption",
+          "中文翻译": "即当局可以在逮捕嫌疑人时搜查其财物",
+          "说明": "that引导同位语从句，说明assumption的具体内容。"
+        }
+      ],
+      "zh": "加利福尼亚州已请求大法官们不要做出宽泛的裁决，尤其是不要做出会颠覆旧有假定（即当局可以在逮捕嫌疑人时搜查其财物）的裁决。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2015-text2-s4",
+      "s": "It is hard, the state argues, for judges to assess the implications of new and rapidly changing technologies.",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "It（形式主语）",
+        "谓语": "is",
+        "宾语或表语": "hard",
+        "主干翻译": "这是困难的。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "the state argues",
+          "修饰对象": "—",
+          "中文翻译": "该州辩称",
+          "说明": "插入语，插入主句之中，表明观点来源。"
+        },
+        {
+          "成分类型": "非谓语作主语",
+          "原文": "for judges to assess the implications of new and rapidly changing technologies",
+          "修饰对象": "It",
+          "中文翻译": "法官们评估新兴且快速变化的技术所带来的影响",
+          "说明": "for...to do结构作真正主语，It为形式主语；此处归入对It的补足，语义上即真主语。"
+        }
+      ],
+      "zh": "该州辩称，法官们要评估新兴且快速变化的技术所带来的影响是很困难的。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2015-text2-s5",
+      "s": "The court would be recklessly modest if it followed California's advice.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The court",
+        "谓语": "would be",
+        "宾语或表语": "recklessly modest",
+        "主干翻译": "法院将会显得草率地谦逊。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "if it followed California's advice",
+          "修饰对象": "be",
+          "中文翻译": "如果法院听从加利福尼亚州的建议",
+          "说明": "if引导的条件状语从句，与主句构成虚拟语气（would...if...followed）。"
+        }
+      ],
+      "zh": "如果法院听从加利福尼亚州的建议，那将是一种草率的谦逊。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2015-text2-s6",
+      "s": "Enough of the implications are discernable, even obvious, so that the justices can and should provide updated guidelines to police, lawyers and defendants.",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Enough of the implications",
+        "谓语": "are",
+        "宾语或表语": "discernable, even obvious",
+        "主干翻译": "足够多的影响是可以看出的，甚至是显而易见的。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(结果)",
+          "原文": "so that the justices can and should provide updated guidelines to police, lawyers and defendants",
+          "修饰对象": "are",
+          "中文翻译": "以至于大法官们能够而且应该向警方、律师和被告提供更新的指导原则",
+          "说明": "so that引导结果状语从句。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "police, lawyers and defendants",
+          "修饰对象": "provide",
+          "中文翻译": "警方、律师和被告",
+          "说明": "三个名词并列，作介词to的宾语。"
+        }
+      ],
+      "zh": "足够多的影响是可以看出的，甚至是显而易见的，因此大法官们能够而且应该向警方、律师和被告提供更新的指导原则。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2015-text2-s7",
+      "s": "They should start by discarding California's lame argument that exploring the contents of a smartphone—a vast storehouse of digital information—is similar to, say, going through a suspect's purse.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "They",
+        "谓语": "should start",
+        "宾语或表语": "by discarding California's lame argument",
+        "主干翻译": "他们应当从摒弃加利福尼亚州站不住脚的论点开始。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "a vast storehouse of digital information",
+          "修饰对象": "smartphone",
+          "中文翻译": "一个庞大的数字信息仓库",
+          "说明": "破折号之间的同位语，对smartphone作补充说明，插入句中。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "that exploring the contents of a smartphone—a vast storehouse of digital information—is similar to, say, going through a suspect's purse",
+          "修饰对象": "argument",
+          "中文翻译": "即查看智能手机的内容就类似于比如说翻查嫌疑人的钱包",
+          "说明": "that引导的同位语从句，说明argument的具体内容；say为插入语表举例。"
+        }
+      ],
+      "zh": "他们应当首先摒弃加利福尼亚州那个站不住脚的论点：即查看智能手机——一个庞大的数字信息仓库——的内容，就类似于比如说翻查嫌疑人的钱包。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2015-text2-s8",
+      "s": "The court has ruled that police don't violate the Fourth Amendment when they go through the wallet or pocketbook of an arrestee without a warrant.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "The court",
+        "谓语": "has ruled",
+        "宾语或表语": "that...（宾语从句）",
+        "主干翻译": "法院已裁定……"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "that police don't violate the Fourth Amendment when they go through the wallet or pocketbook of an arrestee without a warrant",
+          "修饰对象": "ruled",
+          "中文翻译": "警方在无搜查令的情况下翻查被捕者的钱包或皮夹时并未违反第四修正案",
+          "说明": "that引导的宾语从句，作ruled的宾语。"
+        },
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "when they go through the wallet or pocketbook of an arrestee without a warrant",
+          "修饰对象": "violate",
+          "中文翻译": "当他们在无搜查令的情况下翻查被捕者的钱包或皮夹时",
+          "说明": "when引导时间状语从句，修饰从句内谓语violate。"
+        }
+      ],
+      "zh": "法院已裁定：警方在无搜查令的情况下翻查被捕者的钱包或皮夹时，并未违反第四修正案。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2015-text2-s9",
+      "s": "But exploring one's smartphone is more like entering his or her home.",
+      "para_no": 4,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "exploring one's smartphone",
+        "谓语": "is",
+        "宾语或表语": "more like entering his or her home",
+        "主干翻译": "查看某人的智能手机更像是进入他或她的家。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作主语",
+          "原文": "exploring one's smartphone",
+          "修饰对象": "—",
+          "中文翻译": "查看某人的智能手机",
+          "说明": "动名词短语作主句主语。"
+        }
+      ],
+      "zh": "但查看某人的智能手机更像是进入他或她的家。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2015-text2-s10",
+      "s": "A smartphone may contain an arrestee's reading history, financial history, medical history and comprehensive records of recent correspondence.",
+      "para_no": 4,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "A smartphone",
+        "谓语": "may contain",
+        "宾语或表语": "an arrestee's reading history, financial history, medical history and comprehensive records of recent correspondence",
+        "主干翻译": "一部智能手机可能包含被捕者的阅读记录、财务记录、医疗记录以及近期通信的全面记录。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "reading history, financial history, medical history and comprehensive records of recent correspondence",
+          "修饰对象": "contain",
+          "中文翻译": "阅读记录、财务记录、医疗记录以及近期通信的全面记录",
+          "说明": "四个名词性成分并列作contain的宾语。"
+        }
+      ],
+      "zh": "一部智能手机可能包含被捕者的阅读记录、财务记录、医疗记录以及近期通信的全面记录。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2015-text2-s11",
+      "s": "The development of \"cloud computing,\" meanwhile, has made that exploration so much the easier.",
+      "para_no": 4,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "The development of \"cloud computing,\"",
+        "谓语": "has made",
+        "宾语或表语": "that exploration so much the easier",
+        "主干翻译": "\"云计算\"的发展让那种探索变得容易了许多。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作宾语补足语",
+          "原文": "so much the easier",
+          "修饰对象": "made",
+          "中文翻译": "容易了许多",
+          "说明": "形容词比较级短语作made的宾语补足语（make sth easier）。"
+        }
+      ],
+      "zh": "与此同时，\"云计算\"的发展使得这种探索变得容易了许多。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2015-text2-s12",
+      "s": "Americans should take steps to protect their digital privacy.",
+      "para_no": 5,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Americans",
+        "谓语": "should take",
+        "宾语或表语": "steps",
+        "主干翻译": "美国人应当采取措施。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to protect their digital privacy",
+          "修饰对象": "take",
+          "中文翻译": "以保护他们的数字隐私",
+          "说明": "动词不定式作目的状语，修饰take（亦可视作修饰steps的定语）。"
+        }
+      ],
+      "zh": "美国人应当采取措施来保护自己的数字隐私。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2015-text2-s13",
+      "s": "But keeping sensitive information on these devices is increasingly a requirement of normal life.",
+      "para_no": 5,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "keeping sensitive information on these devices",
+        "谓语": "is",
+        "宾语或表语": "increasingly a requirement of normal life",
+        "主干翻译": "把敏感信息保存在这些设备上日益成为正常生活的一项必需。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作主语",
+          "原文": "keeping sensitive information on these devices",
+          "修饰对象": "—",
+          "中文翻译": "把敏感信息保存在这些设备上",
+          "说明": "动名词短语作主句主语。"
+        }
+      ],
+      "zh": "但把敏感信息保存在这些设备上日益成为正常生活的一项必需。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2015-text2-s14",
+      "s": "Citizens still have a right to expect private documents to remain private and protected by the Constitution's prohibition on unreasonable searches.",
+      "para_no": 5,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Citizens",
+        "谓语": "still have",
+        "宾语或表语": "a right",
+        "主干翻译": "公民仍然拥有一项权利。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to expect private documents to remain private and protected by the Constitution's prohibition on unreasonable searches",
+          "修饰对象": "right",
+          "中文翻译": "期待私人文件保持私密并受宪法关于禁止不合理搜查之规定保护的（权利）",
+          "说明": "动词不定式作后置定语，修饰right。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "private documents to remain private and protected by the Constitution's prohibition on unreasonable searches",
+          "修饰对象": "expect",
+          "中文翻译": "私人文件保持私密并受宪法关于禁止不合理搜查之规定的保护",
+          "说明": "expect后的复合宾语结构（宾语+不定式补足语），作expect的宾语内容。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "private and protected by the Constitution's prohibition on unreasonable searches",
+          "修饰对象": "remain",
+          "中文翻译": "私密的并受宪法关于禁止不合理搜查之规定保护的",
+          "说明": "private与protected两个表语并列，作remain的表语。"
+        }
+      ],
+      "zh": "公民仍有权期待私人文件保持私密，并受宪法关于禁止不合理搜查之规定的保护。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2015-text2-s15",
+      "s": "As so often is the case, stating that principle doesn't ease the challenge of line-drawing.",
+      "para_no": 6,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "stating that principle",
+        "谓语": "doesn't ease",
+        "宾语或表语": "the challenge of line-drawing",
+        "主干翻译": "陈述那条原则并不能减轻划界的难题。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(方式)",
+          "原文": "As so often is the case",
+          "修饰对象": "ease",
+          "中文翻译": "正如经常出现的情况那样",
+          "说明": "As引导方式状语从句（含倒装is the case），表示“正如……一样”。"
+        },
+        {
+          "成分类型": "非谓语作主语",
+          "原文": "stating that principle",
+          "修饰对象": "—",
+          "中文翻译": "陈述那条原则",
+          "说明": "动名词短语作主句主语。"
+        }
+      ],
+      "zh": "正如常常出现的情况那样，陈述那条原则并不能减轻划定界限的难题。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2015-text2-s16",
+      "s": "In many cases, it would not be overly burdensome for authorities to obtain a warrant to search through phone contents.",
+      "para_no": 6,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "It（形式主语）",
+        "谓语": "would not be",
+        "宾语或表语": "overly burdensome",
+        "主干翻译": "这不会过于繁重。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "In many cases",
+          "修饰对象": "be",
+          "中文翻译": "在许多情况下",
+          "说明": "介词短语作句首状语。"
+        },
+        {
+          "成分类型": "非谓语作主语",
+          "原文": "for authorities to obtain a warrant to search through phone contents",
+          "修饰对象": "It",
+          "中文翻译": "当局获取一张搜查令以查看手机内容",
+          "说明": "for...to do结构作真正主语，It为形式主语。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to search through phone contents",
+          "修饰对象": "warrant",
+          "中文翻译": "以查看手机内容",
+          "说明": "动词不定式表目的，修饰obtain a warrant（亦可视作warrant的定语）。"
+        }
+      ],
+      "zh": "在许多情况下，当局要获得一张搜查令以查看手机内容并不会过于繁重。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2015-text2-s17",
+      "s": "They could still invalidate Fourth Amendment protections when facing severe, urgent circumstances, and they could take reasonable measures to ensure that phone data are not erased or altered while waiting for a warrant.",
+      "para_no": 6,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "They",
+        "谓语": "could invalidate",
+        "宾语或表语": "Fourth Amendment protections",
+        "主干翻译": "他们仍然可以使第四修正案的保护无效。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "when facing severe, urgent circumstances",
+          "修饰对象": "invalidate",
+          "中文翻译": "当面临严峻、紧急的情况时",
+          "说明": "when引导的时间状语从句的省略形式（when they are facing），修饰invalidate。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "they could take reasonable measures to ensure that phone data are not erased or altered while waiting for a warrant",
+          "修饰对象": "invalidate",
+          "中文翻译": "他们可以采取合理措施确保手机数据在等待搜查令期间不被删除或篡改",
+          "说明": "and连接的并列分句，与前一分句并列。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "to ensure that phone data are not erased or altered while waiting for a warrant",
+          "修饰对象": "measures",
+          "中文翻译": "确保手机数据在等待搜查令期间不被删除或篡改的（措施）",
+          "说明": "动词不定式作后置定语，修饰measures（表目的）。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that phone data are not erased or altered while waiting for a warrant",
+          "修饰对象": "ensure",
+          "中文翻译": "手机数据在等待搜查令期间不被删除或篡改",
+          "说明": "that引导的宾语从句，作ensure的宾语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "erased or altered while waiting for a warrant",
+          "修饰对象": "are",
+          "中文翻译": "被删除或篡改",
+          "说明": "erased与altered两个过去分词并列，构成被动谓语。"
+        },
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "while waiting for a warrant",
+          "修饰对象": "altered",
+          "中文翻译": "在等待搜查令期间",
+          "说明": "while引导的时间状语从句省略形式（while they are waiting），表期间。"
+        }
+      ],
+      "zh": "在面临严峻、紧急的情况时，他们仍可使第四修正案的保护失效；他们也可以采取合理措施，确保手机数据在等待搜查令期间不被删除或篡改。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2015-text2-s18",
+      "s": "The court, though, may want to allow room for police to cite situations where they are entitled to more freedom.",
+      "para_no": 6,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "The court",
+        "谓语": "may want",
+        "宾语或表语": "to allow room for police to cite situations",
+        "主干翻译": "不过，法院可能想要给警方留出空间来援引某些情形。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "though",
+          "修饰对象": "—",
+          "中文翻译": "不过",
+          "说明": "though作插入语，表转折。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to allow room for police to cite situations where they are entitled to more freedom",
+          "修饰对象": "want",
+          "中文翻译": "给警方留出空间来援引他们有权享有更多自由的情形",
+          "说明": "动词不定式作want的宾语。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "for police to cite situations where they are entitled to more freedom",
+          "修饰对象": "room",
+          "中文翻译": "供警方援引他们有权享有更多自由的情形的（空间）",
+          "说明": "for police to cite...结构作room的后置定语。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "where they are entitled to more freedom",
+          "修饰对象": "situations",
+          "中文翻译": "在其中他们有权享有更多自由的（情形）",
+          "说明": "where引导的定语从句，修饰situations，where作关系副词。"
+        }
+      ],
+      "zh": "不过，法院或许想要给警方留出空间，让其能够援引那些他们有权享有更多自由的情形。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2015-text2-s19",
+      "s": "But the justices should not swallow California's argument whole.",
+      "para_no": 7,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "the justices",
+        "谓语": "should not swallow",
+        "宾语或表语": "California's argument",
+        "主干翻译": "大法官们不应全盘接受加利福尼亚州的论点。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "whole",
+          "修饰对象": "swallow",
+          "中文翻译": "整个地、全盘地",
+          "说明": "whole作主语补足语/方式状语，表示“全盘地”接受。"
+        }
+      ],
+      "zh": "但大法官们不应全盘接受加利福尼亚州的论点。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2015-text2-s20",
+      "s": "New, disruptive technology sometimes demands novel applications of the Constitution's protections.",
+      "para_no": 7,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "New, disruptive technology",
+        "谓语": "demands",
+        "宾语或表语": "novel applications of the Constitution's protections",
+        "主干翻译": "新的、颠覆性的技术要求对宪法保护作出新的运用。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "sometimes",
+          "修饰对象": "demands",
+          "中文翻译": "有时",
+          "说明": "频率副词作状语，修饰demands。"
+        }
+      ],
+      "zh": "新的、颠覆性的技术有时要求对宪法的保护作出新的运用。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2015-text2-s21",
+      "s": "Orin Kerr, a law professor, compares the explosion and accessibility of digital information in the 21st century with the establishment of automobile use as a virtual necessity of life in the 20th: The justices had to specify novel rules for the new personal domain of the passenger car then; they must sort out how the Fourth Amendment applies to digital information now.",
+      "para_no": 7,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Orin Kerr",
+        "谓语": "compares",
+        "宾语或表语": "the explosion and accessibility of digital information in the 21st century with the establishment of automobile use as a virtual necessity of life in the 20th",
+        "主干翻译": "奥林·克尔把21世纪数字信息的爆炸式增长与可获取性，同20世纪汽车使用确立为一种实际生活必需相比较。"
+      },
+      "components": [
+        {
+          "成分类型": "同位语从句",
+          "原文": "a law professor",
+          "修饰对象": "Kerr",
+          "中文翻译": "一位法学教授",
+          "说明": "名词短语作Orin Kerr的同位语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "the explosion and accessibility of digital information",
+          "修饰对象": "compares",
+          "中文翻译": "数字信息的爆炸式增长与可获取性",
+          "说明": "explosion与accessibility两个名词并列，作compares的宾语。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "with the establishment of automobile use as a virtual necessity of life in the 20th",
+          "修饰对象": "compares",
+          "中文翻译": "同20世纪汽车使用确立为一种实际生活必需（相比较）",
+          "说明": "compare A with B结构中的with短语，表比较对象。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "they must sort out how the Fourth Amendment applies to digital information now",
+          "修饰对象": "—",
+          "中文翻译": "如今他们必须厘清第四修正案如何适用于数字信息",
+          "说明": "冒号后两个分句以分号并列，构成对比（then/now）。此处与前一分句构成并列结构。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to specify novel rules for the new personal domain of the passenger car",
+          "修饰对象": "had",
+          "中文翻译": "为乘用车这一新的私人领域制定新规则",
+          "说明": "动词不定式作had to的实义动词补足，构成had to specify。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "how the Fourth Amendment applies to digital information now",
+          "修饰对象": "sort out",
+          "中文翻译": "第四修正案如今如何适用于数字信息",
+          "说明": "how引导的宾语从句，作sort out的宾语。"
+        }
+      ],
+      "zh": "法学教授奥林·克尔把21世纪数字信息的爆炸式增长与可获取性，比作20世纪将汽车使用确立为一种实际生活必需：当年大法官们必须为乘用车这一新的私人领域制定新规则；如今他们则必须厘清第四修正案如何适用于数字信息。",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2015-text2-s1",
+        "en1-2015-text2-s2"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2015-text2-s3",
+        "en1-2015-text2-s4"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2015-text2-s5",
+        "en1-2015-text2-s6"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2015-text2-s7",
+        "en1-2015-text2-s8",
+        "en1-2015-text2-s9",
+        "en1-2015-text2-s10",
+        "en1-2015-text2-s11"
+      ]
+    },
+    {
+      "para_no": 5,
+      "sids": [
+        "en1-2015-text2-s12",
+        "en1-2015-text2-s13",
+        "en1-2015-text2-s14"
+      ]
+    },
+    {
+      "para_no": 6,
+      "sids": [
+        "en1-2015-text2-s15",
+        "en1-2015-text2-s16",
+        "en1-2015-text2-s17",
+        "en1-2015-text2-s18"
+      ]
+    },
+    {
+      "para_no": 7,
+      "sids": [
+        "en1-2015-text2-s19",
+        "en1-2015-text2-s20",
+        "en1-2015-text2-s21"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,708 @@
+{
+  "exam": "en1",
+  "key": "2018-t4",
+  "year": 2018,
+  "text_no": 4,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2018-text4-s1",
+      "s": "The U.S. Postal Service (USPS) continues to bleed red ink.",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The U.S. Postal Service",
+        "谓语": "continues to bleed",
+        "宾语或表语": "red ink",
+        "主干翻译": "美国邮政署持续亏损。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "(USPS)",
+          "修饰对象": "Service",
+          "中文翻译": "（美国邮政署）",
+          "说明": "对The U.S. Postal Service的缩写形式的同位说明，以括号插入。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to bleed red ink",
+          "修饰对象": "continues",
+          "中文翻译": "亏损（流出红墨水，即财务赤字）",
+          "说明": "动词不定式作continues的补足成分，bleed red ink为习语，指持续亏损。"
+        }
+      ],
+      "zh": "美国邮政署（USPS）持续亏损。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2018-text4-s2",
+      "s": "It reported a net loss of $5.6 billion for fiscal 2016, the 10th straight year its expenses have exceeded revenue.",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "It",
+        "谓语": "reported",
+        "宾语或表语": "a net loss of $5.6 billion",
+        "主干翻译": "它报告了56亿美元的净亏损。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "for fiscal 2016",
+          "修饰对象": "reported",
+          "中文翻译": "在2016财年",
+          "说明": "介词短语作时间状语，限定亏损发生的财年。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "the 10th straight year its expenses have exceeded revenue",
+          "修饰对象": "2016",
+          "中文翻译": "这是其支出连续第10年超过收入",
+          "说明": "名词短语the 10th straight year...作为对fiscal 2016的同位说明，整体补充解释这一财年的意义。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "its expenses have exceeded revenue",
+          "修饰对象": "year",
+          "中文翻译": "其支出超过收入（的那一年）",
+          "说明": "省略引导词的定语从句，修饰先行词year，说明这是支出超过收入的连续第10年。"
+        }
+      ],
+      "zh": "它报告2016财年净亏损56亿美元，这是其支出连续第10年超过收入。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2018-text4-s3",
+      "s": "Meanwhile, it has more than $120 billion in unfunded liabilities, mostly for employee health and retirement costs.",
+      "para_no": 1,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "it",
+        "谓语": "has",
+        "宾语或表语": "more than $120 billion in unfunded liabilities",
+        "主干翻译": "它有超过1200亿美元的无资金保障债务。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "Meanwhile",
+          "修饰对象": "has",
+          "中文翻译": "与此同时",
+          "说明": "副词作句首状语，表示同时性，承接上文。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "mostly for employee health and retirement costs",
+          "修饰对象": "liabilities",
+          "中文翻译": "主要用于员工医疗和退休成本",
+          "说明": "介词短语作后置补充说明，解释这些无资金保障债务的主要去向。"
+        }
+      ],
+      "zh": "与此同时，它还有超过1200亿美元的无资金保障债务，主要用于员工医疗和退休成本。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2018-text4-s4",
+      "s": "There are many reasons this formerly stable federal institution finds itself at the brink of bankruptcy.",
+      "para_no": 1,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "There",
+        "谓语": "are",
+        "宾语或表语": "many reasons",
+        "主干翻译": "有许多原因。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "this formerly stable federal institution finds itself at the brink of bankruptcy",
+          "修饰对象": "reasons",
+          "中文翻译": "这个曾经稳定的联邦机构发现自己濒临破产",
+          "说明": "省略引导词why的定语从句，修饰先行词reasons，说明导致破产的诸多原因所对应的结果。"
+        }
+      ],
+      "zh": "这个曾经稳定的联邦机构如今发现自己濒临破产，原因有很多。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2018-text4-s5",
+      "s": "Fundamentally, the USPS is in a historic squeeze between technological change that has permanently decreased demand for its bread-and-butter product, first-class mail, and a regulatory structure that denies management the flexibility to adjust its operations to the new reality.",
+      "para_no": 1,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "the USPS",
+        "谓语": "is",
+        "宾语或表语": "in a historic squeeze",
+        "主干翻译": "美国邮政局正处于一种历史性的挤压之中。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "Fundamentally",
+          "修饰对象": "is in a historic squeeze",
+          "中文翻译": "从根本上说",
+          "说明": "副词作状语，修饰全句。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that has permanently decreased demand for its bread-and-butter product",
+          "修饰对象": "change",
+          "中文翻译": "它永久性地降低了对其主打产品的需求",
+          "说明": "由 that 引导的定语从句，修饰 technological change。"
+        },
+        {
+          "成分类型": "同位语",
+          "原文": "first-class mail",
+          "修饰对象": "its bread-and-butter product",
+          "中文翻译": "即一类邮件",
+          "说明": "作 its bread-and-butter product 的同位语，进一步说明主打产品是什么。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "and a regulatory structure",
+          "修饰对象": "technological change",
+          "中文翻译": "以及一种监管结构",
+          "说明": "and 连接的并列成分，与 technological change 同为 between 的两个对象，构成 between A and B。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that denies management the flexibility",
+          "修饰对象": "structure",
+          "中文翻译": "它使管理层无法获得灵活性",
+          "说明": "由 that 引导的定语从句，修饰 a regulatory structure。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to adjust its operations to the new reality",
+          "修饰对象": "flexibility",
+          "中文翻译": "去根据新现实调整其运营的（灵活性）",
+          "说明": "动词不定式作后置定语，修饰 the flexibility。"
+        }
+      ],
+      "zh": "从根本上说，美国邮政局正处于一种历史性的挤压之中：一边是永久性地降低了对其主打产品（即一类邮件）需求的技术变革，另一边是使管理层无法灵活地根据新现实调整运营的监管结构。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2018-text4-s6",
+      "s": "And interest groups ranging from postal unions to greeting-card makers exert self-interested pressure on the USPS's ultimate overseer—Congress—insisting that whatever else happens to the Postal Service, aspects of the status quo they depend on get protected.",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "interest groups",
+        "谓语": "exert",
+        "宾语或表语": "self-interested pressure",
+        "主干翻译": "利益集团施加出于自身利益的压力。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "ranging from postal unions to greeting-card makers",
+          "修饰对象": "groups",
+          "中文翻译": "从邮政工会到贺卡制造商不等",
+          "说明": "现在分词短语作后置定语，修饰interest groups，列举这些利益集团的范围。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "on the USPS's ultimate overseer",
+          "修饰对象": "exert",
+          "中文翻译": "对美国邮政署的最终监管者",
+          "说明": "介词短语作状语，指明压力施加的对象。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "Congress",
+          "修饰对象": "overseer",
+          "中文翻译": "即国会",
+          "说明": "破折号引出的同位语，指明最终监管者就是国会。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "insisting that whatever else happens to the Postal Service, aspects of the status quo they depend on get protected",
+          "修饰对象": "exert",
+          "中文翻译": "坚持要求……",
+          "说明": "现在分词短语作伴随状语，说明施压时所附带的诉求。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that whatever else happens to the Postal Service, aspects of the status quo they depend on get protected",
+          "修饰对象": "insisting",
+          "中文翻译": "无论邮政署还发生什么，他们所依赖的现状方面都要得到保护",
+          "说明": "that引导的宾语从句，作insisting的宾语，表达其坚持的内容。"
+        },
+        {
+          "成分类型": "状语从句(让步)",
+          "原文": "whatever else happens to the Postal Service",
+          "修饰对象": "protected",
+          "中文翻译": "无论邮政署还发生什么",
+          "说明": "whatever引导的让步状语从句，修饰主句get protected，表示在任何情况下。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "they depend on",
+          "修饰对象": "quo",
+          "中文翻译": "他们所依赖的（现状）",
+          "说明": "省略引导词的定语从句，修饰the status quo，说明是他们赖以为生的现状。"
+        }
+      ],
+      "zh": "而从邮政工会到贺卡制造商等各种利益集团，都在对美国邮政署的最终监管者——国会——施加出于私利的压力，坚持要求无论邮政署还发生什么，他们所依赖的那些现状都必须得到保护。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2018-text4-s7",
+      "s": "This is why repeated attempts at reform legislation have failed in recent years, leaving the Postal Service unable to pay its bills except by deferring vital modernization.",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "This",
+        "谓语": "is",
+        "宾语或表语": "why repeated attempts ... have failed",
+        "主干翻译": "这就是……失败的原因。"
+      },
+      "components": [
+        {
+          "成分类型": "表语从句",
+          "原文": "why repeated attempts at reform legislation have failed in recent years, leaving the Postal Service unable to pay its bills except by deferring vital modernization",
+          "修饰对象": "is",
+          "中文翻译": "为什么近年来改革立法的多次尝试都失败了……",
+          "说明": "why引导的表语从句，作is的表语，解释This所指的原因。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "at reform legislation",
+          "修饰对象": "attempts",
+          "中文翻译": "针对改革立法的（尝试）",
+          "说明": "介词短语作定语修饰attempts，指明尝试的对象。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "leaving the Postal Service unable to pay its bills except by deferring vital modernization",
+          "修饰对象": "failed",
+          "中文翻译": "使邮政署除了推迟至关重要的现代化外无力支付账单",
+          "说明": "现在分词短语作结果状语，说明立法失败所导致的后果。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to pay its bills except by deferring vital modernization",
+          "修饰对象": "unable",
+          "中文翻译": "（无力）支付其账单，除非推迟至关重要的现代化",
+          "说明": "动词不定式作unable的补足成分，说明无力做的事；except by短语补充唯一办法。"
+        }
+      ],
+      "zh": "这就是近年来改革立法的多次尝试均告失败的原因，结果使邮政署除了推迟至关重要的现代化之外无力支付账单。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2018-text4-s8",
+      "s": "Now comes word that everyone involved—Democrats, Republicans, the Postal Service, the unions and the system's heaviest users—has finally agreed on a plan to fix the system.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "word",
+        "谓语": "comes",
+        "宾语或表语": "—",
+        "主干翻译": "消息传来了。"
+      },
+      "components": [
+        {
+          "成分类型": "倒装",
+          "原文": "Now comes word",
+          "修饰对象": "—",
+          "中文翻译": "如今传来消息",
+          "说明": "以Now引导的完全倒装结构，谓语comes提至主语word之前。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "that everyone involved—Democrats, Republicans, the Postal Service, the unions and the system's heaviest users—has finally agreed on a plan to fix the system",
+          "修饰对象": "word",
+          "中文翻译": "即所有相关方……终于就一项修复该系统的方案达成一致",
+          "说明": "that引导的同位语从句，解释word（消息）的具体内容。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "Democrats, Republicans, the Postal Service, the unions and the system's heaviest users",
+          "修饰对象": "everyone",
+          "中文翻译": "民主党、共和党、邮政署、工会以及该系统最大的用户",
+          "说明": "破折号之间的同位语，列举everyone involved所包含的各方。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "Democrats, Republicans, the Postal Service, the unions and the system's heaviest users",
+          "修饰对象": "everyone",
+          "中文翻译": "民主党、共和党、邮政署、工会及最大用户",
+          "说明": "由逗号和and连接的并列名词结构，共同充当everyone的同位列举。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to fix the system",
+          "修饰对象": "plan",
+          "中文翻译": "修复该系统的（方案）",
+          "说明": "动词不定式作后置定语，修饰a plan，说明方案的目的。"
+        }
+      ],
+      "zh": "如今传来消息：所有相关方——民主党、共和党、邮政署、工会以及该系统最大的用户——终于就一项修复该系统的方案达成了一致。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2018-text4-s9",
+      "s": "Legislation is moving through the House that would save USPS an estimated $28.6 billion over five years, which could help pay for new vehicles, among other survival measures.",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Legislation",
+        "谓语": "is moving",
+        "宾语或表语": "through the House",
+        "主干翻译": "一项立法正在国会众议院推进。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "that would save USPS an estimated $28.6 billion over five years, which could help pay for new vehicles, among other survival measures",
+          "修饰对象": "Legislation",
+          "中文翻译": "该立法将在五年内为邮政署节省约286亿美元……",
+          "说明": "that引导的定语从句修饰Legislation（因主语后被分隔故后置），说明立法的作用。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "which could help pay for new vehicles, among other survival measures",
+          "修饰对象": "billion",
+          "中文翻译": "这笔钱可以帮助支付新车辆等（作为其他生存措施之一）",
+          "说明": "which引导的非限制性定语从句，修饰前面的$28.6 billion（这笔节省的资金）。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "pay for new vehicles, among other survival measures",
+          "修饰对象": "help",
+          "中文翻译": "支付新车辆（在其他生存措施之中）",
+          "说明": "动词原形作help的补足成分（help后省略to），说明资金的用途。"
+        }
+      ],
+      "zh": "一项立法正在众议院推进，它将在五年内为邮政署节省约286亿美元，这笔钱连同其他生存措施可帮助支付新车辆等开支。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2018-text4-s10",
+      "s": "Most of the money would come from a penny-per-letter permanent rate increase and from shifting postal retirees into Medicare.",
+      "para_no": 3,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Most of the money",
+        "谓语": "would come",
+        "宾语或表语": "from a penny-per-letter permanent rate increase",
+        "主干翻译": "这笔钱的大部分将来自每封信加价一美分的永久性资费上调。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "from shifting postal retirees into Medicare",
+          "修饰对象": "from",
+          "中文翻译": "以及把邮政退休人员转入联邦医疗保险",
+          "说明": "由and连接的第二个from介词短语，与前一个from并列，构成资金的第二个来源。"
+        }
+      ],
+      "zh": "这笔钱的大部分将来自每封信永久加价一美分的资费上调，以及将邮政退休人员转入联邦医疗保险。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2018-text4-s11",
+      "s": "The latter step would largely offset the financial burden of annually pre-funding retiree health care, thus addressing a long-standing complaint by the USPS and its unions.",
+      "para_no": 3,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "The latter step",
+        "谓语": "would offset",
+        "宾语或表语": "the financial burden",
+        "主干翻译": "后一项措施将在很大程度上抵消财务负担。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "of annually pre-funding retiree health care",
+          "修饰对象": "burden",
+          "中文翻译": "每年为退休人员医疗保健预先筹资的（负担）",
+          "说明": "of介词短语作定语修饰burden，说明该财务负担的来源。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "thus addressing a long-standing complaint by the USPS and its unions",
+          "修饰对象": "offset",
+          "中文翻译": "从而解决邮政署及其工会长期以来的一项抱怨",
+          "说明": "现在分词短语作结果状语，说明抵消负担带来的进一步效果。"
+        }
+      ],
+      "zh": "后一项措施将在很大程度上抵消每年为退休人员医疗保健预先筹资所带来的财务负担，从而解决邮政署及其工会长期以来的一项抱怨。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2018-text4-s12",
+      "s": "If it clears the House, this measure would still have to get through the Senate—where someone is bound to point out that it amounts to the bare, bare minimum necessary to keep the Postal Service afloat, not comprehensive reform.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "this measure",
+        "谓语": "would have to get",
+        "宾语或表语": "through the Senate",
+        "主干翻译": "这项措施仍须通过参议院。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "If it clears the House",
+          "修饰对象": "have",
+          "中文翻译": "如果它在众议院获得通过",
+          "说明": "If引导的条件状语从句，修饰主句谓语，表示后续动作的前提条件。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to get through the Senate—where someone is bound to point out that it amounts to the bare, bare minimum necessary to keep the Postal Service afloat, not comprehensive reform",
+          "修饰对象": "have",
+          "中文翻译": "（仍须）通过参议院……",
+          "说明": "动词不定式作would have to的补足成分，构成谓语核心。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "where someone is bound to point out that it amounts to the bare, bare minimum necessary to keep the Postal Service afloat, not comprehensive reform",
+          "修饰对象": "Senate",
+          "中文翻译": "在那里肯定会有人指出……",
+          "说明": "where引导的非限制性定语从句，修饰the Senate，说明在参议院会发生的情况。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to point out that it amounts to the bare, bare minimum necessary to keep the Postal Service afloat, not comprehensive reform",
+          "修饰对象": "bound",
+          "中文翻译": "（注定要）指出……",
+          "说明": "动词不定式作is bound的补足成分，说明注定要做的事。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that it amounts to the bare, bare minimum necessary to keep the Postal Service afloat, not comprehensive reform",
+          "修饰对象": "point",
+          "中文翻译": "它只相当于维持邮政署不致破产所需的最低限度，而非全面改革",
+          "说明": "that引导的宾语从句，作point out的宾语，表达所指出的内容。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to keep the Postal Service afloat",
+          "修饰对象": "necessary",
+          "中文翻译": "维持邮政署不致沉没（破产）所必需的",
+          "说明": "动词不定式作necessary的状语/补足，说明这一最低限度所要达成的目标。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "not comprehensive reform",
+          "修饰对象": "minimum",
+          "中文翻译": "而非全面改革",
+          "说明": "对the bare minimum的补充对照说明，强调这只是最低限度而非全面改革。"
+        }
+      ],
+      "zh": "如果这项措施在众议院获得通过，它仍须通过参议院——在那里肯定会有人指出，它只相当于维持邮政署不致破产所需的最最低限度，而非全面改革。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2018-text4-s13",
+      "s": "There's no change to collective bargaining at the USPS, a major omission considering that personnel accounts for 80 percent of the agency's costs.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "There",
+        "谓语": "'s",
+        "宾语或表语": "no change to collective bargaining",
+        "主干翻译": "对集体谈判没有任何改变。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "a major omission considering that personnel accounts for 80 percent of the agency's costs",
+          "修饰对象": "change",
+          "中文翻译": "鉴于人员开支占该机构成本的80%，这是一个重大遗漏",
+          "说明": "名词短语作同位语，对前面no change这一情况作评价性补充说明。"
+        },
+        {
+          "成分类型": "状语从句(原因)",
+          "原文": "considering that personnel accounts for 80 percent of the agency's costs",
+          "修饰对象": "omission",
+          "中文翻译": "考虑到人员开支占该机构成本的80%",
+          "说明": "considering that引导的状语，表原因，说明何以称之为重大遗漏。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that personnel accounts for 80 percent of the agency's costs",
+          "修饰对象": "considering",
+          "中文翻译": "人员开支占该机构成本的80%",
+          "说明": "that引导的宾语从句，作considering的宾语，陈述所考虑的事实。"
+        }
+      ],
+      "zh": "对邮政署的集体谈判没有任何改变；考虑到人员开支占该机构成本的80%，这是一个重大遗漏。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2018-text4-s14",
+      "s": "Also missing is any discussion of eliminating Saturday letter delivery.",
+      "para_no": 4,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "any discussion of eliminating Saturday letter delivery",
+        "谓语": "is",
+        "宾语或表语": "Also missing",
+        "主干翻译": "同样缺失的是关于取消周六信件投递的任何讨论。"
+      },
+      "components": [
+        {
+          "成分类型": "倒装",
+          "原文": "Also missing is any discussion of eliminating Saturday letter delivery",
+          "修饰对象": "—",
+          "中文翻译": "同样缺失的是……任何讨论",
+          "说明": "表语Also missing前置构成完全倒装，真正主语为any discussion。"
+        },
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "of eliminating Saturday letter delivery",
+          "修饰对象": "discussion",
+          "中文翻译": "关于取消周六信件投递的（讨论）",
+          "说明": "of介词短语作定语修饰discussion，说明讨论的内容。"
+        }
+      ],
+      "zh": "同样缺失的是关于取消周六信件投递的任何讨论。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2018-text4-s15",
+      "s": "That common-sense change enjoys wide public support and would save the USPS $2 billion per year.",
+      "para_no": 4,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "That common-sense change",
+        "谓语": "enjoys",
+        "宾语或表语": "wide public support",
+        "主干翻译": "这一合乎常理的改变享有广泛的公众支持。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "would save the USPS $2 billion per year",
+          "修饰对象": "enjoys",
+          "中文翻译": "并将每年为邮政署节省20亿美元",
+          "说明": "由and连接的第二个谓语，与enjoys并列，共享同一主语。"
+        }
+      ],
+      "zh": "这一合乎常理的改变享有广泛的公众支持，并且每年能为邮政署节省20亿美元。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2018-text4-s16",
+      "s": "But postal special-interest groups seem to have killed it, at least in the House.",
+      "para_no": 4,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "postal special-interest groups",
+        "谓语": "seem to have killed",
+        "宾语或表语": "it",
+        "主干翻译": "邮政特殊利益集团似乎已经扼杀了它。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to have killed it, at least in the House",
+          "修饰对象": "seem",
+          "中文翻译": "（似乎）已经扼杀了它，至少在众议院是如此",
+          "说明": "动词不定式完成式作seem的补足成分，构成系表后的核心，at least in the House为限定状语。"
+        }
+      ],
+      "zh": "但邮政界的特殊利益集团似乎已经扼杀了这一改变，至少在众议院是如此。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2018-text4-s17",
+      "s": "The emerging consensus around the bill is a sign that legislators are getting frightened about a politically embarrassing short-term collapse at the USPS.",
+      "para_no": 4,
+      "para_seq": 5,
+      "trunk": {
+        "主语": "The emerging consensus around the bill",
+        "谓语": "is",
+        "宾语或表语": "a sign",
+        "主干翻译": "围绕该法案正在形成的共识是一个信号。"
+      },
+      "components": [
+        {
+          "成分类型": "同位语从句",
+          "原文": "that legislators are getting frightened about a politically embarrassing short-term collapse at the USPS",
+          "修饰对象": "sign",
+          "中文翻译": "即立法者们正对邮政署在政治上令人难堪的短期崩溃感到担忧",
+          "说明": "that引导的同位语从句，解释a sign的具体内容。"
+        }
+      ],
+      "zh": "围绕该法案正在形成的共识表明，立法者们正对邮政署在政治上令人难堪的短期崩溃感到担忧。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2018-text4-s18",
+      "s": "It is not, however, a sign that they're getting serious about transforming the postal system for the 21st century.",
+      "para_no": 4,
+      "para_seq": 6,
+      "trunk": {
+        "主语": "It",
+        "谓语": "is not",
+        "宾语或表语": "a sign",
+        "主干翻译": "它并不是一个信号。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "however",
+          "修饰对象": "—",
+          "中文翻译": "然而",
+          "说明": "副词作插入语，表转折，承接上句语气。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "that they're getting serious about transforming the postal system for the 21st century",
+          "修饰对象": "sign",
+          "中文翻译": "即他们正认真对待为21世纪改造邮政系统这件事",
+          "说明": "that引导的同位语从句，解释a sign的具体内容。"
+        }
+      ],
+      "zh": "然而，它并不表明他们正在认真考虑为21世纪改造整个邮政系统。",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2018-text4-s1",
+        "en1-2018-text4-s2",
+        "en1-2018-text4-s3",
+        "en1-2018-text4-s4",
+        "en1-2018-text4-s5"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2018-text4-s6",
+        "en1-2018-text4-s7"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2018-text4-s8",
+        "en1-2018-text4-s9",
+        "en1-2018-text4-s10",
+        "en1-2018-text4-s11"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2018-text4-s12",
+        "en1-2018-text4-s13",
+        "en1-2018-text4-s14",
+        "en1-2018-text4-s15",
+        "en1-2018-text4-s16",
+        "en1-2018-text4-s17",
+        "en1-2018-text4-s18"
+      ]
+    }
+  ]
+}

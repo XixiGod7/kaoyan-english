@@ -1,0 +1,934 @@
+{
+  "exam": "en1",
+  "key": "2022-t1",
+  "year": 2022,
+  "text_no": 1,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2022-text1-s1",
+      "s": "People often complain that plastics are too durable.",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "People",
+        "谓语": "complain",
+        "宾语或表语": "that 从句",
+        "主干翻译": "人们抱怨说……"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "that plastics are too durable",
+          "修饰对象": "complain",
+          "中文翻译": "塑料太耐久了",
+          "说明": "that 引导宾语从句，作 complain 的宾语，从句内系表结构 plastics are too durable。"
+        }
+      ],
+      "zh": "人们常常抱怨说塑料太耐久了。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2022-text1-s2",
+      "s": "Water bottles, shopping bags, and other trash litter the planet, from Mount Everest to the Mariana Trench, because plastics are everywhere and don't break down easily.",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Water bottles, shopping bags, and other trash",
+        "谓语": "litter",
+        "宾语或表语": "the planet",
+        "主干翻译": "水瓶、购物袋和其他垃圾遍布地球各处。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "Water bottles, shopping bags, and other trash",
+          "修饰对象": "—",
+          "中文翻译": "水瓶、购物袋和其他垃圾",
+          "说明": "三个并列名词词组共同作主语，由 and 连接。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "from Mount Everest to the Mariana Trench",
+          "修饰对象": "litter",
+          "中文翻译": "从珠穆朗玛峰到马里亚纳海沟",
+          "说明": "from...to... 介词短语作地点状语，说明垃圾散布的范围。"
+        },
+        {
+          "成分类型": "状语从句(原因)",
+          "原文": "because plastics are everywhere and don't break down easily",
+          "修饰对象": "litter",
+          "中文翻译": "因为塑料无处不在且不易降解",
+          "说明": "because 引导原因状语从句，说明垃圾遍布地球的原因。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "don't break down easily",
+          "修饰对象": "are",
+          "中文翻译": "不易降解",
+          "说明": "在原因从句内部，are everywhere 与 don't break down easily 由 and 并列，共用主语 plastics。"
+        }
+      ],
+      "zh": "水瓶、购物袋和其他垃圾从珠穆朗玛峰到马里亚纳海沟遍布地球各处，因为塑料无处不在而且不易降解。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2022-text1-s3",
+      "s": "But some plastic materials change over time.",
+      "para_no": 1,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "some plastic materials",
+        "谓语": "change",
+        "宾语或表语": "（无）",
+        "主干翻译": "一些塑料材料会发生变化。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "over time",
+          "修饰对象": "change",
+          "中文翻译": "随着时间推移",
+          "说明": "over time 作时间状语，修饰谓语 change。"
+        }
+      ],
+      "zh": "但有些塑料材料会随着时间推移而发生变化。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2022-text1-s4",
+      "s": "They crack and frizzle.",
+      "para_no": 1,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "They",
+        "谓语": "crack and frizzle",
+        "宾语或表语": "（无）",
+        "主干翻译": "它们会开裂、卷曲。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "crack and frizzle",
+          "修饰对象": "—",
+          "中文翻译": "开裂并卷曲",
+          "说明": "两个并列谓语动词，由 and 连接。"
+        }
+      ],
+      "zh": "它们会开裂、卷曲。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2022-text1-s5",
+      "s": "They \"weep\" out additives.",
+      "para_no": 1,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "They",
+        "谓语": "weep out",
+        "宾语或表语": "additives",
+        "主干翻译": "它们会“渗出”添加剂。"
+      },
+      "components": [],
+      "zh": "它们会“渗出”添加剂。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2022-text1-s6",
+      "s": "They melt into sludge.",
+      "para_no": 1,
+      "para_seq": 5,
+      "trunk": {
+        "主语": "They",
+        "谓语": "melt",
+        "宾语或表语": "（无）",
+        "主干翻译": "它们会熔化。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "into sludge",
+          "修饰对象": "melt",
+          "中文翻译": "化为黏泥",
+          "说明": "into sludge 作结果/方向状语，说明熔化后的状态。"
+        }
+      ],
+      "zh": "它们会熔化成一摊黏泥。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2022-text1-s7",
+      "s": "All of which creates huge headaches for institutions, such as museums, trying to preserve culturally important objects.",
+      "para_no": 1,
+      "para_seq": 6,
+      "trunk": {
+        "主语": "All of which",
+        "谓语": "creates",
+        "宾语或表语": "huge headaches",
+        "主干翻译": "所有这些都给（各机构）带来巨大的麻烦。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "for institutions",
+          "修饰对象": "creates",
+          "中文翻译": "对于各类机构而言",
+          "说明": "for institutions 介词短语作状语，指出麻烦的承受方。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "such as museums",
+          "修饰对象": "institutions",
+          "中文翻译": "比如博物馆",
+          "说明": "such as 引出例举，作 institutions 的举例补充。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "trying to preserve culturally important objects",
+          "修饰对象": "institutions",
+          "中文翻译": "试图保存具有文化重要性物品的（机构）",
+          "说明": "现在分词短语作后置定语，修饰 institutions/museums；其中 to preserve culturally important objects 为 trying 的不定式补足成分。"
+        }
+      ],
+      "zh": "所有这些都给那些试图保存重要文物的机构（如博物馆）带来了巨大的麻烦。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2022-text1-s8",
+      "s": "The variety of plastic objects at risk is dizzying: early radios, avant-garde sculptures, celluloid animation stills from Disney films, the first artificial heart.",
+      "para_no": 1,
+      "para_seq": 7,
+      "trunk": {
+        "主语": "The variety of plastic objects at risk",
+        "谓语": "is",
+        "宾语或表语": "dizzying",
+        "主干翻译": "处于危险中的塑料物品种类繁多得令人眼花缭乱。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "of plastic objects at risk",
+          "修饰对象": "variety",
+          "中文翻译": "处于危险中的塑料物品的（种类）",
+          "说明": "of plastic objects 修饰 variety，其中 at risk 又作 plastic objects 的后置定语。"
+        },
+        {
+          "成分类型": "同位语",
+          "原文": "early radios, avant-garde sculptures, celluloid animation stills from Disney films, the first artificial heart",
+          "修饰对象": "variety",
+          "中文翻译": "早期收音机、先锋派雕塑、迪士尼影片的赛璐珞动画定格画、第一颗人造心脏",
+          "说明": "冒号后的并列名词词组对前文 variety/plastic objects 进行同位列举，逐项说明都有哪些塑料物品。"
+        }
+      ],
+      "zh": "处于危险之中的塑料物品种类多得令人眼花缭乱：早期的收音机、先锋派雕塑、迪士尼影片的赛璐珞动画定格画、第一颗人造心脏。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2022-text1-s9",
+      "s": "Certain artifacts are especially vulnerable because some pioneers in plastic art didn't always know how to mix ingredients properly, says Thea van Oosten, a polymer chemist who, until retiring a few years ago, worked for decades at the Cultural Heritage Agency of the Netherlands.",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Thea van Oosten",
+        "谓语": "says",
+        "宾语或表语": "宾语从句",
+        "主干翻译": "蒂亚·范·奥斯滕说……"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "Certain artifacts are especially vulnerable because some pioneers in plastic art didn't always know how to mix ingredients properly",
+          "修饰对象": "says",
+          "中文翻译": "某些艺术品尤其脆弱，因为塑料艺术领域的一些先驱并不总是知道如何正确地混合原料",
+          "说明": "该句为引语前置的宾语从句，作 says 的宾语（say 后引语前置）。"
+        },
+        {
+          "成分类型": "状语从句(原因)",
+          "原文": "because some pioneers in plastic art didn't always know how to mix ingredients properly",
+          "修饰对象": "are",
+          "中文翻译": "因为塑料艺术领域的一些先驱并不总是知道如何正确混合原料",
+          "说明": "because 引导原因状语从句，解释 artifacts 脆弱的原因；其中 how to mix ingredients properly 为 know 的不定式宾语补足。"
+        },
+        {
+          "成分类型": "同位语",
+          "原文": "a polymer chemist who, until retiring a few years ago, worked for decades at the Cultural Heritage Agency of the Netherlands",
+          "修饰对象": "Oosten",
+          "中文翻译": "一位聚合物化学家，几年前退休前曾在荷兰文化遗产署工作了几十年",
+          "说明": "名词短语作 Thea van Oosten 的同位语，对其身份进行补充说明。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "who, until retiring a few years ago, worked for decades at the Cultural Heritage Agency of the Netherlands",
+          "修饰对象": "chemist",
+          "中文翻译": "（这位化学家）几年前退休前曾在荷兰文化遗产署工作了几十年",
+          "说明": "who 引导定语从句，修饰 chemist；其中 until retiring a few years ago 为插入的时间状语。"
+        }
+      ],
+      "zh": "聚合物化学家蒂亚·范·奥斯滕说，某些艺术品尤其脆弱，因为塑料艺术领域的一些先驱并不总是知道如何正确地混合原料；她在几年前退休之前曾在荷兰文化遗产署工作了几十年。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2022-text1-s10",
+      "s": "\"It s like baking a cake: If you don't have exact amounts, it goes wrong.\" she says.",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "It",
+        "谓语": "is like",
+        "宾语或表语": "baking a cake",
+        "主干翻译": "这就像烤蛋糕，她说。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "It s like baking a cake",
+          "修饰对象": "—",
+          "中文翻译": "这就像烤蛋糕",
+          "说明": "she says 的引语（直接引语），系表结构 It is like baking a cake。"
+        },
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "If you don't have exact amounts",
+          "修饰对象": "goes",
+          "中文翻译": "如果你没有精确的用量",
+          "说明": "If 引导条件状语从句，修饰主句 it goes wrong。"
+        }
+      ],
+      "zh": "“这就像烤蛋糕：如果用量不精确，就会出问题，”她说。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2022-text1-s11",
+      "s": "\"The object you make is already a time bomb.\"",
+      "para_no": 2,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "The object",
+        "谓语": "is",
+        "宾语或表语": "a time bomb",
+        "主干翻译": "（你做出的）这件物品已经是一颗定时炸弹。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "you make",
+          "修饰对象": "object",
+          "中文翻译": "你制作的（物品）",
+          "说明": "省略关系代词 that/which 的定语从句，修饰 object。"
+        }
+      ],
+      "zh": "“你所制作的物品本身就已经是一颗定时炸弹。”",
+      "underline": null
+    },
+    {
+      "sid": "en1-2022-text1-s12",
+      "s": "And sometimes, it's not the artist's fault.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "it",
+        "谓语": "is",
+        "宾语或表语": "not the artist's fault",
+        "主干翻译": "这不是艺术家的错。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "sometimes",
+          "修饰对象": "is",
+          "中文翻译": "有时",
+          "说明": "时间副词作状语（按提示无从句节点，归为状语），修饰系动词。"
+        }
+      ],
+      "zh": "而有时候，这并不是艺术家的过错。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2022-text1-s13",
+      "s": "In the 1960s, the Italian artist Piero Gilardi began to create hundreds of bright, colorful foam pieces.",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "the Italian artist Piero Gilardi",
+        "谓语": "began",
+        "宾语或表语": "to create...",
+        "主干翻译": "意大利艺术家皮耶罗·吉拉尔迪开始创作（数百件作品）。"
+      },
+      "components": [
+        {
+          "成分类型": "同位语",
+          "原文": "Piero Gilardi",
+          "修饰对象": "artist",
+          "中文翻译": "皮耶罗·吉拉尔迪",
+          "说明": "专有名词作 the Italian artist 的同位语，点明该艺术家姓名。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to create hundreds of bright, colorful foam pieces",
+          "修饰对象": "began",
+          "中文翻译": "去创作数百件鲜艳多彩的泡沫作品",
+          "说明": "不定式短语作 began 的宾语补足（begin to do）。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "In the 1960s",
+          "修饰对象": "began",
+          "中文翻译": "在20世纪60年代",
+          "说明": "时间状语，修饰谓语 began。"
+        }
+      ],
+      "zh": "在20世纪60年代，意大利艺术家皮耶罗·吉拉尔迪开始创作数百件色彩鲜艳的泡沫作品。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2022-text1-s14",
+      "s": "Those pieces included small beds of roses and other items as well as a few dozen \"nature carpets\"—large rectangles decorated with foam pumpkins, cabbages, and watermelons.",
+      "para_no": 3,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Those pieces",
+        "谓语": "included",
+        "宾语或表语": "small beds of roses and other items as well as a few dozen \"nature carpets\"",
+        "主干翻译": "那些作品包括小玫瑰花床和其他物件，以及几十块“自然地毯”。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "small beds of roses and other items as well as a few dozen \"nature carpets\"—large rectangles",
+          "修饰对象": "included",
+          "中文翻译": "小玫瑰花床和其他物件，以及几十块“自然地毯”",
+          "说明": "由 as well as 连接的并列宾语（A and B as well as C）。"
+        },
+        {
+          "成分类型": "同位语",
+          "原文": "large rectangles decorated with foam pumpkins, cabbages, and watermelons",
+          "修饰对象": "carpets",
+          "中文翻译": "用泡沫南瓜、卷心菜和西瓜装饰的大块长方形",
+          "说明": "破折号引出的名词短语，作 nature carpets 的同位语解释。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "decorated with foam pumpkins, cabbages, and watermelons",
+          "修饰对象": "rectangles",
+          "中文翻译": "用泡沫南瓜、卷心菜和西瓜装饰的",
+          "说明": "过去分词短语作后置定语，修饰 rectangles。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "pumpkins, cabbages, and watermelons",
+          "修饰对象": "decorated",
+          "中文翻译": "南瓜、卷心菜和西瓜",
+          "说明": "三个并列名词，作 with 的宾语。"
+        }
+      ],
+      "zh": "那些作品包括小玫瑰花床和其他物件，以及几十块“自然地毯”——即用泡沫南瓜、卷心菜和西瓜装饰的大块长方形地毯。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2022-text1-s15",
+      "s": "He wanted viewers to walk around on the carpets—which meant they had to be durable.",
+      "para_no": 3,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "He",
+        "谓语": "wanted",
+        "宾语或表语": "viewers to walk around...",
+        "主干翻译": "他希望观众在地毯上走来走去。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "viewers to walk around on the carpets",
+          "修饰对象": "wanted",
+          "中文翻译": "观众在地毯上走来走去",
+          "说明": "want sb. to do 结构，viewers 为宾语，to walk... 为宾语补足语。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "which meant they had to be durable",
+          "修饰对象": "carpets",
+          "中文翻译": "这意味着它们必须经久耐用",
+          "说明": "which 引导非限制性定语从句，指代前面整个分句（他想让人在地毯上走）。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "they had to be durable",
+          "修饰对象": "meant",
+          "中文翻译": "它们必须经久耐用",
+          "说明": "省略 that 的宾语从句，作 meant 的宾语；其中 to be durable 为 had 的不定式补足。"
+        }
+      ],
+      "zh": "他希望观众能在这些地毯上走动——这意味着地毯必须足够耐用。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2022-text1-s16",
+      "s": "Unfortunately, the polyurethane foam he used is inherently unstable.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "the polyurethane foam",
+        "谓语": "is",
+        "宾语或表语": "inherently unstable",
+        "主干翻译": "（他所用的）聚氨酯泡沫本身就不稳定。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "he used",
+          "修饰对象": "foam",
+          "中文翻译": "他所使用的（泡沫）",
+          "说明": "省略关系代词的定语从句，修饰 polyurethane foam。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "Unfortunately",
+          "修饰对象": "is",
+          "中文翻译": "不幸的是",
+          "说明": "评注性副词作状语，置于句首修饰全句。"
+        }
+      ],
+      "zh": "不幸的是，他所使用的聚氨酯泡沫本身就不稳定。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2022-text1-s17",
+      "s": "It's especially vulnerable to light damage, and by the mid-1990s, Gilardi's pumpkins, roses, and other figures were splitting and crumbling.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "It",
+        "谓语": "is vulnerable",
+        "宾语或表语": "vulnerable to light damage",
+        "主干翻译": "它特别容易受到光照损害。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "by the mid-1990s, Gilardi's pumpkins, roses, and other figures were splitting and crumbling.",
+          "修饰对象": "—",
+          "中文翻译": "到20世纪90年代中期，吉拉尔迪的南瓜、玫瑰和其他造型已经开裂、碎裂",
+          "说明": "and 连接两个并列分句，后一分句陈述结果。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "Gilardi's pumpkins, roses, and other figures",
+          "修饰对象": "—",
+          "中文翻译": "吉拉尔迪的南瓜、玫瑰和其他造型",
+          "说明": "三个并列名词作后一分句的主语。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "by the mid-1990s",
+          "修饰对象": "splitting",
+          "中文翻译": "到20世纪90年代中期",
+          "说明": "时间状语，修饰后一分句谓语。"
+        }
+      ],
+      "zh": "它尤其容易受到光照损害，到了20世纪90年代中期，吉拉尔迪的南瓜、玫瑰及其他造型已经开始开裂、碎裂。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2022-text1-s18",
+      "s": "Museums locked some of them away in the dark.",
+      "para_no": 4,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Museums",
+        "谓语": "locked away",
+        "宾语或表语": "some of them",
+        "主干翻译": "博物馆把其中一些锁了起来。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "in the dark",
+          "修饰对象": "locked",
+          "中文翻译": "在暗处",
+          "说明": "地点状语，说明锁起来存放的位置。"
+        }
+      ],
+      "zh": "博物馆把其中一些作品锁在了暗处。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2022-text1-s19",
+      "s": "So van Oosten and her colleagues worked to preserve Gilardi's sculptures.",
+      "para_no": 5,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "van Oosten and her colleagues",
+        "谓语": "worked",
+        "宾语或表语": "（无）",
+        "主干翻译": "范·奥斯滕和她的同事们着手开展工作。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to preserve Gilardi's sculptures",
+          "修饰对象": "worked",
+          "中文翻译": "以保存吉拉尔迪的雕塑作品",
+          "说明": "不定式短语作目的状语，说明工作的目标。"
+        }
+      ],
+      "zh": "于是，范·奥斯滕和她的同事们努力保存吉拉尔迪的雕塑作品。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2022-text1-s20",
+      "s": "They infused some with stabilizing and consolidating chemicals.",
+      "para_no": 5,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "They",
+        "谓语": "infused",
+        "宾语或表语": "some",
+        "主干翻译": "他们给其中一些注入了（化学物质）。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "with stabilizing and consolidating chemicals",
+          "修饰对象": "infused",
+          "中文翻译": "用稳定和加固类化学物质",
+          "说明": "with 引导方式状语，说明注入的物质。"
+        }
+      ],
+      "zh": "他们给其中一些作品注入了起稳定和加固作用的化学物质。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2022-text1-s21",
+      "s": "Van Oosten calls those chemicals \"sunscreens\" because their goal was to prevent further light damage and rebuild worn polymer fibers.",
+      "para_no": 5,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Van Oosten",
+        "谓语": "calls",
+        "宾语或表语": "those chemicals \"sunscreens\"",
+        "主干翻译": "范·奥斯滕把这些化学物质称为“防晒霜”。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(原因)",
+          "原文": "because their goal was to prevent further light damage and rebuild worn polymer fibers",
+          "修饰对象": "calls",
+          "中文翻译": "因为它们的目的是防止进一步的光照损害并修复磨损的聚合物纤维",
+          "说明": "because 引导原因状语从句，解释为何称其为“防晒霜”；其中 to prevent... and rebuild... 为 was 的不定式表语补足。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "prevent further light damage and rebuild worn polymer fibers",
+          "修饰对象": "was",
+          "中文翻译": "防止进一步光照损害并重建磨损的聚合物纤维",
+          "说明": "两个并列不定式动词共用 to，由 and 连接。"
+        }
+      ],
+      "zh": "范·奥斯滕把这些化学物质称为“防晒霜”，因为它们的目的是防止进一步的光照损害并修复磨损的聚合物纤维。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2022-text1-s22",
+      "s": "She is proud that several sculptures have even gone on display again, albeit sometimes beneath protective cases.",
+      "para_no": 5,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "She",
+        "谓语": "is",
+        "宾语或表语": "proud",
+        "主干翻译": "她感到自豪……"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "that several sculptures have even gone on display again, albeit sometimes beneath protective cases",
+          "修饰对象": "proud",
+          "中文翻译": "几件雕塑甚至再次得以展出，尽管有时被罩在保护罩下",
+          "说明": "that 引导从句作形容词 proud 的宾语从句（说明自豪的内容）；其中 albeit... 为让步状语。"
+        },
+        {
+          "成分类型": "状语从句(让步)",
+          "原文": "albeit sometimes beneath protective cases",
+          "修饰对象": "gone",
+          "中文翻译": "尽管有时是放在保护罩之下",
+          "说明": "albeit 引导让步状语（省略式），修饰 gone on display。"
+        }
+      ],
+      "zh": "她感到自豪的是，有几件雕塑甚至再次得以展出，尽管有时是放在保护罩之下。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2022-text1-s23",
+      "s": "Despite success stories like van Oosten's, preservation of plastics will likely get harder.",
+      "para_no": 6,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "preservation of plastics",
+        "谓语": "will get",
+        "宾语或表语": "harder",
+        "主干翻译": "塑料的保存工作很可能会变得更加困难。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "Despite success stories like van Oosten's",
+          "修饰对象": "get",
+          "中文翻译": "尽管有像范·奥斯滕那样的成功案例",
+          "说明": "Despite 引导让步性介词短语作状语。"
+        }
+      ],
+      "zh": "尽管有像范·奥斯滕这样的成功案例，塑料的保存工作很可能还是会变得越来越困难。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2022-text1-s24",
+      "s": "Old objects continue to deteriorate.",
+      "para_no": 6,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Old objects",
+        "谓语": "continue",
+        "宾语或表语": "to deteriorate",
+        "主干翻译": "旧物品持续劣化。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to deteriorate",
+          "修饰对象": "continue",
+          "中文翻译": "不断劣化",
+          "说明": "不定式作 continue 的补足成分（continue to do）。"
+        }
+      ],
+      "zh": "旧的物品仍在不断劣化。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2022-text1-s25",
+      "s": "Worse, biodegradable plastics designed to disintegrate, are increasingly common.",
+      "para_no": 6,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "biodegradable plastics",
+        "谓语": "are",
+        "宾语或表语": "increasingly common",
+        "主干翻译": "可生物降解塑料越来越常见。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "designed to disintegrate",
+          "修饰对象": "plastics",
+          "中文翻译": "被设计成可分解的",
+          "说明": "过去分词短语作后置定语，修饰 biodegradable plastics；其中 to disintegrate 为 designed 的不定式补足。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "Worse",
+          "修饰对象": "are",
+          "中文翻译": "更糟的是",
+          "说明": "评注性状语，置于句首修饰全句。"
+        }
+      ],
+      "zh": "更糟的是，那些被设计为可分解的可生物降解塑料正变得越来越普遍。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2022-text1-s26",
+      "s": "And more is at stake here than individual objects.",
+      "para_no": 7,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "more",
+        "谓语": "is",
+        "宾语或表语": "at stake",
+        "主干翻译": "这里事关重大的不止是单个物品。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(比较)",
+          "原文": "than individual objects",
+          "修饰对象": "more",
+          "中文翻译": "比单个物品（更多）",
+          "说明": "than 引导比较状语（省略式），与 more 构成比较结构。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "here",
+          "修饰对象": "is",
+          "中文翻译": "在这里",
+          "说明": "地点状语，修饰系动词。"
+        }
+      ],
+      "zh": "而且，这里事关重大的远不止是单个的物品。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2022-text1-s27",
+      "s": "Joana Lia Ferreira, an assistant professor of conservation and restoration at the nova School of Science and Technology, notes that archaeologists first defined the great material ages of human history Stone Age, Iron Age, and so on after examining artifacts in museums.",
+      "para_no": 7,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Joana Lia Ferreira",
+        "谓语": "notes",
+        "宾语或表语": "宾语从句",
+        "主干翻译": "若阿娜·莉亚·费雷拉指出……"
+      },
+      "components": [
+        {
+          "成分类型": "同位语",
+          "原文": "an assistant professor of conservation and restoration at the nova School of Science and Technology",
+          "修饰对象": "Ferreira",
+          "中文翻译": "新星科学与技术学院保护与修复学助理教授",
+          "说明": "名词短语作主语 Ferreira 的同位语，说明其身份。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that archaeologists first defined the great material ages of human history Stone Age, Iron Age, and so on after examining artifacts in museums",
+          "修饰对象": "notes",
+          "中文翻译": "考古学家是在考察了博物馆中的文物之后才首次界定人类历史的几大物质时代——石器时代、铁器时代等等",
+          "说明": "that 引导宾语从句，作 notes 的宾语。"
+        },
+        {
+          "成分类型": "同位语",
+          "原文": "Stone Age, Iron Age, and so on",
+          "修饰对象": "ages",
+          "中文翻译": "石器时代、铁器时代等等",
+          "说明": "并列名词作 the great material ages 的同位语，逐项举例。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "after examining artifacts in museums",
+          "修饰对象": "defined",
+          "中文翻译": "在考察了博物馆中的文物之后",
+          "说明": "after + 动名词短语作时间状语，修饰从句谓语 defined。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "Iron Age, and so on",
+          "修饰对象": "Age",
+          "中文翻译": "铁器时代等等",
+          "说明": "Stone Age、Iron Age 等并列，由 and 连接。"
+        }
+      ],
+      "zh": "新星科学与技术学院保护与修复学助理教授若阿娜·莉亚·费雷拉指出，考古学家正是在考察了博物馆中的文物之后，才首次界定了人类历史上几大重要的物质时代——石器时代、铁器时代等等。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2022-text1-s28",
+      "s": "We now live in an age of plastic, she says, \"and what we decide to collect today, what we decide to preserve will have a strong impact on how in the future we'll be seen.\"",
+      "para_no": 7,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "We",
+        "谓语": "live",
+        "宾语或表语": "（无）",
+        "主干翻译": "我们如今生活在一个塑料时代，她说。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "in an age of plastic",
+          "修饰对象": "live",
+          "中文翻译": "在一个塑料的时代",
+          "说明": "地点状语，说明我们所处的时代。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "she says",
+          "修饰对象": "—",
+          "中文翻译": "她说",
+          "说明": "插入的引述语，插在引语中间。"
+        },
+        {
+          "成分类型": "主语从句",
+          "原文": "what we decide to collect today, what we decide to preserve",
+          "修饰对象": "—",
+          "中文翻译": "我们今天决定收集什么、我们决定保存什么",
+          "说明": "两个 what 引导的并列主语从句，作后半句 will have 的主语；其中 to collect、to preserve 为 decide 的不定式补足。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "what we decide to collect today, what we decide to preserve",
+          "修饰对象": "—",
+          "中文翻译": "我们今天决定收集什么，我们决定保存什么",
+          "说明": "两个 what 主语从句并列，共同作 will have a strong impact 的主语。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "on how in the future we'll be seen",
+          "修饰对象": "impact",
+          "中文翻译": "对未来我们将如何被看待（产生影响）",
+          "说明": "on + how 引导的宾语从句作 impact 的介词宾语，说明影响的对象；其中 in the future 为时间状语。"
+        }
+      ],
+      "zh": "她说，我们如今生活在一个塑料的时代，“而我们今天决定收集什么、决定保存什么，将会对未来人们如何看待我们产生重大影响。”",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2022-text1-s1",
+        "en1-2022-text1-s2",
+        "en1-2022-text1-s3",
+        "en1-2022-text1-s4",
+        "en1-2022-text1-s5",
+        "en1-2022-text1-s6",
+        "en1-2022-text1-s7",
+        "en1-2022-text1-s8"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2022-text1-s9",
+        "en1-2022-text1-s10",
+        "en1-2022-text1-s11"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2022-text1-s12",
+        "en1-2022-text1-s13",
+        "en1-2022-text1-s14",
+        "en1-2022-text1-s15"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2022-text1-s16",
+        "en1-2022-text1-s17",
+        "en1-2022-text1-s18"
+      ]
+    },
+    {
+      "para_no": 5,
+      "sids": [
+        "en1-2022-text1-s19",
+        "en1-2022-text1-s20",
+        "en1-2022-text1-s21",
+        "en1-2022-text1-s22"
+      ]
+    },
+    {
+      "para_no": 6,
+      "sids": [
+        "en1-2022-text1-s23",
+        "en1-2022-text1-s24",
+        "en1-2022-text1-s25"
+      ]
+    },
+    {
+      "para_no": 7,
+      "sids": [
+        "en1-2022-text1-s26",
+        "en1-2022-text1-s27",
+        "en1-2022-text1-s28"
+      ]
+    }
+  ]
+}

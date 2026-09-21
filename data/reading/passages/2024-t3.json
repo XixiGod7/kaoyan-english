@@ -1,0 +1,872 @@
+{
+  "exam": "en1",
+  "key": "2024-t3",
+  "year": 2024,
+  "text_no": 3,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2024-text3-s1",
+      "s": "A Polish digital artist who uses classical painting styles to create dreamy fantasy landscapes, Greg Rutkowski has made illustrations for games such as Dungeons & Dragons and Magic: The Gathering.",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Greg Rutkowski",
+        "谓语": "has made",
+        "宾语或表语": "illustrations",
+        "主干翻译": "Greg Rutkowski 制作了插画。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "A Polish digital artist who uses classical painting styles to create dreamy fantasy landscapes",
+          "修饰对象": "Greg Rutkowski",
+          "中文翻译": "一位运用古典绘画风格创作梦幻奇境风景的波兰数字艺术家",
+          "说明": "句首名词短语，作主语 Greg Rutkowski 的同位语前置成分，对其身份加以说明"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "who uses classical painting styles to create dreamy fantasy landscapes",
+          "修饰对象": "artist",
+          "中文翻译": "运用古典绘画风格来创作梦幻奇境风景的",
+          "说明": "who 引导，修饰前面的 artist"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to create dreamy fantasy landscapes",
+          "修饰对象": "uses",
+          "中文翻译": "以创作梦幻奇境风景",
+          "说明": "不定式作目的状语，说明 uses 古典风格的目的"
+        },
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "for games such as Dungeons & Dragons and Magic: The Gathering",
+          "修饰对象": "illustrations",
+          "中文翻译": "为诸如《龙与地下城》和《万智牌》之类游戏所做的",
+          "说明": "介词短语修饰宾语 illustrations"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "Dungeons & Dragons and Magic: The Gathering",
+          "修饰对象": "games",
+          "中文翻译": "《龙与地下城》和《万智牌》",
+          "说明": "such as 后两个并列的游戏名"
+        }
+      ],
+      "zh": "Greg Rutkowski 是一位运用古典绘画风格创作梦幻奇境风景的波兰数字艺术家，他曾为《龙与地下城》和《万智牌》等游戏制作插画。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2024-text3-s2",
+      "s": "And he's become a sudden hit in the new world of text-to-image AI generation.",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "he",
+        "谓语": "has become",
+        "宾语或表语": "a sudden hit",
+        "主干翻译": "他突然走红了。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "in the new world of text-to-image AI generation",
+          "修饰对象": "has become",
+          "中文翻译": "在文本生成图像的人工智能新世界里",
+          "说明": "介词短语作地点/范围状语"
+        }
+      ],
+      "zh": "而在文本生成图像的人工智能新世界里，他突然走红了。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2024-text3-s3",
+      "s": "His distinctive style is now one of the most commonly used prompts in the new open-source AI art generator Stable Diffusion.",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "His distinctive style",
+        "谓语": "is",
+        "宾语或表语": "one of the most commonly used prompts",
+        "主干翻译": "他独特的风格是最常被使用的提示词之一。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "in the new open-source AI art generator Stable Diffusion",
+          "修饰对象": "prompts",
+          "中文翻译": "在新的开源人工智能艺术生成器 Stable Diffusion 中",
+          "说明": "介词短语修饰 prompts，限定其使用范围"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "Stable Diffusion",
+          "修饰对象": "generator",
+          "中文翻译": "Stable Diffusion",
+          "说明": "名词同位语，对 generator 进行命名说明（非从句，属同位关系）"
+        }
+      ],
+      "zh": "如今在新的开源人工智能艺术生成器 Stable Diffusion 中，他独特的风格是最常被使用的提示词之一。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2024-text3-s4",
+      "s": "The tool, along with other popular image-generation AI models, allows anyone to create impressive images based on text prompts.",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "The tool",
+        "谓语": "allows",
+        "宾语或表语": "anyone to create impressive images",
+        "主干翻译": "该工具让任何人都能创作出令人惊艳的图像。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "along with other popular image-generation AI models",
+          "修饰对象": "The tool",
+          "中文翻译": "连同其他流行的图像生成人工智能模型",
+          "说明": "with 引导的伴随插入成分，置于主语之后"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "based on text prompts",
+          "修饰对象": "images",
+          "中文翻译": "基于文本提示词的",
+          "说明": "过去分词短语作定语修饰 images"
+        }
+      ],
+      "zh": "该工具，连同其他流行的图像生成人工智能模型，让任何人都能根据文本提示词创作出令人惊艳的图像。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2024-text3-s4b",
+      "s": "For example, type in “Wizard with sword and a glowing orb of magic fire fights a fierce dragon Greg Rutkowski,” and the system will produce something that looks not a million miles away from works in Rutkowski's style.",
+      "para_no": 2,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "(you)（祈使句省略主语）",
+        "谓语": "type in",
+        "宾语或表语": "“Wizard ... Greg Rutkowski,”",
+        "主干翻译": "（你）输入这样一段提示词，系统就会生成相应的图像。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "type in “Wizard with sword and a glowing orb of magic fire fights a fierce dragon Greg Rutkowski",
+          "修饰对象": "—",
+          "中文翻译": "输入\"手持利剑、带着魔法之火灼灼光球的巫师与凶猛的巨龙搏斗，Greg Rutkowski 风格\"",
+          "说明": "祈使句的内容，type in 后所输入的提示语内容"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "type in “Wizard with sword and a glowing orb of magic fire fights a fierce dragon Greg Rutkowski,” and the system will produce something",
+          "修饰对象": "—",
+          "中文翻译": "输入……，系统就会生成某种东西",
+          "说明": "and 连接 type（祈使）与 the system will produce 两个并列分句"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "Wizard with sword and a glowing orb of magic fire",
+          "修饰对象": "—",
+          "中文翻译": "手持利剑、并带有一团魔法之火的发光光球的巫师",
+          "说明": "提示语内部 sword 与 a glowing orb 的并列（with 之后两项并列）"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "Greg Rutkowski",
+          "修饰对象": "dragon",
+          "中文翻译": "Greg Rutkowski（风格）",
+          "说明": "提示语末尾附加的画家名（同位/标签性补充，非真从句）"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that looks not a million miles away from works in Rutkowski's style",
+          "修饰对象": "something",
+          "中文翻译": "看上去与 Rutkowski 风格的作品相差无几的",
+          "说明": "that 引导，修饰 something"
+        }
+      ],
+      "zh": "例如，输入“手持利剑、带着魔法之火灼灼光球的巫师与凶猛的巨龙搏斗，Greg Rutkowski 风格”，系统就会生成看上去与 Rutkowski 风格作品相差无几的图像。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2024-text3-s5",
+      "s": "But these open-source programs are built by scraping images from the Internet, often without permission and proper attribution to artists.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "these open-source programs",
+        "谓语": "are built",
+        "宾语或表语": "by scraping images",
+        "主干翻译": "这些开源程序是靠抓取图像构建起来的。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "by scraping images from the Internet",
+          "修饰对象": "are built",
+          "中文翻译": "通过从互联网上抓取图像",
+          "说明": "by 引导的方式状语，scraping 为动名词"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "often without permission and proper attribution to artists",
+          "修饰对象": "scraping",
+          "中文翻译": "往往未经许可、也未恰当标注原作者",
+          "说明": "without 引导的方式/伴随状语，补充抓取行为的情形"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "permission and proper attribution to artists",
+          "修饰对象": "without",
+          "中文翻译": "许可以及对艺术家的恰当署名",
+          "说明": "without 后 permission 与 proper attribution 两项并列"
+        }
+      ],
+      "zh": "但这些开源程序是通过从互联网上抓取图像构建起来的，而且往往未经许可、也未对艺术家进行恰当署名。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2024-text3-s6",
+      "s": "As a result, they are raising tricky questions about ethics and copyright.",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "they",
+        "谓语": "are raising",
+        "宾语或表语": "tricky questions",
+        "主干翻译": "它们正引发棘手的问题。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "As a result",
+          "修饰对象": "are raising",
+          "中文翻译": "因此",
+          "说明": "句首结果状语"
+        },
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "about ethics and copyright",
+          "修饰对象": "questions",
+          "中文翻译": "关于伦理与版权的",
+          "说明": "介词短语修饰 questions"
+        }
+      ],
+      "zh": "因此，它们正引发关于伦理与版权的棘手问题。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2024-text3-s7",
+      "s": "And artists like Rutkowski have had enough.",
+      "para_no": 3,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "artists",
+        "谓语": "have had",
+        "宾语或表语": "enough",
+        "主干翻译": "艺术家们已经受够了。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "like Rutkowski",
+          "修饰对象": "artists",
+          "中文翻译": "像 Rutkowski 这样的",
+          "说明": "介词短语修饰 artists"
+        }
+      ],
+      "zh": "而像 Rutkowski 这样的艺术家们已经受够了。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2024-text3-s8",
+      "s": "According to the website Lexica, which tracks over 10 million Stable Diffusion images and prompts, Rutkowski's name has been used as a prompt around 93,000 times.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Rutkowski's name",
+        "谓语": "has been used",
+        "宾语或表语": "as a prompt",
+        "主干翻译": "Rutkowski 的名字已被用作提示词。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "According to the website Lexica",
+          "修饰对象": "has been used",
+          "中文翻译": "据网站 Lexica 称",
+          "说明": "句首 according to 引导的依据状语"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "Lexica",
+          "修饰对象": "website",
+          "中文翻译": "Lexica",
+          "说明": "名词同位语，对 website 进行命名（同位关系）"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "which tracks over 10 million Stable Diffusion images and prompts",
+          "修饰对象": "website",
+          "中文翻译": "追踪超过 1000 万张 Stable Diffusion 图像及提示词的",
+          "说明": "which 引导的非限制性定语从句，修饰 Lexica/website"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "around 93,000 times",
+          "修饰对象": "has been used",
+          "中文翻译": "大约 9.3 万次",
+          "说明": "次数状语，修饰 used"
+        }
+      ],
+      "zh": "据追踪超过 1000 万张 Stable Diffusion 图像及提示词的网站 Lexica 称，Rutkowski 的名字已被用作提示词约 9.3 万次。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2024-text3-s9",
+      "s": "Rutkowski was initially surprised but thought it might be a good way to reach new audiences.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Rutkowski",
+        "谓语": "was / thought",
+        "宾语或表语": "surprised / (宾语从句)",
+        "主干翻译": "Rutkowski 起初感到惊讶，但又觉得（这可能是件好事）。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "was initially surprised but thought it might be a good way to reach new audiences",
+          "修饰对象": "—",
+          "中文翻译": "起初感到惊讶，但认为这或许是个好办法",
+          "说明": "but 连接 was surprised 与 thought 两个并列谓语"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "it might be a good way to reach new audiences",
+          "修饰对象": "thought",
+          "中文翻译": "这或许是触达新受众的好办法",
+          "说明": "thought 后省略 that 的宾语从句"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to reach new audiences",
+          "修饰对象": "way",
+          "中文翻译": "触达新受众的",
+          "说明": "不定式作定语修饰 way"
+        }
+      ],
+      "zh": "Rutkowski 起初感到惊讶，但又觉得这或许是触达新受众的一个好办法。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2024-text3-s10",
+      "s": "Then he tried searching for his name to see if a piece he had worked on had been published.",
+      "para_no": 4,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "he",
+        "谓语": "tried",
+        "宾语或表语": "searching for his name",
+        "主干翻译": "他尝试搜索自己的名字。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to see if a piece he had worked on had been published",
+          "修饰对象": "searching",
+          "中文翻译": "以查看自己参与创作的某幅作品是否已被发布",
+          "说明": "不定式作目的状语"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "he had worked on",
+          "修饰对象": "piece",
+          "中文翻译": "他曾参与创作的",
+          "说明": "省略关系代词的定语从句，修饰 piece"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "if a piece he had worked on had been published",
+          "修饰对象": "see",
+          "中文翻译": "他参与创作的某幅作品是否已被发布",
+          "说明": "if 引导的宾语从句，作 see 的宾语"
+        }
+      ],
+      "zh": "随后他尝试搜索自己的名字，想看看自己参与创作的某幅作品是否已被发布。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2024-text3-s11",
+      "s": "The online search brought back work that had his name attached to it but wasn't his.",
+      "para_no": 4,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "The online search",
+        "谓语": "brought back",
+        "宾语或表语": "work",
+        "主干翻译": "这次在线搜索返回了一些作品。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "that had his name attached to it but wasn't his",
+          "修饰对象": "work",
+          "中文翻译": "署着他的名字、却并非出自他之手的",
+          "说明": "that 引导的定语从句，修饰 work"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "his name attached to it",
+          "修饰对象": "had",
+          "中文翻译": "他的名字被附在其上",
+          "说明": "have + 宾语 + 过去分词的复合宾语结构，name 为宾语、attached 为宾补"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "had his name attached to it but wasn't his",
+          "修饰对象": "—",
+          "中文翻译": "署着他的名字、却不是他的",
+          "说明": "but 连接定语从句内 had 与 wasn't 两个并列谓语"
+        }
+      ],
+      "zh": "这次在线搜索返回了一些署着他名字、却并非出自他之手的作品。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2024-text3-s12",
+      "s": "“It's been just a month.",
+      "para_no": 5,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "It",
+        "谓语": "has been",
+        "宾语或表语": "just a month",
+        "主干翻译": "才过去了一个月。"
+      },
+      "components": [],
+      "zh": "\"这才过去了一个月。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2024-text3-s13",
+      "s": "What about in a year?",
+      "para_no": 5,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "(省略)",
+        "谓语": "(省略)",
+        "宾语或表语": "What about in a year",
+        "主干翻译": "那一年之后又会怎样呢？"
+      },
+      "components": [
+        {
+          "成分类型": "省略",
+          "原文": "What about in a year",
+          "修饰对象": "—",
+          "中文翻译": "一年之后又会怎样",
+          "说明": "省略句，what about 后省略谓语，表反问"
+        }
+      ],
+      "zh": "那一年之后又会怎样呢？",
+      "underline": null
+    },
+    {
+      "sid": "en1-2024-text3-s14",
+      "s": "I probably won't be able to find my work out there because the Internet will be flooded with AI art,\"",
+      "para_no": 5,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "I",
+        "谓语": "won't be able",
+        "宾语或表语": "to find my work",
+        "主干翻译": "我大概将无法找到自己的作品。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to find my work out there",
+          "修饰对象": "able",
+          "中文翻译": "在网上找到我自己的作品",
+          "说明": "be able to 的不定式补足语"
+        },
+        {
+          "成分类型": "状语从句(原因)",
+          "原文": "because the Internet will be flooded with AI art",
+          "修饰对象": "won't be able",
+          "中文翻译": "因为互联网将被人工智能艺术作品所淹没",
+          "说明": "because 引导的原因状语从句"
+        }
+      ],
+      "zh": "我大概将无法在网上找到自己的作品，因为互联网将被人工智能艺术作品淹没。\"",
+      "underline": null
+    },
+    {
+      "sid": "en1-2024-text3-s15",
+      "s": "“That's concerning.” Other artists besides Rutkowski have been surprised by the apparent popularity of their work in text-to-image generators—and some are now fighting back.",
+      "para_no": 6,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Other artists",
+        "谓语": "have been surprised",
+        "宾语或表语": "by the apparent popularity of their work",
+        "主干翻译": "其他艺术家对他们作品明显的受欢迎程度感到惊讶。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "“That's concerning.”",
+          "修饰对象": "Other artists besides Rutkowski have been surprised",
+          "中文翻译": "\"这令人担忧。\"",
+          "说明": "引语，独立成句，引出后文。"
+        },
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "besides Rutkowski",
+          "修饰对象": "Other artists",
+          "中文翻译": "除鲁特科夫斯基之外的",
+          "说明": "介词短语作后置定语，修饰 Other artists。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "in text-to-image generators",
+          "修饰对象": "popularity",
+          "中文翻译": "在文本转图像生成器中",
+          "说明": "介词短语作定语/状语，说明受欢迎发生的场域。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "and some are now fighting back",
+          "修饰对象": "Other artists besides Rutkowski have been surprised by the apparent popularity of their work in text-to-image generators",
+          "中文翻译": "而其中一些人现在正在反击",
+          "说明": "破折号后 and 连接的并列分句。"
+        }
+      ],
+      "zh": "\"这令人担忧。\"除鲁特科夫斯基之外的其他艺术家也对自己的作品在文本转图像生成器中明显的受欢迎程度感到惊讶——而其中一些人现在正在反击。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2024-text3-s16",
+      "s": "Karla Ortiz, an illustrator based in San Francisco who found her work in Stable Diffusion's data set, has been raising awareness about the issues around AI art and copyright.",
+      "para_no": 7,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Karla Ortiz",
+        "谓语": "has been raising",
+        "宾语或表语": "awareness",
+        "主干翻译": "Karla Ortiz 一直在提高人们的关注。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "an illustrator based in San Francisco who found her work in Stable Diffusion's data set",
+          "修饰对象": "Karla Ortiz",
+          "中文翻译": "一位常驻旧金山、在 Stable Diffusion 数据集中发现自己作品的插画师",
+          "说明": "名词短语作主语 Karla Ortiz 的同位语"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "based in San Francisco",
+          "修饰对象": "illustrator",
+          "中文翻译": "常驻旧金山的",
+          "说明": "过去分词短语作定语修饰 illustrator"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "who found her work in Stable Diffusion's data set",
+          "修饰对象": "illustrator",
+          "中文翻译": "在 Stable Diffusion 数据集中发现了自己作品的",
+          "说明": "who 引导，修饰 illustrator"
+        },
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "about the issues around AI art and copyright",
+          "修饰对象": "awareness",
+          "中文翻译": "关于人工智能艺术与版权相关问题的",
+          "说明": "介词短语修饰 awareness"
+        }
+      ],
+      "zh": "Karla Ortiz 是一位常驻旧金山、在 Stable Diffusion 数据集中发现自己作品的插画师，她一直在提高人们对人工智能艺术与版权相关问题的关注。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2024-text3-s17",
+      "s": "Artists say they risk losing income as people start using AI-generated images based on copyrighted material for commercial purposes.",
+      "para_no": 7,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Artists",
+        "谓语": "say",
+        "宾语或表语": "(宾语从句)",
+        "主干翻译": "艺术家们说（他们有可能损失收入）。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "they risk losing income as people start using AI-generated images based on copyrighted material for commercial purposes",
+          "修饰对象": "say",
+          "中文翻译": "他们有可能损失收入，因为人们开始将基于受版权保护素材生成的 AI 图像用于商业目的",
+          "说明": "say 后省略 that 的宾语从句"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "losing income",
+          "修饰对象": "risk",
+          "中文翻译": "损失收入",
+          "说明": "动名词作 risk 的宾语"
+        },
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "as people start using AI-generated images based on copyrighted material for commercial purposes",
+          "修饰对象": "risk",
+          "中文翻译": "随着人们开始将基于受版权保护素材生成的 AI 图像用于商业用途",
+          "说明": "as 引导的时间状语从句（随着）"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "using AI-generated images based on copyrighted material for commercial purposes",
+          "修饰对象": "start",
+          "中文翻译": "将基于受版权素材生成的 AI 图像用于商业用途",
+          "说明": "动名词短语作 start 的宾语"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "based on copyrighted material",
+          "修饰对象": "images",
+          "中文翻译": "基于受版权保护素材的",
+          "说明": "过去分词短语作定语修饰 images"
+        }
+      ],
+      "zh": "艺术家们说，随着人们开始将基于受版权保护素材生成的 AI 图像用于商业目的，他们有可能损失收入。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2024-text3-s18",
+      "s": "But it's also a lot more personal, Ortiz says, arguing that because art is so closely linked to a person, it could raise data protection and privacy problems.",
+      "para_no": 7,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "it",
+        "谓语": "is",
+        "宾语或表语": "a lot more personal",
+        "主干翻译": "这件事还要私人得多。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "Ortiz says",
+          "修饰对象": "—",
+          "中文翻译": "Ortiz 说",
+          "说明": "插入的引述语"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "arguing that because art is so closely linked to a person, it could raise data protection and privacy problems",
+          "修饰对象": "says",
+          "中文翻译": "并主张……它可能引发数据保护与隐私问题",
+          "说明": "现在分词短语作伴随状语"
+        },
+        {
+          "成分类型": "状语从句(原因)",
+          "原文": "because art is so closely linked to a person",
+          "修饰对象": "raise",
+          "中文翻译": "因为艺术与个人如此紧密相连",
+          "说明": "because 引导的原因状语从句，位于宾语从句内部"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that because art is so closely linked to a person, it could raise data protection and privacy problems",
+          "修饰对象": "arguing",
+          "中文翻译": "由于艺术与个人如此紧密相连，它可能引发数据保护和隐私问题",
+          "说明": "that 引导的宾语从句，作 arguing 的宾语"
+        }
+      ],
+      "zh": "但这件事还要私人得多，Ortiz 说，她主张：由于艺术与个人如此紧密相连，它可能引发数据保护和隐私方面的问题。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2024-text3-s19",
+      "s": "“There is a coalition growing within artist industries to figure out how to tackle or mitigate this,” says Ortiz.",
+      "para_no": 8,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Ortiz",
+        "谓语": "says",
+        "宾语或表语": "(直接引语)",
+        "主干翻译": "Ortiz 说（艺术界内部正形成一个联盟）。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "There is a coalition growing within artist industries to figure out how to tackle or mitigate this",
+          "修饰对象": "says",
+          "中文翻译": "艺术行业内部正在形成一个联盟，以探究如何应对或缓解这一问题",
+          "说明": "says 的直接引语，作其宾语内容"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "growing within artist industries",
+          "修饰对象": "coalition",
+          "中文翻译": "在艺术行业内部不断壮大的",
+          "说明": "现在分词短语作定语修饰 coalition"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to figure out how to tackle or mitigate this",
+          "修饰对象": "coalition",
+          "中文翻译": "去弄清如何应对或缓解这一问题的",
+          "说明": "不定式作定语/目的，修饰 coalition"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "how to tackle or mitigate this",
+          "修饰对象": "figure out",
+          "中文翻译": "如何应对或缓解这一问题",
+          "说明": "how + 不定式构成的宾语，作 figure out 的宾语"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "tackle or mitigate this",
+          "修饰对象": "—",
+          "中文翻译": "应对或缓解这一问题",
+          "说明": "or 连接 tackle 与 mitigate 两个并列动词"
+        }
+      ],
+      "zh": "\"艺术行业内部正在形成一个联盟，以探究如何应对或缓解这一问题，\"Ortiz 说。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2024-text3-s20",
+      "s": "The group is in its early days of mobilization, which could involve pushing for new policies or regulation.",
+      "para_no": 8,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "The group",
+        "谓语": "is",
+        "宾语或表语": "in its early days of mobilization",
+        "主干翻译": "该团体尚处于动员的早期阶段。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "which could involve pushing for new policies or regulation",
+          "修饰对象": "mobilization",
+          "中文翻译": "（这）可能涉及推动出台新政策或监管法规",
+          "说明": "which 引导的非限制性定语从句，指代前面整个动员之事"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "pushing for new policies or regulation",
+          "修饰对象": "involve",
+          "中文翻译": "推动出台新政策或监管",
+          "说明": "动名词短语作 involve 的宾语"
+        }
+      ],
+      "zh": "该团体尚处于动员的早期阶段，这可能涉及推动出台新的政策或监管法规。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2024-text3-s21",
+      "s": "One suggestion is that AI models could be trained on images in the public domain, and AI companies could forge partnerships with museums and artists, Ortiz says.",
+      "para_no": 8,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "One suggestion",
+        "谓语": "is",
+        "宾语或表语": "(表语从句)",
+        "主干翻译": "一项建议是（AI 模型应在公共领域图像上训练，AI 公司应与博物馆和艺术家建立合作）。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "Ortiz says",
+          "修饰对象": "—",
+          "中文翻译": "Ortiz 说",
+          "说明": "句尾插入的引述语"
+        },
+        {
+          "成分类型": "表语从句",
+          "原文": "that AI models could be trained on images in the public domain, and AI companies could forge partnerships with museums and artists",
+          "修饰对象": "is",
+          "中文翻译": "AI 模型可以基于公共领域的图像进行训练，AI 公司可以与博物馆和艺术家建立合作关系",
+          "说明": "that 引导的表语从句，作 suggestion 的表语"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "AI models could be trained on images in the public domain, and AI companies could forge partnerships with museums and artists",
+          "修饰对象": "—",
+          "中文翻译": "AI 模型可基于公共领域图像训练，且 AI 公司可与博物馆和艺术家建立合作",
+          "说明": "and 连接表语从句内两个并列分句"
+        }
+      ],
+      "zh": "Ortiz 说，一项建议是：AI 模型可以基于公共领域的图像进行训练，而 AI 公司可以与博物馆和艺术家建立合作关系。",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2024-text3-s1",
+        "en1-2024-text3-s2"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2024-text3-s3",
+        "en1-2024-text3-s4",
+        "en1-2024-text3-s4b"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2024-text3-s5",
+        "en1-2024-text3-s6",
+        "en1-2024-text3-s7"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2024-text3-s8",
+        "en1-2024-text3-s9",
+        "en1-2024-text3-s10",
+        "en1-2024-text3-s11"
+      ]
+    },
+    {
+      "para_no": 5,
+      "sids": [
+        "en1-2024-text3-s12",
+        "en1-2024-text3-s13",
+        "en1-2024-text3-s14"
+      ]
+    },
+    {
+      "para_no": 6,
+      "sids": [
+        "en1-2024-text3-s15"
+      ]
+    },
+    {
+      "para_no": 7,
+      "sids": [
+        "en1-2024-text3-s16",
+        "en1-2024-text3-s17",
+        "en1-2024-text3-s18"
+      ]
+    },
+    {
+      "para_no": 8,
+      "sids": [
+        "en1-2024-text3-s19",
+        "en1-2024-text3-s20",
+        "en1-2024-text3-s21"
+      ]
+    }
+  ]
+}

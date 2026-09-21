@@ -1,0 +1,764 @@
+{
+  "exam": "en1",
+  "key": "2010-t1",
+  "year": 2010,
+  "text_no": 1,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2010-text1-s1",
+      "s": "Of all the changes that have taken place in English-language newspapers during the past quarter-century, perhaps the most far-reaching has been the inexorable decline in the scope and seriousness of their arts coverage.",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "the most far-reaching",
+        "谓语": "has been",
+        "宾语或表语": "the inexorable decline",
+        "主干翻译": "影响最深远的变化一直是这种不可阻挡的衰退。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "that have taken place in English-language newspapers during the past quarter-century",
+          "修饰对象": "changes",
+          "中文翻译": "在过去二十五年里发生于英语报纸中的（变化）",
+          "说明": "that 引导定语从句，修饰先行词 changes，关系代词作从句主语。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "Of all the changes",
+          "修饰对象": "has been",
+          "中文翻译": "在所有变化之中",
+          "说明": "句首介词短语作状语，表范围，引出后文的最高级比较。"
+        },
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "in the scope and seriousness of their arts coverage",
+          "修饰对象": "decline",
+          "中文翻译": "在其艺术报道的范围与严肃性方面的（衰退）",
+          "说明": "介词短语作后置定语，限定 decline 的内容。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "perhaps",
+          "修饰对象": "has been",
+          "中文翻译": "也许",
+          "说明": "副词作插入语，表示推测语气。"
+        }
+      ],
+      "zh": "在过去二十五年间英语报纸所发生的所有变化中，影响最深远的也许就是其艺术报道在范围和严肃性上不可阻挡的衰退。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2010-text1-s2",
+      "s": "It is difficult to the point of impossibility for the average reader under the age of forty to imagine a time when high-quality arts criticism could be found in most big-city newspapers.",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "It",
+        "谓语": "is",
+        "宾语或表语": "difficult",
+        "主干翻译": "这是困难的。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "to the point of impossibility",
+          "修饰对象": "difficult",
+          "中文翻译": "难到几乎不可能的地步",
+          "说明": "介词短语作状语，修饰 difficult，表示困难的程度。"
+        },
+        {
+          "成分类型": "状语从句(结果)",
+          "原文": "for the average reader under the age of forty to imagine a time when high-quality arts criticism could be found in most big-city newspapers",
+          "修饰对象": "is",
+          "中文翻译": "对于一个四十岁以下的普通读者来说去想象一个曾经能在多数大城市报纸上读到高质量艺术评论的年代",
+          "说明": "for ... to do 不定式复合结构，it 为形式主语，该结构为真正主语；k 标为待定，此处定性为不定式逻辑主语+真正主语结构（for 引出逻辑主语，to imagine 为真主语）。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "when high-quality arts criticism could be found in most big-city newspapers",
+          "修饰对象": "time",
+          "中文翻译": "（那个）能在多数大城市报纸上读到高质量艺术评论的（年代）",
+          "说明": "when 引导定语从句，修饰先行词 time，作时间状语。"
+        }
+      ],
+      "zh": "对于一个四十岁以下的普通读者来说，要想象一个能在大多数大城市报纸上读到高质量艺术评论的年代，其难度几乎到了不可能的地步。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2010-text1-s3",
+      "s": "Yet a considerable number of the most significant collections of criticism published in the 20th century consisted in large part of newspaper reviews.",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "a considerable number",
+        "谓语": "consisted in large part of",
+        "宾语或表语": "newspaper reviews",
+        "主干翻译": "相当多的（评论集）大部分由报纸评论构成。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "of the most significant collections of criticism",
+          "修饰对象": "number",
+          "中文翻译": "最重要的评论集中的（相当一部分）",
+          "说明": "介词短语作后置定语，限定 a considerable number。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "published in the 20th century",
+          "修饰对象": "collections",
+          "中文翻译": "在20世纪出版的（评论集）",
+          "说明": "过去分词短语作后置定语，修饰 collections。"
+        }
+      ],
+      "zh": "然而，20世纪出版的最重要的评论集中，相当一部分大部分都是由报纸评论构成的。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2010-text1-s4",
+      "s": "To read such books today is to marvel at the fact that their learned contents were once deemed suitable for publication in general-circulation dailies.",
+      "para_no": 2,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "To read such books today",
+        "谓语": "is",
+        "宾语或表语": "to marvel at the fact",
+        "主干翻译": "今天读这样的书就是惊叹于这一事实。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "To read such books today",
+          "修饰对象": "—",
+          "中文翻译": "今天读这样的书",
+          "说明": "不定式短语作主语（主干主语），此处为不定式作主语结构。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "that their learned contents were once deemed suitable for publication in general-circulation dailies",
+          "修饰对象": "fact",
+          "中文翻译": "它们博学的内容曾被认为适合在面向大众发行的日报上发表",
+          "说明": "that 引导同位语从句，解释说明 the fact 的具体内容。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "for publication in general-circulation dailies",
+          "修饰对象": "suitable",
+          "中文翻译": "适合在大众发行的日报上发表",
+          "说明": "介词短语作状语，修饰 suitable，说明适合的方面。"
+        }
+      ],
+      "zh": "今天读这样的书，会让人惊叹于这样一个事实：它们那些博学的内容竟曾被认为适合发表在面向大众发行的日报上。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2010-text1-s5",
+      "s": "We are even farther removed from the unfocused newspaper reviews published in England between the turn of the 20th century and the eve of World War II, at a time when newsprint was dirt-cheap and stylish arts criticism was considered an ornament to the publications in which it appeared.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "We",
+        "谓语": "are removed from",
+        "宾语或表语": "the unfocused newspaper reviews",
+        "主干翻译": "我们与那些散漫的报纸评论相距更远了。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "published in England between the turn of the 20th century and the eve of World War II",
+          "修饰对象": "reviews",
+          "中文翻译": "在20世纪初到二战前夕之间发表于英国的（评论）",
+          "说明": "过去分词短语作后置定语，修饰 reviews。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "the turn of the 20th century and the eve of World War II",
+          "修饰对象": "between",
+          "中文翻译": "20世纪初与二战前夕",
+          "说明": "between A and B 并列结构，作 published 的时间状语。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "at a time",
+          "修饰对象": "published",
+          "中文翻译": "在那样一个年代",
+          "说明": "介词短语作时间状语，引出后接定语从句。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "when newsprint was dirt-cheap and stylish arts criticism was considered an ornament to the publications in which it appeared",
+          "修饰对象": "time",
+          "中文翻译": "（那时）新闻纸极其便宜，而有格调的艺术评论被视为它所刊登的出版物的一种点缀",
+          "说明": "when 引导定语从句，修饰先行词 time。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "newsprint was dirt-cheap and stylish arts criticism was considered an ornament to the publications in which it appeared",
+          "修饰对象": "when",
+          "中文翻译": "新闻纸极其便宜，而有格调的艺术评论被视为点缀",
+          "说明": "and 连接定语从句内部的两个并列分句。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "in which it appeared",
+          "修饰对象": "publications",
+          "中文翻译": "它（评论）所刊登于其中的（出版物）",
+          "说明": "in which 引导定语从句，修饰 publications，关系代词作介词宾语。"
+        }
+      ],
+      "zh": "我们与那些散漫的报纸评论相隔得更远了——它们发表于20世纪初到二战前夕之间的英国，在那个年代，新闻纸极其廉价，而有格调的艺术评论被视为它所刊登的出版物的一种点缀。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2010-text1-s6",
+      "s": "In those far-off days, it was taken for granted that the critics of major papers would write in detail and at length about the events they covered.",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "it",
+        "谓语": "was taken for granted",
+        "宾语或表语": "that the critics of major papers would write...",
+        "主干翻译": "这被视为理所当然的事。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "In those far-off days",
+          "修饰对象": "was taken",
+          "中文翻译": "在那遥远的年代",
+          "说明": "句首介词短语作时间状语。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "for granted",
+          "修饰对象": "taken",
+          "中文翻译": "理所当然地",
+          "说明": "take ... for granted 固定搭配，for granted 作状语；k 标为待定，此处定性为介词短语作状语。"
+        },
+        {
+          "成分类型": "主语从句",
+          "原文": "that the critics of major papers would write in detail and at length about the events they covered",
+          "修饰对象": "it",
+          "中文翻译": "大报的评论家会对他们所报道的事件进行详尽而长篇的评论",
+          "说明": "that 引导主语从句，it 为形式主语，该从句为真正主语；k 标为宾语/表语从句，按 it 形式主语结构应定性为主语从句。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "they covered",
+          "修饰对象": "events",
+          "中文翻译": "他们所报道的（事件）",
+          "说明": "省略关系代词 that/which 的定语从句，修饰 events。"
+        }
+      ],
+      "zh": "在那遥远的年代，大报的评论家会对他们所报道的事件进行详尽而长篇的评论，这被认为是理所当然的事。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2010-text1-s7",
+      "s": "Theirs was a serious business, and even those reviewers who wore their learning lightly, like George Bernard Shaw and Ernest Newman, could be trusted to know what they were about.",
+      "para_no": 3,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Theirs / those reviewers",
+        "谓语": "was / could be trusted",
+        "宾语或表语": "a serious business",
+        "主干翻译": "他们的工作是一项严肃的事业，甚至那些评论家也可以被信赖。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "even those reviewers who wore their learning lightly, like George Bernard Shaw and Ernest Newman, could be trusted to know what they were about.",
+          "修饰对象": "was",
+          "中文翻译": "甚至那些不张扬其学识的评论家，如萧伯纳和欧内斯特·纽曼，也可以被信赖是懂行的",
+          "说明": "and 连接两个并列分句，构成全句的两个主谓结构。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "who wore their learning lightly",
+          "修饰对象": "reviewers",
+          "中文翻译": "那些不炫耀其学识的（评论家）",
+          "说明": "who 引导定语从句，修饰 reviewers。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "like George Bernard Shaw and Ernest Newman",
+          "修饰对象": "reviewers",
+          "中文翻译": "比如萧伯纳和欧内斯特·纽曼",
+          "说明": "like 引导的举例短语作插入语，举例说明 reviewers。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to know what they were about",
+          "修饰对象": "trusted",
+          "中文翻译": "懂得自己在做什么",
+          "说明": "不定式短语作 be trusted 的补足成分（宾补/状语）。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "what they were about",
+          "修饰对象": "know",
+          "中文翻译": "他们在做什么（懂行）",
+          "说明": "what 引导宾语从句，作 know 的宾语；know what one is about 意为懂行、内行。"
+        }
+      ],
+      "zh": "他们的工作是一项严肃的事业，即便是那些把学问看得很轻、不事张扬的评论家，比如萧伯纳和欧内斯特·纽曼，也可以让人信赖他们是懂行的。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2010-text1-s8",
+      "s": "These men believed in journalism as a calling, and were proud to be published in the daily press.",
+      "para_no": 3,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "These men",
+        "谓语": "believed in / were",
+        "宾语或表语": "journalism / proud",
+        "主干翻译": "这些人把新闻业当作一种使命来信奉，并为之自豪。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "were proud to be published in the daily press",
+          "修饰对象": "believed",
+          "中文翻译": "并以能在日报上发表作品为荣",
+          "说明": "and 连接 believed 与 were 两个并列谓语。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "as a calling",
+          "修饰对象": "believed",
+          "中文翻译": "把它当作一种神圣的职业（使命）",
+          "说明": "as 引导介词短语作状语，说明信奉新闻业的方式/身份。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to be published in the daily press",
+          "修饰对象": "proud",
+          "中文翻译": "在日报上发表作品",
+          "说明": "不定式短语作 proud 的补足成分，说明自豪的原因。"
+        }
+      ],
+      "zh": "这些人把新闻业视为一种神圣的职业来信奉，并以能在日报上发表作品为荣。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2010-text1-s9",
+      "s": "\"So few authors have brains enough or literary gift enough to keep their own end up in journalism,\"",
+      "para_no": 3,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "So few authors",
+        "谓语": "have",
+        "宾语或表语": "brains enough or literary gift enough",
+        "主干翻译": "极少有作者具有足够的才智或足够的文学天赋。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "brains enough or literary gift enough to keep their own end up in journalism",
+          "修饰对象": "have",
+          "中文翻译": "足够的才智或足够的文学天赋来在新闻业中站稳脚跟",
+          "说明": "or 连接 brains enough 与 literary gift enough 两个并列宾语。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to keep their own end up in journalism",
+          "修饰对象": "gift",
+          "中文翻译": "在新闻业中站稳脚跟（的天赋）",
+          "说明": "不定式短语作后置定语，修饰 brains/gift，与 enough 呼应（enough ... to do）。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "their own end up in journalism",
+          "修饰对象": "keep",
+          "中文翻译": "在新闻业中保持自己的水准/地位",
+          "说明": "keep one's end up 固定短语，意为坚持住、不落下风；此处为 keep 的宾语成分。"
+        }
+      ],
+      "zh": "“能有足够的才智或足够的文学天赋来在新闻业中站稳脚跟的作者实在太少了，",
+      "underline": null
+    },
+    {
+      "sid": "en1-2010-text1-s10",
+      "s": "Newman wrote, \"that I am tempted to define 'journalism' as 'a term of contempt applied by writers who are not read to writers who are'.\"",
+      "para_no": 3,
+      "para_seq": 5,
+      "trunk": {
+        "主语": "Newman / I",
+        "谓语": "wrote / am tempted",
+        "宾语或表语": "（引语内容）",
+        "主干翻译": "纽曼写道，以至于我禁不住想给“新闻业”下定义。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "that I am tempted to define 'journalism' as 'a term of contempt applied by writers who are not read to writers who are'",
+          "修饰对象": "wrote",
+          "中文翻译": "以至于我禁不住想把“新闻业”定义为“一个由无人问津的作家用来蔑称那些拥有读者的作家的词”",
+          "说明": "that 引导结果状语从句，与上句 so few ... 的 so 呼应（so...that 结果），此处作 wrote 所引内容的延续；定性为宾语从句（承接 so...that 结果含义）。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to define 'journalism' as 'a term of contempt applied by writers who are not read to writers who are'",
+          "修饰对象": "tempted",
+          "中文翻译": "去把“新闻业”定义为一个蔑称",
+          "说明": "不定式短语作 tempted 的补足成分。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "applied by writers who are not read to writers who are",
+          "修饰对象": "term",
+          "中文翻译": "被无人阅读的作家用来针对有人阅读的作家的（蔑称）",
+          "说明": "过去分词短语作后置定语，修饰 a term of contempt；applied ... to ... 表示用于针对。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "who are not read",
+          "修饰对象": "writers",
+          "中文翻译": "无人阅读的（作家）",
+          "说明": "who 引导定语从句，修饰前一个 writers。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "who are",
+          "修饰对象": "writers",
+          "中文翻译": "有人阅读的（作家）",
+          "说明": "who are 引导定语从句，修饰后一个 writers，其后省略了 read（who are read）。"
+        }
+      ],
+      "zh": "纽曼写道，“以至于我禁不住想把‘新闻业’定义为‘一个被无人问津的作家用来蔑称那些拥有读者的作家的词’。”",
+      "underline": null
+    },
+    {
+      "sid": "en1-2010-text1-s11",
+      "s": "Unfortunately, these critics are virtually forgotten.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "these critics",
+        "谓语": "are forgotten",
+        "宾语或表语": "—",
+        "主干翻译": "这些评论家被遗忘了。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "Unfortunately",
+          "修饰对象": "are forgotten",
+          "中文翻译": "不幸的是",
+          "说明": "副词作句首插入语，表达说话者态度。"
+        }
+      ],
+      "zh": "不幸的是，这些评论家几乎都被遗忘了。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2010-text1-s12",
+      "s": "Neville Cardus, who wrote for the Manchester Guardian from 1917 until shortly before his death in 1975, is now known solely as a writer of essays on the game of cricket.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Neville Cardus",
+        "谓语": "is known",
+        "宾语或表语": "as a writer of essays",
+        "主干翻译": "内维尔·卡迪斯如今仅以板球随笔作家而为人所知。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "who wrote for the Manchester Guardian from 1917 until shortly before his death in 1975",
+          "修饰对象": "Cardus",
+          "中文翻译": "从1917年直到1975年去世前不久一直为《曼彻斯特卫报》撰稿的（卡迪斯）",
+          "说明": "who 引导非限制性定语从句，修饰 Neville Cardus。"
+        },
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "of essays on the game of cricket",
+          "修饰对象": "writer",
+          "中文翻译": "关于板球运动随笔的（作家）",
+          "说明": "介词短语作后置定语，限定 a writer 的写作内容。"
+        }
+      ],
+      "zh": "内维尔·卡迪斯从1917年起直到1975年去世前不久一直为《曼彻斯特卫报》撰稿，但如今他仅仅以一位写板球随笔的作家而为人所知。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2010-text1-s13",
+      "s": "During his lifetime, though, he was also one of England's foremost classical-music critics and a stylist so widely admired that his Autobiography (1947) became a best-seller.",
+      "para_no": 4,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "he",
+        "谓语": "was",
+        "宾语或表语": "one of England's foremost classical-music critics",
+        "主干翻译": "他也是英国最重要的古典音乐评论家之一。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "During his lifetime",
+          "修饰对象": "was",
+          "中文翻译": "在他生前",
+          "说明": "句首介词短语作时间状语。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "though",
+          "修饰对象": "was",
+          "中文翻译": "不过",
+          "说明": "副词作插入语，表转折。"
+        },
+        {
+          "成分类型": "同位语",
+          "原文": "a stylist so widely admired that his Autobiography (1947) became a best-seller",
+          "修饰对象": "one",
+          "中文翻译": "一位备受推崇、以至于其《自传》(1947) 成为畅销书的文体家",
+          "说明": "名词短语作同位语，进一步说明 he/one。"
+        },
+        {
+          "成分类型": "状语从句(结果)",
+          "原文": "so widely admired that his Autobiography (1947) became a best-seller",
+          "修饰对象": "stylist",
+          "中文翻译": "如此广受推崇，以至于他的《自传》(1947) 成为畅销书",
+          "说明": "so ... that ... 结果状语结构，修饰 stylist（admired）；k 标 admired/that 宾语或表语从句，按 so...that 应定性为结果状语从句。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "1947",
+          "修饰对象": "Autobiography",
+          "中文翻译": "1947年",
+          "说明": "括号内年份作同位/插入成分，说明《自传》出版年份。"
+        }
+      ],
+      "zh": "不过，在他生前，他还是英国最重要的古典音乐评论家之一，是一位备受推崇的文体家，以至于他的《自传》（1947年）成了畅销书。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2010-text1-s14",
+      "s": "He was knighted in 1967, the first music critic to be so honored.",
+      "para_no": 4,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "He",
+        "谓语": "was knighted",
+        "宾语或表语": "—",
+        "主干翻译": "他于1967年被封为爵士。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "in 1967",
+          "修饰对象": "was knighted",
+          "中文翻译": "在1967年",
+          "说明": "介词短语作时间状语。"
+        },
+        {
+          "成分类型": "同位语",
+          "原文": "the first music critic to be so honored",
+          "修饰对象": "He",
+          "中文翻译": "第一位获此殊荣的音乐评论家",
+          "说明": "名词短语作同位语，补充说明 He。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to be so honored",
+          "修饰对象": "critic",
+          "中文翻译": "获此殊荣的（评论家）",
+          "说明": "不定式短语作后置定语，修饰 the first music critic。"
+        }
+      ],
+      "zh": "他于1967年被封为爵士，是第一位获此殊荣的音乐评论家。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2010-text1-s15",
+      "s": "Yet only one of his books is now in print, and his vast body of writings on music is unknown save to specialists.",
+      "para_no": 4,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "only one of his books / his vast body of writings",
+        "谓语": "is",
+        "宾语或表语": "in print / unknown",
+        "主干翻译": "如今他只有一本书在印行，而他大量的音乐论著则鲜为人知。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "his vast body of writings on music is unknown save to specialists.",
+          "修饰对象": "is",
+          "中文翻译": "他大量的音乐论著除了专家以外无人知晓",
+          "说明": "and 连接两个并列分句。"
+        },
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "of writings on music",
+          "修饰对象": "body",
+          "中文翻译": "关于音乐的论著的（庞大主体）",
+          "说明": "介词短语作后置定语，限定 his vast body。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "save to specialists",
+          "修饰对象": "unknown",
+          "中文翻译": "除了对专家而言",
+          "说明": "save 作介词，引出例外，作状语修饰 unknown。"
+        }
+      ],
+      "zh": "然而如今他只有一本书还在印行，而他大量的音乐论著除了专家之外几乎无人知晓。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2010-text1-s16",
+      "s": "Is there any chance that Cardus's criticism will enjoy a revival?",
+      "para_no": 5,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "any chance",
+        "谓语": "Is there",
+        "宾语或表语": "—",
+        "主干翻译": "有任何可能性吗？"
+      },
+      "components": [
+        {
+          "成分类型": "同位语从句",
+          "原文": "that Cardus's criticism will enjoy a revival",
+          "修饰对象": "chance",
+          "中文翻译": "卡迪斯的评论会迎来复兴",
+          "说明": "that 引导同位语从句，解释说明 chance 的内容。"
+        }
+      ],
+      "zh": "卡迪斯的评论有没有可能迎来复兴呢？",
+      "underline": null
+    },
+    {
+      "sid": "en1-2010-text1-s17",
+      "s": "The prospect seems remote.",
+      "para_no": 5,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "The prospect",
+        "谓语": "seems",
+        "宾语或表语": "remote",
+        "主干翻译": "这种前景似乎很渺茫。"
+      },
+      "components": [],
+      "zh": "这种前景似乎很渺茫。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2010-text1-s18",
+      "s": "Journalistic tastes had changed long before his death, and postmodern readers have little use for the richly upholstered Vicwardian prose in which he specialized.",
+      "para_no": 5,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Journalistic tastes / postmodern readers",
+        "谓语": "had changed / have",
+        "宾语或表语": "little use",
+        "主干翻译": "新闻品味早已改变，后现代读者对那种文风也几无用处。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "long before his death",
+          "修饰对象": "changed",
+          "中文翻译": "早在他去世之前很久",
+          "说明": "before 引导时间状语，long 修饰程度；作 had changed 的时间状语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "postmodern readers have little use for the richly upholstered Vicwardian prose in which he specialized.",
+          "修饰对象": "changed",
+          "中文翻译": "后现代读者对他所擅长的那种华丽繁复的维多利亚-爱德华时代散文几乎没有兴趣",
+          "说明": "and 连接两个并列分句。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "in which he specialized",
+          "修饰对象": "prose",
+          "中文翻译": "他所擅长的（散文）",
+          "说明": "in which 引导定语从句，修饰 prose，关系代词作介词宾语（specialize in）。"
+        }
+      ],
+      "zh": "不过，早在他去世之前很久，新闻品味就已经改变了，而后现代读者对他所擅长的那种辞藻华丽、繁复堆砌的维多利亚-爱德华时代散文几乎毫无兴趣。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2010-text1-s19",
+      "s": "Moreover, the amateur tradition in music criticism has been in headlong retreat.",
+      "para_no": 5,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "the amateur tradition",
+        "谓语": "has been",
+        "宾语或表语": "in headlong retreat",
+        "主干翻译": "业余传统一直在急速退却。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "Moreover",
+          "修饰对象": "has been",
+          "中文翻译": "此外",
+          "说明": "副词作句首插入语，表递进。"
+        },
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "in music criticism",
+          "修饰对象": "tradition",
+          "中文翻译": "音乐评论中的（业余传统）",
+          "说明": "介词短语作后置定语，限定 the amateur tradition。"
+        }
+      ],
+      "zh": "此外，音乐评论中的业余传统一直在急速地退却。",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2010-text1-s1"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2010-text1-s2",
+        "en1-2010-text1-s3",
+        "en1-2010-text1-s4"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2010-text1-s5",
+        "en1-2010-text1-s6",
+        "en1-2010-text1-s7",
+        "en1-2010-text1-s8",
+        "en1-2010-text1-s9",
+        "en1-2010-text1-s10"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2010-text1-s11",
+        "en1-2010-text1-s12",
+        "en1-2010-text1-s13",
+        "en1-2010-text1-s14",
+        "en1-2010-text1-s15"
+      ]
+    },
+    {
+      "para_no": 5,
+      "sids": [
+        "en1-2010-text1-s16",
+        "en1-2010-text1-s17",
+        "en1-2010-text1-s18",
+        "en1-2010-text1-s19"
+      ]
+    }
+  ]
+}

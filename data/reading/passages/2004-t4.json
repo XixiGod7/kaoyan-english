@@ -1,0 +1,854 @@
+{
+  "exam": "en1",
+  "key": "2004-t4",
+  "year": 2004,
+  "text_no": 4,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2004-text4-s1",
+      "s": "Americans today don't place a very high value on intellect.",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Americans",
+        "谓语": "don't place",
+        "宾语或表语": "a very high value",
+        "主干翻译": "如今的美国人并不十分看重智识。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "today",
+          "修饰对象": "place",
+          "中文翻译": "如今",
+          "说明": "时间状语，修饰谓语place。"
+        },
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "on intellect",
+          "修饰对象": "value",
+          "中文翻译": "对智识的",
+          "说明": "place a value on intellect固定搭配，on intellect表明所看重的对象。"
+        }
+      ],
+      "zh": "如今的美国人并不十分看重智识。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2004-text4-s2",
+      "s": "Our heroes are athletes, entertainers, and entrepreneurs, not scholars.",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Our heroes",
+        "谓语": "are",
+        "宾语或表语": "athletes, entertainers, and entrepreneurs",
+        "主干翻译": "我们的英雄是运动员、演艺人员和企业家。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "entertainers, and entrepreneurs",
+          "修饰对象": "athletes",
+          "中文翻译": "演艺人员和企业家",
+          "说明": "与athletes并列构成表语，共同充当系动词are的表语。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "not scholars",
+          "修饰对象": "athletes",
+          "中文翻译": "而不是学者",
+          "说明": "对表语的补充否定，强调英雄不是学者。"
+        }
+      ],
+      "zh": "我们心目中的英雄是运动员、演艺人员和企业家，而不是学者。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2004-text4-s3",
+      "s": "Even our schools are where we send our children to get a practical education—not to pursue knowledge for the sake of knowledge.",
+      "para_no": 1,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "our schools",
+        "谓语": "are",
+        "宾语或表语": "where we send our children...",
+        "主干翻译": "连我们的学校也成了我们送孩子去的地方。"
+      },
+      "components": [
+        {
+          "成分类型": "表语从句",
+          "原文": "where we send our children to get a practical education—not to pursue knowledge for the sake of knowledge",
+          "修饰对象": "are",
+          "中文翻译": "我们把孩子送去接受实用教育、而非为知识本身去追求知识的地方",
+          "说明": "where引导表语从句，作系动词are的表语，相当于the place where。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to get a practical education—not to pursue knowledge for the sake of knowledge",
+          "修饰对象": "send",
+          "中文翻译": "去接受实用教育，而非为知识本身追求知识",
+          "说明": "不定式作目的状语，修饰send，说明送孩子去学校的目的；破折号后为对比性否定补充。"
+        }
+      ],
+      "zh": "就连我们的学校也成了把孩子送去接受实用教育的地方，而不是为求知本身而追求知识的地方。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2004-text4-s4",
+      "s": "Symptoms of pervasive anti-intellectualism in our schools aren't difficult to find.",
+      "para_no": 1,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "Symptoms",
+        "谓语": "aren't",
+        "宾语或表语": "difficult",
+        "主干翻译": "种种迹象并不难。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "of pervasive anti-intellectualism in our schools",
+          "修饰对象": "Symptoms",
+          "中文翻译": "我们学校中普遍存在的反智主义的",
+          "说明": "介词短语作后置定语，修饰Symptoms。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to find",
+          "修饰对象": "difficult",
+          "中文翻译": "找到",
+          "说明": "不定式作状语补足形容词difficult，构成difficult to find结构。"
+        }
+      ],
+      "zh": "我们学校中普遍存在的反智主义的种种迹象不难发现。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2004-text4-s5",
+      "s": "\"Schools have always been in a society where practical is more important than intellectual,\" says education writer Diane Ravitch.",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "education writer Diane Ravitch",
+        "谓语": "says",
+        "宾语或表语": "Schools have always been in a society...",
+        "主干翻译": "教育作家黛安·拉维奇说，学校一向处在一个社会里。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "Schools have always been in a society where practical is more important than intellectual",
+          "修饰对象": "says",
+          "中文翻译": "学校一向处在一个实用比智识更重要的社会之中",
+          "说明": "作says的直接引语宾语（引号内为引述内容）。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "where practical is more important than intellectual",
+          "修饰对象": "society",
+          "中文翻译": "在那里实用比智识更重要",
+          "说明": "where引导定语从句，修饰society，从句内含比较结构more...than。"
+        }
+      ],
+      "zh": "教育作家黛安·拉维奇说：“学校一向处在一个实用比智识更重要的社会之中。”",
+      "underline": null
+    },
+    {
+      "sid": "en1-2004-text4-s6",
+      "s": "\"Schools could be a counterbalance.\"",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Schools",
+        "谓语": "could be",
+        "宾语或表语": "a counterbalance",
+        "主干翻译": "学校本可以成为一种制衡力量。"
+      },
+      "components": [],
+      "zh": "“学校本可以成为一种制衡的力量。”",
+      "underline": null
+    },
+    {
+      "sid": "en1-2004-text4-s7",
+      "s": "Ravitch's latest book.",
+      "para_no": 2,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Ravitch's latest book",
+        "谓语": "—",
+        "宾语或表语": "—",
+        "主干翻译": "拉维奇的最新著作。"
+      },
+      "components": [],
+      "zh": "拉维奇的最新著作。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2004-text4-s8",
+      "s": "Left Back: A Century of Failed School Reforms, traces the roots of anti-intellectualism in our schools, concluding they are anything but a counterbalance to the American distaste for intellectual pursuits.",
+      "para_no": 2,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "Left Back",
+        "谓语": "traces",
+        "宾语或表语": "the roots",
+        "主干翻译": "《落在后面》追溯了根源。"
+      },
+      "components": [
+        {
+          "成分类型": "同位语",
+          "原文": "A Century of Failed School Reforms",
+          "修饰对象": "Back",
+          "中文翻译": "一个世纪以来失败的学校改革",
+          "说明": "作书名Left Back的同位语，说明副标题。"
+        },
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "of anti-intellectualism in our schools",
+          "修饰对象": "roots",
+          "中文翻译": "我们学校中反智主义的",
+          "说明": "介词短语作后置定语，修饰roots。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "concluding they are anything but a counterbalance to the American distaste for intellectual pursuits",
+          "修饰对象": "traces",
+          "中文翻译": "并得出结论说学校绝非对美国人厌恶智识追求这一倾向的制衡",
+          "说明": "现在分词短语作伴随结果状语，修饰traces。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "they are anything but a counterbalance to the American distaste for intellectual pursuits",
+          "修饰对象": "concluding",
+          "中文翻译": "学校绝不是对美国人厌恶智识追求的制衡",
+          "说明": "省略that的宾语从句，作concluding的宾语；anything but意为“绝不是”。"
+        }
+      ],
+      "zh": "《落在后面：一个世纪以来失败的学校改革》追溯了我们学校中反智主义的根源，并得出结论说：学校根本没有对美国人厌恶智识追求的倾向起到制衡作用。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2004-text4-s9",
+      "s": "But they could and should be.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "they",
+        "谓语": "could and should be",
+        "宾语或表语": "(a counterbalance)",
+        "主干翻译": "但它们本可以、也理应成为这样的制衡。"
+      },
+      "components": [
+        {
+          "成分类型": "省略",
+          "原文": "could and should be",
+          "修饰对象": "—",
+          "中文翻译": "本可以也理应成为（制衡）",
+          "说明": "be后省略了表语a counterbalance，承接上文。"
+        }
+      ],
+      "zh": "但学校本可以、也理应成为这样的制衡力量。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2004-text4-s10",
+      "s": "Encouraging kids to reject the life of the mind leaves them vulnerable to exploitation and control.",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Encouraging kids to reject the life of the mind",
+        "谓语": "leaves",
+        "宾语或表语": "them vulnerable",
+        "主干翻译": "鼓励孩子拒斥心智生活使他们易受伤害。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to reject the life of the mind",
+          "修饰对象": "Encouraging",
+          "中文翻译": "去拒斥心智的生活",
+          "说明": "不定式作encourage的宾语补足语，encourage sb to do结构；整个动名词短语Encouraging...作主语。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "to exploitation and control",
+          "修饰对象": "vulnerable",
+          "中文翻译": "受到剥削和操控",
+          "说明": "介词短语补足形容词vulnerable，说明易受何种伤害。"
+        }
+      ],
+      "zh": "鼓励孩子拒斥心智生活，会使他们易受剥削和操控。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2004-text4-s11",
+      "s": "Without the ability to think critically, to defend their ideas and understand the ideas of others, they cannot fully participate in our democracy.",
+      "para_no": 3,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "they",
+        "谓语": "cannot participate",
+        "宾语或表语": "(in our democracy)",
+        "主干翻译": "他们就无法充分参与我们的民主。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "Without the ability to think critically, to defend their ideas and understand the ideas of others",
+          "修饰对象": "cannot fully participate",
+          "中文翻译": "如果不具备批判性思考、捍卫自己观点并理解他人观点的能力",
+          "说明": "without介词短语作条件状语，修饰主句谓语。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to think critically, to defend their ideas and understand the ideas of others",
+          "修饰对象": "ability",
+          "中文翻译": "批判性思考、捍卫自己的观点并理解他人观点的",
+          "说明": "不定式短语作后置定语，修饰ability。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "understand the ideas of others",
+          "修饰对象": "defend",
+          "中文翻译": "理解他人的观点",
+          "说明": "与defend their ideas并列，共同受不定式to支配。"
+        }
+      ],
+      "zh": "如果不具备批判性思考、捍卫自己观点并理解他人观点的能力，他们就无法充分参与我们的民主。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2004-text4-s12",
+      "s": "Continuing along this path, says writer Earl Shorris, \"We will become a second-rate country.",
+      "para_no": 3,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "We",
+        "谓语": "will become",
+        "宾语或表语": "a second-rate country",
+        "主干翻译": "我们将沦为一个二流国家。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "Continuing along this path",
+          "修饰对象": "become",
+          "中文翻译": "沿着这条道路继续走下去",
+          "说明": "现在分词短语作条件状语，逻辑主语为we。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "says writer Earl Shorris",
+          "修饰对象": "—",
+          "中文翻译": "作家厄尔·肖里斯说",
+          "说明": "插入语，标明引语出处。"
+        }
+      ],
+      "zh": "作家厄尔·肖里斯说，沿着这条道路走下去，“我们将沦为一个二流国家。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2004-text4-s13",
+      "s": "We will have a less civil society.\"",
+      "para_no": 3,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "We",
+        "谓语": "will have",
+        "宾语或表语": "a less civil society",
+        "主干翻译": "我们将拥有一个不那么文明的社会。"
+      },
+      "components": [],
+      "zh": "我们将拥有一个文明程度更低的社会。”",
+      "underline": null
+    },
+    {
+      "sid": "en1-2004-text4-s14",
+      "s": "\"Intellect is resented as a form of power or privilege,\" writes historian and professor Richard Hofstadter in Anti-intellectualism in American Life, a Pulitzer-Prize winning book on the roots of anti-intellectualism in US politics, religion, and education.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "historian and professor Richard Hofstadter",
+        "谓语": "writes",
+        "宾语或表语": "Intellect is resented...",
+        "主干翻译": "历史学家兼教授理查德·霍夫施塔特写道，智识遭人忌恨。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "Intellect is resented as a form of power or privilege",
+          "修饰对象": "writes",
+          "中文翻译": "智识被当作一种权力或特权而遭人忌恨",
+          "说明": "作writes的引语宾语；as引导方式状语。"
+        },
+        {
+          "成分类型": "同位语",
+          "原文": "a Pulitzer-Prize winning book on the roots of anti-intellectualism in US politics, religion, and education",
+          "修饰对象": "Anti-intellectualism in American Life",
+          "中文翻译": "一本荣获普利策奖、探讨美国政治、宗教与教育中反智主义根源的著作",
+          "说明": "作书名Anti-intellectualism in American Life的同位语。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "in Anti-intellectualism in American Life",
+          "修饰对象": "writes",
+          "中文翻译": "在《美国生活中的反智主义》一书中",
+          "说明": "介词短语作地点状语，修饰writes，说明出处。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "religion, and education",
+          "修饰对象": "politics",
+          "中文翻译": "宗教与教育",
+          "说明": "与politics并列，同受in支配。"
+        }
+      ],
+      "zh": "历史学家兼教授理查德·霍夫施塔特在《美国生活中的反智主义》一书中写道：“智识被当作一种权力或特权而遭人忌恨。”该书荣获普利策奖，探讨了美国政治、宗教和教育中反智主义的根源。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2004-text4-s15",
+      "s": "From the beginning of our history, says Hofstadter, our democratic and populist urges have driven us to reject anything that smells of elitism.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "our democratic and populist urges",
+        "谓语": "have driven",
+        "宾语或表语": "us",
+        "主干翻译": "我们的民主和民粹冲动促使我们。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "From the beginning of our history",
+          "修饰对象": "have driven",
+          "中文翻译": "从我们历史之初起",
+          "说明": "介词短语作时间状语，修饰主句谓语。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "says Hofstadter",
+          "修饰对象": "—",
+          "中文翻译": "霍夫施塔特说",
+          "说明": "插入语，标明引述出处。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to reject anything that smells of elitism",
+          "修饰对象": "driven",
+          "中文翻译": "去拒斥任何带有精英主义气息的东西",
+          "说明": "不定式作drive sb to do的宾语补足语。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that smells of elitism",
+          "修饰对象": "anything",
+          "中文翻译": "带有精英主义气息的",
+          "说明": "that引导定语从句，修饰anything。"
+        }
+      ],
+      "zh": "霍夫施塔特说，从我们历史伊始，我们的民主和民粹冲动就驱使我们拒斥任何带有精英主义气息的东西。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2004-text4-s16",
+      "s": "Practicality, common sense, and native intelligence have been considered more noble qualities than anything you could learn from a book.",
+      "para_no": 4,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Practicality, common sense, and native intelligence",
+        "谓语": "have been considered",
+        "宾语或表语": "more noble qualities",
+        "主干翻译": "务实、常识和天生才智被视为更高贵的品质。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "common sense, and native intelligence",
+          "修饰对象": "Practicality",
+          "中文翻译": "常识和天生的才智",
+          "说明": "与Practicality并列构成主语。"
+        },
+        {
+          "成分类型": "状语从句(比较)",
+          "原文": "than anything you could learn from a book",
+          "修饰对象": "more noble",
+          "中文翻译": "比你能从书本中学到的任何东西",
+          "说明": "more...than比较结构中的than比较状语。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "you could learn from a book",
+          "修饰对象": "anything",
+          "中文翻译": "你能从书本中学到的",
+          "说明": "省略关系代词that的定语从句，修饰anything。"
+        }
+      ],
+      "zh": "务实、常识和天生才智一向被视为比你能从书本中学到的任何东西都更为高贵的品质。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2004-text4-s17",
+      "s": "Ralph Waldo Emerson and other Transcendentalist philosophers thought schooling and rigorous book learning put unnatural restraints on children: \"We are shut up in schools and college recitation rooms for 10 or 15 years and come out at last with a bellyful of words and do not know a thing.\"Mark Twain's Huckleberry Finn exemplified American anti-intellectualism.",
+      "para_no": 5,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Ralph Waldo Emerson and other Transcendentalist philosophers",
+        "谓语": "thought",
+        "宾语或表语": "schooling and rigorous book learning put unnatural restraints...",
+        "主干翻译": "爱默生和其他超验主义哲学家认为，学校教育和严格的书本学习对孩子施加了不自然的束缚。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "other Transcendentalist philosophers",
+          "修饰对象": "Emerson",
+          "中文翻译": "其他超验主义哲学家",
+          "说明": "与Emerson并列构成主语。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "schooling and rigorous book learning put unnatural restraints on children",
+          "修饰对象": "thought",
+          "中文翻译": "学校教育和严格的书本学习给孩子施加了不自然的束缚",
+          "说明": "省略that的宾语从句，作thought的宾语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "rigorous book learning",
+          "修饰对象": "schooling",
+          "中文翻译": "严格的书本学习",
+          "说明": "与schooling并列作宾语从句主语。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "We are shut up in schools and college recitation rooms for 10 or 15 years and come out at last with a bellyful of words and do not know a thing",
+          "修饰对象": "thought",
+          "中文翻译": "我们在学校和大学的背诵课堂里被关上十年或十五年，最后满腹辞藻地走出来，却什么都不懂",
+          "说明": "冒号后引语，进一步阐述thought的内容。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "college recitation rooms",
+          "修饰对象": "schools",
+          "中文翻译": "大学的背诵课堂",
+          "说明": "与schools并列，同受in支配。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "come out at last with a bellyful of words and do not know a thing",
+          "修饰对象": "shut",
+          "中文翻译": "最后满腹辞藻地走出来，却什么都不懂",
+          "说明": "与are shut up并列，共享主语We。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "do not know a thing",
+          "修饰对象": "come",
+          "中文翻译": "什么都不懂",
+          "说明": "与come out并列，共享主语We。"
+        }
+      ],
+      "zh": "拉尔夫·沃尔多·爱默生和其他超验主义哲学家认为，学校教育和严格的书本学习给孩子施加了不自然的束缚：“我们被关在学校和大学的背诵课堂里十年或十五年，最后满腹辞藻地走出来，却什么都不懂。”马克·吐温笔下的哈克贝利·费恩正是美国反智主义的典型。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2004-text4-s18",
+      "s": "Its hero avoids being civilized—going to school and learning to read—so he can preserve his innate goodness.",
+      "para_no": 5,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Its hero",
+        "谓语": "avoids",
+        "宾语或表语": "being civilized",
+        "主干翻译": "它的主人公拒绝被文明化。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "going to school and learning to read",
+          "修饰对象": "being civilized",
+          "中文翻译": "上学和学习读书",
+          "说明": "破折号间的动名词短语，对being civilized作解释说明。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "learning to read",
+          "修饰对象": "going",
+          "中文翻译": "学习读书",
+          "说明": "与going to school并列。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to read",
+          "修饰对象": "learning",
+          "中文翻译": "读书",
+          "说明": "不定式作learn的宾语，learn to do结构。"
+        },
+        {
+          "成分类型": "状语从句(目的)",
+          "原文": "so he can preserve his innate goodness",
+          "修饰对象": "avoids",
+          "中文翻译": "以便保持他天生的善良",
+          "说明": "so引导目的状语从句，修饰avoids。"
+        }
+      ],
+      "zh": "书中的主人公拒绝被文明化——即拒绝上学和学习读书——这样他就能保持自己天生的善良。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2004-text4-s19",
+      "s": "Intellect, according to Hofstadter, is different from native intelligence, a quality we reluctantly admire.",
+      "para_no": 6,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Intellect",
+        "谓语": "is",
+        "宾语或表语": "different",
+        "主干翻译": "智识不同。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "according to Hofstadter",
+          "修饰对象": "—",
+          "中文翻译": "按照霍夫施塔特的说法",
+          "说明": "插入语，标明观点来源。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "from native intelligence",
+          "修饰对象": "different",
+          "中文翻译": "与天生的才智",
+          "说明": "different from结构，from短语补足形容词different。"
+        },
+        {
+          "成分类型": "同位语",
+          "原文": "a quality we reluctantly admire",
+          "修饰对象": "native intelligence",
+          "中文翻译": "一种我们勉强佩服的品质",
+          "说明": "作native intelligence的同位语。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "we reluctantly admire",
+          "修饰对象": "quality",
+          "中文翻译": "我们勉强佩服的",
+          "说明": "省略关系代词的定语从句，修饰quality。"
+        }
+      ],
+      "zh": "按照霍夫施塔特的说法，智识不同于天生的才智，后者是一种我们勉强佩服的品质。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2004-text4-s20",
+      "s": "Intellect is the critical, creative, and contemplative side of the mind.",
+      "para_no": 6,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Intellect",
+        "谓语": "is",
+        "宾语或表语": "the critical, creative, and contemplative side",
+        "主干翻译": "智识是批判、创造和沉思的一面。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "creative, and contemplative",
+          "修饰对象": "critical",
+          "中文翻译": "创造的和沉思的",
+          "说明": "与critical并列，共同修饰side。"
+        },
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "of the mind",
+          "修饰对象": "side",
+          "中文翻译": "心智的",
+          "说明": "介词短语作后置定语，修饰side。"
+        }
+      ],
+      "zh": "智识是心智中批判的、创造的和沉思的那一面。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2004-text4-s21",
+      "s": "Intelligence seeks to grasp, manipulate, re-order, and adjust, while intellect examines, ponders, wonders, theorizes, criticizes, and imagines.",
+      "para_no": 6,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Intelligence",
+        "谓语": "seeks",
+        "宾语或表语": "to grasp, manipulate, re-order, and adjust",
+        "主干翻译": "才智力求抓取、操控、重排和调整。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to grasp, manipulate, re-order, and adjust",
+          "修饰对象": "seeks",
+          "中文翻译": "去抓取、操控、重排和调整",
+          "说明": "不定式作seek的宾语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "manipulate, re-order, and adjust",
+          "修饰对象": "grasp",
+          "中文翻译": "操控、重排和调整",
+          "说明": "与grasp并列，同受to支配。"
+        },
+        {
+          "成分类型": "状语从句(比较)",
+          "原文": "while intellect examines, ponders, wonders, theorizes, criticizes, and imagines",
+          "修饰对象": "seeks",
+          "中文翻译": "而智识则审视、思考、好奇、构建理论、批判和想象",
+          "说明": "while引导对比性比较状语从句，将intelligence与intellect对照。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "ponders, wonders, theorizes, criticizes, and imagines",
+          "修饰对象": "examines",
+          "中文翻译": "思考、好奇、构建理论、批判和想象",
+          "说明": "与examines并列，共享主语intellect。"
+        }
+      ],
+      "zh": "才智力求抓取、操控、重排和调整，而智识则审视、思考、好奇、构建理论、批判和想象。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2004-text4-s22",
+      "s": "School remains a place where intellect is mistrusted.",
+      "para_no": 7,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "School",
+        "谓语": "remains",
+        "宾语或表语": "a place",
+        "主干翻译": "学校仍然是一个地方。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "where intellect is mistrusted",
+          "修饰对象": "place",
+          "中文翻译": "智识在那里不被信任",
+          "说明": "where引导定语从句，修饰place。"
+        }
+      ],
+      "zh": "学校仍然是一个智识不被信任的地方。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2004-text4-s23",
+      "s": "Hofstadter says our country's educational system is in the grips of people who \"joyfully and militantly proclaim their hostility to intellect and their eagerness to identify with children who show the least intellectual promise.\"",
+      "para_no": 7,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Hofstadter",
+        "谓语": "says",
+        "宾语或表语": "our country's educational system is...",
+        "主干翻译": "霍夫施塔特说，我们国家的教育体制掌握在某些人手中。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "our country's educational system is in the grips of people who \"joyfully and militantly proclaim their hostility to intellect and their eagerness to identify with children who show the least intellectual promise.\"",
+          "修饰对象": "says",
+          "中文翻译": "我们国家的教育体制掌握在这样一些人手中：他们兴高采烈而又咄咄逼人地宣示自己对智识的敌意，以及自己急于认同那些最缺乏智识潜质的孩子",
+          "说明": "省略that的宾语从句，作says的宾语。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "who \"joyfully and militantly proclaim their hostility to intellect and their eagerness to identify with children who show the least intellectual promise.\"",
+          "修饰对象": "people",
+          "中文翻译": "他们兴高采烈而又咄咄逼人地宣示对智识的敌意和急于认同智识潜质最低的孩子",
+          "说明": "who引导定语从句，修饰people。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "their eagerness to identify with children who show the least intellectual promise",
+          "修饰对象": "hostility",
+          "中文翻译": "他们急于认同智识潜质最低的孩子的心态",
+          "说明": "与their hostility并列，同作proclaim的宾语。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to identify with children who show the least intellectual promise",
+          "修饰对象": "eagerness",
+          "中文翻译": "去认同智识潜质最低的孩子的",
+          "说明": "不定式作后置定语，修饰eagerness。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "who show the least intellectual promise",
+          "修饰对象": "children",
+          "中文翻译": "展现出最少智识潜质的",
+          "说明": "who引导定语从句，修饰children。"
+        }
+      ],
+      "zh": "霍夫施塔特说，我们国家的教育体制掌握在这样一些人手中：他们兴高采烈而又咄咄逼人地宣示自己对智识的敌意，以及自己急于认同那些最缺乏智识潜质的孩子。",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2004-text4-s1",
+        "en1-2004-text4-s2",
+        "en1-2004-text4-s3",
+        "en1-2004-text4-s4"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2004-text4-s5",
+        "en1-2004-text4-s6",
+        "en1-2004-text4-s7",
+        "en1-2004-text4-s8"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2004-text4-s9",
+        "en1-2004-text4-s10",
+        "en1-2004-text4-s11",
+        "en1-2004-text4-s12",
+        "en1-2004-text4-s13"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2004-text4-s14",
+        "en1-2004-text4-s15",
+        "en1-2004-text4-s16"
+      ]
+    },
+    {
+      "para_no": 5,
+      "sids": [
+        "en1-2004-text4-s17",
+        "en1-2004-text4-s18"
+      ]
+    },
+    {
+      "para_no": 6,
+      "sids": [
+        "en1-2004-text4-s19",
+        "en1-2004-text4-s20",
+        "en1-2004-text4-s21"
+      ]
+    },
+    {
+      "para_no": 7,
+      "sids": [
+        "en1-2004-text4-s22",
+        "en1-2004-text4-s23"
+      ]
+    }
+  ]
+}

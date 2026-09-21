@@ -1,0 +1,875 @@
+{
+  "exam": "en1",
+  "key": "2025-t4",
+  "year": 2025,
+  "text_no": 4,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2025-text4-s1",
+      "s": "Visit any antiques store and you'll encounter artifacts from the past: photographs, letters, a brochure detailing the Sinclair dinosaur exhibit from the 1964-1965 World's Fair, the ephemera of history.",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "you",
+        "谓语": "'ll encounter",
+        "宾语或表语": "artifacts from the past",
+        "主干翻译": "你会遇到来自过去的器物。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "Visit any antiques store and you'll encounter artifacts from the past",
+          "修饰对象": "—",
+          "中文翻译": "走进任何一家古董店，你就会遇到来自过去的器物",
+          "说明": "祈使句+and+陈述句构成的并列结构，相当于条件含义（若走进……就会……）"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "photographs, letters, a brochure detailing the Sinclair dinosaur exhibit from the 1964-1965 World's Fair, the ephemera of history",
+          "修饰对象": "artifacts",
+          "中文翻译": "照片、信件、一本详细介绍1964—1965年世界博览会辛克莱恐龙展的小册子，这些历史的零碎遗存",
+          "说明": "冒号后的并列名词短语对artifacts进行同位列举说明"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "detailing the Sinclair dinosaur exhibit from the 1964-1965 World's Fair",
+          "修饰对象": "brochure",
+          "中文翻译": "详细介绍1964—1965年世界博览会上辛克莱恐龙展的",
+          "说明": "现在分词短语作后置定语修饰brochure"
+        }
+      ],
+      "zh": "走进任何一家古董店，你都会遇到来自过去的器物：照片、信件、一本详细介绍1964—1965年世界博览会辛克莱恐龙展的小册子，这些都是历史的零碎遗存。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2025-text4-s2",
+      "s": "Yet these objects aren't truly ephemeral, because they're still here, decades, even centuries later. Why?",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "these objects",
+        "谓语": "aren't",
+        "宾语或表语": "truly ephemeral",
+        "主干翻译": "这些物品并非真正转瞬即逝。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(原因)",
+          "原文": "because they're still here, decades, even centuries later",
+          "修饰对象": "aren't",
+          "中文翻译": "因为它们历经数十年、甚至数百年依然还在这里",
+          "说明": "because引导原因状语从句，解释为何不算ephemeral"
+        }
+      ],
+      "zh": "然而这些物品并非真正转瞬即逝，因为历经数十年、甚至数百年之后它们依然还在这里。为什么？",
+      "underline": null
+    },
+    {
+      "sid": "en1-2025-text4-s3",
+      "s": "Because they're tangible.",
+      "para_no": 1,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "they",
+        "谓语": "'re",
+        "宾语或表语": "tangible",
+        "主干翻译": "它们是有形的。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(原因)",
+          "原文": "Because they're tangible.",
+          "修饰对象": "—",
+          "中文翻译": "因为它们是有形的。",
+          "说明": "整句为because引导的原因从句独立成句（承接上句），此处全句即从句本身，故主干取从句主谓表"
+        }
+      ],
+      "zh": "因为它们是有形可触的。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2025-text4-s4",
+      "s": "Have you pondered the life cycle of intangible formats, digital information, given that those who produce these artifacts seldom make provision for their long-term preservation?",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "you",
+        "谓语": "Have pondered",
+        "宾语或表语": "the life cycle of intangible formats",
+        "主干翻译": "你是否思考过无形格式的生命周期？"
+      },
+      "components": [
+        {
+          "成分类型": "同位语从句",
+          "原文": "digital information",
+          "修饰对象": "formats",
+          "中文翻译": "即数字信息",
+          "说明": "名词短语作同位语，进一步说明intangible formats"
+        },
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "given that those who produce these artifacts seldom make provision for their long-term preservation",
+          "修饰对象": "Have pondered",
+          "中文翻译": "鉴于那些制造这些器物的人很少为它们的长期保存做出安排",
+          "说明": "given that引导状语从句，表示前提/原因条件"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "who produce these artifacts",
+          "修饰对象": "those",
+          "中文翻译": "制造这些器物的",
+          "说明": "who引导定语从句修饰those"
+        }
+      ],
+      "zh": "鉴于那些制造这些器物的人很少为其长期保存做出安排，你是否思考过无形格式（即数字信息）的生命周期呢？",
+      "underline": null
+    },
+    {
+      "sid": "en1-2025-text4-s5",
+      "s": "For millennia, we’ve known what we’ve known due to artifacts that have survived, often despite their original creators’ neglect.",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "we",
+        "谓语": "’ve known",
+        "宾语或表语": "what we’ve known",
+        "主干翻译": "我们之所以知道我们所知道的东西。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "what we’ve known",
+          "修饰对象": "known",
+          "中文翻译": "我们所知道的东西",
+          "说明": "what引导宾语从句作know的宾语"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "due to artifacts that have survived, often despite their original creators’ neglect",
+          "修饰对象": "'ve known",
+          "中文翻译": "得益于那些留存下来的器物（往往是不顾其原创者的忽视而幸存）",
+          "说明": "due to引导原因性介词短语作状语"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that have survived, often despite their original creators’ neglect",
+          "修饰对象": "artifacts",
+          "中文翻译": "留存下来的、往往是不顾其原创者忽视而幸存的",
+          "说明": "that引导定语从句修饰artifacts"
+        }
+      ],
+      "zh": "几千年来，我们之所以知道我们所知道的一切，是得益于那些留存下来的器物——它们往往是在原创者的忽视之下幸存下来的。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2025-text4-s6",
+      "s": "The thing itself is the medium that delivers the information.",
+      "para_no": 2,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "The thing itself",
+        "谓语": "is",
+        "宾语或表语": "the medium",
+        "主干翻译": "物品本身就是媒介。"
+      },
+      "components": [
+        {
+          "成分类型": "同位语从句",
+          "原文": "itself",
+          "修饰对象": "thing",
+          "中文翻译": "本身",
+          "说明": "反身代词itself作同位语强调thing"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that delivers the information",
+          "修饰对象": "medium",
+          "中文翻译": "传递信息的",
+          "说明": "that引导定语从句修饰medium"
+        }
+      ],
+      "zh": "物品本身就是传递信息的媒介。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2025-text4-s7",
+      "s": "At the time of creation, no attempts were made at intentional preservation, yet analog materials have a chance of surviving and serving as the historical record that biographers, historians, and novelists rely on.",
+      "para_no": 2,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "no attempts / analog materials",
+        "谓语": "were made / have",
+        "宾语或表语": "(at preservation) / a chance",
+        "主干翻译": "未曾有人刻意尝试保存，但模拟材料有幸存的机会。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "At the time of creation",
+          "修饰对象": "were made",
+          "中文翻译": "在创造之时",
+          "说明": "介词短语作时间状语"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "analog materials have a chance of surviving and serving as the historical record that biographers, historians, and novelists rely on",
+          "修饰对象": "—",
+          "中文翻译": "模拟材料有机会幸存下来并充当传记作家、历史学家和小说家所依赖的历史记录",
+          "说明": "yet连接的并列分句，与前一分句构成转折并列"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "surviving and serving as the historical record that biographers, historians, and novelists rely on",
+          "修饰对象": "chance",
+          "中文翻译": "幸存下来并充当……历史记录",
+          "说明": "of后两个动名词surviving与serving并列作介宾"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "biographers, historians, and novelists",
+          "修饰对象": "rely on",
+          "中文翻译": "传记作家、历史学家和小说家",
+          "说明": "三个名词并列作rely on的主语"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that biographers, historians, and novelists rely on",
+          "修饰对象": "record",
+          "中文翻译": "传记作家、历史学家和小说家所依赖的",
+          "说明": "that引导定语从句修饰historical record，that为rely on的宾语"
+        }
+      ],
+      "zh": "在创造之时，并无人刻意尝试加以保存，然而模拟材料却有机会幸存下来，并充当传记作家、历史学家和小说家所依赖的历史记录。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2025-text4-s8",
+      "s": "Libraries and archives have traditionally shouldered the responsibility of organization, preservation, and access to information.",
+      "para_no": 2,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "Libraries and archives",
+        "谓语": "have shouldered",
+        "宾语或表语": "the responsibility",
+        "主干翻译": "图书馆和档案馆一直肩负着责任。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "Libraries and archives",
+          "修饰对象": "have shouldered",
+          "中文翻译": "图书馆和档案馆",
+          "说明": "两个名词并列作主语"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "organization, preservation, and access to information",
+          "修饰对象": "responsibility",
+          "中文翻译": "对信息的组织、保存与获取",
+          "说明": "三个名词并列作of的宾语，限定responsibility的内容"
+        }
+      ],
+      "zh": "图书馆和档案馆历来肩负着组织、保存信息以及提供信息获取途径的责任。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2025-text4-s9",
+      "s": "One of S.R.Ranganathan’s foundational Laws of Library Science is “Save the time of the reader.” Thus, librarians digitize the tangible so that researchers the world over can quickly search and access their holdings.",
+      "para_no": 2,
+      "para_seq": 5,
+      "trunk": {
+        "主语": "One of Laws / librarians",
+        "谓语": "is / digitize",
+        "宾语或表语": "\"Save the time of the reader\" / the tangible",
+        "主干翻译": "其中一条法则是“节省读者的时间”；因此图书馆员将有形之物数字化。"
+      },
+      "components": [
+        {
+          "成分类型": "省略",
+          "原文": "Save the time of the reader",
+          "修饰对象": "is",
+          "中文翻译": "节省读者的时间",
+          "说明": "引语作表语，为省略主语的祈使句形式"
+        },
+        {
+          "成分类型": "状语从句(目的)",
+          "原文": "so that researchers the world over can quickly search and access their holdings",
+          "修饰对象": "digitize",
+          "中文翻译": "以便世界各地的研究者能迅速检索并获取其馆藏",
+          "说明": "so that引导目的状语从句"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "search and access their holdings",
+          "修饰对象": "can",
+          "中文翻译": "检索并获取其馆藏",
+          "说明": "search与access两个动词并列作谓语"
+        }
+      ],
+      "zh": "S.R.阮冈纳赞图书馆学基本法则之一是“节省读者的时间”。因此，图书馆员将有形之物数字化，以便世界各地的研究者能够迅速检索并获取馆藏。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2025-text4-s10",
+      "s": "The result is an embarrassment of historical riches, which brings its own needle-and-haystack problems.",
+      "para_no": 2,
+      "para_seq": 6,
+      "trunk": {
+        "主语": "The result",
+        "谓语": "is",
+        "宾语或表语": "an embarrassment of historical riches",
+        "主干翻译": "其结果是历史财富多得令人应接不暇。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "which brings its own needle-and-haystack problems",
+          "修饰对象": "embarrassment",
+          "中文翻译": "这又带来了大海捞针般的难题",
+          "说明": "which引导非限定性定语从句，指代前面整个情况/embarrassment"
+        }
+      ],
+      "zh": "其结果是历史财富多得令人应接不暇，而这又带来了大海捞针般的难题。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2025-text4-s11",
+      "s": "Librarians’ selfless devotion can act against us when users point to universality of access by holding up a cellphone and saying, “it's all in here” as evidence that libraries are less vital for researchers today.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Librarians’ selfless devotion",
+        "谓语": "can act",
+        "宾语或表语": "against us",
+        "主干翻译": "图书馆员无私的奉献可能对我们不利。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "when users point to universality of access by holding up a cellphone and saying, “it's all in here” as evidence that libraries are less vital for researchers today",
+          "修饰对象": "can act",
+          "中文翻译": "当用户举起手机、说“一切都在这里面”以此作为图书馆对今日研究者不那么重要的证据，来指出获取的普遍性时",
+          "说明": "when引导时间状语从句"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "holding up a cellphone and saying, “it's all in here”",
+          "修饰对象": "point to",
+          "中文翻译": "举起手机并说“一切都在这里面”",
+          "说明": "by后两个动名词holding与saying并列，作方式状语"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "it's all in here",
+          "修饰对象": "saying",
+          "中文翻译": "一切都在这里面",
+          "说明": "引语作saying的宾语"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "that libraries are less vital for researchers today",
+          "修饰对象": "evidence",
+          "中文翻译": "图书馆对今天的研究者不那么重要",
+          "说明": "that引导同位语从句，说明evidence的内容"
+        }
+      ],
+      "zh": "当用户举起手机、说“一切都在这里面”，以此作为图书馆对今日研究者不再那么重要的证据来论证获取的普遍性时，图书馆员无私的奉献反而可能对我们不利。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2025-text4-s12",
+      "s": "Yet how was that universality of access made possible and, perhaps more importantly, how is it maintained?",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "that universality of access",
+        "谓语": "was made",
+        "宾语或表语": "possible",
+        "主干翻译": "那种普遍可及性是如何成为可能的。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "and, perhaps more importantly, how is it maintained?",
+          "修饰对象": "Yet how was that universality of access made possible",
+          "中文翻译": "而且，也许更重要的是，它又是如何得以维持的？",
+          "说明": "and 连接的并列疑问分句，其中 perhaps more importantly 为插入语，how is it maintained 为倒装疑问句。"
+        }
+      ],
+      "zh": "然而，那种普遍可及性当初是如何成为可能的，而且，也许更重要的是，它又是如何得以维持的？",
+      "underline": null
+    },
+    {
+      "sid": "en1-2025-text4-s13",
+      "s": "Who curates what is preserved?",
+      "para_no": 3,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Who",
+        "谓语": "curates",
+        "宾语或表语": "what is preserved",
+        "主干翻译": "谁来甄选哪些内容被保存下来？"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "what is preserved",
+          "修饰对象": "curates",
+          "中文翻译": "哪些内容被保存下来",
+          "说明": "what引导宾语从句作curates的宾语"
+        }
+      ],
+      "zh": "由谁来甄选并管理哪些内容得以保存下来呢？",
+      "underline": null
+    },
+    {
+      "sid": "en1-2025-text4-s14",
+      "s": "When it comes to born-digital information, the terrifying answer can be: if not librarians and archivists, then no one.",
+      "para_no": 3,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "the terrifying answer",
+        "谓语": "can be",
+        "宾语或表语": "if not librarians and archivists, then no one",
+        "主干翻译": "那个可怕的答案可能是：若不是图书馆员和档案管理员，就没有人。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "When it comes to born-digital information",
+          "修饰对象": "can be",
+          "中文翻译": "当谈及原生数字信息时",
+          "说明": "when it comes to为固定句式引导条件/话题状语从句"
+        },
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "if not librarians and archivists",
+          "修饰对象": "no one",
+          "中文翻译": "如果不是图书馆员和档案管理员（来做）",
+          "说明": "if引导省略的条件状语从句，对then no one提出条件"
+        },
+        {
+          "成分类型": "表语从句",
+          "原文": "if not librarians and archivists, then no one",
+          "修饰对象": "can be",
+          "中文翻译": "若不是图书馆员和档案管理员，那就没有人",
+          "说明": "if...then...构成的省略句整体作be的表语"
+        }
+      ],
+      "zh": "谈及原生数字信息时，那个令人恐惧的答案可能是：如果连图书馆员和档案管理员都不去做，那就没有人会去做了。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2025-text4-s15",
+      "s": "Digital information requires a great deal more care than analog.",
+      "para_no": 3,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "Digital information",
+        "谓语": "requires",
+        "宾语或表语": "a great deal more care than analog",
+        "主干翻译": "数字信息比模拟信息需要多得多的照护。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(比较)",
+          "原文": "than analog",
+          "修饰对象": "more",
+          "中文翻译": "比模拟（信息）",
+          "说明": "than引导比较结构，省略了analog (information requires)"
+        }
+      ],
+      "zh": "与模拟信息相比，数字信息需要多得多的悉心照护。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2025-text4-s16",
+      "s": "Even when a digital object is preserved, it may only be the carrier that's saved, not the information itself.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "it",
+        "谓语": "may be",
+        "宾语或表语": "only the carrier",
+        "主干翻译": "被保存下来的可能仅仅是载体。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(让步)",
+          "原文": "Even when a digital object is preserved",
+          "修饰对象": "may be",
+          "中文翻译": "即使一个数字对象被保存下来",
+          "说明": "even when引导让步性时间状语从句"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that's saved",
+          "修饰对象": "carrier",
+          "中文翻译": "被保存下来的",
+          "说明": "that引导定语从句修饰carrier（强调句式it...that的表达，此处按定语从句处理）"
+        },
+        {
+          "成分类型": "同位语",
+          "原文": "not the information itself",
+          "修饰对象": "carrier",
+          "中文翻译": "而非信息本身",
+          "说明": "not...构成与the carrier对照的并列同位补充"
+        },
+        {
+          "成分类型": "同位语",
+          "原文": "itself",
+          "修饰对象": "information",
+          "中文翻译": "本身",
+          "说明": "反身代词itself作同位语强调information"
+        }
+      ],
+      "zh": "即便一个数字对象被保存下来，被保存的也可能仅仅是载体，而非信息本身。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2025-text4-s17",
+      "s": "As technology advances and a format becomes obsolete, the object is useless.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "the object",
+        "谓语": "is",
+        "宾语或表语": "useless",
+        "主干翻译": "该对象便毫无用处。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "As technology advances and a format becomes obsolete",
+          "修饰对象": "is",
+          "中文翻译": "随着技术进步、某种格式过时",
+          "说明": "as引导时间状语从句，表伴随/随着"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "technology advances and a format becomes obsolete",
+          "修饰对象": "—",
+          "中文翻译": "技术进步且某种格式过时",
+          "说明": "and连接as从句内的两个并列分句"
+        }
+      ],
+      "zh": "随着技术的进步、某种格式逐渐过时，该对象便变得毫无用处。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2025-text4-s18",
+      "s": "Have you ever stared helplessly at a ZIP disk, thinking: how do I get the files off this?",
+      "para_no": 4,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "you",
+        "谓语": "Have stared",
+        "宾语或表语": "helplessly at a ZIP disk",
+        "主干翻译": "你是否曾无助地盯着一张ZIP磁盘？"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "thinking: how do I get the files off this",
+          "修饰对象": "stared",
+          "中文翻译": "心里想着：我怎么才能把文件从这上面取出来",
+          "说明": "现在分词thinking作伴随状语"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "how do I get the files off this",
+          "修饰对象": "thinking",
+          "中文翻译": "我怎么才能把文件从这上面取出来",
+          "说明": "how引导的疑问句作thinking的宾语（间接引语）"
+        }
+      ],
+      "zh": "你是否曾无助地盯着一张ZIP磁盘，心里想着：我究竟怎样才能把里面的文件取出来呢？",
+      "underline": null
+    },
+    {
+      "sid": "en1-2025-text4-s19",
+      "s": "Without constant migration of digital assets, a nightmare about the foreseeable future is what keeps historians up at night: a historical record that abruptly stops when digital replaces analog.",
+      "para_no": 4,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "a nightmare about the foreseeable future",
+        "谓语": "is",
+        "宾语或表语": "what keeps historians up at night",
+        "主干翻译": "一个关于可预见未来的噩梦正是让历史学家彻夜难眠的东西。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "Without constant migration of digital assets",
+          "修饰对象": "is",
+          "中文翻译": "如果没有对数字资产持续不断的迁移",
+          "说明": "without引导的介词短语作条件状语"
+        },
+        {
+          "成分类型": "表语从句",
+          "原文": "what keeps historians up at night",
+          "修饰对象": "is",
+          "中文翻译": "让历史学家彻夜难眠的东西",
+          "说明": "what引导表语从句"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "a historical record that abruptly stops when digital replaces analog",
+          "修饰对象": "nightmare",
+          "中文翻译": "一份在数字取代模拟时戛然而止的历史记录",
+          "说明": "冒号后名词短语作nightmare的同位语，具体说明噩梦内容"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that abruptly stops when digital replaces analog",
+          "修饰对象": "record",
+          "中文翻译": "在数字取代模拟时戛然而止的",
+          "说明": "that引导定语从句修饰historical record"
+        },
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "when digital replaces analog",
+          "修饰对象": "stops",
+          "中文翻译": "当数字取代模拟时",
+          "说明": "when引导时间状语从句，修饰定语从句中的stops"
+        }
+      ],
+      "zh": "如果没有对数字资产持续不断的迁移，一个关于可预见未来的噩梦正是令历史学家彻夜难眠的事：一份在数字取代模拟之时戛然而止的历史记录。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2025-text4-s20",
+      "s": "As a librarian whose day job revolves around special collections and digital assets, I share the night terrors of historians, and I’d be lying if I said a comprehensive preservation solution currently exists.",
+      "para_no": 5,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "I",
+        "谓语": "share",
+        "宾语或表语": "the night terrors of historians",
+        "主干翻译": "我与历史学家一样在夜里感到恐惧。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "As a librarian whose day job revolves around special collections and digital assets",
+          "修饰对象": "share",
+          "中文翻译": "作为一名日常工作围绕特藏与数字资产的图书馆员",
+          "说明": "as引导介词短语作身份状语"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "whose day job revolves around special collections and digital assets",
+          "修饰对象": "librarian",
+          "中文翻译": "其日常工作围绕特藏与数字资产展开的",
+          "说明": "whose引导定语从句修饰librarian"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "I share the night terrors of historians, and I’d be lying if I said a comprehensive preservation solution currently exists",
+          "修饰对象": "—",
+          "中文翻译": "我与历史学家一样夜不能寐，而且如果我说目前存在一套全面的保存方案，那我就是在撒谎",
+          "说明": "and连接两个并列分句"
+        },
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "if I said a comprehensive preservation solution currently exists",
+          "修饰对象": "lying",
+          "中文翻译": "如果我说目前存在一套全面的保存方案",
+          "说明": "if引导条件状语从句"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "a comprehensive preservation solution currently exists",
+          "修饰对象": "said",
+          "中文翻译": "目前存在一套全面的保存方案",
+          "说明": "said后省略that的宾语从句"
+        }
+      ],
+      "zh": "作为一名日常工作围绕特藏与数字资产展开的图书馆员，我与历史学家一样夜不能寐；而且，如果我说当前已存在一套全面的保存方案，那我就是在撒谎。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2025-text4-s21",
+      "s": "Yet researchers can take some comfort in the fact that there are a multitude of librarians devoted to discovering, organizing, and preserving digital information for researchers current and future.",
+      "para_no": 5,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "researchers",
+        "谓语": "can take",
+        "宾语或表语": "some comfort in the fact",
+        "主干翻译": "研究者可以从这一事实中得到些许慰藉。"
+      },
+      "components": [
+        {
+          "成分类型": "同位语从句",
+          "原文": "that there are a multitude of librarians devoted to discovering, organizing, and preserving digital information for researchers current and future",
+          "修饰对象": "fact",
+          "中文翻译": "有众多图书馆员致力于为当下和未来的研究者发现、组织和保存数字信息",
+          "说明": "that引导同位语从句，说明fact的内容"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "devoted to discovering, organizing, and preserving digital information for researchers current and future",
+          "修饰对象": "multitude",
+          "中文翻译": "致力于为当下和未来研究者发现、组织和保存数字信息的",
+          "说明": "过去分词短语devoted to...作后置定语修饰librarians/multitude"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "discovering, organizing, and preserving digital information for researchers current and future",
+          "修饰对象": "devoted to",
+          "中文翻译": "发现、组织和保存数字信息",
+          "说明": "三个动名词并列作to的宾语"
+        }
+      ],
+      "zh": "然而，研究者们可以从这一事实中得到些许慰藉：有众多图书馆员正致力于为当下与未来的研究者去发现、组织和保存数字信息。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2025-text4-s22",
+      "s": "Librarians are uniquely positioned to understand how end users seek and use information.",
+      "para_no": 5,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Librarians",
+        "谓语": "are positioned",
+        "宾语或表语": "uniquely",
+        "主干翻译": "图书馆员处在独一无二的有利位置。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to understand how end users seek and use information",
+          "修饰对象": "positioned",
+          "中文翻译": "去理解终端用户如何检索和使用信息",
+          "说明": "动词不定式作目的状语（be positioned to do）。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "how end users seek and use information",
+          "修饰对象": "understand",
+          "中文翻译": "终端用户如何检索和使用信息",
+          "说明": "how引导宾语从句，作understand的宾语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "seek and use information",
+          "修饰对象": "seek",
+          "中文翻译": "检索并使用信息",
+          "说明": "and连接的并列谓语seek和use。"
+        }
+      ],
+      "zh": "图书馆员处于得天独厚的有利位置，能够理解终端用户是如何检索和使用信息的。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2025-text4-s23",
+      "s": "Thus we play an integral role in identifying, preserving, and providing accessibility to digital artifacts so that, while future researchers may find the digital realm a challenging place to ply their trade, they won't find it an impossible one.",
+      "para_no": 5,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "we",
+        "谓语": "play",
+        "宾语或表语": "an integral role",
+        "主干翻译": "我们发挥着不可或缺的作用。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "identifying, preserving, and providing accessibility to digital artifacts",
+          "修饰对象": "role",
+          "中文翻译": "在识别、保存数字器物并提供对其的获取途径方面",
+          "说明": "in后三个动名词并列，限定role的内容"
+        },
+        {
+          "成分类型": "状语从句(目的)",
+          "原文": "so that, while future researchers may find the digital realm a challenging place to ply their trade, they won't find it an impossible one",
+          "修饰对象": "play",
+          "中文翻译": "以便（尽管未来的研究者可能会觉得数字领域是一个施展本领的艰难之地，但）他们不会觉得它是一个无法施展的地方",
+          "说明": "so that引导目的状语从句"
+        },
+        {
+          "成分类型": "状语从句(让步)",
+          "原文": "while future researchers may find the digital realm a challenging place to ply their trade",
+          "修饰对象": "won't find",
+          "中文翻译": "尽管未来的研究者可能会觉得数字领域是一个施展本领的艰难之地",
+          "说明": "while引导让步状语从句，嵌套在so that从句内"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "the digital realm a challenging place to ply their trade",
+          "修饰对象": "find",
+          "中文翻译": "数字领域是一个施展本领的艰难之地",
+          "说明": "find的复合宾语（宾语+宾补），按宾语从句类处理"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "to ply their trade",
+          "修饰对象": "place",
+          "中文翻译": "施展其本领的",
+          "说明": "不定式作后置定语修饰place"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "it an impossible one",
+          "修饰对象": "find",
+          "中文翻译": "它是一个无法施展的地方",
+          "说明": "find的复合宾语（宾语it+宾补an impossible one）"
+        }
+      ],
+      "zh": "因此，我们在识别、保存数字器物并提供对其的获取途径方面发挥着不可或缺的作用，从而使得：尽管未来的研究者或许会觉得数字领域是一个施展本领的艰难之地，但他们不会觉得它是一个全无可能之地。",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2025-text4-s1",
+        "en1-2025-text4-s2",
+        "en1-2025-text4-s3"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2025-text4-s4",
+        "en1-2025-text4-s5",
+        "en1-2025-text4-s6",
+        "en1-2025-text4-s7",
+        "en1-2025-text4-s8",
+        "en1-2025-text4-s9",
+        "en1-2025-text4-s10"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2025-text4-s11",
+        "en1-2025-text4-s12",
+        "en1-2025-text4-s13",
+        "en1-2025-text4-s14",
+        "en1-2025-text4-s15"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2025-text4-s16",
+        "en1-2025-text4-s17",
+        "en1-2025-text4-s18",
+        "en1-2025-text4-s19"
+      ]
+    },
+    {
+      "para_no": 5,
+      "sids": [
+        "en1-2025-text4-s20",
+        "en1-2025-text4-s21",
+        "en1-2025-text4-s22",
+        "en1-2025-text4-s23"
+      ]
+    }
+  ]
+}

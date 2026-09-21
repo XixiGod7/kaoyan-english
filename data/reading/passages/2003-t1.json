@@ -1,0 +1,695 @@
+{
+  "exam": "en1",
+  "key": "2003-t1",
+  "year": 2003,
+  "text_no": 1,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2003-text1-s1",
+      "s": "Wild Bill Donovan would have loved the Internet.",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Wild Bill Donovan",
+        "谓语": "would have loved",
+        "宾语或表语": "the Internet",
+        "主干翻译": "野比尔·多诺万会喜欢上互联网。"
+      },
+      "components": null,
+      "zh": "狂野比尔·多诺万会喜欢上互联网的。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2003-text1-s2",
+      "s": "The American spymaster who built the Office of Strategic Services in the World War II and later laid the roots for the CIA was fascinated with information.",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "The American spymaster",
+        "谓语": "was fascinated",
+        "宾语或表语": "with information",
+        "主干翻译": "这位美国间谍大师对情报十分着迷。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "who built the Office of Strategic Services in the World War II and later laid the roots for the CIA",
+          "修饰对象": "spymaster",
+          "中文翻译": "他在二战期间创建了战略情报局，后来又为中央情报局奠定了根基",
+          "说明": "who 引导的定语从句，修饰先行词 spymaster。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "later laid the roots for the CIA",
+          "修饰对象": "built",
+          "中文翻译": "后来又为中央情报局奠定了根基",
+          "说明": "由 and 连接，与从句中的谓语 built 并列，共用主语 who。"
+        }
+      ],
+      "zh": "这位在二战期间创建了战略情报局、后来又为中央情报局奠定根基的美国间谍大师，对情报十分着迷。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2003-text1-s3",
+      "s": "Donovan believed in using whatever tools came to hand in the \"great game\" of espionage—spying as a \"profession.\"",
+      "para_no": 1,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Donovan",
+        "谓语": "believed",
+        "宾语或表语": "in using whatever tools",
+        "主干翻译": "多诺万信奉使用各种工具。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "whatever tools came to hand in the \"great game\" of espionage",
+          "修饰对象": "using",
+          "中文翻译": "在间谍这一“伟大游戏”中所能得到的任何工具",
+          "说明": "whatever 引导的从句作动名词 using 的宾语，whatever tools 在从句中作主语。"
+        },
+        {
+          "成分类型": "同位语",
+          "原文": "spying as a \"profession.\"",
+          "修饰对象": "game",
+          "中文翻译": "即把间谍活动当作一种“职业”",
+          "说明": "破折号后的成分对前面的 the \"great game\" of espionage 作进一步说明（同位补充）。"
+        }
+      ],
+      "zh": "多诺万信奉在间谍这一“伟大游戏”——把间谍活动当作一种“职业”——中使用任何能到手的工具。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2003-text1-s4",
+      "s": "These days the Net, which has already re-made such everyday pastimes as buying books and sending mail, is reshaping Donovan's vocation as well.",
+      "para_no": 1,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "the Net",
+        "谓语": "is reshaping",
+        "宾语或表语": "Donovan's vocation",
+        "主干翻译": "网络正在重塑多诺万的职业。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "which has already re-made such everyday pastimes as buying books and sending mail",
+          "修饰对象": "Net",
+          "中文翻译": "它已经重塑了诸如买书、寄信这类日常活动",
+          "说明": "which 引导的非限制性定语从句，修饰 the Net。"
+        }
+      ],
+      "zh": "如今，已经重塑了买书、寄信等日常活动的互联网，也正在重塑多诺万所从事的那一行当。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2003-text1-s5",
+      "s": "The latest revolution isn't simply a matter of gentlemen reading other gentlemen's e-mail.",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The latest revolution",
+        "谓语": "isn't",
+        "宾语或表语": "simply a matter of gentlemen reading other gentlemen's e-mail",
+        "主干翻译": "这场最新的革命不仅仅是绅士偷看其他绅士电子邮件那么简单。"
+      },
+      "components": [],
+      "zh": "这场最新的革命不仅仅是绅士偷看其他绅士电子邮件那回事。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2003-text1-s6",
+      "s": "That kind of electronic spying has been going on for decades.",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "That kind of electronic spying",
+        "谓语": "has been going on",
+        "宾语或表语": "for decades",
+        "主干翻译": "那种电子间谍活动已经持续了几十年。"
+      },
+      "components": [],
+      "zh": "那种电子间谍活动已经存在几十年了。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2003-text1-s7",
+      "s": "In the past three or four years, the World Wide Web has given birth to a whole industry of point-and-click spying.",
+      "para_no": 2,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "the World Wide Web",
+        "谓语": "has given birth to",
+        "宾语或表语": "a whole industry of point-and-click spying",
+        "主干翻译": "万维网催生了一整个点击式间谍行业。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "In the past three or four years",
+          "修饰对象": "has given",
+          "中文翻译": "在过去的三四年里",
+          "说明": "时间状语，修饰谓语。"
+        }
+      ],
+      "zh": "在过去的三四年里，万维网催生了一整个“点击即可”的间谍行业。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2003-text1-s8",
+      "s": "The spooks call it \"open source intelligence,\" and as the Net grows, it is becoming increasingly influential.",
+      "para_no": 2,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "The spooks / it",
+        "谓语": "call / is becoming",
+        "宾语或表语": "it \"open source intelligence\" / increasingly influential",
+        "主干翻译": "间谍们称之为“开源情报”，而且它正变得越来越有影响力。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "as the Net grows, it is becoming increasingly influential.",
+          "修饰对象": "call",
+          "中文翻译": "而且随着网络的发展，它正变得越来越有影响力",
+          "说明": "由 and 连接的并列分句，与前一分句 The spooks call it ... 并列。"
+        },
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "as the Net grows",
+          "修饰对象": "becoming",
+          "中文翻译": "随着网络的发展",
+          "说明": "as 引导时间状语从句，表“随着”，修饰 is becoming。"
+        }
+      ],
+      "zh": "间谍们把它称作“开源情报”，而且随着网络的发展，它正变得越来越有影响力。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2003-text1-s9",
+      "s": "In 1995 the CIA held a contest to see who could compile the most data about Burundi.",
+      "para_no": 2,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "the CIA",
+        "谓语": "held",
+        "宾语或表语": "a contest",
+        "主干翻译": "中央情报局举办了一场比赛。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "In 1995",
+          "修饰对象": "held",
+          "中文翻译": "1995年",
+          "说明": "时间状语，修饰谓语 held。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to see who could compile the most data about Burundi",
+          "修饰对象": "contest",
+          "中文翻译": "看谁能收集到最多关于布隆迪的资料",
+          "说明": "to see 不定式作定语修饰 contest（亦含目的意味）。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "who could compile the most data about Burundi",
+          "修饰对象": "see",
+          "中文翻译": "谁能收集到关于布隆迪最多的资料",
+          "说明": "who 引导的从句作 see 的宾语，who 在从句中作主语。"
+        }
+      ],
+      "zh": "1995年，中央情报局举办了一场比赛，看谁能收集到关于布隆迪最多的资料。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2003-text1-s10",
+      "s": "The winner, by a large margin, was a tiny Virginia company called Open-Source Solutions, whose clear advantage was its mastery of the electronic world.",
+      "para_no": 2,
+      "para_seq": 5,
+      "trunk": {
+        "主语": "The winner",
+        "谓语": "was",
+        "宾语或表语": "a tiny Virginia company",
+        "主干翻译": "获胜者是一家弗吉尼亚的小公司。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "by a large margin",
+          "修饰对象": "was",
+          "中文翻译": "以巨大优势",
+          "说明": "插入语，说明获胜的悬殊程度。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "called Open-Source Solutions",
+          "修饰对象": "company",
+          "中文翻译": "名叫“开源解决方案”",
+          "说明": "过去分词短语作定语，修饰 company。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "whose clear advantage was its mastery of the electronic world",
+          "修饰对象": "company",
+          "中文翻译": "它的明显优势在于对电子世界的精通",
+          "说明": "whose 引导的非限制性定语从句，修饰 company。"
+        }
+      ],
+      "zh": "获胜者以巨大优势胜出，是弗吉尼亚一家名叫“开源解决方案”的小公司，其明显优势在于对电子世界的精通。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2003-text1-s11",
+      "s": "Among the firms making the biggest splash in the new world is Straitford, Inc., a private intelligence-analysis firm based in Austin, Texas.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Straitford, Inc.",
+        "谓语": "is",
+        "宾语或表语": "Among the firms",
+        "主干翻译": "斯特拉特福公司位列那些公司之中。"
+      },
+      "components": [
+        {
+          "成分类型": "倒装",
+          "原文": "Among the firms making the biggest splash in the new world is Straitford, Inc.",
+          "修饰对象": "—",
+          "中文翻译": "在新世界中引起最大轰动的公司当中，就有斯特拉特福公司",
+          "说明": "介词短语置于句首引起的完全倒装，主语 Straitford, Inc. 后置。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "making the biggest splash in the new world",
+          "修饰对象": "firms",
+          "中文翻译": "在新世界中引起最大轰动的",
+          "说明": "现在分词短语作定语，修饰 firms。"
+        },
+        {
+          "成分类型": "同位语",
+          "原文": "a private intelligence-analysis firm based in Austin, Texas",
+          "修饰对象": "Inc.",
+          "中文翻译": "一家总部设在得克萨斯州奥斯汀的私营情报分析公司",
+          "说明": "对 Straitford, Inc. 的同位语说明。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "based in Austin, Texas",
+          "修饰对象": "firm",
+          "中文翻译": "总部设在得克萨斯州奥斯汀的",
+          "说明": "过去分词短语作定语，修饰 firm。"
+        },
+        {
+          "成分类型": "同位语",
+          "原文": "Texas",
+          "修饰对象": "Austin",
+          "中文翻译": "得克萨斯州",
+          "说明": "Texas 是对 Austin 所属州的同位说明。"
+        }
+      ],
+      "zh": "在新世界中引起最大轰动的公司当中，就有斯特拉特福公司，一家总部设在得克萨斯州奥斯汀的私营情报分析公司。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2003-text1-s12",
+      "s": "Straitford makes money by selling the results of spying (covering nations from Chile to Russia) to corporations like energy-services firm McDermott International.",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Straitford",
+        "谓语": "makes",
+        "宾语或表语": "money",
+        "主干翻译": "Straitford公司赚钱。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "by selling the results of spying",
+          "修饰对象": "makes",
+          "中文翻译": "通过出售间谍活动的成果",
+          "说明": "by + 动名词构成方式状语，说明赚钱的途径。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "covering nations from Chile to Russia",
+          "修饰对象": "spying",
+          "中文翻译": "其范围涵盖从智利到俄罗斯的众多国家",
+          "说明": "现在分词短语（置于括号内）作定语，补充说明 spying 的覆盖范围。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "to corporations like energy-services firm McDermott International",
+          "修饰对象": "selling",
+          "中文翻译": "卖给像能源服务公司麦克德莫特国际这样的企业",
+          "说明": "to 引导动作 selling 的对象，like... 进一步举例说明 corporations。"
+        }
+      ],
+      "zh": "Straitford公司通过把间谍活动（范围涵盖从智利到俄罗斯的众多国家）的成果出售给像能源服务公司麦克德莫特国际这样的企业来赚钱。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2003-text1-s13",
+      "s": "Many of its predictions are available online at www.straitford.com.",
+      "para_no": 3,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Many of its predictions",
+        "谓语": "are",
+        "宾语或表语": "available online",
+        "主干翻译": "它的许多预测可在网上获取。"
+      },
+      "components": null,
+      "zh": "它的许多预测都可以在 www.straitford.com 网站上在线获取。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2003-text1-s14",
+      "s": "Straitford president George Friedman says he sees the online world as a kind of mutually reinforcing tool for both information collection and distribution, a spymaster's dream.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Straitford president George Friedman",
+        "谓语": "says",
+        "宾语或表语": "(宾语从句)",
+        "主干翻译": "斯特拉特福公司总裁乔治·弗里德曼说……"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "he sees the online world as a kind of mutually reinforcing tool for both information collection and distribution",
+          "修饰对象": "says",
+          "中文翻译": "他把网络世界视为一种集信息收集与发布于一体、相互强化的工具",
+          "说明": "省略 that 的宾语从句，作 says 的宾语。"
+        },
+        {
+          "成分类型": "同位语",
+          "原文": "a spymaster's dream",
+          "修饰对象": "kind",
+          "中文翻译": "一个间谍大师的梦想",
+          "说明": "对前面 a kind of ... tool 的同位语说明。"
+        }
+      ],
+      "zh": "斯特拉特福公司总裁乔治·弗里德曼说，他把网络世界看作一种集信息收集与发布于一体、可相互强化的工具——一个间谍大师梦寐以求的工具。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2003-text1-s15",
+      "s": "Last week his firm was busy vacuuming up data bits from the far corners of the world and predicting a crisis in Ukraine.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "his firm",
+        "谓语": "was",
+        "宾语或表语": "busy",
+        "主干翻译": "他的公司忙碌不已。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "Last week",
+          "修饰对象": "was",
+          "中文翻译": "上周",
+          "说明": "时间状语，修饰 was busy。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "vacuuming up data bits from the far corners of the world and predicting a crisis in Ukraine",
+          "修饰对象": "busy",
+          "中文翻译": "忙着从世界各个偏远角落搜集数据碎片，并预测乌克兰的一场危机",
+          "说明": "be busy doing 结构中的动名词短语，说明忙于何事。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "predicting a crisis in Ukraine",
+          "修饰对象": "vacuuming",
+          "中文翻译": "并预测乌克兰的一场危机",
+          "说明": "由 and 连接，与 vacuuming up... 并列。"
+        }
+      ],
+      "zh": "上周，他的公司忙着从世界各个偏远角落搜集数据碎片，并预测乌克兰将爆发一场危机。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2003-text1-s16",
+      "s": "\"As soon as that report runs, we'll suddenly get 500 new internet sign-ups from Ukraine,\" says Friedman, a former political science professor.",
+      "para_no": 4,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Friedman",
+        "谓语": "says",
+        "宾语或表语": "(直接引语)",
+        "主干翻译": "弗里德曼说……"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "As soon as that report runs, we'll suddenly get 500 new internet sign-ups from Ukraine",
+          "修饰对象": "says",
+          "中文翻译": "那份报告一发布，我们就会突然收到来自乌克兰的500个新的互联网注册",
+          "说明": "引用的直接引语，作 says 的宾语（内容宾语）。"
+        },
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "As soon as that report runs",
+          "修饰对象": "get",
+          "中文翻译": "那份报告一发布",
+          "说明": "as soon as 引导时间状语从句，修饰主句谓语 get。"
+        },
+        {
+          "成分类型": "同位语",
+          "原文": "a former political science professor",
+          "修饰对象": "Friedman",
+          "中文翻译": "一位前政治学教授",
+          "说明": "对 Friedman 的同位语说明。"
+        }
+      ],
+      "zh": "“那份报告一发布，我们就会突然收到来自乌克兰的500个新的互联网注册，”身为前政治学教授的弗里德曼说。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2003-text1-s17",
+      "s": "\"And we'll hear back from some of them.\"",
+      "para_no": 4,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "we",
+        "谓语": "'ll hear back",
+        "宾语或表语": "from some of them",
+        "主干翻译": "我们会收到他们中一些人的回应。"
+      },
+      "components": [],
+      "zh": "“而且我们会收到他们当中一些人的回音。”",
+      "underline": null
+    },
+    {
+      "sid": "en1-2003-text1-s18",
+      "s": "Open-source spying does have its risks, of course, since it can be difficult to tell good information from bad.",
+      "para_no": 4,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "Open-source spying",
+        "谓语": "does have",
+        "宾语或表语": "its risks",
+        "主干翻译": "开源间谍活动确实有其风险。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "of course",
+          "修饰对象": "—",
+          "中文翻译": "当然",
+          "说明": "插入语，表语气。"
+        },
+        {
+          "成分类型": "状语从句(原因)",
+          "原文": "since it can be difficult to tell good information from bad",
+          "修饰对象": "have",
+          "中文翻译": "因为很难把好情报和坏情报区分开",
+          "说明": "since 引导原因状语从句，修饰主句。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to tell good information from bad",
+          "修饰对象": "be",
+          "中文翻译": "把好情报和坏情报区分开",
+          "说明": "it can be difficult 中 it 为形式主语，to tell... 为真正主语（不定式）。"
+        }
+      ],
+      "zh": "当然，开源间谍活动确实有其风险，因为要把好情报和坏情报区分开可能很困难。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2003-text1-s19",
+      "s": "That's where Straitford earns its keep.",
+      "para_no": 4,
+      "para_seq": 5,
+      "trunk": {
+        "主语": "That",
+        "谓语": "'s",
+        "宾语或表语": "(表语从句)",
+        "主干翻译": "那正是……之处。"
+      },
+      "components": [
+        {
+          "成分类型": "表语从句",
+          "原文": "where Straitford earns its keep",
+          "修饰对象": "'s",
+          "中文翻译": "斯特拉特福公司赚取生计的地方",
+          "说明": "where 引导表语从句，作系动词 's 的表语。"
+        }
+      ],
+      "zh": "而这正是斯特拉特福公司赚取报酬之所在。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2003-text1-s20",
+      "s": "Friedman relies on a lean staff of 20 in Austin.",
+      "para_no": 5,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Friedman",
+        "谓语": "relies on",
+        "宾语或表语": "a lean staff of 20",
+        "主干翻译": "弗里德曼依靠一支20人的精干团队。"
+      },
+      "components": [],
+      "zh": "弗里德曼依靠奥斯汀的一支20人的精干员工队伍。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2003-text1-s21",
+      "s": "Several of his staff members have military-intelligence backgrounds.",
+      "para_no": 5,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Several of his staff members",
+        "谓语": "have",
+        "宾语或表语": "military-intelligence backgrounds",
+        "主干翻译": "他的几名员工有军事情报背景。"
+      },
+      "components": [],
+      "zh": "他的几名员工拥有军事情报背景。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2003-text1-s22",
+      "s": "He sees the firm's outsider status as the key to its success.",
+      "para_no": 5,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "He",
+        "谓语": "sees",
+        "宾语或表语": "the firm's outsider status",
+        "主干翻译": "他把公司的局外人身份视作其成功的关键。"
+      },
+      "components": [],
+      "zh": "他把公司的“局外人”身份视为其成功的关键。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2003-text1-s23",
+      "s": "Straitford's briefs don't sound like the usual Washington back-and-forthing, whereby agencies avoid dramatic declarations on the chance they might be wrong.",
+      "para_no": 5,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "Straitford's briefs",
+        "谓语": "don't sound like",
+        "宾语或表语": "the usual Washington back-and-forthing",
+        "主干翻译": "斯特拉特福公司的简报听起来不像华盛顿惯常的来回扯皮。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "whereby agencies avoid dramatic declarations on the chance they might be wrong",
+          "修饰对象": "back-and-forthing",
+          "中文翻译": "在这种来回扯皮中，各机构因担心可能出错而避免做出引人注目的论断",
+          "说明": "whereby（=by which）引导定语从句，修饰 back-and-forthing。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "they might be wrong",
+          "修饰对象": "chance",
+          "中文翻译": "他们可能出错",
+          "说明": "省略 that，作 chance 的同位语从句，说明 chance 的内容。"
+        }
+      ],
+      "zh": "斯特拉特福公司的简报听起来不像华盛顿惯常的那种来回扯皮——在那种扯皮中，各机构因担心可能出错而回避做出引人注目的论断。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2003-text1-s24",
+      "s": "Straitford, says Friedman, takes pride in its independent voice.",
+      "para_no": 5,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "Straitford",
+        "谓语": "takes pride in",
+        "宾语或表语": "its independent voice",
+        "主干翻译": "斯特拉特福公司以其独立的声音为荣。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "says Friedman",
+          "修饰对象": "—",
+          "中文翻译": "弗里德曼说",
+          "说明": "插入语，插在主语和谓语之间。"
+        }
+      ],
+      "zh": "弗里德曼说，斯特拉特福公司以其独立的声音而自豪。",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2003-text1-s1",
+        "en1-2003-text1-s2",
+        "en1-2003-text1-s3",
+        "en1-2003-text1-s4"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2003-text1-s5",
+        "en1-2003-text1-s6",
+        "en1-2003-text1-s7",
+        "en1-2003-text1-s8",
+        "en1-2003-text1-s9",
+        "en1-2003-text1-s10"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2003-text1-s11",
+        "en1-2003-text1-s12",
+        "en1-2003-text1-s13"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2003-text1-s14",
+        "en1-2003-text1-s15",
+        "en1-2003-text1-s16",
+        "en1-2003-text1-s17",
+        "en1-2003-text1-s18",
+        "en1-2003-text1-s19"
+      ]
+    },
+    {
+      "para_no": 5,
+      "sids": [
+        "en1-2003-text1-s20",
+        "en1-2003-text1-s21",
+        "en1-2003-text1-s22",
+        "en1-2003-text1-s23",
+        "en1-2003-text1-s24"
+      ]
+    }
+  ]
+}

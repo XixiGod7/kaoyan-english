@@ -1,0 +1,632 @@
+{
+  "sentences": [
+    {
+      "cn_text": "尊敬的校长：",
+      "en_text": "Dear President,",
+      "id": 2026024721,
+      "order_seq": "content_1_1",
+      "task_id": 201401008,
+      "tokens": [
+        {
+          "gloss": "尊敬的",
+          "lemma": "dear",
+          "surface": "Dear"
+        },
+        {
+          "gloss": "校长",
+          "lemma": "president",
+          "surface": "President"
+        }
+      ]
+    },
+    {
+      "cn_text": "我写信旨在就改善学生身体状况提出若干切实可行的建议，我认为这对学生的整体健康和学业表现至关重要。",
+      "en_text": "I am writing to offer several practical suggestions to enhance students' physical condition, which I believe is crucial for their overall well-being and academic performance.",
+      "id": 2026024722,
+      "order_seq": "content_2_1",
+      "task_id": 201401008,
+      "tokens": [
+        {
+          "gloss": "我",
+          "lemma": "i",
+          "surface": "I"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "am"
+        },
+        {
+          "gloss": "写",
+          "lemma": "write",
+          "surface": "writing"
+        },
+        {
+          "gloss": "为了",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "提供",
+          "lemma": "offer",
+          "surface": "offer"
+        },
+        {
+          "gloss": "一些",
+          "lemma": "several",
+          "surface": "several"
+        },
+        {
+          "gloss": "实际的",
+          "lemma": "practical",
+          "surface": "practical"
+        },
+        {
+          "gloss": "建议",
+          "lemma": "suggestion",
+          "surface": "suggestions"
+        },
+        {
+          "gloss": "以",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "改善",
+          "lemma": "enhance",
+          "surface": "enhance"
+        },
+        {
+          "gloss": "学生的",
+          "lemma": "student",
+          "surface": "students'"
+        },
+        {
+          "gloss": "身体的",
+          "lemma": "physical",
+          "surface": "physical"
+        },
+        {
+          "gloss": "状况",
+          "lemma": "condition",
+          "surface": "condition"
+        },
+        {
+          "gloss": "这",
+          "lemma": "which",
+          "surface": "which"
+        },
+        {
+          "gloss": "我",
+          "lemma": "i",
+          "surface": "I"
+        },
+        {
+          "gloss": "认为",
+          "lemma": "believe",
+          "surface": "believe"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "至关重要的",
+          "lemma": "crucial",
+          "surface": "crucial"
+        },
+        {
+          "gloss": "对",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "他们的",
+          "lemma": "their",
+          "surface": "their"
+        },
+        {
+          "gloss": "整体的",
+          "lemma": "overall",
+          "surface": "overall"
+        },
+        {
+          "gloss": "良好地",
+          "lemma": "well",
+          "surface": "well"
+        },
+        {
+          "gloss": "存在",
+          "lemma": "being",
+          "surface": "being"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "学业的",
+          "lemma": "academic",
+          "surface": "academic"
+        },
+        {
+          "gloss": "表现",
+          "lemma": "performance",
+          "surface": "performance"
+        }
+      ]
+    },
+    {
+      "cn_text": "首先，我建议延长体育场馆的开放时间，使学生能够更灵活地参与体育活动。",
+      "en_text": "First, I suggest extending the opening hours of sports venues, allowing students more flexibility to engage in physical activities.",
+      "id": 2026024723,
+      "order_seq": "content_3_1",
+      "task_id": 201401008,
+      "tokens": [
+        {
+          "gloss": "首先",
+          "lemma": "first",
+          "surface": "First"
+        },
+        {
+          "gloss": "我",
+          "lemma": "i",
+          "surface": "I"
+        },
+        {
+          "gloss": "建议",
+          "lemma": "suggest",
+          "surface": "suggest"
+        },
+        {
+          "gloss": "延长",
+          "lemma": "extend",
+          "surface": "extending"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "开放",
+          "lemma": "opening",
+          "surface": "opening"
+        },
+        {
+          "gloss": "时间",
+          "lemma": "hour",
+          "surface": "hours"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "体育",
+          "lemma": "sport",
+          "surface": "sports"
+        },
+        {
+          "gloss": "场馆",
+          "lemma": "venue",
+          "surface": "venues"
+        },
+        {
+          "gloss": "允许",
+          "lemma": "allow",
+          "surface": "allowing"
+        },
+        {
+          "gloss": "学生",
+          "lemma": "student",
+          "surface": "students"
+        },
+        {
+          "gloss": "更多的",
+          "lemma": "more",
+          "surface": "more"
+        },
+        {
+          "gloss": "灵活性",
+          "lemma": "flexibility",
+          "surface": "flexibility"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "参与",
+          "lemma": "engage",
+          "surface": "engage"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "体育的",
+          "lemma": "physical",
+          "surface": "physical"
+        },
+        {
+          "gloss": "活动",
+          "lemma": "activity",
+          "surface": "activities"
+        }
+      ]
+    },
+    {
+      "cn_text": "其次，定期组织集体体育活动，如跑步比赛或篮球赛事，可以有效激发学生的锻炼积极性。",
+      "en_text": "Second, organizing regular group sports events, such as running races or basketball tournaments, could effectively inspire students to participate in exercise.",
+      "id": 2026024724,
+      "order_seq": "content_3_2",
+      "task_id": 201401008,
+      "tokens": [
+        {
+          "gloss": "其次",
+          "lemma": "second",
+          "surface": "Second"
+        },
+        {
+          "gloss": "组织",
+          "lemma": "organize",
+          "surface": "organizing"
+        },
+        {
+          "gloss": "定期的",
+          "lemma": "regular",
+          "surface": "regular"
+        },
+        {
+          "gloss": "团体",
+          "lemma": "group",
+          "surface": "group"
+        },
+        {
+          "gloss": "体育",
+          "lemma": "sport",
+          "surface": "sports"
+        },
+        {
+          "gloss": "活动",
+          "lemma": "event",
+          "surface": "events"
+        },
+        {
+          "gloss": "例如",
+          "lemma": "such",
+          "surface": "such"
+        },
+        {
+          "gloss": "如",
+          "lemma": "as",
+          "surface": "as"
+        },
+        {
+          "gloss": "跑步",
+          "lemma": "run",
+          "surface": "running"
+        },
+        {
+          "gloss": "比赛",
+          "lemma": "race",
+          "surface": "races"
+        },
+        {
+          "gloss": "或",
+          "lemma": "or",
+          "surface": "or"
+        },
+        {
+          "gloss": "篮球",
+          "lemma": "basketball",
+          "surface": "basketball"
+        },
+        {
+          "gloss": "锦标赛",
+          "lemma": "tournament",
+          "surface": "tournaments"
+        },
+        {
+          "gloss": "可以",
+          "lemma": "could",
+          "surface": "could"
+        },
+        {
+          "gloss": "有效地",
+          "lemma": "effectively",
+          "surface": "effectively"
+        },
+        {
+          "gloss": "激励",
+          "lemma": "inspire",
+          "surface": "inspire"
+        },
+        {
+          "gloss": "学生",
+          "lemma": "student",
+          "surface": "students"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "参与",
+          "lemma": "participate",
+          "surface": "participate"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "锻炼",
+          "lemma": "exercise",
+          "surface": "exercise"
+        }
+      ]
+    },
+    {
+      "cn_text": "第三，开设更加丰富的体育选修课程，如瑜伽、游泳或武术，可满足多元化的兴趣需求，促使更多学生积极参与体育锻炼。",
+      "en_text": "Third, introducing a wider variety of optional PE courses, such as yoga, swimming, or martial arts, would cater to diverse interests and encourage more students to stay active.",
+      "id": 2026024725,
+      "order_seq": "content_3_3",
+      "task_id": 201401008,
+      "tokens": [
+        {
+          "gloss": "第三",
+          "lemma": "third",
+          "surface": "Third"
+        },
+        {
+          "gloss": "开设",
+          "lemma": "introduce",
+          "surface": "introducing"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "更多种类的",
+          "lemma": "wide",
+          "surface": "wider"
+        },
+        {
+          "gloss": "种类",
+          "lemma": "variety",
+          "surface": "variety"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "选修的",
+          "lemma": "optional",
+          "surface": "optional"
+        },
+        {
+          "gloss": "体育",
+          "lemma": "pe",
+          "surface": "PE"
+        },
+        {
+          "gloss": "课程",
+          "lemma": "course",
+          "surface": "courses"
+        },
+        {
+          "gloss": "例如",
+          "lemma": "such",
+          "surface": "such"
+        },
+        {
+          "gloss": "如",
+          "lemma": "as",
+          "surface": "as"
+        },
+        {
+          "gloss": "瑜伽",
+          "lemma": "yoga",
+          "surface": "yoga"
+        },
+        {
+          "gloss": "游泳",
+          "lemma": "swim",
+          "surface": "swimming"
+        },
+        {
+          "gloss": "或",
+          "lemma": "or",
+          "surface": "or"
+        },
+        {
+          "gloss": "武术的",
+          "lemma": "martial",
+          "surface": "martial"
+        },
+        {
+          "gloss": "艺术",
+          "lemma": "art",
+          "surface": "arts"
+        },
+        {
+          "gloss": "可以",
+          "lemma": "would",
+          "surface": "would"
+        },
+        {
+          "gloss": "满足",
+          "lemma": "cater",
+          "surface": "cater"
+        },
+        {
+          "gloss": "对",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "不同的",
+          "lemma": "diverse",
+          "surface": "diverse"
+        },
+        {
+          "gloss": "兴趣",
+          "lemma": "interest",
+          "surface": "interests"
+        },
+        {
+          "gloss": "并",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "鼓励",
+          "lemma": "encourage",
+          "surface": "encourage"
+        },
+        {
+          "gloss": "更多的",
+          "lemma": "more",
+          "surface": "more"
+        },
+        {
+          "gloss": "学生",
+          "lemma": "student",
+          "surface": "students"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "保持",
+          "lemma": "stay",
+          "surface": "stay"
+        },
+        {
+          "gloss": "活跃的",
+          "lemma": "active",
+          "surface": "active"
+        }
+      ]
+    },
+    {
+      "cn_text": "我真诚希望上述建议能够为制定更好的政策提供参考。",
+      "en_text": "I sincerely hope my suggestions will contribute to better policy decisions.",
+      "id": 2026024726,
+      "order_seq": "content_4_1",
+      "task_id": 201401008,
+      "tokens": [
+        {
+          "gloss": "我",
+          "lemma": "i",
+          "surface": "I"
+        },
+        {
+          "gloss": "真诚地",
+          "lemma": "sincerely",
+          "surface": "sincerely"
+        },
+        {
+          "gloss": "希望",
+          "lemma": "hope",
+          "surface": "hope"
+        },
+        {
+          "gloss": "我的",
+          "lemma": "my",
+          "surface": "my"
+        },
+        {
+          "gloss": "建议",
+          "lemma": "suggestion",
+          "surface": "suggestions"
+        },
+        {
+          "gloss": "能够",
+          "lemma": "will",
+          "surface": "will"
+        },
+        {
+          "gloss": "促进",
+          "lemma": "contribute",
+          "surface": "contribute"
+        },
+        {
+          "gloss": "对",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "更好的",
+          "lemma": "better",
+          "surface": "better"
+        },
+        {
+          "gloss": "政策",
+          "lemma": "policy",
+          "surface": "policy"
+        },
+        {
+          "gloss": "决策",
+          "lemma": "decision",
+          "surface": "decisions"
+        }
+      ]
+    },
+    {
+      "cn_text": "此致敬礼，",
+      "en_text": "Yours respectfully,",
+      "id": 2026024727,
+      "order_seq": "content_5_1",
+      "task_id": 201401008,
+      "tokens": [
+        {
+          "gloss": "您的",
+          "lemma": "yours",
+          "surface": "Yours"
+        },
+        {
+          "gloss": "敬礼",
+          "lemma": "respectfully",
+          "surface": "respectfully"
+        }
+      ]
+    },
+    {
+      "cn_text": "李明",
+      "en_text": "Li Ming",
+      "id": 2026024728,
+      "order_seq": "content_6_1",
+      "task_id": 201401008,
+      "tokens": [
+        {
+          "gloss": "李",
+          "lemma": "li",
+          "surface": "Li"
+        },
+        {
+          "gloss": "明",
+          "lemma": "ming",
+          "surface": "Ming"
+        }
+      ]
+    }
+  ],
+  "success": true
+}

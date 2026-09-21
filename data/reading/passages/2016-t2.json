@@ -1,0 +1,936 @@
+{
+  "exam": "en1",
+  "key": "2016-t2",
+  "year": 2016,
+  "text_no": 2,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2016-text2-s1",
+      "s": "For the first time in history more people live in towns than in the country.",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "more people",
+        "谓语": "live",
+        "宾语或表语": "in towns",
+        "主干翻译": "更多的人居住在城镇。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "For the first time in history",
+          "修饰对象": "live",
+          "中文翻译": "在历史上第一次",
+          "说明": "时间状语，置于句首。"
+        },
+        {
+          "成分类型": "状语从句(比较)",
+          "原文": "than in the country",
+          "修饰对象": "more",
+          "中文翻译": "比居住在乡村的人",
+          "说明": "more...than 的比较结构，省略了 people live。"
+        }
+      ],
+      "zh": "在历史上第一次，居住在城镇的人比居住在乡村的人多。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text2-s2",
+      "s": "In Britain this has had a curious result.",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "this",
+        "谓语": "has had",
+        "宾语或表语": "a curious result",
+        "主干翻译": "这产生了一个奇怪的结果。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "In Britain",
+          "修饰对象": "has had",
+          "中文翻译": "在英国",
+          "说明": "地点状语，置于句首。"
+        }
+      ],
+      "zh": "在英国，这产生了一个奇怪的结果。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text2-s3",
+      "s": "While polls show Britons rate \"the countryside\" alongside the royal family, Shakespeare and the National Health Service (NHS) as what makes them proudest of their country, this has limited political support.",
+      "para_no": 1,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "this",
+        "谓语": "has limited",
+        "宾语或表语": "political support",
+        "主干翻译": "这一点在政治上得到的支持却很有限。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(让步)",
+          "原文": "While polls show Britons rate \"the countryside\" alongside the royal family, Shakespeare and the National Health Service (NHS) as what makes them proudest of their country",
+          "修饰对象": "—",
+          "中文翻译": "尽管民调显示英国人把“乡村”与王室、莎士比亚和 NHS 一并视为最让他们为国家骄傲的东西",
+          "说明": "While 在此表让步（相当于 Although），主句是后面的 this has limited political support。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "Britons rate \"the countryside\" alongside the royal family, Shakespeare and the National Health Service (NHS) as what makes them proudest of their country",
+          "修饰对象": "show",
+          "中文翻译": "英国人把“乡村”与王室、莎士比亚和 NHS 一并视为最让他们为国家骄傲的东西",
+          "说明": "作 show 的宾语，省略了引导词 that。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "the royal family, Shakespeare and the National Health Service (NHS)",
+          "修饰对象": "alongside",
+          "中文翻译": "王室、莎士比亚和国民医疗服务体系（NHS）",
+          "说明": "三项并列作介词 alongside 的宾语；rate 的宾语是 \"the countryside\"。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "(NHS)",
+          "修饰对象": "Service",
+          "中文翻译": "（国民医疗服务体系的缩写）",
+          "说明": "对 National Health Service 的缩写说明，相当于同位语。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "what makes them proudest of their country",
+          "修饰对象": "as",
+          "中文翻译": "最让他们为自己国家感到骄傲的东西",
+          "说明": "what 引导的名词性从句，作介词 as 的宾语。"
+        }
+      ],
+      "zh": "尽管民调显示，英国人把“乡村”与王室、莎士比亚以及国民医疗服务体系（NHS）一并视为最让他们为自己国家感到骄傲的东西，但这份情感在政治上得到的支持却很有限。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text2-s5",
+      "s": "A century ago Octavia Hill launched the National Trust not to rescue stylish houses but to save \"the beauty of natural places for everyone forever\".",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Octavia Hill",
+        "谓语": "launched",
+        "宾语或表语": "the National Trust",
+        "主干翻译": "奥克塔维娅·希尔创立了国民信托组织。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "A century ago",
+          "修饰对象": "launched",
+          "中文翻译": "一个世纪以前",
+          "说明": "时间状语。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "not to rescue stylish houses but to save \"the beauty of natural places for everyone forever\"",
+          "修饰对象": "launched",
+          "中文翻译": "不是为了拯救漂亮的房屋，而是为了永远为每个人保护“自然之地的美”",
+          "说明": "not...but... 引导的并列不定式作目的状语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "to save \"the beauty of natural places for everyone forever\"",
+          "修饰对象": "rescue",
+          "中文翻译": "（而是）为了拯救“自然之地之美”",
+          "说明": "与 to rescue 由 not...but... 连接的并列不定式。"
+        }
+      ],
+      "zh": "一个世纪以前，奥克塔维娅·希尔创立国民信托组织，并非为了拯救漂亮的房屋，而是为了永远为每个人保护“自然之地的美”。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text2-s6",
+      "s": "It was specifically to provide city dwellers with spaces for leisure where they could experience \"a refreshing air\".",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "It",
+        "谓语": "was",
+        "宾语或表语": "to provide city dwellers with spaces for leisure",
+        "主干翻译": "其目的是为城市居民提供休闲空间。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to provide city dwellers with spaces for leisure where they could experience \"a refreshing air\"",
+          "修饰对象": "was",
+          "中文翻译": "为城市居民提供能体验“清新空气”的休闲空间",
+          "说明": "不定式作表语，说明 It（创立信托之事）的目的。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "where they could experience \"a refreshing air\"",
+          "修饰对象": "spaces",
+          "中文翻译": "在那里他们能体验到“清新空气”",
+          "说明": "where 引导定语从句，修饰 spaces。"
+        }
+      ],
+      "zh": "它的目的特别在于为城市居民提供休闲空间，让他们在那里能够体验“清新的空气”。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text2-s7",
+      "s": "Hill's pressure later led to the creation of national parks and green belts.",
+      "para_no": 2,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Hill's pressure",
+        "谓语": "led to",
+        "宾语或表语": "the creation of national parks and green belts",
+        "主干翻译": "希尔的推动促成了国家公园和绿化带的建立。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "national parks and green belts",
+          "修饰对象": "creation",
+          "中文翻译": "国家公园和绿化带",
+          "说明": "of 短语中两个名词由 and 并列。"
+        }
+      ],
+      "zh": "希尔的推动后来促成了国家公园和绿化带的建立。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text2-s8",
+      "s": "They don't make countryside any more, and every year concrete consumes more of it.",
+      "para_no": 2,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "They",
+        "谓语": "don't make",
+        "宾语或表语": "countryside",
+        "主干翻译": "他们不再生产乡村了。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "every year concrete consumes more of it",
+          "修饰对象": "—",
+          "中文翻译": "每年混凝土都在吞噬更多的乡村",
+          "说明": "由 and 连接的并列分句，与前一分句构成并列结构。"
+        }
+      ],
+      "zh": "乡村不会再被制造出来了，而每年混凝土都在吞噬更多的乡村。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text2-s9",
+      "s": "It needs constant guardianship.",
+      "para_no": 2,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "It",
+        "谓语": "needs",
+        "宾语或表语": "constant guardianship",
+        "主干翻译": "它需要持续的守护。"
+      },
+      "components": [],
+      "zh": "它需要持续不断的守护。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text2-s10",
+      "s": "At the next election none of the big parties seem likely to endorse this sentiment.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "none of the big parties",
+        "谓语": "seem",
+        "宾语或表语": "likely",
+        "主干翻译": "没有哪个大党看起来有可能（这样做）。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "At the next election",
+          "修饰对象": "seem",
+          "中文翻译": "在下次选举中",
+          "说明": "时间状语。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to endorse this sentiment",
+          "修饰对象": "likely",
+          "中文翻译": "支持这一情感",
+          "说明": "不定式，作形容词 likely 的补足语。"
+        }
+      ],
+      "zh": "在下次选举中，似乎没有哪个大党愿意支持这种情感。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text2-s11",
+      "s": "The Conservatives' planning reform explicitly gives rural development priority over conservation, even authorizing \"off–plan\" building where local people might object.",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "The Conservatives' planning reform",
+        "谓语": "gives",
+        "宾语或表语": "rural development priority over conservation",
+        "主干翻译": "保守党的规划改革赋予乡村开发优先于保护的地位。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "even authorizing \"off–plan\" building where local people might object",
+          "修饰对象": "gives",
+          "中文翻译": "甚至批准在当地人可能反对的地方进行“计划外”建设",
+          "说明": "现在分词短语作伴随/结果状语。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "where local people might object",
+          "修饰对象": "building",
+          "中文翻译": "当地人可能会反对（的地方）",
+          "说明": "where 引导定语从句，修饰 building（指建设之地）。"
+        }
+      ],
+      "zh": "保守党的规划改革明确赋予乡村开发优先于保护的地位，甚至批准在当地人可能反对的地方进行“计划外”建设。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text2-s12",
+      "s": "The concept of sustainable development has been defined as profitable.",
+      "para_no": 3,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "The concept of sustainable development",
+        "谓语": "has been defined",
+        "宾语或表语": "as profitable",
+        "主干翻译": "可持续发展的概念被定义为“有利可图”。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "of sustainable development",
+          "修饰对象": "concept",
+          "中文翻译": "可持续发展的",
+          "说明": "介词短语修饰 concept。"
+        }
+      ],
+      "zh": "可持续发展的概念已被定义为“有利可图”。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text2-s13",
+      "s": "Labour likewise wants to discontinue local planning where councils oppose development.",
+      "para_no": 3,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "Labour",
+        "谓语": "wants",
+        "宾语或表语": "to discontinue local planning",
+        "主干翻译": "工党想要终止地方规划。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to discontinue local planning where councils oppose development",
+          "修饰对象": "wants",
+          "中文翻译": "终止地方议会反对开发之处的地方规划",
+          "说明": "不定式作 wants 的宾语。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "where councils oppose development",
+          "修饰对象": "planning",
+          "中文翻译": "地方议会反对开发的（地方）",
+          "说明": "where 引导定语从句，修饰 planning（地点含义）。"
+        }
+      ],
+      "zh": "工党同样希望在地方议会反对开发的地方终止地方规划。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text2-s14",
+      "s": "The Liberal Democrats are silent.",
+      "para_no": 3,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "The Liberal Democrats",
+        "谓语": "are",
+        "宾语或表语": "silent",
+        "主干翻译": "自由民主党保持沉默。"
+      },
+      "components": [],
+      "zh": "自由民主党则保持沉默。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text2-s15",
+      "s": "Only Ukip, sensing its chance, has sided with those pleading for a more considered approach to using green land.",
+      "para_no": 3,
+      "para_seq": 5,
+      "trunk": {
+        "主语": "Only Ukip",
+        "谓语": "has sided with",
+        "宾语或表语": "those",
+        "主干翻译": "只有英国独立党与那些人站在了一起。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "sensing its chance",
+          "修饰对象": "has sided",
+          "中文翻译": "察觉到自己的机会",
+          "说明": "现在分词短语作伴随/原因状语，插入主谓之间。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "pleading for a more considered approach to using green land",
+          "修饰对象": "those",
+          "中文翻译": "呼吁更审慎地使用绿地的（那些人）",
+          "说明": "现在分词短语作后置定语，修饰 those。"
+        }
+      ],
+      "zh": "只有英国独立党察觉到自己的机会，与那些呼吁更审慎地使用绿地的人站在了一起。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text2-s16",
+      "s": "Its Campaign to Protect Rural England struck terror into many local Conservative parties.",
+      "para_no": 3,
+      "para_seq": 6,
+      "trunk": {
+        "主语": "Its Campaign",
+        "谓语": "struck",
+        "宾语或表语": "terror",
+        "主干翻译": "它的运动带来了恐慌。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to Protect Rural England",
+          "修饰对象": "Campaign",
+          "中文翻译": "保护英格兰乡村的（运动）",
+          "说明": "不定式短语作后置定语，修饰 Campaign。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "into many local Conservative parties",
+          "修饰对象": "struck",
+          "中文翻译": "在许多地方保守党组织中",
+          "说明": "strike terror into 结构，介词短语表恐慌投向的对象。"
+        }
+      ],
+      "zh": "它的“保护英格兰乡村运动”令许多地方保守党组织闻之色变。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text2-s17",
+      "s": "The sensible place to build new houses, factories and offices is where people are, in cities and towns where infrastructure is in place.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The sensible place",
+        "谓语": "is",
+        "宾语或表语": "where people are",
+        "主干翻译": "明智的选址就是人们所在之处。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to build new houses, factories and offices",
+          "修饰对象": "place",
+          "中文翻译": "建造新住宅、工厂和办公楼的（地方）",
+          "说明": "不定式短语作后置定语，修饰 place。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "new houses, factories and offices",
+          "修饰对象": "build",
+          "中文翻译": "新住宅、工厂和办公楼",
+          "说明": "三个名词并列作 build 的宾语。"
+        },
+        {
+          "成分类型": "表语从句",
+          "原文": "where people are",
+          "修饰对象": "is",
+          "中文翻译": "人们所在之处",
+          "说明": "where 引导表语从句。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "where infrastructure is in place",
+          "修饰对象": "cities and towns",
+          "中文翻译": "基础设施已就位的（城镇）",
+          "说明": "where 引导定语从句，修饰 in cities and towns 中的 cities and towns。"
+        }
+      ],
+      "zh": "建造新住宅、工厂和办公楼的明智之地，就在人们所在之处——在那些基础设施已经齐备的城市与城镇。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text2-s18",
+      "s": "The London agents Stirling Ackroyd recently identified enough sites for half a million houses in the London area alone, with no intrusion on green belt.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "The London agents Stirling Ackroyd",
+        "谓语": "identified",
+        "宾语或表语": "enough sites for half a million houses",
+        "主干翻译": "伦敦地产代理斯特林·阿克罗伊德找到了足够建造五十万套住宅的用地。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "Stirling Ackroyd",
+          "修饰对象": "agents",
+          "中文翻译": "斯特林·阿克罗伊德",
+          "说明": "作 The London agents 的同位语。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "in the London area alone",
+          "修饰对象": "identified",
+          "中文翻译": "仅在伦敦地区",
+          "说明": "范围状语。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "with no intrusion on green belt",
+          "修饰对象": "identified",
+          "中文翻译": "且不侵占绿化带",
+          "说明": "with 复合结构作伴随状语。"
+        }
+      ],
+      "zh": "伦敦地产代理斯特林·阿克罗伊德最近发现，仅在伦敦地区就有足够建造五十万套住宅的用地，且无需侵占任何绿化带。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text2-s19",
+      "s": "What is true of London is even truer of the provinces.",
+      "para_no": 4,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "What is true of London",
+        "谓语": "is",
+        "宾语或表语": "even truer of the provinces",
+        "主干翻译": "适用于伦敦的情况更适用于外省。"
+      },
+      "components": [
+        {
+          "成分类型": "主语从句",
+          "原文": "What is true of London",
+          "修饰对象": "—",
+          "中文翻译": "适用于伦敦的情况",
+          "说明": "what 引导主语从句。"
+        }
+      ],
+      "zh": "适用于伦敦的情况，在外省更是如此。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text2-s20",
+      "s": "The idea that \"housing crisis\" equals \"concreted meadows\" is pure lobby talk.",
+      "para_no": 5,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The idea",
+        "谓语": "is",
+        "宾语或表语": "pure lobby talk",
+        "主干翻译": "这种观点纯粹是游说集团的论调。"
+      },
+      "components": [
+        {
+          "成分类型": "同位语从句",
+          "原文": "that \"housing crisis\" equals \"concreted meadows\"",
+          "修饰对象": "idea",
+          "中文翻译": "“住房危机”等同于“被混凝土覆盖的草地”",
+          "说明": "that 引导同位语从句，说明 idea 的内容。"
+        }
+      ],
+      "zh": "认为“住房危机”就等同于“被混凝土覆盖的草地”，这种观点纯粹是游说集团的论调。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text2-s21",
+      "s": "The issue is not the need for more houses but, as always, where to put them.",
+      "para_no": 5,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "The issue",
+        "谓语": "is",
+        "宾语或表语": "not the need for more houses but where to put them",
+        "主干翻译": "问题不在于是否需要更多住房，而在于把它们建在哪里。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "where to put them",
+          "修饰对象": "need",
+          "中文翻译": "把它们建在哪里",
+          "说明": "not...but... 连接的并列表语，where 引导不定式名词短语。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "as always",
+          "修饰对象": "is",
+          "中文翻译": "一如既往",
+          "说明": "插入语，对全句作评注。"
+        }
+      ],
+      "zh": "问题不在于是否需要更多住房，而一如既往地在于把它们建在哪里。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text2-s22",
+      "s": "Under lobby pressure, George Osborne favours rural new-build against urban renovation and renewal.",
+      "para_no": 5,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "George Osborne",
+        "谓语": "favours",
+        "宾语或表语": "rural new-build against urban renovation and renewal",
+        "主干翻译": "乔治·奥斯本支持乡村新建而非城市翻修和更新。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "Under lobby pressure",
+          "修饰对象": "favours",
+          "中文翻译": "在游说压力之下",
+          "说明": "条件/原因状语，置于句首。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "urban renovation and renewal",
+          "修饰对象": "against",
+          "中文翻译": "城市翻修和更新",
+          "说明": "两个名词由 and 并列。"
+        }
+      ],
+      "zh": "在游说压力之下，乔治·奥斯本偏向乡村新建，而非城市的翻修与更新。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text2-s23",
+      "s": "He favours out-of-town shopping sites against high streets.",
+      "para_no": 5,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "He",
+        "谓语": "favours",
+        "宾语或表语": "out-of-town shopping sites against high streets",
+        "主干翻译": "他支持城外购物点而非主商业街。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "against high streets",
+          "修饰对象": "favours",
+          "中文翻译": "而非繁华商业街",
+          "说明": "against 短语表对立的取舍对象。"
+        }
+      ],
+      "zh": "他偏向城外购物点，而非市中心的繁华商业街。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text2-s24",
+      "s": "This is not a free market but a biased one.",
+      "para_no": 5,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "This",
+        "谓语": "is",
+        "宾语或表语": "not a free market but a biased one",
+        "主干翻译": "这不是自由市场，而是有偏向的市场。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "a biased one",
+          "修饰对象": "market",
+          "中文翻译": "一个有偏向的市场",
+          "说明": "not...but... 连接的并列表语，one 指代 market。"
+        }
+      ],
+      "zh": "这不是一个自由市场，而是一个有偏向的市场。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text2-s25",
+      "s": "Rural towns and villages have grown and will always grow.",
+      "para_no": 5,
+      "para_seq": 5,
+      "trunk": {
+        "主语": "Rural towns and villages",
+        "谓语": "have grown and will grow",
+        "宾语或表语": "—",
+        "主干翻译": "乡村城镇和村庄过去在发展，将来也会一直发展。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "will always grow",
+          "修饰对象": "—",
+          "中文翻译": "将来也会一直发展",
+          "说明": "与 have grown 由 and 连接的并列谓语。"
+        }
+      ],
+      "zh": "乡村城镇和村庄一直在发展，将来也会持续发展。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text2-s26",
+      "s": "They do so best where building sticks to their edges and respects their character.",
+      "para_no": 5,
+      "para_seq": 6,
+      "trunk": {
+        "主语": "They",
+        "谓语": "do so",
+        "宾语或表语": "best",
+        "主干翻译": "它们做得最好。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "where building sticks to their edges and respects their character",
+          "修饰对象": "do",
+          "中文翻译": "在建设紧贴其边缘并尊重其特色的情况下",
+          "说明": "where 引导条件/地点状语从句。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "respects their character",
+          "修饰对象": "building",
+          "中文翻译": "并尊重其特色",
+          "说明": "与 sticks to their edges 由 and 连接的并列谓语。"
+        }
+      ],
+      "zh": "当建设紧贴城镇边缘并尊重其特色时，它们的发展最为理想。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text2-s27",
+      "s": "We do not ruin urban conservation areas.",
+      "para_no": 5,
+      "para_seq": 7,
+      "trunk": {
+        "主语": "We",
+        "谓语": "do not ruin",
+        "宾语或表语": "urban conservation areas",
+        "主干翻译": "我们不会破坏城市的保护区。"
+      },
+      "components": [],
+      "zh": "我们不会破坏城市的保护区。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text2-s28",
+      "s": "Why ruin rural ones?",
+      "para_no": 5,
+      "para_seq": 8,
+      "trunk": {
+        "主语": "(we)",
+        "谓语": "ruin",
+        "宾语或表语": "rural ones",
+        "主干翻译": "（为何要）破坏乡村的保护区？"
+      },
+      "components": [
+        {
+          "成分类型": "省略",
+          "原文": "Why ruin rural ones?",
+          "修饰对象": "—",
+          "中文翻译": "为何又要破坏乡村的保护区呢？",
+          "说明": "省略了主语与助动词的修辞性疑问句（Why should we ruin...），ones 指代 conservation areas。"
+        }
+      ],
+      "zh": "那又为什么要破坏乡村的保护区呢？",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text2-s29",
+      "s": "Development should be planned, not let rip, After the Netherlands, Britain is Europe's most crowded country.",
+      "para_no": 6,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Development",
+        "谓语": "should be planned",
+        "宾语或表语": "—",
+        "主干翻译": "开发应当有规划。"
+      },
+      "components": [
+        {
+          "成分类型": "省略",
+          "原文": "not let rip",
+          "修饰对象": "planned",
+          "中文翻译": "而不应放任自流",
+          "说明": "not (be) let rip，省略系动词，与 be planned 形成对照。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "After the Netherlands, Britain is Europe's most crowded country",
+          "修饰对象": "—",
+          "中文翻译": "继荷兰之后，英国是欧洲人口最稠密的国家",
+          "说明": "原文此处实为另起的独立句子（标点应为句号），陈述背景事实。"
+        }
+      ],
+      "zh": "开发应当有规划，而不应放任自流。继荷兰之后，英国是欧洲人口最稠密的国家。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text2-s30",
+      "s": "Half a century of town and country planning has enabled it to retain an enviable rural coherence, while still permitting low-density urban living.",
+      "para_no": 6,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Half a century of town and country planning",
+        "谓语": "has enabled",
+        "宾语或表语": "it to retain an enviable rural coherence",
+        "主干翻译": "半个世纪的城乡规划使英国得以保持令人羡慕的乡村整体性。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to retain an enviable rural coherence, while still permitting low-density urban living",
+          "修饰对象": "enabled",
+          "中文翻译": "保持令人羡慕的乡村整体性，同时仍允许低密度的城市生活",
+          "说明": "不定式作 enable 的宾语补足语。"
+        },
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "while still permitting low-density urban living",
+          "修饰对象": "retain",
+          "中文翻译": "同时仍允许低密度的城市生活",
+          "说明": "while + 现在分词，表伴随/同时，作状语。"
+        }
+      ],
+      "zh": "半个世纪的城乡规划使英国得以保持令人羡慕的乡村整体性，同时又仍允许低密度的城市生活。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text2-s31",
+      "s": "There is no doubt of the alternative—the corrupted landscapes of southern Portugal, Spain or Ireland.",
+      "para_no": 6,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "There",
+        "谓语": "is",
+        "宾语或表语": "no doubt of the alternative",
+        "主干翻译": "对于另一种结果毫无疑问。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "the corrupted landscapes of southern Portugal, Spain or Ireland",
+          "修饰对象": "alternative",
+          "中文翻译": "葡萄牙南部、西班牙或爱尔兰被破坏的景观",
+          "说明": "破折号引出，作 the alternative 的同位语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "Portugal, Spain or Ireland",
+          "修饰对象": "landscapes",
+          "中文翻译": "葡萄牙、西班牙或爱尔兰",
+          "说明": "三个地名由 or 并列。"
+        }
+      ],
+      "zh": "另一种结果是毫无疑问的——那就是葡萄牙南部、西班牙或爱尔兰那种被破坏的景观。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text2-s32",
+      "s": "Avoiding this rather than promoting it should unite the left and right of the political spectrum.",
+      "para_no": 6,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "Avoiding this rather than promoting it",
+        "谓语": "should unite",
+        "宾语或表语": "the left and right of the political spectrum",
+        "主干翻译": "避免这种局面应当使政治光谱的左右两派联合起来。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "Avoiding this rather than promoting it",
+          "修饰对象": "—",
+          "中文翻译": "避免这种局面而非助长它",
+          "说明": "动名词短语作主语；rather than 连接并列的 avoiding 与 promoting。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "the left and right of the political spectrum",
+          "修饰对象": "unite",
+          "中文翻译": "政治光谱的左右两派",
+          "说明": "left 与 right 由 and 并列作宾语。"
+        }
+      ],
+      "zh": "避免这种局面而非助长它，本应使政治光谱的左右两派团结起来。",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2016-text2-s1",
+        "en1-2016-text2-s2",
+        "en1-2016-text2-s3"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2016-text2-s5",
+        "en1-2016-text2-s6",
+        "en1-2016-text2-s7",
+        "en1-2016-text2-s8",
+        "en1-2016-text2-s9"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2016-text2-s10",
+        "en1-2016-text2-s11",
+        "en1-2016-text2-s12",
+        "en1-2016-text2-s13",
+        "en1-2016-text2-s14",
+        "en1-2016-text2-s15",
+        "en1-2016-text2-s16"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2016-text2-s17",
+        "en1-2016-text2-s18",
+        "en1-2016-text2-s19"
+      ]
+    },
+    {
+      "para_no": 5,
+      "sids": [
+        "en1-2016-text2-s20",
+        "en1-2016-text2-s21",
+        "en1-2016-text2-s22",
+        "en1-2016-text2-s23",
+        "en1-2016-text2-s24",
+        "en1-2016-text2-s25",
+        "en1-2016-text2-s26",
+        "en1-2016-text2-s27",
+        "en1-2016-text2-s28"
+      ]
+    },
+    {
+      "para_no": 6,
+      "sids": [
+        "en1-2016-text2-s29",
+        "en1-2016-text2-s30",
+        "en1-2016-text2-s31",
+        "en1-2016-text2-s32"
+      ]
+    }
+  ]
+}

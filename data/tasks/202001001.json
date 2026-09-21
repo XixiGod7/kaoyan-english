@@ -1,0 +1,1955 @@
+{
+  "tasks": [
+    {
+      "content_json": {
+        "1": {
+          "A": "In",
+          "B": "Towards",
+          "C": "On",
+          "D": "Till",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "in",
+                "surface": "In"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "toward",
+                "surface": "Towards"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "on",
+                "surface": "On"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "till",
+                "surface": "Till"
+              }
+            ]
+          },
+          "replace": {
+            "end": 2,
+            "start": 0
+          },
+          "sentence_id": 2020013002
+        },
+        "2": {
+          "A": "match",
+          "B": "express",
+          "C": "satisfy",
+          "D": "influence",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "match",
+                "surface": "match"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "express",
+                "surface": "express"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "satisfy",
+                "surface": "satisfy"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "influence",
+                "surface": "influence"
+              }
+            ]
+          },
+          "replace": {
+            "end": 56,
+            "start": 51
+          },
+          "sentence_id": 2020013002
+        },
+        "3": {
+          "A": "patience",
+          "B": "enjoyment",
+          "C": "surprise",
+          "D": "concern",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "patience",
+                "surface": "patience"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "enjoyment",
+                "surface": "enjoyment"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "surprise",
+                "surface": "surprise"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "concern",
+                "surface": "concern"
+              }
+            ]
+          },
+          "replace": {
+            "end": 72,
+            "start": 63
+          },
+          "sentence_id": 2020013003
+        },
+        "4": {
+          "A": "intensified",
+          "B": "privileged",
+          "C": "compelled",
+          "D": "guaranteed",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "intensify",
+                "surface": "intensified"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "privilege",
+                "surface": "privileged"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "compel",
+                "surface": "compelled"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "guarantee",
+                "surface": "guaranteed"
+              }
+            ]
+          },
+          "replace": {
+            "end": 130,
+            "start": 120
+          },
+          "sentence_id": 2020013003
+        },
+        "5": {
+          "A": "issued",
+          "B": "received",
+          "C": "ignored",
+          "D": "cancelled",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "issue",
+                "surface": "issued"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "receive",
+                "surface": "received"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "ignore",
+                "surface": "ignored"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "cancel",
+                "surface": "cancelled"
+              }
+            ]
+          },
+          "replace": {
+            "end": 45,
+            "start": 39
+          },
+          "sentence_id": 2020013004
+        },
+        "6": {
+          "A": "under",
+          "B": "at",
+          "C": "for",
+          "D": "by",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "under",
+                "surface": "under"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "at",
+                "surface": "at"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "for",
+                "surface": "for"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "by",
+                "surface": "by"
+              }
+            ]
+          },
+          "replace": {
+            "end": 145,
+            "start": 143
+          },
+          "sentence_id": 2020013004
+        },
+        "7": {
+          "A": "forget",
+          "B": "regret",
+          "C": "finish",
+          "D": "avoid",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "forget",
+                "surface": "forget"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "regret",
+                "surface": "regret"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "finish",
+                "surface": "finish"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "avoid",
+                "surface": "avoid"
+              }
+            ]
+          },
+          "replace": {
+            "end": 35,
+            "start": 30
+          },
+          "sentence_id": 2020013005
+        },
+        "8": {
+          "A": "partially",
+          "B": "regularly",
+          "C": "easily",
+          "D": "initially",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "partial",
+                "surface": "partially"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "regular",
+                "surface": "regularly"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "easy",
+                "surface": "easily"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "initial",
+                "surface": "initially"
+              }
+            ]
+          },
+          "replace": {
+            "end": 110,
+            "start": 101
+          },
+          "sentence_id": 2020013005
+        },
+        "9": {
+          "A": "Unless",
+          "B": "Since",
+          "C": "If",
+          "D": "While",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "unless",
+                "surface": "Unless"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "since",
+                "surface": "Since"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "if",
+                "surface": "If"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "while",
+                "surface": "While"
+              }
+            ]
+          },
+          "replace": {
+            "end": 5,
+            "start": 0
+          },
+          "sentence_id": 2020013007
+        },
+        "10": {
+          "A": "secondary",
+          "B": "external",
+          "C": "conclusive",
+          "D": "negative",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "secondary",
+                "surface": "secondary"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "external",
+                "surface": "external"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "conclusive",
+                "surface": "conclusive"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "negative",
+                "surface": "negative"
+              }
+            ]
+          },
+          "replace": {
+            "end": 102,
+            "start": 92
+          },
+          "sentence_id": 2020013007
+        },
+        "11": {
+          "A": "insufficient",
+          "B": "bound",
+          "C": "likely",
+          "D": "slow",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "insufficient",
+                "surface": "insufficient"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "bind",
+                "surface": "bound"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "likely",
+                "surface": "likely"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "slow",
+                "surface": "slow"
+              }
+            ]
+          },
+          "replace": {
+            "end": 37,
+            "start": 31
+          },
+          "sentence_id": 2020013008
+        },
+        "12": {
+          "A": "On the basis of",
+          "B": "At the cost of",
+          "C": "In addition to",
+          "D": "In contrast to",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "on",
+                "surface": "On"
+              },
+              {
+                "lemma": "the",
+                "surface": "the"
+              },
+              {
+                "lemma": "basis",
+                "surface": "basis"
+              },
+              {
+                "lemma": "of",
+                "surface": "of"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "at",
+                "surface": "At"
+              },
+              {
+                "lemma": "the",
+                "surface": "the"
+              },
+              {
+                "lemma": "cost",
+                "surface": "cost"
+              },
+              {
+                "lemma": "of",
+                "surface": "of"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "in",
+                "surface": "In"
+              },
+              {
+                "lemma": "addition",
+                "surface": "addition"
+              },
+              {
+                "lemma": "to",
+                "surface": "to"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "in",
+                "surface": "In"
+              },
+              {
+                "lemma": "contrast",
+                "surface": "contrast"
+              },
+              {
+                "lemma": "to",
+                "surface": "to"
+              }
+            ]
+          },
+          "replace": {
+            "end": 15,
+            "start": 0
+          },
+          "sentence_id": 2020013009
+        },
+        "13": {
+          "A": "interesting",
+          "B": "advisable",
+          "C": "urgent",
+          "D": "fortunate",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "interest",
+                "surface": "interesting"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "advisable",
+                "surface": "advisable"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "urgent",
+                "surface": "urgent"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "fortunate",
+                "surface": "fortunate"
+              }
+            ]
+          },
+          "replace": {
+            "end": 84,
+            "start": 75
+          },
+          "sentence_id": 2020013009
+        },
+        "14": {
+          "A": "As usual",
+          "B": "In particular",
+          "C": "By definition",
+          "D": "After all",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "as",
+                "surface": "As"
+              },
+              {
+                "lemma": "usual",
+                "surface": "usual"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "in",
+                "surface": "In"
+              },
+              {
+                "lemma": "particular",
+                "surface": "particular"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "by",
+                "surface": "By"
+              },
+              {
+                "lemma": "definition",
+                "surface": "definition"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "after",
+                "surface": "After"
+              },
+              {
+                "lemma": "all",
+                "surface": "all"
+              }
+            ]
+          },
+          "replace": {
+            "end": 9,
+            "start": 0
+          },
+          "sentence_id": 2020013010
+        },
+        "15": {
+          "A": "resemblance",
+          "B": "combination",
+          "C": "connection",
+          "D": "pattern",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "resemblance",
+                "surface": "resemblance"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "combination",
+                "surface": "combination"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "connection",
+                "surface": "connection"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "pattern",
+                "surface": "pattern"
+              }
+            ]
+          },
+          "replace": {
+            "end": 115,
+            "start": 105
+          },
+          "sentence_id": 2020013010
+        },
+        "16": {
+          "A": "made",
+          "B": "served",
+          "C": "saved",
+          "D": "used",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "make",
+                "surface": "made"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "serve",
+                "surface": "served"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "save",
+                "surface": "saved"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "use",
+                "surface": "used"
+              }
+            ]
+          },
+          "replace": {
+            "end": 53,
+            "start": 47
+          },
+          "sentence_id": 2020013011
+        },
+        "17": {
+          "A": "To be fair",
+          "B": "For instance",
+          "C": "To be brief",
+          "D": "In general",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "to",
+                "surface": "To"
+              },
+              {
+                "lemma": "be",
+                "surface": "be"
+              },
+              {
+                "lemma": "fair",
+                "surface": "fair"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "for",
+                "surface": "For"
+              },
+              {
+                "lemma": "instance",
+                "surface": "instance"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "to",
+                "surface": "To"
+              },
+              {
+                "lemma": "be",
+                "surface": "be"
+              },
+              {
+                "lemma": "brief",
+                "surface": "brief"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "in",
+                "surface": "In"
+              },
+              {
+                "lemma": "general",
+                "surface": "general"
+              }
+            ]
+          },
+          "replace": {
+            "end": 10,
+            "start": 0
+          },
+          "sentence_id": 2020013013
+        },
+        "18": {
+          "A": "reluctantly",
+          "B": "entirely",
+          "C": "gradually",
+          "D": "carefully",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "reluctant",
+                "surface": "reluctantly"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "entire",
+                "surface": "entirely"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "gradual",
+                "surface": "gradually"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "careful",
+                "surface": "carefully"
+              }
+            ]
+          },
+          "replace": {
+            "end": 81,
+            "start": 73
+          },
+          "sentence_id": 2020013013
+        },
+        "19": {
+          "A": "promise",
+          "B": "experience",
+          "C": "campaign",
+          "D": "competition",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "promise",
+                "surface": "promise"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "experience",
+                "surface": "experience"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "campaign",
+                "surface": "campaign"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "competition",
+                "surface": "competition"
+              }
+            ]
+          },
+          "replace": {
+            "end": 21,
+            "start": 13
+          },
+          "sentence_id": 2020013014
+        },
+        "20": {
+          "A": "follow up",
+          "B": "pick up",
+          "C": "open up",
+          "D": "end up",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "follow",
+                "surface": "follow"
+              },
+              {
+                "lemma": "up",
+                "surface": "up"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "pick",
+                "surface": "pick"
+              },
+              {
+                "lemma": "up",
+                "surface": "up"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "open",
+                "surface": "open"
+              },
+              {
+                "lemma": "up",
+                "surface": "up"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "end",
+                "surface": "end"
+              },
+              {
+                "lemma": "up",
+                "surface": "up"
+              }
+            ]
+          },
+          "replace": {
+            "end": 34,
+            "start": 28
+          },
+          "sentence_id": 2020013015
+        },
+        "article": "Even if families don’t sit down to eat together as frequently as before, millions of Britons will nonetheless have got a share this weekend of one of the nation’s great traditions: the Sunday roast.\nOn a cold winter’s day, few culinary pleasures can match it.\nYet as we report now, the food police are determined that this enjoyment should be rendered yet another guilty pleasure guaranteed to damage our health.\nThe Food Standards Authority (FSA) has issued a public warning about the risks of a compound called acrylamide that forms in some foods cooked at high temperatures.\nThis means that people should avoid crisping their roast potatoes, reject thin-crust pizzas and only partially toast their bread.\nBut where is the evidence to support such alarmist advice?\nWhile studies have shown that acrylamide can cause neurological damage in mice, there is no conclusive evidence that it causes cancer in humans.\nScientists say the compound is likely to cause cancer but have no hard scientific proof.\nOn the basis of the precautionary principle, it could be argued that it is advisable to follow the FSA advice.\nAfter all, it was rumoured that smoking caused cancer for years before the evidence was found to prove a connection.\nDoubtless a piece of boiled beef can always be served up on Sunday alongside some steamed vegetables, without the Yorkshire pudding and no wine.\nBut would life be worth living?\nTo be fair, the FSA says it is not telling people to cut out roast foods entirely, but to reduce their lifetime intake.\nHowever, its campaign risks coming across as being pushy and overprotective.\nConstant health scares just end up with no one listening.",
+        "blanks": [
+          {
+            "blank_no": 1,
+            "replace": {
+              "end": 2,
+              "start": 0
+            },
+            "sentence_id": 2020013002
+          },
+          {
+            "blank_no": 2,
+            "replace": {
+              "end": 56,
+              "start": 51
+            },
+            "sentence_id": 2020013002
+          },
+          {
+            "blank_no": 3,
+            "replace": {
+              "end": 72,
+              "start": 63
+            },
+            "sentence_id": 2020013003
+          },
+          {
+            "blank_no": 4,
+            "replace": {
+              "end": 130,
+              "start": 120
+            },
+            "sentence_id": 2020013003
+          },
+          {
+            "blank_no": 5,
+            "replace": {
+              "end": 45,
+              "start": 39
+            },
+            "sentence_id": 2020013004
+          },
+          {
+            "blank_no": 6,
+            "replace": {
+              "end": 145,
+              "start": 143
+            },
+            "sentence_id": 2020013004
+          },
+          {
+            "blank_no": 7,
+            "replace": {
+              "end": 35,
+              "start": 30
+            },
+            "sentence_id": 2020013005
+          },
+          {
+            "blank_no": 8,
+            "replace": {
+              "end": 110,
+              "start": 101
+            },
+            "sentence_id": 2020013005
+          },
+          {
+            "blank_no": 9,
+            "replace": {
+              "end": 5,
+              "start": 0
+            },
+            "sentence_id": 2020013007
+          },
+          {
+            "blank_no": 10,
+            "replace": {
+              "end": 102,
+              "start": 92
+            },
+            "sentence_id": 2020013007
+          },
+          {
+            "blank_no": 11,
+            "replace": {
+              "end": 37,
+              "start": 31
+            },
+            "sentence_id": 2020013008
+          },
+          {
+            "blank_no": 12,
+            "replace": {
+              "end": 15,
+              "start": 0
+            },
+            "sentence_id": 2020013009
+          },
+          {
+            "blank_no": 13,
+            "replace": {
+              "end": 84,
+              "start": 75
+            },
+            "sentence_id": 2020013009
+          },
+          {
+            "blank_no": 14,
+            "replace": {
+              "end": 9,
+              "start": 0
+            },
+            "sentence_id": 2020013010
+          },
+          {
+            "blank_no": 15,
+            "replace": {
+              "end": 115,
+              "start": 105
+            },
+            "sentence_id": 2020013010
+          },
+          {
+            "blank_no": 16,
+            "replace": {
+              "end": 53,
+              "start": 47
+            },
+            "sentence_id": 2020013011
+          },
+          {
+            "blank_no": 17,
+            "replace": {
+              "end": 10,
+              "start": 0
+            },
+            "sentence_id": 2020013013
+          },
+          {
+            "blank_no": 18,
+            "replace": {
+              "end": 81,
+              "start": 73
+            },
+            "sentence_id": 2020013013
+          },
+          {
+            "blank_no": 19,
+            "replace": {
+              "end": 21,
+              "start": 13
+            },
+            "sentence_id": 2020013014
+          },
+          {
+            "blank_no": 20,
+            "replace": {
+              "end": 34,
+              "start": 28
+            },
+            "sentence_id": 2020013015
+          }
+        ],
+        "questions": [
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "‘On a cold winter’s day’是固定表达，表示在某一天的时间点，而‘In’通常用于更宽泛的时间范围（如月份或年份）。因此，‘On’是正确答案。\nA. ‘In’表示更宽泛的时间范围，不适合具体的一天。\nB. ‘Towards’表示方向，与时间语境不符。\nC. ‘On’用于具体的一天，符合固定表达‘On a cold winter’s day’。\nD. ‘Till’表示直到，与句子语境完全不符。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "C",
+            "id": 1,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "in",
+                  "surface": "In"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "toward",
+                  "surface": "Towards"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "on",
+                  "surface": "On"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "till",
+                  "surface": "Till"
+                }
+              ]
+            },
+            "options": [
+              "A) In",
+              "B) Towards",
+              "C) On",
+              "D) Till"
+            ],
+            "qid": 2020011001,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "‘Match’表示匹敌，符合句子描述美食享受的比较语境。\nA. ‘Match’表示匹敌，与语境完全契合。\nB. ‘Express’表示表达，与语境不符。\nC. ‘Satisfy’表示满足，不符合比较语境。\nD. ‘Influence’表示影响，与语境不符。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "A",
+            "id": 2,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "match",
+                  "surface": "match"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "express",
+                  "surface": "express"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "satisfy",
+                  "surface": "satisfy"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "influence",
+                  "surface": "influence"
+                }
+              ]
+            },
+            "options": [
+              "A) match",
+              "B) express",
+              "C) satisfy",
+              "D) influence"
+            ],
+            "qid": 2020011002,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "结合上下文，‘enjoyment’仍然是正确答案，因为它与‘guilty pleasure’形成对比，强调食品监管部门试图将享受变成罪恶的享受。\nA. ‘Patience’表示耐心，与语境不符。\nB. ‘Enjoyment’表示享受，符合语境，且与后续‘guilty pleasure’形成对比。\nC. ‘Surprise’表示惊讶，与语境不符。\nD. ‘Concern’表示担忧，与语境不符。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "B",
+            "id": 3,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "patience",
+                  "surface": "patience"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "enjoyment",
+                  "surface": "enjoyment"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "surprise",
+                  "surface": "surprise"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "concern",
+                  "surface": "concern"
+                }
+              ]
+            },
+            "options": [
+              "A) patience",
+              "B) enjoyment",
+              "C) surprise",
+              "D) concern"
+            ],
+            "qid": 2020011003,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "结合上下文，‘guaranteed’更符合语境，强调这种享受被认为必然会损害健康。\nA. ‘Intensified’表示加强，与语境不符。\nB. ‘Privileged’表示特权，与语境不符。\nC. ‘Compelled’表示被迫，虽然符合一定语境，但未能充分表达结果的确定性。\nD. ‘Guaranteed’表示保证，强调食品监管部门的决心和结果的必然性，符合语境。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "D",
+            "id": 4,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "intensify",
+                  "surface": "intensified"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "privilege",
+                  "surface": "privileged"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "compel",
+                  "surface": "compelled"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "guarantee",
+                  "surface": "guaranteed"
+                }
+              ]
+            },
+            "options": [
+              "A) intensified",
+              "B) privileged",
+              "C) compelled",
+              "D) guaranteed"
+            ],
+            "qid": 2020011004,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，食品标准局发布了警告，‘issued’表示发布，符合语境。\nA. ‘Issued’表示发布，符合语境。\nB. ‘Received’表示收到，与语境不符。\nC. ‘Ignored’表示忽略，与语境不符。\nD. ‘Cancelled’表示取消，与语境不符。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "A",
+            "id": 5,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "issue",
+                  "surface": "issued"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "receive",
+                  "surface": "received"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "ignore",
+                  "surface": "ignored"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "cancel",
+                  "surface": "cancelled"
+                }
+              ]
+            },
+            "options": [
+              "A) issued",
+              "B) received",
+              "C) ignored",
+              "D) cancelled"
+            ],
+            "qid": 2020011005,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，描述的是高温烹饪食物时形成化合物的情况，‘at’表示具体温度，符合语境。\nA. ‘Under’表示在...之下，不适合描述温度。\nB. ‘At’表示具体温度，符合语境。\nC. ‘For’表示目的或原因，与语境不符。\nD. ‘By’表示方式或手段，与语境不符。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "B",
+            "id": 6,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "under",
+                  "surface": "under"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "at",
+                  "surface": "at"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "for",
+                  "surface": "for"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "by",
+                  "surface": "by"
+                }
+              ]
+            },
+            "options": [
+              "A) under",
+              "B) at",
+              "C) for",
+              "D) by"
+            ],
+            "qid": 2020011006,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，句子强调避免某些烹饪方式以减少健康风险，因此选择表示“避免”的选项最为合适。\nA. ‘forget’表示忘记，与上下文中强调避免某些行为的语境不符。\nB. ‘regret’表示后悔，与句子中建议避免某些行为的语境不符。\nC. ‘finish’表示完成，与句子中建议避免某些行为的语境不符。\nD. ‘avoid’表示避免，与上下文中建议减少某些烹饪方式的语境完全吻合，因此最为合适。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "D",
+            "id": 7,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "forget",
+                  "surface": "forget"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "regret",
+                  "surface": "regret"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "finish",
+                  "surface": "finish"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "avoid",
+                  "surface": "avoid"
+                }
+              ]
+            },
+            "options": [
+              "A) forget",
+              "B) regret",
+              "C) finish",
+              "D) avoid"
+            ],
+            "qid": 2020011007,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，句子建议减少某些食物的烹饪程度，因此‘部分地’烤面包是最合适的选项。\nA. ‘partially’表示部分地，与建议减少烹饪程度的语境完全吻合，因此最为合适。\nB. ‘regularly’表示规律地，与减少烹饪程度的语境不符。\nC. ‘easily’表示容易地，与句子中建议的具体烹饪方式不相关。\nD. ‘initially’表示最初，与减少烹饪程度的语境不符。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "A",
+            "id": 8,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "partial",
+                  "surface": "partially"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "regular",
+                  "surface": "regularly"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "easy",
+                  "surface": "easily"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "initial",
+                  "surface": "initially"
+                }
+              ]
+            },
+            "options": [
+              "A) partially",
+              "B) regularly",
+              "C) easily",
+              "D) initially"
+            ],
+            "qid": 2020011008,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，句子表示一种转折关系，‘尽管’更符合语境，因此选择‘While’。\nA. ‘Unless’表示除非，与句子中转折关系不符。\nB. ‘Since’表示因为，与句子中转折关系不符。\nC. ‘If’表示如果，与句子中转折关系不符。\nD. ‘While’表示尽管，与句子中转折关系完全吻合，因此最为合适。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "D",
+            "id": 9,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "unless",
+                  "surface": "Unless"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "since",
+                  "surface": "Since"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "if",
+                  "surface": "If"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "while",
+                  "surface": "While"
+                }
+              ]
+            },
+            "options": [
+              "A) Unless",
+              "B) Since",
+              "C) If",
+              "D) While"
+            ],
+            "qid": 2020011009,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，句子强调没有确凿的证据，因此选择表示‘确凿的’的选项最为合适。\nA. ‘secondary’表示次要的，与强调证据的确凿性不符。\nB. ‘external’表示外部的，与强调证据的确凿性不符。\nC. ‘conclusive’表示确凿的，与上下文中强调没有确凿证据的语境完全吻合，因此最为合适。\nD. ‘negative’表示否定的，与强调证据的确凿性不符。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "C",
+            "id": 10,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "secondary",
+                  "surface": "secondary"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "external",
+                  "surface": "external"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "conclusive",
+                  "surface": "conclusive"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "negative",
+                  "surface": "negative"
+                }
+              ]
+            },
+            "options": [
+              "A) secondary",
+              "B) external",
+              "C) conclusive",
+              "D) negative"
+            ],
+            "qid": 2020011010,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，句子强调化合物‘可能’导致癌症，因此选择表示‘可能的’的选项最为合适。\nA. ‘insufficient’表示不足的，与强调可能性不符。\nB. ‘bound’表示一定的，与强调可能性不符。\nC. ‘likely’表示可能的，与上下文中强调可能性完全吻合，因此最为合适。\nD. ‘slow’表示缓慢的，与强调可能性不符。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "C",
+            "id": 11,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "insufficient",
+                  "surface": "insufficient"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "bind",
+                  "surface": "bound"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "likely",
+                  "surface": "likely"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "slow",
+                  "surface": "slow"
+                }
+              ]
+            },
+            "options": [
+              "A) insufficient",
+              "B) bound",
+              "C) likely",
+              "D) slow"
+            ],
+            "qid": 2020011011,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，句子强调基于预防原则的逻辑，因此选项 A 'On the basis of' 最符合语境。\nA. ‘On the basis of’ 表示基于某种基础，与句子中提到的预防原则逻辑一致，因此最合适。\nB. ‘At the cost of’ 表示以某种代价为代价，与句意不符。\nC. ‘In addition to’ 表示除了某事之外，与句意不符。\nD. ‘In contrast to’ 表示与某事形成对比，与句意不符。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "A",
+            "id": 12,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "on",
+                  "surface": "On"
+                },
+                {
+                  "lemma": "the",
+                  "surface": "the"
+                },
+                {
+                  "lemma": "basis",
+                  "surface": "basis"
+                },
+                {
+                  "lemma": "of",
+                  "surface": "of"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "at",
+                  "surface": "At"
+                },
+                {
+                  "lemma": "the",
+                  "surface": "the"
+                },
+                {
+                  "lemma": "cost",
+                  "surface": "cost"
+                },
+                {
+                  "lemma": "of",
+                  "surface": "of"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "in",
+                  "surface": "In"
+                },
+                {
+                  "lemma": "addition",
+                  "surface": "addition"
+                },
+                {
+                  "lemma": "to",
+                  "surface": "to"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "in",
+                  "surface": "In"
+                },
+                {
+                  "lemma": "contrast",
+                  "surface": "contrast"
+                },
+                {
+                  "lemma": "to",
+                  "surface": "to"
+                }
+              ]
+            },
+            "options": [
+              "A) On the basis of",
+              "B) At the cost of",
+              "C) In addition to",
+              "D) In contrast to"
+            ],
+            "qid": 2020011012,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "句子强调遵循建议是明智的，因此选项 B 'advisable' 最符合语境。\nA. ‘Interesting’ 表示有趣，与句意不符。\nB. ‘Advisable’ 表示明智的，与句子强调遵循建议的逻辑一致，因此最合适。\nC. ‘Urgent’ 表示紧急，与句意不符。\nD. ‘Fortunate’ 表示幸运，与句意不符。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "B",
+            "id": 13,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "interest",
+                  "surface": "interesting"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "advisable",
+                  "surface": "advisable"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "urgent",
+                  "surface": "urgent"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "fortunate",
+                  "surface": "fortunate"
+                }
+              ]
+            },
+            "options": [
+              "A) interesting",
+              "B) advisable",
+              "C) urgent",
+              "D) fortunate"
+            ],
+            "qid": 2020011013,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "句子强调吸烟与癌症的传言流传多年，‘After all’ 表示毕竟，最符合语境。\nA. ‘As usual’ 表示像往常一样，与句意不符。\nB. ‘In particular’ 表示特别是，与句意不符。\nC. ‘By definition’ 表示根据定义，与句意不符。\nD. ‘After all’ 表示毕竟，与句子强调的逻辑一致，因此最合适。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "D",
+            "id": 14,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "as",
+                  "surface": "As"
+                },
+                {
+                  "lemma": "usual",
+                  "surface": "usual"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "in",
+                  "surface": "In"
+                },
+                {
+                  "lemma": "particular",
+                  "surface": "particular"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "by",
+                  "surface": "By"
+                },
+                {
+                  "lemma": "definition",
+                  "surface": "definition"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "after",
+                  "surface": "After"
+                },
+                {
+                  "lemma": "all",
+                  "surface": "all"
+                }
+              ]
+            },
+            "options": [
+              "A) As usual",
+              "B) In particular",
+              "C) By definition",
+              "D) After all"
+            ],
+            "qid": 2020011014,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "句子强调找到证据证明吸烟与癌症的关联，‘connection’ 最符合语境。\nA. ‘Resemblance’ 表示相似，与句意不符。\nB. ‘Combination’ 表示组合，与句意不符。\nC. ‘Connection’ 表示关联，与句子强调的逻辑一致，因此最合适。\nD. ‘Pattern’ 表示模式，与句意不符。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "C",
+            "id": 15,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "resemblance",
+                  "surface": "resemblance"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "combination",
+                  "surface": "combination"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "connection",
+                  "surface": "connection"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "pattern",
+                  "surface": "pattern"
+                }
+              ]
+            },
+            "options": [
+              "A) resemblance",
+              "B) combination",
+              "C) connection",
+              "D) pattern"
+            ],
+            "qid": 2020011015,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "句子强调牛肉可以被端上桌，‘served’ 表示端上，与句意最为贴合。\nA. ‘Made’ 表示制造，与句意不符。\nB. ‘Served’ 表示端上，与句子强调的逻辑一致，因此最合适。\nC. ‘Saved’ 表示保存，与句意不符。\nD. ‘Used’ 表示使用，与句意不符。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "B",
+            "id": 16,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "make",
+                  "surface": "made"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "serve",
+                  "surface": "served"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "save",
+                  "surface": "saved"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "use",
+                  "surface": "used"
+                }
+              ]
+            },
+            "options": [
+              "A) made",
+              "B) served",
+              "C) saved",
+              "D) used"
+            ],
+            "qid": 2020011016,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "此处需要一个短语来引出后文对 FSA 的辩护，强调其并非完全禁止烤制食品。A 选项 'To be fair'（公平地说）最符合语境。\nA. ‘To be fair’表示公平地说，符合语境，强调 FSA 并非完全禁止烤制食品。\nB. ‘For instance’表示例如，与上下文逻辑不符，因为此处并非举例。\nC. ‘To be brief’表示简而言之，与语境不符，句子并未试图简化说明。\nD. ‘In general’表示总体来说，与语境不符，因为此处强调的是具体辩护而非概括性总结。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "A",
+            "id": 17,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "to",
+                  "surface": "To"
+                },
+                {
+                  "lemma": "be",
+                  "surface": "be"
+                },
+                {
+                  "lemma": "fair",
+                  "surface": "fair"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "for",
+                  "surface": "For"
+                },
+                {
+                  "lemma": "instance",
+                  "surface": "instance"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "to",
+                  "surface": "To"
+                },
+                {
+                  "lemma": "be",
+                  "surface": "be"
+                },
+                {
+                  "lemma": "brief",
+                  "surface": "brief"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "in",
+                  "surface": "In"
+                },
+                {
+                  "lemma": "general",
+                  "surface": "general"
+                }
+              ]
+            },
+            "options": [
+              "A) To be fair",
+              "B) For instance",
+              "C) To be brief",
+              "D) In general"
+            ],
+            "qid": 2020011017,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "此处需要一个副词修饰‘cut out’，表示减少的程度。B 选项‘entirely’（完全地）最符合语境，因为后文提到的是减少摄入量而非完全戒掉。\nA. ‘Reluctantly’表示不情愿地，与语境不符，因为此处并未提到情感态度。\nB. ‘Entirely’表示完全地，符合语境，强调并非完全戒掉烤制食品。\nC. ‘Gradually’表示逐渐地，与语境不符，因为此处强调的是程度而非过程。\nD. ‘Carefully’表示小心地，与语境不符，因为此处并未提到谨慎行为。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "B",
+            "id": 18,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "reluctant",
+                  "surface": "reluctantly"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "entire",
+                  "surface": "entirely"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "gradual",
+                  "surface": "gradually"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "careful",
+                  "surface": "carefully"
+                }
+              ]
+            },
+            "options": [
+              "A) reluctantly",
+              "B) entirely",
+              "C) gradually",
+              "D) carefully"
+            ],
+            "qid": 2020011018,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "此处需要一个名词来指代 FSA 的行为，C 选项‘campaign’（宣传活动）最符合语境，因为前文提到 FSA 的建议和警告。\nA. ‘Promise’表示承诺，与语境不符，因为此处强调的是行为而非承诺。\nB. ‘Experience’表示经验，与语境不符，因为此处强调的是具体行为。\nC. ‘Campaign’表示宣传活动，符合语境，指代 FSA 的行为。\nD. ‘Competition’表示竞争，与语境不符，因为此处并未提到竞争。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "C",
+            "id": 19,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "promise",
+                  "surface": "promise"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "experience",
+                  "surface": "experience"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "campaign",
+                  "surface": "campaign"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "competition",
+                  "surface": "competition"
+                }
+              ]
+            },
+            "options": [
+              "A) promise",
+              "B) experience",
+              "C) campaign",
+              "D) competition"
+            ],
+            "qid": 2020011019,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "此处需要一个动词短语来表示健康恐慌的结果，D 选项‘end up’（最终导致）最符合语境。\nA. ‘Follow up’表示跟进，与语境不符，因为此处强调的是结果而非后续行动。\nB. ‘Pick up’表示捡起，与语境不符，因为此处没有提到拾起的动作。\nC. ‘Open up’表示打开，与语境不符，因为此处没有提到开启的动作。\nD. ‘End up’表示最终导致，符合语境，强调健康恐慌的结果。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "D",
+            "id": 20,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "follow",
+                  "surface": "follow"
+                },
+                {
+                  "lemma": "up",
+                  "surface": "up"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "pick",
+                  "surface": "pick"
+                },
+                {
+                  "lemma": "up",
+                  "surface": "up"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "open",
+                  "surface": "open"
+                },
+                {
+                  "lemma": "up",
+                  "surface": "up"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "end",
+                  "surface": "end"
+                },
+                {
+                  "lemma": "up",
+                  "surface": "up"
+                }
+              ]
+            },
+            "options": [
+              "A) follow up",
+              "B) pick up",
+              "C) open up",
+              "D) end up"
+            ],
+            "qid": 2020011020,
+            "text": ""
+          }
+        ]
+      },
+      "directions": "Read the following text. Choose the best word(s) for each numbered blank and mark A,\nB, C or D on the ANSWER SHEET. (10 points)",
+      "exam_info": "2020(1)",
+      "exam_type": "kaoyan",
+      "id": 202001001,
+      "key_words": "fsa after all basis campaign connection end enjoyment entirely guaranteed issued match served while advisable avoid conclusive fair follow likely partially addition bound brief cancelled cancer carefully cold combination compelled competition concern contrast cost day definition easily evidence experience express external finish forget fortunate general gradually guilty ignored influence initially instance insufficient intensified interesting made negative open particular patience pattern pick pleasure privileged promise received regret regularly reluctantly resemblance roast satisfy saved secondary since slow surprise till towards under unless",
+      "kid": 6,
+      "part": "Part III",
+      "section": "Sec A",
+      "task_key": "2020(1)_Section I_ ",
+      "type": "Use of English"
+    }
+  ]
+}

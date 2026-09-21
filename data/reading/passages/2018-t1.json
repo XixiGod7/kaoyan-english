@@ -1,0 +1,880 @@
+{
+  "exam": "en1",
+  "key": "2018-t1",
+  "year": 2018,
+  "text_no": 1,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2018-text1-s1",
+      "s": "Among the annoying challenges facing the middle class is one that will probably go unmentioned in the next presidential campaign: What happens when the robots come for their jobs?",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "one",
+        "谓语": "is",
+        "宾语或表语": "Among the annoying challenges (倒装，表语前置)",
+        "主干翻译": "在这些恼人的挑战中，有一个挑战。"
+      },
+      "components": [
+        {
+          "成分类型": "倒装",
+          "原文": "Among the annoying challenges facing the middle class is one",
+          "修饰对象": "—",
+          "中文翻译": "在面临中产阶级的恼人挑战中，有一个挑战",
+          "说明": "完全倒装：介词短语状语Among...置于句首，谓语is提前，主语one后置。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "facing the middle class",
+          "修饰对象": "challenges",
+          "中文翻译": "中产阶级所面临的",
+          "说明": "现在分词短语作后置定语，修饰challenges。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that will probably go unmentioned in the next presidential campaign",
+          "修饰对象": "one",
+          "中文翻译": "在下届总统竞选中很可能不会被提及的",
+          "说明": "that引导定语从句，修饰one，that作从句主语。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "What happens when the robots come for their jobs",
+          "修饰对象": "one",
+          "中文翻译": "当机器人来抢他们的饭碗时会发生什么",
+          "说明": "冒号后的特殊疑问句作one的同位语，说明one所指的具体挑战内容。",
+          "嵌套": [
+            {
+              "成分类型": "主语从句",
+              "原文": "What happens",
+              "修饰对象": "—",
+              "中文翻译": "会发生什么",
+              "说明": "What引导主语从句，作其内部句子的主语。"
+            },
+            {
+              "成分类型": "状语从句(时间)",
+              "原文": "when the robots come for their jobs",
+              "修饰对象": "happens",
+              "中文翻译": "当机器人来抢他们的饭碗时",
+              "说明": "when引导时间状语从句，修饰happens。"
+            }
+          ]
+        }
+      ],
+      "zh": "在中产阶级所面临的恼人挑战中，有一个挑战在下届总统竞选中很可能不会被提及：当机器人来抢他们的饭碗时，会发生什么？",
+      "underline": null
+    },
+    {
+      "sid": "en1-2018-text1-s2",
+      "s": "Don't dismiss that possibility entirely.",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "(you 省略)",
+        "谓语": "Don't dismiss",
+        "宾语或表语": "that possibility",
+        "主干翻译": "不要忽视那种可能性。"
+      },
+      "components": [],
+      "zh": "不要完全忽视那种可能性。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2018-text1-s3",
+      "s": "About half of U.S. jobs are at high risk of being automated, according to a University of Oxford study, with the middle class disproportionately squeezed.",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "About half of U.S. jobs",
+        "谓语": "are",
+        "宾语或表语": "at high risk of being automated",
+        "主干翻译": "大约一半的美国工作岗位面临着被自动化的高风险。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "according to a University of Oxford study",
+          "修饰对象": "are",
+          "中文翻译": "根据牛津大学的一项研究",
+          "说明": "according to引导的介词短语作全句状语，表明信息来源。"
+        },
+        {
+          "成分类型": "状语从句(方式)",
+          "原文": "with the middle class disproportionately squeezed",
+          "修饰对象": "are",
+          "中文翻译": "中产阶级受到的挤压尤为严重",
+          "说明": "with复合结构（with+名词+过去分词）作伴随状语，描述伴随情况。"
+        }
+      ],
+      "zh": "根据牛津大学的一项研究，大约一半的美国工作岗位面临着被自动化的高风险，其中中产阶级受到的挤压尤为严重。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2018-text1-s4",
+      "s": "Lower-income jobs like gardening or day care don't appeal to robots.",
+      "para_no": 2,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Lower-income jobs",
+        "谓语": "don't appeal to",
+        "宾语或表语": "robots",
+        "主干翻译": "低收入工作对机器人没有吸引力。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "like gardening or day care",
+          "修饰对象": "jobs",
+          "中文翻译": "比如园艺或日托",
+          "说明": "like引导的介词短语作后置定语，举例说明jobs。"
+        }
+      ],
+      "zh": "像园艺或日托这样的低收入工作对机器人没有吸引力。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2018-text1-s5",
+      "s": "But many middle-class occupations—trucking, financial advice, software engineering—have aroused their interest, or soon will.",
+      "para_no": 2,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "many middle-class occupations",
+        "谓语": "have aroused",
+        "宾语或表语": "their interest",
+        "主干翻译": "许多中产阶级职业已经引起了它们（机器人）的兴趣。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "trucking, financial advice, software engineering",
+          "修饰对象": "occupations",
+          "中文翻译": "卡车运输、理财咨询、软件工程",
+          "说明": "破折号之间的同位语，列举occupations的具体例子，结构上为插入成分。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "have aroused their interest, or soon will",
+          "修饰对象": "occupations",
+          "中文翻译": "已经引起了它们的兴趣，或者很快就会",
+          "说明": "or连接两个并列谓语，soon will后省略arouse their interest。"
+        }
+      ],
+      "zh": "但许多中产阶级职业——卡车运输、理财咨询、软件工程——已经引起了机器人的兴趣，或者很快就会。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2018-text1-s6",
+      "s": "The rich own the robots, so they will be fine.",
+      "para_no": 2,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "The rich",
+        "谓语": "own",
+        "宾语或表语": "the robots",
+        "主干翻译": "富人拥有机器人。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(结果)",
+          "原文": "so they will be fine",
+          "修饰对象": "The rich own the robots",
+          "中文翻译": "所以他们将安然无恙",
+          "说明": "so 引导结果状语从句（也可视为并列结果分句），主语 they 指代 the rich。"
+        }
+      ],
+      "zh": "富人拥有机器人，所以他们将安然无恙。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2018-text1-s7",
+      "s": "This isn't to be alarmist.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "This",
+        "谓语": "isn't",
+        "宾语或表语": "to be alarmist",
+        "主干翻译": "这并不是要危言耸听。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to be alarmist",
+          "修饰对象": "is",
+          "中文翻译": "危言耸听",
+          "说明": "不定式作表语，补足系动词isn't。"
+        }
+      ],
+      "zh": "这并不是要危言耸听。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2018-text1-s8",
+      "s": "Optimists point out that technological upheaval has benefited workers in the past.",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Optimists",
+        "谓语": "point out",
+        "宾语或表语": "that...(宾语从句)",
+        "主干翻译": "乐观主义者指出（某件事）。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "that technological upheaval has benefited workers in the past",
+          "修饰对象": "point",
+          "中文翻译": "技术变革在过去曾使工人受益",
+          "说明": "that引导宾语从句，作point out的宾语。"
+        }
+      ],
+      "zh": "乐观主义者指出，技术变革在过去曾使工人受益。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2018-text1-s9",
+      "s": "The Industrial Revolution didn't go so well for Luddites whose jobs were displaced by mechanized looms, but it eventually raised living standards and created more jobs than it destroyed.",
+      "para_no": 3,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "The Industrial Revolution / it",
+        "谓语": "didn't go / raised and created",
+        "宾语或表语": "(well) / living standards and more jobs",
+        "主干翻译": "工业革命进展得并不顺利，但它最终提高了生活水平并创造了更多工作。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "whose jobs were displaced by mechanized looms",
+          "修饰对象": "Luddites",
+          "中文翻译": "其工作被机械织布机取代的",
+          "说明": "whose引导定语从句，修饰Luddites（卢德分子）。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "but it eventually raised living standards and created more jobs than it destroyed",
+          "修饰对象": "go",
+          "中文翻译": "但它最终提高了生活水平，创造的工作多于它所摧毁的",
+          "说明": "but连接的并列分句，与前句didn't go so well形成转折并列。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "raised living standards and created more jobs than it destroyed",
+          "修饰对象": "raised",
+          "中文翻译": "提高了生活水平并创造了更多工作",
+          "说明": "and连接两个并列谓语raised和created。"
+        },
+        {
+          "成分类型": "状语从句(比较)",
+          "原文": "than it destroyed",
+          "修饰对象": "jobs",
+          "中文翻译": "比它所摧毁的（工作）更多",
+          "说明": "than引导比较状语从句，与more构成比较结构，从句中destroyed后省略宾语jobs。"
+        }
+      ],
+      "zh": "对于那些工作被机械织布机取代的卢德分子来说，工业革命进展得并不顺利，但它最终提高了生活水平，创造的工作岗位多于它所摧毁的。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2018-text1-s10",
+      "s": "Likewise, automation should eventually boost productivity, stimulate demand by driving down prices, and free workers from hard, boring work.",
+      "para_no": 3,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "automation",
+        "谓语": "should boost, stimulate, and free",
+        "宾语或表语": "productivity, demand, workers",
+        "主干翻译": "自动化最终应能提高生产率、刺激需求并把工人解放出来。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "boost productivity, stimulate demand by driving down prices, and free workers from hard, boring work",
+          "修饰对象": "boost",
+          "中文翻译": "提高生产率、通过压低价格刺激需求、并将工人从繁重无聊的工作中解放出来",
+          "说明": "三个并列动词短语boost / stimulate / free构成并列谓语。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "by driving down prices",
+          "修饰对象": "stimulate",
+          "中文翻译": "通过压低价格",
+          "说明": "by+动名词短语作方式状语，修饰stimulate demand。"
+        }
+      ],
+      "zh": "同样，自动化最终应能提高生产率，通过压低价格刺激需求，并将工人从繁重无聊的工作中解放出来。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2018-text1-s11",
+      "s": "But in the medium term, middle-class workers may need a lot of help adjusting.",
+      "para_no": 3,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "middle-class workers",
+        "谓语": "may need",
+        "宾语或表语": "a lot of help",
+        "主干翻译": "中产阶级工人可能需要大量帮助。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "adjusting",
+          "修饰对象": "help",
+          "中文翻译": "（帮助他们）适应",
+          "说明": "动名词adjusting说明help的内容（need help doing sth.）。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "in the medium term",
+          "修饰对象": "need",
+          "中文翻译": "在中期",
+          "说明": "介词短语作时间状语。"
+        }
+      ],
+      "zh": "但从中期来看，中产阶级工人可能需要大量帮助来适应这一变化。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2018-text1-s12",
+      "s": "The first step, as Erik Brynjolfsson and Andrew McAfee argue in The Second Machine Age, should be rethinking education and job training.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The first step",
+        "谓语": "should be",
+        "宾语或表语": "rethinking education and job training",
+        "主干翻译": "第一步应当是重新思考教育和职业培训。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(方式)",
+          "原文": "as Erik Brynjolfsson and Andrew McAfee argue in The Second Machine Age",
+          "修饰对象": "be",
+          "中文翻译": "正如埃里克·布林约尔松和安德鲁·麦卡菲在《第二次机器革命》中所论述的",
+          "说明": "as引导方式/插入性状语从句，表明观点出处。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "rethinking education and job training",
+          "修饰对象": "be",
+          "中文翻译": "重新思考教育和职业培训",
+          "说明": "动名词短语作表语，补足系动词should be。"
+        }
+      ],
+      "zh": "正如埃里克·布林约尔松和安德鲁·麦卡菲在《第二次机器革命》中所论述的，第一步应当是重新思考教育和职业培训。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2018-text1-s13",
+      "s": "Curriculums—from grammar school to college—should evolve to focus less on memorizing facts and more on creativity and complex communication.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Curriculums",
+        "谓语": "should evolve",
+        "宾语或表语": "(to focus...)",
+        "主干翻译": "课程设置应当不断演进。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "from grammar school to college",
+          "修饰对象": "Curriculums",
+          "中文翻译": "从小学到大学",
+          "说明": "破折号之间的介词短语作插入语，限定Curriculums的范围。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to focus less on memorizing facts and more on creativity and complex communication",
+          "修饰对象": "evolve",
+          "中文翻译": "以便少强调记忆事实，多强调创造力和复杂的沟通能力",
+          "说明": "不定式短语作目的状语，修饰evolve。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "less on memorizing facts and more on creativity and complex communication",
+          "修饰对象": "focus",
+          "中文翻译": "少强调记忆事实，多强调创造力和复杂沟通",
+          "说明": "less...and more...构成并列，作focus on的并列对象。"
+        }
+      ],
+      "zh": "课程设置——从小学到大学——应当不断演进，少强调死记硬背事实，多强调创造力和复杂的沟通能力。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2018-text1-s14",
+      "s": "Vocational schools should do a better job of fostering problem-solving skills and helping students work alongside robots.",
+      "para_no": 4,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Vocational schools",
+        "谓语": "should do",
+        "宾语或表语": "a better job",
+        "主干翻译": "职业学校应当做得更好。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "fostering problem-solving skills and helping students work alongside robots",
+          "修饰对象": "fostering",
+          "中文翻译": "培养解决问题的能力，帮助学生与机器人协同工作",
+          "说明": "and连接两个并列动名词短语，作of的宾语，说明a better job的内容。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "students work alongside robots",
+          "修饰对象": "helping",
+          "中文翻译": "学生与机器人协同工作",
+          "说明": "help+宾语students+省略to的不定式work构成复合宾语结构。"
+        }
+      ],
+      "zh": "职业学校应当更好地培养学生解决问题的能力，并帮助学生学会与机器人协同工作。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2018-text1-s15",
+      "s": "Online education can supplement the traditional kind.",
+      "para_no": 4,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "Online education",
+        "谓语": "can supplement",
+        "宾语或表语": "the traditional kind",
+        "主干翻译": "在线教育可以补充传统教育。"
+      },
+      "components": [],
+      "zh": "在线教育可以作为传统教育的补充。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2018-text1-s16",
+      "s": "It could make extra training and instruction affordable.",
+      "para_no": 4,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "It",
+        "谓语": "could make",
+        "宾语或表语": "extra training and instruction affordable",
+        "主干翻译": "它可以使额外的培训和指导变得负担得起。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "extra training and instruction affordable",
+          "修饰对象": "make",
+          "中文翻译": "额外的培训和指导变得负担得起",
+          "说明": "make+宾语+宾补的复合宾语结构，affordable为宾语补足语。"
+        }
+      ],
+      "zh": "它可以让额外的培训和指导变得人人负担得起。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2018-text1-s17",
+      "s": "Professionals trying to acquire new skills will be able to do so without going into debt.",
+      "para_no": 4,
+      "para_seq": 5,
+      "trunk": {
+        "主语": "Professionals",
+        "谓语": "will be able to do",
+        "宾语或表语": "so",
+        "主干翻译": "专业人士将能够做到这一点。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "trying to acquire new skills",
+          "修饰对象": "Professionals",
+          "中文翻译": "想要掌握新技能的",
+          "说明": "现在分词短语作后置定语，修饰Professionals。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to acquire new skills",
+          "修饰对象": "trying",
+          "中文翻译": "掌握新技能",
+          "说明": "不定式作try的宾语。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "without going into debt",
+          "修饰对象": "do",
+          "中文翻译": "无需负债",
+          "说明": "without+动名词短语作方式/伴随状语，修饰do so。"
+        }
+      ],
+      "zh": "想要掌握新技能的专业人士将能够做到这一点，而无需为此负债。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2018-text1-s18",
+      "s": "The challenge of coping with automation underlines the need for the U.S. to revive its fading business dynamism: Starting new companies must be made easier.",
+      "para_no": 5,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The challenge",
+        "谓语": "underlines",
+        "宾语或表语": "the need",
+        "主干翻译": "应对自动化的挑战凸显了这种需求。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "of coping with automation",
+          "修饰对象": "challenge",
+          "中文翻译": "应对自动化的",
+          "说明": "of引导的介词短语作后置定语，修饰challenge。"
+        },
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "for the U.S. to revive its fading business dynamism",
+          "修饰对象": "need",
+          "中文翻译": "美国重振其日渐衰退的商业活力的",
+          "说明": "for+逻辑主语the U.S.+不定式to revive构成不定式复合结构，作need的定语。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "Starting new companies must be made easier",
+          "修饰对象": "underlines",
+          "中文翻译": "必须让创办新公司变得更容易",
+          "说明": "冒号后的句子对前文need的内容作具体说明（同位/解释性独立句）。"
+        }
+      ],
+      "zh": "应对自动化的挑战凸显了美国重振其日渐衰退的商业活力的必要性：必须让创办新公司变得更容易。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2018-text1-s19",
+      "s": "In previous eras of drastic technological change, entrepreneurs smoothed the transition by dreaming up ways to combine labor and machines.",
+      "para_no": 5,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "entrepreneurs",
+        "谓语": "smoothed",
+        "宾语或表语": "the transition",
+        "主干翻译": "企业家们使这一转变变得平稳。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "In previous eras of drastic technological change",
+          "修饰对象": "smoothed",
+          "中文翻译": "在以往剧烈技术变革的时代",
+          "说明": "介词短语作时间状语。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "by dreaming up ways to combine labor and machines",
+          "修饰对象": "smoothed",
+          "中文翻译": "通过设想出结合劳动力与机器的各种办法",
+          "说明": "by+动名词短语作方式状语，修饰smoothed。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to combine labor and machines",
+          "修饰对象": "ways",
+          "中文翻译": "结合劳动力与机器的",
+          "说明": "不定式短语作后置定语，修饰ways。"
+        }
+      ],
+      "zh": "在以往剧烈技术变革的时代，企业家们通过设想出各种结合劳动力与机器的办法，使这一转变变得平稳。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2018-text1-s20",
+      "s": "The best uses of 3 D printers and virtual reality haven't been invented yet.",
+      "para_no": 5,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "The best uses",
+        "谓语": "haven't been invented",
+        "宾语或表语": "(yet)",
+        "主干翻译": "最佳用途尚未被发明出来。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "of 3 D printers and virtual reality",
+          "修饰对象": "uses",
+          "中文翻译": "3D打印机和虚拟现实的",
+          "说明": "of引导的介词短语作后置定语，修饰uses。"
+        }
+      ],
+      "zh": "3D打印机和虚拟现实的最佳用途尚未被发明出来。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2018-text1-s21",
+      "s": "The U.S. needs the new companies that will invent them.",
+      "para_no": 5,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "The U.S.",
+        "谓语": "needs",
+        "宾语或表语": "the new companies",
+        "主干翻译": "美国需要这些新公司。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "that will invent them",
+          "修饰对象": "companies",
+          "中文翻译": "将会发明这些用途的",
+          "说明": "that引导定语从句，修饰companies，that作从句主语。"
+        }
+      ],
+      "zh": "美国需要这些将会发明这些用途的新公司。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2018-text1-s22",
+      "s": "Finally, because automation threatens to widen the gap between capital income and labor income, taxes and the safety net will have to be rethought.",
+      "para_no": 6,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "taxes and the safety net",
+        "谓语": "will have to be rethought",
+        "宾语或表语": "—",
+        "主干翻译": "税收和社会保障网将不得不重新加以审视。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(原因)",
+          "原文": "because automation threatens to widen the gap between capital income and labor income",
+          "修饰对象": "have",
+          "中文翻译": "因为自动化有可能扩大资本收入与劳动收入之间的差距",
+          "说明": "because引导原因状语从句。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to widen the gap between capital income and labor income",
+          "修饰对象": "threatens",
+          "中文翻译": "扩大资本收入与劳动收入之间的差距",
+          "说明": "不定式作threaten的宾语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "taxes and the safety net",
+          "修饰对象": "—",
+          "中文翻译": "税收和社会保障网",
+          "说明": "and连接两个并列主语。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to be rethought",
+          "修饰对象": "have",
+          "中文翻译": "被重新审视",
+          "说明": "不定式被动式，补足will have to。"
+        }
+      ],
+      "zh": "最后，由于自动化有可能扩大资本收入与劳动收入之间的差距，税收和社会保障网将不得不重新加以审视。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2018-text1-s23",
+      "s": "Taxes on low-wage labor need to be cut, and wage subsidies such as the earned income tax credit should be expanded: This would boost incomes, encourage work, reward companies for job creation, and reduce inequality.",
+      "para_no": 6,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Taxes / wage subsidies / This",
+        "谓语": "need to be cut / should be expanded / would boost...",
+        "宾语或表语": "— / — / incomes...",
+        "主干翻译": "低薪劳动的税收需要削减，工资补贴应当扩大；这将提高收入……"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to be cut",
+          "修饰对象": "need",
+          "中文翻译": "被削减",
+          "说明": "不定式被动式，作need的宾语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "and wage subsidies such as the earned income tax credit should be expanded",
+          "修饰对象": "need",
+          "中文翻译": "工资补贴（如劳动所得税抵免）应当扩大",
+          "说明": "and连接的并列分句，与前一分句构成并列。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "Taxes on low-wage labor need to be cut, and wage subsidies such as the earned income tax credit should be expanded",
+          "修饰对象": "boost",
+          "中文翻译": "削减低薪劳动税收、扩大工资补贴",
+          "说明": "冒号前的两个并列分句构成This所指代的内容，对其作总括说明。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "boost incomes, encourage work, reward companies for job creation, and reduce inequality",
+          "修饰对象": "boost",
+          "中文翻译": "提高收入、鼓励就业、奖励创造就业岗位的企业、减少不平等",
+          "说明": "四个并列动词短语构成This would后的并列谓语。"
+        }
+      ],
+      "zh": "低薪劳动的税收需要削减，工资补贴（如劳动所得税抵免）应当扩大：这将提高收入、鼓励就业、奖励创造就业岗位的企业，并减少不平等。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2018-text1-s24",
+      "s": "Technology will improve society in ways big and small over the next few years, yet this will be little comfort to those who find their lives and careers upended by automation.",
+      "para_no": 7,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Technology / this",
+        "谓语": "will improve / will be",
+        "宾语或表语": "society / little comfort",
+        "主干翻译": "技术将改善社会，但这对某些人来说几乎没有安慰。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "in ways big and small over the next few years",
+          "修饰对象": "improve",
+          "中文翻译": "在未来几年里以大大小小的方式",
+          "说明": "介词短语作方式与时间状语，修饰improve。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "yet this will be little comfort to those who find their lives and careers upended by automation",
+          "修饰对象": "improve",
+          "中文翻译": "然而这对那些发现自己的生活和事业被自动化颠覆的人来说几乎毫无安慰",
+          "说明": "yet连接的并列分句，与前句构成转折并列。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "who find their lives and careers upended by automation",
+          "修饰对象": "those",
+          "中文翻译": "发现自己的生活和事业被自动化颠覆的",
+          "说明": "who引导定语从句，修饰those。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "their lives and careers upended by automation",
+          "修饰对象": "find",
+          "中文翻译": "自己的生活和事业被自动化颠覆",
+          "说明": "find+宾语+宾补(过去分词upended)的复合宾语结构。"
+        }
+      ],
+      "zh": "在未来几年里，技术将以大大小小的方式改善社会，然而这对那些发现自己的生活和事业被自动化颠覆的人来说，几乎毫无安慰。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2018-text1-s25",
+      "s": "Destroying the machines that are coming for our jobs would be nuts.",
+      "para_no": 7,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Destroying the machines",
+        "谓语": "would be",
+        "宾语或表语": "nuts",
+        "主干翻译": "摧毁这些机器将是愚蠢之举。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "that are coming for our jobs",
+          "修饰对象": "machines",
+          "中文翻译": "正来抢我们饭碗的",
+          "说明": "that引导定语从句，修饰machines，that作从句主语。"
+        }
+      ],
+      "zh": "摧毁那些正来抢我们饭碗的机器，将是愚蠢之举。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2018-text1-s26",
+      "s": "But policies to help workers adapt will be indispensable.",
+      "para_no": 7,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "policies",
+        "谓语": "will be",
+        "宾语或表语": "indispensable",
+        "主干翻译": "各项政策将是不可或缺的。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to help workers adapt",
+          "修饰对象": "policies",
+          "中文翻译": "帮助工人适应的",
+          "说明": "不定式短语作后置定语，修饰policies。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "workers adapt",
+          "修饰对象": "help",
+          "中文翻译": "工人适应",
+          "说明": "help+宾语workers+省略to的不定式adapt构成复合宾语结构。"
+        }
+      ],
+      "zh": "但帮助工人适应的各项政策将是不可或缺的。",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2018-text1-s1"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2018-text1-s2",
+        "en1-2018-text1-s3",
+        "en1-2018-text1-s4",
+        "en1-2018-text1-s5",
+        "en1-2018-text1-s6"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2018-text1-s7",
+        "en1-2018-text1-s8",
+        "en1-2018-text1-s9",
+        "en1-2018-text1-s10",
+        "en1-2018-text1-s11"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2018-text1-s12",
+        "en1-2018-text1-s13",
+        "en1-2018-text1-s14",
+        "en1-2018-text1-s15",
+        "en1-2018-text1-s16",
+        "en1-2018-text1-s17"
+      ]
+    },
+    {
+      "para_no": 5,
+      "sids": [
+        "en1-2018-text1-s18",
+        "en1-2018-text1-s19",
+        "en1-2018-text1-s20",
+        "en1-2018-text1-s21"
+      ]
+    },
+    {
+      "para_no": 6,
+      "sids": [
+        "en1-2018-text1-s22",
+        "en1-2018-text1-s23"
+      ]
+    },
+    {
+      "para_no": 7,
+      "sids": [
+        "en1-2018-text1-s24",
+        "en1-2018-text1-s25",
+        "en1-2018-text1-s26"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,664 @@
+{
+  "exam": "en1",
+  "key": "2019-t2",
+  "year": 2019,
+  "text_no": 2,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2019-text2-s1",
+      "s": "Grade inflation—the gradual increase in average GPAs (grade-point averages) over the past few decades—is often considered a product of a consumer era in higher education, in which students are treated like customers to be pleased.",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Grade inflation",
+        "谓语": "is often considered",
+        "宾语或表语": "a product of a consumer era in higher education",
+        "主干翻译": "分数膨胀常被视为高等教育消费时代的产物。"
+      },
+      "components": [
+        {
+          "成分类型": "同位语从句",
+          "原文": "the gradual increase in average GPAs (grade-point averages) over the past few decades",
+          "修饰对象": "inflation",
+          "中文翻译": "即过去几十年里平均绩点（GPA）的逐渐上升",
+          "说明": "破折号之间的名词短语作 Grade inflation 的同位语，进一步解释其含义。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "grade-point averages",
+          "修饰对象": "GPAs",
+          "中文翻译": "即grade-point averages（学分绩点平均值）",
+          "说明": "括号内内容对缩写 GPAs 作同位解释。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "in which students are treated like customers to be pleased",
+          "修饰对象": "era",
+          "中文翻译": "在这个时代里，学生被当作需要取悦的顾客来对待",
+          "说明": "in which 引导的定语从句修饰 consumer era。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to be pleased",
+          "修饰对象": "customers",
+          "中文翻译": "需要被取悦的（顾客）",
+          "说明": "不定式被动式作 customers 的后置定语。"
+        }
+      ],
+      "zh": "分数膨胀——即过去几十年里平均绩点（GPA）的逐渐上升——常被视为高等教育消费时代的产物，在这个时代里，学生被当作需要取悦的顾客来对待。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2019-text2-s2",
+      "s": "But another, related force—a policy often buried deep in course catalogs called \"grade forgiveness\"—is helping raise GPAs.",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "another, related force",
+        "谓语": "is helping",
+        "宾语或表语": "raise GPAs",
+        "主干翻译": "另一种相关的力量正在帮助拉高平均学分绩点。"
+      },
+      "components": [
+        {
+          "成分类型": "同位语",
+          "原文": "a policy often buried deep in course catalogs called \"grade forgiveness\"",
+          "修饰对象": "another, related force",
+          "中文翻译": "一种常常深藏于课程目录中、被称为\"成绩宽恕\"的政策",
+          "说明": "破折号间的同位语，对 another, related force 作具体说明。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "often buried deep in course catalogs",
+          "修饰对象": "policy",
+          "中文翻译": "常常深藏于课程目录中的",
+          "说明": "过去分词短语作后置定语，修饰 a policy。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "called \"grade forgiveness\"",
+          "修饰对象": "policy",
+          "中文翻译": "被称为\"成绩宽恕\"的",
+          "说明": "过去分词短语作后置定语，修饰 a policy。"
+        },
+        {
+          "成分类型": "非谓语作宾语补足语",
+          "原文": "raise GPAs",
+          "修饰对象": "is helping",
+          "中文翻译": "拉高平均学分绩点",
+          "说明": "help (to) do 结构，省略 to 的不定式作宾语补足语。"
+        }
+      ],
+      "zh": "但另一种相关的力量——一种常常深藏于课程目录中、被称为\"成绩宽恕\"的政策——正在帮助拉高平均学分绩点。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2019-text2-s3",
+      "s": "Grade forgiveness allows students to retake a course in which they received a low grade, and the most recent grade or the highest grade is the only one that counts in calculating a student's overall GPA.",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Grade forgiveness",
+        "谓语": "allows",
+        "宾语或表语": "students to retake a course",
+        "主干翻译": "分数宽恕允许学生重修一门课程。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "in which they received a low grade",
+          "修饰对象": "course",
+          "中文翻译": "他们在其中得了低分的（课程）",
+          "说明": "in which 引导的定语从句修饰 a course。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "and the most recent grade or the highest grade is the only one that counts in calculating a student's overall GPA",
+          "修饰对象": "—",
+          "中文翻译": "而最近一次的成绩或最高的成绩是计算学生总绩点时唯一算数的成绩",
+          "说明": "and 连接的第二个并列分句，与前一分句并列。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "the most recent grade or the highest grade",
+          "修饰对象": "—",
+          "中文翻译": "最近一次的成绩或最高的成绩",
+          "说明": "or 连接的并列主语。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that counts in calculating a student's overall GPA",
+          "修饰对象": "one",
+          "中文翻译": "在计算学生总绩点时算数的（那一个）",
+          "说明": "that 引导的定语从句修饰 the only one。"
+        }
+      ],
+      "zh": "分数宽恕允许学生重修一门他们曾得了低分的课程，而最近一次的成绩或最高的成绩才是计算学生总绩点时唯一算数的成绩。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2019-text2-s4",
+      "s": "The use of this little-known practice has accelerated in recent years, as colleges continue to do their utmost to keep students in school (and paying tuition) and improve their graduation rates.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The use of this little-known practice",
+        "谓语": "has accelerated",
+        "宾语或表语": "in recent years",
+        "主干翻译": "这一鲜为人知的做法近年来的使用日益增多。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(原因)",
+          "原文": "as colleges continue to do their utmost to keep students in school (and paying tuition) and improve their graduation rates",
+          "修饰对象": "accelerated",
+          "中文翻译": "因为各高校继续竭尽全力把学生留在校内（并继续缴纳学费）以及提高毕业率",
+          "说明": "as 引导原因状语从句，说明使用增多的原因。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to do their utmost to keep students in school (and paying tuition) and improve their graduation rates",
+          "修饰对象": "continue",
+          "中文翻译": "竭尽全力把学生留在校内并继续缴费以及提高毕业率",
+          "说明": "不定式短语作 continue 的补足成分，表所继续做之事。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to keep students in school (and paying tuition) and improve their graduation rates",
+          "修饰对象": "do",
+          "中文翻译": "以便把学生留在校内（并继续缴费）以及提高毕业率",
+          "说明": "不定式短语作 do their utmost 的目的状语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "and paying tuition",
+          "修饰对象": "in",
+          "中文翻译": "并（继续）缴纳学费",
+          "说明": "与 in school 并列，进一步说明把学生留在校内的目的。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "and improve their graduation rates",
+          "修饰对象": "keep",
+          "中文翻译": "以及提高毕业率",
+          "说明": "improve 与 keep 并列，同为 to do their utmost 的目的。"
+        }
+      ],
+      "zh": "这一鲜为人知的做法近年来使用日益增多，因为各高校继续竭尽全力把学生留在校内（并继续缴纳学费），并提高其毕业率。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2019-text2-s5",
+      "s": "When this practice first started decades ago, it was usually limited to freshmen, to give them a second chance to take a class in their first year if they struggled in their transition to college-level courses.",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "it",
+        "谓语": "was usually limited",
+        "宾语或表语": "to freshmen",
+        "主干翻译": "它通常仅限于大一新生。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "When this practice first started decades ago",
+          "修饰对象": "limited",
+          "中文翻译": "几十年前这一做法刚开始时",
+          "说明": "When 引导时间状语从句。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to give them a second chance to take a class in their first year",
+          "修饰对象": "limited",
+          "中文翻译": "目的是给他们第二次机会在第一年里重修一门课",
+          "说明": "不定式短语作目的状语，说明仅限于新生的目的。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to take a class in their first year",
+          "修饰对象": "chance",
+          "中文翻译": "在第一年里重修一门课的（机会）",
+          "说明": "不定式短语作 a second chance 的后置定语。"
+        },
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "if they struggled in their transition to college-level courses",
+          "修饰对象": "take",
+          "中文翻译": "如果他们在向大学水平课程过渡时遇到困难",
+          "说明": "if 引导条件状语从句。"
+        }
+      ],
+      "zh": "几十年前这一做法刚开始时，通常仅限于大一新生，目的是在他们向大学水平课程过渡遇到困难时，给他们第二次机会在第一年里重修一门课。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2019-text2-s6",
+      "s": "But now most colleges, save for many selective campuses, allow all undergraduates, and even graduate students, to get their low grades forgiven.",
+      "para_no": 3,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "most colleges",
+        "谓语": "allow",
+        "宾语或表语": "all undergraduates to get their low grades forgiven",
+        "主干翻译": "大多数高校允许所有本科生让自己的低分得到宽恕。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "save for many selective campuses",
+          "修饰对象": "colleges",
+          "中文翻译": "除许多选拔性强的院校外",
+          "说明": "save for 引导的让步性插入语，限定 most colleges 的范围。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "and even graduate students",
+          "修饰对象": "undergraduates",
+          "中文翻译": "甚至研究生",
+          "说明": "与 all undergraduates 并列，同为 allow 的宾语。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "all undergraduates, and even graduate students, to get their low grades forgiven",
+          "修饰对象": "allow",
+          "中文翻译": "所有本科生甚至研究生让其低分得到宽恕",
+          "说明": "allow sb. to do 的复合宾语结构。"
+        }
+      ],
+      "zh": "但如今大多数高校（许多选拔性强的院校除外）允许所有本科生、甚至研究生让自己的低分得到宽恕。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2019-text2-s7",
+      "s": "College officials tend to emphasize that the goal of grade forgiveness is less about the grade itself and more about encouraging students to retake courses critical to their degree program and graduation without incurring a big penalty.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "College officials",
+        "谓语": "tend to emphasize",
+        "宾语或表语": "that 引导的宾语从句",
+        "主干翻译": "高校官员往往强调（某一观点）。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to emphasize that the goal of grade forgiveness is less about the grade itself and more about encouraging students to retake courses critical to their degree program and graduation without incurring a big penalty",
+          "修饰对象": "tend",
+          "中文翻译": "倾向于强调……",
+          "说明": "不定式作 tend 的补足成分，构成 tend to do 结构。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that the goal of grade forgiveness is less about the grade itself and more about encouraging students to retake courses critical to their degree program and graduation without incurring a big penalty",
+          "修饰对象": "emphasize",
+          "中文翻译": "分数宽恕的目的不在于成绩本身，而更在于鼓励学生重修对其学位项目和毕业至关重要的课程，且不必承受很大的代价",
+          "说明": "that 引导 emphasize 的宾语从句。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "itself",
+          "修饰对象": "grade",
+          "中文翻译": "成绩本身",
+          "说明": "反身代词 itself 强调 the grade。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "and more about encouraging students to retake courses critical to their degree program and graduation without incurring a big penalty",
+          "修饰对象": "less",
+          "中文翻译": "而更在于鼓励学生重修……课程",
+          "说明": "less about... and more about... 并列结构，构成对比。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to retake courses critical to their degree program and graduation without incurring a big penalty",
+          "修饰对象": "encouraging",
+          "中文翻译": "重修对其学位项目和毕业至关重要的课程而不必承受很大代价",
+          "说明": "不定式作 encourage sb. to do 的宾补成分。"
+        }
+      ],
+      "zh": "高校官员往往强调，分数宽恕的目的不在于成绩本身，而更在于鼓励学生重修那些对其学位项目和毕业至关重要的课程，且不必为此承受很大的代价。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2019-text2-s8",
+      "s": "\"Ultimately,\" said Jack Miner, Ohio State University's registrar, \"we see students achieve more success because they retake a course and do better in subsequent courses or master the content that allows them to graduate on time.\"",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "we",
+        "谓语": "see",
+        "宾语或表语": "students achieve more success",
+        "主干翻译": "我们看到学生取得了更多成功。"
+      },
+      "components": [
+        {
+          "成分类型": "同位语",
+          "原文": "Ohio State University's registrar",
+          "修饰对象": "Miner",
+          "中文翻译": "俄亥俄州立大学的教务主任",
+          "说明": "名词短语作 Jack Miner 的同位语。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "students achieve more success because they retake a course and do better in subsequent courses or master the content that allows them to graduate on time",
+          "修饰对象": "see",
+          "中文翻译": "学生取得了更多成功，因为他们重修一门课程，在后续课程中表现更好，或掌握了使他们能够按时毕业的内容",
+          "说明": "see sb. do 的复合宾语结构，作 see 的宾语。"
+        },
+        {
+          "成分类型": "状语从句(原因)",
+          "原文": "because they retake a course and do better in subsequent courses or master the content that allows them to graduate on time",
+          "修饰对象": "achieve",
+          "中文翻译": "因为他们重修一门课程，在后续课程中表现更好，或掌握了使他们能按时毕业的内容",
+          "说明": "because 引导原因状语从句。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "and do better in subsequent courses or master the content that allows them to graduate on time",
+          "修饰对象": "retake",
+          "中文翻译": "并在后续课程中表现更好，或掌握使他们能按时毕业的内容",
+          "说明": "do、master 与 retake 并列，同为从句谓语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "or master the content that allows them to graduate on time",
+          "修饰对象": "do",
+          "中文翻译": "或掌握使他们能按时毕业的内容",
+          "说明": "or 连接 master 与 do better。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that allows them to graduate on time",
+          "修饰对象": "content",
+          "中文翻译": "使他们能够按时毕业的（内容）",
+          "说明": "that 引导定语从句修饰 the content。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "them to graduate on time",
+          "修饰对象": "allows",
+          "中文翻译": "他们能够按时毕业",
+          "说明": "allow sb. to do 的复合宾语。"
+        }
+      ],
+      "zh": "俄亥俄州立大学的教务主任杰克·迈纳说：“归根结底，我们看到学生取得了更多成功，因为他们重修一门课程，在后续课程中表现更好，或者掌握了使他们能够按时毕业的内容。”",
+      "underline": null
+    },
+    {
+      "sid": "en1-2019-text2-s9",
+      "s": "That said, there is a way in which grade forgiveness satisfies colleges' own needs as well.",
+      "para_no": 5,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "there",
+        "谓语": "is",
+        "宾语或表语": "a way",
+        "主干翻译": "存在着一种方式。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "That said",
+          "修饰对象": "is",
+          "中文翻译": "话虽如此",
+          "说明": "独立分词结构作让步性状语，表示话题转折。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "in which grade forgiveness satisfies colleges' own needs as well",
+          "修饰对象": "way",
+          "中文翻译": "分数宽恕同样满足了高校自身需求的（方式）",
+          "说明": "in which 引导定语从句修饰 a way。"
+        }
+      ],
+      "zh": "话虽如此，分数宽恕也存在一种同样满足高校自身需求的方式。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2019-text2-s10",
+      "s": "For public institutions, state funds are sometimes tied partly to their success on metrics such as graduation rates and student retention—so better grades can, by boosting figures like those, mean more money.",
+      "para_no": 5,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "state funds",
+        "谓语": "are sometimes tied",
+        "宾语或表语": "partly to their success on metrics",
+        "主干翻译": "州拨款有时部分地与高校在各项指标上的表现挂钩。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "For public institutions",
+          "修饰对象": "tied",
+          "中文翻译": "对公立院校而言",
+          "说明": "介词短语作全句状语，限定适用范围。"
+        },
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "such as graduation rates and student retention",
+          "修饰对象": "metrics",
+          "中文翻译": "诸如毕业率和学生保留率这样的（指标）",
+          "说明": "such as 引导的短语举例说明 metrics。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "so better grades can, by boosting figures like those, mean more money",
+          "修饰对象": "—",
+          "中文翻译": "因此更好的成绩可以通过提升这类数字而意味着更多的资金",
+          "说明": "破折号后 so 引导的并列分句，表结果。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "by boosting figures like those",
+          "修饰对象": "mean",
+          "中文翻译": "通过提升这类数字",
+          "说明": "by + 动名词短语作方式状语，插在 can 与 mean 之间。"
+        }
+      ],
+      "zh": "对公立院校而言，州拨款有时部分地与其在毕业率、学生保留率等指标上的表现挂钩——因此更好的成绩可以通过提升这类数字而带来更多的资金。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2019-text2-s11",
+      "s": "And anything that raises GPAs will likely make students – who, at the end of the day, are paying the bill—feel they've gotten a better value for their tuition dollars, which is another big concern for colleges.",
+      "para_no": 5,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "anything",
+        "谓语": "will likely make",
+        "宾语或表语": "students feel they've gotten a better value",
+        "主干翻译": "任何东西都很可能让学生觉得自己获得了更高的价值。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "that raises GPAs",
+          "修饰对象": "anything",
+          "中文翻译": "任何能提高绩点的（东西）",
+          "说明": "that 引导定语从句修饰 anything。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "who, at the end of the day, are paying the bill",
+          "修饰对象": "students",
+          "中文翻译": "归根结底是在付账的（学生）",
+          "说明": "who 引导非限制性定语从句修饰 students，其中 at the end of the day 为插入语。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "students – who, at the end of the day, are paying the bill—feel they've gotten a better value for their tuition dollars",
+          "修饰对象": "make",
+          "中文翻译": "让（归根结底在付账的）学生觉得他们的学费物有所值",
+          "说明": "make sb. do 的复合宾语结构。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "they've gotten a better value for their tuition dollars",
+          "修饰对象": "feel",
+          "中文翻译": "他们的学费获得了更高的价值",
+          "说明": "省略 that 的宾语从句，作 feel 的宾语。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "which is another big concern for colleges",
+          "修饰对象": "—",
+          "中文翻译": "这是高校另一项重大关切",
+          "说明": "which 引导非限制性定语从句，指代前面整件事。"
+        }
+      ],
+      "zh": "而且，任何能提高绩点的东西都很可能让学生——归根结底是付账的人——觉得他们的学费物超所值，而这正是高校另一项重大关切。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2019-text2-s12",
+      "s": "Indeed, grade forgiveness is just another way that universities are responding to consumers' expectations for higher education.",
+      "para_no": 6,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "grade forgiveness",
+        "谓语": "is",
+        "宾语或表语": "just another way",
+        "主干翻译": "分数宽恕只是另一种方式。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "that universities are responding to consumers' expectations for higher education",
+          "修饰对象": "way",
+          "中文翻译": "大学借以回应消费者对高等教育期望的（方式）",
+          "说明": "that（=in which）引导定语从句修饰 another way。"
+        }
+      ],
+      "zh": "事实上，分数宽恕只是大学回应消费者对高等教育期望的又一种方式。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2019-text2-s13",
+      "s": "Since students and parents expect a college degree to lead to a job, it is in the best interest of a school to turn out graduates who are as qualified as possible—or at least appear to be.",
+      "para_no": 6,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "it",
+        "谓语": "is",
+        "宾语或表语": "in the best interest of a school to turn out graduates",
+        "主干翻译": "培养出毕业生符合学校的最大利益。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(原因)",
+          "原文": "Since students and parents expect a college degree to lead to a job",
+          "修饰对象": "is",
+          "中文翻译": "既然学生和家长都期望大学学位能带来一份工作",
+          "说明": "Since 引导原因状语从句。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "a college degree to lead to a job",
+          "修饰对象": "expect",
+          "中文翻译": "大学学位能带来一份工作",
+          "说明": "expect sth. to do 的复合宾语结构。"
+        },
+        {
+          "成分类型": "非谓语作主语",
+          "原文": "to turn out graduates who are as qualified as possible—or at least appear to be",
+          "修饰对象": "is",
+          "中文翻译": "培养出尽可能合格、或至少看上去合格的毕业生",
+          "说明": "不定式作真正主语，it 为形式主语。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "who are as qualified as possible—or at least appear to be",
+          "修饰对象": "graduates",
+          "中文翻译": "尽可能合格、或至少看上去合格的（毕业生）",
+          "说明": "who 引导定语从句修饰 graduates。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "or at least appear to be",
+          "修饰对象": "are",
+          "中文翻译": "或至少看上去是（合格的）",
+          "说明": "or 连接 appear 与 are，构成并列谓语。"
+        },
+        {
+          "成分类型": "省略",
+          "原文": "appear to be",
+          "修饰对象": "appear",
+          "中文翻译": "看上去（合格）",
+          "说明": "appear to be 后省略了 qualified，承前省略。"
+        }
+      ],
+      "zh": "既然学生和家长都期望大学学位能带来一份工作，那么培养出尽可能合格、或至少看上去合格的毕业生便符合学校的最大利益。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2019-text2-s14",
+      "s": "On this, students' and colleges' incentives seem to be aligned.",
+      "para_no": 6,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "students' and colleges' incentives",
+        "谓语": "seem",
+        "宾语或表语": "to be aligned",
+        "主干翻译": "在这一点上，学生与高校的动机似乎是一致的。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "On this",
+          "修饰对象": "seem",
+          "中文翻译": "在这一点上",
+          "说明": "介词短语作全句状语，承接上文话题。"
+        }
+      ],
+      "zh": "在这一点上，学生与高校的动机似乎是一致的。",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2019-text2-s1",
+        "en1-2019-text2-s2"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2019-text2-s3"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2019-text2-s4",
+        "en1-2019-text2-s5",
+        "en1-2019-text2-s6"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2019-text2-s7",
+        "en1-2019-text2-s8"
+      ]
+    },
+    {
+      "para_no": 5,
+      "sids": [
+        "en1-2019-text2-s9",
+        "en1-2019-text2-s10",
+        "en1-2019-text2-s11"
+      ]
+    },
+    {
+      "para_no": 6,
+      "sids": [
+        "en1-2019-text2-s12",
+        "en1-2019-text2-s13",
+        "en1-2019-text2-s14"
+      ]
+    }
+  ]
+}

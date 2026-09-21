@@ -1,0 +1,3237 @@
+{
+  "sentences": [
+    {
+      "cn_text": "人们常常抱怨塑料过于耐用。",
+      "en_text": "People often complain that plastics are too durable.",
+      "id": 2022013012,
+      "order_seq": "content_1_1",
+      "task_id": 202201002,
+      "tokens": [
+        {
+          "gloss": "人们",
+          "lemma": "people",
+          "surface": "People"
+        },
+        {
+          "gloss": "经常",
+          "lemma": "often",
+          "surface": "often"
+        },
+        {
+          "gloss": "抱怨",
+          "lemma": "complain",
+          "surface": "complain"
+        },
+        {
+          "gloss": "表明",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "塑料",
+          "lemma": "plastic",
+          "surface": "plastics"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "are"
+        },
+        {
+          "gloss": "太",
+          "lemma": "too",
+          "surface": "too"
+        },
+        {
+          "gloss": "耐用的",
+          "lemma": "durable",
+          "surface": "durable"
+        }
+      ]
+    },
+    {
+      "cn_text": "从珠穆朗玛峰到马里亚纳海沟，水瓶、购物袋和其他垃圾遍布地球各处，因为塑料无处不在且难以分解。",
+      "en_text": "Water bottles, shopping bags, and other trash litter the planet, from Mount Everest to the Mariana Trench, because plastics are everywhere and don’t break down easily.",
+      "id": 2022013013,
+      "order_seq": "content_1_2",
+      "task_id": 202201002,
+      "tokens": [
+        {
+          "gloss": "水",
+          "lemma": "water",
+          "surface": "Water"
+        },
+        {
+          "gloss": "瓶子",
+          "lemma": "bottle",
+          "surface": "bottles"
+        },
+        {
+          "gloss": "购物",
+          "lemma": "shopping",
+          "surface": "shopping"
+        },
+        {
+          "gloss": "袋子",
+          "lemma": "bag",
+          "surface": "bags"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "其他的",
+          "lemma": "other",
+          "surface": "other"
+        },
+        {
+          "gloss": "垃圾",
+          "lemma": "trash",
+          "surface": "trash"
+        },
+        {
+          "gloss": "散落",
+          "lemma": "litter",
+          "surface": "litter"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "地球",
+          "lemma": "planet",
+          "surface": "planet"
+        },
+        {
+          "gloss": "从",
+          "lemma": "from",
+          "surface": "from"
+        },
+        {
+          "gloss": "山",
+          "lemma": "mount",
+          "surface": "Mount"
+        },
+        {
+          "gloss": "珠穆朗玛峰",
+          "lemma": "everest",
+          "surface": "Everest"
+        },
+        {
+          "gloss": "到",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "马里亚纳",
+          "lemma": "mariana",
+          "surface": "Mariana"
+        },
+        {
+          "gloss": "海沟",
+          "lemma": "trench",
+          "surface": "Trench"
+        },
+        {
+          "gloss": "因为",
+          "lemma": "because",
+          "surface": "because"
+        },
+        {
+          "gloss": "塑料",
+          "lemma": "plastic",
+          "surface": "plastics"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "are"
+        },
+        {
+          "gloss": "到处",
+          "lemma": "everywhere",
+          "surface": "everywhere"
+        },
+        {
+          "gloss": "并且",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "不",
+          "lemma": "do",
+          "surface": "don’t"
+        },
+        {
+          "gloss": "分解",
+          "lemma": "break",
+          "surface": "break"
+        },
+        {
+          "gloss": "向下",
+          "lemma": "down",
+          "surface": "down"
+        },
+        {
+          "gloss": "容易地",
+          "lemma": "easily",
+          "surface": "easily"
+        }
+      ]
+    },
+    {
+      "cn_text": "但有些塑料材料会随时间发生变化。",
+      "en_text": "But some plastic materials change over time.",
+      "id": 2022013014,
+      "order_seq": "content_1_3",
+      "task_id": 202201002,
+      "tokens": [
+        {
+          "gloss": "但是",
+          "lemma": "but",
+          "surface": "But"
+        },
+        {
+          "gloss": "一些",
+          "lemma": "some",
+          "surface": "some"
+        },
+        {
+          "gloss": "塑料的",
+          "lemma": "plastic",
+          "surface": "plastic"
+        },
+        {
+          "gloss": "材料",
+          "lemma": "material",
+          "surface": "materials"
+        },
+        {
+          "gloss": "变化",
+          "lemma": "change",
+          "surface": "change"
+        },
+        {
+          "gloss": "随着",
+          "lemma": "over",
+          "surface": "over"
+        },
+        {
+          "gloss": "时间",
+          "lemma": "time",
+          "surface": "time"
+        }
+      ]
+    },
+    {
+      "cn_text": "它们会开裂、卷曲。",
+      "en_text": "They crack and frizzle.",
+      "id": 2022013015,
+      "order_seq": "content_1_4",
+      "task_id": 202201002,
+      "tokens": [
+        {
+          "gloss": "它们",
+          "lemma": "they",
+          "surface": "They"
+        },
+        {
+          "gloss": "裂开",
+          "lemma": "crack",
+          "surface": "crack"
+        },
+        {
+          "gloss": "并且",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "起皱",
+          "lemma": "frizzle",
+          "surface": "frizzle"
+        }
+      ]
+    },
+    {
+      "cn_text": "它们会「渗出」添加剂。",
+      "en_text": "They “weep” out additives.",
+      "id": 2022013016,
+      "order_seq": "content_1_5",
+      "task_id": 202201002,
+      "tokens": [
+        {
+          "gloss": "它们",
+          "lemma": "they",
+          "surface": "They"
+        },
+        {
+          "gloss": "渗出",
+          "lemma": "weep",
+          "surface": "weep"
+        },
+        {
+          "gloss": "向外",
+          "lemma": "out",
+          "surface": "out"
+        },
+        {
+          "gloss": "添加剂",
+          "lemma": "additive",
+          "surface": "additives"
+        }
+      ]
+    },
+    {
+      "cn_text": "它们会融化成泥状物。",
+      "en_text": "They melt into sludge.",
+      "id": 2022013017,
+      "order_seq": "content_1_6",
+      "task_id": 202201002,
+      "tokens": [
+        {
+          "gloss": "它们",
+          "lemma": "they",
+          "surface": "They"
+        },
+        {
+          "gloss": "融化",
+          "lemma": "melt",
+          "surface": "melt"
+        },
+        {
+          "gloss": "变成",
+          "lemma": "into",
+          "surface": "into"
+        },
+        {
+          "gloss": "污泥",
+          "lemma": "sludge",
+          "surface": "sludge"
+        }
+      ]
+    },
+    {
+      "cn_text": "所有这些都给试图保存重要文化物品的机构（如博物馆）带来了巨大难题。",
+      "en_text": "All of which creates huge headaches for institutions, such as museums, trying to preserve culturally important objects.",
+      "id": 2022013018,
+      "order_seq": "content_1_7",
+      "task_id": 202201002,
+      "tokens": [
+        {
+          "gloss": "所有",
+          "lemma": "all",
+          "surface": "All"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "这些",
+          "lemma": "which",
+          "surface": "which"
+        },
+        {
+          "gloss": "创造",
+          "lemma": "create",
+          "surface": "creates"
+        },
+        {
+          "gloss": "巨大的",
+          "lemma": "huge",
+          "surface": "huge"
+        },
+        {
+          "gloss": "麻烦",
+          "lemma": "headache",
+          "surface": "headaches"
+        },
+        {
+          "gloss": "对",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "机构",
+          "lemma": "institution",
+          "surface": "institutions"
+        },
+        {
+          "gloss": "例如",
+          "lemma": "such",
+          "surface": "such"
+        },
+        {
+          "gloss": "像",
+          "lemma": "as",
+          "surface": "as"
+        },
+        {
+          "gloss": "博物馆",
+          "lemma": "museum",
+          "surface": "museums"
+        },
+        {
+          "gloss": "试图",
+          "lemma": "try",
+          "surface": "trying"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "保存",
+          "lemma": "preserve",
+          "surface": "preserve"
+        },
+        {
+          "gloss": "文化上",
+          "lemma": "culturally",
+          "surface": "culturally"
+        },
+        {
+          "gloss": "重要的",
+          "lemma": "important",
+          "surface": "important"
+        },
+        {
+          "gloss": "物品",
+          "lemma": "object",
+          "surface": "objects"
+        }
+      ]
+    },
+    {
+      "cn_text": "面临风险的塑料物品种类繁多，令人眼花缭乱：早期收音机、前卫雕塑、迪士尼电影的赛璐珞动画静帧、第一颗人造心脏。",
+      "en_text": "The variety of plastic objects at risk is dizzying: early radios, avant-garde sculptures, celluloid animation stills from Disney films, the first artificial heart.",
+      "id": 2022013019,
+      "order_seq": "content_1_8",
+      "task_id": 202201002,
+      "tokens": [
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "The"
+        },
+        {
+          "gloss": "种类",
+          "lemma": "variety",
+          "surface": "variety"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "塑料的",
+          "lemma": "plastic",
+          "surface": "plastic"
+        },
+        {
+          "gloss": "物品",
+          "lemma": "object",
+          "surface": "objects"
+        },
+        {
+          "gloss": "处于",
+          "lemma": "at",
+          "surface": "at"
+        },
+        {
+          "gloss": "危险",
+          "lemma": "risk",
+          "surface": "risk"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "令人眼花缭乱的",
+          "lemma": "dizzy",
+          "surface": "dizzying"
+        },
+        {
+          "gloss": "早期的",
+          "lemma": "early",
+          "surface": "early"
+        },
+        {
+          "gloss": "收音机",
+          "lemma": "radio",
+          "surface": "radios"
+        },
+        {
+          "gloss": "先锋的",
+          "lemma": "avant",
+          "surface": "avant"
+        },
+        {
+          "gloss": "卫士",
+          "lemma": "garde",
+          "surface": "garde"
+        },
+        {
+          "gloss": "雕塑",
+          "lemma": "sculpture",
+          "surface": "sculptures"
+        },
+        {
+          "gloss": "赛璐珞",
+          "lemma": "celluloid",
+          "surface": "celluloid"
+        },
+        {
+          "gloss": "动画",
+          "lemma": "animation",
+          "surface": "animation"
+        },
+        {
+          "gloss": "原画",
+          "lemma": "still",
+          "surface": "stills"
+        },
+        {
+          "gloss": "来自",
+          "lemma": "from",
+          "surface": "from"
+        },
+        {
+          "gloss": "迪士尼",
+          "lemma": "disney",
+          "surface": "Disney"
+        },
+        {
+          "gloss": "电影",
+          "lemma": "film",
+          "surface": "films"
+        },
+        {
+          "gloss": "第一",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "第一",
+          "lemma": "first",
+          "surface": "first"
+        },
+        {
+          "gloss": "人工的",
+          "lemma": "artificial",
+          "surface": "artificial"
+        },
+        {
+          "gloss": "心脏",
+          "lemma": "heart",
+          "surface": "heart"
+        }
+      ]
+    },
+    {
+      "cn_text": "某些文物尤其脆弱，因为一些塑料艺术先驱并不总是知道如何正确配制成分，聚合物化学家西娅·范奥斯滕说道，她在几年前退休前曾在荷兰文化遗产局工作数十年。",
+      "en_text": "Certain artifacts are especially vulnerable because some pioneers in plastic art didn’t always know how to mix ingredients properly, says Thea van Oosten, a polymer chemist who, until retiring a few years ago, worked for decades at the Cultural Heritage Agency of the Netherlands.",
+      "id": 2022013020,
+      "order_seq": "content_2_1",
+      "task_id": 202201002,
+      "tokens": [
+        {
+          "gloss": "某些",
+          "lemma": "certain",
+          "surface": "certain"
+        },
+        {
+          "gloss": "艺术品",
+          "lemma": "artifact",
+          "surface": "artifacts"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "are"
+        },
+        {
+          "gloss": "尤其",
+          "lemma": "especially",
+          "surface": "especially"
+        },
+        {
+          "gloss": "易受损害的",
+          "lemma": "vulnerable",
+          "surface": "vulnerable"
+        },
+        {
+          "gloss": "因为",
+          "lemma": "because",
+          "surface": "because"
+        },
+        {
+          "gloss": "一些",
+          "lemma": "some",
+          "surface": "some"
+        },
+        {
+          "gloss": "先驱",
+          "lemma": "pioneer",
+          "surface": "pioneers"
+        },
+        {
+          "gloss": "在...中",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "塑料的",
+          "lemma": "plastic",
+          "surface": "plastic"
+        },
+        {
+          "gloss": "艺术",
+          "lemma": "art",
+          "surface": "art"
+        },
+        {
+          "gloss": "不",
+          "lemma": "do",
+          "surface": "didn’t"
+        },
+        {
+          "gloss": "总是",
+          "lemma": "always",
+          "surface": "always"
+        },
+        {
+          "gloss": "知道",
+          "lemma": "know",
+          "surface": "know"
+        },
+        {
+          "gloss": "如何",
+          "lemma": "how",
+          "surface": "how"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "混合",
+          "lemma": "mix",
+          "surface": "mix"
+        },
+        {
+          "gloss": "成分",
+          "lemma": "ingredient",
+          "surface": "ingredients"
+        },
+        {
+          "gloss": "正确地",
+          "lemma": "properly",
+          "surface": "properly"
+        },
+        {
+          "gloss": "说道",
+          "lemma": "say",
+          "surface": "says"
+        },
+        {
+          "gloss": "西娅",
+          "lemma": "thea",
+          "surface": "Thea"
+        },
+        {
+          "gloss": "范",
+          "lemma": "van",
+          "surface": "van"
+        },
+        {
+          "gloss": "奥斯滕",
+          "lemma": "oosten",
+          "surface": "Oosten"
+        },
+        {
+          "gloss": "一位",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "聚合物",
+          "lemma": "polymer",
+          "surface": "polymer"
+        },
+        {
+          "gloss": "化学家",
+          "lemma": "chemist",
+          "surface": "chemist"
+        },
+        {
+          "gloss": "谁",
+          "lemma": "who",
+          "surface": "who"
+        },
+        {
+          "gloss": "直到",
+          "lemma": "until",
+          "surface": "until"
+        },
+        {
+          "gloss": "退休",
+          "lemma": "retire",
+          "surface": "retiring"
+        },
+        {
+          "gloss": "几",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "几",
+          "lemma": "few",
+          "surface": "few"
+        },
+        {
+          "gloss": "年",
+          "lemma": "year",
+          "surface": "years"
+        },
+        {
+          "gloss": "以前",
+          "lemma": "ago",
+          "surface": "ago"
+        },
+        {
+          "gloss": "工作",
+          "lemma": "work",
+          "surface": "worked"
+        },
+        {
+          "gloss": "为",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "几十年",
+          "lemma": "decade",
+          "surface": "decades"
+        },
+        {
+          "gloss": "在",
+          "lemma": "at",
+          "surface": "at"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "文化",
+          "lemma": "cultural",
+          "surface": "Cultural"
+        },
+        {
+          "gloss": "遗产",
+          "lemma": "heritage",
+          "surface": "Heritage"
+        },
+        {
+          "gloss": "局",
+          "lemma": "agency",
+          "surface": "Agency"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "荷兰",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "荷兰",
+          "lemma": "netherlands",
+          "surface": "Netherlands"
+        }
+      ]
+    },
+    {
+      "cn_text": "「这就像烤蛋糕：如果没有准确的配比，就会失败。」她说。",
+      "en_text": "“It’s like baking a cake: If you don’t have exact amounts, it goes wrong.” she says.",
+      "id": 2022013021,
+      "order_seq": "content_2_2",
+      "task_id": 202201002,
+      "tokens": [
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "It’s"
+        },
+        {
+          "gloss": "像",
+          "lemma": "like",
+          "surface": "like"
+        },
+        {
+          "gloss": "烘烤",
+          "lemma": "bake",
+          "surface": "baking"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "蛋糕",
+          "lemma": "cake",
+          "surface": "cake"
+        },
+        {
+          "gloss": "如果",
+          "lemma": "if",
+          "surface": "If"
+        },
+        {
+          "gloss": "你",
+          "lemma": "you",
+          "surface": "you"
+        },
+        {
+          "gloss": "不",
+          "lemma": "do",
+          "surface": "don’t"
+        },
+        {
+          "gloss": "有",
+          "lemma": "have",
+          "surface": "have"
+        },
+        {
+          "gloss": "准确的",
+          "lemma": "exact",
+          "surface": "exact"
+        },
+        {
+          "gloss": "分量",
+          "lemma": "amount",
+          "surface": "amounts"
+        },
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "it"
+        },
+        {
+          "gloss": "变得",
+          "lemma": "go",
+          "surface": "goes"
+        },
+        {
+          "gloss": "错误的",
+          "lemma": "wrong",
+          "surface": "wrong"
+        },
+        {
+          "gloss": "她",
+          "lemma": "she",
+          "surface": "she"
+        },
+        {
+          "gloss": "说道",
+          "lemma": "say",
+          "surface": "says"
+        }
+      ]
+    },
+    {
+      "cn_text": "「你制作的物品本身就已经是一颗定时炸弹。」",
+      "en_text": "“The object you make is already a time bomb.”",
+      "id": 2022013022,
+      "order_seq": "content_2_3",
+      "task_id": 202201002,
+      "tokens": [
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "The"
+        },
+        {
+          "gloss": "物品",
+          "lemma": "object",
+          "surface": "object"
+        },
+        {
+          "gloss": "你",
+          "lemma": "you",
+          "surface": "you"
+        },
+        {
+          "gloss": "制作",
+          "lemma": "make",
+          "surface": "make"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "已经",
+          "lemma": "already",
+          "surface": "already"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "时间",
+          "lemma": "time",
+          "surface": "time"
+        },
+        {
+          "gloss": "炸弹",
+          "lemma": "bomb",
+          "surface": "bomb"
+        }
+      ]
+    },
+    {
+      "cn_text": "而有时，这并非艺术家的过错。",
+      "en_text": "And sometimes, it’s not the artist’s fault.",
+      "id": 2022013023,
+      "order_seq": "content_3_1",
+      "task_id": 202201002,
+      "tokens": [
+        {
+          "gloss": "并且",
+          "lemma": "and",
+          "surface": "And"
+        },
+        {
+          "gloss": "有时候",
+          "lemma": "sometimes",
+          "surface": "sometimes"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "it’s"
+        },
+        {
+          "gloss": "不是",
+          "lemma": "not",
+          "surface": "not"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "艺术家的",
+          "lemma": "artist",
+          "surface": "artist’s"
+        },
+        {
+          "gloss": "错误",
+          "lemma": "fault",
+          "surface": "fault"
+        }
+      ]
+    },
+    {
+      "cn_text": "20世纪60年代，意大利艺术家皮耶罗·吉拉尔迪开始创作数百件鲜艳多彩的泡沫作品。",
+      "en_text": "In the 1960s, the Italian artist Piero Gilardi began to create hundreds of bright, colorful foam pieces.",
+      "id": 2022013024,
+      "order_seq": "content_3_2",
+      "task_id": 202201002,
+      "tokens": [
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "In"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "20世纪60年代",
+          "lemma": "1960s",
+          "surface": "1960s"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "意大利的",
+          "lemma": "italian",
+          "surface": "Italian"
+        },
+        {
+          "gloss": "艺术家",
+          "lemma": "artist",
+          "surface": "artist"
+        },
+        {
+          "gloss": "皮耶罗",
+          "lemma": "piero",
+          "surface": "Piero"
+        },
+        {
+          "gloss": "吉拉尔迪",
+          "lemma": "gilardi",
+          "surface": "Gilardi"
+        },
+        {
+          "gloss": "开始",
+          "lemma": "begin",
+          "surface": "began"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "创作",
+          "lemma": "create",
+          "surface": "create"
+        },
+        {
+          "gloss": "数百",
+          "lemma": "hundred",
+          "surface": "hundreds"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "明亮的",
+          "lemma": "bright",
+          "surface": "bright"
+        },
+        {
+          "gloss": "色彩鲜艳的",
+          "lemma": "colorful",
+          "surface": "colorful"
+        },
+        {
+          "gloss": "泡沫",
+          "lemma": "foam",
+          "surface": "foam"
+        },
+        {
+          "gloss": "作品",
+          "lemma": "piece",
+          "surface": "pieces"
+        }
+      ]
+    },
+    {
+      "cn_text": "这些作品包括小型玫瑰花床等物件，以及数十件「自然地毯」——用泡沫南瓜、卷心菜和西瓜装饰的大型矩形作品。",
+      "en_text": "Those pieces included small beds of roses and other items as well as a few dozen “nature carpets” — large rectangles decorated with foam pumpkins, cabbages, and watermelons.",
+      "id": 2022013025,
+      "order_seq": "content_3_3",
+      "task_id": 202201002,
+      "tokens": [
+        {
+          "gloss": "这些",
+          "lemma": "those",
+          "surface": "Those"
+        },
+        {
+          "gloss": "作品",
+          "lemma": "piece",
+          "surface": "pieces"
+        },
+        {
+          "gloss": "包括",
+          "lemma": "include",
+          "surface": "included"
+        },
+        {
+          "gloss": "小的",
+          "lemma": "small",
+          "surface": "small"
+        },
+        {
+          "gloss": "床",
+          "lemma": "bed",
+          "surface": "beds"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "玫瑰",
+          "lemma": "rose",
+          "surface": "roses"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "其他的",
+          "lemma": "other",
+          "surface": "other"
+        },
+        {
+          "gloss": "物品",
+          "lemma": "item",
+          "surface": "items"
+        },
+        {
+          "gloss": "以及",
+          "lemma": "as",
+          "surface": "as"
+        },
+        {
+          "gloss": "也",
+          "lemma": "well",
+          "surface": "well"
+        },
+        {
+          "gloss": "作为",
+          "lemma": "as",
+          "surface": "as"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "几个",
+          "lemma": "few",
+          "surface": "few"
+        },
+        {
+          "gloss": "几十",
+          "lemma": "dozen",
+          "surface": "dozen"
+        },
+        {
+          "gloss": "自然",
+          "lemma": "nature",
+          "surface": "nature"
+        },
+        {
+          "gloss": "地毯",
+          "lemma": "carpet",
+          "surface": "carpets"
+        },
+        {
+          "gloss": "大的",
+          "lemma": "large",
+          "surface": "large"
+        },
+        {
+          "gloss": "矩形",
+          "lemma": "rectangle",
+          "surface": "rectangles"
+        },
+        {
+          "gloss": "装饰",
+          "lemma": "decorate",
+          "surface": "decorated"
+        },
+        {
+          "gloss": "用",
+          "lemma": "with",
+          "surface": "with"
+        },
+        {
+          "gloss": "泡沫",
+          "lemma": "foam",
+          "surface": "foam"
+        },
+        {
+          "gloss": "南瓜",
+          "lemma": "pumpkin",
+          "surface": "pumpkins"
+        },
+        {
+          "gloss": "卷心菜",
+          "lemma": "cabbage",
+          "surface": "cabbages"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "西瓜",
+          "lemma": "watermelon",
+          "surface": "watermelons"
+        }
+      ]
+    },
+    {
+      "cn_text": "他希望观众能在地毯上走动——这意味着它们必须足够耐用。",
+      "en_text": "He wanted viewers to walk around on the carpets — which meant they had to be durable.",
+      "id": 2022013026,
+      "order_seq": "content_3_4",
+      "task_id": 202201002,
+      "tokens": [
+        {
+          "gloss": "他",
+          "lemma": "he",
+          "surface": "He"
+        },
+        {
+          "gloss": "希望",
+          "lemma": "want",
+          "surface": "wanted"
+        },
+        {
+          "gloss": "观众",
+          "lemma": "viewer",
+          "surface": "viewers"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "走",
+          "lemma": "walk",
+          "surface": "walk"
+        },
+        {
+          "gloss": "周围",
+          "lemma": "around",
+          "surface": "around"
+        },
+        {
+          "gloss": "在...上",
+          "lemma": "on",
+          "surface": "on"
+        },
+        {
+          "gloss": "这些",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "地毯",
+          "lemma": "carpet",
+          "surface": "carpets"
+        },
+        {
+          "gloss": "这",
+          "lemma": "which",
+          "surface": "which"
+        },
+        {
+          "gloss": "意味着",
+          "lemma": "mean",
+          "surface": "meant"
+        },
+        {
+          "gloss": "它们",
+          "lemma": "they",
+          "surface": "they"
+        },
+        {
+          "gloss": "必须",
+          "lemma": "have",
+          "surface": "had"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "be"
+        },
+        {
+          "gloss": "耐用的",
+          "lemma": "durable",
+          "surface": "durable"
+        }
+      ]
+    },
+    {
+      "cn_text": "不幸的是，他所使用的聚氨酯泡沫本质上并不稳定。",
+      "en_text": "Unfortunately, the polyurethane foam he used is inherently unstable.",
+      "id": 2022013027,
+      "order_seq": "content_4_1",
+      "task_id": 202201002,
+      "tokens": [
+        {
+          "gloss": "不幸的是",
+          "lemma": "unfortunately",
+          "surface": "Unfortunately"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "聚氨酯",
+          "lemma": "polyurethane",
+          "surface": "polyurethane"
+        },
+        {
+          "gloss": "泡沫",
+          "lemma": "foam",
+          "surface": "foam"
+        },
+        {
+          "gloss": "他",
+          "lemma": "he",
+          "surface": "he"
+        },
+        {
+          "gloss": "使用",
+          "lemma": "use",
+          "surface": "used"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "本质上",
+          "lemma": "inherently",
+          "surface": "inherently"
+        },
+        {
+          "gloss": "不稳定的",
+          "lemma": "unstable",
+          "surface": "unstable"
+        }
+      ]
+    },
+    {
+      "cn_text": "它特别容易受光损害，到20世纪90年代中期，吉拉尔迪的南瓜、玫瑰和其他造型开始开裂并破碎。",
+      "en_text": "It’s especially vulnerable to light damage, and by the mid-1990s, Gilardi’s pumpkins, roses, and other figures were splitting and crumbling.",
+      "id": 2022013028,
+      "order_seq": "content_4_2",
+      "task_id": 202201002,
+      "tokens": [
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "It’s"
+        },
+        {
+          "gloss": "尤其",
+          "lemma": "especially",
+          "surface": "especially"
+        },
+        {
+          "gloss": "容易受伤害的",
+          "lemma": "vulnerable",
+          "surface": "vulnerable"
+        },
+        {
+          "gloss": "对",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "光",
+          "lemma": "light",
+          "surface": "light"
+        },
+        {
+          "gloss": "损害",
+          "lemma": "damage",
+          "surface": "damage"
+        },
+        {
+          "gloss": "并且",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "到...时候",
+          "lemma": "by",
+          "surface": "by"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "中期的",
+          "lemma": "mid",
+          "surface": "mid"
+        },
+        {
+          "gloss": "1990年代",
+          "lemma": "1990s",
+          "surface": "1990s"
+        },
+        {
+          "gloss": "吉拉尔迪的",
+          "lemma": "gilardi",
+          "surface": "Gilardi’s"
+        },
+        {
+          "gloss": "南瓜",
+          "lemma": "pumpkin",
+          "surface": "pumpkins"
+        },
+        {
+          "gloss": "玫瑰",
+          "lemma": "rose",
+          "surface": "roses"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "其他的",
+          "lemma": "other",
+          "surface": "other"
+        },
+        {
+          "gloss": "造型",
+          "lemma": "figure",
+          "surface": "figures"
+        },
+        {
+          "gloss": "开始",
+          "lemma": "be",
+          "surface": "were"
+        },
+        {
+          "gloss": "裂开",
+          "lemma": "split",
+          "surface": "splitting"
+        },
+        {
+          "gloss": "并且",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "崩解",
+          "lemma": "crumble",
+          "surface": "crumbling"
+        }
+      ]
+    },
+    {
+      "cn_text": "博物馆将其中一些作品锁存在暗处。",
+      "en_text": "Museums locked some of them away in the dark.",
+      "id": 2022013029,
+      "order_seq": "content_4_3",
+      "task_id": 202201002,
+      "tokens": [
+        {
+          "gloss": "博物馆",
+          "lemma": "museum",
+          "surface": "Museums"
+        },
+        {
+          "gloss": "锁住",
+          "lemma": "lock",
+          "surface": "locked"
+        },
+        {
+          "gloss": "一些",
+          "lemma": "some",
+          "surface": "some"
+        },
+        {
+          "gloss": "其中的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "它们",
+          "lemma": "they",
+          "surface": "them"
+        },
+        {
+          "gloss": "远离",
+          "lemma": "away",
+          "surface": "away"
+        },
+        {
+          "gloss": "在...中",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "黑暗",
+          "lemma": "dark",
+          "surface": "dark"
+        }
+      ]
+    },
+    {
+      "cn_text": "于是范奥斯滕和同事们着手保护吉拉尔迪的雕塑。",
+      "en_text": "So van Oosten and her colleagues worked to preserve Gilardi’s sculptures.",
+      "id": 2022013030,
+      "order_seq": "content_5_1",
+      "task_id": 202201002,
+      "tokens": [
+        {
+          "gloss": "因此",
+          "lemma": "so",
+          "surface": "So"
+        },
+        {
+          "gloss": "范",
+          "lemma": "van",
+          "surface": "van"
+        },
+        {
+          "gloss": "奥斯滕",
+          "lemma": "oosten",
+          "surface": "Oosten"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "她的",
+          "lemma": "her",
+          "surface": "her"
+        },
+        {
+          "gloss": "同事",
+          "lemma": "colleague",
+          "surface": "colleagues"
+        },
+        {
+          "gloss": "努力",
+          "lemma": "work",
+          "surface": "worked"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "保护",
+          "lemma": "preserve",
+          "surface": "preserve"
+        },
+        {
+          "gloss": "吉拉尔迪的",
+          "lemma": "gilardi",
+          "surface": "Gilardi’s"
+        },
+        {
+          "gloss": "雕塑",
+          "lemma": "sculpture",
+          "surface": "sculptures"
+        }
+      ]
+    },
+    {
+      "cn_text": "他们为部分作品注入了稳定剂和固化剂。",
+      "en_text": "They infused some with stabilizing and consolidating chemicals.",
+      "id": 2022013031,
+      "order_seq": "content_5_2",
+      "task_id": 202201002,
+      "tokens": [
+        {
+          "gloss": "他们",
+          "lemma": "they",
+          "surface": "They"
+        },
+        {
+          "gloss": "注入",
+          "lemma": "infuse",
+          "surface": "infused"
+        },
+        {
+          "gloss": "一些",
+          "lemma": "some",
+          "surface": "some"
+        },
+        {
+          "gloss": "用",
+          "lemma": "with",
+          "surface": "with"
+        },
+        {
+          "gloss": "稳定的",
+          "lemma": "stabilize",
+          "surface": "stabilizing"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "加固的",
+          "lemma": "consolidate",
+          "surface": "consolidating"
+        },
+        {
+          "gloss": "化学品",
+          "lemma": "chemical",
+          "surface": "chemicals"
+        }
+      ]
+    },
+    {
+      "cn_text": "范奥斯滕将这些化学物质称为「防晒剂」，因为其目的是防止进一步的光损害并修复受损的聚合物纤维。",
+      "en_text": "Van Oosten calls those chemicals “sunscreens” because their goal was to prevent further light damage and rebuild worn polymer fibers.",
+      "id": 2022013032,
+      "order_seq": "content_5_3",
+      "task_id": 202201002,
+      "tokens": [
+        {
+          "gloss": "范",
+          "lemma": "van",
+          "surface": "Van"
+        },
+        {
+          "gloss": "奥斯滕",
+          "lemma": "oosten",
+          "surface": "Oosten"
+        },
+        {
+          "gloss": "称呼",
+          "lemma": "call",
+          "surface": "calls"
+        },
+        {
+          "gloss": "那些",
+          "lemma": "those",
+          "surface": "those"
+        },
+        {
+          "gloss": "化学品",
+          "lemma": "chemical",
+          "surface": "chemicals"
+        },
+        {
+          "gloss": "防晒霜",
+          "lemma": "sunscreen",
+          "surface": "sunscreens"
+        },
+        {
+          "gloss": "因为",
+          "lemma": "because",
+          "surface": "because"
+        },
+        {
+          "gloss": "它们的",
+          "lemma": "their",
+          "surface": "their"
+        },
+        {
+          "gloss": "目标",
+          "lemma": "goal",
+          "surface": "goal"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "was"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "防止",
+          "lemma": "prevent",
+          "surface": "prevent"
+        },
+        {
+          "gloss": "进一步的",
+          "lemma": "further",
+          "surface": "further"
+        },
+        {
+          "gloss": "光",
+          "lemma": "light",
+          "surface": "light"
+        },
+        {
+          "gloss": "损害",
+          "lemma": "damage",
+          "surface": "damage"
+        },
+        {
+          "gloss": "并且",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "重建",
+          "lemma": "rebuild",
+          "surface": "rebuild"
+        },
+        {
+          "gloss": "磨损的",
+          "lemma": "wear",
+          "surface": "worn"
+        },
+        {
+          "gloss": "聚合物",
+          "lemma": "polymer",
+          "surface": "polymer"
+        },
+        {
+          "gloss": "纤维",
+          "lemma": "fiber",
+          "surface": "fibers"
+        }
+      ]
+    },
+    {
+      "cn_text": "她感到自豪的是，数件雕塑甚至再次得以展出，尽管有时需要放置在保护罩下。",
+      "en_text": "She is proud that several sculptures have even gone on display again, albeit sometimes beneath protective cases.",
+      "id": 2022013033,
+      "order_seq": "content_5_4",
+      "task_id": 202201002,
+      "tokens": [
+        {
+          "gloss": "她",
+          "lemma": "she",
+          "surface": "She"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "自豪的",
+          "lemma": "proud",
+          "surface": "proud"
+        },
+        {
+          "gloss": "表明",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "几件",
+          "lemma": "several",
+          "surface": "several"
+        },
+        {
+          "gloss": "雕塑",
+          "lemma": "sculpture",
+          "surface": "sculptures"
+        },
+        {
+          "gloss": "已经",
+          "lemma": "have",
+          "surface": "have"
+        },
+        {
+          "gloss": "甚至",
+          "lemma": "even",
+          "surface": "even"
+        },
+        {
+          "gloss": "展出",
+          "lemma": "go",
+          "surface": "gone"
+        },
+        {
+          "gloss": "在",
+          "lemma": "on",
+          "surface": "on"
+        },
+        {
+          "gloss": "展出",
+          "lemma": "display",
+          "surface": "display"
+        },
+        {
+          "gloss": "再次",
+          "lemma": "again",
+          "surface": "again"
+        },
+        {
+          "gloss": "尽管",
+          "lemma": "albeit",
+          "surface": "albeit"
+        },
+        {
+          "gloss": "有时",
+          "lemma": "sometimes",
+          "surface": "sometimes"
+        },
+        {
+          "gloss": "在...之下",
+          "lemma": "beneath",
+          "surface": "beneath"
+        },
+        {
+          "gloss": "保护的",
+          "lemma": "protective",
+          "surface": "protective"
+        },
+        {
+          "gloss": "罩",
+          "lemma": "case",
+          "surface": "cases"
+        }
+      ]
+    },
+    {
+      "cn_text": "尽管有范奥斯滕这样的成功案例，塑料保存工作很可能会变得更加困难。",
+      "en_text": "Despite success stories like van Oosten’s, preservation of plastics will likely get harder.",
+      "id": 2022013034,
+      "order_seq": "content_6_1",
+      "task_id": 202201002,
+      "tokens": [
+        {
+          "gloss": "尽管",
+          "lemma": "despite",
+          "surface": "Despite"
+        },
+        {
+          "gloss": "成功",
+          "lemma": "success",
+          "surface": "success"
+        },
+        {
+          "gloss": "案例",
+          "lemma": "story",
+          "surface": "stories"
+        },
+        {
+          "gloss": "像",
+          "lemma": "like",
+          "surface": "like"
+        },
+        {
+          "gloss": "范",
+          "lemma": "van",
+          "surface": "van"
+        },
+        {
+          "gloss": "奥斯滕的",
+          "lemma": "oosten",
+          "surface": "Oosten’s"
+        },
+        {
+          "gloss": "保存",
+          "lemma": "preservation",
+          "surface": "preservation"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "塑料",
+          "lemma": "plastic",
+          "surface": "plastics"
+        },
+        {
+          "gloss": "将",
+          "lemma": "will",
+          "surface": "will"
+        },
+        {
+          "gloss": "可能",
+          "lemma": "likely",
+          "surface": "likely"
+        },
+        {
+          "gloss": "变得",
+          "lemma": "get",
+          "surface": "get"
+        },
+        {
+          "gloss": "更困难的",
+          "lemma": "hard",
+          "surface": "harder"
+        }
+      ]
+    },
+    {
+      "cn_text": "旧物品持续退化。",
+      "en_text": "Old objects continue to deteriorate.",
+      "id": 2022013035,
+      "order_seq": "content_6_2",
+      "task_id": 202201002,
+      "tokens": [
+        {
+          "gloss": "旧的",
+          "lemma": "old",
+          "surface": "Old"
+        },
+        {
+          "gloss": "物品",
+          "lemma": "object",
+          "surface": "objects"
+        },
+        {
+          "gloss": "继续",
+          "lemma": "continue",
+          "surface": "continue"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "恶化",
+          "lemma": "deteriorate",
+          "surface": "deteriorate"
+        }
+      ]
+    },
+    {
+      "cn_text": "更糟的是，专为分解而设计的可生物降解塑料正变得越来越普遍。",
+      "en_text": "Worse, biodegradable plastics designed to disintegrate, are increasingly common.",
+      "id": 2022013036,
+      "order_seq": "content_6_3",
+      "task_id": 202201002,
+      "tokens": [
+        {
+          "gloss": "更糟糕的",
+          "lemma": "worse",
+          "surface": "worse"
+        },
+        {
+          "gloss": "可生物降解的",
+          "lemma": "biodegradable",
+          "surface": "biodegradable"
+        },
+        {
+          "gloss": "塑料",
+          "lemma": "plastic",
+          "surface": "plastics"
+        },
+        {
+          "gloss": "设计",
+          "lemma": "design",
+          "surface": "designed"
+        },
+        {
+          "gloss": "为了",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "分解",
+          "lemma": "disintegrate",
+          "surface": "disintegrate"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "are"
+        },
+        {
+          "gloss": "越来越",
+          "lemma": "increasingly",
+          "surface": "increasingly"
+        },
+        {
+          "gloss": "普遍的",
+          "lemma": "common",
+          "surface": "common"
+        }
+      ]
+    },
+    {
+      "cn_text": "而这里所关乎的不仅仅是单个物品。",
+      "en_text": "And more is at stake here than individual objects.",
+      "id": 2022013037,
+      "order_seq": "content_7_1",
+      "task_id": 202201002,
+      "tokens": [
+        {
+          "gloss": "并且",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "更多的",
+          "lemma": "more",
+          "surface": "more"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "在",
+          "lemma": "at",
+          "surface": "at"
+        },
+        {
+          "gloss": "风险",
+          "lemma": "stake",
+          "surface": "stake"
+        },
+        {
+          "gloss": "这里",
+          "lemma": "here",
+          "surface": "here"
+        },
+        {
+          "gloss": "比",
+          "lemma": "than",
+          "surface": "than"
+        },
+        {
+          "gloss": "个别的",
+          "lemma": "individual",
+          "surface": "individual"
+        },
+        {
+          "gloss": "物品",
+          "lemma": "object",
+          "surface": "objects"
+        }
+      ]
+    },
+    {
+      "cn_text": "新里斯本科技大学保护与修复助理教授乔安娜·利亚·费雷拉指出，考古学家是在博物馆研究文物之后，才首次界定了人类历史上的重要材料时代——石器时代、铁器时代等等。",
+      "en_text": "Joana Lia Ferreira, an assistant professor of conservation and restoration at the NOVA School of Science and Technology, notes that archaeologists first defined the great material ages of human history — Stone Age, Iron Age, and so on — after examining artifacts in museums.",
+      "id": 2022013038,
+      "order_seq": "content_7_2",
+      "task_id": 202201002,
+      "tokens": [
+        {
+          "gloss": "乔安娜",
+          "lemma": "joana",
+          "surface": "joana"
+        },
+        {
+          "gloss": "利娅",
+          "lemma": "lia",
+          "surface": "lia"
+        },
+        {
+          "gloss": "费雷拉",
+          "lemma": "ferreira",
+          "surface": "ferreira"
+        },
+        {
+          "gloss": "一位",
+          "lemma": "an",
+          "surface": "an"
+        },
+        {
+          "gloss": "助理",
+          "lemma": "assistant",
+          "surface": "assistant"
+        },
+        {
+          "gloss": "教授",
+          "lemma": "professor",
+          "surface": "professor"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "保护",
+          "lemma": "conservation",
+          "surface": "conservation"
+        },
+        {
+          "gloss": "与",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "修复",
+          "lemma": "restoration",
+          "surface": "restoration"
+        },
+        {
+          "gloss": "在",
+          "lemma": "at",
+          "surface": "at"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "NOVA",
+          "lemma": "nova",
+          "surface": "nova"
+        },
+        {
+          "gloss": "学院",
+          "lemma": "school",
+          "surface": "school"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "科学",
+          "lemma": "science",
+          "surface": "science"
+        },
+        {
+          "gloss": "与",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "技术",
+          "lemma": "technology",
+          "surface": "technology"
+        },
+        {
+          "gloss": "指出",
+          "lemma": "note",
+          "surface": "notes"
+        },
+        {
+          "gloss": "表明",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "考古学家",
+          "lemma": "archaeologist",
+          "surface": "archaeologists"
+        },
+        {
+          "gloss": "首次",
+          "lemma": "first",
+          "surface": "first"
+        },
+        {
+          "gloss": "定义",
+          "lemma": "define",
+          "surface": "defined"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "重要的",
+          "lemma": "great",
+          "surface": "great"
+        },
+        {
+          "gloss": "物质的",
+          "lemma": "material",
+          "surface": "material"
+        },
+        {
+          "gloss": "时代",
+          "lemma": "age",
+          "surface": "ages"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "人类的",
+          "lemma": "human",
+          "surface": "human"
+        },
+        {
+          "gloss": "历史",
+          "lemma": "history",
+          "surface": "history"
+        },
+        {
+          "gloss": "石器",
+          "lemma": "stone",
+          "surface": "stone"
+        },
+        {
+          "gloss": "时代",
+          "lemma": "age",
+          "surface": "age"
+        },
+        {
+          "gloss": "铁器",
+          "lemma": "iron",
+          "surface": "iron"
+        },
+        {
+          "gloss": "时代",
+          "lemma": "age",
+          "surface": "age"
+        },
+        {
+          "gloss": "等等",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "如此",
+          "lemma": "so",
+          "surface": "so"
+        },
+        {
+          "gloss": "继续",
+          "lemma": "on",
+          "surface": "on"
+        },
+        {
+          "gloss": "在...之后",
+          "lemma": "after",
+          "surface": "after"
+        },
+        {
+          "gloss": "研究",
+          "lemma": "examine",
+          "surface": "examining"
+        },
+        {
+          "gloss": "文物",
+          "lemma": "artifact",
+          "surface": "artifacts"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "博物馆",
+          "lemma": "museum",
+          "surface": "museums"
+        }
+      ]
+    },
+    {
+      "cn_text": "我们如今生活在塑料时代，她说，「我们今天决定收藏什么、决定保存什么……将对未来人们如何看待我们产生重大影响。」",
+      "en_text": "We now live in an age of plastic, she says, “and what we decide to collect today, what we decide to preserve...will have a strong impact on how in the future we’ll be seen.”",
+      "id": 2022013039,
+      "order_seq": "content_7_3",
+      "task_id": 202201002,
+      "tokens": [
+        {
+          "gloss": "我们",
+          "lemma": "we",
+          "surface": "we"
+        },
+        {
+          "gloss": "现在",
+          "lemma": "now",
+          "surface": "now"
+        },
+        {
+          "gloss": "生活",
+          "lemma": "live",
+          "surface": "live"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "an",
+          "surface": "an"
+        },
+        {
+          "gloss": "时代",
+          "lemma": "age",
+          "surface": "age"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "塑料",
+          "lemma": "plastic",
+          "surface": "plastic"
+        },
+        {
+          "gloss": "她",
+          "lemma": "she",
+          "surface": "she"
+        },
+        {
+          "gloss": "说",
+          "lemma": "say",
+          "surface": "says"
+        },
+        {
+          "gloss": "并且",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "什么",
+          "lemma": "what",
+          "surface": "what"
+        },
+        {
+          "gloss": "我们",
+          "lemma": "we",
+          "surface": "we"
+        },
+        {
+          "gloss": "决定",
+          "lemma": "decide",
+          "surface": "decide"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "收集",
+          "lemma": "collect",
+          "surface": "collect"
+        },
+        {
+          "gloss": "今天",
+          "lemma": "today",
+          "surface": "today"
+        },
+        {
+          "gloss": "什么",
+          "lemma": "what",
+          "surface": "what"
+        },
+        {
+          "gloss": "我们",
+          "lemma": "we",
+          "surface": "we"
+        },
+        {
+          "gloss": "决定",
+          "lemma": "decide",
+          "surface": "decide"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "保存",
+          "lemma": "preserve",
+          "surface": "preserve"
+        },
+        {
+          "gloss": "将",
+          "lemma": "will",
+          "surface": "will"
+        },
+        {
+          "gloss": "有",
+          "lemma": "have",
+          "surface": "have"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "强烈的",
+          "lemma": "strong",
+          "surface": "strong"
+        },
+        {
+          "gloss": "影响",
+          "lemma": "impact",
+          "surface": "impact"
+        },
+        {
+          "gloss": "对",
+          "lemma": "on",
+          "surface": "on"
+        },
+        {
+          "gloss": "如何",
+          "lemma": "how",
+          "surface": "how"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "未来",
+          "lemma": "future",
+          "surface": "future"
+        },
+        {
+          "gloss": "我们",
+          "lemma": "we",
+          "surface": "we"
+        },
+        {
+          "gloss": "将",
+          "lemma": "will",
+          "surface": "ll"
+        },
+        {
+          "gloss": "被",
+          "lemma": "be",
+          "surface": "be"
+        },
+        {
+          "gloss": "看待",
+          "lemma": "see",
+          "surface": "seen"
+        }
+      ]
+    },
+    {
+      "cn_text": "根据第一段，博物馆在____方面面临困难",
+      "en_text": "According to Paragraph 1, museums are faced with difficulties in ____",
+      "id": 2022013040,
+      "order_seq": "question_2022011021_stem",
+      "task_id": 202201002,
+      "tokens": [
+        {
+          "gloss": "根据",
+          "lemma": "according",
+          "surface": "According"
+        },
+        {
+          "gloss": "至",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "段落",
+          "lemma": "paragraph",
+          "surface": "Paragraph"
+        },
+        {
+          "gloss": "博物馆",
+          "lemma": "museum",
+          "surface": "museums"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "are"
+        },
+        {
+          "gloss": "面对",
+          "lemma": "face",
+          "surface": "faced"
+        },
+        {
+          "gloss": "与",
+          "lemma": "with",
+          "surface": "with"
+        },
+        {
+          "gloss": "困难",
+          "lemma": "difficulty",
+          "surface": "difficulties"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        }
+      ]
+    },
+    {
+      "cn_text": "维护其塑料藏品。",
+      "en_text": "maintaining their plastic items.",
+      "id": 2022013041,
+      "order_seq": "question_2022011021_A",
+      "task_id": 202201002,
+      "tokens": [
+        {
+          "gloss": "维护",
+          "lemma": "maintain",
+          "surface": "maintaining"
+        },
+        {
+          "gloss": "他们的",
+          "lemma": "their",
+          "surface": "their"
+        },
+        {
+          "gloss": "塑料的",
+          "lemma": "plastic",
+          "surface": "plastic"
+        },
+        {
+          "gloss": "物品",
+          "lemma": "item",
+          "surface": "items"
+        }
+      ]
+    },
+    {
+      "cn_text": "获取耐用的塑料文物。",
+      "en_text": "obtaining durable plastic artifacts.",
+      "id": 2022013042,
+      "order_seq": "question_2022011021_B",
+      "task_id": 202201002,
+      "tokens": [
+        {
+          "gloss": "获得",
+          "lemma": "obtain",
+          "surface": "obtaining"
+        },
+        {
+          "gloss": "耐用的",
+          "lemma": "durable",
+          "surface": "durable"
+        },
+        {
+          "gloss": "塑料的",
+          "lemma": "plastic",
+          "surface": "plastic"
+        },
+        {
+          "gloss": "人工制品",
+          "lemma": "artifact",
+          "surface": "artifacts"
+        }
+      ]
+    },
+    {
+      "cn_text": "处理过时的塑料展品。",
+      "en_text": "handling outdated plastic exhibits.",
+      "id": 2022013043,
+      "order_seq": "question_2022011021_C",
+      "task_id": 202201002,
+      "tokens": [
+        {
+          "gloss": "处理",
+          "lemma": "handle",
+          "surface": "handling"
+        },
+        {
+          "gloss": "过时的",
+          "lemma": "outdated",
+          "surface": "outdated"
+        },
+        {
+          "gloss": "塑料的",
+          "lemma": "plastic",
+          "surface": "plastic"
+        },
+        {
+          "gloss": "展品",
+          "lemma": "exhibit",
+          "surface": "exhibits"
+        }
+      ]
+    },
+    {
+      "cn_text": "对其塑料藏品进行分类。",
+      "en_text": "classifying their plastic collections.",
+      "id": 2022013044,
+      "order_seq": "question_2022011021_D",
+      "task_id": 202201002,
+      "tokens": [
+        {
+          "gloss": "分类",
+          "lemma": "classify",
+          "surface": "classifying"
+        },
+        {
+          "gloss": "他们的",
+          "lemma": "their",
+          "surface": "their"
+        },
+        {
+          "gloss": "塑料的",
+          "lemma": "plastic",
+          "surface": "plastic"
+        },
+        {
+          "gloss": "收藏",
+          "lemma": "collection",
+          "surface": "collections"
+        }
+      ]
+    },
+    {
+      "cn_text": "范奥斯滕认为某些塑料物品____",
+      "en_text": "Van Oosten believes that certain plastic objects are ____",
+      "id": 2022013045,
+      "order_seq": "question_2022011022_stem",
+      "task_id": 202201002,
+      "tokens": [
+        {
+          "gloss": "范",
+          "lemma": "van",
+          "surface": "Van"
+        },
+        {
+          "gloss": "奥斯滕",
+          "lemma": "oosten",
+          "surface": "Oosten"
+        },
+        {
+          "gloss": "认为",
+          "lemma": "believe",
+          "surface": "believes"
+        },
+        {
+          "gloss": "认为",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "某些",
+          "lemma": "certain",
+          "surface": "certain"
+        },
+        {
+          "gloss": "塑料的",
+          "lemma": "plastic",
+          "surface": "plastic"
+        },
+        {
+          "gloss": "物品",
+          "lemma": "object",
+          "surface": "objects"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "are"
+        }
+      ]
+    },
+    {
+      "cn_text": "不会腐坏。",
+      "en_text": "immune to decay.",
+      "id": 2022013046,
+      "order_seq": "question_2022011022_A",
+      "task_id": 202201002,
+      "tokens": [
+        {
+          "gloss": "免疫的",
+          "lemma": "immune",
+          "surface": "immune"
+        },
+        {
+          "gloss": "对",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "腐烂",
+          "lemma": "decay",
+          "surface": "decay"
+        }
+      ]
+    },
+    {
+      "cn_text": "成型不当。",
+      "en_text": "improperly shaped.",
+      "id": 2022013047,
+      "order_seq": "question_2022011022_B",
+      "task_id": 202201002,
+      "tokens": [
+        {
+          "gloss": "不适当地",
+          "lemma": "improperly",
+          "surface": "improperly"
+        },
+        {
+          "gloss": "成形",
+          "lemma": "shape",
+          "surface": "shaped"
+        }
+      ]
+    },
+    {
+      "cn_text": "本身存在缺陷。",
+      "en_text": "inherently flawed.",
+      "id": 2022013048,
+      "order_seq": "question_2022011022_C",
+      "task_id": 202201002,
+      "tokens": [
+        {
+          "gloss": "本质上",
+          "lemma": "inherently",
+          "surface": "inherently"
+        },
+        {
+          "gloss": "有缺陷的",
+          "lemma": "flaw",
+          "surface": "flawed"
+        }
+      ]
+    },
+    {
+      "cn_text": "结构复杂。",
+      "en_text": "complex in structure.",
+      "id": 2022013049,
+      "order_seq": "question_2022011022_D",
+      "task_id": 202201002,
+      "tokens": [
+        {
+          "gloss": "复杂的",
+          "lemma": "complex",
+          "surface": "complex"
+        },
+        {
+          "gloss": "在...方面",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "结构",
+          "lemma": "structure",
+          "surface": "structure"
+        }
+      ]
+    },
+    {
+      "cn_text": "博物馆停止展出吉拉尔迪的部分艺术作品以____",
+      "en_text": "Museums stopped exhibiting some of Gilardi’s artworks to ____",
+      "id": 2022013050,
+      "order_seq": "question_2022011023_stem",
+      "task_id": 202201002,
+      "tokens": [
+        {
+          "gloss": "博物馆",
+          "lemma": "museum",
+          "surface": "Museums"
+        },
+        {
+          "gloss": "停止",
+          "lemma": "stop",
+          "surface": "stopped"
+        },
+        {
+          "gloss": "展出",
+          "lemma": "exhibit",
+          "surface": "exhibiting"
+        },
+        {
+          "gloss": "一些",
+          "lemma": "some",
+          "surface": "some"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "吉拉尔迪的",
+          "lemma": "gilardi",
+          "surface": "Gilardi’s"
+        },
+        {
+          "gloss": "艺术作品",
+          "lemma": "artwork",
+          "surface": "artworks"
+        },
+        {
+          "gloss": "以",
+          "lemma": "to",
+          "surface": "to"
+        }
+      ]
+    },
+    {
+      "cn_text": "避免伤及参观者。",
+      "en_text": "keep them from hurting visitors.",
+      "id": 2022013051,
+      "order_seq": "question_2022011023_A",
+      "task_id": 202201002,
+      "tokens": [
+        {
+          "gloss": "防止",
+          "lemma": "keep",
+          "surface": "keep"
+        },
+        {
+          "gloss": "它们",
+          "lemma": "they",
+          "surface": "them"
+        },
+        {
+          "gloss": "使免于",
+          "lemma": "from",
+          "surface": "from"
+        },
+        {
+          "gloss": "伤害",
+          "lemma": "hurt",
+          "surface": "hurting"
+        },
+        {
+          "gloss": "参观者",
+          "lemma": "visitor",
+          "surface": "visitors"
+        }
+      ]
+    },
+    {
+      "cn_text": "复制它们以供日后展出。",
+      "en_text": "duplicate them for future display.",
+      "id": 2022013052,
+      "order_seq": "question_2022011023_B",
+      "task_id": 202201002,
+      "tokens": [
+        {
+          "gloss": "复制",
+          "lemma": "duplicate",
+          "surface": "duplicate"
+        },
+        {
+          "gloss": "它们",
+          "lemma": "they",
+          "surface": "them"
+        },
+        {
+          "gloss": "为了",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "未来",
+          "lemma": "future",
+          "surface": "future"
+        },
+        {
+          "gloss": "展示",
+          "lemma": "display",
+          "surface": "display"
+        }
+      ]
+    },
+    {
+      "cn_text": "分析它们的成分。",
+      "en_text": "have their ingredients analyzed.",
+      "id": 2022013053,
+      "order_seq": "question_2022011023_C",
+      "task_id": 202201002,
+      "tokens": [
+        {
+          "gloss": "使",
+          "lemma": "have",
+          "surface": "have"
+        },
+        {
+          "gloss": "它们的",
+          "lemma": "their",
+          "surface": "their"
+        },
+        {
+          "gloss": "成分",
+          "lemma": "ingredient",
+          "surface": "ingredients"
+        },
+        {
+          "gloss": "分析",
+          "lemma": "analyze",
+          "surface": "analyzed"
+        }
+      ]
+    },
+    {
+      "cn_text": "防止它们进一步受损。",
+      "en_text": "prevent them from further damage.",
+      "id": 2022013054,
+      "order_seq": "question_2022011023_D",
+      "task_id": 202201002,
+      "tokens": [
+        {
+          "gloss": "防止",
+          "lemma": "prevent",
+          "surface": "prevent"
+        },
+        {
+          "gloss": "它们",
+          "lemma": "they",
+          "surface": "them"
+        },
+        {
+          "gloss": "从",
+          "lemma": "from",
+          "surface": "from"
+        },
+        {
+          "gloss": "进一步的",
+          "lemma": "further",
+          "surface": "further"
+        },
+        {
+          "gloss": "损坏",
+          "lemma": "damage",
+          "surface": "damage"
+        }
+      ]
+    },
+    {
+      "cn_text": "作者认为塑料的保存____",
+      "en_text": "The author thinks that preservation of plastics is ____",
+      "id": 2022013055,
+      "order_seq": "question_2022011024_stem",
+      "task_id": 202201002,
+      "tokens": [
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "The"
+        },
+        {
+          "gloss": "作者",
+          "lemma": "author",
+          "surface": "author"
+        },
+        {
+          "gloss": "认为",
+          "lemma": "think",
+          "surface": "thinks"
+        },
+        {
+          "gloss": "认为",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "保存",
+          "lemma": "preservation",
+          "surface": "preservation"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "塑料",
+          "lemma": "plastic",
+          "surface": "plastics"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        }
+      ]
+    },
+    {
+      "cn_text": "代价高昂。",
+      "en_text": "costly.",
+      "id": 2022013056,
+      "order_seq": "question_2022011024_A",
+      "task_id": 202201002,
+      "tokens": [
+        {
+          "gloss": "昂贵的",
+          "lemma": "costly",
+          "surface": "costly"
+        }
+      ]
+    },
+    {
+      "cn_text": "不值得做。",
+      "en_text": "unworthy.",
+      "id": 2022013057,
+      "order_seq": "question_2022011024_B",
+      "task_id": 202201002,
+      "tokens": [
+        {
+          "gloss": "不值得的",
+          "lemma": "unworthy",
+          "surface": "unworthy"
+        }
+      ]
+    },
+    {
+      "cn_text": "不受欢迎。",
+      "en_text": "unpopular.",
+      "id": 2022013058,
+      "order_seq": "question_2022011024_C",
+      "task_id": 202201002,
+      "tokens": [
+        {
+          "gloss": "不受欢迎的",
+          "lemma": "unpopular",
+          "surface": "unpopular"
+        }
+      ]
+    },
+    {
+      "cn_text": "富有挑战性。",
+      "en_text": "challenging.",
+      "id": 2022013059,
+      "order_seq": "question_2022011024_D",
+      "task_id": 202201002,
+      "tokens": [
+        {
+          "gloss": "具有挑战性的",
+          "lemma": "challenging",
+          "surface": "challenging"
+        }
+      ]
+    },
+    {
+      "cn_text": "在费雷拉看来，塑料文物的保存____",
+      "en_text": "In Ferreira’s opinion, preservation of plastic artifacts ____",
+      "id": 2022013060,
+      "order_seq": "question_2022011025_stem",
+      "task_id": 202201002,
+      "tokens": [
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "In"
+        },
+        {
+          "gloss": "费雷拉",
+          "lemma": "ferreira",
+          "surface": "Ferreira’s"
+        },
+        {
+          "gloss": "观点",
+          "lemma": "opinion",
+          "surface": "opinion"
+        },
+        {
+          "gloss": "保存",
+          "lemma": "preservation",
+          "surface": "preservation"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "塑料的",
+          "lemma": "plastic",
+          "surface": "plastic"
+        },
+        {
+          "gloss": "制品",
+          "lemma": "artifact",
+          "surface": "artifacts"
+        }
+      ]
+    },
+    {
+      "cn_text": "将激发未来的科学研究。",
+      "en_text": "will inspire future scientific research.",
+      "id": 2022013061,
+      "order_seq": "question_2022011025_A",
+      "task_id": 202201002,
+      "tokens": [
+        {
+          "gloss": "将",
+          "lemma": "will",
+          "surface": "will"
+        },
+        {
+          "gloss": "激发",
+          "lemma": "inspire",
+          "surface": "inspire"
+        },
+        {
+          "gloss": "未来的",
+          "lemma": "future",
+          "surface": "future"
+        },
+        {
+          "gloss": "科学的",
+          "lemma": "scientific",
+          "surface": "scientific"
+        },
+        {
+          "gloss": "研究",
+          "lemma": "research",
+          "surface": "research"
+        }
+      ]
+    },
+    {
+      "cn_text": "具有深远的历史意义。",
+      "en_text": "has profound historical significance.",
+      "id": 2022013062,
+      "order_seq": "question_2022011025_B",
+      "task_id": 202201002,
+      "tokens": [
+        {
+          "gloss": "具有",
+          "lemma": "have",
+          "surface": "has"
+        },
+        {
+          "gloss": "深远的",
+          "lemma": "profound",
+          "surface": "profound"
+        },
+        {
+          "gloss": "历史的",
+          "lemma": "historical",
+          "surface": "historical"
+        },
+        {
+          "gloss": "意义",
+          "lemma": "significance",
+          "surface": "significance"
+        }
+      ]
+    },
+    {
+      "cn_text": "将帮助我们划分不同的材料时代。",
+      "en_text": "will help us separate the material ages.",
+      "id": 2022013063,
+      "order_seq": "question_2022011025_C",
+      "task_id": 202201002,
+      "tokens": [
+        {
+          "gloss": "将",
+          "lemma": "will",
+          "surface": "will"
+        },
+        {
+          "gloss": "帮助",
+          "lemma": "help",
+          "surface": "help"
+        },
+        {
+          "gloss": "我们",
+          "lemma": "we",
+          "surface": "us"
+        },
+        {
+          "gloss": "区分",
+          "lemma": "separate",
+          "surface": "separate"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "材料的",
+          "lemma": "material",
+          "surface": "material"
+        },
+        {
+          "gloss": "时代",
+          "lemma": "age",
+          "surface": "ages"
+        }
+      ]
+    },
+    {
+      "cn_text": "对当今文化生活产生影响。",
+      "en_text": "has an impact on today’s cultural life.",
+      "id": 2022013064,
+      "order_seq": "question_2022011025_D",
+      "task_id": 202201002,
+      "tokens": [
+        {
+          "gloss": "有",
+          "lemma": "have",
+          "surface": "has"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "an",
+          "surface": "an"
+        },
+        {
+          "gloss": "影响",
+          "lemma": "impact",
+          "surface": "impact"
+        },
+        {
+          "gloss": "对",
+          "lemma": "on",
+          "surface": "on"
+        },
+        {
+          "gloss": "今天的",
+          "lemma": "today",
+          "surface": "today’s"
+        },
+        {
+          "gloss": "文化的",
+          "lemma": "cultural",
+          "surface": "cultural"
+        },
+        {
+          "gloss": "生活",
+          "lemma": "life",
+          "surface": "life"
+        }
+      ]
+    }
+  ],
+  "success": true
+}

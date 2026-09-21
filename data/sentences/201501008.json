@@ -1,0 +1,670 @@
+{
+  "sentences": [
+    {
+      "cn_text": "亲爱的俱乐部成员们：",
+      "en_text": "Dear club members,",
+      "id": 2026024760,
+      "order_seq": "content_1_1",
+      "task_id": 201501008,
+      "tokens": [
+        {
+          "gloss": "亲爱的",
+          "lemma": "dear",
+          "surface": "Dear"
+        },
+        {
+          "gloss": "俱乐部",
+          "lemma": "club",
+          "surface": "club"
+        },
+        {
+          "gloss": "成员",
+          "lemma": "member",
+          "surface": "members"
+        }
+      ]
+    },
+    {
+      "cn_text": "我写信推荐《小王子》作为我们即将举行的阅读会书目。",
+      "en_text": "I am writing to recommend *The Little Prince* for our upcoming reading session.",
+      "id": 2026024761,
+      "order_seq": "content_2_1",
+      "task_id": 201501008,
+      "tokens": [
+        {
+          "gloss": "我",
+          "lemma": "i",
+          "surface": "I"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "am"
+        },
+        {
+          "gloss": "写",
+          "lemma": "write",
+          "surface": "writing"
+        },
+        {
+          "gloss": "为了",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "推荐",
+          "lemma": "recommend",
+          "surface": "recommend"
+        },
+        {
+          "gloss": "这本",
+          "lemma": "the",
+          "surface": "The"
+        },
+        {
+          "gloss": "小",
+          "lemma": "little",
+          "surface": "Little"
+        },
+        {
+          "gloss": "王子",
+          "lemma": "prince",
+          "surface": "Prince"
+        },
+        {
+          "gloss": "作为",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "我们的",
+          "lemma": "our",
+          "surface": "our"
+        },
+        {
+          "gloss": "即将到来的",
+          "lemma": "upcoming",
+          "surface": "upcoming"
+        },
+        {
+          "gloss": "阅读",
+          "lemma": "read",
+          "surface": "reading"
+        },
+        {
+          "gloss": "会",
+          "lemma": "session",
+          "surface": "session"
+        }
+      ]
+    },
+    {
+      "cn_text": "这部由安托万·德·圣埃克苏佩里创作的永恒经典，以简洁的童话语言传达了关于爱、友谊和个人成长的深刻真理。",
+      "en_text": "This timeless classic, written by Antoine de Saint-Exupéry, uses simple fairy-tale language to convey profound truths about love, friendship, and personal growth.",
+      "id": 2026024762,
+      "order_seq": "content_2_2",
+      "task_id": 201501008,
+      "tokens": [
+        {
+          "gloss": "这",
+          "lemma": "this",
+          "surface": "This"
+        },
+        {
+          "gloss": "永恒的",
+          "lemma": "timeless",
+          "surface": "timeless"
+        },
+        {
+          "gloss": "经典",
+          "lemma": "classic",
+          "surface": "classic"
+        },
+        {
+          "gloss": "写的",
+          "lemma": "write",
+          "surface": "written"
+        },
+        {
+          "gloss": "由",
+          "lemma": "by",
+          "surface": "by"
+        },
+        {
+          "gloss": "安托万",
+          "lemma": "antoine",
+          "surface": "Antoine"
+        },
+        {
+          "gloss": "德",
+          "lemma": "de",
+          "surface": "de"
+        },
+        {
+          "gloss": "圣",
+          "lemma": "saint",
+          "surface": "Saint"
+        },
+        {
+          "gloss": "埃克苏",
+          "lemma": "exup",
+          "surface": "Exup"
+        },
+        {
+          "gloss": "里",
+          "lemma": "ry",
+          "surface": "ry"
+        },
+        {
+          "gloss": "使用",
+          "lemma": "use",
+          "surface": "uses"
+        },
+        {
+          "gloss": "简单的",
+          "lemma": "simple",
+          "surface": "simple"
+        },
+        {
+          "gloss": "童话的",
+          "lemma": "fairy",
+          "surface": "fairy"
+        },
+        {
+          "gloss": "故事",
+          "lemma": "tale",
+          "surface": "tale"
+        },
+        {
+          "gloss": "语言",
+          "lemma": "language",
+          "surface": "language"
+        },
+        {
+          "gloss": "为了",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "传达",
+          "lemma": "convey",
+          "surface": "convey"
+        },
+        {
+          "gloss": "深刻的",
+          "lemma": "profound",
+          "surface": "profound"
+        },
+        {
+          "gloss": "真理",
+          "lemma": "truth",
+          "surface": "truths"
+        },
+        {
+          "gloss": "关于",
+          "lemma": "about",
+          "surface": "about"
+        },
+        {
+          "gloss": "爱",
+          "lemma": "love",
+          "surface": "love"
+        },
+        {
+          "gloss": "友谊",
+          "lemma": "friendship",
+          "surface": "friendship"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "个人的",
+          "lemma": "personal",
+          "surface": "personal"
+        },
+        {
+          "gloss": "成长",
+          "lemma": "growth",
+          "surface": "growth"
+        }
+      ]
+    },
+    {
+      "cn_text": "其诗意的叙事和哲学思考使其成为适合各年龄段读者的佳作。",
+      "en_text": "Its poetic storytelling and philosophical reflections make it a meaningful read for people of all ages.",
+      "id": 2026024763,
+      "order_seq": "content_2_3",
+      "task_id": 201501008,
+      "tokens": [
+        {
+          "gloss": "它的",
+          "lemma": "its",
+          "surface": "Its"
+        },
+        {
+          "gloss": "诗意的",
+          "lemma": "poetic",
+          "surface": "poetic"
+        },
+        {
+          "gloss": "叙述",
+          "lemma": "storytelling",
+          "surface": "storytelling"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "哲学的",
+          "lemma": "philosophical",
+          "surface": "philosophical"
+        },
+        {
+          "gloss": "思考",
+          "lemma": "reflection",
+          "surface": "reflections"
+        },
+        {
+          "gloss": "使",
+          "lemma": "make",
+          "surface": "make"
+        },
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "it"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "有意义的",
+          "lemma": "meaningful",
+          "surface": "meaningful"
+        },
+        {
+          "gloss": "书籍",
+          "lemma": "read",
+          "surface": "read"
+        },
+        {
+          "gloss": "适合",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "人群",
+          "lemma": "people",
+          "surface": "people"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "所有",
+          "lemma": "all",
+          "surface": "all"
+        },
+        {
+          "gloss": "年龄",
+          "lemma": "age",
+          "surface": "ages"
+        }
+      ]
+    },
+    {
+      "cn_text": "该书短小的章节设置非常适合小组分享，便于我们深入讨论其主题。",
+      "en_text": "The book’s short chapters are perfect for group sharing, allowing us to discuss its themes in depth.",
+      "id": 2026024764,
+      "order_seq": "content_3_1",
+      "task_id": 201501008,
+      "tokens": [
+        {
+          "gloss": "这本",
+          "lemma": "the",
+          "surface": "The"
+        },
+        {
+          "gloss": "书的",
+          "lemma": "book",
+          "surface": "book’s"
+        },
+        {
+          "gloss": "短的",
+          "lemma": "short",
+          "surface": "short"
+        },
+        {
+          "gloss": "章节",
+          "lemma": "chapter",
+          "surface": "chapters"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "are"
+        },
+        {
+          "gloss": "非常适合",
+          "lemma": "perfect",
+          "surface": "perfect"
+        },
+        {
+          "gloss": "适合",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "小组",
+          "lemma": "group",
+          "surface": "group"
+        },
+        {
+          "gloss": "分享",
+          "lemma": "share",
+          "surface": "sharing"
+        },
+        {
+          "gloss": "让",
+          "lemma": "allow",
+          "surface": "allowing"
+        },
+        {
+          "gloss": "我们",
+          "lemma": "we",
+          "surface": "us"
+        },
+        {
+          "gloss": "能够",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "讨论",
+          "lemma": "discuss",
+          "surface": "discuss"
+        },
+        {
+          "gloss": "它的",
+          "lemma": "its",
+          "surface": "its"
+        },
+        {
+          "gloss": "主题",
+          "lemma": "theme",
+          "surface": "themes"
+        },
+        {
+          "gloss": "深入",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "深度",
+          "lemma": "depth",
+          "surface": "depth"
+        }
+      ]
+    },
+    {
+      "cn_text": "此外，该书有多种译本且广泛发行，便于所有成员获取。",
+      "en_text": "Moreover, it is widely available in various translated versions, making it accessible to everyone.",
+      "id": 2026024765,
+      "order_seq": "content_3_2",
+      "task_id": 201501008,
+      "tokens": [
+        {
+          "gloss": "此外",
+          "lemma": "moreover",
+          "surface": "Moreover"
+        },
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "it"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "广泛",
+          "lemma": "widely",
+          "surface": "widely"
+        },
+        {
+          "gloss": "可得的",
+          "lemma": "available",
+          "surface": "available"
+        },
+        {
+          "gloss": "有",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "多种",
+          "lemma": "various",
+          "surface": "various"
+        },
+        {
+          "gloss": "译本",
+          "lemma": "translate",
+          "surface": "translated"
+        },
+        {
+          "gloss": "版本",
+          "lemma": "version",
+          "surface": "versions"
+        },
+        {
+          "gloss": "使",
+          "lemma": "make",
+          "surface": "making"
+        },
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "it"
+        },
+        {
+          "gloss": "适合",
+          "lemma": "accessible",
+          "surface": "accessible"
+        },
+        {
+          "gloss": "对",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "所有人",
+          "lemma": "everyone",
+          "surface": "everyone"
+        }
+      ]
+    },
+    {
+      "cn_text": "我相信它会激发深入的讨论，并增进我们的团队凝聚力。",
+      "en_text": "I believe it will inspire thoughtful discussions and bring us closer as a group.",
+      "id": 2026024766,
+      "order_seq": "content_3_3",
+      "task_id": 201501008,
+      "tokens": [
+        {
+          "gloss": "我",
+          "lemma": "i",
+          "surface": "I"
+        },
+        {
+          "gloss": "相信",
+          "lemma": "believe",
+          "surface": "believe"
+        },
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "it"
+        },
+        {
+          "gloss": "会",
+          "lemma": "will",
+          "surface": "will"
+        },
+        {
+          "gloss": "激发",
+          "lemma": "inspire",
+          "surface": "inspire"
+        },
+        {
+          "gloss": "深刻的",
+          "lemma": "thoughtful",
+          "surface": "thoughtful"
+        },
+        {
+          "gloss": "讨论",
+          "lemma": "discussion",
+          "surface": "discussions"
+        },
+        {
+          "gloss": "并",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "使",
+          "lemma": "bring",
+          "surface": "bring"
+        },
+        {
+          "gloss": "我们",
+          "lemma": "we",
+          "surface": "us"
+        },
+        {
+          "gloss": "更加紧密",
+          "lemma": "close",
+          "surface": "closer"
+        },
+        {
+          "gloss": "作为",
+          "lemma": "as",
+          "surface": "as"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "团队",
+          "lemma": "group",
+          "surface": "group"
+        }
+      ]
+    },
+    {
+      "cn_text": "期待在阅读会上听到各位的见解。",
+      "en_text": "Looking forward to hearing your thoughts during the session.",
+      "id": 2026024767,
+      "order_seq": "content_4_1",
+      "task_id": 201501008,
+      "tokens": [
+        {
+          "gloss": "期待",
+          "lemma": "look",
+          "surface": "Looking"
+        },
+        {
+          "gloss": "向前",
+          "lemma": "forward",
+          "surface": "forward"
+        },
+        {
+          "gloss": "到",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "听到",
+          "lemma": "hear",
+          "surface": "hearing"
+        },
+        {
+          "gloss": "你们的",
+          "lemma": "your",
+          "surface": "your"
+        },
+        {
+          "gloss": "想法",
+          "lemma": "thought",
+          "surface": "thoughts"
+        },
+        {
+          "gloss": "在...期间",
+          "lemma": "during",
+          "surface": "during"
+        },
+        {
+          "gloss": "这次",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "阅读会",
+          "lemma": "session",
+          "surface": "session"
+        }
+      ]
+    },
+    {
+      "cn_text": "此致敬礼，",
+      "en_text": "Yours sincerely,",
+      "id": 2026024768,
+      "order_seq": "content_5_1",
+      "task_id": 201501008,
+      "tokens": [
+        {
+          "gloss": "您的",
+          "lemma": "yours",
+          "surface": "Yours"
+        },
+        {
+          "gloss": "真诚地",
+          "lemma": "sincerely",
+          "surface": "sincerely"
+        }
+      ]
+    },
+    {
+      "cn_text": "李明",
+      "en_text": "Li Ming",
+      "id": 2026024769,
+      "order_seq": "content_6_1",
+      "task_id": 201501008,
+      "tokens": [
+        {
+          "gloss": "李",
+          "lemma": "li",
+          "surface": "Li"
+        },
+        {
+          "gloss": "明",
+          "lemma": "ming",
+          "surface": "Ming"
+        }
+      ]
+    }
+  ],
+  "success": true
+}

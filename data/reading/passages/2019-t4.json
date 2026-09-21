@@ -1,0 +1,733 @@
+{
+  "exam": "en1",
+  "key": "2019-t4",
+  "year": 2019,
+  "text_no": 4,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2019-text4-s1",
+      "s": "States will be able to force more people to pay sales tax when they make online purchases under a Supreme Court decision Thursday that will leave shoppers with lighter wallets but is a big financial win for states.",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "States",
+        "谓语": "will be able to force",
+        "宾语或表语": "more people",
+        "主干翻译": "各州将能够迫使更多的人（缴纳销售税）。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to force more people to pay sales tax when they make online purchases",
+          "修饰对象": "able",
+          "中文翻译": "迫使更多的人在进行网上购物时缴纳销售税",
+          "说明": "动词不定式作 able 的补足成分，构成 be able to do 结构。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to pay sales tax",
+          "修饰对象": "force",
+          "中文翻译": "缴纳销售税",
+          "说明": "动词不定式作 force 的宾语补足语，构成 force sb. to do 结构。"
+        },
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "when they make online purchases",
+          "修饰对象": "pay",
+          "中文翻译": "当他们进行网上购物时",
+          "说明": "when 引导时间状语从句，修饰 pay。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "under a Supreme Court decision Thursday",
+          "修饰对象": "force",
+          "中文翻译": "依据最高法院周四作出的一项裁决",
+          "说明": "under 引导的介词短语作条件/依据状语。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that will leave shoppers with lighter wallets but is a big financial win for states",
+          "修饰对象": "decision",
+          "中文翻译": "这项裁决会让购物者的钱包更瘪，但对各州而言却是一大财政利好",
+          "说明": "that 引导定语从句，修饰先行词 decision。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "is a big financial win for states",
+          "修饰对象": "leave",
+          "中文翻译": "（这项裁决）对各州而言是一大财政利好",
+          "说明": "由 but 连接，与 will leave 在定语从句内并列，主语同为 that(decision)。"
+        }
+      ],
+      "zh": "依据最高法院周四作出的一项裁决，各州将能够迫使更多的人在网上购物时缴纳销售税；这项裁决会让购物者的钱包更瘪，但对各州而言却是一大财政利好。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2019-text4-s2",
+      "s": "The Supreme Court's opinion Thursday overruled a pair of decades-old decisions that states said cost them billions of dollars in lost revenue annually.",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The Supreme Court's opinion",
+        "谓语": "overruled",
+        "宾语或表语": "a pair of decades-old decisions",
+        "主干翻译": "最高法院的意见推翻了两项有数十年历史的裁决。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "that states said cost them billions of dollars in lost revenue annually",
+          "修饰对象": "pair",
+          "中文翻译": "各州称这两项裁决每年使它们损失数十亿美元的收入",
+          "说明": "that 为定语从句关系词，作内嵌 cost 的逻辑主语，修饰 a pair of decisions。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "cost them billions of dollars in lost revenue annually",
+          "修饰对象": "said",
+          "中文翻译": "（这两项裁决）每年使它们损失数十亿美元的收入",
+          "说明": "states said 后的宾语从句（省略 that），嵌套于定语从句之中。"
+        }
+      ],
+      "zh": "最高法院周四的意见推翻了两项有数十年历史的裁决，各州称这两项裁决每年令其损失数十亿美元的税收。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2019-text4-s3",
+      "s": "The decisions made it more difficult for states to collect sales tax on certain online purchases.",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "The decisions",
+        "谓语": "made",
+        "宾语或表语": "it more difficult",
+        "主干翻译": "这些裁决使……更加困难。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "for states to collect sales tax on certain online purchases",
+          "修饰对象": "difficult",
+          "中文翻译": "让各州对某些网上购物征收销售税",
+          "说明": "it 为形式宾语，真正宾语为 for states to collect... 的不定式复合结构，对应形容词 difficult。"
+        }
+      ],
+      "zh": "这些裁决使各州更难对某些网上购物征收销售税。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2019-text4-s4",
+      "s": "The cases the court overturned said that if a business was shipping a customer's purchase to a state where the business didn't have a physical presence such as a warehouse or office, the business didn't have to collect sales tax for the state.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The cases",
+        "谓语": "said",
+        "宾语或表语": "that...the business didn't have to collect sales tax",
+        "主干翻译": "这些案件裁定……该企业无须为该州代收销售税。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "the court overturned",
+          "修饰对象": "cases",
+          "中文翻译": "法院推翻的（这些案件）",
+          "说明": "省略关系代词 that/which 的定语从句，修饰 cases。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that if a business was shipping a customer's purchase to a state where the business didn't have a physical presence such as a warehouse or office, the business didn't have to collect sales tax for the state",
+          "修饰对象": "said",
+          "中文翻译": "如果企业将顾客所购商品运往一个其没有实体存在（如仓库或办事处）的州，则该企业无须为该州征收销售税",
+          "说明": "that 引导 said 的宾语从句，从句内含一个条件状语从句。"
+        },
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "if a business was shipping a customer's purchase to a state where the business didn't have a physical presence such as a warehouse or office",
+          "修饰对象": "have",
+          "中文翻译": "如果企业将顾客所购商品运往一个其没有实体存在（如仓库或办事处）的州",
+          "说明": "if 引导条件状语从句，修饰主句谓语 didn't have to collect。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "where the business didn't have a physical presence such as a warehouse or office",
+          "修饰对象": "state",
+          "中文翻译": "在那里企业没有实体存在（如仓库或办事处）",
+          "说明": "where 引导地点定语从句，修饰 a state。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to collect sales tax for the state",
+          "修饰对象": "have",
+          "中文翻译": "为该州征收销售税",
+          "说明": "不定式作 have to 的补足成分，构成 have to do 结构。"
+        }
+      ],
+      "zh": "法院推翻的那些案件裁定：如果企业将顾客所购商品运往一个其没有实体存在（如仓库或办事处）的州，那么该企业就无须为该州征收销售税。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2019-text4-s5",
+      "s": "Customers were generally responsible for paying the sales tax to the state themselves if they weren't charged it, but most didn't realize they owed it and few paid.",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Customers",
+        "谓语": "were",
+        "宾语或表语": "responsible for paying the sales tax",
+        "主干翻译": "顾客有责任缴纳销售税。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "if they weren't charged it",
+          "修饰对象": "were",
+          "中文翻译": "如果没有向他们收取这笔税款",
+          "说明": "if 引导条件状语从句，修饰前一分句谓语 were responsible。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "most didn't realize they owed it and few paid",
+          "修饰对象": "—",
+          "中文翻译": "大多数人没有意识到自己欠这笔税，而且很少有人缴纳",
+          "说明": "由 but 引出的并列分句，与前一分句并列，内部又由 and 连接两个分句。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "they owed it",
+          "修饰对象": "realize",
+          "中文翻译": "他们欠这笔税",
+          "说明": "省略 that 的宾语从句，作 realize 的宾语。"
+        }
+      ],
+      "zh": "如果没有向顾客收取这笔税款，他们一般有责任自行向州政府缴纳销售税；但大多数人并未意识到自己欠税，而且很少有人真正缴纳。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2019-text4-s6",
+      "s": "Justice Anthony Kennedy wrote that the previous decisions were flawed.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Justice Anthony Kennedy",
+        "谓语": "wrote",
+        "宾语或表语": "that the previous decisions were flawed",
+        "主干翻译": "大法官安东尼·肯尼迪写道，先前的裁决存在缺陷。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "that the previous decisions were flawed",
+          "修饰对象": "wrote",
+          "中文翻译": "先前的裁决存在缺陷",
+          "说明": "that 引导 wrote 的宾语从句。"
+        }
+      ],
+      "zh": "大法官安东尼·肯尼迪写道，先前的裁决存在缺陷。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2019-text4-s7",
+      "s": "\"Each year the physical presence rule becomes further removed from economic reality and results in significant revenue losses to the States,\" he wrote in an opinion joined by four other justices.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "he",
+        "谓语": "wrote",
+        "宾语或表语": "\"Each year...losses to the States\"",
+        "主干翻译": "他写道：“……”"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "Each year the physical presence rule becomes further removed from economic reality and results in significant revenue losses to the States",
+          "修饰对象": "wrote",
+          "中文翻译": "实体存在规则每年都进一步脱离经济现实，并导致各州大量的税收损失",
+          "说明": "直接引语作 wrote 的宾语，相当于宾语从句。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "results in significant revenue losses to the States",
+          "修饰对象": "becomes",
+          "中文翻译": "（实体存在规则）导致各州大量的税收损失",
+          "说明": "由 and 连接，与 becomes 并列，主语同为 the physical presence rule。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "joined by four other justices",
+          "修饰对象": "opinion",
+          "中文翻译": "由另外四名大法官联署的（意见）",
+          "说明": "过去分词短语作后置定语，修饰 an opinion。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "in an opinion joined by four other justices",
+          "修饰对象": "wrote",
+          "中文翻译": "在一份由另外四名大法官联署的意见中",
+          "说明": "in 引导的介词短语作 wrote 的地点/方式状语。"
+        }
+      ],
+      "zh": "他在一份由另外四名大法官联署的意见书中写道：“实体存在规则每年都进一步脱离经济现实，并给各州造成大量的税收损失。”",
+      "underline": null
+    },
+    {
+      "sid": "en1-2019-text4-s8",
+      "s": "Kennedy wrote that the rule \"limited states' ability to seek long-term prosperity and has prevented market participants from competing on an even playing field.\"",
+      "para_no": 4,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Kennedy",
+        "谓语": "wrote",
+        "宾语或表语": "that the rule \"limited...even playing field\"",
+        "主干翻译": "肯尼迪写道，这一规则……"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "that the rule \"limited states' ability to seek long-term prosperity and has prevented market participants from competing on an even playing field",
+          "修饰对象": "wrote",
+          "中文翻译": "这一规则“限制了各州寻求长期繁荣的能力，并阻止了市场参与者在公平的竞争环境中竞争”",
+          "说明": "that 引导 wrote 的宾语从句。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to seek long-term prosperity",
+          "修饰对象": "ability",
+          "中文翻译": "寻求长期繁荣的（能力）",
+          "说明": "不定式作后置定语，修饰 ability。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "has prevented market participants from competing on an even playing field",
+          "修饰对象": "limited",
+          "中文翻译": "（这一规则）阻止了市场参与者在公平的竞争环境中竞争",
+          "说明": "由 and 连接，与 limited 在宾语从句内并列，主语同为 the rule。"
+        }
+      ],
+      "zh": "肯尼迪写道，这一规则“限制了各州寻求长期繁荣的能力，并阻碍了市场参与者在公平的竞争环境中开展竞争”。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2019-text4-s9",
+      "s": "The ruling is a victory for big chains with a presence in many states, since they usually collect sales tax on online purchases already.",
+      "para_no": 5,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The ruling",
+        "谓语": "is",
+        "宾语或表语": "a victory",
+        "主干翻译": "这项裁决是一种胜利。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "for big chains with a presence in many states",
+          "修饰对象": "victory",
+          "中文翻译": "对在许多州都有业务的大型连锁企业而言（的胜利）",
+          "说明": "for... 介词短语修饰 victory，其中 with a presence in many states 又作 chains 的后置定语。"
+        },
+        {
+          "成分类型": "状语从句(原因)",
+          "原文": "since they usually collect sales tax on online purchases already",
+          "修饰对象": "is",
+          "中文翻译": "因为它们通常本来就已经对网上购物征收销售税了",
+          "说明": "since 引导原因状语从句，修饰主句谓语 is。"
+        }
+      ],
+      "zh": "这项裁决对在许多州都设有业务的大型连锁企业来说是一场胜利，因为它们通常本来就已经对网上购物征收销售税了。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2019-text4-s10",
+      "s": "Now, rivals will be charging sales tax where they hadn't before.",
+      "para_no": 5,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "rivals",
+        "谓语": "will be charging",
+        "宾语或表语": "sales tax",
+        "主干翻译": "竞争对手将开始征收销售税。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "where they hadn't before",
+          "修饰对象": "charging",
+          "中文翻译": "在他们以前不曾征税的地方",
+          "说明": "where 引导地点状语性质的从句，修饰 will be charging（含省略，相当于 in places where they hadn't charged before）。"
+        }
+      ],
+      "zh": "如今，竞争对手将在以前不曾征税的地方开始征收销售税。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2019-text4-s11",
+      "s": "Big chains have been collecting sales tax nationwide because they typically have physical stores in whatever state a purchase is being shipped to.",
+      "para_no": 5,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Big chains",
+        "谓语": "have been collecting",
+        "宾语或表语": "sales tax",
+        "主干翻译": "大型连锁企业一直在征收销售税。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(原因)",
+          "原文": "because they typically have physical stores in whatever state a purchase is being shipped to",
+          "修饰对象": "collecting",
+          "中文翻译": "因为无论商品被运往哪个州，它们通常都在该州设有实体店",
+          "说明": "because 引导原因状语从句，修饰 have been collecting；其中 whatever state... 引导让步性名词从句作 in 的宾语。"
+        }
+      ],
+      "zh": "大型连锁企业一直在全国范围内征收销售税，因为无论商品被运往哪个州，它们通常都在该州设有实体店。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2019-text4-s12",
+      "s": "Amazon.com, with its network of warehouses, also collects sales tax in every state that charges it, though third-party sellers who use the site don't have to.",
+      "para_no": 5,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "Amazon.com",
+        "谓语": "collects",
+        "宾语或表语": "sales tax",
+        "主干翻译": "亚马逊征收销售税。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "with its network of warehouses",
+          "修饰对象": "Amazon.com",
+          "中文翻译": "凭借其仓库网络",
+          "说明": "with 引导的介词短语作插入语，补充说明 Amazon.com。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that charges it",
+          "修饰对象": "state",
+          "中文翻译": "征收销售税的（每一个州）",
+          "说明": "that 引导定语从句，修饰 every state。"
+        },
+        {
+          "成分类型": "状语从句(让步)",
+          "原文": "though third-party sellers who use the site don't have to",
+          "修饰对象": "collects",
+          "中文翻译": "尽管使用该网站的第三方卖家无须这样做",
+          "说明": "though 引导让步状语从句，修饰主句谓语 collects。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "who use the site",
+          "修饰对象": "sellers",
+          "中文翻译": "使用该网站的（第三方卖家）",
+          "说明": "who 引导定语从句，修饰 third-party sellers。"
+        },
+        {
+          "成分类型": "省略",
+          "原文": "don't have to",
+          "修饰对象": "sellers",
+          "中文翻译": "无须（征收销售税）",
+          "说明": "have to 后省略动词 collect sales tax，为承前省略。"
+        }
+      ],
+      "zh": "亚马逊凭借其仓库网络，也在每一个征收销售税的州征税，尽管使用该网站的第三方卖家无须这样做。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2019-text4-s13",
+      "s": "Until now, many sellers that have a physical presence in only a single state or a few states have been able to avoid charging sales taxes when they ship to addresses outside those states.",
+      "para_no": 6,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "many sellers",
+        "谓语": "have been able to avoid",
+        "宾语或表语": "charging sales taxes",
+        "主干翻译": "许多卖家一直能够避免征收销售税。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "that have a physical presence in only a single state or a few states",
+          "修饰对象": "sellers",
+          "中文翻译": "仅在单个州或少数几个州拥有实体存在的（许多卖家）",
+          "说明": "that 引导定语从句，修饰 many sellers。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "a few states",
+          "修饰对象": "state",
+          "中文翻译": "少数几个州",
+          "说明": "由 or 连接，与 a single state 并列作 in 的宾语。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to avoid charging sales taxes when they ship to addresses outside those states",
+          "修饰对象": "able",
+          "中文翻译": "当向那些州以外的地址发货时避免征收销售税",
+          "说明": "不定式作 able 的补足成分，构成 be able to do 结构。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "charging sales taxes",
+          "修饰对象": "avoid",
+          "中文翻译": "征收销售税",
+          "说明": "动名词作 avoid 的宾语。"
+        },
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "when they ship to addresses outside those states",
+          "修饰对象": "avoid",
+          "中文翻译": "当他们向那些州以外的地址发货时",
+          "说明": "when 引导时间状语从句，修饰 avoid。"
+        }
+      ],
+      "zh": "迄今为止，许多仅在单个州或少数几个州设有实体存在的卖家，在向那些州以外的地址发货时，一直能够避免征收销售税。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2019-text4-s14",
+      "s": "Sellers that use eBay and Etsy, which provide platforms for smaller sellers, also haven't been collecting sales tax nationwide.",
+      "para_no": 6,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Sellers",
+        "谓语": "haven't been collecting",
+        "宾语或表语": "sales tax",
+        "主干翻译": "卖家一直没有征收销售税。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "that use eBay and Etsy, which provide platforms for smaller sellers,",
+          "修饰对象": "Sellers",
+          "中文翻译": "使用 eBay 和 Etsy（这两个为小卖家提供平台的网站）的（卖家）",
+          "说明": "that 引导限制性定语从句，修饰 Sellers。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "which provide platforms for smaller sellers",
+          "修饰对象": "eBay",
+          "中文翻译": "它们为规模较小的卖家提供平台",
+          "说明": "which 引导非限制性定语从句，修饰 eBay and Etsy。"
+        }
+      ],
+      "zh": "使用 eBay 和 Etsy（这两个为规模较小的卖家提供平台的网站）的卖家，也一直没有在全国范围内征收销售税。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2019-text4-s15",
+      "s": "Under the ruling Thursday, states can pass laws requiring out-of-state sellers to collect the state's sales tax from customers and send it to the state.",
+      "para_no": 6,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "states",
+        "谓语": "can pass",
+        "宾语或表语": "laws",
+        "主干翻译": "各州可以通过法律。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "requiring out-of-state sellers to collect the state's sales tax from customers and send it to the state",
+          "修饰对象": "laws",
+          "中文翻译": "要求州外卖家向顾客征收本州销售税并将其上缴本州的（法律）",
+          "说明": "现在分词短语作后置定语，修饰 laws。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to collect the state's sales tax from customers and send it to the state",
+          "修饰对象": "requiring",
+          "中文翻译": "向顾客征收本州销售税并将其上缴本州",
+          "说明": "不定式作 require sb. to do 结构的宾语补足语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "send it to the state",
+          "修饰对象": "collect",
+          "中文翻译": "将其上缴本州",
+          "说明": "由 and 连接，与 collect 并列，同作 to 后的不定式。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "Under the ruling Thursday",
+          "修饰对象": "pass",
+          "中文翻译": "根据周四的这项裁决",
+          "说明": "Under 引导的介词短语作条件/依据状语。"
+        }
+      ],
+      "zh": "根据周四的这项裁决，各州可以通过法律，要求州外卖家向顾客征收本州的销售税并将其上缴本州。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2019-text4-s16",
+      "s": "Retail trade groups praised the ruling, saying it levels the playing field for local and online businesses.",
+      "para_no": 7,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Retail trade groups",
+        "谓语": "praised",
+        "宾语或表语": "the ruling",
+        "主干翻译": "零售业行业团体称赞了这项裁决。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "saying it levels the playing field for local and online businesses",
+          "修饰对象": "praised",
+          "中文翻译": "称这项裁决为本地企业和网络企业创造了公平的竞争环境",
+          "说明": "现在分词短语作伴随状语，修饰 praised。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "it levels the playing field for local and online businesses",
+          "修饰对象": "saying",
+          "中文翻译": "它为本地企业和网络企业创造了公平的竞争环境",
+          "说明": "省略 that 的宾语从句，作 saying 的宾语。"
+        }
+      ],
+      "zh": "零售业行业团体称赞了这项裁决，称它为本地企业和网络企业创造了公平的竞争环境。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2019-text4-s17",
+      "s": "The losers, said retail analyst Neil Saunders, are online-only retailers, especially smaller ones.",
+      "para_no": 7,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "The losers",
+        "谓语": "are",
+        "宾语或表语": "online-only retailers",
+        "主干翻译": "失利者是纯网络零售商。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "said retail analyst Neil Saunders",
+          "修饰对象": "—",
+          "中文翻译": "零售业分析师尼尔·桑德斯说",
+          "说明": "插入语，为主谓倒装的引述，插在主句之中。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "especially smaller ones",
+          "修饰对象": "retailers",
+          "中文翻译": "尤其是规模较小的零售商",
+          "说明": "同位/补充成分，进一步说明 online-only retailers。"
+        }
+      ],
+      "zh": "零售业分析师尼尔·桑德斯说，失利者是纯网络零售商，尤其是其中规模较小的那些。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2019-text4-s18",
+      "s": "Those retailers may face headaches complying with various state sales tax laws.",
+      "para_no": 7,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Those retailers",
+        "谓语": "may face",
+        "宾语或表语": "headaches",
+        "主干翻译": "那些零售商可能会面临麻烦。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "complying with various state sales tax laws",
+          "修饰对象": "headaches",
+          "中文翻译": "遵守各州五花八门的销售税法（带来的麻烦）",
+          "说明": "现在分词短语作后置定语，修饰 headaches。"
+        }
+      ],
+      "zh": "那些零售商在遵守各州五花八门的销售税法时可能会面临种种麻烦。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2019-text4-s19",
+      "s": "The Small Business & Entrepreneurship Council advocacy group said in a statement, \"Small businesses and internet entrepreneurs are not well served at all by this decision.\"",
+      "para_no": 7,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "The Small Business & Entrepreneurship Council advocacy group",
+        "谓语": "said",
+        "宾语或表语": "\"Small businesses...by this decision\"",
+        "主干翻译": "小企业与创业委员会倡导团体说……"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "Small businesses and internet entrepreneurs are not well served at all by this decision",
+          "修饰对象": "said",
+          "中文翻译": "小企业和互联网创业者根本没有从这项裁决中得到良好的服务（即根本未受益）",
+          "说明": "直接引语作 said 的宾语，相当于宾语从句。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "in a statement",
+          "修饰对象": "said",
+          "中文翻译": "在一份声明中",
+          "说明": "in 引导的介词短语作 said 的状语。"
+        }
+      ],
+      "zh": "小企业与创业委员会这一倡导团体在一份声明中表示：“这项裁决根本没有为小企业和互联网创业者带来任何好处。”",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2019-text4-s1"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2019-text4-s2",
+        "en1-2019-text4-s3"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2019-text4-s4",
+        "en1-2019-text4-s5"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2019-text4-s6",
+        "en1-2019-text4-s7",
+        "en1-2019-text4-s8"
+      ]
+    },
+    {
+      "para_no": 5,
+      "sids": [
+        "en1-2019-text4-s9",
+        "en1-2019-text4-s10",
+        "en1-2019-text4-s11",
+        "en1-2019-text4-s12"
+      ]
+    },
+    {
+      "para_no": 6,
+      "sids": [
+        "en1-2019-text4-s13",
+        "en1-2019-text4-s14",
+        "en1-2019-text4-s15"
+      ]
+    },
+    {
+      "para_no": 7,
+      "sids": [
+        "en1-2019-text4-s16",
+        "en1-2019-text4-s17",
+        "en1-2019-text4-s18",
+        "en1-2019-text4-s19"
+      ]
+    }
+  ]
+}

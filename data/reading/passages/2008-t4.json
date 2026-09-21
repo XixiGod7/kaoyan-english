@@ -1,0 +1,699 @@
+{
+  "exam": "en1",
+  "key": "2008-t4",
+  "year": 2008,
+  "text_no": 4,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2008-text4-s1",
+      "s": "In 1784, five years before he became president of the United States, George Washington, 52, was nearly toothless.",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "George Washington",
+        "谓语": "was",
+        "宾语或表语": "nearly toothless",
+        "主干翻译": "乔治·华盛顿几乎没有牙齿了。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "five years before he became president of the United States",
+          "修饰对象": "was",
+          "中文翻译": "在他成为美国总统的五年前",
+          "说明": "before 引导时间状语从句，five years 为时间量度，修饰谓语 was，交代时间背景。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "52",
+          "修饰对象": "Washington",
+          "中文翻译": "时年52岁",
+          "说明": "插入在主语之后，补充华盛顿的年龄，作同位说明。"
+        }
+      ],
+      "zh": "1784年，即他出任美国总统的五年前，52岁的乔治·华盛顿几乎已经没有牙齿了。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2008-text4-s2",
+      "s": "So he hired a dentist to transplant nine teeth into his jaw—having extracted them from the mouths of his slaves.",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "he",
+        "谓语": "hired",
+        "宾语或表语": "a dentist",
+        "主干翻译": "他雇了一位牙医。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to transplant nine teeth into his jaw",
+          "修饰对象": "hired",
+          "中文翻译": "把九颗牙齿移植到他的颌骨里",
+          "说明": "动词不定式作目的状语，说明雇牙医的目的。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "having extracted them from the mouths of his slaves",
+          "修饰对象": "hired",
+          "中文翻译": "这些牙齿是从他奴隶的口中拔取的",
+          "说明": "完成式现在分词作伴随/时间状语，表示移植前已先从奴隶口中拔出。"
+        }
+      ],
+      "zh": "于是他雇了一位牙医，把九颗牙齿移植进自己的颌骨——这些牙齿是从他奴隶的口中拔下来的。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2008-text4-s3",
+      "s": "That's a far different image from the cherry-tree-chopping George most people remember from their history books.",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "That",
+        "谓语": "is",
+        "宾语或表语": "a far different image",
+        "主干翻译": "那是一个截然不同的形象。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "from the cherry-tree-chopping George",
+          "修饰对象": "image",
+          "中文翻译": "与那个砍樱桃树的乔治相比",
+          "说明": "from 引导的介词短语与 different 搭配，作 image 的修饰，引出比较对象。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "most people remember from their history books",
+          "修饰对象": "George",
+          "中文翻译": "大多数人从历史课本中所记得的",
+          "说明": "省略关系代词 that/whom 的定语从句，修饰先行词 George。"
+        }
+      ],
+      "zh": "这与大多数人从历史课本里记住的那个砍樱桃树的乔治形象大相径庭。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2008-text4-s4",
+      "s": "But recently, many historians have begun to focus on the role slavery played in the lives of the founding generation.",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "many historians",
+        "谓语": "have begun",
+        "宾语或表语": "to focus on the role",
+        "主干翻译": "许多历史学家已经开始关注这一角色。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to focus on the role slavery played in the lives of the founding generation",
+          "修饰对象": "begun",
+          "中文翻译": "开始关注奴隶制在开国一代生活中所扮演的角色",
+          "说明": "不定式作 begin 的宾语，补足谓语，整体说明历史学家开始做的事。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "slavery played in the lives of the founding generation",
+          "修饰对象": "role",
+          "中文翻译": "奴隶制在开国一代生活中所扮演的",
+          "说明": "省略关系代词的定语从句，修饰 role，说明该角色的具体内容。"
+        }
+      ],
+      "zh": "但近来，许多历史学家开始关注奴隶制在开国一代人生活中所扮演的角色。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2008-text4-s5",
+      "s": "They have been spurred in part by DNA evidence made available in 1998, which almost certainly proved Thomas Jefferson had fathered at least one child with his slave Sally Hemings.",
+      "para_no": 2,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "They",
+        "谓语": "have been spurred",
+        "宾语或表语": "by DNA evidence",
+        "主干翻译": "他们部分是被DNA证据所推动的。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "made available in 1998",
+          "修饰对象": "evidence",
+          "中文翻译": "于1998年公开的",
+          "说明": "过去分词短语作后置定语，修饰 evidence。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "which almost certainly proved Thomas Jefferson had fathered at least one child with his slave Sally Hemings",
+          "修饰对象": "evidence",
+          "中文翻译": "这几乎确凿地证明托马斯·杰斐逊与其奴隶萨莉·海明斯至少生有一个孩子",
+          "说明": "which 引导的非限制性定语从句，修饰先行词 evidence。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "Thomas Jefferson had fathered at least one child with his slave Sally Hemings",
+          "修饰对象": "proved",
+          "中文翻译": "托马斯·杰斐逊与其奴隶萨莉·海明斯至少生有一个孩子",
+          "说明": "省略 that 的宾语从句，作 proved 的宾语。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "Sally Hemings",
+          "修饰对象": "slave",
+          "中文翻译": "萨莉·海明斯",
+          "说明": "作 his slave 的同位语，点明该奴隶的名字。"
+        }
+      ],
+      "zh": "他们之所以如此，部分是受到1998年公开的DNA证据的推动——该证据几乎确凿地证明，托马斯·杰斐逊与其奴隶萨莉·海明斯至少育有一个孩子。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2008-text4-s6",
+      "s": "And only over the past 30 years have scholars examined history from the bottom up.",
+      "para_no": 2,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "scholars",
+        "谓语": "have examined",
+        "宾语或表语": "history",
+        "主干翻译": "学者们考察了历史。"
+      },
+      "components": [
+        {
+          "成分类型": "倒装",
+          "原文": "only over the past 30 years have scholars examined",
+          "修饰对象": "—",
+          "中文翻译": "仅在过去30年里学者们才开始考察",
+          "说明": "only + 时间状语置于句首引起部分倒装，助动词 have 提到主语 scholars 之前。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "from the bottom up",
+          "修饰对象": "examined",
+          "中文翻译": "自下而上地",
+          "说明": "介词短语作方式状语，修饰 examined。"
+        }
+      ],
+      "zh": "而且，只是在过去的30年里，学者们才开始自下而上地审视历史。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2008-text4-s7",
+      "s": "Works of several historians reveal the moral compromises made by the nation's early leaders and the fragile nature of the country's infancy.",
+      "para_no": 2,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "Works of several historians",
+        "谓语": "reveal",
+        "宾语或表语": "the moral compromises and the fragile nature",
+        "主干翻译": "几位历史学家的著作揭示了道德上的妥协和脆弱的本质。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "made by the nation's early leaders",
+          "修饰对象": "compromises",
+          "中文翻译": "国家早期领袖们所做出的",
+          "说明": "过去分词短语作后置定语，修饰 compromises。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "the fragile nature of the country's infancy",
+          "修饰对象": "compromises",
+          "中文翻译": "国家初创时期脆弱的本质",
+          "说明": "与 the moral compromises 由 and 并列，同作 reveal 的宾语。"
+        }
+      ],
+      "zh": "几位历史学家的著作揭示了这个国家早期领袖们所做出的道德妥协，以及这个国家初创时期脆弱的本质。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2008-text4-s8",
+      "s": "More significantly, they argue that many of the Founding Fathers knew slavery was wrong—and yet most did little to fight it.",
+      "para_no": 2,
+      "para_seq": 5,
+      "trunk": {
+        "主语": "they",
+        "谓语": "argue",
+        "宾语或表语": "that many of the Founding Fathers knew slavery was wrong",
+        "主干翻译": "他们认为许多开国元勋都知道奴隶制是错误的。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "that many of the Founding Fathers knew slavery was wrong—and yet most did little to fight it",
+          "修饰对象": "argue",
+          "中文翻译": "许多开国元勋都知道奴隶制是错误的，但大多数人却几乎没有为反对它做什么",
+          "说明": "that 引导的宾语从句，作 argue 的宾语。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "slavery was wrong",
+          "修饰对象": "knew",
+          "中文翻译": "奴隶制是错误的",
+          "说明": "省略 that 的宾语从句，作 knew 的宾语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "yet most did little to fight it",
+          "修饰对象": "knew",
+          "中文翻译": "然而大多数人却几乎没有为反对它做什么",
+          "说明": "and yet 连接的并列分句，与 many...knew 形成转折并列。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to fight it",
+          "修饰对象": "little",
+          "中文翻译": "去反对它",
+          "说明": "不定式作 did little 的目的状语，说明几乎没有做什么去反对它。"
+        }
+      ],
+      "zh": "更重要的是，他们认为，许多开国元勋都知道奴隶制是错误的——然而大多数人却几乎没有采取行动去反对它。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2008-text4-s9",
+      "s": "More than anything, the historians say, the founders were hampered by the culture of their time.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "the founders",
+        "谓语": "were hampered",
+        "宾语或表语": "by the culture of their time",
+        "主干翻译": "开国元勋们受到了他们那个时代文化的束缚。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "the historians say",
+          "修饰对象": "—",
+          "中文翻译": "历史学家们说",
+          "说明": "插入语，表明观点的来源。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "More than anything",
+          "修饰对象": "hampered",
+          "中文翻译": "最重要的是",
+          "说明": "介词短语置于句首作程度状语，强调最主要的原因。"
+        }
+      ],
+      "zh": "历史学家们说，最重要的是，开国元勋们受到了他们所处时代文化的制约。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2008-text4-s10",
+      "s": "While Washington and Jefferson privately expressed distaste for slavery, they also understood that it was part of the political and economic bedrock of the country they helped to create.",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "they",
+        "谓语": "understood",
+        "宾语或表语": "that it was part of the political and economic bedrock of the country",
+        "主干翻译": "他们也明白它是国家政治和经济基石的一部分。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(让步)",
+          "原文": "While Washington and Jefferson privately expressed distaste for slavery",
+          "修饰对象": "understood",
+          "中文翻译": "尽管华盛顿和杰斐逊私下表达过对奴隶制的厌恶",
+          "说明": "While 引导让步状语从句，与主句构成转折让步关系。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that it was part of the political and economic bedrock of the country they helped to create",
+          "修饰对象": "understood",
+          "中文翻译": "它是他们帮助创建的这个国家的政治和经济基石的一部分",
+          "说明": "that 引导宾语从句，作 understood 的宾语。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "they helped to create",
+          "修饰对象": "country",
+          "中文翻译": "他们帮助创建的",
+          "说明": "省略关系代词的定语从句，修饰 country。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to create",
+          "修饰对象": "helped",
+          "中文翻译": "去创建",
+          "说明": "不定式作 helped 的宾语补足，构成 help to do 结构。"
+        }
+      ],
+      "zh": "尽管华盛顿和杰斐逊私下里都表达过对奴隶制的厌恶，但他们也明白，奴隶制是他们亲手缔造的这个国家政治与经济基石的一部分。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2008-text4-s11",
+      "s": "For one thing, the South could not afford to part with its slaves.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "the South",
+        "谓语": "could not afford",
+        "宾语或表语": "to part with its slaves",
+        "主干翻译": "南方无法承受失去其奴隶的代价。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to part with its slaves",
+          "修饰对象": "afford",
+          "中文翻译": "舍弃其奴隶",
+          "说明": "不定式作 afford 的宾语，补足谓语，构成 afford to do 结构。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "For one thing",
+          "修饰对象": "—",
+          "中文翻译": "一方面",
+          "说明": "插入性介词短语，作话语标记，引出原因之一。"
+        }
+      ],
+      "zh": "一方面，南方承受不起放弃其奴隶的代价。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2008-text4-s12",
+      "s": "Owning slaves was \"like having a large bank account,\" says Wiencek, author of An Imperfect God: George Washington, His Slaves, and the Creation of America.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Wiencek",
+        "谓语": "says",
+        "宾语或表语": "Owning slaves was \"like having a large bank account\"",
+        "主干翻译": "温塞克说，拥有奴隶就像拥有一大笔银行存款。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "Owning slaves was \"like having a large bank account",
+          "修饰对象": "says",
+          "中文翻译": "拥有奴隶就像拥有一大笔银行存款",
+          "说明": "作 says 的直接引语宾语（前置于 says 之前），主语为动名词短语。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "author of An Imperfect God: George Washington, His Slaves, and the Creation of America",
+          "修饰对象": "Wiencek",
+          "中文翻译": "《一个不完美的上帝：乔治·华盛顿、他的奴隶与美国的创建》一书的作者",
+          "说明": "作 Wiencek 的同位语，介绍其身份。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "George Washington, His Slaves, and the Creation of America",
+          "修饰对象": "God",
+          "中文翻译": "乔治·华盛顿、他的奴隶与美国的创建",
+          "说明": "书名副标题，由 and 连接的并列名词短语，作主标题 An Imperfect God 的同位补充。"
+        }
+      ],
+      "zh": "《一个不完美的上帝：乔治·华盛顿、他的奴隶与美国的创建》一书的作者温塞克说，拥有奴隶就像拥有一大笔银行存款。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2008-text4-s13",
+      "s": "The southern states would not have signed the Constitution without protections for the \"peculiar institution,\" including a clause that counted a slave as three fifths of a man for purposes of congressional representation.",
+      "para_no": 4,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "The southern states",
+        "谓语": "would not have signed",
+        "宾语或表语": "the Constitution",
+        "主干翻译": "南方各州本不会签署宪法。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "without protections for the \"peculiar institution,\"",
+          "修饰对象": "signed",
+          "中文翻译": "若没有对这种“特殊制度”的保护",
+          "说明": "without 引导的介词短语作条件状语，与虚拟语气谓语呼应。"
+        },
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "including a clause",
+          "修饰对象": "protections",
+          "中文翻译": "包括一项条款",
+          "说明": "including 引导的介词短语作 protections 的补充说明定语。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that counted a slave as three fifths of a man for purposes of congressional representation",
+          "修饰对象": "clause",
+          "中文翻译": "在国会代表名额方面把一个奴隶算作五分之三个人",
+          "说明": "that 引导的定语从句，修饰先行词 clause。"
+        }
+      ],
+      "zh": "如果没有对这种“特殊制度”的保护——包括一项在国会代表名额计算上把一个奴隶折算为五分之三个人的条款——南方各州本不会签署宪法。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2008-text4-s14",
+      "s": "And the statesmen's political lives depended on slavery.",
+      "para_no": 5,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "the statesmen's political lives",
+        "谓语": "depended on",
+        "宾语或表语": "slavery",
+        "主干翻译": "这些政治家的政治生涯依赖于奴隶制。"
+      },
+      "components": [],
+      "zh": "而且，这些政治家的政治生命也依赖于奴隶制。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2008-text4-s15",
+      "s": "The three-fifths formula handed Jefferson his narrow victory in the presidential election of 1800 by inflating the votes of the southern states in the Electoral College.",
+      "para_no": 5,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "The three-fifths formula",
+        "谓语": "handed",
+        "宾语或表语": "Jefferson his narrow victory",
+        "主干翻译": "五分之三条款让杰斐逊赢得了险胜。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "in the presidential election of 1800",
+          "修饰对象": "victory",
+          "中文翻译": "在1800年总统选举中",
+          "说明": "介词短语修饰 victory，限定胜利发生的场合。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "by inflating the votes of the southern states in the Electoral College",
+          "修饰对象": "handed",
+          "中文翻译": "通过夸大南方各州在选举团中的票数",
+          "说明": "by + 动名词短语作方式状语，说明 handed 的实现方式。"
+        }
+      ],
+      "zh": "五分之三条款通过抬高南方各州在选举团中的票数，使杰斐逊在1800年的总统选举中以微弱优势获胜。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2008-text4-s16",
+      "s": "Once in office, Jefferson extended slavery with the Louisiana Purchase in 1803; the new land was carved into 13 states, including three slave states.",
+      "para_no": 5,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Jefferson",
+        "谓语": "extended",
+        "宾语或表语": "slavery",
+        "主干翻译": "杰斐逊扩大了奴隶制。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "Once in office",
+          "修饰对象": "extended",
+          "中文翻译": "一上任",
+          "说明": "Once 引导的省略式时间状语从句（once he was in office），作 extended 的时间状语。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "with the Louisiana Purchase in 1803",
+          "修饰对象": "extended",
+          "中文翻译": "通过1803年的路易斯安那购地",
+          "说明": "with 引导的介词短语作方式状语，说明扩大奴隶制的途径。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "the new land was carved into 13 states, including three slave states",
+          "修饰对象": "—",
+          "中文翻译": "这片新领土被划分为13个州，其中包括三个蓄奴州",
+          "说明": "分号连接的并列分句，进一步说明这片土地的处置结果。"
+        }
+      ],
+      "zh": "杰斐逊一上任，就通过1803年的路易斯安那购地扩大了奴隶制；这片新领土被划分为13个州，其中包括三个蓄奴州。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2008-text4-s17",
+      "s": "Still, Jefferson freed Hemings's children—though not Hemings herself or his approximately 150 other slaves.",
+      "para_no": 6,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Jefferson",
+        "谓语": "freed",
+        "宾语或表语": "Hemings's children",
+        "主干翻译": "杰斐逊释放了海明斯的孩子们。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(让步)",
+          "原文": "though not Hemings herself or his approximately 150 other slaves",
+          "修饰对象": "freed",
+          "中文翻译": "尽管没有释放海明斯本人，也没有释放他大约150名其他奴隶",
+          "说明": "though 引导的省略式让步状语从句，与主句构成让步转折。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "his approximately 150 other slaves",
+          "修饰对象": "herself",
+          "中文翻译": "他大约150名其他奴隶",
+          "说明": "由 or 连接，与 Hemings herself 并列，同作 not 的否定对象。"
+        }
+      ],
+      "zh": "尽管如此，杰斐逊释放了海明斯的孩子们——尽管没有释放海明斯本人，也没有释放他大约150名其他奴隶。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2008-text4-s18",
+      "s": "Washington, who had begun to believe that all men were created equal after observing the bravery of the black soldiers during the Revolutionary War, overcame the strong opposition of his relatives to grant his slaves their freedom in his will.",
+      "para_no": 6,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Washington",
+        "谓语": "overcame",
+        "宾语或表语": "the strong opposition of his relatives",
+        "主干翻译": "华盛顿克服了亲属们的强烈反对。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "who had begun to believe that all men were created equal after observing the bravery of the black soldiers during the Revolutionary War",
+          "修饰对象": "Washington",
+          "中文翻译": "他在独立战争期间目睹黑人士兵的英勇后，开始相信人人生而平等",
+          "说明": "who 引导的非限制性定语从句，修饰主语 Washington。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to believe that all men were created equal",
+          "修饰对象": "begun",
+          "中文翻译": "相信人人生而平等",
+          "说明": "不定式作 begin 的宾语，补足谓语。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that all men were created equal",
+          "修饰对象": "believe",
+          "中文翻译": "人人生而平等",
+          "说明": "that 引导宾语从句，作 believe 的宾语。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "after observing the bravery of the black soldiers during the Revolutionary War",
+          "修饰对象": "begun",
+          "中文翻译": "在独立战争期间目睹黑人士兵的英勇之后",
+          "说明": "after + 动名词短语作时间状语，说明信念形成的时间背景。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to grant his slaves their freedom in his will",
+          "修饰对象": "overcame",
+          "中文翻译": "在遗嘱中给予他的奴隶以自由",
+          "说明": "不定式作目的状语，说明克服反对的目的。"
+        }
+      ],
+      "zh": "华盛顿在独立战争期间目睹黑人士兵的英勇之后，开始相信人人生而平等；他克服了亲属们的强烈反对，在遗嘱中赋予他的奴隶以自由。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2008-text4-s19",
+      "s": "Only a decade earlier, such an act would have required legislative approval in Virginia.",
+      "para_no": 6,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "such an act",
+        "谓语": "would have required",
+        "宾语或表语": "legislative approval",
+        "主干翻译": "这样的举动本会需要立法批准。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "Only a decade earlier",
+          "修饰对象": "required",
+          "中文翻译": "仅仅十年之前",
+          "说明": "时间状语，与虚拟语气谓语呼应，强调时代差异。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "in Virginia",
+          "修饰对象": "required",
+          "中文翻译": "在弗吉尼亚州",
+          "说明": "介词短语作地点状语，限定该行为的适用地。"
+        }
+      ],
+      "zh": "而仅仅在十年之前，这样的举动在弗吉尼亚州还需要获得立法机关的批准。",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2008-text4-s1",
+        "en1-2008-text4-s2"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2008-text4-s3",
+        "en1-2008-text4-s4",
+        "en1-2008-text4-s5",
+        "en1-2008-text4-s6",
+        "en1-2008-text4-s7",
+        "en1-2008-text4-s8"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2008-text4-s9",
+        "en1-2008-text4-s10"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2008-text4-s11",
+        "en1-2008-text4-s12",
+        "en1-2008-text4-s13"
+      ]
+    },
+    {
+      "para_no": 5,
+      "sids": [
+        "en1-2008-text4-s14",
+        "en1-2008-text4-s15",
+        "en1-2008-text4-s16"
+      ]
+    },
+    {
+      "para_no": 6,
+      "sids": [
+        "en1-2008-text4-s17",
+        "en1-2008-text4-s18",
+        "en1-2008-text4-s19"
+      ]
+    }
+  ]
+}

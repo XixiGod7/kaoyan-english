@@ -1,0 +1,661 @@
+{
+  "exam": "en1",
+  "key": "2013-t3",
+  "year": 2013,
+  "text_no": 3,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2013-text3-s1",
+      "s": "Up until a few decades ago, our visions of the future were largely—though by no means uniformly—glowingly positive.",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "our visions of the future",
+        "谓语": "were",
+        "宾语或表语": "glowingly positive",
+        "主干翻译": "我们对未来的设想是灿烂乐观的。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "Up until a few decades ago",
+          "修饰对象": "were",
+          "中文翻译": "直到几十年前",
+          "说明": "时间状语，限定主句所述情形的时间范围。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "though by no means uniformly",
+          "修饰对象": "largely",
+          "中文翻译": "尽管绝非千篇一律",
+          "说明": "破折号间的让步性插入语，对largely加以补充限定。"
+        }
+      ],
+      "zh": "直到几十年前，我们对未来的设想在很大程度上——尽管绝非千篇一律——还是灿烂乐观的。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2013-text3-s2",
+      "s": "Science and technology would cure all the ills of humanity, leading to lives of fulfilment and opportunity for all.",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Science and technology",
+        "谓语": "would cure",
+        "宾语或表语": "all the ills of humanity",
+        "主干翻译": "科学技术将治愈人类所有的弊病。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "leading to lives of fulfilment and opportunity for all",
+          "修饰对象": "cure",
+          "中文翻译": "从而带来人人都能充实而充满机遇的生活",
+          "说明": "现在分词短语作结果状语，表示主句动作带来的结果。"
+        }
+      ],
+      "zh": "科学技术将治愈人类所有的弊病，从而让所有人都能过上充实且充满机遇的生活。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2013-text3-s3",
+      "s": "Now utopia has grown unfashionable, as we have gained a deeper appreciation of the range of threats facing us, from asteroid strike to epidemic flu and to climate change.",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "utopia",
+        "谓语": "has grown",
+        "宾语或表语": "unfashionable",
+        "主干翻译": "如今乌托邦已经过时了。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(原因)",
+          "原文": "as we have gained a deeper appreciation of the range of threats facing us, from asteroid strike to epidemic flu and to climate change",
+          "修饰对象": "grown",
+          "中文翻译": "因为我们更深刻地认识到了面临的种种威胁——从小行星撞击到流感疫情再到气候变化",
+          "说明": "as引导原因状语从句，解释乌托邦过时的缘由。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "facing us",
+          "修饰对象": "threats",
+          "中文翻译": "我们所面临的",
+          "说明": "现在分词短语作后置定语，修饰threats。"
+        }
+      ],
+      "zh": "如今乌托邦已经过时了，因为我们更深刻地认识到了我们所面临的种种威胁——从小行星撞击到流感疫情，再到气候变化。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2013-text3-s4",
+      "s": "You might even be tempted to assume that humanity has little future to look forward to.",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "You",
+        "谓语": "might be tempted",
+        "宾语或表语": "to assume ...",
+        "主干翻译": "你甚至可能会忍不住认为……"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to assume that humanity has little future to look forward to",
+          "修饰对象": "tempted",
+          "中文翻译": "去认为人类没有什么未来可以期待",
+          "说明": "不定式作be tempted的补足成分，承接被动结构。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that humanity has little future to look forward to",
+          "修饰对象": "assume",
+          "中文翻译": "人类没有什么值得期待的未来",
+          "说明": "that引导assume的宾语从句。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "to look forward to",
+          "修饰对象": "future",
+          "中文翻译": "可供期待的",
+          "说明": "不定式作后置定语修饰future（此处依k提示按定语处理）。"
+        }
+      ],
+      "zh": "你甚至可能会忍不住认为，人类没有什么值得期待的未来。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2013-text3-s5",
+      "s": "But such gloominess is misplaced.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "such gloominess",
+        "谓语": "is",
+        "宾语或表语": "misplaced",
+        "主干翻译": "这种悲观情绪是错位的。"
+      },
+      "components": [],
+      "zh": "但这种悲观情绪是没有道理的。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2013-text3-s6",
+      "s": "The fossil record shows that many species have endured for millions of years—so why shouldn't we?",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "The fossil record",
+        "谓语": "shows",
+        "宾语或表语": "that ...",
+        "主干翻译": "化石记录表明……"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "that many species have endured for millions of years",
+          "修饰对象": "shows",
+          "中文翻译": "许多物种已经存续了数百万年",
+          "说明": "that引导shows的宾语从句。"
+        }
+      ],
+      "zh": "化石记录表明，许多物种已经存续了数百万年——那么我们为什么不能呢？",
+      "underline": null
+    },
+    {
+      "sid": "en1-2013-text3-s7",
+      "s": "Take a broader look at our species' place in the universe, and it becomes clear that we have an excellent chance of surviving for tens, if not hundreds, of thousands of years.",
+      "para_no": 3,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "it",
+        "谓语": "becomes",
+        "宾语或表语": "clear that ...",
+        "主干翻译": "（这样一来）就会清楚地看到……"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "Take a broader look at our species' place in the universe, and it becomes clear",
+          "修饰对象": "—",
+          "中文翻译": "更广阔地审视我们这一物种在宇宙中的位置，就会清楚地看到",
+          "说明": "祈使句+and构成的并列结构，相当于条件关系（若……，就……）。"
+        },
+        {
+          "成分类型": "主语从句",
+          "原文": "that we have an excellent chance of surviving for tens, if not hundreds, of thousands of years",
+          "修饰对象": "it",
+          "中文翻译": "我们极有可能存续数万年乃至数十万年",
+          "说明": "that从句为it所指代的真正主语（形式主语it）。"
+        }
+      ],
+      "zh": "更广阔地审视我们这一物种在宇宙中的位置，就会清楚地看到：我们极有可能存续数万年，乃至数十万年。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2013-text3-s8",
+      "s": "Look up Homo sapiens in the \"Red List\" of threatened species of the international Union for the Conservation of Nature (IUCN), and you will read: \"Listed as Least Concern as the species is very widely distributed, adaptable, currently increasing, and there are no major threats resulting in an overall population decline.\"",
+      "para_no": 3,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "you",
+        "谓语": "will read",
+        "宾语或表语": "\"Listed as Least Concern ...\"",
+        "主干翻译": "你会读到：“……”"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "Look up Homo sapiens in the \"Red List\" of threatened species of the international Union for the Conservation of Nature (IUCN), and you will read",
+          "修饰对象": "—",
+          "中文翻译": "在国际自然保护联盟（IUCN）的濒危物种“红色名录”中查阅智人，你就会读到",
+          "说明": "祈使句+and的并列结构，表条件结果关系。"
+        },
+        {
+          "成分类型": "同位语",
+          "原文": "(IUCN)",
+          "修饰对象": "Union",
+          "中文翻译": "（国际自然保护联盟）",
+          "说明": "缩写作前面机构名称的同位语。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "Listed as Least Concern as the species is very widely distributed, adaptable, currently increasing, and there are no major threats resulting in an overall population decline",
+          "修饰对象": "read",
+          "中文翻译": "被列为“无危”，因为该物种分布极广、适应力强、目前数量正在增长，且不存在导致整体种群数量下降的重大威胁",
+          "说明": "引号内整体作read的宾语内容（依k按宾语从句处理）。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "there are no major threats resulting in an overall population decline",
+          "修饰对象": "—",
+          "中文翻译": "不存在导致整体种群数量下降的重大威胁",
+          "说明": "与前述as从句中的形容词并列的分句，由and连接。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "resulting in an overall population decline",
+          "修饰对象": "threats",
+          "中文翻译": "导致整体种群数量下降的",
+          "说明": "现在分词短语作后置定语，修饰threats。"
+        }
+      ],
+      "zh": "在国际自然保护联盟（IUCN）的濒危物种“红色名录”中查阅智人，你会读到：“被列为‘无危’，因为该物种分布极广、适应力强、目前数量正在增长，且不存在导致整体种群数量下降的重大威胁。”",
+      "underline": null
+    },
+    {
+      "sid": "en1-2013-text3-s9",
+      "s": "So what does our deep future hold?",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "our deep future",
+        "谓语": "does hold",
+        "宾语或表语": "what",
+        "主干翻译": "我们遥远的未来会带来什么？"
+      },
+      "components": [],
+      "zh": "那么，我们遥远的未来会是怎样的呢？",
+      "underline": null
+    },
+    {
+      "sid": "en1-2013-text3-s10",
+      "s": "A growing number of researchers and organisations are now thinking seriously about that question.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "A growing number of researchers and organisations",
+        "谓语": "are thinking",
+        "宾语或表语": "about that question",
+        "主干翻译": "越来越多的研究者和机构正在思考那个问题。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "about that question",
+          "修饰对象": "thinking",
+          "中文翻译": "关于那个问题",
+          "说明": "介词短语作状语，说明思考的对象。"
+        }
+      ],
+      "zh": "如今，越来越多的研究者和机构正在认真思考那个问题。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2013-text3-s11",
+      "s": "For example, the Long Now Foundation has as its flagship project a mechanical clock that is designed to still be marking time thousands of years hence.",
+      "para_no": 4,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "the Long Now Foundation",
+        "谓语": "has",
+        "宾语或表语": "a mechanical clock",
+        "主干翻译": "“今与未来基金会”拥有一座机械钟。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "as its flagship project",
+          "修饰对象": "has",
+          "中文翻译": "作为其旗舰项目",
+          "说明": "介词短语作状语（宾语补足成分），说明clock的身份。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that is designed to still be marking time thousands of years hence",
+          "修饰对象": "clock",
+          "中文翻译": "其设计目标是在数千年后仍能计时",
+          "说明": "that引导的定语从句，修饰clock。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to still be marking time thousands of years hence",
+          "修饰对象": "designed",
+          "中文翻译": "在数千年后仍然计时",
+          "说明": "不定式作be designed的补足成分，表设计目的。"
+        }
+      ],
+      "zh": "例如，“今与未来基金会”的旗舰项目是一座机械钟，其设计目标是在数千年之后仍能继续计时。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2013-text3-s12",
+      "s": "Perhaps willfully, it may be easier to think about such lengthy timescales than about the more immediate future.",
+      "para_no": 5,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "it",
+        "谓语": "may be",
+        "宾语或表语": "easier to think ...",
+        "主干翻译": "思考……或许更容易。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "Perhaps willfully",
+          "修饰对象": "easier",
+          "中文翻译": "或许是有意为之",
+          "说明": "句首插入语，对全句作评注性补充。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to think about such lengthy timescales than about the more immediate future",
+          "修饰对象": "easier",
+          "中文翻译": "去思考这样漫长的时间尺度，而非更近的将来",
+          "说明": "不定式作真正主语（it为形式主语），并含than引出的比较对象。"
+        }
+      ],
+      "zh": "或许是有意为之，思考这样漫长的时间尺度，可能比思考更近的未来更容易。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2013-text3-s13",
+      "s": "The potential evolution of today's technology, and its social consequences, is dazzlingly complicated, and it's perhaps best left to science fiction writers and futurologists to explore the many possibilities we can envisage.",
+      "para_no": 5,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "The potential evolution of today's technology",
+        "谓语": "is",
+        "宾语或表语": "dazzlingly complicated",
+        "主干翻译": "当今技术的潜在演变令人眼花缭乱地复杂。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "and its social consequences",
+          "修饰对象": "The potential evolution of today's technology",
+          "中文翻译": "及其社会后果",
+          "说明": "and 连接的并列主语成分，与 The potential evolution 共作主语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "and it's perhaps best left to science fiction writers and futurologists",
+          "修饰对象": "The potential evolution of today's technology is dazzlingly complicated",
+          "中文翻译": "也许最好留给科幻作家和未来学家",
+          "说明": "and 连接的并列分句，it 为形式主语，真正主语为后面的不定式。"
+        },
+        {
+          "成分类型": "非谓语作主语",
+          "原文": "to explore the many possibilities we can envisage",
+          "修饰对象": "it's perhaps best left to science fiction writers and futurologists",
+          "中文翻译": "去探索我们能设想的诸多可能性",
+          "说明": "动词不定式作真正主语，由形式主语 it 替代。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "we can envisage",
+          "修饰对象": "possibilities",
+          "中文翻译": "我们能设想的",
+          "说明": "省略关系代词 that/which 的定语从句，修饰 the many possibilities。"
+        }
+      ],
+      "zh": "当今技术的潜在演变及其社会后果令人眼花缭乱地复杂，也许最好留给科幻作家和未来学家去探索我们能设想的诸多可能性。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2013-text3-s14",
+      "s": "That's one reason why we have launched Arc, a new publication dedicated to the near future.",
+      "para_no": 5,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "That",
+        "谓语": "is",
+        "宾语或表语": "one reason",
+        "主干翻译": "那就是一个原因。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "why we have launched Arc, a new publication dedicated to the near future",
+          "修饰对象": "reason",
+          "中文翻译": "我们为何创办了Arc——一份专注于近期未来的新刊物",
+          "说明": "why引导的定语从句，修饰reason。"
+        },
+        {
+          "成分类型": "同位语",
+          "原文": "a new publication dedicated to the near future",
+          "修饰对象": "Arc",
+          "中文翻译": "一份专注于近期未来的新刊物",
+          "说明": "名词短语作Arc的同位语。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "dedicated to the near future",
+          "修饰对象": "publication",
+          "中文翻译": "专注于近期未来的",
+          "说明": "过去分词短语作后置定语，修饰publication。"
+        }
+      ],
+      "zh": "这正是我们创办Arc——一份专注于近期未来的新刊物——的原因之一。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2013-text3-s15",
+      "s": "But take a longer view and there is a surprising amount that we can say with considerable assurance.",
+      "para_no": 6,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "there",
+        "谓语": "is",
+        "宾语或表语": "a surprising amount",
+        "主干翻译": "有数量惊人的（内容）。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "take a longer view and there is a surprising amount",
+          "修饰对象": "—",
+          "中文翻译": "把眼光放长远，就会有数量惊人的（内容）",
+          "说明": "祈使句+and的并列结构，表条件结果关系。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that we can say with considerable assurance",
+          "修饰对象": "amount",
+          "中文翻译": "我们可以相当有把握地说出的",
+          "说明": "that引导的定语从句，修饰amount。"
+        }
+      ],
+      "zh": "但只要把眼光放长远，就会有数量惊人的内容是我们可以相当有把握地说出来的。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2013-text3-s16",
+      "s": "As so often, the past holds the key to the future: we have now identified enough of the long-term patterns shaping the history of the planet, and our species, to make evidence-based forecasts about the situations in which our descendants will find themselves.",
+      "para_no": 6,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "the past",
+        "谓语": "holds",
+        "宾语或表语": "the key to the future",
+        "主干翻译": "过去掌握着通向未来的钥匙。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(方式)",
+          "原文": "As so often",
+          "修饰对象": "identified",
+          "中文翻译": "正如常常发生的那样",
+          "说明": "As引导方式状语从句（省略结构），评注后文情形之常见。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "shaping the history of the planet, and our species",
+          "修饰对象": "patterns",
+          "中文翻译": "塑造这颗星球以及我们这一物种历史的",
+          "说明": "现在分词短语作后置定语，修饰patterns。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to make evidence-based forecasts about the situations in which our descendants will find themselves",
+          "修饰对象": "enough",
+          "中文翻译": "以便对我们后代将身处的境况作出基于证据的预测",
+          "说明": "不定式与enough构成enough...to结构，表结果/目的。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "in which our descendants will find themselves",
+          "修饰对象": "situations",
+          "中文翻译": "我们的后代将身处其中的",
+          "说明": "in which引导的定语从句，修饰situations。"
+        }
+      ],
+      "zh": "正如常常发生的那样，过去掌握着通向未来的钥匙：我们如今已辨识出足够多塑造这颗星球及我们这一物种历史的长期模式，足以对我们后代将身处的境况作出基于证据的预测。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2013-text3-s17",
+      "s": "This long perspective makes the pessimistic view of our prospects seem more likely to be a passing fad.",
+      "para_no": 7,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "This long perspective",
+        "谓语": "makes",
+        "宾语或表语": "the pessimistic view ... seem ...",
+        "主干翻译": "这种长远视角使悲观看法显得……"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "the pessimistic view of our prospects seem more likely to be a passing fad",
+          "修饰对象": "makes",
+          "中文翻译": "对我们前景的悲观看法更像是一阵短暂的流行",
+          "说明": "make后的复合宾语结构（宾语+seem不带to的补足，依k按宾语处理）。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to be a passing fad",
+          "修饰对象": "likely",
+          "中文翻译": "成为一阵短暂的流行",
+          "说明": "不定式作likely的补足成分。"
+        }
+      ],
+      "zh": "这种长远视角使得对我们前景的悲观看法，更像是一阵转瞬即逝的风潮。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2013-text3-s18",
+      "s": "To be sure, the future is not all rosy.",
+      "para_no": 7,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "the future",
+        "谓语": "is",
+        "宾语或表语": "not all rosy",
+        "主干翻译": "未来并非一片光明。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "To be sure",
+          "修饰对象": "is",
+          "中文翻译": "诚然",
+          "说明": "不定式短语作评注性状语（独立成分）。"
+        }
+      ],
+      "zh": "诚然，未来并非一片光明。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2013-text3-s19",
+      "s": "But we are now knowledgeable enough to reduce many of the risks that threatened the existence of earlier humans, and to improve the lot of those to come.",
+      "para_no": 7,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "we",
+        "谓语": "are",
+        "宾语或表语": "knowledgeable enough",
+        "主干翻译": "我们如今已经足够有知识。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to reduce many of the risks that threatened the existence of earlier humans, and to improve the lot of those to come",
+          "修饰对象": "knowledgeable",
+          "中文翻译": "足以减少许多曾威胁早期人类生存的风险，并改善后人的境遇",
+          "说明": "与enough构成enough...to结构，表程度结果。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that threatened the existence of earlier humans",
+          "修饰对象": "risks",
+          "中文翻译": "曾威胁早期人类生存的",
+          "说明": "that引导的定语从句，修饰risks。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "and to improve the lot of those to come",
+          "修饰对象": "—",
+          "中文翻译": "并改善后人的境遇",
+          "说明": "与前一不定式并列的第二个不定式，由and连接。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "to come",
+          "修饰对象": "those",
+          "中文翻译": "将要到来的",
+          "说明": "不定式作后置定语，修饰those（依k按定语处理）。"
+        }
+      ],
+      "zh": "但如今我们已经掌握了足够的知识，足以减少许多曾威胁早期人类生存的风险，并改善后人的境遇。",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2013-text3-s1",
+        "en1-2013-text3-s2"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2013-text3-s3",
+        "en1-2013-text3-s4"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2013-text3-s5",
+        "en1-2013-text3-s6",
+        "en1-2013-text3-s7",
+        "en1-2013-text3-s8"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2013-text3-s9",
+        "en1-2013-text3-s10",
+        "en1-2013-text3-s11"
+      ]
+    },
+    {
+      "para_no": 5,
+      "sids": [
+        "en1-2013-text3-s12",
+        "en1-2013-text3-s13",
+        "en1-2013-text3-s14"
+      ]
+    },
+    {
+      "para_no": 6,
+      "sids": [
+        "en1-2013-text3-s15",
+        "en1-2013-text3-s16"
+      ]
+    },
+    {
+      "para_no": 7,
+      "sids": [
+        "en1-2013-text3-s17",
+        "en1-2013-text3-s18",
+        "en1-2013-text3-s19"
+      ]
+    }
+  ]
+}

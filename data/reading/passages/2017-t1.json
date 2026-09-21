@@ -1,0 +1,774 @@
+{
+  "exam": "en1",
+  "key": "2017-t1",
+  "year": 2017,
+  "text_no": 1,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2017-text1-s1",
+      "s": "First two hours, now three hours—this is how far in advance authorities are recommending people show up to catch a domestic flight, at least at some major U.S. airports with increasingly massive security lines.",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "this",
+        "谓语": "is",
+        "宾语或表语": "how far in advance authorities are recommending people show up to catch a domestic flight",
+        "主干翻译": "这就是当局建议人们提前多久到达（机场）以赶上国内航班（的情况）。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "First two hours, now three hours",
+          "修饰对象": "this",
+          "中文翻译": "起初是两小时，现在是三小时",
+          "说明": "句首破折号前的独立短语，作铺垫式插入说明，this 回指这一情况。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "now three hours",
+          "修饰对象": "hours",
+          "中文翻译": "现在是三小时",
+          "说明": "与 First two hours 并列对照的插入成分，强调时间的增加。"
+        },
+        {
+          "成分类型": "表语从句",
+          "原文": "how far in advance authorities are recommending people show up to catch a domestic flight, at least at some major U.S. airports with increasingly massive security lines",
+          "修饰对象": "—",
+          "中文翻译": "当局建议人们要提前多久到达机场以赶上国内航班——至少在一些安检队伍越来越长的美国主要机场是如此",
+          "说明": "由 how 引导，作系动词 is 的表语，说明 this 的内容。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "people show up to catch a domestic flight, at least at some major U.S. airports with increasingly massive security lines",
+          "修饰对象": "recommending",
+          "中文翻译": "人们要（提前多久）到达机场以赶上国内航班，至少在一些安检队伍越来越长的美国主要机场是如此",
+          "说明": "作 recommending 的宾语，省略了 that，与前面 how far in advance 关联。"
+        },
+        {
+          "成分类型": "状语从句(目的)",
+          "原文": "to catch a domestic flight",
+          "修饰对象": "show",
+          "中文翻译": "为了赶上一趟国内航班",
+          "说明": "不定式作目的状语，修饰 show up。"
+        }
+      ],
+      "zh": "起初是提前两小时，现在则是三小时——这就是当局建议人们要提前多久到达机场以赶上国内航班的情况，至少在一些安检队伍越来越长的美国主要机场是如此。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2017-text1-s2",
+      "s": "Americans are willing to tolerate time-consuming security procedures in return for increased safety.",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Americans",
+        "谓语": "are willing",
+        "宾语或表语": "to tolerate time-consuming security procedures",
+        "主干翻译": "美国人愿意忍受耗时的安检程序。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to tolerate time-consuming security procedures in return for increased safety",
+          "修饰对象": "willing",
+          "中文翻译": "忍受耗时的安检程序以换取安全性的提升",
+          "说明": "不定式作 willing 的补足语，其中 in return for increased safety 为介词短语作状语，表示交换条件。"
+        }
+      ],
+      "zh": "美国人愿意忍受耗时的安检程序，以换取安全性的提升。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2017-text1-s3",
+      "s": "The crash of EgyptAir Flight 804, which terrorists may have downed over the Mediterranean Sea, provides another tragic reminder of why.",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "The crash of EgyptAir Flight 804",
+        "谓语": "provides",
+        "宾语或表语": "another tragic reminder of why",
+        "主干翻译": "埃及航空804航班的失事再次令人痛心地提醒人们其中的缘由。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "which terrorists may have downed over the Mediterranean Sea",
+          "修饰对象": "Flight",
+          "中文翻译": "恐怖分子可能在地中海上空将其击落",
+          "说明": "which 引导非限制性定语从句，修饰 EgyptAir Flight 804，which 作 downed 的宾语。"
+        }
+      ],
+      "zh": "埃及航空804航班的失事——恐怖分子可能是在地中海上空将其击落的——再次令人痛心地提醒人们其中的缘由。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2017-text1-s4",
+      "s": "But demanding too much of air travelers or providing too little security in return undermines public support for the process.",
+      "para_no": 2,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "demanding too much of air travelers or providing too little security in return",
+        "谓语": "undermines",
+        "宾语或表语": "public support for the process",
+        "主干翻译": "对航空旅客要求过多，或作为回报提供的安全保障太少，会削弱公众对这一程序的支持。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "providing too little security in return",
+          "修饰对象": "demanding",
+          "中文翻译": "（或者）作为回报提供的安全保障太少",
+          "说明": "与 demanding too much of air travelers 由 or 连接的并列动名词短语，共同作主语。"
+        }
+      ],
+      "zh": "但是，对航空旅客要求过多，或者作为回报却只提供很少的安全保障，都会削弱公众对这一安检程序的支持。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2017-text1-s5",
+      "s": "And it should: Wasted time is a drag on Americans' economic and private lives, not to mention infuriating.",
+      "para_no": 2,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "Wasted time",
+        "谓语": "is",
+        "宾语或表语": "a drag on Americans' economic and private lives",
+        "主干翻译": "被浪费的时间拖累了美国人的经济生活和私人生活。"
+      },
+      "components": [
+        {
+          "成分类型": "省略",
+          "原文": "And it should",
+          "修饰对象": "—",
+          "中文翻译": "它确实应当（削弱这种支持）",
+          "说明": "should 后省略了 undermine public support，承接上句，it 指代上句所述情形。"
+        },
+        {
+          "成分类型": "省略",
+          "原文": "not to mention infuriating",
+          "修饰对象": "drag",
+          "中文翻译": "更不用说还令人恼火",
+          "说明": "not to mention 引出追加补充，infuriating 为省略式补充表语，强调浪费时间令人愤怒。"
+        }
+      ],
+      "zh": "它也确实应当如此：被浪费的时间拖累了美国人的经济生活和私人生活，更不用说还令人恼火。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2017-text1-s6",
+      "s": "Last year, the Transportation Security Administration (TSA) found in a secret check that undercover investigators were able to sneak weapons—both fake and real—past airport security nearly every time they tried.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "the Transportation Security Administration (TSA)",
+        "谓语": "found",
+        "宾语或表语": "that undercover investigators were able to sneak weapons past airport security",
+        "主干翻译": "运输安全管理局发现，卧底调查人员能够将武器偷偷带过机场安检。"
+      },
+      "components": [
+        {
+          "成分类型": "同位语",
+          "原文": "TSA",
+          "修饰对象": "Administration",
+          "中文翻译": "（即）运输安全管理局",
+          "说明": "括号内缩写，作 the Transportation Security Administration 的同位语。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that undercover investigators were able to sneak weapons—both fake and real—past airport security nearly every time they tried",
+          "修饰对象": "found",
+          "中文翻译": "卧底调查人员几乎每次尝试都能将武器（无论是假的还是真的）偷偷带过机场安检",
+          "说明": "that 引导宾语从句，作 found 的宾语。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to sneak weapons—both fake and real—past airport security nearly every time they tried",
+          "修饰对象": "able",
+          "中文翻译": "几乎每次尝试都能将武器（无论真假）偷偷带过机场安检",
+          "说明": "不定式作 able 的补足语，both fake and real 为插入的并列说明。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "they tried",
+          "修饰对象": "time",
+          "中文翻译": "他们尝试（的每一次）",
+          "说明": "省略关系副词的定语从句，修饰 every time，相当于 every time that they tried。"
+        }
+      ],
+      "zh": "去年，运输安全管理局（TSA）在一次秘密检查中发现，卧底调查人员几乎每次尝试都能将武器（无论是假的还是真的）偷偷带过机场安检。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2017-text1-s7",
+      "s": "Enhanced security measures since then, combined with a rise in airline travel due to the improving economy and low oil prices, have resulted in long waits at major airports such as Chicago's O'Hare International.",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Enhanced security measures since then",
+        "谓语": "have resulted in",
+        "宾语或表语": "long waits at major airports",
+        "主干翻译": "自那以后加强的安检措施导致了各大机场漫长的等待。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "combined with a rise in airline travel due to the improving economy and low oil prices",
+          "修饰对象": "measures",
+          "中文翻译": "再加上由于经济好转和油价低廉而出现的航空出行量增长",
+          "说明": "过去分词短语作定语兼伴随状语，修饰 security measures，combined with 表示附加。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "low oil prices",
+          "修饰对象": "economy",
+          "中文翻译": "（以及）低油价",
+          "说明": "与 the improving economy 由 and 连接，并列作 due to 的宾语。"
+        }
+      ],
+      "zh": "自那以后加强的安检措施，再加上由于经济好转和油价低廉而带来的航空出行量增长，已导致芝加哥奥黑尔国际机场等各大机场出现了漫长的等待。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2017-text1-s8",
+      "s": "It is not yet clear how much more effective airline security has become—but the lines are obvious.",
+      "para_no": 3,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "It",
+        "谓语": "is",
+        "宾语或表语": "not yet clear",
+        "主干翻译": "目前还不清楚（航空安检效果提高了多少）。"
+      },
+      "components": [
+        {
+          "成分类型": "主语从句",
+          "原文": "how much more effective airline security has become",
+          "修饰对象": "It",
+          "中文翻译": "航空安检的效果究竟提高了多少",
+          "说明": "how 引导的主语从句，It 为形式主语，该从句为真正主语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "the lines are obvious.",
+          "修饰对象": "is",
+          "中文翻译": "但排队的现象是显而易见的",
+          "说明": "由 but 连接的并列分句，与前一分句构成转折对照。"
+        }
+      ],
+      "zh": "航空安检的效果究竟提高了多少目前还不清楚——但排起长队这一点是显而易见的。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2017-text1-s9",
+      "s": "Part of the issue is that the government did not anticipate the steep increase in airline travel, so the TSA is now rushing to get new screeners on the line.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Part of the issue",
+        "谓语": "is",
+        "宾语或表语": "that the government did not anticipate the steep increase in airline travel",
+        "主干翻译": "问题的一部分在于政府没有预料到航空出行量的急剧增长。"
+      },
+      "components": [
+        {
+          "成分类型": "表语从句",
+          "原文": "that the government did not anticipate the steep increase in airline travel, so the TSA is now rushing to get new screeners on the line",
+          "修饰对象": "is",
+          "中文翻译": "政府没有预料到航空出行量的急剧增长，因此运输安全管理局现在正急于让新的安检员上岗",
+          "说明": "that 引导表语从句，作 is 的表语。"
+        },
+        {
+          "成分类型": "状语从句(结果)",
+          "原文": "so the TSA is now rushing to get new screeners on the line",
+          "修饰对象": "anticipate",
+          "中文翻译": "因此运输安全管理局现在正急于让新的安检员上岗",
+          "说明": "so 引导结果状语从句（在表语从句内部），表明没有预料到所导致的结果。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to get new screeners on the line",
+          "修饰对象": "rushing",
+          "中文翻译": "（急于）让新的安检员上岗",
+          "说明": "不定式作 rushing 的补足语，表示动作的内容/目的。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "new screeners on the line",
+          "修饰对象": "get",
+          "中文翻译": "新的安检员上岗",
+          "说明": "get 的复合宾语结构，new screeners 为宾语，on the line 为宾语补足语。"
+        }
+      ],
+      "zh": "问题的一部分在于，政府没有预料到航空出行量的急剧增长，因此运输安全管理局现在正急于让新的安检员上岗。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2017-text1-s10",
+      "s": "Part of the issue is that airports have only so much room for screening lanes.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Part of the issue",
+        "谓语": "is",
+        "宾语或表语": "that airports have only so much room for screening lanes",
+        "主干翻译": "问题的一部分在于机场用于安检通道的空间就那么多。"
+      },
+      "components": [
+        {
+          "成分类型": "表语从句",
+          "原文": "that airports have only so much room for screening lanes",
+          "修饰对象": "is",
+          "中文翻译": "机场用于安检通道的空间就那么多（很有限）",
+          "说明": "that 引导表语从句，作 is 的表语，only so much 表示数量有限。"
+        }
+      ],
+      "zh": "问题的一部分在于，机场可用于设置安检通道的空间就那么多（十分有限）。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2017-text1-s11",
+      "s": "Another factor may be that more people are trying to overpack their carry-on bags to avoid checked-baggage fees, though the airlines strongly dispute this.",
+      "para_no": 4,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Another factor",
+        "谓语": "may be",
+        "宾语或表语": "that more people are trying to overpack their carry-on bags",
+        "主干翻译": "另一个因素可能是，越来越多的人试图把随身行李塞得过满。"
+      },
+      "components": [
+        {
+          "成分类型": "表语从句",
+          "原文": "that more people are trying to overpack their carry-on bags to avoid checked-baggage fees, though the airlines strongly dispute this",
+          "修饰对象": "be",
+          "中文翻译": "越来越多的人为避免托运行李费而试图把随身行李塞得过满，尽管航空公司对此强烈否认",
+          "说明": "that 引导表语从句，作 may be 的表语。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to overpack their carry-on bags to avoid checked-baggage fees",
+          "修饰对象": "trying",
+          "中文翻译": "把随身行李塞得过满以避免托运行李费",
+          "说明": "不定式作 trying 的补足语。"
+        },
+        {
+          "成分类型": "状语从句(目的)",
+          "原文": "to avoid checked-baggage fees",
+          "修饰对象": "overpack",
+          "中文翻译": "为了避免托运行李费",
+          "说明": "不定式作目的状语，修饰 overpack。"
+        },
+        {
+          "成分类型": "状语从句(让步)",
+          "原文": "though the airlines strongly dispute this",
+          "修饰对象": "trying",
+          "中文翻译": "尽管航空公司对此强烈否认",
+          "说明": "though 引导让步状语从句，this 指代上述说法。"
+        }
+      ],
+      "zh": "另一个因素可能是，越来越多的人为避免托运行李费而试图把随身行李塞得过满，尽管航空公司对此强烈否认。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2017-text1-s12",
+      "s": "There is one step the TSA could take that would not require remodeling airports or rushing to hire: Enroll more people in the PreCheck program.",
+      "para_no": 5,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "one step",
+        "谓语": "is",
+        "宾语或表语": "There (倒装)",
+        "主干翻译": "有一个步骤（措施）是运输安全管理局可以采取的。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "the TSA could take",
+          "修饰对象": "step",
+          "中文翻译": "运输安全管理局可以采取的",
+          "说明": "省略关系代词 that 的定语从句，修饰 one step，关系代词作 take 的宾语。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that would not require remodeling airports or rushing to hire",
+          "修饰对象": "step",
+          "中文翻译": "（这一步骤）既不需要改建机场，也不需要急于招人",
+          "说明": "that 引导限制性定语从句，修饰 one step，that 作主语。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "remodeling airports or rushing to hire",
+          "修饰对象": "require",
+          "中文翻译": "改建机场或急于招人",
+          "说明": "动名词短语作 require 的宾语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "rushing to hire",
+          "修饰对象": "remodeling",
+          "中文翻译": "（或）急于招人",
+          "说明": "与 remodeling airports 由 or 连接的并列动名词短语。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to hire",
+          "修饰对象": "rushing",
+          "中文翻译": "去招人",
+          "说明": "不定式作 rushing 的补足语。"
+        },
+        {
+          "成分类型": "同位语",
+          "原文": "Enroll more people in the PreCheck program",
+          "修饰对象": "step",
+          "中文翻译": "（即）让更多的人加入预检计划",
+          "说明": "冒号后的祈使句，对 one step 作具体说明，相当于同位语。"
+        }
+      ],
+      "zh": "有一个步骤是运输安全管理局可以采取的，它既不需要改建机场，也不需要急于招人：那就是让更多的人加入预检（PreCheck）计划。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2017-text1-s13",
+      "s": "PreCheck is supposed to be a win-win for travelers and the TSA. Passengers who pass a background check are eligible to use expedited screening lanes.",
+      "para_no": 5,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "PreCheck",
+        "谓语": "is supposed to be",
+        "宾语或表语": "a win-win for travelers and the TSA",
+        "主干翻译": "预检计划本应是旅客和运输安全管理局双赢的。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to be a win-win for travelers and",
+          "修饰对象": "supposed",
+          "中文翻译": "（本应）是……双赢的局面",
+          "说明": "不定式作 supposed 的补足语，构成 be supposed to be 结构。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "who pass a background check",
+          "修饰对象": "Passengers",
+          "中文翻译": "通过背景审查的（乘客）",
+          "说明": "who 引导限制性定语从句，修饰 Passengers，who 作主语。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to use expedited screening lanes",
+          "修饰对象": "eligible",
+          "中文翻译": "使用快速安检通道",
+          "说明": "不定式作 eligible 的补足语，说明有资格做什么。"
+        }
+      ],
+      "zh": "预检计划本应是旅客和运输安全管理局双赢的局面。通过背景审查的乘客有资格使用快速安检通道。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2017-text1-s14",
+      "s": "This allows the TSA to focus on travelers who are higher risk, saving time for everyone involved.",
+      "para_no": 5,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "This",
+        "谓语": "allows",
+        "宾语或表语": "the TSA to focus on travelers",
+        "主干翻译": "这使得运输安全管理局能够把注意力集中在（高风险的）旅客身上。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "the TSA to focus on travelers who are higher risk",
+          "修饰对象": "allows",
+          "中文翻译": "运输安全管理局把注意力集中在风险更高的旅客身上",
+          "说明": "allow sb. to do 复合宾语结构，the TSA 为宾语，不定式为宾语补足语。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "who are higher risk",
+          "修饰对象": "travelers",
+          "中文翻译": "风险更高的（旅客）",
+          "说明": "who 引导限制性定语从句，修饰 travelers，who 作主语。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "saving time for everyone involved",
+          "修饰对象": "allows",
+          "中文翻译": "从而为所有相关人员节省时间",
+          "说明": "现在分词短语作结果状语，表明前述做法所带来的效果。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "involved",
+          "修饰对象": "everyone",
+          "中文翻译": "相关的（每个人）",
+          "说明": "过去分词作后置定语，修饰 everyone。"
+        }
+      ],
+      "zh": "这使得运输安全管理局能够把注意力集中在风险更高的旅客身上，从而为所有相关人员节省时间。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2017-text1-s15",
+      "s": "The TSA wants to enroll 25 million people in PreCheck.",
+      "para_no": 5,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "The TSA",
+        "谓语": "wants",
+        "宾语或表语": "to enroll 25 million people in PreCheck",
+        "主干翻译": "运输安全管理局希望让2500万人加入预检计划。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to enroll 25 million people in PreCheck",
+          "修饰对象": "wants",
+          "中文翻译": "让2500万人加入预检计划",
+          "说明": "不定式短语作 wants 的宾语。"
+        }
+      ],
+      "zh": "运输安全管理局希望让2500万人加入预检计划。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2017-text1-s16",
+      "s": "It has not gotten anywhere close to that, and one big reason is sticker shock: Passengers must pay $85 every five years to process their background checks.",
+      "para_no": 6,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "It",
+        "谓语": "has not gotten",
+        "宾语或表语": "anywhere close to that",
+        "主干翻译": "它（实际人数）远远没有达到那个目标。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "one big reason is sticker shock: Passengers must pay $85 every five years to process their background checks.",
+          "修饰对象": "gotten",
+          "中文翻译": "一个重要原因是价格令人咋舌：乘客每五年必须支付85美元来办理背景审查",
+          "说明": "由 and 连接的并列分句，与前一分句并列；其内部主干为 one big reason is sticker shock。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "one big reason is sticker shock",
+          "修饰对象": "—",
+          "中文翻译": "一个重要原因是价格令人咋舌",
+          "说明": "并列分句内部的主系表结构，is 为系动词，sticker shock 为表语。"
+        },
+        {
+          "成分类型": "状语从句(目的)",
+          "原文": "to process their background checks",
+          "修饰对象": "pay",
+          "中文翻译": "以办理他们的背景审查",
+          "说明": "不定式作目的状语，修饰 pay。"
+        }
+      ],
+      "zh": "它（实际人数）远远没有接近那个目标，一个重要原因是价格令人咋舌：乘客每五年必须支付85美元来办理背景审查。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2017-text1-s17",
+      "s": "Since the beginning, this price tag has been PreCheck's fatal flaw.",
+      "para_no": 6,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "this price tag",
+        "谓语": "has been",
+        "宾语或表语": "PreCheck's fatal flaw",
+        "主干翻译": "这一价格一直是预检计划的致命缺陷。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "Since the beginning",
+          "修饰对象": "has been",
+          "中文翻译": "从一开始",
+          "说明": "介词短语作时间状语，与现在完成时 has been 呼应。"
+        }
+      ],
+      "zh": "从一开始，这一价格就一直是预检计划的致命缺陷。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2017-text1-s18",
+      "s": "Upcoming reforms might bring the price to a more reasonable level.",
+      "para_no": 6,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Upcoming reforms",
+        "谓语": "might bring",
+        "宾语或表语": "the price",
+        "主干翻译": "即将到来的改革或许能把价格降下来。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "to a more reasonable level",
+          "修饰对象": "bring",
+          "中文翻译": "降到一个更合理的水平",
+          "说明": "介词短语作结果/方向状语，修饰 bring，说明把价格带到何种水平。"
+        }
+      ],
+      "zh": "即将到来的改革或许能把价格降到一个更合理的水平。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2017-text1-s19",
+      "s": "But Congress should look into doing so directly, by helping to finance PreCheck enrollment or to cut costs in other ways.",
+      "para_no": 6,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "Congress",
+        "谓语": "should look into",
+        "宾语或表语": "doing so directly",
+        "主干翻译": "国会应当研究如何直接这么做。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "by helping to finance PreCheck enrollment or to cut costs in other ways",
+          "修饰对象": "look",
+          "中文翻译": "通过帮助资助预检计划的注册费用或以其他方式削减成本",
+          "说明": "by 引导的介词短语作方式状语，说明直接行动的途径。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to finance PreCheck enrollment or to cut costs in other ways",
+          "修饰对象": "helping",
+          "中文翻译": "资助预检计划的注册费用或以其他方式削减成本",
+          "说明": "不定式作 helping 的补足语（help to do）。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "to cut costs in other ways",
+          "修饰对象": "finance",
+          "中文翻译": "（或）以其他方式削减成本",
+          "说明": "与 to finance PreCheck enrollment 由 or 连接的并列不定式。"
+        }
+      ],
+      "zh": "但国会应当研究如何直接这么做，即通过帮助资助预检计划的注册费用，或以其他方式削减成本。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2017-text1-s20",
+      "s": "The TSA cannot continue diverting resources into underused PreCheck lanes while most of the traveling public suffers in unnecessary lines.",
+      "para_no": 7,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The TSA",
+        "谓语": "cannot continue",
+        "宾语或表语": "diverting resources into underused PreCheck lanes",
+        "主干翻译": "运输安全管理局不能继续把资源转移到利用率不足的预检通道上。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "diverting resources into underused PreCheck lanes",
+          "修饰对象": "continue",
+          "中文翻译": "把资源转移到利用率不足的预检通道上",
+          "说明": "动名词短语作 continue 的宾语。"
+        },
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "while most of the traveling public suffers in unnecessary lines",
+          "修饰对象": "continue",
+          "中文翻译": "而与此同时大多数出行公众却在不必要的排队中受苦",
+          "说明": "while 引导时间状语从句，含对比意味，表示与此同时的另一情形。"
+        }
+      ],
+      "zh": "运输安全管理局不能继续把资源转移到利用率不足的预检通道上，而与此同时大多数出行公众却在不必要的排队中饱受煎熬。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2017-text1-s21",
+      "s": "It is long past time to make the program work.",
+      "para_no": 7,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "It",
+        "谓语": "is",
+        "宾语或表语": "long past time",
+        "主干翻译": "早就该（让这个计划发挥作用）了。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to make the program work",
+          "修饰对象": "time",
+          "中文翻译": "让这个计划发挥作用",
+          "说明": "不定式作定语修饰 time，It 为形式主语指代时间，表示早该做某事。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "the program work",
+          "修饰对象": "make",
+          "中文翻译": "这个计划运转起来",
+          "说明": "make 的复合宾语结构，the program 为宾语，work 为宾语补足语（不带 to 的不定式）。"
+        }
+      ],
+      "zh": "早就该让这个计划真正发挥作用了。",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2017-text1-s1"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2017-text1-s2",
+        "en1-2017-text1-s3",
+        "en1-2017-text1-s4",
+        "en1-2017-text1-s5"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2017-text1-s6",
+        "en1-2017-text1-s7",
+        "en1-2017-text1-s8"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2017-text1-s9",
+        "en1-2017-text1-s10",
+        "en1-2017-text1-s11"
+      ]
+    },
+    {
+      "para_no": 5,
+      "sids": [
+        "en1-2017-text1-s12",
+        "en1-2017-text1-s13",
+        "en1-2017-text1-s14",
+        "en1-2017-text1-s15"
+      ]
+    },
+    {
+      "para_no": 6,
+      "sids": [
+        "en1-2017-text1-s16",
+        "en1-2017-text1-s17",
+        "en1-2017-text1-s18",
+        "en1-2017-text1-s19"
+      ]
+    },
+    {
+      "para_no": 7,
+      "sids": [
+        "en1-2017-text1-s20",
+        "en1-2017-text1-s21"
+      ]
+    }
+  ]
+}

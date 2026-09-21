@@ -1,0 +1,648 @@
+{
+  "exam": "en1",
+  "key": "2020-t2",
+  "year": 2020,
+  "text_no": 2,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2020-text2-s1",
+      "s": "Scientific publishing has long been a licence to print money.",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Scientific publishing",
+        "谓语": "has long been",
+        "宾语或表语": "a licence",
+        "主干翻译": "科学出版长期以来一直是一张许可证。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to print money",
+          "修饰对象": "licence",
+          "中文翻译": "印钞的",
+          "说明": "动词不定式作后置定语，修饰 licence，"
+        }
+      ],
+      "zh": "科学出版长期以来一直是一张印钞许可证（即一门稳赚不赔的生意）。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2020-text2-s2",
+      "s": "Scientists need journals in which to publish their research, so they will supply the articles without monetary reward.",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Scientists",
+        "谓语": "need",
+        "宾语或表语": "journals",
+        "主干翻译": "科学家需要期刊。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "in which to publish their research",
+          "修饰对象": "journals",
+          "中文翻译": "（科学家）在其中发表研究成果的",
+          "说明": "in which 引导的不定式定语结构，修饰先行词 journals。"
+        },
+        {
+          "成分类型": "状语从句(结果)",
+          "原文": "so they will supply the articles without monetary reward",
+          "修饰对象": "—",
+          "中文翻译": "因此他们会无偿提供文章",
+          "说明": "so 引导结果状语从句，承接前句，表明因需要期刊而无偿供稿。"
+        }
+      ],
+      "zh": "科学家需要可供发表其研究成果的期刊，因此他们会无偿提供文章。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2020-text2-s3",
+      "s": "Other scientists perform the specialised work of peer review also for free, because it is a central element in the acquisition of status and the production of scientific knowledge.",
+      "para_no": 1,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Other scientists",
+        "谓语": "perform",
+        "宾语或表语": "the specialised work of peer review",
+        "主干翻译": "其他科学家从事同行评审这项专门工作。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(原因)",
+          "原文": "because it is a central element in the acquisition of status and the production of scientific knowledge",
+          "修饰对象": "perform",
+          "中文翻译": "因为它是获取地位和产出科学知识过程中的一个核心要素",
+          "说明": "because 引导原因状语从句，解释为何无偿做同行评审。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "the production of scientific knowledge",
+          "修饰对象": "acquisition",
+          "中文翻译": "科学知识的产出",
+          "说明": "由 and 连接，与 the acquisition of status 并列，同作介词 in 的宾语。"
+        }
+      ],
+      "zh": "其他科学家也无偿从事同行评审这项专门工作，因为它是获取地位和产出科学知识过程中的一个核心要素。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2020-text2-s4",
+      "s": "With the content of papers secured for free, the publisher needs only find a market for its journal.",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "the publisher",
+        "谓语": "needs",
+        "宾语或表语": "only find a market for its journal",
+        "主干翻译": "出版商只需为其期刊找到市场即可。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "With the content of papers secured for free",
+          "修饰对象": "needs",
+          "中文翻译": "由于论文内容是免费获得的",
+          "说明": "with复合结构（with + 宾语 + 过去分词）作伴随/原因状语。"
+        },
+        {
+          "成分类型": "非谓语作宾语",
+          "原文": "find a market for its journal",
+          "修饰对象": "needs",
+          "中文翻译": "为其期刊找到市场",
+          "说明": "省略to的不定式作need的宾语（need only do）。"
+        }
+      ],
+      "zh": "由于论文内容是免费获得的，出版商只需为其期刊找到市场即可。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2020-text2-s5",
+      "s": "Until this century, university libraries were not very price sensitive.",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "university libraries",
+        "谓语": "were not",
+        "宾语或表语": "very price sensitive",
+        "主干翻译": "大学图书馆对价格不太敏感。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "Until this century",
+          "修饰对象": "were",
+          "中文翻译": "直到本世纪之前",
+          "说明": "介词短语作时间状语，限定句子的时间范围。"
+        }
+      ],
+      "zh": "直到本世纪之前，大学图书馆对价格都不太敏感。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2020-text2-s6",
+      "s": "Scientific publishers routinely report profit margins approaching 40% on their operations, at a time when the rest of the publishing industry is in an existential crisis.",
+      "para_no": 2,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Scientific publishers",
+        "谓语": "routinely report",
+        "宾语或表语": "profit margins",
+        "主干翻译": "科学出版商照例报告利润率。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "approaching 40% on their operations",
+          "修饰对象": "margins",
+          "中文翻译": "其业务上接近40%的",
+          "说明": "现在分词短语作后置定语，修饰 profit margins。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "when the rest of the publishing industry is in an existential crisis",
+          "修饰对象": "time",
+          "中文翻译": "出版业其余部分正处于生存危机之中的",
+          "说明": "when 引导定语从句，修饰 a time，介词短语 at a time 作状语。"
+        }
+      ],
+      "zh": "科学出版商照例报告其业务上接近40%的利润率，而此时出版业的其他部分正处于生存危机之中。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2020-text2-s7",
+      "s": "The Dutch giant Elsevier, which claims to publish 25% of the scientific papers produced in the world, made profits of more than £900m last year, while UK universities alone spent more than £210 m in 2016 to enable researchers to access their own publicly funded research; both figures seem to rise unstoppably despite increasingly desperate efforts to change them.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The Dutch giant Elsevier ... both figures",
+        "谓语": "made / seem",
+        "宾语或表语": "profits / to rise",
+        "主干翻译": "荷兰巨头爱思唯尔去年赚取了利润；两个数字似乎都在不可阻挡地上升。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "which claims to publish 25% of the scientific papers produced in the world",
+          "修饰对象": "Elsevier",
+          "中文翻译": "声称发表了全世界所产出科学论文的25%的",
+          "说明": "which 引导非限制性定语从句，修饰 Elsevier。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "produced in the world",
+          "修饰对象": "papers",
+          "中文翻译": "全世界产出的",
+          "说明": "过去分词短语作后置定语，修饰 the scientific papers。"
+        },
+        {
+          "成分类型": "状语从句(比较)",
+          "原文": "while UK universities alone spent more than £210 m in 2016 to enable researchers to access their own publicly funded research",
+          "修饰对象": "made",
+          "中文翻译": "而仅英国的大学在2016年就花费了逾2.1亿英镑，以使研究人员能够访问他们自己的由公共资金资助的研究成果",
+          "说明": "while 引导对比/比较状语从句，将爱思唯尔的高利润与大学的高支出相对照。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to enable researchers to access their own publicly funded research",
+          "修饰对象": "spent",
+          "中文翻译": "以使研究人员能够访问其自身由公共资金资助的研究成果",
+          "说明": "不定式短语作目的状语，说明花费的目的；其中含 to access 作 enable 的宾补。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to rise unstoppably despite increasingly desperate efforts to change them",
+          "修饰对象": "seem",
+          "中文翻译": "（似乎）不可阻挡地上升，尽管人们做出了愈发拼命的努力来改变它们",
+          "说明": "seem to rise 为系表/复合谓语结构，不定式作主语补足语；despite 短语作让步状语。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to change them",
+          "修饰对象": "efforts",
+          "中文翻译": "改变它们的",
+          "说明": "不定式短语作后置定语，修饰 efforts。"
+        }
+      ],
+      "zh": "荷兰巨头爱思唯尔声称发表了全世界所产出科学论文的25%，去年赚取了逾9亿英镑的利润，而仅英国的大学在2016年就花费了逾2.1亿英镑，以使研究人员能够访问他们自己的由公共资金资助的研究成果；尽管人们做出了愈发拼命的努力来改变这两个数字，它们似乎仍在不可阻挡地上升。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2020-text2-s8",
+      "s": "The most drastic, an thoroughly illegal, reaction has been the emergence of Sci-Hub, a kind of global photocopier for scientific papers, set up in 2012, which now claims to offer access to every paywalled article published since 2015.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The most drastic ... reaction",
+        "谓语": "has been",
+        "宾语或表语": "the emergence of Sci-Hub",
+        "主干翻译": "最为激烈的反应一直是Sci-Hub的出现。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "an thoroughly illegal",
+          "修饰对象": "reaction",
+          "中文翻译": "且完全非法的",
+          "说明": "破折号/逗号间插入的形容词性结构，补充修饰 reaction（原文 an 疑为 and 之误）。"
+        },
+        {
+          "成分类型": "同位语",
+          "原文": "a kind of global photocopier for scientific papers",
+          "修饰对象": "Sci-Hub",
+          "中文翻译": "一种面向科学论文的全球复印机",
+          "说明": "名词短语作 Sci-Hub 的同位语，解释其性质。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "set up in 2012",
+          "修饰对象": "Sci-Hub",
+          "中文翻译": "创建于2012年的",
+          "说明": "过去分词短语作后置定语，修饰 Sci-Hub。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "which now claims to offer access to every paywalled article published since 2015",
+          "修饰对象": "Sci-Hub",
+          "中文翻译": "如今声称能提供自2015年以来发表的每一篇付费墙文章访问权的",
+          "说明": "which 引导非限制性定语从句，修饰 Sci-Hub；内含 to offer 作不定式补足语。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "published since 2015",
+          "修饰对象": "article",
+          "中文翻译": "自2015年以来发表的",
+          "说明": "过去分词短语作后置定语，修饰 every paywalled article。"
+        }
+      ],
+      "zh": "最为激烈、且完全非法的反应，便是Sci-Hub的出现——这是一种面向科学论文的全球复印机，创建于2012年，如今声称能提供自2015年以来发表的每一篇付费墙文章的访问权。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2020-text2-s9",
+      "s": "The success of Sci-Hub, which relies on researchers passing on copies they have themselves legally accessed, shows the legal ecosystem has lost legitimacy among its users and must be transformed so that it works for all participants.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "The success of Sci-Hub",
+        "谓语": "shows",
+        "宾语或表语": "(that) the legal ecosystem has lost legitimacy ... and must be transformed",
+        "主干翻译": "Sci-Hub的成功表明，这个合法的生态系统已经失去了合法性，必须加以变革。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "which relies on researchers passing on copies they have themselves legally accessed",
+          "修饰对象": "Sci-Hub",
+          "中文翻译": "依赖研究人员传递他们自己合法获取的副本的",
+          "说明": "which 引导非限制性定语从句，修饰 Sci-Hub；passing 为动名词复合结构。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "they have themselves legally accessed",
+          "修饰对象": "copies",
+          "中文翻译": "他们自己已合法获取的",
+          "说明": "省略关系代词 that 的定语从句，修饰 copies。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "the legal ecosystem has lost legitimacy among its users and must be transformed so that it works for all participants",
+          "修饰对象": "shows",
+          "中文翻译": "这个合法生态系统已在其用户中失去了合法性，且必须加以变革以使其惠及所有参与者",
+          "说明": "省略 that 的宾语从句，作 shows 的宾语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "must be transformed so that it works for all participants",
+          "修饰对象": "lost",
+          "中文翻译": "必须加以变革，以使其惠及所有参与者",
+          "说明": "由 and 连接，与 has lost legitimacy 并列，同为宾语从句的谓语部分。"
+        },
+        {
+          "成分类型": "状语从句(目的)",
+          "原文": "so that it works for all participants",
+          "修饰对象": "transformed",
+          "中文翻译": "以便它能惠及所有参与者",
+          "说明": "so that 引导目的状语从句，说明变革的目的。"
+        }
+      ],
+      "zh": "Sci-Hub依赖研究人员传递他们自己合法获取的副本，它的成功表明，这个合法的生态系统已在其用户中失去了合法性，必须加以变革，以便惠及所有参与者。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2020-text2-s10",
+      "s": "In Britain the move towards open access publishing has been driven by funding bodies.",
+      "para_no": 5,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "the move towards open access publishing",
+        "谓语": "has been driven",
+        "宾语或表语": "by funding bodies",
+        "主干翻译": "迈向开放获取出版的进程一直是由资助机构推动的。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "In Britain",
+          "修饰对象": "driven",
+          "中文翻译": "在英国",
+          "说明": "介词短语作地点状语。"
+        }
+      ],
+      "zh": "在英国，迈向开放获取出版的进程一直是由资助机构推动的。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2020-text2-s11",
+      "s": "In some ways it has been very successful.",
+      "para_no": 5,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "it",
+        "谓语": "has been",
+        "宾语或表语": "very successful",
+        "主干翻译": "它一直非常成功。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "In some ways",
+          "修饰对象": "successful",
+          "中文翻译": "在某些方面",
+          "说明": "介词短语作方式/范围状语。"
+        }
+      ],
+      "zh": "在某些方面，它一直非常成功。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2020-text2-s12",
+      "s": "More than half of all British scientific research is now published under open access terms: either freely available from the moment of publication, or paywalled for a year or more so that the publishers can make a profit before being placed on general release.",
+      "para_no": 5,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "More than half of all British scientific research",
+        "谓语": "is now published",
+        "宾语或表语": "under open access terms",
+        "主干翻译": "如今，超过一半的英国科学研究是按开放获取条款发表的。"
+      },
+      "components": [
+        {
+          "成分类型": "同位语",
+          "原文": "either freely available from the moment of publication, or paywalled for a year or more so that the publishers can make a profit before being placed on general release",
+          "修饰对象": "terms",
+          "中文翻译": "即要么自发表之时起便可免费获取，要么被设置付费墙一年或更久，以便出版商在内容公开发布之前获利",
+          "说明": "对 open access terms 的同位语说明，以 either...or... 展开。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "paywalled for a year or more so that the publishers can make a profit before being placed on general release",
+          "修饰对象": "available",
+          "中文翻译": "被设置付费墙一年或更久，以便出版商在内容公开发布前获利",
+          "说明": "either...or... 并列，与 freely available 并列。"
+        },
+        {
+          "成分类型": "状语从句(目的)",
+          "原文": "so that the publishers can make a profit before being placed on general release",
+          "修饰对象": "paywalled",
+          "中文翻译": "以便出版商能在内容被公开发布之前获利",
+          "说明": "so that 引导目的状语从句；before 短语作时间状语。"
+        }
+      ],
+      "zh": "如今，超过一半的英国科学研究都是按开放获取条款发表的：要么自发表之时起便可免费获取，要么被设置付费墙一年或更久，以便出版商在内容公开发布之前获利。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2020-text2-s13",
+      "s": "Yet the new system has not yet worked out any cheaper for the universities.",
+      "para_no": 6,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "the new system",
+        "谓语": "has not yet worked out",
+        "宾语或表语": "any cheaper",
+        "主干翻译": "新体系尚未变得更便宜。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "for the universities",
+          "修饰对象": "worked out",
+          "中文翻译": "对各大学而言",
+          "说明": "介词短语作状语，限定 cheaper 的对象。"
+        }
+      ],
+      "zh": "然而，对各大学而言，这套新体系尚未被证明能省下任何钱。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2020-text2-s14",
+      "s": "Publishers have responded to the demand that they make their product free to readers by charging their writers fees to cover the costs of preparing an article.",
+      "para_no": 6,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Publishers",
+        "谓语": "have responded",
+        "宾语或表语": "to the demand",
+        "主干翻译": "出版商对这一要求做出了回应。"
+      },
+      "components": [
+        {
+          "成分类型": "同位语从句",
+          "原文": "that they make their product free to readers",
+          "修饰对象": "demand",
+          "中文翻译": "他们让其产品对读者免费",
+          "说明": "that 引导同位语从句，说明 demand 的内容；make 为宾补结构。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "by charging their writers fees to cover the costs of preparing an article",
+          "修饰对象": "responded",
+          "中文翻译": "通过向作者收取费用以弥补准备一篇文章的成本",
+          "说明": "by 引导方式状语，说明回应的方式；其中含目的不定式 to cover。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to cover the costs of preparing an article",
+          "修饰对象": "charging",
+          "中文翻译": "以弥补准备一篇文章的成本",
+          "说明": "不定式短语作目的状语，说明收取费用的目的。"
+        }
+      ],
+      "zh": "出版商对让其产品对读者免费这一要求做出了回应——办法是向作者收取费用，以弥补准备一篇文章的成本。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2020-text2-s15",
+      "s": "These range from around £500 to $5,000, and apparently the work gets more expensive the more that publishers do it.",
+      "para_no": 6,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "These",
+        "谓语": "range",
+        "宾语或表语": "from around £500 to $5,000",
+        "主干翻译": "这些费用从约500英镑到5000美元不等。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "from around £500 to $5,000",
+          "修饰对象": "range",
+          "中文翻译": "从约500英镑到5000美元",
+          "说明": "from...to... 介词短语作状语，表示范围。"
+        }
+      ],
+      "zh": "这些费用从约500英镑到5000美元不等，而且显然出版商做得越多，这项工作就越昂贵。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2020-text2-s16",
+      "s": "A report last year pointed out that the costs both of subscriptions and of these \"article preparation costs\" had been steadily rising at a rate above inflation.",
+      "para_no": 6,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "A report",
+        "谓语": "pointed out",
+        "宾语或表语": "that ... had been steadily rising",
+        "主干翻译": "去年的一份报告指出，这些成本一直在稳步上升。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "that the costs both of subscriptions and of these \"article preparation costs\" had been steadily rising at a rate above inflation",
+          "修饰对象": "pointed",
+          "中文翻译": "订阅费和这些“文章准备费”的成本都一直以高于通胀的速度稳步上升",
+          "说明": "that 引导宾语从句，作 pointed out 的宾语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "of these \"article preparation costs\"",
+          "修饰对象": "of",
+          "中文翻译": "这些“文章准备费”的",
+          "说明": "both...and... 并列，与 of subscriptions 并列，共同限定 the costs。"
+        }
+      ],
+      "zh": "去年的一份报告指出，订阅费和这些“文章准备费”的成本都一直以高于通胀的速度稳步上升。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2020-text2-s17",
+      "s": "In some ways the scientific publishing model resembles the economy of the social internet: labour is provided free in exchange for the hope of status, while huge profits are made by a few big firms who run the market places.",
+      "para_no": 6,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "the scientific publishing model",
+        "谓语": "resembles",
+        "宾语或表语": "the economy of the social internet",
+        "主干翻译": "科学出版模式类似于社交互联网的经济。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "In some ways",
+          "修饰对象": "resembles",
+          "中文翻译": "在某些方面",
+          "说明": "介词短语作方式/范围状语。"
+        },
+        {
+          "成分类型": "状语从句(方式)",
+          "原文": "free",
+          "修饰对象": "provided",
+          "中文翻译": "免费地",
+          "说明": "形容词 free 作状语，修饰 is provided，说明提供劳动的方式（无偿）。"
+        },
+        {
+          "成分类型": "状语从句(比较)",
+          "原文": "while huge profits are made by a few big firms who run the market places",
+          "修饰对象": "provided",
+          "中文翻译": "而巨额利润却由少数几家经营这些市场平台的大公司赚取",
+          "说明": "while 引导对比/比较状语从句，将无偿劳动与少数公司的巨利相对照。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "who run the market places",
+          "修饰对象": "firms",
+          "中文翻译": "经营这些市场平台的",
+          "说明": "who 引导定语从句，修饰 a few big firms。"
+        }
+      ],
+      "zh": "在某些方面，科学出版模式类似于社交互联网的经济：劳动被无偿提供，以换取对地位的期望，而巨额利润却由少数几家经营这些市场平台的大公司赚取。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2020-text2-s18",
+      "s": "In both cases, we need a rebalancing of power.",
+      "para_no": 6,
+      "para_seq": 5,
+      "trunk": {
+        "主语": "we",
+        "谓语": "need",
+        "宾语或表语": "a rebalancing of power",
+        "主干翻译": "我们需要一种权力的再平衡。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "In both cases",
+          "修饰对象": "need",
+          "中文翻译": "在这两种情况下",
+          "说明": "介词短语作状语。"
+        }
+      ],
+      "zh": "在这两种情况下，我们都需要一种权力的再平衡。",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2020-text2-s1",
+        "en1-2020-text2-s2",
+        "en1-2020-text2-s3"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2020-text2-s4",
+        "en1-2020-text2-s5",
+        "en1-2020-text2-s6"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2020-text2-s7"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2020-text2-s8",
+        "en1-2020-text2-s9"
+      ]
+    },
+    {
+      "para_no": 5,
+      "sids": [
+        "en1-2020-text2-s10",
+        "en1-2020-text2-s11",
+        "en1-2020-text2-s12"
+      ]
+    },
+    {
+      "para_no": 6,
+      "sids": [
+        "en1-2020-text2-s13",
+        "en1-2020-text2-s14",
+        "en1-2020-text2-s15",
+        "en1-2020-text2-s16",
+        "en1-2020-text2-s17",
+        "en1-2020-text2-s18"
+      ]
+    }
+  ]
+}

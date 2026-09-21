@@ -1,0 +1,1568 @@
+{
+  "year": 2020,
+  "filename": "2020.pdf",
+  "era": "era3",
+  "era_label": "第三阶段+(2005至今 英一)",
+  "total_pages": 15,
+  "max_question_number": 52,
+  "found_question_count": 52,
+  "extracted_question_count": 52,
+  "sections": {
+    "cloze": {
+      "name": "Section I 完形填空",
+      "type": "cloze",
+      "question_range": [
+        1,
+        20
+      ],
+      "text": "1. [A] In       [B] Towards  [C] On       [D] Till             \n                                                                          \n          2. [A] match     [B] express  [C] satisfy  [D] infl",
+      "article": "Section I Use of English\nEven if families don't sit down to eat together as frequently as before, millions\nof Britons will nonetheless have got a share this weekend of one of the nation's great\ntraditions: the Sunday roast. ] a cold winter5s day, few culinary pleasures can\n2  it. Yet as we report now, the food police are determined that this 3 should\nbe rendered yet another guilty pleasure 4 to damage our health.\nThe Food Standards Authority (FSA) has 5 a public warning about the\nrisks of a compound called acrylamide that forms in some foods cooked 6 high\ntemperatures. This means that people should 7 crisping their roast potatoes,\nreject thin-crust pizzas and only 8 toast their bread. But where is the evidence\nto support such alarmist advice? 9 studies have shown that acrylamide can\ncause neurological damage in mice, there is no 10 evidence that it causes\ncancer in humans.\nScientists say the compound is 11 to cause cancer but have no hard scientific\nproof 12   the precautionary principle, it could be argued that it is 13 to\nfollow the FSA advice. 14 , it was rumoured that smoking caused cancer fbr years\nbefore the evidence was found to prove a 15 .\nDoubtless a piece of boiled beef can always be 16 up on Sunday\nalongside some steamed vegetables, without the Yorkshire pudding and no wine. But\nwould life be worth living? 17 , the FSA says it is not telling people to cut out roast\nfoods 18 , but to reduce their lifetime intake. However, their 19 risks coming\nacross as being pushy and overprotective. Constant health scares just 20 with no\none listening.",
+      "questions": [
+        {
+          "number": 1,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "In"
+            },
+            {
+              "label": "B",
+              "text": "Towards"
+            },
+            {
+              "label": "C",
+              "text": "On"
+            },
+            {
+              "label": "D",
+              "text": "Till"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 2,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "match"
+            },
+            {
+              "label": "B",
+              "text": "express"
+            },
+            {
+              "label": "C",
+              "text": "satisfy"
+            },
+            {
+              "label": "D",
+              "text": "influence"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 3,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "patience"
+            },
+            {
+              "label": "B",
+              "text": "enjoyment"
+            },
+            {
+              "label": "C",
+              "text": "surprise"
+            },
+            {
+              "label": "D",
+              "text": "concern"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 4,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "intensified"
+            },
+            {
+              "label": "B",
+              "text": "privileged"
+            },
+            {
+              "label": "C",
+              "text": "compelled"
+            },
+            {
+              "label": "D",
+              "text": "guaranteed"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 5,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "issued"
+            },
+            {
+              "label": "B",
+              "text": "received"
+            },
+            {
+              "label": "C",
+              "text": "ignored"
+            },
+            {
+              "label": "D",
+              "text": "cancelled"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 6,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "under"
+            },
+            {
+              "label": "B",
+              "text": "at"
+            },
+            {
+              "label": "C",
+              "text": "for"
+            },
+            {
+              "label": "D",
+              "text": "by"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 7,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "forget"
+            },
+            {
+              "label": "B",
+              "text": "regret"
+            },
+            {
+              "label": "C",
+              "text": "finish"
+            },
+            {
+              "label": "D",
+              "text": "avoid"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 8,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "partially"
+            },
+            {
+              "label": "B",
+              "text": "regularly"
+            },
+            {
+              "label": "C",
+              "text": "easily"
+            },
+            {
+              "label": "D",
+              "text": "initially"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 9,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "Unless"
+            },
+            {
+              "label": "B",
+              "text": "Since"
+            },
+            {
+              "label": "C",
+              "text": "If"
+            },
+            {
+              "label": "D",
+              "text": "While"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 10,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "secondary"
+            },
+            {
+              "label": "B",
+              "text": "external"
+            },
+            {
+              "label": "C",
+              "text": "conclusive"
+            },
+            {
+              "label": "D",
+              "text": "negative"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 11,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "insufficient"
+            },
+            {
+              "label": "B",
+              "text": "bound"
+            },
+            {
+              "label": "C",
+              "text": "likely"
+            },
+            {
+              "label": "D",
+              "text": "slow"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 12,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "On the basis of"
+            },
+            {
+              "label": "B",
+              "text": "At the cost of"
+            },
+            {
+              "label": "C",
+              "text": "In addition to"
+            },
+            {
+              "label": "D",
+              "text": "In contrast to"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 13,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "interesting"
+            },
+            {
+              "label": "B",
+              "text": "advisable"
+            },
+            {
+              "label": "C",
+              "text": "urgent"
+            },
+            {
+              "label": "D",
+              "text": "fortunate"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 14,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "] As usual"
+            },
+            {
+              "label": "B",
+              "text": "In particular"
+            },
+            {
+              "label": "C",
+              "text": "By definition"
+            },
+            {
+              "label": "D",
+              "text": "After all"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 15,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "resemblance"
+            },
+            {
+              "label": "B",
+              "text": "combination"
+            },
+            {
+              "label": "C",
+              "text": "connection"
+            },
+            {
+              "label": "D",
+              "text": "pattern"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 16,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "made"
+            },
+            {
+              "label": "B",
+              "text": "served"
+            },
+            {
+              "label": "C",
+              "text": "saved"
+            },
+            {
+              "label": "D",
+              "text": "used"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 17,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "To be fair"
+            },
+            {
+              "label": "B",
+              "text": "For instance"
+            },
+            {
+              "label": "C",
+              "text": "To be brief"
+            },
+            {
+              "label": "D",
+              "text": "In general"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 18,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "reluctantly"
+            },
+            {
+              "label": "B",
+              "text": "entirely"
+            },
+            {
+              "label": "C",
+              "text": "gradually"
+            },
+            {
+              "label": "D",
+              "text": "carefully"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 19,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "promise"
+            },
+            {
+              "label": "B",
+              "text": "experience"
+            },
+            {
+              "label": "C",
+              "text": "campaign"
+            },
+            {
+              "label": "D",
+              "text": "competition"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 20,
+          "stem": "",
+          "choices": [
+            {
+              "label": "A",
+              "text": "follow up"
+            },
+            {
+              "label": "B",
+              "text": "pick up"
+            },
+            {
+              "label": "C",
+              "text": "open up"
+            },
+            {
+              "label": "D",
+              "text": ""
+            }
+          ],
+          "type": "choice"
+        }
+      ],
+      "warnings": []
+    },
+    "reading-a": {
+      "name": "Section II 阅读A节",
+      "type": "reading",
+      "question_range": [
+        21,
+        40
+      ],
+      "text": "         \n                                                                          \n                          英语（一）试题     .1.  （共 14页）\n\n1. [A] In       [B] Towards  [C] On       [D] Till             ",
+      "article": "A group of Labour MPs, among them Yvette Cooper, are bringing in the new\n          year with a call to institute a UK “town of culture” award. The proposal is that it\n                                                                          \n          should sit alongside the existing city of culture title, which was held by Hull in 2017,\n          and has been awarded to Coventry for 2021. Cooper and her colleagues argue that the\n                                                                          \n          success of the crown for Hull, where it brought in £220m of investment and an\n          avalanche of arts, ought not to be confined to cities. Britain's towns, it is true, are not\n                                                                          \n          prevented from applying, but they generally lack the resources to put together a bid to\n          beat their bigger competitors. A town of culture award could, it is argued, become an\n          annual event, attracting ftmding and creating jobs.             \n                                                                          \n             Some might see the proposal as a booby prize fbr the fact that Britain is no\n          longer able to apply fbr the much more prestigious title of European capital of culture,\n                                                                          \n          a sought-after award bagged by Glasgow in 1990 and Liverpool in 2008. A cynic\n          might speculate that the UK is on the verge of disappearing into an endless fever of\n                                                                          \n          self-celebration in its desperation to reinvent itself fbr the post-Brexit world: after\n          town of culture, who knows what will follow一village of culture? Suburb of culture?\n          Hamlet of culture?                                              \n                                                                          \n             It is also wise to recall that such titles are not a cure-all. A badly run \"year of\n          culture“ washes in and washes out of a place like the tide, bringing prominence fbr a\n                                                                          \n          spell but leaving no lasting benefits to the community. The really successful holders\n          of such titles are those that do a great deal more than fill hotel bedrooms and bring in\n                                                                          \n          high-profile arts events and good press fbr a year. They transform the aspirations of\n          the people who live there; they nudge the self-image of the city into a bolder and\n          more optimistic light. It is hard to get right, and requires a remarkable degree of\n                                                                          \n          vision, as well as cooperation between city authorities, the private sector, community\n          groups and cultural organisations. But it can be done: Glasgow5s year as European\n                                                                          \n          capital of culture can certainly be seen as one of a complex series of factors that have\n          turned the city into the powerhouse of art, music and theatre that it remains today.\n                                                                          \n             A “town of culture^^ could be not just about the arts but about honouring a town's\n          peculiarities一helping sustain its high street, supporting local facilities and above all\n          celebrating its people. Jeremy Wright, the culture secretary, should welcome this\n                                                                          \n          positive, hope-filled proposal, and turn it into action.        \n                                                                          \n                          英语（一）试题      . 3 . （共 14页）\n\nProgressives often support diversity mandates as a path to equality and a way to level\n          the playing field. But all too often such policies are an insincere form of virtue-signaling\n          that benefits only the most privileged and does little to help average people.\n                                                                          \n             A pair of bills sponsored by Massachusetts state Senator Jason Lewis and House\n          Speaker Pro Tempore Patricia Haddad, to ensure “gender parity^^ on boards and\n          commissions, provide a case in point.                           \n                                                                          \n             Haddad and Lewis are concerned that more than half the state-government\n          boards are less than 40 percent female. In order to ensure that elite women have more\n          such opportunities, they have proposed imposing government quotas. If the bills\n          become law, state boards and commissions will be required to set aside 50 percent of\n                                                                          \n          board seats fbr women by 2022.                                  \n             The bills are similar to a measure recently adopted in California, which last year\n          became the first state to require gender quotas fbr private companies. In signing the\n          measure, California Governor Jerry Brown admitted that the law, which expressly\n                                                                          \n          classifies people on the basis of sex, is probably unconstitutional.\n             The US Supreme Court frowns on sex-based classifications unless they are\n          designed to address an \"important“ policy interest. Because the California law applies\n                                                                          \n          to all boards, even where there is no history of prior discrimination, courts are likely\n          to rule that the law violates the constitutional guarantee of “equal protection55.\n             But are such government mandates even necessary? Female participation on\n          corporate boards may not currently mirror the percentage of women in the general\n                                                                          \n          population, but so what?                                        \n             The number of women on corporate boards has been steadily increasing without\n          government interference. According to a study by Catalyst, between 2010 and 2015\n          the share of women on the boards of global corporations increased by 54 percent.\n                                                                          \n             Requiring companies to make gender the primary qualification fbr board\n          membership will inevitably lead to less experienced private sector boards. That is\n          exactly what happened when Norway adopted a nationwide corporate gender quota.\n             Writing in The New Republic. Alice Lee notes that increasing the number of\n                                                                          \n          opportunities fbr board membership without increasing the pool of qualified women\n          to serve on such boards has led to a “golden skirt” phenomenon, where the same elite\n          women scoop up multiple seats on a variety of boards.           \n                                                                          \n             Next time somebody pushes corporate quotas as a way to promote gender equity,\n          remember that such policies are largely self-serving measures that make their\n          sponsors feel good but do little to help average women.         \n                                                                          \n                          英语（一）试题      . 7 . （共 14页）\n\nLast Thursday, the French Senate passed a digital services tax, which would\n          impose an entirely new tax o",
+      "questions": [
+        {
+          "number": 21,
+          "stem": "Cooper and her colleagues argue that a \"town of culture^^ award could",
+          "choices": [
+            {
+              "label": "A",
+              "text": "consolidate the town-city ties in Britain."
+            },
+            {
+              "label": "B",
+              "text": "promote cooperation among Britain's towns."
+            },
+            {
+              "label": "C",
+              "text": "increase the economic strength of Britain5s towns."
+            },
+            {
+              "label": "D",
+              "text": "focus Britain's limited resources on cultural events."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 22,
+          "stem": "According to Paragraph 2, the proposal might be regarded by some as",
+          "choices": [
+            {
+              "label": "A",
+              "text": "a sensible compromise."
+            },
+            {
+              "label": "B",
+              "text": "a self-deceiving attempt."
+            },
+            {
+              "label": "C",
+              "text": "an eye-catching bonus."
+            },
+            {
+              "label": "D",
+              "text": "an inaccessible target."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 23,
+          "stem": "The author suggests that a title holder is successful only if it",
+          "choices": [
+            {
+              "label": "A",
+              "text": "endeavours to maintain its image."
+            },
+            {
+              "label": "B",
+              "text": "meets the aspiration of its people."
+            },
+            {
+              "label": "C",
+              "text": "brings its local arts to prominence."
+            },
+            {
+              "label": "D",
+              "text": "commits to its long-term growth."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 24,
+          "stem": "Glasgow is mentioned in Paragraph 3 to present",
+          "choices": [
+            {
+              "label": "A",
+              "text": "a contrasting case."
+            },
+            {
+              "label": "B",
+              "text": "a supporting example."
+            },
+            {
+              "label": "C",
+              "text": "a background story."
+            },
+            {
+              "label": "D",
+              "text": "a related topic."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 25,
+          "stem": "What is the author's attitude towards the proposal?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "Skeptical."
+            },
+            {
+              "label": "B",
+              "text": "Objective."
+            },
+            {
+              "label": "C",
+              "text": "Favourable."
+            },
+            {
+              "label": "D",
+              "text": ""
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 26,
+          "stem": "Scientific publishing is seen as “a license to print money“ partly because",
+          "choices": [
+            {
+              "label": "A",
+              "text": "its funding has enjoyed a steady increase."
+            },
+            {
+              "label": "B",
+              "text": "its marketing strategy has been successful."
+            },
+            {
+              "label": "C",
+              "text": "its payment for peer review is reduced."
+            },
+            {
+              "label": "D",
+              "text": "its content acquisition costs nothing."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 27,
+          "stem": "According to Paragraphs 2 and 3, scientific publishers like Elsevier have",
+          "choices": [
+            {
+              "label": "A",
+              "text": "thrived mainly on university libraries."
+            },
+            {
+              "label": "B",
+              "text": "gone through an existential crisis."
+            },
+            {
+              "label": "C",
+              "text": "reviewed the publishing industry."
+            },
+            {
+              "label": "D",
+              "text": "financed researchers generously."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 28,
+          "stem": "How does the author feel about the success of Sci-Hub?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "Relieved."
+            },
+            {
+              "label": "B",
+              "text": "Puzzled."
+            },
+            {
+              "label": "C",
+              "text": "Concerned."
+            },
+            {
+              "label": "D",
+              "text": "Encouraged."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 29,
+          "stem": "It can be learned from Paragraphs 5 and 6 that open access terms",
+          "choices": [
+            {
+              "label": "A",
+              "text": "allow publishers some room to make money."
+            },
+            {
+              "label": "B",
+              "text": "render publishing much easier fbr scientists."
+            },
+            {
+              "label": "C",
+              "text": "reduce the cost of publication substantially."
+            },
+            {
+              "label": "D",
+              "text": "free universities from financial burdens."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 30,
+          "stem": "Which of the following characterizes the scientific publishing model?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "Trial subscription is offered."
+            },
+            {
+              "label": "B",
+              "text": "Labour triumphs over status."
+            },
+            {
+              "label": "C",
+              "text": "Costs are well controlled."
+            },
+            {
+              "label": "D",
+              "text": "The few feed on the many. 英语（一）试题 . 6 . （共 14页）"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 31,
+          "stem": "The author believes that the bills sponsored by Lewis and Haddad will",
+          "choices": [
+            {
+              "label": "A",
+              "text": "help little to reduce gender bias."
+            },
+            {
+              "label": "B",
+              "text": "pose a threat to the state government."
+            },
+            {
+              "label": "C",
+              "text": "raise women's position in politics."
+            },
+            {
+              "label": "D",
+              "text": "greatly broaden career options."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 32,
+          "stem": "Which of the following is true of the California measure?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "It has irritated private business owners."
+            },
+            {
+              "label": "B",
+              "text": "It is welcomed by the Supreme Court."
+            },
+            {
+              "label": "C",
+              "text": "It may go against the Constitution."
+            },
+            {
+              "label": "D",
+              "text": "It will settle the prior controversies."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 33,
+          "stem": "The author mentions the study by Catalyst to illustrate",
+          "choices": [
+            {
+              "label": "A",
+              "text": "the harm from arbitrary board decision."
+            },
+            {
+              "label": "B",
+              "text": "the importance of constitutional guarantees."
+            },
+            {
+              "label": "C",
+              "text": "the pressure on women in global corporations."
+            },
+            {
+              "label": "D",
+              "text": "the needlessness of government interventions."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 34,
+          "stem": "Norway's adoption of a nationwide corporate gender quota has led to",
+          "choices": [
+            {
+              "label": "A",
+              "text": "the underestimation of elite women's role."
+            },
+            {
+              "label": "B",
+              "text": "the objection to female participation on boards."
+            },
+            {
+              "label": "C",
+              "text": "the entry of unqualified candidates into the board."
+            },
+            {
+              "label": "D",
+              "text": "the growing tension between labour and management."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 35,
+          "stem": "Which of the following can be inferred from the text?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "Women's need in employment should be considered."
+            },
+            {
+              "label": "B",
+              "text": "Feasibility should be a prime concern in policymaking."
+            },
+            {
+              "label": "C",
+              "text": "Everyone should try hard to promote social justice."
+            },
+            {
+              "label": "D",
+              "text": "Major social issues should be the focus of legislation. 英语（一）试题 . 8 . （共 14页）"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 36,
+          "stem": "The French Senate has passed a bill to",
+          "choices": [
+            {
+              "label": "A",
+              "text": "regulate digital services platforms."
+            },
+            {
+              "label": "B",
+              "text": "protect French companies5 interests."
+            },
+            {
+              "label": "C",
+              "text": "impose a levy on tech multinationals."
+            },
+            {
+              "label": "D",
+              "text": "curb the influence of advertising."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 37,
+          "stem": "It can be learned from Paragraph 2 that the digital services tax",
+          "choices": [
+            {
+              "label": "A",
+              "text": "may trigger countermeasures against France."
+            },
+            {
+              "label": "B",
+              "text": "is apt to arouse criticism at home and abroad."
+            },
+            {
+              "label": "C",
+              "text": "aims to ease international trade tensions."
+            },
+            {
+              "label": "D",
+              "text": "will prompt the tech giants to quit France."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 38,
+          "stem": "The countries adopting the unilateral measures share the opinion that",
+          "choices": [
+            {
+              "label": "A",
+              "text": "redistribution of tech giants5 revenue must be ensured."
+            },
+            {
+              "label": "B",
+              "text": "the current international tax system needs upgrading."
+            },
+            {
+              "label": "C",
+              "text": "tech multinationals5 monopoly should be prevented."
+            },
+            {
+              "label": "D",
+              "text": "all countries ought to enjoy equal taxing rights."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 39,
+          "stem": "It can be learned from Paragraph 5 that the OECD's current work",
+          "choices": [
+            {
+              "label": "A",
+              "text": "is being resisted by US companies."
+            },
+            {
+              "label": "B",
+              "text": "needs to be readjusted immediately."
+            },
+            {
+              "label": "C",
+              "text": "is faced with uncertain prospects."
+            },
+            {
+              "label": "D",
+              "text": "needs to involve more countries."
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 40,
+          "stem": "Which of the following might be the best title for this text?",
+          "choices": [
+            {
+              "label": "A",
+              "text": "Eye fixations are brief"
+            },
+            {
+              "label": "B",
+              "text": "Too much eye contact is instinctively felt to be rude"
+            },
+            {
+              "label": "C",
+              "text": "Eye contact can be a friendly social signal"
+            },
+            {
+              "label": "D",
+              "text": "Personality can affect how a per"
+            }
+          ],
+          "type": "choice"
+        }
+      ],
+      "warnings": [],
+      "text_count": 3,
+      "texts": [
+        {
+          "text_num": 1,
+          "article": "A group of Labour MPs, among them Yvette Cooper, are bringing in the new\n          year with a call to institute a UK “town of culture” award. The proposal is that it\n                                                                          \n          should sit alongside the existing city of culture title, which was held by Hull in 2017,\n          and has been awarded to Coventry for 2021. Cooper and her colleagues argue that the\n                                                                          \n          success of the crown for Hull, where it brought in £220m of investment and an\n          avalanche of arts, ought not to be confined to cities. Britain's towns, it is true, are not\n                                                                          \n          prevented from applying, but they generally lack the resources to put together a bid to\n          beat their bigger competitors. A town of culture award could, it is argued, become an\n          annual event, attracting ftmding and creating jobs.             \n                                                                          \n             Some might see the proposal as a booby prize fbr the fact that Britain is no\n          longer able to apply fbr the much more prestigious title of European capital of culture,\n                                                                          \n          a sought-after award bagged by Glasgow in 1990 and Liverpool in 2008. A cynic\n          might speculate that the UK is on the verge of disappearing into an endless fever of\n                                                                          \n          self-celebration in its desperation to reinvent itself fbr the post-Brexit world: after\n          town of culture, who knows what will follow一village of culture? Suburb of culture?\n          Hamlet of culture?                                              \n                                                                          \n             It is also wise to recall that such titles are not a cure-all. A badly run \"year of\n          culture“ washes in and washes out of a place like the tide, bringing prominence fbr a\n                                                                          \n          spell but leaving no lasting benefits to the community. The really successful holders\n          of such titles are those that do a great deal more than fill hotel bedrooms and bring in\n                                                                          \n          high-profile arts events and good press fbr a year. They transform the aspirations of\n          the people who live there; they nudge the self-image of the city into a bolder and\n          more optimistic light. It is hard to get right, and requires a remarkable degree of\n                                                                          \n          vision, as well as cooperation between city authorities, the private sector, community\n          groups and cultural organisations. But it can be done: Glasgow5s year as European\n                                                                          \n          capital of culture can certainly be seen as one of a complex series of factors that have\n          turned the city into the powerhouse of art, music and theatre that it remains today.\n                                                                          \n             A “town of culture^^ could be not just about the arts but about honouring a town's\n          peculiarities一helping sustain its high street, supporting local facilities and above all\n          celebrating its people. Jeremy Wright, the culture secretary, should welcome this\n                                                                          \n          positive, hope-filled proposal, and turn it into action.        \n                                                                          \n                          英语（一）试题      . 3 . （共 14页）",
+          "questions": [
+            {
+              "number": 21,
+              "stem": "Cooper and her colleagues argue that a \"town of culture^^ award could",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "consolidate the town-city ties in Britain."
+                },
+                {
+                  "label": "B",
+                  "text": "promote cooperation among Britain's towns."
+                },
+                {
+                  "label": "C",
+                  "text": "increase the economic strength of Britain5s towns."
+                },
+                {
+                  "label": "D",
+                  "text": "focus Britain's limited resources on cultural events."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 22,
+              "stem": "According to Paragraph 2, the proposal might be regarded by some as",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "a sensible compromise."
+                },
+                {
+                  "label": "B",
+                  "text": "a self-deceiving attempt."
+                },
+                {
+                  "label": "C",
+                  "text": "an eye-catching bonus."
+                },
+                {
+                  "label": "D",
+                  "text": "an inaccessible target."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 23,
+              "stem": "The author suggests that a title holder is successful only if it",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "endeavours to maintain its image."
+                },
+                {
+                  "label": "B",
+                  "text": "meets the aspiration of its people."
+                },
+                {
+                  "label": "C",
+                  "text": "brings its local arts to prominence."
+                },
+                {
+                  "label": "D",
+                  "text": "commits to its long-term growth."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 24,
+              "stem": "Glasgow is mentioned in Paragraph 3 to present",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "a contrasting case."
+                },
+                {
+                  "label": "B",
+                  "text": "a supporting example."
+                },
+                {
+                  "label": "C",
+                  "text": "a background story."
+                },
+                {
+                  "label": "D",
+                  "text": "a related topic."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 25,
+              "stem": "What is the author's attitude towards the proposal?",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "Skeptical."
+                },
+                {
+                  "label": "B",
+                  "text": "Objective."
+                },
+                {
+                  "label": "C",
+                  "text": "Favourable."
+                },
+                {
+                  "label": "D",
+                  "text": ""
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 26,
+              "stem": "Scientific publishing is seen as “a license to print money“ partly because",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "its funding has enjoyed a steady increase."
+                },
+                {
+                  "label": "B",
+                  "text": "its marketing strategy has been successful."
+                },
+                {
+                  "label": "C",
+                  "text": "its payment for peer review is reduced."
+                },
+                {
+                  "label": "D",
+                  "text": "its content acquisition costs nothing."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 27,
+              "stem": "According to Paragraphs 2 and 3, scientific publishers like Elsevier have",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "thrived mainly on university libraries."
+                },
+                {
+                  "label": "B",
+                  "text": "gone through an existential crisis."
+                },
+                {
+                  "label": "C",
+                  "text": "reviewed the publishing industry."
+                },
+                {
+                  "label": "D",
+                  "text": "financed researchers generously."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 28,
+              "stem": "How does the author feel about the success of Sci-Hub?",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "Relieved."
+                },
+                {
+                  "label": "B",
+                  "text": "Puzzled."
+                },
+                {
+                  "label": "C",
+                  "text": "Concerned."
+                },
+                {
+                  "label": "D",
+                  "text": "Encouraged."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 29,
+              "stem": "It can be learned from Paragraphs 5 and 6 that open access terms",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "allow publishers some room to make money."
+                },
+                {
+                  "label": "B",
+                  "text": "render publishing much easier fbr scientists."
+                },
+                {
+                  "label": "C",
+                  "text": "reduce the cost of publication substantially."
+                },
+                {
+                  "label": "D",
+                  "text": "free universities from financial burdens."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 30,
+              "stem": "Which of the following characterizes the scientific publishing model?",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "Trial subscription is offered."
+                },
+                {
+                  "label": "B",
+                  "text": "Labour triumphs over status."
+                },
+                {
+                  "label": "C",
+                  "text": "Costs are well controlled."
+                },
+                {
+                  "label": "D",
+                  "text": "The few feed on the many. 英语（一）试题 . 6 . （共 14页）"
+                }
+              ],
+              "type": "choice"
+            }
+          ]
+        },
+        {
+          "text_num": 3,
+          "article": "Progressives often support diversity mandates as a path to equality and a way to level\n          the playing field. But all too often such policies are an insincere form of virtue-signaling\n          that benefits only the most privileged and does little to help average people.\n                                                                          \n             A pair of bills sponsored by Massachusetts state Senator Jason Lewis and House\n          Speaker Pro Tempore Patricia Haddad, to ensure “gender parity^^ on boards and\n          commissions, provide a case in point.                           \n                                                                          \n             Haddad and Lewis are concerned that more than half the state-government\n          boards are less than 40 percent female. In order to ensure that elite women have more\n          such opportunities, they have proposed imposing government quotas. If the bills\n          become law, state boards and commissions will be required to set aside 50 percent of\n                                                                          \n          board seats fbr women by 2022.                                  \n             The bills are similar to a measure recently adopted in California, which last year\n          became the first state to require gender quotas fbr private companies. In signing the\n          measure, California Governor Jerry Brown admitted that the law, which expressly\n                                                                          \n          classifies people on the basis of sex, is probably unconstitutional.\n             The US Supreme Court frowns on sex-based classifications unless they are\n          designed to address an \"important“ policy interest. Because the California law applies\n                                                                          \n          to all boards, even where there is no history of prior discrimination, courts are likely\n          to rule that the law violates the constitutional guarantee of “equal protection55.\n             But are such government mandates even necessary? Female participation on\n          corporate boards may not currently mirror the percentage of women in the general\n                                                                          \n          population, but so what?                                        \n             The number of women on corporate boards has been steadily increasing without\n          government interference. According to a study by Catalyst, between 2010 and 2015\n          the share of women on the boards of global corporations increased by 54 percent.\n                                                                          \n             Requiring companies to make gender the primary qualification fbr board\n          membership will inevitably lead to less experienced private sector boards. That is\n          exactly what happened when Norway adopted a nationwide corporate gender quota.\n             Writing in The New Republic. Alice Lee notes that increasing the number of\n                                                                          \n          opportunities fbr board membership without increasing the pool of qualified women\n          to serve on such boards has led to a “golden skirt” phenomenon, where the same elite\n          women scoop up multiple seats on a variety of boards.           \n                                                                          \n             Next time somebody pushes corporate quotas as a way to promote gender equity,\n          remember that such policies are largely self-serving measures that make their\n          sponsors feel good but do little to help average women.         \n                                                                          \n                          英语（一）试题      . 7 . （共 14页）",
+          "questions": [
+            {
+              "number": 31,
+              "stem": "The author believes that the bills sponsored by Lewis and Haddad will",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "help little to reduce gender bias."
+                },
+                {
+                  "label": "B",
+                  "text": "pose a threat to the state government."
+                },
+                {
+                  "label": "C",
+                  "text": "raise women's position in politics."
+                },
+                {
+                  "label": "D",
+                  "text": "greatly broaden career options."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 32,
+              "stem": "Which of the following is true of the California measure?",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "It has irritated private business owners."
+                },
+                {
+                  "label": "B",
+                  "text": "It is welcomed by the Supreme Court."
+                },
+                {
+                  "label": "C",
+                  "text": "It may go against the Constitution."
+                },
+                {
+                  "label": "D",
+                  "text": "It will settle the prior controversies."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 33,
+              "stem": "The author mentions the study by Catalyst to illustrate",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "the harm from arbitrary board decision."
+                },
+                {
+                  "label": "B",
+                  "text": "the importance of constitutional guarantees."
+                },
+                {
+                  "label": "C",
+                  "text": "the pressure on women in global corporations."
+                },
+                {
+                  "label": "D",
+                  "text": "the needlessness of government interventions."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 34,
+              "stem": "Norway's adoption of a nationwide corporate gender quota has led to",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "the underestimation of elite women's role."
+                },
+                {
+                  "label": "B",
+                  "text": "the objection to female participation on boards."
+                },
+                {
+                  "label": "C",
+                  "text": "the entry of unqualified candidates into the board."
+                },
+                {
+                  "label": "D",
+                  "text": "the growing tension between labour and management."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 35,
+              "stem": "Which of the following can be inferred from the text?",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "Women's need in employment should be considered."
+                },
+                {
+                  "label": "B",
+                  "text": "Feasibility should be a prime concern in policymaking."
+                },
+                {
+                  "label": "C",
+                  "text": "Everyone should try hard to promote social justice."
+                },
+                {
+                  "label": "D",
+                  "text": "Major social issues should be the focus of legislation. 英语（一）试题 . 8 . （共 14页）"
+                }
+              ],
+              "type": "choice"
+            }
+          ]
+        },
+        {
+          "text_num": 4,
+          "article": "Last Thursday, the French Senate passed a digital services tax, which would\n          impose an entirely new tax on large multinationals that provide digital services to\n          consumers or users in France. Digital services include everything from providing a\n                                                                          \n          platform for selling goods and services online to targeting advertising based on user\n          data, and the tax applies to gross revenue from such services. Many French politicians\n          and media outlets have referred to this as a “GAFA tax,“ meaning that it is designed\n                                                                          \n          to apply primarily to companies such as Google, Apple, Facebook and Amazon- in\n          other words, multinational tech companies based in the United States.\n             The digital services tax now awaits the signature of President Emmanuel Macron,\n          who has expressed support fbr the measure, and it could go into effect within the next\n                                                                          \n          few weeks. But it has already sparked significant controversy, with the United States\n          trade representative opening an investigation into whether the tax discriminates against\n          American companies, which in turn could lead to trade sanctions against France.\n             The French tax is not just a unilateral move by one country in need of revenue.\n                                                                          \n          Instead, the digital services tax is part of a much larger trend, with countries over the\n          past few years proposing or putting in place an alphabet soup of new international tax\n          provisions. They have included Britain's DPT (diverted profits tax), Australia's MAAL\n                                                                          \n          (multinational anti-avoidance law), and India's SEP (significant economic\n          presence) test, to name but a few. At the same time, the European Union, Spain, Britain\n          and several other countries have all seriously contemplated digital services taxes.\n             These unilateral developments differ in their specifics, but they are all designed\n                                                                          \n          to tax multinationals on income and revenue that countries believe they should have a\n          right to tax, even if international tax rules do not grant them that right. In other words,\n          they all share a view that the international tax system has failed to keep up with the\n          current economy.                                                \n                                                                          \n             In response to these many unilateral measures, the Organization fbr Economic\n          Cooperation and Development (OECD) is currently working with 131 countries to\n          reach a consensus by the end of 2020 on an international solution. Both France and\n          the United States are involved in the organization's work, but France's digital services\n                                                                          \n          tax and the American response raise questions about what the future holds fbr the\n          international tax system.                                       \n             France's planned tax is a clear warning: Unless a broad consensus can be\n                                                                          \n          reached on reforming the international tax system, other nations are likely to follow\n          suit, and American companies will face a cascade of different taxes from dozens of\n          nations that will prove burdensome and costly.                  \n                                                                          \n                          英语(一   )试题   . 9 . (共14页)",
+          "questions": [
+            {
+              "number": 36,
+              "stem": "The French Senate has passed a bill to",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "regulate digital services platforms."
+                },
+                {
+                  "label": "B",
+                  "text": "protect French companies5 interests."
+                },
+                {
+                  "label": "C",
+                  "text": "impose a levy on tech multinationals."
+                },
+                {
+                  "label": "D",
+                  "text": "curb the influence of advertising."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 37,
+              "stem": "It can be learned from Paragraph 2 that the digital services tax",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "may trigger countermeasures against France."
+                },
+                {
+                  "label": "B",
+                  "text": "is apt to arouse criticism at home and abroad."
+                },
+                {
+                  "label": "C",
+                  "text": "aims to ease international trade tensions."
+                },
+                {
+                  "label": "D",
+                  "text": "will prompt the tech giants to quit France."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 38,
+              "stem": "The countries adopting the unilateral measures share the opinion that",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "redistribution of tech giants5 revenue must be ensured."
+                },
+                {
+                  "label": "B",
+                  "text": "the current international tax system needs upgrading."
+                },
+                {
+                  "label": "C",
+                  "text": "tech multinationals5 monopoly should be prevented."
+                },
+                {
+                  "label": "D",
+                  "text": "all countries ought to enjoy equal taxing rights."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 39,
+              "stem": "It can be learned from Paragraph 5 that the OECD's current work",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "is being resisted by US companies."
+                },
+                {
+                  "label": "B",
+                  "text": "needs to be readjusted immediately."
+                },
+                {
+                  "label": "C",
+                  "text": "is faced with uncertain prospects."
+                },
+                {
+                  "label": "D",
+                  "text": "needs to involve more countries."
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 40,
+              "stem": "Which of the following might be the best title for this text?",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "Eye fixations are brief"
+                },
+                {
+                  "label": "B",
+                  "text": "Too much eye contact is instinctively felt to be rude"
+                },
+                {
+                  "label": "C",
+                  "text": "Eye contact can be a friendly social signal"
+                },
+                {
+                  "label": "D",
+                  "text": "Personality can affect how a per"
+                }
+              ],
+              "type": "choice"
+            }
+          ]
+        }
+      ]
+    },
+    "new-type": {
+      "name": "Part B 阅读新题型",
+      "type": "new_type",
+      "question_range": [
+        41,
+        45
+      ],
+      "text": "41.                                                             \n                                                                          \n            We know that a typical infant will instinctively",
+      "article": "(multinational anti-avoidance law), and India's SEP (significant economic\npresence) test, to name but a few. At the same time, the European Union, Spain, Britain\nand several other countries have all seriously contemplated digital services taxes.\nThese unilateral developments differ in their specifics, but they are all designed\nto tax multinationals on income and revenue that countries believe they should have a\nright to tax, even if international tax rules do not grant them that right. In other words,\nthey all share a view that the international tax system has failed to keep up with the\ncurrent economy.\nIn response to these many unilateral measures, the Organization fbr Economic\nCooperation and Development (OECD) is currently working with 131 countries to\nreach a consensus by the end of 2020 on an international solution. Both France and\nthe United States are involved in the organization's work, but France's digital services\ntax and the American response raise questions about what the future holds fbr the\ninternational tax system.\nFrance's planned tax is a clear warning: Unless a broad consensus can be\nreached on reforming the international tax system, other nations are likely to follow\nsuit, and American companies will face a cascade of different taxes from dozens of\nnations that will prove burdensome and costly.\nPartB\nIn a social situation, eye contact with another person can show that you are\npaying attention in a friendly way. But it can also be antagonistic, such as when a\npolitical candidate turns toward their competitor during a debate and makes eye\ncontact that signals hostility. Here's what hard science reveals about eye contact:",
+      "questions": [
+        {
+          "number": 41,
+          "stem": "第41题（未提取到内容）",
+          "choices": [],
+          "type": "new_type",
+          "warning": true
+        },
+        {
+          "number": 42,
+          "stem": "第42题（未提取到内容）",
+          "choices": [],
+          "type": "new_type",
+          "warning": true
+        },
+        {
+          "number": 43,
+          "stem": "第43题（未提取到内容）",
+          "choices": [],
+          "type": "new_type",
+          "warning": true
+        },
+        {
+          "number": 44,
+          "stem": "第44题（未提取到内容）",
+          "choices": [],
+          "type": "new_type",
+          "warning": true
+        },
+        {
+          "number": 45,
+          "stem": "第45题（未提取到内容）",
+          "choices": [],
+          "type": "new_type",
+          "warning": true
+        }
+      ],
+      "warnings": []
+    },
+    "translation": {
+      "name": "C节 翻译",
+      "type": "translation",
+      "question_range": [
+        46,
+        50
+      ],
+      "text": "(46) With the Church's\n          teachings and ways of thinking being eclipsed by the Renaissance, the gap between\n          the Medieval and modem periods had been bridged, leading to new and unexplo",
+      "article": "In a social situation, eye contact with another person can show that you are\npaying attention in a friendly way. But it can also be antagonistic, such as when a\npolitical candidate turns toward their competitor during a debate and makes eye\ncontact that signals hostility. Here's what hard science reveals about eye contact:\nWe know that a typical infant will instinctively gaze into its mother's eyes, and\nshe will look back. This mutual gaze is a major part of the attachment between\nmother and child. In adulthood, looking at someone else in a pleasant way can be a\ncomplimentary sign of paying attention. It can catch someone's attention in a\ncrowded room. \"Eye contact and smile^^ can signal availability and confidence, a\ncommon-sense notion supported in studies by psychologist Monica Moore.\nNeuroscientist Bonnie Auyeung found that the hormone oxytocin increased the\namount of eye contact from men toward the interviewer during a brief interview when\nthe direction of their gaze was recorded. This was also found in high-functioning men\nwith some autistic spectrum symptoms, who may tend to avoid eye contact. Specific\nbrain regions that respond during direct gaze are being explored by other researchers,\nusing advanced methods of brain scanning.\nWith the use of eye-tracking technology, Julia Minson of the Harvard Kennedy\nSchool of Government concluded that eye contact can signal very different kinds of\nmessages, depending on the situation. While eye contact may be a sign of connection\nor trust in friendly situations, ifs more likely to be associated with dominance or\nintimidation in adversarial situations. \"Whether you're a politician or a parent, it\nmight be helpful to keep in mind that trying to maintain eye contact may backfire if\nyou're trying to convince someone who has a different set of beliefs than you,“ said\nMinson.\nWhen we look at a face or a picture, our eyes pause on one spot at a time, often\non the eyes or mouth. These pauses typically occur at about three per second, and the\neyes then jump to another spot, until several important points in the image are\nregistered like a series of snapshots. How the whole image is then assembled and\nperceived is still a mystery although it is the subject of current research.\nIn people who score high in a test of neuroticism, a personality dimension\nassociated with self-consciousness and anxiety, eye contact triggered more activity\nassociated with avoidance, according to the Finnish researcher Jari Hietanen and\ncolleagues. 6(Our findings indicate that people do not only feel different when they are\nthe centre of attention but that their brain reactions also differ.\" A more direct finding\nis that people who scored highly fbr negative emotions like anxiety looked at others\nfbr shorter periods of time and reported more comfortable feelings when others did\nnot look directly at them.\nPartC\npoints)\nFollowing the explosion of creativity in Florence during the 14th century known\nas the Renaissance, the modem world saw a departure from what it had once known.\nIt turned from God and the authority of the Roman Catholic Church and instead\nfavoured a more humanistic approach to being. Renaissance ideas had spread\nthroughout Europe well into the 17th century, with the arts and sciences flourishing\nextraordinarily among those with a more logical disposition.",
+      "questions": [
+        {
+          "number": 46,
+          "stem": "With the Church's teachings and ways of thinking being eclipsed by the Renaissance, the gap between the Medieval and modem periods had been bridged, leading to new and unexplored intellectual territories. During the Renaissance, the great minds of Nicolaus Copernicus, Johannes Kepler and Galileo Galilei demonstrated the power of scientific study and discovery.",
+          "choices": [],
+          "type": "translation"
+        },
+        {
+          "number": 47,
+          "stem": "Befbre each of their revelations, many thinkers at the time had sustained more ancient ways of thinking, including the geocentric view that the Earth was at the centre of our universe. Copernicus theorised in 1543 that all of the planets that we knew of revolved not around the Earth, but the Sun, a system that was later upheld by Galileo at his own expense. Offering up such a theory during a time of high tension between scientific and religious minds was branded as heresy, and any such heretics that continued to spread these lies were to be punished by imprisonment or even death.",
+          "choices": [],
+          "type": "translation"
+        },
+        {
+          "number": 48,
+          "stem": "Despite attempts by the Church to suppress this new generation of logicians and rationalists, more explanations for how the universe fimctioiied were being made at a rate that the people could no longer ignore. It was with these great revelations that a new kind of philosophy founded in reason was bom. The Church's long-standing dogma was losing the great battle fbr truth to rationalists and scientists. This very fact embodied the new ways of thinking that swept through Europe during most of the 17th century.",
+          "choices": [],
+          "type": "translation"
+        },
+        {
+          "number": 49,
+          "stem": "As many took on the duty of trying to integrate reasoning and scientific philosophies into the world, the Renaissance was over and it was time fbr a new era - the Age of Reason. The 17th and 18th centuries were times of radical change and curiosity. Scientific method, reductionism and the questioning of Church ideals was to be encouraged, as were ideas of liberty, tolerance and progress.",
+          "choices": [],
+          "type": "translation"
+        },
+        {
+          "number": 50,
+          "stem": "Such actions to seek knowledge and to understand what information we already knew were captured by the Latin phrase 'sapere aude' or 'dare to know', after Immanuel Kant used it in his essay An Answer to the Question: What is Enlightenment?. It was the purpose and responsibility of great minds to go forth and seek out the truth, which they believed to be founded in knowledge. 英语(一 )试题 . 1 3 . (共 14页)",
+          "choices": [],
+          "type": "translation"
+        }
+      ],
+      "warnings": []
+    },
+    "writing-a": {
+      "name": "A节 应用文写作",
+      "type": "writing_small",
+      "question_range": [
+        51,
+        51
+      ],
+      "text": "51. Directions:                                                 \n                                                                          \n             The Student Union of your university has assign",
+      "article": "signal very different kinds of\nmessages, depending on the situation. While eye contact may be a sign of connection\nor trust in friendly situations, ifs more likely to be associated with dominance or\nintimidation in adversarial situations. \"Whether you're a politician or a parent, it\nmight be helpful to keep in mind that trying to maintain eye contact may backfire if\nyou're trying to convince someone who has a different set of beliefs than you,“ said\nMinson.\nWhen we look at a face or a picture, our eyes pause on one spot at a time, often\non the eyes or mouth. These pauses typically occur at about three per second, and the\neyes then jump to another spot, until several important points in the image are\nregistered like a series of snapshots. How the whole image is then assembled and\nperceived is still a mystery although it is the subject of current research.\nIn people who score high in a test of neuroticism, a personality dimension\nassociated with self-consciousness and anxiety, eye contact triggered more activity\nassociated with avoidance, according to the Finnish researcher Jari Hietanen and\ncolleagues. 6(Our findings indicate that people do not only feel different when they are\nthe centre of attention but that their brain reactions also differ.\" A more direct finding\nis that people who scored highly fbr negative emotions like anxiety looked at others\nfbr shorter periods of time and reported more comfortable feelings when others did\nnot look directly at them.\nPartC\npoints)\nFollowing the explosion of creativity in Florence during the 14th century known\nas the Renaissance, the modem world saw a departure from what it had once known.\nIt turned from God and the authority of the Roman Catholic Church and instead\nfavoured a more humanistic approach to being. Renaissance ideas had spread\nthroughout Europe well into the 17th century, with the arts and sciences flourishing\nextraordinarily among those with a more logical disposition. (46) With the Church's\nteachings and ways of thinking being eclipsed by the Renaissance, the gap between\nthe Medieval and modem periods had been bridged, leading to new and unexplored\nintellectual territories.\nDuring the Renaissance, the great minds of Nicolaus Copernicus, Johannes\nKepler and Galileo Galilei demonstrated the power of scientific study and discovery.\n(47) Befbre each of their revelations, many thinkers at the time had sustained more\nancient ways of thinking, including the geocentric view that the Earth was at the\ncentre of our universe. Copernicus theorised in 1543 that all of the planets that we knew\nof revolved not around the Earth, but the Sun, a system that was later upheld by Galileo\nat his own expense. Offering up such a theory during a time of high tension between\nscientific and religious minds was branded as heresy, and any such heretics that\ncontinued to spread these lies were to be punished by imprisonment or even death.\n(48) Despite attempts by the Church to suppress this new generation of logicians\nand rationalists, more explanations for how the universe fimctioiied were being made\nat a rate that the people could no longer ignore. It was with these great revelations\nthat a new kind of philosophy founded in reason was bom.\nThe Church's long-standing dogma was losing the great battle fbr truth to\nrationalists and scientists. This very fact embodied the new ways of thinking that\nswept through Europe during most of the 17th century. (49) As many took on the duty\nof trying to integrate reasoning and scientific philosophies into the world, the\nRenaissance was over and it was time fbr a new era - the Age of Reason.\nThe 17th and 18th centuries were times of radical change and curiosity. Scientific\nmethod, reductionism and the questioning of Church ideals was to be encouraged, as were\nideas of liberty, tolerance and progress. (50) Such actions to seek knowledge and to\nunderstand what information we already knew were captured by the Latin phrase 'sapere\naude' or 'dare to know', after Immanuel Kant used it in his essay An Answer to the\nQuestion: What is Enlightenment?. It was the purpose and responsibility of great minds to\ngo forth and seek out the truth, which they believed to be founded in knowledge.\nSection III Writing\nPart A",
+      "questions": [
+        {
+          "number": 51,
+          "stem": "Directions: The Student Union of your university has assigned you to inform the international students about an upcoming singing contest. Write a notice in about 100 words. Write your answer on the ANSWER SHEET. Do not use your own name in the notice. (10 points) Part B",
+          "choices": [],
+          "type": "writing_small"
+        }
+      ],
+      "warnings": []
+    },
+    "writing-b": {
+      "name": "B节 短文写作",
+      "type": "writing_big",
+      "question_range": [
+        52,
+        52
+      ],
+      "text": "52. Directions:                                                 \n                                                                          \n             Write an essay of 160-200 words based on the pi",
+      "article": "When we look at a face or a picture, our eyes pause on one spot at a time, often\non the eyes or mouth. These pauses typically occur at about three per second, and the\neyes then jump to another spot, until several important points in the image are\nregistered like a series of snapshots. How the whole image is then assembled and\nperceived is still a mystery although it is the subject of current research.\nIn people who score high in a test of neuroticism, a personality dimension\nassociated with self-consciousness and anxiety, eye contact triggered more activity\nassociated with avoidance, according to the Finnish researcher Jari Hietanen and\ncolleagues. 6(Our findings indicate that people do not only feel different when they are\nthe centre of attention but that their brain reactions also differ.\" A more direct finding\nis that people who scored highly fbr negative emotions like anxiety looked at others\nfbr shorter periods of time and reported more comfortable feelings when others did\nnot look directly at them.\nPartC\npoints)\nFollowing the explosion of creativity in Florence during the 14th century known\nas the Renaissance, the modem world saw a departure from what it had once known.\nIt turned from God and the authority of the Roman Catholic Church and instead\nfavoured a more humanistic approach to being. Renaissance ideas had spread\nthroughout Europe well into the 17th century, with the arts and sciences flourishing\nextraordinarily among those with a more logical disposition. (46) With the Church's\nteachings and ways of thinking being eclipsed by the Renaissance, the gap between\nthe Medieval and modem periods had been bridged, leading to new and unexplored\nintellectual territories.\nDuring the Renaissance, the great minds of Nicolaus Copernicus, Johannes\nKepler and Galileo Galilei demonstrated the power of scientific study and discovery.\n(47) Befbre each of their revelations, many thinkers at the time had sustained more\nancient ways of thinking, including the geocentric view that the Earth was at the\ncentre of our universe. Copernicus theorised in 1543 that all of the planets that we knew\nof revolved not around the Earth, but the Sun, a system that was later upheld by Galileo\nat his own expense. Offering up such a theory during a time of high tension between\nscientific and religious minds was branded as heresy, and any such heretics that\ncontinued to spread these lies were to be punished by imprisonment or even death.\n(48) Despite attempts by the Church to suppress this new generation of logicians\nand rationalists, more explanations for how the universe fimctioiied were being made\nat a rate that the people could no longer ignore. It was with these great revelations\nthat a new kind of philosophy founded in reason was bom.\nThe Church's long-standing dogma was losing the great battle fbr truth to\nrationalists and scientists. This very fact embodied the new ways of thinking that\nswept through Europe during most of the 17th century. (49) As many took on the duty\nof trying to integrate reasoning and scientific philosophies into the world, the\nRenaissance was over and it was time fbr a new era - the Age of Reason.\nThe 17th and 18th centuries were times of radical change and curiosity. Scientific\nmethod, reductionism and the questioning of Church ideals was to be encouraged, as were\nideas of liberty, tolerance and progress. (50) Such actions to seek knowledge and to\nunderstand what information we already knew were captured by the Latin phrase 'sapere\naude' or 'dare to know', after Immanuel Kant used it in his essay An Answer to the\nQuestion: What is Enlightenment?. It was the purpose and responsibility of great minds to\ngo forth and seek out the truth, which they believed to be founded in knowledge.\nSection III Writing\nPart A\nThe Student Union of your university has assigned you to inform the international\nstudents about an upcoming singing contest. Write a notice in about 100 words.\nDo not use your own name in the notice. (10 points)\nPart B",
+      "questions": [
+        {
+          "number": 52,
+          "stem": "Directions: Write an essay of 160-200 words based on the pictures below. In your essay, you should",
+          "choices": [],
+          "type": "writing_big"
+        }
+      ],
+      "warnings": []
+    }
+  }
+}

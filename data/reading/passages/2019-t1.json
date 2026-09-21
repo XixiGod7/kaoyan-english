@@ -1,0 +1,670 @@
+{
+  "exam": "en1",
+  "key": "2019-t1",
+  "year": 2019,
+  "text_no": 1,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2019-text1-s1",
+      "s": "Financial regulators in Britain have imposed a rather unusual rule on the bosses of big banks.",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Financial regulators in Britain",
+        "谓语": "have imposed",
+        "宾语或表语": "a rather unusual rule",
+        "主干翻译": "英国的金融监管机构施加了一项相当不同寻常的规定。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "in Britain",
+          "修饰对象": "regulators",
+          "中文翻译": "英国的",
+          "说明": "限定 regulators 的范围，指英国的金融监管机构。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "on the bosses of big banks",
+          "修饰对象": "imposed",
+          "中文翻译": "对大银行的老板们",
+          "说明": "说明这项规定施加的对象。"
+        }
+      ],
+      "zh": "英国的金融监管机构对各大银行的高管们施加了一项相当不同寻常的规定。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2019-text1-s2",
+      "s": "Starting next year, any guaranteed bonus of top executives could be delayed 10 years if their banks are under investigation for wrongdoing.",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "any guaranteed bonus of top executives",
+        "谓语": "could be delayed",
+        "宾语或表语": "10 years",
+        "主干翻译": "高管们任何有保障的奖金都可能被延迟10年发放。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "Starting next year",
+          "修饰对象": "delayed",
+          "中文翻译": "从明年开始",
+          "说明": "现在分词短语作时间状语，说明该规定生效的时间起点。"
+        },
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "if their banks are under investigation for wrongdoing",
+          "修饰对象": "delayed",
+          "中文翻译": "如果他们所在的银行因不当行为而受到调查",
+          "说明": "if 引导条件状语从句，给出奖金被延迟发放的前提条件。"
+        }
+      ],
+      "zh": "从明年开始，如果高管所在的银行因不当行为正受到调查，那么他们任何有保障的奖金都可能被延迟10年发放。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2019-text1-s3",
+      "s": "The main purpose of this \"clawback\" rule is to hold bankers accountable for harmful risk-taking and to restore public trust in financial institutions.",
+      "para_no": 1,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "The main purpose of this \"clawback\" rule",
+        "谓语": "is",
+        "宾语或表语": "to hold bankers accountable ... and to restore public trust ...",
+        "主干翻译": "这项“追回”规定的主要目的是让银行家为有害的冒险行为负责，并恢复公众对金融机构的信任。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "of this \"clawback\" rule",
+          "修饰对象": "purpose",
+          "中文翻译": "这项“追回”规定的",
+          "说明": "限定 purpose，说明是哪一项规定的目的。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to hold bankers accountable for harmful risk-taking and to restore public trust in financial institutions",
+          "修饰对象": "is",
+          "中文翻译": "让银行家为有害的冒险行为负责并恢复公众对金融机构的信任",
+          "说明": "两个并列的动词不定式短语作表语，说明该规定的具体目的。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "to restore public trust in financial institutions",
+          "修饰对象": "to hold",
+          "中文翻译": "（并）恢复公众对金融机构的信任",
+          "说明": "与 to hold bankers accountable 由 and 并列，共同充当表语。"
+        }
+      ],
+      "zh": "这项“追回”（clawback）规定的主要目的，是让银行家为有害的冒险行为负责，并恢复公众对金融机构的信任。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2019-text1-s4",
+      "s": "Yet officials also hope for a much larger benefit: more long-term decision-making, not only by banks but by all corporations, to build a stronger economy for future generations.",
+      "para_no": 1,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "officials",
+        "谓语": "hope for",
+        "宾语或表语": "a much larger benefit",
+        "主干翻译": "官员们还期望获得一个大得多的好处。"
+      },
+      "components": [
+        {
+          "成分类型": "同位语从句",
+          "原文": "more long-term decision-making, not only by banks but by all corporations, to build a stronger economy for future generations",
+          "修饰对象": "benefit",
+          "中文翻译": "更多的长期决策——不仅是银行，而是所有公司的长期决策——从而为子孙后代建立更强大的经济",
+          "说明": "冒号后的名词短语对 benefit 作同位说明，解释这个“好处”具体指什么。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "not only by banks but by all corporations",
+          "修饰对象": "decision-making",
+          "中文翻译": "不仅是银行，而且是所有公司",
+          "说明": "not only ... but ... 并列结构，修饰 decision-making，说明做出长期决策的主体范围。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to build a stronger economy for future generations",
+          "修饰对象": "decision-making",
+          "中文翻译": "以便为子孙后代建立更强大的经济",
+          "说明": "动词不定式短语作目的状语，说明长期决策所要达成的目的。"
+        }
+      ],
+      "zh": "然而官员们还期望获得一个大得多的好处：更多的长期决策——不仅出自银行，而且出自所有公司——从而为子孙后代建立起更强大的经济。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2019-text1-s5",
+      "s": "\"Short-termism,\" or the desire for quick profits, has worsened in publicly traded companies, says the Bank of England's top economist, Andrew Haldane.",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "\"Short-termism\"",
+        "谓语": "has worsened",
+        "宾语或表语": "—",
+        "主干翻译": "“短期主义”已经恶化了。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "or the desire for quick profits",
+          "修饰对象": "Short-termism",
+          "中文翻译": "即对快速利润的渴望",
+          "说明": "or 引导的同位性并列成分，对“短期主义”作进一步解释。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "in publicly traded companies",
+          "修饰对象": "worsened",
+          "中文翻译": "在上市公司中",
+          "说明": "地点/范围状语，说明短期主义恶化所在的场域。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "\"Short-termism,\" or the desire for quick profits, has worsened in publicly traded companies",
+          "修饰对象": "says",
+          "中文翻译": "“短期主义”，即对快速利润的渴望，在上市公司中已经恶化",
+          "说明": "全句为前置直接引语充当 says 的宾语，主句为倒装的 says the Bank of England's top economist。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "Andrew Haldane",
+          "修饰对象": "economist",
+          "中文翻译": "安德鲁·霍尔丹",
+          "说明": "对 economist 作同位说明，点明这位首席经济学家的姓名。"
+        }
+      ],
+      "zh": "英格兰银行首席经济学家安德鲁·霍尔丹表示，“短期主义”，即对快速利润的渴望，在上市公司中已经愈演愈烈。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2019-text1-s6",
+      "s": "He quotes a giant of classical economics, Alfred Marshall, in describing this financial impatience as acting like \"children who pick the plums out of their pudding to eat them at once\" rather than putting them aside to be eaten last.",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "He",
+        "谓语": "quotes",
+        "宾语或表语": "a giant of classical economics",
+        "主干翻译": "他引用了一位古典经济学巨匠的话。"
+      },
+      "components": [
+        {
+          "成分类型": "同位语从句",
+          "原文": "Alfred Marshall",
+          "修饰对象": "giant",
+          "中文翻译": "阿尔弗雷德·马歇尔",
+          "说明": "对 giant 作同位说明，点明这位古典经济学巨匠的姓名。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "in describing this financial impatience as acting like \"children who pick the plums out of their pudding to eat them at once\" rather than putting them aside to be eaten last",
+          "修饰对象": "quotes",
+          "中文翻译": "在把这种金融上的急躁描述为像“……的孩子”那样行事时",
+          "说明": "in + 动名词短语作方式/时间状语，说明引用是在何种描述过程中进行的。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "who pick the plums out of their pudding to eat them at once",
+          "修饰对象": "children",
+          "中文翻译": "把布丁里的李子挑出来立刻吃掉的",
+          "说明": "who 引导定语从句修饰 children，描述这些孩子的行为。"
+        },
+        {
+          "成分类型": "状语从句(目的)",
+          "原文": "to eat them at once",
+          "修饰对象": "pick",
+          "中文翻译": "以便立刻把它们吃掉",
+          "说明": "动词不定式作目的状语，说明孩子挑出李子的目的。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "rather than putting them aside to be eaten last",
+          "修饰对象": "acting",
+          "中文翻译": "而不是把它们留到最后吃",
+          "说明": "rather than 引导的并列成分，与前面的行为形成对比。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to be eaten last",
+          "修饰对象": "putting",
+          "中文翻译": "以便留到最后吃",
+          "说明": "不定式作目的状语，说明把李子留在一旁的目的。"
+        }
+      ],
+      "zh": "他引用古典经济学巨匠阿尔弗雷德·马歇尔的话，把这种金融上的急躁描述为像“把布丁里的李子挑出来立刻吃掉、而不是留到最后吃的孩子”那样行事。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2019-text1-s7",
+      "s": "The average time for holding a stock in both the United States and Britain, he notes, has dropped from seven years to seven months in recent decades.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The average time for holding a stock",
+        "谓语": "has dropped",
+        "宾语或表语": "from seven years to seven months",
+        "主干翻译": "持有一只股票的平均时间已从七年降到了七个月。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "for holding a stock in both the United States and Britain",
+          "修饰对象": "time",
+          "中文翻译": "在美国和英国持有一只股票的",
+          "说明": "介词 for + 动名词短语作定语，限定 time 指持股的时间。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "he notes",
+          "修饰对象": "—",
+          "中文翻译": "他指出",
+          "说明": "插入主句，表明该说法的来源。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "in recent decades",
+          "修饰对象": "dropped",
+          "中文翻译": "近几十年来",
+          "说明": "时间状语，说明这一下降发生的时间段。"
+        }
+      ],
+      "zh": "他指出，近几十年来，在美国和英国持有一只股票的平均时间已从七年缩短到了七个月。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2019-text1-s8",
+      "s": "Transient investors, who demand high quarterly profits from companies, can hinder a firm's efforts to invest in long-term research or to build up customer loyalty.",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Transient investors",
+        "谓语": "can hinder",
+        "宾语或表语": "a firm's efforts",
+        "主干翻译": "短线投资者会妨碍公司的种种努力。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "who demand high quarterly profits from companies",
+          "修饰对象": "investors",
+          "中文翻译": "要求公司提供高额季度利润的",
+          "说明": "who 引导定语从句修饰 investors，说明这些短线投资者的特点。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to invest in long-term research or to build up customer loyalty",
+          "修饰对象": "efforts",
+          "中文翻译": "投资长期研究或培养客户忠诚度的",
+          "说明": "不定式短语作定语，修饰 efforts，说明公司努力的具体内容。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "to build up customer loyalty",
+          "修饰对象": "to invest",
+          "中文翻译": "（或）培养客户忠诚度",
+          "说明": "由 or 与 to invest in long-term research 并列，共同修饰 efforts。"
+        }
+      ],
+      "zh": "要求公司提供高额季度利润的短线投资者，会妨碍公司投资长期研究或培养客户忠诚度的种种努力。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2019-text1-s9",
+      "s": "This has been dubbed \"quarterly capitalism.\"",
+      "para_no": 3,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "This",
+        "谓语": "has been dubbed",
+        "宾语或表语": "\"quarterly capitalism\"",
+        "主干翻译": "这被称为“季度资本主义”。"
+      },
+      "components": [],
+      "zh": "这种现象被称为“季度资本主义”。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2019-text1-s10",
+      "s": "In addition, new digital technologies have allowed more rapid trading of equities, quicker use of information, and thus shorter attention spans in financial markets.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "new digital technologies",
+        "谓语": "have allowed",
+        "宾语或表语": "more rapid trading of equities, quicker use of information, and ... shorter attention spans",
+        "主干翻译": "新的数字技术使股票交易更迅速、信息使用更快捷，因而金融市场的注意力时间更短。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "In addition",
+          "修饰对象": "have allowed",
+          "中文翻译": "此外",
+          "说明": "句首插入性状语，起承上启下、补充递进的作用。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "more rapid trading of equities, quicker use of information, and thus shorter attention spans in financial markets",
+          "修饰对象": "allowed",
+          "中文翻译": "更迅速的股票交易、更快捷的信息使用，从而带来更短的注意力时间",
+          "说明": "三个并列名词短语共同作 allowed 的宾语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "thus shorter attention spans in financial markets",
+          "修饰对象": "use",
+          "中文翻译": "因而（带来）金融市场中更短的注意力时间",
+          "说明": "由 and thus 引出的并列项，表示前两者所导致的结果。"
+        }
+      ],
+      "zh": "此外，新的数字技术使股票交易更为迅速、信息使用更为快捷，从而也使金融市场中的注意力持续时间变得更短。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2019-text1-s11",
+      "s": "\"There seems to be a predominance of short-term thinking at the expense of long-term investing,\" said Commissioner Daniel Gallagher of the US Securities and Exchange Commission in a speech this week.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Commissioner Daniel Gallagher",
+        "谓语": "said",
+        "宾语或表语": "\"There seems to be a predominance of short-term thinking ...\"",
+        "主干翻译": "委员丹尼尔·加拉格尔说，“似乎存在着一种短期思维占主导的现象”。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "There seems to be a predominance of short-term thinking at the expense of long-term investing",
+          "修饰对象": "said",
+          "中文翻译": "似乎存在着以牺牲长期投资为代价的短期思维占主导的现象",
+          "说明": "前置直接引语充当 said 的宾语，主句采用 said + 主语的倒装语序。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to be a predominance of short-term thinking at the expense of long-term investing",
+          "修饰对象": "seems",
+          "中文翻译": "存在短期思维占主导（以牺牲长期投资为代价）",
+          "说明": "seem to be 结构中的不定式，构成系表性谓语，其中 at the expense of 短语作方式/伴随说明。"
+        },
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "of the US Securities and Exchange Commission",
+          "修饰对象": "Commissioner",
+          "中文翻译": "美国证券交易委员会的",
+          "说明": "限定 Commissioner Daniel Gallagher 的所属机构。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "in a speech this week",
+          "修饰对象": "said",
+          "中文翻译": "在本周的一次演讲中",
+          "说明": "说明加拉格尔发表上述言论的场合与时间。"
+        }
+      ],
+      "zh": "美国证券交易委员会委员丹尼尔·加拉格尔本周在一次演讲中说：“似乎存在一种以牺牲长期投资为代价、短期思维占主导的现象。”",
+      "underline": null
+    },
+    {
+      "sid": "en1-2019-text1-s12",
+      "s": "In the US, the Sarbanes-Oxley Act of 2002 has pushed most public companies to defer performance bonuses for senior executives by about a year, slightly helping reduce \"short-termism.\"",
+      "para_no": 5,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "the Sarbanes-Oxley Act of 2002",
+        "谓语": "has pushed",
+        "宾语或表语": "most public companies",
+        "主干翻译": "2002年的《萨班斯-奥克斯利法案》促使大多数上市公司延迟发放高管的绩效奖金。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作宾语补足语",
+          "原文": "to defer performance bonuses for senior executives by about a year",
+          "修饰对象": "pushed",
+          "中文翻译": "将高级管理人员的绩效奖金推迟大约一年发放",
+          "说明": "动词不定式作push的宾语补足语（push sb to do）。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "slightly helping reduce \"short-termism.\"",
+          "修饰对象": "pushed",
+          "中文翻译": "从而略微有助于减少\"短期主义\"",
+          "说明": "现在分词短语作结果状语。"
+        },
+        {
+          "成分类型": "非谓语作宾语",
+          "原文": "reduce \"short-termism.\"",
+          "修饰对象": "helping",
+          "中文翻译": "减少\"短期主义\"",
+          "说明": "省略to的不定式作help的宾语（help do）。"
+        }
+      ],
+      "zh": "在美国，2002年的《萨班斯-奥克斯利法案》已促使大多数上市公司将高管的绩效奖金推迟大约一年发放，从而略微有助于减少\"短期主义\"。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2019-text1-s13",
+      "s": "In its latest survey of CEO pay, The Wall Street Journal finds that \"a substantial part\" of executive pay is now tied to performance.",
+      "para_no": 5,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "The Wall Street Journal",
+        "谓语": "finds",
+        "宾语或表语": "that \"a substantial part\" of executive pay is now tied to performance",
+        "主干翻译": "《华尔街日报》发现，高管薪酬中“相当大的一部分”如今已与绩效挂钩。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "In its latest survey of CEO pay",
+          "修饰对象": "finds",
+          "中文翻译": "在其最新的CEO薪酬调查中",
+          "说明": "说明该发现得出的背景与依据。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that \"a substantial part\" of executive pay is now tied to performance",
+          "修饰对象": "finds",
+          "中文翻译": "高管薪酬中“相当大的一部分”如今已与绩效挂钩",
+          "说明": "that 引导宾语从句，作 finds 的宾语。"
+        }
+      ],
+      "zh": "《华尔街日报》在其最新的CEO薪酬调查中发现，高管薪酬中“相当大的一部分”如今已与绩效挂钩。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2019-text1-s14",
+      "s": "Much more could be done to encourage \"long-termism,\" such as changes in the tax code and quicker disclosure of stock acquisitions.",
+      "para_no": 6,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Much more",
+        "谓语": "could be done",
+        "宾语或表语": "-",
+        "主干翻译": "还可以采取更多措施。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to encourage \"long-termism,\"",
+          "修饰对象": "could be done",
+          "中文翻译": "以鼓励“长期主义”",
+          "说明": "动词不定式短语作目的状语，说明 could be done 的目的。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "such as changes in the tax code and quicker disclosure of stock acquisitions",
+          "修饰对象": "Much more",
+          "中文翻译": "例如修改税法以及更快地披露股票收购情况",
+          "说明": "such as 引导举例，对 much more（更多措施）进行列举说明。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "changes in the tax code and quicker disclosure of stock acquisitions",
+          "修饰对象": "such as",
+          "中文翻译": "修改税法以及更快地披露股票收购情况",
+          "说明": "and 连接两个并列名词短语，作 such as 后的举例内容。"
+        }
+      ],
+      "zh": "还可以采取更多措施来鼓励“长期主义”，例如修改税法以及更快地披露股票收购情况。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2019-text1-s15",
+      "s": "In France, shareholders who hold onto a company investment for at least two years can sometimes earn more voting rights in a company.",
+      "para_no": 6,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "shareholders",
+        "谓语": "can earn",
+        "宾语或表语": "more voting rights",
+        "主干翻译": "股东有时能在公司里获得更多的投票权。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "In France",
+          "修饰对象": "earn",
+          "中文翻译": "在法国",
+          "说明": "地点状语，限定该规则适用的范围。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "who hold onto a company investment for at least two years",
+          "修饰对象": "shareholders",
+          "中文翻译": "持有某公司投资至少两年的",
+          "说明": "who 引导定语从句修饰 shareholders，说明能获得更多投票权的股东的条件。"
+        }
+      ],
+      "zh": "在法国，持有某家公司投资至少两年的股东，有时能在该公司获得更多的投票权。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2019-text1-s16",
+      "s": "Within companies, the right compensation design can provide incentives for executives to think beyond their own time at the company and on behalf of all stakeholders.",
+      "para_no": 7,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "the right compensation design",
+        "谓语": "can provide",
+        "宾语或表语": "incentives",
+        "主干翻译": "恰当的薪酬设计能为高管提供激励。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "Within companies",
+          "修饰对象": "provide",
+          "中文翻译": "在公司内部",
+          "说明": "范围状语，限定下文所述做法适用的场域。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "for executives to think beyond their own time at the company and on behalf of all stakeholders",
+          "修饰对象": "incentives",
+          "中文翻译": "促使高管把眼光放到自己任期之外、并代表所有利益相关者去思考",
+          "说明": "for + 逻辑主语 + 不定式结构作定语，修饰 incentives，说明激励的具体内容。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "on behalf of all stakeholders",
+          "修饰对象": "think",
+          "中文翻译": "代表所有利益相关者",
+          "说明": "与 beyond their own time at the company 由 and 并列，共同修饰 think。"
+        }
+      ],
+      "zh": "在公司内部，恰当的薪酬设计能够为高管提供激励，促使他们把眼光放到自己任期之外，并代表所有利益相关者去思考。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2019-text1-s17",
+      "s": "Britain's new rule is a reminder to bankers that society has an interest in their performance, not just for the short term but for the long term.",
+      "para_no": 7,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Britain's new rule",
+        "谓语": "is",
+        "宾语或表语": "a reminder to bankers",
+        "主干翻译": "英国的新规定是对银行家的一种提醒。"
+      },
+      "components": [
+        {
+          "成分类型": "同位语从句",
+          "原文": "that society has an interest in their performance, not just for the short term but for the long term",
+          "修饰对象": "reminder",
+          "中文翻译": "社会对他们的业绩有利益关切，不仅是短期的，更是长期的",
+          "说明": "that 引导同位语从句，对 reminder 的内容作具体说明。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "not just for the short term but for the long term",
+          "修饰对象": "interest",
+          "中文翻译": "不仅是短期的，而且是长期的",
+          "说明": "not just ... but ... 并列结构，修饰 interest，强调利益关切兼及短期与长期。"
+        }
+      ],
+      "zh": "英国的新规定提醒银行家们：社会对他们的业绩抱有利益关切，这种关切不仅着眼于短期，更着眼于长期。",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2019-text1-s1",
+        "en1-2019-text1-s2",
+        "en1-2019-text1-s3",
+        "en1-2019-text1-s4"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2019-text1-s5",
+        "en1-2019-text1-s6"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2019-text1-s7",
+        "en1-2019-text1-s8",
+        "en1-2019-text1-s9"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2019-text1-s10",
+        "en1-2019-text1-s11"
+      ]
+    },
+    {
+      "para_no": 5,
+      "sids": [
+        "en1-2019-text1-s12",
+        "en1-2019-text1-s13"
+      ]
+    },
+    {
+      "para_no": 6,
+      "sids": [
+        "en1-2019-text1-s14",
+        "en1-2019-text1-s15"
+      ]
+    },
+    {
+      "para_no": 7,
+      "sids": [
+        "en1-2019-text1-s16",
+        "en1-2019-text1-s17"
+      ]
+    }
+  ]
+}

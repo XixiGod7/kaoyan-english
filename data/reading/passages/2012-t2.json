@@ -1,0 +1,767 @@
+{
+  "exam": "en1",
+  "key": "2012-t2",
+  "year": 2012,
+  "text_no": 2,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2012-text2-s1",
+      "s": "A deal is a deal—except, apparently, when Entergy is involved.",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "A deal",
+        "谓语": "is",
+        "宾语或表语": "a deal",
+        "主干翻译": "一笔交易就是一笔交易（说话算数）。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "when Entergy is involved",
+          "修饰对象": "is",
+          "中文翻译": "当涉及到（能源公司）Entergy 时",
+          "说明": "由 except 引出的例外性时间状语从句，挂靠在系动词 is 上，说明唯一例外的情形。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "apparently",
+          "修饰对象": "—",
+          "中文翻译": "显然地",
+          "说明": "插入语，对整句作评注语气。"
+        }
+      ],
+      "zh": "说话本应算数——但显然，一旦涉及 Entergy 公司，情况就另当别论了。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2012-text2-s2",
+      "s": "The company, a major energy supplier in New England, provoked justified outrage in Vermont last week when it announced it was reneging on a longstanding commitment to abide by the state's strict nuclear regulations.",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "The company",
+        "谓语": "provoked",
+        "宾语或表语": "justified outrage",
+        "主干翻译": "这家公司激起了正当的愤怒。"
+      },
+      "components": [
+        {
+          "成分类型": "同位语从句",
+          "原文": "a major energy supplier in New England",
+          "修饰对象": "company",
+          "中文翻译": "新英格兰地区一家主要的能源供应商",
+          "说明": "名词短语作 The company 的同位语，进一步说明其身份。"
+        },
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "when it announced it was reneging on a longstanding commitment to abide by the state's strict nuclear regulations",
+          "修饰对象": "provoked",
+          "中文翻译": "当它宣布（背弃）长期以来遵守严格核管理规定的承诺时",
+          "说明": "when 引导的时间状语从句，挂靠在谓语 provoked 上，交代激起愤怒的时间与缘由。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "it was reneging on a longstanding commitment to abide by the state's strict nuclear regulations",
+          "修饰对象": "announced",
+          "中文翻译": "它（背弃了）长期以来遵守严格核管理规定的承诺",
+          "说明": "announced 的宾语从句。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to abide by the state's strict nuclear regulations",
+          "修饰对象": "commitment",
+          "中文翻译": "遵守严格核管理规定的",
+          "说明": "动词不定式作 commitment 的定语，说明承诺的内容。"
+        }
+      ],
+      "zh": "这家公司是新英格兰地区一家主要的能源供应商，上周它宣布背弃长期以来遵守该州严格核管理规定的承诺，在佛蒙特州激起了人们正当的愤怒。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2012-text2-s3",
+      "s": "Instead, the company has done precisely what it had long promised it would not: challenge the constitutionality of Vermont's rules in the federal court, as part of a desperate effort to keep its Vermont Yankee nuclear power plant running.",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "the company",
+        "谓语": "has done",
+        "宾语或表语": "precisely what...",
+        "主干翻译": "这家公司所做的正是它（之前承诺过不会做的事）。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "precisely what it had long promised it would not: challenge the constitutionality of Vermont's rules in the federal court, as part of a desperate effort to keep its Vermont Yankee nuclear power plant running",
+          "修饰对象": "done",
+          "中文翻译": "正是它长期以来承诺不会做的事：在联邦法院挑战佛蒙特州规定的合宪性",
+          "说明": "what 引导的宾语从句作 done 的宾语，冒号后为其具体内容。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "it would not",
+          "修饰对象": "promised",
+          "中文翻译": "它不会（这样做）",
+          "说明": "promised 的宾语从句，省略了与 what 相关的动词。"
+        },
+        {
+          "成分类型": "省略",
+          "原文": "challenge the constitutionality of Vermont's rules in the federal court",
+          "修饰对象": "what",
+          "中文翻译": "（即）在联邦法院挑战佛蒙特州规定的合宪性",
+          "说明": "冒号后的不带 to 的不定式短语，对 what 所指内容作同位式补充说明，省略了主谓。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "as part of a desperate effort to keep its Vermont Yankee nuclear power plant running",
+          "修饰对象": "challenge",
+          "中文翻译": "作为一项拼命努力的一部分，以求让其佛蒙特北方核电站继续运转",
+          "说明": "as 引导的介词短语作目的/方式状语，说明此举的动机。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to keep its Vermont Yankee nuclear power plant running",
+          "修饰对象": "effort",
+          "中文翻译": "让其佛蒙特北方核电站继续运转的",
+          "说明": "不定式作 effort 的定语，说明努力的目标。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "running",
+          "修饰对象": "keep",
+          "中文翻译": "（保持）运转（状态）",
+          "说明": "现在分词作 keep 的宾语补足语，构成 keep...running 结构。"
+        }
+      ],
+      "zh": "相反，这家公司所做的恰恰是它长期以来承诺不会做的事：在联邦法院挑战佛蒙特州规定的合宪性，以此作为拼命保住其佛蒙特北方核电站继续运转的努力的一部分。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2012-text2-s4",
+      "s": "It's a stunning move.",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "It",
+        "谓语": "is",
+        "宾语或表语": "a stunning move",
+        "主干翻译": "这是一招令人震惊之举。"
+      },
+      "components": [],
+      "zh": "这是令人震惊的一招。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2012-text2-s5",
+      "s": "The conflict has been surfacing since 2002, when the corporation bought Vermont's only nuclear power plant, an aging reactor in Vernon.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The conflict",
+        "谓语": "has been surfacing",
+        "宾语或表语": "—",
+        "主干翻译": "这场冲突一直在显现。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "when the corporation bought Vermont's only nuclear power plant, an aging reactor in Vernon",
+          "修饰对象": "2002",
+          "中文翻译": "（在那一年）这家公司买下了佛蒙特州唯一的核电站",
+          "说明": "when 引导的定语从句，修饰时间名词 2002。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "an aging reactor in Vernon",
+          "修饰对象": "plant",
+          "中文翻译": "弗农镇一座老化的反应堆",
+          "说明": "名词短语作 plant 的同位语，对核电站作进一步说明。"
+        }
+      ],
+      "zh": "这场冲突自 2002 年起就一直在浮现，当年这家公司买下了佛蒙特州唯一的核电站——弗农镇一座老化的反应堆。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2012-text2-s6",
+      "s": "As a condition of receiving state approval for the sale, the company agreed to seek permission from state regulators to operate past 2012.",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "the company",
+        "谓语": "agreed",
+        "宾语或表语": "to seek permission",
+        "主干翻译": "这家公司同意寻求许可。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "As a condition of receiving state approval for the sale",
+          "修饰对象": "agreed",
+          "中文翻译": "作为获得州政府批准这笔交易的一项条件",
+          "说明": "As 引导的介词短语作条件状语，说明同意的前提。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to seek permission from state regulators to operate past 2012",
+          "修饰对象": "agreed",
+          "中文翻译": "向州监管机构寻求在 2012 年后继续运营的许可",
+          "说明": "不定式短语作 agreed 的宾语，表示同意的内容。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to operate past 2012",
+          "修饰对象": "permission",
+          "中文翻译": "在 2012 年之后继续运营的",
+          "说明": "不定式作 permission 的定语，说明许可的内容。"
+        }
+      ],
+      "zh": "作为获得州政府批准这笔交易的条件，该公司同意向州监管机构申请在 2012 年之后继续运营的许可。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2012-text2-s7",
+      "s": "In 2006, the state went a step further, requiring that any extension of the plant's license be subject to the Vermont legislature's approval.",
+      "para_no": 3,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "the state",
+        "谓语": "went",
+        "宾语或表语": "a step further",
+        "主干翻译": "州政府更进了一步。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "In 2006",
+          "修饰对象": "went",
+          "中文翻译": "在 2006 年",
+          "说明": "时间状语。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "requiring that any extension of the plant's license be subject to the Vermont legislature's approval",
+          "修饰对象": "went",
+          "中文翻译": "（进而）要求该电站执照的任何延期都须经佛蒙特州议会批准",
+          "说明": "现在分词短语作结果状语，说明州政府更进一步的具体做法。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that any extension of the plant's license be subject to the Vermont legislature's approval",
+          "修饰对象": "requiring",
+          "中文翻译": "该电站执照的任何延期都须经佛蒙特州议会批准",
+          "说明": "requiring 的宾语从句，从句谓语用虚拟语气 be。"
+        }
+      ],
+      "zh": "2006 年，州政府更进一步，要求该电站执照的任何延期都必须经过佛蒙特州议会的批准。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2012-text2-s8",
+      "s": "Then, too, the company went along.",
+      "para_no": 3,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "the company",
+        "谓语": "went along",
+        "宾语或表语": "—",
+        "主干翻译": "这家公司也照办了。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "too",
+          "修饰对象": "—",
+          "中文翻译": "也",
+          "说明": "副词作插入式补充语气。"
+        }
+      ],
+      "zh": "当时，这家公司也照办了。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2012-text2-s9",
+      "s": "Either Entergy never really intended to live by those commitments, or it simply didn't foresee what would happen next.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Entergy / it",
+        "谓语": "intended / foresee",
+        "宾语或表语": "—",
+        "主干翻译": "要么 Entergy 从未真正打算（履行承诺），要么它根本没有预见到（接下来会发生什么）。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to live by those commitments",
+          "修饰对象": "intended",
+          "中文翻译": "信守那些承诺",
+          "说明": "不定式作 intended 的宾语，表示打算做的事。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "it simply didn't foresee what would happen next",
+          "修饰对象": "intended",
+          "中文翻译": "它只是没有预见到接下来会发生什么",
+          "说明": "Either...or... 连接的并列分句，与前一分句并列。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "what would happen next",
+          "修饰对象": "foresee",
+          "中文翻译": "接下来会发生什么",
+          "说明": "what 引导的宾语从句作 foresee 的宾语。"
+        }
+      ],
+      "zh": "要么 Entergy 从未真正打算信守那些承诺，要么它根本没有预料到接下来会发生什么。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2012-text2-s10",
+      "s": "A string of accidents, including the partial collapse of a cooling tower in 2007 and the discovery of an underground pipe system leakage, raised serious questions about both Vermont Yankee's safety and Entergy's management—especially after the company made misleading statements about the pipe.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "A string of accidents",
+        "谓语": "raised",
+        "宾语或表语": "serious questions",
+        "主干翻译": "一连串事故引发了严重的质疑。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "including the partial collapse of a cooling tower in 2007 and the discovery of an underground pipe system leakage",
+          "修饰对象": "accidents",
+          "中文翻译": "包括 2007 年一座冷却塔的部分坍塌以及地下管道系统渗漏的发现",
+          "说明": "including 引导的介词短语作 accidents 的定语，列举事故内容。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "the discovery of an underground pipe system leakage",
+          "修饰对象": "collapse",
+          "中文翻译": "地下管道系统渗漏的发现",
+          "说明": "由 and 与 the partial collapse 并列，同为 including 的宾语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "Entergy's management",
+          "修饰对象": "safety",
+          "中文翻译": "Entergy 的管理",
+          "说明": "both...and... 结构，与 Vermont Yankee's safety 并列，作 about 的宾语。"
+        },
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "especially after the company made misleading statements about the pipe",
+          "修饰对象": "raised",
+          "中文翻译": "尤其是在该公司就管道问题作出误导性陈述之后",
+          "说明": "after 引导的时间状语从句，挂靠在谓语 raised 上。"
+        }
+      ],
+      "zh": "一连串事故——包括 2007 年一座冷却塔的部分坍塌以及发现地下管道系统渗漏——引发了人们对佛蒙特北方核电站安全性和 Entergy 公司管理的严重质疑，尤其是在该公司就管道问题作出误导性陈述之后。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2012-text2-s11",
+      "s": "Enraged by Entergy's behavior, the Vermont Senate voted 26 to 4 last year against allowing an extension.",
+      "para_no": 4,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "the Vermont Senate",
+        "谓语": "voted",
+        "宾语或表语": "26 to 4",
+        "主干翻译": "佛蒙特州参议院以 26 票对 4 票投票。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "Enraged by Entergy's behavior",
+          "修饰对象": "voted",
+          "中文翻译": "被 Entergy 的行为激怒",
+          "说明": "过去分词短语作原因状语，说明投票的缘由。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "against allowing an extension",
+          "修饰对象": "voted",
+          "中文翻译": "反对批准延期",
+          "说明": "against 引导介词短语，说明投票的立场。"
+        }
+      ],
+      "zh": "被 Entergy 的行为激怒，佛蒙特州参议院去年以 26 票对 4 票投票反对批准延期。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2012-text2-s12",
+      "s": "Now the company is suddenly claiming that the 2002 agreement is invalid because of the 2006 legislation, and that only the federal government has regulatory power over nuclear issues.",
+      "para_no": 5,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "the company",
+        "谓语": "is claiming",
+        "宾语或表语": "that...",
+        "主干翻译": "这家公司突然声称（两件事）。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "that the 2002 agreement is invalid because of the 2006 legislation",
+          "修饰对象": "claiming",
+          "中文翻译": "由于 2006 年的立法，2002 年的协议无效",
+          "说明": "claiming 的第一个宾语从句。"
+        },
+        {
+          "成分类型": "状语从句(原因)",
+          "原文": "because of the 2006 legislation",
+          "修饰对象": "is",
+          "中文翻译": "由于 2006 年的立法",
+          "说明": "because of 引导原因状语（介词短语），说明协议无效的理由，挂靠从句系动词 is。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "that only the federal government has regulatory power over nuclear issues",
+          "修饰对象": "is",
+          "中文翻译": "只有联邦政府才拥有对核问题的监管权",
+          "说明": "由 and 连接的第二个宾语从句，与第一个宾语从句并列，同作 claiming 的宾语。"
+        }
+      ],
+      "zh": "如今这家公司突然声称：由于 2006 年的立法，2002 年的协议无效；而且只有联邦政府才拥有对核问题的监管权。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2012-text2-s13",
+      "s": "The legal issues in the case are obscure: whereas the Supreme Court has ruled that states do have some regulatory authority over nuclear power, legal scholars say that Vermont case will offer a precedent-setting test of how far those powers extend.",
+      "para_no": 5,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "The legal issues in the case",
+        "谓语": "are",
+        "宾语或表语": "obscure",
+        "主干翻译": "该案中的法律问题晦涩难明。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(让步)",
+          "原文": "whereas the Supreme Court has ruled that states do have some regulatory authority over nuclear power",
+          "修饰对象": "legal scholars say",
+          "中文翻译": "尽管最高法院已裁定各州对核电确实拥有一定的监管权",
+          "说明": "whereas 引导对比/让步状语从句，与后面 legal scholars say 的主句形成对照。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that states do have some regulatory authority over nuclear power",
+          "修饰对象": "ruled",
+          "中文翻译": "各州对核电确实拥有一定的监管权",
+          "说明": "that 引导的从句作 has ruled 的宾语。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that Vermont case will offer a precedent-setting test of how far those powers extend",
+          "修饰对象": "say",
+          "中文翻译": "佛蒙特案将提供一次开创先例的检验，以确定这些权力的边界究竟有多大",
+          "说明": "that 引导的从句作 legal scholars say 的宾语；其中 of how far those powers extend 为介词宾语从句作定语，修饰 test。"
+        }
+      ],
+      "zh": "该案中的法律问题晦涩难明：尽管最高法院已裁定各州对核电确实拥有一定的监管权，但法律学者们表示，佛蒙特案将提供一次开创先例的检验，以确定这些权力的边界究竟有多大。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2012-text2-s14",
+      "s": "Certainly, there are valid concerns about the patchwork regulations that could result if every state sets its own rules.",
+      "para_no": 5,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "there",
+        "谓语": "are",
+        "宾语或表语": "valid concerns",
+        "主干翻译": "存在着一些正当的担忧。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "that could result if every state sets its own rules",
+          "修饰对象": "regulations",
+          "中文翻译": "如果每个州都制定自己的规则就可能产生的（拼凑式监管）",
+          "说明": "that 引导的定语从句，修饰 the patchwork regulations。"
+        },
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "if every state sets its own rules",
+          "修饰对象": "result",
+          "中文翻译": "如果每个州都制定自己的规则",
+          "说明": "if 引导的条件状语从句，挂靠在定语从句谓语 result 上。"
+        }
+      ],
+      "zh": "诚然，对于如果每个州都各自制定规则而可能出现的拼凑式监管，人们确有正当的担忧。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2012-text2-s15",
+      "s": "But had Entergy kept its word, that debate would be beside the point.",
+      "para_no": 5,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "that debate",
+        "谓语": "would be",
+        "宾语或表语": "beside the point",
+        "主干翻译": "那场争论本将无关紧要。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "had Entergy kept its word",
+          "修饰对象": "be",
+          "中文翻译": "倘若 Entergy 信守了诺言",
+          "说明": "省略 if 的虚拟条件从句，采用倒装结构（had 提前），表与过去事实相反的假设。"
+        },
+        {
+          "成分类型": "倒装",
+          "原文": "had Entergy kept its word",
+          "修饰对象": "—",
+          "中文翻译": "倘若 Entergy 信守了诺言",
+          "说明": "条件从句省略 if 后将助动词 had 提至句首，构成部分倒装。"
+        }
+      ],
+      "zh": "但倘若 Entergy 当初信守了诺言，那场争论本来根本无关紧要。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2012-text2-s16",
+      "s": "The company seems to have concluded that its reputation in Vermont is already so damaged that it has nothing left to lose by going to war with the state.",
+      "para_no": 6,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The company",
+        "谓语": "seems to have concluded",
+        "宾语或表语": "that...",
+        "主干翻译": "这家公司似乎已经断定（某事）。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to have concluded that its reputation in Vermont is already so damaged that it has nothing left to lose by going to war with the state",
+          "修饰对象": "seems",
+          "中文翻译": "已经断定它在佛蒙特州的声誉已经严重受损……",
+          "说明": "不定式作 seems 的表语，构成 seem to do 结构。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that its reputation in Vermont is already so damaged that it has nothing left to lose by going to war with the state",
+          "修饰对象": "concluded",
+          "中文翻译": "它在佛蒙特州的声誉已经严重受损，以致它与该州开战已无任何可失去之物",
+          "说明": "concluded 的宾语从句，内含 so...that... 结构。"
+        },
+        {
+          "成分类型": "状语从句(结果)",
+          "原文": "that it has nothing left to lose by going to war with the state",
+          "修饰对象": "damaged",
+          "中文翻译": "以致它与该州开战已没有什么可失去的了",
+          "说明": "so...that... 结构中 that 引导的结果状语从句。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "left",
+          "修饰对象": "nothing",
+          "中文翻译": "剩下的",
+          "说明": "过去分词作 nothing 的后置定语。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to lose by going to war with the state",
+          "修饰对象": "nothing",
+          "中文翻译": "通过与该州开战而失去的",
+          "说明": "不定式作 nothing 的定语，by going... 为方式状语并入其中。"
+        }
+      ],
+      "zh": "这家公司似乎已经断定，它在佛蒙特州的声誉已经严重受损，以至于与该州开战也不会再有什么损失。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2012-text2-s17",
+      "s": "But there should be consequences.",
+      "para_no": 6,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "there",
+        "谓语": "should be",
+        "宾语或表语": "consequences",
+        "主干翻译": "理应有后果。"
+      },
+      "components": [],
+      "zh": "但理应承担后果。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2012-text2-s18",
+      "s": "Permission to run a nuclear plant is a public trust.",
+      "para_no": 6,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Permission",
+        "谓语": "is",
+        "宾语或表语": "a public trust",
+        "主干翻译": "许可是一种公共信托。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to run a nuclear plant",
+          "修饰对象": "Permission",
+          "中文翻译": "经营核电站的",
+          "说明": "不定式作 Permission 的定语，说明许可的内容。"
+        }
+      ],
+      "zh": "经营核电站的许可是一种公共信托。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2012-text2-s19",
+      "s": "Entergy runs 11 other reactors in the United States, including Pilgrim Nuclear station in Plymouth.",
+      "para_no": 6,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "Entergy",
+        "谓语": "runs",
+        "宾语或表语": "11 other reactors",
+        "主干翻译": "Entergy 经营着另外 11 座反应堆。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "including Pilgrim Nuclear station in Plymouth",
+          "修饰对象": "reactors",
+          "中文翻译": "包括普利茅斯的朝圣者核电站",
+          "说明": "including 引导的介词短语作 reactors 的定语，举例说明。"
+        }
+      ],
+      "zh": "Entergy 在美国还经营着另外 11 座反应堆，其中包括普利茅斯的朝圣者核电站。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2012-text2-s20",
+      "s": "Pledging to run Pilgrim safely, the company has applied for federal permission to keep it open for another 20 years.",
+      "para_no": 6,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "the company",
+        "谓语": "has applied",
+        "宾语或表语": "for federal permission",
+        "主干翻译": "这家公司已申请联邦许可。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "Pledging to run Pilgrim safely",
+          "修饰对象": "applied",
+          "中文翻译": "承诺安全运营朝圣者核电站",
+          "说明": "现在分词短语作伴随/方式状语。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to run Pilgrim safely",
+          "修饰对象": "Pledging",
+          "中文翻译": "安全运营朝圣者核电站",
+          "说明": "不定式作 Pledging 的宾语，表示承诺的内容。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to keep it open for another 20 years",
+          "修饰对象": "permission",
+          "中文翻译": "让其再继续运营 20 年的",
+          "说明": "不定式作 permission 的定语，说明许可的内容。"
+        }
+      ],
+      "zh": "在承诺安全运营朝圣者核电站的同时，这家公司已申请联邦许可，以求让其再继续运营 20 年。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2012-text2-s21",
+      "s": "But as the Nuclear Regulatory Commission (NRC) reviews the company's application, it should keep in mind what promises from Entergy are worth.",
+      "para_no": 6,
+      "para_seq": 5,
+      "trunk": {
+        "主语": "it",
+        "谓语": "should keep",
+        "宾语或表语": "in mind what promises from Entergy are worth",
+        "主干翻译": "它应当记住恩特吉公司的承诺到底有几分价值。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "But as the Nuclear Regulatory Commission (NRC) reviews the company's application",
+          "修饰对象": "should keep",
+          "中文翻译": "但当核管理委员会（NRC）审查该公司的申请时",
+          "说明": "由 as 引导的时间状语从句，But 为转折连词。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "(NRC)",
+          "修饰对象": "the Nuclear Regulatory Commission",
+          "中文翻译": "（即NRC）",
+          "说明": "对 the Nuclear Regulatory Commission 的缩写注释，作插入语。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "what promises from Entergy are worth",
+          "修饰对象": "keep",
+          "中文翻译": "恩特吉公司的承诺到底有几分价值",
+          "说明": "由 what 引导的宾语从句，是 keep in mind 的逻辑宾语（原句 keep it mind 应为 keep in mind）。"
+        }
+      ],
+      "zh": "但当核管理委员会（NRC）审查该公司的申请时，它应当牢记恩特吉公司的承诺到底有几分价值。",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2012-text2-s1",
+        "en1-2012-text2-s2"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2012-text2-s3",
+        "en1-2012-text2-s4"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2012-text2-s5",
+        "en1-2012-text2-s6",
+        "en1-2012-text2-s7",
+        "en1-2012-text2-s8"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2012-text2-s9",
+        "en1-2012-text2-s10",
+        "en1-2012-text2-s11"
+      ]
+    },
+    {
+      "para_no": 5,
+      "sids": [
+        "en1-2012-text2-s12",
+        "en1-2012-text2-s13",
+        "en1-2012-text2-s14",
+        "en1-2012-text2-s15"
+      ]
+    },
+    {
+      "para_no": 6,
+      "sids": [
+        "en1-2012-text2-s16",
+        "en1-2012-text2-s17",
+        "en1-2012-text2-s18",
+        "en1-2012-text2-s19",
+        "en1-2012-text2-s20",
+        "en1-2012-text2-s21"
+      ]
+    }
+  ]
+}

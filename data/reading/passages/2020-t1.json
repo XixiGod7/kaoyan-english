@@ -1,0 +1,647 @@
+{
+  "exam": "en1",
+  "key": "2020-t1",
+  "year": 2020,
+  "text_no": 1,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2020-text1-s1",
+      "s": "A group of Labour MPs, among them Yvette Cooper, are bringing in the new year with a call to institute a UK \"town of culture\" award.",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "A group of Labour MPs",
+        "谓语": "are bringing in",
+        "宾语或表语": "the new year",
+        "主干翻译": "一群工党议员正在迎接新的一年。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "among them Yvette Cooper",
+          "修饰对象": "MPs",
+          "中文翻译": "其中包括伊薇特·库珀",
+          "说明": "among them 引导的插入性同位结构，对前面的 MPs 作补充说明。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to institute a UK \"town of culture\" award",
+          "修饰对象": "call",
+          "中文翻译": "设立英国\"文化之镇\"奖项的（呼吁）",
+          "说明": "动词不定式作后置定语，修饰 call，说明呼吁的具体内容。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "with a call to institute a UK \"town of culture\" award",
+          "修饰对象": "bringing",
+          "中文翻译": "伴随着设立英国\"文化之镇\"奖项的呼吁",
+          "说明": "with 引导的介词短语作伴随状语，修饰谓语 bringing。"
+        }
+      ],
+      "zh": "一群工党议员——其中包括伊薇特·库珀——正以一项设立英国\"文化之镇\"奖的呼吁来迎接新的一年。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2020-text1-s2",
+      "s": "The proposal is that it should sit alongside the existing city of culture title, which was held by Hull in 2017, and has been awarded to Coventry for 2021.",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "The proposal",
+        "谓语": "is",
+        "宾语或表语": "that 引导的表语从句",
+        "主干翻译": "这一提议是……（如下内容）。"
+      },
+      "components": [
+        {
+          "成分类型": "表语从句",
+          "原文": "that it should sit alongside the existing city of culture title, which was held by Hull in 2017, and has been awarded to Coventry for 2021",
+          "修饰对象": "is",
+          "中文翻译": "它应与现有的\"文化之城\"称号并列",
+          "说明": "that 引导表语从句，作系动词 is 的表语，说明 proposal 的内容。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "which was held by Hull in 2017, and has been awarded to Coventry for 2021",
+          "修饰对象": "title",
+          "中文翻译": "该称号曾于2017年由赫尔市获得，并已授予考文垂市用于2021年",
+          "说明": "which 引导非限制性定语从句，修饰先行词 title。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "has been awarded to Coventry for 2021",
+          "修饰对象": "held",
+          "中文翻译": "并已授予考文垂市用于2021年",
+          "说明": "and 连接，与 was held 在定语从句内构成并列谓语。"
+        }
+      ],
+      "zh": "该提议是：它应与现有的\"文化之城\"称号并列——该称号曾于2017年由赫尔市获得，并已授予考文垂市用于2021年。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2020-text1-s3",
+      "s": "Cooper and her colleagues argue that the success of the crown for Hull, where it brought in £220m of investment and an avalanche of arts, ought not to be confined to cities.",
+      "para_no": 1,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Cooper and her colleagues",
+        "谓语": "argue",
+        "宾语或表语": "that 引导的宾语从句",
+        "主干翻译": "库珀及其同僚们认为……（如下内容）。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "that the success of the crown for Hull, where it brought in £220m of investment and an avalanche of arts, ought not to be confined to cities",
+          "修饰对象": "argue",
+          "中文翻译": "赫尔市获此殊荣所带来的成功不应仅限于各大城市",
+          "说明": "that 引导宾语从句，作 argue 的宾语。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "where it brought in £220m of investment and an avalanche of arts",
+          "修饰对象": "Hull",
+          "中文翻译": "在那里它带来了2.2亿英镑的投资和大量涌现的艺术活动",
+          "说明": "where 引导非限制性定语从句，修饰地点先行词 Hull。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "an avalanche of arts",
+          "修饰对象": "m",
+          "中文翻译": "大量涌现的艺术活动",
+          "说明": "and 连接，与 £220m of investment 并列作 brought in 的宾语。"
+        }
+      ],
+      "zh": "库珀及其同僚们认为，赫尔市获此殊荣所带来的成功——它为该市带来了2.2亿英镑的投资和大量涌现的艺术活动——不应仅局限于各大城市。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2020-text1-s4",
+      "s": "Britain's towns, it is true, are not prevented from applying, but they generally lack the resources to put together a bid to beat their bigger competitors.",
+      "para_no": 1,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "Britain's towns",
+        "谓语": "are not prevented",
+        "宾语或表语": "from applying",
+        "主干翻译": "英国的小城镇并未被阻止申请。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "it is true",
+          "修饰对象": "—",
+          "中文翻译": "诚然",
+          "说明": "评注性插入语，插入主句中表示让步语气。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "but they generally lack the resources to put together a bid to beat their bigger competitors",
+          "修饰对象": "prevented",
+          "中文翻译": "但它们通常缺乏整合出一份能击败更大竞争对手的标书所需的资源",
+          "说明": "but 连接两个并列分句，与前一分句构成转折并列。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to put together a bid to beat their bigger competitors",
+          "修饰对象": "resources",
+          "中文翻译": "整合出一份标书（所需的资源）",
+          "说明": "不定式作后置定语，修饰 resources。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to beat their bigger competitors",
+          "修饰对象": "bid",
+          "中文翻译": "击败更大竞争对手的（标书）",
+          "说明": "不定式作后置定语，修饰 bid。"
+        }
+      ],
+      "zh": "诚然，英国的小城镇并未被禁止申请，但它们通常缺乏整合出一份能击败更大竞争对手的申请标书所需的资源。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2020-text1-s5",
+      "s": "A town of culture award could, it is argued, become an annual event, attracting funding and creating jobs.",
+      "para_no": 1,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "A town of culture award",
+        "谓语": "could become",
+        "宾语或表语": "an annual event",
+        "主干翻译": "\"文化之镇\"奖可以成为一项年度盛事。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "it is argued",
+          "修饰对象": "—",
+          "中文翻译": "有人认为",
+          "说明": "评注性插入语，插入主句中标明这是一种观点。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "attracting funding and creating jobs",
+          "修饰对象": "become",
+          "中文翻译": "吸引资金、创造就业",
+          "说明": "现在分词短语作结果状语，说明成为年度盛事所产生的效果。"
+        }
+      ],
+      "zh": "有人认为，\"文化之镇\"奖可以成为一项年度盛事，从而吸引资金、创造就业。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2020-text1-s6",
+      "s": "Some might see the proposal as a booby prize for the fact that Britain is no longer able to apply for the much more prestigious title of European capital of culture, a sought-after award bagged by Glasgow in 1990 and Liverpool in 2008.",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Some",
+        "谓语": "might see",
+        "宾语或表语": "the proposal (as a booby prize)",
+        "主干翻译": "有些人可能会把这一提议视为一个安慰奖。"
+      },
+      "components": [
+        {
+          "成分类型": "同位语从句",
+          "原文": "that Britain is no longer able to apply for the much more prestigious title of European capital of culture, a sought-after award bagged by Glasgow in 1990 and Liverpool in 2008",
+          "修饰对象": "fact",
+          "中文翻译": "英国不再能够申请声望高得多的\"欧洲文化之都\"称号",
+          "说明": "that 引导同位语从句，对抽象名词 fact 的内容加以说明。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to apply for the much more prestigious title of European capital of culture",
+          "修饰对象": "able",
+          "中文翻译": "申请声望高得多的\"欧洲文化之都\"称号",
+          "说明": "不定式作 be able 的补足成分，说明能力所及的内容。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "a sought-after award bagged by Glasgow in 1990 and Liverpool in 2008",
+          "修饰对象": "title",
+          "中文翻译": "一项备受追捧的奖项，曾于1990年由格拉斯哥、2008年由利物浦摘得",
+          "说明": "名词短语作 title 的同位语（插入性同位结构），对其作补充说明。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "bagged by Glasgow in 1990 and Liverpool in 2008",
+          "修饰对象": "award",
+          "中文翻译": "曾于1990年由格拉斯哥、2008年由利物浦摘得的（奖项）",
+          "说明": "过去分词短语作后置定语，修饰 award。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "Liverpool in 2008",
+          "修饰对象": "bagged",
+          "中文翻译": "2008年的利物浦",
+          "说明": "and 连接，与 Glasgow in 1990 并列作 bagged by 的逻辑主语。"
+        }
+      ],
+      "zh": "有些人可能会把这一提议看作是一个安慰奖，因为英国如今已无法申请声望高得多的\"欧洲文化之都\"称号——这是一项备受追捧的奖项，1990年由格拉斯哥、2008年由利物浦先后摘得。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2020-text1-s7",
+      "s": "A cynic might speculate that the UK is on the verge of disappearing into an endless fever of self-celebration in its desperation to reinvent itself for the post-Brexit world: after town of culture, who knows what will follow—village of culture?",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "A cynic",
+        "谓语": "might speculate",
+        "宾语或表语": "that 引导的宾语从句",
+        "主干翻译": "愤世嫉俗者可能会揣测……（如下内容）。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "that the UK is on the verge of disappearing into an endless fever of self-celebration in its desperation to reinvent itself for the post-Brexit world",
+          "修饰对象": "speculate",
+          "中文翻译": "英国正濒临陷入一场无休止的自我庆祝狂热之中，急于为脱欧后的世界重塑自我",
+          "说明": "that 引导宾语从句，作 speculate 的宾语。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to reinvent itself for the post-Brexit world",
+          "修饰对象": "desperation",
+          "中文翻译": "为脱欧后的世界重塑自我（的迫切渴望）",
+          "说明": "不定式作后置定语，修饰名词 desperation。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "what will follow",
+          "修饰对象": "knows",
+          "中文翻译": "接下来还会有什么",
+          "说明": "what 引导宾语从句，作 knows 的宾语。"
+        }
+      ],
+      "zh": "愤世嫉俗者可能会揣测，英国正濒临陷入一场无休止的自我庆祝狂热之中，急于为脱欧后的世界重塑自我：继\"文化之镇\"之后，谁知道接下来还会有什么——\"文化之村\"吗？",
+      "underline": null
+    },
+    {
+      "sid": "en1-2020-text1-s8",
+      "s": "Suburb of culture?",
+      "para_no": 2,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "—",
+        "谓语": "—",
+        "宾语或表语": "Suburb of culture",
+        "主干翻译": "\"文化之郊\"吗？"
+      },
+      "components": [],
+      "zh": "\"文化之郊\"吗？",
+      "underline": null
+    },
+    {
+      "sid": "en1-2020-text1-s9",
+      "s": "Hamlet of culture?",
+      "para_no": 2,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "—",
+        "谓语": "—",
+        "宾语或表语": "Hamlet of culture",
+        "主干翻译": "\"文化之村落\"吗？"
+      },
+      "components": [],
+      "zh": "\"文化之村落\"吗？",
+      "underline": null
+    },
+    {
+      "sid": "en1-2020-text1-s10",
+      "s": "It is also wise to recall that such titles are not a cure-all.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "It (形式主语)",
+        "谓语": "is",
+        "宾语或表语": "wise",
+        "主干翻译": "（这样做）也是明智的。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作主语",
+          "原文": "to recall that such titles are not a cure-all",
+          "修饰对象": "It",
+          "中文翻译": "记住这类称号并非万能良药",
+          "说明": "不定式作真正主语，由形式主语 It 代替。（不定式承担主语功能，对应 It 形式主语结构）"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that such titles are not a cure-all",
+          "修饰对象": "recall",
+          "中文翻译": "这类称号并非万能良药",
+          "说明": "that 引导宾语从句，作 recall 的宾语。"
+        }
+      ],
+      "zh": "同样明智的是，我们应记住：这类称号并非万能良药。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2020-text1-s11",
+      "s": "A badly run \"year of culture\" washes in and washes out of a place like the tide, bringing prominence for a spell but leaving no lasting benefits to the community.",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "A badly run \"year of culture\"",
+        "谓语": "washes in and washes out",
+        "宾语或表语": "of a place",
+        "主干翻译": "一场办砸了的\"文化之年\"会像潮水般涌入又退出某个地方。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "washes out of a place like the tide",
+          "修饰对象": "washes",
+          "中文翻译": "像潮水般退出一个地方",
+          "说明": "and 连接，与前面的 washes in 构成并列谓语。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "bringing prominence for a spell but leaving no lasting benefits to the community",
+          "修饰对象": "washes",
+          "中文翻译": "短暂地带来名气，却没有给社区留下任何持久的益处",
+          "说明": "现在分词短语作伴随/结果状语，修饰谓语动作 washes。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "leaving no lasting benefits to the community",
+          "修饰对象": "bringing",
+          "中文翻译": "没有给社区留下任何持久的益处",
+          "说明": "but 连接，与 bringing prominence 构成并列的分词状语。"
+        }
+      ],
+      "zh": "一场办砸了的\"文化之年\"会像潮水般涌入一个地方又退去，短暂地带来名气，却没有给当地社区留下任何持久的益处。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2020-text1-s12",
+      "s": "The really successful holders of such titles are those that do a great deal more than fill hotel bedrooms and bring in high-profile arts events and good press for a year.",
+      "para_no": 3,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "The really successful holders of such titles",
+        "谓语": "are",
+        "宾语或表语": "those",
+        "主干翻译": "这类称号真正成功的获得者是那些（人）。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "that do a great deal more than fill hotel bedrooms and bring in high-profile arts events and good press for a year",
+          "修饰对象": "those",
+          "中文翻译": "其作为远不止于填满酒店客房、并在一年里引进高水准的艺术活动和赢得良好口碑",
+          "说明": "that 引导限制性定语从句，修饰先行词 those。"
+        },
+        {
+          "成分类型": "状语从句(比较)",
+          "原文": "than fill hotel bedrooms and bring in high-profile arts events and good press for a year",
+          "修饰对象": "more",
+          "中文翻译": "比填满酒店客房、引进高水准艺术活动和赢得一年好口碑（多得多）",
+          "说明": "than 引导比较状语，与 more 呼应，构成 more...than 比较结构。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "bring in high-profile arts events and good press for a year",
+          "修饰对象": "fill",
+          "中文翻译": "引进高水准的艺术活动和一年的良好口碑",
+          "说明": "and 连接，与 fill hotel bedrooms 并列，同受 than 比较结构支配。"
+        }
+      ],
+      "zh": "这类称号真正成功的获得者，远不只是填满酒店客房、在一年里引进高水准的艺术活动和赢得良好的媒体口碑而已。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2020-text1-s13",
+      "s": "They transform the aspirations of the people who live there; they nudge the self-image of the city into a bolder and more optimistic light.",
+      "para_no": 3,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "They",
+        "谓语": "transform",
+        "宾语或表语": "the aspirations of the people",
+        "主干翻译": "它们改变了人们的抱负。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "they nudge the self-image of the city into a bolder and more optimistic light",
+          "修饰对象": "transform",
+          "中文翻译": "它们把这座城市的自我形象推向更大胆、更乐观的境地",
+          "说明": "分号连接的并列分句，与前一分句并列（语义对等的并列结构）。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "who live there",
+          "修饰对象": "people",
+          "中文翻译": "住在那里的（人）",
+          "说明": "who 引导限制性定语从句，修饰先行词 people。"
+        }
+      ],
+      "zh": "它们改变了当地居民的抱负；它们把这座城市的自我形象推向更大胆、更乐观的境地。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2020-text1-s14",
+      "s": "It is hard to get right, and requires a remarkable degree of vision, as well as cooperation between city authorities, the private sector, community groups and cultural organisations.",
+      "para_no": 3,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "It (形式主语)",
+        "谓语": "is",
+        "宾语或表语": "hard",
+        "主干翻译": "（要做好这件事）很难。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作主语",
+          "原文": "to get right",
+          "修饰对象": "It",
+          "中文翻译": "把它做好",
+          "说明": "不定式作真正主语，由形式主语 It 代替。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "requires a remarkable degree of vision, as well as cooperation between city authorities, the private sector, community groups and cultural organisations",
+          "修饰对象": "is",
+          "中文翻译": "需要非凡程度的远见，以及城市当局、私营部门、社区团体和文化机构之间的合作",
+          "说明": "and 连接，与系动词 is 构成主句并列谓语（共用主语 It）。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "cooperation between city authorities, the private sector, community groups and cultural organisations",
+          "修饰对象": "degree",
+          "中文翻译": "城市当局、私营部门、社区团体和文化机构之间的合作",
+          "说明": "as well as 连接，与 a remarkable degree of vision 并列作 requires 的宾语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "the private sector, community groups and cultural organisations",
+          "修饰对象": "authorities",
+          "中文翻译": "私营部门、社区团体和文化机构",
+          "说明": "并列名词成分，与 city authorities 一同构成 between 的并列对象。"
+        }
+      ],
+      "zh": "这件事很难做好，需要非凡的远见，以及城市当局、私营部门、社区团体和文化机构之间的通力合作。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2020-text1-s15",
+      "s": "But it can be done: Glasgow's year as European capital of culture can certainly be seen as one of a complex series of factors that have turned the city into the powerhouse of art, music and theatre that it remains today.",
+      "para_no": 3,
+      "para_seq": 5,
+      "trunk": {
+        "主语": "Glasgow's year as European capital of culture",
+        "谓语": "can be seen",
+        "宾语或表语": "as one of a complex series of factors",
+        "主干翻译": "格拉斯哥作为\"欧洲文化之都\"的那一年可被视为一系列复杂因素之一。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "But it can be done",
+          "修饰对象": "seen",
+          "中文翻译": "但这是可以做到的",
+          "说明": "冒号前的独立分句，与冒号后主句构成总分式并列（此处作为主句之外的并列分句标注）。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that have turned the city into the powerhouse of art, music and theatre that it remains today",
+          "修饰对象": "series",
+          "中文翻译": "这些因素把这座城市变成了艺术、音乐和戏剧的重镇",
+          "说明": "that 引导限制性定语从句，修饰先行词 series（of factors）。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "music and theatre",
+          "修饰对象": "art",
+          "中文翻译": "音乐和戏剧",
+          "说明": "and 连接，与 art 并列作 powerhouse of 的宾语。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that it remains today",
+          "修饰对象": "powerhouse",
+          "中文翻译": "它至今仍是的（重镇）",
+          "说明": "that 引导限制性定语从句，修饰先行词 powerhouse。"
+        }
+      ],
+      "zh": "但这是可以做到的：格拉斯哥作为\"欧洲文化之都\"的那一年，完全可被视为促成其转变的一系列复杂因素之一——正是这些因素把这座城市变成了艺术、音乐和戏剧的重镇，而它至今仍保持着这一地位。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2020-text1-s16",
+      "s": "A \"town of culture\" could be not just about the arts but about honouring a town's peculiarities—helping sustain its high street, supporting local facilities and above all celebrating its people.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "A \"town of culture\"",
+        "谓语": "could be",
+        "宾语或表语": "not just about the arts but about honouring a town's peculiarities",
+        "主干翻译": "\"文化之镇\"可以不仅关乎艺术，而是关乎尊崇一个城镇的独特之处。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "but about honouring a town's peculiarities",
+          "修饰对象": "about",
+          "中文翻译": "而是关乎尊崇一个城镇的独特之处",
+          "说明": "not just...but... 关联词连接两个 about 介词短语，构成并列表语。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "helping sustain its high street",
+          "修饰对象": "honouring",
+          "中文翻译": "帮助维系其商业主街",
+          "说明": "现在分词短语作伴随状语，对 honouring a town's peculiarities 加以阐释。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "supporting local facilities and above all celebrating its people",
+          "修饰对象": "helping",
+          "中文翻译": "支持本地设施，最重要的是赞颂它的人民",
+          "说明": "and 连接，与 helping sustain 并列，共同构成分词状语串。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "above all celebrating its people",
+          "修饰对象": "supporting",
+          "中文翻译": "最重要的是赞颂它的人民",
+          "说明": "and 连接，与 supporting local facilities 并列。"
+        }
+      ],
+      "zh": "\"文化之镇\"可以不仅仅关乎艺术，更关乎尊崇一个城镇的独特之处——帮助维系它的商业主街，支持本地设施，最重要的是赞颂这里的人民。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2020-text1-s17",
+      "s": "Jeremy Wright, the culture secretary, should welcome this positive, hope-filled proposal, and turn it into action.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Jeremy Wright",
+        "谓语": "should welcome",
+        "宾语或表语": "this positive, hope-filled proposal",
+        "主干翻译": "杰里米·赖特应当欢迎这一积极、充满希望的提议。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "the culture secretary",
+          "修饰对象": "Wright",
+          "中文翻译": "文化大臣",
+          "说明": "名词短语作 Jeremy Wright 的同位语（插入性结构），说明其身份。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "turn it into action",
+          "修饰对象": "welcome",
+          "中文翻译": "并将其付诸行动",
+          "说明": "and 连接，与 welcome 构成并列谓语。"
+        }
+      ],
+      "zh": "文化大臣杰里米·赖特应当欢迎这一积极、充满希望的提议，并将其付诸行动。",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2020-text1-s1",
+        "en1-2020-text1-s2",
+        "en1-2020-text1-s3",
+        "en1-2020-text1-s4",
+        "en1-2020-text1-s5"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2020-text1-s6",
+        "en1-2020-text1-s7",
+        "en1-2020-text1-s8",
+        "en1-2020-text1-s9"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2020-text1-s10",
+        "en1-2020-text1-s11",
+        "en1-2020-text1-s12",
+        "en1-2020-text1-s13",
+        "en1-2020-text1-s14",
+        "en1-2020-text1-s15"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2020-text1-s16",
+        "en1-2020-text1-s17"
+      ]
+    }
+  ]
+}

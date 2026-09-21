@@ -1,0 +1,1795 @@
+{
+  "tasks": [
+    {
+      "content_json": {
+        "1": {
+          "A": "what",
+          "B": "why",
+          "C": "how",
+          "D": "when",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "what",
+                "surface": "what"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "why",
+                "surface": "why"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "how",
+                "surface": "how"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "when",
+                "surface": "when"
+              }
+            ]
+          },
+          "replace": {
+            "end": 12,
+            "start": 8
+          },
+          "sentence_id": 2015013002
+        },
+        "2": {
+          "A": "defended",
+          "B": "concluded",
+          "C": "withdrawn",
+          "D": "advised",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "defend",
+                "surface": "defended"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "conclude",
+                "surface": "concluded"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "withdraw",
+                "surface": "withdrawn"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "advise",
+                "surface": "advised"
+              }
+            ]
+          },
+          "replace": {
+            "end": 155,
+            "start": 146
+          },
+          "sentence_id": 2015013002
+        },
+        "3": {
+          "A": "for",
+          "B": "with",
+          "C": "by",
+          "D": "on",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "for",
+                "surface": "for"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "with",
+                "surface": "with"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "by",
+                "surface": "by"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "on",
+                "surface": "on"
+              }
+            ]
+          },
+          "replace": {
+            "end": 48,
+            "start": 46
+          },
+          "sentence_id": 2015013003
+        },
+        "4": {
+          "A": "separated",
+          "B": "sought",
+          "C": "compared",
+          "D": "connected",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "separate",
+                "surface": "separated"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "seek",
+                "surface": "sought"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "compare",
+                "surface": "compared"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "connect",
+                "surface": "connected"
+              }
+            ]
+          },
+          "replace": {
+            "end": 85,
+            "start": 77
+          },
+          "sentence_id": 2015013003
+        },
+        "5": {
+          "A": "tests",
+          "B": "objects",
+          "C": "samples",
+          "D": "examples",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "test",
+                "surface": "tests"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "object",
+                "surface": "objects"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "sample",
+                "surface": "samples"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "example",
+                "surface": "examples"
+              }
+            ]
+          },
+          "replace": {
+            "end": 41,
+            "start": 34
+          },
+          "sentence_id": 2015013004
+        },
+        "6": {
+          "A": "insignificant",
+          "B": "unexpected",
+          "C": "unreliable",
+          "D": "incredible",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "insignificant",
+                "surface": "insignificant"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "unexpected",
+                "surface": "unexpected"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "unreliable",
+                "surface": "unreliable"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "incredible",
+                "surface": "incredible"
+              }
+            ]
+          },
+          "replace": {
+            "end": 31,
+            "start": 18
+          },
+          "sentence_id": 2015013005
+        },
+        "7": {
+          "A": "visit",
+          "B": "miss",
+          "C": "know",
+          "D": "seek",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "visit",
+                "surface": "visit"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "miss",
+                "surface": "miss"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "know",
+                "surface": "know"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "seek",
+                "surface": "seek"
+              }
+            ]
+          },
+          "replace": {
+            "end": 99,
+            "start": 95
+          },
+          "sentence_id": 2015013006
+        },
+        "8": {
+          "A": "surpass",
+          "B": "influence",
+          "C": "favor",
+          "D": "resemble",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "surpass",
+                "surface": "surpass"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "influence",
+                "surface": "influence"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "favor",
+                "surface": "favor"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "resemble",
+                "surface": "resemble"
+              }
+            ]
+          },
+          "replace": {
+            "end": 184,
+            "start": 176
+          },
+          "sentence_id": 2015013006
+        },
+        "9": {
+          "A": "again",
+          "B": "also",
+          "C": "instead",
+          "D": "thus",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "again",
+                "surface": "again"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "also",
+                "surface": "also"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "instead",
+                "surface": "instead"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "thus",
+                "surface": "thus"
+              }
+            ]
+          },
+          "replace": {
+            "end": 14,
+            "start": 10
+          },
+          "sentence_id": 2015013007
+        },
+        "10": {
+          "A": "Meanwhile",
+          "B": "Furthermore",
+          "C": "Likewise",
+          "D": "Perhaps",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "meanwhile",
+                "surface": "Meanwhile"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "furthermore",
+                "surface": "Furthermore"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "likewise",
+                "surface": "Likewise"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "perhaps",
+                "surface": "Perhaps"
+              }
+            ]
+          },
+          "replace": {
+            "end": 7,
+            "start": 0
+          },
+          "sentence_id": 2015013009
+        },
+        "11": {
+          "A": "about",
+          "B": "to",
+          "C": "from",
+          "D": "like",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "about",
+                "surface": "about"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "to",
+                "surface": "to"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "from",
+                "surface": "from"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "like",
+                "surface": "like"
+              }
+            ]
+          },
+          "replace": {
+            "end": 87,
+            "start": 85
+          },
+          "sentence_id": 2015013009
+        },
+        "12": {
+          "A": "limit",
+          "B": "observe",
+          "C": "confuse",
+          "D": "drive",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "limit",
+                "surface": "limit"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "observe",
+                "surface": "observe"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "confuse",
+                "surface": "confuse"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "drive",
+                "surface": "drive"
+              }
+            ]
+          },
+          "replace": {
+            "end": 58,
+            "start": 53
+          },
+          "sentence_id": 2015013010
+        },
+        "13": {
+          "A": "according to",
+          "B": "rather than",
+          "C": "regardless of",
+          "D": "along with",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "according",
+                "surface": "according"
+              },
+              {
+                "lemma": "to",
+                "surface": "to"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "rather",
+                "surface": "rather"
+              },
+              {
+                "lemma": "than",
+                "surface": "than"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "regardless",
+                "surface": "regardless"
+              },
+              {
+                "lemma": "of",
+                "surface": "of"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "along",
+                "surface": "along"
+              },
+              {
+                "lemma": "with",
+                "surface": "with"
+              }
+            ]
+          },
+          "replace": {
+            "end": 113,
+            "start": 102
+          },
+          "sentence_id": 2015013010
+        },
+        "14": {
+          "A": "chances",
+          "B": "responses",
+          "C": "benefits",
+          "D": "missions",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "chance",
+                "surface": "chances"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "response",
+                "surface": "responses"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "benefit",
+                "surface": "benefits"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "mission",
+                "surface": "missions"
+              }
+            ]
+          },
+          "replace": {
+            "end": 165,
+            "start": 157
+          },
+          "sentence_id": 2015013010
+        },
+        "15": {
+          "A": "faster",
+          "B": "slower",
+          "C": "later",
+          "D": "earlier",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "fast",
+                "surface": "faster"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "slow",
+                "surface": "slower"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "late",
+                "surface": "later"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "early",
+                "surface": "earlier"
+              }
+            ]
+          },
+          "replace": {
+            "end": 97,
+            "start": 91
+          },
+          "sentence_id": 2015013011
+        },
+        "16": {
+          "A": "forecast",
+          "B": "remember",
+          "C": "express",
+          "D": "understand",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "forecast",
+                "surface": "forecast"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "remember",
+                "surface": "remember"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "express",
+                "surface": "express"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "understand",
+                "surface": "understand"
+              }
+            ]
+          },
+          "replace": {
+            "end": 35,
+            "start": 25
+          },
+          "sentence_id": 2015013012
+        },
+        "17": {
+          "A": "unpredictable",
+          "B": "contributory",
+          "C": "controllable",
+          "D": "disruptive",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "unpredictable",
+                "surface": "unpredictable"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "contributory",
+                "surface": "contributory"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "controllable",
+                "surface": "controllable"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "disruptive",
+                "surface": "disruptive"
+              }
+            ]
+          },
+          "replace": {
+            "end": 144,
+            "start": 132
+          },
+          "sentence_id": 2015013012
+        },
+        "18": {
+          "A": "tendency",
+          "B": "decision",
+          "C": "arrangement",
+          "D": "endeavor",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "tendency",
+                "surface": "tendency"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "decision",
+                "surface": "decision"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "arrangement",
+                "surface": "arrangement"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "endeavor",
+                "surface": "endeavor"
+              }
+            ]
+          },
+          "replace": {
+            "end": 52,
+            "start": 44
+          },
+          "sentence_id": 2015013013
+        },
+        "19": {
+          "A": "political",
+          "B": "religious",
+          "C": "ethnic",
+          "D": "economic",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "political",
+                "surface": "political"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "religious",
+                "surface": "religious"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "ethnic",
+                "surface": "ethnic"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "economic",
+                "surface": "economic"
+              }
+            ]
+          },
+          "replace": {
+            "end": 88,
+            "start": 82
+          },
+          "sentence_id": 2015013013
+        },
+        "20": {
+          "A": "see",
+          "B": "show",
+          "C": "prove",
+          "D": "tell",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "see",
+                "surface": "see"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "show",
+                "surface": "show"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "prove",
+                "surface": "prove"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "tell",
+                "surface": "tell"
+              }
+            ]
+          },
+          "replace": {
+            "end": 98,
+            "start": 95
+          },
+          "sentence_id": 2015013014
+        },
+        "article": "Though not biologically related, friends are as “related” as fourth cousins, sharing about 1% of genes.\nThat is what a study, published from the University of California and Yale University in the Proceedings of the National Academy of Sciences, has concluded.\nThe study is a genome-wide analysis conducted on 1,932 unique subjects which compared pairs of unrelated friends and unrelated strangers.\nThe same people were used in both samples.\nWhile 1% may seem insignificant, it is not so to a geneticist.\nAs James Fowler, professor of medical genetics at UC San Diego, says, “Most people do not even know their fourth cousins but somehow manage to select as friends the people who resemble our kin.”\nThe study also found that the genes for smell were something shared in friends but not genes for immunity.\nWhy this similarity exists in smell genes is difficult to explain, for now.\nPerhaps, as the team suggests, it draws us to similar environments but there is more to it.\nThere could be many mechanisms working together that drive us in choosing genetically similar friends rather than “functional kinship” of being friends with benefits!\nOne of the remarkable findings of the study was that the similar genes seem to be evolving faster than other genes.\nStudying this could help understand why human evolution picked pace in the last 30,000 years, with social environment being a major contributory factor.\nThe findings do not simply explain people’s tendency to befriend those of similar ethnic backgrounds, say the researchers.\nThough all the subjects were drawn from a population of European extraction, care was taken to see that all subjects, friends and strangers, were taken from the same population.",
+        "blanks": [
+          {
+            "blank_no": 1,
+            "replace": {
+              "end": 12,
+              "start": 8
+            },
+            "sentence_id": 2015013002
+          },
+          {
+            "blank_no": 2,
+            "replace": {
+              "end": 155,
+              "start": 146
+            },
+            "sentence_id": 2015013002
+          },
+          {
+            "blank_no": 3,
+            "replace": {
+              "end": 48,
+              "start": 46
+            },
+            "sentence_id": 2015013003
+          },
+          {
+            "blank_no": 4,
+            "replace": {
+              "end": 85,
+              "start": 77
+            },
+            "sentence_id": 2015013003
+          },
+          {
+            "blank_no": 5,
+            "replace": {
+              "end": 41,
+              "start": 34
+            },
+            "sentence_id": 2015013004
+          },
+          {
+            "blank_no": 6,
+            "replace": {
+              "end": 31,
+              "start": 18
+            },
+            "sentence_id": 2015013005
+          },
+          {
+            "blank_no": 7,
+            "replace": {
+              "end": 99,
+              "start": 95
+            },
+            "sentence_id": 2015013006
+          },
+          {
+            "blank_no": 8,
+            "replace": {
+              "end": 184,
+              "start": 176
+            },
+            "sentence_id": 2015013006
+          },
+          {
+            "blank_no": 9,
+            "replace": {
+              "end": 14,
+              "start": 10
+            },
+            "sentence_id": 2015013007
+          },
+          {
+            "blank_no": 10,
+            "replace": {
+              "end": 7,
+              "start": 0
+            },
+            "sentence_id": 2015013009
+          },
+          {
+            "blank_no": 11,
+            "replace": {
+              "end": 87,
+              "start": 85
+            },
+            "sentence_id": 2015013009
+          },
+          {
+            "blank_no": 12,
+            "replace": {
+              "end": 58,
+              "start": 53
+            },
+            "sentence_id": 2015013010
+          },
+          {
+            "blank_no": 13,
+            "replace": {
+              "end": 113,
+              "start": 102
+            },
+            "sentence_id": 2015013010
+          },
+          {
+            "blank_no": 14,
+            "replace": {
+              "end": 165,
+              "start": 157
+            },
+            "sentence_id": 2015013010
+          },
+          {
+            "blank_no": 15,
+            "replace": {
+              "end": 97,
+              "start": 91
+            },
+            "sentence_id": 2015013011
+          },
+          {
+            "blank_no": 16,
+            "replace": {
+              "end": 35,
+              "start": 25
+            },
+            "sentence_id": 2015013012
+          },
+          {
+            "blank_no": 17,
+            "replace": {
+              "end": 144,
+              "start": 132
+            },
+            "sentence_id": 2015013012
+          },
+          {
+            "blank_no": 18,
+            "replace": {
+              "end": 52,
+              "start": 44
+            },
+            "sentence_id": 2015013013
+          },
+          {
+            "blank_no": 19,
+            "replace": {
+              "end": 88,
+              "start": 82
+            },
+            "sentence_id": 2015013013
+          },
+          {
+            "blank_no": 20,
+            "replace": {
+              "end": 98,
+              "start": 95
+            },
+            "sentence_id": 2015013014
+          }
+        ],
+        "questions": [
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，句子意为“这正是……研究得出的结论”，因此需要一个能够引导表述研究内容的词语，‘what’最为合适。\nA. ‘what’可以引导表述研究内容，符合句意。\nB. ‘why’表示原因，与句意不符。\nC. ‘how’表示方式，与句意不符。\nD. ‘when’表示时间，与句意不符。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "A",
+            "id": 1,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "what",
+                  "surface": "what"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "why",
+                  "surface": "why"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "how",
+                  "surface": "how"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "when",
+                  "surface": "when"
+                }
+              ]
+            },
+            "options": [
+              "A) what",
+              "B) why",
+              "C) how",
+              "D) when"
+            ],
+            "qid": 2015011001,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，研究的目的是得出结论，因此‘concluded’最为合适。\nA. ‘defended’意为‘辩护’，与研究的语境不符。\nB. ‘concluded’意为‘得出结论’，符合研究的语境。\nC. ‘withdrawn’意为‘撤回’，与研究的语境不符。\nD. ‘advised’意为‘建议’，与研究的语境不符。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "B",
+            "id": 2,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "defend",
+                  "surface": "defended"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "conclude",
+                  "surface": "concluded"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "withdraw",
+                  "surface": "withdrawn"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "advise",
+                  "surface": "advised"
+                }
+              ]
+            },
+            "options": [
+              "A) defended",
+              "B) concluded",
+              "C) withdrawn",
+              "D) advised"
+            ],
+            "qid": 2015011002,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "‘on’表示研究是以这些个体为基础进行的，而不是由他们亲自实施。\nA. ‘for’意为‘为了’，不符合句意，无法表达研究是基于个体进行的含义。\nB. ‘with’意为‘和……一起’，不符合句意，无法准确传达研究的基础。\n\nD. ‘on’意为‘针对’或‘基于’，符合句意，准确表达了研究是基于这些个体进行的。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "D",
+            "id": 3,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "for",
+                  "surface": "for"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "with",
+                  "surface": "with"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "by",
+                  "surface": "by"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "on",
+                  "surface": "on"
+                }
+              ]
+            },
+            "options": [
+              "A) for",
+              "B) with",
+              "C) by",
+              "D) on"
+            ],
+            "qid": 2015011003,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "A. ‘separated’意为‘分开’，不符合句意，研究并未强调分离个体。\nB. ‘sought’意为‘寻找’，不符合句意，研究并未强调寻找个体。\nC. ‘compared’意为‘比较’，符合句意，研究的核心是比较无关的朋友和陌生人。\nD. ‘connected’意为‘连接’，不符合句意，研究并未强调连接个体。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "C",
+            "id": 4,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "separate",
+                  "surface": "separated"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "seek",
+                  "surface": "sought"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "compare",
+                  "surface": "compared"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "connect",
+                  "surface": "connected"
+                }
+              ]
+            },
+            "options": [
+              "A) separated",
+              "B) sought",
+              "C) compared",
+              "D) connected"
+            ],
+            "qid": 2015011004,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "文章提到的是基因组分析，‘samples’更准确地指代用于分析的样本，而不是测试。‘tests’可能会让人误解为实验步骤，而不是具体的样本。\nA. ‘tests’意为‘测试’，虽然表面上合理，但不如‘samples’更贴合基因组分析的语境。\nB. ‘objects’意为‘物体’，与语境不符，无法指代基因组分析中的个体。\nC. ‘samples’意为‘样本’，符合基因组分析的语境，指代用于分析的样本，因此正确。\nD. ‘examples’意为‘例子’，与语境不符，无法指代基因组分析中的个体。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "C",
+            "id": 5,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "test",
+                  "surface": "tests"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "object",
+                  "surface": "objects"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "sample",
+                  "surface": "samples"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "example",
+                  "surface": "examples"
+                }
+              ]
+            },
+            "options": [
+              "A) tests",
+              "B) objects",
+              "C) samples",
+              "D) examples"
+            ],
+            "qid": 2015011005,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，句子强调 1% 的基因相似性可能看起来微不足道，但对遗传学家来说并非如此，因此选择表示“微不足道”的选项最为合适。\nA. ‘insignificant’意为‘微不足道的’，符合句子语境，强调 1% 的基因相似性可能看起来不重要。\nB. ‘unexpected’意为‘出乎意料的’，不符合语境，因为句子并未提到意外性。\nC. ‘unreliable’意为‘不可靠的’，与基因相似性无关，不符合语境。\nD. ‘incredible’意为‘难以置信的’，不符合语境，因为句子并未表达惊讶或难以置信的情感。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "A",
+            "id": 6,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "insignificant",
+                  "surface": "insignificant"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "unexpected",
+                  "surface": "unexpected"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "unreliable",
+                  "surface": "unreliable"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "incredible",
+                  "surface": "incredible"
+                }
+              ]
+            },
+            "options": [
+              "A) insignificant",
+              "B) unexpected",
+              "C) unreliable",
+              "D) incredible"
+            ],
+            "qid": 2015011006,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，句子强调大多数人甚至不认识自己的四等亲，因此选择表示“认识”的选项最为合适。\nA. ‘visit’意为‘拜访’，不符合语境，因为句子强调的是认识而非拜访。\nB. ‘miss’意为‘错过’，不符合语境，因为句子强调的是认识而非错过。\nC. ‘know’意为‘认识’，符合语境，强调大多数人甚至不认识自己的四等亲。\nD. ‘seek’意为‘寻找’，不符合语境，因为句子并未提到寻找亲属。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "C",
+            "id": 7,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "visit",
+                  "surface": "visit"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "miss",
+                  "surface": "miss"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "know",
+                  "surface": "know"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "seek",
+                  "surface": "seek"
+                }
+              ]
+            },
+            "options": [
+              "A) visit",
+              "B) miss",
+              "C) know",
+              "D) seek"
+            ],
+            "qid": 2015011007,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，句子强调人们选择与亲属相似的人作为朋友，因此选择表示“与...相似”的选项最为合适。\nA. ‘surpass’意为‘超越’，不符合语境，因为句子强调的是相似性而非超越。\nB. ‘influence’意为‘影响’，不符合语境，因为句子强调的是相似性而非影响。\nC. ‘favor’意为‘偏爱’，不符合语境，因为句子强调的是相似性而非偏爱。\nD. ‘resemble’意为‘与...相似’，符合语境，强调人们选择与亲属相似的人作为朋友。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "D",
+            "id": 8,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "surpass",
+                  "surface": "surpass"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "influence",
+                  "surface": "influence"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "favor",
+                  "surface": "favor"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "resemble",
+                  "surface": "resemble"
+                }
+              ]
+            },
+            "options": [
+              "A) surpass",
+              "B) influence",
+              "C) favor",
+              "D) resemble"
+            ],
+            "qid": 2015011008,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，句子强调研究发现了额外的内容，因此选择表示“也”的选项最为合适。\nA. ‘again’意为‘再次’，不符合语境，因为句子强调的是额外发现而非重复。\nB. ‘also’意为‘也’，符合语境，强调研究发现了额外的内容。\nC. ‘instead’意为‘相反’，不符合语境，因为句子并未表达对立关系。\nD. ‘thus’意为‘因此’，不符合语境，因为句子并未表达因果关系。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "B",
+            "id": 9,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "again",
+                  "surface": "again"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "also",
+                  "surface": "also"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "instead",
+                  "surface": "instead"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "thus",
+                  "surface": "thus"
+                }
+              ]
+            },
+            "options": [
+              "A) again",
+              "B) also",
+              "C) instead",
+              "D) thus"
+            ],
+            "qid": 2015011009,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "结合上下文，句子表达的是一种假设或可能性，因此 'Perhaps' 最为合适。\nA. ‘Meanwhile’ 表示同时发生的事情，与句子表达的假设性不符。\nB. ‘Furthermore’ 表示递进关系，但此处并非递进，而是提出一种可能性。\nC. ‘Likewise’ 表示类似情况，与句子语境不符。\nD. ‘Perhaps’ 表示一种假设或可能性，符合句子语境。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "D",
+            "id": 10,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "meanwhile",
+                  "surface": "Meanwhile"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "furthermore",
+                  "surface": "Furthermore"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "likewise",
+                  "surface": "Likewise"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "perhaps",
+                  "surface": "Perhaps"
+                }
+              ]
+            },
+            "options": [
+              "A) Meanwhile",
+              "B) Furthermore",
+              "C) Likewise",
+              "D) Perhaps"
+            ],
+            "qid": 2015011010,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "‘to’ 表示一种方向或归属，符合句子表达的逻辑关系。\nA. ‘about’ 表示关于某事，与句子表达的归属关系不符。\nB. ‘to’ 表示方向或归属，符合句子语境。\nC. ‘from’ 表示来源，与句子语境不符。\nD. ‘like’ 表示相似，但此处并非比较关系。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "B",
+            "id": 11,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "about",
+                  "surface": "about"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "to",
+                  "surface": "to"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "from",
+                  "surface": "from"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "like",
+                  "surface": "like"
+                }
+              ]
+            },
+            "options": [
+              "A) about",
+              "B) to",
+              "C) from",
+              "D) like"
+            ],
+            "qid": 2015011011,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "‘drive’ 表示驱动或推动，符合句子表达的逻辑。\nA. ‘limit’ 表示限制，与句子语境不符。\nB. ‘observe’ 表示观察，与句子语境不符。\nC. ‘confuse’ 表示困惑，与句子语境不符。\nD. ‘drive’ 表示驱动，符合句子语境。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "D",
+            "id": 12,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "limit",
+                  "surface": "limit"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "observe",
+                  "surface": "observe"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "confuse",
+                  "surface": "confuse"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "drive",
+                  "surface": "drive"
+                }
+              ]
+            },
+            "options": [
+              "A) limit",
+              "B) observe",
+              "C) confuse",
+              "D) drive"
+            ],
+            "qid": 2015011012,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "‘rather than’ 表示选择的对比关系，符合句子表达的逻辑。\nA. ‘according to’ 表示依据，与句子语境不符。\nB. ‘rather than’ 表示对比选择，符合句子语境。\nC. ‘regardless of’ 表示不管，与句子语境不符。\nD. ‘along with’ 表示伴随，与句子语境不符。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "B",
+            "id": 13,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "according",
+                  "surface": "according"
+                },
+                {
+                  "lemma": "to",
+                  "surface": "to"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "rather",
+                  "surface": "rather"
+                },
+                {
+                  "lemma": "than",
+                  "surface": "than"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "regardless",
+                  "surface": "regardless"
+                },
+                {
+                  "lemma": "of",
+                  "surface": "of"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "along",
+                  "surface": "along"
+                },
+                {
+                  "lemma": "with",
+                  "surface": "with"
+                }
+              ]
+            },
+            "options": [
+              "A) according to",
+              "B) rather than",
+              "C) regardless of",
+              "D) along with"
+            ],
+            "qid": 2015011013,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "A. ‘chances’ 表示偶然性，但与句子强调功能性亲属关系的语境不符。\nB. ‘responses’ 表示回应，与句子语境不符。\nC. ‘benefits’ 表示利益，符合句子强调功能性亲属关系的语境。\nD. ‘missions’ 表示任务，与句子语境不符。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "C",
+            "id": 14,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "chance",
+                  "surface": "chances"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "response",
+                  "surface": "responses"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "benefit",
+                  "surface": "benefits"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "mission",
+                  "surface": "missions"
+                }
+              ]
+            },
+            "options": [
+              "A) chances",
+              "B) responses",
+              "C) benefits",
+              "D) missions"
+            ],
+            "qid": 2015011014,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "‘faster’ 表示速度更快，符合句子表达的比较关系。\nA. ‘faster’ 表示速度更快，符合句子语境。\nB. ‘slower’ 表示速度更慢，与句子语境不符。\nC. ‘later’ 表示时间更晚，与句子语境不符。\nD. ‘earlier’ 表示时间更早，与句子语境不符。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "A",
+            "id": 15,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "fast",
+                  "surface": "faster"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "slow",
+                  "surface": "slower"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "late",
+                  "surface": "later"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "early",
+                  "surface": "earlier"
+                }
+              ]
+            },
+            "options": [
+              "A) faster",
+              "B) slower",
+              "C) later",
+              "D) earlier"
+            ],
+            "qid": 2015011015,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "‘understand’ 表示理解，符合句子表达的逻辑。\nA. ‘forecast’ 表示预测，与句子语境不符。\nB. ‘remember’ 表示记住，与句子语境不符。\nC. ‘express’ 表示表达，与句子语境不符。\nD. ‘understand’ 表示理解，符合句子语境。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "D",
+            "id": 16,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "forecast",
+                  "surface": "forecast"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "remember",
+                  "surface": "remember"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "express",
+                  "surface": "express"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "understand",
+                  "surface": "understand"
+                }
+              ]
+            },
+            "options": [
+              "A) forecast",
+              "B) remember",
+              "C) express",
+              "D) understand"
+            ],
+            "qid": 2015011016,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "‘contributory’ 表示促成的，符合句子表达的逻辑。\nA. ‘unpredictable’ 表示不可预测的，与句子语境不符。\nB. ‘contributory’ 表示促成的，符合句子语境。\nC. ‘controllable’ 表示可控的，与句子语境不符。\nD. ‘disruptive’ 表示破坏性的，与句子语境不符。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "B",
+            "id": 17,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "unpredictable",
+                  "surface": "unpredictable"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "contributory",
+                  "surface": "contributory"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "controllable",
+                  "surface": "controllable"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "disruptive",
+                  "surface": "disruptive"
+                }
+              ]
+            },
+            "options": [
+              "A) unpredictable",
+              "B) contributory",
+              "C) controllable",
+              "D) disruptive"
+            ],
+            "qid": 2015011017,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，研究结果讨论的是人们交朋友的倾向，而不是具体的决策或行为，因此 'tendency' 最符合语境。\nA. ‘tendency’ 表示倾向，与句子中讨论的交朋友的行为模式相符，因此是最佳选择。\nB. ‘decision’ 表示决策，但句子并未讨论具体的决策过程，因此不合适。\nC. ‘arrangement’ 表示安排，与句子讨论的行为模式无关，因此不合适。\nD. ‘endeavor’ 表示努力，但句子并未提到努力的概念，因此不合适。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "A",
+            "id": 18,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "tendency",
+                  "surface": "tendency"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "decision",
+                  "surface": "decision"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "arrangement",
+                  "surface": "arrangement"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "endeavor",
+                  "surface": "endeavor"
+                }
+              ]
+            },
+            "options": [
+              "A) tendency",
+              "B) decision",
+              "C) arrangement",
+              "D) endeavor"
+            ],
+            "qid": 2015011018,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据句子语境，研究结果讨论的是种族背景对交朋友的影响，因此 'ethnic' 是最合适的选项。\nA. ‘political’ 表示政治的，但句子并未提到政治背景，因此不合适。\nB. ‘religious’ 表示宗教的，但句子并未提到宗教背景，因此不合适。\nC. ‘ethnic’ 表示种族的，与句子讨论的种族背景相符，因此是最佳选择。\nD. ‘economic’ 表示经济的，但句子并未提到经济背景，因此不合适。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "C",
+            "id": 19,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "political",
+                  "surface": "political"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "religious",
+                  "surface": "religious"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "ethnic",
+                  "surface": "ethnic"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "economic",
+                  "surface": "economic"
+                }
+              ]
+            },
+            "options": [
+              "A) political",
+              "B) religious",
+              "C) ethnic",
+              "D) economic"
+            ],
+            "qid": 2015011019,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "'see' 更符合语境，表示确保某事发生。\nA. ‘see’ 表示确保，与句子中强调确保研究对象来自同一人群的语境相符，因此是最佳选择。\nB. ‘show’ 表示展示，但句子需要强调确保的过程，因此不合适。\nC. ‘prove’ 表示证明，但句子并未涉及证明的行为，因此不合适。\nD. ‘tell’ 表示告诉，但句子并未涉及告知的行为，因此不合适。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "A",
+            "id": 20,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "see",
+                  "surface": "see"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "show",
+                  "surface": "show"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "prove",
+                  "surface": "prove"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "tell",
+                  "surface": "tell"
+                }
+              ]
+            },
+            "options": [
+              "A) see",
+              "B) show",
+              "C) prove",
+              "D) tell"
+            ],
+            "qid": 2015011020,
+            "text": ""
+          }
+        ]
+      },
+      "directions": "Read the following text. Choose the best word(s) for each numbered blank and mark A, B,\nC or D on the ANSWER SHEET. (10 points)",
+      "exam_info": "2015(1)",
+      "exam_type": "kaoyan",
+      "id": 201501001,
+      "key_words": "friends genes samples concluded contributory drive faster rather understand benefits compared ethnic insignificant know people perhaps resemble see similar study tendency tests according advised again along arrangement chances confuse connected controllable decision defended disruptive earlier economic endeavor examples express favor forecast furthermore incredible influence instead later like likewise limit meanwhile miss missions objects observe political prove regardless religious remember responses seek separated show slower sought subjects surpass tell thus unexpected unpredictable unreliable visit withdrawn all cousins explain findings fourth population",
+      "kid": 14,
+      "part": "Part III",
+      "section": "Sec A",
+      "task_key": "2015(1)_Section I_ ",
+      "type": "Use of English"
+    }
+  ]
+}

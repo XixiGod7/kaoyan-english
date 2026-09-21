@@ -1,0 +1,695 @@
+{
+  "exam": "en1",
+  "key": "2017-t4",
+  "year": 2017,
+  "text_no": 4,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2017-text4-s1",
+      "s": "In a rare unanimous ruling, the US Supreme Court has overturned the corruption conviction of a former Virginia governor, Robert McDonnell.",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "the US Supreme Court",
+        "谓语": "has overturned",
+        "宾语或表语": "the corruption conviction",
+        "主干翻译": "美国最高法院推翻了腐败定罪。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "In a rare unanimous ruling",
+          "修饰对象": "has overturned",
+          "中文翻译": "在一项罕见的全体一致的裁决中",
+          "说明": "句首介词短语作方式/背景状语，修饰谓语overturned。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "a former Virginia governor, Robert McDonnell",
+          "修饰对象": "conviction",
+          "中文翻译": "弗吉尼亚州前州长罗伯特·麦克唐纳",
+          "说明": "Robert McDonnell是former Virginia governor的同位语；整体说明被定罪者，挂靠conviction所指的对象。"
+        }
+      ],
+      "zh": "在一项罕见的全体一致裁决中，美国最高法院推翻了对弗吉尼亚州前州长罗伯特·麦克唐纳的腐败定罪。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2017-text4-s19",
+      "s": "But it did so while holding its nose at the ethics of his conduct, which included accepting gifts such as a Rolex watch and a Ferrari automobile from a company seeking access to government.",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "it",
+        "谓语": "did",
+        "宾语或表语": "so",
+        "主干翻译": "但最高法院确实这么做了。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "which included accepting gifts such as a Rolex watch and a Ferrari automobile from a company seeking access to government",
+          "修饰对象": "conviction",
+          "中文翻译": "（这一定罪所涉的行为）包括接受礼物，例如一块劳力士手表和一辆法拉利汽车，礼物来自一家寻求接触政府的公司",
+          "说明": "which引导的定语从句修饰conviction（所涉腐败行为）。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "accepting gifts such as a Rolex watch and a Ferrari automobile from a company seeking access to government",
+          "修饰对象": "included",
+          "中文翻译": "接受诸如一块劳力士手表和一辆法拉利汽车之类的礼物",
+          "说明": "动名词短语作included的补足/宾语成分。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "a Ferrari automobile",
+          "修饰对象": "watch",
+          "中文翻译": "一辆法拉利汽车",
+          "说明": "与a Rolex watch由and并列，同作gifts的举例。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "seeking access to government",
+          "修饰对象": "company",
+          "中文翻译": "寻求接触政府（门路）的",
+          "说明": "现在分词短语作后置定语修饰company。"
+        }
+      ],
+      "zh": "但最高法院这么裁决时，对他行为的道德操守是掩鼻而过的——其涉案行为包括收受一家谋求接近政府的公司所赠的礼物，例如一块劳力士手表和一辆法拉利汽车。",
+      "underline": "But it did so while holding its nose at the ethics of his conduct,"
+    },
+    {
+      "sid": "en1-2017-text4-s2",
+      "s": "The high court's decision said the judge in Mr. McDonnell's trial failed to tell a jury that it must look only at his \"official acts,\" or the former governor's decisions on \"specific\" and \"unsettled\" issues related to his duties.",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The high court's decision",
+        "谓语": "said",
+        "宾语或表语": "(宾语从句) the judge ... failed to tell a jury ...",
+        "主干翻译": "最高法院的裁决说，法官未能告知陪审团……"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "the judge in Mr. McDonnell's trial failed to tell a jury that it must look only at his \"official acts,\" or the former governor's decisions on \"specific\" and \"unsettled\" issues related to his duties",
+          "修饰对象": "said",
+          "中文翻译": "麦克唐纳案的审理法官未能告知陪审团……",
+          "说明": "said后省略that的宾语从句。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to tell a jury that it must look only at his \"official acts,\" or the former governor's decisions on \"specific\" and \"unsettled\" issues related to his duties",
+          "修饰对象": "failed",
+          "中文翻译": "告知陪审团……",
+          "说明": "动词不定式作failed的补足语。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that it must look only at his \"official acts,\" or the former governor's decisions on \"specific\" and \"unsettled\" issues related to his duties",
+          "修饰对象": "tell",
+          "中文翻译": "陪审团必须只审视他的“公职行为”，即这位前州长就与其职责相关的“特定”且“未决”问题所作的决定",
+          "说明": "that引导tell的宾语从句（间接引述内容）。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "the former governor's decisions on \"specific\" and \"unsettled\" issues related to his duties",
+          "修饰对象": "acts",
+          "中文翻译": "这位前州长就与其职责相关的“特定”且“未决”问题所作的决定",
+          "说明": "由or与his \"official acts\"并列，对“公职行为”作解释性同位。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "\"unsettled\"",
+          "修饰对象": "specific",
+          "中文翻译": "“未决的”",
+          "说明": "与\"specific\"由and并列共同修饰issues。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "related to his duties",
+          "修饰对象": "issues",
+          "中文翻译": "与其职责相关的",
+          "说明": "过去分词短语作后置定语修饰issues。"
+        }
+      ],
+      "zh": "最高法院的裁决指出，麦克唐纳案的审理法官未能告知陪审团：陪审团只应审视他的“公职行为”，即这位前州长就与其职责相关的“特定”且“未决”问题所作的决定。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2017-text4-s3",
+      "s": "Merely helping a gift-giver gain access to other officials, unless done with clear intent to pressure those officials, is not corruption, the justices found.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Merely helping a gift-giver gain access to other officials",
+        "谓语": "is",
+        "宾语或表语": "not corruption",
+        "主干翻译": "仅仅帮助送礼者接触其他官员并非腐败。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "a gift-giver gain access to other officials",
+          "修饰对象": "helping",
+          "中文翻译": "送礼者接触其他官员",
+          "说明": "help + 宾语 + 省略to的动词原形构成的复合宾语结构。"
+        },
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "unless done with clear intent to pressure those officials",
+          "修饰对象": "helping",
+          "中文翻译": "除非（这样做）带有明确意图去向那些官员施压",
+          "说明": "unless引导省略主谓的条件状语从句（unless it is done），对主语动作设条件。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to pressure those officials",
+          "修饰对象": "intent",
+          "中文翻译": "向那些官员施压的",
+          "说明": "不定式作后置定语修饰intent。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "Merely helping a gift-giver gain access to other officials, unless done with clear intent to pressure those officials, is not corruption",
+          "修饰对象": "found",
+          "中文翻译": "仅仅帮助送礼者接触其他官员并非腐败（除非带有明确施压意图）",
+          "说明": "前置的宾语从句，是the justices found的内容（found后省略that）。"
+        }
+      ],
+      "zh": "大法官们认为，仅仅帮助送礼者接触其他官员并不构成腐败——除非这样做是出于向那些官员施压的明确意图。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2017-text4-s4",
+      "s": "The court did suggest that accepting favors in return for opening doors is \"distasteful\" and \"nasty.\"",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The court",
+        "谓语": "did suggest",
+        "宾语或表语": "(宾语从句) that accepting favors ... is \"distasteful\" and \"nasty\"",
+        "主干翻译": "法院确实暗示……"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "that accepting favors in return for opening doors is \"distasteful\" and \"nasty",
+          "修饰对象": "suggest",
+          "中文翻译": "以提供方便为回报来接受好处是“令人反感的”且“恶劣的”",
+          "说明": "that引导suggest的宾语从句；其中accepting favors in return for opening doors为动名词主语，is为系动词。"
+        }
+      ],
+      "zh": "法院确实暗示，以为他人提供方便作为回报而收受好处是“令人反感的”且“恶劣的”。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2017-text4-s5",
+      "s": "But under anti-bribery laws, proof must be made of concrete benefits, such as approval of a contract or regulation.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "proof",
+        "谓语": "must be made",
+        "宾语或表语": "of concrete benefits",
+        "主干翻译": "必须提供具体利益的证据。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "under anti-bribery laws",
+          "修饰对象": "must be made",
+          "中文翻译": "根据反贿赂法",
+          "说明": "句首介词短语作条件/范围状语。"
+        },
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "such as approval of a contract or regulation",
+          "修饰对象": "benefits",
+          "中文翻译": "例如对某项合同或法规的批准",
+          "说明": "such as引导的举例短语修饰concrete benefits。"
+        }
+      ],
+      "zh": "但根据反贿赂法，必须拿出具体利益的证据，比如对某项合同或法规的批准。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2017-text4-s6",
+      "s": "Simply arranging a meeting, making a phone call, or hosting an event is not an \"official act.\"",
+      "para_no": 4,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Simply arranging a meeting, making a phone call, or hosting an event",
+        "谓语": "is",
+        "宾语或表语": "not an \"official act\"",
+        "主干翻译": "仅仅安排一次会面、打一个电话或举办一场活动，并非“公职行为”。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "making a phone call, or hosting an event",
+          "修饰对象": "arranging",
+          "中文翻译": "打一个电话，或举办一场活动",
+          "说明": "与arranging a meeting并列同作主语的动名词成分。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "hosting an event",
+          "修饰对象": "making",
+          "中文翻译": "举办一场活动",
+          "说明": "与making a phone call由or并列。"
+        }
+      ],
+      "zh": "仅仅安排一次会面、打一个电话或举办一场活动，并不算“公职行为”。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2017-text4-s7",
+      "s": "The court's ruling is legally sound in defining a kind of favoritism that is not criminal.",
+      "para_no": 5,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The court's ruling",
+        "谓语": "is",
+        "宾语或表语": "legally sound",
+        "主干翻译": "法院的裁决在法律上是站得住脚的。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "in defining a kind of favoritism that is not criminal",
+          "修饰对象": "sound",
+          "中文翻译": "在界定一种不构成犯罪的偏袒方面",
+          "说明": "in+动名词短语作范围状语，说明sound的方面。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that is not criminal",
+          "修饰对象": "kind",
+          "中文翻译": "不构成犯罪的",
+          "说明": "that引导定语从句修饰a kind of favoritism。"
+        }
+      ],
+      "zh": "法院的这一裁决在界定一种不构成犯罪的偏袒行为方面，于法有据。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2017-text4-s8",
+      "s": "Elected leaders must be allowed to help supporters deal with bureaucratic problems without fear of prosecution for bribery.",
+      "para_no": 5,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Elected leaders",
+        "谓语": "must be allowed",
+        "宾语或表语": "to help supporters ...",
+        "主干翻译": "必须允许民选领导人帮助支持者……"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to help supporters deal with bureaucratic problems without fear of prosecution for bribery",
+          "修饰对象": "allowed",
+          "中文翻译": "帮助支持者处理官僚事务方面的问题，而不必担心因受贿被起诉",
+          "说明": "不定式作allowed的补足语。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "supporters deal with bureaucratic problems",
+          "修饰对象": "help",
+          "中文翻译": "支持者处理官僚事务方面的问题",
+          "说明": "help + 宾语 + 省略to的动词原形构成复合宾语。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "without fear of prosecution for bribery",
+          "修饰对象": "help",
+          "中文翻译": "而不必担心因受贿被起诉",
+          "说明": "without介词短语作伴随/方式状语。"
+        }
+      ],
+      "zh": "必须允许民选领导人帮助支持者解决官僚程序方面的问题，而不必担心因受贿而遭到起诉。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2017-text4-s9",
+      "s": "\"The basic compact underlying representative government,\" wrote Chief Justice John Roberts for the court, \"assumes that public officials will hear from their constituents and act on their concerns.\"",
+      "para_no": 5,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "The basic compact",
+        "谓语": "assumes",
+        "宾语或表语": "(宾语从句) that public officials will hear ... and act ...",
+        "主干翻译": "这一基本契约设定……"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "underlying representative government",
+          "修饰对象": "compact",
+          "中文翻译": "作为代议制政府基础的",
+          "说明": "现在分词短语作后置定语修饰compact。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "wrote Chief Justice John Roberts for the court",
+          "修饰对象": "—",
+          "中文翻译": "首席大法官约翰·罗伯茨代表法院写道",
+          "说明": "插入于引语之间的引述说明（含主谓倒装wrote...Roberts）。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that public officials will hear from their constituents and act on their concerns",
+          "修饰对象": "assumes",
+          "中文翻译": "公职人员会听取选民的意见并就其关切采取行动",
+          "说明": "that引导assumes的宾语从句。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "act on their concerns",
+          "修饰对象": "hear",
+          "中文翻译": "就其关切采取行动",
+          "说明": "与hear from their constituents由and并列作从句谓语。"
+        }
+      ],
+      "zh": "首席大法官约翰·罗伯茨代表法院写道：“作为代议制政府基础的基本契约设定，公职人员会听取选民的意见，并就其关切采取行动。”",
+      "underline": null
+    },
+    {
+      "sid": "en1-2017-text4-s10",
+      "s": "But the ruling reinforces the need for citizens and their elected representatives, not the courts, to ensure equality of access to government.",
+      "para_no": 6,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "the ruling",
+        "谓语": "reinforces",
+        "宾语或表语": "the need",
+        "主干翻译": "这一裁决强化了这种需要。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "their elected representatives, not the courts,",
+          "修饰对象": "citizens",
+          "中文翻译": "他们选出的代表，而非法院",
+          "说明": "与citizens由and并列，作介词for的宾语。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "not the courts",
+          "修饰对象": "representatives",
+          "中文翻译": "而非法院",
+          "说明": "对比性插入语，排除courts。"
+        },
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "for citizens and their elected representatives, not the courts, to ensure equality of access to government",
+          "修饰对象": "need",
+          "中文翻译": "需要公民及其选出的代表（而非法院）来确保接触政府的机会平等",
+          "说明": "for...to do结构作need的后置定语，含逻辑主语citizens and their elected representatives与不定式to ensure。"
+        }
+      ],
+      "zh": "但这一裁决强化了这样一种需要：应由公民及其选出的代表（而非法院）来确保人人都能平等地接触政府。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2017-text4-s11",
+      "s": "Officials must not be allowed to play favorites in providing information or in arranging meetings simply because an individual or group provides a campaign donation or a personal gift.",
+      "para_no": 6,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Officials",
+        "谓语": "must not be allowed",
+        "宾语或表语": "to play favorites ...",
+        "主干翻译": "决不能允许官员搞偏袒。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to play favorites in providing information or in arranging meetings",
+          "修饰对象": "allowed",
+          "中文翻译": "在提供信息或安排会面时搞偏袒",
+          "说明": "不定式作allowed的补足语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "in arranging meetings",
+          "修饰对象": "in",
+          "中文翻译": "在安排会面时",
+          "说明": "与in providing information由or并列作play favorites的范围状语。"
+        },
+        {
+          "成分类型": "状语从句(原因)",
+          "原文": "simply because an individual or group provides a campaign donation or a personal gift",
+          "修饰对象": "allowed",
+          "中文翻译": "仅仅因为某个人或团体提供了竞选捐款或私人礼物",
+          "说明": "because引导原因状语从句，simply强调。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "a personal gift",
+          "修饰对象": "donation",
+          "中文翻译": "私人礼物",
+          "说明": "与a campaign donation由or并列作provides的宾语。"
+        }
+      ],
+      "zh": "决不能仅仅因为某个人或团体提供了竞选捐款或私人礼物，就允许官员在提供信息或安排会面时厚此薄彼。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2017-text4-s12",
+      "s": "This type of integrity requires well-enforced laws in government transparency, such as records of official meetings, rules on lobbying, and information about each elected leader's source of wealth.",
+      "para_no": 6,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "This type of integrity",
+        "谓语": "requires",
+        "宾语或表语": "well-enforced laws",
+        "主干翻译": "这种廉正需要得到切实执行的法律。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "in government transparency, such as records of official meetings, rules on lobbying, and information about each elected leader's source of wealth",
+          "修饰对象": "laws",
+          "中文翻译": "关于政府透明度的（法律），例如官方会议的记录、关于游说的规定以及关于每位民选领导人财富来源的信息",
+          "说明": "in引导的介词短语作laws的后置定语，内含such as举例。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "rules on lobbying, and information about each elected leader's source of wealth",
+          "修饰对象": "records",
+          "中文翻译": "关于游说的规定，以及关于每位民选领导人财富来源的信息",
+          "说明": "与records of official meetings并列同作such as的举例。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "information about each elected leader's source of wealth",
+          "修饰对象": "rules",
+          "中文翻译": "关于每位民选领导人财富来源的信息",
+          "说明": "与rules on lobbying由and并列。"
+        }
+      ],
+      "zh": "这种廉正需要在政府透明度方面有得到切实执行的法律，例如官方会议记录、游说规则，以及有关每位民选领导人财富来源的信息。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2017-text4-s13",
+      "s": "Favoritism in official access can fan public perceptions of corruption.",
+      "para_no": 7,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Favoritism",
+        "谓语": "can fan",
+        "宾语或表语": "public perceptions of corruption",
+        "主干翻译": "偏袒会煽动公众对腐败的看法。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "in official access",
+          "修饰对象": "Favoritism",
+          "中文翻译": "在官方接触机会方面的",
+          "说明": "介词短语作Favoritism的后置定语。"
+        }
+      ],
+      "zh": "在获取官方接触机会方面的偏袒，会助长公众对腐败的观感。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2017-text4-s14",
+      "s": "But it is not always corruption.",
+      "para_no": 7,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "it",
+        "谓语": "is",
+        "宾语或表语": "not always corruption",
+        "主干翻译": "但它并不总是腐败。"
+      },
+      "components": [],
+      "zh": "但它并不总是腐败。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2017-text4-s15",
+      "s": "Rather officials must avoid double standards, or different types of access for average people and the wealthy.",
+      "para_no": 7,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "officials",
+        "谓语": "must avoid",
+        "宾语或表语": "double standards",
+        "主干翻译": "官员必须避免双重标准。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "different types of access for average people and the wealthy",
+          "修饰对象": "standards",
+          "中文翻译": "给普通人和富人不同类型的接触机会",
+          "说明": "由or与double standards并列，作其同位解释，同为avoid的宾语。"
+        }
+      ],
+      "zh": "相反，官员必须避免双重标准，即为普通人和富人提供不同类型的接触机会。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2017-text4-s16",
+      "s": "If connections can be bought, a basic premise of democratic society—that all are equal in treatment by government—is undermined.",
+      "para_no": 7,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "a basic premise of democratic society",
+        "谓语": "is undermined",
+        "宾语或表语": "—",
+        "主干翻译": "民主社会的一项基本前提就会被破坏。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "If connections can be bought",
+          "修饰对象": "undermined",
+          "中文翻译": "如果人脉关系可以被收买",
+          "说明": "if引导条件状语从句。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "that all are equal in treatment by government",
+          "修饰对象": "premise",
+          "中文翻译": "即所有人在受到政府对待时一律平等",
+          "说明": "that引导同位语从句，说明premise的内容。"
+        }
+      ],
+      "zh": "如果人脉关系可以被收买，那么民主社会的一项基本前提——所有人受到政府的对待一律平等——就会遭到破坏。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2017-text4-s17",
+      "s": "Good governance rests on an understanding of the inherent worth of each individual.",
+      "para_no": 7,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "Good governance",
+        "谓语": "rests on",
+        "宾语或表语": "an understanding",
+        "主干翻译": "良好的治理依赖于一种认识。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "of the inherent worth of each individual",
+          "修饰对象": "understanding",
+          "中文翻译": "对每个人固有价值的（认识）",
+          "说明": "of介词短语作understanding的后置定语。"
+        }
+      ],
+      "zh": "良好的治理立足于对每个人固有价值的认识。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2017-text4-s18",
+      "s": "The court's ruling is a step forward in the struggle against both corruption and official favoritism.",
+      "para_no": 8,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The court's ruling",
+        "谓语": "is",
+        "宾语或表语": "a step forward",
+        "主干翻译": "法院的裁决是向前迈出的一步。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "in the struggle against both corruption and official favoritism",
+          "修饰对象": "step",
+          "中文翻译": "在反对腐败和官方偏袒的斗争中的",
+          "说明": "in介词短语作a step forward的后置定语，内含both...and并列。"
+        }
+      ],
+      "zh": "法院的这一裁决，是在反对腐败和官员偏袒的斗争中向前迈出的一步。",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2017-text4-s1",
+        "en1-2017-text4-s19"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2017-text4-s2"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2017-text4-s3"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2017-text4-s4",
+        "en1-2017-text4-s5",
+        "en1-2017-text4-s6"
+      ]
+    },
+    {
+      "para_no": 5,
+      "sids": [
+        "en1-2017-text4-s7",
+        "en1-2017-text4-s8",
+        "en1-2017-text4-s9"
+      ]
+    },
+    {
+      "para_no": 6,
+      "sids": [
+        "en1-2017-text4-s10",
+        "en1-2017-text4-s11",
+        "en1-2017-text4-s12"
+      ]
+    },
+    {
+      "para_no": 7,
+      "sids": [
+        "en1-2017-text4-s13",
+        "en1-2017-text4-s14",
+        "en1-2017-text4-s15",
+        "en1-2017-text4-s16",
+        "en1-2017-text4-s17"
+      ]
+    },
+    {
+      "para_no": 8,
+      "sids": [
+        "en1-2017-text4-s18"
+      ]
+    }
+  ]
+}

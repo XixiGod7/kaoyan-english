@@ -1,0 +1,619 @@
+{
+  "exam": "en1",
+  "key": "2020-t4",
+  "year": 2020,
+  "text_no": 4,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2020-text4-s1",
+      "s": "Last Thursday, the French Senate passed a digital services tax, which would impose an entirely new tax on large multinationals that provide digital services to consumers or users in France.",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "the French Senate",
+        "谓语": "passed",
+        "宾语或表语": "a digital services tax",
+        "主干翻译": "法国参议院通过了一项数字服务税。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "Last Thursday",
+          "修饰对象": "passed",
+          "中文翻译": "上周四",
+          "说明": "时间状语（介词短语作状语），点明事件发生时间。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "which would impose an entirely new tax on large multinationals that provide digital services to consumers or users in France",
+          "修饰对象": "tax",
+          "中文翻译": "这项税将对向法国消费者或用户提供数字服务的大型跨国公司征收一种全新的税",
+          "说明": "非限制性定语从句，which 指代前面的 digital services tax。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that provide digital services to consumers or users in France",
+          "修饰对象": "multinationals",
+          "中文翻译": "向法国消费者或用户提供数字服务的",
+          "说明": "限制性定语从句，that 指代 multinationals，修饰其性质。"
+        }
+      ],
+      "zh": "上周四，法国参议院通过了一项数字服务税，该税将对向法国消费者或用户提供数字服务的大型跨国公司征收一种全新的税。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2020-text4-s2",
+      "s": "Digital services include everything from providing a platform for selling goods and services online to targeting advertising based on user data, and the tax applies to gross revenue from such services.",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Digital services / the tax",
+        "谓语": "include / applies",
+        "宾语或表语": "everything / to gross revenue",
+        "主干翻译": "数字服务涵盖了一切，而该税则适用于此类服务的总收入。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "the tax applies to gross revenue from such services.",
+          "修饰对象": "include",
+          "中文翻译": "该税适用于来自此类服务的总收入",
+          "说明": "and连接的并列分句，与前一分句构成并列。"
+        }
+      ],
+      "zh": "数字服务涵盖了从为在线销售商品和服务提供平台、到基于用户数据进行定向广告投放的一切，而该税则适用于来自此类服务的总收入。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2020-text4-s3",
+      "s": "Many French politicians and media outlets have referred to this as a \"",
+      "para_no": 1,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Many French politicians and media outlets",
+        "谓语": "have referred to",
+        "宾语或表语": "this",
+        "主干翻译": "许多法国政界人士和媒体把这称为一种……"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "Many French politicians and media outlets",
+          "修饰对象": "—",
+          "中文翻译": "许多法国政界人士和媒体",
+          "说明": "and 连接的并列主语。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "as a \"",
+          "修饰对象": "referred to",
+          "中文翻译": "称为一种“……”",
+          "说明": "refer to...as... 结构中的 as 引出宾语补足语（句子在引号处被截断）。"
+        }
+      ],
+      "zh": "许多法国政界人士和媒体把这称为一种“……”",
+      "underline": null
+    },
+    {
+      "sid": "en1-2020-text4-s4",
+      "s": "GAFA tax,\" meaning that it is designed to apply primarily to companies such as Google, Apple, Facebook and Amazon—in other words, multinational tech companies based in the United States.",
+      "para_no": 1,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "(it)",
+        "谓语": "is",
+        "宾语或表语": "GAFA tax",
+        "主干翻译": "（这被称为）“GAFA 税”。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "meaning that it is designed to apply primarily to companies such as Google, Apple, Facebook and Amazon—in other words, multinational tech companies based in the United States",
+          "修饰对象": "tax",
+          "中文翻译": "意思是它主要针对谷歌、苹果、脸书和亚马逊等公司，换句话说，针对总部位于美国的跨国科技公司",
+          "说明": "现在分词短语作状语，对 GAFA tax 这一称呼加以解释说明。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that it is designed to apply primarily to companies such as Google, Apple, Facebook and Amazon—in other words, multinational tech companies based in the United States",
+          "修饰对象": "meaning",
+          "中文翻译": "它主要针对谷歌、苹果、脸书和亚马逊等公司，换句话说，即总部位于美国的跨国科技公司",
+          "说明": "that 引导的从句作分词 meaning 的宾语。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to apply primarily to companies such as Google, Apple, Facebook and Amazon",
+          "修饰对象": "designed",
+          "中文翻译": "主要针对……公司",
+          "说明": "be designed to do 结构中的不定式，说明其设计目的。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "Google, Apple, Facebook and Amazon",
+          "修饰对象": "companies",
+          "中文翻译": "谷歌、苹果、脸书和亚马逊",
+          "说明": "并列的专有名词，作 such as 的列举对象。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "in other words, multinational tech companies based in the United States",
+          "修饰对象": "companies",
+          "中文翻译": "换句话说，即总部位于美国的跨国科技公司",
+          "说明": "破折号引出的同位语/解释性插入语，对前面 companies 加以重述。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "based in the United States",
+          "修饰对象": "companies",
+          "中文翻译": "总部位于美国的",
+          "说明": "过去分词短语作后置定语，修饰 multinational tech companies。"
+        }
+      ],
+      "zh": "（被称为）“GAFA 税”，意思是它主要针对谷歌、苹果、脸书和亚马逊等公司，换句话说，即总部位于美国的跨国科技公司。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2020-text4-s5",
+      "s": "The digital services tax now awaits the signature of President Emmanuel Macron, who has expressed support for the measure, and it could go into effect within the next few weeks.",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The digital services tax",
+        "谓语": "awaits",
+        "宾语或表语": "the signature of President Emmanuel Macron",
+        "主干翻译": "数字服务税如今正等待埃马纽埃尔·马克龙总统的签署。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "who has expressed support for the measure",
+          "修饰对象": "President Emmanuel Macron",
+          "中文翻译": "他已经表示支持这项举措",
+          "说明": "who 引导非限制性定语从句，修饰 President Emmanuel Macron。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "and it could go into effect within the next few weeks",
+          "修饰对象": "The digital services tax now awaits the signature of President Emmanuel Macron",
+          "中文翻译": "并且它可能在未来几周内生效",
+          "说明": "and 连接两个并列分句，第二个分句主语 it 指代 the digital services tax。"
+        }
+      ],
+      "zh": "数字服务税如今正等待埃马纽埃尔·马克龙总统的签署，他已表示支持这项举措，而该税可能在未来几周内生效。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2020-text4-s6",
+      "s": "But it has already sparked significant controversy, with the United States trade representative opening an investigation into whether the tax discriminates against American companies, which in turn could lead to trade sanctions against France.",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "it",
+        "谓语": "has sparked",
+        "宾语或表语": "significant controversy",
+        "主干翻译": "它已经引发了重大争议。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "with the United States trade representative opening an investigation into whether the tax discriminates against American companies",
+          "修饰对象": "sparked",
+          "中文翻译": "美国贸易代表已就该税是否歧视美国公司展开调查",
+          "说明": "with 引导的独立主格结构作伴随状语，opening 为现在分词。其中含 whether 引导的宾语从句（介词 into 的宾语）。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "which in turn could lead to trade sanctions against France",
+          "修饰对象": "investigation",
+          "中文翻译": "这反过来可能导致针对法国的贸易制裁",
+          "说明": "非限制性定语从句，which 指代前面的 investigation（或整件事），in turn 表示进而。"
+        }
+      ],
+      "zh": "但它已经引发了重大争议，美国贸易代表已就该税是否歧视美国公司展开调查，而这反过来可能导致针对法国的贸易制裁。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2020-text4-s7",
+      "s": "The French tax is not just a unilateral move by one country in need of revenue.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The French tax",
+        "谓语": "is not",
+        "宾语或表语": "a unilateral move",
+        "主干翻译": "法国的这项税并不只是一种单边行动。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "by one country in need of revenue",
+          "修饰对象": "move",
+          "中文翻译": "某个亟需财政收入的国家所采取的",
+          "说明": "by... 短语作 move 的后置定语，其中 in need of revenue 又作 country 的定语。"
+        }
+      ],
+      "zh": "法国的这项税并不只是某个亟需财政收入的国家所采取的单边行动。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2020-text4-s8",
+      "s": "Instead, the digital services tax is part of a much larger trend, with countries over the past few years proposing or putting in place an alphabet soup of new international tax provisions.",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "the digital services tax",
+        "谓语": "is",
+        "宾语或表语": "part of a much larger trend",
+        "主干翻译": "数字服务税是一个大得多的趋势的一部分。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "with countries over the past few years proposing or putting in place an alphabet soup of new international tax provisions",
+          "修饰对象": "is",
+          "中文翻译": "过去几年里各国纷纷提出或推行了一大堆名目繁多的新国际税收条款",
+          "说明": "with 引导的独立主格结构作伴随状语，countries 为逻辑主语，proposing/putting 为现在分词。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "proposing or putting in place an alphabet soup of new international tax provisions",
+          "修饰对象": "countries",
+          "中文翻译": "提出或推行一大堆名目繁多的新国际税收条款",
+          "说明": "or 连接的两个并列现在分词，共享逻辑主语 countries。"
+        }
+      ],
+      "zh": "相反，数字服务税是一个大得多的趋势的一部分，过去几年里各国纷纷提出或推行了一大堆名目繁多的新国际税收条款。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2020-text4-s9",
+      "s": "They have included Britain's DPT. (diverted profits tax), Australia's MAAL (multinational anti-avoidance law), and India's SEP (significant economic presence) test, to name but a few.",
+      "para_no": 3,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "They",
+        "谓语": "have included",
+        "宾语或表语": "Britain's DPT, Australia's MAAL, and India's SEP test",
+        "主干翻译": "它们包括英国的 DPT、澳大利亚的 MAAL 和印度的 SEP 测试。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "diverted profits tax",
+          "修饰对象": "DPT",
+          "中文翻译": "转移利润税",
+          "说明": "括号内的同位语，解释缩写 DPT 的全称。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "Britain's DPT. (diverted profits tax), Australia's MAAL (multinational anti-avoidance law), and India's SEP (significant economic presence) test",
+          "修饰对象": "included",
+          "中文翻译": "英国的 DPT（转移利润税）、澳大利亚的 MAAL（跨国反避税法）和印度的 SEP（重大经济存在）测试",
+          "说明": "and 连接的三项并列宾语。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "multinational anti-avoidance law",
+          "修饰对象": "MAAL",
+          "中文翻译": "跨国反避税法",
+          "说明": "括号内同位语，解释 MAAL 全称。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "significant economic presence",
+          "修饰对象": "SEP",
+          "中文翻译": "重大经济存在",
+          "说明": "括号内同位语，解释 SEP 全称。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to name but a few",
+          "修饰对象": "included",
+          "中文翻译": "举几个例子而已",
+          "说明": "不定式短语作独立成分（结果/补充说明状语），表示仅举数例。"
+        }
+      ],
+      "zh": "举几个例子来说，它们包括英国的 DPT（转移利润税）、澳大利亚的 MAAL（跨国反避税法）和印度的 SEP（重大经济存在）测试。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2020-text4-s10",
+      "s": "At the same time, the European Union, Spain, Britain and several other countries have all seriously contemplated digital services taxes.",
+      "para_no": 3,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "the European Union, Spain, Britain and several other countries",
+        "谓语": "have contemplated",
+        "宾语或表语": "digital services taxes",
+        "主干翻译": "欧盟、西班牙、英国和其他几个国家都认真考虑过数字服务税。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "At the same time",
+          "修饰对象": "contemplated",
+          "中文翻译": "与此同时",
+          "说明": "时间状语，承接上文。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "the European Union, Spain, Britain and several other countries",
+          "修饰对象": "—",
+          "中文翻译": "欧盟、西班牙、英国和其他几个国家",
+          "说明": "and 连接的并列主语。"
+        }
+      ],
+      "zh": "与此同时，欧盟、西班牙、英国和其他几个国家都认真考虑过征收数字服务税。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2020-text4-s11",
+      "s": "These unilateral developments differ in their specifics, but they are all designed to tax multinationals on income and revenue that countries believe they should have a right to tax, even if international tax rules do not grant them that right.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "These unilateral developments",
+        "谓语": "differ",
+        "宾语或表语": "in their specifics",
+        "主干翻译": "这些单边举措在具体细节上各不相同。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "but they are all designed to tax multinationals on income and revenue that countries believe they should have a right to tax, even if international tax rules do not grant them that right",
+          "修饰对象": "—",
+          "中文翻译": "但它们都旨在就各国认为自己有权征税的所得和收入向跨国公司征税，即便国际税收规则并未赋予它们这一权利",
+          "说明": "but 连接的并列分句，构成并列句。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to tax multinationals on income and revenue",
+          "修饰对象": "designed",
+          "中文翻译": "就所得和收入向跨国公司征税",
+          "说明": "be designed to do 结构中的不定式，说明设计目的。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that countries believe they should have a right to tax",
+          "修饰对象": "income",
+          "中文翻译": "各国认为自己有权征税的（所得和收入）",
+          "说明": "限制性定语从句，that 为 tax 的宾语，修饰 income and revenue，countries believe 为插入式主谓。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "they should have a right to tax",
+          "修饰对象": "believe",
+          "中文翻译": "它们应当有权征税",
+          "说明": "believe 后的宾语从句（省略 that），其内部含定语从句的还原结构。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to tax",
+          "修饰对象": "right",
+          "中文翻译": "征税的（权利）",
+          "说明": "不定式作后置定语，修饰 a right。"
+        },
+        {
+          "成分类型": "状语从句(让步)",
+          "原文": "even if international tax rules do not grant them that right",
+          "修饰对象": "have",
+          "中文翻译": "即便国际税收规则并未赋予它们这一权利",
+          "说明": "even if 引导让步状语从句。"
+        }
+      ],
+      "zh": "这些单边举措在具体细节上各不相同，但它们都旨在就各国认为自己有权征税的所得和收入向跨国公司征税，即便国际税收规则并未赋予它们这一权利。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2020-text4-s12",
+      "s": "In other words, they all share a view that the international tax system has failed to keep up with the current economy.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "they",
+        "谓语": "share",
+        "宾语或表语": "a view",
+        "主干翻译": "他们持有一种观点。"
+      },
+      "components": [
+        {
+          "成分类型": "同位语",
+          "原文": "all",
+          "修饰对象": "they",
+          "中文翻译": "全都",
+          "说明": "all 作主语 they 的同位语，强调“全部”。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "that the international tax system has failed to keep up with the current economy",
+          "修饰对象": "view",
+          "中文翻译": "即国际税收体系未能跟上当前经济的发展",
+          "说明": "that 引导同位语从句，解释说明 a view 的具体内容。"
+        },
+        {
+          "成分类型": "非谓语作宾语",
+          "原文": "to keep up with the current economy",
+          "修饰对象": "failed",
+          "中文翻译": "跟上当前经济的发展",
+          "说明": "动词不定式短语作 failed 的宾语，fail to do 固定搭配。"
+        }
+      ],
+      "zh": "换句话说，他们全都持有这样一种观点：国际税收体系未能跟上当前经济的发展。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2020-text4-s13",
+      "s": "In response to these many unilateral measures, the Organization for Economic Cooperation and Development (OECD) is currently working with 131 countries to reach a consensus by the end of 2020 on an international solution.",
+      "para_no": 5,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "the Organization for Economic Cooperation and Development (OECD)",
+        "谓语": "is working",
+        "宾语或表语": "with 131 countries",
+        "主干翻译": "经济合作与发展组织（OECD）正与 131 个国家合作。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "In response to these many unilateral measures",
+          "修饰对象": "working",
+          "中文翻译": "为应对这许多单边举措",
+          "说明": "句首介词短语作目的/背景状语。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "(OECD)",
+          "修饰对象": "Organization",
+          "中文翻译": "经合组织",
+          "说明": "括号内同位语，给出该组织的缩写。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to reach a consensus by the end of 2020 on an international solution",
+          "修饰对象": "working",
+          "中文翻译": "以便在 2020 年底前就一项国际解决方案达成共识",
+          "说明": "不定式短语作目的状语。"
+        }
+      ],
+      "zh": "为应对这许多单边举措，经济合作与发展组织（OECD）目前正与 131 个国家合作，以便在 2020 年底前就一项国际解决方案达成共识。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2020-text4-s14",
+      "s": "Both France and the United States are involved in the organization's work, but France's digital services tax and the American response raise questions about what the future holds for the international tax system.",
+      "para_no": 5,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Both France and the United States",
+        "谓语": "are involved in",
+        "宾语或表语": "the organization's work",
+        "主干翻译": "法国和美国都参与了该组织的工作。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "Both France and the United States",
+          "修饰对象": "are involved",
+          "中文翻译": "法国和美国两国",
+          "说明": "Both...and... 连接的并列主语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "but France's digital services tax and the American response raise questions about what the future holds for the international tax system",
+          "修饰对象": "Both France and the United States are involved in the organization's work",
+          "中文翻译": "但法国的数字服务税和美国的回应引发了关于国际税收体系未来走向的疑问",
+          "说明": "but 连接的转折并列分句。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "France's digital services tax and the American response",
+          "修饰对象": "raise",
+          "中文翻译": "法国的数字服务税和美国的回应",
+          "说明": "and 连接的并列主语，作 raise 的主语。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "what the future holds for the international tax system",
+          "修饰对象": "about",
+          "中文翻译": "国际税收体系的未来会怎样",
+          "说明": "由 what 引导的宾语从句，作介词 about 的宾语。"
+        }
+      ],
+      "zh": "法国和美国都参与了该组织的工作，但法国的数字服务税和美国的回应引发了关于国际税收体系未来走向的疑问。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2020-text4-s15",
+      "s": "France's planned tax is a clear warning: Unless a broad consensus can be reached on reforming the international tax system, other nations are likely to follow suit, and American companies will face a cascade of different taxes from dozens of nations that will prove burdensome and costly.",
+      "para_no": 6,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "France's planned tax",
+        "谓语": "is",
+        "宾语或表语": "a clear warning",
+        "主干翻译": "法国计划征收的这项税是一个明确的警示。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "Unless a broad consensus can be reached on reforming the international tax system",
+          "修饰对象": "are",
+          "中文翻译": "除非能就改革国际税收体系达成广泛共识",
+          "说明": "unless 引导否定条件状语从句，修饰后面 other nations are likely to follow suit。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to follow suit",
+          "修饰对象": "likely",
+          "中文翻译": "效仿跟进",
+          "说明": "be likely to do 结构中的不定式。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "and American companies will face a cascade of different taxes from dozens of nations that will prove burdensome and costly",
+          "修饰对象": "—",
+          "中文翻译": "而且美国公司将面对来自数十个国家的一连串各不相同的税，这些税将被证明既繁重又昂贵",
+          "说明": "and 连接的并列分句（与 other nations are likely to follow suit 并列）。",
+          "_extra": "冒号后为对 warning 内容的展开说明。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that will prove burdensome and costly",
+          "修饰对象": "cascade",
+          "中文翻译": "将被证明既繁重又昂贵的",
+          "说明": "限制性定语从句，that 指代 a cascade of different taxes。"
+        }
+      ],
+      "zh": "法国计划征收的这项税是一个明确的警示：除非能就改革国际税收体系达成广泛共识，否则其他国家很可能会效仿跟进，而美国公司将面对来自数十个国家的一连串各不相同的税，这些税将被证明既繁重又昂贵。",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2020-text4-s1",
+        "en1-2020-text4-s2",
+        "en1-2020-text4-s3",
+        "en1-2020-text4-s4"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2020-text4-s5",
+        "en1-2020-text4-s6"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2020-text4-s7",
+        "en1-2020-text4-s8",
+        "en1-2020-text4-s9",
+        "en1-2020-text4-s10"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2020-text4-s11",
+        "en1-2020-text4-s12"
+      ]
+    },
+    {
+      "para_no": 5,
+      "sids": [
+        "en1-2020-text4-s13",
+        "en1-2020-text4-s14"
+      ]
+    },
+    {
+      "para_no": 6,
+      "sids": [
+        "en1-2020-text4-s15"
+      ]
+    }
+  ]
+}

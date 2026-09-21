@@ -1,0 +1,732 @@
+{
+  "exam": "en1",
+  "key": "2024-t1",
+  "year": 2024,
+  "text_no": 1,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2024-text1-s1",
+      "s": "Nearly 2,000 years ago, as the Romans began to pull out of Scotland, they left behind a curious treasure: 10 tons of nails, nearly a million of the things.",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "they",
+        "谓语": "left behind",
+        "宾语或表语": "a curious treasure",
+        "主干翻译": "他们留下了一笔奇特的财富。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "as the Romans began to pull out of Scotland",
+          "修饰对象": "left",
+          "中文翻译": "当罗马人开始撤出苏格兰时",
+          "说明": "as 引导时间状语从句，修饰主句谓语 left，表示动作发生的时间背景。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to pull out of Scotland",
+          "修饰对象": "began",
+          "中文翻译": "撤出苏格兰",
+          "说明": "不定式作 began 的宾语补足成分，表示开始做的动作。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "10 tons of nails, nearly a million of the things",
+          "修饰对象": "treasure",
+          "中文翻译": "10吨钉子，将近一百万枚",
+          "说明": "对 treasure 的同位说明（名词性同位语），点明这笔财富的具体内容。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "nearly a million of the things",
+          "修饰对象": "tons",
+          "中文翻译": "将近一百万枚这种东西",
+          "说明": "对前面 10 tons of nails 的进一步同位补充，强调数量。"
+        }
+      ],
+      "zh": "大约2000年前，当罗马人开始撤出苏格兰时，他们留下了一笔奇特的财富：10吨钉子，将近一百万枚。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2024-text1-s2",
+      "s": "The nail hoard was discovered in 1960 in a four-metre-deep pit covered by two metres of gravel.",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "The nail hoard",
+        "谓语": "was discovered",
+        "宾语或表语": "—",
+        "主干翻译": "这批钉子被发现了。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "in 1960",
+          "修饰对象": "discovered",
+          "中文翻译": "于1960年",
+          "说明": "时间状语，说明发现的时间。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "in a four-metre-deep pit",
+          "修饰对象": "discovered",
+          "中文翻译": "在一个四米深的坑里",
+          "说明": "地点状语，说明发现的地点。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "covered by two metres of gravel",
+          "修饰对象": "pit",
+          "中文翻译": "被两米厚的砾石覆盖着的",
+          "说明": "过去分词短语作后置定语，修饰 pit，说明坑的状态。"
+        }
+      ],
+      "zh": "这批钉子是1960年在一个被两米厚砾石覆盖的四米深坑中被发现的。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2024-text1-s3",
+      "s": "Why had the Romans buried a million nails?",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "the Romans",
+        "谓语": "had buried",
+        "宾语或表语": "a million nails",
+        "主干翻译": "罗马人埋了一百万枚钉子。"
+      },
+      "components": [],
+      "zh": "罗马人为什么要埋下一百万枚钉子呢？",
+      "underline": null
+    },
+    {
+      "sid": "en1-2024-text1-s4",
+      "s": "The likely explanation is that the withdrawal was rushed, and they didn't want the local Caledonians getting their hands on 10 tons of weapon-grade iron.",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "The likely explanation",
+        "谓语": "is",
+        "宾语或表语": "that 从句",
+        "主干翻译": "可能的解释是……"
+      },
+      "components": [
+        {
+          "成分类型": "表语从句",
+          "原文": "that the withdrawal was rushed, and they didn't want the local Caledonians getting their hands on 10 tons of weapon-grade iron",
+          "修饰对象": "is",
+          "中文翻译": "撤退过于仓促，而且他们不想让当地的喀里多尼亚人弄到10吨武器级别的铁",
+          "说明": "that 引导表语从句，作系动词 is 的表语，解释具体原因。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "they didn't want the local Caledonians getting their hands on 10 tons of weapon-grade iron",
+          "修饰对象": "rushed",
+          "中文翻译": "他们不想让当地喀里多尼亚人弄到10吨武器级别的铁",
+          "说明": "由 and 连接，与前一分句 the withdrawal was rushed 并列，共同构成表语从句的内容。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "the local Caledonians getting their hands on 10 tons of weapon-grade iron",
+          "修饰对象": "want",
+          "中文翻译": "当地喀里多尼亚人弄到10吨武器级别的铁",
+          "说明": "want 后接复合宾语，现在分词 getting 作宾语补足语，表示不希望发生的动作。"
+        }
+      ],
+      "zh": "可能的解释是：撤退太过仓促，而且他们不想让当地的喀里多尼亚人弄到这10吨武器级别的铁。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2024-text1-s5",
+      "s": "The Romans buried the nails so deep that they would not be discovered for almost two millennia.",
+      "para_no": 2,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "The Romans",
+        "谓语": "buried",
+        "宾语或表语": "the nails",
+        "主干翻译": "罗马人把钉子埋了起来。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(结果)",
+          "原文": "that they would not be discovered for almost two millennia",
+          "修饰对象": "deep",
+          "中文翻译": "以至于它们近两千年都未被发现",
+          "说明": "so...that 结构中的 that 从句，表示结果，与 deep 构成 so deep that 的结果状语。"
+        }
+      ],
+      "zh": "罗马人把钉子埋得如此之深，以至于它们近两千年都没有被发现。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2024-text1-s6",
+      "s": "Later civilisations would value the skilled blacksmith's labour in a nail even more than the raw material.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Later civilisations",
+        "谓语": "would value",
+        "宾语或表语": "the skilled blacksmith's labour",
+        "主干翻译": "后来的文明会看重熟练铁匠的劳动。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "in a nail",
+          "修饰对象": "labour",
+          "中文翻译": "投入一枚钉子中的",
+          "说明": "介词短语后置修饰 labour，说明劳动所投入的对象。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "even more than the raw material",
+          "修饰对象": "value",
+          "中文翻译": "甚至超过对原材料的看重",
+          "说明": "比较状语，修饰 value，将对劳动的看重与对原材料的看重相比较。"
+        }
+      ],
+      "zh": "后来的文明对一枚钉子中熟练铁匠劳动的看重，甚至超过对原材料本身的看重。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2024-text1-s7",
+      "s": "As Roma Agrawal explains in her new delightful book Nuts and Bolts, early 17th-century Virginians would sometimes burn down their homes if they were planning to relocate.",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "early 17th-century Virginians",
+        "谓语": "would sometimes burn down",
+        "宾语或表语": "their homes",
+        "主干翻译": "17世纪早期的弗吉尼亚人有时会烧掉自己的房子。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(方式)",
+          "原文": "As Roma Agrawal explains in her new delightful book Nuts and Bolts",
+          "修饰对象": "burn",
+          "中文翻译": "正如罗马·阿格拉瓦尔在她令人愉快的新书《螺母与螺栓》中所解释的那样",
+          "说明": "As 引导方式状语从句，意为\"正如……所言\"，修饰主句。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "Nuts and Bolts",
+          "修饰对象": "book",
+          "中文翻译": "《螺母与螺栓》",
+          "说明": "书名作 book 的同位语，点明书的名称。"
+        },
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "if they were planning to relocate",
+          "修饰对象": "burn",
+          "中文翻译": "如果他们打算搬迁",
+          "说明": "if 引导条件状语从句，说明烧房子的前提条件。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to relocate",
+          "修饰对象": "planning",
+          "中文翻译": "搬迁",
+          "说明": "不定式作 planning 的宾语，表示打算做的事。"
+        }
+      ],
+      "zh": "正如罗马·阿格拉瓦尔在她令人愉快的新书《螺母与螺栓》中所解释的那样，17世纪早期的弗吉尼亚人如果打算搬家，有时会把自己的房子烧掉。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2024-text1-s8",
+      "s": "This was an attempt to recover the valuable nails, which could be reused after sifting the ashes.",
+      "para_no": 3,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "This",
+        "谓语": "was",
+        "宾语或表语": "an attempt",
+        "主干翻译": "这是一种尝试。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to recover the valuable nails, which could be reused after sifting the ashes",
+          "修饰对象": "attempt",
+          "中文翻译": "回收那些珍贵钉子的",
+          "说明": "不定式短语作 attempt 的后置定语，说明尝试的内容。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "which could be reused after sifting the ashes",
+          "修饰对象": "nails",
+          "中文翻译": "这些钉子在筛过灰烬后还能再次使用",
+          "说明": "which 引导非限制性定语从句，修饰 nails，补充说明钉子可被重复利用。"
+        }
+      ],
+      "zh": "这是为了回收那些珍贵的钉子，因为它们在筛过灰烬后还能再次使用。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2024-text1-s9",
+      "s": "The idea that one might burn down an entire house just to reclaim the nails underlines how scarce, costly and valuable the simple- seeming technology was.",
+      "para_no": 3,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "The idea",
+        "谓语": "underlines",
+        "宾语或表语": "how 从句",
+        "主干翻译": "这种想法凸显了……"
+      },
+      "components": [
+        {
+          "成分类型": "同位语从句",
+          "原文": "that one might burn down an entire house just to reclaim the nails",
+          "修饰对象": "idea",
+          "中文翻译": "人们可能仅仅为了取回钉子就烧掉整座房子",
+          "说明": "that 引导同位语从句，对 idea 的内容加以解释说明。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "just to reclaim the nails",
+          "修饰对象": "burn",
+          "中文翻译": "仅仅为了取回钉子",
+          "说明": "不定式作目的状语，修饰 burn down，说明烧房子的目的。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "costly and valuable",
+          "修饰对象": "scarce",
+          "中文翻译": "昂贵且珍贵",
+          "说明": "与 scarce 由 and 连接构成并列形容词，共同作 how 从句中的表语。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "how scarce, costly and valuable the simple- seeming technology was",
+          "修饰对象": "underlines",
+          "中文翻译": "这项看似简单的技术曾多么稀缺、昂贵和珍贵",
+          "说明": "how 引导宾语从句，作 underlines 的宾语（感叹式语序，表语前置）。"
+        }
+      ],
+      "zh": "人们竟然可能仅仅为了取回钉子就烧掉整座房子，这种想法凸显出这项看似简单的技术当年是多么稀缺、昂贵和珍贵。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2024-text1-s10",
+      "s": "The price of nails fell by 90% between the late 1700s and mid-1900s, as economist Daniel Sichel points out in a research paper.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The price of nails",
+        "谓语": "fell",
+        "宾语或表语": "—",
+        "主干翻译": "钉子的价格下降了。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "by 90% between the late 1700s and mid-1900s",
+          "修饰对象": "fell",
+          "中文翻译": "在18世纪末到20世纪中叶之间下降了90%",
+          "说明": "介词短语作状语，说明下降的幅度和时间区间。"
+        },
+        {
+          "成分类型": "状语从句(方式)",
+          "原文": "as economist Daniel Sichel points out in a research paper",
+          "修饰对象": "fell",
+          "中文翻译": "正如经济学家丹尼尔·西歇尔在一篇研究论文中指出的那样",
+          "说明": "as 引导方式状语从句，意为\"正如……所指出的\"，修饰主句。"
+        }
+      ],
+      "zh": "正如经济学家丹尼尔·西歇尔在一篇研究论文中所指出的那样，钉子的价格在18世纪末到20世纪中叶之间下降了90%。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2024-text1-s11",
+      "s": "According to Sichel, although the falling price of nails was driven partly by cheaper iron and cheaper energy, most of the credit goes to nail manufacturers who simply found more efficient ways to turn steel into nails.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "most of the credit",
+        "谓语": "goes to",
+        "宾语或表语": "nail manufacturers",
+        "主干翻译": "大部分功劳归于钉子制造商。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(让步)",
+          "原文": "although the falling price of nails was driven partly by cheaper iron and cheaper energy",
+          "修饰对象": "goes",
+          "中文翻译": "尽管钉子价格的下降部分是由更便宜的铁和更便宜的能源推动的",
+          "说明": "although 引导让步状语从句，修饰主句，表示让步关系。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "who simply found more efficient ways to turn steel into nails",
+          "修饰对象": "manufacturers",
+          "中文翻译": "他们只是找到了把钢材变成钉子的更高效方法",
+          "说明": "who 引导限制性定语从句，修饰 manufacturers，说明其贡献。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to turn steel into nails",
+          "修饰对象": "ways",
+          "中文翻译": "把钢材变成钉子的",
+          "说明": "不定式短语作 ways 的后置定语，说明方法的用途。"
+        }
+      ],
+      "zh": "据西歇尔说，尽管钉子价格的下降部分得益于更便宜的铁和更便宜的能源，但大部分功劳要归于那些找到更高效方法把钢材制成钉子的钉子制造商。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2024-text1-s12",
+      "s": "Nails themselves have changed over the years, but Sichel studied them because they haven't changed much.",
+      "para_no": 5,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Nails",
+        "谓语": "have changed",
+        "宾语或表语": "—",
+        "主干翻译": "钉子本身已经发生了变化。"
+      },
+      "components": [
+        {
+          "成分类型": "同位语从句",
+          "原文": "themselves",
+          "修饰对象": "Nails",
+          "中文翻译": "本身",
+          "说明": "反身代词作 Nails 的同位语，起强调作用。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "Sichel studied them because they haven't changed much.",
+          "修饰对象": "changed",
+          "中文翻译": "西歇尔研究钉子正是因为它们变化不大",
+          "说明": "由 but 连接，与前一分句构成转折并列关系。"
+        },
+        {
+          "成分类型": "状语从句(原因)",
+          "原文": "because they haven't changed much",
+          "修饰对象": "studied",
+          "中文翻译": "因为它们变化不大",
+          "说明": "because 引导原因状语从句，修饰 studied，说明研究的原因。"
+        }
+      ],
+      "zh": "钉子本身多年来确实有所变化，但西歇尔之所以研究它们，正是因为它们变化不大。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2024-text1-s13",
+      "s": "Roman lamps and Roman chariots are very different from LED strips and sports cars, but Roman nails are still clearly nails.",
+      "para_no": 5,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Roman lamps and Roman chariots",
+        "谓语": "are",
+        "宾语或表语": "very different",
+        "主干翻译": "罗马的油灯和战车非常不同。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "from LED strips and sports cars",
+          "修饰对象": "different",
+          "中文翻译": "与LED灯带和跑车相比",
+          "说明": "介词短语与 different 搭配，说明比较的对象。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "Roman nails are still clearly nails.",
+          "修饰对象": "are",
+          "中文翻译": "罗马的钉子仍然明显就是钉子",
+          "说明": "由 but 连接，与前一分句构成转折并列关系。"
+        }
+      ],
+      "zh": "罗马的油灯和战车与LED灯带和跑车截然不同，但罗马的钉子仍然明显就是钉子。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2024-text1-s14",
+      "s": "It would be absurd to try to track the changing price of sports cars since 1695, but to ask the same question of nails makes perfect sense.",
+      "para_no": 5,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "It (to try...)",
+        "谓语": "would be",
+        "宾语或表语": "absurd",
+        "主干翻译": "（试图去做某事）会是荒谬的。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to try to track the changing price of sports cars since 1695",
+          "修饰对象": "be",
+          "中文翻译": "试图追踪自1695年以来跑车的价格变化",
+          "说明": "不定式作真正主语，前面的 It 为形式主语。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to track the changing price of sports cars since 1695",
+          "修饰对象": "try",
+          "中文翻译": "追踪自1695年以来跑车的价格变化",
+          "说明": "不定式作 try 的宾语，表示尝试做的动作。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "to ask the same question of nails makes perfect sense.",
+          "修饰对象": "be",
+          "中文翻译": "对钉子提出同样的问题却完全合理",
+          "说明": "由 but 连接，与前一分句构成转折并列；此处不定式作主语，直接作 makes 的主语。"
+        }
+      ],
+      "zh": "试图追踪自1695年以来跑车的价格变化会很荒谬，但对钉子提出同样的问题却完全合理。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2024-text1-s15",
+      "s": "I make no apology for being obsessed by a particular feature of everyday objects: their price.",
+      "para_no": 6,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "I",
+        "谓语": "make",
+        "宾语或表语": "no apology",
+        "主干翻译": "我对此毫不歉疚。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "for being obsessed by a particular feature of everyday objects",
+          "修饰对象": "apology",
+          "中文翻译": "为痴迷于日常物品的某一特定属性",
+          "说明": "for 引导的介词短语，说明 apology 的内容（不为什么而道歉）。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "their price",
+          "修饰对象": "feature",
+          "中文翻译": "即它们的价格",
+          "说明": "对 feature 的同位说明，点明具体属性就是价格。"
+        }
+      ],
+      "zh": "我对自己痴迷于日常物品的某一特定属性——它们的价格——毫不歉疚。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2024-text1-s15b",
+      "s": "I am an economist, after all.",
+      "para_no": 6,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "I",
+        "谓语": "am",
+        "宾语或表语": "an economist",
+        "主干翻译": "我是个经济学家。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "after all",
+          "修饰对象": "I am an economist",
+          "中文翻译": "毕竟",
+          "说明": "after all 置于句末作补充说明，表「说到底、毕竟」，为上一句「痴迷于价格」给出理由。"
+        }
+      ],
+      "zh": "毕竟，我是个经济学家。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2024-text1-s16",
+      "s": "After writing two books about the history of inventions, one thing I've learnt is that while it is the enchantingly sophisticated technologies that get all the hype, it's the cheap technologies that change the world.",
+      "para_no": 6,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "one thing",
+        "谓语": "is",
+        "宾语或表语": "that 从句",
+        "主干翻译": "有一件事是……"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "After writing two books about the history of inventions",
+          "修饰对象": "is",
+          "中文翻译": "在写了两本关于发明史的书之后",
+          "说明": "介词短语作时间状语，修饰主句。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "I've learnt",
+          "修饰对象": "thing",
+          "中文翻译": "我所学到的",
+          "说明": "省略关系代词 that 的定语从句，修饰 thing。"
+        },
+        {
+          "成分类型": "表语从句",
+          "原文": "that while it is the enchantingly sophisticated technologies that get all the hype, it's the cheap technologies that change the world",
+          "修饰对象": "is",
+          "中文翻译": "虽然获得所有关注的是那些迷人而复杂的技术，但真正改变世界的却是廉价技术",
+          "说明": "that 引导表语从句，作系动词 is 的表语。"
+        },
+        {
+          "成分类型": "状语从句(让步)",
+          "原文": "while it is the enchantingly sophisticated technologies that get all the hype",
+          "修饰对象": "'s",
+          "中文翻译": "虽然获得所有关注的是那些迷人而复杂的技术",
+          "说明": "while 引导让步状语从句，与主句 it's the cheap technologies... 构成让步对比。"
+        },
+        {
+          "成分类型": "强调句",
+          "原文": "it is the enchantingly sophisticated technologies that get all the hype",
+          "修饰对象": "—",
+          "中文翻译": "正是那些迷人而复杂的技术获得了所有关注",
+          "说明": "it is...that... 强调句，强调主语 the enchantingly sophisticated technologies。"
+        },
+        {
+          "成分类型": "强调句",
+          "原文": "it's the cheap technologies that change the world",
+          "修饰对象": "—",
+          "中文翻译": "正是廉价技术改变了世界",
+          "说明": "it's...that... 强调句，强调主语 the cheap technologies。"
+        }
+      ],
+      "zh": "在写了两本关于发明史的书之后，我学到的一点是：虽然获得所有关注的是那些迷人而复杂的技术，但真正改变世界的却是廉价技术。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2024-text1-s17",
+      "s": "The Gutenberg printing press transformed civilisation not by changing the nature of writing but by changing its cost—and it would have achieved little without a parallel collapse in the price of surfaces to write on, thanks to an often-overlooked technology called paper.",
+      "para_no": 7,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The Gutenberg printing press",
+        "谓语": "transformed",
+        "宾语或表语": "civilisation",
+        "主干翻译": "古腾堡印刷机改变了文明。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "not by changing the nature of writing but by changing its cost",
+          "修饰对象": "transformed",
+          "中文翻译": "不是通过改变书写的本质，而是通过改变其成本",
+          "说明": "not...but... 并列的方式状语，修饰 transformed，说明改变文明的方式。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "by changing its cost",
+          "修饰对象": "—",
+          "中文翻译": "通过改变其成本",
+          "说明": "与 by changing the nature of writing 由 not...but... 连接构成并列。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "it would have achieved little without a parallel collapse in the price of surfaces to write on, thanks to an often-overlooked technology called paper.",
+          "修饰对象": "transformed",
+          "中文翻译": "如果书写表面的价格没有同步暴跌，它本来不会有什么成就",
+          "说明": "由 and 连接，与前一主句并列，构成完整的转折补充。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "to write on",
+          "修饰对象": "surfaces",
+          "中文翻译": "用来书写的",
+          "说明": "不定式短语作 surfaces 的后置定语，说明表面的用途。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "called paper",
+          "修饰对象": "technology",
+          "中文翻译": "被称为纸张的",
+          "说明": "过去分词短语作 technology 的后置定语，点明这项技术即纸张。"
+        }
+      ],
+      "zh": "古腾堡印刷机改变文明，不是通过改变书写的本质，而是通过改变其成本；而且，若没有一项常被忽视的技术——纸张——使书写表面价格同步暴跌，它本来也不会有什么成就。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2024-text1-s18",
+      "s": "Solar panels had a few niche uses until they became cheap; now they are transforming the global energy system.",
+      "para_no": 7,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Solar panels",
+        "谓语": "had",
+        "宾语或表语": "a few niche uses",
+        "主干翻译": "太阳能电池板曾只有少数小众用途。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "until they became cheap",
+          "修饰对象": "had",
+          "中文翻译": "直到它们变得便宜",
+          "说明": "until 引导时间状语从句，修饰主句谓语 had，说明转折发生的时间节点。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "now they are transforming the global energy system",
+          "修饰对象": "—",
+          "中文翻译": "如今它们正在改变全球能源系统",
+          "说明": "由分号连接，与前一分句构成并列对比关系。"
+        }
+      ],
+      "zh": "太阳能电池板在变得便宜之前只有少数小众用途；如今它们正在改变全球能源系统。",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2024-text1-s1",
+        "en1-2024-text1-s2"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2024-text1-s3",
+        "en1-2024-text1-s4",
+        "en1-2024-text1-s5"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2024-text1-s6",
+        "en1-2024-text1-s7",
+        "en1-2024-text1-s8",
+        "en1-2024-text1-s9"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2024-text1-s10",
+        "en1-2024-text1-s11"
+      ]
+    },
+    {
+      "para_no": 5,
+      "sids": [
+        "en1-2024-text1-s12",
+        "en1-2024-text1-s13",
+        "en1-2024-text1-s14"
+      ]
+    },
+    {
+      "para_no": 6,
+      "sids": [
+        "en1-2024-text1-s15",
+        "en1-2024-text1-s15b",
+        "en1-2024-text1-s16"
+      ]
+    },
+    {
+      "para_no": 7,
+      "sids": [
+        "en1-2024-text1-s17",
+        "en1-2024-text1-s18"
+      ]
+    }
+  ]
+}

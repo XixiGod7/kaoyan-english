@@ -1,0 +1,755 @@
+{
+  "exam": "en1",
+  "key": "2017-t2",
+  "year": 2017,
+  "text_no": 2,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2017-text2-s1",
+      "s": "\"The ancient Hawaiians were astronomers,\" wrote Queen Liliuokalani, Hawaii's last reigning monarch, in 1897.",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Queen Liliuokalani",
+        "谓语": "wrote",
+        "宾语或表语": "\"The ancient Hawaiians were astronomers\"",
+        "主干翻译": "莉莉乌奥卡拉尼女王写道：“古代夏威夷人是天文学家。”"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "The ancient Hawaiians were astronomers",
+          "修饰对象": "wrote",
+          "中文翻译": "古代夏威夷人是天文学家",
+          "说明": "wrote 的直接引语，作宾语，前置于主谓之前"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "Hawaii's last reigning monarch",
+          "修饰对象": "Liliuokalani",
+          "中文翻译": "夏威夷最后一位在位的君主",
+          "说明": "对 Queen Liliuokalani 的同位语，作插入说明"
+        }
+      ],
+      "zh": "“古代夏威夷人是天文学家。”夏威夷最后一位在位的君主莉莉乌奥卡拉尼女王于1897年写道。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2017-text2-s2",
+      "s": "Star watchers were among the most esteemed members of Hawaiian society.",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Star watchers",
+        "谓语": "were",
+        "宾语或表语": "among the most esteemed members",
+        "主干翻译": "观星者是最受尊敬的成员之一。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "of Hawaiian society",
+          "修饰对象": "members",
+          "中文翻译": "夏威夷社会的",
+          "说明": "介词短语作定语，修饰 members"
+        }
+      ],
+      "zh": "观星者是夏威夷社会中最受尊敬的成员之一。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2017-text2-s3",
+      "s": "Sadly, all is not well with astronomy in Hawaii today.",
+      "para_no": 1,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "all",
+        "谓语": "is not",
+        "宾语或表语": "well",
+        "主干翻译": "一切都不太好。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "with astronomy in Hawaii today",
+          "修饰对象": "well",
+          "中文翻译": "当今夏威夷的天文学",
+          "说明": "介词短语作状语，说明“不太好”的方面"
+        }
+      ],
+      "zh": "遗憾的是，如今夏威夷的天文学境况并不乐观。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2017-text2-s4",
+      "s": "Protests have erupted over construction of the Thirty Meter Telescope (TMT), a giant observatory that promises to revolutionize humanity's view of the cosmos.",
+      "para_no": 1,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "Protests",
+        "谓语": "have erupted",
+        "宾语或表语": "—",
+        "主干翻译": "抗议爆发了。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "over construction of the Thirty Meter Telescope (TMT)",
+          "修饰对象": "have erupted",
+          "中文翻译": "因三十米望远镜（TMT）的建造",
+          "说明": "介词短语作状语，说明抗议的起因"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "a giant observatory that promises to revolutionize humanity's view of the cosmos",
+          "修饰对象": "Telescope",
+          "中文翻译": "一座有望彻底改变人类宇宙观的巨型天文台",
+          "说明": "名词短语作 Telescope 的同位语"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that promises to revolutionize humanity's view of the cosmos",
+          "修饰对象": "observatory",
+          "中文翻译": "有望彻底改变人类宇宙观的",
+          "说明": "that 引导，修饰 observatory"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to revolutionize humanity's view of the cosmos",
+          "修饰对象": "promises",
+          "中文翻译": "彻底改变人类的宇宙观",
+          "说明": "不定式作 promises 的补足成分（宾语）"
+        }
+      ],
+      "zh": "围绕三十米望远镜（TMT）的建造爆发了抗议，这座巨型天文台有望彻底改变人类的宇宙观。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2017-text2-s5",
+      "s": "At issue is the TMT's planned location on Mauna Kea, a dormant volcano worshiped by some Hawaiians as the piko, that connects the Hawaiian Islands to the heavens.",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "the TMT's planned location on Mauna Kea",
+        "谓语": "is",
+        "宾语或表语": "At issue",
+        "主干翻译": "争议焦点在于TMT在莫纳克亚山上选定的位置。"
+      },
+      "components": [
+        {
+          "成分类型": "倒装",
+          "原文": "At issue is the TMT's planned location",
+          "修饰对象": "—",
+          "中文翻译": "争议的焦点是……选定的位置",
+          "说明": "表语 At issue 提前，构成完全倒装"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "a dormant volcano worshiped by some Hawaiians as the piko",
+          "修饰对象": "Kea",
+          "中文翻译": "一座被一些夏威夷人当作“皮科”崇拜的休眠火山",
+          "说明": "名词短语作 Mauna Kea 的同位语"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "worshiped by some Hawaiians as the piko",
+          "修饰对象": "volcano",
+          "中文翻译": "被一些夏威夷人当作“皮科”崇拜的",
+          "说明": "过去分词短语作定语，修饰 volcano"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that connects the Hawaiian Islands to the heavens",
+          "修饰对象": "location",
+          "中文翻译": "将夏威夷群岛与天界相连的",
+          "说明": "that 引导，依 k 挂靠 location（实际语义上指 piko/连接点）"
+        }
+      ],
+      "zh": "争议焦点在于TMT计划建在莫纳克亚山上的位置——这座休眠火山被一些夏威夷人当作连接夏威夷群岛与天界的“皮科”（脐点）来崇拜。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2017-text2-s6",
+      "s": "But Mauna Kea is also home to some of the world's most powerful telescopes.",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Mauna Kea",
+        "谓语": "is",
+        "宾语或表语": "home",
+        "主干翻译": "莫纳克亚山也是家园。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "to some of the world's most powerful telescopes",
+          "修饰对象": "home",
+          "中文翻译": "世界上一些最强大望远镜的",
+          "说明": "介词短语作定语，修饰 home"
+        }
+      ],
+      "zh": "但莫纳克亚山也是世界上一些最强大望远镜的所在地。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2017-text2-s7",
+      "s": "Rested in the Pacific Ocean, Mauna Kea's peak rises above the bulk of our planet's dense atmosphere, where conditions allow telescopes to obtain images of unsurpassed clarity.",
+      "para_no": 2,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Mauna Kea's peak",
+        "谓语": "rises",
+        "宾语或表语": "above the bulk of our planet's dense atmosphere",
+        "主干翻译": "莫纳克亚山的山峰耸立在地球稠密大气层的主体之上。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "Rested in the Pacific Ocean",
+          "修饰对象": "rises",
+          "中文翻译": "坐落于太平洋之中",
+          "说明": "过去分词短语作状语，表伴随/方式，修饰 rises"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "where conditions allow telescopes to obtain images of unsurpassed clarity",
+          "修饰对象": "bulk",
+          "中文翻译": "在那里各种条件使望远镜得以获取无与伦比的清晰图像",
+          "说明": "where 引导，依 k 挂靠 bulk（语义指山峰所在的高处环境）"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "telescopes to obtain images of unsurpassed clarity",
+          "修饰对象": "allow",
+          "中文翻译": "望远镜获取无与伦比的清晰图像",
+          "说明": "allow 的复合宾语（宾语+不定式补足语）"
+        }
+      ],
+      "zh": "莫纳克亚山坐落于太平洋之中，其山峰耸立于地球稠密大气层的主体之上，在那里的条件使望远镜得以获取无与伦比的清晰图像。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2017-text2-s8",
+      "s": "Opposition to telescopes on Mauna Kea is nothing new.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Opposition",
+        "谓语": "is",
+        "宾语或表语": "nothing new",
+        "主干翻译": "反对并不是什么新鲜事。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "to telescopes on Mauna Kea",
+          "修饰对象": "Opposition",
+          "中文翻译": "对莫纳克亚山上望远镜的",
+          "说明": "介词短语作定语，修饰 Opposition"
+        }
+      ],
+      "zh": "对莫纳克亚山上建造望远镜的反对并不是什么新鲜事。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2017-text2-s9",
+      "s": "A small but vocal group of Hawaiians and environmentalists have long viewed their presence as disrespect for sacred land and a painful reminder of the occupation of what was once a sovereign nation.",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "A small but vocal group",
+        "谓语": "have long viewed",
+        "宾语或表语": "their presence",
+        "主干翻译": "一小群直言不讳的人长期以来一直将它们的存在视为……"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "of Hawaiians and environmentalists",
+          "修饰对象": "group",
+          "中文翻译": "由夏威夷人和环保人士组成的",
+          "说明": "介词短语作定语，修饰 group"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "as disrespect for sacred land",
+          "修饰对象": "viewed",
+          "中文翻译": "视为对圣地的不敬",
+          "说明": "view...as 结构中的宾补成分"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "a painful reminder of the occupation of what was once a sovereign nation",
+          "修饰对象": "disrespect",
+          "中文翻译": "对曾是主权国家之地被占领的痛苦提醒",
+          "说明": "与 disrespect 并列，作 as 的宾语；含 what 引导的宾语从句"
+        }
+      ],
+      "zh": "一小群直言不讳的夏威夷人和环保人士长期以来一直把这些望远镜的存在视为对圣地的不敬，以及对曾是主权国家之地被占领的痛苦提醒。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2017-text2-s10",
+      "s": "Some blame for the current controversy belongs to astronomers.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Some blame",
+        "谓语": "belongs",
+        "宾语或表语": "to astronomers",
+        "主干翻译": "部分责任在于天文学家。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "for the current controversy",
+          "修饰对象": "blame",
+          "中文翻译": "对当前争议的",
+          "说明": "介词短语作定语，修饰 blame"
+        }
+      ],
+      "zh": "当前争议的部分责任应归咎于天文学家。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2017-text2-s11",
+      "s": "In their eagerness to build bigger telescopes, they forgot that science is not the only way of understanding the world.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "they",
+        "谓语": "forgot",
+        "宾语或表语": "that science is not the only way of understanding the world",
+        "主干翻译": "他们忘记了科学并不是理解世界的唯一方式。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "In their eagerness to build bigger telescopes",
+          "修饰对象": "forgot",
+          "中文翻译": "在急于建造更大望远镜的过程中",
+          "说明": "介词短语作状语，修饰主句"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to build bigger telescopes",
+          "修饰对象": "eagerness",
+          "中文翻译": "建造更大望远镜的",
+          "说明": "不定式作定语，修饰 eagerness"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that science is not the only way of understanding the world",
+          "修饰对象": "forgot",
+          "中文翻译": "科学并不是理解世界的唯一方式",
+          "说明": "that 引导，作 forgot 的宾语"
+        }
+      ],
+      "zh": "在急于建造更大望远镜的过程中，他们忘记了科学并不是理解世界的唯一方式。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2017-text2-s12",
+      "s": "They did not always prioritize the protection of Mauna Kea's fragile ecosystems or its holiness to the islands' inhabitants.",
+      "para_no": 4,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "They",
+        "谓语": "did not always prioritize",
+        "宾语或表语": "the protection of Mauna Kea's fragile ecosystems",
+        "主干翻译": "他们并不总是优先考虑对莫纳克亚山脆弱生态系统的保护。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "its holiness to the islands' inhabitants",
+          "修饰对象": "protection",
+          "中文翻译": "它对岛上居民的神圣性",
+          "说明": "与 the protection 并列，作 prioritize 的宾语"
+        }
+      ],
+      "zh": "他们并不总是优先考虑保护莫纳克亚山脆弱的生态系统，也不总是顾及它对岛上居民的神圣意义。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2017-text2-s13",
+      "s": "Hawaiian culture is not a relic of the past; it is a living culture undergoing a renaissance today.",
+      "para_no": 4,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "Hawaiian culture; it",
+        "谓语": "is not; is",
+        "宾语或表语": "a relic of the past; a living culture",
+        "主干翻译": "夏威夷文化不是过去的遗物；它是一种鲜活的文化。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "Hawaiian culture is not a relic of the past",
+          "修饰对象": "is",
+          "中文翻译": "夏威夷文化不是过去的遗物",
+          "说明": "分号前的分句，作整体陈述（依 k 标注为表语/宾语从句节点）"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "undergoing a renaissance today",
+          "修饰对象": "culture",
+          "中文翻译": "如今正经历复兴的",
+          "说明": "现在分词短语作定语，修饰 living culture"
+        }
+      ],
+      "zh": "夏威夷文化并非过去的遗物；它是一种如今正在经历复兴的鲜活文化。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2017-text2-s14",
+      "s": "Yet science has a cultural history, too, with roots going back to the dawn of civilization.",
+      "para_no": 5,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "science",
+        "谓语": "has",
+        "宾语或表语": "a cultural history",
+        "主干翻译": "科学也有一段文化史。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "with roots going back to the dawn of civilization",
+          "修饰对象": "history",
+          "中文翻译": "其根源可追溯到文明的曙光",
+          "说明": "with 复合结构作状语/定语，说明 cultural history"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "going back to the dawn of civilization",
+          "修饰对象": "roots",
+          "中文翻译": "可追溯到文明曙光的",
+          "说明": "现在分词短语作定语，修饰 roots"
+        }
+      ],
+      "zh": "然而，科学同样有一段文化史，其根源可追溯到文明的曙光。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2017-text2-s15",
+      "s": "The same curiosity to find what lies beyond the horizon that first brought early Polynesians to Hawaii's shores inspires astronomers today to explore the heavens.",
+      "para_no": 5,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "The same curiosity",
+        "谓语": "inspires",
+        "宾语或表语": "astronomers",
+        "主干翻译": "同样的好奇心激励着天文学家。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to find what lies beyond the horizon",
+          "修饰对象": "curiosity",
+          "中文翻译": "想要探明地平线之外有何物的",
+          "说明": "不定式作定语，修饰 curiosity"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "what lies beyond the horizon",
+          "修饰对象": "find",
+          "中文翻译": "地平线之外有什么",
+          "说明": "what 引导，作 find 的宾语"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that first brought early Polynesians to Hawaii's shores",
+          "修饰对象": "curiosity",
+          "中文翻译": "最初将早期波利尼西亚人带到夏威夷海岸的",
+          "说明": "that 引导，修饰 curiosity"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to explore the heavens",
+          "修饰对象": "inspires",
+          "中文翻译": "去探索天空",
+          "说明": "不定式作 inspires...to 的补足语"
+        }
+      ],
+      "zh": "当初将早期波利尼西亚人带到夏威夷海岸、想要探明地平线之外世界的那同一份好奇心，如今正激励着天文学家去探索星空。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2017-text2-s16",
+      "s": "Calls to disassemble all telescopes on Mauna Kea or to ban future development there ignore the reality that astronomy and Hawaiian culture both seek to answer big questions about who we are, where we come from and where we are going.",
+      "para_no": 5,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Calls",
+        "谓语": "ignore",
+        "宾语或表语": "the reality",
+        "主干翻译": "这些呼声忽视了一个事实。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to disassemble all telescopes on Mauna Kea or to ban future development there",
+          "修饰对象": "Calls",
+          "中文翻译": "拆除莫纳克亚山上所有望远镜或禁止在那里进行未来开发的",
+          "说明": "不定式作定语，修饰 Calls"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "to ban future development there",
+          "修饰对象": "disassemble",
+          "中文翻译": "禁止在那里进行未来开发",
+          "说明": "与 to disassemble 并列"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "that astronomy and Hawaiian culture both seek to answer big questions about who we are, where we come from and where we are going",
+          "修饰对象": "reality",
+          "中文翻译": "天文学和夏威夷文化都试图回答关于我们是谁、来自何处、去向何方的重大问题",
+          "说明": "that 引导，作 reality 的同位语从句"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to answer big questions about who we are, where we come from and where we are going",
+          "修饰对象": "seek",
+          "中文翻译": "回答关于我们是谁、来自何处、去向何方的重大问题",
+          "说明": "不定式作 seek 的宾语补足语；含 who/where 引导的并列宾语从句"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "where we come from and where we are going",
+          "修饰对象": "are",
+          "中文翻译": "我们来自何处、去向何方",
+          "说明": "与 who we are 并列，作 about 的宾语"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "where we are going",
+          "修饰对象": "come",
+          "中文翻译": "我们去向何方",
+          "说明": "与 where we come from 并列"
+        }
+      ],
+      "zh": "那些要求拆除莫纳克亚山上所有望远镜或禁止在那里进行未来开发的呼声，忽视了这样一个事实：天文学和夏威夷文化都试图回答关于我们是谁、来自何处、去向何方的重大问题。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2017-text2-s17",
+      "s": "Perhaps that is why we explore the starry skies, as if answering a primal calling to know ourselves and our true ancestral homes.",
+      "para_no": 5,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "that",
+        "谓语": "is",
+        "宾语或表语": "why we explore the starry skies",
+        "主干翻译": "也许这就是我们探索星空的原因。"
+      },
+      "components": [
+        {
+          "成分类型": "表语从句",
+          "原文": "why we explore the starry skies, as if answering a primal calling to know ourselves and our true ancestral homes",
+          "修饰对象": "is",
+          "中文翻译": "我们探索星空的原因，仿佛是在回应一种了解自己和我们真正祖先家园的原始召唤",
+          "说明": "why 引导，作 is 的表语"
+        },
+        {
+          "成分类型": "状语从句(方式)",
+          "原文": "as if answering a primal calling to know ourselves and our true ancestral homes",
+          "修饰对象": "explore",
+          "中文翻译": "仿佛在回应一种原始的召唤",
+          "说明": "as if 引导方式状语（省略主谓的分词结构），修饰 explore"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to know ourselves and our true ancestral homes",
+          "修饰对象": "calling",
+          "中文翻译": "去了解我们自己和我们真正祖先家园的",
+          "说明": "不定式作定语，修饰 calling"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "our true ancestral homes",
+          "修饰对象": "ourselves",
+          "中文翻译": "我们真正的祖先家园",
+          "说明": "与 ourselves 并列，作 know 的宾语"
+        }
+      ],
+      "zh": "也许这正是我们探索璀璨星空的原因，仿佛是在回应一种了解自己和我们真正祖先家园的原始召唤。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2017-text2-s18",
+      "s": "The astronomy community is making compromises to change its use of Mauna Kea.",
+      "para_no": 6,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The astronomy community",
+        "谓语": "is making",
+        "宾语或表语": "compromises",
+        "主干翻译": "天文学界正在做出妥协。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to change its use of Mauna Kea",
+          "修饰对象": "making",
+          "中文翻译": "以改变对莫纳克亚山的使用方式",
+          "说明": "不定式作目的状语，修饰 making"
+        }
+      ],
+      "zh": "天文学界正在做出妥协，以改变其对莫纳克亚山的使用方式。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2017-text2-s19",
+      "s": "The TMT site was chosen to minimize the telescope's visibility around the island and to avoid archaeological and environmental impact.",
+      "para_no": 6,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "The TMT site",
+        "谓语": "was chosen",
+        "宾语或表语": "—",
+        "主干翻译": "TMT的选址是经过挑选的。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to minimize the telescope's visibility around the island and to avoid archaeological and environmental impact",
+          "修饰对象": "chosen",
+          "中文翻译": "以尽量减少望远镜在岛屿周围的可见度，并避免对考古和环境的影响",
+          "说明": "不定式作目的状语，修饰 chosen"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "to avoid archaeological and environmental impact",
+          "修饰对象": "minimize",
+          "中文翻译": "避免对考古和环境的影响",
+          "说明": "与 to minimize 并列"
+        }
+      ],
+      "zh": "选择TMT的选址是为了尽量减少望远镜在岛屿周围的可见度，并避免对考古和环境造成影响。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2017-text2-s20",
+      "s": "To limit the number of telescopes on Mauna Kea, old ones will be removed at the end of their lifetimes and their sites returned to a natural state.",
+      "para_no": 6,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "old ones",
+        "谓语": "will be removed",
+        "宾语或表语": "—",
+        "主干翻译": "旧的望远镜将被拆除。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "To limit the number of telescopes on Mauna Kea",
+          "修饰对象": "removed",
+          "中文翻译": "为了限制莫纳克亚山上望远镜的数量",
+          "说明": "不定式作目的状语，置于句首"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "their sites returned to a natural state",
+          "修饰对象": "removed",
+          "中文翻译": "它们的场地（将被）恢复到自然状态",
+          "说明": "与前一分句并列，承前省略 will be"
+        }
+      ],
+      "zh": "为了限制莫纳克亚山上望远镜的数量，旧的望远镜将在其使用寿命结束时被拆除，其场地也将恢复到自然状态。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2017-text2-s21",
+      "s": "There is no reason why everyone cannot be welcomed on Mauna Kea to embrace their cultural heritage and to study the stars.",
+      "para_no": 6,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "no reason",
+        "谓语": "There is",
+        "宾语或表语": "—",
+        "主干翻译": "没有任何理由。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "why everyone cannot be welcomed on Mauna Kea to embrace their cultural heritage and to study the stars",
+          "修饰对象": "reason",
+          "中文翻译": "为什么不能欢迎每个人到莫纳克亚山上去拥抱自己的文化遗产并研究星辰",
+          "说明": "why 引导定语从句，修饰 reason"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to embrace their cultural heritage and to study the stars",
+          "修饰对象": "welcomed",
+          "中文翻译": "去拥抱自己的文化遗产并研究星辰",
+          "说明": "不定式作目的状语，修饰 welcomed"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "to study the stars",
+          "修饰对象": "embrace",
+          "中文翻译": "研究星辰",
+          "说明": "与 to embrace 并列"
+        }
+      ],
+      "zh": "没有任何理由不能欢迎每个人来到莫纳克亚山，去拥抱自己的文化遗产并研究星辰。",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2017-text2-s1",
+        "en1-2017-text2-s2",
+        "en1-2017-text2-s3",
+        "en1-2017-text2-s4"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2017-text2-s5",
+        "en1-2017-text2-s6",
+        "en1-2017-text2-s7"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2017-text2-s8",
+        "en1-2017-text2-s9"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2017-text2-s10",
+        "en1-2017-text2-s11",
+        "en1-2017-text2-s12",
+        "en1-2017-text2-s13"
+      ]
+    },
+    {
+      "para_no": 5,
+      "sids": [
+        "en1-2017-text2-s14",
+        "en1-2017-text2-s15",
+        "en1-2017-text2-s16",
+        "en1-2017-text2-s17"
+      ]
+    },
+    {
+      "para_no": 6,
+      "sids": [
+        "en1-2017-text2-s18",
+        "en1-2017-text2-s19",
+        "en1-2017-text2-s20",
+        "en1-2017-text2-s21"
+      ]
+    }
+  ]
+}

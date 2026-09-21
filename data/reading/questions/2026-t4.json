@@ -1,0 +1,84 @@
+[
+  {
+    "id": 36,
+    "qNo": 1,
+    "stem": "According to Paragraph 1, Swetnam was surprised by ____",
+    "choices": [
+      "the scarcity of tree-ring research in the U.S.",
+      "the firefighting measures in ancient Europe.",
+      "the forest management practices in the 1970s.",
+      "the number of wildfires in precolonial times."
+    ],
+    "answer": "D",
+    "analysis": "根据第一段内容，Swetnam在研究树木年轮时发现了殖民者到来之前的森林中存在大量火灾的记录，这让他感到惊讶。\nA. 选项提到美国缺乏树木年轮研究，但文章并未提及这一点。\nB. 选项提到古代欧洲的灭火措施，与文章内容无关。\nC. 选项提到20世纪70年代的森林管理实践，但文章并未提到他对这一点感到惊讶。\nD. 正确选项。文章提到Swetnam发现殖民者到来之前森林中有大量火灾记录，这与选项内容一致。",
+    "anchors": [
+      "en1-2026-text4-s1",
+      "en1-2026-text4-s2"
+    ]
+  },
+  {
+    "id": 37,
+    "qNo": 2,
+    "stem": "Paragraph 2 mainly focuses on ____",
+    "choices": [
+      "the causes of previous burns.",
+      "the treatment of diseased trees.",
+      "the benefits of low-severity fires.",
+      "the importance of forest ecosystems."
+    ],
+    "answer": "C",
+    "analysis": "第二段主要讨论低强度火灾对生态系统的益处，包括清除病树、减少竞争和抑制疾病传播。\nA. 选项提到火灾的原因，但文章并未集中讨论这一点。\nB. 选项提到病树的处理，但文章仅提到低强度火灾清除病树，并未详细讨论处理方法。\nC. 正确选项。文章集中讨论了低强度火灾对生态系统的多种益处。\nD. 选项提到森林生态系统的重要性，但文章并未直接讨论这一主题。",
+    "anchors": [
+      "en1-2026-text4-s4",
+      "en1-2026-text4-s5"
+    ]
+  },
+  {
+    "id": 38,
+    "qNo": 3,
+    "stem": "What did the study find about the wildfires over the past few decades?",
+    "choices": [
+      "Their intensity has vastly fluctuated.",
+      "Their frequency has markedly decreased.",
+      "Their threats have been underestimated.",
+      "Their records have been misinterpreted."
+    ],
+    "answer": "B",
+    "analysis": "根据第三段内容，研究发现过去几十年的火灾频率显著减少，远低于预期水平。\nA. 选项提到火灾强度的波动，但文章并未提到这一点。\nB. 正确选项。文章明确指出过去几十年的火灾频率显著减少，低于预期水平。\nC. 选项提到火灾威胁被低估，但文章并未讨论这一点。\nD. 选项提到火灾记录被误解，但文章并未提到记录被误解的情况。",
+    "anchors": [
+      "en1-2026-text4-s3"
+    ]
+  },
+  {
+    "id": 39,
+    "qNo": 4,
+    "stem": "What can be inferred about modern firefighting?",
+    "choices": [
+      "Its workforce needs more training.",
+      "Its effectiveness is questioned by the public.",
+      "It may render traditional tactics useless.",
+      "It may make severe fires harder to put out."
+    ],
+    "answer": "D",
+    "analysis": "根据第四段内容，现代灭火措施虽然有效，但与气候变化的结合削弱了人类应对严重火灾的能力。\nA. 选项提到需要更多培训，但文章并未提到这一点。\nB. 选项提到公众质疑其有效性，但文章并未提到公众的态度。\nC. 选项提到传统战术可能失效，但文章并未提到这一点。\nD. 正确选项。文章提到现代灭火措施和气候变化的结合使得应对严重火灾更加困难。",
+    "anchors": [
+      "en1-2026-text4-s4"
+    ]
+  },
+  {
+    "id": 40,
+    "qNo": 5,
+    "stem": "Both Martin and Prichard would agree that ____",
+    "choices": [
+      "it is challenging to predict large wildfires.",
+      "it is urgent to assess the use of planned fires.",
+      "it is necessary to introduce prescribed burns.",
+      "it is rewarding to double fire detection efforts."
+    ],
+    "answer": "C",
+    "analysis": "根据第五段和第六段内容，Martin和Prichard都提到引入计划性火灾（prescribed burns）是必要的，以改善生态系统并应对气候变化带来的挑战。\nA. 选项提到预测大规模火灾的挑战，但文章并未提到这一点。\nB. 选项提到评估计划性火灾的使用，但文章并未提到需要评估。\nC. 正确选项。Martin和Prichard都提到计划性火灾的重要性和必要性。\nD. 选项提到加强火灾检测，但文章并未提到这一点。",
+    "anchors": [
+      "en1-2026-text4-s5"
+    ]
+  }
+]

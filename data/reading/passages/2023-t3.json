@@ -1,0 +1,668 @@
+{
+  "exam": "en1",
+  "key": "2023-t3",
+  "year": 2023,
+  "text_no": 3,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2023-text3-s1",
+      "s": "If you're heading for your nearest branch of Waterstones, the biggest book retailer in the UK, in search of the Duchess of Sussex's new children's book The Bench, you might have to be prepared to hunt around a bit; the same may be true of The President's Daughter, the new thriller by Bill Clinton and James Patterson.",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "you",
+        "谓语": "might have to be prepared",
+        "宾语或表语": "to hunt around a bit",
+        "主干翻译": "你可能得做好四处寻找一番的准备。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "If you're heading for your nearest branch of Waterstones, the biggest book retailer in the UK, in search of the Duchess of Sussex's new children's book The Bench",
+          "修饰对象": "have",
+          "中文翻译": "如果你正前往离你最近的水石书店（英国最大的图书零售商）门店，寻找苏塞克斯公爵夫人新出的儿童读物《长椅》",
+          "说明": "If 引导条件状语从句，修饰主句谓语 have to be prepared"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "the biggest book retailer in the UK",
+          "修饰对象": "Waterstones",
+          "中文翻译": "英国最大的图书零售商",
+          "说明": "对 Waterstones 的同位语插入说明，含介词短语 in the UK 作定语"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "The Bench",
+          "修饰对象": "book",
+          "中文翻译": "《长椅》",
+          "说明": "书名作 children's book 的同位语，点明书名"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "in search of the Duchess of Sussex's new children's book The Bench",
+          "修饰对象": "heading",
+          "中文翻译": "为寻找苏塞克斯公爵夫人新出的儿童读物《长椅》",
+          "说明": "介词短语作目的状语，修饰从句谓语 heading"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to be prepared to hunt around a bit",
+          "修饰对象": "have",
+          "中文翻译": "做好四处寻找一番的准备",
+          "说明": "have to 后的不定式作主句谓语补足，内嵌 to hunt 作 prepared 的补足"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "the same may be true of The President's Daughter, the new thriller by Bill Clinton and James Patterson",
+          "修饰对象": "—",
+          "中文翻译": "对于《总统的女儿》——比尔·克林顿与詹姆斯·帕特森合著的新惊悚小说——情况可能也是如此",
+          "说明": "分号后与前句并列的独立分句，含对 The President's Daughter 的同位语插入说明"
+        }
+      ],
+      "zh": "如果你正前往离你最近的水石书店（英国最大的图书零售商）门店，去寻找苏塞克斯公爵夫人新出的儿童读物《长椅》，那你可能得做好四处搜寻一番的准备；对于比尔·克林顿与詹姆斯·帕特森合著的新惊悚小说《总统的女儿》，情况可能也是如此。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2023-text3-s2",
+      "s": "Both of these books are published next week by Penguin Random House (PRH), a company currently involved in a stand-off with Waterstones.",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Both of these books",
+        "谓语": "are published",
+        "宾语或表语": "—",
+        "主干翻译": "这两本书都将出版。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "next week by Penguin Random House (PRH)",
+          "修饰对象": "published",
+          "中文翻译": "下周由企鹅兰登书屋（PRH）出版",
+          "说明": "时间状语 next week 与方式/施事状语 by ... 共同修饰谓语 published；(PRH) 为缩写同位说明"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "a company currently involved in a stand-off with Waterstones",
+          "修饰对象": "House",
+          "中文翻译": "一家目前正与水石书店陷入僵局的公司",
+          "说明": "对 Penguin Random House 的同位语，含过去分词短语作定语"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "currently involved in a stand-off with Waterstones",
+          "修饰对象": "company",
+          "中文翻译": "目前正与水石书店陷入僵局的",
+          "说明": "过去分词短语作 a company 的后置定语"
+        }
+      ],
+      "zh": "这两本书都将于下周由企鹅兰登书屋（PRH）出版，而这家公司目前正与水石书店陷入僵局。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2023-text3-s3",
+      "s": "The problem began late last year, when PRH confirmed that it had introduced a credit limit with Waterstones \"at a very significant level\".",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The problem",
+        "谓语": "began",
+        "宾语或表语": "—",
+        "主干翻译": "问题开始出现。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "late last year",
+          "修饰对象": "began",
+          "中文翻译": "去年年底",
+          "说明": "时间状语，修饰谓语 began"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "when PRH confirmed that it had introduced a credit limit with Waterstones \"at a very significant level\"",
+          "修饰对象": "year",
+          "中文翻译": "那时企鹅兰登书屋证实，它对水石书店设定了一个“相当高的”信贷额度",
+          "说明": "when 引导的定语从句修饰 last year（时间先行词）"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that it had introduced a credit limit with Waterstones \"at a very significant level\"",
+          "修饰对象": "confirmed",
+          "中文翻译": "它对水石书店设定了一个“相当高的”信贷额度",
+          "说明": "that 引导，作 confirmed 的宾语"
+        }
+      ],
+      "zh": "问题始于去年年底，当时企鹅兰登书屋证实，它对水石书店设定了一个“相当高的”信贷额度。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2023-text3-s4",
+      "s": "The trade magazine The Bookseller reported that Waterstones branch managers were being told to remove PRH books from prominent areas such as tables, display spaces and windows, and were \"quietly retiring them to their relevant sections\".",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "The trade magazine The Bookseller",
+        "谓语": "reported",
+        "宾语或表语": "that ... (宾语从句)",
+        "主干翻译": "行业杂志《书商》报道说……。"
+      },
+      "components": [
+        {
+          "成分类型": "同位语从句",
+          "原文": "The Bookseller",
+          "修饰对象": "magazine",
+          "中文翻译": "《书商》",
+          "说明": "杂志名作 The trade magazine 的同位语"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that Waterstones branch managers were being told to remove PRH books from prominent areas such as tables, display spaces and windows, and were \"quietly retiring them to their relevant sections\"",
+          "修饰对象": "reported",
+          "中文翻译": "水石书店各门店经理被要求把企鹅兰登书屋的书从桌子、陈列区和橱窗等显眼位置撤下，并“悄悄把它们归回各自相应的分区”",
+          "说明": "that 引导，作 reported 的宾语，内部含两个并列谓语"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to remove PRH books from prominent areas such as tables, display spaces and windows",
+          "修饰对象": "told",
+          "中文翻译": "把企鹅兰登书屋的书从桌子、陈列区和橱窗等显眼位置撤下",
+          "说明": "不定式作 were being told 的宾语补足语"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "tables, display spaces and windows",
+          "修饰对象": "areas",
+          "中文翻译": "桌子、陈列区和橱窗",
+          "说明": "such as 后的并列名词，列举 prominent areas"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "were \"quietly retiring them to their relevant sections\"",
+          "修饰对象": "told",
+          "中文翻译": "正“悄悄把它们归回各自相应的分区”",
+          "说明": "与 were being told 并列的第二个谓语，主语同为 branch managers"
+        }
+      ],
+      "zh": "行业杂志《书商》报道说，水石书店各门店经理被要求把企鹅兰登书屋的书从桌子、陈列区和橱窗等显眼位置撤下，并“悄悄把它们归回各自相应的分区”。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2023-text3-s5",
+      "s": "PRH declined to comment on the issue, but a spokesperson for Waterstones told me: \"Waterstones are currently operating with reduced credit terms from PRH, the only publisher in the UK to place any limitations on our ability to trade.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "PRH / a spokesperson",
+        "谓语": "declined / told",
+        "宾语或表语": "to comment / me + 宾语从句",
+        "主干翻译": "企鹅兰登书屋拒绝置评，但水石书店的一位发言人告诉我……。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to comment on the issue",
+          "修饰对象": "declined",
+          "中文翻译": "就此事置评",
+          "说明": "不定式作 declined 的宾语"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "but a spokesperson for Waterstones told me",
+          "修饰对象": "—",
+          "中文翻译": "但水石书店的一位发言人告诉我",
+          "说明": "but 连接的并列分句，与 PRH declined 并列"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "Waterstones are currently operating with reduced credit terms from PRH, the only publisher in the UK to place any limitations on our ability to trade",
+          "修饰对象": "told",
+          "中文翻译": "水石书店目前在企鹅兰登书屋削减后的信贷条件下运营，而它是英国唯一一家对我们的经营能力施加任何限制的出版社",
+          "说明": "直接引语作 told 的宾语内容"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "the only publisher in the UK to place any limitations on our ability to trade",
+          "修饰对象": "PRH",
+          "中文翻译": "英国唯一一家对我们的经营能力施加任何限制的出版社",
+          "说明": "对 PRH 的同位语"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to place any limitations on our ability to trade",
+          "修饰对象": "publisher",
+          "中文翻译": "对我们的经营能力施加任何限制的",
+          "说明": "不定式作 the only publisher 的后置定语"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to trade",
+          "修饰对象": "ability",
+          "中文翻译": "经营（贸易）的",
+          "说明": "不定式作 ability 的后置定语"
+        }
+      ],
+      "zh": "企鹅兰登书屋拒绝就此事置评，但水石书店的一位发言人告诉我：“水石书店目前在企鹅兰登书屋削减后的信贷条件下运营，而它是英国唯一一家对我们的经营能力施加任何限制的出版社。”",
+      "underline": null
+    },
+    {
+      "sid": "en1-2023-text3-s6",
+      "s": "We are not boycotting PRH titles but we are doing our utmost to ensure that availability for customers remains good despite the lower overall levels of stock.\"",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "We",
+        "谓语": "are not boycotting / are doing",
+        "宾语或表语": "PRH titles / our utmost",
+        "主干翻译": "我们并未抵制企鹅兰登书屋的书，而是在竭尽全力。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "but we are doing our utmost to ensure that availability for customers remains good despite the lower overall levels of stock",
+          "修饰对象": "—",
+          "中文翻译": "而是在竭尽全力，以确保尽管总体库存水平下降，面向顾客的供货仍然良好",
+          "说明": "but 连接的并列分句"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to ensure that availability for customers remains good despite the lower overall levels of stock",
+          "修饰对象": "doing",
+          "中文翻译": "以确保尽管总体库存水平下降，面向顾客的供货仍然良好",
+          "说明": "不定式作目的状语，修饰 are doing our utmost"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that availability for customers remains good despite the lower overall levels of stock",
+          "修饰对象": "ensure",
+          "中文翻译": "尽管总体库存水平下降，面向顾客的供货仍然良好",
+          "说明": "that 引导，作 ensure 的宾语；内含 despite 介词短语作让步状语"
+        }
+      ],
+      "zh": "我们并未抵制企鹅兰登书屋的书，而是在竭尽全力，以确保尽管整体库存水平有所下降，面向顾客的供货仍然充足。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2023-text3-s7",
+      "s": "\"We are hopeful with our shops now open again that normality will return and that we will be allowed to buy appropriately.",
+      "para_no": 3,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "We",
+        "谓语": "are",
+        "宾语或表语": "hopeful",
+        "主干翻译": "我们抱有希望。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "with our shops now open again",
+          "修饰对象": "are",
+          "中文翻译": "随着我们的门店现已重新开业",
+          "说明": "with 引导的独立主格结构作伴随/原因状语"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that normality will return",
+          "修饰对象": "hopeful",
+          "中文翻译": "常态将会回归",
+          "说明": "that 引导，作形容词 hopeful 的内容宾语从句（第一个）"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "that we will be allowed to buy appropriately",
+          "修饰对象": "hopeful",
+          "中文翻译": "我们将获准适当进货",
+          "说明": "and 连接的第二个 that 从句，与前一从句并列，同作 hopeful 的内容"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to buy appropriately",
+          "修饰对象": "allowed",
+          "中文翻译": "适当进货",
+          "说明": "不定式作 be allowed 的补足语"
+        }
+      ],
+      "zh": "“随着我们的门店现已重新开业，我们满怀希望，常态将会回归，我们也将获准适当进货。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2023-text3-s8",
+      "s": "Certainly, our shops are exceptionally busy.",
+      "para_no": 3,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "our shops",
+        "谓语": "are",
+        "宾语或表语": "exceptionally busy",
+        "主干翻译": "我们的门店异常繁忙。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "Certainly",
+          "修饰对象": "—",
+          "中文翻译": "当然",
+          "说明": "句首副词作评注性状语/插入语"
+        }
+      ],
+      "zh": "当然，我们的门店异常繁忙。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2023-text3-s9",
+      "s": "The sales for our May Books of the Month surpassed any month since 2018.\"",
+      "para_no": 3,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "The sales for our May Books of the Month",
+        "谓语": "surpassed",
+        "宾语或表语": "any month",
+        "主干翻译": "我们五月“本月好书”的销量超过了任何一个月份。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "since 2018",
+          "修饰对象": "month",
+          "中文翻译": "自2018年以来",
+          "说明": "时间状语，限定 any month 的范围"
+        }
+      ],
+      "zh": "我们五月份“本月好书”的销量超过了自2018年以来的任何一个月份。”",
+      "underline": null
+    },
+    {
+      "sid": "en1-2023-text3-s10",
+      "s": "In the meantime, PRH authors have been the losers.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "PRH authors",
+        "谓语": "have been",
+        "宾语或表语": "the losers",
+        "主干翻译": "企鹅兰登书屋的作者一直是输家。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "In the meantime",
+          "修饰对象": "have been",
+          "中文翻译": "与此同时",
+          "说明": "句首介词短语作时间状语"
+        }
+      ],
+      "zh": "与此同时，企鹅兰登书屋的作者们一直是输家。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2023-text3-s11",
+      "s": "Big-name PRH authors may suffer a bit, but it's those mid-list authors, who normally rely on Waterstones staff's passion for promoting books by lesser-known writers, who will be praying for an end to the dispute.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Big-name PRH authors / it",
+        "谓语": "may suffer / is",
+        "宾语或表语": "a bit / those mid-list authors",
+        "主干翻译": "知名的企鹅兰登书屋作者可能会受些影响，但真正的是那些中等知名度的作者。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "but it's those mid-list authors, who normally rely on Waterstones staff's passion for promoting books by lesser-known writers, who will be praying for an end to the dispute",
+          "修饰对象": "—",
+          "中文翻译": "但正是那些中等知名度的作者……才会祈盼这场纷争结束",
+          "说明": "but 连接的并列分句，且为 it is ... who 强调句式"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "who normally rely on Waterstones staff's passion for promoting books by lesser-known writers",
+          "修饰对象": "authors",
+          "中文翻译": "他们通常依赖水石书店员工热衷于推介知名度较低作家的书",
+          "说明": "who 引导的非限制性定语从句，修饰 those mid-list authors"
+        },
+        {
+          "成分类型": "强调句",
+          "原文": "who will be praying for an end to the dispute",
+          "修饰对象": "authors",
+          "中文翻译": "（正是这些人）才会祈盼这场纷争结束",
+          "说明": "it's those mid-list authors ... who ... 强调句结构的第二个 who 分句，强调主语 those mid-list authors"
+        }
+      ],
+      "zh": "知名的企鹅兰登书屋作者或许会受些影响，但真正会祈盼这场纷争尽快结束的，是那些中等知名度的作者——他们通常依赖水石书店员工热衷于推介知名度较低作家书籍的那份热情。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2023-text3-s12",
+      "s": "It comes at a time when authors are already worried about the consequences of the proposed merger between PRH and another big publisher, Simon & Schuster — the reduction in the number of unaligned UK publishers is likely to lead to fewer bidding wars, lower advances, and more conformity in terms of what is published.",
+      "para_no": 5,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "It",
+        "谓语": "comes",
+        "宾语或表语": "at a time",
+        "主干翻译": "这件事发生在一个特定的时刻。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "when authors are already worried about the consequences of the proposed merger between PRH and another big publisher, Simon & Schuster",
+          "修饰对象": "time",
+          "中文翻译": "那时作者们已经在担忧企鹅兰登书屋与另一家大出版社西蒙与舒斯特拟议合并所带来的后果",
+          "说明": "when 引导定语从句，修饰 a time"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "Simon & Schuster",
+          "修饰对象": "publisher",
+          "中文翻译": "西蒙与舒斯特",
+          "说明": "对 another big publisher 的同位语"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "the reduction in the number of unaligned UK publishers is likely to lead to fewer bidding wars, lower advances, and more conformity in terms of what is published",
+          "修饰对象": "—",
+          "中文翻译": "英国独立（未结盟）出版社数量的减少很可能导致竞价大战减少、预付稿酬降低、以及出版内容上更趋同",
+          "说明": "破折号后的独立分句，对前文作补充说明；含 is likely to 的不定式补足"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "fewer bidding wars, lower advances, and more conformity in terms of what is published",
+          "修饰对象": "lead",
+          "中文翻译": "竞价大战减少、预付稿酬降低以及出版内容更趋同",
+          "说明": "lead to 后的三项并列宾语；末项含 what 引导的宾语从句 what is published"
+        }
+      ],
+      "zh": "这件事发生之际，作者们已经在担忧企鹅兰登书屋与另一家大出版社西蒙与舒斯特拟议合并所带来的后果——英国独立出版社数量的减少很可能导致竞价大战减少、预付稿酬降低，以及出版内容上更趋同。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2023-text3-s13",
+      "s": "\"This is all part of a wider change towards concentration of power,\" says literary agent Andrew Lownie.",
+      "para_no": 6,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "literary agent Andrew Lownie",
+        "谓语": "says",
+        "宾语或表语": "This is all part of a wider change ... (直接引语)",
+        "主干翻译": "文学经纪人安德鲁·朗尼说……。"
+      },
+      "components": [
+        {
+          "成分类型": "倒装",
+          "原文": "says literary agent Andrew Lownie",
+          "修饰对象": "—",
+          "中文翻译": "文学经纪人安德鲁·朗尼说",
+          "说明": "引语后的引述句，谓语 says 置于主语之前，构成主谓倒装"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "This is all part of a wider change towards concentration of power",
+          "修饰对象": "says",
+          "中文翻译": "这一切都是权力集中这一更大趋势的一部分",
+          "说明": "直接引语作 says 的宾语内容"
+        }
+      ],
+      "zh": "“这一切都是权力日益集中这一更大趋势的一部分，”文学经纪人安德鲁·朗尼说。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2023-text3-s14",
+      "s": "\"The publishing industry talks about diversity in terms of authors and staff but it also needs a plurality of ways of delivering intellectual contact, choice and different voices.",
+      "para_no": 6,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "The publishing industry / it",
+        "谓语": "talks / needs",
+        "宾语或表语": "about diversity / a plurality of ways",
+        "主干翻译": "出版业谈论多样性，但它也需要多元的途径。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "in terms of authors and staff",
+          "修饰对象": "talks",
+          "中文翻译": "在作者和员工方面",
+          "说明": "介词短语作状语，限定 talks about diversity 的范围"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "but it also needs a plurality of ways of delivering intellectual contact, choice and different voices",
+          "修饰对象": "—",
+          "中文翻译": "但它也需要多元的途径来传递智识交流、选择与不同的声音",
+          "说明": "but 连接的并列分句"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "intellectual contact, choice and different voices",
+          "修饰对象": "delivering",
+          "中文翻译": "智识交流、选择与不同的声音",
+          "说明": "delivering 的三项并列宾语"
+        }
+      ],
+      "zh": "“出版业在作者和员工方面大谈多样性，但它也需要有多元化的途径，以传递智识交流、（多样的）选择和不同的声音。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2023-text3-s15",
+      "s": "After all, many of the most interesting books in recent years have come from small publishers.\"",
+      "para_no": 6,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "many of the most interesting books",
+        "谓语": "have come",
+        "宾语或表语": "from small publishers",
+        "主干翻译": "许多最有趣的书都来自小出版社。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "After all",
+          "修饰对象": "—",
+          "中文翻译": "毕竟",
+          "说明": "句首插入语，引出原因性总结"
+        },
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "in recent years",
+          "修饰对象": "books",
+          "中文翻译": "近年来",
+          "说明": "时间状语，限定范围"
+        }
+      ],
+      "zh": "毕竟，近年来许多最有趣的书都出自小出版社。”",
+      "underline": null
+    },
+    {
+      "sid": "en1-2023-text3-s16",
+      "s": "We shall see whether that plurality is a casualty of the current need among publishers to be big enough to take on all-comers.",
+      "para_no": 7,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "We",
+        "谓语": "shall see",
+        "宾语或表语": "whether ... (宾语从句)",
+        "主干翻译": "我们将拭目以待……。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "whether that plurality is a casualty of the current need among publishers to be big enough to take on all-comers",
+          "修饰对象": "see",
+          "中文翻译": "那种多元性是否会成为出版商当前“必须做大到足以迎战所有对手”这一需求的牺牲品",
+          "说明": "whether 引导，作 see 的宾语"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to be big enough to take on all-comers",
+          "修饰对象": "need",
+          "中文翻译": "做大到足以迎战所有对手的",
+          "说明": "不定式作 the current need 的后置定语"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to take on all-comers",
+          "修饰对象": "big",
+          "中文翻译": "足以迎战所有来犯者",
+          "说明": "enough to 结构，不定式作 big enough 的结果/程度状语"
+        }
+      ],
+      "zh": "至于那种多元性是否会成为出版商当前“必须做大到足以迎战所有对手”这一需求的牺牲品，我们将拭目以待。",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2023-text3-s1",
+        "en1-2023-text3-s2"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2023-text3-s3",
+        "en1-2023-text3-s4"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2023-text3-s5",
+        "en1-2023-text3-s6",
+        "en1-2023-text3-s7",
+        "en1-2023-text3-s8",
+        "en1-2023-text3-s9"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2023-text3-s10",
+        "en1-2023-text3-s11"
+      ]
+    },
+    {
+      "para_no": 5,
+      "sids": [
+        "en1-2023-text3-s12"
+      ]
+    },
+    {
+      "para_no": 6,
+      "sids": [
+        "en1-2023-text3-s13",
+        "en1-2023-text3-s14",
+        "en1-2023-text3-s15"
+      ]
+    },
+    {
+      "para_no": 7,
+      "sids": [
+        "en1-2023-text3-s16"
+      ]
+    }
+  ]
+}

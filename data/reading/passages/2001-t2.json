@@ -1,0 +1,847 @@
+{
+  "exam": "en1",
+  "key": "2001-t2",
+  "year": 2001,
+  "text_no": 2,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2001-text2-s1",
+      "s": "A great deal of attention is being paid today to the so-called digital divide—the division of the world into the info (information) rich and the info poor.",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "A great deal of attention",
+        "谓语": "is being paid",
+        "宾语或表语": "to the so-called digital divide",
+        "主干翻译": "如今人们正对所谓的数字鸿沟给予大量关注。"
+      },
+      "components": [
+        {
+          "成分类型": "同位语从句",
+          "原文": "the division of the world into the info (information) rich and the info poor",
+          "修饰对象": "divide",
+          "中文翻译": "即把世界划分为信息富有者和信息贫乏者",
+          "说明": "破折号引出的名词短语，对digital divide作同位语进行解释说明（按规则归入同位语从句类）。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "the info (information) rich and the info poor",
+          "修饰对象": "into",
+          "中文翻译": "信息富有者和信息贫乏者",
+          "说明": "由and连接的两个并列名词性短语，作介词into的宾语。"
+        }
+      ],
+      "zh": "如今，人们正对所谓的数字鸿沟给予大量关注，即把世界划分为信息富有者和信息贫乏者。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2001-text2-s2",
+      "s": "And that divide does exist today.",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "that divide",
+        "谓语": "does exist",
+        "宾语或表语": "—",
+        "主干翻译": "那种鸿沟确实存在。"
+      },
+      "components": [],
+      "zh": "而如今那种鸿沟确实存在。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2001-text2-s3",
+      "s": "My wife and I lectured about this looming danger twenty years ago.",
+      "para_no": 1,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "My wife and I",
+        "谓语": "lectured",
+        "宾语或表语": "—",
+        "主干翻译": "我和妻子作过演讲。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "about this looming danger",
+          "修饰对象": "lectured",
+          "中文翻译": "就这一迫近的危险",
+          "说明": "介词短语作状语，说明演讲的内容。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "twenty years ago",
+          "修饰对象": "lectured",
+          "中文翻译": "二十年前",
+          "说明": "时间状语，说明演讲的时间。"
+        }
+      ],
+      "zh": "二十年前，我和妻子就曾就这一迫近的危险作过演讲。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2001-text2-s4",
+      "s": "What was less visible then, however, were the new, positive forces that work against the digital divide.",
+      "para_no": 1,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "What was less visible then",
+        "谓语": "were",
+        "宾语或表语": "the new, positive forces",
+        "主干翻译": "当时不太明显的，是那些新的、积极的力量。"
+      },
+      "components": [
+        {
+          "成分类型": "主语从句",
+          "原文": "What was less visible then",
+          "修饰对象": "—",
+          "中文翻译": "当时不太明显的东西",
+          "说明": "what引导的主语从句，充当全句主语。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that work against the digital divide",
+          "修饰对象": "forces",
+          "中文翻译": "对抗数字鸿沟的",
+          "说明": "that引导的限制性定语从句，修饰表语forces。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "however",
+          "修饰对象": "—",
+          "中文翻译": "然而",
+          "说明": "插入语，表转折。"
+        }
+      ],
+      "zh": "然而，当时不太明显的，是那些对抗数字鸿沟的新的、积极的力量。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2001-text2-s5",
+      "s": "There are reasons to be optimistic.",
+      "para_no": 1,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "reasons",
+        "谓语": "are",
+        "宾语或表语": "There (存在句)",
+        "主干翻译": "有一些理由。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to be optimistic",
+          "修饰对象": "reasons",
+          "中文翻译": "乐观的",
+          "说明": "动词不定式作后置定语，修饰reasons。"
+        }
+      ],
+      "zh": "我们有理由感到乐观。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2001-text2-s6",
+      "s": "There are technological reasons to hope the digital divide will narrow.",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "technological reasons",
+        "谓语": "are",
+        "宾语或表语": "There (存在句)",
+        "主干翻译": "有一些技术上的理由。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to hope the digital divide will narrow",
+          "修饰对象": "reasons",
+          "中文翻译": "希望数字鸿沟会缩小的",
+          "说明": "动词不定式作后置定语，修饰reasons。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "the digital divide will narrow",
+          "修饰对象": "hope",
+          "中文翻译": "数字鸿沟会缩小",
+          "说明": "省略that的宾语从句，作hope的宾语。"
+        }
+      ],
+      "zh": "有一些技术上的理由让我们希望数字鸿沟会缩小。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2001-text2-s7",
+      "s": "As the Internet becomes more and more commercialized, it is in the interest of business to universalize access—after all, the more people online, the more potential customers there are.",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "it",
+        "谓语": "is",
+        "宾语或表语": "in the interest of business",
+        "主干翻译": "这符合商业利益。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "As the Internet becomes more and more commercialized",
+          "修饰对象": "is",
+          "中文翻译": "随着互联网日益商业化",
+          "说明": "as引导的时间状语从句，表伴随/随着。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to universalize access",
+          "修饰对象": "is",
+          "中文翻译": "普及（互联网）接入",
+          "说明": "不定式作真正主语（it为形式主语），说明符合商业利益的具体事项。"
+        },
+        {
+          "成分类型": "省略",
+          "原文": "the more people online, the more potential customers there are",
+          "修饰对象": "—",
+          "中文翻译": "上网的人越多，潜在的客户就越多",
+          "说明": "the more...the more...比较结构，前半句省略了be动词are，构成正比关系。"
+        }
+      ],
+      "zh": "随着互联网日益商业化，普及网络接入符合商业利益——毕竟，上网的人越多，潜在的客户就越多。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2001-text2-s8",
+      "s": "More and more governments, afraid their countries will be left behind, want to spread Internet access.",
+      "para_no": 2,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "More and more governments",
+        "谓语": "want",
+        "宾语或表语": "to spread Internet access",
+        "主干翻译": "越来越多的政府想要普及互联网接入。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "afraid their countries will be left behind",
+          "修饰对象": "want",
+          "中文翻译": "由于担心本国会被甩在后面",
+          "说明": "形容词短语作状语（相当于being afraid...），表原因，主句主语为其逻辑主语。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "their countries will be left behind",
+          "修饰对象": "afraid",
+          "中文翻译": "本国会被甩在后面",
+          "说明": "省略that的宾语从句，作形容词afraid的宾语。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to spread Internet access",
+          "修饰对象": "want",
+          "中文翻译": "普及互联网接入",
+          "说明": "不定式作want的宾语（动词补足）。"
+        }
+      ],
+      "zh": "越来越多的政府由于担心本国会被甩在后面，都想要普及互联网接入。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2001-text2-s9",
+      "s": "Within the next decade or two, one to two billion people on the planet will be netted together.",
+      "para_no": 2,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "one to two billion people",
+        "谓语": "will be netted together",
+        "宾语或表语": "—",
+        "主干翻译": "十至二十亿人将被联结在一起。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "Within the next decade or two",
+          "修饰对象": "will be netted together",
+          "中文翻译": "在未来的十到二十年内",
+          "说明": "介词短语作时间状语。"
+        },
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "on the planet",
+          "修饰对象": "people",
+          "中文翻译": "这个星球上的",
+          "说明": "介词短语作后置定语，修饰people。"
+        }
+      ],
+      "zh": "在未来的十到二十年内，这个星球上将有十至二十亿人通过网络联结在一起。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2001-text2-s10",
+      "s": "As a result, I now believe the digital divide will narrow rather than widen in the years ahead.",
+      "para_no": 2,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "I",
+        "谓语": "believe",
+        "宾语或表语": "the digital divide will narrow rather than widen",
+        "主干翻译": "我相信数字鸿沟会缩小而不是扩大。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "the digital divide will narrow rather than widen in the years ahead",
+          "修饰对象": "believe",
+          "中文翻译": "数字鸿沟在未来几年会缩小而非扩大",
+          "说明": "省略that的宾语从句，作believe的宾语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "narrow rather than widen in the years ahead",
+          "修饰对象": "divide",
+          "中文翻译": "缩小而非扩大",
+          "说明": "rather than连接的两个并列谓语动词，构成对比。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "As a result",
+          "修饰对象": "believe",
+          "中文翻译": "因此",
+          "说明": "介词短语作状语，表结果。"
+        }
+      ],
+      "zh": "因此，我现在相信，在未来几年里数字鸿沟会缩小而不是扩大。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2001-text2-s11",
+      "s": "And that is very good news because the Internet may well be the most powerful tool for combating world poverty that we've ever had.",
+      "para_no": 2,
+      "para_seq": 5,
+      "trunk": {
+        "主语": "that",
+        "谓语": "is",
+        "宾语或表语": "very good news",
+        "主干翻译": "那是非常好的消息。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(原因)",
+          "原文": "because the Internet may well be the most powerful tool for combating world poverty that we've ever had",
+          "修饰对象": "is",
+          "中文翻译": "因为互联网很可能是我们迄今拥有的对抗世界贫困的最强大工具",
+          "说明": "because引导的原因状语从句。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that we've ever had",
+          "修饰对象": "tool",
+          "中文翻译": "我们曾经拥有的",
+          "说明": "that引导的定语从句，修饰tool（先行词受最高级修饰常用that）。"
+        },
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "for combating world poverty",
+          "修饰对象": "tool",
+          "中文翻译": "用于对抗世界贫困的",
+          "说明": "介词短语作后置定语，修饰tool。"
+        }
+      ],
+      "zh": "而这是个非常好的消息，因为互联网很可能是我们迄今为止拥有的对抗世界贫困的最强大工具。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2001-text2-s12",
+      "s": "Of course, the use of the Internet isn't the only way to defeat poverty.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "the use of the Internet",
+        "谓语": "isn't",
+        "宾语或表语": "the only way",
+        "主干翻译": "使用互联网并非唯一的方法。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to defeat poverty",
+          "修饰对象": "way",
+          "中文翻译": "战胜贫困的",
+          "说明": "不定式作后置定语，修饰way。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "Of course",
+          "修饰对象": "—",
+          "中文翻译": "当然",
+          "说明": "插入语，表语气。"
+        }
+      ],
+      "zh": "当然，使用互联网并非战胜贫困的唯一方法。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2001-text2-s13",
+      "s": "And the Internet is not the only tool we have.",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "the Internet",
+        "谓语": "is not",
+        "宾语或表语": "the only tool",
+        "主干翻译": "互联网并非唯一的工具。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "we have",
+          "修饰对象": "tool",
+          "中文翻译": "我们拥有的",
+          "说明": "省略关系代词that的定语从句，修饰tool。"
+        }
+      ],
+      "zh": "而且互联网也不是我们拥有的唯一工具。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2001-text2-s14",
+      "s": "But it has enormous potential.",
+      "para_no": 3,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "it",
+        "谓语": "has",
+        "宾语或表语": "enormous potential",
+        "主干翻译": "它具有巨大的潜力。"
+      },
+      "components": [],
+      "zh": "但它具有巨大的潜力。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2001-text2-s15",
+      "s": "To take advantage of this tool, some impoverished countries will have to get over their outdated anti-colonial prejudices with respect to foreign investment.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "some impoverished countries",
+        "谓语": "will have to get over",
+        "宾语或表语": "their outdated anti-colonial prejudices",
+        "主干翻译": "一些贫困国家将不得不克服其过时的反殖民偏见。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "To take advantage of this tool",
+          "修饰对象": "have",
+          "中文翻译": "为了利用这一工具",
+          "说明": "不定式作目的状语。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to get over their outdated anti-colonial prejudices with respect to foreign investment",
+          "修饰对象": "have",
+          "中文翻译": "克服其在外国投资方面过时的反殖民偏见",
+          "说明": "不定式作have to的补足成分，构成谓语。"
+        },
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "with respect to foreign investment",
+          "修饰对象": "prejudices",
+          "中文翻译": "在外国投资方面的",
+          "说明": "介词短语作后置定语，修饰prejudices。"
+        }
+      ],
+      "zh": "为了利用这一工具，一些贫困国家将不得不克服其在外国投资方面过时的反殖民偏见。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2001-text2-s16",
+      "s": "Countries that still think foreign investment is an invasion of their sovereignty might well study the history of infrastructure (the basic structural foundations of a society) in the United States.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Countries",
+        "谓语": "might well study",
+        "宾语或表语": "the history of infrastructure",
+        "主干翻译": "一些国家或许应该好好研究基础设施的历史。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "that still think foreign investment is an invasion of their sovereignty",
+          "修饰对象": "Countries",
+          "中文翻译": "仍然认为外国投资是对其主权的侵犯的",
+          "说明": "that引导的定语从句，修饰主语Countries。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "foreign investment is an invasion of their sovereignty",
+          "修饰对象": "think",
+          "中文翻译": "外国投资是对其主权的侵犯",
+          "说明": "省略that的宾语从句，作定语从句中think的宾语。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "the basic structural foundations of a society",
+          "修饰对象": "infrastructure",
+          "中文翻译": "即一个社会的基本结构性基础",
+          "说明": "括号内名词短语对infrastructure作同位说明（按规则归入同位语从句类）。"
+        },
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "in the United States",
+          "修饰对象": "infrastructure",
+          "中文翻译": "美国的",
+          "说明": "介词短语作后置定语，修饰infrastructure。"
+        }
+      ],
+      "zh": "那些仍然认为外国投资是对其主权侵犯的国家，或许应该好好研究一下美国基础设施（即一个社会的基本结构性基础）的历史。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2001-text2-s17",
+      "s": "When the United States built its industrial infrastructure, it didn't have the capital to do so.",
+      "para_no": 4,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "it",
+        "谓语": "didn't have",
+        "宾语或表语": "the capital",
+        "主干翻译": "它没有资金。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "When the United States built its industrial infrastructure",
+          "修饰对象": "have",
+          "中文翻译": "当美国建设其工业基础设施时",
+          "说明": "when引导的时间状语从句。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to do so",
+          "修饰对象": "capital",
+          "中文翻译": "这样做的",
+          "说明": "不定式作后置定语，修饰capital。"
+        }
+      ],
+      "zh": "当美国建设其工业基础设施时，它并没有这样做所需的资金。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2001-text2-s18",
+      "s": "And that is why America's Second Wave infrastructure—including roads, harbors, highways, ports and so on—were built with foreign investment.",
+      "para_no": 4,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "that",
+        "谓语": "is",
+        "宾语或表语": "why...were built with foreign investment",
+        "主干翻译": "这就是……是用外国投资建成的原因。"
+      },
+      "components": [
+        {
+          "成分类型": "表语从句",
+          "原文": "why America's Second Wave infrastructure—including roads, harbors, highways, ports and so on—were built with foreign investment",
+          "修饰对象": "is",
+          "中文翻译": "为什么美国的第二次浪潮基础设施是用外国投资建成的",
+          "说明": "why引导的表语从句。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "including roads, harbors, highways, ports and so on",
+          "修饰对象": "infrastructure",
+          "中文翻译": "包括公路、港口、高速公路、码头等等",
+          "说明": "破折号之间的including短语作插入语，对infrastructure举例说明。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "roads, harbors, highways, ports and so on",
+          "修饰对象": "including",
+          "中文翻译": "公路、港口、高速公路、码头等等",
+          "说明": "由逗号及and连接的多个并列名词，作including的宾语。"
+        }
+      ],
+      "zh": "这就是为什么美国的第二次浪潮基础设施——包括公路、港口、高速公路、码头等等——是用外国投资建成的。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2001-text2-s19",
+      "s": "The English, the Germans, the Dutch and the French were investing in Britain's former colony.",
+      "para_no": 4,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "The English, the Germans, the Dutch and the French",
+        "谓语": "were investing",
+        "宾语或表语": "in Britain's former colony",
+        "主干翻译": "英国人、德国人、荷兰人和法国人都在投资英国昔日的殖民地。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "The English, the Germans, the Dutch and the French",
+          "修饰对象": "—",
+          "中文翻译": "英国人、德国人、荷兰人和法国人",
+          "说明": "由逗号及and连接的多个并列主语。"
+        }
+      ],
+      "zh": "英国人、德国人、荷兰人和法国人都曾投资于英国昔日的殖民地（美国）。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2001-text2-s20",
+      "s": "They financed them.",
+      "para_no": 4,
+      "para_seq": 5,
+      "trunk": {
+        "主语": "They",
+        "谓语": "financed",
+        "宾语或表语": "them",
+        "主干翻译": "他们为它们提供资金。"
+      },
+      "components": [],
+      "zh": "他们为这些基础设施提供资金。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2001-text2-s21",
+      "s": "Immigrant Americans built them.",
+      "para_no": 4,
+      "para_seq": 6,
+      "trunk": {
+        "主语": "Immigrant Americans",
+        "谓语": "built",
+        "宾语或表语": "them",
+        "主干翻译": "移民美国人建造了它们。"
+      },
+      "components": [],
+      "zh": "移民到美国的人们建造了这些基础设施。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2001-text2-s22",
+      "s": "Guess who owns them now? The Americans.",
+      "para_no": 4,
+      "para_seq": 7,
+      "trunk": {
+        "主语": "(you)",
+        "谓语": "Guess",
+        "宾语或表语": "who owns them now",
+        "主干翻译": "猜猜现在它们归谁所有？"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "who owns them now",
+          "修饰对象": "Guess",
+          "中文翻译": "现在谁拥有它们",
+          "说明": "who引导的宾语从句，作祈使句动词Guess的宾语。"
+        }
+      ],
+      "zh": "猜猜现在这些基础设施归谁所有？美国人。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2001-text2-s23",
+      "s": "I believe the same thing would be true in places like Brazil or anywhere else for that matter.",
+      "para_no": 4,
+      "para_seq": 8,
+      "trunk": {
+        "主语": "I",
+        "谓语": "believe",
+        "宾语或表语": "the same thing would be true",
+        "主干翻译": "我相信同样的情况也会成立。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "the same thing would be true in places like Brazil or anywhere else for that matter",
+          "修饰对象": "believe",
+          "中文翻译": "同样的情况在像巴西这样的地方或就此而言任何其他地方也会成立",
+          "说明": "省略that的宾语从句，作believe的宾语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "in places like Brazil or anywhere else for that matter",
+          "修饰对象": "true",
+          "中文翻译": "在像巴西这样的地方，或者就此而言任何其他地方",
+          "说明": "or连接的两个并列地点状语。"
+        }
+      ],
+      "zh": "我相信，在像巴西这样的地方，或者就此而言在任何其他地方，同样的情况也会成立。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2001-text2-s24",
+      "s": "The more foreign capital you have helping you build your Third Wave infrastructure, which today is an electronic infrastructure, the better off you're going to be.",
+      "para_no": 4,
+      "para_seq": 9,
+      "trunk": {
+        "主语": "you",
+        "谓语": "'re going to be",
+        "宾语或表语": "better off",
+        "主干翻译": "你的处境就会越好。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(比较)",
+          "原文": "The more foreign capital you have helping you build your Third Wave infrastructure, which today is an electronic infrastructure",
+          "修饰对象": "going",
+          "中文翻译": "你拥有越多帮助你建设第三次浪潮基础设施（如今即电子基础设施）的外国资本",
+          "说明": "the more...the better...构成正比关系，前半部分为比较状语从句。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "you have helping you build your Third Wave infrastructure, which today is an electronic infrastructure",
+          "修饰对象": "capital",
+          "中文翻译": "你拥有的帮助你建设第三次浪潮基础设施的",
+          "说明": "省略关系代词的定语从句，修饰foreign capital。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "helping you build your Third Wave infrastructure",
+          "修饰对象": "capital",
+          "中文翻译": "帮助你建设第三次浪潮基础设施",
+          "说明": "现在分词短语作宾语补足语/定语，说明capital所起的作用。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "which today is an electronic infrastructure",
+          "修饰对象": "infrastructure",
+          "中文翻译": "如今它是一种电子基础设施",
+          "说明": "which引导的非限制性定语从句，修饰Third Wave infrastructure。"
+        }
+      ],
+      "zh": "你拥有越多帮助你建设第三次浪潮基础设施（如今即电子基础设施）的外国资本，你的处境就会越好。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2001-text2-s25",
+      "s": "That doesn't mean lying down and becoming fooled, or letting foreign corporations run uncontrolled.",
+      "para_no": 4,
+      "para_seq": 10,
+      "trunk": {
+        "主语": "That",
+        "谓语": "doesn't mean",
+        "宾语或表语": "lying down and becoming fooled, or letting foreign corporations run uncontrolled",
+        "主干翻译": "那并不意味着任人摆布、受人愚弄，或听任外国公司不受控制地横行。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "lying down and becoming fooled, or letting foreign corporations run uncontrolled",
+          "修饰对象": "mean",
+          "中文翻译": "屈服受骗，或听任外国公司不受控制地行事",
+          "说明": "动名词短语作mean的宾语（动词补足）。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "lying down and becoming fooled, or letting foreign corporations run uncontrolled",
+          "修饰对象": "mean",
+          "中文翻译": "屈服受骗，或听任外国公司不受控制地行事",
+          "说明": "or连接的并列动名词短语，作mean的宾语。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "foreign corporations run uncontrolled",
+          "修饰对象": "letting",
+          "中文翻译": "外国公司不受控制地行事",
+          "说明": "letting后的宾语+宾补结构（run uncontrolled为宾语补足语）。"
+        }
+      ],
+      "zh": "那并不意味着甘愿屈服、受人愚弄，或听任外国公司不受控制地横行。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2001-text2-s26",
+      "s": "But it does mean recognizing how important they can be in building the energy and telecom infrastructures needed to take full advantage of the Internet.",
+      "para_no": 4,
+      "para_seq": 11,
+      "trunk": {
+        "主语": "it",
+        "谓语": "does mean",
+        "宾语或表语": "recognizing how important they can be",
+        "主干翻译": "但它确实意味着要认识到它们能有多么重要。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "recognizing how important they can be in building the energy and telecom infrastructures needed to take full advantage of the Internet",
+          "修饰对象": "mean",
+          "中文翻译": "认识到它们在建设充分利用互联网所需的能源和电信基础设施方面能有多么重要",
+          "说明": "动名词短语作mean的宾语（动词补足）。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "how important they can be in building the energy and telecom infrastructures needed to take full advantage of the Internet",
+          "修饰对象": "recognizing",
+          "中文翻译": "它们在建设能源和电信基础设施方面能有多么重要",
+          "说明": "how引导的宾语从句，作动名词recognizing的宾语。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "needed to take full advantage of the Internet",
+          "修饰对象": "infrastructures",
+          "中文翻译": "充分利用互联网所需的",
+          "说明": "过去分词短语作后置定语，修饰infrastructures。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to take full advantage of the Internet",
+          "修饰对象": "needed",
+          "中文翻译": "以充分利用互联网",
+          "说明": "不定式作状语，表目的，说明needed（所需）的用途。"
+        }
+      ],
+      "zh": "但它确实意味着要认识到，它们在建设充分利用互联网所需的能源和电信基础设施方面，能够发挥多么重要的作用。",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2001-text2-s1",
+        "en1-2001-text2-s2",
+        "en1-2001-text2-s3",
+        "en1-2001-text2-s4",
+        "en1-2001-text2-s5"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2001-text2-s6",
+        "en1-2001-text2-s7",
+        "en1-2001-text2-s8",
+        "en1-2001-text2-s9",
+        "en1-2001-text2-s10",
+        "en1-2001-text2-s11"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2001-text2-s12",
+        "en1-2001-text2-s13",
+        "en1-2001-text2-s14"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2001-text2-s15",
+        "en1-2001-text2-s16",
+        "en1-2001-text2-s17",
+        "en1-2001-text2-s18",
+        "en1-2001-text2-s19",
+        "en1-2001-text2-s20",
+        "en1-2001-text2-s21",
+        "en1-2001-text2-s22",
+        "en1-2001-text2-s23",
+        "en1-2001-text2-s24",
+        "en1-2001-text2-s25",
+        "en1-2001-text2-s26"
+      ]
+    }
+  ]
+}

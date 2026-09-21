@@ -1,0 +1,803 @@
+{
+  "exam": "en1",
+  "key": "2003-t3",
+  "year": 2003,
+  "text_no": 3,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2003-text3-s1",
+      "s": "In recent years, railroads have been combining with each other, merging into supersystems, causing heightened concerns about monopoly.",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "railroads",
+        "谓语": "have been combining",
+        "宾语或表语": "with each other",
+        "主干翻译": "铁路公司一直在相互合并。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "merging into supersystems",
+          "修饰对象": "combining",
+          "中文翻译": "合并成大型铁路系统",
+          "说明": "现在分词短语作伴随状语，说明combining的结果或方式"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "causing heightened concerns about monopoly",
+          "修饰对象": "combining",
+          "中文翻译": "引发了人们对垄断的高度担忧",
+          "说明": "现在分词短语作结果状语，表示合并所造成的后果"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "In recent years",
+          "修饰对象": "combining",
+          "中文翻译": "近年来",
+          "说明": "时间状语"
+        }
+      ],
+      "zh": "近年来，铁路公司一直在相互合并，组合成大型铁路系统，从而引发了人们对垄断的高度担忧。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2003-text3-s2",
+      "s": "As recently as 1995, the top four railroads accounted for under 70 percent of the total ton-miles moved by rails.",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "the top four railroads",
+        "谓语": "accounted for",
+        "宾语或表语": "under 70 percent of the total ton-miles",
+        "主干翻译": "排名前四的铁路公司占总吨英里数的不到70%。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "moved by rails",
+          "修饰对象": "ton-miles",
+          "中文翻译": "由铁路运输的",
+          "说明": "过去分词短语作后置定语，修饰ton-miles，表被动"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "As recently as 1995",
+          "修饰对象": "accounted",
+          "中文翻译": "就在1995年",
+          "说明": "时间状语，as...as强调时间之近"
+        }
+      ],
+      "zh": "就在1995年，排名前四的铁路公司占铁路运输总吨英里数的比例还不到70%。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2003-text3-s3",
+      "s": "Next year, after a series of mergers is completed, just four railroads will control well over 90 percent of all the freight moved by major rail carriers.",
+      "para_no": 1,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "just four railroads",
+        "谓语": "will control",
+        "宾语或表语": "well over 90 percent of all the freight",
+        "主干翻译": "仅四家铁路公司将控制所有货运量的90%以上。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "after a series of mergers is completed",
+          "修饰对象": "control",
+          "中文翻译": "在一系列合并完成之后",
+          "说明": "after引导的时间状语从句"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "moved by major rail carriers",
+          "修饰对象": "freight",
+          "中文翻译": "由各大铁路运输公司运送的",
+          "说明": "过去分词短语作后置定语，修饰freight，表被动"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "Next year",
+          "修饰对象": "control",
+          "中文翻译": "明年",
+          "说明": "时间状语"
+        }
+      ],
+      "zh": "明年，在一系列合并完成之后，仅四家铁路公司就将控制各大铁路运输公司所运送货运量的90%以上。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2003-text3-s4",
+      "s": "Supporters of the new supersystems argue that these mergers will allow for substantial cost reductions and better coordinated service.",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Supporters",
+        "谓语": "argue",
+        "宾语或表语": "that these mergers will allow for...（宾语从句）",
+        "主干翻译": "支持者们认为……。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "that these mergers will allow for substantial cost reductions and better coordinated service",
+          "修饰对象": "argue",
+          "中文翻译": "这些合并将能够大幅降低成本并提供更协调的服务",
+          "说明": "that引导argue的宾语从句"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "better coordinated service",
+          "修饰对象": "reductions",
+          "中文翻译": "更协调的服务",
+          "说明": "与substantial cost reductions并列，同作allow for的宾语"
+        },
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "of the new supersystems",
+          "修饰对象": "Supporters",
+          "中文翻译": "新型大型铁路系统的",
+          "说明": "介词短语作后置定语，修饰Supporters"
+        }
+      ],
+      "zh": "新型大型铁路系统的支持者们认为，这些合并将能够大幅降低成本，并提供更为协调的服务。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2003-text3-s5",
+      "s": "Any threat of monopoly, they argue, is removed by fierce competition from trucks.",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Any threat of monopoly",
+        "谓语": "is removed",
+        "宾语或表语": "by fierce competition from trucks",
+        "主干翻译": "任何垄断威胁都被卡车运输的激烈竞争所消除。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "they argue",
+          "修饰对象": "—",
+          "中文翻译": "他们辩称",
+          "说明": "插入语，表明观点出处"
+        },
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "of monopoly",
+          "修饰对象": "threat",
+          "中文翻译": "垄断的",
+          "说明": "介词短语作后置定语，修饰threat"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "by fierce competition from trucks",
+          "修饰对象": "removed",
+          "中文翻译": "被来自卡车运输的激烈竞争",
+          "说明": "by引导的方式/施动者状语，from trucks作competition的定语"
+        }
+      ],
+      "zh": "他们辩称，来自卡车运输的激烈竞争已经消除了任何垄断的威胁。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2003-text3-s6",
+      "s": "But many shippers complain that for heavy bulk commodities traveling long distances, such as coal, chemicals, and grain, trucking is too costly and the railroads therefore have them by the throat.",
+      "para_no": 2,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "many shippers",
+        "谓语": "complain",
+        "宾语或表语": "that...（宾语从句）",
+        "主干翻译": "许多托运人抱怨说……。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "that for heavy bulk commodities traveling long distances, such as coal, chemicals, and grain, trucking is too costly and the railroads therefore have them by the throat",
+          "修饰对象": "complain",
+          "中文翻译": "对于长途运输的大宗散装商品（如煤炭、化学品和谷物）来说，卡车运输成本太高，因此铁路公司扼住了它们的咽喉",
+          "说明": "that引导complain的宾语从句"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "traveling long distances",
+          "修饰对象": "commodities",
+          "中文翻译": "长途运输的",
+          "说明": "现在分词短语作后置定语，修饰commodities"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "chemicals, and grain",
+          "修饰对象": "coal",
+          "中文翻译": "化学品和谷物",
+          "说明": "与coal并列，作such as列举的对象"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "the railroads therefore have them by the throat",
+          "修饰对象": "is",
+          "中文翻译": "因此铁路公司扼住了它们的咽喉",
+          "说明": "与trucking is too costly并列，由and连接，同为宾语从句内的并列分句"
+        }
+      ],
+      "zh": "但许多托运人抱怨说，对于长途运输的大宗散装商品（如煤炭、化学品和谷物）来说，卡车运输成本太高，因此铁路公司便扼住了它们的咽喉。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2003-text3-s7",
+      "s": "The vast consolidation within the rail industry means that most shippers are served by only one rail company.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The vast consolidation",
+        "谓语": "means",
+        "宾语或表语": "that...（宾语从句）",
+        "主干翻译": "大规模的整合意味着……。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "that most shippers are served by only one rail company",
+          "修饰对象": "means",
+          "中文翻译": "大多数托运人只能由一家铁路公司提供服务",
+          "说明": "that引导means的宾语从句"
+        },
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "within the rail industry",
+          "修饰对象": "consolidation",
+          "中文翻译": "铁路行业内的",
+          "说明": "介词短语作后置定语，修饰consolidation"
+        }
+      ],
+      "zh": "铁路行业内的大规模整合意味着，大多数托运人只能由一家铁路公司提供服务。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2003-text3-s8",
+      "s": "Railroads typically charge such\"captive\"shippers 20 to 30 percent more than they do when another railroad is competing for the business.",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Railroads",
+        "谓语": "charge",
+        "宾语或表语": "such \"captive\" shippers 20 to 30 percent more",
+        "主干翻译": "铁路公司向这类\"受制\"托运人多收取20%到30%的费用。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(比较)",
+          "原文": "than they do when another railroad is competing for the business",
+          "修饰对象": "more",
+          "中文翻译": "比有另一家铁路公司争夺这笔业务时所收的费用",
+          "说明": "than引导比较状语从句，do替代charge"
+        },
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "when another railroad is competing for the business",
+          "修饰对象": "do",
+          "中文翻译": "当有另一家铁路公司争夺这笔业务时",
+          "说明": "when引导的时间状语从句，嵌套在比较从句内"
+        }
+      ],
+      "zh": "铁路公司向这类\"受制\"托运人收取的费用，要比有另一家铁路公司争夺这笔业务时高出20%到30%。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2003-text3-s9",
+      "s": "Shippers who feel they are being overcharged have the right to appeal to the federal government's Surface Transportation Board for rate relief, but the process is expensive, time consuming, and will work only in truly extreme cases.",
+      "para_no": 3,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Shippers",
+        "谓语": "have",
+        "宾语或表语": "the right to appeal...",
+        "主干翻译": "托运人有权申诉，但这一过程代价高昂、耗费时间，且只在极端情况下才管用。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "who feel they are being overcharged",
+          "修饰对象": "Shippers",
+          "中文翻译": "认为自己被多收费的",
+          "说明": "who引导的定语从句，修饰Shippers"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "they are being overcharged",
+          "修饰对象": "feel",
+          "中文翻译": "自己被多收了费",
+          "说明": "省略that的宾语从句，作feel的宾语"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to appeal to the federal government's Surface Transportation Board for rate relief",
+          "修饰对象": "right",
+          "中文翻译": "向联邦政府的地面运输委员会申诉以求降价的",
+          "说明": "不定式短语作后置定语，修饰right"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "but the process is expensive, time consuming, and will work only in truly extreme cases",
+          "修饰对象": "have",
+          "中文翻译": "但这一过程代价高昂、耗费时间，且只在真正极端的情况下才管用",
+          "说明": "but连接的并列分句，与主句Shippers...have...并列"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "will work only in truly extreme cases",
+          "修饰对象": "is",
+          "中文翻译": "只在真正极端的情况下才管用",
+          "说明": "与is expensive, time consuming并列，共用主语the process"
+        }
+      ],
+      "zh": "认为自己被多收费的托运人有权向联邦政府的地面运输委员会申诉以求降价，但这一过程代价高昂、耗费时间，而且只在真正极端的情况下才管用。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2003-text3-s10",
+      "s": "Railroads justify rate discrimination against captive shippers on the grounds that in the long run it reduces everyone's cost.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Railroads",
+        "谓语": "justify",
+        "宾语或表语": "rate discrimination",
+        "主干翻译": "铁路公司为针对受制托运人的费率歧视辩护。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "against captive shippers",
+          "修饰对象": "discrimination",
+          "中文翻译": "针对受制托运人的",
+          "说明": "介词短语作后置定语，修饰rate discrimination"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "that in the long run it reduces everyone's cost",
+          "修饰对象": "grounds",
+          "中文翻译": "从长远来看，这会降低所有人的成本",
+          "说明": "that引导同位语从句，说明grounds的内容"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "on the grounds",
+          "修饰对象": "justify",
+          "中文翻译": "以……为理由",
+          "说明": "介词短语作状语，引出辩护的理由"
+        }
+      ],
+      "zh": "铁路公司为针对受制托运人的费率歧视辩护，理由是从长远来看，这会降低所有人的成本。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2003-text3-s11",
+      "s": "If railroads charged all customers the same average rate, they argue, shippers who have the option of switching to trucks or other forms of transportation would do so, leaving remaining customers to shoulder the cost of keeping up the line.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "shippers",
+        "谓语": "would do",
+        "宾语或表语": "so",
+        "主干翻译": "托运人便会这样做。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "If railroads charged all customers the same average rate",
+          "修饰对象": "do",
+          "中文翻译": "如果铁路公司向所有客户收取相同的平均费率",
+          "说明": "If引导的条件状语从句（虚拟语气）"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "they argue",
+          "修饰对象": "—",
+          "中文翻译": "他们辩称",
+          "说明": "插入语，表明观点出处"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "who have the option of switching to trucks or other forms of transportation",
+          "修饰对象": "shippers",
+          "中文翻译": "可以选择改用卡车或其他运输方式的",
+          "说明": "who引导的定语从句，修饰shippers"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "other forms of transportation",
+          "修饰对象": "trucks",
+          "中文翻译": "其他运输方式",
+          "说明": "与trucks并列，作switching to的宾语"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "leaving remaining customers to shoulder the cost of keeping up the line",
+          "修饰对象": "do",
+          "中文翻译": "从而让剩下的客户来承担维持线路的费用",
+          "说明": "现在分词短语作结果状语"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to shoulder the cost of keeping up the line",
+          "修饰对象": "leaving",
+          "中文翻译": "去承担维持线路的费用",
+          "说明": "不定式短语作leaving的宾语补足语，补充说明remaining customers"
+        }
+      ],
+      "zh": "他们辩称，如果铁路公司向所有客户收取相同的平均费率，那么可以选择改用卡车或其他运输方式的托运人便会这样做，从而让剩下的客户来承担维持线路的费用。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2003-text3-s12",
+      "s": "It's theory to which many economists subscribe, but in practice it often leaves railroads in the position of determining which companies will flourish and which will fail.",
+      "para_no": 4,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "It",
+        "谓语": "'s",
+        "宾语或表语": "theory",
+        "主干翻译": "这是一种理论，但在实践中它常常使铁路公司处于决定哪些公司兴盛、哪些公司倒闭的地位。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "to which many economists subscribe",
+          "修饰对象": "theory",
+          "中文翻译": "许多经济学家所赞同的",
+          "说明": "介词+which引导的定语从句，修饰theory"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "but in practice it often leaves railroads in the position of determining which companies will flourish and which will fail",
+          "修饰对象": "'s",
+          "中文翻译": "但在实践中它常常使铁路公司处于决定哪些公司兴盛、哪些公司倒闭的地位",
+          "说明": "but连接的并列分句，与It's theory...并列"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "which companies will flourish and which will fail",
+          "修饰对象": "determining",
+          "中文翻译": "哪些公司将兴盛、哪些公司将倒闭",
+          "说明": "which引导的宾语从句，作determining的宾语"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "which will fail",
+          "修饰对象": "flourish",
+          "中文翻译": "哪些公司将倒闭",
+          "说明": "与which companies will flourish并列，共作determining的宾语"
+        }
+      ],
+      "zh": "这是一种许多经济学家所赞同的理论，但在实践中它常常使铁路公司处于决定哪些公司兴盛、哪些公司倒闭的地位。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2003-text3-s13",
+      "s": "\"Do we really want railroads to be the arbiters of who wins and who loses in the marketplace?\" asks Martin Bercovici, a Washington lawyer who frequently represents shippers.",
+      "para_no": 4,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "Martin Bercovici",
+        "谓语": "asks",
+        "宾语或表语": "\"Do we really want railroads to be the arbiters of who wins and who loses in the marketplace?\"",
+        "主干翻译": "马丁·贝尔科维奇问道：\"我们真的希望铁路公司成为市场上谁输谁赢的裁决者吗？\""
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "railroads to be the arbiters of who wins and who loses in the marketplace",
+          "修饰对象": "want",
+          "中文翻译": "铁路公司成为市场上谁输谁赢的（决定者）",
+          "说明": "want后的不定式复合宾语结构，railroads为逻辑主语"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "who wins and who loses in the marketplace",
+          "修饰对象": "wins",
+          "中文翻译": "谁在市场上获胜、谁失败",
+          "说明": "who引导的从句作of的宾语"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "who loses in the marketplace",
+          "修饰对象": "wins",
+          "中文翻译": "谁在市场上失败",
+          "说明": "与who wins并列"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "a Washington lawyer who frequently represents shipper",
+          "修饰对象": "Bercovici",
+          "中文翻译": "一位经常代理托运人的华盛顿律师",
+          "说明": "名词短语作Martin Bercovici的同位语"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "who frequently represents shipper",
+          "修饰对象": "lawyer",
+          "中文翻译": "经常代理托运人的",
+          "说明": "who引导的定语从句，修饰lawyer"
+        }
+      ],
+      "zh": "\"我们真的希望铁路公司成为市场上谁输谁赢的裁决者吗？\"经常代理托运人的华盛顿律师马丁·贝尔科维奇问道。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2003-text3-s14",
+      "s": "Many captive shippers also worry they will soon be hit with a round of huge rate increases.",
+      "para_no": 5,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Many captive shippers",
+        "谓语": "worry",
+        "宾语或表语": "they will soon be hit...（宾语从句）",
+        "主干翻译": "许多受制托运人也担心……。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "they will soon be hit with a round of huge rate increases",
+          "修饰对象": "worry",
+          "中文翻译": "他们很快会遭遇一轮大幅涨价",
+          "说明": "省略that的宾语从句，作worry的宾语"
+        }
+      ],
+      "zh": "许多受制托运人还担心，他们很快就会遭遇一轮大幅涨价。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2003-text3-s15",
+      "s": "The railroad industry as a whole, despite its brightening fortunes, still does not earn enough to cover the cost of the capital it must invest to keep up with its surging traffic.",
+      "para_no": 5,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "The railroad industry",
+        "谓语": "does not earn",
+        "宾语或表语": "enough",
+        "主干翻译": "铁路行业整体上的收入仍不足以支付资本成本。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "as a whole",
+          "修饰对象": "industry",
+          "中文翻译": "作为一个整体",
+          "说明": "介词短语作定语/状语，修饰The railroad industry"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "despite its brightening fortunes",
+          "修饰对象": "earn",
+          "中文翻译": "尽管其前景日益好转",
+          "说明": "despite引导让步性介词短语作状语"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to cover the cost of the capital",
+          "修饰对象": "enough",
+          "中文翻译": "来支付资本的成本",
+          "说明": "不定式短语作enough的目的/补足状语"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "it must invest to keep up with its surging traffic",
+          "修饰对象": "capital",
+          "中文翻译": "它为跟上激增的运量而必须投入的",
+          "说明": "省略that/which的定语从句，修饰capital"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to keep up with its surging traffic",
+          "修饰对象": "invest",
+          "中文翻译": "以跟上其激增的运量",
+          "说明": "不定式短语作invest的目的状语"
+        }
+      ],
+      "zh": "铁路行业作为一个整体，尽管前景日益好转，但其收入仍不足以支付为跟上激增运量而必须投入的资本成本。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2003-text3-s16",
+      "s": "Yet railroads continue to borrow billions to acquire one another, with Wall Street cheering them on.",
+      "para_no": 5,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "railroads",
+        "谓语": "continue",
+        "宾语或表语": "to borrow billions",
+        "主干翻译": "铁路公司仍继续借入数十亿美元。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to borrow billions to acquire one another",
+          "修饰对象": "continue",
+          "中文翻译": "借入数十亿美元来相互收购",
+          "说明": "不定式短语作continue的宾语"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to acquire one another",
+          "修饰对象": "borrow",
+          "中文翻译": "以相互收购",
+          "说明": "不定式短语作borrow的目的状语"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "with Wall Street cheering them on",
+          "修饰对象": "continue",
+          "中文翻译": "华尔街还在一旁为它们助威",
+          "说明": "with复合结构作伴随状语"
+        }
+      ],
+      "zh": "然而，铁路公司仍继续借入数十亿美元来相互收购，而华尔街还在一旁为它们助威。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2003-text3-s17",
+      "s": "Consider the $10.2 billion bid by Norfolk Southern and CSX to acquire Conrail this year.",
+      "para_no": 5,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "（祈使句省略主语）",
+        "谓语": "Consider",
+        "宾语或表语": "the $10.2 billion bid",
+        "主干翻译": "请想想这桩102亿美元的收购出价。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "by Norfolk Southern and CSX",
+          "修饰对象": "bid",
+          "中文翻译": "诺福克南方公司和CSX公司提出的",
+          "说明": "介词短语作后置定语，修饰bid"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to acquire Conrail this year",
+          "修饰对象": "bid",
+          "中文翻译": "今年收购康雷尔公司的",
+          "说明": "不定式短语作后置定语，修饰bid"
+        }
+      ],
+      "zh": "请想想今年诺福克南方公司和CSX公司提出的以102亿美元收购康雷尔公司的出价。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2003-text3-s18",
+      "s": "Conrail's net railway operating income in 1996 was just $427 million, less than half of the carrying costs of the transaction.",
+      "para_no": 5,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "Conrail's net railway operating income",
+        "谓语": "was",
+        "宾语或表语": "just $427 million",
+        "主干翻译": "康雷尔公司的铁路营业净收入仅为4.27亿美元。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "in 1996",
+          "修饰对象": "was",
+          "中文翻译": "1996年",
+          "说明": "时间状语"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "less than half of the carrying costs of the transaction",
+          "修饰对象": "million",
+          "中文翻译": "还不到这笔交易承付成本的一半",
+          "说明": "名词短语作$427 million的同位语，补充说明其数额之小"
+        }
+      ],
+      "zh": "康雷尔公司1996年的铁路营业净收入仅为4.27亿美元，还不到这笔交易承付成本的一半。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2003-text3-s19",
+      "s": "Who's going to pay for the rest of the bill?",
+      "para_no": 5,
+      "para_seq": 5,
+      "trunk": {
+        "主语": "Who",
+        "谓语": "'s going to pay",
+        "宾语或表语": "for the rest of the bill",
+        "主干翻译": "谁来支付剩下的账单？"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to pay for the rest of the bill",
+          "修饰对象": "going",
+          "中文翻译": "支付剩下的账单",
+          "说明": "be going to结构中的不定式，构成将来时谓语"
+        }
+      ],
+      "zh": "那么，剩下的账单由谁来支付呢？",
+      "underline": null
+    },
+    {
+      "sid": "en1-2003-text3-s20",
+      "s": "Many captive shippers fear that they will, as Norfolk Southern and CSX increase their grip on the market.",
+      "para_no": 5,
+      "para_seq": 6,
+      "trunk": {
+        "主语": "Many captive shippers",
+        "谓语": "fear",
+        "宾语或表语": "that they will...（宾语从句）",
+        "主干翻译": "许多受制托运人担心他们将会（支付账单）。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "that they will, as Norfolk Southern and CSX increase their grip on the market",
+          "修饰对象": "fear",
+          "中文翻译": "随着诺福克南方公司和CSX公司加强对市场的控制，他们将不得不（支付账单）",
+          "说明": "that引导fear的宾语从句，will后省略pay for the rest of the bill"
+        },
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "as Norfolk Southern and CSX increase their grip on the market",
+          "修饰对象": "will",
+          "中文翻译": "随着诺福克南方公司和CSX公司加强对市场的控制",
+          "说明": "as引导的时间状语从句，表伴随推进"
+        }
+      ],
+      "zh": "许多受制托运人担心，随着诺福克南方公司和CSX公司加强对市场的控制，他们将不得不为此买单。",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2003-text3-s1",
+        "en1-2003-text3-s2",
+        "en1-2003-text3-s3"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2003-text3-s4",
+        "en1-2003-text3-s5",
+        "en1-2003-text3-s6"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2003-text3-s7",
+        "en1-2003-text3-s8",
+        "en1-2003-text3-s9"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2003-text3-s10",
+        "en1-2003-text3-s11",
+        "en1-2003-text3-s12",
+        "en1-2003-text3-s13"
+      ]
+    },
+    {
+      "para_no": 5,
+      "sids": [
+        "en1-2003-text3-s14",
+        "en1-2003-text3-s15",
+        "en1-2003-text3-s16",
+        "en1-2003-text3-s17",
+        "en1-2003-text3-s18",
+        "en1-2003-text3-s19",
+        "en1-2003-text3-s20"
+      ]
+    }
+  ]
+}

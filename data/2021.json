@@ -1,0 +1,1583 @@
+{
+  "year": 2021,
+  "filename": "2021.pdf",
+  "era": "era3",
+  "era_label": "第三阶段+(2005至今 英一)",
+  "total_pages": 15,
+  "max_question_number": 52,
+  "found_question_count": 49,
+  "extracted_question_count": 51,
+  "sections": {
+    "cloze": {
+      "name": "Section I 完形填空",
+      "type": "cloze",
+      "question_range": [
+        1,
+        20
+      ],
+      "text": "1. [ AJ pauses         [B]  returns       [C J peaks         [D]  fades                     \n                                                                                                     \n     ",
+      "article": "Section  I   Use  of English\nB, C or Don  the ANSWER   SHEET.  (10 points)\nFluid intelligence is the type of intelligence that has to do with short-term memory\nand the ability to think quickly, logically, and abstractly in order to solve new problems.\nIt _1_  in young adulthood, levels out for a period of time, and then _2_ starts to\nslowly decline as we age. But 3   aging is inevitable, scientists are finding out that\ncertain changes in brain function may not be.\nOne  study found that muscle loss and the 4  of body fat around the abdomen\nare associated with a decline in fluid intelligence. This suggests the 5 that lifestyle\nfactors might help prevent or 6  this type of decline.\nThe  researchers looked at data that 7    measurements  of lean muscle and\nabdominal fat from more than 4,000 middle-to-older-aged men and women and  8\nthat data to reported changes in fluid intelligence over a six-year period. They found that\nmiddle-aged people   9     higher measures of abdominal  fat   10    worse  on\nmeasures of fluid intelligence as the years 11\nFor women,  the association may be 12    to changes in immunity that resulted\nfrom excess abdominal fat; in men, the immune system did not appear to be 13 . It\nis hoped that future studies could 14 these differences and perhaps lead to different\n15   for men and women.\n16   there are steps you can 17  to help reduce abdominal fat and maintain\nlean muscle mass as you age in order to protect both your physical and mental 18\nThe two highly recommended  lifestyle approaches are maintaining or increasing your\n19   of aerobic exercise and following Mediterranean-style 20  that is high in\nfiber and eliminates highly processed foods.",
+      "questions": [
+        {
+          "number": 1,
+          "stem": "[ AJ pauses",
+          "choices": [
+            {
+              "label": "A",
+              "text": ""
+            },
+            {
+              "label": "B",
+              "text": "returns"
+            },
+            {
+              "label": "C",
+              "text": "peaks"
+            },
+            {
+              "label": "D",
+              "text": "fades"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 2,
+          "stem": "[ AJ alternatively [ B J formally [ CJ accidentally",
+          "choices": [
+            {
+              "label": "A",
+              "text": ""
+            },
+            {
+              "label": "B",
+              "text": ""
+            },
+            {
+              "label": "C",
+              "text": ""
+            },
+            {
+              "label": "D",
+              "text": "generally"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 3,
+          "stem": "[ AJ while",
+          "choices": [
+            {
+              "label": "A",
+              "text": ""
+            },
+            {
+              "label": "B",
+              "text": "since [ CJ once"
+            },
+            {
+              "label": "C",
+              "text": ""
+            },
+            {
+              "label": "D",
+              "text": "until"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 4,
+          "stem": "[ AJ detection [ B J accumulation [ CJ consumption [ D J separation",
+          "choices": [
+            {
+              "label": "A",
+              "text": ""
+            },
+            {
+              "label": "B",
+              "text": ""
+            },
+            {
+              "label": "C",
+              "text": ""
+            },
+            {
+              "label": "D",
+              "text": ""
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 5,
+          "stem": "[ AJ possibility",
+          "choices": [
+            {
+              "label": "A",
+              "text": ""
+            },
+            {
+              "label": "B",
+              "text": "decision [ CJ goal"
+            },
+            {
+              "label": "C",
+              "text": ""
+            },
+            {
+              "label": "D",
+              "text": "requirement"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 6,
+          "stem": "[ AJ delay",
+          "choices": [
+            {
+              "label": "A",
+              "text": ""
+            },
+            {
+              "label": "B",
+              "text": "ensure [ CJ seek"
+            },
+            {
+              "label": "C",
+              "text": ""
+            },
+            {
+              "label": "D",
+              "text": "utilize"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 7,
+          "stem": "[ A J modified [ B J supported [ CJ included",
+          "choices": [
+            {
+              "label": "A",
+              "text": ""
+            },
+            {
+              "label": "B",
+              "text": ""
+            },
+            {
+              "label": "C",
+              "text": ""
+            },
+            {
+              "label": "D",
+              "text": "predicted"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 8,
+          "stem": "[ A] devoted [ B J compared",
+          "choices": [
+            {
+              "label": "A",
+              "text": ""
+            },
+            {
+              "label": "B",
+              "text": ""
+            },
+            {
+              "label": "C",
+              "text": "converted"
+            },
+            {
+              "label": "D",
+              "text": "applied"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 9,
+          "stem": "[ AJ with",
+          "choices": [
+            {
+              "label": "A",
+              "text": ""
+            },
+            {
+              "label": "B",
+              "text": "above [ CJ by"
+            },
+            {
+              "label": "C",
+              "text": ""
+            },
+            {
+              "label": "D",
+              "text": "against"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 10,
+          "stem": "[ A] lived [ B J managed [ CJ scored",
+          "choices": [
+            {
+              "label": "A",
+              "text": ""
+            },
+            {
+              "label": "B",
+              "text": ""
+            },
+            {
+              "label": "C",
+              "text": ""
+            },
+            {
+              "label": "D",
+              "text": "played"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 11,
+          "stem": "[ A J ran out",
+          "choices": [
+            {
+              "label": "A",
+              "text": ""
+            },
+            {
+              "label": "B",
+              "text": "set off [ CJ drew in"
+            },
+            {
+              "label": "C",
+              "text": ""
+            },
+            {
+              "label": "D",
+              "text": "went by"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 12,
+          "stem": "[ AJ superior",
+          "choices": [
+            {
+              "label": "A",
+              "text": ""
+            },
+            {
+              "label": "B",
+              "text": "attributable"
+            },
+            {
+              "label": "C",
+              "text": "parallel [ DJ resistant"
+            },
+            {
+              "label": "D",
+              "text": ""
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 13,
+          "stem": "[ AJ restored",
+          "choices": [
+            {
+              "label": "A",
+              "text": ""
+            },
+            {
+              "label": "B",
+              "text": "isolated [ CJ involved"
+            },
+            {
+              "label": "C",
+              "text": ""
+            },
+            {
+              "label": "D",
+              "text": "controlled"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 14,
+          "stem": "[ AJ alter",
+          "choices": [
+            {
+              "label": "A",
+              "text": ""
+            },
+            {
+              "label": "B",
+              "text": "spread"
+            },
+            {
+              "label": "C",
+              "text": "remove"
+            },
+            {
+              "label": "D",
+              "text": "explain"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 15,
+          "stem": "[ AJ compensations [ BJ symptoms [ CJ demands",
+          "choices": [
+            {
+              "label": "A",
+              "text": ""
+            },
+            {
+              "label": "B",
+              "text": ""
+            },
+            {
+              "label": "C",
+              "text": ""
+            },
+            {
+              "label": "D",
+              "text": "treatments"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 16,
+          "stem": "[ AJ Likewise [ BJ Meanwhile [ CJ Therefore",
+          "choices": [
+            {
+              "label": "A",
+              "text": ""
+            },
+            {
+              "label": "B",
+              "text": ""
+            },
+            {
+              "label": "C",
+              "text": ""
+            },
+            {
+              "label": "D",
+              "text": "Instead"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 17,
+          "stem": "[ AJ change [ BJ watch [ CJ count",
+          "choices": [
+            {
+              "label": "A",
+              "text": ""
+            },
+            {
+              "label": "B",
+              "text": ""
+            },
+            {
+              "label": "C",
+              "text": ""
+            },
+            {
+              "label": "D",
+              "text": "take"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 18,
+          "stem": "[ AJ well-being",
+          "choices": [
+            {
+              "label": "A",
+              "text": ""
+            },
+            {
+              "label": "B",
+              "text": "process"
+            },
+            {
+              "label": "C",
+              "text": "formation [ DJ coordination"
+            },
+            {
+              "label": "D",
+              "text": ""
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 19,
+          "stem": "[ AJ level",
+          "choices": [
+            {
+              "label": "A",
+              "text": ""
+            },
+            {
+              "label": "B",
+              "text": "love"
+            },
+            {
+              "label": "C",
+              "text": "knowledge"
+            },
+            {
+              "label": "D",
+              "text": "space"
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 20,
+          "stem": "[ AJ design [ BJ routine",
+          "choices": [
+            {
+              "label": "A",
+              "text": ""
+            },
+            {
+              "label": "B",
+              "text": ""
+            },
+            {
+              "label": "C",
+              "text": "diet [ DJ prescription II Section Reading Comprehension"
+            },
+            {
+              "label": "D",
+              "text": ""
+            }
+          ],
+          "type": "choice"
+        }
+      ],
+      "warnings": []
+    },
+    "reading-a": {
+      "name": "Section II 阅读A节",
+      "type": "reading",
+      "question_range": [
+        21,
+        40
+      ],
+      "text": "                                                            \n       Read the following four texts. Answer the questions after each text by choosing A, B, C       \n                                     ",
+      "article": "How  can the train operators possibly justify yet another increase to rail passenger \n                                                                                                     \n           fares? It has become a grimly reliable annual ritual: every January the cost of travelling\n                                                                                                     \n           by train rises, imposing a significant extra burden on those who have no option but to    \n                                                                                                     \n                                                                                                     \n           use the rail network to get to work or otherwise. This year's rise, an average of 2.7 per \n                                                                                                     \n           cent, may be a fraction lower than last year's, but it is still well above the official   \n                                                                                                     \n           Consumer  Price Index (CPI) measure of inflation.                                         \n                                                                                                     \n                Successive governments have permitted such increases on the grounds that the cost    \n                                                                                                     \n           of investing in and running the rail network should be borne by those who use it, rather  \n                                                                                                     \n           than the general taxpayer. Why, the argument goes, should a car-driving pensioner from    \n                                                                                                     \n           Lincolnshire have to subsidise the daily commute of a stockbroker from  Surrey?           \n                                                                                                     \n           Equally, there is a sense that the travails of commuters in the South East, many of whom  \n                                                                                                     \n           will face among the biggest rises, have received too much attention compared to those     \n                                                                                                     \n           who  must endure the relatively poor infrastructure of the Midlands and the North.        \n                                                                                                     \n               However,  over the past 12 months, those commuters have also experienced some of      \n                                                                                                     \n           the worst rail strikes in years. It is all very well train operators trumpeting the       \n                                                                                                     \n           i  rovements they are making to the network, but passengers should be able to expect a    \n            mp                                                                                       \n                                                                                                     \n           basic level of service for the substantial sums they are now paying to travel. The        \n                                                                                                     \n           responsibility for the latest wave of strikes rests on the unions. However, there 1s a    \n                                                                                                     \n           strong case that those who have been worst affected by industrial action should receive   \n                                                                                                     \n           compensation for the disruption they have suffered.                                       \n                                                                                                     \n               The  Government has pledged to change the law to introduce a minimum service          \n                                                                                                     \n           requirement so that, even when strikes occur, services can continue to operate. This      \n                                                                                                     \n           should form part of a wider package of measures to address the long-running problems      \n                                                                                                     \n           on Britain's railways. Yes, more investment is needed, but passengers will not be willing \n                                                                                                     \n           to pay  more indefinitely if they must also endure cramped, unreliable services,          \n                                                                                                     \n           punctuated by regular chaos when timetables are changed, or planned maintenance is        \n                                                                                                     \n           managed incompetently. The threat of nationalisation may have been seen off for now,      \n                                                                                                     \n           but it will return with a vengeance if the justified anger of passengers is not addressed in\n                                                                                                     \n           short order.                                                                              \n                                                                                                     \n                                                                                                     \n                                                                                                     \n                                                                                                     \n                                                                                                     \n                                                                                                     \n                                                                                                     \n                                �i½(  - ) iti.M . 3 . (� 14 Jf)\n\nLast year marked  the third year in a row of when  Indonesia's bleak rate of          \n                                                                                                     \n           deforestation has slowed pace. One reason for the turnaround may be the country's         \n           antipoverty program.                                                                      \n                                                                                                     \n               In 2007, Indonesia started phasing in a program that gives money to its poorest       \n                                                                                                     \n           residents under certain conditions, such as requiring people to keep kids in school or get\n                                                                                                     \n           regular medical care. Called conditional cash transfers or CCTs, these social assistance  \n                                                                                                     \n           programs are designed to reduce inequality and break the cycle of poverty. They're already\n        ",
+      "questions": [
+        {
+          "number": 21,
+          "stem": "The author holds that this year's increase in rail passenger fares",
+          "choices": [
+            {
+              "label": "A",
+              "text": ""
+            },
+            {
+              "label": "B",
+              "text": ""
+            },
+            {
+              "label": "C",
+              "text": ""
+            },
+            {
+              "label": "D",
+              "text": ""
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 22,
+          "stem": "The stockbroker in Paragraph 2 is used to stand for [A ] car drivers. [ B] rail travelers. [ C] local investors. [ D] ordinary taxpayers.",
+          "choices": [
+            {
+              "label": "A",
+              "text": ""
+            },
+            {
+              "label": "B",
+              "text": ""
+            },
+            {
+              "label": "C",
+              "text": ""
+            },
+            {
+              "label": "D",
+              "text": ""
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 23,
+          "stem": "It is indicated in Paragraph 3 that train operators [ A] are offering compensation to commuters. [ B] are trying to repair relations with the unions. [ C] have faUed to provide an adequate service. [ D] have suffered huge losses owing to the strikes.",
+          "choices": [
+            {
+              "label": "A",
+              "text": ""
+            },
+            {
+              "label": "B",
+              "text": ""
+            },
+            {
+              "label": "C",
+              "text": ""
+            },
+            {
+              "label": "D",
+              "text": ""
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 24,
+          "stem": "If unable to calm down passengers, the railways may have to face [A ] the loss of investment. [ B] the collapse of operations. [ C] a reduction of revenue. [ D] a change of ownership.",
+          "choices": [
+            {
+              "label": "A",
+              "text": ""
+            },
+            {
+              "label": "B",
+              "text": ""
+            },
+            {
+              "label": "C",
+              "text": ""
+            },
+            {
+              "label": "D",
+              "text": ""
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 25,
+          "stem": "Which of the following would be the best title for the text? [A ] Who Are to Blame for the Strikes? [ B] Constant Complaining Doesn't Work [ C] Can Nationalisation Bring Hope? [ D] Ever-rising Fares Aren't Sustainable �i½( -) iti.M . 4 . (� 14 Jf)",
+          "choices": [
+            {
+              "label": "A",
+              "text": ""
+            },
+            {
+              "label": "B",
+              "text": ""
+            },
+            {
+              "label": "C",
+              "text": ""
+            },
+            {
+              "label": "D",
+              "text": ""
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 26,
+          "stem": "According to the first two paragraphs, CCT programs aim to",
+          "choices": [
+            {
+              "label": "A",
+              "text": ""
+            },
+            {
+              "label": "B",
+              "text": ""
+            },
+            {
+              "label": "C",
+              "text": ""
+            },
+            {
+              "label": "D",
+              "text": ""
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 27,
+          "stem": "The study based on an area in Mexico is cited to show that [ A] cattle raising has been a major means of livelihood for the poor. [ B] CCT programs have helped preserve traditional lifestyles. [ C] antipoverty efforts require the participation of local farmers. [ D] economic growth tends to cause environmental degradation.",
+          "choices": [
+            {
+              "label": "A",
+              "text": ""
+            },
+            {
+              "label": "B",
+              "text": ""
+            },
+            {
+              "label": "C",
+              "text": ""
+            },
+            {
+              "label": "D",
+              "text": ""
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 28,
+          "stem": "In his study about Indonesia, Ferraro intends to find out",
+          "choices": [
+            {
+              "label": "A",
+              "text": ""
+            },
+            {
+              "label": "B",
+              "text": ""
+            },
+            {
+              "label": "C",
+              "text": ""
+            },
+            {
+              "label": "D",
+              "text": ""
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 29,
+          "stem": "According to Ferraro, the CCT program in Indonesia is most valuable in that [ A] it will benefit other Asian countries. [ B] it will reduce regional inequality. [ C] it can protect the environment. [ D] it can benefit grain production.",
+          "choices": [
+            {
+              "label": "A",
+              "text": ""
+            },
+            {
+              "label": "B",
+              "text": ""
+            },
+            {
+              "label": "C",
+              "text": ""
+            },
+            {
+              "label": "D",
+              "text": ""
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 30,
+          "stem": "What is the text centered on?",
+          "choices": [
+            {
+              "label": "A",
+              "text": ""
+            },
+            {
+              "label": "B",
+              "text": ""
+            },
+            {
+              "label": "C",
+              "text": ""
+            },
+            {
+              "label": "D",
+              "text": ""
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 31,
+          "stem": "According to Paragraph 1, the author's posts on Twitter [ A] changed people's impression of the Victorians. [ B] highlighted social media's role in Victorian studies. [ C] re-evaluated the Victorian's notion of public image. [ D] illustrated the development of Victorian photography.",
+          "choices": [
+            {
+              "label": "A",
+              "text": ""
+            },
+            {
+              "label": "B",
+              "text": ""
+            },
+            {
+              "label": "C",
+              "text": ""
+            },
+            {
+              "label": "D",
+              "text": ""
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 32,
+          "stem": "What does the author say about the Victorian portraits he has collected? [ A] They are in popular use among historians. [ B] They are rare among photographs of that age. [ CJ They mirror 19th-century social conventions. [ D] They show effects of different exposure times.",
+          "choices": [
+            {
+              "label": "A",
+              "text": ""
+            },
+            {
+              "label": "B",
+              "text": ""
+            },
+            {
+              "label": "C",
+              "text": ""
+            },
+            {
+              "label": "D",
+              "text": ""
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 33,
+          "stem": "What might have kept the Victorians from smiling for pictures in the 1890s? [ A] Their inherent social sensitiveness. [ B] Their tension before the camer",
+          "choices": [
+            {
+              "label": "A",
+              "text": "[ C] Their distrust of new inventions. [ D] Their unhealthy dental condition."
+            },
+            {
+              "label": "B",
+              "text": ""
+            },
+            {
+              "label": "C",
+              "text": ""
+            },
+            {
+              "label": "D",
+              "text": ""
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 34,
+          "stem": "Mark Twain is quoted to show that the disapproval of smiles in pictures was [ A] a deep-root belief. [ B] a misguided attitude. [ C] a controversial view. [ D] a thought-provoking ide",
+          "choices": [
+            {
+              "label": "A",
+              "text": ""
+            },
+            {
+              "label": "B",
+              "text": ""
+            },
+            {
+              "label": "C",
+              "text": ""
+            },
+            {
+              "label": "D",
+              "text": ""
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 35,
+          "stem": "Which of the following questions does the text answer? [ A] Why did most Victorians look stem in photographs? [ B] Why did the Victorians start to view photographs? [ C] What made photography develop in the Victorian period? [ D] How did smiling in photographs become a post-Victorian norm? �i¼(-)-i�� . 8. (� 14 Jf)",
+          "choices": [
+            {
+              "label": "A",
+              "text": ""
+            },
+            {
+              "label": "B",
+              "text": ""
+            },
+            {
+              "label": "C",
+              "text": ""
+            },
+            {
+              "label": "D",
+              "text": ""
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 36,
+          "stem": "There has long been concern that broadband providers would",
+          "choices": [
+            {
+              "label": "A",
+              "text": ""
+            },
+            {
+              "label": "B",
+              "text": ""
+            },
+            {
+              "label": "C",
+              "text": ""
+            },
+            {
+              "label": "D",
+              "text": ""
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 37,
+          "stem": "Faced with the demand for net neutrality rules, the FCC [ A] sticks to an out-of-date order. [ B] takes an anti-regulatory stance. [ C] has issued a special resolution. [ D] has allowed the states to intervene.",
+          "choices": [
+            {
+              "label": "A",
+              "text": ""
+            },
+            {
+              "label": "B",
+              "text": ""
+            },
+            {
+              "label": "C",
+              "text": ""
+            },
+            {
+              "label": "D",
+              "text": ""
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 38,
+          "stem": "What can be learned about AT&T from Paragraph 3? It [ A] protects against unfair competition. It [ B ] engages in anti-competitive practices. It [ C] is under the FCC's investigation. It [ D] is in pursuit of quality service.",
+          "choices": [
+            {
+              "label": "A",
+              "text": ""
+            },
+            {
+              "label": "B",
+              "text": ""
+            },
+            {
+              "label": "C",
+              "text": ""
+            },
+            {
+              "label": "D",
+              "text": ""
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 39,
+          "stem": "Judge Patricia Millett argues that the appeals court's decision [ A] focus on trivialities. [ B] conveys an ambiguous message. [ C] is at odds with its earlier rulings. [ D] is out of touch with reality.",
+          "choices": [
+            {
+              "label": "A",
+              "text": ""
+            },
+            {
+              "label": "B",
+              "text": ""
+            },
+            {
+              "label": "C",
+              "text": ""
+            },
+            {
+              "label": "D",
+              "text": ""
+            }
+          ],
+          "type": "choice"
+        },
+        {
+          "number": 40,
+          "stem": "What does the author argue in the last paragraph? [ A] Congress needs to take action to ensure net neutrality. [ B] The FCC should be put under strict supervision. [ C] Rules need to be set to diversify online services. [ D] Broadband providers' rights should be protecte",
+          "choices": [
+            {
+              "label": "A",
+              "text": ""
+            },
+            {
+              "label": "B",
+              "text": ""
+            },
+            {
+              "label": "C",
+              "text": ""
+            },
+            {
+              "label": "D",
+              "text": "�i¼( - ) -il\\M .10. (� 14 Jf) Part"
+            }
+          ],
+          "type": "choice"
+        }
+      ],
+      "warnings": [],
+      "text_count": 4,
+      "texts": [
+        {
+          "text_num": 1,
+          "article": "How  can the train operators possibly justify yet another increase to rail passenger \n                                                                                                     \n           fares? It has become a grimly reliable annual ritual: every January the cost of travelling\n                                                                                                     \n           by train rises, imposing a significant extra burden on those who have no option but to    \n                                                                                                     \n                                                                                                     \n           use the rail network to get to work or otherwise. This year's rise, an average of 2.7 per \n                                                                                                     \n           cent, may be a fraction lower than last year's, but it is still well above the official   \n                                                                                                     \n           Consumer  Price Index (CPI) measure of inflation.                                         \n                                                                                                     \n                Successive governments have permitted such increases on the grounds that the cost    \n                                                                                                     \n           of investing in and running the rail network should be borne by those who use it, rather  \n                                                                                                     \n           than the general taxpayer. Why, the argument goes, should a car-driving pensioner from    \n                                                                                                     \n           Lincolnshire have to subsidise the daily commute of a stockbroker from  Surrey?           \n                                                                                                     \n           Equally, there is a sense that the travails of commuters in the South East, many of whom  \n                                                                                                     \n           will face among the biggest rises, have received too much attention compared to those     \n                                                                                                     \n           who  must endure the relatively poor infrastructure of the Midlands and the North.        \n                                                                                                     \n               However,  over the past 12 months, those commuters have also experienced some of      \n                                                                                                     \n           the worst rail strikes in years. It is all very well train operators trumpeting the       \n                                                                                                     \n           i  rovements they are making to the network, but passengers should be able to expect a    \n            mp                                                                                       \n                                                                                                     \n           basic level of service for the substantial sums they are now paying to travel. The        \n                                                                                                     \n           responsibility for the latest wave of strikes rests on the unions. However, there 1s a    \n                                                                                                     \n           strong case that those who have been worst affected by industrial action should receive   \n                                                                                                     \n           compensation for the disruption they have suffered.                                       \n                                                                                                     \n               The  Government has pledged to change the law to introduce a minimum service          \n                                                                                                     \n           requirement so that, even when strikes occur, services can continue to operate. This      \n                                                                                                     \n           should form part of a wider package of measures to address the long-running problems      \n                                                                                                     \n           on Britain's railways. Yes, more investment is needed, but passengers will not be willing \n                                                                                                     \n           to pay  more indefinitely if they must also endure cramped, unreliable services,          \n                                                                                                     \n           punctuated by regular chaos when timetables are changed, or planned maintenance is        \n                                                                                                     \n           managed incompetently. The threat of nationalisation may have been seen off for now,      \n                                                                                                     \n           but it will return with a vengeance if the justified anger of passengers is not addressed in\n                                                                                                     \n           short order.                                                                              \n                                                                                                     \n                                                                                                     \n                                                                                                     \n                                                                                                     \n                                                                                                     \n                                                                                                     \n                                                                                                     \n                                �i½(  - ) iti.M . 3 . (� 14 Jf)",
+          "questions": [
+            {
+              "number": 21,
+              "stem": "The author holds that this year's increase in rail passenger fares",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": ""
+                },
+                {
+                  "label": "B",
+                  "text": ""
+                },
+                {
+                  "label": "C",
+                  "text": ""
+                },
+                {
+                  "label": "D",
+                  "text": ""
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 22,
+              "stem": "The stockbroker in Paragraph 2 is used to stand for [A ] car drivers. [ B] rail travelers. [ C] local investors. [ D] ordinary taxpayers.",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": ""
+                },
+                {
+                  "label": "B",
+                  "text": ""
+                },
+                {
+                  "label": "C",
+                  "text": ""
+                },
+                {
+                  "label": "D",
+                  "text": ""
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 23,
+              "stem": "It is indicated in Paragraph 3 that train operators [ A] are offering compensation to commuters. [ B] are trying to repair relations with the unions. [ C] have faUed to provide an adequate service. [ D] have suffered huge losses owing to the strikes.",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": ""
+                },
+                {
+                  "label": "B",
+                  "text": ""
+                },
+                {
+                  "label": "C",
+                  "text": ""
+                },
+                {
+                  "label": "D",
+                  "text": ""
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 24,
+              "stem": "If unable to calm down passengers, the railways may have to face [A ] the loss of investment. [ B] the collapse of operations. [ C] a reduction of revenue. [ D] a change of ownership.",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": ""
+                },
+                {
+                  "label": "B",
+                  "text": ""
+                },
+                {
+                  "label": "C",
+                  "text": ""
+                },
+                {
+                  "label": "D",
+                  "text": ""
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 25,
+              "stem": "Which of the following would be the best title for the text? [A ] Who Are to Blame for the Strikes? [ B] Constant Complaining Doesn't Work [ C] Can Nationalisation Bring Hope? [ D] Ever-rising Fares Aren't Sustainable �i½( -) iti.M . 4 . (� 14 Jf)",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": ""
+                },
+                {
+                  "label": "B",
+                  "text": ""
+                },
+                {
+                  "label": "C",
+                  "text": ""
+                },
+                {
+                  "label": "D",
+                  "text": ""
+                }
+              ],
+              "type": "choice"
+            }
+          ]
+        },
+        {
+          "text_num": 2,
+          "article": "Last year marked  the third year in a row of when  Indonesia's bleak rate of          \n                                                                                                     \n           deforestation has slowed pace. One reason for the turnaround may be the country's         \n           antipoverty program.                                                                      \n                                                                                                     \n               In 2007, Indonesia started phasing in a program that gives money to its poorest       \n                                                                                                     \n           residents under certain conditions, such as requiring people to keep kids in school or get\n                                                                                                     \n           regular medical care. Called conditional cash transfers or CCTs, these social assistance  \n                                                                                                     \n           programs are designed to reduce inequality and break the cycle of poverty. They're already\n                                                                                                     \n           used in dozens of countries worldwide. In Indonesia, the program has provided enough      \n                                                                                                     \n           food and medicine to substantially reduce severe growth problems among children.          \n               But CCT  programs don't generally consider effects on the environment. In fact,       \n                                                                                                     \n           poverty alleviation and environmental protection are often viewed as conflicting goals,   \n                                                                                                     \n           says Paul Ferraro, an economist at Johns Hopkins University.                              \n                                                                                                     \n               That's because economic growth can be correlated with environmental degradation,      \n                                                                                                     \n           while protecting the environment is sometimes correlated with greater poverty. However,   \n                                                                                                     \n           those correlations don't prove cause and effect. The only previous study analyzing        \n                                                                                                     \n           causality, based on an area in Mexico that had instituted CCTs, supported the traditional \n                                                                                                     \n           view. There, as people got more money, some of them may have more cleared land for        \n           cattle to raise for meat, Ferraro says.                                                   \n                                                                                                     \n               Such programs do  not have to negatively affect the environment, though. Ferraro      \n                                                                                                     \n           wanted to see if Indonesia's poverty-alleviation program was affecting deforestation.     \n                                                                                                     \n           Indonesia has the third-largest area of tropical forest in the world and one of the highest\n                                                                                                     \n           deforestation rates.                                                                      \n                                                                                                     \n               Ferraro analyzed satellite data showing annual forest loss from 2008 to 2012-         \n                                                                                                     \n           including during Indonesia's phase-in of the antipoverty program-in 7,468 forested        \n           villages across 15 provinces. \"We see that the program is associated with a 30 percent    \n                                                                                                     \n           reduction in deforestation,\" Ferraro says.                                                \n                                                                                                     \n               That's likely because the rural poor are using the money as makeshift insurance       \n                                                                                                     \n           policies against inclement weather, Ferraro says. Typically, if rains are delayed, people \n                                                                                                     \n           may clear land to plant more rice to supplement their harvests.                           \n                                                                                                     \n               Whether this research translates elsewhere is anybody's guess. Ferraro suggests the   \n           results may transfer to other parts of Asia, due to commonalities such as the importance  \n                                                                                                     \n           of growing rice and market access. And regardless of transferability, the study shows     \n                                                                                                     \n           that what's good for people may also be good for the environment. Even if this program    \n                                                                                                     \n           didn't reduce poverty, Ferraro says, \"the value of the avoided deforestation just for     \n                                                                                                     \n           carbon dioxide emissions alone is more than the program costs.\"                           \n                                                                                                     \n                                                                                                     \n                                *i½(-)-ii\\:M   . 5 . (� 14 Jf)",
+          "questions": [
+            {
+              "number": 26,
+              "stem": "According to the first two paragraphs, CCT programs aim to",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": ""
+                },
+                {
+                  "label": "B",
+                  "text": ""
+                },
+                {
+                  "label": "C",
+                  "text": ""
+                },
+                {
+                  "label": "D",
+                  "text": ""
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 27,
+              "stem": "The study based on an area in Mexico is cited to show that [ A] cattle raising has been a major means of livelihood for the poor. [ B] CCT programs have helped preserve traditional lifestyles. [ C] antipoverty efforts require the participation of local farmers. [ D] economic growth tends to cause environmental degradation.",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": ""
+                },
+                {
+                  "label": "B",
+                  "text": ""
+                },
+                {
+                  "label": "C",
+                  "text": ""
+                },
+                {
+                  "label": "D",
+                  "text": ""
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 28,
+              "stem": "In his study about Indonesia, Ferraro intends to find out",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": ""
+                },
+                {
+                  "label": "B",
+                  "text": ""
+                },
+                {
+                  "label": "C",
+                  "text": ""
+                },
+                {
+                  "label": "D",
+                  "text": ""
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 29,
+              "stem": "According to Ferraro, the CCT program in Indonesia is most valuable in that [ A] it will benefit other Asian countries. [ B] it will reduce regional inequality. [ C] it can protect the environment. [ D] it can benefit grain production.",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": ""
+                },
+                {
+                  "label": "B",
+                  "text": ""
+                },
+                {
+                  "label": "C",
+                  "text": ""
+                },
+                {
+                  "label": "D",
+                  "text": ""
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 30,
+              "stem": "What is the text centered on?",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": ""
+                },
+                {
+                  "label": "B",
+                  "text": ""
+                },
+                {
+                  "label": "C",
+                  "text": ""
+                },
+                {
+                  "label": "D",
+                  "text": ""
+                }
+              ],
+              "type": "choice"
+            }
+          ]
+        },
+        {
+          "text_num": 3,
+          "article": "As a historian who's always searching for the text or the image that makes us re­      \n                                                                                                     \n         evaluate the past, I've become preoccupied with looking for photographs that show our       \n                                                                                                     \n         Victorian ancestors smiling (what better way to shatter the image of 19th-century           \n                                                                                                     \n         prudery?). I've found quite a few, and-since I started posting them on Twitter-they         \n                                                                                                     \n         have been  causing quite a stir. People have been surprised to see evidence that            \n         Victorians had fun and could, and did, laugh. They are noting that the Victorians           \n                                                                                                     \n         suddenly seem to become more human  as the hundred-or-so years that separate us fade        \n                                                                                                     \n         away  through our common experience of laughter.                                            \n                                                                                                     \n              Of course, I need to concede that my collection of ' Smiling Victorians' makes up      \n                                                                                                     \n         only a tiny percentage of the vast catalogue of photographic portraiture created between    \n         1840 and  1900, the majority of which show sitters posing miserably and stiffly in front    \n                                                                                                     \n         of painted backdrops, or staring absently into the middle distance. How do we explain       \n                                                                                                     \n         this trend?                                                                                 \n                                                                                                     \n              During the 1840s and 1850s, in the early days of photography, exposure times were      \n                                                                                                     \n         notoriously long: the daguerreotype photographic method (producing an image on a            \n         silvered copper plate) could take several minutes to complete, resulting in blurred         \n                                                                                                     \n         images as sitters shifted position or adjusted their limbs. The thought of holding a fixed  \n                                                                                                     \n         grin as the camera performed its magical duties was too much to contemplate, and so a       \n                                                                                                     \n         non-committal blank stare became the norm.                                                  \n                                                                                                     \n              But exposure times were much quicker by the 1880s, and the introduction of the         \n                                                                                                     \n         Box  Brownie and other portable cameras meant that, though slow by today's digital          \n         standards, the exposure was almost instantaneous. Spontaneous smiles were relatively        \n                                                                                                     \n         easy to capture by the 1890s, so we must look elsewhere for an explanation of why           \n                                                                                                     \n         Victorians still hesitated to smile.                                                        \n                                                                                                     \n              One explanation might be the loss of dignity displayed through a cheesy grin.          \n                                                                                                     \n         \"Nature gave us lips to conceal our teeth,\" ran one popular Victorian maxim, alluding       \n         to the fact that before the birth of proper dentistry, mouths were often in a shocking state\n                                                                                                     \n         of hygiene. A flashing set of healthy and clean, regular ' pearly whites' was a rare sight  \n                                                                                                     \n         in Victorian society, the preserve of the super-rich (a nd even then, dental hygiene was    \n                                                                                                     \n         not guaranteed).                                                                            \n              A toothy grin ( especially when there were gaps or blackened gnashers) lacked          \n                                                                                                     \n         class: drunks, tramps, and music hall performers might gum and grin with a smile as         \n                                                                                                     \n         wide as Lewis Carroll's gum-exposing Cheshire Cat, but it was not a becoming look for       \n                                                                                                     \n         properly bred persons. Even Mark Twain, a man who enjoyed a hearty laugh, said that         \n                                                                                                     \n         when  it came to photographic portraits there could be \"nothing more damning than a         \n         silly, foolish smile fixed forever\".                                                        \n                                                                                                     \n                                                                                                     \n                                  *-i½( - ) -i�fk! . 7 . (� 14 N)",
+          "questions": [
+            {
+              "number": 31,
+              "stem": "According to Paragraph 1, the author's posts on Twitter [ A] changed people's impression of the Victorians. [ B] highlighted social media's role in Victorian studies. [ C] re-evaluated the Victorian's notion of public image. [ D] illustrated the development of Victorian photography.",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": ""
+                },
+                {
+                  "label": "B",
+                  "text": ""
+                },
+                {
+                  "label": "C",
+                  "text": ""
+                },
+                {
+                  "label": "D",
+                  "text": ""
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 32,
+              "stem": "What does the author say about the Victorian portraits he has collected? [ A] They are in popular use among historians. [ B] They are rare among photographs of that age. [ CJ They mirror 19th-century social conventions. [ D] They show effects of different exposure times.",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": ""
+                },
+                {
+                  "label": "B",
+                  "text": ""
+                },
+                {
+                  "label": "C",
+                  "text": ""
+                },
+                {
+                  "label": "D",
+                  "text": ""
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 33,
+              "stem": "What might have kept the Victorians from smiling for pictures in the 1890s? [ A] Their inherent social sensitiveness. [ B] Their tension before the camer",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": "[ C] Their distrust of new inventions. [ D] Their unhealthy dental condition."
+                },
+                {
+                  "label": "B",
+                  "text": ""
+                },
+                {
+                  "label": "C",
+                  "text": ""
+                },
+                {
+                  "label": "D",
+                  "text": ""
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 34,
+              "stem": "Mark Twain is quoted to show that the disapproval of smiles in pictures was [ A] a deep-root belief. [ B] a misguided attitude. [ C] a controversial view. [ D] a thought-provoking ide",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": ""
+                },
+                {
+                  "label": "B",
+                  "text": ""
+                },
+                {
+                  "label": "C",
+                  "text": ""
+                },
+                {
+                  "label": "D",
+                  "text": ""
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 35,
+              "stem": "Which of the following questions does the text answer? [ A] Why did most Victorians look stem in photographs? [ B] Why did the Victorians start to view photographs? [ C] What made photography develop in the Victorian period? [ D] How did smiling in photographs become a post-Victorian norm? �i¼(-)-i�� . 8. (� 14 Jf)",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": ""
+                },
+                {
+                  "label": "B",
+                  "text": ""
+                },
+                {
+                  "label": "C",
+                  "text": ""
+                },
+                {
+                  "label": "D",
+                  "text": ""
+                }
+              ],
+              "type": "choice"
+            }
+          ]
+        },
+        {
+          "text_num": 4,
+          "article": "From   the early days of broadband, advocates for consumers  and web-based            \n           companies worried that the cable and phone companies selling broadband connections        \n                                                                                                     \n           had the power and incentive to favor affiliated websites over their rivals'. That's why   \n                                                                                                     \n           there has been such a strong demand for rules that would prevent broadband providers      \n                                                                                                     \n           from picking winners and losers online, preserving the freedom and innovation that have   \n                                                                                                     \n           been the lifeblood of the Internet.                                                       \n                Yet that demand has been almost i ossible to fill-in part because of pushback        \n                                               mp                                                    \n           from  broadband providers, anti-regulatory conservatives and the courts. A federal        \n                                                                                                     \n           appeals court weighed in again Tuesday, but instead of providing a badly needed           \n                                                                                                     \n           resolution, it only prolonged the fight. At issue before the U.S. Court of Appeals for the\n                                                                                                     \n           District of Columbia Circuit was the latest take of the Federal Communications            \n                                                                                                     \n           Commission  (FCC)   on net neutrality, adopted on a party-line vote in 2017. The          \n           Republican-penned order not only eliminated the strict net neutrality rules the FCC had   \n                                                                                                     \n           adopted when  it had a Democratic majority in 2015, but rejected the commission's         \n                                                                                                     \n           authority to require broadband providers to do much of anything. The order also           \n                                                                                                     \n           declared that state and local governments couldn't regulate broadband providers either.   \n                                                                                                     \n                The commission argued that other agencies would protect against anti-competitive     \n           behavior, such as a broadband-providing conglomerate like AT&T favoring its own           \n                                                                                                     \n           video-streaming service at the expense of Netflix and Apple TV. Yet the FCC also ended    \n                                                                                                     \n           the investigations of broadband providers that imposed data caps on their rivals'         \n                                                                                                     \n           streaming services but not their own.                                                     \n                                                                                                     \n               On  Tuesday, the appeals court unanimously upheld the 2017 order deregulating         \n                                                                                                     \n           broadband providers, citing a Supreme Court ruling from 2005 that upheld a similarly      \n           deregulatory move. But Judge Patricia Millett rightly argued in a concurring opinion that \n                                                                                                     \n           \"the result is unhinged from the realities of modem broadband service,\" and said          \n                                                                                                     \n           Congress or the Supreme Court could intervene to \"a void trapping Internet regulation in  \n                                                                                                     \n           technological anachronism.\"                                                               \n                                                                                                     \n               In the meantime, the court threw out the FCC's attempt to block all state rules on    \n           net neutrality, while preserving the commission's power to preempt individual state laws  \n                                                                                                     \n           that undermine its order. That means more battles like the one now going on between       \n                                                                                                     \n           the Justice Department and California, which enacted a tough net neutrality law in the    \n                                                                                                     \n           wake of the FCC's abdication.                                                             \n                                                                                                     \n                The endless legal battles and back-and-forth at the FCC cry out for Congress to act. \n           It needs to give the commission explicit authority once and for all to bar broadband      \n                                                                                                     \n           providers from meddling in the traffic on their network and to create clear rules         \n                                                                                                     \n           protecting openness and innovation online.                                                \n                                                                                                     \n                                    *-i¼( -) ii(;¥! . 9 . (* 14 Jf)",
+          "questions": [
+            {
+              "number": 36,
+              "stem": "There has long been concern that broadband providers would",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": ""
+                },
+                {
+                  "label": "B",
+                  "text": ""
+                },
+                {
+                  "label": "C",
+                  "text": ""
+                },
+                {
+                  "label": "D",
+                  "text": ""
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 37,
+              "stem": "Faced with the demand for net neutrality rules, the FCC [ A] sticks to an out-of-date order. [ B] takes an anti-regulatory stance. [ C] has issued a special resolution. [ D] has allowed the states to intervene.",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": ""
+                },
+                {
+                  "label": "B",
+                  "text": ""
+                },
+                {
+                  "label": "C",
+                  "text": ""
+                },
+                {
+                  "label": "D",
+                  "text": ""
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 38,
+              "stem": "What can be learned about AT&T from Paragraph 3? It [ A] protects against unfair competition. It [ B ] engages in anti-competitive practices. It [ C] is under the FCC's investigation. It [ D] is in pursuit of quality service.",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": ""
+                },
+                {
+                  "label": "B",
+                  "text": ""
+                },
+                {
+                  "label": "C",
+                  "text": ""
+                },
+                {
+                  "label": "D",
+                  "text": ""
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 39,
+              "stem": "Judge Patricia Millett argues that the appeals court's decision [ A] focus on trivialities. [ B] conveys an ambiguous message. [ C] is at odds with its earlier rulings. [ D] is out of touch with reality.",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": ""
+                },
+                {
+                  "label": "B",
+                  "text": ""
+                },
+                {
+                  "label": "C",
+                  "text": ""
+                },
+                {
+                  "label": "D",
+                  "text": ""
+                }
+              ],
+              "type": "choice"
+            },
+            {
+              "number": 40,
+              "stem": "What does the author argue in the last paragraph? [ A] Congress needs to take action to ensure net neutrality. [ B] The FCC should be put under strict supervision. [ C] Rules need to be set to diversify online services. [ D] Broadband providers' rights should be protecte",
+              "choices": [
+                {
+                  "label": "A",
+                  "text": ""
+                },
+                {
+                  "label": "B",
+                  "text": ""
+                },
+                {
+                  "label": "C",
+                  "text": ""
+                },
+                {
+                  "label": "D",
+                  "text": "�i¼( - ) -il\\M .10. (� 14 Jf) Part"
+                }
+              ],
+              "type": "choice"
+            }
+          ]
+        }
+      ]
+    },
+    "new-type": {
+      "name": "Part B 阅读新题型",
+      "type": "new_type",
+      "question_range": [
+        41,
+        45
+      ],
+      "text": "(42) _________         These are \"tools that help         \n                                                                                                     \n           people use data, not a repla",
+      "article": "[ D] is out of touch with reality.\n[ A] Congress needs to take action to ensure net neutrality.\n[ B] The FCC should be put under strict supervision.\n[ C] Rules need to be set to diversify online services.\n[ D] Broadband providers' rights should be protected.\nPart .B\nIn the following text, some sentences have been removed. For Questions 41-45, choose\nthe most suitable one from the list A-G to fit into each of the numbered blanks. There\nANSWER    SHEET.  (10 points)\nIn the movies and  on television, artificial intelligence is typically depicted as\nsomething sinister that will upend our way of life. When it comes to AI in business, we\noften hear about it in relation to automation and the impending loss of jobs, but in what\nways  is AI changing companies and the larger economy that don't involve doom-and­\ngloom  mass unemployment  predictions?\nA recent survey of manufacturing and service industries from Tata Consultancy\nServices found that companies currently use AI more often in computer-to-computer\nactivities than in automating human activities. Here are a few ways AI is aiding\ncompanies without replacing employees:\nBetter hiring practices\nCompanies are using artificial intelligence to remove some of the unconscious bias\nfrom hiring decisions. \"There are experiments that show that, naturally, the results of\ninterviews are much more biased than what AI does,\" says Pedro Domingos, author of\nThe Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our\nWorld and a computer science professor at the University of Washington. \" ( 41)\n,, One company that's doing this is called Blendoor. It uses analytics to\nhelp identify where there may be bias in the hiring process.\nMore  effective marketing\nSome  AI software can analyze and optimize marketing email subject lines to\nincrease open rates. One company  in the UK,  Phrasee, claims their software can\noutperform humans by up  to 10 percent when it comes to email open rates. This can\nmean  millions more in revenue.",
+      "questions": [
+        {
+          "number": 42,
+          "stem": "(42) _________ These are \"tools that help people use data, not a replacement for people,\" says Patrick H. Winston, a professor of",
+          "choices": [
+            {
+              "label": "A",
+              "text": "AI replaces the boring parts of your job. If you're doing research, you can have AI go out and look for relevant sources and information that otherwise you just wouldn't have time for. [ B] One accounting firm, BY, uses an AI system that helps review contracts during an audit. This process, along wi"
+            }
+          ],
+          "type": "new_type"
+        },
+        {
+          "number": 43,
+          "stem": "heir premiums on AI models that more accurately access risk. Domingos says, \" \"(43) ---------",
+          "choices": [
+            {
+              "label": "A",
+              "text": "AI replaces the boring parts of your job. If you're doing research, you can have AI go out and look for relevant sources and information that otherwise you just wouldn't have time for. [ B] One accounting firm, BY, uses an AI system that helps review contracts during an audit. This process, along wi"
+            }
+          ],
+          "type": "new_type"
+        },
+        {
+          "number": 44,
+          "stem": "akes data more valuable,\" says Winston. It \"helps people make smarter decisions.\" (44) __",
+          "choices": [
+            {
+              "label": "A",
+              "text": "AI replaces the boring parts of your job. If you're doing research, you can have AI go out and look for relevant sources and information that otherwise you just wouldn't have time for. [ B] One accounting firm, BY, uses an AI system that helps review contracts during an audit. This process, along wi"
+            }
+          ],
+          "type": "new_type"
+        },
+        {
+          "number": 45,
+          "stem": "before they happen. \"If they fail first and then you fix them, it's very expensive,\" says Domingos. \"(45) ________ \"",
+          "choices": [
+            {
+              "label": "A",
+              "text": "AI replaces the boring parts of your job. If you're doing research, you can have AI go out and look for relevant sources and information that otherwise you just wouldn't have time for. [ B] One accounting firm, BY, uses an AI system that helps review contracts during an audit. This process, along wi"
+            }
+          ],
+          "type": "new_type"
+        }
+      ],
+      "warnings": []
+    },
+    "translation": {
+      "name": "C节 翻译",
+      "type": "translation",
+      "question_range": [
+        46,
+        50
+      ],
+      "text": "(46) Those societies came out of the war with levels of enrollment that had been\n           roughly constant at 3-5% of the relevant age groups during the decades before the war.    \n                 ",
+      "article": "Improved  accuracy\n\"Machine  learning often provides a more reliable form of statistics which makes\ndata more valuable,\" says Winston. It \"helps people make smarter decisions.\" (44) __\nProtecting and maintaining infrastructure\nA number  of companies, particularly in energy and transportation, use AI image\nprocessing technology to inspect infrastructure and prevent equipment failure or leaks\nbefore they happen. \"If they fail first and then you fix them, it's very expensive,\" says\ngo out and  look for relevant sources and information that otherwise you just\nwouldn't have time for.\n[ B] One  accounting firm, BY, uses an AI system that helps review contracts during an\naudit. This process, along with employees reviewing the · contracts, is faster and\nmore accurate.\n[ C] There are also companies like Acquisio, which analyzes advertising performance\nacross multiple channels like Adwords, Bing  and  social media and  makes\nadjustments or suggestions about where advertising funds will yield best results.\n[ D] You want to predict if something needs attention now and point to where it's useful\nfor employees to go to.\n[ E] Before, they might not insure the ones who felt like a high risk or charge them too\nmuch, or they would charge them too little and then it would cost the company money.\n[ F] We're also giving our customers better channels versus picking up the phone to\naccomplish something beyond human scale.\n[ G] AI looks at resumes in greater numbers than humans would be able to, and selects\nthe more promising candidates .\nPart C\nChinese. Write your answers on the ANSWER  SHEET.  (10 points)\nWorld War II was the watershed event for higher education in modem Western\nsocieties.",
+      "questions": [
+        {
+          "number": 46,
+          "stem": "Those societies came out of the war with levels of enrollment that had been roughly constant at 3-5% of the relevant age groups during the decades before the war. But after the war, great social and political changes arising out of the successful war against Fascism created a growing demand in European and American economies for increasing numbers of graduates with more than a secondary school education.",
+          "choices": [],
+          "type": "translation"
+        },
+        {
+          "number": 47,
+          "stem": "And the demand that rose in those societies for entry to higher education extended to groups and social classes that had not thought of attending a university before the war. These demands resulted in a very rapid expansion of the systems of higher education, beginning in the 1960s and developing very rapidly (though unevenly) during the 1970s and 1980s. The growth of higher education manifests itself in at least three quite different ways, and these in turn have given rise to different sets of problems. There was first the rate of growth:",
+          "choices": [],
+          "type": "translation"
+        },
+        {
+          "number": 48,
+          "stem": "in many countries of Western Europe, the numbers of students in higher education doubled within five-year periods during the 1960s and doubled again in seven, eight, or 10 years by the middle of the 1970s. Second, growth obviously affected the absolute size both of systems and individual institutions. And third, growth was reflected in changes in the proportion of the relevant age group enrolled in institutions of higher education. Each of these manifestations of growth carried its own peculiar problems in its wake. For example, a high growth rate placed great strains on the existing structure",
+          "choices": [],
+          "type": "translation"
+        },
+        {
+          "number": 49,
+          "stem": "and when the new staff are predominantly young men and women fresh from postgraduate study, they largely define the norms of · academic life in that faculty. And if the postgraduate student population also grows rapidly and there is loss of a close apprenticeship relationship between faculty members and students, the student culture becomes the chief socializing force for new postgraduate students, with consequences for the intellectual and academic life of the institution-this was seen in America as well as in France, Italy, West Germany, and Japan.",
+          "choices": [],
+          "type": "translation"
+        },
+        {
+          "number": 50,
+          "stem": "High growth rates increased the chances for academic innovation; they also weakened the forms and processes by which teachers and students are admitted into a community of scholars during periods of stability or slow growth. In the 1960s and 1970s, European universities saw marked changes in their governance arrangements, with empowerment of junior faculty and to some degree of students as well. *i¼(-)-i�� .13. (A-14 Jf) Part",
+          "choices": [],
+          "type": "translation"
+        }
+      ],
+      "warnings": []
+    },
+    "writing-a": {
+      "name": "A节 应用文写作",
+      "type": "writing_small",
+      "question_range": [
+        51,
+        51
+      ],
+      "text": "51. Directions :                                                                            \n                                                                                                     \n     ",
+      "article": "[ G] AI looks at resumes in greater numbers than humans would be able to, and selects\nthe more promising candidates .\nPart C\nChinese. Write your answers on the ANSWER  SHEET.  (10 points)\nWorld War II was the watershed event for higher education in modem Western\nsocieties. (46) Those societies came out of the war with levels of enrollment that had been\nroughly constant at 3-5% of the relevant age groups during the decades before the war.\nBut after the war, great social and political changes arising out of the successful war\nagainst Fascism created a growing demand in European and American economies for\nincreasing numbers of graduates with more than a secondary school education. (47) And\nthe demand that rose in those societies for entry to higher education extended to groups\nand social classes that had not thought of attending a university before the war. These\ndemands resulted in a very rapid expansion of the systems of higher education, beginning\nin the 1960s and developing very rapidly (though unevenly) during the 1970s and 1980s.\nThe growth of higher education manifests itself in at least three quite different\nways, and these in turn have given rise to different sets of problems. There was first the\nrate of growth: ( 48) in many countries of Western Europe, the numbers of students in\nhigher education doubled within five-year periods during the 1960s and doubled again\nin seven, eight, or 10 years by the middle of the 1970s. Second, growth obviously\naffected the absolute size both of systems and individual institutions. And third, growth\nwas reflected in changes in the proportion of the relevant age group enrolled in\ninstitutions of higher education.\nEach of these manifestations of growth carried its own peculiar problems in its\nwake. For example, a high growth rate placed great strains on the existing structures of\ngovernance, of administration, and above all of socialization. When a faculty or\ndepartment grows from, say, five to 20 members within three or four years, ( 49) and\nwhen  the new staff are predominantly young men and women fresh from postgraduate\nstudy, they largely define the norms of · academic life in that faculty. And if the\npostgraduate student population also grows rapidly and there is loss of a close\napprenticeship relationship between faculty members and students, the student culture\nbecomes the chief socializing force for new postgraduate students, with consequences\nfor the intellectual and academic life of the institution-this was seen in America as well\nas in France, Italy, West Germany, and Japan. ( 50) High growth rates increased the\nchances for academic innovation; they also weakened the forms and processes by which\nteachers and students are admitted into a community of scholars during periods of\nstability or slow growth. In the 1960s and 1970s, European universities saw marked\nchanges in their governance arrangements, with empowerment of junior faculty and to\nsome degree of students as well.",
+      "questions": [
+        {
+          "number": 51,
+          "stem": "Directions : A foreign friend of yours has recently graduated from college and intends to find a job in China. Write him/her an email to make some suggestions. You should write about 100 words on the ANSWER SHEET. Do not sign your own name at the end. Use \"Li Ming\" instead. Do not write the address. (10 points)",
+          "choices": [],
+          "type": "writing_small"
+        }
+      ],
+      "warnings": []
+    },
+    "writing-b": {
+      "name": "B节 短文写作",
+      "type": "writing_big",
+      "question_range": [
+        52,
+        52
+      ],
+      "text": "52. Directions:                                                                              \n                                                                                                     \n    ",
+      "article": "cism created a growing demand in European and American economies for\nincreasing numbers of graduates with more than a secondary school education. (47) And\nthe demand that rose in those societies for entry to higher education extended to groups\nand social classes that had not thought of attending a university before the war. These\ndemands resulted in a very rapid expansion of the systems of higher education, beginning\nin the 1960s and developing very rapidly (though unevenly) during the 1970s and 1980s.\nThe growth of higher education manifests itself in at least three quite different\nways, and these in turn have given rise to different sets of problems. There was first the\nrate of growth: ( 48) in many countries of Western Europe, the numbers of students in\nhigher education doubled within five-year periods during the 1960s and doubled again\nin seven, eight, or 10 years by the middle of the 1970s. Second, growth obviously\naffected the absolute size both of systems and individual institutions. And third, growth\nwas reflected in changes in the proportion of the relevant age group enrolled in\ninstitutions of higher education.\nEach of these manifestations of growth carried its own peculiar problems in its\nwake. For example, a high growth rate placed great strains on the existing structures of\ngovernance, of administration, and above all of socialization. When a faculty or\ndepartment grows from, say, five to 20 members within three or four years, ( 49) and\nwhen  the new staff are predominantly young men and women fresh from postgraduate\nstudy, they largely define the norms of · academic life in that faculty. And if the\npostgraduate student population also grows rapidly and there is loss of a close\napprenticeship relationship between faculty members and students, the student culture\nbecomes the chief socializing force for new postgraduate students, with consequences\nfor the intellectual and academic life of the institution-this was seen in America as well\nas in France, Italy, West Germany, and Japan. ( 50) High growth rates increased the\nchances for academic innovation; they also weakened the forms and processes by which\nteachers and students are admitted into a community of scholars during periods of\nstability or slow growth. In the 1960s and 1970s, European universities saw marked\nchanges in their governance arrangements, with empowerment of junior faculty and to\nsome degree of students as well.\nA foreign friend of yours has recently graduated from college and intends to find a\njob in China. Write him/her an email to make some suggestions.\nYou should write about 100 words on the ANSWER  SHEET.\nDo not sign your own name at the end. Use \"Li Ming\" instead.\nDo not write the address. (10 points)\nPart B",
+      "questions": [
+        {
+          "number": 52,
+          "stem": "Directions: Write an essay of 160-200 words based on the following picture. In your essay, you should",
+          "choices": [],
+          "type": "writing_big"
+        }
+      ],
+      "warnings": []
+    }
+  }
+}

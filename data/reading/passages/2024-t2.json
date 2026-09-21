@@ -1,0 +1,664 @@
+{
+  "exam": "en1",
+  "key": "2024-t2",
+  "year": 2024,
+  "text_no": 2,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2024-text2-s1",
+      "s": "Parenting tips obtained from hunter-gatherers in Africa may be the key to bringing up more contented children, researchers have suggested.",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "researchers",
+        "谓语": "have suggested",
+        "宾语或表语": "(that) Parenting tips may be the key",
+        "主干翻译": "研究人员认为，育儿技巧可能是关键。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "obtained from hunter-gatherers in Africa",
+          "修饰对象": "tips",
+          "中文翻译": "从非洲狩猎采集者那里获得的",
+          "说明": "过去分词短语作后置定语，修饰 Parenting tips。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "Parenting tips obtained from hunter-gatherers in Africa may be the key to bringing up more contented children",
+          "修饰对象": "have suggested",
+          "中文翻译": "从非洲狩猎采集者那里获得的育儿技巧，可能是培养更知足的孩子的关键",
+          "说明": "省略 that 的宾语从句，作 suggested 的宾语；本句为宾语从句前置、主句后置的倒装语序。"
+        }
+      ],
+      "zh": "研究人员指出，从非洲狩猎采集者那里获得的育儿技巧，可能是培养出更知足的孩子的关键。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2024-text2-s2",
+      "s": "The idea is based on studies of communities such as the Kung of Botswana, where each child is cared for by many adults.",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "The idea",
+        "谓语": "is based on",
+        "宾语或表语": "studies of communities",
+        "主干翻译": "这一观点基于对一些群体的研究。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "where each child is cared for by many adults",
+          "修饰对象": "Kung",
+          "中文翻译": "在那里每个孩子都由许多成年人照料",
+          "说明": "where 引导定语从句，修饰前面的部落 the Kung of Botswana（表地点关系）。"
+        }
+      ],
+      "zh": "这一观点基于对一些群体的研究，比如博茨瓦纳的昆人，在那里每个孩子都由许多成年人共同照料。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2024-text2-s3",
+      "s": "Kung children as young as four will help to look after younger ones and \"baby- wearing\", in which infants are carried in slings, is considered the norm.",
+      "para_no": 1,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Kung children / \"baby-wearing\"",
+        "谓语": "will help / is considered",
+        "宾语或表语": "to look after younger ones / the norm",
+        "主干翻译": "昆人的孩子会帮忙照看更小的孩子，而\"背婴\"被视为常态。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to look after younger ones",
+          "修饰对象": "help",
+          "中文翻译": "去照看更小的孩子",
+          "说明": "动词不定式作 help 的补足成分（help to do）。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "in which infants are carried in slings",
+          "修饰对象": "wearing",
+          "中文翻译": "即婴儿被装在背带里背着",
+          "说明": "in which 引导定语从句，修饰 \"baby-wearing\"，解释其含义。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "\"baby- wearing\", in which infants are carried in slings, is considered the norm",
+          "修饰对象": "help",
+          "中文翻译": "\"背婴\"，即把婴儿装在背带里背着，被视为常态",
+          "说明": "由 and 连接的第二个并列分句，与前一分句构成并列。"
+        }
+      ],
+      "zh": "昆人中年仅四岁的孩子就会帮忙照看更小的孩子，而\"背婴\"——即把婴儿装在背带里背着——被视为常态。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2024-text2-s4",
+      "s": "According to Dr Nikhil Chaudhary, an evolutionary anthropologist at Cambridge University, these practices, known as alloparenting, could lead to less anxiety for children and parents.",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "these practices",
+        "谓语": "could lead to",
+        "宾语或表语": "less anxiety for children and parents",
+        "主干翻译": "这些做法可能会减少孩子和父母的焦虑。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "an evolutionary anthropologist at Cambridge University",
+          "修饰对象": "Chaudhary",
+          "中文翻译": "剑桥大学的一名进化人类学家",
+          "说明": "同位语作插入语，说明 Dr Nikhil Chaudhary 的身份。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "known as alloparenting",
+          "修饰对象": "practices",
+          "中文翻译": "被称为\"共亲养育\"的",
+          "说明": "过去分词短语作后置定语，修饰 these practices。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "According to Dr Nikhil Chaudhary",
+          "修饰对象": "could lead to",
+          "中文翻译": "据尼基尔·乔杜里博士所说",
+          "说明": "据……所说，作全句的状语。"
+        }
+      ],
+      "zh": "据剑桥大学进化人类学家尼基尔·乔杜里博士所说，这些被称为\"共亲养育\"的做法，可能会减少孩子和父母的焦虑。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2024-text2-s5",
+      "s": "Dr Annie Swanepoel, a child psychiatrist, believes that there are ways to incorporate them into western life.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Dr Annie Swanepoel",
+        "谓语": "believes",
+        "宾语或表语": "that there are ways",
+        "主干翻译": "安妮·斯瓦内普尔博士认为存在一些方法。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "a child psychiatrist",
+          "修饰对象": "Swanepoel",
+          "中文翻译": "一名儿童精神科医生",
+          "说明": "同位语作插入语，说明 Dr Annie Swanepoel 的身份。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that there are ways to incorporate them into western life",
+          "修饰对象": "believes",
+          "中文翻译": "存在将它们融入西方生活的方法",
+          "说明": "that 引导宾语从句，作 believes 的宾语。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to incorporate them into western life",
+          "修饰对象": "ways",
+          "中文翻译": "将它们融入西方生活的",
+          "说明": "动词不定式作后置定语，修饰 ways。"
+        }
+      ],
+      "zh": "儿童精神科医生安妮·斯瓦内普尔博士认为，有一些办法可以把这些做法融入西方生活。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2024-text2-s6",
+      "s": "In Germany, one scheme has paired an old people's home with a nursery.",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "one scheme",
+        "谓语": "has paired",
+        "宾语或表语": "an old people's home with a nursery",
+        "主干翻译": "一个项目将一家养老院与一家托儿所配对。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "In Germany",
+          "修饰对象": "has paired",
+          "中文翻译": "在德国",
+          "说明": "地点状语，修饰全句。"
+        }
+      ],
+      "zh": "在德国，有一个项目将一家养老院与一家托儿所结成对子。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2024-text2-s7",
+      "s": "The residents help to look after the children, an arrangement akin to alloparenting.",
+      "para_no": 3,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "The residents",
+        "谓语": "help",
+        "宾语或表语": "to look after the children",
+        "主干翻译": "住养老院的老人帮忙照看孩子。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to look after the children",
+          "修饰对象": "help",
+          "中文翻译": "去照看孩子",
+          "说明": "动词不定式作 help 的补足成分（help to do）。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "an arrangement akin to alloparenting",
+          "修饰对象": "—",
+          "中文翻译": "这是一种类似于\"共亲养育\"的安排",
+          "说明": "名词短语作整个前句的同位语（插入说明），akin to alloparenting 为其后置定语。"
+        }
+      ],
+      "zh": "院中的老人帮忙照看孩子，这是一种类似于\"共亲养育\"的安排。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2024-text2-s8",
+      "s": "Another measure could be encouraging friendships between children in different school years to mirror the unsupervised mixed-age playgroups in hunter-gatherer communities.",
+      "para_no": 3,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "Another measure",
+        "谓语": "could be",
+        "宾语或表语": "encouraging friendships between children in different school years",
+        "主干翻译": "另一项举措可以是鼓励不同年级的孩子之间建立友谊。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to mirror the unsupervised mixed-age playgroups in hunter-gatherer communities",
+          "修饰对象": "encouraging",
+          "中文翻译": "以此来模仿狩猎采集社群中无人看管的混龄游戏群体",
+          "说明": "动词不定式作目的状语，表明鼓励此种友谊的目的。"
+        }
+      ],
+      "zh": "另一项举措可以是鼓励不同年级的孩子之间建立友谊，以此来模仿狩猎采集社群中那种无人看管的混龄玩伴群体。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2024-text2-s9",
+      "s": "In a paper published in the Journal of Child Psychology and Psychiatry, researchers said that the western nuclear family was a recent invention which broke with evolutionary history.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "researchers",
+        "谓语": "said",
+        "宾语或表语": "that the western nuclear family was a recent invention",
+        "主干翻译": "研究人员表示，西方核心家庭是一种近期的产物。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "published in the Journal of Child Psychology and Psychiatry",
+          "修饰对象": "paper",
+          "中文翻译": "发表于《儿童心理学与精神病学杂志》的",
+          "说明": "过去分词短语作后置定语，修饰 a paper。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "In a paper published in the Journal of Child Psychology and Psychiatry",
+          "修饰对象": "said",
+          "中文翻译": "在一篇发表于《儿童心理学与精神病学杂志》的论文中",
+          "说明": "介词短语作地点/范围状语，修饰主句谓语 said。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that the western nuclear family was a recent invention which broke with evolutionary history",
+          "修饰对象": "said",
+          "中文翻译": "西方核心家庭是一种与进化史相背离的近期产物",
+          "说明": "that 引导宾语从句，作 said 的宾语。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "which broke with evolutionary history",
+          "修饰对象": "invention",
+          "中文翻译": "与进化史相背离的",
+          "说明": "which 引导定语从句，修饰 a recent invention。"
+        }
+      ],
+      "zh": "在一篇发表于《儿童心理学与精神病学杂志》的论文中，研究人员指出，西方的核心家庭是一种近期才出现的产物，它与人类进化史相背离。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2024-text2-s10",
+      "s": "This abrupt shift to an\"intensive mothering narrative\", which suggests that mothers should manage childcare alone, was likely to have been harmful.“Such narratives can lead to maternal exhaustion and have dangerous consequences,” they wrote.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "This abrupt shift / Such narratives",
+        "谓语": "was likely / can lead to and have",
+        "宾语或表语": "to have been harmful / maternal exhaustion and dangerous consequences",
+        "主干翻译": "这种突然的转变很可能是有害的；他们写道，这类说法会导致母亲精疲力竭并带来危险的后果。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "which suggests that mothers should manage childcare alone",
+          "修饰对象": "narrative",
+          "中文翻译": "它暗示母亲应当独自承担育儿之责",
+          "说明": "which 引导非限制性定语从句，修饰 \"intensive mothering narrative\"。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that mothers should manage childcare alone",
+          "修饰对象": "suggests",
+          "中文翻译": "母亲应当独自承担育儿",
+          "说明": "that 引导宾语从句，作 suggests 的宾语。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to have been harmful",
+          "修饰对象": "likely",
+          "中文翻译": "曾是有害的",
+          "说明": "动词不定式（完成式）与 was likely 构成谓语结构（be likely to do）。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "Such narratives can lead to maternal exhaustion and have dangerous consequences",
+          "修饰对象": "wrote",
+          "中文翻译": "这类说法会导致母亲精疲力竭，并带来危险的后果",
+          "说明": "直接引语作 wrote 的宾语内容。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "have dangerous consequences",
+          "修饰对象": "lead",
+          "中文翻译": "带来危险的后果",
+          "说明": "由 and 连接，与 lead to maternal exhaustion 并列，共用主语 Such narratives。"
+        }
+      ],
+      "zh": "这种向\"密集母职叙事\"的突然转变——它暗示母亲应当独自承担育儿——很可能一直是有害的。他们写道：\"这类叙事会导致母亲精疲力竭，并带来危险的后果。\"",
+      "underline": null
+    },
+    {
+      "sid": "en1-2024-text2-s11",
+      "s": "By contrast, in hunter-gatherer societies adults other than the parents can provide almost half of a child's care.",
+      "para_no": 5,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "adults",
+        "谓语": "can provide",
+        "宾语或表语": "almost half of a child's care",
+        "主干翻译": "成年人可以提供孩子近一半的照料。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "By contrast",
+          "修饰对象": "can provide",
+          "中文翻译": "相比之下",
+          "说明": "状语，承上文转折对照。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "in hunter-gatherer societies",
+          "修饰对象": "can provide",
+          "中文翻译": "在狩猎采集社会中",
+          "说明": "地点/范围状语，修饰全句。"
+        },
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "other than the parents",
+          "修饰对象": "adults",
+          "中文翻译": "父母以外的",
+          "说明": "介词短语作后置定语，修饰 adults。"
+        }
+      ],
+      "zh": "相比之下，在狩猎采集社会中，父母以外的成年人几乎可以提供孩子一半的照料。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2024-text2-s12",
+      "s": "One previous study looked at the Efé people of the Democratic Republic of Congo.",
+      "para_no": 5,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "One previous study",
+        "谓语": "looked at",
+        "宾语或表语": "the Efé people",
+        "主干翻译": "此前的一项研究考察了埃费人。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "of the Democratic Republic of Congo",
+          "修饰对象": "people",
+          "中文翻译": "刚果民主共和国的",
+          "说明": "介词短语作后置定语，修饰 the Efé people。"
+        }
+      ],
+      "zh": "此前的一项研究考察了刚果民主共和国的埃费人。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2024-text2-s13",
+      "s": "It found that infants had an average of 14 alloparents a day by the time they were 18 weeks old and were passed between caregivers eight times an hour.",
+      "para_no": 5,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "It",
+        "谓语": "found",
+        "宾语或表语": "that infants had... and were passed...",
+        "主干翻译": "它发现婴儿（拥有很多共亲养育者，并被多次传递）。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "that infants had an average of 14 alloparents a day by the time they were 18 weeks old and were passed between caregivers eight times an hour",
+          "修饰对象": "found",
+          "中文翻译": "到婴儿18周大时，他们平均每天有14名共亲养育者，并且每小时在照料者之间被传递八次",
+          "说明": "that 引导宾语从句，作 found 的宾语。"
+        },
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "by the time they were 18 weeks old",
+          "修饰对象": "had",
+          "中文翻译": "到他们18周大时",
+          "说明": "by the time 引导时间状语从句，修饰 had。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "were passed between caregivers eight times an hour",
+          "修饰对象": "had",
+          "中文翻译": "每小时在照料者之间被传递八次",
+          "说明": "由 and 连接，与 had... 并列，共用从句主语 infants。"
+        }
+      ],
+      "zh": "研究发现，到婴儿18周大时，他们平均每天有14名共亲养育者，并且每小时在不同照料者之间被传递达八次。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2024-text2-s14",
+      "s": "Chaudhary said that parents now had less childcare support from family and social networks than during most of humans'evolutionary history, but introducing additional caregivers could reduce stress and maternal depression, which could have a“knock-on” benefit to a child's wellbeing.",
+      "para_no": 6,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Chaudhary",
+        "谓语": "said",
+        "宾语或表语": "that parents had less support, but introducing caregivers could reduce stress and depression",
+        "主干翻译": "乔杜里说，父母得到的支持变少了，但引入额外的照料者可以减轻压力和母亲的抑郁。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "that parents now had less childcare support from family and social networks than during most of humans'evolutionary history, but introducing additional caregivers could reduce stress and maternal depression, which could have a“knock-on” benefit to a child's wellbeing",
+          "修饰对象": "said",
+          "中文翻译": "如今父母从家庭和社会网络获得的育儿支持比人类进化史上大多数时期都要少，但引入额外的照料者能够减轻压力和母亲的抑郁，而这又能对孩子的健康带来\"连锁\"益处",
+          "说明": "that 引导宾语从句，作 said 的宾语，内部含 but 连接的并列分句。"
+        },
+        {
+          "成分类型": "状语从句(比较)",
+          "原文": "than during most of humans'evolutionary history",
+          "修饰对象": "less",
+          "中文翻译": "比人类进化史上的大多数时期",
+          "说明": "than 引导比较状语，与 less childcare support 构成比较结构。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "introducing additional caregivers could reduce stress and maternal depression, which could have a“knock-on” benefit to a child's wellbeing",
+          "修饰对象": "had",
+          "中文翻译": "引入额外的照料者能够减轻压力和母亲的抑郁，而这又能给孩子的健康带来\"连锁\"益处",
+          "说明": "由 but 连接，与前一分句（parents now had...）在宾语从句内构成并列。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "which could have a“knock-on” benefit to a child's wellbeing",
+          "修饰对象": "stress",
+          "中文翻译": "这能对孩子的健康产生\"连锁\"益处",
+          "说明": "which 引导非限制性定语从句，指代前面减轻压力和抑郁这件事（依存中心词为 stress 所在分句）。"
+        }
+      ],
+      "zh": "乔杜里说，如今父母从家庭和社会网络获得的育儿支持比人类进化史上大多数时期都要少，但引入额外的照料者能够减轻压力和母亲的抑郁，而这又会对孩子的健康产生\"连锁\"益处。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2024-text2-s15",
+      "s": "An infant born to a hunter-gatherer society could have more than ten caregivers—this contrasts starkly to nursery settings in the UK where regulations call for a ratio of one carer to four children aged two to three.",
+      "para_no": 6,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "An infant / this",
+        "谓语": "could have / contrasts",
+        "宾语或表语": "more than ten caregivers / starkly to nursery settings",
+        "主干翻译": "出生在狩猎采集社会的婴儿可能有十多名照料者——这与英国的托儿所情形形成鲜明对比。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "born to a hunter-gatherer society",
+          "修饰对象": "infant",
+          "中文翻译": "出生在狩猎采集社会的",
+          "说明": "过去分词短语作后置定语，修饰 An infant。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "An infant born to a hunter-gatherer society could have more than ten caregivers",
+          "修饰对象": "contrasts",
+          "中文翻译": "出生在狩猎采集社会的婴儿可能有十多名照料者",
+          "说明": "此为破折号前的主句内容，依存提示将其作为与 contrasts 相对照的前项。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "where regulations call for a ratio of one carer to four children aged two to three",
+          "修饰对象": "settings",
+          "中文翻译": "在那里规定要求看护人员与两到三岁儿童的比例为一比四",
+          "说明": "where 引导定语从句，修饰 nursery settings in the UK。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "aged two to three",
+          "修饰对象": "children",
+          "中文翻译": "两到三岁的",
+          "说明": "过去分词短语作后置定语，修饰 four children。"
+        }
+      ],
+      "zh": "出生在狩猎采集社会的婴儿可能拥有十多名照料者——这与英国托儿所的情形形成鲜明对比，在英国，规定要求看护人员与两到三岁儿童的比例为一比四。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2024-text2-s16",
+      "s": "While hunter-gatherer children learnt from observation and imitation in mixed- age playgroups, researchers said that western \"instructive teaching\", where pupils are asked to sit still, may contribute to conditions such as attention deficit hyperactivity disorder.",
+      "para_no": 7,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "researchers",
+        "谓语": "said",
+        "宾语或表语": "that western \"instructive teaching\" may contribute to conditions",
+        "主干翻译": "研究人员表示，西方的\"灌输式教学\"可能会促成某些病症。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(比较)",
+          "原文": "While hunter-gatherer children learnt from observation and imitation in mixed- age playgroups",
+          "修饰对象": "said",
+          "中文翻译": "狩猎采集社会的孩子在混龄玩伴群体中通过观察和模仿学习，而（与此相对）",
+          "说明": "While 在此引导对比性状语从句，与主句内容（西方教学方式）形成对照。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "where pupils are asked to sit still",
+          "修饰对象": "teaching",
+          "中文翻译": "在这种教学中学生被要求坐着不动",
+          "说明": "where 引导定语从句，修饰 western \"instructive teaching\"。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to sit still",
+          "修饰对象": "asked",
+          "中文翻译": "坐着不动",
+          "说明": "动词不定式作 ask sb to do 结构中的补足成分。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that western \"instructive teaching\", where pupils are asked to sit still, may contribute to conditions such as attention deficit hyperactivity disorder",
+          "修饰对象": "said",
+          "中文翻译": "西方的\"灌输式教学\"——在这种教学中学生被要求坐着不动——可能会促成诸如注意力缺陷多动障碍之类的病症",
+          "说明": "that 引导宾语从句，作 said 的宾语。"
+        }
+      ],
+      "zh": "狩猎采集社会的孩子在混龄玩伴群体中通过观察和模仿来学习，而研究人员指出，西方那种要求学生坐着不动的\"灌输式教学\"，可能会促成诸如注意力缺陷多动障碍之类的病症。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2024-text2-s17",
+      "s": "Chaudhary said that Britain should explore the possibility that older siblings helping their parents \"might also enhance their own social development\".",
+      "para_no": 7,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Chaudhary",
+        "谓语": "said",
+        "宾语或表语": "that Britain should explore the possibility",
+        "主干翻译": "乔杜里说，英国应当探究这种可能性。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "that Britain should explore the possibility that older siblings helping their parents \"might also enhance their own social development\"",
+          "修饰对象": "said",
+          "中文翻译": "英国应当探究这样一种可能性：哥哥姐姐帮助父母\"或许也能促进他们自身的社会性发展\"",
+          "说明": "第一个 that 引导宾语从句，作 said 的宾语。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "helping their parents",
+          "修饰对象": "siblings",
+          "中文翻译": "帮助父母的",
+          "说明": "现在分词短语作后置定语，修饰 older siblings（在同位语从句内充当主语的逻辑修饰）。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "that older siblings helping their parents \"might also enhance their own social development\"",
+          "修饰对象": "possibility",
+          "中文翻译": "即哥哥姐姐帮助父母或许也能促进他们自身的社会性发展",
+          "说明": "that 引导同位语从句，解释说明 the possibility 的具体内容。"
+        }
+      ],
+      "zh": "乔杜里说，英国应当探究这样一种可能性：哥哥姐姐帮助父母带弟弟妹妹，\"或许也能促进他们自身的社会性发展\"。",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2024-text2-s1",
+        "en1-2024-text2-s2",
+        "en1-2024-text2-s3"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2024-text2-s4"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2024-text2-s5",
+        "en1-2024-text2-s6",
+        "en1-2024-text2-s7",
+        "en1-2024-text2-s8"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2024-text2-s9",
+        "en1-2024-text2-s10"
+      ]
+    },
+    {
+      "para_no": 5,
+      "sids": [
+        "en1-2024-text2-s11",
+        "en1-2024-text2-s12",
+        "en1-2024-text2-s13"
+      ]
+    },
+    {
+      "para_no": 6,
+      "sids": [
+        "en1-2024-text2-s14",
+        "en1-2024-text2-s15"
+      ]
+    },
+    {
+      "para_no": 7,
+      "sids": [
+        "en1-2024-text2-s16",
+        "en1-2024-text2-s17"
+      ]
+    }
+  ]
+}

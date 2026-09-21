@@ -1,0 +1,657 @@
+{
+  "exam": "en1",
+  "key": "2020-t3",
+  "year": 2020,
+  "text_no": 3,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2020-text3-s1",
+      "s": "Progressives often support diversity mandates as a path to equality and a way to level the playing field.",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Progressives",
+        "谓语": "support",
+        "宾语或表语": "diversity mandates",
+        "主干翻译": "进步派支持多样性强制规定。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "as a path to equality and a way to level the playing field",
+          "修饰对象": "support",
+          "中文翻译": "作为通往平等的途径以及创造公平竞争环境的方式",
+          "说明": "as 引导的介词短语作方式/身份状语，说明支持的理由或角色定位。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "a way to level the playing field",
+          "修饰对象": "a path",
+          "中文翻译": "一种创造公平竞争环境的方式",
+          "说明": "由 and 连接 a path 与 a way，构成 as 短语内部的并列成分。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to level the playing field",
+          "修饰对象": "way",
+          "中文翻译": "用以创造公平竞争环境的",
+          "说明": "不定式作 way 的后置定语，表示该方式的目的或内容。"
+        }
+      ],
+      "zh": "进步派常常支持多样性强制规定，将其视为通往平等的途径，以及创造公平竞争环境的一种方式。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2020-text3-s2",
+      "s": "But all too often such policies are an insincere form of virtue-signaling that benefits only the most privileged and does little to help average people.",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "such policies",
+        "谓语": "are",
+        "宾语或表语": "an insincere form of virtue-signaling",
+        "主干翻译": "这类政策是一种虚伪的道德标榜形式。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "that benefits only the most privileged and does little to help average people",
+          "修饰对象": "form",
+          "中文翻译": "只惠及最享有特权的人、却几乎无助于普通人的",
+          "说明": "that 引导限制性定语从句，修饰 form（即 virtue-signaling 这种形式）。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "does little to help average people",
+          "修饰对象": "benefits",
+          "中文翻译": "几乎无助于普通人",
+          "说明": "由 and 连接定语从句内的两个并列谓语 benefits 与 does。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to help average people",
+          "修饰对象": "does",
+          "中文翻译": "去帮助普通人",
+          "说明": "不定式作 does little 的目的状语，构成 do little to do 结构。"
+        }
+      ],
+      "zh": "但这类政策往往只是一种虚伪的道德标榜形式，只惠及最享有特权的人，对帮助普通人却几乎毫无作用。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2020-text3-s3",
+      "s": "A pair of bills sponsored by Massachusetts state Senator Jason Lewis and House Speaker Pro Tempore Patricia Haddad, to ensure \"gender parity\" on boards and commissions, provide a case in point.",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "A pair of bills",
+        "谓语": "provide",
+        "宾语或表语": "a case in point",
+        "主干翻译": "一对议案提供了一个恰当的例证。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "sponsored by Massachusetts state Senator Jason Lewis and House Speaker Pro Tempore Patricia Haddad",
+          "修饰对象": "bills",
+          "中文翻译": "由马萨诸塞州参议员杰森·刘易斯和众议院临时议长帕特里夏·哈达德提出的",
+          "说明": "过去分词短语作 bills 的后置定语，表被动。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "House Speaker Pro Tempore Patricia Haddad",
+          "修饰对象": "Jason Lewis",
+          "中文翻译": "众议院临时议长帕特里夏·哈达德",
+          "说明": "由 and 连接 by 后的两个并列发起人。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to ensure \"gender parity\" on boards and commissions",
+          "修饰对象": "bills",
+          "中文翻译": "旨在确保董事会和委员会中的“性别均等”的",
+          "说明": "不定式短语作 bills 的后置定语，表议案目的。"
+        }
+      ],
+      "zh": "由马萨诸塞州参议员杰森·刘易斯和众议院临时议长帕特里夏·哈达德提出、旨在确保董事会和委员会中“性别均等”的一对议案，便是一个恰当的例证。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2020-text3-s4",
+      "s": "Haddad and Lewis are concerned that more than half the state-government boards are less than 40 percent female.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Haddad and Lewis",
+        "谓语": "are concerned",
+        "宾语或表语": "（that 从句宾语）",
+        "主干翻译": "哈达德和刘易斯感到担忧。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "that more than half the state-government boards are less than 40 percent female",
+          "修饰对象": "concerned",
+          "中文翻译": "超过半数的州政府董事会中女性比例不足40%",
+          "说明": "that 引导的从句作形容词 concerned 的宾语（情感形容词宾语从句）。"
+        }
+      ],
+      "zh": "哈达德和刘易斯担忧的是，超过半数的州政府董事会中女性所占比例不足40%。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2020-text3-s5",
+      "s": "In order to ensure that elite women have more such opportunities, they have proposed imposing government quotas.",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "they",
+        "谓语": "have proposed",
+        "宾语或表语": "imposing government quotas",
+        "主干翻译": "他们提议实施政府配额。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "In order to ensure that elite women have more such opportunities",
+          "修饰对象": "have proposed",
+          "中文翻译": "为了确保精英女性获得更多此类机会",
+          "说明": "in order to 引导的不定式短语作目的状语。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that elite women have more such opportunities",
+          "修饰对象": "ensure",
+          "中文翻译": "精英女性获得更多此类机会",
+          "说明": "that 引导的从句作 ensure 的宾语。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "imposing government quotas",
+          "修饰对象": "proposed",
+          "中文翻译": "实施政府配额",
+          "说明": "动名词短语作 proposed 的宾语，表所提议的内容。"
+        }
+      ],
+      "zh": "为了确保精英女性获得更多此类机会，他们提议实施政府配额。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2020-text3-s6",
+      "s": "If the bills become law, state boards and commissions will be required to set aside 50 percent of board seats for women by 2022.",
+      "para_no": 3,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "state boards and commissions",
+        "谓语": "will be required",
+        "宾语或表语": "to set aside 50 percent of board seats for women",
+        "主干翻译": "各州董事会和委员会将被要求为女性预留50%的董事席位。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "If the bills become law",
+          "修饰对象": "will be required",
+          "中文翻译": "如果这些议案成为法律",
+          "说明": "if 引导条件状语从句。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to set aside 50 percent of board seats for women by 2022",
+          "修饰对象": "required",
+          "中文翻译": "在2022年前为女性预留50%的董事席位",
+          "说明": "不定式作 be required 的补足语，说明被要求做的事。"
+        }
+      ],
+      "zh": "如果这些议案成为法律，各州董事会和委员会将被要求在2022年前为女性预留50%的董事席位。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2020-text3-s7",
+      "s": "The bills are similar to a measure recently adopted in California, which last year became the first state to require gender quotas for private companies.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The bills",
+        "谓语": "are",
+        "宾语或表语": "similar to a measure",
+        "主干翻译": "这些议案与一项措施相似。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "recently adopted in California",
+          "修饰对象": "measure",
+          "中文翻译": "近期在加利福尼亚州通过的",
+          "说明": "过去分词短语作 measure 的后置定语，表被动。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "which last year became the first state to require gender quotas for private companies",
+          "修饰对象": "Califomia",
+          "中文翻译": "去年成为首个对私营企业强制实行性别配额的州",
+          "说明": "which 引导非限制性定语从句，修饰先行词 California。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to require gender quotas for private companies",
+          "修饰对象": "state",
+          "中文翻译": "对私营企业强制实行性别配额的",
+          "说明": "不定式短语作 first state 的后置定语。"
+        }
+      ],
+      "zh": "这些议案与加利福尼亚州近期通过的一项措施相似，该州去年成为首个对私营企业强制实行性别配额的州。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2020-text3-s8",
+      "s": "In signing the measure, California Governor Jerry Brown admitted that the law, which expressly classifies people on the basis of sex, is probably unconstitutional.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "California Governor Jerry Brown",
+        "谓语": "admitted",
+        "宾语或表语": "（that 从句宾语）",
+        "主干翻译": "加州州长杰里·布朗承认。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "In signing the measure",
+          "修饰对象": "admitted",
+          "中文翻译": "在签署该措施时",
+          "说明": "in + 动名词短语作时间状语。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that the law, which expressly classifies people on the basis of sex, is probably unconstitutional",
+          "修饰对象": "admitted",
+          "中文翻译": "这项法律很可能违宪",
+          "说明": "that 引导的从句作 admitted 的宾语。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "which expressly classifies people on the basis of sex",
+          "修饰对象": "law",
+          "中文翻译": "明确以性别为依据对人进行分类",
+          "说明": "which 引导非限制性定语从句，修饰 the law，嵌于宾语从句内。"
+        }
+      ],
+      "zh": "在签署该措施时，加州州长杰里·布朗承认，这项明确以性别为依据对人进行分类的法律很可能违宪。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2020-text3-s9",
+      "s": "The US Supreme Court frowns on sex-based classifications unless they are designed to address an \"important\" policy interest, Because the California law applies to all boards, even where there is no history of prior discrimination, courts are likely to rule that the law violates the constitutional guarantee of \"equal protection\".",
+      "para_no": 5,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The US Supreme Court / courts",
+        "谓语": "frowns on / are likely",
+        "宾语或表语": "sex-based classifications / to rule ...",
+        "主干翻译": "美国最高法院反对基于性别的分类；法院很可能裁定。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "unless they are designed to address an \"important\" policy interest",
+          "修饰对象": "frowns",
+          "中文翻译": "除非这些分类是为了应对某种“重要的”政策利益而设",
+          "说明": "unless 引导否定条件状语从句，修饰 frowns on。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to address an \"important\" policy interest",
+          "修饰对象": "designed",
+          "中文翻译": "去应对某种“重要的”政策利益",
+          "说明": "不定式作 are designed 的补足语，表目的。"
+        },
+        {
+          "成分类型": "状语从句(原因)",
+          "原文": "Because the California law applies to all boards, even where there is no history of prior discrimination",
+          "修饰对象": "are",
+          "中文翻译": "由于加州法律适用于所有董事会，甚至适用于此前没有歧视历史的董事会",
+          "说明": "because 引导原因状语从句，说明法院可能作出裁定的理由。"
+        },
+        {
+          "成分类型": "状语从句(让步)",
+          "原文": "even where there is no history of prior discrimination",
+          "修饰对象": "applies",
+          "中文翻译": "甚至在不存在以往歧视历史的情况下",
+          "说明": "even where 引导让步状语从句，嵌于 because 从句内。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to rule that the law violates the constitutional guarantee of \"equal protection\"",
+          "修饰对象": "likely",
+          "中文翻译": "裁定该法律违反了宪法对“平等保护”的保障",
+          "说明": "不定式作 are likely 的补足语。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that the law violates the constitutional guarantee of \"equal protection\"",
+          "修饰对象": "rule",
+          "中文翻译": "该法律违反了宪法对“平等保护”的保障",
+          "说明": "that 引导的从句作 rule 的宾语。"
+        }
+      ],
+      "zh": "美国最高法院反对基于性别的分类，除非这些分类是为了应对某种“重要的”政策利益而设。由于加州法律适用于所有董事会，甚至适用于此前并无歧视历史的董事会，法院很可能裁定该法律违反了宪法对“平等保护”的保障。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2020-text3-s10",
+      "s": "But are such government mandates even necessary?",
+      "para_no": 6,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "such government mandates",
+        "谓语": "are",
+        "宾语或表语": "necessary",
+        "主干翻译": "这类政府强制规定是必要的吗？"
+      },
+      "components": [],
+      "zh": "但这类政府强制规定真的有必要吗？",
+      "underline": null
+    },
+    {
+      "sid": "en1-2020-text3-s11",
+      "s": "Female participation on corporate boards may not currently mirror the percentage of women in the general population, but so what?",
+      "para_no": 6,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Female participation on corporate boards",
+        "谓语": "may not mirror",
+        "宾语或表语": "the percentage of women in the general population",
+        "主干翻译": "公司董事会中的女性参与度或许并不能反映总人口中的女性比例。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "but so what?",
+          "修饰对象": "—",
+          "中文翻译": "但那又如何呢？",
+          "说明": "but 连接前一分句，构成转折并列；so what 为省略性反问。"
+        }
+      ],
+      "zh": "公司董事会中的女性参与度目前或许并不能反映总人口中的女性比例，但那又如何呢？",
+      "underline": null
+    },
+    {
+      "sid": "en1-2020-text3-s12",
+      "s": "The number of women on corporate boards has been steadily increasing without government interference.",
+      "para_no": 7,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The number of women on corporate boards",
+        "谓语": "has been increasing",
+        "宾语或表语": "（steadily）",
+        "主干翻译": "公司董事会中的女性人数一直在稳步增加。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "without government interference",
+          "修饰对象": "has been increasing",
+          "中文翻译": "在没有政府干预的情况下",
+          "说明": "without 引导的介词短语作方式/伴随状语。"
+        }
+      ],
+      "zh": "在没有政府干预的情况下，公司董事会中的女性人数一直在稳步增加。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2020-text3-s13",
+      "s": "According to a study by Catalyst, between 2010 and 2015 the share of women on the boards of global corporations increased by 54 percent.",
+      "para_no": 7,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "the share of women on the boards of global corporations",
+        "谓语": "increased",
+        "宾语或表语": "by 54 percent",
+        "主干翻译": "全球性公司董事会中的女性比例增加了54%。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "According to a study by Catalyst",
+          "修饰对象": "increased",
+          "中文翻译": "根据Catalyst的一项研究",
+          "说明": "according to 引导的介词短语作依据状语。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "between 2010 and 2015",
+          "修饰对象": "increased",
+          "中文翻译": "在2010年至2015年间",
+          "说明": "between...and... 引导的介词短语作时间状语。"
+        }
+      ],
+      "zh": "根据Catalyst的一项研究，在2010年至2015年间，全球性公司董事会中的女性比例增加了54%。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2020-text3-s14",
+      "s": "Requiring companies to make gender the primary qualification for board membership will inevitably lead to less experienced private sector boards.",
+      "para_no": 8,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Requiring companies to make gender the primary qualification for board membership",
+        "谓语": "will lead to",
+        "宾语或表语": "less experienced private sector boards",
+        "主干翻译": "要求公司将性别作为董事会成员资格的首要条件，将不可避免地导致私营部门董事会的经验更为欠缺。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to make gender the primary qualification for board membership",
+          "修饰对象": "Requiring",
+          "中文翻译": "将性别作为董事会成员资格的首要条件",
+          "说明": "不定式作 require sb to do 结构中的宾语补足语，整个动名词短语作句子主语。"
+        }
+      ],
+      "zh": "要求公司将性别作为董事会成员资格的首要条件，将不可避免地导致私营部门董事会经验更为欠缺。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2020-text3-s15",
+      "s": "That is exactly what happened when Norway adopted a nationwide corporate gender quota.",
+      "para_no": 8,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "That",
+        "谓语": "is",
+        "宾语或表语": "exactly what happened",
+        "主干翻译": "那正是所发生的情况。"
+      },
+      "components": [
+        {
+          "成分类型": "表语从句",
+          "原文": "what happened when Norway adopted a nationwide corporate gender quota",
+          "修饰对象": "is",
+          "中文翻译": "挪威实行全国性公司性别配额时所发生的情况",
+          "说明": "what 引导表语从句。"
+        },
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "when Norway adopted a nationwide corporate gender quota",
+          "修饰对象": "happened",
+          "中文翻译": "当挪威实行全国性公司性别配额时",
+          "说明": "when 引导时间状语从句，嵌于表语从句内。"
+        }
+      ],
+      "zh": "那正是挪威实行全国性公司性别配额时所发生的情况。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2020-text3-s16",
+      "s": "Writing in The New Republic, Alice Lee notes that increasing the number of opportunities for board membership without increasing the pool of qualified women to serve on such boards has led to a \"golden skirt\" phenomenon, where the same elite women scoop up multiple seats on a variety of boards.",
+      "para_no": 9,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Alice Lee",
+        "谓语": "notes",
+        "宾语或表语": "（that 从句宾语）",
+        "主干翻译": "爱丽丝·李指出。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "Writing in The New Republic",
+          "修饰对象": "notes",
+          "中文翻译": "在《新共和》杂志上撰文时",
+          "说明": "现在分词短语作伴随/时间状语。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that increasing the number of opportunities for board membership without increasing the pool of qualified women to serve on such boards has led to a \"golden skirt\" phenomenon, where the same elite women scoop up multiple seats on a variety of boards",
+          "修饰对象": "notes",
+          "中文翻译": "在不扩大有资格在此类董事会任职的女性储备的情况下增加董事会成员席位的机会数量，已导致出现一种“金裙”现象",
+          "说明": "that 引导的从句作 notes 的宾语；其主语为动名词短语 increasing...。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to serve on such boards",
+          "修饰对象": "women",
+          "中文翻译": "能在此类董事会任职的",
+          "说明": "不定式短语作 qualified women 的后置定语。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "where the same elite women scoop up multiple seats on a variety of boards",
+          "修饰对象": "phenomenon",
+          "中文翻译": "在这种现象中，同一批精英女性在各类董事会中揽得多个席位",
+          "说明": "where 引导非限制性定语从句，修饰 phenomenon。"
+        }
+      ],
+      "zh": "爱丽丝·李在《新共和》杂志撰文指出，在不扩大有资格在此类董事会任职的女性储备的情况下增加董事会席位的机会数量，已经导致出现一种“金裙”现象，即同一批精英女性在各类董事会中揽得多个席位。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2020-text3-s17",
+      "s": "Next time somebody pushes corporate quotas as a way to promote gender equity, remember that such policies are largely self-serving measures that make their sponsors feel good but do little to help average women.",
+      "para_no": 10,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "（you）",
+        "谓语": "remember",
+        "宾语或表语": "（that 从句宾语）",
+        "主干翻译": "（你要）记住。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "Next time somebody pushes corporate quotas as a way to promote gender equity",
+          "修饰对象": "remember",
+          "中文翻译": "下次有人将公司配额鼓吹为促进性别公平的一种方式时",
+          "说明": "next time 引导时间状语从句（next time 充当连词）。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to promote gender equity",
+          "修饰对象": "way",
+          "中文翻译": "用以促进性别公平的",
+          "说明": "不定式短语作 a way 的后置定语。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that such policies are largely self-serving measures that make their sponsors feel good but do little to help average women",
+          "修饰对象": "remember",
+          "中文翻译": "这类政策在很大程度上是自利之举，它让其倡导者自我感觉良好，却几乎无助于普通女性",
+          "说明": "that 引导的从句作 remember 的宾语。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that make their sponsors feel good but do little to help average women",
+          "修饰对象": "measures",
+          "中文翻译": "使其倡导者自我感觉良好、却几乎无助于普通女性的",
+          "说明": "that 引导限制性定语从句，修饰 measures，嵌于宾语从句内。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "do little to help average women",
+          "修饰对象": "make",
+          "中文翻译": "几乎无助于普通女性",
+          "说明": "由 but 连接定语从句内的两个并列谓语 make 与 do。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to help average women",
+          "修饰对象": "do",
+          "中文翻译": "去帮助普通女性",
+          "说明": "不定式作 do little 的目的状语。"
+        }
+      ],
+      "zh": "下次再有人将公司配额鼓吹为促进性别公平的一种方式时，请记住：这类政策在很大程度上是自利之举，它让其倡导者自我感觉良好，却几乎无助于普通女性。",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2020-text3-s1",
+        "en1-2020-text3-s2"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2020-text3-s3"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2020-text3-s4",
+        "en1-2020-text3-s5",
+        "en1-2020-text3-s6"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2020-text3-s7",
+        "en1-2020-text3-s8"
+      ]
+    },
+    {
+      "para_no": 5,
+      "sids": [
+        "en1-2020-text3-s9"
+      ]
+    },
+    {
+      "para_no": 6,
+      "sids": [
+        "en1-2020-text3-s10",
+        "en1-2020-text3-s11"
+      ]
+    },
+    {
+      "para_no": 7,
+      "sids": [
+        "en1-2020-text3-s12",
+        "en1-2020-text3-s13"
+      ]
+    },
+    {
+      "para_no": 8,
+      "sids": [
+        "en1-2020-text3-s14",
+        "en1-2020-text3-s15"
+      ]
+    },
+    {
+      "para_no": 9,
+      "sids": [
+        "en1-2020-text3-s16"
+      ]
+    },
+    {
+      "para_no": 10,
+      "sids": [
+        "en1-2020-text3-s17"
+      ]
+    }
+  ]
+}

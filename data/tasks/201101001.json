@@ -1,0 +1,1827 @@
+{
+  "tasks": [
+    {
+      "content_json": {
+        "1": {
+          "A": "among",
+          "B": "except",
+          "C": "despite",
+          "D": "like",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "among",
+                "surface": "among"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "except",
+                "surface": "except"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "despite",
+                "surface": "despite"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "like",
+                "surface": "like"
+              }
+            ]
+          },
+          "replace": {
+            "end": 11,
+            "start": 4
+          },
+          "sentence_id": 2011013002
+        },
+        "2": {
+          "A": "reflect",
+          "B": "demand",
+          "C": "indicate",
+          "D": "produce",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "reflect",
+                "surface": "reflect"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "demand",
+                "surface": "demand"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "indicate",
+                "surface": "indicate"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "produce",
+                "surface": "produce"
+              }
+            ]
+          },
+          "replace": {
+            "end": 21,
+            "start": 14
+          },
+          "sentence_id": 2011013003
+        },
+        "3": {
+          "A": "stabilizing",
+          "B": "boosting",
+          "C": "impairing",
+          "D": "determining",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "stabilize",
+                "surface": "stabilizing"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "boost",
+                "surface": "boosting"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "impair",
+                "surface": "impairing"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "determine",
+                "surface": "determining"
+              }
+            ]
+          },
+          "replace": {
+            "end": 101,
+            "start": 93
+          },
+          "sentence_id": 2011013003
+        },
+        "4": {
+          "A": "transmit",
+          "B": "sustain",
+          "C": "evaluate",
+          "D": "observe",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "transmit",
+                "surface": "transmit"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "sustain",
+                "surface": "sustain"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "evaluate",
+                "surface": "evaluate"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "observe",
+                "surface": "observe"
+              }
+            ]
+          },
+          "replace": {
+            "end": 49,
+            "start": 42
+          },
+          "sentence_id": 2011013004
+        },
+        "5": {
+          "A": "measurable",
+          "B": "manageable",
+          "C": "affordable",
+          "D": "renewable",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "measurable",
+                "surface": "measurable"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "manageable",
+                "surface": "manageable"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "affordable",
+                "surface": "affordable"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "renewable",
+                "surface": "renewable"
+              }
+            ]
+          },
+          "replace": {
+            "end": 94,
+            "start": 84
+          },
+          "sentence_id": 2011013004
+        },
+        "6": {
+          "A": "In turn",
+          "B": "In fact",
+          "C": "In addition",
+          "D": "In brief",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "in",
+                "surface": "In"
+              },
+              {
+                "lemma": "turn",
+                "surface": "turn"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "in",
+                "surface": "In"
+              },
+              {
+                "lemma": "fact",
+                "surface": "fact"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "in",
+                "surface": "In"
+              },
+              {
+                "lemma": "addition",
+                "surface": "addition"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "in",
+                "surface": "In"
+              },
+              {
+                "lemma": "brief",
+                "surface": "brief"
+              }
+            ]
+          },
+          "replace": {
+            "end": 7,
+            "start": 0
+          },
+          "sentence_id": 2011013005
+        },
+        "7": {
+          "A": "opposite",
+          "B": "impossible",
+          "C": "average",
+          "D": "expected",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "opposite",
+                "surface": "opposite"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "impossible",
+                "surface": "impossible"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "average",
+                "surface": "average"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "expect",
+                "surface": "expected"
+              }
+            ]
+          },
+          "replace": {
+            "end": 116,
+            "start": 108
+          },
+          "sentence_id": 2011013005
+        },
+        "8": {
+          "A": "hardens",
+          "B": "weakens",
+          "C": "tightens",
+          "D": "relaxes",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "harden",
+                "surface": "hardens"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "weaken",
+                "surface": "weakens"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "tighten",
+                "surface": "tightens"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "relax",
+                "surface": "relaxes"
+              }
+            ]
+          },
+          "replace": {
+            "end": 63,
+            "start": 56
+          },
+          "sentence_id": 2011013006
+        },
+        "9": {
+          "A": "aggravate",
+          "B": "generate",
+          "C": "moderate",
+          "D": "enhance",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "aggravate",
+                "surface": "aggravate"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "generate",
+                "surface": "generate"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "moderate",
+                "surface": "moderate"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "enhance",
+                "surface": "enhance"
+              }
+            ]
+          },
+          "replace": {
+            "end": 52,
+            "start": 44
+          },
+          "sentence_id": 2011013007
+        },
+        "10": {
+          "A": "physical",
+          "B": "mental",
+          "C": "subconscious",
+          "D": "internal",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "physical",
+                "surface": "physical"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "mental",
+                "surface": "mental"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "subconscious",
+                "surface": "subconscious"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "internal",
+                "surface": "internal"
+              }
+            ]
+          },
+          "replace": {
+            "end": 73,
+            "start": 65
+          },
+          "sentence_id": 2011013008
+        },
+        "11": {
+          "A": "Except for",
+          "B": "According to",
+          "C": "Due to",
+          "D": "As for",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "except",
+                "surface": "Except"
+              },
+              {
+                "lemma": "for",
+                "surface": "for"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "according",
+                "surface": "According"
+              },
+              {
+                "lemma": "to",
+                "surface": "to"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "due",
+                "surface": "Due"
+              },
+              {
+                "lemma": "to",
+                "surface": "to"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "as",
+                "surface": "As"
+              },
+              {
+                "lemma": "for",
+                "surface": "for"
+              }
+            ]
+          },
+          "replace": {
+            "end": 12,
+            "start": 0
+          },
+          "sentence_id": 2011013009
+        },
+        "12": {
+          "A": "with",
+          "B": "on",
+          "C": "in",
+          "D": "at",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "with",
+                "surface": "with"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "on",
+                "surface": "on"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "in",
+                "surface": "in"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "at",
+                "surface": "at"
+              }
+            ]
+          },
+          "replace": {
+            "end": 82,
+            "start": 80
+          },
+          "sentence_id": 2011013009
+        },
+        "13": {
+          "A": "unless",
+          "B": "until",
+          "C": "if",
+          "D": "because",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "unless",
+                "surface": "unless"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "until",
+                "surface": "until"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "if",
+                "surface": "if"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "because",
+                "surface": "because"
+              }
+            ]
+          },
+          "replace": {
+            "end": 75,
+            "start": 68
+          },
+          "sentence_id": 2011013010
+        },
+        "14": {
+          "A": "exhausts",
+          "B": "follows",
+          "C": "precedes",
+          "D": "suppresses",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "exhaust",
+                "surface": "exhausts"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "follow",
+                "surface": "follows"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "precede",
+                "surface": "precedes"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "suppress",
+                "surface": "suppresses"
+              }
+            ]
+          },
+          "replace": {
+            "end": 30,
+            "start": 22
+          },
+          "sentence_id": 2011013011
+        },
+        "15": {
+          "A": "into",
+          "B": "from",
+          "C": "towards",
+          "D": "beyond",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "into",
+                "surface": "into"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "from",
+                "surface": "from"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "toward",
+                "surface": "towards"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "beyond",
+                "surface": "beyond"
+              }
+            ]
+          },
+          "replace": {
+            "end": 83,
+            "start": 79
+          },
+          "sentence_id": 2011013011
+        },
+        "16": {
+          "A": "fetch",
+          "B": "bite",
+          "C": "pick",
+          "D": "hold",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "fetch",
+                "surface": "fetch"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "bite",
+                "surface": "bite"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "pick",
+                "surface": "pick"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "hold",
+                "surface": "hold"
+              }
+            ]
+          },
+          "replace": {
+            "end": 134,
+            "start": 130
+          },
+          "sentence_id": 2011013012
+        },
+        "17": {
+          "A": "disappointed",
+          "B": "excited",
+          "C": "joyful",
+          "D": "indifferent",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "disappoint",
+                "surface": "disappointed"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "excite",
+                "surface": "excited"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "joyful",
+                "surface": "joyful"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "indifferent",
+                "surface": "indifferent"
+              }
+            ]
+          },
+          "replace": {
+            "end": 263,
+            "start": 251
+          },
+          "sentence_id": 2011013012
+        },
+        "18": {
+          "A": "adapted",
+          "B": "catered",
+          "C": "turned",
+          "D": "reacted",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "adapt",
+                "surface": "adapted"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "cater",
+                "surface": "catered"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "turn",
+                "surface": "turned"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "react",
+                "surface": "reacted"
+              }
+            ]
+          },
+          "replace": {
+            "end": 54,
+            "start": 47
+          },
+          "sentence_id": 2011013013
+        },
+        "19": {
+          "A": "suggesting",
+          "B": "requiring",
+          "C": "mentioning",
+          "D": "supposing",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "suggest",
+                "surface": "suggesting"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "require",
+                "surface": "requiring"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "mention",
+                "surface": "mentioning"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "suppose",
+                "surface": "supposing"
+              }
+            ]
+          },
+          "replace": {
+            "end": 161,
+            "start": 151
+          },
+          "sentence_id": 2011013013
+        },
+        "20": {
+          "A": "Eventually",
+          "B": "Consequently",
+          "C": "Similarly",
+          "D": "Conversely",
+          "option_tokens": {
+            "A": [
+              {
+                "lemma": "eventually",
+                "surface": "Eventually"
+              }
+            ],
+            "B": [
+              {
+                "lemma": "consequently",
+                "surface": "Consequently"
+              }
+            ],
+            "C": [
+              {
+                "lemma": "similar",
+                "surface": "Similarly"
+              }
+            ],
+            "D": [
+              {
+                "lemma": "conversely",
+                "surface": "Conversely"
+              }
+            ]
+          },
+          "replace": {
+            "end": 9,
+            "start": 0
+          },
+          "sentence_id": 2011013014
+        },
+        "article": "Ancient Greek philosopher Aristotle viewed laughter as “a bodily exercise precious to health.”\nBut despite some claims to the contrary, laughing probably has little influence on physical fitness.\nLaughter does produce short-term changes in the function of the heart and its blood vessels, boosting heart rate and oxygen consumption.\nBut because hard laughter is difficult to sustain, a good laugh is unlikely to have measurable benefits the way, say, walking or jogging does.\nIn fact, instead of straining muscles to build them, as exercise does, laughter apparently accomplishes the opposite.\nStudies dating back to the 1930s indicate that laughter relaxes muscles, decreasing muscle tone for up to 45 minutes after the laugh dies down.\nSuch bodily reaction might conceivably help moderate the effects of psychological stress.\nAnyway, the act of laughing probably does produce other types of physical feedback that improve an individual’s emotional state.\nAccording to one classical theory of emotion, our feelings are partially rooted in physical reactions.\nIt was argued at the end of the 19th century that humans do not cry because they are sad but that they become sad when the tears begin to flow.\nAlthough sadness also precedes tears, evidence suggests that emotions can flow from muscular responses.\nIn an experiment published in 1988, social psychologist Fritz Strack of the University of Würzburg in Germany asked volunteers to hold a pen either with their teeth — thereby creating an artificial smile — or with their lips, which would produce a(n) disappointed expression.\nThose forced to exercise their smiling muscles reacted more enthusiastically to funny cartoons than did those whose mouths were contracted in a frown, suggesting that expressions may influence emotions rather than just the other way around.\nSimilarly, the physical act of laughter could improve mood.",
+        "blanks": [
+          {
+            "blank_no": 1,
+            "replace": {
+              "end": 11,
+              "start": 4
+            },
+            "sentence_id": 2011013002
+          },
+          {
+            "blank_no": 2,
+            "replace": {
+              "end": 21,
+              "start": 14
+            },
+            "sentence_id": 2011013003
+          },
+          {
+            "blank_no": 3,
+            "replace": {
+              "end": 101,
+              "start": 93
+            },
+            "sentence_id": 2011013003
+          },
+          {
+            "blank_no": 4,
+            "replace": {
+              "end": 49,
+              "start": 42
+            },
+            "sentence_id": 2011013004
+          },
+          {
+            "blank_no": 5,
+            "replace": {
+              "end": 94,
+              "start": 84
+            },
+            "sentence_id": 2011013004
+          },
+          {
+            "blank_no": 6,
+            "replace": {
+              "end": 7,
+              "start": 0
+            },
+            "sentence_id": 2011013005
+          },
+          {
+            "blank_no": 7,
+            "replace": {
+              "end": 116,
+              "start": 108
+            },
+            "sentence_id": 2011013005
+          },
+          {
+            "blank_no": 8,
+            "replace": {
+              "end": 63,
+              "start": 56
+            },
+            "sentence_id": 2011013006
+          },
+          {
+            "blank_no": 9,
+            "replace": {
+              "end": 52,
+              "start": 44
+            },
+            "sentence_id": 2011013007
+          },
+          {
+            "blank_no": 10,
+            "replace": {
+              "end": 73,
+              "start": 65
+            },
+            "sentence_id": 2011013008
+          },
+          {
+            "blank_no": 11,
+            "replace": {
+              "end": 12,
+              "start": 0
+            },
+            "sentence_id": 2011013009
+          },
+          {
+            "blank_no": 12,
+            "replace": {
+              "end": 82,
+              "start": 80
+            },
+            "sentence_id": 2011013009
+          },
+          {
+            "blank_no": 13,
+            "replace": {
+              "end": 75,
+              "start": 68
+            },
+            "sentence_id": 2011013010
+          },
+          {
+            "blank_no": 14,
+            "replace": {
+              "end": 30,
+              "start": 22
+            },
+            "sentence_id": 2011013011
+          },
+          {
+            "blank_no": 15,
+            "replace": {
+              "end": 83,
+              "start": 79
+            },
+            "sentence_id": 2011013011
+          },
+          {
+            "blank_no": 16,
+            "replace": {
+              "end": 134,
+              "start": 130
+            },
+            "sentence_id": 2011013012
+          },
+          {
+            "blank_no": 17,
+            "replace": {
+              "end": 263,
+              "start": 251
+            },
+            "sentence_id": 2011013012
+          },
+          {
+            "blank_no": 18,
+            "replace": {
+              "end": 54,
+              "start": 47
+            },
+            "sentence_id": 2011013013
+          },
+          {
+            "blank_no": 19,
+            "replace": {
+              "end": 161,
+              "start": 151
+            },
+            "sentence_id": 2011013013
+          },
+          {
+            "blank_no": 20,
+            "replace": {
+              "end": 9,
+              "start": 0
+            },
+            "sentence_id": 2011013014
+          }
+        ],
+        "questions": [
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，句子表达的是尽管有一些相反的说法，笑对身体健康的影响很小，因此需要一个表示让步的词语。\nA. ‘among’表示‘在……之中’，不符合语境，因为这里需要表达让步关系。\nB. ‘except’表示‘除了’，不符合语境，因为没有排除的含义。\nC. ‘despite’表示‘尽管’，符合语境，表达让步关系。\nD. ‘like’表示‘像’，不符合语境，因为没有比较的含义。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "C",
+            "id": 1,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "among",
+                  "surface": "among"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "except",
+                  "surface": "except"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "despite",
+                  "surface": "despite"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "like",
+                  "surface": "like"
+                }
+              ]
+            },
+            "options": [
+              "A) among",
+              "B) except",
+              "C) despite",
+              "D) like"
+            ],
+            "qid": 2011011001,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据语境，笑会对心脏及其血管功能产生短期变化，因此需要一个表示‘产生’的词。\nA. ‘reflect’表示‘反映’，不符合语境，因为这里强调的是产生变化。\nB. ‘demand’表示‘要求’，不符合语境，因为没有需求的含义。\nC. ‘indicate’表示‘表明’，不符合语境，因为没有指示的含义。\nD. ‘produce’表示‘产生’，符合语境，强调变化的产生。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "D",
+            "id": 2,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "reflect",
+                  "surface": "reflect"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "demand",
+                  "surface": "demand"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "indicate",
+                  "surface": "indicate"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "produce",
+                  "surface": "produce"
+                }
+              ]
+            },
+            "options": [
+              "A) reflect",
+              "B) demand",
+              "C) indicate",
+              "D) produce"
+            ],
+            "qid": 2011011002,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据语境，笑会增加心率和氧气消耗，因此需要一个表示‘增加’的词。\nA. ‘stabilizing’表示‘稳定’，不符合语境，因为这里强调的是增加而非稳定。\nB. ‘boosting’表示‘增加’，符合语境，强调心率和氧气消耗的增加。\nC. ‘impairing’表示‘损害’，不符合语境，因为没有负面影响的含义。\nD. ‘determining’表示‘决定’，不符合语境，因为没有决定的含义。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "B",
+            "id": 3,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "stabilize",
+                  "surface": "stabilizing"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "boost",
+                  "surface": "boosting"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "impair",
+                  "surface": "impairing"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "determine",
+                  "surface": "determining"
+                }
+              ]
+            },
+            "options": [
+              "A) stabilizing",
+              "B) boosting",
+              "C) impairing",
+              "D) determining"
+            ],
+            "qid": 2011011003,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据语境，‘hard laughter’难以维持，因此需要一个表示‘维持’的词。\nA. ‘transmit’表示‘传递’，不符合语境，因为没有传递的含义。\nB. ‘sustain’表示‘维持’，符合语境，强调大笑难以持续。\nC. ‘evaluate’表示‘评估’，不符合语境，因为没有评估的含义。\nD. ‘observe’表示‘观察’，不符合语境，因为没有观察的含义。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "B",
+            "id": 4,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "transmit",
+                  "surface": "transmit"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "sustain",
+                  "surface": "sustain"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "evaluate",
+                  "surface": "evaluate"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "observe",
+                  "surface": "observe"
+                }
+              ]
+            },
+            "options": [
+              "A) transmit",
+              "B) sustain",
+              "C) evaluate",
+              "D) observe"
+            ],
+            "qid": 2011011004,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据语境，‘a good laugh’不太可能像步行或慢跑一样具有‘可测量的’益处，因此需要一个表示‘可测量的’的词。\nA. ‘measurable’表示‘可测量的’，符合语境，强调益处可以被量化。\nB. ‘manageable’表示‘可管理的’，不符合语境，因为没有管理的含义。\nC. ‘affordable’表示‘负担得起的’，不符合语境，因为没有经济负担的含义。\nD. ‘renewable’表示‘可再生的’，不符合语境，因为没有再生的含义。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "A",
+            "id": 5,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "measurable",
+                  "surface": "measurable"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "manageable",
+                  "surface": "manageable"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "affordable",
+                  "surface": "affordable"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "renewable",
+                  "surface": "renewable"
+                }
+              ]
+            },
+            "options": [
+              "A) measurable",
+              "B) manageable",
+              "C) affordable",
+              "D) renewable"
+            ],
+            "qid": 2011011005,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，句子强调笑与锻炼的效果相反，‘In fact’是最适合的选项，用来引出事实并与前文形成逻辑连接。\nA. ‘In turn’表示‘轮流’或‘依次’，与上下文逻辑不符。\nB. ‘In fact’表示‘事实上’，用来强调与前文的对比关系，最为合适。\nC. ‘In addition’表示‘此外’，通常用于补充信息，而非对比，不符合语境。\nD. ‘In brief’表示‘简而言之’，通常用于总结，而非引出对比，不符合语境。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "B",
+            "id": 6,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "in",
+                  "surface": "In"
+                },
+                {
+                  "lemma": "turn",
+                  "surface": "turn"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "in",
+                  "surface": "In"
+                },
+                {
+                  "lemma": "fact",
+                  "surface": "fact"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "in",
+                  "surface": "In"
+                },
+                {
+                  "lemma": "addition",
+                  "surface": "addition"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "in",
+                  "surface": "In"
+                },
+                {
+                  "lemma": "brief",
+                  "surface": "brief"
+                }
+              ]
+            },
+            "options": [
+              "A) In turn",
+              "B) In fact",
+              "C) In addition",
+              "D) In brief"
+            ],
+            "qid": 2011011006,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，笑的效果与锻炼相反，因此‘opposite’是最合适的选项。\nA. ‘opposite’表示‘相反的’，与上下文逻辑一致，最为合适。\nB. ‘impossible’表示‘不可能的’，与上下文逻辑不符。\nC. ‘average’表示‘平均的’，与上下文逻辑不符。\nD. ‘expected’表示‘预期的’，与上下文逻辑不符。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "A",
+            "id": 7,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "opposite",
+                  "surface": "opposite"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "impossible",
+                  "surface": "impossible"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "average",
+                  "surface": "average"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "expect",
+                  "surface": "expected"
+                }
+              ]
+            },
+            "options": [
+              "A) opposite",
+              "B) impossible",
+              "C) average",
+              "D) expected"
+            ],
+            "qid": 2011011007,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，笑的效果是放松肌肉，因此‘relaxes’是最合适的选项。\nA. ‘hardens’表示‘使变硬’，与上下文逻辑不符。\nB. ‘weakens’表示‘使变弱’，虽然与放松有一定联系，但不如‘relaxes’准确。\nC. ‘tightens’表示‘使变紧’，与上下文逻辑相反。\nD. ‘relaxes’表示‘放松’，与上下文逻辑一致，最为合适。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "D",
+            "id": 8,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "harden",
+                  "surface": "hardens"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "weaken",
+                  "surface": "weakens"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "tighten",
+                  "surface": "tightens"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "relax",
+                  "surface": "relaxes"
+                }
+              ]
+            },
+            "options": [
+              "A) hardens",
+              "B) weakens",
+              "C) tightens",
+              "D) relaxes"
+            ],
+            "qid": 2011011008,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，身体反应的作用是缓解心理压力，因此‘moderate’是最合适的选项。\nA. ‘aggravate’表示‘加重’，与上下文逻辑相反。\nB. ‘generate’表示‘产生’，与缓解压力的逻辑不符。\nC. ‘moderate’表示‘缓解’，与上下文逻辑一致，最为合适。\nD. ‘enhance’表示‘增强’，与上下文逻辑不符。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "C",
+            "id": 9,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "aggravate",
+                  "surface": "aggravate"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "generate",
+                  "surface": "generate"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "moderate",
+                  "surface": "moderate"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "enhance",
+                  "surface": "enhance"
+                }
+              ]
+            },
+            "options": [
+              "A) aggravate",
+              "B) generate",
+              "C) moderate",
+              "D) enhance"
+            ],
+            "qid": 2011011009,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，笑的行为产生的是身体反馈，因此‘physical’是最合适的选项。\nA. ‘physical’表示‘身体的’，与上下文逻辑一致，最为合适。\nB. ‘mental’表示‘心理的’，与身体反馈的逻辑不符。\nC. ‘subconscious’表示‘潜意识的’，与上下文逻辑不符。\nD. ‘internal’表示‘内部的’，虽然有一定联系，但不如‘physical’准确。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "A",
+            "id": 10,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "physical",
+                  "surface": "physical"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "mental",
+                  "surface": "mental"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "subconscious",
+                  "surface": "subconscious"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "internal",
+                  "surface": "internal"
+                }
+              ]
+            },
+            "options": [
+              "A) physical",
+              "B) mental",
+              "C) subconscious",
+              "D) internal"
+            ],
+            "qid": 2011011010,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据经典情感理论，情感与身体反应相关联，因此用 'According to' 引出理论最为合适。\nA. ‘Except for’ 意为‘除了’，不适合引出理论。\nB. ‘According to’ 意为‘根据’，适合引出理论。\nC. ‘Due to’ 意为‘由于’，不适合引出理论。\nD. ‘As for’ 意为‘至于’，不适合引出理论。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "B",
+            "id": 11,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "except",
+                  "surface": "Except"
+                },
+                {
+                  "lemma": "for",
+                  "surface": "for"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "according",
+                  "surface": "According"
+                },
+                {
+                  "lemma": "to",
+                  "surface": "to"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "due",
+                  "surface": "Due"
+                },
+                {
+                  "lemma": "to",
+                  "surface": "to"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "as",
+                  "surface": "As"
+                },
+                {
+                  "lemma": "for",
+                  "surface": "for"
+                }
+              ]
+            },
+            "options": [
+              "A) Except for",
+              "B) According to",
+              "C) Due to",
+              "D) As for"
+            ],
+            "qid": 2011011011,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "情感根植于身体反应中，‘rooted in’ 是固定搭配。\nA. ‘rooted with’ 不符合搭配习惯。\nB. ‘rooted on’ 不符合搭配习惯。\nC. ‘rooted in’ 是正确搭配，表示‘根植于’。\nD. ‘rooted at’ 不符合搭配习惯。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "C",
+            "id": 12,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "with",
+                  "surface": "with"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "on",
+                  "surface": "on"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "in",
+                  "surface": "in"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "at",
+                  "surface": "at"
+                }
+              ]
+            },
+            "options": [
+              "A) with",
+              "B) on",
+              "C) in",
+              "D) at"
+            ],
+            "qid": 2011011012,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "句子讨论的是情感与生理反应的关系，‘because’ 表示因果关系，符合句意。\nA. ‘unless’ 意为‘除非’，不符合句意。\nB. ‘until’ 意为‘直到’，不符合句意。\nC. ‘if’ 意为‘如果’，不符合句意。\nD. ‘because’ 意为‘因为’，符合句意。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "D",
+            "id": 13,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "unless",
+                  "surface": "unless"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "until",
+                  "surface": "until"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "if",
+                  "surface": "if"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "because",
+                  "surface": "because"
+                }
+              ]
+            },
+            "options": [
+              "A) unless",
+              "B) until",
+              "C) if",
+              "D) because"
+            ],
+            "qid": 2011011013,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，句子强调悲伤先于眼泪出现，符合逻辑的是 'precedes'（先于）。\nA. ‘exhausts’ 意为‘使筋疲力尽’，与句意不符，因为句子并未提到悲伤耗尽眼泪。\nB. ‘follows’ 意为‘跟随’，与句意相反，因为悲伤是先于眼泪出现的。\nC. ‘precedes’ 意为‘先于’，符合句意，表明悲伤在眼泪之前出现。\nD. ‘suppresses’ 意为‘抑制’，与句意不符，因为句子并未提到悲伤抑制眼泪。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "C",
+            "id": 14,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "exhaust",
+                  "surface": "exhausts"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "follow",
+                  "surface": "follows"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "precede",
+                  "surface": "precedes"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "suppress",
+                  "surface": "suppresses"
+                }
+              ]
+            },
+            "options": [
+              "A) exhausts",
+              "B) follows",
+              "C) precedes",
+              "D) suppresses"
+            ],
+            "qid": 2011011014,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，情感通过肌肉反应流动，‘from’表示来源，符合逻辑。\nA. ‘into’ 意为‘进入’，与句意不符，因为句子强调情感的来源而非流向。\nB. ‘from’ 意为‘从’，符合句意，表明情感源于肌肉反应。\nC. ‘towards’ 意为‘朝向’，与句意不符，因为句子未提到情感的目标方向。\nD. ‘beyond’ 意为‘超越’，与句意不符，因为句子未提到情感超越肌肉反应。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "B",
+            "id": 15,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "into",
+                  "surface": "into"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "from",
+                  "surface": "from"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "toward",
+                  "surface": "towards"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "beyond",
+                  "surface": "beyond"
+                }
+              ]
+            },
+            "options": [
+              "A) into",
+              "B) from",
+              "C) towards",
+              "D) beyond"
+            ],
+            "qid": 2011011015,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "A. ‘fetch’ 意为‘取来’，与句意不符，因为句子强调的是夹住笔而非取笔。\nB. ‘bite’ 意为‘咬’，与句意不符，因为句子强调的是夹住笔而非咬笔。\nC. ‘pick’ 意为‘挑选’，与句意不符，因为句子未提到选择笔。\nD. ‘hold’ 意为‘夹住’，符合句意，表明志愿者用牙齿或嘴唇夹住笔。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "D",
+            "id": 16,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "fetch",
+                  "surface": "fetch"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "bite",
+                  "surface": "bite"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "pick",
+                  "surface": "pick"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "hold",
+                  "surface": "hold"
+                }
+              ]
+            },
+            "options": [
+              "A) fetch",
+              "B) bite",
+              "C) pick",
+              "D) hold"
+            ],
+            "qid": 2011011016,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "A. ‘disappointed’ 意为‘失望的’，符合句意，表明嘴唇夹住笔会产生失望表情。\nB. ‘excited’ 意为‘兴奋的’，与句意不符，因为句子强调的是失望表情。\nC. ‘joyful’ 意为‘快乐的’，与句意不符，因为句子强调的是失望表情。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "A",
+            "id": 17,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "disappoint",
+                  "surface": "disappointed"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "excite",
+                  "surface": "excited"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "joyful",
+                  "surface": "joyful"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "indifferent",
+                  "surface": "indifferent"
+                }
+              ]
+            },
+            "options": [
+              "A) disappointed",
+              "B) excited",
+              "C) joyful",
+              "D) indifferent"
+            ],
+            "qid": 2011011017,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，句子讨论了微笑肌肉的锻炼如何影响对漫画的反应。'reacted' 表示反应，符合语境。\nA. ‘adapted’意为适应，不符合语境，因为句子强调的是对漫画的反应而非适应。\nB. ‘catered’意为迎合，不符合语境，因为没有提到迎合漫画的内容。\nC. ‘turned’意为转向，不符合语境，因为句子讨论的是反应而非转向。\nD. ‘reacted’意为反应，符合语境，描述了对漫画的反应。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "D",
+            "id": 18,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "adapt",
+                  "surface": "adapted"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "cater",
+                  "surface": "catered"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "turn",
+                  "surface": "turned"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "react",
+                  "surface": "reacted"
+                }
+              ]
+            },
+            "options": [
+              "A) adapted",
+              "B) catered",
+              "C) turned",
+              "D) reacted"
+            ],
+            "qid": 2011011018,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "根据上下文，句子讨论了表情如何影响情绪。‘suggesting’ 表示表明，符合语境。\nA. ‘suggesting’意为表明，符合语境，描述了表情对情绪的影响。\nB. ‘requiring’意为需要，不符合语境，因为句子没有讨论需求。\nC. ‘mentioning’意为提到，不符合语境，因为句子强调的是表明而非简单提到。\nD. ‘supposing’意为假设，不符合语境，因为句子讨论的是事实而非假设。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "A",
+            "id": 19,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "suggest",
+                  "surface": "suggesting"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "require",
+                  "surface": "requiring"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "mention",
+                  "surface": "mentioning"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "suppose",
+                  "surface": "supposing"
+                }
+              ]
+            },
+            "options": [
+              "A) suggesting",
+              "B) requiring",
+              "C) mentioning",
+              "D) supposing"
+            ],
+            "qid": 2011011019,
+            "text": ""
+          },
+          {
+            "ai_analysis_ids": [],
+            "ai_analysis_text": "然而，结合上下文，句子实际上是在与前文的实验结果进行类比，‘Similarly’更能体现这种逻辑关系。\nA. ‘Eventually’意为最终，虽然可以表达结论性陈述，但不符合句子与前文实验结果类比的语境。\nB. ‘Consequently’意为因此，强调因果关系，但此处并未表达因果逻辑。\nC. ‘Similarly’意为类似地，符合语境，表明句子是在与前文实验结果进行类比。\nD. ‘Conversely’意为相反，不符合语境，因为句子没有表达对立观点。",
+            "ai_analysis_words": [],
+            "analysis_sentence_id": null,
+            "answer": "C",
+            "id": 20,
+            "option_tokens": {
+              "A": [
+                {
+                  "lemma": "eventually",
+                  "surface": "Eventually"
+                }
+              ],
+              "B": [
+                {
+                  "lemma": "consequently",
+                  "surface": "Consequently"
+                }
+              ],
+              "C": [
+                {
+                  "lemma": "similar",
+                  "surface": "Similarly"
+                }
+              ],
+              "D": [
+                {
+                  "lemma": "conversely",
+                  "surface": "Conversely"
+                }
+              ]
+            },
+            "options": [
+              "A) Eventually",
+              "B) Consequently",
+              "C) Similarly",
+              "D) Conversely"
+            ],
+            "qid": 2011011020,
+            "text": ""
+          }
+        ]
+      },
+      "directions": "Read the following text. Choose the best word(s) for each numbered blank and mark A, B, C\nor D on ANSWER SHEET 1. (10 points)",
+      "exam_info": "2011(1)",
+      "exam_type": "kaoyan",
+      "id": 201101001,
+      "key_words": "physical laughter except produce relaxes rooted according fact moderate opposite similarly suggesting boosting despite disappointed does hold indicate measurable precedes reacted sustain adapted addition affordable aggravate among average beyond bite brief catered consequently conversely demand determining due enhance evaluate eventually excited exercise exhausts expected fetch follows generate hardens impairing impossible internal joyful laugh like manageable mental mentioning muscles observe pick reflect renewable requiring stabilizing subconscious supposing suppresses tightens towards transmit turn turned unless until weakens act bodily emotions flow good",
+      "kid": 14,
+      "part": "Part III",
+      "section": "Sec A",
+      "task_key": "2011(1)_Section I_ ",
+      "type": "Use of English"
+    }
+  ]
+}

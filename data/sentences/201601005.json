@@ -1,0 +1,3382 @@
+{
+  "sentences": [
+    {
+      "cn_text": "终有一日，《纽约时报》将停止在新闻纸上刊登报道。",
+      "en_text": "There will eventually come a day when The New York Times ceases to publish stories on newsprint.",
+      "id": 2016013159,
+      "order_seq": "content_1_1",
+      "task_id": 201601005,
+      "tokens": [
+        {
+          "gloss": "有",
+          "lemma": "there",
+          "surface": "there"
+        },
+        {
+          "gloss": "将",
+          "lemma": "will",
+          "surface": "will"
+        },
+        {
+          "gloss": "最终",
+          "lemma": "eventually",
+          "surface": "eventually"
+        },
+        {
+          "gloss": "到来",
+          "lemma": "come",
+          "surface": "come"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "日子",
+          "lemma": "day",
+          "surface": "day"
+        },
+        {
+          "gloss": "当",
+          "lemma": "when",
+          "surface": "when"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "新的",
+          "lemma": "new",
+          "surface": "new"
+        },
+        {
+          "gloss": "纽约",
+          "lemma": "york",
+          "surface": "york"
+        },
+        {
+          "gloss": "时报",
+          "lemma": "times",
+          "surface": "times"
+        },
+        {
+          "gloss": "停止",
+          "lemma": "cease",
+          "surface": "ceases"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "发表",
+          "lemma": "publish",
+          "surface": "publish"
+        },
+        {
+          "gloss": "报道",
+          "lemma": "story",
+          "surface": "stories"
+        },
+        {
+          "gloss": "在",
+          "lemma": "on",
+          "surface": "on"
+        },
+        {
+          "gloss": "新闻纸",
+          "lemma": "newsprint",
+          "surface": "newsprint"
+        }
+      ]
+    },
+    {
+      "cn_text": "具体日期尚无定论。该报出版商在2010年曾表示：「在未来某个时候」。",
+      "en_text": "Exactly when that day will be is a matter of debate. “Sometime in the future,” the paper’s publisher said back in 2010.",
+      "id": 2016013160,
+      "order_seq": "content_1_2",
+      "task_id": 201601005,
+      "tokens": [
+        {
+          "gloss": "具体地",
+          "lemma": "exactly",
+          "surface": "exactly"
+        },
+        {
+          "gloss": "何时",
+          "lemma": "when",
+          "surface": "when"
+        },
+        {
+          "gloss": "那",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "日子",
+          "lemma": "day",
+          "surface": "day"
+        },
+        {
+          "gloss": "将",
+          "lemma": "will",
+          "surface": "will"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "be"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "问题",
+          "lemma": "matter",
+          "surface": "matter"
+        },
+        {
+          "gloss": "关于",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "争议",
+          "lemma": "debate",
+          "surface": "debate"
+        },
+        {
+          "gloss": "某个时候",
+          "lemma": "sometime",
+          "surface": "sometime"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "未来",
+          "lemma": "future",
+          "surface": "future"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "报纸",
+          "lemma": "paper",
+          "surface": "paper’s"
+        },
+        {
+          "gloss": "出版商",
+          "lemma": "publisher",
+          "surface": "publisher"
+        },
+        {
+          "gloss": "说",
+          "lemma": "say",
+          "surface": "said"
+        },
+        {
+          "gloss": "回到",
+          "lemma": "back",
+          "surface": "back"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        }
+      ]
+    },
+    {
+      "cn_text": "抛开对纸墨油香和翻页沙响的怀旧情结，放弃印刷版确有诸多理由。",
+      "en_text": "Nostalgia for ink on paper and the rustle of pages aside, there’s plenty of incentive to ditch print.",
+      "id": 2016013161,
+      "order_seq": "content_2_1",
+      "task_id": 201601005,
+      "tokens": [
+        {
+          "gloss": "怀旧",
+          "lemma": "nostalgia",
+          "surface": "nostalgia"
+        },
+        {
+          "gloss": "对",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "墨水",
+          "lemma": "ink",
+          "surface": "ink"
+        },
+        {
+          "gloss": "在",
+          "lemma": "on",
+          "surface": "on"
+        },
+        {
+          "gloss": "纸",
+          "lemma": "paper",
+          "surface": "paper"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "沙沙声",
+          "lemma": "rustle",
+          "surface": "rustle"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "页面",
+          "lemma": "page",
+          "surface": "pages"
+        },
+        {
+          "gloss": "抛开",
+          "lemma": "aside",
+          "surface": "aside"
+        },
+        {
+          "gloss": "有",
+          "lemma": "there is",
+          "surface": "there’s"
+        },
+        {
+          "gloss": "大量",
+          "lemma": "plenty",
+          "surface": "plenty"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "动力",
+          "lemma": "incentive",
+          "surface": "incentive"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "放弃",
+          "lemma": "ditch",
+          "surface": "ditch"
+        },
+        {
+          "gloss": "印刷",
+          "lemma": "print",
+          "surface": "print"
+        }
+      ]
+    },
+    {
+      "cn_text": "制作实体报纸所需的基础设施——印刷机、配送车辆——不仅成本高昂，在纯线上竞争对手无此财务负担的时代更显得过度冗余。",
+      "en_text": "The infrastructure required to make a physical newspaper — printing presses, delivery trucks — isn’t just expensive; it’s excessive at a time when online-only competitors don’t have the same set of financial constraints.",
+      "id": 2016013162,
+      "order_seq": "content_2_2",
+      "task_id": 201601005,
+      "tokens": [
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "基础设施",
+          "lemma": "infrastructure",
+          "surface": "infrastructure"
+        },
+        {
+          "gloss": "需要",
+          "lemma": "require",
+          "surface": "required"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "制作",
+          "lemma": "make",
+          "surface": "make"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "实体的",
+          "lemma": "physical",
+          "surface": "physical"
+        },
+        {
+          "gloss": "报纸",
+          "lemma": "newspaper",
+          "surface": "newspaper"
+        },
+        {
+          "gloss": "印刷",
+          "lemma": "print",
+          "surface": "printing"
+        },
+        {
+          "gloss": "印刷机",
+          "lemma": "press",
+          "surface": "presses"
+        },
+        {
+          "gloss": "送货",
+          "lemma": "delivery",
+          "surface": "delivery"
+        },
+        {
+          "gloss": "卡车",
+          "lemma": "truck",
+          "surface": "trucks"
+        },
+        {
+          "gloss": "不是",
+          "lemma": "be not",
+          "surface": "isn’t"
+        },
+        {
+          "gloss": "仅仅",
+          "lemma": "just",
+          "surface": "just"
+        },
+        {
+          "gloss": "昂贵的",
+          "lemma": "expensive",
+          "surface": "expensive"
+        },
+        {
+          "gloss": "它是",
+          "lemma": "it is",
+          "surface": "it’s"
+        },
+        {
+          "gloss": "过剩的",
+          "lemma": "excessive",
+          "surface": "excessive"
+        },
+        {
+          "gloss": "在",
+          "lemma": "at",
+          "surface": "at"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "时间",
+          "lemma": "time",
+          "surface": "time"
+        },
+        {
+          "gloss": "当",
+          "lemma": "when",
+          "surface": "when"
+        },
+        {
+          "gloss": "在线的",
+          "lemma": "online",
+          "surface": "online"
+        },
+        {
+          "gloss": "仅仅",
+          "lemma": "only",
+          "surface": "only"
+        },
+        {
+          "gloss": "竞争对手",
+          "lemma": "competitor",
+          "surface": "competitors"
+        },
+        {
+          "gloss": "不",
+          "lemma": "do not",
+          "surface": "don’t"
+        },
+        {
+          "gloss": "有",
+          "lemma": "have",
+          "surface": "have"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "相同的",
+          "lemma": "same",
+          "surface": "same"
+        },
+        {
+          "gloss": "一套",
+          "lemma": "set",
+          "surface": "set"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "财务的",
+          "lemma": "financial",
+          "surface": "financial"
+        },
+        {
+          "gloss": "限制",
+          "lemma": "constraint",
+          "surface": "constraints"
+        }
+      ]
+    },
+    {
+      "cn_text": "读者本就在逐步远离印刷媒体。",
+      "en_text": "Readers are migrating away from print anyway.",
+      "id": 2016013163,
+      "order_seq": "content_2_3",
+      "task_id": 201601005,
+      "tokens": [
+        {
+          "gloss": "读者",
+          "lemma": "reader",
+          "surface": "Readers"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "are"
+        },
+        {
+          "gloss": "迁移",
+          "lemma": "migrate",
+          "surface": "migrating"
+        },
+        {
+          "gloss": "远离",
+          "lemma": "away",
+          "surface": "away"
+        },
+        {
+          "gloss": "从",
+          "lemma": "from",
+          "surface": "from"
+        },
+        {
+          "gloss": "印刷媒体",
+          "lemma": "print",
+          "surface": "print"
+        },
+        {
+          "gloss": "无论如何",
+          "lemma": "anyway",
+          "surface": "anyway"
+        }
+      ]
+    },
+    {
+      "cn_text": "虽然印刷广告销售额仍远超线上和移动端，但印刷收入持续下滑。",
+      "en_text": "And though print ad sales still dwarf their online and mobile counterparts, revenue from print is still declining.",
+      "id": 2016013164,
+      "order_seq": "content_2_4",
+      "task_id": 201601005,
+      "tokens": [
+        {
+          "gloss": "并且",
+          "lemma": "and",
+          "surface": "And"
+        },
+        {
+          "gloss": "尽管",
+          "lemma": "though",
+          "surface": "though"
+        },
+        {
+          "gloss": "印刷",
+          "lemma": "print",
+          "surface": "print"
+        },
+        {
+          "gloss": "广告",
+          "lemma": "ad",
+          "surface": "ad"
+        },
+        {
+          "gloss": "销售",
+          "lemma": "sale",
+          "surface": "sales"
+        },
+        {
+          "gloss": "仍然",
+          "lemma": "still",
+          "surface": "still"
+        },
+        {
+          "gloss": "远超",
+          "lemma": "dwarf",
+          "surface": "dwarf"
+        },
+        {
+          "gloss": "他们的",
+          "lemma": "their",
+          "surface": "their"
+        },
+        {
+          "gloss": "在线的",
+          "lemma": "online",
+          "surface": "online"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "移动的",
+          "lemma": "mobile",
+          "surface": "mobile"
+        },
+        {
+          "gloss": "对应物",
+          "lemma": "counterpart",
+          "surface": "counterparts"
+        },
+        {
+          "gloss": "收入",
+          "lemma": "revenue",
+          "surface": "revenue"
+        },
+        {
+          "gloss": "来自",
+          "lemma": "from",
+          "surface": "from"
+        },
+        {
+          "gloss": "印刷",
+          "lemma": "print",
+          "surface": "print"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "仍然",
+          "lemma": "still",
+          "surface": "still"
+        },
+        {
+          "gloss": "下降",
+          "lemma": "decline",
+          "surface": "declining"
+        }
+      ]
+    },
+    {
+      "cn_text": "BuzzFeed首席执行官乔纳·佩雷蒂表示，尽管成本居高不下、发行量日渐萎缩，但贸然取消印刷版将铸成大错。",
+      "en_text": "Overhead may be high and circulation lower, but rushing to eliminate its print edition would be a mistake, says BuzzFeed CEO Jonah Peretti.",
+      "id": 2016013165,
+      "order_seq": "content_3_1",
+      "task_id": 201601005,
+      "tokens": [
+        {
+          "gloss": "开销",
+          "lemma": "overhead",
+          "surface": "Overhead"
+        },
+        {
+          "gloss": "可能",
+          "lemma": "may",
+          "surface": "may"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "be"
+        },
+        {
+          "gloss": "高的",
+          "lemma": "high",
+          "surface": "high"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "发行量",
+          "lemma": "circulation",
+          "surface": "circulation"
+        },
+        {
+          "gloss": "较低的",
+          "lemma": "low",
+          "surface": "lower"
+        },
+        {
+          "gloss": "但是",
+          "lemma": "but",
+          "surface": "but"
+        },
+        {
+          "gloss": "急于",
+          "lemma": "rush",
+          "surface": "rushing"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "取消",
+          "lemma": "eliminate",
+          "surface": "eliminate"
+        },
+        {
+          "gloss": "它的",
+          "lemma": "its",
+          "surface": "its"
+        },
+        {
+          "gloss": "印刷",
+          "lemma": "print",
+          "surface": "print"
+        },
+        {
+          "gloss": "版本",
+          "lemma": "edition",
+          "surface": "edition"
+        },
+        {
+          "gloss": "将",
+          "lemma": "would",
+          "surface": "would"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "be"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "错误",
+          "lemma": "mistake",
+          "surface": "mistake"
+        },
+        {
+          "gloss": "说",
+          "lemma": "say",
+          "surface": "says"
+        },
+        {
+          "gloss": "BuzzFeed",
+          "lemma": "buzzfeed",
+          "surface": "BuzzFeed"
+        },
+        {
+          "gloss": "首席执行官",
+          "lemma": "ceo",
+          "surface": "CEO"
+        },
+        {
+          "gloss": "乔纳",
+          "lemma": "jonah",
+          "surface": "Jonah"
+        },
+        {
+          "gloss": "佩雷蒂",
+          "lemma": "peretti",
+          "surface": "Peretti"
+        }
+      ]
+    },
+    {
+      "cn_text": "佩雷蒂认为《纽约时报》不应在退出印刷业务上浪费时间，但前提是方法得当。他说：「找到加速这一转型的办法对他们而言是明智之举，但如果直接停刊，会让最忠实的客户极度不满。」",
+      "en_text": "Peretti says the Times shouldn’t waste time getting out of the print business, but only if they go about doing it the right way. “Figuring out a way to accelerate that transition would make sense for them,” he said, “but if you discontinue it, you’re going to have your most loyal customers really upset with you.”",
+      "id": 2016013166,
+      "order_seq": "content_4_1",
+      "task_id": 201601005,
+      "tokens": [
+        {
+          "gloss": "佩雷蒂",
+          "lemma": "peretti",
+          "surface": "Peretti"
+        },
+        {
+          "gloss": "说",
+          "lemma": "say",
+          "surface": "says"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "《纽约时报》",
+          "lemma": "times",
+          "surface": "Times"
+        },
+        {
+          "gloss": "不应该",
+          "lemma": "should not",
+          "surface": "shouldn’t"
+        },
+        {
+          "gloss": "浪费",
+          "lemma": "waste",
+          "surface": "waste"
+        },
+        {
+          "gloss": "时间",
+          "lemma": "time",
+          "surface": "time"
+        },
+        {
+          "gloss": "退出",
+          "lemma": "get",
+          "surface": "getting"
+        },
+        {
+          "gloss": "退出",
+          "lemma": "out",
+          "surface": "out"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "印刷",
+          "lemma": "print",
+          "surface": "print"
+        },
+        {
+          "gloss": "业务",
+          "lemma": "business",
+          "surface": "business"
+        },
+        {
+          "gloss": "但是",
+          "lemma": "but",
+          "surface": "but"
+        },
+        {
+          "gloss": "仅仅",
+          "lemma": "only",
+          "surface": "only"
+        },
+        {
+          "gloss": "如果",
+          "lemma": "if",
+          "surface": "if"
+        },
+        {
+          "gloss": "他们",
+          "lemma": "they",
+          "surface": "they"
+        },
+        {
+          "gloss": "进行",
+          "lemma": "go",
+          "surface": "go"
+        },
+        {
+          "gloss": "关于",
+          "lemma": "about",
+          "surface": "about"
+        },
+        {
+          "gloss": "做",
+          "lemma": "do",
+          "surface": "doing"
+        },
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "it"
+        },
+        {
+          "gloss": "正确的",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "正确的",
+          "lemma": "right",
+          "surface": "right"
+        },
+        {
+          "gloss": "方式",
+          "lemma": "way",
+          "surface": "way"
+        },
+        {
+          "gloss": "找到",
+          "lemma": "figure",
+          "surface": "Figuring"
+        },
+        {
+          "gloss": "出",
+          "lemma": "out",
+          "surface": "out"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "方法",
+          "lemma": "way",
+          "surface": "way"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "加速",
+          "lemma": "accelerate",
+          "surface": "accelerate"
+        },
+        {
+          "gloss": "那个",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "转变",
+          "lemma": "transition",
+          "surface": "transition"
+        },
+        {
+          "gloss": "将",
+          "lemma": "would",
+          "surface": "would"
+        },
+        {
+          "gloss": "使",
+          "lemma": "make",
+          "surface": "make"
+        },
+        {
+          "gloss": "合理",
+          "lemma": "sense",
+          "surface": "sense"
+        },
+        {
+          "gloss": "对",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "他们",
+          "lemma": "them",
+          "surface": "them"
+        },
+        {
+          "gloss": "他",
+          "lemma": "he",
+          "surface": "he"
+        },
+        {
+          "gloss": "说",
+          "lemma": "say",
+          "surface": "said"
+        },
+        {
+          "gloss": "但是",
+          "lemma": "but",
+          "surface": "but"
+        },
+        {
+          "gloss": "如果",
+          "lemma": "if",
+          "surface": "if"
+        },
+        {
+          "gloss": "你",
+          "lemma": "you",
+          "surface": "you"
+        },
+        {
+          "gloss": "停止",
+          "lemma": "discontinue",
+          "surface": "discontinue"
+        },
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "it"
+        },
+        {
+          "gloss": "你会",
+          "lemma": "you are",
+          "surface": "you’re"
+        },
+        {
+          "gloss": "会",
+          "lemma": "go",
+          "surface": "going"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "让",
+          "lemma": "have",
+          "surface": "have"
+        },
+        {
+          "gloss": "你的",
+          "lemma": "your",
+          "surface": "your"
+        },
+        {
+          "gloss": "最",
+          "lemma": "most",
+          "surface": "most"
+        },
+        {
+          "gloss": "忠实的",
+          "lemma": "loyal",
+          "surface": "loyal"
+        },
+        {
+          "gloss": "客户",
+          "lemma": "customer",
+          "surface": "customers"
+        },
+        {
+          "gloss": "非常",
+          "lemma": "really",
+          "surface": "really"
+        },
+        {
+          "gloss": "不满",
+          "lemma": "upset",
+          "surface": "upset"
+        },
+        {
+          "gloss": "对",
+          "lemma": "with",
+          "surface": "with"
+        },
+        {
+          "gloss": "你",
+          "lemma": "you",
+          "surface": "you"
+        }
+      ]
+    },
+    {
+      "cn_text": "有时这种代价仍值得为变革付出。",
+      "en_text": "Sometimes that’s worth making a change anyway.",
+      "id": 2016013167,
+      "order_seq": "content_5_1",
+      "task_id": 201601005,
+      "tokens": [
+        {
+          "gloss": "有时候",
+          "lemma": "sometimes",
+          "surface": "sometimes"
+        },
+        {
+          "gloss": "那是",
+          "lemma": "that",
+          "surface": "that’s"
+        },
+        {
+          "gloss": "值得的",
+          "lemma": "worth",
+          "surface": "worth"
+        },
+        {
+          "gloss": "做出",
+          "lemma": "make",
+          "surface": "making"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "改变",
+          "lemma": "change",
+          "surface": "change"
+        },
+        {
+          "gloss": "无论如何",
+          "lemma": "anyway",
+          "surface": "anyway"
+        }
+      ]
+    },
+    {
+      "cn_text": "佩雷蒂举例说Netflix停止DVD邮寄服务转向流媒体，「当时被视为失策」，他说。",
+      "en_text": "Peretti gives the example of Netflix discontinuing its DVD-mailing service to focus on streaming. “It was seen as a blunder,” he said.",
+      "id": 2016013168,
+      "order_seq": "content_5_2",
+      "task_id": 201601005,
+      "tokens": [
+        {
+          "gloss": "佩雷蒂",
+          "lemma": "peretti",
+          "surface": "Peretti"
+        },
+        {
+          "gloss": "举出",
+          "lemma": "give",
+          "surface": "gives"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "例子",
+          "lemma": "example",
+          "surface": "example"
+        },
+        {
+          "gloss": "关于",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "Netflix",
+          "lemma": "netflix",
+          "surface": "Netflix"
+        },
+        {
+          "gloss": "停止",
+          "lemma": "discontinue",
+          "surface": "discontinuing"
+        },
+        {
+          "gloss": "它的",
+          "lemma": "its",
+          "surface": "its"
+        },
+        {
+          "gloss": "DVD",
+          "lemma": "dvd",
+          "surface": "DVD"
+        },
+        {
+          "gloss": "邮寄",
+          "lemma": "mail",
+          "surface": "mailing"
+        },
+        {
+          "gloss": "服务",
+          "lemma": "service",
+          "surface": "service"
+        },
+        {
+          "gloss": "为了",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "专注",
+          "lemma": "focus",
+          "surface": "focus"
+        },
+        {
+          "gloss": "在...上",
+          "lemma": "on",
+          "surface": "on"
+        },
+        {
+          "gloss": "流媒体",
+          "lemma": "stream",
+          "surface": "streaming"
+        },
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "It"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "was"
+        },
+        {
+          "gloss": "被认为",
+          "lemma": "see",
+          "surface": "seen"
+        },
+        {
+          "gloss": "作为",
+          "lemma": "as",
+          "surface": "as"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "错误",
+          "lemma": "blunder",
+          "surface": "blunder"
+        },
+        {
+          "gloss": "他",
+          "lemma": "he",
+          "surface": "he"
+        },
+        {
+          "gloss": "说",
+          "lemma": "say",
+          "surface": "said"
+        }
+      ]
+    },
+    {
+      "cn_text": "事后证明此举颇具远见。",
+      "en_text": "The move turned out to be foresighted.",
+      "id": 2016013169,
+      "order_seq": "content_5_3",
+      "task_id": 201601005,
+      "tokens": [
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "The"
+        },
+        {
+          "gloss": "举措",
+          "lemma": "move",
+          "surface": "move"
+        },
+        {
+          "gloss": "变得",
+          "lemma": "turn",
+          "surface": "turned"
+        },
+        {
+          "gloss": "结果",
+          "lemma": "out",
+          "surface": "out"
+        },
+        {
+          "gloss": "是",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "be"
+        },
+        {
+          "gloss": "有远见的",
+          "lemma": "foresighted",
+          "surface": "foresighted"
+        }
+      ]
+    },
+    {
+      "cn_text": "若由佩雷蒂执掌《纽约时报》？「我不会设定停印年限」，他说，「我会提价，将其打造成更具传承价值的产品。」",
+      "en_text": "And if Peretti were in charge at the Times? “I wouldn’t pick a year to end print,” he said. “I would raise prices and make it into more of a legacy product.”",
+      "id": 2016013170,
+      "order_seq": "content_5_4",
+      "task_id": 201601005,
+      "tokens": [
+        {
+          "gloss": "并且",
+          "lemma": "and",
+          "surface": "And"
+        },
+        {
+          "gloss": "如果",
+          "lemma": "if",
+          "surface": "if"
+        },
+        {
+          "gloss": "佩雷蒂",
+          "lemma": "peretti",
+          "surface": "Peretti"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "were"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "负责",
+          "lemma": "charge",
+          "surface": "charge"
+        },
+        {
+          "gloss": "在",
+          "lemma": "at",
+          "surface": "at"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "《纽约时报》",
+          "lemma": "times",
+          "surface": "Times"
+        },
+        {
+          "gloss": "我",
+          "lemma": "i",
+          "surface": "I"
+        },
+        {
+          "gloss": "不会",
+          "lemma": "would not",
+          "surface": "wouldn’t"
+        },
+        {
+          "gloss": "选择",
+          "lemma": "pick",
+          "surface": "pick"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "年",
+          "lemma": "year",
+          "surface": "year"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "结束",
+          "lemma": "end",
+          "surface": "end"
+        },
+        {
+          "gloss": "印刷",
+          "lemma": "print",
+          "surface": "print"
+        },
+        {
+          "gloss": "他",
+          "lemma": "he",
+          "surface": "he"
+        },
+        {
+          "gloss": "说",
+          "lemma": "say",
+          "surface": "said"
+        },
+        {
+          "gloss": "我",
+          "lemma": "i",
+          "surface": "I"
+        },
+        {
+          "gloss": "会",
+          "lemma": "would",
+          "surface": "would"
+        },
+        {
+          "gloss": "提高",
+          "lemma": "raise",
+          "surface": "raise"
+        },
+        {
+          "gloss": "价格",
+          "lemma": "price",
+          "surface": "prices"
+        },
+        {
+          "gloss": "并且",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "使",
+          "lemma": "make",
+          "surface": "make"
+        },
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "it"
+        },
+        {
+          "gloss": "变成",
+          "lemma": "into",
+          "surface": "into"
+        },
+        {
+          "gloss": "更",
+          "lemma": "more",
+          "surface": "more"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "传承",
+          "lemma": "legacy",
+          "surface": "legacy"
+        },
+        {
+          "gloss": "产品",
+          "lemma": "product",
+          "surface": "product"
+        }
+      ]
+    },
+    {
+      "cn_text": "按此思路，最忠实的客户仍能获得心仪的产品,并感到自己在维护所信奉事物的品质。「若你为印刷版多付费，会觉得是在提供帮助」，佩雷蒂说，「然后每年以更高幅度提价，实质上尝试创造额外收入。」",
+      "en_text": "The most loyal customers would still get the product they favor, the idea goes, and they’d feel like they were helping sustain the quality of something they believe in. “So if you’re overpaying for print, you could feel like you were helping,” Peretti said. “Then increase it at a higher rate each year and essentially try to generate additional revenue.”",
+      "id": 2016013171,
+      "order_seq": "content_6_1",
+      "task_id": 201601005,
+      "tokens": [
+        {
+          "gloss": "最",
+          "lemma": "the",
+          "surface": "The"
+        },
+        {
+          "gloss": "最",
+          "lemma": "most",
+          "surface": "most"
+        },
+        {
+          "gloss": "忠实的",
+          "lemma": "loyal",
+          "surface": "loyal"
+        },
+        {
+          "gloss": "顾客",
+          "lemma": "customer",
+          "surface": "customers"
+        },
+        {
+          "gloss": "会",
+          "lemma": "would",
+          "surface": "would"
+        },
+        {
+          "gloss": "仍然",
+          "lemma": "still",
+          "surface": "still"
+        },
+        {
+          "gloss": "得到",
+          "lemma": "get",
+          "surface": "get"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "产品",
+          "lemma": "product",
+          "surface": "product"
+        },
+        {
+          "gloss": "他们",
+          "lemma": "they",
+          "surface": "they"
+        },
+        {
+          "gloss": "喜欢",
+          "lemma": "favor",
+          "surface": "favor"
+        },
+        {
+          "gloss": "这一",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "理念",
+          "lemma": "idea",
+          "surface": "idea"
+        },
+        {
+          "gloss": "认为",
+          "lemma": "go",
+          "surface": "goes"
+        },
+        {
+          "gloss": "并且",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "他们会",
+          "lemma": "they would",
+          "surface": "they’d"
+        },
+        {
+          "gloss": "觉得",
+          "lemma": "feel",
+          "surface": "feel"
+        },
+        {
+          "gloss": "像",
+          "lemma": "like",
+          "surface": "like"
+        },
+        {
+          "gloss": "他们",
+          "lemma": "they",
+          "surface": "they"
+        },
+        {
+          "gloss": "在",
+          "lemma": "be",
+          "surface": "were"
+        },
+        {
+          "gloss": "帮助",
+          "lemma": "help",
+          "surface": "helping"
+        },
+        {
+          "gloss": "维持",
+          "lemma": "sustain",
+          "surface": "sustain"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "质量",
+          "lemma": "quality",
+          "surface": "quality"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "某事",
+          "lemma": "something",
+          "surface": "something"
+        },
+        {
+          "gloss": "他们",
+          "lemma": "they",
+          "surface": "they"
+        },
+        {
+          "gloss": "相信",
+          "lemma": "believe",
+          "surface": "believe"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "因此",
+          "lemma": "so",
+          "surface": "So"
+        },
+        {
+          "gloss": "如果",
+          "lemma": "if",
+          "surface": "if"
+        },
+        {
+          "gloss": "你是",
+          "lemma": "you are",
+          "surface": "you’re"
+        },
+        {
+          "gloss": "支付过高费用",
+          "lemma": "overpay",
+          "surface": "overpaying"
+        },
+        {
+          "gloss": "为了",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "印刷版",
+          "lemma": "print",
+          "surface": "print"
+        },
+        {
+          "gloss": "你",
+          "lemma": "you",
+          "surface": "you"
+        },
+        {
+          "gloss": "可能",
+          "lemma": "could",
+          "surface": "could"
+        },
+        {
+          "gloss": "觉得",
+          "lemma": "feel",
+          "surface": "feel"
+        },
+        {
+          "gloss": "像",
+          "lemma": "like",
+          "surface": "like"
+        },
+        {
+          "gloss": "你",
+          "lemma": "you",
+          "surface": "you"
+        },
+        {
+          "gloss": "在",
+          "lemma": "be",
+          "surface": "were"
+        },
+        {
+          "gloss": "帮助",
+          "lemma": "help",
+          "surface": "helping"
+        },
+        {
+          "gloss": "佩雷蒂",
+          "lemma": "peretti",
+          "surface": "Peretti"
+        },
+        {
+          "gloss": "说",
+          "lemma": "say",
+          "surface": "said"
+        },
+        {
+          "gloss": "然后",
+          "lemma": "then",
+          "surface": "Then"
+        },
+        {
+          "gloss": "增加",
+          "lemma": "increase",
+          "surface": "increase"
+        },
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "it"
+        },
+        {
+          "gloss": "以",
+          "lemma": "at",
+          "surface": "at"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "更高的",
+          "lemma": "high",
+          "surface": "higher"
+        },
+        {
+          "gloss": "速度",
+          "lemma": "rate",
+          "surface": "rate"
+        },
+        {
+          "gloss": "每",
+          "lemma": "each",
+          "surface": "each"
+        },
+        {
+          "gloss": "年",
+          "lemma": "year",
+          "surface": "year"
+        },
+        {
+          "gloss": "并且",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "本质上",
+          "lemma": "essentially",
+          "surface": "essentially"
+        },
+        {
+          "gloss": "尝试",
+          "lemma": "try",
+          "surface": "try"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "产生",
+          "lemma": "generate",
+          "surface": "generate"
+        },
+        {
+          "gloss": "额外的",
+          "lemma": "additional",
+          "surface": "additional"
+        },
+        {
+          "gloss": "收入",
+          "lemma": "revenue",
+          "surface": "revenue"
+        }
+      ]
+    },
+    {
+      "cn_text": "换言之,若要制作印刷产品，就应面向那些对其痴迷的人群。",
+      "en_text": "In other words, if you’re going to make a print product, make it for the people who are already obsessed with it.",
+      "id": 2016013172,
+      "order_seq": "content_6_2",
+      "task_id": 201601005,
+      "tokens": [
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "In"
+        },
+        {
+          "gloss": "其他的",
+          "lemma": "other",
+          "surface": "other"
+        },
+        {
+          "gloss": "话",
+          "lemma": "word",
+          "surface": "words"
+        },
+        {
+          "gloss": "如果",
+          "lemma": "if",
+          "surface": "if"
+        },
+        {
+          "gloss": "你是",
+          "lemma": "you are",
+          "surface": "you’re"
+        },
+        {
+          "gloss": "要",
+          "lemma": "go",
+          "surface": "going"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "制作",
+          "lemma": "make",
+          "surface": "make"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "印刷",
+          "lemma": "print",
+          "surface": "print"
+        },
+        {
+          "gloss": "产品",
+          "lemma": "product",
+          "surface": "product"
+        },
+        {
+          "gloss": "制作",
+          "lemma": "make",
+          "surface": "make"
+        },
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "it"
+        },
+        {
+          "gloss": "为了",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "那些",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "人们",
+          "lemma": "people",
+          "surface": "people"
+        },
+        {
+          "gloss": "谁",
+          "lemma": "who",
+          "surface": "who"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "are"
+        },
+        {
+          "gloss": "已经",
+          "lemma": "already",
+          "surface": "already"
+        },
+        {
+          "gloss": "痴迷",
+          "lemma": "obsess",
+          "surface": "obsessed"
+        },
+        {
+          "gloss": "于",
+          "lemma": "with",
+          "surface": "with"
+        },
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "it"
+        }
+      ]
+    },
+    {
+      "cn_text": "这或许正是《纽约时报》的现行策略。",
+      "en_text": "Which may be what the Times is doing already.",
+      "id": 2016013173,
+      "order_seq": "content_6_3",
+      "task_id": 201601005,
+      "tokens": [
+        {
+          "gloss": "这",
+          "lemma": "which",
+          "surface": "Which"
+        },
+        {
+          "gloss": "可能",
+          "lemma": "may",
+          "surface": "may"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "be"
+        },
+        {
+          "gloss": "什么",
+          "lemma": "what",
+          "surface": "what"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "《纽约时报》",
+          "lemma": "times",
+          "surface": "Times"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "做",
+          "lemma": "do",
+          "surface": "doing"
+        },
+        {
+          "gloss": "已经",
+          "lemma": "already",
+          "surface": "already"
+        }
+      ]
+    },
+    {
+      "cn_text": "全周七天订阅印刷版年费近500美元——是纯数字订阅的两倍有余。",
+      "en_text": "Getting the print edition seven days a week costs nearly $500 a year — more than twice as much as a digital-only subscription.",
+      "id": 2016013174,
+      "order_seq": "content_6_4",
+      "task_id": 201601005,
+      "tokens": [
+        {
+          "gloss": "订阅",
+          "lemma": "get",
+          "surface": "Getting"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "印刷版",
+          "lemma": "print",
+          "surface": "print"
+        },
+        {
+          "gloss": "版本",
+          "lemma": "edition",
+          "surface": "edition"
+        },
+        {
+          "gloss": "七",
+          "lemma": "seven",
+          "surface": "seven"
+        },
+        {
+          "gloss": "天",
+          "lemma": "day",
+          "surface": "days"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "周",
+          "lemma": "week",
+          "surface": "week"
+        },
+        {
+          "gloss": "费用",
+          "lemma": "cost",
+          "surface": "costs"
+        },
+        {
+          "gloss": "接近",
+          "lemma": "nearly",
+          "surface": "nearly"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "年",
+          "lemma": "year",
+          "surface": "year"
+        },
+        {
+          "gloss": "更多",
+          "lemma": "more",
+          "surface": "more"
+        },
+        {
+          "gloss": "比",
+          "lemma": "than",
+          "surface": "than"
+        },
+        {
+          "gloss": "两倍",
+          "lemma": "twice",
+          "surface": "twice"
+        },
+        {
+          "gloss": "作为",
+          "lemma": "as",
+          "surface": "as"
+        },
+        {
+          "gloss": "多",
+          "lemma": "much",
+          "surface": "much"
+        },
+        {
+          "gloss": "作为",
+          "lemma": "as",
+          "surface": "as"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "数字的",
+          "lemma": "digital",
+          "surface": "digital"
+        },
+        {
+          "gloss": "仅仅",
+          "lemma": "only",
+          "surface": "only"
+        },
+        {
+          "gloss": "订阅",
+          "lemma": "subscription",
+          "surface": "subscription"
+        }
+      ]
+    },
+    {
+      "cn_text": "「这是极其艰难的抉择，BuzzFeed没有传统业务包袱是巨大优势」，佩雷蒂评论道，「但我们也会面临类似问题，即当市场和世界变化时，我们所做之事可能不再合理。」",
+      "en_text": "“It’s a really hard thing to do and it’s a tremendous luxury that BuzzFeed doesn’t have a legacy business,” Peretti remarked. “But we’re going to have questions like that where we have things we’re doing that don’t make sense when the market changes and the world changes.",
+      "id": 2016013175,
+      "order_seq": "content_7_1",
+      "task_id": 201601005,
+      "tokens": [
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "it's"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "非常",
+          "lemma": "really",
+          "surface": "really"
+        },
+        {
+          "gloss": "困难的",
+          "lemma": "hard",
+          "surface": "hard"
+        },
+        {
+          "gloss": "事情",
+          "lemma": "thing",
+          "surface": "thing"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "做",
+          "lemma": "do",
+          "surface": "do"
+        },
+        {
+          "gloss": "并且",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "it's"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "巨大的",
+          "lemma": "tremendous",
+          "surface": "tremendous"
+        },
+        {
+          "gloss": "奢侈",
+          "lemma": "luxury",
+          "surface": "luxury"
+        },
+        {
+          "gloss": "那个",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "BuzzFeed",
+          "lemma": "buzzfeed",
+          "surface": "BuzzFeed"
+        },
+        {
+          "gloss": "没有",
+          "lemma": "do",
+          "surface": "doesn't"
+        },
+        {
+          "gloss": "拥有",
+          "lemma": "have",
+          "surface": "have"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "传统",
+          "lemma": "legacy",
+          "surface": "legacy"
+        },
+        {
+          "gloss": "业务",
+          "lemma": "business",
+          "surface": "business"
+        },
+        {
+          "gloss": "佩雷蒂",
+          "lemma": "peretti",
+          "surface": "Peretti"
+        },
+        {
+          "gloss": "评论",
+          "lemma": "remark",
+          "surface": "remarked"
+        },
+        {
+          "gloss": "但是",
+          "lemma": "but",
+          "surface": "but"
+        },
+        {
+          "gloss": "我们",
+          "lemma": "we",
+          "surface": "we're"
+        },
+        {
+          "gloss": "将要",
+          "lemma": "go",
+          "surface": "going"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "有",
+          "lemma": "have",
+          "surface": "have"
+        },
+        {
+          "gloss": "问题",
+          "lemma": "question",
+          "surface": "questions"
+        },
+        {
+          "gloss": "像",
+          "lemma": "like",
+          "surface": "like"
+        },
+        {
+          "gloss": "那样",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "在……的地方",
+          "lemma": "where",
+          "surface": "where"
+        },
+        {
+          "gloss": "我们",
+          "lemma": "we",
+          "surface": "we"
+        },
+        {
+          "gloss": "有",
+          "lemma": "have",
+          "surface": "have"
+        },
+        {
+          "gloss": "事情",
+          "lemma": "thing",
+          "surface": "things"
+        },
+        {
+          "gloss": "我们",
+          "lemma": "we",
+          "surface": "we're"
+        },
+        {
+          "gloss": "做",
+          "lemma": "do",
+          "surface": "doing"
+        },
+        {
+          "gloss": "那些",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "不",
+          "lemma": "do",
+          "surface": "don't"
+        },
+        {
+          "gloss": "使",
+          "lemma": "make",
+          "surface": "make"
+        },
+        {
+          "gloss": "合理",
+          "lemma": "sense",
+          "surface": "sense"
+        },
+        {
+          "gloss": "当……时",
+          "lemma": "when",
+          "surface": "when"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "市场",
+          "lemma": "market",
+          "surface": "market"
+        },
+        {
+          "gloss": "变化",
+          "lemma": "change",
+          "surface": "changes"
+        },
+        {
+          "gloss": "并且",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "世界",
+          "lemma": "world",
+          "surface": "world"
+        },
+        {
+          "gloss": "变化",
+          "lemma": "change",
+          "surface": "changes"
+        }
+      ]
+    },
+    {
+      "cn_text": "在此类情形下，宁可激进，不可保守。",
+      "en_text": "In those situations, it’s better to be more aggressive than less aggressive.”",
+      "id": 2016013176,
+      "order_seq": "content_7_2",
+      "task_id": 201601005,
+      "tokens": [
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "那些",
+          "lemma": "those",
+          "surface": "those"
+        },
+        {
+          "gloss": "情况",
+          "lemma": "situation",
+          "surface": "situations"
+        },
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "it's"
+        },
+        {
+          "gloss": "更好",
+          "lemma": "better",
+          "surface": "better"
+        },
+        {
+          "gloss": "去",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "be"
+        },
+        {
+          "gloss": "更",
+          "lemma": "more",
+          "surface": "more"
+        },
+        {
+          "gloss": "积极的",
+          "lemma": "aggressive",
+          "surface": "aggressive"
+        },
+        {
+          "gloss": "比",
+          "lemma": "than",
+          "surface": "than"
+        },
+        {
+          "gloss": "较少",
+          "lemma": "less",
+          "surface": "less"
+        },
+        {
+          "gloss": "积极的",
+          "lemma": "aggressive",
+          "surface": "aggressive"
+        }
+      ]
+    },
+    {
+      "cn_text": "《纽约时报》考虑终止印刷版，部分原因是____。",
+      "en_text": "The New York Times is considering ending its print edition partly due to ____",
+      "id": 2016013177,
+      "order_seq": "question_2016011036_stem",
+      "task_id": 201601005,
+      "tokens": [
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "新的",
+          "lemma": "new",
+          "surface": "new"
+        },
+        {
+          "gloss": "纽约",
+          "lemma": "york",
+          "surface": "york"
+        },
+        {
+          "gloss": "时报",
+          "lemma": "times",
+          "surface": "times"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "考虑",
+          "lemma": "consider",
+          "surface": "considering"
+        },
+        {
+          "gloss": "结束",
+          "lemma": "end",
+          "surface": "ending"
+        },
+        {
+          "gloss": "它的",
+          "lemma": "its",
+          "surface": "its"
+        },
+        {
+          "gloss": "印刷",
+          "lemma": "print",
+          "surface": "print"
+        },
+        {
+          "gloss": "版本",
+          "lemma": "edition",
+          "surface": "edition"
+        },
+        {
+          "gloss": "部分地",
+          "lemma": "partly",
+          "surface": "partly"
+        },
+        {
+          "gloss": "由于",
+          "lemma": "due",
+          "surface": "due"
+        },
+        {
+          "gloss": "因为",
+          "lemma": "to",
+          "surface": "to"
+        }
+      ]
+    },
+    {
+      "cn_text": "运营成本高昂",
+      "en_text": "the high cost of operation.",
+      "id": 2016013178,
+      "order_seq": "question_2016011036_A",
+      "task_id": 201601005,
+      "tokens": [
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "高的",
+          "lemma": "high",
+          "surface": "high"
+        },
+        {
+          "gloss": "成本",
+          "lemma": "cost",
+          "surface": "cost"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "运营",
+          "lemma": "operation",
+          "surface": "operation"
+        }
+      ]
+    },
+    {
+      "cn_text": "投资者施加压力",
+      "en_text": "the pressure from its investors.",
+      "id": 2016013179,
+      "order_seq": "question_2016011036_B",
+      "task_id": 201601005,
+      "tokens": [
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "压力",
+          "lemma": "pressure",
+          "surface": "pressure"
+        },
+        {
+          "gloss": "来自",
+          "lemma": "from",
+          "surface": "from"
+        },
+        {
+          "gloss": "它的",
+          "lemma": "its",
+          "surface": "its"
+        },
+        {
+          "gloss": "投资者",
+          "lemma": "investor",
+          "surface": "investors"
+        }
+      ]
+    },
+    {
+      "cn_text": "读者抱怨增多",
+      "en_text": "the complaints from its readers.",
+      "id": 2016013180,
+      "order_seq": "question_2016011036_C",
+      "task_id": 201601005,
+      "tokens": [
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "投诉",
+          "lemma": "complaint",
+          "surface": "complaints"
+        },
+        {
+          "gloss": "来自",
+          "lemma": "from",
+          "surface": "from"
+        },
+        {
+          "gloss": "它的",
+          "lemma": "its",
+          "surface": "its"
+        },
+        {
+          "gloss": "读者",
+          "lemma": "reader",
+          "surface": "readers"
+        }
+      ]
+    },
+    {
+      "cn_text": "线上广告销售增长",
+      "en_text": "the increasing online ad sales.",
+      "id": 2016013181,
+      "order_seq": "question_2016011036_D",
+      "task_id": 201601005,
+      "tokens": [
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "不断增长的",
+          "lemma": "increase",
+          "surface": "increasing"
+        },
+        {
+          "gloss": "在线的",
+          "lemma": "online",
+          "surface": "online"
+        },
+        {
+          "gloss": "广告",
+          "lemma": "ad",
+          "surface": "ad"
+        },
+        {
+          "gloss": "销售",
+          "lemma": "sale",
+          "surface": "sales"
+        }
+      ]
+    },
+    {
+      "cn_text": "佩雷蒂建议，面对当前局面，《纽约时报》应该____。",
+      "en_text": "Peretti suggests that, in face of the present situation, the Times should ____",
+      "id": 2016013182,
+      "order_seq": "question_2016011037_stem",
+      "task_id": 201601005,
+      "tokens": [
+        {
+          "gloss": "佩雷蒂",
+          "lemma": "peretti",
+          "surface": "Peretti"
+        },
+        {
+          "gloss": "建议",
+          "lemma": "suggest",
+          "surface": "suggests"
+        },
+        {
+          "gloss": "表明",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "面临",
+          "lemma": "face",
+          "surface": "face"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "当前的",
+          "lemma": "present",
+          "surface": "present"
+        },
+        {
+          "gloss": "形势",
+          "lemma": "situation",
+          "surface": "situation"
+        },
+        {
+          "gloss": "该",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "《纽约时报》",
+          "lemma": "times",
+          "surface": "Times"
+        },
+        {
+          "gloss": "应该",
+          "lemma": "should",
+          "surface": "should"
+        }
+      ]
+    },
+    {
+      "cn_text": "寻求新的读者群体",
+      "en_text": "seek new sources of readership.",
+      "id": 2016013183,
+      "order_seq": "question_2016011037_A",
+      "task_id": 201601005,
+      "tokens": [
+        {
+          "gloss": "寻找",
+          "lemma": "seek",
+          "surface": "seek"
+        },
+        {
+          "gloss": "新的",
+          "lemma": "new",
+          "surface": "new"
+        },
+        {
+          "gloss": "来源",
+          "lemma": "source",
+          "surface": "sources"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "读者群",
+          "lemma": "readership",
+          "surface": "readership"
+        }
+      ]
+    },
+    {
+      "cn_text": "彻底终止印刷版",
+      "en_text": "end the print edition for good.",
+      "id": 2016013184,
+      "order_seq": "question_2016011037_B",
+      "task_id": 201601005,
+      "tokens": [
+        {
+          "gloss": "结束",
+          "lemma": "end",
+          "surface": "end"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "印刷",
+          "lemma": "print",
+          "surface": "print"
+        },
+        {
+          "gloss": "版本",
+          "lemma": "edition",
+          "surface": "edition"
+        },
+        {
+          "gloss": "为了",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "永久",
+          "lemma": "good",
+          "surface": "good"
+        }
+      ]
+    },
+    {
+      "cn_text": "追求高效管理",
+      "en_text": "aim for efficient management.",
+      "id": 2016013185,
+      "order_seq": "question_2016011037_C",
+      "task_id": 201601005,
+      "tokens": [
+        {
+          "gloss": "以……为目标",
+          "lemma": "aim",
+          "surface": "aim"
+        },
+        {
+          "gloss": "为了",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "高效的",
+          "lemma": "efficient",
+          "surface": "efficient"
+        },
+        {
+          "gloss": "管理",
+          "lemma": "management",
+          "surface": "management"
+        }
+      ]
+    },
+    {
+      "cn_text": "做出战略调整",
+      "en_text": "make strategic adjustments.",
+      "id": 2016013186,
+      "order_seq": "question_2016011037_D",
+      "task_id": 201601005,
+      "tokens": [
+        {
+          "gloss": "进行",
+          "lemma": "make",
+          "surface": "make"
+        },
+        {
+          "gloss": "战略的",
+          "lemma": "strategic",
+          "surface": "strategic"
+        },
+        {
+          "gloss": "调整",
+          "lemma": "adjustment",
+          "surface": "adjustments"
+        }
+      ]
+    },
+    {
+      "cn_text": "从第5、6段可以推断，「传承产品」____。",
+      "en_text": "It can be inferred from Paragraphs 5 and 6 that a “legacy product” ____",
+      "id": 2016013187,
+      "order_seq": "question_2016011038_stem",
+      "task_id": 201601005,
+      "tokens": [
+        {
+          "gloss": "它",
+          "lemma": "it",
+          "surface": "It"
+        },
+        {
+          "gloss": "可以",
+          "lemma": "can",
+          "surface": "can"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "be"
+        },
+        {
+          "gloss": "推断",
+          "lemma": "infer",
+          "surface": "inferred"
+        },
+        {
+          "gloss": "从",
+          "lemma": "from",
+          "surface": "from"
+        },
+        {
+          "gloss": "段落",
+          "lemma": "paragraph",
+          "surface": "Paragraphs"
+        },
+        {
+          "gloss": "和",
+          "lemma": "and",
+          "surface": "and"
+        },
+        {
+          "gloss": "表明",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "遗留的",
+          "lemma": "legacy",
+          "surface": "legacy"
+        },
+        {
+          "gloss": "产品",
+          "lemma": "product",
+          "surface": "product"
+        }
+      ]
+    },
+    {
+      "cn_text": "有助于重现昔日荣光",
+      "en_text": "helps restore the glory of former times.",
+      "id": 2016013188,
+      "order_seq": "question_2016011038_A",
+      "task_id": 201601005,
+      "tokens": [
+        {
+          "gloss": "帮助",
+          "lemma": "help",
+          "surface": "helps"
+        },
+        {
+          "gloss": "恢复",
+          "lemma": "restore",
+          "surface": "restore"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "辉煌",
+          "lemma": "glory",
+          "surface": "glory"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "以前的",
+          "lemma": "former",
+          "surface": "former"
+        },
+        {
+          "gloss": "时代",
+          "lemma": "time",
+          "surface": "times"
+        }
+      ]
+    },
+    {
+      "cn_text": "面向最忠实的客户",
+      "en_text": "is meant for the most loyal customers.",
+      "id": 2016013189,
+      "order_seq": "question_2016011038_B",
+      "task_id": 201601005,
+      "tokens": [
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "is"
+        },
+        {
+          "gloss": "意在",
+          "lemma": "mean",
+          "surface": "meant"
+        },
+        {
+          "gloss": "为",
+          "lemma": "for",
+          "surface": "for"
+        },
+        {
+          "gloss": "最",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "最",
+          "lemma": "most",
+          "surface": "most"
+        },
+        {
+          "gloss": "忠实的",
+          "lemma": "loyal",
+          "surface": "loyal"
+        },
+        {
+          "gloss": "顾客",
+          "lemma": "customer",
+          "surface": "customers"
+        }
+      ]
+    },
+    {
+      "cn_text": "将降低印刷成本",
+      "en_text": "will have the cost of printing reduced.",
+      "id": 2016013190,
+      "order_seq": "question_2016011038_C",
+      "task_id": 201601005,
+      "tokens": [
+        {
+          "gloss": "将",
+          "lemma": "will",
+          "surface": "will"
+        },
+        {
+          "gloss": "有",
+          "lemma": "have",
+          "surface": "have"
+        },
+        {
+          "gloss": "这个",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "成本",
+          "lemma": "cost",
+          "surface": "cost"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "印刷",
+          "lemma": "print",
+          "surface": "printing"
+        },
+        {
+          "gloss": "降低",
+          "lemma": "reduce",
+          "surface": "reduced"
+        }
+      ]
+    },
+    {
+      "cn_text": "扩大报纸受众面",
+      "en_text": "expands the popularity of the paper.",
+      "id": 2016013191,
+      "order_seq": "question_2016011038_D",
+      "task_id": 201601005,
+      "tokens": [
+        {
+          "gloss": "扩大",
+          "lemma": "expand",
+          "surface": "expands"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "受欢迎程度",
+          "lemma": "popularity",
+          "surface": "popularity"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "报纸",
+          "lemma": "paper",
+          "surface": "paper"
+        }
+      ]
+    },
+    {
+      "cn_text": "佩雷蒂认为，在变化的世界中，____。",
+      "en_text": "Peretti believes that, in a changing world, ____",
+      "id": 2016013192,
+      "order_seq": "question_2016011039_stem",
+      "task_id": 201601005,
+      "tokens": [
+        {
+          "gloss": "佩雷蒂",
+          "lemma": "peretti",
+          "surface": "Peretti"
+        },
+        {
+          "gloss": "认为",
+          "lemma": "believe",
+          "surface": "believes"
+        },
+        {
+          "gloss": "在",
+          "lemma": "that",
+          "surface": "that"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "变化的",
+          "lemma": "change",
+          "surface": "changing"
+        },
+        {
+          "gloss": "世界",
+          "lemma": "world",
+          "surface": "world"
+        }
+      ]
+    },
+    {
+      "cn_text": "传统业务日益过时",
+      "en_text": "legacy businesses are becoming outdated.",
+      "id": 2016013193,
+      "order_seq": "question_2016011039_A",
+      "task_id": 201601005,
+      "tokens": [
+        {
+          "gloss": "传统的",
+          "lemma": "legacy",
+          "surface": "legacy"
+        },
+        {
+          "gloss": "企业",
+          "lemma": "business",
+          "surface": "businesses"
+        },
+        {
+          "gloss": "正在",
+          "lemma": "be",
+          "surface": "are"
+        },
+        {
+          "gloss": "变得",
+          "lemma": "become",
+          "surface": "becoming"
+        },
+        {
+          "gloss": "过时的",
+          "lemma": "outdated",
+          "surface": "outdated"
+        }
+      ]
+    },
+    {
+      "cn_text": "谨慎有利于解决问题",
+      "en_text": "cautiousness facilitates problem-solving.",
+      "id": 2016013194,
+      "order_seq": "question_2016011039_B",
+      "task_id": 201601005,
+      "tokens": [
+        {
+          "gloss": "谨慎",
+          "lemma": "cautiousness",
+          "surface": "cautiousness"
+        },
+        {
+          "gloss": "促进",
+          "lemma": "facilitate",
+          "surface": "facilitates"
+        },
+        {
+          "gloss": "问题",
+          "lemma": "problem",
+          "surface": "problem"
+        },
+        {
+          "gloss": "解决",
+          "lemma": "solve",
+          "surface": "solving"
+        }
+      ]
+    },
+    {
+      "cn_text": "激进更能应对挑战",
+      "en_text": "aggressiveness better meets challenges.",
+      "id": 2016013195,
+      "order_seq": "question_2016011039_C",
+      "task_id": 201601005,
+      "tokens": [
+        {
+          "gloss": "积极进取",
+          "lemma": "aggressiveness",
+          "surface": "aggressiveness"
+        },
+        {
+          "gloss": "更好地",
+          "lemma": "better",
+          "surface": "better"
+        },
+        {
+          "gloss": "应对",
+          "lemma": "meet",
+          "surface": "meets"
+        },
+        {
+          "gloss": "挑战",
+          "lemma": "challenge",
+          "surface": "challenges"
+        }
+      ]
+    },
+    {
+      "cn_text": "传统奢侈品可不受影响",
+      "en_text": "traditional luxuries can stay unaffected.",
+      "id": 2016013196,
+      "order_seq": "question_2016011039_D",
+      "task_id": 201601005,
+      "tokens": [
+        {
+          "gloss": "传统的",
+          "lemma": "traditional",
+          "surface": "traditional"
+        },
+        {
+          "gloss": "奢侈品",
+          "lemma": "luxury",
+          "surface": "luxuries"
+        },
+        {
+          "gloss": "可以",
+          "lemma": "can",
+          "surface": "can"
+        },
+        {
+          "gloss": "保持",
+          "lemma": "stay",
+          "surface": "stay"
+        },
+        {
+          "gloss": "不受影响的",
+          "lemma": "unaffected",
+          "surface": "unaffected"
+        }
+      ]
+    },
+    {
+      "cn_text": "下列哪项最适合作为本文标题？",
+      "en_text": "Which of the following would be the best title of the text?",
+      "id": 2016013197,
+      "order_seq": "question_2016011040_stem",
+      "task_id": 201601005,
+      "tokens": [
+        {
+          "gloss": "哪一个",
+          "lemma": "which",
+          "surface": "Which"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "以下",
+          "lemma": "follow",
+          "surface": "following"
+        },
+        {
+          "gloss": "将",
+          "lemma": "would",
+          "surface": "would"
+        },
+        {
+          "gloss": "是",
+          "lemma": "be",
+          "surface": "be"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "最佳的",
+          "lemma": "best",
+          "surface": "best"
+        },
+        {
+          "gloss": "标题",
+          "lemma": "title",
+          "surface": "title"
+        },
+        {
+          "gloss": "的",
+          "lemma": "of",
+          "surface": "of"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "文章",
+          "lemma": "text",
+          "surface": "text"
+        }
+      ]
+    },
+    {
+      "cn_text": "一步到位转向在线报纸",
+      "en_text": "Shift to Online Newspapers All at Once.",
+      "id": 2016013198,
+      "order_seq": "question_2016011040_A",
+      "task_id": 201601005,
+      "tokens": [
+        {
+          "gloss": "转变",
+          "lemma": "shift",
+          "surface": "Shift"
+        },
+        {
+          "gloss": "到",
+          "lemma": "to",
+          "surface": "to"
+        },
+        {
+          "gloss": "在线的",
+          "lemma": "online",
+          "surface": "Online"
+        },
+        {
+          "gloss": "报纸",
+          "lemma": "newspaper",
+          "surface": "Newspapers"
+        },
+        {
+          "gloss": "全部",
+          "lemma": "all",
+          "surface": "All"
+        },
+        {
+          "gloss": "在",
+          "lemma": "at",
+          "surface": "at"
+        },
+        {
+          "gloss": "一次",
+          "lemma": "once",
+          "surface": "Once"
+        }
+      ]
+    },
+    {
+      "cn_text": "珍视手中仍有的报纸",
+      "en_text": "Cherish the Newspaper Still in Your Hand.",
+      "id": 2016013199,
+      "order_seq": "question_2016011040_B",
+      "task_id": 201601005,
+      "tokens": [
+        {
+          "gloss": "珍惜",
+          "lemma": "cherish",
+          "surface": "Cherish"
+        },
+        {
+          "gloss": "这",
+          "lemma": "the",
+          "surface": "the"
+        },
+        {
+          "gloss": "报纸",
+          "lemma": "newspaper",
+          "surface": "Newspaper"
+        },
+        {
+          "gloss": "仍然",
+          "lemma": "still",
+          "surface": "Still"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "你的",
+          "lemma": "your",
+          "surface": "Your"
+        },
+        {
+          "gloss": "手",
+          "lemma": "hand",
+          "surface": "Hand"
+        }
+      ]
+    },
+    {
+      "cn_text": "将印刷报纸打造成奢侈品",
+      "en_text": "Make Your Print Newspaper a Luxury Good.",
+      "id": 2016013200,
+      "order_seq": "question_2016011040_C",
+      "task_id": 201601005,
+      "tokens": [
+        {
+          "gloss": "使",
+          "lemma": "make",
+          "surface": "Make"
+        },
+        {
+          "gloss": "你的",
+          "lemma": "your",
+          "surface": "Your"
+        },
+        {
+          "gloss": "印刷的",
+          "lemma": "print",
+          "surface": "Print"
+        },
+        {
+          "gloss": "报纸",
+          "lemma": "newspaper",
+          "surface": "Newspaper"
+        },
+        {
+          "gloss": "一个",
+          "lemma": "a",
+          "surface": "a"
+        },
+        {
+          "gloss": "奢侈品",
+          "lemma": "luxury",
+          "surface": "Luxury"
+        },
+        {
+          "gloss": "商品",
+          "lemma": "good",
+          "surface": "Good"
+        }
+      ]
+    },
+    {
+      "cn_text": "让报纸永葆时尚魅力",
+      "en_text": "Keep Your Newspapers Forever in Fashion.",
+      "id": 2016013201,
+      "order_seq": "question_2016011040_D",
+      "task_id": 201601005,
+      "tokens": [
+        {
+          "gloss": "保持",
+          "lemma": "keep",
+          "surface": "Keep"
+        },
+        {
+          "gloss": "你的",
+          "lemma": "your",
+          "surface": "Your"
+        },
+        {
+          "gloss": "报纸",
+          "lemma": "newspaper",
+          "surface": "Newspapers"
+        },
+        {
+          "gloss": "永远",
+          "lemma": "forever",
+          "surface": "Forever"
+        },
+        {
+          "gloss": "在",
+          "lemma": "in",
+          "surface": "in"
+        },
+        {
+          "gloss": "时尚",
+          "lemma": "fashion",
+          "surface": "Fashion"
+        }
+      ]
+    }
+  ],
+  "success": true
+}

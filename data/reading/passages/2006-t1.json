@@ -1,0 +1,754 @@
+{
+  "exam": "en1",
+  "key": "2006-t1",
+  "year": 2006,
+  "text_no": 1,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2006-text1-s1",
+      "s": "In spite of \"endless talk of difference,\"",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "—",
+        "谓语": "—",
+        "宾语或表语": "—",
+        "主干翻译": "（本句为介词短语，无独立主谓结构，与下一句相连）"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "In spite of \"endless talk of difference,\"",
+          "修饰对象": "（修饰下一句的主句）",
+          "中文翻译": "尽管人们对“差异”谈论个不停",
+          "说明": "In spite of 引导让步性的介词短语作状语，统领后文"
+        }
+      ],
+      "zh": "尽管人们对“差异”谈论个不停，",
+      "underline": null
+    },
+    {
+      "sid": "en1-2006-text1-s2",
+      "s": "American society is an amazing machine for homogenizing people.",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "American society",
+        "谓语": "is",
+        "宾语或表语": "an amazing machine",
+        "主干翻译": "美国社会是一台了不起的机器"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "for homogenizing people",
+          "修饰对象": "machine",
+          "中文翻译": "用以使人们同质化的",
+          "说明": "for + 动名词短语作后置定语，修饰 machine"
+        }
+      ],
+      "zh": "美国社会是一台了不起的机器，能把人们同质化。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2006-text1-s3",
+      "s": "There is \"the democratizing uniformity of dress and discourse, and the casualness and absence of deference\" characteristic of popular culture.",
+      "para_no": 1,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "the democratizing uniformity",
+        "谓语": "is（There is）",
+        "宾语或表语": "the democratizing uniformity of dress and discourse",
+        "主干翻译": "存在着衣着与言谈上趋于民主化的一致性"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "the casualness and absence of deference\" characteristic of popular culture",
+          "修饰对象": "uniformity",
+          "中文翻译": "（以及）那种作为大众文化特征的随意与缺乏敬意",
+          "说明": "与 uniformity 并列，同为 There is 的逻辑主语；characteristic of popular culture 为形容词短语作后置定语，修饰其所并列的整组名词"
+        },
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "of dress and discourse",
+          "修饰对象": "uniformity",
+          "中文翻译": "在衣着与言谈方面的",
+          "说明": "of 短语修饰 uniformity"
+        }
+      ],
+      "zh": "存在着那种使衣着与言谈趋于民主化的一致性，以及那种作为大众文化特征的随意和缺乏敬意。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2006-text1-s4",
+      "s": "People are absorbed into \"a culture of consumption\" launched by the 19 th-century department stores that offered \"vast arrays of goods in an elegant atmosphere.",
+      "para_no": 1,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "People",
+        "谓语": "are absorbed",
+        "宾语或表语": "into \"a culture of consumption\"",
+        "主干翻译": "人们被吸纳进一种“消费文化”之中"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "launched by the 19 th-century department stores that offered \"vast arrays of goods in an elegant atmosphere",
+          "修饰对象": "culture",
+          "中文翻译": "由19世纪那些百货商店所开创的",
+          "说明": "过去分词短语 launched by... 作后置定语，修饰 culture of consumption"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that offered \"vast arrays of goods in an elegant atmosphere",
+          "修饰对象": "stores",
+          "中文翻译": "（这些商店）在优雅的环境中提供种类繁多的商品",
+          "说明": "that 引导的限制性定语从句，修饰 department stores"
+        }
+      ],
+      "zh": "人们被吸纳进一种“消费文化”之中，这种文化由19世纪那些在优雅环境中提供琳琅满目商品的百货商店所开创。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2006-text1-s5",
+      "s": "Instead of intimate shops catering to a knowledgeable elite\" these were stores \"anyone could enter, regardless of class or background.",
+      "para_no": 1,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "these",
+        "谓语": "were",
+        "宾语或表语": "stores",
+        "主干翻译": "这些是商店"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "catering to a knowledgeable elite",
+          "修饰对象": "shops",
+          "中文翻译": "迎合见多识广的精英阶层的",
+          "说明": "现在分词短语作后置定语，修饰 intimate shops（位于 Instead of 的介词宾语中）"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "anyone could enter, regardless of class or background",
+          "修饰对象": "stores",
+          "中文翻译": "任何人都能进入，无论其阶级或出身如何",
+          "说明": "省略引导词 that/which 的限制性定语从句，修饰 stores；regardless of... 为介词短语作状语"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "Instead of intimate shops catering to a knowledgeable elite\"",
+          "修饰对象": "—",
+          "中文翻译": "不同于那些迎合见多识广的精英阶层的小巧店铺",
+          "说明": "Instead of 引导的介词短语作状语，表对比"
+        }
+      ],
+      "zh": "这些商店不像那些迎合见多识广的精英阶层的小巧店铺，而是任何人都能进入、无论阶级或出身的商店。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2006-text1-s6",
+      "s": "This turned shopping into a public and democratic act.\"",
+      "para_no": 1,
+      "para_seq": 5,
+      "trunk": {
+        "主语": "This",
+        "谓语": "turned",
+        "宾语或表语": "shopping (into a public and democratic act)",
+        "主干翻译": "这把购物变成了一种公共且民主的行为"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "into a public and democratic act",
+          "修饰对象": "—",
+          "中文翻译": "成为一种公共且民主的行为",
+          "说明": "turn...into... 结构中的介词短语，作宾语补足成分"
+        }
+      ],
+      "zh": "这把购物变成了一种公共而民主的行为。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2006-text1-s7",
+      "s": "The mass media, advertising and sports are other forces for homogenization.",
+      "para_no": 1,
+      "para_seq": 6,
+      "trunk": {
+        "主语": "The mass media, advertising and sports",
+        "谓语": "are",
+        "宾语或表语": "other forces",
+        "主干翻译": "大众传媒、广告和体育是另外一些力量"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "advertising and sports",
+          "修饰对象": "media",
+          "中文翻译": "广告和体育",
+          "说明": "与 The mass media 并列，共同构成主语"
+        },
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "for homogenization",
+          "修饰对象": "forces",
+          "中文翻译": "促成同质化的",
+          "说明": "for 短语作后置定语，修饰 forces"
+        }
+      ],
+      "zh": "大众传媒、广告和体育是另外一些促成同质化的力量。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2006-text1-s8",
+      "s": "Immigrants are quickly fitting into this common culture, which may not be altogether elevating but is hardly poisonous.",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Immigrants",
+        "谓语": "are fitting",
+        "宾语或表语": "into this common culture",
+        "主干翻译": "移民正在融入这种共同文化"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "which may not be altogether elevating but is hardly poisonous",
+          "修饰对象": "culture",
+          "中文翻译": "这种文化也许并非完全令人向上，但也几乎无害",
+          "说明": "which 引导的非限制性定语从句，修饰 common culture"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "but is hardly poisonous",
+          "修饰对象": "be",
+          "中文翻译": "但也几乎无害",
+          "说明": "but 连接 may not be... 与 is hardly...，构成定语从句内部的并列谓语"
+        }
+      ],
+      "zh": "移民正在迅速融入这种共同文化，这种文化也许并非完全令人向上，但也几乎无害。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2006-text1-s9",
+      "s": "Writing for the National Immigration Forum, Gregory Rodriguez reports that today's immigration is neither at unprecedented levels nor resistant to assimilation.",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Gregory Rodriguez",
+        "谓语": "reports",
+        "宾语或表语": "that today's immigration is...（宾语从句）",
+        "主干翻译": "格雷戈里·罗德里格斯报告说……"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "Writing for the National Immigration Forum",
+          "修饰对象": "reports",
+          "中文翻译": "在为“全国移民论坛”撰稿时",
+          "说明": "现在分词短语作状语，表伴随/背景，逻辑主语为 Gregory Rodriguez（k 标为状语，语义子类判为伴随状语）"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that today's immigration is neither at unprecedented levels nor resistant to assimilation",
+          "修饰对象": "reports",
+          "中文翻译": "如今的移民既未达到前所未有的水平，也并不抗拒同化",
+          "说明": "that 引导 reports 的宾语从句；neither...nor... 为并列结构"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "nor resistant to assimilation",
+          "修饰对象": "at",
+          "中文翻译": "也不抗拒同化",
+          "说明": "neither...nor... 连接 at unprecedented levels 与 resistant to assimilation，构成表语并列"
+        }
+      ],
+      "zh": "格雷戈里·罗德里格斯在为“全国移民论坛”撰稿时报告说，如今的移民既未达到前所未有的水平，也并不抗拒同化。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2006-text1-s10",
+      "s": "In 1998 immigrants were 9.8 percent of the population; in 1900, 13.6 percent.",
+      "para_no": 2,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "immigrants",
+        "谓语": "were",
+        "宾语或表语": "9.8 percent of the population",
+        "主干翻译": "移民占人口的9.8%"
+      },
+      "components": [
+        {
+          "成分类型": "省略",
+          "原文": "in 1900, 13.6 percent",
+          "修饰对象": "—",
+          "中文翻译": "（而）1900年（移民占）13.6%",
+          "说明": "并列分句，承前省略 immigrants were，仅保留时间状语和表语"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "In 1998",
+          "修饰对象": "were",
+          "中文翻译": "在1998年",
+          "说明": "时间状语"
+        }
+      ],
+      "zh": "1998年移民占总人口的9.8%；而1900年则占13.6%。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2006-text1-s11",
+      "s": "In the 10 years prior to 1990, 3.1 immigrants arrived for every 1, 000 residents; in the 10 years prior to 1890, 9.2 for every 1, 000.",
+      "para_no": 2,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "3.1 immigrants",
+        "谓语": "arrived",
+        "宾语或表语": "—",
+        "主干翻译": "有3.1名移民到来"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "In the 10 years prior to 1990",
+          "修饰对象": "arrived",
+          "中文翻译": "在1990年之前的10年里",
+          "说明": "时间状语"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "for every 1, 000 residents",
+          "修饰对象": "arrived",
+          "中文翻译": "每1000名居民中",
+          "说明": "for 短语作比例状语"
+        },
+        {
+          "成分类型": "省略",
+          "原文": "in the 10 years prior to 1890, 9.2 for every 1, 000",
+          "修饰对象": "—",
+          "中文翻译": "在1890年之前的10年里，每1000人中（到来）9.2名",
+          "说明": "并列分句，承前省略 immigrants arrived"
+        }
+      ],
+      "zh": "在1990年之前的10年里，每1000名居民中有3.1名移民到来；而在1890年之前的10年里，每1000人中则有9.2名。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2006-text1-s12",
+      "s": "Now, consider three indices of assimilation—language, home ownership and intermarriage.",
+      "para_no": 2,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "(you)",
+        "谓语": "consider",
+        "宾语或表语": "three indices of assimilation",
+        "主干翻译": "请考虑同化的三项指标"
+      },
+      "components": [
+        {
+          "成分类型": "同位语从句",
+          "原文": "language, home ownership and intermarriage",
+          "修饰对象": "indices",
+          "中文翻译": "即语言、住房拥有率和异族通婚",
+          "说明": "破折号后的名词短语作 three indices 的同位语（此处为同位语成分，非从句，归入同位语类别）"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "home ownership and intermarriage",
+          "修饰对象": "language",
+          "中文翻译": "住房拥有率和异族通婚",
+          "说明": "与 language 并列，共同构成同位语"
+        }
+      ],
+      "zh": "现在，请考虑同化的三项指标——语言、住房拥有率和异族通婚。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2006-text1-s13",
+      "s": "The 1990 Census revealed that \"a majority of immigrants from each of the fifteen most common countries of origin spoke English 'well' or 'very well' after ten years of residence.\"",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The 1990 Census",
+        "谓语": "revealed",
+        "宾语或表语": "that a majority...（宾语从句）",
+        "主干翻译": "1990年的人口普查显示……"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "that \"a majority of immigrants from each of the fifteen most common countries of origin spoke English 'well' or 'very well' after ten years of residence",
+          "修饰对象": "revealed",
+          "中文翻译": "来自十五个最常见原籍国中每一国的多数移民，在居住十年后英语说得“好”或“很好”",
+          "说明": "that 引导 revealed 的宾语从句"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "or 'very well'",
+          "修饰对象": "well",
+          "中文翻译": "或“很好”",
+          "说明": "or 连接 'well' 与 'very well'，作 spoke English 的方式状语并列"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "after ten years of residence",
+          "修饰对象": "spoke",
+          "中文翻译": "在居住十年之后",
+          "说明": "时间状语，从句内修饰 spoke"
+        }
+      ],
+      "zh": "1990年的人口普查显示，来自十五个最常见原籍国中每一国的多数移民，在居住十年后英语都说得“好”或“很好”。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2006-text1-s14",
+      "s": "The children of immigrants tend to be bilingual and proficient in English.",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "The children of immigrants",
+        "谓语": "tend",
+        "宾语或表语": "to be bilingual and proficient in English",
+        "主干翻译": "移民的子女往往既能讲两种语言又精通英语"
+      },
+      "components": [
+        {
+          "成分类型": "省略",
+          "原文": "to be bilingual and proficient in English",
+          "修饰对象": "tend",
+          "中文翻译": "倾向于双语并精通英语",
+          "说明": "tend to do 结构中的不定式作宾语（句法骨架标为非谓语补足，归入相近类别）"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "and proficient in English",
+          "修饰对象": "bilingual",
+          "中文翻译": "并精通英语",
+          "说明": "and 连接 bilingual 与 proficient in English，构成表语并列"
+        }
+      ],
+      "zh": "移民的子女往往既能讲双语，又精通英语。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2006-text1-s15",
+      "s": "\"By the third generation, the original language is lost in the majority of immigrant families.\"",
+      "para_no": 3,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "the original language",
+        "谓语": "is lost",
+        "宾语或表语": "—",
+        "主干翻译": "原有的语言便消失了"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "By the third generation",
+          "修饰对象": "is lost",
+          "中文翻译": "到了第三代",
+          "说明": "时间状语"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "in the majority of immigrant families",
+          "修饰对象": "is lost",
+          "中文翻译": "在大多数移民家庭中",
+          "说明": "范围/地点状语"
+        }
+      ],
+      "zh": "到了第三代，在大多数移民家庭中，原有的语言便消失了。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2006-text1-s16",
+      "s": "Hence the description of America as a \"graveyard\" for languages.",
+      "para_no": 3,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "the description of America",
+        "谓语": "（无谓语，省略句）",
+        "宾语或表语": "—",
+        "主干翻译": "由此便有了把美国称作语言“坟墓”的说法"
+      },
+      "components": [
+        {
+          "成分类型": "省略",
+          "原文": "Hence the description of America as a \"graveyard\" for languages",
+          "修饰对象": "—",
+          "中文翻译": "因此有了把美国说成语言“坟墓”的说法",
+          "说明": "整句为无谓语的省略结构（Hence + 名词短语），承上文得出结论；as a graveyard 作 description 的方式补足成分"
+        }
+      ],
+      "zh": "因此，美国便被称为语言的“坟墓”。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2006-text1-s17",
+      "s": "By 1996 foreign-born immigrants who had arrived before 1970 had a home ownership rate of 75.6 percent, higher than the 69.8 percent rate among native-born Americans.",
+      "para_no": 3,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "foreign-born immigrants",
+        "谓语": "had",
+        "宾语或表语": "a home ownership rate of 75.6 percent",
+        "主干翻译": "外国出生的移民拥有75.6%的住房自有率"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "who had arrived before 1970",
+          "修饰对象": "immigrants",
+          "中文翻译": "1970年以前到来的",
+          "说明": "who 引导的限制性定语从句，修饰 foreign-born immigrants"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "higher than the 69.8 percent rate among native-born Americans",
+          "修饰对象": "rate",
+          "中文翻译": "高于本土出生美国人的69.8%的比率",
+          "说明": "形容词比较结构作补足/后置修饰，修饰 home ownership rate；than... 引导比较对象"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "By 1996",
+          "修饰对象": "had",
+          "中文翻译": "到1996年",
+          "说明": "时间状语"
+        }
+      ],
+      "zh": "到1996年，1970年以前到来的外国出生移民拥有75.6%的住房自有率，高于本土出生美国人69.8%的比率。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2006-text1-s18",
+      "s": "Foreign-born Asians and Hispanics \"have higher rates of intermarriage than do U.S.-born whites and blacks.\"",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Foreign-born Asians and Hispanics",
+        "谓语": "have",
+        "宾语或表语": "higher rates of intermarriage",
+        "主干翻译": "外国出生的亚裔和拉美裔有更高的异族通婚率"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(比较)",
+          "原文": "than do U.S.-born whites and blacks",
+          "修饰对象": "rates",
+          "中文翻译": "比美国本土出生的白人和黑人（的通婚率更高）",
+          "说明": "than 引导比较状语从句，修饰 higher rates；do 为助动词，存在部分倒装（do U.S.-born whites and blacks）"
+        }
+      ],
+      "zh": "外国出生的亚裔和拉美裔的异族通婚率高于美国本土出生的白人和黑人。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2006-text1-s19",
+      "s": "By the third generation, one third of Hispanic women are married to non-Hispanics, and 41 percent of Asian-American women are married to non-Asians.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "one third of Hispanic women",
+        "谓语": "are married",
+        "宾语或表语": "to non-Hispanics",
+        "主干翻译": "三分之一的拉美裔女性嫁给了非拉美裔"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "41 percent of Asian-American women are married to non-Asians",
+          "修饰对象": "are",
+          "中文翻译": "41%的亚裔美国女性嫁给了非亚裔",
+          "说明": "and 连接的并列分句，与前一分句结构对等"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "By the third generation",
+          "修饰对象": "are married",
+          "中文翻译": "到了第三代",
+          "说明": "时间状语，统领整个并列句"
+        }
+      ],
+      "zh": "到了第三代，三分之一的拉美裔女性嫁给了非拉美裔，41%的亚裔美国女性嫁给了非亚裔。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2006-text1-s20",
+      "s": "Rodriguez notes that children in remote villages around the world are fans of superstars like Arnold Schwarzenegger and Garth Brooks, yet \"some Americans fear that immigrants living within the United States remain somehow immune to the nation's assimilative power.\"",
+      "para_no": 5,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Rodriguez",
+        "谓语": "notes",
+        "宾语或表语": "that children...（宾语从句）",
+        "主干翻译": "罗德里格斯指出……"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "that children in remote villages around the world are fans of superstars like Arnold Schwarzenegger and Garth Brooks, yet",
+          "修饰对象": "notes",
+          "中文翻译": "世界各地偏远村庄里的孩子都是阿诺德·施瓦辛格、加思·布鲁克斯等巨星的粉丝",
+          "说明": "that 引导 notes 的第一个宾语从句"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "\"some Americans fear that immigrants living within the United States remain somehow immune to the nation's assimilative power.\"",
+          "修饰对象": "notes",
+          "中文翻译": "（然而）有些美国人担心，居住在美国境内的移民不知何故仍对这个国家的同化力免疫",
+          "说明": "由 yet 连接的第二个宾语从句，与前一从句并列，同作 notes 的宾语"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "living within the United States",
+          "修饰对象": "immigrants",
+          "中文翻译": "居住在美国境内的",
+          "说明": "现在分词短语作后置定语，修饰 immigrants"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that immigrants living within the United States remain somehow immune to the nation's assimilative power",
+          "修饰对象": "fear",
+          "中文翻译": "居住在美国境内的移民不知何故仍对这个国家的同化力免疫",
+          "说明": "that 引导 fear 的宾语从句（嵌套于第二个宾语从句内部）"
+        }
+      ],
+      "zh": "罗德里格斯指出，世界各地偏远村庄里的孩子都是阿诺德·施瓦辛格、加思·布鲁克斯等巨星的粉丝，然而“有些美国人担心，居住在美国境内的移民不知何故仍对这个国家的同化力免疫”。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2006-text1-s21",
+      "s": "Are there divisive issues and pockets of seething anger in America? Indeed.",
+      "para_no": 6,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "divisive issues and pockets of seething anger",
+        "谓语": "Are there",
+        "宾语或表语": "—",
+        "主干翻译": "美国是否存在分裂性的问题和郁积着愤怒的角落"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "pockets of seething anger",
+          "修饰对象": "issues",
+          "中文翻译": "郁积着愤怒的角落",
+          "说明": "与 divisive issues 并列，同作 there be 句型的逻辑主语"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "in America",
+          "修饰对象": "Are there",
+          "中文翻译": "在美国",
+          "说明": "地点状语"
+        }
+      ],
+      "zh": "美国是否存在分裂性的问题以及郁积着愤怒的角落呢？确实存在。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2006-text1-s22",
+      "s": "It is big enough to have a bit of everything.",
+      "para_no": 6,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "It",
+        "谓语": "is",
+        "宾语或表语": "big enough",
+        "主干翻译": "它足够大"
+      },
+      "components": [
+        {
+          "成分类型": "省略",
+          "原文": "to have a bit of everything",
+          "修饰对象": "big",
+          "中文翻译": "以致样样都有一点",
+          "说明": "enough to do 结构中的不定式作结果/程度补足，逻辑上承接 big enough"
+        }
+      ],
+      "zh": "它（美国）足够大，因此样样都有一点。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2006-text1-s23",
+      "s": "But particularly when viewed against America's turbulent past, today's social indices hardly suggest a dark and deteriorating social environment.",
+      "para_no": 6,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "today's social indices",
+        "谓语": "suggest",
+        "宾语或表语": "a dark and deteriorating social environment（hardly 否定）",
+        "主干翻译": "如今的各项社会指标几乎并不表明一种阴暗而日益恶化的社会环境"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "particularly when viewed against America's turbulent past",
+          "修饰对象": "suggest",
+          "中文翻译": "尤其是与美国动荡的过去相比时",
+          "说明": "when 引导的时间状语从句，省略主语和 be（when (they are) viewed...）；against... 为介词短语作状语，表对照"
+        }
+      ],
+      "zh": "但尤其是与美国动荡的过去相比，如今的各项社会指标几乎并不表明一种阴暗而日益恶化的社会环境。",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2006-text1-s1",
+        "en1-2006-text1-s2",
+        "en1-2006-text1-s3",
+        "en1-2006-text1-s4",
+        "en1-2006-text1-s5",
+        "en1-2006-text1-s6",
+        "en1-2006-text1-s7"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2006-text1-s8",
+        "en1-2006-text1-s9",
+        "en1-2006-text1-s10",
+        "en1-2006-text1-s11",
+        "en1-2006-text1-s12"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2006-text1-s13",
+        "en1-2006-text1-s14",
+        "en1-2006-text1-s15",
+        "en1-2006-text1-s16",
+        "en1-2006-text1-s17"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2006-text1-s18",
+        "en1-2006-text1-s19"
+      ]
+    },
+    {
+      "para_no": 5,
+      "sids": [
+        "en1-2006-text1-s20"
+      ]
+    },
+    {
+      "para_no": 6,
+      "sids": [
+        "en1-2006-text1-s21",
+        "en1-2006-text1-s22",
+        "en1-2006-text1-s23"
+      ]
+    }
+  ]
+}

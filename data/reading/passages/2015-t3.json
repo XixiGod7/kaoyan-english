@@ -1,0 +1,764 @@
+{
+  "exam": "en1",
+  "key": "2015-t3",
+  "year": 2015,
+  "text_no": 3,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2015-text3-s1",
+      "s": "The journal Science is adding an extra round of statistical checks to its peer-review process, editor-in-chief Marcia McNutt announced today.",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Marcia McNutt",
+        "谓语": "announced",
+        "宾语或表语": "（引语内容）",
+        "主干翻译": "主编玛西娅·麦克纳特宣布。"
+      },
+      "components": [
+        {
+          "成分类型": "同位语从句",
+          "原文": "Science",
+          "修饰对象": "journal",
+          "中文翻译": "《科学》",
+          "说明": "专有名词作 The journal 的同位语，说明该期刊的名称。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "The journal Science is adding an extra round of statistical checks to its peer-review process",
+          "修饰对象": "announced",
+          "中文翻译": "《科学》杂志正在其同行评审流程中增加一轮额外的统计审查",
+          "说明": "前置的引语内容作 announced 的宾语，本句为引语+引述语的倒装结构。"
+        }
+      ],
+      "zh": "主编玛西娅·麦克纳特今天宣布，《科学》杂志正在其同行评审流程中增加一轮额外的统计审查。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2015-text3-s2",
+      "s": "The policy follows similar efforts from other journals, after widespread concern that basic mistakes in data analysis are contributing to the irreproducibility of many published research findings.",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "The policy",
+        "谓语": "follows",
+        "宾语或表语": "similar efforts",
+        "主干翻译": "这项政策效仿了类似的做法。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "from other journals",
+          "修饰对象": "efforts",
+          "中文翻译": "来自其他期刊的",
+          "说明": "介词短语修饰 efforts，说明这些做法的来源。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "after widespread concern",
+          "修饰对象": "follows",
+          "中文翻译": "在广泛的担忧之后",
+          "说明": "after 引导的介词短语作时间状语，concern 后接同位语从句。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "that basic mistakes in data analysis are contributing to the irreproducibility of many published research findings",
+          "修饰对象": "concern",
+          "中文翻译": "数据分析中的基本错误正在导致许多已发表研究结果无法重现",
+          "说明": "that 引导同位语从句，对 concern 的内容加以说明。"
+        }
+      ],
+      "zh": "在人们普遍担忧数据分析中的基本错误正导致许多已发表的研究结果无法重现之后，这项政策效仿了其他期刊的类似做法。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2015-text3-s3",
+      "s": "\"Readers must have confidence in the conclusions published in our journal,\" writes McNutt in an editorial.",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "McNutt",
+        "谓语": "writes",
+        "宾语或表语": "（引语内容）",
+        "主干翻译": "麦克纳特写道。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "Readers must have confidence in the conclusions published in our journal",
+          "修饰对象": "writes",
+          "中文翻译": "读者必须对我们期刊上发表的结论有信心",
+          "说明": "前置引语作 writes 的宾语，本句为引语+引述语的倒装结构。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "published in our journal",
+          "修饰对象": "conclusions",
+          "中文翻译": "发表在我们期刊上的",
+          "说明": "过去分词短语作后置定语，修饰 conclusions。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "in an editorial",
+          "修饰对象": "writes",
+          "中文翻译": "在一篇社论中",
+          "说明": "介词短语作地点/方式状语，说明麦克纳特写作的载体。"
+        }
+      ],
+      "zh": "麦克纳特在一篇社论中写道：“读者必须对我们期刊上发表的结论有信心。”",
+      "underline": null
+    },
+    {
+      "sid": "en1-2015-text3-s4",
+      "s": "Working with the American Statistical Association, the journal has appointed seven experts to a statistics board of reviewing editors (SBoRE).",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "the journal",
+        "谓语": "has appointed",
+        "宾语或表语": "seven experts",
+        "主干翻译": "该期刊任命了七位专家。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "Working with the American Statistical Association",
+          "修饰对象": "appointed",
+          "中文翻译": "在与美国统计协会合作的过程中",
+          "说明": "现在分词短语作伴随状语，说明任命行为的背景。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "to a statistics board of reviewing editors (SBoRE)",
+          "修饰对象": "appointed",
+          "中文翻译": "进入一个统计评审编辑委员会（SBoRE）",
+          "说明": "to 引导的介词短语说明任命的去向，appoint sb. to 结构。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "SBoRE",
+          "修饰对象": "board",
+          "中文翻译": "即 SBoRE",
+          "说明": "括号内缩写作 statistic board of reviewing editors 的同位语。"
+        }
+      ],
+      "zh": "在与美国统计协会合作的过程中，该期刊任命了七位专家进入一个统计评审编辑委员会（SBoRE）。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2015-text3-s5",
+      "s": "Manuscripts will be flagged up for additional scrutiny by the journal's internal editors, or by its existing Board of Reviewing Editors or by outside peer reviewers.",
+      "para_no": 2,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Manuscripts",
+        "谓语": "will be flagged up",
+        "宾语或表语": "—",
+        "主干翻译": "稿件将被标记出来（以接受额外审查）。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "by the journal's internal editors",
+          "修饰对象": "scrutiny",
+          "中文翻译": "由该期刊的内部编辑进行",
+          "说明": "by 短语说明审查的执行者，三项并列的第一项。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "by its existing Board of Reviewing Editors or by outside peer reviewers",
+          "修饰对象": "by",
+          "中文翻译": "由其现有的评审编辑委员会或外部同行评审人进行",
+          "说明": "or 连接的并列介词短语，与前一 by 短语并列说明审查者。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "by outside peer reviewers",
+          "修饰对象": "by",
+          "中文翻译": "由外部同行评审人进行",
+          "说明": "or 连接的第三个并列 by 短语。"
+        }
+      ],
+      "zh": "稿件将由该期刊的内部编辑、或其现有的评审编辑委员会、或外部同行评审人标记出来，以接受额外审查。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2015-text3-s6",
+      "s": "The SBoRE panel will then find external statisticians to review these manuscripts.",
+      "para_no": 2,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "The SBoRE panel",
+        "谓语": "will find",
+        "宾语或表语": "external statisticians",
+        "主干翻译": "SBoRE 小组将寻找外部统计学家。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to review these manuscripts",
+          "修饰对象": "statisticians",
+          "中文翻译": "来审查这些稿件的",
+          "说明": "不定式短语作后置定语，修饰 statisticians，表用途/目的。"
+        }
+      ],
+      "zh": "随后，SBoRE 小组将寻找外部统计学家来审查这些稿件。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2015-text3-s7",
+      "s": "Asked whether any particular papers had impelled the change, McNutt said: \"The creation of the 'statistics board' was motivated by concerns broadly with the application of statistics and data analysis in scientific research and is part of Science's overall drive to increase reproducibility in the research we publish.\"",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "McNutt",
+        "谓语": "said",
+        "宾语或表语": "（引语内容）",
+        "主干翻译": "麦克纳特说。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "Asked whether any particular papers had impelled the change",
+          "修饰对象": "said",
+          "中文翻译": "在被问及是否有某些特定论文促成了这一变化时",
+          "说明": "过去分词短语作时间/条件状语，逻辑主语为 McNutt。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "whether any particular papers had impelled the change",
+          "修饰对象": "Asked",
+          "中文翻译": "是否有某些特定论文促成了这一变化",
+          "说明": "whether 引导宾语从句，作分词 Asked 的逻辑宾语。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "The creation of the 'statistics board' was motivated by concerns broadly with the application of statistics and data analysis in scientific research and is part of Science's overall drive to increase reproducibility in the research we publish",
+          "修饰对象": "said",
+          "中文翻译": "设立“统计委员会”是出于对统计学和数据分析在科学研究中应用的广泛关切，也是《科学》整体推动提高其所发表研究可重复性的努力的一部分",
+          "说明": "前置引语作 said 的宾语，内部含并列谓语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "is part of Science's overall drive to increase reproducibility in the research we publish",
+          "修饰对象": "motivated",
+          "中文翻译": "是《科学》整体努力的一部分",
+          "说明": "and 连接的并列谓语，与 was motivated 并列，共用主语 The creation。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to increase reproducibility in the research we publish",
+          "修饰对象": "drive",
+          "中文翻译": "提高我们所发表研究可重复性的",
+          "说明": "不定式短语作后置定语修饰 drive。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "we publish",
+          "修饰对象": "research",
+          "中文翻译": "我们所发表的",
+          "说明": "省略关系代词 that/which 的定语从句修饰 research。"
+        }
+      ],
+      "zh": "在被问及是否有某些特定论文促成了这一变化时，麦克纳特说：“设立‘统计委员会’是出于对统计学和数据分析在科学研究中应用的广泛关切，同时也是《科学》整体推动提高我们所发表研究之可重复性的努力的一部分。”",
+      "underline": null
+    },
+    {
+      "sid": "en1-2015-text3-s8",
+      "s": "Giovanni Parmigiani, a biostatistician at the Harvard School of Public Health, a member of the SBoRE group, says he expects the board to \"play primarily an advisory role.\"",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Giovanni Parmigiani",
+        "谓语": "says",
+        "宾语或表语": "（宾语从句）",
+        "主干翻译": "乔瓦尼·帕米贾尼说。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "a biostatistician at the Harvard School of Public Health",
+          "修饰对象": "Parmigiani",
+          "中文翻译": "哈佛公共卫生学院的一位生物统计学家",
+          "说明": "名词短语作 Parmigiani 的同位语，插入说明其身份。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "a member of the SBoRE group",
+          "修饰对象": "Parmigiani",
+          "中文翻译": "SBoRE 小组的一名成员",
+          "说明": "第二个名词短语同位语，进一步说明其身份。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "he expects the board to \"play primarily an advisory role",
+          "修饰对象": "says",
+          "中文翻译": "他预计该委员会将“主要发挥咨询作用”",
+          "说明": "省略 that 的宾语从句作 says 的宾语。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "the board to \"play primarily an advisory role",
+          "修饰对象": "expects",
+          "中文翻译": "该委员会主要发挥咨询作用",
+          "说明": "expect sb. to do 的复合宾语结构，作 expects 的宾语。"
+        }
+      ],
+      "zh": "哈佛公共卫生学院的生物统计学家、SBoRE 小组成员乔瓦尼·帕米贾尼说，他预计该委员会将“主要发挥咨询作用”。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2015-text3-s9",
+      "s": "He agreed to join because he \"found the foresight behind the establishment of the SBoRE to be novel, unique and likely to have a lasting impact.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "He",
+        "谓语": "agreed",
+        "宾语或表语": "to join",
+        "主干翻译": "他同意加入。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to join",
+          "修饰对象": "agreed",
+          "中文翻译": "加入",
+          "说明": "不定式作 agree 的宾语/补足成分，表所同意之事。"
+        },
+        {
+          "成分类型": "状语从句(原因)",
+          "原文": "because he \"found the foresight behind the establishment of the SBoRE to be novel, unique and likely to have a lasting impact",
+          "修饰对象": "agreed",
+          "中文翻译": "因为他“发现设立 SBoRE 背后的远见卓识新颖、独特且可能产生持久影响”",
+          "说明": "because 引导原因状语从句。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "the foresight behind the establishment of the SBoRE to be novel, unique and likely to have a lasting impact",
+          "修饰对象": "found",
+          "中文翻译": "设立 SBoRE 背后的远见新颖、独特且可能产生持久影响",
+          "说明": "find sth. to be 的复合宾语结构，作 found 的宾语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "unique and likely to have a lasting impact",
+          "修饰对象": "novel",
+          "中文翻译": "独特且可能产生持久影响",
+          "说明": "与 novel 并列的表语成分。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "likely to have a lasting impact",
+          "修饰对象": "unique",
+          "中文翻译": "可能产生持久影响",
+          "说明": "与 unique 并列的形容词表语。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to have a lasting impact",
+          "修饰对象": "likely",
+          "中文翻译": "产生持久影响",
+          "说明": "不定式与 likely 搭配（be likely to do），作补足成分。"
+        }
+      ],
+      "zh": "他同意加入，因为他“发现设立 SBoRE 背后的远见卓识新颖、独特，并可能产生持久的影响”。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2015-text3-s10",
+      "s": "This impact will not only be through the publications in Science itself, but hopefully through a larger group of publishing places that may want to model their approach after Science.\"",
+      "para_no": 4,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "This impact",
+        "谓语": "will be",
+        "宾语或表语": "through the publications",
+        "主干翻译": "这种影响将通过发表的论文实现。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "itself",
+          "修饰对象": "Science",
+          "中文翻译": "本身",
+          "说明": "反身代词作 Science 的同位语，起强调作用。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "hopefully through a larger group of publishing places that may want to model their approach after Science",
+          "修饰对象": "through",
+          "中文翻译": "并有望通过更大范围内可能想要效仿《科学》做法的发表机构",
+          "说明": "not only...but...结构中 but 后的并列介词短语。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that may want to model their approach after Science",
+          "修饰对象": "places",
+          "中文翻译": "可能想要效仿《科学》做法的",
+          "说明": "that 引导定语从句修饰 publishing places。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to model their approach after Science",
+          "修饰对象": "want",
+          "中文翻译": "效仿《科学》的做法",
+          "说明": "不定式作 want 的宾语/补足成分。"
+        }
+      ],
+      "zh": "这种影响不仅将通过《科学》杂志本身发表的论文产生，而且有望通过更多可能想要效仿《科学》做法的发表机构产生。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2015-text3-s11",
+      "s": "John Ioannidis, a physician who studies research methodology, says that the policy is \"a most welcome step forward\" and \"long overdue.\"",
+      "para_no": 5,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "John Ioannidis",
+        "谓语": "says",
+        "宾语或表语": "（宾语从句）",
+        "主干翻译": "约翰·约安尼迪斯说。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "a physician who studies research methodology",
+          "修饰对象": "Ioannidis",
+          "中文翻译": "一位研究科研方法论的医生",
+          "说明": "名词短语作 Ioannidis 的同位语，内含定语从句。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "who studies research methodology",
+          "修饰对象": "physician",
+          "中文翻译": "研究科研方法论的",
+          "说明": "who 引导定语从句修饰 physician。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that the policy is \"a most welcome step forward\" and \"long overdue",
+          "修饰对象": "says",
+          "中文翻译": "这项政策是“一个最受欢迎的进步”且“早就该实行”",
+          "说明": "that 引导宾语从句作 says 的宾语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "\"long overdue",
+          "修饰对象": "step",
+          "中文翻译": "早就该实行",
+          "说明": "and 连接的并列表语，与 a most welcome step forward 并列。"
+        }
+      ],
+      "zh": "研究科研方法论的医生约翰·约安尼迪斯说，这项政策是“一个最受欢迎的进步”，而且“早就该实行了”。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2015-text3-s12",
+      "s": "\"Most journals are weak in statistical review, and this damages the quality of what they publish.",
+      "para_no": 5,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Most journals",
+        "谓语": "are",
+        "宾语或表语": "weak",
+        "主干翻译": "大多数期刊都很薄弱。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "in statistical review",
+          "修饰对象": "weak",
+          "中文翻译": "在统计审查方面",
+          "说明": "介词短语说明 weak 的方面。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "this damages the quality of what they publish",
+          "修饰对象": "are",
+          "中文翻译": "这损害了它们所发表内容的质量",
+          "说明": "and 连接的并列分句，内含 what 引导的宾语从句。"
+        }
+      ],
+      "zh": "“大多数期刊在统计审查方面都很薄弱，这损害了它们所发表内容的质量。”",
+      "underline": null
+    },
+    {
+      "sid": "en1-2015-text3-s13",
+      "s": "I think that, for the majority of scientific papers nowadays, statistical review is more essential than expert review,\" he says.",
+      "para_no": 5,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "I",
+        "谓语": "think",
+        "宾语或表语": "（宾语从句）",
+        "主干翻译": "我认为。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "I think that, for the majority of scientific papers nowadays, statistical review is more essential than expert review",
+          "修饰对象": "says",
+          "中文翻译": "我认为，对于如今大多数科学论文而言，统计审查比专家评审更为重要",
+          "说明": "前置引语整体作 says 的宾语，本句为引语+引述语倒装。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that, for the majority of scientific papers nowadays, statistical review is more essential than expert review",
+          "修饰对象": "think",
+          "中文翻译": "对于如今大多数科学论文而言，统计审查比专家评审更为重要",
+          "说明": "that 引导宾语从句作 think 的宾语，内含比较结构。"
+        },
+        {
+          "成分类型": "状语从句(比较)",
+          "原文": "than expert review",
+          "修饰对象": "essential",
+          "中文翻译": "比专家评审",
+          "说明": "more...than 比较结构，than 引导比较状语。"
+        }
+      ],
+      "zh": "他说：“我认为，对于如今大多数科学论文而言，统计审查比专家评审更为重要。”",
+      "underline": null
+    },
+    {
+      "sid": "en1-2015-text3-s14",
+      "s": "But he noted that biomedical journals such as Annals of Internal Medicine, the Journal of the American Medical Association and The Lancet pay strong attention to statistical review.",
+      "para_no": 5,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "he",
+        "谓语": "noted",
+        "宾语或表语": "（宾语从句）",
+        "主干翻译": "他指出。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "that biomedical journals such as Annals of Internal Medicine, the Journal of the American Medical Association and The Lancet pay strong attention to statistical review",
+          "修饰对象": "noted",
+          "中文翻译": "像《内科学年鉴》《美国医学会杂志》和《柳叶刀》这样的生物医学期刊高度重视统计审查",
+          "说明": "that 引导宾语从句作 noted 的宾语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "the Journal of the American Medical Association and The Lancet",
+          "修饰对象": "Annals",
+          "中文翻译": "《美国医学会杂志》和《柳叶刀》",
+          "说明": "与 Annals of Internal Medicine 并列，共同作 such as 的列举对象。"
+        }
+      ],
+      "zh": "但他指出，像《内科学年鉴》《美国医学会杂志》和《柳叶刀》这样的生物医学期刊高度重视统计审查。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2015-text3-s15",
+      "s": "Professional scientists are expected to know how to analyse data, but statistical errors are alarmingly common in published research, according to David Vaux, a cell biologist.",
+      "para_no": 6,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Professional scientists",
+        "谓语": "are expected",
+        "宾语或表语": "to know how to analyse data",
+        "主干翻译": "专业科学家被认为应当懂得如何分析数据。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to know how to analyse data",
+          "修饰对象": "expected",
+          "中文翻译": "懂得如何分析数据",
+          "说明": "不定式作 be expected to 的补足成分。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "how to analyse data",
+          "修饰对象": "know",
+          "中文翻译": "如何分析数据",
+          "说明": "how 引导的不定式疑问结构作 know 的宾语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "statistical errors are alarmingly common in published research, according to David Vaux, a cell biologist.",
+          "修饰对象": "expected",
+          "中文翻译": "但据细胞生物学家戴维·沃克斯说，统计错误在已发表的研究中却普遍得令人担忧",
+          "说明": "but 连接的并列分句，与前一分句构成转折并列。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "a cell biologist",
+          "修饰对象": "Vaux",
+          "中文翻译": "一位细胞生物学家",
+          "说明": "名词短语作 David Vaux 的同位语。"
+        }
+      ],
+      "zh": "据细胞生物学家戴维·沃克斯说，专业科学家本应懂得如何分析数据，但统计错误在已发表的研究中却普遍得令人担忧。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2015-text3-s16",
+      "s": "Researchers should improve their standards, he wrote in 2012, but journals should also take a tougher line, \"engaging reviewers who are statistically literate and editors who can verify the process.\"",
+      "para_no": 6,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Researchers",
+        "谓语": "should improve",
+        "宾语或表语": "their standards",
+        "主干翻译": "研究人员应当提高他们的标准。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "he wrote in 2012",
+          "修饰对象": "—",
+          "中文翻译": "他在 2012 年写道",
+          "说明": "引述语插入句中，作插入语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "journals should also take a tougher line, \"engaging reviewers who are statistically literate and editors who can verify the process.\"",
+          "修饰对象": "improve",
+          "中文翻译": "但期刊也应采取更严格的立场，“聘用具备统计学素养的审稿人以及能够核查这一过程的编辑”",
+          "说明": "but 连接的并列分句，与前一分句并列。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "engaging reviewers who are statistically literate and editors who can verify the process",
+          "修饰对象": "take",
+          "中文翻译": "聘用具备统计学素养的审稿人以及能够核查这一过程的编辑",
+          "说明": "现在分词短语作伴随/方式状语，说明如何采取更严格的立场。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "who are statistically literate",
+          "修饰对象": "reviewers",
+          "中文翻译": "具备统计学素养的",
+          "说明": "who 引导定语从句修饰 reviewers。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "editors who can verify the process",
+          "修饰对象": "reviewers",
+          "中文翻译": "能够核查这一过程的编辑",
+          "说明": "and 连接，与 reviewers 并列作 engaging 的宾语。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "who can verify the process",
+          "修饰对象": "editors",
+          "中文翻译": "能够核查这一过程的",
+          "说明": "who 引导定语从句修饰 editors。"
+        }
+      ],
+      "zh": "他在 2012 年写道，研究人员应当提高自身标准，但期刊也应采取更严格的立场，“聘用具备统计学素养的审稿人，以及能够核查这一过程的编辑”。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2015-text3-s17",
+      "s": "Vaux says that Science's idea to pass some papers to statisticians \"has some merit, but a weakness is that it relies on the board of reviewing editors to identify 'the papers that need scrutiny' in the first place\".",
+      "para_no": 6,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Vaux",
+        "谓语": "says",
+        "宾语或表语": "（宾语从句）",
+        "主干翻译": "沃克斯说。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to pass some papers to statisticians",
+          "修饰对象": "idea",
+          "中文翻译": "把一些论文交给统计学家的",
+          "说明": "不定式短语作后置定语修饰 idea。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that Science's idea to pass some papers to statisticians \"has some merit, but a weakness is that it relies on the board of reviewing editors to identify 'the papers that need scrutiny' in the first place\"",
+          "修饰对象": "says",
+          "中文翻译": "《科学》把部分论文交给统计学家的想法“有一定优点，但弱点在于它一开始就依赖评审编辑委员会去识别‘需要审查的论文’”",
+          "说明": "that 引导宾语从句作 says 的宾语，内含并列谓语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "a weakness is that it relies on the board of reviewing editors to identify 'the papers that need scrutiny' in the first place",
+          "修饰对象": "has",
+          "中文翻译": "弱点在于它一开始就依赖评审编辑委员会去识别“需要审查的论文”",
+          "说明": "but 连接的并列分句，与 idea has some merit 并列。"
+        },
+        {
+          "成分类型": "表语从句",
+          "原文": "that it relies on the board of reviewing editors to identify 'the papers that need scrutiny' in the first place",
+          "修饰对象": "is",
+          "中文翻译": "它一开始就依赖评审编辑委员会去识别“需要审查的论文”",
+          "说明": "that 引导表语从句，作 a weakness is 的表语。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to identify 'the papers that need scrutiny' in the first place",
+          "修饰对象": "relies",
+          "中文翻译": "去识别“需要审查的论文”",
+          "说明": "不定式作 rely on sb. to do 结构中的补足成分。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that need scrutiny",
+          "修饰对象": "papers",
+          "中文翻译": "需要审查的",
+          "说明": "that 引导定语从句修饰 the papers。"
+        }
+      ],
+      "zh": "沃克斯说，《科学》把部分论文交给统计学家的想法“有一定优点，但弱点在于它一开始就要依赖评审编辑委员会去识别‘需要审查的论文’”。",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2015-text3-s1",
+        "en1-2015-text3-s2"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2015-text3-s3",
+        "en1-2015-text3-s4",
+        "en1-2015-text3-s5",
+        "en1-2015-text3-s6"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2015-text3-s7"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2015-text3-s8",
+        "en1-2015-text3-s9",
+        "en1-2015-text3-s10"
+      ]
+    },
+    {
+      "para_no": 5,
+      "sids": [
+        "en1-2015-text3-s11",
+        "en1-2015-text3-s12",
+        "en1-2015-text3-s13",
+        "en1-2015-text3-s14"
+      ]
+    },
+    {
+      "para_no": 6,
+      "sids": [
+        "en1-2015-text3-s15",
+        "en1-2015-text3-s16",
+        "en1-2015-text3-s17"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,792 @@
+{
+  "exam": "en1",
+  "key": "2009-t1",
+  "year": 2009,
+  "text_no": 1,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2009-text1-s1",
+      "s": "Habits are a funny thing.",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Habits",
+        "谓语": "are",
+        "宾语或表语": "a funny thing",
+        "主干翻译": "习惯是一种有趣的东西。"
+      },
+      "components": [],
+      "zh": "习惯是一种奇妙的东西。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2009-text1-s2",
+      "s": "We reach for them mindlessly, setting our brains on auto-pilot and relaxing into the unconscious comfort of familiar routine.",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "We",
+        "谓语": "reach for",
+        "宾语或表语": "them",
+        "主干翻译": "我们求助于它们（习惯）。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "setting our brains on auto-pilot and relaxing into the unconscious comfort of familiar routine",
+          "修饰对象": "reach",
+          "中文翻译": "让我们的大脑进入自动驾驶状态，并放松地沉浸于熟悉惯例所带来的无意识的舒适之中",
+          "说明": "现在分词短语作伴随状语，挂靠谓语 reach，描述求助习惯时的伴随情形。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "relaxing into the unconscious comfort of familiar routine",
+          "修饰对象": "setting",
+          "中文翻译": "放松地沉浸于熟悉惯例所带来的无意识的舒适之中",
+          "说明": "与 setting 由 and 并列，构成两个并列的伴随状语分词短语。"
+        }
+      ],
+      "zh": "我们不假思索地求助于习惯，让大脑进入自动驾驶状态，放松地沉浸在熟悉惯例所带来的那种无意识的舒适之中。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2009-text1-s3",
+      "s": "\"Not choice, but habit rules the unreflecting herd,\"",
+      "para_no": 1,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "habit",
+        "谓语": "rules",
+        "宾语或表语": "the unreflecting herd",
+        "主干翻译": "习惯支配着不加思考的群体。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "Not choice, but habit",
+          "修饰对象": "—",
+          "中文翻译": "不是选择，而是习惯",
+          "说明": "not...but... 并列结构，强调主语是 habit 而非 choice。"
+        }
+      ],
+      "zh": "“支配着芸芸众生的，不是选择，而是习惯。”",
+      "underline": null
+    },
+    {
+      "sid": "en1-2009-text1-s4",
+      "s": "William Wordsworth said in the 19th century.",
+      "para_no": 1,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "William Wordsworth",
+        "谓语": "said",
+        "宾语或表语": "（前句引语）",
+        "主干翻译": "威廉·华兹华斯说道。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "in the 19th century",
+          "修饰对象": "said",
+          "中文翻译": "在19世纪",
+          "说明": "时间状语，修饰谓语 said。"
+        }
+      ],
+      "zh": "威廉·华兹华斯在19世纪如是说。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2009-text1-s5",
+      "s": "In the ever-changing 21 st century, even the word \"habit\" carries a negative implication.",
+      "para_no": 1,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "the word \"habit\"",
+        "谓语": "carries",
+        "宾语或表语": "a negative implication",
+        "主干翻译": "“习惯”一词带有负面含义。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "In the ever-changing 21 st century",
+          "修饰对象": "carries",
+          "中文翻译": "在这个不断变化的21世纪",
+          "说明": "时间状语，修饰谓语 carries。"
+        }
+      ],
+      "zh": "在这个日新月异的21世纪，连“习惯”一词都带有负面含义。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2009-text1-s6",
+      "s": "So it seems paradoxical to talk about habits in the same context as creativity and innovation.",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "it（形式主语）",
+        "谓语": "seems",
+        "宾语或表语": "paradoxical",
+        "主干翻译": "这似乎是自相矛盾的。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to talk about habits in the same context as creativity and innovation",
+          "修饰对象": "seems",
+          "中文翻译": "把习惯与创造力和创新放在同一语境下谈论",
+          "说明": "不定式短语作真正主语（it 为形式主语），挂靠系动词 seems；in the same context as... 为方式/范围状语并入其中。"
+        }
+      ],
+      "zh": "因此，把习惯与创造力和创新放在同一语境下来谈，似乎显得自相矛盾。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2009-text1-s7",
+      "s": "But brain researchers have discovered that when we consciously develop new habits, we create parallel paths, and even entirely new brain cells, that can jump our trains of thought onto new, innovative tracks.",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "brain researchers",
+        "谓语": "have discovered",
+        "宾语或表语": "that...（宾语从句）",
+        "主干翻译": "脑科学研究者们发现……"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "that when we consciously develop new habits, we create parallel paths, and even entirely new brain cells, that can jump our trains of thought onto new, innovative tracks",
+          "修饰对象": "discovered",
+          "中文翻译": "当我们有意识地培养新习惯时，我们会创造出平行的神经通路，甚至是全新的脑细胞，它们能把我们的思路引上新颖、创新的轨道",
+          "说明": "that 引导宾语从句，作 discovered 的宾语。"
+        },
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "when we consciously develop new habits",
+          "修饰对象": "create",
+          "中文翻译": "当我们有意识地培养新习惯时",
+          "说明": "when 引导时间状语从句，修饰宾语从句内的谓语 create。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "even entirely new brain cells,",
+          "修饰对象": "paths",
+          "中文翻译": "甚至是全新的脑细胞",
+          "说明": "与 parallel paths 由 and 并列，同作 create 的宾语。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that can jump our trains of thought onto new, innovative tracks",
+          "修饰对象": "paths",
+          "中文翻译": "它们能把我们的思路引向新颖、创新的轨道",
+          "说明": "that 引导定语从句，修饰先行词 parallel paths（及并列的 brain cells）。"
+        }
+      ],
+      "zh": "但脑科学研究者们发现，当我们有意识地培养新习惯时，会创造出平行的神经通路，甚至是全新的脑细胞，它们能够把我们的思路引上新颖而富有创意的轨道。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2009-text1-s8",
+      "s": "Rather than dismissing ourselves as unchangeable creatures of habit, we can instead direct our own change by consciously developing new habits.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "we",
+        "谓语": "can direct",
+        "宾语或表语": "our own change",
+        "主干翻译": "我们能够主导自身的改变。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "Rather than dismissing ourselves as unchangeable creatures of habit",
+          "修饰对象": "direct",
+          "中文翻译": "与其把自己看作无法改变的习惯生物",
+          "说明": "rather than + 动名词短语作让步/对比状语，修饰主句谓语 direct。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "by consciously developing new habits",
+          "修饰对象": "direct",
+          "中文翻译": "通过有意识地培养新习惯",
+          "说明": "by 引导方式状语，修饰 direct。"
+        }
+      ],
+      "zh": "与其把自己当作无法改变的习惯的奴隶而自我否定，我们不如通过有意识地培养新习惯来主导自身的改变。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2009-text1-s9",
+      "s": "In fact, the more new things we try — the more we step outside our comfort zone — the more inherently creative we become, both in the workplace and in our personal lives.",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "we",
+        "谓语": "become",
+        "宾语或表语": "the more inherently creative",
+        "主干翻译": "我们就越发具有内在的创造力。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "we try",
+          "修饰对象": "things",
+          "中文翻译": "我们尝试的（新事物）",
+          "说明": "省略关系代词的定语从句，修饰 the more new things。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "— the more we step outside our comfort zone",
+          "修饰对象": "things",
+          "中文翻译": "我们越是走出自己的舒适区",
+          "说明": "破折号引导的并列分句，与前一 the more 从句构成并列，进一步阐释条件。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "in our personal lives",
+          "修饰对象": "in",
+          "中文翻译": "在个人生活中",
+          "说明": "与 in the workplace 由 both...and 并列，作 become 的范围状语。"
+        }
+      ],
+      "zh": "事实上，我们尝试的新事物越多——越是走出自己的舒适区——无论在职场还是在个人生活中，我们内在的创造力就越强。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2009-text1-s10",
+      "s": "But don't bother trying to kill off old habits; once those ruts of procedure are worn into the brain, they're there to stay.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "（you 省略）/ they",
+        "谓语": "don't bother / are",
+        "宾语或表语": "trying... / there",
+        "主干翻译": "别费心去消灭旧习惯；它们会一直存在。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "trying to kill off old habits",
+          "修饰对象": "bother",
+          "中文翻译": "试图去消灭旧习惯",
+          "说明": "动名词短语作 bother 的宾语/状语，挂靠 bother。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to kill off old habits",
+          "修饰对象": "trying",
+          "中文翻译": "去消灭旧习惯",
+          "说明": "不定式短语，作 trying 的宾语，挂靠 trying。"
+        },
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "once those ruts of procedure are worn into the brain",
+          "修饰对象": "'re",
+          "中文翻译": "一旦那些程序性的习惯被刻入大脑",
+          "说明": "once 引导条件/时间状语从句，修饰后一分句谓语 're；those of procedure 指 habits of procedure。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to stay",
+          "修饰对象": "'re",
+          "中文翻译": "（注定）留下来",
+          "说明": "不定式短语作 there 后的目的/结果状语，表示“注定要留存”，挂靠 're there。"
+        }
+      ],
+      "zh": "但别费心去试图消灭旧习惯；那些惯常做法的辙痕一旦被磨进大脑，就会一直留在那里。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2009-text1-s11",
+      "s": "Instead, the new habits we deliberately press into ourselves create parallel pathways that can bypass those old roads.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "the new habits",
+        "谓语": "create",
+        "宾语或表语": "parallel pathways",
+        "主干翻译": "新习惯会创造出平行的神经通路。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "we deliberately press into ourselves",
+          "修饰对象": "habits",
+          "中文翻译": "我们刻意灌输进自身的（新习惯）",
+          "说明": "省略关系代词的定语从句，修饰主语 the new habits。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that can bypass those old roads",
+          "修饰对象": "pathways",
+          "中文翻译": "能够绕过那些旧路径的",
+          "说明": "that 引导定语从句，修饰 parallel pathways。"
+        }
+      ],
+      "zh": "相反，我们刻意灌输给自己的新习惯会创造出能够绕开那些旧路径的平行通路。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2009-text1-s12",
+      "s": "\"The first thing needed for innovation is a fascination with wonder,\" says Dawna Markova, author of The Open Mind.",
+      "para_no": 5,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Dawna Markova",
+        "谓语": "says",
+        "宾语或表语": "“...”（引语）",
+        "主干翻译": "Dawna Markova 说道。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "needed for innovation",
+          "修饰对象": "thing",
+          "中文翻译": "创新所需要的",
+          "说明": "过去分词短语作后置定语，修饰引语主语 The first thing。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "The first thing needed for innovation is a fascination with wonder",
+          "修饰对象": "says",
+          "中文翻译": "创新所需要的第一样东西，是对奇妙事物的着迷",
+          "说明": "直接引语作 says 的宾语内容（直接引语，无引导词）。"
+        },
+        {
+          "成分类型": "同位语",
+          "原文": "author of The Open Mind",
+          "修饰对象": "Markova",
+          "中文翻译": "《开放的心灵》一书的作者",
+          "说明": "同位语，进一步说明 Dawna Markova 的身份。"
+        }
+      ],
+      "zh": "“创新所需要的第一样东西，是对奇妙事物的痴迷，”《开放的心灵》一书的作者 Dawna Markova 说道。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2009-text1-s13",
+      "s": "\"But we are taught instead to 'decide', just as our president calls himself 'the Decider.' \"",
+      "para_no": 5,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "we",
+        "谓语": "are taught",
+        "宾语或表语": "to 'decide'",
+        "主干翻译": "我们被教导去“做决定”。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to 'decide'",
+          "修饰对象": "taught",
+          "中文翻译": "去“做决定”",
+          "说明": "不定式作 are taught 的宾语补足语，挂靠 taught。"
+        },
+        {
+          "成分类型": "状语从句(方式)",
+          "原文": "just as our president calls himself 'the Decider.'",
+          "修饰对象": "taught",
+          "中文翻译": "正如我们的总统称自己为“决断者”一样",
+          "说明": "just as 引导方式状语从句，修饰主句谓语 are taught。"
+        }
+      ],
+      "zh": "“但我们反而被教导去‘做决定’，正如我们的总统自称‘决断者’一样。”",
+      "underline": null
+    },
+    {
+      "sid": "en1-2009-text1-s14",
+      "s": "She adds, however, that \"to decide is to kill off all possibilities but one.",
+      "para_no": 5,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "She",
+        "谓语": "adds",
+        "宾语或表语": "that...（宾语从句）",
+        "主干翻译": "她补充说……"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "however",
+          "修饰对象": "adds",
+          "中文翻译": "然而",
+          "说明": "插入语，表转折语气。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that \"to decide is to kill off all possibilities but one",
+          "修饰对象": "adds",
+          "中文翻译": "“做决定就是扼杀除一种之外的所有可能性”",
+          "说明": "that 引导宾语从句，作 adds 的宾语。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to kill off all possibilities but one",
+          "修饰对象": "is",
+          "中文翻译": "扼杀掉除一种之外的所有可能性",
+          "说明": "不定式短语作宾语从句的表语，挂靠系动词 is；but one 意为“除了一个”。"
+        }
+      ],
+      "zh": "不过，她补充说：“做决定，就是扼杀掉除一种之外的所有可能性。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2009-text1-s15",
+      "s": "A good innovational thinker is always exploring the many other possibilities.\"",
+      "para_no": 5,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "A good innovational thinker",
+        "谓语": "is exploring",
+        "宾语或表语": "the many other possibilities",
+        "主干翻译": "优秀的创新思考者总在探索其他诸多可能性。"
+      },
+      "components": [],
+      "zh": "优秀的创新思考者总是在探索其他许许多多的可能性。”",
+      "underline": null
+    },
+    {
+      "sid": "en1-2009-text1-s16",
+      "s": "All of us work through problems in ways of which we're unaware, she says.",
+      "para_no": 6,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "she",
+        "谓语": "says",
+        "宾语或表语": "...（前置宾语从句）",
+        "主干翻译": "她说道。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "All of us work through problems in ways of which we're unaware",
+          "修饰对象": "says",
+          "中文翻译": "我们所有人都以自己未曾意识到的方式来解决问题",
+          "说明": "前置的直接引语作 says 的宾语内容（无引导词）。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "of which we're unaware",
+          "修饰对象": "ways",
+          "中文翻译": "我们对之并不知晓的",
+          "说明": "“介词+关系代词”引导的定语从句，修饰 ways；be unaware of 的 of 提前。"
+        }
+      ],
+      "zh": "她说，我们所有人都在以自己并未察觉的方式解决问题。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2009-text1-s17",
+      "s": "Researchers in the late 1960s discovered that humans are born with the capacity to approach challenges in four primary ways: analytically, procedurally, relationally (or collaboratively) and innovatively.",
+      "para_no": 6,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Researchers",
+        "谓语": "discovered",
+        "宾语或表语": "that...（宾语从句）",
+        "主干翻译": "研究者们发现……"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "in the late 1960s",
+          "修饰对象": "Researchers",
+          "中文翻译": "20世纪60年代末的",
+          "说明": "介词短语作定语/时间状语，限定 Researchers（亦可视为修饰 discovered 的时间状语）。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that humans are born with the capacity to approach challenges in four primary ways: analytically, procedurally, relationally (or collaboratively) and innovatively",
+          "修饰对象": "discovered",
+          "中文翻译": "人类天生就具备以四种主要方式应对挑战的能力：分析式、程序式、关系式（或协作式）以及创新式",
+          "说明": "that 引导宾语从句，作 discovered 的宾语。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to approach challenges in four primary ways: analytically, procedurally, relationally (or collaboratively) and innovatively",
+          "修饰对象": "capacity",
+          "中文翻译": "以四种主要方式应对挑战的",
+          "说明": "不定式短语作后置定语，修饰 the capacity。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "procedurally, relationally (or collaboratively) and innovatively",
+          "修饰对象": "analytically",
+          "中文翻译": "程序式、关系式（或协作式）以及创新式",
+          "说明": "与 analytically 并列，列举四种方式。"
+        }
+      ],
+      "zh": "20世纪60年代末的研究者们发现，人类天生就具备以四种主要方式应对挑战的能力：分析式、程序式、关系式（或协作式）和创新式。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2009-text1-s18",
+      "s": "At the end of adolescence, however, the brain shuts down half of that capacity, preserving only those modes of thought that have seemed most valuable during the first decade or so of life.",
+      "para_no": 6,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "the brain",
+        "谓语": "shuts down",
+        "宾语或表语": "half of that capacity",
+        "主干翻译": "大脑会关闭那种能力的一半。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "At the end of adolescence",
+          "修饰对象": "shuts",
+          "中文翻译": "在青春期结束时",
+          "说明": "时间状语，修饰谓语 shuts down。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "however",
+          "修饰对象": "shuts",
+          "中文翻译": "然而",
+          "说明": "插入语，表转折。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "preserving only those modes of thought that have seemed most valuable during the first decade or so of life",
+          "修饰对象": "shuts",
+          "中文翻译": "只保留在生命最初十年左右显得最有价值的那些思维方式",
+          "说明": "现在分词短语作伴随/结果状语，挂靠谓语 shuts down。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that have seemed most valuable during the first decade or so of life",
+          "修饰对象": "modes",
+          "中文翻译": "在生命最初十年左右显得最有价值的",
+          "说明": "that 引导定语从句，修饰 those modes of thought。"
+        }
+      ],
+      "zh": "然而，到了青春期末期，大脑会关闭这种能力的一半，只保留在生命最初十年左右显得最有价值的那些思维方式。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2009-text1-s19",
+      "s": "The current emphasis on standardized testing highlights analysis and procedure, meaning that few of us inherently use our innovative and collaborative modes of thought.",
+      "para_no": 7,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The current emphasis",
+        "谓语": "highlights",
+        "宾语或表语": "analysis and procedure",
+        "主干翻译": "当前的侧重凸显了分析与程序。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "on standardized testing",
+          "修饰对象": "emphasis",
+          "中文翻译": "对标准化考试的",
+          "说明": "介词短语作后置定语，限定 The current emphasis。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "meaning that few of us inherently use our innovative and collaborative modes of thought",
+          "修饰对象": "highlights",
+          "中文翻译": "这意味着我们当中很少有人会本能地运用自己创新式和协作式的思维方式",
+          "说明": "现在分词短语作结果状语，挂靠主句谓语 highlights。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that few of us inherently use our innovative and collaborative modes of thought",
+          "修饰对象": "meaning",
+          "中文翻译": "我们当中很少有人会本能地运用创新式和协作式的思维方式",
+          "说明": "that 引导宾语从句，作 meaning 的宾语。"
+        }
+      ],
+      "zh": "当前对标准化考试的侧重凸显了分析与程序，这意味着我们当中很少有人会本能地运用自己创新式和协作式的思维方式。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2009-text1-s20",
+      "s": "\"This breaks the major rule in the American belief system—that anyone can do anything,\" explains M. J. Ryan, author of the 2006 book This Year I Will... and Ms. Markova's business partner.",
+      "para_no": 7,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "M. J. Ryan",
+        "谓语": "explains",
+        "宾语或表语": "“...”（引语）",
+        "主干翻译": "M. J. Ryan 解释说。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "This breaks the major rule in the American belief system—that anyone can do anything",
+          "修饰对象": "explains",
+          "中文翻译": "这打破了美国信念体系中的那条重要准则——任何人都能做成任何事",
+          "说明": "前置直接引语，作 explains 的宾语内容（无引导词）。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "that anyone can do anything",
+          "修饰对象": "rule",
+          "中文翻译": "任何人都能做成任何事",
+          "说明": "that 引导同位语从句，解释说明 the major rule 的具体内容。"
+        },
+        {
+          "成分类型": "同位语",
+          "原文": "author of the 2006 book This Year I Will... and Ms. Markova's business partner",
+          "修饰对象": "Ryan",
+          "中文翻译": "2006年出版的《今年我要……》一书的作者，也是 Markova 女士的商业伙伴",
+          "说明": "同位语，说明 M. J. Ryan 的身份。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "Ms. Markova's business partner",
+          "修饰对象": "author",
+          "中文翻译": "Markova 女士的商业伙伴",
+          "说明": "与 author of... 由 and 并列，共同充当 Ryan 的同位语。"
+        }
+      ],
+      "zh": "“这打破了美国信念体系中的那条重要准则——任何人都能做成任何事，”2006年出版的《今年我要……》一书作者、同时也是 Markova 女士商业伙伴的 M. J. Ryan 解释道。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2009-text1-s21",
+      "s": "\"That's a lie that we have perpetuated, and it fosters commonness.",
+      "para_no": 7,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "That / it",
+        "谓语": "'s / fosters",
+        "宾语或表语": "a lie / commonness",
+        "主干翻译": "那是一个谎言，而它助长了平庸。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "that we have perpetuated",
+          "修饰对象": "lie",
+          "中文翻译": "我们一直延续着的",
+          "说明": "that 引导定语从句，修饰 a lie。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "it fosters commonness.",
+          "修饰对象": "'s",
+          "中文翻译": "它助长了平庸",
+          "说明": "由 and 与前一分句 That's a lie... 并列，构成并列句。"
+        }
+      ],
+      "zh": "“那是一个我们一直在延续的谎言，而它助长了平庸。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2009-text1-s22",
+      "s": "Knowing what you're good at and doing even more of it creates excellence.\"",
+      "para_no": 7,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "Knowing... and doing...（动名词主语）",
+        "谓语": "creates",
+        "宾语或表语": "excellence",
+        "主干翻译": "知道并多做（自己擅长之事）造就卓越。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "what you're good at",
+          "修饰对象": "Knowing",
+          "中文翻译": "你所擅长的（事）",
+          "说明": "what 引导宾语从句，作动名词 Knowing 的宾语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "doing even more of it",
+          "修饰对象": "Knowing",
+          "中文翻译": "并且更多地去做这件事",
+          "说明": "动名词 doing 与 Knowing 由 and 并列，共同构成句子主语。"
+        }
+      ],
+      "zh": "知道自己擅长什么，并且更多地去做这件事，便能造就卓越。”",
+      "underline": null
+    },
+    {
+      "sid": "en1-2009-text1-s23",
+      "s": "This is where developing new habits comes in.",
+      "para_no": 7,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "This",
+        "谓语": "is",
+        "宾语或表语": "where...（表语从句）",
+        "主干翻译": "这正是……之处。"
+      },
+      "components": [
+        {
+          "成分类型": "表语从句",
+          "原文": "where developing new habits comes in",
+          "修饰对象": "is",
+          "中文翻译": "培养新习惯发挥作用的地方",
+          "说明": "where 引导表语从句，作系动词 is 的表语；come in 意为“介入、发挥作用”。"
+        }
+      ],
+      "zh": "这正是培养新习惯发挥作用的地方。",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2009-text1-s1",
+        "en1-2009-text1-s2",
+        "en1-2009-text1-s3",
+        "en1-2009-text1-s4",
+        "en1-2009-text1-s5"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2009-text1-s6",
+        "en1-2009-text1-s7"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2009-text1-s8",
+        "en1-2009-text1-s9"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2009-text1-s10",
+        "en1-2009-text1-s11"
+      ]
+    },
+    {
+      "para_no": 5,
+      "sids": [
+        "en1-2009-text1-s12",
+        "en1-2009-text1-s13",
+        "en1-2009-text1-s14",
+        "en1-2009-text1-s15"
+      ]
+    },
+    {
+      "para_no": 6,
+      "sids": [
+        "en1-2009-text1-s16",
+        "en1-2009-text1-s17",
+        "en1-2009-text1-s18"
+      ]
+    },
+    {
+      "para_no": 7,
+      "sids": [
+        "en1-2009-text1-s19",
+        "en1-2009-text1-s20",
+        "en1-2009-text1-s21",
+        "en1-2009-text1-s22",
+        "en1-2009-text1-s23"
+      ]
+    }
+  ]
+}
