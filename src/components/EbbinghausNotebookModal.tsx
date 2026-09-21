@@ -395,6 +395,9 @@ export const EbbinghausNotebookModal: React.FC<EbbinghausNotebookModalProps> = (
       const insertIdx = Math.min(3, remaining.length);
       newQueue = [...remaining.slice(0, insertIdx), updatedCard, ...remaining.slice(insertIdx)];
 
+      // Auto sync to unfamiliar in global vocab notebook
+      onToggleStatus(cardWord, 'unfamiliar');
+
       // Update in storage
       const newRecords = { ...records, [cardWord]: updatedRecord };
       setRecords(newRecords);
@@ -417,6 +420,9 @@ export const EbbinghausNotebookModal: React.FC<EbbinghausNotebookModalProps> = (
 
       const insertIdx = Math.min(4, remaining.length);
       newQueue = [...remaining.slice(0, insertIdx), updatedCard, ...remaining.slice(insertIdx)];
+
+      // Auto sync to unfamiliar in global vocab notebook
+      onToggleStatus(cardWord, 'unfamiliar');
 
       // Update in storage
       const newRecords = { ...records, [cardWord]: updatedRecord };
@@ -1151,7 +1157,18 @@ export const EbbinghausNotebookModal: React.FC<EbbinghausNotebookModalProps> = (
 
                             {isUnfam ? (
                               <button
-                                onClick={() => onToggleStatus(item.word, 'familiar')}
+                                onClick={() => {
+                                  onToggleStatus(item.word, 'familiar');
+                                  setRecords(prev => ({
+                                    ...prev,
+                                    [item.word]: {
+                                      ...(prev[item.word] || item),
+                                      stage: 8,
+                                      nextReviewTime: Date.now() + 30 * 24 * 60 * 60 * 1000,
+                                      lastReviewTime: Date.now()
+                                    }
+                                  }));
+                                }}
                                 className="px-2.5 py-1.5 rounded-lg text-xs font-bold text-emerald-400 bg-emerald-950/60 hover:bg-emerald-900 border border-emerald-800 transition"
                                 title="标为熟词"
                               >
@@ -1159,7 +1176,18 @@ export const EbbinghausNotebookModal: React.FC<EbbinghausNotebookModalProps> = (
                               </button>
                             ) : (
                               <button
-                                onClick={() => onToggleStatus(item.word, 'unfamiliar')}
+                                onClick={() => {
+                                  onToggleStatus(item.word, 'unfamiliar');
+                                  setRecords(prev => ({
+                                    ...prev,
+                                    [item.word]: {
+                                      ...(prev[item.word] || item),
+                                      stage: 0,
+                                      nextReviewTime: Date.now(),
+                                      lastReviewTime: Date.now()
+                                    }
+                                  }));
+                                }}
                                 className="px-2.5 py-1.5 rounded-lg text-xs font-bold text-rose-400 bg-rose-950/60 hover:bg-rose-900 border border-rose-800 transition"
                                 title="标为重点生词"
                               >

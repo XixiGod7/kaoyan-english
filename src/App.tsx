@@ -15,15 +15,28 @@ import { GrammarDrillView } from './components/GrammarDrillView';
 import { PhrasesView } from './components/PhrasesView';
 import { VocabStatsView } from './components/VocabStatsView';
 import { PersonalCenterView } from './components/PersonalCenterView';
+import { TranslationPracticeView } from './components/TranslationPracticeView';
+import { SentenceReviewView } from './components/SentenceReviewView';
+import { EssayGradingView } from './components/EssayGradingView';
+import { HomeView } from './components/HomeView';
+import { WordLookupPopover } from './components/WordLookupPopover';
 import { PaperGroup, KaoyanDict, WordFreqItem } from './types/kaoyan';
 import { 
   loadQuizHistory, 
   loadEbbinghausRecords, 
   syncAllWordsToEbbinghaus, 
+  syncSingleWordStatus,
   computeOverallStudyStats, 
   loadDailySessionState,
-  QuizRecordItem 
+  QuizRecordItem,
+  EbbinghausWordRecord
 } from './utils/ebbinghaus';
+import { 
+  getGlobalFontSize, 
+  setGlobalFontSize, 
+  subscribeFontSizeChange, 
+  FontSizeLevel 
+} from './utils/fontSize';
 
 export const App: React.FC = () => {
   const [papers, setPapers] = useState<PaperGroup[]>([]);
@@ -35,6 +48,19 @@ export const App: React.FC = () => {
   const [isDesktopAppOpen, setIsDesktopAppOpen] = useState(false);
   const [isAiConfigOpen, setIsAiConfigOpen] = useState(false);
   const [quizHistory, setQuizHistory] = useState<Record<string, QuizRecordItem[]>>(() => loadQuizHistory());
+  const [ebbinghausRecords, setEbbinghausRecords] = useState<Record<string, EbbinghausWordRecord>>(() => loadEbbinghausRecords());
+
+  // Global Font Size state
+  const [fontSizeLevel, setFontSizeLevel] = useState<FontSizeLevel>(() => getGlobalFontSize());
+
+  useEffect(() => {
+    return subscribeFontSizeChange(setFontSizeLevel);
+  }, []);
+
+  const handleSetFontSize = (level: FontSizeLevel) => {
+    setFontSizeLevel(level);
+    setGlobalFontSize(level);
+  };
 
   const [theme, setTheme] = useState<'dark' | 'light'>(() => {
     try {
@@ -57,10 +83,21 @@ export const App: React.FC = () => {
     });
   };
 
-  const [currentTab, setCurrentTab] = useState<AppTab>('reading');
-  const [currentPassKey, setCurrentPassKey] = useState<string>('2025-t1');
+  const [currentTab, setCurrentTab] = useState<AppTab>('home');
+  const [currentPassKey, setCurrentPassKey] = useState<string>('2026-t1');
   const [selectedYear, setSelectedYear] = useState<string | null>(null);
   const [selectedWord, setSelectedWord] = useState<WordFreqItem | null>(null);
+  const [lookupTarget, setLookupTarget] = useState<{ word: string; rect: DOMRect } | null>(null);
+
+  // Synchronize documentElement class for Tailwind dark mode
+  useEffect(() => {
+    if (theme === 'dark') {
+      document.documentElement.classList.add('dark');
+    } else {
+      document.documentElement.classList.remove('dark');
+    }
+  }, [theme]);
+
   const [wordStatuses, setWordStatuses] = useState<Record<string, 'familiar' | 'unfamiliar' | 'unknown'>>(() => {
     try {
       const saved = localStorage.getItem('kaoyan_word_statuses');
@@ -69,6 +106,24 @@ export const App: React.FC = () => {
       return {};
     }
   });
+
+  const handleWordClick = (word: string, rect?: DOMRect) => {
+    if (rect) {
+      setLookupTarget({ word, rect });
+    } else {
+      const clean = word.toLowerCase().replace(/[^a-z]/g, '');
+      const entry = dict?.entries[clean];
+      if (entry) {
+        setWordModalItem({
+          word: clean,
+          entry,
+          paperCount: 1,
+          totalCount: 1,
+          status: wordStatuses[clean] || 'unknown',
+        });
+      }
+    }
+  };
 
   // Data import handler
   const handleImportData = (payload: any, mode: 'merge' | 'overwrite'): boolean => {
@@ -202,7 +257,7 @@ export const App: React.FC = () => {
     loadData();
   }, []);
 
-  // Save statuses to localStorage
+  // Save statuses to localStorage & sync with Ebbinghaus records
   const handleToggleStatus = (word: string, status: 'familiar' | 'unfamiliar' | 'unknown') => {
     setWordStatuses(prev => {
       const updated = { ...prev, [word]: status };
@@ -213,6 +268,10 @@ export const App: React.FC = () => {
       }
       return updated;
     });
+
+    // Deep sync to Ebbinghaus database & active daily session
+    const syncRes = syncSingleWordStatus(word, status, ebbinghausRecords);
+    setEbbinghausRecords(syncRes.records);
 
     if (selectedWord && selectedWord.word === word) {
       setSelectedWord(prev => prev ? { ...prev, status } : null);
@@ -284,11 +343,10 @@ export const App: React.FC = () => {
     if (session) {
       return session.activeQueueWords.length;
     }
-    const records = loadEbbinghausRecords();
-    const synced = syncAllWordsToEbbinghaus(wordFreqList, wordStatuses, records);
+    const synced = syncAllWordsToEbbinghaus(wordFreqList, wordStatuses, ebbinghausRecords);
     const now = Date.now();
     return Object.values(synced).filter(r => r.nextReviewTime <= now && r.stage < 8).length;
-  }, [wordFreqList, wordStatuses, isEbbinghausOpen]);
+  }, [wordFreqList, wordStatuses, ebbinghausRecords, isEbbinghausOpen]);
 
   const studyStats = useMemo(() => {
     return computeOverallStudyStats(papers, quizHistory);
@@ -306,7 +364,7 @@ export const App: React.FC = () => {
       {!selectedYear && (
         <Header
           onGoHome={() => {
-            setCurrentTab('reading');
+            setCurrentTab('home');
             setSelectedYear(null);
             setTargetSentenceId(null);
             setTargetTab(null);
@@ -329,6 +387,8 @@ export const App: React.FC = () => {
           onOpenDesktopApp={() => setIsDesktopAppOpen(true)}
           onOpenAiConfig={() => setIsAiConfigOpen(true)}
           dueReviewCount={dueReviewCount}
+          fontSizeLevel={fontSizeLevel}
+          onSetFontSize={handleSetFontSize}
         />
       )}
 
@@ -354,6 +414,8 @@ export const App: React.FC = () => {
             onToggleWordStatus={handleToggleStatus}
             onOpenWordModal={item => setWordModalItem(item)}
             onOpenAiConfig={() => setIsAiConfigOpen(true)}
+            fontSizeLevel={fontSizeLevel}
+            onSetFontSize={handleSetFontSize}
             onBackToHome={() => {
               setSelectedYear(null);
               setTargetSentenceId(null);
@@ -363,28 +425,36 @@ export const App: React.FC = () => {
             }}
           />
         </div>
+      ) : currentTab === 'home' ? (
+        /* 0. Platform Homepage View */
+        <main className="flex-1 overflow-y-auto">
+          <HomeView
+            theme={theme}
+            onNavigateTab={(tab) => {
+              setCurrentTab(tab);
+              if (tab !== 'quiz') {
+                setSelectedYear(null);
+              }
+            }}
+            onOpenEbbinghaus={() => setIsEbbinghausOpen(true)}
+            onOpenProgress={() => setIsProgressOpen(true)}
+            onOpenAiConfig={() => setIsAiConfigOpen(true)}
+            onOpenBackup={() => setIsBackupModalOpen(true)}
+          />
+        </main>
       ) : currentTab === 'reading' ? (
         /* 1. Intensive Reading View */
         <main className="flex-1 overflow-y-auto p-3 sm:p-5 md:p-6">
           <IntensiveReadingView
             initialPassKey={currentPassKey}
-            onWordClick={(word) => {
-              const clean = word.toLowerCase().replace(/[^a-z]/g, '');
-              const entry = dict?.entries[clean];
-              if (entry) {
-                setWordModalItem({
-                  word: clean,
-                  entry,
-                  paperCount: 1,
-                  totalCount: 1,
-                  status: wordStatuses[clean] || 'unknown',
-                });
-              }
-            }}
+            onWordClick={handleWordClick}
             onNavigateToQuiz={(yr) => {
               setSelectedYear(yr);
               setCurrentTab('quiz');
             }}
+            wordStatuses={wordStatuses}
+            onUpdateWordStatus={handleToggleStatus}
+            fontSizeLevel={fontSizeLevel}
           />
         </main>
       ) : currentTab === 'quiz' ? (
@@ -395,6 +465,9 @@ export const App: React.FC = () => {
             onSelectWord={item => setSelectedWord(item)}
             selectedWord={selectedWord}
             onToggleStatus={handleToggleStatus}
+            onOpenEbbinghaus={() => setIsEbbinghausOpen(true)}
+            ebbinghausRecords={ebbinghausRecords}
+            dueReviewCount={dueReviewCount}
             theme={theme}
           />
 
@@ -414,42 +487,51 @@ export const App: React.FC = () => {
         /* 3. Paraphrase Drill View */
         <main className="flex-1 overflow-y-auto p-3 sm:p-5 md:p-6">
           <ParaphraseView
-            onWordClick={(word) => {
-              const clean = word.toLowerCase().replace(/[^a-z]/g, '');
-              const entry = dict?.entries[clean];
-              if (entry) {
-                setWordModalItem({
-                  word: clean,
-                  entry,
-                  paperCount: 1,
-                  totalCount: 1,
-                  status: wordStatuses[clean] || 'unknown',
-                });
-              }
-            }}
+            onWordClick={handleWordClick}
             onNavigateToReading={(passKey) => {
               setCurrentPassKey(passKey);
               setCurrentTab('reading');
             }}
           />
         </main>
+      ) : currentTab === 'translation' ? (
+        /* 4. Translation Practice View */
+        <main className="flex-1 overflow-y-auto p-3 sm:p-5 md:p-6">
+          <TranslationPracticeView
+            theme={theme}
+            fontSizeLevel={fontSizeLevel}
+            onNavigateToReading={(passKey) => {
+              setCurrentPassKey(passKey);
+              setCurrentTab('reading');
+            }}
+          />
+        </main>
+      ) : currentTab === 'sentence-review' ? (
+        /* 5. Sentence Review Random Drill View */
+        <main className="flex-1 overflow-y-auto p-3 sm:p-5 md:p-6">
+          <SentenceReviewView
+            theme={theme}
+            fontSizeLevel={fontSizeLevel}
+            onWordClick={handleWordClick}
+            onNavigateToReading={(passKey) => {
+              setCurrentPassKey(passKey);
+              setCurrentTab('reading');
+            }}
+          />
+        </main>
+      ) : currentTab === 'essay' ? (
+        /* 6. Essay Real Exam & AI Grading View */
+        <main className="flex-1 overflow-y-auto p-3 sm:p-5 md:p-6">
+          <EssayGradingView
+            theme={theme}
+            fontSizeLevel={fontSizeLevel}
+          />
+        </main>
       ) : currentTab === 'grammar' ? (
-        /* 4. Grammar Drill View */
+        /* 7. Grammar Drill View */
         <main className="flex-1 overflow-y-auto p-3 sm:p-5 md:p-6">
           <GrammarDrillView
-            onWordClick={(word) => {
-              const clean = word.toLowerCase().replace(/[^a-z]/g, '');
-              const entry = dict?.entries[clean];
-              if (entry) {
-                setWordModalItem({
-                  word: clean,
-                  entry,
-                  paperCount: 1,
-                  totalCount: 1,
-                  status: wordStatuses[clean] || 'unknown',
-                });
-              }
-            }}
+            onWordClick={handleWordClick}
             onNavigateToReading={(passKey) => {
               setCurrentPassKey(passKey);
               setCurrentTab('reading');
@@ -457,22 +539,10 @@ export const App: React.FC = () => {
           />
         </main>
       ) : currentTab === 'phrases' ? (
-        /* 5. Phrases View */
+        /* 8. Phrases View */
         <main className="flex-1 overflow-y-auto p-3 sm:p-5 md:p-6">
           <PhrasesView
-            onWordClick={(word) => {
-              const clean = word.toLowerCase().replace(/[^a-z]/g, '');
-              const entry = dict?.entries[clean];
-              if (entry) {
-                setWordModalItem({
-                  word: clean,
-                  entry,
-                  paperCount: 1,
-                  totalCount: 1,
-                  status: wordStatuses[clean] || 'unknown',
-                });
-              }
-            }}
+            onWordClick={handleWordClick}
             onNavigateToReading={(passKey) => {
               setCurrentPassKey(passKey);
               setCurrentTab('reading');
@@ -480,43 +550,19 @@ export const App: React.FC = () => {
           />
         </main>
       ) : currentTab === 'vocab' ? (
-        /* 6. Vocab Stats & Blind Spot Test View */
+        /* 9. Vocab Stats & Blind Spot Test View */
         <main className="flex-1 overflow-y-auto p-3 sm:p-5 md:p-6">
           <VocabStatsView
-            onWordClick={(word) => {
-              const clean = word.toLowerCase().replace(/[^a-z]/g, '');
-              const entry = dict?.entries[clean];
-              if (entry) {
-                setWordModalItem({
-                  word: clean,
-                  entry,
-                  paperCount: 1,
-                  totalCount: 1,
-                  status: wordStatuses[clean] || 'unknown',
-                });
-              }
-            }}
+            onWordClick={handleWordClick}
             wordStatuses={wordStatuses}
             onUpdateWordStatus={handleToggleStatus}
           />
         </main>
       ) : currentTab === 'personal' ? (
-        /* 7. Personal Learning Hub */
+        /* 10. Personal Learning Hub */
         <main className="flex-1 overflow-y-auto p-3 sm:p-5 md:p-6">
           <PersonalCenterView
-            onWordClick={(word) => {
-              const clean = word.toLowerCase().replace(/[^a-z]/g, '');
-              const entry = dict?.entries[clean];
-              if (entry) {
-                setWordModalItem({
-                  word: clean,
-                  entry,
-                  paperCount: 1,
-                  totalCount: 1,
-                  status: wordStatuses[clean] || 'unknown',
-                });
-              }
-            }}
+            onWordClick={handleWordClick}
             onNavigateToReading={(passKey) => {
               setCurrentPassKey(passKey);
               setCurrentTab('reading');
@@ -538,7 +584,10 @@ export const App: React.FC = () => {
       {/* Ebbinghaus Forgetting Curve Vocabulary Notebook & Review Modal */}
       <EbbinghausNotebookModal
         isOpen={isEbbinghausOpen}
-        onClose={() => setIsEbbinghausOpen(false)}
+        onClose={() => {
+          setIsEbbinghausOpen(false);
+          setEbbinghausRecords(loadEbbinghausRecords());
+        }}
         dict={dict}
         words={wordFreqList}
         wordStatuses={wordStatuses}
@@ -583,6 +632,17 @@ export const App: React.FC = () => {
       <AiConfigModal
         isOpen={isAiConfigOpen}
         onClose={() => setIsAiConfigOpen(false)}
+        theme={theme}
+      />
+
+      {/* Floating Word Lookup Popover Card (Dictionary Tooltip) */}
+      <WordLookupPopover
+        dict={dict}
+        wordStatuses={wordStatuses}
+        onToggleStatus={handleToggleStatus}
+        onOpenWordDetail={item => setWordModalItem(item)}
+        targetWord={lookupTarget}
+        onClose={() => setLookupTarget(null)}
         theme={theme}
       />
     </div>

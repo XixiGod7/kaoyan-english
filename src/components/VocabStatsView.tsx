@@ -16,6 +16,7 @@ import {
   TrendingUp,
   BarChart3
 } from 'lucide-react';
+import { VocabBlindSpotModal } from './VocabBlindSpotModal';
 
 interface VocabStatsViewProps {
   onWordClick?: (word: string, rect: DOMRect) => void;
@@ -36,12 +37,8 @@ export const VocabStatsView: React.FC<VocabStatsViewProps> = ({
   const [filterMode, setFilterMode] = useState<'all' | 'high_freq' | 'recent' | 'unfamiliar'>('all');
   const [currentPage, setCurrentPage] = useState<number>(1);
 
-  // Vocab Test (Blind Spot Test - 40 questions)
+  // Vocab Test Modal State
   const [isTestActive, setIsTestActive] = useState<boolean>(false);
-  const [testWords, setTestWords] = useState<VocabStatItem[]>([]);
-  const [testIndex, setTestIndex] = useState<number>(0);
-  const [testResults, setTestResults] = useState<Record<string, 'known' | 'unknown'>>({});
-  const [testFinished, setTestFinished] = useState<boolean>(false);
 
   useEffect(() => {
     async function loadData() {
@@ -100,166 +97,11 @@ export const VocabStatsView: React.FC<VocabStatsViewProps> = ({
     }
   };
 
-  // Start 40-word Blind Spot Test
-  const startBlindSpotTest = () => {
-    if (words.length === 0) return;
-    // Stratified sample of 40 words: 15 high freq, 15 mid freq, 10 low freq
-    const high = words.filter(w => w.n >= 10).sort(() => Math.random() - 0.5).slice(0, 15);
-    const mid = words.filter(w => w.n >= 4 && w.n < 10).sort(() => Math.random() - 0.5).slice(0, 15);
-    const low = words.filter(w => w.n < 4).sort(() => Math.random() - 0.5).slice(0, 10);
-    const sample = [...high, ...mid, ...low].sort(() => Math.random() - 0.5);
-
-    setTestWords(sample);
-    setTestIndex(0);
-    setTestResults({});
-    setTestFinished(false);
-    setIsTestActive(true);
-  };
-
-  const handleTestChoice = (known: boolean) => {
-    const current = testWords[testIndex];
-    if (!current) return;
-
-    setTestResults(prev => ({
-      ...prev,
-      [current.w]: known ? 'known' : 'unknown'
-    }));
-
-    if (onUpdateWordStatus) {
-      onUpdateWordStatus(current.w, known ? 'familiar' : 'unfamiliar');
-    }
-
-    if (testIndex + 1 >= testWords.length) {
-      setTestFinished(true);
-    } else {
-      setTestIndex(i => i + 1);
-    }
-  };
-
   if (loading) {
     return (
       <div className="flex flex-col items-center justify-center min-h-[400px] text-slate-500">
         <div className="w-8 h-8 border-3 border-indigo-500 border-t-transparent rounded-full animate-spin mb-3"></div>
         <p className="text-sm">正在加载考纲真题词汇统计 (3149 考纲词)...</p>
-      </div>
-    );
-  }
-
-  // Active Blind Spot Test UI
-  if (isTestActive) {
-    const currentTestWord = testWords[testIndex];
-    const knownCount = Object.values(testResults).filter(v => v === 'known').length;
-    const unknownCount = Object.values(testResults).filter(v => v === 'unknown').length;
-    const estimatedCoverage = testWords.length > 0 ? Math.round((knownCount / testWords.length) * 100) : 0;
-
-    return (
-      <div className="max-w-2xl mx-auto bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-2xl p-8 shadow-sm space-y-6">
-        <div className="flex items-center justify-between border-b border-slate-100 dark:border-slate-800 pb-4">
-          <div className="flex items-center gap-2">
-            <Sparkles className="w-5 h-5 text-indigo-500" />
-            <h3 className="text-lg font-bold text-slate-900 dark:text-slate-100">
-              考研词汇盲区快速自测
-            </h3>
-          </div>
-          <button
-            type="button"
-            onClick={() => setIsTestActive(false)}
-            className="text-xs text-slate-400 hover:text-slate-600 dark:hover:text-slate-200"
-          >
-            退出摸底
-          </button>
-        </div>
-
-        {testFinished ? (
-          <div className="text-center py-6 space-y-5">
-            <Award className="w-12 h-12 text-amber-500 mx-auto" />
-            <div>
-              <h4 className="text-xl font-bold text-slate-900 dark:text-slate-100">摸底测验完成！</h4>
-              <p className="text-sm text-slate-500 dark:text-slate-400 mt-1">40 题抽样摸底分析报告</p>
-            </div>
-
-            <div className="grid grid-cols-3 gap-3 max-w-sm mx-auto text-center">
-              <div className="p-3 rounded-xl bg-emerald-50 dark:bg-emerald-950/40 border border-emerald-200 dark:border-emerald-800">
-                <div className="text-xs text-emerald-600">熟词</div>
-                <div className="text-xl font-bold text-emerald-700 dark:text-emerald-300">{knownCount}</div>
-              </div>
-              <div className="p-3 rounded-xl bg-rose-50 dark:bg-rose-950/40 border border-rose-200 dark:border-rose-800">
-                <div className="text-xs text-rose-600">盲区生词</div>
-                <div className="text-xl font-bold text-rose-700 dark:text-rose-300">{unknownCount}</div>
-              </div>
-              <div className="p-3 rounded-xl bg-indigo-50 dark:bg-indigo-950/40 border border-indigo-200 dark:border-indigo-800">
-                <div className="text-xs text-indigo-600">估计掌握率</div>
-                <div className="text-xl font-bold text-indigo-700 dark:text-indigo-300">{estimatedCoverage}%</div>
-              </div>
-            </div>
-
-            <p className="text-xs text-slate-500 dark:text-slate-400 max-w-md mx-auto leading-relaxed">
-              测出的盲区词汇已自动标记为「生词」，可前往「生词本」或「今日复习」进行抗遗忘攻坚。
-            </p>
-
-            <div className="flex items-center justify-center gap-3 pt-4">
-              <button
-                type="button"
-                onClick={startBlindSpotTest}
-                className="px-5 py-2.5 rounded-xl text-xs font-medium text-white bg-indigo-600 hover:bg-indigo-700 shadow-sm flex items-center gap-1.5"
-              >
-                <RotateCcw className="w-4 h-4" /> 再测一组
-              </button>
-              <button
-                type="button"
-                onClick={() => setIsTestActive(false)}
-                className="px-5 py-2.5 rounded-xl text-xs font-medium border border-slate-200 dark:border-slate-800 text-slate-700 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-800"
-              >
-                返回词汇统计
-              </button>
-            </div>
-          </div>
-        ) : currentTestWord ? (
-          <div className="space-y-6">
-            <div className="flex items-center justify-between text-xs text-slate-400">
-              <span>第 {testIndex + 1} / {testWords.length} 词</span>
-              <div className="w-32 h-2 bg-slate-100 dark:bg-slate-800 rounded-full overflow-hidden">
-                <div
-                  className="h-full bg-indigo-500 rounded-full transition-all"
-                  style={{ width: `${((testIndex + 1) / testWords.length) * 100}%` }}
-                />
-              </div>
-            </div>
-
-            {/* Word Card */}
-            <div className="text-center py-8 bg-slate-50/50 dark:bg-slate-800/40 rounded-2xl border border-slate-100 dark:border-slate-800 space-y-3">
-              <div className="text-3xl font-serif font-bold text-slate-900 dark:text-slate-100">
-                {currentTestWord.w}
-              </div>
-              {currentTestWord.phonetic && (
-                <div className="text-xs font-mono text-slate-400">
-                  {currentTestWord.phonetic}
-                </div>
-              )}
-              <div className="text-xs text-slate-400">
-                真题考频：出现 {currentTestWord.n} 次 · 涉及 {currentTestWord.years} 年真题
-              </div>
-            </div>
-
-            {/* Choices */}
-            <div className="grid grid-cols-2 gap-4">
-              <button
-                type="button"
-                onClick={() => handleTestChoice(true)}
-                className="py-4 px-6 rounded-xl font-bold text-sm bg-emerald-50 dark:bg-emerald-950/40 text-emerald-700 dark:text-emerald-300 border border-emerald-200 dark:border-emerald-800/60 hover:bg-emerald-100 dark:hover:bg-emerald-900/60 shadow-sm transition-all flex items-center justify-center gap-2"
-              >
-                <CheckCircle2 className="w-5 h-5" /> 认识 (熟词)
-              </button>
-              <button
-                type="button"
-                onClick={() => handleTestChoice(false)}
-                className="py-4 px-6 rounded-xl font-bold text-sm bg-rose-50 dark:bg-rose-950/40 text-rose-700 dark:text-rose-300 border border-rose-200 dark:border-rose-800/60 hover:bg-rose-100 dark:hover:bg-rose-900/60 shadow-sm transition-all flex items-center justify-center gap-2"
-              >
-                <XCircle className="w-5 h-5" /> 不认识 (盲区)
-              </button>
-            </div>
-          </div>
-        ) : null}
       </div>
     );
   }
@@ -286,8 +128,8 @@ export const VocabStatsView: React.FC<VocabStatsViewProps> = ({
 
           <button
             type="button"
-            onClick={startBlindSpotTest}
-            className="px-4 py-2 rounded-xl text-xs font-bold text-white bg-indigo-600 hover:bg-indigo-700 shadow-md transition-all flex items-center gap-1.5 whitespace-nowrap"
+            onClick={() => setIsTestActive(true)}
+            className="px-4 py-2 rounded-xl text-xs font-bold text-white bg-indigo-600 hover:bg-indigo-700 shadow-md transition-all flex items-center gap-1.5 whitespace-nowrap cursor-pointer"
           >
             <Sparkles className="w-3.5 h-3.5" /> 测词汇盲区 (40 题快测)
           </button>
@@ -471,6 +313,14 @@ export const VocabStatsView: React.FC<VocabStatsViewProps> = ({
           })}
         </div>
       </div>
+
+      {/* 40-word Blind Spot Test Modal */}
+      <VocabBlindSpotModal
+        isOpen={isTestActive}
+        onClose={() => setIsTestActive(false)}
+        onWordClick={onWordClick}
+        onUpdateWordStatus={onUpdateWordStatus}
+      />
     </div>
   );
 };

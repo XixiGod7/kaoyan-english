@@ -13,6 +13,7 @@ import {
   Settings
 } from 'lucide-react';
 import { AiReviewReport } from '../types/ai';
+import { MarkdownRenderer } from './MarkdownRenderer';
 
 interface AiReviewCardProps {
   report?: AiReviewReport;
@@ -275,9 +276,7 @@ export const AiReviewCard: React.FC<AiReviewCardProps> = ({
       {!isCollapsed && (
         <div className="p-4 md:p-6 text-sm font-sans leading-relaxed select-text space-y-1">
           {displayMarkdown ? (
-            <div className="prose max-w-none dark:prose-invert">
-              {renderFormattedContent(displayMarkdown)}
-            </div>
+            <MarkdownRenderer content={displayMarkdown} isDark={isDark} />
           ) : isEvaluating ? (
             <div className="py-8 flex flex-col items-center justify-center gap-3 text-xs text-blue-500 font-medium">
               <Loader2 className="w-6 h-6 animate-spin" />

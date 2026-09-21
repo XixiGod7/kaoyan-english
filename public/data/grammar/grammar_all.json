@@ -1,5 +1,5 @@
 {
-  "total": 2009,
+  "total": 2017,
   "catCounts": {
     "appos": 371,
     "attr": 935,
@@ -32747,6 +32747,144 @@
         "非谓语作定语",
         "并列结构",
         "插入语"
+      ]
+    },
+    {
+      "sid": "en1-2026-text1-s3",
+      "key": "2026-t1",
+      "year": 2026,
+      "text_no": 1,
+      "s": "Yet while horses and dogs have long basked in the glow of human fascination with their histories, donkeys have toiled in comparative obscurity, says Evelyn Todd, a population geneticist.",
+      "zh": "然而，群体遗传学家伊芙琳·托德表示，尽管马和狗长期以来在人类对其历史的着迷中备受青睐，但驴却在相对默默无闻中劳作。",
+      "cats": [
+        "adv",
+        "appos"
+      ],
+      "labels": [
+        "让步状语从句",
+        "同位语",
+        "对比结构"
+      ]
+    },
+    {
+      "sid": "en1-2026-text1-s19",
+      "key": "2026-t1",
+      "year": 2026,
+      "text_no": 1,
+      "s": "Not only does understanding the equines’ genetic makeup help reveal their contribution to human history, but it also might improve their management in the future, as climate change alters the planet’s environment, write the authors.",
+      "zh": "作者写道，了解这些马科动物的基因构成不仅有助于揭示它们对人类历史的贡献，还可能在气候变化改变地球环境之际改善未来对它们的管理。",
+      "cats": [
+        "special",
+        "adv"
+      ],
+      "labels": [
+        "部分倒装",
+        "时间状语从句",
+        "递进结构"
+      ]
+    },
+    {
+      "sid": "en1-2026-text2-s2",
+      "key": "2026-t2",
+      "year": 2026,
+      "text_no": 2,
+      "s": "If that sounds melodramatic, consider this: The Art Directors Guild, a labor union representing about 3,000 film workers, has suspended a training program and issued a statement explaining that “we cannot in good conscience encourage you to pursue our profession.” This is a reaction to Hollywood’s decline, which is reaching a critical point for the industry and Southern California.",
+      "zh": "如果这听起来有点夸张，请考虑一下这个事实：代表约3000名电影行业从业人员的工会组织——艺术指导工会已暂停了一项培训计划，并发表声明称“出于良知，我们无法鼓励大家从事我们的职业”。这是对好莱坞衰退的回应，这种衰退对于该行业和南加州来说正处于关键时刻。",
+      "cats": [
+        "appos",
+        "attr",
+        "adv"
+      ],
+      "labels": [
+        "同位语",
+        "非限制性定语从句",
+        "条件状语从句"
+      ]
+    },
+    {
+      "sid": "en1-2026-text2-s12",
+      "key": "2026-t2",
+      "year": 2026,
+      "text_no": 2,
+      "s": "Persuading studios to film here would become much more challenging if we couldn’t offer a deep bench of local film workers, on-screen talent and local businesses that support the entertainment industry.",
+      "zh": "如果我们不能提供充足的本地电影工作者、银幕人才以及支持娱乐业的本地企业，那么说服制片厂在这里拍摄将变得更加困难。",
+      "cats": [
+        "adv",
+        "attr"
+      ],
+      "labels": [
+        "虚拟语气条件句",
+        "动名词作主语",
+        "限制性定语从句"
+      ]
+    },
+    {
+      "sid": "en1-2026-text3-s4",
+      "key": "2026-t3",
+      "year": 2026,
+      "text_no": 3,
+      "s": "Opening this week, a book and exhibition curated by Beatty Rubens at the Bodleian in Oxford records how radio changed everyday life from 1922 to 1939.",
+      "zh": "本周开幕的由比蒂·鲁本斯在牛津大学博德利图书馆策划的一本书和一场展览，记录了1922年至1939年间无线电如何改变了日常生活。",
+      "cats": [
+        "nonfinite",
+        "nounclause"
+      ],
+      "labels": [
+        "现在分词短语作状语",
+        "过去分词作定语",
+        "宾语从句"
+      ]
+    },
+    {
+      "sid": "en1-2026-text3-s21",
+      "key": "2026-t3",
+      "year": 2026,
+      "text_no": 3,
+      "s": "Today we fret about the isolating culture of smartphone-staring and selfievanity, but already in 1939 there was that lady regretting how, when all her street got wirelesses, it lost the neighbourly habit of “talking on the brush handle”.",
+      "zh": "今天我们对盯着智能手机和自拍自恋这种孤立文化感到烦恼，但早在1939年，就有那位女士感到遗憾，当她整条街的人都有了收音机时，就失去了“在扫帚柄上聊天”的邻里习惯。",
+      "cats": [
+        "nonfinite",
+        "adv",
+        "nounclause"
+      ],
+      "labels": [
+        "现在分词作定语",
+        "时间状语从句",
+        "对比转折"
+      ]
+    },
+    {
+      "sid": "en1-2026-text4-s4",
+      "key": "2026-t4",
+      "year": 2026,
+      "text_no": 4,
+      "s": "The fact that fires happened so often meant they couldn’t have been severe enough to kill most trees.",
+      "zh": "火灾频繁发生这一事实意味着它们不可能严重到足以烧死大多数树木。",
+      "cats": [
+        "nounclause",
+        "appos"
+      ],
+      "labels": [
+        "同位语从句",
+        "情态推测虚拟",
+        "宾语从句"
+      ]
+    },
+    {
+      "sid": "en1-2026-text4-s19",
+      "key": "2026-t4",
+      "year": 2026,
+      "text_no": 4,
+      "s": "“It’s a double-edged sword because wildfires are getting more severe and larger under climate change and we need this work even more, but then the work gets more challenging,” said Susan Prichard, a fire ecologist at the University of Washington.",
+      "zh": "“这是一把双刃剑，因为在气候变化下野火变得更加严重、规模更大，我们更加需要这项工作，但与此同时这项工作也变得更具挑战性，”华盛顿大学火灾生态学家苏珊·普里查德说道。",
+      "cats": [
+        "adv",
+        "appos"
+      ],
+      "labels": [
+        "长原因状语从句",
+        "同位语",
+        "并列转折"
       ]
     }
   ]

@@ -1,0 +1,516 @@
+{
+  "exam": "en1",
+  "key": "2026-t4",
+  "year": 2026,
+  "text_no": 4,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2026-text4-s1",
+      "s": "When Tom Swetnam joined the U.S. Forest Service in the 1970s, his mandate was to “put everything out,” he recalled.",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "his mandate",
+        "谓语": "was",
+        "宾语或表语": "to “put everything out”",
+        "主干翻译": "他的任务是“扑灭一切”。"
+      },
+      "components": [
+        {
+          "成分类型": "时间状语从句",
+          "原文": "When Tom Swetnam joined the U.S. Forest Service in the 1970s",
+          "修饰对象": "主句",
+          "中文翻译": "当汤姆·斯韦特纳姆在20世纪70年代加入美国林务局时",
+          "说明": "When 引导时间状语从句。"
+        },
+        {
+          "成分类型": "引述语/插入语",
+          "原文": "he recalled",
+          "修饰对象": "全句",
+          "中文翻译": "他回忆道",
+          "说明": "主谓倒装引述语。"
+        }
+      ],
+      "zh": "20世纪70年代汤姆·斯韦特纳姆加入美国林务局时，他的任务是「扑灭一切火情」，他回忆道。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2026-text4-s2",
+      "s": "But when Swetnam enrolled in graduate school at the University of Arizona’s Laboratory of Tree-Ring Research, he was surprised to find a record of repeated blazes dating back hundreds of years before European colonists arrived on the continent.",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "he",
+        "谓语": "was surprised",
+        "宾语或表语": "to find a record of repeated blazes",
+        "主干翻译": "他惊奇地发现了一系列频繁火灾的历史记录。"
+      },
+      "components": [
+        {
+          "成分类型": "时间状语从句",
+          "原文": "when Swetnam enrolled in graduate school at the University of Arizona’s Laboratory of Tree-Ring Research",
+          "修饰对象": "主句",
+          "中文翻译": "当斯韦特纳姆进入亚利桑那大学树木年轮研究实验室攻读研究生时",
+          "说明": "when 引导时间状语从句。"
+        },
+        {
+          "成分类型": "现在分词短语作后置定语",
+          "原文": "dating back hundreds of years before European colonists arrived on the continent",
+          "修饰对象": "repeated blazes",
+          "中文翻译": "可以追溯到欧洲殖民者抵达美洲大陆之前的数百年",
+          "说明": "dating back... 分词短语修饰 blazes。"
+        }
+      ],
+      "zh": "但当斯韦特纳姆在亚利桑那大学树木年轮研究实验室攻读研究生时，他惊讶地发现，在欧洲殖民者抵达美洲大陆之前的数百年间，多次发生火灾的记录早已有之。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2026-text4-s3",
+      "s": "Some of the trees he analyzed bore more than 20 fire scars among their rings.",
+      "para_no": 1,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Some of the trees",
+        "谓语": "bore",
+        "宾语或表语": "more than 20 fire scars",
+        "主干翻译": "他分析的部分树木年轮中留有20多道火灾伤疤。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "he analyzed",
+          "修饰对象": "the trees",
+          "中文翻译": "他所分析的",
+          "说明": "省略关系代词 that/which 的限制性定语从句。"
+        },
+        {
+          "成分类型": "介词短语作地点状语",
+          "原文": "among their rings",
+          "修饰对象": "bore",
+          "中文翻译": "在它们的年轮中",
+          "说明": "介词短语作后置状语。"
+        }
+      ],
+      "zh": "他分析的一些树木的年轮上有20多个火灾痕迹。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2026-text4-s4",
+      "s": "The fact that fires happened so often meant they couldn’t have been severe enough to kill most trees.",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The fact",
+        "谓语": "meant",
+        "宾语或表语": "宾语从句",
+        "主干翻译": "火灾频繁发生这一事实意味着它们不可能严重到足以杀死大多数树木。"
+      },
+      "components": [
+        {
+          "成分类型": "同位语从句",
+          "原文": "that fires happened so often",
+          "修饰对象": "The fact",
+          "中文翻译": "火灾发生得如此频繁",
+          "说明": "that 引导同位语从句，阐释 fact 的具体内容。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "they couldn’t have been severe enough to kill most trees",
+          "修饰对象": "meant",
+          "中文翻译": "它们不可能严重到足以烧毁大部分树木",
+          "说明": "couldn't have been 表示对过去情况的否定推测。"
+        }
+      ],
+      "zh": "火灾频繁发生这一事实意味着它们不可能严重到足以烧死大多数树木。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2026-text4-s5",
+      "s": "Instead, a growing body of research showed that frequent, low-severity fires made many ecosystems healthier.",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "a growing body of research",
+        "谓语": "showed",
+        "宾语或表语": "that 从句",
+        "主干翻译": "越来越多的研究表明频繁低强度的火灾使许多生态系统更加健康。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "that frequent, low-severity fires made many ecosystems healthier",
+          "修饰对象": "showed",
+          "中文翻译": "频繁、低强度的火灾使许多生态系统变得更加健康",
+          "说明": "that 引导宾语从句，从句使用 make + 宾语 + 比较级形容词作宾补。"
+        }
+      ],
+      "zh": "相反，越来越多的研究表明，频繁、低强度的火灾使许多生态系统更加健康。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2026-text4-s6",
+      "s": "They rid the forest of dead and sick trees, reducing competition and curbing the spread of disease.",
+      "para_no": 2,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "They",
+        "谓语": "rid",
+        "宾语或表语": "the forest of dead and sick trees",
+        "主干翻译": "它们清除了森林中的枯树和病树。"
+      },
+      "components": [
+        {
+          "成分类型": "现在分词短语作结果/伴随状语",
+          "原文": "reducing competition and curbing the spread of disease",
+          "修饰对象": "全句动作",
+          "中文翻译": "减少了竞争并遏制了疾病的传播",
+          "说明": "现在分词短语并列，说明清除病树带来的正面生态效应。"
+        }
+      ],
+      "zh": "它们清除了森林中的枯树和病树，减少了竞争并遏制了疾病的传播。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2026-text4-s7",
+      "s": "Because flammable material couldn’t build up on the landscape, blazes tended to move slowly and peter out when they reached the footprints of previous burns.",
+      "para_no": 2,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "blazes",
+        "谓语": "tended to move and peter out",
+        "宾语或表语": "slowly",
+        "主干翻译": "火势往往蔓延缓慢，并在达到先前燃烧痕迹时逐渐熄灭。"
+      },
+      "components": [
+        {
+          "成分类型": "原因状语从句",
+          "原文": "Because flammable material couldn’t build up on the landscape",
+          "修饰对象": "主句",
+          "中文翻译": "因为易燃物质无法在地表大量堆积",
+          "说明": "Because 引导原因状语从句。"
+        },
+        {
+          "成分类型": "时间状语从句",
+          "原文": "when they reached the footprints of previous burns",
+          "修饰对象": "peter out",
+          "中文翻译": "当它们遇到先前烧过的痕迹时",
+          "说明": "when 引导时间状语从句。"
+        }
+      ],
+      "zh": "由于可燃材料无法在地貌上积聚，火势往往蔓延缓慢，并在蔓延到先前燃烧的痕迹时逐渐平息。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2026-text4-s8",
+      "s": "In 2022, Swetnam and other scientists teamed up to compile a database of fire-scarred trees from across the continent.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Swetnam and other scientists",
+        "谓语": "teamed up",
+        "宾语或表语": "to compile a database",
+        "主干翻译": "斯韦特纳姆和其他科学家联手编制了一个数据库。"
+      },
+      "components": [
+        {
+          "成分类型": "动词不定式短语作目的状语",
+          "原文": "to compile a database of fire-scarred trees from across the continent",
+          "修饰对象": "teamed up",
+          "中文翻译": "去汇编一份遍布全大陆带火痕树木的数据库",
+          "说明": "to compile 不定式表目的。"
+        }
+      ],
+      "zh": "2022年，斯韦特纳姆和其他科学家合作建立了一个横跨北美大陆的带火烧痕迹树木的数据库。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2026-text4-s9",
+      "s": "Their North American tree-ring fire-scar network (NAFSN) provided the basis for a study published last month.",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Their North American tree-ring fire-scar network (NAFSN)",
+        "谓语": "provided",
+        "宾语或表语": "the basis for a study",
+        "主干翻译": "他们的北美树木年轮火痕网络为一项研究提供了基础。"
+      },
+      "components": [
+        {
+          "成分类型": "过去分词短语作后置定语",
+          "原文": "published last month",
+          "修饰对象": "a study",
+          "中文翻译": "于上月发表的",
+          "说明": "过去分词短语修饰 study。"
+        }
+      ],
+      "zh": "他们的北美树木年轮火灾痕迹网络（NAFSN）为上个月发表的一项研究提供了基础。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2026-text4-s10",
+      "s": "In the study, the researchers compared the historical fire cadence with the wildfires recorded over the past few decades, and uncovered a striking shortfall.",
+      "para_no": 3,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "the researchers",
+        "谓语": "compared and uncovered",
+        "宾语或表语": "the cadence and a shortfall",
+        "主干翻译": "研究人员将历史火灾节奏与过去几十年记录的野火进行了对比，并发现了一个惊人的亏空。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语(地点/范围)",
+          "原文": "In the study",
+          "修饰对象": "全句",
+          "中文翻译": "在这项研究中",
+          "说明": "介词短语交代语境。"
+        }
+      ],
+      "zh": "在这项研究中，研究人员将历史上的火灾发生节奏与过去几十年记录的野火进行了比较，发现了一个惊人的不足。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2026-text4-s11",
+      "s": "The NAFSN sites experienced less than a quarter of the number of fires that would have been expected without fire suppression.",
+      "para_no": 3,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "The NAFSN sites",
+        "谓语": "experienced",
+        "宾语或表语": "less than a quarter of the number of fires",
+        "主干翻译": "NAFSN 样地经历的火灾次数不到预期的四分之一。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句(含虚拟语气)",
+          "原文": "that would have been expected without fire suppression",
+          "修饰对象": "fires",
+          "中文翻译": "若没有灭火干预原本预计会发生的",
+          "说明": "that 引导限制性定语从句，含 would have been 虚拟语气，介词短语 without 表含蓄假设条件。"
+        }
+      ],
+      "zh": "NAFSN样地经历的火灾次数不到若没有灭火干预预期发生次数的四分之一。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2026-text4-s12",
+      "s": "This deficit is a testament to the effectiveness of modern firefighting, said Kelly Martin, a past president of the International Association of Wildland Fire.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "This deficit",
+        "谓语": "is",
+        "宾语或表语": "a testament to the effectiveness of modern firefighting",
+        "主干翻译": "这种火灾缺口是现代灭火成效的证明。"
+      },
+      "components": [
+        {
+          "成分类型": "同位语",
+          "原文": "a past president of the International Association of Wildland Fire",
+          "修饰对象": "Kelly Martin",
+          "中文翻译": "国际荒地火灾协会前主席",
+          "说明": "同位语介绍发言人专业学术职位。"
+        }
+      ],
+      "zh": "国际野生土地火灾协会前会长凯利·马丁表示，这种差距证明了现代灭火的有效性。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2026-text4-s13",
+      "s": "“Yet the combined consequences of suppression and climate change have eroded humanity’s ability to suppress fires, particularly those that ignite under the most dangerous weather conditions.”",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "the combined consequences of suppression and climate change",
+        "谓语": "have eroded",
+        "宾语或表语": "humanity’s ability to suppress fires",
+        "主干翻译": "灭火压制与气候变化的双重后果已经削弱了人类扑灭火灾的能力。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "that ignite under the most dangerous weather conditions",
+          "修饰对象": "those (fires)",
+          "中文翻译": "尤其是在最危险天气条件下引燃的火灾",
+          "说明": "that 引导限制性定语从句修饰代词 those。"
+        }
+      ],
+      "zh": "“然而，抑制火灾和气候变化的综合后果削弱了人类灭火的能力，特别是在最危险的天气条件下引发的火灾。”",
+      "underline": null
+    },
+    {
+      "sid": "en1-2026-text4-s14",
+      "s": "To prevent entire ecosystems from going up in smoke, Martin said, people must bring healthy fire back to places that need it.",
+      "para_no": 5,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "people",
+        "谓语": "must bring",
+        "宾语或表语": "healthy fire",
+        "主干翻译": "人们必须将良性火灾带回需要它的地方。"
+      },
+      "components": [
+        {
+          "成分类型": "动词不定式短语作目的状语",
+          "原文": "To prevent entire ecosystems from going up in smoke",
+          "修饰对象": "主句",
+          "中文翻译": "为了防止整个生态系统化为灰烬",
+          "说明": "不定式置于句首作目的状语，prevent ... from ... 固定搭配。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that need it",
+          "修饰对象": "places",
+          "中文翻译": "需要它的",
+          "说明": "that 引导定语从句。"
+        }
+      ],
+      "zh": "马丁说，为了防止整个生态系统被彻底烧毁，人们必须将健康的火带回到需要它的地方。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2026-text4-s15",
+      "s": "At Yosemite National Park, Martin oversaw the use of what is known as prescribed burns to make the landscape more resilient.",
+      "para_no": 5,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Martin",
+        "谓语": "oversaw",
+        "宾语或表语": "the use of prescribed burns",
+        "主干翻译": "马丁监督了所谓“计划烧除”的实施。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句(作介词宾语)",
+          "原文": "what is known as prescribed burns",
+          "修饰对象": "of",
+          "中文翻译": "所谓的计划烧除",
+          "说明": "what 引导的名词性从句充当介词 of 的宾语。"
+        },
+        {
+          "成分类型": "动词不定式短语作目的/结果状语",
+          "原文": "to make the landscape more resilient",
+          "修饰对象": "oversaw the use",
+          "中文翻译": "以使自然地貌更具复原力",
+          "说明": "不定式短语表预期效果目的。"
+        }
+      ],
+      "zh": "在约塞米蒂国家公园，马丁负责监督使用所谓的计划烧除，以使地貌更具韧性。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2026-text4-s16",
+      "s": "These fires were carefully planned and intentionally ignited during periods when weather kept the blazes easy to control, and helped eliminate some of the fuel that had built up around the important park’s facilities.",
+      "para_no": 5,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "These fires",
+        "谓语": "were planned, ignited, and helped eliminate",
+        "宾语或表语": "some of the fuel",
+        "主干翻译": "这些火灾经过精心规划和有意引燃，并有助于清除部分易燃物。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "when weather kept the blazes easy to control",
+          "修饰对象": "periods",
+          "中文翻译": "当天气使火势易于控制时",
+          "说明": "when 引导定语从句修饰先行词 periods。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that had built up around the important park’s facilities",
+          "修饰对象": "fuel",
+          "中文翻译": "在重要公园设施周围堆积的",
+          "说明": "that 引导限制性定语从句修饰 fuel。"
+        }
+      ],
+      "zh": "这些火是在天气容易控制火势的时期精心策划并有意点燃的，有助于消除公园重要设施周围堆积的部分燃料。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2026-text4-s17",
+      "s": "Research shows that these prescribed burns make subsequent wildfires less severe, even if later fires happen under the most dangerous weather conditions.",
+      "para_no": 5,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "Research",
+        "谓语": "shows",
+        "宾语或表语": "that 从句",
+        "主干翻译": "研究表明这些计划烧除使得随后的野火没那么严重。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "that these prescribed burns make subsequent wildfires less severe",
+          "修饰对象": "shows",
+          "中文翻译": "这些计划烧除使随后的野火严重程度降低",
+          "说明": "that 引导宾语从句。"
+        },
+        {
+          "成分类型": "让步状语从句",
+          "原文": "even if later fires happen under the most dangerous weather conditions",
+          "修饰对象": "make subsequent wildfires less severe",
+          "中文翻译": "即便日后的野火发生在最危险的天气条件下",
+          "说明": "even if 引导让步状语从句。"
+        }
+      ],
+      "zh": "研究表明，即使后来的火灾发生在最危险的天气条件下，这些预先计划好的燃烧也能使随后的野火不那么严重。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2026-text4-s18",
+      "s": "Yet even as scientists and public officials increasingly agree on the need for more fires in our forests, climate change is making this tactic more challenging, experts said.",
+      "para_no": 6,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "climate change",
+        "谓语": "is making",
+        "宾语或表语": "this tactic more challenging",
+        "主干翻译": "气候变化使得这一策略更具挑战性。"
+      },
+      "components": [
+        {
+          "成分类型": "让步/时间从句",
+          "原文": "even as scientists and public officials increasingly agree on the need for more fires in our forests",
+          "修饰对象": "主句",
+          "中文翻译": "即便科学家和政府官员越来越认同森林中需要更多火灾",
+          "说明": "even as 引导状语从句表示转折与并存。"
+        }
+      ],
+      "zh": "专家表示，尽管科学家和政府官员越来越一致认为我们的森林需要更多火灾，但气候变化正使这一策略变得更具挑战性。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2026-text4-s19",
+      "s": "“It’s a double-edged sword because wildfires are getting more severe and larger under climate change and we need this work even more, but then the work gets more challenging,” said Susan Prichard, a fire ecologist at the University of Washington.",
+      "para_no": 6,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "It",
+        "谓语": "is",
+        "宾语或表语": "a double-edged sword",
+        "主干翻译": "这是一把双刃剑。"
+      },
+      "components": [
+        {
+          "成分类型": "原因状语从句",
+          "原文": "because wildfires are getting more severe and larger under climate change and we need this work even more, but then the work gets more challenging",
+          "修饰对象": "is a double-edged sword",
+          "中文翻译": "因为在气候变化下野火变得更严重更大，我们更需要这项工作，但随即工作变得更具挑战性",
+          "说明": "because 引导长复合原因状语从句，内含转折对比。"
+        },
+        {
+          "成分类型": "同位语",
+          "原文": "a fire ecologist at the University of Washington",
+          "修饰对象": "Susan Prichard",
+          "中文翻译": "华盛顿大学的火灾生态学家",
+          "说明": "名词短语作同位语，说明专家身份。"
+        }
+      ],
+      "zh": "“这是一把双刃剑，因为在气候变化下野火变得更加严重、规模更大，我们更加需要这项工作，但与此同时这项工作也变得更具挑战性，”华盛顿大学火灾生态学家苏珊·普里查德说道。",
+      "underline": null
+    }
+  ]
+}

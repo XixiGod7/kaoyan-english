@@ -25,7 +25,8 @@ import {
   Target,
   ExternalLink,
   ChevronDown,
-  Bookmark
+  Bookmark,
+  Volume2
 } from 'lucide-react';
 import { 
   loadReadingProgress, 
@@ -33,17 +34,26 @@ import {
   saveWrongQuestion, 
   removeWrongQuestion 
 } from '../utils/readingStorage';
+import { VocabBlindSpotModal } from './VocabBlindSpotModal';
+import { extractPassageLemmas, isWordMastered, getLemmas } from '../utils/vocabLemmatizer';
+import { FontSizeLevel } from '../utils/fontSize';
 
 interface IntensiveReadingViewProps {
   initialPassKey?: string;
   onWordClick?: (word: string, rect: DOMRect) => void;
   onNavigateToQuiz?: (year: string) => void;
+  wordStatuses?: Record<string, 'familiar' | 'unfamiliar' | 'unknown'>;
+  onUpdateWordStatus?: (word: string, status: 'familiar' | 'unfamiliar') => void;
+  fontSizeLevel?: FontSizeLevel;
 }
 
 export const IntensiveReadingView: React.FC<IntensiveReadingViewProps> = ({
-  initialPassKey = '2025-t1',
+  initialPassKey = '2026-t1',
   onWordClick,
-  onNavigateToQuiz
+  onNavigateToQuiz,
+  wordStatuses = {},
+  onUpdateWordStatus,
+  fontSizeLevel = 'base',
 }) => {
   const [indexList, setIndexList] = useState<PassageIndexItem[]>([]);
   const [currentKey, setCurrentKey] = useState<string>(initialPassKey);
@@ -52,10 +62,16 @@ export const IntensiveReadingView: React.FC<IntensiveReadingViewProps> = ({
   const [questions, setQuestions] = useState<ReadingQuestion[]>([]);
   const [loading, setLoading] = useState<boolean>(true);
 
+  // Vocab stats & tiered coverage state
+  const [vocabStats, setVocabStats] = useState<Record<string, { rank: number; trans: string; phonetic?: string }>>({});
+  const [dictEntries, setDictEntries] = useState<Record<string, { definition_cn?: string; phonetic?: string }>>({});
+  const [vocabTier, setVocabTier] = useState<'2000' | '3000' | '4000' | '5000' | 'custom'>('2000');
+  const [showBlindSpotModal, setShowBlindSpotModal] = useState<boolean>(false);
+
   // View state
   const [selfTestMode, setSelfTestMode] = useState<boolean>(false);
   const [allExpanded, setAllExpanded] = useState<boolean>(true);
-  const [showKeywordsDrawer, setShowKeywordsDrawer] = useState<boolean>(false);
+  const [showKeywordsDrawer, setShowKeywordsDrawer] = useState<boolean>(true);
   const [showQuizPanel, setShowQuizPanel] = useState<boolean>(true);
   const [highlightedSid, setHighlightedSid] = useState<string | null>(null);
 
@@ -66,8 +82,60 @@ export const IntensiveReadingView: React.FC<IntensiveReadingViewProps> = ({
   const [userAnswers, setUserAnswers] = useState<Record<number, string>>({});
   const [quizSubmitted, setQuizSubmitted] = useState<Record<number, boolean>>({});
 
-  // Year selector dropdown
+  // Dropdown states & refs
   const [isYearPickerOpen, setIsYearPickerOpen] = useState<boolean>(false);
+  const [isTierPickerOpen, setIsTierPickerOpen] = useState<boolean>(false);
+  const tierPickerRef = useRef<HTMLDivElement>(null);
+  const yearPickerRef = useRef<HTMLDivElement>(null);
+
+  // Close dropdowns on click outside
+  useEffect(() => {
+    function handleClickOutside(event: MouseEvent) {
+      if (tierPickerRef.current && !tierPickerRef.current.contains(event.target as Node)) {
+        setIsTierPickerOpen(false);
+      }
+      if (yearPickerRef.current && !yearPickerRef.current.contains(event.target as Node)) {
+        setIsYearPickerOpen(false);
+      }
+    }
+    document.addEventListener('mousedown', handleClickOutside);
+    return () => document.removeEventListener('mousedown', handleClickOutside);
+  }, []);
+
+  // Load vocab stats dictionary and official syllabus dictionary
+  useEffect(() => {
+    async function loadVocabData() {
+      try {
+        const [statsRes, dictRes] = await Promise.all([
+          fetch('./data/vocab_stats/vocab_stats_all.json'),
+          fetch('./data/kaoyan1_dict.json')
+        ]);
+        if (statsRes.ok) {
+          const list: any[] = await statsRes.json();
+          const map: Record<string, { rank: number; trans: string; phonetic?: string }> = {};
+          list.forEach(item => {
+            if (item.w) {
+              map[item.w.toLowerCase()] = {
+                rank: item.rank || 9999, // Use real exam occurrence frequency rank (1~3149)
+                trans: item.trans || '',
+                phonetic: item.phonetic || ''
+              };
+            }
+          });
+          setVocabStats(map);
+        }
+        if (dictRes.ok) {
+          const dictData = await dictRes.json();
+          if (dictData && dictData.entries) {
+            setDictEntries(dictData.entries);
+          }
+        }
+      } catch (e) {
+        console.error('Failed to load vocab stats or dict:', e);
+      }
+    }
+    loadVocabData();
+  }, []);
 
   // 1. Load passages index
   useEffect(() => {
@@ -135,10 +203,128 @@ export const IntensiveReadingView: React.FC<IntensiveReadingViewProps> = ({
   const currentYear = currentItem?.year || 2025;
   const currentTextNo = currentItem?.text_no || 1;
 
-  // Years list (2025 down to 2001)
+  // Group passage sentences by paragraph number for unified reading layout
+  const paragraphGroups = useMemo(() => {
+    if (!detail?.sentences) return [];
+    const map = new Map<number, { paraNo: number; sentences: PassageSentence[]; startIdx: number }>();
+    detail.sentences.forEach((s, idx) => {
+      const pNo = s.para_no || 1;
+      if (!map.has(pNo)) {
+        map.set(pNo, { paraNo: pNo, sentences: [], startIdx: idx });
+      }
+      map.get(pNo)!.sentences.push(s);
+    });
+    return Array.from(map.values());
+  }, [detail]);
+
+  // Tiers configuration for dropdown
+  const TIER_OPTIONS = [
+    { value: '2000', label: '假设已掌握 2000 词' },
+    { value: '3000', label: '假设已掌握 3000 词' },
+    { value: '4000', label: '假设已掌握 4000 词' },
+    { value: '5000', label: '假设已掌握 5000 词' },
+    { value: 'custom', label: '使用我的个性化生词本' }
+  ] as const;
+
+  // Word lemmas in current passage for tiered coverage analysis (canonical base lemma grouping)
+  const passageLemmas = useMemo(() => {
+    if (!detail?.sentences) return [];
+    const allText = detail.sentences.map(s => s.s).join(' ');
+    return extractPassageLemmas(allText, dictEntries, vocabStats).tokens;
+  }, [detail, dictEntries, vocabStats]);
+
+  // Tiered Coverage Analysis (98% reading fluency threshold)
+  const coverageAnalysis = useMemo(() => {
+    if (passageLemmas.length === 0) {
+      return {
+        coveragePercent: 100,
+        totalTokens: 0,
+        knownTokens: 0,
+        unfamiliarWords: [] as { word: string; count: number; trans?: string }[],
+        neededCount: 0,
+        status: '顺读极佳',
+        statusColor: 'emerald'
+      };
+    }
+
+    let totalTokens = 0;
+    let knownTokens = 0;
+    const unfamiliarList: { word: string; count: number; trans?: string }[] = [];
+
+    passageLemmas.forEach(item => {
+      // Named entities / proper nouns are excluded from vocabulary obstacle calculation
+      if (item.isProperNoun) return;
+
+      totalTokens += item.count;
+      const isKnown = isWordMastered(item.lemma, vocabTier, vocabStats, dictEntries, wordStatuses);
+
+      if (isKnown) {
+        knownTokens += item.count;
+      } else {
+        // Find best translation checking dictEntries and vocabStats
+        let trans = dictEntries[item.lemma]?.definition_cn || vocabStats[item.lemma]?.trans;
+        if (!trans) {
+          const lemmas = getLemmas(item.lemma);
+          for (const lem of lemmas) {
+            if (dictEntries[lem]?.definition_cn) {
+              trans = dictEntries[lem].definition_cn;
+              break;
+            }
+            if (vocabStats[lem]?.trans) {
+              trans = vocabStats[lem].trans;
+              break;
+            }
+          }
+        }
+
+        unfamiliarList.push({
+          word: item.lemma,
+          count: item.count,
+          trans
+        });
+      }
+    });
+
+    unfamiliarList.sort((a, b) => b.count - a.count);
+
+    const coveragePercent = totalTokens > 0
+      ? Math.round((knownTokens / totalTokens) * 1000) / 10
+      : 100;
+
+    const targetTokens = Math.ceil(totalTokens * 0.98);
+    let neededTokens = Math.max(0, targetTokens - knownTokens);
+    let neededCount = 0;
+    for (const item of unfamiliarList) {
+      if (neededTokens <= 0) break;
+      neededTokens -= item.count;
+      neededCount++;
+    }
+
+    let status = '顺读极佳';
+    let statusColor = 'emerald';
+    if (coveragePercent < 90) {
+      status = '生词偏多';
+      statusColor = 'amber';
+    } else if (coveragePercent < 95) {
+      status = '词汇达标';
+      statusColor = 'indigo';
+    }
+
+    return {
+      coveragePercent,
+      totalTokens,
+      knownTokens,
+      unfamiliarWords: unfamiliarList,
+      neededCount,
+      status,
+      statusColor
+    };
+  }, [passageLemmas, vocabTier, vocabStats, dictEntries, wordStatuses]);
+
+  // Years list (2026 down to 2001)
   const availableYears = useMemo(() => {
     const years = Array.from(new Set(indexList.map(x => x.year))).sort((a, b) => b - a);
-    return years.length > 0 ? years : [2025, 2024, 2023, 2022, 2021, 2020];
+    return years.length > 0 ? years : [2026, 2025, 2024, 2023, 2022, 2021, 2020];
   }, [indexList]);
 
   // Navigation handlers
@@ -212,6 +398,21 @@ export const IntensiveReadingView: React.FC<IntensiveReadingViewProps> = ({
 
   return (
     <div className="max-w-5xl mx-auto space-y-6">
+      {/* 2-Minute Blind Spot Quick Entrance Banner */}
+      <div className="bg-gradient-to-r from-emerald-500/10 via-teal-500/10 to-indigo-500/10 border border-emerald-200/80 dark:border-emerald-800/60 rounded-2xl p-3 sm:px-5 sm:py-3.5 flex flex-col sm:flex-row sm:items-center justify-between gap-3 shadow-2xs">
+        <div className="flex items-center gap-2 text-xs font-medium text-emerald-900 dark:text-emerald-300">
+          <Sparkles className="w-4 h-4 text-emerald-600 dark:text-emerald-400 shrink-0" />
+          <span>建议精读前摸底：40 道大纲真题词汇抽样速测，2 分钟快速摸清词面底盘</span>
+        </div>
+        <button
+          type="button"
+          onClick={() => setShowBlindSpotModal(true)}
+          className="px-4 py-1.5 rounded-xl text-xs font-bold text-emerald-700 dark:text-emerald-300 bg-white dark:bg-slate-800 border border-emerald-300 dark:border-emerald-700 hover:bg-emerald-50 dark:hover:bg-slate-700 transition-all flex items-center justify-center gap-1.5 shadow-2xs shrink-0 cursor-pointer"
+        >
+          🎯 2 分钟摸一下词汇盲区 →
+        </button>
+      </div>
+
       {/* Top Header & Year/Text Navigation Bar */}
       <div className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-2xl p-5 shadow-sm space-y-4">
         <div className="flex flex-col md:flex-row md:items-center justify-between gap-4">
@@ -233,27 +434,27 @@ export const IntensiveReadingView: React.FC<IntensiveReadingViewProps> = ({
           {/* Passage Quick Switcher */}
           <div className="flex items-center gap-2">
             {/* Year Selector */}
-            <div className="relative">
+            <div className="relative" ref={yearPickerRef}>
               <button
                 type="button"
                 onClick={() => setIsYearPickerOpen(!isYearPickerOpen)}
-                className="px-3 py-1.5 rounded-xl border border-slate-200 dark:border-slate-700 bg-slate-50 dark:bg-slate-800 text-xs font-bold text-slate-800 dark:text-slate-200 flex items-center gap-1.5 hover:bg-slate-100 dark:hover:bg-slate-700 transition-colors"
+                className="px-3 py-1.5 rounded-xl border border-slate-200/80 dark:border-slate-700/80 bg-slate-50/80 dark:bg-slate-800/80 text-xs font-bold text-slate-800 dark:text-slate-200 flex items-center gap-1.5 hover:bg-slate-100 dark:hover:bg-slate-700 transition-colors shadow-2xs cursor-pointer"
               >
                 <span>{currentYear} 年</span>
-                <ChevronDown className="w-3.5 h-3.5 text-slate-400" />
+                <ChevronDown className={`w-3.5 h-3.5 text-slate-400 transition-transform duration-200 ${isYearPickerOpen ? 'rotate-180' : ''}`} />
               </button>
 
               {isYearPickerOpen && (
-                <div className="absolute right-0 top-full mt-1.5 w-48 max-h-72 overflow-y-auto bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 rounded-xl shadow-xl z-50 p-1.5 space-y-1">
+                <div className="absolute right-0 top-full mt-1.5 w-48 max-h-72 overflow-y-auto bg-white/95 dark:bg-slate-900/95 backdrop-blur-xl border border-slate-200/80 dark:border-slate-800/80 rounded-2xl shadow-xl z-50 p-1.5 space-y-0.5 ring-1 ring-black/5 dark:ring-white/10 animate-in fade-in zoom-in-95 duration-150">
                   {availableYears.map(yr => (
                     <button
                       key={yr}
                       type="button"
                       onClick={() => handleSelectPassage(yr, currentTextNo)}
-                      className={`w-full text-left px-3 py-1.5 rounded-lg text-xs font-medium flex items-center justify-between transition-colors ${
+                      className={`w-full text-left px-3 py-2 rounded-xl text-xs font-medium flex items-center justify-between transition-colors cursor-pointer ${
                         yr === currentYear
                           ? 'bg-indigo-600 text-white font-bold'
-                          : 'text-slate-700 dark:text-slate-200 hover:bg-slate-100 dark:hover:bg-slate-700'
+                          : 'text-slate-700 dark:text-slate-200 hover:bg-slate-100/80 dark:hover:bg-slate-800/70'
                       }`}
                     >
                       <span>{yr} 年真题</span>
@@ -359,73 +560,281 @@ export const IntensiveReadingView: React.FC<IntensiveReadingViewProps> = ({
         </div>
       </div>
 
-      {/* Keywords Drawer / Bar (if toggled) */}
-      {showKeywordsDrawer && keywords && (
-        <div className="bg-indigo-50/40 dark:bg-indigo-950/20 border border-indigo-200/80 dark:border-indigo-800/60 rounded-2xl p-5 shadow-sm space-y-3">
-          <div className="flex items-center justify-between">
-            <div className="text-xs font-bold text-indigo-900 dark:text-indigo-300 flex items-center gap-1.5">
-              <Sparkles className="w-4 h-4 text-indigo-500" />
-              本篇考纲核心词与真题词组 (点击词条可查词释义)
+      {/* Tiered Vocabulary Coverage Card (词汇分级覆盖) */}
+      <div className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-2xl p-5 shadow-2xs space-y-4">
+        <div className="flex flex-col md:flex-row md:items-center justify-between gap-4">
+          {/* Left: Percentage & 98% threshold alert */}
+          <div className="space-y-1">
+            <div className="flex items-center gap-2.5 flex-wrap">
+              <span className="text-2xl sm:text-3xl font-bold font-mono text-slate-900 dark:text-slate-100">
+                {coverageAnalysis.coveragePercent}%
+              </span>
+              <span className={`text-xs font-bold px-2.5 py-0.5 rounded-full ${
+                coverageAnalysis.statusColor === 'emerald'
+                  ? 'bg-emerald-50 dark:bg-emerald-950/60 text-emerald-700 dark:text-emerald-300 border border-emerald-200 dark:border-emerald-800'
+                  : coverageAnalysis.statusColor === 'indigo'
+                  ? 'bg-indigo-50 dark:bg-indigo-950/60 text-indigo-700 dark:text-indigo-300 border border-indigo-200 dark:border-indigo-800'
+                  : 'bg-amber-50 dark:bg-amber-950/60 text-amber-700 dark:text-amber-300 border border-amber-200 dark:border-amber-800'
+              }`}>
+                词汇覆盖 · {coverageAnalysis.status}
+              </span>
             </div>
-            <span className="text-xs text-indigo-600 dark:text-indigo-400">
-              共 {keywords.words?.length || 0} 个重点词 · {keywords.phrases?.length || 0} 个词组
-            </span>
+            <div className="text-xs text-slate-500 dark:text-slate-400 flex items-center gap-2 flex-wrap">
+              <span>
+                {coverageAnalysis.neededCount > 0 ? (
+                  <>再拿下 <b className="text-emerald-600 dark:text-emerald-400 font-bold">{coverageAnalysis.neededCount}</b> 个词成就 98%（即顺读门槛）</>
+                ) : (
+                  <span className="text-emerald-600 dark:text-emerald-400 font-bold">已达到 98% 顺读门槛，阅读无大面积生词障碍！</span>
+                )}
+              </span>
+              <span className="text-slate-300 dark:text-slate-600">·</span>
+              <span className="text-[11px] text-slate-400">
+                {vocabTier === 'custom' ? '已匹配您的个性化生词本' : '认识 98% 词汇（即生词 ≤ 2%）才能连贯理解全文'}
+              </span>
+            </div>
           </div>
 
-          <div className="flex items-center gap-2 flex-wrap">
-            {keywords.words?.map((w, idx) => (
+          {/* Right: Progress bar & Tier dropdown */}
+          <div className="flex flex-col sm:flex-row sm:items-center gap-3">
+            <div className="w-36 sm:w-44 h-2.5 bg-slate-100 dark:bg-slate-800 rounded-full overflow-hidden shrink-0">
+              <div 
+                className={`h-full rounded-full transition-all duration-300 ${
+                  coverageAnalysis.statusColor === 'emerald'
+                    ? 'bg-emerald-500'
+                    : coverageAnalysis.statusColor === 'indigo'
+                    ? 'bg-indigo-500'
+                    : 'bg-amber-500'
+                }`}
+                style={{ width: `${Math.min(100, coverageAnalysis.coveragePercent)}%` }}
+              />
+            </div>
+
+            {/* Dropdown for tiers */}
+            {/* Custom Glassmorphic Dropdown for tiers */}
+            <div className="relative" ref={tierPickerRef}>
               <button
-                key={w.w + idx}
                 type="button"
-                onClick={(e) => {
-                  if (onWordClick) {
-                    const rect = e.currentTarget.getBoundingClientRect();
-                    onWordClick(w.w, rect);
-                  }
-                }}
-                className="px-2.5 py-1 rounded-lg text-xs font-serif bg-white dark:bg-slate-800 border border-indigo-100 dark:border-indigo-900/60 hover:border-indigo-400 text-slate-800 dark:text-slate-200 flex items-center gap-1.5 shadow-2xs transition-colors"
+                onClick={() => setIsTierPickerOpen(!isTierPickerOpen)}
+                className="px-3 py-1.5 rounded-xl border border-slate-200/90 dark:border-slate-700/80 bg-slate-50/90 dark:bg-slate-800/90 text-xs font-medium text-slate-700 dark:text-slate-200 flex items-center gap-2 hover:bg-slate-100 dark:hover:bg-slate-750 transition-colors shadow-2xs cursor-pointer"
               >
-                <b>{w.w}</b>
-                <span className="text-[11px] font-sans text-slate-500 dark:text-slate-400">{w.trans}</span>
+                <span>
+                  {TIER_OPTIONS.find(o => o.value === vocabTier)?.label || '假设已掌握 2000 词'}
+                </span>
+                <ChevronDown className={`w-3.5 h-3.5 text-slate-400 transition-transform duration-200 ${isTierPickerOpen ? 'rotate-180' : ''}`} />
               </button>
-            ))}
-          </div>
 
-          {keywords.phrases && keywords.phrases.length > 0 && (
-            <div className="pt-2 border-t border-indigo-200/50 dark:border-indigo-800/40">
-              <div className="text-[11px] font-bold text-slate-500 dark:text-slate-400 mb-1.5">真题短语：</div>
-              <div className="flex items-center gap-2 flex-wrap">
-                {keywords.phrases.map((p, idx) => (
-                  <span
-                    key={p.phrase + idx}
-                    className="px-2.5 py-0.5 rounded-lg text-xs bg-white/80 dark:bg-slate-800/80 border border-slate-200 dark:border-slate-700 text-slate-700 dark:text-slate-300 flex items-center gap-1"
-                  >
-                    <b className="font-serif">{p.phrase}</b>
-                    <span className="text-slate-500 dark:text-slate-400">({p.trans})</span>
-                  </span>
-                ))}
-              </div>
+              {isTierPickerOpen && (
+                <div className="absolute right-0 top-full mt-1.5 w-52 bg-white/95 dark:bg-slate-900/95 backdrop-blur-xl border border-slate-200/80 dark:border-slate-800/80 rounded-2xl shadow-xl z-50 p-1.5 space-y-0.5 ring-1 ring-black/5 dark:ring-white/10 animate-in fade-in zoom-in-95 duration-150">
+                  {TIER_OPTIONS.map(opt => (
+                    <button
+                      key={opt.value}
+                      type="button"
+                      onClick={() => {
+                        setVocabTier(opt.value as any);
+                        setIsTierPickerOpen(false);
+                      }}
+                      className={`w-full text-left px-3 py-2 rounded-xl text-xs font-medium flex items-center justify-between transition-colors cursor-pointer ${
+                        vocabTier === opt.value
+                          ? 'bg-indigo-50 dark:bg-indigo-950/60 text-indigo-600 dark:text-indigo-400 font-bold'
+                          : 'text-slate-700 dark:text-slate-300 hover:bg-slate-100/80 dark:hover:bg-slate-800/70'
+                      }`}
+                    >
+                      <span>{opt.label}</span>
+                      {vocabTier === opt.value && <Check className="w-3.5 h-3.5 text-indigo-600 dark:text-indigo-400" />}
+                    </button>
+                  ))}
+                </div>
+              )}
             </div>
-          )}
+          </div>
         </div>
-      )}
 
-      {/* Main Sentence List */}
-      <div className="space-y-4">
-        {detail?.sentences?.map((sentence, idx) => (
-          <SentenceTreeView
-            key={sentence.sid || idx}
-            sentence={sentence}
-            year={currentYear}
-            textNo={currentTextNo}
-            index={idx}
-            onWordClick={onWordClick}
-            isRead={readSentences.includes(sentence.sid)}
-            onToggleRead={handleToggleReadSentence}
-            defaultExpanded={allExpanded}
-            selfTestMode={selfTestMode}
-          />
-        ))}
+        {/* Unfamiliar words chips (ordered descending by frequency) */}
+        {coverageAnalysis.unfamiliarWords.length > 0 ? (
+          <div className="pt-3 border-t border-slate-100 dark:border-slate-800/80">
+            <div className="text-[11px] font-bold text-slate-400 dark:text-slate-500 mb-2 flex items-center justify-between">
+              <span>未掌握考纲/难词 ({coverageAnalysis.unfamiliarWords.length} 个 · 按出现频次倒序 · 点击可查词)：</span>
+            </div>
+            <div className="flex items-center gap-1.5 sm:gap-2 flex-wrap max-h-36 overflow-y-auto">
+              {coverageAnalysis.unfamiliarWords.map((item, idx) => (
+                <button
+                  key={item.word + idx}
+                  type="button"
+                  onClick={(e) => {
+                    if (onWordClick) {
+                      const rect = e.currentTarget.getBoundingClientRect();
+                      onWordClick(item.word, rect);
+                    }
+                  }}
+                  className="px-2.5 py-1 rounded-lg text-xs font-serif bg-slate-50 dark:bg-slate-800/70 border border-slate-200/80 dark:border-slate-700/60 hover:border-indigo-400 text-slate-800 dark:text-slate-200 flex items-center gap-1 shadow-2xs hover:bg-white dark:hover:bg-slate-800 transition-all cursor-pointer"
+                  title={item.trans || '点击查词'}
+                >
+                  <span>{item.word}</span>
+                  {item.count > 1 && (
+                    <span className="font-sans font-normal text-[10px] text-slate-400 dark:text-slate-500">
+                      ×{item.count}
+                    </span>
+                  )}
+                </button>
+              ))}
+            </div>
+          </div>
+        ) : (
+          <div className="pt-2 text-xs text-emerald-600 dark:text-emerald-400">
+            🎉 本篇在此词汇掌握梯度下暂无生词，可流畅顺读！
+          </div>
+        )}
+
+        {/* Keywords and phrases section (if toggled) */}
+        {showKeywordsDrawer && keywords && (
+          <div className="pt-3 border-t border-slate-100 dark:border-slate-800/80 space-y-3">
+            {keywords.words && keywords.words.length > 0 && (
+              <div>
+                <div className="text-[11px] font-bold text-indigo-700 dark:text-indigo-400 mb-1.5 flex items-center gap-1">
+                  <Sparkles className="w-3.5 h-3.5 text-indigo-500" />
+                  本篇考纲核心词 ({keywords.words.length} 个 · 点击查词释义)：
+                </div>
+                <div className="flex items-center gap-1.5 sm:gap-2 flex-wrap">
+                  {keywords.words.map((w, idx) => {
+                    const trans = w.trans || w.zh || vocabStats[w.w.toLowerCase()]?.trans || '';
+                    const count = w.n || w.count || 1;
+                    return (
+                      <button
+                        key={w.w + idx}
+                        type="button"
+                        onClick={(e) => {
+                          if (onWordClick) {
+                            const rect = e.currentTarget.getBoundingClientRect();
+                            onWordClick(w.w, rect);
+                          }
+                        }}
+                        className="px-2.5 py-1 rounded-lg text-xs font-serif bg-indigo-50/40 dark:bg-slate-800 border border-indigo-100 dark:border-indigo-900/60 hover:border-indigo-400 text-slate-800 dark:text-slate-200 flex items-center gap-1.5 shadow-2xs transition-colors cursor-pointer"
+                      >
+                        <b>{w.w}</b>
+                        {count > 1 && (
+                          <span className="font-sans text-[10px] text-indigo-500 font-semibold">
+                            ×{count}
+                          </span>
+                        )}
+                        {trans && (
+                          <span className="text-[11px] font-sans text-slate-500 dark:text-slate-400 max-w-[140px] truncate">
+                            {trans}
+                          </span>
+                        )}
+                      </button>
+                    );
+                  })}
+                </div>
+              </div>
+            )}
+
+            {keywords.phrases && keywords.phrases.length > 0 && (
+              <div className="pt-2 border-t border-slate-100 dark:border-slate-800/50">
+                <div className="text-[11px] font-bold text-slate-600 dark:text-slate-400 mb-1.5 flex items-center gap-1">
+                  <span>真题短语与搭配 ({keywords.phrases.length} 个)：</span>
+                </div>
+                <div className="flex items-center gap-2 flex-wrap">
+                  {keywords.phrases.map((p, idx) => {
+                    const en = p.en || p.phrase || '';
+                    const zh = p.zh || p.trans || '';
+                    return (
+                      <span
+                        key={en + idx}
+                        className="px-2.5 py-1 rounded-lg text-xs bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 hover:border-indigo-400 text-slate-800 dark:text-slate-200 flex items-center gap-1.5 shadow-2xs transition-colors cursor-help group relative"
+                        title={p.note || `${en}: ${zh}`}
+                      >
+                        <b className="font-serif font-bold text-slate-900 dark:text-slate-100">{en}</b>
+                        {zh && <span className="text-slate-500 dark:text-slate-400">({zh})</span>}
+                      </span>
+                    );
+                  })}
+                </div>
+              </div>
+            )}
+          </div>
+        )}
+      </div>
+
+      {/* Main Paragraph List (Grouped by Paragraph) */}
+      <div className="space-y-6">
+        {paragraphGroups.map(group => {
+          const isAllRead = group.sentences.every(s => readSentences.includes(s.sid));
+          const readCount = group.sentences.filter(s => readSentences.includes(s.sid)).length;
+
+          return (
+            <section
+              key={group.paraNo}
+              className="rounded-3xl border border-slate-200/90 dark:border-slate-800/80 bg-white/95 dark:bg-slate-900/90 shadow-sm overflow-hidden transition-all"
+            >
+              {/* Paragraph Header Bar */}
+              <div className="flex items-center justify-between px-4 sm:px-6 py-3 bg-slate-50/80 dark:bg-slate-800/50 border-b border-slate-100 dark:border-slate-800/80 flex-wrap gap-2">
+                <div className="flex items-center gap-2.5">
+                  <span className="px-2.5 py-1 rounded-xl text-xs font-bold font-mono bg-indigo-600 text-white shadow-2xs">
+                    Paragraph {group.paraNo}
+                  </span>
+                  <span className="text-xs font-semibold text-slate-700 dark:text-slate-300">
+                    第 {group.paraNo} 段
+                  </span>
+                  <span className="text-xs text-slate-400 dark:text-slate-500">
+                    · 共 {group.sentences.length} 句
+                  </span>
+                  {isAllRead ? (
+                    <span className="text-[11px] px-2 py-0.5 rounded-full font-bold bg-emerald-50 dark:bg-emerald-950/60 text-emerald-600 dark:text-emerald-400 border border-emerald-200 dark:border-emerald-800/50 flex items-center gap-1">
+                      <Check className="w-3 h-3" />
+                      本段已读完
+                    </span>
+                  ) : readCount > 0 ? (
+                    <span className="text-[11px] px-2 py-0.5 rounded-full font-medium bg-slate-200/70 dark:bg-slate-800 text-slate-600 dark:text-slate-400">
+                      已读 {readCount}/{group.sentences.length}
+                    </span>
+                  ) : null}
+                </div>
+
+                <div className="flex items-center gap-2">
+                  <button
+                    type="button"
+                    onClick={() => {
+                      const paraText = group.sentences.map(s => s.s).join(' ');
+                      window.speechSynthesis.cancel();
+                      const utter = new SpeechSynthesisUtterance(paraText);
+                      utter.lang = 'en-US';
+                      utter.rate = 0.9;
+                      window.speechSynthesis.speak(utter);
+                    }}
+                    className="text-xs text-slate-500 hover:text-indigo-600 dark:text-slate-400 dark:hover:text-indigo-400 flex items-center gap-1 px-2.5 py-1 rounded-xl hover:bg-slate-100 dark:hover:bg-slate-800/80 transition-colors cursor-pointer"
+                    title="连续朗读本段所有英文句子"
+                  >
+                    <Volume2 className="w-3.5 h-3.5" />
+                    <span>朗读本段</span>
+                  </button>
+                </div>
+              </div>
+
+              {/* Paragraph Sentences Flow */}
+              <div className="px-4 sm:px-6 divide-y divide-slate-100/90 dark:divide-slate-800/70">
+                {group.sentences.map((sentence, sIdx) => {
+                  const globalIdx = group.startIdx + sIdx;
+                  return (
+                    <SentenceTreeView
+                      key={sentence.sid || globalIdx}
+                      sentence={sentence}
+                      year={currentYear}
+                      textNo={currentTextNo}
+                      index={globalIdx}
+                      onWordClick={onWordClick}
+                      isRead={readSentences.includes(sentence.sid)}
+                      onToggleRead={handleToggleReadSentence}
+                      defaultExpanded={allExpanded}
+                      selfTestMode={selfTestMode}
+                      fontSizeLevel={fontSizeLevel}
+                      inParagraphUnit={true}
+                    />
+                  );
+                })}
+              </div>
+            </section>
+          );
+        })}
       </div>
 
       {/* Reading Questions Section (配套真题) */}
@@ -568,6 +977,14 @@ export const IntensiveReadingView: React.FC<IntensiveReadingViewProps> = ({
           </div>
         </div>
       )}
+
+      {/* 2-Minute Vocabulary Blind Spot Test Modal */}
+      <VocabBlindSpotModal
+        isOpen={showBlindSpotModal}
+        onClose={() => setShowBlindSpotModal(false)}
+        onWordClick={onWordClick}
+        onUpdateWordStatus={onUpdateWordStatus}
+      />
     </div>
   );
 };

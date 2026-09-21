@@ -52,9 +52,9 @@ const FONT_MAP: Record<FontSizeLevel, {
   label: string;
 }> = {
   sm: {
-    passage: 'text-[0.92rem] leading-[1.95]',
-    questionTitle: 'text-[0.95rem]',
-    questionOption: 'text-[0.875rem]',
+    passage: 'text-[1.03rem] leading-[2.05]',
+    questionTitle: 'text-[1.05rem]',
+    questionOption: 'text-[0.95rem]',
     label: '标准 (小)',
   },
   base: {
@@ -64,15 +64,15 @@ const FONT_MAP: Record<FontSizeLevel, {
     label: '适中 (中)',
   },
   lg: {
-    passage: 'text-[1.15rem] leading-[2.15]',
-    questionTitle: 'text-[1.15rem]',
-    questionOption: 'text-[1.03rem]',
+    passage: 'text-[1.03rem] leading-[2.05]',
+    questionTitle: 'text-[1.05rem]',
+    questionOption: 'text-[0.95rem]',
     label: '清晰 (大)',
   },
   xl: {
-    passage: 'text-[1.28rem] leading-[2.25]',
-    questionTitle: 'text-[1.25rem]',
-    questionOption: 'text-[1.12rem]',
+    passage: 'text-[1.03rem] leading-[2.05]',
+    questionTitle: 'text-[1.05rem]',
+    questionOption: 'text-[0.95rem]',
     label: '特大 (超大)',
   },
 };
@@ -84,6 +84,8 @@ interface QuizModeProps {
   initialTab?: string | null;
   initialSectionId?: number | null;
   theme?: 'dark' | 'light';
+  fontSizeLevel?: FontSizeLevel;
+  onSetFontSize?: (level: FontSizeLevel) => void;
   onToggleTheme?: () => void;
   dict?: KaoyanDict | null;
   wordStatuses?: Record<string, 'familiar' | 'unfamiliar' | 'unknown'>;
@@ -124,6 +126,8 @@ export default function QuizMode({
   initialTab,
   initialSectionId,
   theme = 'dark',
+  fontSizeLevel: propFontSizeLevel,
+  onSetFontSize: propOnSetFontSize,
   onToggleTheme,
   dict,
   wordStatuses,
@@ -137,7 +141,8 @@ export default function QuizMode({
 
   // Responsive View Mode & Font Sizing
   const [viewMode, setViewMode] = useState<ViewMode>('split');
-  const [fontSizeLevel, setFontSizeLevel] = useState<FontSizeLevel>(() => {
+  const [internalFontSize, setInternalFontSize] = useState<FontSizeLevel>(() => {
+    if (propFontSizeLevel) return propFontSizeLevel;
     try {
       const saved = localStorage.getItem('kaoyan_font_size') as FontSizeLevel;
       if (saved && ['sm', 'base', 'lg', 'xl'].includes(saved)) return saved;
@@ -145,12 +150,21 @@ export default function QuizMode({
     return 'base';
   });
 
+  const fontSizeLevel = propFontSizeLevel || internalFontSize;
+
   const handleSetFontSize = useCallback((level: FontSizeLevel) => {
-    setFontSizeLevel(level);
+    setInternalFontSize(level);
+    if (propOnSetFontSize) {
+      propOnSetFontSize(level);
+    }
     try {
       localStorage.setItem('kaoyan_font_size', level);
+      if (typeof document !== 'undefined') {
+        document.documentElement.setAttribute('data-font-size', level);
+      }
+      window.dispatchEvent(new CustomEvent('kaoyan_font_size_changed', { detail: level }));
     } catch {}
-  }, []);
+  }, [propOnSetFontSize]);
 
   // Top Navbar Section Dropdown Popover State (for narrow / laptop screens)
   const [isSectionDropdownOpen, setIsSectionDropdownOpen] = useState(false);
@@ -624,7 +638,7 @@ export default function QuizMode({
 
   // Render navigation bar
   const renderNavbar = () => (
-    <div className={`px-2 sm:px-4 h-13 sm:h-14 flex items-center justify-between sticky top-0 z-40 shadow-xs shrink-0 border-b gap-1.5 sm:gap-2.5 transition-colors ${
+    <div className={`quiz-top-navbar px-2 sm:px-4 h-13 sm:h-14 flex items-center justify-between sticky top-0 z-40 shadow-xs shrink-0 border-b gap-1.5 sm:gap-2.5 transition-colors ${
       isDark ? 'bg-slate-900 border-slate-800 text-slate-100' : 'bg-white border-gray-200 text-gray-900'
     }`}>
       {/* Left: Back & Title & Catalog Button */}

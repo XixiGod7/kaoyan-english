@@ -191,3 +191,28 @@ export function toggleSentenceRead(passKey: string, sid: string): boolean {
     return false;
   }
 }
+
+// --- 6. Word Statuses (生词本 / 熟词本) ---
+
+export function loadWordStatuses(): Record<string, 'familiar' | 'unfamiliar' | 'unknown'> {
+  try {
+    const raw = localStorage.getItem('kaoyan_word_statuses');
+    return raw ? JSON.parse(raw) : {};
+  } catch (e) {
+    console.error('Failed to load word statuses:', e);
+    return {};
+  }
+}
+
+export function saveWordStatus(word: string, status: 'familiar' | 'unfamiliar' | 'unknown'): Record<string, 'familiar' | 'unfamiliar' | 'unknown'> {
+  try {
+    const current = loadWordStatuses();
+    const clean = word.toLowerCase().trim();
+    current[clean] = status;
+    localStorage.setItem('kaoyan_word_statuses', JSON.stringify(current));
+    return current;
+  } catch (e) {
+    console.error('Failed to save word status:', e);
+    return {};
+  }
+}

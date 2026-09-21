@@ -264,6 +264,105 @@ export function syncAllWordsToEbbinghaus(
   return updated;
 }
 
+/**
+ * Synchronize a single word's status update across both Ebbinghaus records and active daily session queue.
+ * - 'unfamiliar': Sets stage to 0, nextReviewTime to now (due immediately), and inserts into today's activeQueueWords.
+ * - 'familiar': Sets stage to 8 (Mastered/永久掌握), nextReviewTime to +30 days, and removes from today's activeQueueWords.
+ * - 'unknown': Resets if it was unfamiliar/familiar, removes from active session.
+ */
+export function syncSingleWordStatus(
+  word: string,
+  status: 'familiar' | 'unfamiliar' | 'unknown',
+  ebbinghaus?: Record<string, EbbinghausWordRecord>
+): {
+  records: Record<string, EbbinghausWordRecord>;
+  session: DailySessionState | null;
+} {
+  const currentRecords = ebbinghaus || loadEbbinghausRecords();
+  const updatedRecords = { ...currentRecords };
+  const now = Date.now();
+  const existing: EbbinghausWordRecord = updatedRecords[word] || {
+    word,
+    stage: 0,
+    nextReviewTime: now,
+    lastReviewTime: now,
+    reviewCount: 0,
+    easeFactor: 2.5,
+    history: []
+  };
+
+  let session = loadDailySessionState();
+
+  if (status === 'unfamiliar') {
+    updatedRecords[word] = {
+      ...existing,
+      stage: 0,
+      nextReviewTime: now,
+      lastReviewTime: now
+    };
+
+    if (session) {
+      const isAlreadyInQueue = session.activeQueueWords.some(item => item.word === word);
+      const updatedPassed = session.passedWords.filter(w => w !== word);
+      let updatedQueue = [...session.activeQueueWords];
+      if (!isAlreadyInQueue) {
+        updatedQueue.unshift({
+          word,
+          sessionMistakes: 0,
+          sessionPassCount: 0
+        });
+      }
+      session = {
+        ...session,
+        passedWords: updatedPassed,
+        activeQueueWords: updatedQueue,
+        sessionTotalTarget: Math.max(session.sessionTotalTarget, updatedPassed.length + updatedQueue.length)
+      };
+      saveDailySessionState(session);
+    }
+  } else if (status === 'familiar') {
+    updatedRecords[word] = {
+      ...existing,
+      stage: 8,
+      nextReviewTime: now + 30 * 24 * 60 * 60 * 1000,
+      lastReviewTime: now
+    };
+
+    if (session) {
+      const updatedQueue = session.activeQueueWords.filter(item => item.word !== word);
+      const passedSet = new Set(session.passedWords);
+      passedSet.add(word);
+      session = {
+        ...session,
+        activeQueueWords: updatedQueue,
+        passedWords: Array.from(passedSet)
+      };
+      saveDailySessionState(session);
+    }
+  } else {
+    // 'unknown' -> reset to stage 0
+    updatedRecords[word] = {
+      ...existing,
+      stage: 0,
+      nextReviewTime: now,
+      lastReviewTime: now
+    };
+    if (session) {
+      const updatedQueue = session.activeQueueWords.filter(item => item.word !== word);
+      const updatedPassed = session.passedWords.filter(w => w !== word);
+      session = {
+        ...session,
+        activeQueueWords: updatedQueue,
+        passedWords: updatedPassed
+      };
+      saveDailySessionState(session);
+    }
+  }
+
+  saveEbbinghausRecords(updatedRecords);
+  return { records: updatedRecords, session };
+}
+
 // Generate daily review queue according to priority & user's daily quota:
 // Priority 1: User-marked "生词" (unfamiliar) that are due
 // Priority 2: Other words that are due according to Ebbinghaus intervals

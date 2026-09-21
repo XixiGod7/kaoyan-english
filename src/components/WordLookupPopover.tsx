@@ -7,6 +7,8 @@ interface WordLookupPopoverProps {
   wordStatuses?: Record<string, 'familiar' | 'unfamiliar' | 'unknown'>;
   onToggleStatus?: (word: string, status: 'familiar' | 'unfamiliar' | 'unknown') => void;
   onOpenWordDetail?: (item: WordFreqItem) => void;
+  targetWord?: { word: string; rect: DOMRect } | null;
+  onClose?: () => void;
   theme?: 'dark' | 'light';
   containerRef?: React.RefObject<HTMLElement>;
 }
@@ -88,12 +90,61 @@ export const WordLookupPopover: React.FC<WordLookupPopoverProps> = ({
   wordStatuses = {},
   onToggleStatus,
   onOpenWordDetail,
+  targetWord,
+  onClose,
   theme = 'dark',
 }) => {
   const isDark = theme === 'dark';
   const [popover, setPopover] = useState<PopoverState | null>(null);
   const [isPlayingAudio, setIsPlayingAudio] = useState(false);
   const popoverRef = useRef<HTMLDivElement>(null);
+
+  // Handle explicitly passed targetWord from click
+  useEffect(() => {
+    if (!targetWord || !dict || !dict.entries) return;
+    const clean = targetWord.word.replace(/^[^a-zA-Z]+|[^a-zA-Z]+$/g, '');
+    if (!clean) return;
+
+    const res = resolveLemma(clean, dict.entries);
+    if (!res) return;
+
+    const { lemma, entry } = res;
+    const sentenceIds = entry.sentence_ids || [];
+    const taskIds = entry.task_ids || [];
+    const totalCount = sentenceIds.length || 1;
+    const paperCount = taskIds.length || Math.min(totalCount, 28);
+
+    const rect = targetWord.rect;
+    const popoverWidth = 320;
+    const popoverHeight = 220;
+
+    let x = rect.left + rect.width / 2;
+    let y = rect.top - 12;
+    let placement: 'top' | 'bottom' = 'top';
+
+    if (x - popoverWidth / 2 < 12) {
+      x = popoverWidth / 2 + 12;
+    } else if (x + popoverWidth / 2 > window.innerWidth - 12) {
+      x = window.innerWidth - popoverWidth / 2 - 12;
+    }
+
+    if (rect.top < popoverHeight + 20) {
+      y = rect.bottom + 12;
+      placement = 'bottom';
+    }
+
+    setPopover({
+      visible: true,
+      word: clean,
+      matchedLemma: lemma,
+      entry,
+      paperCount,
+      totalCount,
+      x,
+      y,
+      placement,
+    });
+  }, [targetWord, dict]);
 
   // Play audio voice
   const handlePlayAudio = (e: React.MouseEvent, word: string) => {
@@ -178,6 +229,7 @@ export const WordLookupPopover: React.FC<WordLookupPopoverProps> = ({
         return;
       }
       setPopover(null);
+      if (onClose) onClose();
     };
 
     // Listen to mouseup on document to capture selection
@@ -262,7 +314,10 @@ export const WordLookupPopover: React.FC<WordLookupPopoverProps> = ({
         </div>
 
         <button
-          onClick={() => setPopover(null)}
+          onClick={() => {
+            setPopover(null);
+            if (onClose) onClose();
+          }}
           className={`p-1 rounded-lg transition-colors ${
             isDark ? 'text-slate-400 hover:text-white hover:bg-slate-800' : 'text-gray-400 hover:text-gray-700 hover:bg-gray-100'
           }`}

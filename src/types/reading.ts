@@ -51,17 +51,23 @@ export interface PassageDetail {
 
 export interface PassageKeywordWord {
   w: string;
-  trans: string;
+  trans?: string;
+  zh?: string;
   phonetic?: string;
   is_syllabus?: boolean;
   is_core?: boolean;
   level?: string;
   count?: number;
+  n?: number;
+  forms?: string[];
 }
 
 export interface PassageKeywordPhrase {
-  phrase: string;
-  trans: string;
+  phrase?: string;
+  en?: string;
+  trans?: string;
+  zh?: string;
+  note?: string;
   in_text?: boolean;
 }
 
@@ -140,6 +146,8 @@ export interface VocabStatItem {
   everyYear?: boolean;
   inSyllabus: boolean;
   syllabusRank: number;
+  rank?: number;
+  score?: number;
   rawWord?: string;
   phonetic?: string;
   trans?: string;
@@ -150,8 +158,8 @@ export interface FavoriteSentenceItem {
   sid: string;
   s: string;
   zh: string;
-  trunk: SentenceTrunk;
-  components: SentenceComponent[];
+  trunk?: SentenceTrunk;
+  components?: SentenceComponent[];
   year: number;
   text_no: number;
   addedAt: number;

@@ -215,6 +215,17 @@ export async function testAiConnection(config: AiConfig): Promise<ConnectionTest
 /**
  * Universal chat completions requester supporting streaming or regular JSON fallback
  */
+export function stripAiThinking(raw: string): string {
+  if (!raw) return '';
+  // 1. Strip complete <think>...</think>
+  let cleaned = raw.replace(/<think>[\s\S]*?<\/think>/gi, '');
+  // 2. Strip unclosed <think>... if streaming is ongoing
+  cleaned = cleaned.replace(/<think>[\s\S]*$/gi, '');
+  // 3. Strip quote-style thinking indicators
+  cleaned = cleaned.replace(/^>\s*💭\s*\*\*AI.*?\*\*.*?\n\n/gi, '');
+  return cleaned.trimStart();
+}
+
 export async function sendChatCompletion(
   config: AiConfig,
   messages: Array<{ role: 'system' | 'user' | 'assistant'; content: string }>,
@@ -236,15 +247,20 @@ export async function sendChatCompletion(
     stream: Boolean(onDelta),
   };
 
-  const response = await executeChatRequest(endpoint, headers, payload);
+  const response = await executeChatRequest(endpoint, headers, payload, 90000);
 
   if (!response.ok) {
     let errText = '';
     try {
-      const errObj = await response.json();
-      errText = errObj.error?.message || JSON.stringify(errObj);
+      const raw = await response.text();
+      try {
+        const errObj = JSON.parse(raw);
+        errText = errObj.error?.message || raw;
+      } catch {
+        errText = raw;
+      }
     } catch {
-      errText = await response.text();
+      errText = `HTTP ${response.status}`;
     }
     throw new Error(`AI 服务响应错误 (HTTP ${response.status}): ${errText}`);
   }
@@ -254,50 +270,55 @@ export async function sendChatCompletion(
     const reader = response.body.getReader();
     const decoder = new TextDecoder('utf-8');
     let accumulated = '';
-    let accumulatedReasoning = '';
     let buffer = '';
 
-    while (true) {
-      const { done, value } = await reader.read();
-      if (done) break;
+    try {
+      while (true) {
+        const { done, value } = await reader.read();
+        if (done) break;
 
-      buffer += decoder.decode(value, { stream: true });
-      const lines = buffer.split('\n');
-      buffer = lines.pop() || '';
+        buffer += decoder.decode(value, { stream: true });
+        const lines = buffer.split('\n');
+        buffer = lines.pop() || '';
 
-      for (const line of lines) {
-        const trimmed = line.trim();
-        if (!trimmed || trimmed.startsWith(':')) continue;
-        if (trimmed === 'data: [DONE]') continue;
+        for (const line of lines) {
+          const trimmed = line.trim();
+          if (!trimmed || trimmed.startsWith(':')) continue;
+          if (trimmed === 'data: [DONE]') continue;
 
-        if (trimmed.startsWith('data: ')) {
-          try {
-            const parsed = JSON.parse(trimmed.slice(6));
-            const delta = parsed.choices?.[0]?.delta;
-            const content = delta?.content ?? '';
-            const reasoning = delta?.reasoning ?? delta?.reasoning_content ?? '';
+          if (trimmed.startsWith('data: ')) {
+            try {
+              const parsed = JSON.parse(trimmed.slice(6));
+              const delta = parsed.choices?.[0]?.delta;
+              const content = delta?.content ?? '';
 
-            if (content) {
-              accumulated += content;
-              onDelta(content, accumulated);
-            } else if (reasoning && !accumulated) {
-              accumulatedReasoning += reasoning;
+              // Intentionally ignore delta.reasoning / reasoning_content so thinking is never exposed
+              if (content) {
+                accumulated += content;
+                const cleaned = stripAiThinking(accumulated);
+                if (cleaned) {
+                  onDelta(content, cleaned);
+                }
+              }
+            } catch {
+              // Ignore partial SSE chunk parsing errors
             }
-          } catch {
-            // Ignore partial SSE chunk parsing errors
           }
         }
       }
+    } catch (readErr: any) {
+      console.warn('Stream read notice:', readErr);
     }
 
-    if (accumulated) return accumulated;
-    if (accumulatedReasoning) return accumulatedReasoning;
+    const finalCleaned = stripAiThinking(accumulated);
+    return finalCleaned;
   }
 
-  // Fallback to json response
+  // Fallback to json response (only reached if stream was not enabled)
   const json = await response.json();
   const choiceMsg = json.choices?.[0]?.message;
-  const text = choiceMsg?.content || choiceMsg?.reasoning || choiceMsg?.reasoning_content || '';
+  const rawText = choiceMsg?.content || '';
+  const text = stripAiThinking(rawText);
   if (onDelta) {
     onDelta(text, text);
   }

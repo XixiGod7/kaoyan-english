@@ -2,6 +2,34 @@
 @tailwind components;
 @tailwind utilities;
 
+/* ===== 全局字号无级调节（除顶部导航菜单外，整站内容等比同步缩放） ===== */
+html[data-font-size="sm"] {
+  font-size: 14.2px;
+}
+html[data-font-size="base"] {
+  font-size: 16px;
+}
+html[data-font-size="lg"] {
+  font-size: 17.8px;
+}
+html[data-font-size="xl"] {
+  font-size: 19.6px;
+}
+
+/* 顶部导航菜单锁定标准尺寸（消除缩放带来的顶栏挤压或形变） */
+html[data-font-size="sm"] :is(header, .quiz-top-navbar) {
+  zoom: calc(16 / 14.2);
+}
+html[data-font-size="base"] :is(header, .quiz-top-navbar) {
+  zoom: 1;
+}
+html[data-font-size="lg"] :is(header, .quiz-top-navbar) {
+  zoom: calc(16 / 17.8);
+}
+html[data-font-size="xl"] :is(header, .quiz-top-navbar) {
+  zoom: calc(16 / 19.6);
+}
+
 /* ===== 全局样式 — 浅色简洁主题 ===== */
 :root {
   --primary: #2E3192;

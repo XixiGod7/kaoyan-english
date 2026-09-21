@@ -10,7 +10,7 @@ if hasattr(sys.stdout, 'reconfigure'):
 if hasattr(sys.stderr, 'reconfigure'):
     sys.stderr.reconfigure(encoding='utf-8')
 
-VERSION = '1.1.0'
+VERSION = '1.2.0'
 
 def generate_icns(icon_png_path, target_icns_path):
     """Generate high-res macOS .icns file using iconutil (macOS native) or Pillow fallback."""

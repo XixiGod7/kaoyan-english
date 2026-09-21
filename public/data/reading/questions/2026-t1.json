@@ -1,0 +1,83 @@
+[
+  {
+    "id": 21,
+    "qNo": 1,
+    "stem": "What can be learned about donkeys from Paragraph 1?",
+    "choices": [
+      "They seemed mysterious to human ancestors.",
+      "They underwent multiple domestication events.",
+      "They were tamed at an earlier time than horses.",
+      "They were vividly portrayed by ancient travelers."
+    ],
+    "answer": "C",
+    "analysis": "第一段提到驴的驯化发生在约7000年前，比马的驯化早3000年，因此可以得出驴比马更早被驯化的结论。\nA. 选项A提到驴对人类祖先来说似乎是神秘的，但文章并未提到驴的神秘性，因此不合适。\nB. 选项B提到驴经历了多次驯化事件，但文章明确指出驴的驯化是一次性事件，因此不正确。\nC. 选项C提到驴比马更早被驯化，这与文章第一段的内容一致，因此正确。\nD. 选项D提到古代旅行者生动地描绘了驴，但文章并未提到相关内容，因此不合适。",
+    "anchors": [
+      "en1-2026-text1-s1",
+      "en1-2026-text1-s2"
+    ]
+  },
+  {
+    "id": 22,
+    "qNo": 2,
+    "stem": "What message is conveyed in Brooks’ statement?",
+    "choices": [
+      "The earliest habitats of donkeys are hardly traceable.",
+      "It is increasingly easy to read donkeys’ DNA sequences.",
+      "Written accounts contain vital clues for donkey research.",
+      "Genetic analysis offers insight into the history of donkeys."
+    ],
+    "answer": "D",
+    "analysis": "Brooks的声明强调通过DNA分析可以获得关于驴历史的洞察，这与选项D的内容一致。\nA. 选项A提到驴的最早栖息地难以追踪，但文章并未提到这一点，因此不合适。\nB. 选项B提到读取驴的DNA序列变得越来越容易，但文章并未提到这一点，因此不合适。\nC. 选项C提到书面记录包含了驴研究的重要线索，但Brooks的声明强调的是DNA分析，而非书面记录，因此不合适。\nD. 选项D提到遗传分析提供了关于驴历史的洞察，这与Brooks的声明内容一致，因此正确。",
+    "anchors": [
+      "en1-2026-text1-s2"
+    ]
+  },
+  {
+    "id": 23,
+    "qNo": 3,
+    "stem": "In their study, the researchers investigated how donkeys ____",
+    "choices": [
+      "dispersed widely in the world.",
+      "survived with the help of herders.",
+      "developed certain behavioral traits.",
+      "adapted to the changing environment."
+    ],
+    "answer": "A",
+    "analysis": "研究人员通过分析驴的基因组，追踪了驴从非洲传播到欧洲和亚洲的过程，因此选项A正确。\nA. 选项A提到驴在世界范围内的传播，这与文章第三段提到的研究内容一致，因此正确。\nB. 选项B提到驴在牧民帮助下生存，但文章并未提到这一点，因此不合适。\nC. 选项C提到驴发展了某些行为特征，但文章并未提到这一点，因此不合适。\nD. 选项D提到驴适应了变化的环境，但文章并未提到这一点，因此不合适。",
+    "anchors": [
+      "en1-2026-text1-s3"
+    ]
+  },
+  {
+    "id": 24,
+    "qNo": 4,
+    "stem": "As to why the original domestication of donkeys happened, Orlando ____",
+    "choices": [
+      "challenges conventional ideas.",
+      "provides a possible explanation.",
+      "calls for evidence from the Sahara.",
+      "holds a different view from Kreier."
+    ],
+    "answer": "B",
+    "analysis": "Orlando提到驴可能是为了帮助穿越扩大的撒哈拉而被驯化，这是一种可能的解释，因此选项B正确。\nA. 选项A提到挑战传统观点，但Orlando并未挑战传统观点，而是提供了一种可能的解释，因此不合适。\nB. 选项B提到提供了一种可能的解释，这与Orlando的观点一致，因此正确。\nC. 选项C提到需要撒哈拉的证据，但Orlando并未提到这一点，因此不合适。\nD. 选项D提到与Kreier持不同观点，但Orlando与Kreier的观点是一致的，因此不合适。",
+    "anchors": [
+      "en1-2026-text1-s4"
+    ]
+  },
+  {
+    "id": 25,
+    "qNo": 5,
+    "stem": "The authors think that their research could help with ____",
+    "choices": [
+      "greater protection of wildlife.",
+      "better management of donkeys.",
+      "recovering early types of donkeys.",
+      "raising awareness of climate change."
+    ],
+    "answer": "B",
+    "analysis": "作者认为研究驴的基因组不仅能揭示其历史，还能帮助改善驴的管理，尤其是在气候变化影响环境的情况下，因此选项B正确。\nA. 选项A提到更好地保护野生动物，但文章并未提到这一点，因此不合适。\nB. 选项B提到更好地管理驴，这与文章最后一段的内容一致，因此正确。\nC. 选项C提到恢复早期类型的驴，但文章并未提到这一点，因此不合适。\nD. 选项D提到提高对气候变化的认识，但文章并未提到这一点，因此不合适。",
+    "anchors": [
+      "en1-2026-text1-s5"
+    ]
+  }
+]

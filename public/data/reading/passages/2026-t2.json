@@ -1,0 +1,402 @@
+{
+  "exam": "en1",
+  "key": "2026-t2",
+  "year": 2026,
+  "text_no": 2,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2026-text2-s1",
+      "s": "There’s no business like show business — but in Los Angeles, it feels like there’s no business at all.",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "There and it",
+        "谓语": "is and feels like",
+        "宾语或表语": "no business",
+        "主干翻译": "没有什么行业比得上娱乐业，但在洛杉矶，感觉根本没有任何行业。"
+      },
+      "components": [
+        {
+          "成分类型": "转折并列分句",
+          "原文": "but in Los Angeles, it feels like there’s no business at all",
+          "修饰对象": "前半句",
+          "中文翻译": "但在洛杉矶，感觉如今根本就没有任何行业",
+          "说明": "but 连接两个转折分句，破折号增强对比语气。"
+        }
+      ],
+      "zh": "没有什么行业比得上演艺业——但在洛杉矶,感觉如今根本就没有任何行业。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2026-text2-s2",
+      "s": "If that sounds melodramatic, consider this: The Art Directors Guild, a labor union representing about 3,000 film workers, has suspended a training program and issued a statement explaining that “we cannot in good conscience encourage you to pursue our profession.” This is a reaction to Hollywood’s decline, which is reaching a critical point for the industry and Southern California.",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The Art Directors Guild",
+        "谓语": "has suspended and issued",
+        "宾语或表语": "a training program and a statement",
+        "主干翻译": "艺术指导工会暂停了一项培训计划并发表了一份声明。"
+      },
+      "components": [
+        {
+          "成分类型": "条件状语从句",
+          "原文": "If that sounds melodramatic",
+          "修饰对象": "consider this",
+          "中文翻译": "如果这听起来像是在耸人听闻/戏剧化",
+          "说明": "if 引导条件状语从句，主句为祈使句 consider this。"
+        },
+        {
+          "成分类型": "同位语",
+          "原文": "a labor union representing about 3,000 film workers",
+          "修饰对象": "The Art Directors Guild",
+          "中文翻译": "一个代表大约3000名电影工作者的工会组织",
+          "说明": "名词短语作同位语，内部含现在分词短语 representing... 作后置定语。"
+        },
+        {
+          "成分类型": "非限制性定语从句",
+          "原文": "which is reaching a critical point for the industry and Southern California",
+          "修饰对象": "Hollywood’s decline",
+          "中文翻译": "该衰退对于该行业及南加利福尼亚州来说正达到关键转折点",
+          "说明": "which 引导非限制性定语从句修饰先行词 decline。"
+        }
+      ],
+      "zh": "如果这听起来有点夸张，请考虑一下这个事实：代表约3000名电影行业从业人员的工会组织——艺术指导工会已暂停了一项培训计划，并发表声明称“出于良知，我们无法鼓励大家从事我们的职业”。这是对好莱坞衰退的回应，这种衰退对于该行业和南加州来说正处于关键时刻。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2026-text2-s3",
+      "s": "California’s entertainment industry faces an existential crisis driven by economic forces that have made it cheaper to produce movies and television elsewhere.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "California’s entertainment industry",
+        "谓语": "faces",
+        "宾语或表语": "an existential crisis",
+        "主干翻译": "加州的娱乐产业面临着生存危机。"
+      },
+      "components": [
+        {
+          "成分类型": "过去分词短语作状语(原因)",
+          "原文": "driven by economic forces",
+          "修饰对象": "faces an existential crisis",
+          "中文翻译": "受到经济因素的驱动",
+          "说明": "过去分词短语表被动与伴随原因。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that have made it cheaper to produce movies and television elsewhere",
+          "修饰对象": "economic forces",
+          "中文翻译": "这些经济力量使得在其他地方制作电影和电视更为便宜",
+          "说明": "that 引导定语从句，内部采用 it 作形式宾语，真正宾语为不定式短语 to produce movies and television elsewhere。"
+        }
+      ],
+      "zh": "加利福尼亚州的娱乐业正面临生存危机，这是由经济力量驱动的，这些经济力量使得在其他地方制作电影和电视变得更加便宜。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2026-text2-s4",
+      "s": "Other regions in the United States, Canada and Europe have steadily increased incentives to attract TV shows and movies, leaving California in the dust.",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Other regions in the United States, Canada and Europe",
+        "谓语": "have steadily increased",
+        "宾语或表语": "incentives",
+        "主干翻译": "美国其他地区、加拿大和欧洲稳步增加了激励措施。"
+      },
+      "components": [
+        {
+          "成分类型": "动词不定式作定语/目的状语",
+          "原文": "to attract TV shows and movies",
+          "修饰对象": "incentives",
+          "中文翻译": "用于吸引电视剧和电影项目",
+          "说明": "不定式作后置定语修饰 incentives。"
+        },
+        {
+          "成分类型": "现在分词短语作结果状语",
+          "原文": "leaving California in the dust",
+          "修饰对象": "全句动作结果",
+          "中文翻译": "将加州远远甩在身后",
+          "说明": "leaving... 表示伴随动作产生的结果，in the dust 为经典成语搭配。"
+        }
+      ],
+      "zh": "美国其他地区、加拿大和欧洲已稳步增加了吸引电视剧和电影的优惠政策，将加利福尼亚远远抛在身后。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2026-text2-s5",
+      "s": "Georgia offers up to 30% in transferable tax credits on film and TV production costs, plus an additional 10% increase on the base tax credit if the project includes a Georgia promotional logo.",
+      "para_no": 3,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Georgia",
+        "谓语": "offers",
+        "宾语或表语": "up to 30% in transferable tax credits",
+        "主干翻译": "佐治亚州提供高达30%的可转让税收抵免。"
+      },
+      "components": [
+        {
+          "成分类型": "补充并列成分",
+          "原文": "plus an additional 10% increase on the base tax credit",
+          "修饰对象": "offers",
+          "中文翻译": "外加基础税收抵免额外增加的10%",
+          "说明": "介词 plus 引出附加税惠条件。"
+        },
+        {
+          "成分类型": "条件状语从句",
+          "原文": "if the project includes a Georgia promotional logo",
+          "修饰对象": "an additional 10% increase",
+          "中文翻译": "如果该项目包含佐治亚州的宣传标志",
+          "说明": "if 引导条件状语从句。"
+        }
+      ],
+      "zh": "乔治亚州对电影和电视制作成本提供高达30%的可转让税收抵免，如果项目包含乔治亚州的推广标志，则在基础税收抵免的基础上再增加10%。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2026-text2-s6",
+      "s": "Even as California lost a huge volume of production to other locations, there was still plenty of film production taking place in Los Angeles before this year.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "there",
+        "谓语": "was",
+        "宾语或表语": "plenty of film production taking place",
+        "主干翻译": "在今年之前，洛杉矶仍有大量的电影制作活动发生。"
+      },
+      "components": [
+        {
+          "成分类型": "让步/时间状语从句",
+          "原文": "Even as California lost a huge volume of production to other locations",
+          "修饰对象": "主句",
+          "中文翻译": "尽管加州将大量制作业务拱手让给其他地区",
+          "说明": "Even as 引导伴随/让步复合状语从句。"
+        }
+      ],
+      "zh": "即便加州将大量制作业务拱手让给了其他地方，但今年之前，洛杉矶仍有大量的电影制作活动发生。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2026-text2-s7",
+      "s": "We were kept afloat by “peak TV” the glut of content that was required by the explosion of streaming services.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "We",
+        "谓语": "were kept",
+        "宾语或表语": "afloat",
+        "主干翻译": "我们凭借“电视巅峰期”得以维持生存。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语(施动)",
+          "原文": "by “peak TV” the glut of content",
+          "修饰对象": "were kept afloat",
+          "中文翻译": "通过“电视巅峰”这一海量内容产出",
+          "说明": "by 引导被动语态的实施者，同位列举解释 peak TV 的内涵。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that was required by the explosion of streaming services",
+          "修饰对象": "glut of content",
+          "中文翻译": "流媒体服务爆炸式增长所必需的",
+          "说明": "that 引导限制性定语从句修饰 content。"
+        }
+      ],
+      "zh": "我们依靠“流媒体爆发期”得以维持——即流媒体服务爆发所催生的大量内容需求。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2026-text2-s8",
+      "s": "But 2022 was the peak of peak TV.",
+      "para_no": 5,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "2022",
+        "谓语": "was",
+        "宾语或表语": "the peak of peak TV",
+        "主干翻译": "但2022年是电视高峰期的高峰。"
+      },
+      "components": [],
+      "zh": "但2022年是电视鼎盛时期的高峰。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2026-text2-s9",
+      "s": "Back then platforms such as Netflix, Amazon and Apple TV hemorrhaged billions of dollars to generate content to attract new subscribers, resulting in 633 scripted series being released that year.",
+      "para_no": 5,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "platforms such as Netflix, Amazon and Apple TV",
+        "谓语": "hemorrhaged",
+        "宾语或表语": "billions of dollars",
+        "主干翻译": "像奈飞、亚马逊和苹果电视这样的平台大笔失血数十亿美元。"
+      },
+      "components": [
+        {
+          "成分类型": "动词不定式短语作目的状语",
+          "原文": "to generate content to attract new subscribers",
+          "修饰对象": "hemorrhaged",
+          "中文翻译": "用于制作内容以吸引新订阅者",
+          "说明": "两个连续的不定式短语层层表示目的。"
+        },
+        {
+          "成分类型": "现在分词短语作结果状语",
+          "原文": "resulting in 633 scripted series being released that year",
+          "修饰对象": "全句动作",
+          "中文翻译": "导致当年有633部剧集发布",
+          "说明": "resulting in 引出结果，包含带逻辑主语的动名词复合结构 being released。"
+        }
+      ],
+      "zh": "当时，像奈飞、亚马逊和苹果电视这样的平台投入了数十亿美元来制作内容以吸引新的订阅者，导致那一年推出了633部有剧本的剧集。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2026-text2-s10",
+      "s": "As the streamers’ emphasis changed from subscriber growth to profitability, prices for the services went up and the number of new shows went down to 481 released in 2023, with the number expected to dip into the 300s within a few years.",
+      "para_no": 5,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "prices and the number of new shows",
+        "谓语": "went up and went down",
+        "宾语或表语": "to 481",
+        "主干翻译": "服务价格上涨，新剧数量下降至481部。"
+      },
+      "components": [
+        {
+          "成分类型": "时间/伴随状语从句",
+          "原文": "As the streamers’ emphasis changed from subscriber growth to profitability",
+          "修饰对象": "主句并列句",
+          "中文翻译": "随着流媒体平台的重点从订阅量增长转向盈利",
+          "说明": "As 引导状语从句，说明市场策略转向。"
+        },
+        {
+          "成分类型": "with复合结构作伴随状语",
+          "原文": "with the number expected to dip into the 300s within a few years",
+          "修饰对象": "went down",
+          "中文翻译": "预计几年内这一数字将跌至300多部",
+          "说明": "with + 名词 + 过去分词 expected + 不定式表伴随预期。"
+        }
+      ],
+      "zh": "随着流媒体平台的重点从订户增长转向盈利，服务价格上涨，2023年推出的新剧数量降至481部，预计几年内这一数字将降至300多部。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2026-text2-s11",
+      "s": "If productions in Southern California dip below a critical level for too long, the industry’s essential talent will drift away along with enormous sums of revenue.",
+      "para_no": 6,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "the industry’s essential talent",
+        "谓语": "will drift away",
+        "宾语或表语": "along with enormous sums of revenue",
+        "主干翻译": "该行业的核心人才将随同巨额收入一同流失。"
+      },
+      "components": [
+        {
+          "成分类型": "条件状语从句",
+          "原文": "If productions in Southern California dip below a critical level for too long",
+          "修饰对象": "主句",
+          "中文翻译": "如果南加州的制作项目长期跌至临界水平以下",
+          "说明": "if 引导条件状语从句。"
+        }
+      ],
+      "zh": "如果南加利福尼亚州的制作长期低于临界水平，该行业的核心人才将连同巨额收入一同流失。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2026-text2-s12",
+      "s": "Persuading studios to film here would become much more challenging if we couldn’t offer a deep bench of local film workers, on-screen talent and local businesses that support the entertainment industry.",
+      "para_no": 6,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Persuading studios to film here",
+        "谓语": "would become",
+        "宾语或表语": "much more challenging",
+        "主干翻译": "说服制片厂来此拍摄将变得更具挑战性。"
+      },
+      "components": [
+        {
+          "成分类型": "条件虚拟从句",
+          "原文": "if we couldn’t offer a deep bench of local film workers, on-screen talent and local businesses that support the entertainment industry",
+          "修饰对象": "would become",
+          "中文翻译": "如果我们无法提供充裕的本地电影工作者、台前人才以及支持娱乐业的本地企业",
+          "说明": "if 引导与将来/现在相反的虚拟条件句（couldn't offer... would become）。"
+        }
+      ],
+      "zh": "如果我们不能提供充足的本地电影工作者、银幕人才以及支持娱乐业的本地企业，那么说服制片厂在这里拍摄将变得更加困难。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2026-text2-s13",
+      "s": "That’s why the California Film Commission and its Los Angeles counterpart, Film LA, now should act, before it’s too late.",
+      "para_no": 7,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "That",
+        "谓语": "is",
+        "宾语或表语": "why 从句",
+        "主干翻译": "那就是为什么……"
+      },
+      "components": [
+        {
+          "成分类型": "表语从句",
+          "原文": "why the California Film Commission and its Los Angeles counterpart, Film LA, now should act, before it’s too late",
+          "修饰对象": "is",
+          "中文翻译": "为什么加州电影委员会及其洛杉矶对等机构电影洛杉矶现在必须采取行动，以免为时已晚",
+          "说明": "why 引导表语从句，从句内部包含 before it’s too late 时间状语从句。"
+        }
+      ],
+      "zh": "这就是为什么加州电影委员会及其洛杉矶对应机构洛杉矶电影局现在应该在为时过晚之前采取行动的原因。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2026-text2-s14",
+      "s": "These agencies and other government bodies should dramatically improve incentives to keep our current shows and attract new productions to Los Angeles.",
+      "para_no": 7,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "These agencies and other government bodies",
+        "谓语": "should dramatically improve",
+        "宾语或表语": "incentives",
+        "主干翻译": "这些机构和其他政府部门应该大幅提高激励措施。"
+      },
+      "components": [
+        {
+          "成分类型": "动词不定式短语作目的状语",
+          "原文": "to keep our current shows and attract new productions to Los Angeles",
+          "修饰对象": "improve incentives",
+          "中文翻译": "以保留我们当前的剧集并吸引新的制作项目来到洛杉矶",
+          "说明": "to keep and attract 两个不定式并列表示目的。"
+        }
+      ],
+      "zh": "这些机构和其他政府机构应该大幅提高激励措施，以留住我们现有的剧目并吸引新的制作项目来到洛杉矶。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2026-text2-s15",
+      "s": "Let’s go on with the show...and make sure the show doesn’t go on without us.",
+      "para_no": 7,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "us",
+        "谓语": "go on and make sure",
+        "宾语或表语": "the show doesn't go on without us",
+        "主干翻译": "让我们继续演出，并确保演出不会撇下我们而继续。"
+      },
+      "components": [
+        {
+          "成分类型": "祈使句并列结构",
+          "原文": "Let’s go on with the show...and make sure",
+          "修饰对象": "—",
+          "中文翻译": "让演出继续……并确保",
+          "说明": "Let’s 开头的祈使句，呼吁积极行动。"
+        }
+      ],
+      "zh": "让演出继续……并确保演出不会在没有我们的情况下继续。",
+      "underline": null
+    }
+  ]
+}
