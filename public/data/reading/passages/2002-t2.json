@@ -1,0 +1,650 @@
+{
+  "exam": "en1",
+  "key": "2002-t2",
+  "year": 2002,
+  "text_no": 2,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2002-text2-s1",
+      "s": "Since the dawn of human ingenuity, people have devised ever more cunning tools to cope with work that is dangerous, boring, burdensome, or just plain nasty.",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "people",
+        "谓语": "have devised",
+        "宾语或表语": "tools",
+        "主干翻译": "人们设计出了工具。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "Since the dawn of human ingenuity",
+          "修饰对象": "have devised",
+          "中文翻译": "自从人类智慧萌发以来",
+          "说明": "since引导的时间状语，表示动作起始的时间点。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to cope with work that is dangerous, boring, burdensome, or just plain nasty",
+          "修饰对象": "tools",
+          "中文翻译": "用来应对那些危险、乏味、繁重或者干脆就令人厌恶的工作的",
+          "说明": "动词不定式作后置定语，修饰tools，说明工具的用途。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that is dangerous, boring, burdensome, or just plain nasty",
+          "修饰对象": "work",
+          "中文翻译": "（这些工作）是危险、乏味、繁重或干脆就令人厌恶的",
+          "说明": "that引导的定语从句修饰work，that作从句主语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "dangerous, boring, burdensome, or just plain nasty",
+          "修饰对象": "work",
+          "中文翻译": "危险的、乏味的、繁重的，或者干脆就令人厌恶的",
+          "说明": "四个表语形容词并列，由逗号和or连接，共同充当从句的表语。"
+        }
+      ],
+      "zh": "自从人类智慧萌发以来，人们就设计出越来越精巧的工具，用以应对那些危险、乏味、繁重或者干脆就令人厌恶的工作。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2002-text2-s2",
+      "s": "That compulsion has resulted in robotics—the science of conferring various human capabilities on machines.",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "That compulsion",
+        "谓语": "has resulted in",
+        "宾语或表语": "robotics",
+        "主干翻译": "那种冲动催生了机器人技术。"
+      },
+      "components": [
+        {
+          "成分类型": "同位语从句",
+          "原文": "the science of conferring various human capabilities on machines",
+          "修饰对象": "robotics",
+          "中文翻译": "一门将人类的种种能力赋予机器的科学",
+          "说明": "破折号后的名词短语作robotics的同位语，对其进行解释说明（非主谓结构，按同位成分处理）。"
+        }
+      ],
+      "zh": "那种冲动催生了机器人技术——一门将人类的种种能力赋予机器的科学。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2002-text2-s3",
+      "s": "And if scientists have yet to create the mechanical version of science fiction, they have begun to come close.",
+      "para_no": 1,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "they",
+        "谓语": "have begun",
+        "宾语或表语": "to come close",
+        "主干翻译": "他们已经开始接近了。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "if scientists have yet to create the mechanical version of science fiction",
+          "修饰对象": "have begun",
+          "中文翻译": "如果说科学家尚未造出科幻作品中的机械产物",
+          "说明": "if引导条件/让步意味的状语从句，have yet to表示尚未做到。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to create the mechanical version of science fiction",
+          "修饰对象": "have",
+          "中文翻译": "造出科幻作品中的机械产物",
+          "说明": "have yet to do结构中的不定式，作主要动词的补足成分，表示尚未实现的动作。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to come close",
+          "修饰对象": "begun",
+          "中文翻译": "接近（这一目标）",
+          "说明": "begin to do结构中的不定式，作begun的宾语补足成分。"
+        }
+      ],
+      "zh": "如果说科学家尚未造出科幻作品中的那种机械产物，那么他们也已经开始接近这一目标了。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2002-text2-s4",
+      "s": "As a result, the modern world is increasingly populated by intelligent gizmos whose presence we barely notice but whose universal existence has removed much human labor.",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "the modern world",
+        "谓语": "is populated",
+        "宾语或表语": "by intelligent gizmos",
+        "主干翻译": "现代世界被各种智能小玩意儿充斥着。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "As a result",
+          "修饰对象": "is populated",
+          "中文翻译": "结果",
+          "说明": "句首介词短语，表示结果，引出后文。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "whose presence we barely notice but whose universal existence has removed much human labor",
+          "修饰对象": "gizmos",
+          "中文翻译": "我们几乎察觉不到它们的存在，但它们无处不在的存在却减轻了大量的人力劳动",
+          "说明": "whose引导的定语从句修饰gizmos，含两个由but连接的并列分句。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "whose universal existence has removed much human labor",
+          "修饰对象": "notice",
+          "中文翻译": "它们无处不在的存在减轻了大量的人力劳动",
+          "说明": "由but连接的第二个whose分句，与前一whose分句并列。"
+        }
+      ],
+      "zh": "结果，现代世界越来越多地被各种智能小玩意儿所充斥——我们几乎察觉不到它们的存在，但它们无处不在却减轻了大量的人力劳动。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2002-text2-s5",
+      "s": "Our factories hum to the rhythm of robot assembly arms.",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Our factories",
+        "谓语": "hum",
+        "宾语或表语": "—",
+        "主干翻译": "我们的工厂嗡嗡运转。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "to the rhythm of robot assembly arms",
+          "修饰对象": "hum",
+          "中文翻译": "和着机器人装配臂的节奏",
+          "说明": "介词短语作方式状语，修饰hum。"
+        }
+      ],
+      "zh": "我们的工厂和着机器人装配臂的节奏嗡嗡运转。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2002-text2-s6",
+      "s": "Our banking is done at automated teller terminals that thank us with mechanical politeness for the transaction.",
+      "para_no": 2,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Our banking",
+        "谓语": "is done",
+        "宾语或表语": "—",
+        "主干翻译": "我们的银行业务得以办理。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "at automated teller terminals",
+          "修饰对象": "is done",
+          "中文翻译": "在自动柜员机上",
+          "说明": "介词短语作地点状语，修饰is done。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that thank us with mechanical politeness for the transaction",
+          "修饰对象": "terminals",
+          "中文翻译": "它们会以机械式的礼貌为这笔交易向我们道谢",
+          "说明": "that引导的定语从句修饰terminals，that作从句主语。"
+        }
+      ],
+      "zh": "我们的银行业务是在自动柜员机上办理的，这些机器会以机械式的礼貌为我们的每笔交易道谢。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2002-text2-s7",
+      "s": "Our subway trains are controlled by tireless robot-drivers.",
+      "para_no": 2,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "Our subway trains",
+        "谓语": "are controlled",
+        "宾语或表语": "by tireless robot-drivers",
+        "主干翻译": "我们的地铁列车由不知疲倦的机器人司机控制。"
+      },
+      "components": [],
+      "zh": "我们的地铁列车由不知疲倦的机器人司机来控制。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2002-text2-s8",
+      "s": "And thanks to the continual miniaturization of electronics and micro-mechanics, there are already robot systems that can perform some kinds of brain and bone surgery with submillimeter accuracy—far greater precision than highly skilled physicians can achieve with their hands alone.",
+      "para_no": 2,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "robot systems",
+        "谓语": "are",
+        "宾语或表语": "there (存在)",
+        "主干翻译": "已经存在着一些机器人系统。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "thanks to the continual miniaturization of electronics and micro-mechanics",
+          "修饰对象": "are",
+          "中文翻译": "得益于电子设备和微观机械的不断微型化",
+          "说明": "thanks to引导的介词短语作原因状语。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that can perform some kinds of brain and bone surgery with submillimeter accuracy",
+          "修饰对象": "systems",
+          "中文翻译": "能够以亚毫米级的精度实施某些脑部和骨骼手术",
+          "说明": "that引导的定语从句修饰systems，that作从句主语。"
+        },
+        {
+          "成分类型": "同位语",
+          "原文": "far greater precision than highly skilled physicians can achieve with their hands alone",
+          "修饰对象": "accuracy",
+          "中文翻译": "这种精度远高于技艺高超的医生仅凭双手所能达到的水平",
+          "说明": "破折号后名词短语作accuracy的同位语，进一步说明其精度之高。"
+        },
+        {
+          "成分类型": "状语从句(比较)",
+          "原文": "than highly skilled physicians can achieve with their hands alone",
+          "修饰对象": "precision",
+          "中文翻译": "比技艺高超的医生仅凭双手所能达到的（精度）",
+          "说明": "than引导的比较状语从句，与greater构成比较，含省略宾语。"
+        }
+      ],
+      "zh": "而且得益于电子设备和微观机械的不断微型化，目前已经出现了一些机器人系统，它们能以亚毫米级的精度实施某些脑部和骨骼手术——这种精度远远超过技艺高超的医生仅凭双手所能达到的水平。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2002-text2-s9",
+      "s": "But if robots are to reach the next stage of laborsaving utility, they will have to operate with less human supervision and be able to make at least a few decisions for themselves—goals that pose a real challenge.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "they",
+        "谓语": "will have to operate and be able to make",
+        "宾语或表语": "(with less supervision) / a few decisions",
+        "主干翻译": "它们将不得不在更少的人为监督下运作，并且能够自行做出至少几个决定。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "if robots are to reach the next stage of laborsaving utility",
+          "修饰对象": "will have",
+          "中文翻译": "如果机器人要达到节省人力效用的下一个阶段",
+          "说明": "if引导条件状语从句，be to do表示将要/打算。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to reach the next stage of laborsaving utility",
+          "修饰对象": "are",
+          "中文翻译": "达到节省人力效用的下一个阶段",
+          "说明": "be to do结构中的不定式，作主要动词的补足成分。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "be able to make at least a few decisions for themselves",
+          "修饰对象": "operate",
+          "中文翻译": "能够自行做出至少几个决定",
+          "说明": "与operate由and连接的并列谓语，共用情态will have to。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to make at least a few decisions for themselves",
+          "修饰对象": "able",
+          "中文翻译": "自行做出至少几个决定",
+          "说明": "be able to do结构中的不定式，作able的补足成分。"
+        },
+        {
+          "成分类型": "同位语",
+          "原文": "goals that pose a real challenge",
+          "修饰对象": "—",
+          "中文翻译": "这些都是构成真正挑战的目标",
+          "说明": "破折号后名词短语作前述两个目标的总括性同位语。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that pose a real challenge",
+          "修饰对象": "goals",
+          "中文翻译": "构成真正挑战的",
+          "说明": "that引导的定语从句修饰goals，that作从句主语。"
+        }
+      ],
+      "zh": "但是，如果机器人要达到节省人力效用的下一个阶段，它们就必须在更少的人为监督下运作，并且能够自行做出至少几个决定——而这些都是构成真正挑战的目标。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2002-text2-s10",
+      "s": "\"While we know how to tell a robot to handle a specific error,\" says Dave Lavery, manager of a robotics program at NASA, \"we can't yet give a robot enough 'common sense' to reliably interact with a dynamic world.\"",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "we",
+        "谓语": "can't give",
+        "宾语或表语": "a robot enough 'common sense'",
+        "主干翻译": "我们还无法赋予机器人足够的常识。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(让步)",
+          "原文": "While we know how to tell a robot to handle a specific error",
+          "修饰对象": "give",
+          "中文翻译": "尽管我们知道如何告诉机器人去处理某个具体的错误",
+          "说明": "While此处表让步，引导让步状语从句，与主句形成对比。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "how to tell a robot to handle a specific error",
+          "修饰对象": "know",
+          "中文翻译": "如何告诉机器人去处理某个具体的错误",
+          "说明": "how加不定式构成的特殊疑问词短语作know的宾语。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to handle a specific error",
+          "修饰对象": "tell",
+          "中文翻译": "去处理某个具体的错误",
+          "说明": "tell sb to do结构中的不定式，作宾语补足成分。"
+        },
+        {
+          "成分类型": "同位语",
+          "原文": "manager of a robotics program at NASA",
+          "修饰对象": "Lavery",
+          "中文翻译": "美国宇航局一个机器人项目的负责人",
+          "说明": "名词短语作Dave Lavery的同位语，说明其身份。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to reliably interact with a dynamic world",
+          "修饰对象": "sense",
+          "中文翻译": "以可靠地与动态世界互动的",
+          "说明": "不定式作后置定语兼表目的，修饰common sense，说明其用途。"
+        }
+      ],
+      "zh": "美国宇航局某机器人项目负责人戴夫·拉弗里说：“尽管我们知道如何让机器人去处理某个具体的错误，但我们还无法赋予机器人足够的‘常识’，使其能够可靠地与一个不断变化的世界互动。”",
+      "underline": null
+    },
+    {
+      "sid": "en1-2002-text2-s11",
+      "s": "Indeed the quest for true artificial intelligence has produced very mixed results.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "the quest for true artificial intelligence",
+        "谓语": "has produced",
+        "宾语或表语": "very mixed results",
+        "主干翻译": "对真正人工智能的探索产生了好坏参半的结果。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "Indeed",
+          "修饰对象": "has produced",
+          "中文翻译": "的确",
+          "说明": "副词作句首评注性状语（按状语处理），加强语气。"
+        },
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "for true artificial intelligence",
+          "修饰对象": "quest",
+          "中文翻译": "对真正人工智能的",
+          "说明": "介词短语作定语，修饰quest。"
+        }
+      ],
+      "zh": "的确，对真正人工智能的探索所产生的结果好坏参半。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2002-text2-s12",
+      "s": "Despite a spell of initial optimism in the 1960s and 1970s when it appeared that transistor circuits and microprocessors might be able to copy the action of the human brain by the year 2010, researchers lately have begun to extend that forecast by decades if not centuries.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "researchers",
+        "谓语": "have begun",
+        "宾语或表语": "to extend that forecast",
+        "主干翻译": "研究人员近来已经开始延长那一预测。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "Despite a spell of initial optimism in the 1960s and 1970s",
+          "修饰对象": "have begun",
+          "中文翻译": "尽管在二十世纪六七十年代曾有过一阵最初的乐观",
+          "说明": "Despite引导的介词短语作让步状语。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "when it appeared that transistor circuits and microprocessors might be able to copy the action of the human brain by the year 2010",
+          "修饰对象": "1960s",
+          "中文翻译": "当时似乎晶体管电路和微处理器到2010年就有可能复制人脑的活动",
+          "说明": "when引导的定语从句修饰前面的年代时间，it为形式主语。"
+        },
+        {
+          "成分类型": "主语从句",
+          "原文": "that transistor circuits and microprocessors might be able to copy the action of the human brain by the year 2010",
+          "修饰对象": "appeared",
+          "中文翻译": "晶体管电路和微处理器到2010年就有可能复制人脑的活动",
+          "说明": "that引导的从句作it appeared结构中的真正主语（形式主语it指代之）。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to copy the action of the human brain by the year 2010",
+          "修饰对象": "able",
+          "中文翻译": "复制人脑的活动",
+          "说明": "be able to do结构中的不定式，作able的补足成分。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to extend that forecast by decades if not centuries",
+          "修饰对象": "begun",
+          "中文翻译": "把那一预测推迟数十年乃至数百年",
+          "说明": "begin to do结构中的不定式，作begun的补足成分；if not centuries为插入对比。"
+        }
+      ],
+      "zh": "尽管在二十世纪六七十年代曾有过一阵最初的乐观——当时似乎晶体管电路和微处理器到2010年就有可能复制人脑的活动——但研究人员近来已经开始把这一预测推迟了数十年，乃至数百年。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2002-text2-s13",
+      "s": "What they found, in attempting to model thought, is that the human brain's roughly one hundred billion nerve cells are much more talented—and human perception far more complicated—than previously imagined.",
+      "para_no": 5,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "What they found",
+        "谓语": "is",
+        "宾语或表语": "that the human brain's ... nerve cells are much more talented ...",
+        "主干翻译": "他们的发现是：人脑的神经细胞远比此前想象的更有才能。"
+      },
+      "components": [
+        {
+          "成分类型": "主语从句",
+          "原文": "What they found",
+          "修饰对象": "is",
+          "中文翻译": "他们所发现的",
+          "说明": "what引导的主语从句作整句主语。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "in attempting to model thought",
+          "修饰对象": "found",
+          "中文翻译": "在试图模拟思维的过程中",
+          "说明": "in加动名词构成的介词短语作时间/方式状语，含不定式to model thought作attempting的宾语。"
+        },
+        {
+          "成分类型": "表语从句",
+          "原文": "that the human brain's roughly one hundred billion nerve cells are much more talented—and human perception far more complicated—than previously imagined",
+          "修饰对象": "is",
+          "中文翻译": "人脑大约一千亿个神经细胞远比此前想象的更有本领，而且人类的感知能力也远比此前想象的更为复杂",
+          "说明": "that引导的从句作系动词is的表语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "and human perception far more complicated",
+          "修饰对象": "talented",
+          "中文翻译": "而且人类的感知能力（远）更为复杂",
+          "说明": "与前一比较分句并列，省略了are，共用than previously imagined。"
+        },
+        {
+          "成分类型": "状语从句(比较)",
+          "原文": "than previously imagined",
+          "修饰对象": "complicated",
+          "中文翻译": "比此前想象的（更）",
+          "说明": "than引导的比较状语从句，省略it was，与more talented/more complicated构成比较。"
+        }
+      ],
+      "zh": "他们在试图模拟思维的过程中发现，人脑那大约一千亿个神经细胞远比此前想象的更有本领，而人类的感知能力也远比此前想象的更为复杂。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2002-text2-s14",
+      "s": "They have built robots that can recognize the error of a machine panel by a fraction of a millimeter in a controlled factory environment.",
+      "para_no": 5,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "They",
+        "谓语": "have built",
+        "宾语或表语": "robots",
+        "主干翻译": "他们已经造出了机器人。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "that can recognize the error of a machine panel by a fraction of a millimeter in a controlled factory environment",
+          "修饰对象": "robots",
+          "中文翻译": "能够在受控的工厂环境中识别出机器面板上不到一毫米的误差",
+          "说明": "that引导的定语从句修饰robots，that作从句主语。"
+        }
+      ],
+      "zh": "他们已经造出了一些机器人，它们能够在受控的工厂环境中识别出机器面板上不到一毫米的误差。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2002-text2-s15",
+      "s": "But the human mind can glimpse a rapidly changing scene and immediately disregard the 98 percent that is irrelevant, instantaneously focusing on the monkey at the side of a winding forest road or the single suspicious face in a big crowd.",
+      "para_no": 5,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "the human mind",
+        "谓语": "can glimpse and disregard",
+        "宾语或表语": "a rapidly changing scene / the 98 percent",
+        "主干翻译": "人的大脑能够瞥一眼飞速变化的场景，并立即忽略掉其中无关的98%。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "immediately disregard the 98 percent that is irrelevant",
+          "修饰对象": "glimpse",
+          "中文翻译": "立即忽略掉无关的那98%",
+          "说明": "与glimpse由and连接的并列谓语，共用情态can。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that is irrelevant",
+          "修饰对象": "percent",
+          "中文翻译": "无关的",
+          "说明": "that引导的定语从句修饰the 98 percent，that作从句主语。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "instantaneously focusing on the monkey at the side of a winding forest road or the single suspicious face in a big crowd",
+          "修饰对象": "disregard",
+          "中文翻译": "同时即刻聚焦于蜿蜒林间小路旁的那只猴子，或人群中那张可疑的面孔",
+          "说明": "现在分词短语作伴随状语，说明disregard同时发生的动作。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "the single suspicious face in a big crowd",
+          "修饰对象": "monkey",
+          "中文翻译": "一大群人中那张唯一可疑的面孔",
+          "说明": "由or连接，与the monkey并列，同作focusing on的宾语。"
+        }
+      ],
+      "zh": "但人的大脑却能瞥一眼飞速变化的场景，立即忽略掉其中无关的那98%，同时即刻聚焦于蜿蜒林间小路旁的那只猴子，或一大群人中那张唯一可疑的面孔。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2002-text2-s16",
+      "s": "The most advanced computer systems on Earth can't approach that kind of ability, and neuroscientists still don't know quite how we do it.",
+      "para_no": 5,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "computer systems / neuroscientists",
+        "谓语": "can't approach / don't know",
+        "宾语或表语": "that kind of ability / (how we do it)",
+        "主干翻译": "最先进的计算机系统都无法接近那种能力，而神经科学家也仍不太清楚我们是如何做到的。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "on Earth",
+          "修饰对象": "systems",
+          "中文翻译": "地球上",
+          "说明": "介词短语作定语，修饰computer systems。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "neuroscientists still don't know quite how we do it",
+          "修饰对象": "approach",
+          "中文翻译": "神经科学家仍然不太清楚我们是怎么做到的",
+          "说明": "由and连接的并列分句，与前一独立分句并列。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "how we do it",
+          "修饰对象": "know",
+          "中文翻译": "我们是怎么做到的",
+          "说明": "how引导的宾语从句作know的宾语，quite修饰程度。"
+        }
+      ],
+      "zh": "地球上最先进的计算机系统都无法接近那种能力，而神经科学家们也仍然不太清楚我们究竟是如何做到这一点的。",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2002-text2-s1",
+        "en1-2002-text2-s2",
+        "en1-2002-text2-s3"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2002-text2-s4",
+        "en1-2002-text2-s5",
+        "en1-2002-text2-s6",
+        "en1-2002-text2-s7",
+        "en1-2002-text2-s8"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2002-text2-s9",
+        "en1-2002-text2-s10"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2002-text2-s11",
+        "en1-2002-text2-s12"
+      ]
+    },
+    {
+      "para_no": 5,
+      "sids": [
+        "en1-2002-text2-s13",
+        "en1-2002-text2-s14",
+        "en1-2002-text2-s15",
+        "en1-2002-text2-s16"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,619 @@
+{
+  "exam": "en1",
+  "key": "2021-t1",
+  "year": 2021,
+  "text_no": 1,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2021-text1-s1",
+      "s": "How can the train operators possibly justify yet another increase to rail passenger fares?",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "the train operators",
+        "谓语": "can justify",
+        "宾语或表语": "yet another increase",
+        "主干翻译": "铁路运营商究竟怎么能为又一次上调票价辩解呢？"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "to rail passenger fares",
+          "修饰对象": "increase",
+          "中文翻译": "对铁路乘客票价的",
+          "说明": "to引导的介词短语修饰increase，说明增加的对象。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "possibly",
+          "修饰对象": "justify",
+          "中文翻译": "竟然、究竟",
+          "说明": "在How...possibly反问句中加强语气。"
+        }
+      ],
+      "zh": "铁路运营商究竟怎么能为又一次上调铁路乘客票价辩解呢？",
+      "underline": null
+    },
+    {
+      "sid": "en1-2021-text1-s2",
+      "s": "It has become a grimly reliable annual ritual: every January the cost of travelling by train rises, imposing a significant extra burden on those who have no option but to use the rail network to get to work or otherwise.",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "It / the cost",
+        "谓语": "has become / rises",
+        "宾语或表语": "a grimly reliable annual ritual",
+        "主干翻译": "它已成为一种冷酷而可靠的年度惯例：每年一月火车票价都会上涨。"
+      },
+      "components": [
+        {
+          "成分类型": "表语从句",
+          "原文": "It has become a grimly reliable annual ritual",
+          "修饰对象": "rises",
+          "中文翻译": "它已成为一种令人沮丧却又屡试不爽的年度惯例",
+          "说明": "冒号前为系表结构主句，a grimly reliable annual ritual作表语。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "imposing a significant extra burden on those who have no option but to use the rail network to get to work or otherwise",
+          "修饰对象": "rises",
+          "中文翻译": "给那些除了乘火车上班或办其他事别无选择的人带来沉重的额外负担",
+          "说明": "现在分词短语作结果状语。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "who have no option but to use the rail network to get to work or otherwise",
+          "修饰对象": "those",
+          "中文翻译": "除了使用铁路网去上班或办其他事别无选择的（那些人）",
+          "说明": "who引导定语从句，修饰those。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to get to work or otherwise",
+          "修饰对象": "use",
+          "中文翻译": "去上班或办其他事",
+          "说明": "动词不定式作目的状语，修饰use the rail network。"
+        }
+      ],
+      "zh": "这已成为一种令人沮丧却又屡试不爽的年度惯例：每年一月，乘火车出行的费用都会上涨，给那些除了乘坐铁路上班或办其他事别无选择的人带来沉重的额外负担。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2021-text1-s3",
+      "s": "This year's rise, an average of 2.7 per cent, may be a fraction lower than last year's, but it is still well above the official Consumer Price Index (CPI) measure of inflation.",
+      "para_no": 1,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "This year's rise",
+        "谓语": "may be",
+        "宾语或表语": "a fraction lower",
+        "主干翻译": "今年的涨幅可能略低一些。"
+      },
+      "components": [
+        {
+          "成分类型": "同位语从句",
+          "原文": "an average of 2.7 per cent",
+          "修饰对象": "rise",
+          "中文翻译": "平均2.7%",
+          "说明": "名词短语作同位语（插入语），进一步说明rise的具体数值。"
+        },
+        {
+          "成分类型": "状语从句(比较)",
+          "原文": "than last year's",
+          "修饰对象": "lower",
+          "中文翻译": "比去年（的涨幅）",
+          "说明": "than引导比较状语，与lower构成比较结构，last year's指last year's rise。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "but it is still well above the official Consumer Price Index (CPI) measure of inflation",
+          "修饰对象": "—",
+          "中文翻译": "但它仍远高于官方的消费者价格指数（CPI）通胀衡量标准",
+          "说明": "but连接的并列分句，与前一分句构成转折并列。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "(CPI)",
+          "修饰对象": "Index",
+          "中文翻译": "（消费者价格指数）",
+          "说明": "括号内缩写作Consumer Price Index的同位语解释。"
+        }
+      ],
+      "zh": "今年的涨幅平均为2.7%，或许比去年略低一点，但仍远高于官方消费者价格指数（CPI）所衡量的通胀水平。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2021-text1-s4",
+      "s": "Successive governments have permitted such increases on the grounds that the cost of investing in and running the rail network should be borne by those who use it, rather than the general taxpayer.",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Successive governments",
+        "谓语": "have permitted",
+        "宾语或表语": "such increases",
+        "主干翻译": "历届政府都允许了这样的涨价。"
+      },
+      "components": [
+        {
+          "成分类型": "同位语从句",
+          "原文": "that the cost of investing in and running the rail network should be borne by those",
+          "修饰对象": "grounds",
+          "中文翻译": "投资和运营铁路网的成本应当由那些人承担",
+          "说明": "that 引导同位语从句（on the grounds that 固定搭配），解释 grounds 的具体内容。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "investing in and running the rail network",
+          "修饰对象": "the cost",
+          "中文翻译": "投资和运营铁路网",
+          "说明": "由 and 连接的两个并列动名词 investing in 与 running，作介词 of 的宾语。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "who use it",
+          "修饰对象": "those",
+          "中文翻译": "使用铁路网的人",
+          "说明": "who 引导定语从句，修饰先行词 those，it 指代 the rail network。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "rather than the general taxpayer",
+          "修饰对象": "borne",
+          "中文翻译": "而不是由一般纳税人承担",
+          "说明": "rather than 引导对比，与 by those 相对照，说明成本承担方。"
+        }
+      ],
+      "zh": "历届政府都允许这样的涨价，理由是投资和运营铁路网的成本应当由那些使用铁路网的人承担，而不是由一般纳税人承担。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2021-text1-s5",
+      "s": "Why, the argument goes, should a car-driving pensioner from Lincolnshire have to subsidise the daily commute of a stockbroker from Surrey?",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "a car-driving pensioner",
+        "谓语": "should have to subsidise",
+        "宾语或表语": "the daily commute",
+        "主干翻译": "一位开车的退休老人为何要补贴日常通勤呢？"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "the argument goes",
+          "修饰对象": "—",
+          "中文翻译": "这种论调认为",
+          "说明": "插入语，标明这是引述某种观点。"
+        },
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "from Lincolnshire",
+          "修饰对象": "pensioner",
+          "中文翻译": "来自林肯郡的",
+          "说明": "介词短语修饰pensioner，说明其来源。"
+        },
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "of a stockbroker from Surrey",
+          "修饰对象": "commute",
+          "中文翻译": "来自萨里郡的一位股票经纪人的",
+          "说明": "of短语修饰commute，其中from Surrey又修饰stockbroker。"
+        }
+      ],
+      "zh": "这种论调认为：一位来自林肯郡、开车出行的退休老人凭什么要去补贴一位来自萨里郡的股票经纪人的日常通勤呢？",
+      "underline": null
+    },
+    {
+      "sid": "en1-2021-text1-s6",
+      "s": "Equally, there is a sense that the travails of commuters in the South East, many of whom will face among the biggest rises, have received too much attention compared to those who must endure the relatively poor infrastructure of the Midlands and the North.",
+      "para_no": 2,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "there",
+        "谓语": "is",
+        "宾语或表语": "a sense",
+        "主干翻译": "存在着一种看法。"
+      },
+      "components": [
+        {
+          "成分类型": "同位语从句",
+          "原文": "that the travails of commuters in the South East, many of whom will face among the biggest rises, have received too much attention",
+          "修饰对象": "sense",
+          "中文翻译": "东南部通勤者所遭受的苦难得到了过多关注",
+          "说明": "that引导同位语从句，解释sense的内容；其主语为the travails，谓语为have received。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "many of whom will face among the biggest rises",
+          "修饰对象": "commuters",
+          "中文翻译": "其中许多人将面临最大幅度的涨价之一",
+          "说明": "非限制性定语从句修饰commuters，many of whom指其中许多通勤者。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "compared to those",
+          "修饰对象": "received",
+          "中文翻译": "与那些人相比",
+          "说明": "过去分词短语作比较状语，修饰have received too much attention。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "who must endure the relatively poor infrastructure of the Midlands and the North",
+          "修饰对象": "those",
+          "中文翻译": "必须忍受中部和北部相对落后基础设施的（那些人）",
+          "说明": "who引导定语从句修饰those。"
+        }
+      ],
+      "zh": "同样，有一种看法认为：与那些不得不忍受中部和北部相对落后基础设施的人相比，东南部通勤者（其中许多人将面临最大幅度的涨价之一）所遭受的苦难得到了过多关注。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2021-text1-s7",
+      "s": "However, over the past 12 months, those commuters have also experienced some of the worst rail strikes in years.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "those commuters",
+        "谓语": "have experienced",
+        "宾语或表语": "some of the worst rail strikes",
+        "主干翻译": "那些通勤者也经历了最严重的铁路罢工之一。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "However",
+          "修饰对象": "—",
+          "中文翻译": "然而",
+          "说明": "句首连接性插入语，表转折。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "over the past 12 months",
+          "修饰对象": "have experienced",
+          "中文翻译": "在过去的12个月里",
+          "说明": "时间状语，限定动作发生的时间段。"
+        },
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "in years",
+          "修饰对象": "strikes",
+          "中文翻译": "多年来",
+          "说明": "in years修饰the worst rail strikes，表示多年来最严重。"
+        }
+      ],
+      "zh": "然而，在过去的12个月里，那些通勤者还经历了多年来最严重的几次铁路罢工。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2021-text1-s8",
+      "s": "It is all very well train operators trumpeting the improvements they are making to the network, but passengers should be able to expect a basic level of service for the substantial sums they are now paying to travel.",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "It",
+        "谓语": "is",
+        "宾语或表语": "all very well",
+        "主干翻译": "这一切都很好（train operators夸耀改进无可厚非）。"
+      },
+      "components": [
+        {
+          "成分类型": "主语从句",
+          "原文": "train operators trumpeting the improvements",
+          "修饰对象": "It",
+          "中文翻译": "铁路运营商大肆宣扬其改进",
+          "说明": "It is all very well + 动名词复合结构作真实主语，train operators为trumpeting的逻辑主语。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "they are making to the network",
+          "修饰对象": "improvements",
+          "中文翻译": "他们正在对铁路网络做出的（改进）",
+          "说明": "省略关系词that的定语从句修饰improvements。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "but passengers should be able to expect a basic level of service for the substantial sums",
+          "修饰对象": "—",
+          "中文翻译": "但乘客应当能够期望以其支付的高额费用换得基本水准的服务",
+          "说明": "but连接的并列分句，与前句构成转折。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to expect a basic level of service",
+          "修饰对象": "able",
+          "中文翻译": "期望获得基本水准的服务",
+          "说明": "be able to后的不定式，构成be able to do结构。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "they are now paying to travel",
+          "修饰对象": "sums",
+          "中文翻译": "他们如今为出行而支付的（高额费用）",
+          "说明": "省略关系词的定语从句修饰the substantial sums。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to travel",
+          "修饰对象": "paying",
+          "中文翻译": "为了出行",
+          "说明": "不定式作目的状语，修饰paying。"
+        }
+      ],
+      "zh": "铁路运营商大肆宣扬他们正在对铁路网络进行的改进固然无可厚非，但乘客理应能够凭借如今为出行支付的高额费用，期望获得基本水准的服务。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2021-text1-s9",
+      "s": "The responsibility for the latest wave of strikes rests on the unions.",
+      "para_no": 3,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "The responsibility",
+        "谓语": "rests",
+        "宾语或表语": "on the unions",
+        "主干翻译": "责任在于工会。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "for the latest wave of strikes",
+          "修饰对象": "responsibility",
+          "中文翻译": "最近这波罢工的",
+          "说明": "for短语修饰responsibility，说明责任所指对象。"
+        }
+      ],
+      "zh": "最近这波罢工的责任在于工会。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2021-text1-s10",
+      "s": "However, there is a strong case that those who have been worst affected by industrial action should receive compensation for the disruption they have suffered.",
+      "para_no": 3,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "there",
+        "谓语": "is",
+        "宾语或表语": "a strong case",
+        "主干翻译": "有一个有力的理由。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "However",
+          "修饰对象": "there is a strong case",
+          "中文翻译": "然而",
+          "说明": "副词作状语，表转折。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "that those who have been worst affected by industrial action should receive compensation for the disruption they have suffered",
+          "修饰对象": "case",
+          "中文翻译": "那些受罢工影响最严重的人应当因其所遭受的混乱获得补偿",
+          "说明": "由 that 引导的同位语从句，说明 a strong case 的内容。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "who have been worst affected by industrial action",
+          "修饰对象": "those",
+          "中文翻译": "那些受罢工影响最严重的",
+          "说明": "由 who 引导的定语从句，修饰 those。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "they have suffered",
+          "修饰对象": "disruption",
+          "中文翻译": "他们所遭受的",
+          "说明": "省略关系代词的定语从句，修饰 the disruption。"
+        }
+      ],
+      "zh": "然而，有一个有力的理由认为：那些受罢工影响最严重的人，应当因其所遭受的混乱而获得补偿。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2021-text1-s11",
+      "s": "The Government has pledged to change the law to introduce a minimum service requirement so that, even when strikes occur, services can continue to operate.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The Government",
+        "谓语": "has pledged",
+        "宾语或表语": "to change the law",
+        "主干翻译": "政府已承诺修改法律。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to change the law to introduce a minimum service requirement",
+          "修饰对象": "pledged",
+          "中文翻译": "修改法律以引入最低服务要求",
+          "说明": "不定式作pledged的宾语，表所承诺的内容。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to introduce a minimum service requirement",
+          "修饰对象": "change",
+          "中文翻译": "以引入最低服务要求",
+          "说明": "不定式作目的状语，修饰change the law。"
+        },
+        {
+          "成分类型": "状语从句(目的)",
+          "原文": "so that, even when strikes occur, services can continue to operate",
+          "修饰对象": "introduce",
+          "中文翻译": "以便即使发生罢工，服务仍能继续运行",
+          "说明": "so that引导目的状语从句。"
+        },
+        {
+          "成分类型": "状语从句(让步)",
+          "原文": "even when strikes occur",
+          "修饰对象": "continue",
+          "中文翻译": "即使发生罢工",
+          "说明": "even when引导让步意味的时间状语从句，修饰can continue。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to operate",
+          "修饰对象": "continue",
+          "中文翻译": "运行",
+          "说明": "不定式与continue构成continue to do结构。"
+        }
+      ],
+      "zh": "政府已承诺修改法律，引入最低服务要求，以便即使在发生罢工时，铁路服务仍能继续运行。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2021-text1-s12",
+      "s": "This should form part of a wider package of measures to address the long-running problems on Britain's railways.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "This",
+        "谓语": "should form",
+        "宾语或表语": "part of a wider package of measures",
+        "主干翻译": "这应当成为一揽子更广泛措施的一部分。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to address the long-running problems on Britain's railways",
+          "修饰对象": "measures",
+          "中文翻译": "用以解决英国铁路上长期存在的问题的",
+          "说明": "不定式短语作定语修饰measures，说明措施的用途。"
+        }
+      ],
+      "zh": "这应当成为一揽子更广泛措施中的一部分，以解决英国铁路长期存在的问题。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2021-text1-s13",
+      "s": "Yes, more investment is needed, but passengers will not be willing to pay more indefinitely if they must also endure cramped, unreliable services, punctuated by regular chaos when timetables are changed, or planned maintenance is managed incompetently.",
+      "para_no": 4,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "more investment",
+        "谓语": "is needed",
+        "宾语或表语": "—",
+        "主干翻译": "需要更多投资。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "but passengers will not be willing to pay more indefinitely",
+          "修饰对象": "—",
+          "中文翻译": "但乘客不会愿意无限期地支付更多费用",
+          "说明": "but连接的并列分句，与前句构成转折。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to pay more indefinitely",
+          "修饰对象": "willing",
+          "中文翻译": "无限期地支付更多",
+          "说明": "be willing to后的不定式，构成be willing to do结构。"
+        },
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "if they must also endure cramped, unreliable services",
+          "修饰对象": "be",
+          "中文翻译": "如果他们还必须忍受拥挤、不可靠的服务",
+          "说明": "if引导条件状语从句，修饰will not be willing。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "punctuated by regular chaos",
+          "修饰对象": "services",
+          "中文翻译": "不时被频繁的混乱所打断的",
+          "说明": "过去分词短语作定语修饰services。"
+        },
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "when timetables are changed",
+          "修饰对象": "chaos",
+          "中文翻译": "当时刻表被更改时",
+          "说明": "when引导时间状语从句，说明chaos发生的情形。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "or planned maintenance is managed incompetently",
+          "修饰对象": "—",
+          "中文翻译": "或计划内的维护被无能地处理",
+          "说明": "or连接，与timetables are changed并列，同属when从句所辖情形。"
+        }
+      ],
+      "zh": "是的，需要更多投资，但如果乘客还必须忍受拥挤、不可靠且因时刻表更改或计划维护管理不善而频繁陷入混乱的服务，他们就不会愿意无限期地支付更多费用。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2021-text1-s14",
+      "s": "The threat of nationalisation may have been seen off for now, but it will return with a vengeance if the justified anger of passengers is not addressed in short order.",
+      "para_no": 4,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "The threat of nationalisation",
+        "谓语": "may have been seen off",
+        "宾语或表语": "—",
+        "主干翻译": "国有化的威胁或许已暂时被化解。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "for now",
+          "修饰对象": "seen",
+          "中文翻译": "暂时",
+          "说明": "时间状语，修饰may have been seen off。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "but it will return with a vengeance",
+          "修饰对象": "—",
+          "中文翻译": "但它将会以更猛烈之势卷土重来",
+          "说明": "but连接的并列分句，与前句构成转折。"
+        },
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "if the justified anger of passengers is not addressed in short order",
+          "修饰对象": "return",
+          "中文翻译": "如果乘客们正当的愤怒不能很快得到处理",
+          "说明": "if引导条件状语从句，修饰will return。"
+        }
+      ],
+      "zh": "国有化的威胁或许暂时被化解了，但如果乘客们正当的愤怒不能尽快得到回应，它将以更猛烈之势卷土重来。",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2021-text1-s1",
+        "en1-2021-text1-s2",
+        "en1-2021-text1-s3"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2021-text1-s4",
+        "en1-2021-text1-s5",
+        "en1-2021-text1-s6"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2021-text1-s7",
+        "en1-2021-text1-s8",
+        "en1-2021-text1-s9",
+        "en1-2021-text1-s10"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2021-text1-s11",
+        "en1-2021-text1-s12",
+        "en1-2021-text1-s13",
+        "en1-2021-text1-s14"
+      ]
+    }
+  ]
+}

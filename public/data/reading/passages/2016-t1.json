@@ -1,0 +1,762 @@
+{
+  "exam": "en1",
+  "key": "2016-t1",
+  "year": 2016,
+  "text_no": 1,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2016-text1-s1",
+      "s": "France, which prides itself as the global innovator of fashion, has decided its fashion industry has lost an absolute right to define physical beauty for women.",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "France",
+        "谓语": "has decided",
+        "宾语或表语": "its fashion industry has lost an absolute right",
+        "主干翻译": "法国已经认定，其时尚业已经失去了一项绝对权利。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "which prides itself as the global innovator of fashion",
+          "修饰对象": "France",
+          "中文翻译": "（法国）以全球时尚创新者自居",
+          "说明": "which 引导的非限制性定语从句，修饰主语 France，prides itself as 意为以……自居。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "its fashion industry has lost an absolute right to define physical beauty for women",
+          "修饰对象": "has decided",
+          "中文翻译": "其时尚业已经失去了为女性界定外表美的绝对权利",
+          "说明": "作 has decided 的宾语，省略了引导词 that。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to define physical beauty for women",
+          "修饰对象": "right",
+          "中文翻译": "为女性界定外表美的（权利）",
+          "说明": "动词不定式作后置定语，修饰 right。"
+        }
+      ],
+      "zh": "以全球时尚创新者自居的法国，已经认定其时尚业失去了为女性界定外表美的绝对权利。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text1-s2",
+      "s": "Its lawmakers gave preliminary approval last week to a law that would make it a crime to employ ultra-thin models on runways.",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Its lawmakers",
+        "谓语": "gave",
+        "宾语或表语": "preliminary approval",
+        "主干翻译": "该国的立法者给予了初步批准。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "that would make it a crime to employ ultra-thin models on runways",
+          "修饰对象": "law",
+          "中文翻译": "该法律将把在T台上雇用超瘦模特定为犯罪",
+          "说明": "that 引导的限制性定语从句，修饰 a law。"
+        },
+        {
+          "成分类型": "省略",
+          "原文": "make it a crime to employ ultra-thin models on runways",
+          "修饰对象": "make",
+          "中文翻译": "把（雇用超瘦模特）定为犯罪",
+          "说明": "make it a crime 结构中 it 为形式宾语，a crime 为宾语补足语。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to employ ultra-thin models on runways",
+          "修饰对象": "crime",
+          "中文翻译": "在T台上雇用超瘦模特（这种犯罪）",
+          "说明": "动词不定式作真正宾语，由形式宾语 it 指代，可视为对 a crime 内容的说明。"
+        }
+      ],
+      "zh": "上周，该国的立法者初步批准了一项法律，该法律将把在T台上雇用超瘦模特定为犯罪行为。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text1-s3",
+      "s": "The parliament also agreed to ban websites that \"incite excessive thinness\" by promoting extreme dieting.",
+      "para_no": 1,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "The parliament",
+        "谓语": "agreed",
+        "宾语或表语": "to ban websites",
+        "主干翻译": "议会同意封禁某些网站。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to ban websites that \"incite excessive thinness\" by promoting extreme dieting",
+          "修饰对象": "agreed",
+          "中文翻译": "同意封禁那些通过宣扬极端节食来\"煽动过度消瘦\"的网站",
+          "说明": "动词不定式作 agreed 的补足成分（宾语）。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that \"incite excessive thinness\" by promoting extreme dieting",
+          "修饰对象": "websites",
+          "中文翻译": "通过宣扬极端节食来\"煽动过度消瘦\"的（网站）",
+          "说明": "that 引导的限制性定语从句，修饰 websites；其中 by promoting extreme dieting 为方式状语。"
+        }
+      ],
+      "zh": "议会还同意封禁那些通过宣扬极端节食来\"煽动过度消瘦\"的网站。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text1-s4",
+      "s": "Such measures have a couple of uplifting motives.",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Such measures",
+        "谓语": "have",
+        "宾语或表语": "a couple of uplifting motives",
+        "主干翻译": "这些措施有几个令人振奋的动机。"
+      },
+      "components": [],
+      "zh": "这些措施有几个令人振奋的动机。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text1-s5",
+      "s": "They suggest beauty should not be defined by looks that end up impinging on health.",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "They",
+        "谓语": "suggest",
+        "宾语或表语": "beauty should not be defined by looks",
+        "主干翻译": "它们表明，美不应由外貌来界定。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "beauty should not be defined by looks that end up impinging on health",
+          "修饰对象": "suggest",
+          "中文翻译": "美不应由那种最终损害健康的外貌来界定",
+          "说明": "作 suggest 的宾语，省略了引导词 that。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that end up impinging on health",
+          "修饰对象": "looks",
+          "中文翻译": "最终（损害）健康的（外貌）",
+          "说明": "that 引导的限制性定语从句，修饰 looks。"
+        }
+      ],
+      "zh": "它们表明，美不应由那种最终损害健康的外貌来界定。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text1-s6",
+      "s": "That's a start.",
+      "para_no": 2,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "That",
+        "谓语": "is",
+        "宾语或表语": "a start",
+        "主干翻译": "这是一个开端。"
+      },
+      "components": [],
+      "zh": "这是一个开端。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text1-s7",
+      "s": "And the ban on ultra-thin models seems to go beyond protecting models from starving themselves to death—as some have done.",
+      "para_no": 2,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "the ban on ultra-thin models",
+        "谓语": "seems",
+        "宾语或表语": "to go beyond protecting models from starving themselves to death",
+        "主干翻译": "对超瘦模特的禁令似乎超出了仅仅防止模特把自己饿死的范畴。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to go beyond protecting models from starving themselves to death—as some have done",
+          "修饰对象": "seems",
+          "中文翻译": "似乎超出了防止模特把自己饿死（正如有些模特已经做过的那样）的范畴",
+          "说明": "动词不定式作 seems 的补足成分（表语）。"
+        },
+        {
+          "成分类型": "状语从句(方式)",
+          "原文": "as some have done",
+          "修饰对象": "protecting",
+          "中文翻译": "正如有些模特已经那样做过的",
+          "说明": "as 引导方式状语从句，补充说明 starving themselves to death 一事确有发生。"
+        }
+      ],
+      "zh": "而且，对超瘦模特的禁令似乎不仅仅是为了防止模特把自己饿死（确有模特如此），其意义更深远。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text1-s8",
+      "s": "It tells the fashion industry that it must take responsibility for the signal it sends women, especially teenage girls, about the social tape–measure they must use to determine their individual worth.",
+      "para_no": 2,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "It",
+        "谓语": "tells",
+        "宾语或表语": "the fashion industry that...",
+        "主干翻译": "它告诉时尚业，时尚业必须承担责任。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "that it must take responsibility for the signal it sends women, especially teenage girls, about the social tape–measure they must use to determine their individual worth",
+          "修饰对象": "tells",
+          "中文翻译": "时尚业必须为它向女性（尤其是少女）传递的、关于她们衡量自身价值所必须使用的社会标尺的信号承担责任",
+          "说明": "that 引导宾语从句，作 tells 的直接宾语。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "it sends women, especially teenage girls,",
+          "修饰对象": "signal",
+          "中文翻译": "它向女性（尤其是少女）传递的（信号）",
+          "说明": "省略引导词的定语从句，修饰 the signal。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "especially teenage girls",
+          "修饰对象": "women",
+          "中文翻译": "尤其是少女",
+          "说明": "对 women 的补充说明，作同位语/插入成分。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "they must use to determine their individual worth",
+          "修饰对象": "tape–measure",
+          "中文翻译": "她们必须用来衡量自身价值的（社会标尺）",
+          "说明": "省略引导词的定语从句，修饰 the social tape–measure。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "they must use to determine their individual worth",
+          "修饰对象": "measure",
+          "中文翻译": "她们必须用来衡量自身价值的",
+          "说明": "省略引导词 that/which 的限制性定语从句，修饰 tape–measure。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to determine their individual worth",
+          "修饰对象": "use",
+          "中文翻译": "用来衡量她们的个人价值",
+          "说明": "动词不定式作目的状语，修饰 must use。"
+        }
+      ],
+      "zh": "它告诉时尚业：对于自己向女性（尤其是少女）传递的、关于她们必须用来衡量自身价值的社会标尺的信号，时尚业必须承担责任。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text1-s9",
+      "s": "The bans, if fully enforced, would suggest to women (and many men) that they should not let others be arbiters of their beauty.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The bans",
+        "谓语": "would suggest",
+        "宾语或表语": "to women (and many men) that they should not let others be arbiters of their beauty",
+        "主干翻译": "这些禁令会向女性（以及许多男性）暗示，她们不应让他人成为评判其美貌的人。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "if fully enforced",
+          "修饰对象": "suggest",
+          "中文翻译": "如果得到充分执行",
+          "说明": "if 引导条件状语从句的省略形式（if they are fully enforced）。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "many men",
+          "修饰对象": "woman",
+          "中文翻译": "许多男性",
+          "说明": "woman (and many men) 由 and 连接的并列结构。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that they should not let others be arbiters of their beauty",
+          "修饰对象": "suggest",
+          "中文翻译": "她们不应让他人成为评判其美貌的人",
+          "说明": "that 引导宾语从句，作 suggest 的宾语。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "others be arbiters of their beauty",
+          "修饰对象": "let",
+          "中文翻译": "他人成为评判其美貌的人",
+          "说明": "let 后接的复合宾语，others 作宾语，be arbiters 为宾语补足语。"
+        }
+      ],
+      "zh": "这些禁令如果得到充分执行，就会向女性（以及许多男性）暗示：她们不应让他人成为评判自己美貌的人。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text1-s10",
+      "s": "And perhaps faintly, they hint that people should look to intangible qualities like character and intellect rather than dieting their way to size zero or wasp-waist physiques.",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "they",
+        "谓语": "hint",
+        "宾语或表语": "that people should look to intangible qualities...",
+        "主干翻译": "它们暗示，人们应当注重无形的品质。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "that people should look to intangible qualities like character and intellect rather than dieting their way to size zero or wasp-waist physiques",
+          "修饰对象": "hint",
+          "中文翻译": "人们应当注重品格和才智之类的无形品质，而不是靠节食来达到零号身材或蜂腰体形",
+          "说明": "that 引导宾语从句，作 hint 的宾语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "dieting their way to size zero or wasp-waist physiques",
+          "修饰对象": "character",
+          "中文翻译": "靠节食来达到零号身材或蜂腰体形",
+          "说明": "rather than 连接 look to... 与 dieting...，构成并列对比结构。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "wasp-waist physiques",
+          "修饰对象": "size",
+          "中文翻译": "蜂腰体形",
+          "说明": "size zero 与 wasp-waist physiques 由 or 连接的并列结构。"
+        }
+      ],
+      "zh": "也许还隐约地，它们暗示人们应当注重品格和才智之类的无形品质，而不是靠节食把自己变成零号身材或蜂腰体形。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text1-s11",
+      "s": "The French measures, however, rely too much on severe punishment to change a culture that still regards beauty as skin-deep—and bone-showing.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The French measures",
+        "谓语": "rely",
+        "宾语或表语": "too much on severe punishment",
+        "主干翻译": "然而，法国的这些措施过于依赖严厉的惩罚。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to change a culture that still regards beauty as skin-deep—and bone-showing",
+          "修饰对象": "rely",
+          "中文翻译": "来改变一种仍将美视为只关乎肤浅外表乃至骨瘦如柴的文化",
+          "说明": "动词不定式作目的状语，修饰 rely。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that still regards beauty as skin-deep—and bone-showing",
+          "修饰对象": "culture",
+          "中文翻译": "仍将美视为肤浅外表乃至骨瘦如柴的（文化）",
+          "说明": "that 引导的限制性定语从句，修饰 a culture。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "bone-showing",
+          "修饰对象": "deep",
+          "中文翻译": "骨瘦如柴（露骨的）",
+          "说明": "skin-deep 与 bone-showing 由 and 连接的并列结构，作 regards...as 的宾语补足语。"
+        }
+      ],
+      "zh": "然而，法国的这些措施过于依赖严厉的惩罚来改变一种仍将美视为肤浅外表、乃至骨瘦如柴的文化。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text1-s12",
+      "s": "Under the law, using a fashion model that does not meet a government-defined index of body mass could result in a $85, 000 fine and six months in prison.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "using a fashion model",
+        "谓语": "could result in",
+        "宾语或表语": "a $85, 000 fine and six months in prison",
+        "主干翻译": "使用某种时装模特可能导致8.5万美元的罚款和六个月的监禁。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "that does not meet a government-defined index of body mass",
+          "修饰对象": "model",
+          "中文翻译": "不符合政府规定的身体质量指数的（模特）",
+          "说明": "that 引导的限制性定语从句，修饰 a fashion model。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "six months in prison",
+          "修饰对象": "fine",
+          "中文翻译": "六个月监禁",
+          "说明": "a $85,000 fine 与 six months in prison 由 and 连接的并列结构。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "Under the law",
+          "修饰对象": "result",
+          "中文翻译": "根据该法律",
+          "说明": "介词短语作状语，置于句首。"
+        }
+      ],
+      "zh": "根据该法律，使用不符合政府规定的身体质量指数的时装模特，可能会导致8.5万美元的罚款和六个月的监禁。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text1-s13",
+      "s": "The fashion industry knows it has an inherent problem in focusing on material adornment and idealized body types.",
+      "para_no": 5,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The fashion industry",
+        "谓语": "knows",
+        "宾语或表语": "it has an inherent problem",
+        "主干翻译": "时尚业知道它有一个固有的问题。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "it has an inherent problem in focusing on material adornment and idealized body types",
+          "修饰对象": "knows",
+          "中文翻译": "它在专注于物质装饰和理想化身材方面存在一个固有问题",
+          "说明": "作 knows 的宾语，省略了引导词 that。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "idealized body types",
+          "修饰对象": "adornment",
+          "中文翻译": "理想化的身材",
+          "说明": "material adornment 与 idealized body types 由 and 连接的并列结构，作 focusing on 的宾语。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "in focusing on material adornment and idealized body types",
+          "修饰对象": "problem",
+          "中文翻译": "在专注于物质装饰和理想化身材方面",
+          "说明": "介词短语说明 problem 所在的方面。"
+        }
+      ],
+      "zh": "时尚业知道，自己在专注于物质装饰和理想化身材方面存在一个固有的问题。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text1-s14",
+      "s": "In Denmark, the United States, and a few other countries, it is trying to set voluntary standards for models and fashion images that rely more on peer pressure for enforcement.",
+      "para_no": 5,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "it",
+        "谓语": "is trying",
+        "宾语或表语": "to set voluntary standards for models and fashion images",
+        "主干翻译": "它正试图为模特和时尚形象制定自愿标准。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "the United States, and a few other countries",
+          "修饰对象": "Denmark",
+          "中文翻译": "美国和其他几个国家",
+          "说明": "Denmark, the United States, and a few other countries 由逗号和 and 连接的并列结构。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "a few other countries",
+          "修饰对象": "States",
+          "中文翻译": "其他几个国家",
+          "说明": "并列结构中的最后一项。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to set voluntary standards for models and fashion images that rely more on peer pressure for enforcement",
+          "修饰对象": "trying",
+          "中文翻译": "为模特和时尚形象制定更多依靠同行压力来执行的自愿标准",
+          "说明": "动词不定式作 trying 的补足成分（宾语）。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that rely more on peer pressure for enforcement",
+          "修饰对象": "models",
+          "中文翻译": "更多依靠同行压力来执行的（标准）",
+          "说明": "that 引导的限制性定语从句，修饰 standard（k 标注挂靠 models，实指该自愿标准）。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "In Denmark, the United States, and a few other countries",
+          "修饰对象": "trying",
+          "中文翻译": "在丹麦、美国和其他几个国家",
+          "说明": "介词短语作地点状语，置于句首。"
+        }
+      ],
+      "zh": "在丹麦、美国及其他几个国家，时尚业正试图为模特和时尚形象制定更多依靠同行压力来执行的自愿标准。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text1-s15",
+      "s": "In contrast to France's actions, Denmark's fashion industry agreed last month on rules and sanctions regarding the age, health, and other characteristics of models.",
+      "para_no": 6,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Denmark's fashion industry",
+        "谓语": "agreed",
+        "宾语或表语": "on rules and sanctions",
+        "主干翻译": "丹麦的时尚业就规则和制裁措施达成了一致。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "regarding the age, health, and other characteristics of models",
+          "修饰对象": "rules",
+          "中文翻译": "有关模特年龄、健康及其他特征的（规则和制裁）",
+          "说明": "现在分词短语 regarding... 作后置定语，修饰 rules and sanctions。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "health, and other characteristics of models",
+          "修饰对象": "age",
+          "中文翻译": "健康及模特的其他特征",
+          "说明": "the age, health, and other characteristics 由逗号和 and 连接的并列结构。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "other characteristics of models",
+          "修饰对象": "health",
+          "中文翻译": "模特的其他特征",
+          "说明": "并列结构中的最后一项。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "In contrast to France's actions",
+          "修饰对象": "agreed",
+          "中文翻译": "与法国的做法相比",
+          "说明": "介词短语作状语，置于句首表对比。"
+        }
+      ],
+      "zh": "与法国的做法形成对比，丹麦的时尚业上个月就有关模特年龄、健康及其他特征的规则和制裁措施达成了一致。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text1-s16",
+      "s": "The newly revised Danish Fashion Ethical Charter clearly states: \"We are aware of and take responsibility for the impact the fashion industry has on body ideals, especially on young people.\"",
+      "para_no": 6,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "The newly revised Danish Fashion Ethical Charter",
+        "谓语": "states",
+        "宾语或表语": "\"We are aware of and take responsibility for the impact...\"",
+        "主干翻译": "新修订的《丹麦时尚伦理宪章》明确指出……"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "We are aware of and take responsibility for the impact the fashion industry has on body ideals, especially on young people",
+          "修饰对象": "states",
+          "中文翻译": "我们意识到并愿意为时尚业对身材理想（尤其是对年轻人）所产生的影响承担责任",
+          "说明": "引语作 states 的直接宾语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "take responsibility for the impact the fashion industry has on body ideals, especially on young people",
+          "修饰对象": "are",
+          "中文翻译": "为这种影响承担责任",
+          "说明": "are aware of 与 take responsibility for 由 and 连接的并列谓语。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "the fashion industry has on body ideals, especially on young people",
+          "修饰对象": "impact",
+          "中文翻译": "时尚业对身材理想（尤其是对年轻人）所产生的（影响）",
+          "说明": "省略引导词 that/which 的定语从句，修饰 the impact。"
+        }
+      ],
+      "zh": "新修订的《丹麦时尚伦理宪章》明确指出：\"我们意识到时尚业对身材理想观念（尤其是对年轻人）所产生的影响，并愿意为此承担责任。\"",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text1-s17",
+      "s": "The charter's main tool of enforcement is to deny access for designers and modeling agencies to Copenhagen Fashion Week (CFW), which is run by the Danish Fashion Institute.",
+      "para_no": 6,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "The charter's main tool of enforcement",
+        "谓语": "is",
+        "宾语或表语": "to deny access for designers and modeling agencies to Copenhagen Fashion Week",
+        "主干翻译": "该宪章主要的执行手段是拒绝设计师和模特经纪公司进入哥本哈根时装周。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to deny access for designers and modeling agencies to Copenhagen Fashion Week (CFW), which is run by the Danish Fashion Institute",
+          "修饰对象": "is",
+          "中文翻译": "拒绝设计师和模特经纪公司进入由丹麦时尚学院运营的哥本哈根时装周（CFW）",
+          "说明": "动词不定式作表语。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "CFW",
+          "修饰对象": "Week",
+          "中文翻译": "哥本哈根时装周（缩写为CFW）",
+          "说明": "括号内的缩写，作 Copenhagen Fashion Week 的同位语。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "which is run by the Danish Fashion Institute",
+          "修饰对象": "Week",
+          "中文翻译": "由丹麦时尚学院运营的（时装周）",
+          "说明": "which 引导的非限制性定语从句，修饰 Copenhagen Fashion Week。"
+        }
+      ],
+      "zh": "该宪章主要的执行手段，是拒绝设计师和模特经纪公司进入由丹麦时尚学院运营的哥本哈根时装周（CFW）。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text1-s18",
+      "s": "But in general it relies on a name-and-shame method of compliance.",
+      "para_no": 6,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "it",
+        "谓语": "relies",
+        "宾语或表语": "on a name-and-shame method of compliance",
+        "主干翻译": "它依靠一种点名羞辱的方法来促使遵守。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "in general",
+          "修饰对象": "relies",
+          "中文翻译": "总体而言",
+          "说明": "介词短语作状语，表概括。"
+        }
+      ],
+      "zh": "但总体而言，它依靠一种\"点名羞辱\"的方法来促使各方遵守。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text1-s19",
+      "s": "Relying on ethical persuasion rather than law to address the misuse of body ideals may be the best step.",
+      "para_no": 7,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Relying on ethical persuasion rather than law to address the misuse of body ideals",
+        "谓语": "may be",
+        "宾语或表语": "the best step",
+        "主干翻译": "依靠道德劝说而非法律来解决对身材理想的滥用，也许是最好的举措。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to address the misuse of body ideals",
+          "修饰对象": "Relying",
+          "中文翻译": "来解决对身材理想观念的滥用",
+          "说明": "动词不定式作目的状语，修饰动名词短语主语中的 Relying。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "rather than law",
+          "修饰对象": "Relying",
+          "中文翻译": "而非法律",
+          "说明": "ethical persuasion rather than law 构成并列对比结构。"
+        }
+      ],
+      "zh": "依靠道德劝说而非法律来解决对身材理想观念的滥用，也许是最好的举措。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text1-s20",
+      "s": "Even better would be to help elevate notions of beauty beyond the material standards of a particular industry.",
+      "para_no": 7,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "to help elevate notions of beauty",
+        "谓语": "would be",
+        "宾语或表语": "Even better",
+        "主干翻译": "帮助提升美的观念会更好。"
+      },
+      "components": [
+        {
+          "成分类型": "倒装",
+          "原文": "Even better would be to help elevate notions of beauty beyond the material standards of a particular industry",
+          "修饰对象": "—",
+          "中文翻译": "更好的做法是帮助将美的观念提升到超越某个特定行业物质标准的高度",
+          "说明": "表语 Even better 提前构成完全倒装，真正主语为不定式 to help...。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to help elevate notions of beauty beyond the material standards of a particular industry",
+          "修饰对象": "be",
+          "中文翻译": "帮助将美的观念提升到超越某个特定行业物质标准的高度",
+          "说明": "动词不定式作真正主语（倒装后置于句末）。"
+        }
+      ],
+      "zh": "更好的做法或许是，帮助将美的观念提升到超越某个特定行业物质标准的高度。",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2016-text1-s1",
+        "en1-2016-text1-s2",
+        "en1-2016-text1-s3"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2016-text1-s4",
+        "en1-2016-text1-s5",
+        "en1-2016-text1-s6",
+        "en1-2016-text1-s7",
+        "en1-2016-text1-s8"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2016-text1-s9",
+        "en1-2016-text1-s10"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2016-text1-s11",
+        "en1-2016-text1-s12"
+      ]
+    },
+    {
+      "para_no": 5,
+      "sids": [
+        "en1-2016-text1-s13",
+        "en1-2016-text1-s14"
+      ]
+    },
+    {
+      "para_no": 6,
+      "sids": [
+        "en1-2016-text1-s15",
+        "en1-2016-text1-s16",
+        "en1-2016-text1-s17",
+        "en1-2016-text1-s18"
+      ]
+    },
+    {
+      "para_no": 7,
+      "sids": [
+        "en1-2016-text1-s19",
+        "en1-2016-text1-s20"
+      ]
+    }
+  ]
+}

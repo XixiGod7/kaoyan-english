@@ -1,0 +1,751 @@
+{
+  "exam": "en1",
+  "key": "2008-t1",
+  "year": 2008,
+  "text_no": 1,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2008-text1-s1",
+      "s": "While still catching up to men in some spheres of modern life, women appear to be way ahead in at least one undesirable category.",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "women",
+        "谓语": "appear",
+        "宾语或表语": "to be way ahead in at least one undesirable category",
+        "主干翻译": "女性似乎在至少一个不光彩的方面遥遥领先。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(让步)",
+          "原文": "While still catching up to men in some spheres of modern life",
+          "修饰对象": "appear",
+          "中文翻译": "尽管在现代生活的某些领域女性仍在奋力追赶男性",
+          "说明": "while 引导让步状语从句，主语与主句一致而被省略，用现在分词形式；表示\"虽然/尽管\"。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to be way ahead in at least one undesirable category",
+          "修饰对象": "appear",
+          "中文翻译": "（似乎）在至少一个不光彩的方面遥遥领先",
+          "说明": "动词不定式作 appear 的补足语（系表结构），way 在此为副词表程度，意为\"远远地\"。"
+        }
+      ],
+      "zh": "尽管在现代生活的某些领域女性仍在奋力追赶男性，但在至少一个不光彩的方面，女性似乎已遥遥领先。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2008-text1-s2",
+      "s": "\"Women are particularly susceptible to developing depression and anxiety disorders in response to stress compared to men,\" according to Dr. Yehuda, chief psychiatrist at New York's Veteran's Administration Hospital.",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Women",
+        "谓语": "are",
+        "宾语或表语": "particularly susceptible to developing depression and anxiety disorders",
+        "主干翻译": "女性特别容易患上抑郁症和焦虑症。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "according to Dr. Yehuda, chief psychiatrist at New York's Veteran's Administration Hospital",
+          "修饰对象": "—",
+          "中文翻译": "据纽约退伍军人管理医院首席精神科医生耶胡达博士说",
+          "说明": "according to 引出信息来源，作全句的插入说明成分。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "chief psychiatrist at New York's Veteran's Administration Hospital",
+          "修饰对象": "Yehuda",
+          "中文翻译": "纽约退伍军人管理医院的首席精神科医生",
+          "说明": "名词短语作 Dr. Yehuda 的同位语，说明其身份；此处为同位结构（非从句），按 k 提示并入此节点。"
+        }
+      ],
+      "zh": "纽约退伍军人管理医院首席精神科医生耶胡达博士说：\"与男性相比，女性在面对压力时尤其容易患上抑郁症和焦虑症。\"",
+      "underline": null
+    },
+    {
+      "sid": "en1-2008-text1-s3",
+      "s": "Studies of both animals and humans have shown that sex hormones somehow affect the stress response, causing females under stress to produce more of the trigger chemicals than do males under the same conditions.",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Studies",
+        "谓语": "have shown",
+        "宾语或表语": "that 引导的宾语从句",
+        "主干翻译": "研究表明……"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "that sex hormones somehow affect the stress response, causing females under stress to produce more of the trigger chemicals than do males under the same conditions",
+          "修饰对象": "shown",
+          "中文翻译": "性激素以某种方式影响应激反应，致使承受压力的雌性比同等条件下的雄性分泌更多的触发性化学物质",
+          "说明": "that 引导 shown 的宾语从句。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "causing females under stress to produce more of the trigger chemicals than do males under the same conditions",
+          "修饰对象": "affect",
+          "中文翻译": "从而使承受压力的雌性分泌出比同等条件下雄性更多的触发性化学物质",
+          "说明": "现在分词短语作结果状语，修饰从句谓语 affect，表示影响所导致的结果。"
+        },
+        {
+          "成分类型": "状语从句(比较)",
+          "原文": "than do males under the same conditions",
+          "修饰对象": "more",
+          "中文翻译": "比同等条件下的雄性（所分泌的）更多",
+          "说明": "than 引导比较状语从句，与 more 构成比较；从句采用 do males 的部分倒装。"
+        }
+      ],
+      "zh": "对动物和人类的研究都表明，性激素会以某种方式影响应激反应，致使承受压力的雌性比同等条件下的雄性分泌出更多的触发性化学物质。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2008-text1-s4",
+      "s": "In several of the studies, when stressed-out female rats had their ovaries (the female reproductive organs) removed, their chemical responses became equal to those of the males.",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "their chemical responses",
+        "谓语": "became",
+        "宾语或表语": "equal to those of the males",
+        "主干翻译": "它们的化学反应变得与雄性的相同。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "when stressed-out female rats had their ovaries (the female reproductive organs) removed",
+          "修饰对象": "became",
+          "中文翻译": "当承受压力的雌鼠被切除卵巢（雌性生殖器官）后",
+          "说明": "when 引导时间状语从句，其内含 had + 宾语 + removed 的使役结构（had sth done）。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "the female reproductive organs",
+          "修饰对象": "ovaries",
+          "中文翻译": "即雌性生殖器官",
+          "说明": "括号内名词短语作 ovaries 的同位语，进行解释说明；为同位结构，按 k 提示并入此节点。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "removed",
+          "修饰对象": "ovaries",
+          "中文翻译": "（卵巢）被切除",
+          "说明": "过去分词 removed 作 had 的宾语补足语（had their ovaries removed），表被动完成。"
+        }
+      ],
+      "zh": "在其中几项研究里，当承受压力的雌鼠被切除卵巢（即雌性生殖器官）后，它们的化学反应就变得与雄鼠相同了。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2008-text1-s5",
+      "s": "Adding to a woman's increased dose of stress chemicals, are her increased \"opportunities\" for stress.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "her increased \"opportunities\" for stress",
+        "谓语": "are",
+        "宾语或表语": "Adding to a woman's increased dose of stress chemicals",
+        "主干翻译": "除了女性体内不断增多的压力化学物质之外，她们面临压力的“机会”也在不断增多。"
+      },
+      "components": [
+        {
+          "成分类型": "倒装",
+          "原文": "Adding to a woman's increased dose of stress chemicals, are her increased \"opportunities\" for stress",
+          "修饰对象": "—",
+          "中文翻译": "除了女性体内不断增多的压力化学物质之外，还有她们面临压力的\"机会\"也在增多",
+          "说明": "全句为完全倒装：表语性分词短语 Adding to... 置于句首，谓语 are 前置，真正主语 her increased \"opportunities\" 后置。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "Adding to a woman's increased dose of stress chemicals",
+          "修饰对象": "are",
+          "中文翻译": "在女性不断增多的压力化学物质之上又加了一笔的（是……）",
+          "说明": "现在分词短语，原本作系表结构中的前置成分；表\"在……之上再增添\"。"
+        }
+      ],
+      "zh": "除了女性体内不断增多的压力化学物质之外，使她们面临压力的\"机会\"也在不断增多。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2008-text1-s6",
+      "s": "\"It's not necessarily that women don't cope as well.",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "It",
+        "谓语": "'s",
+        "宾语或表语": "not necessarily that 引导的表语从句",
+        "主干翻译": "并不一定是……（这种情况）。"
+      },
+      "components": [
+        {
+          "成分类型": "表语从句",
+          "原文": "that women don't cope as well",
+          "修饰对象": "'s",
+          "中文翻译": "女性应对得不够好",
+          "说明": "that 引导表语从句，承接 It's not necessarily；as well 表\"（不）那么好\"。"
+        }
+      ],
+      "zh": "\"这并不一定是说女性应对压力的能力较差。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2008-text1-s7",
+      "s": "It's just that they have so much more to cope with,\" says Dr. Yehuda.",
+      "para_no": 3,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Dr. Yehuda",
+        "谓语": "says",
+        "宾语或表语": "It's just that they have so much more to cope with（直接引语作宾语）",
+        "主干翻译": "耶胡达博士说……"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "It's just that they have so much more to cope with",
+          "修饰对象": "says",
+          "中文翻译": "只不过是她们需要应对的事情多得多罢了",
+          "说明": "引号内整句为 says 的宾语（直接引语）。"
+        },
+        {
+          "成分类型": "表语从句",
+          "原文": "that they have so much more to cope with",
+          "修饰对象": "'s",
+          "中文翻译": "她们要应对的事情多得多",
+          "说明": "that 引导表语从句，承接 It's just。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "to cope with",
+          "修饰对象": "more",
+          "中文翻译": "（多得多的事情需要）去应对",
+          "说明": "不定式 to cope with 作后置定语修饰 so much more，with 的宾语即 more 所指内容；按 k 归此节点。"
+        }
+      ],
+      "zh": "耶胡达博士说：\"只不过是她们要应对的事情多得多罢了。\"",
+      "underline": null
+    },
+    {
+      "sid": "en1-2008-text1-s8",
+      "s": "\"Their capacity for tolerating stress may even be greater than men's,\" she observes, \"it's just that they're dealing with so many more things that they become worn out from it more visibly and sooner.\"",
+      "para_no": 3,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "she",
+        "谓语": "observes",
+        "宾语或表语": "两段直接引语作宾语",
+        "主干翻译": "她评论说……"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "Their capacity for tolerating stress may even be greater than men's",
+          "修饰对象": "observes",
+          "中文翻译": "她们承受压力的能力甚至可能比男性更强",
+          "说明": "第一段直接引语作 observes 的宾语；than men's 为比较结构。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "it's just that they're dealing with so many more things that they become worn out from it more visibly and sooner",
+          "修饰对象": "observes",
+          "中文翻译": "只不过是她们要应对的事情多得多，以至于她们更明显也更快地被压垮",
+          "说明": "第二段直接引语作 observes 的宾语；内含 it's just that 表语从句。"
+        },
+        {
+          "成分类型": "状语从句(结果)",
+          "原文": "that they become worn out from it more visibly and sooner",
+          "修饰对象": "things",
+          "中文翻译": "以致她们更明显也更快地被这些事情压垮",
+          "说明": "so... that 结构中 that 引导结果状语从句，与前面 so many more 呼应；按 k 挂靠 things。"
+        }
+      ],
+      "zh": "她评论道：\"她们承受压力的能力甚至可能比男性更强，只不过是她们要应对的事情多得多，以至于她们更明显、更快地被压垮罢了。\"",
+      "underline": null
+    },
+    {
+      "sid": "en1-2008-text1-s9",
+      "s": "Dr. Yehuda notes another difference between the sexes.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Dr. Yehuda",
+        "谓语": "notes",
+        "宾语或表语": "another difference between the sexes",
+        "主干翻译": "耶胡达博士指出了两性之间的另一处差异。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "between the sexes",
+          "修饰对象": "difference",
+          "中文翻译": "两性之间的",
+          "说明": "between 引导的介词短语作后置定语，修饰 difference。"
+        }
+      ],
+      "zh": "耶胡达博士指出了两性之间的另一处差异。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2008-text1-s10",
+      "s": "\"I think that the kinds of things that women are exposed to tend to be in more of a chronic or repeated nature.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "I",
+        "谓语": "think",
+        "宾语或表语": "that 引导的宾语从句",
+        "主干翻译": "我认为……"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "that the kinds of things that women are exposed to tend to be in more of a chronic or repeated nature",
+          "修饰对象": "think",
+          "中文翻译": "女性所遭遇的那类事情往往更具有慢性或反复发生的性质",
+          "说明": "that 引导 think 的宾语从句，从句主语为 the kinds of things。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that women are exposed to",
+          "修饰对象": "kinds",
+          "中文翻译": "女性所遭遇（暴露于其中）的",
+          "说明": "that 引导定语从句，修饰 things/the kinds of things，that 作 exposed to 的逻辑宾语。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to be in more of a chronic or repeated nature",
+          "修饰对象": "tend",
+          "中文翻译": "（往往）具有更多慢性或反复发生的性质",
+          "说明": "不定式作 tend 的补足语（tend to be）。"
+        }
+      ],
+      "zh": "\"我认为，女性所遭遇的那类事情往往更具有慢性或反复发生的性质。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2008-text1-s11",
+      "s": "Men go to war and are exposed to combat stress.",
+      "para_no": 4,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Men",
+        "谓语": "go / are exposed",
+        "宾语或表语": "to war / to combat stress",
+        "主干翻译": "男性奔赴战场，并经受战斗带来的压力。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "are exposed to combat stress",
+          "修饰对象": "go",
+          "中文翻译": "（并）经受战斗压力",
+          "说明": "and 连接两个并列谓语 go to war 与 are exposed to combat stress，共用主语 Men。"
+        }
+      ],
+      "zh": "男性奔赴战场，经受战斗带来的压力。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2008-text1-s12",
+      "s": "Men are exposed to more acts of random physical violence.",
+      "para_no": 4,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "Men",
+        "谓语": "are exposed",
+        "宾语或表语": "to more acts of random physical violence",
+        "主干翻译": "男性会遭遇更多随机的人身暴力行为。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "of random physical violence",
+          "修饰对象": "acts",
+          "中文翻译": "随机人身暴力的（行为）",
+          "说明": "of 引导介词短语作后置定语，修饰 acts。"
+        }
+      ],
+      "zh": "男性会遭遇更多随机性的人身暴力行为。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2008-text1-s13",
+      "s": "The kinds of interpersonal violence that women are exposed to tend to be in domestic situations, by, unfortunately, parents or other family members, and they tend not to be one-shot deals.",
+      "para_no": 4,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "The kinds of interpersonal violence / they",
+        "谓语": "tend / tend",
+        "宾语或表语": "to be in domestic situations / not to be one-shot deals",
+        "主干翻译": "女性所遭遇的那类人际暴力往往发生在家庭情境中，而且往往不是一次性的。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "that women are exposed to",
+          "修饰对象": "kinds",
+          "中文翻译": "女性所遭遇的",
+          "说明": "that 引导定语从句，修饰 the kinds of interpersonal violence，that 作 exposed to 的逻辑宾语。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to be in domestic situations, by, unfortunately, parents or other family members",
+          "修饰对象": "tend",
+          "中文翻译": "（往往）发生在家庭情境中，不幸的是，施暴者往往是父母或其他家庭成员",
+          "说明": "不定式作 tend 的补足语；其中 unfortunately 为插入语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "parents or other family members",
+          "修饰对象": "parents",
+          "中文翻译": "父母或其他家庭成员",
+          "说明": "or 连接 parents 与 other family members，作 by 的并列宾语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "they tend not to be one-shot deals",
+          "修饰对象": "tend",
+          "中文翻译": "而且这类暴力往往不是一次性的",
+          "说明": "and 连接的并列分句，与前一分句并列。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "not to be one-shot deals",
+          "修饰对象": "tend",
+          "中文翻译": "（往往）不是一锤子买卖（一次性事件）",
+          "说明": "不定式作第二个 tend 的补足语。"
+        }
+      ],
+      "zh": "女性所遭遇的那类人际暴力往往发生在家庭情境中，不幸的是，施暴者往往是父母或其他家庭成员，而且这类暴力往往不是一次性的。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2008-text1-s14",
+      "s": "The wear-and-tear that comes from these longer relationships can be quite devastating.\"",
+      "para_no": 4,
+      "para_seq": 5,
+      "trunk": {
+        "主语": "The wear-and-tear",
+        "谓语": "can be",
+        "宾语或表语": "quite devastating",
+        "主干翻译": "这种损耗可能极具破坏性。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "that comes from these longer relationships",
+          "修饰对象": "wear",
+          "中文翻译": "来自这些较为长期的关系的",
+          "说明": "that 引导定语从句，修饰 the wear-and-tear，that 作从句主语。"
+        }
+      ],
+      "zh": "由这些较为长期的关系所造成的损耗可能极具破坏性。\"",
+      "underline": null
+    },
+    {
+      "sid": "en1-2008-text1-s15",
+      "s": "Adeline Alvarez married at 18 and gave birth to a son, but was determined to finish college.",
+      "para_no": 5,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Adeline Alvarez",
+        "谓语": "married / gave / was determined",
+        "宾语或表语": "/ birth to a son / to finish college",
+        "主干翻译": "阿德琳·阿尔瓦雷斯18岁结婚并生了一个儿子，但决心读完大学。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "gave birth to a son",
+          "修饰对象": "married",
+          "中文翻译": "（并）生了一个儿子",
+          "说明": "and 连接的并列谓语，与 married at 18 并列，共用主语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "was determined to finish college",
+          "修饰对象": "married",
+          "中文翻译": "但决心读完大学",
+          "说明": "but 连接的并列谓语，表转折。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to finish college",
+          "修饰对象": "determined",
+          "中文翻译": "（决心）读完大学",
+          "说明": "不定式作 determined 的补足语，说明决心的内容。"
+        }
+      ],
+      "zh": "阿德琳·阿尔瓦雷斯18岁就结了婚并生下一个儿子，但她仍决心读完大学。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2008-text1-s16",
+      "s": "\"I struggled a lot to get the college degree.",
+      "para_no": 5,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "I",
+        "谓语": "struggled",
+        "宾语或表语": "a lot",
+        "主干翻译": "我费了很大的劲。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to get the college degree",
+          "修饰对象": "struggled",
+          "中文翻译": "为了拿到大学学位",
+          "说明": "不定式作目的状语，修饰 struggled。"
+        }
+      ],
+      "zh": "\"为了拿到大学学位，我付出了很多艰辛。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2008-text1-s17",
+      "s": "I was living in so much frustration that that was my escape, to go to school, and get ahead and do better.\"",
+      "para_no": 5,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "I",
+        "谓语": "was living",
+        "宾语或表语": "in so much frustration",
+        "主干翻译": "我生活在巨大的挫败感之中。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(结果)",
+          "原文": "that that was my escape, to go to school, and get ahead and do better",
+          "修饰对象": "frustration",
+          "中文翻译": "以至于上学、求上进、谋求更好的生活成了我的解脱方式",
+          "说明": "so... that 结构中 that 引导结果状语从句，与 so much frustration 呼应；按 k 挂靠 frustration。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to go to school, and get ahead and do better",
+          "修饰对象": "escape",
+          "中文翻译": "即去上学、求上进、把日子过得更好",
+          "说明": "不定式短语作 my escape 的同位说明，解释\"解脱\"的具体内容；按 k 归此节点。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "get ahead and do better",
+          "修饰对象": "go",
+          "中文翻译": "求上进并把日子过得更好",
+          "说明": "and 连接 go to school、get ahead、do better 三个并列不定式动作。"
+        }
+      ],
+      "zh": "我生活在巨大的挫败感中，以至于上学成了我的解脱方式——去读书、力争上游、把日子过得更好。\"",
+      "underline": null
+    },
+    {
+      "sid": "en1-2008-text1-s18",
+      "s": "Later, her marriage ended and she became a single mother.",
+      "para_no": 5,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "her marriage / she",
+        "谓语": "ended / became",
+        "宾语或表语": "/ a single mother",
+        "主干翻译": "她的婚姻破裂了，她成了一名单身母亲。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "she became a single mother",
+          "修饰对象": "ended",
+          "中文翻译": "而且她成了单身母亲",
+          "说明": "and 连接的并列分句，与 her marriage ended 并列。"
+        }
+      ],
+      "zh": "后来，她的婚姻破裂了，她成了一名单身母亲。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2008-text1-s19",
+      "s": "\"It's the hardest thing to take care of a teenager, have a job, pay the rent, pay the car payment, and pay the debt. I lived from paycheck to paycheck.\"",
+      "para_no": 5,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "It",
+        "谓语": "'s",
+        "宾语或表语": "the hardest thing",
+        "主干翻译": "这是最难的事。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to take care of a teenager, have a job, pay the rent, pay the car payment, and pay the debt",
+          "修饰对象": "'s",
+          "中文翻译": "又要照顾一个十几岁的孩子，又要工作、付房租、还车贷、还债",
+          "说明": "不定式短语作真正主语，It 为形式主语（It's the hardest thing to do）。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "have a job, pay the rent, pay the car payment, and pay the debt",
+          "修饰对象": "take",
+          "中文翻译": "工作、付房租、还车贷、还债",
+          "说明": "and 连接 take care、have、pay、pay、pay 等多个并列不定式动作。"
+        }
+      ],
+      "zh": "“又要照顾一个十几岁的孩子，又要工作、付房租、还车贷、还债，这是最难的事。我一直是靠一张工资单撑到下一张工资单过日子。”",
+      "underline": null
+    },
+    {
+      "sid": "en1-2008-text1-s20",
+      "s": "Not everyone experiences the kinds of severe chronic stresses Alvarez describes.",
+      "para_no": 6,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Not everyone",
+        "谓语": "experiences",
+        "宾语或表语": "the kinds of severe chronic stresses",
+        "主干翻译": "并非每个人都会经历那类严重的慢性压力。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "Alvarez describes",
+          "修饰对象": "stresses",
+          "中文翻译": "阿尔瓦雷斯所描述的",
+          "说明": "省略引导词 that/which 的定语从句，修饰 the kinds of severe chronic stresses，关系词作 describes 的逻辑宾语。"
+        }
+      ],
+      "zh": "并非每个人都会经历阿尔瓦雷斯所描述的那类严重的慢性压力。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2008-text1-s21",
+      "s": "But most women today are coping with a lot of obligations, with few breaks, and feeling the strain.",
+      "para_no": 6,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "most women",
+        "谓语": "are coping",
+        "宾语或表语": "with a lot of obligations",
+        "主干翻译": "如今大多数女性都要应对大量的责任。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "with few breaks",
+          "修饰对象": "coping",
+          "中文翻译": "几乎没有喘息的机会",
+          "说明": "with 引导的介词短语作伴随状语，修饰 coping。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "feeling the strain",
+          "修饰对象": "coping",
+          "中文翻译": "并感受着压力",
+          "说明": "and 连接的并列分词结构，与 coping with a lot of obligations 并列。"
+        }
+      ],
+      "zh": "但如今大多数女性都要应对大量的责任，几乎没有喘息的机会，并承受着重压。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2008-text1-s22",
+      "s": "Alvarez's experience demonstrates the importance of finding ways to diffuse stress before it threatens your health and your ability to function.",
+      "para_no": 6,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Alvarez's experience",
+        "谓语": "demonstrates",
+        "宾语或表语": "the importance of finding ways to diffuse stress",
+        "主干翻译": "阿尔瓦雷斯的经历表明了找到缓解压力之方法的重要性。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to diffuse stress before it threatens your health and your ability to function",
+          "修饰对象": "ways",
+          "中文翻译": "在压力危害健康和正常生活能力之前缓解压力的（方法）",
+          "说明": "不定式短语作后置定语，修饰 ways。"
+        },
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "before it threatens your health and your ability to function",
+          "修饰对象": "diffuse",
+          "中文翻译": "在压力危及你的健康和正常运转的能力之前",
+          "说明": "before 引导时间状语从句，修饰 diffuse。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "your ability to function",
+          "修饰对象": "health",
+          "中文翻译": "你正常运转（生活）的能力",
+          "说明": "and 连接 your health 与 your ability to function，作 threatens 的并列宾语。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to function",
+          "修饰对象": "ability",
+          "中文翻译": "正常运转（生活）的（能力）",
+          "说明": "不定式作后置定语，修饰 ability。"
+        }
+      ],
+      "zh": "阿尔瓦雷斯的经历表明，在压力危及你的健康和正常生活能力之前，找到缓解压力的方法至关重要。",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2008-text1-s1",
+        "en1-2008-text1-s2"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2008-text1-s3",
+        "en1-2008-text1-s4"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2008-text1-s5",
+        "en1-2008-text1-s6",
+        "en1-2008-text1-s7",
+        "en1-2008-text1-s8"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2008-text1-s9",
+        "en1-2008-text1-s10",
+        "en1-2008-text1-s11",
+        "en1-2008-text1-s12",
+        "en1-2008-text1-s13",
+        "en1-2008-text1-s14"
+      ]
+    },
+    {
+      "para_no": 5,
+      "sids": [
+        "en1-2008-text1-s15",
+        "en1-2008-text1-s16",
+        "en1-2008-text1-s17",
+        "en1-2008-text1-s18",
+        "en1-2008-text1-s19"
+      ]
+    },
+    {
+      "para_no": 6,
+      "sids": [
+        "en1-2008-text1-s20",
+        "en1-2008-text1-s21",
+        "en1-2008-text1-s22"
+      ]
+    }
+  ]
+}

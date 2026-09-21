@@ -1,0 +1,742 @@
+{
+  "exam": "en1",
+  "key": "2022-t3",
+  "year": 2022,
+  "text_no": 3,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2022-text3-s1",
+      "s": "Enlightening, challenging, stimulating, fun.",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "—",
+        "谓语": "—",
+        "宾语或表语": "Enlightening, challenging, stimulating, fun",
+        "主干翻译": "富有启发性、富有挑战性、令人振奋、有趣。"
+      },
+      "components": [
+        {
+          "成分类型": "省略",
+          "原文": "Enlightening, challenging, stimulating, fun.",
+          "修饰对象": "—",
+          "中文翻译": "（它是）富有启发性的、富有挑战性的、令人振奋的、有趣的。",
+          "说明": "这是省略了主语和系动词的并列形容词独词句，相当于 (It was) enlightening, challenging, stimulating, fun。"
+        }
+      ],
+      "zh": "富有启发性、充满挑战、催人奋进、妙趣横生。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2022-text3-s2",
+      "s": "These were some of the words that Nature readers used to describe their experience of art-science collaborations in a series of articles on partnerships between artists and researchers.",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "These",
+        "谓语": "were",
+        "宾语或表语": "some of the words",
+        "主干翻译": "这些是其中一些词语。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "that Nature readers used to describe their experience of art-science collaborations in a series of articles on partnerships between artists and researchers",
+          "修饰对象": "words",
+          "中文翻译": "《自然》杂志的读者在一系列关于艺术家与研究人员合作关系的文章中用来描述他们对艺术与科学合作之体验的（词语）",
+          "说明": "that 引导定语从句修饰 words，that 在从句中作 used 的宾语。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to describe their experience of art-science collaborations in a series of articles on partnerships between artists and researchers",
+          "修饰对象": "used",
+          "中文翻译": "用来描述他们对艺术与科学合作的体验",
+          "说明": "不定式 to describe 作目的状语，挂靠在定语从句的谓语 used 上（used...to do 结构）；其中两个 on/of/between 介词短语层层修饰。"
+        }
+      ],
+      "zh": "在一系列探讨艺术家与研究人员合作关系的文章中，《自然》杂志的读者正是用这些词语来描述他们对艺术与科学合作的体验。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2022-text3-s3",
+      "s": "Nearly 40% of the roughly 350 people who responded to an accompanying poll said, they had collaborated with artists, and almost all said they would consider doing so in future.",
+      "para_no": 1,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Nearly 40% of the roughly 350 people",
+        "谓语": "said",
+        "宾语或表语": "(that) they had collaborated with artists",
+        "主干翻译": "在大约350名受访者中，将近40%的人说他们曾与艺术家合作过。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "who responded to an accompanying poll",
+          "修饰对象": "people",
+          "中文翻译": "参与了一项附带调查的（人）",
+          "说明": "who 引导定语从句修饰 people，who 在从句中作主语。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "they had collaborated with artists",
+          "修饰对象": "said",
+          "中文翻译": "他们曾与艺术家合作过",
+          "说明": "作第一个 said 的宾语，省略了引导词 that。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "almost all said they would consider doing so in future",
+          "修饰对象": "—",
+          "中文翻译": "几乎所有人都说他们将来会考虑这样做",
+          "说明": "由 and 连接的并列分句，与前一主句 Nearly 40%...said... 并列。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "they would consider doing so in future",
+          "修饰对象": "said",
+          "中文翻译": "他们将来会考虑这样做",
+          "说明": "作第二个 said 的宾语，省略了引导词 that。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "doing so in future",
+          "修饰对象": "consider",
+          "中文翻译": "（考虑）将来这样做",
+          "说明": "动名词短语 doing so 作 consider 的宾语，so 指代前文的 collaborate with artists。"
+        }
+      ],
+      "zh": "在参与这项附带调查的约350人中，将近40%的人表示他们曾与艺术家合作过，而几乎所有人都表示将来会考虑这样做。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2022-text3-s4",
+      "s": "Such an encouraging result is not surprising.",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Such an encouraging result",
+        "谓语": "is",
+        "宾语或表语": "not surprising",
+        "主干翻译": "如此令人鼓舞的结果并不令人意外。"
+      },
+      "components": null,
+      "zh": "如此令人鼓舞的结果并不令人意外。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2022-text3-s5",
+      "s": "Scientists are increasingly seeking out visual artists to help them communicate their work to new audiences.",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Scientists",
+        "谓语": "are increasingly seeking out",
+        "宾语或表语": "visual artists",
+        "主干翻译": "科学家们越来越多地寻求视觉艺术家的帮助。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to help them communicate their work to new audiences",
+          "修饰对象": "seeking",
+          "中文翻译": "来帮助他们向新的受众传达自己的研究工作",
+          "说明": "不定式 to help 作目的状语，挂靠在谓语 seeking out 上。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "them communicate their work to new audiences",
+          "修饰对象": "help",
+          "中文翻译": "他们向新的受众传达自己的研究工作",
+          "说明": "help them (to) communicate 复合宾语结构，them 为宾语、communicate... 为宾语补足语。"
+        }
+      ],
+      "zh": "科学家们越来越多地寻求视觉艺术家的帮助，以便向新的受众传达自己的研究工作。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2022-text3-s6",
+      "s": "\"Artists help scientists reach a broader audience and make emotional connections that enhance learning.\"",
+      "para_no": 2,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Artists",
+        "谓语": "help",
+        "宾语或表语": "scientists reach a broader audience and make emotional connections",
+        "主干翻译": "艺术家帮助科学家接触更广泛的受众并建立情感联系。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "scientists reach a broader audience and make emotional connections that enhance learning",
+          "修饰对象": "help",
+          "中文翻译": "科学家接触更广泛的受众并建立能增进学习的情感联系",
+          "说明": "help scientists (to) reach... 复合宾语结构，scientists 为宾语，reach 与 make 为并列的宾语补足语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "make emotional connections that enhance learning",
+          "修饰对象": "reach",
+          "中文翻译": "建立能增进学习的情感联系",
+          "说明": "由 and 连接，与 reach a broader audience 并列，同为 scientists 的宾语补足语。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that enhance learning",
+          "修饰对象": "connections",
+          "中文翻译": "能增进学习的（情感联系）",
+          "说明": "that 引导定语从句修饰 connections，that 在从句中作主语。"
+        }
+      ],
+      "zh": "艺术家帮助科学家接触更广泛的受众，并建立起能够增进学习效果的情感联系。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2022-text3-s7",
+      "s": "One respondent said.",
+      "para_no": 2,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "One respondent",
+        "谓语": "said",
+        "宾语或表语": "—",
+        "主干翻译": "一位受访者说道。"
+      },
+      "components": [],
+      "zh": "一位受访者如是说。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2022-text3-s8",
+      "s": "One example of how artists and scientists have together rocked the scenes came last month when the Sydney Symphony Orchestra performed a reworked version of Antonio Vivaldi's The Four Seasons.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "One example of how artists and scientists have together rocked the scenes",
+        "谓语": "came",
+        "宾语或表语": "last month",
+        "主干翻译": "艺术家与科学家共同震撼业界的一个例子就发生在上个月。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "of how artists and scientists have together rocked the scenes",
+          "修饰对象": "example",
+          "中文翻译": "关于艺术家与科学家如何共同震撼业界的（一个例子）",
+          "说明": "of+how 引导的疑问词从句作介词宾语，整体作定语修饰 One example。"
+        },
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "when the Sydney Symphony Orchestra performed a reworked version of Antonio Vivaldi's The Four Seasons",
+          "修饰对象": "came",
+          "中文翻译": "当悉尼交响乐团演奏维瓦尔第《四季》的改编版之时",
+          "说明": "when 引导时间状语从句，修饰主句谓语 came（came last month when...）。"
+        }
+      ],
+      "zh": "艺术家与科学家共同震撼业界的一个例子，就发生在上个月悉尼交响乐团演奏安东尼奥·维瓦尔第《四季》改编版之时。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2022-text3-s9",
+      "s": "They reimagined the 300-year-old score by injecting the latest climate prediction data for each season-provided by Monash University's Climate Change Communication Research Hub.",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "They",
+        "谓语": "reimagined",
+        "宾语或表语": "the 300-year-old score",
+        "主干翻译": "他们重新构想了这部有着300年历史的乐曲。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "by injecting the latest climate prediction data for each season",
+          "修饰对象": "reimagined",
+          "中文翻译": "通过为每个季节注入最新的气候预测数据",
+          "说明": "by+动名词短语作方式状语，修饰谓语 reimagined。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "provided by Monash University's Climate Change Communication Research Hub",
+          "修饰对象": "data",
+          "中文翻译": "由莫纳什大学气候变化传播研究中心提供的（数据）",
+          "说明": "过去分词短语 provided by... 作后置定语修饰 data。"
+        }
+      ],
+      "zh": "他们为每个季节注入了由莫纳什大学气候变化传播研究中心提供的最新气候预测数据，从而对这部有着300年历史的乐曲进行了重新构想。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2022-text3-s10",
+      "s": "The performance was a creative call to action ahead of November's United Nations Climate Change Conference in Glasgow, UK.",
+      "para_no": 3,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "The performance",
+        "谓语": "was",
+        "宾语或表语": "a creative call to action",
+        "主干翻译": "这场演出是一次富有创意的行动呼吁。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "ahead of November's United Nations Climate Change Conference in Glasgow, UK",
+          "修饰对象": "call",
+          "中文翻译": "在11月于英国格拉斯哥举行的联合国气候变化大会之前的（行动呼吁）",
+          "说明": "ahead of... 介词短语作定语（兼时间状语含义），修饰 call to action。"
+        },
+        {
+          "成分类型": "同位语",
+          "原文": "UK",
+          "修饰对象": "Glasgow",
+          "中文翻译": "（格拉斯哥，）英国",
+          "说明": "UK 与 Glasgow 构成同位关系，说明格拉斯哥所属国家。"
+        }
+      ],
+      "zh": "这场演出是在11月于英国格拉斯哥召开的联合国气候变化大会之前发出的一次富有创意的行动呼吁。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2022-text3-s11",
+      "s": "But a genuine partnership must be a two-way street.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "a genuine partnership",
+        "谓语": "must be",
+        "宾语或表语": "a two-way street",
+        "主干翻译": "真正的合作伙伴关系必须是双向的。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "But",
+          "修饰对象": "—",
+          "中文翻译": "但是",
+          "说明": "But 为转折连词，连接上文，表示语义转折。"
+        }
+      ],
+      "zh": "但真正的合作伙伴关系必须是双向的。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2022-text3-s12",
+      "s": "Fewer artists than scientists responded to the Nature poll, however, several respondents noted that artists do not simply assist scientists with their communication requirements.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "several respondents",
+        "谓语": "noted",
+        "宾语或表语": "that artists do not simply assist scientists with their communication requirements",
+        "主干翻译": "几位受访者指出，艺术家并非仅仅是协助科学家满足其传播需求。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "Fewer artists than scientists responded to the Nature poll",
+          "修饰对象": "noted",
+          "中文翻译": "参与《自然》杂志调查的艺术家少于科学家",
+          "说明": "k 提示此句挂靠 noted，作语义层面的对比铺垫；该独立句与后句由 however 转折连接。此处按 k 标注为宾语从句性质的内容节点。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "however",
+          "修饰对象": "—",
+          "中文翻译": "然而",
+          "说明": "however 作插入语/连接性副词，表示转折。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that artists do not simply assist scientists with their communication requirements",
+          "修饰对象": "noted",
+          "中文翻译": "艺术家并非仅仅协助科学家满足其传播需求",
+          "说明": "that 引导宾语从句，作 noted 的宾语。"
+        }
+      ],
+      "zh": "参与《自然》杂志调查的艺术家虽然少于科学家，然而，有几位受访者指出，艺术家并非仅仅是协助科学家满足其传播需求。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2022-text3-s13",
+      "s": "Nor should their work be considered only as an object of study.",
+      "para_no": 4,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "their work",
+        "谓语": "should be considered",
+        "宾语或表语": "only as an object of study",
+        "主干翻译": "他们的作品也不应仅仅被视为研究对象。"
+      },
+      "components": [
+        {
+          "成分类型": "倒装",
+          "原文": "Nor should their work be considered",
+          "修饰对象": "—",
+          "中文翻译": "他们的作品也不应被（视为）",
+          "说明": "否定副词 Nor 置于句首引起部分倒装，助动词 should 提到主语 their work 之前。"
+        }
+      ],
+      "zh": "他们的作品也不应仅仅被当作研究对象来看待。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2022-text3-s14",
+      "s": "The alliances are most valuable when scientists and artists have a shared stake in a project, are able to jointly design it and can critique each other's work.",
+      "para_no": 4,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "The alliances",
+        "谓语": "are",
+        "宾语或表语": "most valuable",
+        "主干翻译": "这种联盟最具价值。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "when scientists and artists have a shared stake in a project, are able to jointly design it and can critique each other's work",
+          "修饰对象": "are",
+          "中文翻译": "当科学家与艺术家在一个项目中拥有共同的利害关系、能够共同设计该项目并能相互评议彼此的作品时",
+          "说明": "when 引导时间状语从句（兼条件含义），修饰主句系动词 are；从句内含三个并列谓语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "are able to jointly design it and can critique each other's work",
+          "修饰对象": "have",
+          "中文翻译": "能够共同设计该项目并能相互评议彼此的作品",
+          "说明": "从句主语 scientists and artists 带三个并列谓语 have / are able / can critique，由 and 连接。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to jointly design it",
+          "修饰对象": "able",
+          "中文翻译": "共同设计该项目",
+          "说明": "不定式 to design 作 be able 的补足成分（be able to do）。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "can critique each other's work",
+          "修饰对象": "are",
+          "中文翻译": "能相互评议彼此的作品",
+          "说明": "第三个并列谓语，由 and 连接，与 are able to... 并列。"
+        }
+      ],
+      "zh": "当科学家与艺术家在某个项目中拥有共同的利害关系、能够共同设计该项目并能相互评议彼此的作品时，这种联盟才最具价值。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2022-text3-s15",
+      "s": "Such an approach can both prompt new research as well as result in powerful art.",
+      "para_no": 4,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "Such an approach",
+        "谓语": "can prompt",
+        "宾语或表语": "new research",
+        "主干翻译": "这样一种方式既能催生新的研究。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "both prompt new research as well as result in powerful art",
+          "修饰对象": "—",
+          "中文翻译": "既能催生新的研究，又能产生强有力的艺术",
+          "说明": "both...as well as... 连接两个并列谓语 prompt 与 result in，共用主语 Such an approach 和情态动词 can。"
+        }
+      ],
+      "zh": "这样一种方式既能催生新的研究，又能孕育出强有力的艺术。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2022-text3-s16",
+      "s": "More than half a century ago, the Massachusetts Institute of Technology opened its Center for Advanced Visual Studies (CAVS) to explore the role of technology in culture.",
+      "para_no": 5,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "the Massachusetts Institute of Technology",
+        "谓语": "opened",
+        "宾语或表语": "its Center for Advanced Visual Studies",
+        "主干翻译": "麻省理工学院创办了其先进视觉研究中心。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "More than half a century ago",
+          "修饰对象": "opened",
+          "中文翻译": "半个多世纪以前",
+          "说明": "时间状语，修饰谓语 opened。"
+        },
+        {
+          "成分类型": "同位语",
+          "原文": "CAVS",
+          "修饰对象": "Center",
+          "中文翻译": "（先进视觉研究中心，简称）CAVS",
+          "说明": "括号内 CAVS 为该中心名称的缩写，与 Center for Advanced Visual Studies 构成同位关系。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to explore the role of technology in culture",
+          "修饰对象": "opened",
+          "中文翻译": "以探究技术在文化中的作用",
+          "说明": "不定式 to explore 作目的状语，修饰谓语 opened。"
+        }
+      ],
+      "zh": "半个多世纪以前，麻省理工学院创办了其先进视觉研究中心（CAVS），以探究技术在文化中所扮演的角色。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2022-text3-s17",
+      "s": "The founders deliberately focused their projects around light—hence the \"visual studies\" in the name.",
+      "para_no": 5,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "The founders",
+        "谓语": "focused",
+        "宾语或表语": "their projects",
+        "主干翻译": "创办者们刻意将他们的项目集中于此。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "around light—hence the \"visual studies\" in the name",
+          "修饰对象": "focused",
+          "中文翻译": "围绕光——由此而有了名称中的\"视觉研究\"",
+          "说明": "around light 介词短语作状语修饰 focused；破折号后 hance（hence 之误）the \"visual studies\" 为补充说明。"
+        }
+      ],
+      "zh": "创办者们刻意将各项目都围绕\"光\"来展开——其名称中的\"视觉研究\"即由此而来。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2022-text3-s18",
+      "s": "Light was a something that both artists and scientists had an interest in and therefore could form the basis of collaboration.",
+      "para_no": 5,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Light",
+        "谓语": "was",
+        "宾语或表语": "a something",
+        "主干翻译": "光是一种东西。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "that both artists and scientists had an interest in and therefore could form the basis of collaboration",
+          "修饰对象": "something",
+          "中文翻译": "艺术家和科学家都对之感兴趣、因而能够构成合作基础的（东西）",
+          "说明": "that 引导定语从句修饰 something，含两个并列谓语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "therefore could form the basis of collaboration",
+          "修饰对象": "had",
+          "中文翻译": "因而能够构成合作的基础",
+          "说明": "由 and 连接，与 had an interest in 并列，同为定语从句内的谓语（此处 that 兼作 could form 的主语）。"
+        }
+      ],
+      "zh": "光是一种艺术家和科学家都感兴趣、因而能够成为合作基础的东西。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2022-text3-s19",
+      "s": "As science and technology progressed, and divided into more sub-disciplines, the centre was simultaneously looking to a time when leading researchers could also be artists, writers and poets, and vice versa.",
+      "para_no": 5,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "the centre",
+        "谓语": "was looking",
+        "宾语或表语": "to a time",
+        "主干翻译": "该中心同时也在展望一个时代。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "As science and technology progressed, and divided into more sub-disciplines",
+          "修饰对象": "looking",
+          "中文翻译": "随着科学技术不断进步并分化为更多的子学科",
+          "说明": "As 引导时间状语从句（表伴随），修饰主句谓语 was looking。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "divided into more sub-disciplines",
+          "修饰对象": "progressed",
+          "中文翻译": "（并）分化为更多的子学科",
+          "说明": "由 and 连接，与 progressed 并列，同为 As 从句的谓语。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "when leading researchers could also be artists, writers and poets, and vice versa",
+          "修饰对象": "time",
+          "中文翻译": "那时顶尖研究人员也可以是艺术家、作家和诗人，反之亦然",
+          "说明": "when 引导定语从句修饰先行词 time。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "writers and poets",
+          "修饰对象": "artists",
+          "中文翻译": "作家和诗人",
+          "说明": "artists, writers and poets 为并列表语成分。"
+        }
+      ],
+      "zh": "随着科学技术不断进步并分化为更多的子学科，该中心同时也在展望这样一个时代：那时顶尖研究人员也可以是艺术家、作家和诗人，反之亦然。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2022-text3-s20",
+      "s": "Nature's poll findings suggest that this trend is as strong as ever, but, to make a collaboration work both sides need to invest time and embrace surprise and challenge.",
+      "para_no": 6,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Nature's poll findings",
+        "谓语": "suggest",
+        "宾语或表语": "that this trend is as strong as ever",
+        "主干翻译": "《自然》杂志的调查结果表明，这一趋势依然一如既往地强劲。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "that this trend is as strong as ever",
+          "修饰对象": "suggest",
+          "中文翻译": "这一趋势依然一如既往地强劲",
+          "说明": "that 引导宾语从句，作 suggest 的宾语；内含 as...as ever 比较结构。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "to make a collaboration work both sides need to invest time and embrace surprise and challenge",
+          "修饰对象": "—",
+          "中文翻译": "要使合作取得成效，双方都需要投入时间并欣然接受意外与挑战",
+          "说明": "由 but 连接的并列分句，与前一主句 Nature's poll findings suggest... 转折并列。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to make a collaboration work",
+          "修饰对象": "need",
+          "中文翻译": "要使合作取得成效",
+          "说明": "不定式短语作目的状语，修饰后句谓语 need。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "a collaboration work",
+          "修饰对象": "make",
+          "中文翻译": "合作取得成效",
+          "说明": "make a collaboration work 为使役复合宾语结构，a collaboration 为宾语、work 为宾语补足语。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to invest time and embrace surprise and challenge",
+          "修饰对象": "need",
+          "中文翻译": "投入时间并欣然接受意外与挑战",
+          "说明": "不定式短语作 need 的宾语（need to do）。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "embrace surprise and challenge",
+          "修饰对象": "invest",
+          "中文翻译": "欣然接受意外与挑战",
+          "说明": "由 and 连接，与 invest time 并列，同为 to 后的并列动词。"
+        }
+      ],
+      "zh": "《自然》杂志的调查结果表明，这一趋势依然一如既往地强劲，但要使合作取得成效，双方都需要投入时间，并欣然接纳其中的意外与挑战。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2022-text3-s21",
+      "s": "The reach of art-science tie-ups needs to go beyond the necessary purpose of research communication, and participants must not fall into the trap of stereotyping each other.",
+      "para_no": 6,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "The reach of art-science tie-ups",
+        "谓语": "needs to go",
+        "宾语或表语": "beyond the necessary purpose of research communication, and participants",
+        "主干翻译": "艺术与科学结合的影响范围需要超越研究传播这一必要目的，以及参与者（这一范畴）。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to go beyond the necessary purpose of research communication, and participants",
+          "修饰对象": "needs",
+          "中文翻译": "超越研究传播这一必要目的",
+          "说明": "不定式短语作 needs 的宾语（need to do）；介词短语 of research communication 修饰 purpose。"
+        }
+      ],
+      "zh": "艺术与科学结合所产生的影响，需要超越研究传播这一必要目的，而且参与者不得落入彼此刻板印象的窠臼。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2022-text3-s22",
+      "s": "Artists and scientists alike are immersed in discovery and invention, and challenge and critique are core to both, too.",
+      "para_no": 6,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Artists and scientists",
+        "谓语": "are immersed",
+        "宾语或表语": "in discovery and invention",
+        "主干翻译": "艺术家和科学家同样都沉浸在发现与发明之中。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "challenge and critique are core to both, too",
+          "修饰对象": "—",
+          "中文翻译": "挑战与评议对二者而言也都是核心所在",
+          "说明": "由 and 连接的并列分句，与前一主句 Artists and scientists...are immersed... 并列。"
+        }
+      ],
+      "zh": "艺术家和科学家同样都沉浸于发现与发明之中，而挑战与评议对双方来说也都是核心所在。",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2022-text3-s1",
+        "en1-2022-text3-s2",
+        "en1-2022-text3-s3"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2022-text3-s4",
+        "en1-2022-text3-s5",
+        "en1-2022-text3-s6",
+        "en1-2022-text3-s7"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2022-text3-s8",
+        "en1-2022-text3-s9",
+        "en1-2022-text3-s10"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2022-text3-s11",
+        "en1-2022-text3-s12",
+        "en1-2022-text3-s13",
+        "en1-2022-text3-s14",
+        "en1-2022-text3-s15"
+      ]
+    },
+    {
+      "para_no": 5,
+      "sids": [
+        "en1-2022-text3-s16",
+        "en1-2022-text3-s17",
+        "en1-2022-text3-s18",
+        "en1-2022-text3-s19"
+      ]
+    },
+    {
+      "para_no": 6,
+      "sids": [
+        "en1-2022-text3-s20",
+        "en1-2022-text3-s21",
+        "en1-2022-text3-s22"
+      ]
+    }
+  ]
+}

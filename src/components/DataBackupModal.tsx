@@ -61,19 +61,46 @@ export const DataBackupModal: React.FC<DataBackupModalProps> = ({
       ebbinghausRecords = JSON.parse(ebbinghausRaw);
     } catch {}
 
+    const favSentencesRaw = localStorage.getItem('kaoyan_favorite_sentences') || '[]';
+    let favoriteSentences = [];
+    try { favoriteSentences = JSON.parse(favSentencesRaw); } catch {}
+
+    const wrongQRaw = localStorage.getItem('kaoyan_wrong_questions') || '[]';
+    let wrongQuestions = [];
+    try { wrongQuestions = JSON.parse(wrongQRaw); } catch {}
+
+    const paraphraseRaw = localStorage.getItem('kaoyan_paraphrase_progress') || '{}';
+    let paraphraseProgress = {};
+    try { paraphraseProgress = JSON.parse(paraphraseRaw); } catch {}
+
+    const phraseDictateRaw = localStorage.getItem('kaoyan_phrase_dictate_history') || '{}';
+    let phraseDictateHistory = {};
+    try { phraseDictateHistory = JSON.parse(phraseDictateRaw); } catch {}
+
+    const readingProgressRaw = localStorage.getItem('kaoyan_reading_progress') || '{}';
+    let readingProgress = {};
+    try { readingProgress = JSON.parse(readingProgressRaw); } catch {}
+
     return {
-      appName: '考研英语一真题库',
-      version: '1.0.0',
+      appName: '考研英语一真题长难句精读与题库系统',
+      version: '2.0.0',
       exportTime: new Date().toISOString(),
       stats: {
         familiarCount,
         unfamiliarCount,
         totalMarkedWords: familiarCount + unfamiliarCount,
+        favoriteSentencesCount: favoriteSentences.length,
+        wrongQuestionsCount: wrongQuestions.length,
       },
       data: {
         wordStatuses,
         ebbinghausRecords,
         quizHistory,
+        favoriteSentences,
+        wrongQuestions,
+        paraphraseProgress,
+        phraseDictateHistory,
+        readingProgress,
         theme: localStorage.getItem('kaoyan_theme') || 'dark',
       }
     };

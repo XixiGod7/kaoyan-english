@@ -1,0 +1,680 @@
+{
+  "exam": "en1",
+  "key": "2013-t1",
+  "year": 2013,
+  "text_no": 1,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2013-text1-s1",
+      "s": "In the 2006 film version of The Devil Wears Prada, Miranda Priestly, played by Meryl Streep, scolds her unattractive assistant for imagining that high fashion doesn't affect her.",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Miranda Priestly",
+        "谓语": "scolds",
+        "宾语或表语": "her unattractive assistant",
+        "主干翻译": "米兰达·普里斯特利训斥她那不起眼的助理。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "played by Meryl Streep",
+          "修饰对象": "Miranda Priestly",
+          "中文翻译": "由梅丽尔·斯特里普饰演",
+          "说明": "过去分词短语作后置定语，修饰主语Miranda Priestly，相当于一个非限制性定语。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "for imagining that high fashion doesn't affect her",
+          "修饰对象": "scolds",
+          "中文翻译": "因为（助理）认为高级时尚与她无关",
+          "说明": "for引导的介词短语作原因状语，说明训斥的原因；imagining为动名词。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that high fashion doesn't affect her",
+          "修饰对象": "imagining",
+          "中文翻译": "高级时尚影响不到她",
+          "说明": "that引导的宾语从句，作动名词imagining的宾语。"
+        }
+      ],
+      "zh": "在2006年的电影版《穿普拉达的女魔头》中，由梅丽尔·斯特里普饰演的米兰达·普里斯特利训斥她那不起眼的助理，因为这位助理竟以为高级时尚与自己毫不相干。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2013-text1-s2",
+      "s": "Priestly explains how the deep blue color of the assistant's sweater descended over the years from fashion shows to department stores and to the bargain bin in which the poor girl doubtless found her garment.",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Priestly",
+        "谓语": "explains",
+        "宾语或表语": "how the deep blue color ... descended ...",
+        "主干翻译": "普里斯特利解释了（深蓝色是如何流传下来的）。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "how the deep blue color of the assistant's sweater descended over the years from fashion shows to department stores and to the bargain bin in which the poor girl doubtless found her garment",
+          "修饰对象": "explains",
+          "中文翻译": "这位助理毛衣的那种深蓝色是如何多年来从时装秀流传到百货商店、再流传到这个可怜女孩无疑买下自己衣服的廉价货筐里的",
+          "说明": "how引导的宾语从句，作explains的宾语，从句内含一个并列的介词短语和一个定语从句。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "to the bargain bin in which the poor girl doubtless found her garment",
+          "修饰对象": "descended",
+          "中文翻译": "（流传）到那个可怜女孩无疑买下自己衣服的廉价货筐里",
+          "说明": "与from fashion shows to department stores并列，由and连接，共同作descended的去向状语。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "in which the poor girl doubtless found her garment",
+          "修饰对象": "bin",
+          "中文翻译": "那个可怜女孩无疑在其中买到自己衣服的（货筐）",
+          "说明": "in which引导的定语从句，修饰先行词bargain bin。"
+        }
+      ],
+      "zh": "普里斯特利解释道，这位助理毛衣的那种深蓝色是如何多年来从时装秀一路流传到百货商店，再流传到那个可怜女孩无疑买下自己这件衣服的廉价货筐里的。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2013-text1-s3",
+      "s": "This top-down conception of the fashion business couldn't be more out of date or at odds with the feverish world described in Overdressed, Elizabeth Cline's three-year indictment of \"fast fashion\".",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "This top-down conception of the fashion business",
+        "谓语": "couldn't be",
+        "宾语或表语": "more out of date or at odds with the feverish world",
+        "主干翻译": "这种自上而下的时尚业观念再过时不过、也再与那个狂热的世界格格不入不过了。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "at odds with the feverish world described in Overdressed, Elizabeth Cline's three-year indictment of \"fast fashion\"",
+          "修饰对象": "out",
+          "中文翻译": "与……那个狂热的世界格格不入",
+          "说明": "由or连接，与out of date并列作表语，共受couldn't be more修饰。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "described in Overdressed, Elizabeth Cline's three-year indictment of \"fast fashion\"",
+          "修饰对象": "world",
+          "中文翻译": "在《过度着装》中所描述的（那个世界）",
+          "说明": "过去分词短语作后置定语，修饰the feverish world。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "Elizabeth Cline's three-year indictment of \"fast fashion\"",
+          "修饰对象": "Overdressed",
+          "中文翻译": "伊丽莎白·克莱恩对“快时尚”进行的三年（调查）",
+          "说明": "作书名Overdressed的同位语，对其进行补充说明。"
+        }
+      ],
+      "zh": "这种自上而下的时尚业观念再过时不过了，也与伊丽莎白·克莱恩历时三年声讨“快时尚”的《过度着装》一书所描述的那个狂热世界格格不入到了极点。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2013-text1-s4",
+      "s": "In the last decade or so, advances in technology have allowed mass-market labels such as Zara, H&M, and Uniqlo to react to trends more quickly and anticipate demand more precisely.",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "advances in technology",
+        "谓语": "have allowed",
+        "宾语或表语": "mass-market labels ... to react ... and anticipate ...",
+        "主干翻译": "技术的进步使得大众市场品牌得以做出反应并预判需求。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to react to trends more quickly and anticipate demand more precisely",
+          "修饰对象": "allowed",
+          "中文翻译": "更快地对潮流做出反应、更精准地预判需求",
+          "说明": "不定式作宾语补足语，补充说明allow的宾语labels所做之事。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "Zara, H&M, and Uniqlo",
+          "修饰对象": "labels",
+          "中文翻译": "Zara、H&M和优衣库",
+          "说明": "such as后三个并列名词，举例说明mass-market labels。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "anticipate demand more precisely",
+          "修饰对象": "react",
+          "中文翻译": "更精准地预判需求",
+          "说明": "与to react to trends more quickly并列，由and连接，共用不定式符号to。"
+        }
+      ],
+      "zh": "在过去十来年里，技术的进步使得Zara、H&M和优衣库等大众市场品牌得以更快地对潮流做出反应、更精准地预判需求。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2013-text1-s5",
+      "s": "Quicker turnarounds mean less wasted inventory, more frequent releases, and more profit.",
+      "para_no": 2,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Quicker turnarounds",
+        "谓语": "mean",
+        "宾语或表语": "less wasted inventory, more frequent releases, and more profit",
+        "主干翻译": "更快的周转意味着更少的库存浪费、更频繁的新品发布以及更多的利润。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "more frequent releases, and more profit",
+          "修饰对象": "inventory",
+          "中文翻译": "更频繁的新品发布以及更多的利润",
+          "说明": "与less wasted inventory并列，共同作mean的宾语。"
+        }
+      ],
+      "zh": "更快的周转意味着更少的库存浪费、更频繁的新品发布以及更多的利润。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2013-text1-s6",
+      "s": "These labels encourage style-conscious consumers to see clothes as disposable—meant to last only a wash or two, although they don't advertise that—and to renew their wardrobe every few weeks.",
+      "para_no": 2,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "These labels",
+        "谓语": "encourage",
+        "宾语或表语": "style-conscious consumers to see ... and to renew ...",
+        "主干翻译": "这些品牌鼓励注重款式的消费者把衣服看作一次性用品并定期更新衣橱。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to see clothes as disposable",
+          "修饰对象": "encourage",
+          "中文翻译": "把衣服视为一次性用品",
+          "说明": "不定式作宾语补足语，补充说明consumers被鼓励去做的事。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "meant to last only a wash or two",
+          "修饰对象": "disposable",
+          "中文翻译": "（这种一次性的衣物）只够洗一两次",
+          "说明": "过去分词短语，对disposable作补充说明，相当于后置定语/补充语。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to last only a wash or two",
+          "修饰对象": "meant",
+          "中文翻译": "只能耐穿一两次水洗",
+          "说明": "不定式作meant的补足语。"
+        },
+        {
+          "成分类型": "状语从句(让步)",
+          "原文": "although they don't advertise that",
+          "修饰对象": "meant",
+          "中文翻译": "尽管他们并不公开宣传这一点",
+          "说明": "although引导让步状语从句，让步于meant to last only a wash or two这一事实。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "to renew their wardrobe every few weeks",
+          "修饰对象": "see",
+          "中文翻译": "每隔几周就更新一次衣橱",
+          "说明": "与to see clothes as disposable并列，由and连接，共作encourage的宾语补足语。"
+        }
+      ],
+      "zh": "这些品牌鼓励注重款式的消费者把衣服看作一次性用品——尽管它们并不明说，这种衣服其实只够洗上一两次——并且每隔几周就更新一次衣橱。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2013-text1-s7",
+      "s": "By offering on-trend items at dirt-cheap prices, Cline argues, these brands have hijacked fashion cycles, shaking an industry long accustomed to a seasonal pace.",
+      "para_no": 2,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "these brands",
+        "谓语": "have hijacked",
+        "宾语或表语": "fashion cycles",
+        "主干翻译": "这些品牌劫持了时尚的周期。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "By offering on-trend items at dirt-cheap prices",
+          "修饰对象": "hijacked",
+          "中文翻译": "通过以极其低廉的价格提供紧跟潮流的商品",
+          "说明": "by引导的介词短语作方式状语，说明品牌如何劫持时尚周期。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "Cline argues",
+          "修饰对象": "—",
+          "中文翻译": "克莱恩认为",
+          "说明": "插入语，表明全句为Cline的观点。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "shaking an industry long accustomed to a seasonal pace",
+          "修饰对象": "hijacked",
+          "中文翻译": "撼动了一个长期习惯于按季节节奏运转的行业",
+          "说明": "现在分词短语作结果状语，表明hijacked带来的结果；long accustomed to a seasonal pace为industry的后置定语。"
+        }
+      ],
+      "zh": "克莱恩认为，通过以极其低廉的价格提供紧跟潮流的商品，这些品牌劫持了时尚的周期，撼动了一个长期习惯于按季节节奏运转的行业。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2013-text1-s8",
+      "s": "The victims of this revolution, of course, are not limited to designers.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The victims of this revolution",
+        "谓语": "are not limited",
+        "宾语或表语": "to designers",
+        "主干翻译": "这场革命的受害者并不仅限于设计师。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "of course",
+          "修饰对象": "—",
+          "中文翻译": "当然",
+          "说明": "插入语，起强调和语气缓和作用。"
+        }
+      ],
+      "zh": "当然，这场革命的受害者并不仅限于设计师。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2013-text1-s9",
+      "s": "For H&M to offer a $5.95 knit miniskirt in all its 2, 300-plus stores around the world, it must rely on low-wage overseas labor, order in volumes that strain natural resources, and use massive amounts of harmful chemicals.",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "it",
+        "谓语": "must rely on / order / use",
+        "宾语或表语": "low-wage overseas labor ...",
+        "主干翻译": "它必须依赖低薪的海外劳工、大批量订货并使用大量有害化学品。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "For H&M to offer a $5.95 knit miniskirt in all its 2, 300-plus stores around the world",
+          "修饰对象": "rely",
+          "中文翻译": "要让H&M能在其全球2300多家门店里供应一条售价5.95美元的针织迷你裙",
+          "说明": "For + 名词 + 不定式构成的目的/条件状语，说明实现该目标的前提条件。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "order in volumes that strain natural resources, and use massive amounts of harmful chemicals",
+          "修饰对象": "rely",
+          "中文翻译": "大批量订货以致使自然资源紧张，并使用大量有害化学品",
+          "说明": "order、use与rely on三者并列，共同作主语it的谓语。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that strain natural resources",
+          "修饰对象": "volumes",
+          "中文翻译": "使自然资源紧张的（订货量）",
+          "说明": "that引导的定语从句，修饰先行词volumes。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "use massive amounts of harmful chemicals",
+          "修饰对象": "order",
+          "中文翻译": "使用大量有害化学品",
+          "说明": "与order in volumes...并列，由and连接。"
+        }
+      ],
+      "zh": "要让H&M能在其全球2300多家门店里供应一条售价仅5.95美元的针织迷你裙，它就必须依赖低薪的海外劳工、大批量订货以致使自然资源紧张，并使用大量有害的化学品。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2013-text1-s10",
+      "s": "Overdressed is the fashion world's answer to consumer-activist bestsellers like Michael Pollan's The Omnivore's Dilemma.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Overdressed",
+        "谓语": "is",
+        "宾语或表语": "the fashion world's answer to consumer-activist bestsellers",
+        "主干翻译": "《过度着装》是时尚界对消费者维权类畅销书的回应。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "like Michael Pollan's The Omnivore's Dilemma",
+          "修饰对象": "bestsellers",
+          "中文翻译": "像迈克尔·波伦的《杂食者的困境》那样的（畅销书）",
+          "说明": "like引导的介词短语作后置定语，举例说明consumer-activist bestsellers。"
+        }
+      ],
+      "zh": "《过度着装》是时尚界对诸如迈克尔·波伦的《杂食者的困境》之类消费者维权畅销书的回应。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2013-text1-s11",
+      "s": "\"Mass-produced clothing, like fast food, fills a hunger and need, yet is non-durable and wasteful,\" Cline argues.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Mass-produced clothing",
+        "谓语": "fills / is",
+        "宾语或表语": "a hunger and need / non-durable and wasteful",
+        "主干翻译": "批量生产的服装满足了人们的渴望和需求，却不耐用且浪费。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "like fast food",
+          "修饰对象": "fills",
+          "中文翻译": "如同快餐一样",
+          "说明": "like引导的介词短语作伴随/方式状语，将服装类比为快餐。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "is non-durable and wasteful",
+          "修饰对象": "fills",
+          "中文翻译": "（却）不耐用且浪费",
+          "说明": "由yet连接，与fills a hunger and need并列，构成转折性的并列谓语。"
+        }
+      ],
+      "zh": "“批量生产的服装如同快餐一样，满足了人们的渴望和需求，却不耐用且造成浪费，”克莱恩这样论述道。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2013-text1-s12",
+      "s": "Americans, she finds, buy roughly 20 billion garments a year—about 64 items per person—and no matter how much they give away, this excess leads to waste.",
+      "para_no": 4,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Americans",
+        "谓语": "buy",
+        "宾语或表语": "roughly 20 billion garments a year",
+        "主干翻译": "美国人每年大约购买200亿件衣服。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "she finds",
+          "修饰对象": "—",
+          "中文翻译": "她发现",
+          "说明": "插入语，表明该信息为Cline所发现的结论。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "about 64 items per person",
+          "修饰对象": "garments",
+          "中文翻译": "即人均约64件",
+          "说明": "破折号引出的同位语，对20 billion garments作具体换算说明（此处为名词性同位成分）。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "how much they give away",
+          "修饰对象": "matter",
+          "中文翻译": "他们送掉（捐出）多少",
+          "说明": "how much引导的从句，作no matter后的从句主体，构成让步状语no matter how much...。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "no matter how much they give away, this excess leads to waste",
+          "修饰对象": "buy",
+          "中文翻译": "无论他们捐出多少，这种过量都会导致浪费",
+          "说明": "由and连接，与前一分句Americans buy...并列，构成并列句的后一分句；其中no matter how much they give away为让步状语。"
+        }
+      ],
+      "zh": "她发现，美国人每年大约购买200亿件衣服——人均约64件——而且无论他们捐出多少，这种过量购买都会造成浪费。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2013-text1-s13",
+      "s": "Towards the end of Overdressed, Cline introduced her ideal, a Brooklyn woman named Sarah Kate Beaumont, who since 2008 has made all of her own clothes—and beautifully.",
+      "para_no": 5,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Cline",
+        "谓语": "introduced",
+        "宾语或表语": "her ideal",
+        "主干翻译": "克莱恩介绍了她心目中的理想典范。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "Towards the end of Overdressed",
+          "修饰对象": "introduced",
+          "中文翻译": "在《过度着装》一书接近尾声时",
+          "说明": "介词短语作时间/地点状语。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "a Brooklyn woman named Sarah Kate Beaumont",
+          "修饰对象": "ideal",
+          "中文翻译": "一位名叫莎拉·凯特·博蒙特的布鲁克林女子",
+          "说明": "作her ideal的同位语，具体指明这个理想典范是谁。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "named Sarah Kate Beaumont",
+          "修饰对象": "woman",
+          "中文翻译": "名叫莎拉·凯特·博蒙特的（女子）",
+          "说明": "过去分词短语作后置定语，修饰woman。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "who since 2008 has made all of her own clothes—and beautifully",
+          "修饰对象": "ideal",
+          "中文翻译": "自2008年以来一直自己缝制所有衣服，而且做得很漂亮",
+          "说明": "who引导的非限制性定语从句，修饰先行词（a Brooklyn woman，即her ideal）。"
+        }
+      ],
+      "zh": "在《过度着装》一书接近尾声时，克莱恩介绍了她心目中的理想典范——一位名叫莎拉·凯特·博蒙特的布鲁克林女子，自2008年以来她一直自己缝制全部衣服，而且做得相当漂亮。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2013-text1-s14",
+      "s": "But as Cline is the first to note, it took Beaumont decades to perfect her craft; her example can't be knocked off.",
+      "para_no": 5,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "it",
+        "谓语": "took",
+        "宾语或表语": "Beaumont decades to perfect her craft",
+        "主干翻译": "博蒙特花了数十年才把自己的手艺练得炉火纯青。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(方式)",
+          "原文": "as Cline is the first to note",
+          "修饰对象": "took",
+          "中文翻译": "正如克莱恩率先指出的那样",
+          "说明": "as引导方式状语从句，表示“正如……所指出的”。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to note",
+          "修饰对象": "first",
+          "中文翻译": "（第一个）指出（这一点）的",
+          "说明": "不定式作定语，修饰the first，构成the first to do结构。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to perfect her craft",
+          "修饰对象": "took",
+          "中文翻译": "（花了数十年）来打磨自己的手艺",
+          "说明": "不定式作真正的逻辑主语/目的，配合it took sb. time to do结构。"
+        },
+        {
+          "成分类型": "省略",
+          "原文": "her example can't be knocked off",
+          "修饰对象": "—",
+          "中文翻译": "她这种榜样是无法被仿制（复制）的",
+          "说明": "分号后另起一个独立分句，与前句构成转折性并列；knock off意为仿冒、廉价复制。"
+        }
+      ],
+      "zh": "但正如克莱恩率先指出的那样，博蒙特花了数十年才把手艺练得炉火纯青；她这样的榜样是无法被轻易复制的。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2013-text1-s15",
+      "s": "Though several fast-fashion companies have made efforts to curb their impact on labor and the environment—including H&M, with its green Conscious Collection line—Cline believes lasting change can only be effected by the customer.",
+      "para_no": 6,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Cline",
+        "谓语": "believes",
+        "宾语或表语": "lasting change can only be effected by the customer",
+        "主干翻译": "克莱恩认为持久的变革只能由消费者来推动。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(让步)",
+          "原文": "Though several fast-fashion companies have made efforts to curb their impact on labor and the environment—including H&M, with its green Conscious Collection line—",
+          "修饰对象": "believes",
+          "中文翻译": "尽管若干快时尚公司已努力减小它们对劳工和环境的影响——包括推出绿色“良知系列”的H&M",
+          "说明": "Though引导让步状语从句，让步于主句Cline believes...；破折号内为补充举例（插入成分）。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to curb their impact on labor and the environment",
+          "修饰对象": "efforts",
+          "中文翻译": "以减小它们对劳工和环境的影响",
+          "说明": "不定式短语作后置定语，修饰efforts。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "lasting change can only be effected by the customer",
+          "修饰对象": "believes",
+          "中文翻译": "持久的变革只能由消费者来实现",
+          "说明": "省略that的宾语从句，作believes的宾语。"
+        }
+      ],
+      "zh": "尽管若干快时尚公司已努力减小它们对劳工和环境的影响——比如推出绿色“良知系列”的H&M——但克莱恩认为，持久的变革只能由消费者来推动。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2013-text1-s16",
+      "s": "She exhibits the idealism common to many advocates of sustainability, be it in food or in energy.",
+      "para_no": 6,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "She",
+        "谓语": "exhibits",
+        "宾语或表语": "the idealism",
+        "主干翻译": "她展现出一种理想主义。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "common to many advocates of sustainability",
+          "修饰对象": "idealism",
+          "中文翻译": "许多可持续发展倡导者所共有的（理想主义）",
+          "说明": "形容词短语（common to...）作后置定语，修饰the idealism。"
+        },
+        {
+          "成分类型": "状语从句(让步)",
+          "原文": "be it in food or in energy",
+          "修饰对象": "idealism",
+          "中文翻译": "无论是在食品领域还是能源领域",
+          "说明": "be it...or...为倒装的让步状语结构（=whether it be in food or in energy），表“无论……”。"
+        }
+      ],
+      "zh": "她展现出许多可持续发展倡导者所共有的那种理想主义，无论是在食品领域还是能源领域皆是如此。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2013-text1-s17",
+      "s": "Vanity is a constant; people will only start shopping more sustainably when they can't afford not to.",
+      "para_no": 6,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Vanity / people",
+        "谓语": "is / will start",
+        "宾语或表语": "a constant / shopping more sustainably",
+        "主干翻译": "虚荣心是恒定不变的；人们只有在无力承担不这么做的后果时，才会开始更可持续地购物。"
+      },
+      "components": [
+        {
+          "成分类型": "省略",
+          "原文": "Vanity is a constant",
+          "修饰对象": "—",
+          "中文翻译": "虚荣心是一种恒常不变的东西",
+          "说明": "分号前的独立分句，与后句构成并列；为格言式判断句。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "shopping more sustainably",
+          "修饰对象": "start",
+          "中文翻译": "以更可持续的方式购物",
+          "说明": "动名词短语作start的宾语，表明开始去做之事。"
+        },
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "when they can't afford not to",
+          "修饰对象": "start",
+          "中文翻译": "当他们再也承担不起不这么做的代价时",
+          "说明": "when引导时间状语从句；not to为not to shop more sustainably的省略。"
+        },
+        {
+          "成分类型": "省略",
+          "原文": "not to",
+          "修饰对象": "afford",
+          "中文翻译": "不（这样做）",
+          "说明": "not to后省略了动词shop more sustainably，承前省略以避免重复。"
+        }
+      ],
+      "zh": "虚荣心是恒定不变的；只有当人们再也承担不起不这么做的代价时，他们才会开始以更可持续的方式购物。",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2013-text1-s1",
+        "en1-2013-text1-s2"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2013-text1-s3",
+        "en1-2013-text1-s4",
+        "en1-2013-text1-s5",
+        "en1-2013-text1-s6",
+        "en1-2013-text1-s7"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2013-text1-s8",
+        "en1-2013-text1-s9"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2013-text1-s10",
+        "en1-2013-text1-s11",
+        "en1-2013-text1-s12"
+      ]
+    },
+    {
+      "para_no": 5,
+      "sids": [
+        "en1-2013-text1-s13",
+        "en1-2013-text1-s14"
+      ]
+    },
+    {
+      "para_no": 6,
+      "sids": [
+        "en1-2013-text1-s15",
+        "en1-2013-text1-s16",
+        "en1-2013-text1-s17"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,717 @@
+{
+  "exam": "en1",
+  "key": "2002-t4",
+  "year": 2002,
+  "text_no": 4,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2002-text4-s1",
+      "s": "The Supreme Court's decisions on physician-assisted suicide carry important implications for how medicine seeks to relieve dying patients of pain and suffering.",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The Supreme Court's decisions",
+        "谓语": "carry",
+        "宾语或表语": "important implications",
+        "主干翻译": "最高法院的裁决具有重要影响。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "on physician-assisted suicide",
+          "修饰对象": "decisions",
+          "中文翻译": "关于医生协助自杀的",
+          "说明": "介词短语修饰decisions，限定裁决的内容。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "for how medicine seeks to relieve dying patients of pain and suffering",
+          "修饰对象": "carry",
+          "中文翻译": "对于医学如何设法解除濒死病人的痛苦",
+          "说明": "for引导的介词短语作状语，其宾语为how引导的从句，说明implications涉及的方面。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to relieve dying patients of pain and suffering",
+          "修饰对象": "seeks",
+          "中文翻译": "解除濒死病人的痛苦",
+          "说明": "不定式作seeks的补足/目的，relieve sb of sth意为解除某人的某物。"
+        }
+      ],
+      "zh": "最高法院关于医生协助自杀的裁决，对于医学如何设法解除濒死病人的疼痛与折磨，具有重要的影响。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2002-text4-s2",
+      "s": "Although it ruled that there is no constitutional right to physician-assisted suicide, the Court in effect supported the medical principle of \"double effect\", a centuries-old moral principle holding that an action having two effects—a good one that is intended and a harmful one that is foreseen—is permissible if the actor intends only the good effect.",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "the Court",
+        "谓语": "supported",
+        "宾语或表语": "the medical principle of \"double effect\"",
+        "主干翻译": "最高法院实际上支持了\"双重效应\"这一医学原则。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(让步)",
+          "原文": "Although it ruled that there is no constitutional right to physician-assisted suicide",
+          "修饰对象": "supported",
+          "中文翻译": "尽管法院裁定宪法并未赋予医生协助自杀的权利",
+          "说明": "Although引导让步状语从句。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that there is no constitutional right to physician-assisted suicide",
+          "修饰对象": "ruled",
+          "中文翻译": "宪法并未赋予医生协助自杀的权利",
+          "说明": "that引导宾语从句，作ruled的宾语。"
+        },
+        {
+          "成分类型": "同位语",
+          "原文": "a centuries-old moral principle holding that an action having two effects—a good one that is intended and a harmful one that is foreseen—is permissible if the actor intends only the good effect.",
+          "修饰对象": "effect",
+          "中文翻译": "一条流传数百年的道德原则，它认为：一个具有两种效应的行为——一种是有意为之的好效应，一种是可预见的坏效应——只要行为者只意图实现好效应，便是可以允许的",
+          "说明": "对the medical principle of \"double effect\"的同位语。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "holding that an action having two effects—a good one that is intended and a harmful one that is foreseen—is permissible if the actor intends only the good effect.",
+          "修饰对象": "principle",
+          "中文翻译": "认为……（如下内容）的（原则）",
+          "说明": "现在分词holding作principle的后置定语，后接that宾语从句。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "having two effects",
+          "修饰对象": "action",
+          "中文翻译": "具有两种效应的（行为）",
+          "说明": "现在分词短语作action的后置定语。"
+        },
+        {
+          "成分类型": "同位语",
+          "原文": "a good one that is intended and a harmful one that is foreseen",
+          "修饰对象": "effects",
+          "中文翻译": "一种是有意为之的好效应，一种是可预见的坏效应",
+          "说明": "破折号引出对two effects的同位语说明。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that is intended",
+          "修饰对象": "one",
+          "中文翻译": "有意为之的",
+          "说明": "that引导定语从句，修饰a good one。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "a harmful one that is foreseen",
+          "修饰对象": "one",
+          "中文翻译": "一种可预见的坏效应",
+          "说明": "由and连接，与a good one并列。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that is foreseen",
+          "修饰对象": "one",
+          "中文翻译": "可预见的",
+          "说明": "that引导定语从句，修饰a harmful one。"
+        },
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "if the actor intends only the good effect",
+          "修饰对象": "is",
+          "中文翻译": "如果行为者只意图实现好的效应",
+          "说明": "if引导条件状语从句，修饰从句谓语is permissible。"
+        }
+      ],
+      "zh": "尽管法院裁定宪法并未赋予医生协助自杀的权利，但最高法院实际上支持了\"双重效应\"这一医学原则——这是一条流传数百年的道德原则，它认为：一个具有两种效应的行为（一种是有意为之的好效应，一种是可预见的坏效应），只要行为者只意图实现其中好的效应，便是可以允许的。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2002-text4-s3",
+      "s": "Doctors have used that principle in recent years to justify using high doses of morphine to control terminally ill patients'pain, even though increasing dosages will eventually kill the patient.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Doctors",
+        "谓语": "have used",
+        "宾语或表语": "that principle",
+        "主干翻译": "医生们一直在使用那条原则。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "in recent years",
+          "修饰对象": "have used",
+          "中文翻译": "近年来",
+          "说明": "时间状语，修饰谓语have used。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to justify using high doses of morphine to control terminally ill patients'pain",
+          "修饰对象": "used",
+          "中文翻译": "来为使用大剂量吗啡控制晚期病人的疼痛正名",
+          "说明": "不定式作目的状语，修饰used。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to control terminally ill patients'pain",
+          "修饰对象": "using",
+          "中文翻译": "以控制晚期病人的疼痛",
+          "说明": "不定式作目的状语，修饰using high doses of morphine。"
+        },
+        {
+          "成分类型": "状语从句(让步)",
+          "原文": "even though increasing dosages will eventually kill the patient",
+          "修饰对象": "justify",
+          "中文翻译": "尽管不断加大剂量最终会导致病人死亡",
+          "说明": "even though引导让步状语从句。"
+        }
+      ],
+      "zh": "近年来，医生们一直用那条原则来为使用大剂量吗啡控制晚期病人疼痛的做法正名，尽管不断加大剂量最终会导致病人死亡。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2002-text4-s4",
+      "s": "Nancy Dubler, director of Montefiore Medical Center, contends that the principle will shield doctors who \"until now have very, very strongly insisted that they could not give patients sufficient medication to control their pain if that might hasten death\".",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Nancy Dubler",
+        "谓语": "contends",
+        "宾语或表语": "that从句（the principle will shield doctors...）",
+        "主干翻译": "南希·杜布勒认为该原则将为医生提供保护。"
+      },
+      "components": [
+        {
+          "成分类型": "同位语",
+          "原文": "director of Montefiore Medical Center",
+          "修饰对象": "Dubler",
+          "中文翻译": "蒙特菲奥里医疗中心主任",
+          "说明": "作Nancy Dubler的同位语。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that the principle will shield doctors who \"until now have very, very strongly insisted that they could not give patients sufficient medication to control their pain if that might hasten death\"",
+          "修饰对象": "contends",
+          "中文翻译": "该原则将保护那些医生",
+          "说明": "that引导contends的宾语从句。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "who \"until now have very, very strongly insisted that they could not give patients sufficient medication to control their pain if that might hasten death\"",
+          "修饰对象": "doctors",
+          "中文翻译": "那些迄今一直极力坚称……的医生",
+          "说明": "who引导定语从句修饰doctors。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that they could not give patients sufficient medication to control their pain if that might hasten death",
+          "修饰对象": "insisted",
+          "中文翻译": "他们不能给病人足量药物来控制疼痛，如果那样做可能加速死亡的话",
+          "说明": "that引导insisted的宾语从句。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to control their pain",
+          "修饰对象": "medication",
+          "中文翻译": "用以控制疼痛的",
+          "说明": "不定式作medication的后置定语。"
+        },
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "if that might hasten death",
+          "修饰对象": "give",
+          "中文翻译": "如果那样做可能加速死亡",
+          "说明": "if引导条件状语从句，修饰could not give。"
+        }
+      ],
+      "zh": "蒙特菲奥里医疗中心主任南希·杜布勒认为，该原则将保护那些医生——他们迄今一直极力坚称，如果足量用药可能加速死亡，他们就不能给病人这样的药物来控制疼痛。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2002-text4-s5",
+      "s": "George Annas, chair of the health law department at Boston University, maintains that, as long as a doctor prescribes a drug for a legitimate medical purpose, the doctor has done nothing illegal even if the patient uses the drug to hasten death.",
+      "para_no": 5,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "George Annas",
+        "谓语": "maintains",
+        "宾语或表语": "that从句（the doctor has done nothing illegal）",
+        "主干翻译": "乔治·安纳斯坚持认为医生没有做任何违法的事。"
+      },
+      "components": [
+        {
+          "成分类型": "同位语",
+          "原文": "chair of the health law department at Boston University",
+          "修饰对象": "Annas",
+          "中文翻译": "波士顿大学卫生法律系主任",
+          "说明": "作George Annas的同位语。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that, as long as a doctor prescribes a drug for a legitimate medical purpose, the doctor has done nothing illegal even if the patient uses the drug to hasten death",
+          "修饰对象": "maintains",
+          "中文翻译": "只要医生出于正当医疗目的开药，医生就没有任何违法之处……",
+          "说明": "that引导maintains的宾语从句。"
+        },
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "as long as a doctor prescribes a drug for a legitimate medical purpose",
+          "修饰对象": "done",
+          "中文翻译": "只要医生出于正当医疗目的开药",
+          "说明": "as long as引导条件状语从句，修饰宾语从句谓语has done。"
+        },
+        {
+          "成分类型": "状语从句(让步)",
+          "原文": "even if the patient uses the drug to hasten death",
+          "修饰对象": "done",
+          "中文翻译": "即使病人用该药加速死亡",
+          "说明": "even if引导让步状语从句，修饰has done nothing illegal。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to hasten death",
+          "修饰对象": "uses",
+          "中文翻译": "来加速死亡",
+          "说明": "不定式作目的状语，修饰uses the drug。"
+        }
+      ],
+      "zh": "波士顿大学卫生法律系主任乔治·安纳斯坚持认为，只要医生是出于正当的医疗目的开药，那么即使病人用该药加速死亡，医生也没有任何违法之处。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2002-text4-s6",
+      "s": "\"It's like surgery,\" he says.",
+      "para_no": 5,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "he",
+        "谓语": "says",
+        "宾语或表语": "\"It's like surgery\"",
+        "主干翻译": "他说：这就像做手术。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "It's like surgery",
+          "修饰对象": "says",
+          "中文翻译": "这就像做手术",
+          "说明": "直接引语作says的宾语，引导词省略。"
+        }
+      ],
+      "zh": "他说：\"这就像做手术。\"",
+      "underline": null
+    },
+    {
+      "sid": "en1-2002-text4-s7",
+      "s": "\"We don't call those deaths homicides because the doctors didn't intend to kill their patients, although they risked their death.",
+      "para_no": 5,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "We",
+        "谓语": "don't call",
+        "宾语或表语": "those deaths homicides",
+        "主干翻译": "我们不把那些死亡称为他杀。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(原因)",
+          "原文": "because the doctors didn't intend to kill their patients, although they risked their death",
+          "修饰对象": "call",
+          "中文翻译": "因为医生并非有意杀死病人，尽管他们冒了使病人死亡的风险",
+          "说明": "because引导原因状语从句。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to kill their patients",
+          "修饰对象": "intend",
+          "中文翻译": "杀死病人",
+          "说明": "不定式作intend的宾语/补足。"
+        },
+        {
+          "成分类型": "状语从句(让步)",
+          "原文": "although they risked their death",
+          "修饰对象": "intend",
+          "中文翻译": "尽管他们冒了使病人死亡的风险",
+          "说明": "although引导让步状语从句，修饰didn't intend。"
+        }
+      ],
+      "zh": "我们不把那些死亡称为他杀，因为医生并非有意杀死病人，尽管他们确实冒了使病人死亡的风险。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2002-text4-s8",
+      "s": "If you're a physician, you can risk your patient's suicide as long as you don't intend their suicide.\"",
+      "para_no": 5,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "you",
+        "谓语": "can risk",
+        "宾语或表语": "your patient's suicide",
+        "主干翻译": "你可以冒病人自杀的风险。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "If you're a physician",
+          "修饰对象": "risk",
+          "中文翻译": "如果你是医生",
+          "说明": "If引导条件状语从句。"
+        },
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "as long as you don't intend their suicide",
+          "修饰对象": "risk",
+          "中文翻译": "只要你无意让病人自杀",
+          "说明": "as long as引导条件状语从句，修饰can risk。"
+        }
+      ],
+      "zh": "如果你是一名医生，只要你无意让病人自杀，你就可以冒病人自杀的风险。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2002-text4-s9",
+      "s": "On another level, many in the medical community acknowledge that the assisted-suicide debate has been fueled in part by the despair of patients for whom modern medicine has prolonged the physical agony of dying.",
+      "para_no": 6,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "many",
+        "谓语": "acknowledge",
+        "宾语或表语": "that从句（the assisted-suicide debate has been fueled...）",
+        "主干翻译": "许多人承认协助自杀之争被……所助长。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "On another level",
+          "修饰对象": "acknowledge",
+          "中文翻译": "在另一个层面上",
+          "说明": "介词短语作状语修饰全句。"
+        },
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "in the medical community",
+          "修饰对象": "many",
+          "中文翻译": "医学界的",
+          "说明": "介词短语修饰主语many。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that the assisted-suicide debate has been fueled in part by the despair of patients for whom modern medicine has prolonged the physical agony of dying",
+          "修饰对象": "acknowledge",
+          "中文翻译": "协助自杀之争在一定程度上是由病人的绝望情绪所助长的",
+          "说明": "that引导acknowledge的宾语从句。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "for whom modern medicine has prolonged the physical agony of dying",
+          "修饰对象": "patients",
+          "中文翻译": "现代医学延长了其临终肉体痛苦的",
+          "说明": "for whom引导定语从句修饰patients。"
+        }
+      ],
+      "zh": "在另一个层面上，医学界许多人承认，协助自杀之争在一定程度上是被那些病人的绝望情绪所助长的——对这些病人而言，现代医学延长了他们临终时的肉体痛苦。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2002-text4-s10",
+      "s": "Just three weeks before the Court's ruling on physician-assisted suicide, the National Academy of Science (NAS) released a two-volume report, Approaching Death: Improving Care at the End of Life.",
+      "para_no": 7,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "the National Academy of Science (NAS)",
+        "谓语": "released",
+        "宾语或表语": "a two-volume report",
+        "主干翻译": "美国国家科学院发布了一份两卷本的报告。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "Just three weeks before the Court's ruling on physician-assisted suicide",
+          "修饰对象": "released",
+          "中文翻译": "就在法院对医生协助自杀作出裁决前三周",
+          "说明": "时间状语，介词短语作状语，交代发布报告的时间。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "(NAS)",
+          "修饰对象": "the National Academy of Science",
+          "中文翻译": "（即NAS）",
+          "说明": "对 the National Academy of Science 的缩写注释，作插入语。"
+        },
+        {
+          "成分类型": "同位语",
+          "原文": "Approaching Death: Improving Care at the End of Life",
+          "修饰对象": "a two-volume report",
+          "中文翻译": "《走近死亡：改善临终关怀》",
+          "说明": "报告的书名，作 report 的同位语，进一步说明报告内容。"
+        }
+      ],
+      "zh": "就在法院对医生协助自杀作出裁决前三周，美国国家科学院（NAS）发布了一份两卷本的报告——《走近死亡：改善临终关怀》。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2002-text4-s11",
+      "s": "It identifies the undertreatment of pain and the aggressive use of \"ineffectual and forced medical procedures that may prolong and even dishonor the period of dying\" as the twin problems of end-of-life care.",
+      "para_no": 7,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "It",
+        "谓语": "identifies",
+        "宾语或表语": "the undertreatment of pain and the aggressive use of ... as the twin problems of end-of-life care",
+        "主干翻译": "它把疼痛治疗不足和……过度使用确认为临终关怀的两大问题。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "the aggressive use of \"ineffectual and forced medical procedures that may prolong and even dishonor the period of dying\"",
+          "修饰对象": "undertreatment",
+          "中文翻译": "过度使用\"可能延长甚至玷污临终阶段的无效而强制的医疗手段\"",
+          "说明": "与the undertreatment of pain并列，由and连接，共同作identifies的宾语。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that may prolong and even dishonor the period of dying",
+          "修饰对象": "procedures",
+          "中文翻译": "可能延长甚至玷污临终阶段的",
+          "说明": "that引导定语从句修饰procedures。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "even dishonor the period of dying",
+          "修饰对象": "prolong",
+          "中文翻译": "甚至玷污临终阶段",
+          "说明": "与prolong并列，共用主语that。"
+        }
+      ],
+      "zh": "该报告把疼痛治疗不足和过度使用\"可能延长甚至玷污临终阶段的无效而强制的医疗手段\"确认为临终关怀的两大问题。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2002-text4-s12",
+      "s": "The profession is taking steps to require young doctors to train in hospices, to test knowledge of aggressive pain management therapies, to develop a Medicare billing code for hospital-based care, and to develop new standards for assessing and treating pain at the end of life.",
+      "para_no": 8,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The profession",
+        "谓语": "is taking",
+        "宾语或表语": "steps",
+        "主干翻译": "医疗行业正在采取措施。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to require young doctors to train in hospices, to test knowledge of aggressive pain management therapies, to develop a Medicare billing code for hospital-based care, and to develop new standards for assessing and treating pain at the end of life",
+          "修饰对象": "steps",
+          "中文翻译": "要求年轻医生在临终关怀机构受训、考核积极疼痛管理疗法知识、制定医院护理的医保收费代码、并制定临终疼痛评估与治疗的新标准",
+          "说明": "不定式作steps的后置定语，内含四个并列不定式。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to train in hospices",
+          "修饰对象": "require",
+          "中文翻译": "在临终关怀机构受训",
+          "说明": "不定式作require的宾语补足语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "to test knowledge of aggressive pain management therapies, to develop a Medicare billing code for hospital-based care, and to develop new standards for assessing and treating pain at the end of life",
+          "修饰对象": "require",
+          "中文翻译": "考核积极疼痛管理疗法知识、制定医院护理的医保收费代码、并制定临终疼痛评估与治疗的新标准",
+          "说明": "三个不定式与to require并列，共同作steps的定语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "to develop a Medicare billing code for hospital-based care",
+          "修饰对象": "test",
+          "中文翻译": "制定医院护理的医保收费代码",
+          "说明": "与to test并列。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "to develop new standards for assessing and treating pain at the end of life",
+          "修饰对象": "develop",
+          "中文翻译": "制定临终疼痛评估与治疗的新标准",
+          "说明": "与前一个to develop并列，由and连接。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "treating pain at the end of life",
+          "修饰对象": "assessing",
+          "中文翻译": "治疗临终疼痛",
+          "说明": "动名词treating与assessing并列，作for的宾语。"
+        }
+      ],
+      "zh": "医疗行业正在采取措施，要求年轻医生在临终关怀机构受训、考核积极疼痛管理疗法的知识、制定针对医院护理的医保收费代码，并制定临终疼痛评估与治疗的新标准。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2002-text4-s13",
+      "s": "Annas says lawyers can play a key role in insisting that these well-meaning medical initiatives translate into better care.",
+      "para_no": 9,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Annas",
+        "谓语": "says",
+        "宾语或表语": "宾语从句（lawyers can play a key role...）",
+        "主干翻译": "安纳斯说律师能发挥关键作用。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "lawyers can play a key role in insisting that these well-meaning medical initiatives translate into better care",
+          "修饰对象": "says",
+          "中文翻译": "律师在坚持要求这些善意的医疗举措落实为更好的护理方面能发挥关键作用",
+          "说明": "作says的宾语从句，引导词that省略。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that these well-meaning medical initiatives translate into better care",
+          "修饰对象": "insisting",
+          "中文翻译": "这些善意的医疗举措要落实为更好的护理",
+          "说明": "that引导insisting后的宾语从句。"
+        }
+      ],
+      "zh": "安纳斯说，律师在坚持要求这些善意的医疗举措切实转化为更好的护理方面，能够发挥关键作用。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2002-text4-s14",
+      "s": "\"Large numbers of physicians seem unconcerned with the pain their patients are needlessly and predictably suffering\", to the extent that it constitutes \"systematic patient abuse\".",
+      "para_no": 9,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Large numbers of physicians",
+        "谓语": "seem",
+        "宾语或表语": "unconcerned with the pain",
+        "主干翻译": "大量医生似乎对疼痛漠不关心。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "their patients are needlessly and predictably suffering",
+          "修饰对象": "pain",
+          "中文翻译": "他们的病人正在不必要地、可预见地承受的",
+          "说明": "省略关系词的定语从句修饰the pain。"
+        },
+        {
+          "成分类型": "状语从句(结果)",
+          "原文": "to the extent that it constitutes \"systematic patient abuse\"",
+          "修饰对象": "unconcerned",
+          "中文翻译": "以至于构成了\"系统性的病人虐待\"",
+          "说明": "to the extent that引导结果状语，表示程度之深，that为同位语从句解释extent。"
+        }
+      ],
+      "zh": "\"大量医生似乎对其病人正在不必要地且可预见地承受的疼痛漠不关心\"，以至于这构成了\"系统性的病人虐待\"。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2002-text4-s15",
+      "s": "He says medical licensing boards \"must make it clear... that painful deaths are presumptively ones that are incompetently managed and should result in license suspension\".",
+      "para_no": 9,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "He",
+        "谓语": "says",
+        "宾语或表语": "宾语从句（medical licensing boards must make it clear...）",
+        "主干翻译": "他说医疗执照委员会必须明确表态。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "medical licensing boards \"must make it clear... that painful deaths are presumptively ones that are incompetently managed and should result in license suspension\"",
+          "修饰对象": "says",
+          "中文翻译": "医疗执照委员会必须明确表态……",
+          "说明": "作says的宾语从句，引导词省略。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that painful deaths are presumptively ones that are incompetently managed and should result in license suspension",
+          "修饰对象": "make",
+          "中文翻译": "痛苦的死亡可推定为处置不当所致，应导致吊销执照",
+          "说明": "that引导真正宾语从句，it为形式宾语，clear为宾补。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that are incompetently managed and should result in license suspension",
+          "修饰对象": "ones",
+          "中文翻译": "因处置不当所致并应导致吊销执照的",
+          "说明": "that引导定语从句修饰ones（=deaths）。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "should result in license suspension",
+          "修饰对象": "managed",
+          "中文翻译": "应导致吊销执照",
+          "说明": "与are incompetently managed并列，共用关系词that，由and连接。"
+        }
+      ],
+      "zh": "他说，医疗执照委员会\"必须明确表态……痛苦的死亡可推定为处置不当所致，并应导致吊销行医执照\"。",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2002-text4-s1"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2002-text4-s2"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2002-text4-s3"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2002-text4-s4"
+      ]
+    },
+    {
+      "para_no": 5,
+      "sids": [
+        "en1-2002-text4-s5",
+        "en1-2002-text4-s6",
+        "en1-2002-text4-s7",
+        "en1-2002-text4-s8"
+      ]
+    },
+    {
+      "para_no": 6,
+      "sids": [
+        "en1-2002-text4-s9"
+      ]
+    },
+    {
+      "para_no": 7,
+      "sids": [
+        "en1-2002-text4-s10",
+        "en1-2002-text4-s11"
+      ]
+    },
+    {
+      "para_no": 8,
+      "sids": [
+        "en1-2002-text4-s12"
+      ]
+    },
+    {
+      "para_no": 9,
+      "sids": [
+        "en1-2002-text4-s13",
+        "en1-2002-text4-s14",
+        "en1-2002-text4-s15"
+      ]
+    }
+  ]
+}

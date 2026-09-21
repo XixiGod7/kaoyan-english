@@ -1,0 +1,593 @@
+{
+  "exam": "en1",
+  "key": "2007-t4",
+  "year": 2007,
+  "text_no": 4,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2007-text4-s0",
+      "s": "It never rains but it pours.",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "It",
+        "谓语": "rains",
+        "宾语或表语": "—",
+        "主干翻译": "不下雨则已，一下就是倾盆大雨"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(结果)",
+          "原文": "but it pours",
+          "修饰对象": "never rains",
+          "中文翻译": "一下就是倾盆大雨",
+          "说明": "谚语句式 never A but B：but 在此相当于 without，意为「不 A 则已，一 A 必 B」，不是转折连词。整句喻「祸不单行」，本篇用它引出「数据不安全」这个接踵而至的新麻烦。"
+        }
+      ],
+      "zh": "不雨则已，一雨倾盆（喻祸不单行）。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2007-text4-s1",
+      "s": "Just as bosses and boards have finally sorted out their worst accounting and compliance troubles, and improved their feeble corporation governance, a new problem threatens to earn them—especially in America—the sort of nasty headlines that inevitably lead to heads rolling in the executive suite: data insecurity.",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "a new problem",
+        "谓语": "threatens to earn",
+        "宾语或表语": "them the sort of nasty headlines",
+        "主干翻译": "一个新问题正威胁着要给他们招来这类令人不快的头条新闻。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "Just as bosses and boards have finally sorted out their worst accounting and compliance troubles, and improved their feeble corporation governance",
+          "修饰对象": "threatens",
+          "中文翻译": "正当老板们和董事会终于解决了他们最严重的会计和合规问题，并改善了他们薄弱的公司治理之时",
+          "说明": "Just as 引导时间状语从句，表示\"正当……之时\"，修饰主句谓语 threatens。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "improved their feeble corporation governance",
+          "修饰对象": "sorted",
+          "中文翻译": "改善了他们薄弱的公司治理",
+          "说明": "与 sorted out 并列，同为 bosses and boards 的谓语动作。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to earn them—especially in America—the sort of nasty headlines that inevitably lead to heads rolling in the executive suite",
+          "修饰对象": "threatens",
+          "中文翻译": "给他们——尤其是在美国——招来那种必然导致高管层人头落地的令人不快的头条新闻",
+          "说明": "不定式作 threaten 的补足成分，表示所威胁的内容；其中破折号插入 especially in America。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that inevitably lead to heads rolling in the executive suite",
+          "修饰对象": "headlines",
+          "中文翻译": "（这类新闻）必然导致高管层人头落地",
+          "说明": "that 引导定语从句修饰 the sort of nasty headlines。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "data insecurity",
+          "修饰对象": "problem",
+          "中文翻译": "数据不安全",
+          "说明": "冒号后的名词短语作 a new problem 的同位语，点明该新问题的实质。"
+        }
+      ],
+      "zh": "正当老板们和董事会终于解决了最严重的会计和合规问题、并改善了薄弱的公司治理之时，一个新问题又威胁着要给他们——尤其是在美国——招来那种必然导致高管层人头落地的令人不快的头条新闻：数据不安全。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2007-text4-s2",
+      "s": "Left, until now, to odd, low-level IT staff to put right, and seen as a concern only of data-rich industries such as banking, telecoms and air travel, information protection is now high on the boss's agenda in businesses of every variety.",
+      "para_no": 1,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "information protection",
+        "谓语": "is",
+        "宾语或表语": "high on the boss's agenda",
+        "主干翻译": "信息保护如今在老板的议事日程上占据重要位置。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "Left, until now, to odd, low-level IT staff to put right, and seen as a concern only of data-rich industries such as banking, telecoms and air travel",
+          "修饰对象": "is",
+          "中文翻译": "信息保护此前一直被丢给零散的低级 IT 人员去处理，并被视为只是银行、电信和航空旅行等数据密集型行业才需关心的问题",
+          "说明": "两个过去分词短语 Left... 和 seen... 并列作状语，相当于让步/背景状语，修饰主句。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to put right",
+          "修饰对象": "staff",
+          "中文翻译": "去处理（纠正）",
+          "说明": "不定式作 IT staff 的后置修饰，表示交给他们去做的事。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "seen as a concern only of data-rich industries such as banking, telecoms and air travel",
+          "修饰对象": "Left",
+          "中文翻译": "被视为只是数据密集型行业关心的问题",
+          "说明": "过去分词 seen 与 Left 并列，共同构成句首的状语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "telecoms and air travel",
+          "修饰对象": "banking",
+          "中文翻译": "电信和航空旅行",
+          "说明": "与 banking 并列，作 such as 列举的行业。"
+        }
+      ],
+      "zh": "信息保护此前一直被丢给零散的低级 IT 人员去处理，并被视为只是银行、电信、航空旅行等数据密集型行业才需关心的问题；如今它却在各类企业老板的议事日程上占据了重要位置。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2007-text4-s3",
+      "s": "Several massive leakages of customer and employee data this year—from organizations as diverse as Time Warner, the American defense contractor Science Applications International Corp and even the University of California, Berkeley—have left managers hurriedly peering into their intricate IT systems and business processes in search of potential vulnerabilities.",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Several massive leakages of customer and employee data",
+        "谓语": "have left",
+        "宾语或表语": "managers hurriedly peering into their intricate IT systems and business processes",
+        "主干翻译": "今年几起客户和员工数据的大规模泄露事件，已使管理者们匆忙审视其错综复杂的 IT 系统和业务流程。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "the American defense contractor Science Applications International Corp and even the University of California, Berkeley",
+          "修饰对象": "Warner",
+          "中文翻译": "美国国防承包商科学应用国际公司，甚至加州大学伯克利分校",
+          "说明": "与 Time Warner 并列，作 organizations 的列举对象（介词 from 的宾语）。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "Science Applications International Corp",
+          "修饰对象": "contractor",
+          "中文翻译": "科学应用国际公司",
+          "说明": "作 the American defense contractor 的同位语，说明该承包商的名称。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "even the University of California, Berkeley",
+          "修饰对象": "contractor",
+          "中文翻译": "甚至加州大学伯克利分校",
+          "说明": "与前面的 contractor 并列，作列举的又一组织。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "Berkeley",
+          "修饰对象": "University",
+          "中文翻译": "伯克利",
+          "说明": "作 the University of California 的同位语，标明具体校区。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "hurriedly peering into their intricate IT systems and business processes in search of potential vulnerabilities",
+          "修饰对象": "left",
+          "中文翻译": "匆忙审视其错综复杂的 IT 系统和业务流程，以查找潜在的漏洞",
+          "说明": "现在分词短语作 leave (sb doing) 的宾语补足语，描述 managers 所处的状态。"
+        }
+      ],
+      "zh": "今年发生的几起客户与员工数据大规模泄露事件——涉及时代华纳、美国国防承包商科学应用国际公司，甚至加州大学伯克利分校等形形色色的组织——已使管理者们匆忙审视其错综复杂的 IT 系统和业务流程，以查找潜在的漏洞。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2007-text4-s4",
+      "s": "\"Data is becoming an asset which needs to be guarded as much as any other asset,\" says Haim Mendelson of Stanford University's business school.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Haim Mendelson",
+        "谓语": "says",
+        "宾语或表语": "Data is becoming an asset（引语）",
+        "主干翻译": "斯坦福大学商学院的海姆·门德尔松说，数据正在成为一种资产。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "Data is becoming an asset which needs to be guarded as much as any other asset",
+          "修饰对象": "says",
+          "中文翻译": "数据正成为一种需要像任何其他资产一样加以守护的资产",
+          "说明": "引语整体作 says 的宾语（直接引语，相当于宾语从句）。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "which needs to be guarded as much as any other asset",
+          "修饰对象": "asset",
+          "中文翻译": "（这种资产）需要像任何其他资产一样得到守护",
+          "说明": "which 引导定语从句修饰 an asset。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to be guarded as much as any other asset",
+          "修饰对象": "needs",
+          "中文翻译": "像任何其他资产一样被守护",
+          "说明": "不定式作 needs 的补足成分；as much as 引出比较。"
+        }
+      ],
+      "zh": "斯坦福大学商学院的海姆·门德尔松说：\"数据正在成为一种资产，需要像守护任何其他资产那样加以守护。\"",
+      "underline": null
+    },
+    {
+      "sid": "en1-2007-text4-s5",
+      "s": "\"The ability to guard customer data is the key to market value, which the board is responsible for on behalf of shareholders.\"",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "The ability to guard customer data",
+        "谓语": "is",
+        "宾语或表语": "the key to market value",
+        "主干翻译": "保护客户数据的能力是市场价值的关键。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to guard customer data",
+          "修饰对象": "ability",
+          "中文翻译": "保护客户数据（的能力）",
+          "说明": "不定式短语作 The ability 的后置定语，说明何种能力。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "which the board is responsible for on behalf of shareholders",
+          "修饰对象": "value",
+          "中文翻译": "（市场价值）是董事会代表股东负责的对象",
+          "说明": "which 引导定语从句修饰 market value，which 作 responsible for 的介词宾语。"
+        }
+      ],
+      "zh": "\"保护客户数据的能力是市场价值的关键，而董事会代表股东对这一市场价值负有责任。\"",
+      "underline": null
+    },
+    {
+      "sid": "en1-2007-text4-s6",
+      "s": "Indeed, just as there is the concept of Generally Accepted Accounting Principles (GAAP), perhaps it is time for GASP, Generally Accepted Security Practices, suggested Eli Noam of New York's Columbia Business School.",
+      "para_no": 3,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Eli Noam",
+        "谓语": "suggested",
+        "宾语或表语": "it is time for GASP（引语）",
+        "主干翻译": "纽约哥伦比亚商学院的伊莱·诺姆提出，也许是时候推出 GASP 了。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(比较)",
+          "原文": "just as there is the concept of Generally Accepted Accounting Principles (GAAP)",
+          "修饰对象": "is",
+          "中文翻译": "正如存在公认会计原则（GAAP）这一概念一样",
+          "说明": "just as 引导方式/类比状语从句，将 GASP 与 GAAP 作类比。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "GAAP",
+          "修饰对象": "Principles",
+          "中文翻译": "公认会计原则的缩写",
+          "说明": "括号内缩写作 Generally Accepted Accounting Principles 的同位语。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "Indeed, just as there is the concept of Generally Accepted Accounting Principles (GAAP), perhaps it is time for GASP, Generally Accepted Security Practices",
+          "修饰对象": "suggested",
+          "中文翻译": "确实，正如存在公认会计原则一样，也许是时候推出公认安全规范（GASP）了",
+          "说明": "整句引语作 suggested 的宾语（前置直接引语）。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "Generally Accepted Security Practices",
+          "修饰对象": "GASP",
+          "中文翻译": "公认安全规范",
+          "说明": "作 GASP 的同位语，解释该缩写的全称含义。"
+        }
+      ],
+      "zh": "纽约哥伦比亚商学院的伊莱·诺姆提出，确实，正如有公认会计原则（GAAP）这一概念一样，也许现在该有 GASP，即公认安全规范了。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2007-text4-s7",
+      "s": "\"Setting the proper investment level for security, redundancy, and recovery is a management issue, not a technical one,\" he says.",
+      "para_no": 3,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "he",
+        "谓语": "says",
+        "宾语或表语": "Setting...is a management issue（引语）",
+        "主干翻译": "他说，为安全确定恰当的投资水平是一个管理问题。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "redundancy, and recovery",
+          "修饰对象": "security",
+          "中文翻译": "冗余备份和恢复",
+          "说明": "与 security 并列，同为 investment level for 的对象。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "Setting the proper investment level for security, redundancy, and recovery is a management issue, not a technical one",
+          "修饰对象": "says",
+          "中文翻译": "为安全、冗余和恢复确定恰当的投资水平是一个管理问题，而非技术问题",
+          "说明": "整句引语作 says 的宾语（前置直接引语）；动名词 Setting... 作引语内主语。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "a technical one",
+          "修饰对象": "issue",
+          "中文翻译": "一个技术问题",
+          "说明": "not a technical one 与 a management issue 形成对照的并列同位结构（one 指代 issue）。"
+        }
+      ],
+      "zh": "他说：\"为安全、冗余备份和恢复确定恰当的投资水平是一个管理问题，而不是技术问题。\"",
+      "underline": null
+    },
+    {
+      "sid": "en1-2007-text4-s8",
+      "s": "The mystery is that this should come as a surprise to any boss.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The mystery",
+        "谓语": "is",
+        "宾语或表语": "that this should come as a surprise to any boss",
+        "主干翻译": "令人不解的是，这竟会让任何一位老板感到意外。"
+      },
+      "components": [
+        {
+          "成分类型": "表语从句",
+          "原文": "that this should come as a surprise to any boss",
+          "修饰对象": "is",
+          "中文翻译": "这竟会让任何一位老板感到意外",
+          "说明": "that 引导表语从句，作系动词 is 的表语，解释 mystery 的内容。"
+        }
+      ],
+      "zh": "令人不解的是，这件事竟然会让任何一位老板感到意外。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2007-text4-s9",
+      "s": "Surely it should be obvious to the dimmest executive that trust, that most valuable of economic assets, is easily destroyed and hugely expensive to restore—and that few things are more likely to destroy trust than a company letting sensitive personal data get into the wrong hands.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "it（形式主语）",
+        "谓语": "should be",
+        "宾语或表语": "obvious",
+        "主干翻译": "（这一点）对最迟钝的高管来说也应是显而易见的。"
+      },
+      "components": [
+        {
+          "成分类型": "同位语从句",
+          "原文": "that most valuable of economic assets",
+          "修饰对象": "trust",
+          "中文翻译": "那种最宝贵的经济资产",
+          "说明": "作 trust 的同位语，强调信任在经济资产中的地位。"
+        },
+        {
+          "成分类型": "主语从句",
+          "原文": "that trust, that most valuable of economic assets, is easily destroyed and hugely expensive to restore—and that few things are more likely to destroy trust than a company letting sensitive personal data get into the wrong hands",
+          "修饰对象": "be",
+          "中文翻译": "信任这种最宝贵的经济资产极易被摧毁且重建代价极高，而且很少有什么比一家公司让敏感个人数据落入不当之手更可能摧毁信任",
+          "说明": "it 为形式主语，that 引导的真正主语从句（含两个并列 that 从句）。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "hugely expensive to restore",
+          "修饰对象": "destroyed",
+          "中文翻译": "重建代价极其高昂",
+          "说明": "与 easily destroyed 并列，同作 trust is 的表语。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to restore",
+          "修饰对象": "expensive",
+          "中文翻译": "去重建（恢复）",
+          "说明": "不定式作 expensive 的补足成分，说明在何方面代价高。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "that few things are more likely to destroy trust than a company letting sensitive personal data get into the wrong hands",
+          "修饰对象": "destroyed",
+          "中文翻译": "很少有什么比一家公司让敏感个人数据落入不当之手更可能摧毁信任",
+          "说明": "第二个 that 从句与第一个 that 从句并列，共同充当真正主语。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to destroy trust",
+          "修饰对象": "likely",
+          "中文翻译": "摧毁信任",
+          "说明": "不定式作 likely 的补足成分，说明可能发生的动作。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "letting sensitive personal data get into the wrong hands",
+          "修饰对象": "company",
+          "中文翻译": "让敏感个人数据落入不当之手（的公司）",
+          "说明": "现在分词短语作 a company 的后置定语；此处亦构成 than 后的比较对象。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "sensitive personal data get into the wrong hands",
+          "修饰对象": "letting",
+          "中文翻译": "敏感个人数据落入不当之手",
+          "说明": "作 let 的复合宾语（宾语 + get 不带 to 的不定式补足语）。"
+        }
+      ],
+      "zh": "毫无疑问，即便对最迟钝的高管来说也应显而易见：信任这种最宝贵的经济资产极易被摧毁、重建代价极高，而且很少有什么比一家公司任由敏感个人数据落入不当之手更能摧毁信任。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2007-text4-s10",
+      "s": "The current state of affairs may have been encouraged—though not justified—by the lack of legal penalty (in America, but not Europe) for data leakage.",
+      "para_no": 5,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The current state of affairs",
+        "谓语": "may have been encouraged",
+        "宾语或表语": "by the lack of legal penalty",
+        "主干翻译": "目前的这种状况可能是由于缺乏法律惩罚而被助长的。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(让步)",
+          "原文": "though not justified",
+          "修饰对象": "encouraged",
+          "中文翻译": "尽管这种状况并不正当（不应被开脱）",
+          "说明": "though 引导让步状语（省略主谓的从句），插在谓语之间，意为\"虽被助长却不被认为合理\"。"
+        }
+      ],
+      "zh": "目前这种状况之所以出现，可能是因为（在美国，但欧洲并非如此）对数据泄露缺乏法律惩罚而被助长——尽管这并不能使其合理化。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2007-text4-s11",
+      "s": "Until California recently passed a law, American firms did not have to tell anyone, even the victim, when data went astray.",
+      "para_no": 5,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "American firms",
+        "谓语": "did not have to tell",
+        "宾语或表语": "anyone",
+        "主干翻译": "美国公司不必告诉任何人。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "Until California recently passed a law",
+          "修饰对象": "have",
+          "中文翻译": "直到加利福尼亚州最近通过一项法律之前",
+          "说明": "Until 引导时间状语从句，限定主句行为持续的时间界限。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to tell anyone, even the victim, when data went astray",
+          "修饰对象": "have",
+          "中文翻译": "告知任何人，甚至包括受害者，数据何时丢失",
+          "说明": "不定式作 have to 的补足成分，构成谓语的核心动作内容。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "even the victim",
+          "修饰对象": "anyone",
+          "中文翻译": "甚至受害者本人",
+          "说明": "作 anyone 的同位语，强调连受害者都不必告知。"
+        },
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "when data went astray",
+          "修饰对象": "tell",
+          "中文翻译": "当数据丢失时",
+          "说明": "when 引导时间状语从句，修饰 tell，说明在何种情形下需告知。"
+        }
+      ],
+      "zh": "在加利福尼亚州最近通过一项法律之前，美国公司在数据丢失时不必告诉任何人，甚至连受害者本人也无须告知。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2007-text4-s12",
+      "s": "That may change fast: lots of proposed data-security legislation is now doing the rounds in Washington, D.C. Meanwhile, the theft of information about some 40 million credit-card accounts in America, disclosed on June 17th, overshadowed a hugely important decision a day earlier by America's Federal Trade Commission (FTC) that puts corporate America on notice that regulators will act if firms fail to provide adequate data security.",
+      "para_no": 5,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "the theft of information about some 40 million credit-card accounts in America",
+        "谓语": "overshadowed",
+        "宾语或表语": "a hugely important decision",
+        "主干翻译": "美国约 4000 万信用卡账户信息被盗一事，使一项极为重要的决定黯然失色。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "That may change fast",
+          "修饰对象": "doing",
+          "中文翻译": "这种情况可能很快改变",
+          "说明": "该句为前一独立小句；其后用冒号引出例证，整体作语篇承启。此处按 k 标注列出。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "disclosed on June 17th",
+          "修饰对象": "theft",
+          "中文翻译": "于 6 月 17 日被披露的（盗窃事件）",
+          "说明": "过去分词短语作 the theft 的后置定语，说明披露时间。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "FTC",
+          "修饰对象": "Commission",
+          "中文翻译": "联邦贸易委员会的缩写",
+          "说明": "括号内缩写作 Federal Trade Commission 的同位语。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that puts corporate America on notice that regulators will act if firms fail to provide adequate data security",
+          "修饰对象": "decision",
+          "中文翻译": "该决定正式警告美国企业界：若企业未能提供充分的数据安全，监管者将采取行动",
+          "说明": "that 引导定语从句修饰 a hugely important decision。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "that regulators will act if firms fail to provide adequate data security",
+          "修饰对象": "notice",
+          "中文翻译": "若企业未能提供充分的数据安全，监管者就会采取行动",
+          "说明": "that 引导同位语从句，说明 notice（告知）的具体内容。"
+        },
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "if firms fail to provide adequate data security",
+          "修饰对象": "act",
+          "中文翻译": "如果企业未能提供充分的数据安全",
+          "说明": "if 引导条件状语从句，修饰 will act。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to provide adequate data security",
+          "修饰对象": "fail",
+          "中文翻译": "提供充分的数据安全",
+          "说明": "不定式作 fail 的补足成分，构成 fail to do 结构。"
+        }
+      ],
+      "zh": "这种情况可能很快改变：眼下大量拟议中的数据安全立法正在华盛顿特区流转。与此同时，6 月 17 日披露的美国约 4000 万信用卡账户信息被盗一事，使前一天美国联邦贸易委员会（FTC）作出的一项极为重要的决定黯然失色——该决定正式警告美国企业界：若企业未能提供充分的数据安全，监管者将采取行动。",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2007-text4-s0",
+        "en1-2007-text4-s1",
+        "en1-2007-text4-s2"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2007-text4-s3"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2007-text4-s4",
+        "en1-2007-text4-s5",
+        "en1-2007-text4-s6",
+        "en1-2007-text4-s7"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2007-text4-s8",
+        "en1-2007-text4-s9"
+      ]
+    },
+    {
+      "para_no": 5,
+      "sids": [
+        "en1-2007-text4-s10",
+        "en1-2007-text4-s11",
+        "en1-2007-text4-s12"
+      ]
+    }
+  ]
+}

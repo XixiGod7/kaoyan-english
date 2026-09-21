@@ -1,0 +1,702 @@
+{
+  "exam": "en1",
+  "key": "2025-t2",
+  "year": 2025,
+  "text_no": 2,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2025-text2-s1",
+      "s": "I was shocked to learn recently that some scientists want to scale back their research in an effort to decrease carbon emissions.",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "I",
+        "谓语": "was shocked",
+        "宾语或表语": "—",
+        "主干翻译": "我感到震惊。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to learn recently that some scientists want to scale back their research in an effort to decrease carbon emissions",
+          "修饰对象": "shocked",
+          "中文翻译": "最近得知一些科学家想要缩减他们的研究以努力减少碳排放",
+          "说明": "不定式作原因状语，补足形容词 shocked，说明震惊的原因"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that some scientists want to scale back their research in an effort to decrease carbon emissions",
+          "修饰对象": "learn",
+          "中文翻译": "一些科学家想要缩减他们的研究以努力减少碳排放",
+          "说明": "that 引导，作 learn 的宾语"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to decrease carbon emissions",
+          "修饰对象": "effort",
+          "中文翻译": "以减少碳排放",
+          "说明": "不定式修饰 effort，表目的/内容"
+        }
+      ],
+      "zh": "最近我震惊地得知，一些科学家想要缩减他们的研究，以努力减少碳排放。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2025-text2-s2",
+      "s": "The crisis is here, they said, and we need to cut back on our energy-intensive modelling.",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "they",
+        "谓语": "said",
+        "宾语或表语": "The crisis is here",
+        "主干翻译": "他们说，危机已经到来。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "we need to cut back on our energy-intensive modelling",
+          "修饰对象": "—",
+          "中文翻译": "我们需要削减能耗密集型的建模",
+          "说明": "由 and 连接的并列分句，与 The crisis is here 并列，同为 said 的内容"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to cut back on our energy-intensive modelling",
+          "修饰对象": "need",
+          "中文翻译": "去削减我们能耗密集型的建模",
+          "说明": "不定式作 need 的宾语，补足谓语"
+        }
+      ],
+      "zh": "他们说，危机已经到来，我们需要削减能耗密集型的建模工作。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2025-text2-s3",
+      "s": "At the very least, we need to make our energy use far more sustainable.",
+      "para_no": 1,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "we",
+        "谓语": "need",
+        "宾语或表语": "to make our energy use far more sustainable",
+        "主干翻译": "我们需要让我们的能源使用更具可持续性。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to make our energy use far more sustainable",
+          "修饰对象": "need",
+          "中文翻译": "使我们的能源使用变得可持续得多",
+          "说明": "不定式作 need 的宾语，补足谓语；其中 our energy use 为宾语，far more sustainable 为宾语补足语"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "At the very least",
+          "修饰对象": "need",
+          "中文翻译": "至少",
+          "说明": "句首介词短语作程度/让步状语"
+        }
+      ],
+      "zh": "至少，我们需要让我们的能源使用变得可持续得多。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2025-text2-s4",
+      "s": "It is unarguable that our laboratories, scientific instruments, rockets and satellites—the tools we scientists need to measure the planet's pulse—demand significant amounts of energy both in their construction and operation.",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "It (形式主语，真正主语为 that 从句)",
+        "谓语": "is",
+        "宾语或表语": "unarguable",
+        "主干翻译": "……是无可争辩的。"
+      },
+      "components": [
+        {
+          "成分类型": "主语从句",
+          "原文": "that our laboratories, scientific instruments, rockets and satellites—the tools we scientists need to measure the planet's pulse—demand significant amounts of energy both in their construction and operation",
+          "修饰对象": "It",
+          "中文翻译": "我们的实验室、科学仪器、火箭和卫星——我们科学家用来测量地球脉搏的工具——在建造和运行中都需要消耗大量能源",
+          "说明": "that 引导的真正主语，It 为形式主语"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "scientific instruments, rockets and satellites",
+          "修饰对象": "laboratories",
+          "中文翻译": "科学仪器、火箭和卫星",
+          "说明": "与 laboratories 并列，共同作主语从句的主语"
+        },
+        {
+          "成分类型": "同位语",
+          "原文": "the tools we scientists need to measure the planet's pulse",
+          "修饰对象": "laboratories",
+          "中文翻译": "我们科学家用来测量地球脉搏的工具",
+          "说明": "破折号间的插入成分，作前述并列主语的同位语"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "we scientists need to measure the planet's pulse",
+          "修饰对象": "tools",
+          "中文翻译": "我们科学家用来测量地球脉搏的",
+          "说明": "省略关系代词 that/which 的定语从句，修饰 tools"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to measure the planet's pulse",
+          "修饰对象": "need",
+          "中文翻译": "以测量地球的脉搏",
+          "说明": "不定式作目的状语，说明 need 这些工具的目的"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "both in their construction and operation",
+          "修饰对象": "demand",
+          "中文翻译": "在建造和运行两方面",
+          "说明": "介词短语作状语，修饰 demand"
+        }
+      ],
+      "zh": "无可争辩的是，我们的实验室、科学仪器、火箭和卫星——这些我们科学家用来测量地球脉搏的工具——无论在建造还是运行过程中都需要消耗大量能源。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2025-text2-s5",
+      "s": "And it is equally true that science’s unrelenting appetite for information has caused a mushrooming of energy-intensive data centres around the world.",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "it (形式主语，真正主语为 that 从句)",
+        "谓语": "is",
+        "宾语或表语": "equally true",
+        "主干翻译": "……同样是真实的。"
+      },
+      "components": [
+        {
+          "成分类型": "主语从句",
+          "原文": "that science’s unrelenting appetite for information has caused a mushrooming of energy-intensive data centres around the world",
+          "修饰对象": "it",
+          "中文翻译": "科学对信息永不满足的需求已导致全球能耗密集型数据中心激增",
+          "说明": "that 引导的真正主语，it 为形式主语"
+        }
+      ],
+      "zh": "同样真实的是，科学对信息永不满足的渴求已经导致全球能耗密集型数据中心的激增。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2025-text2-s6",
+      "s": "According to the International Energy Agency, these buildings now consume about 1 per cent of the world's electricity.",
+      "para_no": 2,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "these buildings",
+        "谓语": "consume",
+        "宾语或表语": "about 1 per cent of the world's electricity",
+        "主干翻译": "这些建筑消耗了世界电力的约百分之一。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "According to the International Energy Agency",
+          "修饰对象": "consume",
+          "中文翻译": "据国际能源署称",
+          "说明": "句首介词短语作状语，表信息来源"
+        }
+      ],
+      "zh": "据国际能源署称，这些建筑如今消耗了全球约百分之一的电力。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2025-text2-s7",
+      "s": "However, this is a price we must pay for understanding the world.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "this",
+        "谓语": "is",
+        "宾语或表语": "a price",
+        "主干翻译": "这是一种代价。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "we must pay for understanding the world",
+          "修饰对象": "price",
+          "中文翻译": "我们为理解世界而必须付出的",
+          "说明": "省略关系代词 that/which 的定语从句，修饰 price"
+        }
+      ],
+      "zh": "然而，这是我们为认识世界而必须付出的代价。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2025-text2-s8",
+      "s": "How can we inform decision makers about the best ways to bring down carbon emissions if we can't track the amount of carbon dioxide in the atmosphere, where it's coming from and who's producing it?",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "we",
+        "谓语": "can inform",
+        "宾语或表语": "decision makers",
+        "主干翻译": "我们如何能告知决策者？"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to bring down carbon emissions",
+          "修饰对象": "ways",
+          "中文翻译": "降低碳排放的",
+          "说明": "不定式作定语修饰 the best ways"
+        },
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "if we can't track the amount of carbon dioxide in the atmosphere, where it's coming from and who's producing it",
+          "修饰对象": "inform",
+          "中文翻译": "如果我们无法追踪大气中二氧化碳的含量、它来自何处以及谁在排放它",
+          "说明": "if 引导的条件状语从句"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "where it's coming from and who's producing it",
+          "修饰对象": "amount",
+          "中文翻译": "它来自何处以及谁在排放它",
+          "说明": "两个名词性从句与 the amount 并列，同作 track 的宾语"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "who's producing it",
+          "修饰对象": "coming",
+          "中文翻译": "谁在排放它",
+          "说明": "与 where it's coming from 并列"
+        }
+      ],
+      "zh": "如果我们无法追踪大气中二氧化碳的含量、它来自何处以及谁在排放它，我们又如何能向决策者提供有关降低碳排放最佳途径的信息呢？",
+      "underline": null
+    },
+    {
+      "sid": "en1-2025-text2-s9",
+      "s": "The carbon emissions from technological research are well spent: ultimately this research will safeguard the future of our planet.",
+      "para_no": 3,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "The carbon emissions",
+        "谓语": "are",
+        "宾语或表语": "well spent",
+        "主干翻译": "这些碳排放花得值得。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "from technological research",
+          "修饰对象": "emissions",
+          "中文翻译": "来自技术研究的",
+          "说明": "介词短语作定语，修饰 The carbon emissions"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "ultimately this research will safeguard the future of our planet",
+          "修饰对象": "—",
+          "中文翻译": "归根结底，这项研究将守护我们星球的未来",
+          "说明": "冒号后的分句，对前句作解释说明，与主句并列"
+        }
+      ],
+      "zh": "技术研究所产生的碳排放是物有所值的：归根结底，这项研究将守护我们星球的未来。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2025-text2-s10",
+      "s": "It can be hard for scientists to make the case because our work is complex, often takes place behind closed doors and does not always lend itself to easy interpretation or explanation.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "It (形式主语，真正主语为 to 不定式)",
+        "谓语": "can be",
+        "宾语或表语": "hard",
+        "主干翻译": "……可能是困难的。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "for scientists to make the case",
+          "修饰对象": "be",
+          "中文翻译": "对科学家来说去阐明这一论点",
+          "说明": "for scientists 为不定式的逻辑主语，to make the case 为真正主语，It 为形式主语"
+        },
+        {
+          "成分类型": "状语从句(原因)",
+          "原文": "because our work is complex, often takes place behind closed doors and does not always lend itself to easy interpretation or explanation",
+          "修饰对象": "be",
+          "中文翻译": "因为我们的工作很复杂，往往在闭门之中进行，并且并不总是易于解读或解释",
+          "说明": "because 引导原因状语从句"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "often takes place behind closed doors and does not always lend itself to easy interpretation or explanation",
+          "修饰对象": "is",
+          "中文翻译": "往往在闭门之中进行，并且并不总是易于解读或解释",
+          "说明": "两个谓语与 is complex 并列，共用主语 our work"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "does not always lend itself to easy interpretation or explanation",
+          "修饰对象": "takes",
+          "中文翻译": "并不总是易于解读或解释",
+          "说明": "与 often takes place behind closed doors 并列"
+        }
+      ],
+      "zh": "科学家很难把这件事说清楚，因为我们的工作很复杂，往往在闭门之中进行，而且并不总是易于解读或解释。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2025-text2-s11",
+      "s": "But demonstrating the efficacy of science will be crucial if we are to solve humanity's greatest challenges.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "demonstrating the efficacy of science",
+        "谓语": "will be",
+        "宾语或表语": "crucial",
+        "主干翻译": "证明科学的效用将至关重要。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "if we are to solve humanity's greatest challenges",
+          "修饰对象": "be",
+          "中文翻译": "如果我们要解决人类最大的挑战",
+          "说明": "if 引导条件状语从句，be to 表示意图/计划"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to solve humanity's greatest challenges",
+          "修饰对象": "are",
+          "中文翻译": "去解决人类最大的挑战",
+          "说明": "be to do 结构中的不定式，补足谓语"
+        }
+      ],
+      "zh": "但如果我们要解决人类面临的最大挑战，证明科学的效用将至关重要。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2025-text2-s12",
+      "s": "Recognising the hope that science and engineering can bring was the impetus behind the creation of the Millennium Technology Prize, which is now entering its 20th year as a celebration of human ingenuity.",
+      "para_no": 5,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Recognising the hope",
+        "谓语": "was",
+        "宾语或表语": "the impetus",
+        "主干翻译": "认识到这种希望是推动力。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "that science and engineering can bring",
+          "修饰对象": "hope",
+          "中文翻译": "科学与工程能够带来的",
+          "说明": "that 作宾语的定语从句，修饰 the hope"
+        },
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "behind the creation of the Millennium Technology Prize",
+          "修饰对象": "impetus",
+          "中文翻译": "千禧技术奖创立背后的",
+          "说明": "介词短语作定语，修饰 the impetus"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "which is now entering its 20th year as a celebration of human ingenuity",
+          "修饰对象": "Prize",
+          "中文翻译": "如今正进入其第二十个年头，作为对人类智慧的颂扬",
+          "说明": "which 引导非限制性定语从句，修饰 the Millennium Technology Prize"
+        }
+      ],
+      "zh": "认识到科学与工程所能带来的希望，正是创立千禧技术奖的推动力，该奖如今已进入第二十个年头，成为对人类智慧的一种颂扬。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2025-text2-s13",
+      "s": "One of the past winners, Professor Martin Green from the University of New South Wales, Australia, is the inventor of the Passivated Emitter and Rear Cell technology which is now found in most of the world's solar panels.",
+      "para_no": 5,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "One of the past winners",
+        "谓语": "is",
+        "宾语或表语": "the inventor of the Passivated Emitter and Rear Cell technology",
+        "主干翻译": "过去的获奖者之一是钝化发射极及背面电池技术的发明者。"
+      },
+      "components": [
+        {
+          "成分类型": "同位语",
+          "原文": "Professor Martin Green from the University of New South Wales, Australia",
+          "修饰对象": "One",
+          "中文翻译": "来自澳大利亚新南威尔士大学的马丁·格林教授",
+          "说明": "作 One of the past winners 的同位语"
+        },
+        {
+          "成分类型": "同位语",
+          "原文": "Australia",
+          "修饰对象": "Wales",
+          "中文翻译": "澳大利亚",
+          "说明": "New South Wales 的同位/地理补充"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "which is now found in most of the world's solar panels",
+          "修饰对象": "technology",
+          "中文翻译": "如今被用于世界上大多数太阳能电池板中",
+          "说明": "which 引导定语从句，修饰 technology"
+        }
+      ],
+      "zh": "过去的获奖者之一、来自澳大利亚新南威尔士大学的马丁·格林教授，是钝化发射极及背面电池技术的发明者，该技术如今被应用于世界上大多数太阳能电池板中。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2025-text2-s14",
+      "s": "Thanks to his invention, we have a real chance to decrease the world's carbon emissions.",
+      "para_no": 5,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "we",
+        "谓语": "have",
+        "宾语或表语": "a real chance",
+        "主干翻译": "我们拥有一个真正的机会。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "Thanks to his invention",
+          "修饰对象": "have",
+          "中文翻译": "多亏了他的发明",
+          "说明": "句首介词短语作原因状语"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to decrease the world's carbon emissions",
+          "修饰对象": "chance",
+          "中文翻译": "减少世界碳排放的",
+          "说明": "不定式作定语，修饰 a real chance"
+        }
+      ],
+      "zh": "多亏了他的发明，我们才拥有了真正减少全球碳排放的机会。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2025-text2-s15",
+      "s": "Every day, scientists, technologists and engineers are discovering new ways to exploit renewable energy sources and develop techniques not just to use power more intelligently but to power our intelligence.",
+      "para_no": 6,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "scientists, technologists and engineers",
+        "谓语": "are discovering",
+        "宾语或表语": "new ways",
+        "主干翻译": "科学家、技术专家和工程师正在发现新的方法。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "technologists and engineers",
+          "修饰对象": "scientists",
+          "中文翻译": "技术专家和工程师",
+          "说明": "与 scientists 并列，共同作主语"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to exploit renewable energy sources and develop techniques not just to use power more intelligently but to power our intelligence",
+          "修饰对象": "ways",
+          "中文翻译": "利用可再生能源并开发既能更智能地使用能源、又能为我们的智能提供动力的技术的",
+          "说明": "不定式作定语，修饰 new ways"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "develop techniques not just to use power more intelligently but to power our intelligence",
+          "修饰对象": "exploit",
+          "中文翻译": "开发既能更智能地使用能源、又能为我们的智能提供动力的技术",
+          "说明": "与 exploit renewable energy sources 并列，同受 to 支配"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "not just to use power more intelligently but to power our intelligence",
+          "修饰对象": "techniques",
+          "中文翻译": "不仅能更智能地使用能源，而且能为我们的智能提供动力",
+          "说明": "not just...but... 并列的不定式作定语，修饰 techniques"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "to power our intelligence",
+          "修饰对象": "use",
+          "中文翻译": "为我们的智能提供动力",
+          "说明": "由 not just...but... 连接，与 to use power more intelligently 并列"
+        }
+      ],
+      "zh": "每一天，科学家、技术专家和工程师都在发现利用可再生能源的新方法，并开发出不仅能更智能地使用能源、而且能为我们的智能提供动力的技术。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2025-text2-s16",
+      "s": "A great example of this is Europe's largest supercomputer, LUMI in Finland, which is astonishingly carbon-negative.",
+      "para_no": 6,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "A great example of this",
+        "谓语": "is",
+        "宾语或表语": "Europe's largest supercomputer, LUMI in Finland",
+        "主干翻译": "这方面的一个绝佳例子是欧洲最大的超级计算机——芬兰的LUMI。"
+      },
+      "components": [
+        {
+          "成分类型": "同位语",
+          "原文": "LUMI in Finland",
+          "修饰对象": "supercomputer",
+          "中文翻译": "芬兰的LUMI",
+          "说明": "作 Europe's largest supercomputer 的同位语"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "which is astonishingly carbon-negative",
+          "修饰对象": "supercomputer",
+          "中文翻译": "其碳排放量惊人地为负",
+          "说明": "which 引导非限制性定语从句，修饰该超级计算机"
+        }
+      ],
+      "zh": "这方面的一个绝佳例子就是欧洲最大的超级计算机——位于芬兰的LUMI，它惊人地实现了负碳排放。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2025-text2-s17",
+      "s": "Established in an old paper mill, it is powered by a nearby river and its remote heat warms the people who live in the surrounding town of Kajaani.",
+      "para_no": 6,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "it",
+        "谓语": "is powered",
+        "宾语或表语": "by a nearby river",
+        "主干翻译": "它由附近的一条河流供能。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "Established in an old paper mill",
+          "修饰对象": "powered",
+          "中文翻译": "建在一座旧造纸厂内",
+          "说明": "过去分词短语作状语，表伴随/背景，逻辑主语为 it"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "its remote heat warms the people who live in the surrounding town of Kajaani",
+          "修饰对象": "powered",
+          "中文翻译": "它的余热温暖着居住在周边卡亚尼镇的人们",
+          "说明": "and 连接的并列分句，与主句 it is powered... 并列"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "who live in the surrounding town of Kajaani",
+          "修饰对象": "people",
+          "中文翻译": "居住在周边卡亚尼镇的",
+          "说明": "who 引导定语从句，修饰 the people"
+        }
+      ],
+      "zh": "它建在一座旧造纸厂内，由附近的一条河流供能，其余热则温暖着居住在周边卡亚尼镇的人们。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2025-text2-s18",
+      "s": "If the world is to meet its net-zero ambitions, we must think hard about how we can deliver sustainable computing and deliver more LUMIs.",
+      "para_no": 7,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "we",
+        "谓语": "must think",
+        "宾语或表语": "hard about how we can deliver sustainable computing and deliver more LUMIs",
+        "主干翻译": "我们必须认真思考如何实现可持续计算并交付更多像LUMI这样的超级计算机。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "If the world is to meet its net-zero ambitions",
+          "修饰对象": "must think",
+          "中文翻译": "如果世界要实现其净零排放目标",
+          "说明": "If 引导条件状语从句，is to do 表示计划/必要的将来。"
+        },
+        {
+          "成分类型": "非谓语作宾语",
+          "原文": "to meet its net-zero ambitions",
+          "修饰对象": "is",
+          "中文翻译": "实现其净零排放目标",
+          "说明": "动词不定式短语，与 be to 构成 be to do 结构，表示应当/计划做。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "how we can deliver sustainable computing and deliver more LUMIs",
+          "修饰对象": "about",
+          "中文翻译": "我们如何能够实现可持续计算并交付更多像LUMI这样的超级计算机",
+          "说明": "how 引导介词 about 的宾语从句。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "deliver sustainable computing and deliver more LUMIs",
+          "修饰对象": "how we can",
+          "中文翻译": "实现可持续计算并交付更多像LUMI这样的超级计算机",
+          "说明": "and 连接两个并列的动词短语，共用情态动词 can。"
+        }
+      ],
+      "zh": "如果世界要实现其净零排放目标，我们就必须认真思考如何实现可持续计算并交付更多像LUMI这样的超级计算机。",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2025-text2-s1",
+        "en1-2025-text2-s2",
+        "en1-2025-text2-s3"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2025-text2-s4",
+        "en1-2025-text2-s5",
+        "en1-2025-text2-s6"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2025-text2-s7",
+        "en1-2025-text2-s8",
+        "en1-2025-text2-s9"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2025-text2-s10",
+        "en1-2025-text2-s11"
+      ]
+    },
+    {
+      "para_no": 5,
+      "sids": [
+        "en1-2025-text2-s12",
+        "en1-2025-text2-s13",
+        "en1-2025-text2-s14"
+      ]
+    },
+    {
+      "para_no": 6,
+      "sids": [
+        "en1-2025-text2-s15",
+        "en1-2025-text2-s16",
+        "en1-2025-text2-s17"
+      ]
+    },
+    {
+      "para_no": 7,
+      "sids": [
+        "en1-2025-text2-s18"
+      ]
+    }
+  ]
+}

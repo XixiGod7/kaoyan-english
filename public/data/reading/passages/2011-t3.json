@@ -1,0 +1,740 @@
+{
+  "exam": "en1",
+  "key": "2011-t3",
+  "year": 2011,
+  "text_no": 3,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2011-text3-s1",
+      "s": "The rough guide to marketing success used to be that you got what you paid for. No longer.",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The rough guide",
+        "谓语": "used to be",
+        "宾语或表语": "that you got what you paid for",
+        "主干翻译": "这个粗略的指南过去是说，一分钱一分货。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "to marketing success",
+          "修饰对象": "guide",
+          "中文翻译": "通向营销成功的",
+          "说明": "to引导的介词短语修饰guide，说明是关于什么的指南。"
+        },
+        {
+          "成分类型": "表语从句",
+          "原文": "that you got what you paid for",
+          "修饰对象": "—",
+          "中文翻译": "你付出多少就得到多少",
+          "说明": "that引导表语从句，作used to be的表语；k中标为非谓语补足to be that...，实为系动词be后接表语从句。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "what you paid for",
+          "修饰对象": "got",
+          "中文翻译": "你所付出的（东西）",
+          "说明": "what引导宾语从句，作got的宾语，what在从句中作paid for的宾语。"
+        }
+      ],
+      "zh": "过去那条粗略的营销成功法则是：一分钱一分货（你付出多少就得到多少）。如今不再如此。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2011-text3-s2",
+      "s": "While traditional \"paid\" media—such as television commercials and print advertisements—still play a major role, companies today can exploit many alternative forms of media.",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "companies",
+        "谓语": "can exploit",
+        "宾语或表语": "many alternative forms of media",
+        "主干翻译": "如今的公司可以利用许多替代性的媒体形式。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(让步)",
+          "原文": "While traditional \"paid\" media—such as television commercials and print advertisements—still play a major role",
+          "修饰对象": "exploit",
+          "中文翻译": "尽管传统的\"付费\"媒体——如电视广告和平面广告——仍然发挥着重要作用",
+          "说明": "While在此表让步，意为\"尽管\"，与主句\"如今公司可以利用诸多替代媒体\"构成对比让步关系；破折号间为such as引出的举例插入。"
+        }
+      ],
+      "zh": "尽管传统的\"付费\"媒体（如电视广告和平面广告）仍然扮演着重要角色，但如今的公司可以利用许多替代性的媒体形式。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2011-text3-s3",
+      "s": "Consumers passionate about a product may create \"earned\" media by willingly promoting it to friends, and a company may leverage \"owned\" media by sending e-mail alerts about products and sales to customers registered with its Web site.",
+      "para_no": 1,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Consumers / a company",
+        "谓语": "may create / may leverage",
+        "宾语或表语": "\"earned\" media / \"owned\" media",
+        "主干翻译": "消费者可以创造\"赢得\"媒体，公司可以利用\"自有\"媒体。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "passionate about a product",
+          "修饰对象": "Consumers",
+          "中文翻译": "对某种产品充满热情的",
+          "说明": "形容词短语作后置定语修饰Consumers。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "by willingly promoting it to friends",
+          "修饰对象": "create",
+          "中文翻译": "通过自愿向朋友推荐它",
+          "说明": "by+动名词表方式，作create的方式状语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "a company may leverage \"owned\" media by sending e-mail alerts about products and sales to customers registered with its Web site.",
+          "修饰对象": "—",
+          "中文翻译": "公司可以通过向注册其网站的顾客发送有关产品和促销的电子邮件提醒来利用\"自有\"媒体",
+          "说明": "由and连接的第二个并列分句，与前一分句并列。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "by sending e-mail alerts about products and sales to customers",
+          "修饰对象": "leverage",
+          "中文翻译": "通过向顾客发送有关产品和促销的电子邮件提醒",
+          "说明": "by+动名词表方式，作leverage的方式状语。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "registered with its Web site",
+          "修饰对象": "customers",
+          "中文翻译": "注册了其网站的",
+          "说明": "过去分词短语作后置定语修饰customers。"
+        }
+      ],
+      "zh": "对某种产品充满热情的消费者，可以通过自愿向朋友推荐它来创造\"赢得\"媒体；而公司则可以通过向注册了其网站的顾客发送有关产品和促销的电子邮件提醒，来利用\"自有\"媒体。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2011-text3-s4",
+      "s": "The way consumers now approach the process of making purchase decisions means that marketing's impact stems from a broad range of factors beyond conventional paid media.",
+      "para_no": 1,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "The way",
+        "谓语": "means",
+        "宾语或表语": "that marketing's impact stems from a broad range of factors",
+        "主干翻译": "这种方式意味着营销的影响来自广泛的多种因素。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "consumers now approach the process of making purchase decisions",
+          "修饰对象": "way",
+          "中文翻译": "消费者如今处理作出购买决定这一过程（的方式）",
+          "说明": "省略了关系副词in which/that的定语从句，修饰The way；其中making purchase decisions为of的宾语动名词短语。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that marketing's impact stems from a broad range of factors beyond conventional paid media",
+          "修饰对象": "means",
+          "中文翻译": "营销的影响力来自传统付费媒体之外的广泛因素",
+          "说明": "that引导宾语从句，作means的宾语。"
+        },
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "beyond conventional paid media",
+          "修饰对象": "factors",
+          "中文翻译": "传统付费媒体之外的",
+          "说明": "beyond介词短语作后置定语修饰factors。"
+        }
+      ],
+      "zh": "如今消费者作出购买决定的方式意味着，营销的影响力来自传统付费媒体之外的广泛因素。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2011-text3-s5",
+      "s": "Paid and owned media are controlled by marketers promoting their own products.",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Paid and owned media",
+        "谓语": "are controlled",
+        "宾语或表语": "by marketers",
+        "主干翻译": "付费媒体和自有媒体由营销者控制。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "promoting their own products",
+          "修饰对象": "marketers",
+          "中文翻译": "推销自己产品的",
+          "说明": "现在分词短语作后置定语修饰marketers。"
+        }
+      ],
+      "zh": "付费媒体和自有媒体由推销自家产品的营销者所控制。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2011-text3-s6",
+      "s": "For earned media, such marketers act as the initiator for users' responses.",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "such marketers",
+        "谓语": "act",
+        "宾语或表语": "as the initiator",
+        "主干翻译": "这类营销者充当发起者。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "For earned media",
+          "修饰对象": "act",
+          "中文翻译": "对于赢得媒体而言",
+          "说明": "For介词短语作句首状语，限定范围。"
+        },
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "for users' responses",
+          "修饰对象": "initiator",
+          "中文翻译": "用户回应的",
+          "说明": "for介词短语作后置定语修饰initiator。"
+        }
+      ],
+      "zh": "而对于赢得媒体而言，这类营销者则充当用户回应的发起者。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2011-text3-s7",
+      "s": "But in some cases, one marketer's owned media become another marketer's paid media—for instance, when an e-commerce retailer sells ad space on its Web site.",
+      "para_no": 2,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "one marketer's owned media",
+        "谓语": "become",
+        "宾语或表语": "another marketer's paid media",
+        "主干翻译": "一个营销者的自有媒体成为另一个营销者的付费媒体。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "in some cases",
+          "修饰对象": "become",
+          "中文翻译": "在某些情况下",
+          "说明": "in some cases作句首状语。"
+        },
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "when an e-commerce retailer sells ad space on its Web site",
+          "修饰对象": "become",
+          "中文翻译": "当一家电商零售商在其网站上出售广告位时",
+          "说明": "when引导时间状语从句，与for instance共同举例说明前述情形发生的时机。"
+        }
+      ],
+      "zh": "但在某些情况下，一个营销者的自有媒体会成为另一个营销者的付费媒体——例如，当一家电商零售商在其网站上出售广告位时。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2011-text3-s8",
+      "s": "We define such sold media as owned media whose traffic is so strong that other organizations place their content or e-commerce engines within that environment.",
+      "para_no": 2,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "We",
+        "谓语": "define",
+        "宾语或表语": "such sold media as owned media",
+        "主干翻译": "我们把这种售出媒体定义为自有媒体。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "whose traffic is so strong that other organizations place their content or e-commerce engines within that environment",
+          "修饰对象": "media",
+          "中文翻译": "其流量如此之大，以至于其他机构会把它们的内容或电商引擎放置于该环境之中（的）",
+          "说明": "whose引导定语从句修饰owned media，从句内含so...that结构。"
+        },
+        {
+          "成分类型": "状语从句(结果)",
+          "原文": "that other organizations place their content or e-commerce engines within that environment",
+          "修饰对象": "strong",
+          "中文翻译": "以至于其他机构把它们的内容或电商引擎放置于该环境之中",
+          "说明": "so strong that...构成结果状语从句。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "e-commerce engines",
+          "修饰对象": "content",
+          "中文翻译": "电商引擎",
+          "说明": "content or e-commerce engines由or连接并列，共作place的宾语。"
+        }
+      ],
+      "zh": "我们把这种售出媒体定义为这样一种自有媒体：其流量极大，以至于其他机构会把自己的内容或电商引擎放置于该环境之中。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2011-text3-s9",
+      "s": "This trend, which we believe is still in its infancy, effectively began with retailers and travel providers such as airlines and hotels and will no doubt go further.",
+      "para_no": 2,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "This trend",
+        "谓语": "began / will go",
+        "宾语或表语": "with retailers and travel providers / further",
+        "主干翻译": "这一趋势始于零售商和旅游服务商，并且无疑还将走得更远。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "which we believe is still in its infancy",
+          "修饰对象": "trend",
+          "中文翻译": "我们认为仍处于起步阶段的",
+          "说明": "which引导非限制性定语从句修饰This trend，we believe为插入语；k中所标\"宾语从句\"实为该定语从句中嵌入的we believe结构。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "we believe",
+          "修饰对象": "is",
+          "中文翻译": "我们认为",
+          "说明": "we believe嵌入定语从句中作插入语，which为is的主语。"
+        },
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "such as airlines and hotels",
+          "修饰对象": "providers",
+          "中文翻译": "诸如航空公司和酒店之类的",
+          "说明": "such as举例修饰retailers and travel providers。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "will no doubt go further",
+          "修饰对象": "—",
+          "中文翻译": "无疑还将走得更远",
+          "说明": "与began构成由and连接的并列谓语。"
+        }
+      ],
+      "zh": "这一趋势——我们认为它仍处于起步阶段——实际上始于零售商以及航空公司、酒店之类的旅游服务商，并且无疑还将进一步发展。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2011-text3-s10",
+      "s": "Johnson & Johnson, for example, has created BabyCenter, a stand-alone media property that promotes complementary and even competitive products.",
+      "para_no": 2,
+      "para_seq": 5,
+      "trunk": {
+        "主语": "Johnson & Johnson",
+        "谓语": "has created",
+        "宾语或表语": "BabyCenter",
+        "主干翻译": "强生公司创建了BabyCenter。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "for example",
+          "修饰对象": "has created",
+          "中文翻译": "例如",
+          "说明": "for example作插入语。"
+        },
+        {
+          "成分类型": "同位语",
+          "原文": "a stand-alone media property that promotes complementary and even competitive products",
+          "修饰对象": "BabyCenter",
+          "中文翻译": "一个推广互补产品乃至竞争产品的独立媒体资产",
+          "说明": "名词短语作BabyCenter的同位语。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that promotes complementary and even competitive products",
+          "修饰对象": "property",
+          "中文翻译": "推广互补产品乃至竞争产品的",
+          "说明": "that引导定语从句修饰property。"
+        }
+      ],
+      "zh": "例如，强生公司创建了BabyCenter，这是一个推广互补产品乃至竞争产品的独立媒体资产。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2011-text3-s11",
+      "s": "Besides generating income, the presence of other marketers makes the site seem objective, gives companies opportunities to learn valuable information about the appeal of other companies' marketing, and may help expand user traffic for all companies concerned.",
+      "para_no": 2,
+      "para_seq": 6,
+      "trunk": {
+        "主语": "the presence of other marketers",
+        "谓语": "makes / gives / may help",
+        "宾语或表语": "the site seem objective / companies opportunities / expand user traffic",
+        "主干翻译": "其他营销者的存在使该网站显得客观、给公司带来机会，并可能有助于扩大用户流量。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "Besides generating income",
+          "修饰对象": "makes",
+          "中文翻译": "除了创造收入之外",
+          "说明": "Besides+动名词作句首状语。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "the site seem objective",
+          "修饰对象": "makes",
+          "中文翻译": "网站显得客观",
+          "说明": "make+宾语+省略to的不定式构成的复合宾语结构（the site作宾语，seem objective作宾补）。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "gives companies opportunities to learn valuable information about the appeal of other companies' marketing, and may help expand user traffic for all companies concerned",
+          "修饰对象": "—",
+          "中文翻译": "给公司带来了解其他公司营销吸引力的宝贵信息的机会，并可能有助于扩大所有相关公司的用户流量",
+          "说明": "与makes构成由逗号及and连接的并列谓语序列。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to learn valuable information about the appeal of other companies' marketing",
+          "修饰对象": "opportunities",
+          "中文翻译": "了解其他公司营销吸引力的宝贵信息的",
+          "说明": "不定式短语作opportunities的后置定语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "may help expand user traffic for all companies concerned",
+          "修饰对象": "—",
+          "中文翻译": "可能有助于扩大所有相关公司的用户流量",
+          "说明": "并列谓语之一，由and连接。"
+        },
+        {
+          "成分类型": "非谓语补足",
+          "原文": "expand user traffic for all companies concerned",
+          "修饰对象": "help",
+          "中文翻译": "扩大所有相关公司的用户流量",
+          "说明": "help后接省略to的不定式作宾语。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "concerned",
+          "修饰对象": "companies",
+          "中文翻译": "相关的",
+          "说明": "过去分词concerned作后置定语，意为\"有关的\"。"
+        }
+      ],
+      "zh": "除了创造收入之外，其他营销者的存在还能让该网站显得客观，给公司带来机会去了解其他公司营销吸引力的宝贵信息，并且可能有助于扩大所有相关公司的用户流量。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2011-text3-s12",
+      "s": "The same dramatic technological changes that have provided marketers with more (and more diverse) communications choices have also increased the risk that passionate consumers will voice their opinions in quicker, more visible, and much more damaging ways.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The same dramatic technological changes",
+        "谓语": "have increased",
+        "宾语或表语": "the risk",
+        "主干翻译": "同样的剧烈技术变革也增加了这种风险。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "that have provided marketers with more (and more diverse) communications choices",
+          "修饰对象": "changes",
+          "中文翻译": "为营销者提供了更多（且更多样）的传播选择的",
+          "说明": "that引导定语从句修饰changes。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "more diverse)",
+          "修饰对象": "more",
+          "中文翻译": "更多样的",
+          "说明": "more (and more diverse)中由and连接的并列成分。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "that passionate consumers will voice their opinions in quicker, more visible, and much more damaging ways",
+          "修饰对象": "risk",
+          "中文翻译": "热情的消费者会以更快、更显眼且更具破坏性的方式发表他们的意见（这一风险）",
+          "说明": "that引导同位语从句，说明risk的具体内容。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "more visible, and much more damaging",
+          "修饰对象": "quicker",
+          "中文翻译": "更显眼且更具破坏性的",
+          "说明": "quicker, more visible, and much more damaging三个比较级并列修饰ways。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "much more damaging",
+          "修饰对象": "visible",
+          "中文翻译": "更具破坏性的",
+          "说明": "并列的第三个比较级。"
+        }
+      ],
+      "zh": "同样这些为营销者提供了更多（且更多样）传播选择的剧烈技术变革，也增加了这样一种风险：热情的消费者会以更快速、更显眼且更具破坏性的方式表达自己的意见。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2011-text3-s13",
+      "s": "Such hijacked media are the opposite of earned media: an asset or campaign becomes hostage to consumers, other stakeholders, or activists who make negative allegations about a brand or product.",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Such hijacked media",
+        "谓语": "are",
+        "宾语或表语": "the opposite of earned media",
+        "主干翻译": "这类被劫持的媒体与赢得性媒体恰恰相反。"
+      },
+      "components": [
+        {
+          "成分类型": "同位语",
+          "原文": "an asset or campaign becomes hostage to consumers, other stakeholders, or activists",
+          "修饰对象": "Such hijacked media are the opposite of earned media",
+          "中文翻译": "一项资产或一场营销活动沦为消费者、其他利益相关者或激进分子的人质",
+          "说明": "冒号后的整个分句对前面主句作进一步解释说明，构成同位/解释关系。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "consumers, other stakeholders, or activists",
+          "修饰对象": "hostage",
+          "中文翻译": "消费者、其他利益相关者或激进分子",
+          "说明": "由 or 连接的三个并列名词，作介词 to 的宾语。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "who make negative allegations about a brand or product",
+          "修饰对象": "activists",
+          "中文翻译": "他们对某个品牌或产品发表负面指控",
+          "说明": "who 引导定语从句，修饰 activists（也可统摄前面并列名词）。"
+        }
+      ],
+      "zh": "这类被劫持的媒体与赢得性媒体恰恰相反：一项资产或一场营销活动沦为消费者、其他利益相关者或激进分子的人质，这些人会对某个品牌或产品发表负面指控。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2011-text3-s14",
+      "s": "Members of social networks, for instance, are learning that they can hijack media to apply pressure on the businesses that originally created them.",
+      "para_no": 3,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Members of social networks",
+        "谓语": "are learning",
+        "宾语或表语": "that they can hijack media",
+        "主干翻译": "社交网络的成员正在意识到他们可以劫持媒体。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "for instance",
+          "修饰对象": "are learning",
+          "中文翻译": "例如",
+          "说明": "for instance作插入语。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that they can hijack media to apply pressure on the businesses that originally created them",
+          "修饰对象": "learning",
+          "中文翻译": "他们可以劫持媒体来向最初创建这些媒体的企业施压",
+          "说明": "that引导宾语从句作learning的宾语。"
+        },
+        {
+          "成分类型": "状语从句(目的)",
+          "原文": "to apply pressure on the businesses that originally created them",
+          "修饰对象": "hijack",
+          "中文翻译": "以向企业施压",
+          "说明": "不定式短语作目的状语。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that originally created them",
+          "修饰对象": "businesses",
+          "中文翻译": "最初创建这些媒体的",
+          "说明": "that引导定语从句修饰businesses，them指代media。"
+        }
+      ],
+      "zh": "例如，社交网络的成员们正在意识到，他们可以劫持媒体，以此向最初创建这些媒体的企业施加压力。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2011-text3-s15",
+      "s": "If that happens, passionate consumers would try to persuade others to boycott products, putting the reputation of the target company at risk.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "passionate consumers",
+        "谓语": "would try",
+        "宾语或表语": "to persuade others",
+        "主干翻译": "热情的消费者会试图劝说他人。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "If that happens",
+          "修饰对象": "try",
+          "中文翻译": "如果那种情况发生",
+          "说明": "If引导条件状语从句。"
+        },
+        {
+          "成分类型": "非谓语补足",
+          "原文": "to persuade others to boycott products",
+          "修饰对象": "try",
+          "中文翻译": "去劝说他人抵制产品",
+          "说明": "不定式短语作try的宾语。"
+        },
+        {
+          "成分类型": "非谓语补足",
+          "原文": "to boycott products",
+          "修饰对象": "persuade",
+          "中文翻译": "抵制产品",
+          "说明": "不定式作persuade的宾语补足语。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "putting the reputation of the target company at risk",
+          "修饰对象": "try",
+          "中文翻译": "从而使目标公司的声誉面临风险",
+          "说明": "现在分词短语作结果状语。"
+        }
+      ],
+      "zh": "如果那种情况发生，热情的消费者就会试图劝说他人抵制相关产品，从而使目标公司的声誉陷入险境。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2011-text3-s16",
+      "s": "In such a case, the company's response may not be sufficiently quick or thoughtful, and the learning curve has been steep.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "the company's response / the learning curve",
+        "谓语": "may not be / has been",
+        "宾语或表语": "sufficiently quick or thoughtful / steep",
+        "主干翻译": "公司的反应可能不够迅速或周全，而学习曲线一直很陡峭。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "In such a case",
+          "修饰对象": "be",
+          "中文翻译": "在这种情况下",
+          "说明": "In such a case作句首状语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "the learning curve has been steep.",
+          "修饰对象": "—",
+          "中文翻译": "学习曲线一直很陡峭",
+          "说明": "由and连接的并列分句。"
+        }
+      ],
+      "zh": "在这种情况下，公司的反应可能不够迅速或不够周全，而这一学习过程一直颇为艰难。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2011-text3-s17",
+      "s": "Toyota Motor, for example, alleviated some of the damage from its recall crisis earlier this year with a relatively quick and well-orchestrated social-media response campaign, which included efforts to engage with consumers directly on sites such as Twitter and the social-news site Digg.",
+      "para_no": 4,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Toyota Motor",
+        "谓语": "alleviated",
+        "宾语或表语": "some of the damage",
+        "主干翻译": "丰田汽车公司减轻了部分损害。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "for example",
+          "修饰对象": "alleviated",
+          "中文翻译": "例如",
+          "说明": "for example作插入语。"
+        },
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "from its recall crisis earlier this year",
+          "修饰对象": "damage",
+          "中文翻译": "今年早些时候召回危机所造成的",
+          "说明": "from介词短语作damage的后置定语。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "with a relatively quick and well-orchestrated social-media response campaign",
+          "修饰对象": "alleviated",
+          "中文翻译": "凭借一场相对迅速且精心组织的社交媒体应对行动",
+          "说明": "with介词短语作方式状语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "well-orchestrated",
+          "修饰对象": "quick",
+          "中文翻译": "精心组织的",
+          "说明": "quick and well-orchestrated由and连接并列修饰campaign。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "which included efforts to engage with consumers directly on sites such as Twitter and the social-news site Digg",
+          "修饰对象": "campaign",
+          "中文翻译": "包含了直接在Twitter以及社交新闻网站Digg等平台上与消费者互动的努力的",
+          "说明": "which引导非限制性定语从句修饰campaign。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to engage with consumers directly on sites such as Twitter and the social-news site Digg",
+          "修饰对象": "efforts",
+          "中文翻译": "直接在Twitter及社交新闻网站Digg等平台上与消费者互动的",
+          "说明": "不定式短语作efforts的后置定语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "the social-news site Digg",
+          "修饰对象": "Twitter",
+          "中文翻译": "社交新闻网站Digg",
+          "说明": "Twitter and the social-news site Digg由and连接并列，作such as的宾语。"
+        },
+        {
+          "成分类型": "同位语",
+          "原文": "Digg",
+          "修饰对象": "site",
+          "中文翻译": "Digg",
+          "说明": "Digg作the social-news site的同位语，点明其名称。"
+        }
+      ],
+      "zh": "例如，丰田汽车公司凭借一场相对迅速且精心策划的社交媒体应对行动，减轻了今年早些时候召回危机所造成的部分损害；这场行动包括直接在Twitter以及社交新闻网站Digg等平台上与消费者互动的种种努力。",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2011-text3-s1",
+        "en1-2011-text3-s2",
+        "en1-2011-text3-s3",
+        "en1-2011-text3-s4"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2011-text3-s5",
+        "en1-2011-text3-s6",
+        "en1-2011-text3-s7",
+        "en1-2011-text3-s8",
+        "en1-2011-text3-s9",
+        "en1-2011-text3-s10",
+        "en1-2011-text3-s11"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2011-text3-s12",
+        "en1-2011-text3-s13",
+        "en1-2011-text3-s14"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2011-text3-s15",
+        "en1-2011-text3-s16",
+        "en1-2011-text3-s17"
+      ]
+    }
+  ]
+}

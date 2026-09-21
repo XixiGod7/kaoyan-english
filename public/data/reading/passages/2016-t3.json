@@ -1,0 +1,677 @@
+{
+  "exam": "en1",
+  "key": "2016-t3",
+  "year": 2016,
+  "text_no": 3,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2016-text3-s1",
+      "s": "\"There is one and only one social responsibility of business,\"",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "There",
+        "谓语": "is",
+        "宾语或表语": "one and only one social responsibility of business",
+        "主干翻译": "（企业）有且只有一种社会责任。"
+      },
+      "components": [],
+      "zh": "“企业有且只有一种社会责任，”",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text3-s2",
+      "s": "Wrote Milton Friedman, a Nobel Prize-winning economist, \"That is, to use its resources and engage in activities designed to increase its profits.\"",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Milton Friedman",
+        "谓语": "Wrote",
+        "宾语或表语": "（引语内容）",
+        "主干翻译": "米尔顿·弗里德曼写道（如下内容）。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "a Nobel Prize-winning economist",
+          "修饰对象": "Milton Friedman",
+          "中文翻译": "一位诺贝尔奖得主经济学家",
+          "说明": "对Milton Friedman的同位说明（插入）"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "That is, to use its resources and engage in activities designed to increase its profits",
+          "修饰对象": "Wrote",
+          "中文翻译": "那就是，运用其资源、从事旨在增加其利润的活动",
+          "说明": "Wrote所引述的内容，作宾语"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "engage in activities designed to increase its profits",
+          "修饰对象": "use",
+          "中文翻译": "从事旨在增加其利润的活动",
+          "说明": "与to use并列的不定式动作"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "designed to increase its profits",
+          "修饰对象": "activities",
+          "中文翻译": "旨在增加其利润的",
+          "说明": "过去分词短语作定语修饰activities"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to increase its profits",
+          "修饰对象": "designed",
+          "中文翻译": "以增加其利润",
+          "说明": "不定式表目的，补足designed"
+        }
+      ],
+      "zh": "诺贝尔奖得主经济学家米尔顿·弗里德曼写道，“那就是，运用其资源、从事旨在增加其利润的活动。”",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text3-s3",
+      "s": "But even if you accept Friedman's premise and regard corporate social responsibility (CSR) policies as a waste of shareholders' money, things may not be absolutely clear-cut.",
+      "para_no": 1,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "things",
+        "谓语": "may not be",
+        "宾语或表语": "absolutely clear-cut",
+        "主干翻译": "事情未必绝对一目了然。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(让步)",
+          "原文": "even if you accept Friedman's premise and regard corporate social responsibility (CSR) policies as a waste of shareholders' money",
+          "修饰对象": "be",
+          "中文翻译": "即便你接受弗里德曼的前提，并把企业社会责任（CSR）政策视为对股东金钱的浪费",
+          "说明": "even if引导让步状语从句"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "regard corporate social responsibility (CSR) policies as a waste of shareholders' money",
+          "修饰对象": "accept",
+          "中文翻译": "把企业社会责任（CSR）政策视为对股东金钱的浪费",
+          "说明": "与accept并列的谓语动作"
+        }
+      ],
+      "zh": "但即便你接受弗里德曼的前提，并把企业社会责任（CSR）政策视为对股东金钱的浪费，事情也未必绝对一目了然。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text3-s4",
+      "s": "New research suggests that CSR may create monetary value for companies—at least when they are prosecuted for corruption.",
+      "para_no": 1,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "New research",
+        "谓语": "suggests",
+        "宾语或表语": "（that从句）",
+        "主干翻译": "新研究表明（某情况）。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "that CSR may create monetary value for companies—at least when they are prosecuted for corruption",
+          "修饰对象": "suggests",
+          "中文翻译": "CSR可能为公司创造货币价值——至少在它们因腐败而被起诉时如此",
+          "说明": "that引导宾语从句"
+        },
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "when they are prosecuted for corruption",
+          "修饰对象": "create",
+          "中文翻译": "当它们因腐败而被起诉时",
+          "说明": "when引导时间状语从句，修饰create"
+        }
+      ],
+      "zh": "新研究表明，CSR可能为公司创造货币价值——至少在它们因腐败而被起诉时如此。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text3-s5",
+      "s": "The largest firms in America and Britain together spend more than $15 billion a year on CSR, according to an estimate by EPG, a consulting firm.",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The largest firms in America and Britain",
+        "谓语": "spend",
+        "宾语或表语": "more than $15 billion a year on CSR",
+        "主干翻译": "美国和英国最大的公司每年共在CSR上花费超过150亿美元。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "a consulting firm",
+          "修饰对象": "EPG",
+          "中文翻译": "一家咨询公司",
+          "说明": "EPG的同位语说明"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "according to an estimate by EPG",
+          "修饰对象": "spend",
+          "中文翻译": "据咨询公司EPG的一项估计",
+          "说明": "according to短语作状语，表来源"
+        }
+      ],
+      "zh": "据咨询公司EPG的一项估计，美国和英国最大的公司每年共在CSR上花费超过150亿美元。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text3-s6",
+      "s": "This could add value to their businesses in three ways.",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "This",
+        "谓语": "could add",
+        "宾语或表语": "value to their businesses in three ways",
+        "主干翻译": "这可以通过三种方式为它们的业务增加价值。"
+      },
+      "components": [],
+      "zh": "这可以通过三种方式为它们的业务增加价值。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text3-s7",
+      "s": "First, consumers may take CSR spending as a \"signal\" that a company's products are of high quality.",
+      "para_no": 2,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "consumers",
+        "谓语": "may take",
+        "宾语或表语": "CSR spending as a \"signal\"",
+        "主干翻译": "消费者可能把CSR支出视为一种“信号”。"
+      },
+      "components": [
+        {
+          "成分类型": "同位语从句",
+          "原文": "that a company's products are of high quality",
+          "修饰对象": "signal",
+          "中文翻译": "某公司的产品是高品质的",
+          "说明": "that引导同位语从句，说明signal的内容"
+        }
+      ],
+      "zh": "首先，消费者可能把CSR支出视为某公司产品高品质的一种“信号”。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text3-s8",
+      "s": "Second, customers may be willing to buy a company's products as an indirect way to donate to the good causes it helps.",
+      "para_no": 2,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "customers",
+        "谓语": "may be willing",
+        "宾语或表语": "to buy a company's products",
+        "主干翻译": "顾客可能愿意购买某公司的产品。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to buy a company's products as an indirect way to donate to the good causes it helps",
+          "修饰对象": "willing",
+          "中文翻译": "购买某公司的产品，作为向其所支持的公益事业捐款的一种间接方式",
+          "说明": "不定式短语补足willing"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to donate to the good causes it helps",
+          "修饰对象": "buy",
+          "中文翻译": "向其所支持的公益事业捐款",
+          "说明": "不定式作定语/状语表目的，说明间接方式的用途"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "it helps",
+          "修饰对象": "causes",
+          "中文翻译": "它所支持的",
+          "说明": "省略关系词的定语从句修饰good causes"
+        }
+      ],
+      "zh": "其次，顾客可能愿意购买某公司的产品，以此作为向该公司所支持的公益事业捐款的一种间接方式。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text3-s9",
+      "s": "And third, through a more diffuse \"halo effect\" whereby its good deeds earn it greater consideration from consumers and others.",
+      "para_no": 2,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "（it could add value）",
+        "谓语": "（省略）",
+        "宾语或表语": "through a more diffuse \"halo effect\"",
+        "主干翻译": "（第三，这可以）通过一种更弥散的“光环效应”（增加价值）。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "whereby its good deeds earn it greater consideration from consumers and others",
+          "修饰对象": "effect",
+          "中文翻译": "凭借这种效应，公司的善举为其赢得消费者及他人的更多体谅",
+          "说明": "whereby引导定语从句修饰halo effect"
+        }
+      ],
+      "zh": "第三，是通过一种更为弥散的“光环效应”，借此公司的善举为其赢得消费者及他人的更多体谅。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text3-s10",
+      "s": "Previous studies on CSR have had trouble differentiating these effects because consumers can be affected by all three.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Previous studies on CSR",
+        "谓语": "have had",
+        "宾语或表语": "trouble differentiating these effects",
+        "主干翻译": "以往关于CSR的研究在区分这些效应方面遇到了困难。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "differentiating these effects",
+          "修饰对象": "trouble",
+          "中文翻译": "区分这些效应（方面的）",
+          "说明": "动名词短语修饰/补足trouble"
+        },
+        {
+          "成分类型": "状语从句(原因)",
+          "原文": "because consumers can be affected by all three",
+          "修饰对象": "had",
+          "中文翻译": "因为消费者可能同时受这三者影响",
+          "说明": "because引导原因状语从句"
+        }
+      ],
+      "zh": "以往关于CSR的研究难以区分这些效应，因为消费者可能同时受到这三者的影响。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text3-s11",
+      "s": "A recent study attempts to separate them by looking at bribery prosecutions under American's Foreign Corrupt Practices Act (FCPA).",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "A recent study",
+        "谓语": "attempts",
+        "宾语或表语": "to separate them",
+        "主干翻译": "近期一项研究试图把它们区分开。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to separate them by looking at bribery prosecutions under American's Foreign Corrupt Practices Act (FCPA)",
+          "修饰对象": "attempts",
+          "中文翻译": "通过考察依据美国《反海外腐败法》（FCPA）提起的贿赂诉讼来区分它们",
+          "说明": "不定式短语补足attempts"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "by looking at bribery prosecutions under American's Foreign Corrupt Practices Act (FCPA)",
+          "修饰对象": "separate",
+          "中文翻译": "通过考察依据美国《反海外腐败法》提起的贿赂诉讼",
+          "说明": "by短语表方式，修饰separate"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "FCPA",
+          "修饰对象": "Act",
+          "中文翻译": "即FCPA",
+          "说明": "对Foreign Corrupt Practices Act的缩写同位说明"
+        }
+      ],
+      "zh": "近期一项研究试图通过考察依据美国《反海外腐败法》（FCPA）提起的贿赂诉讼，来把这些效应区分开。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text3-s12",
+      "s": "It argues that since prosecutors do not consume a company's products as part of their investigations, they could be influenced only by the halo effect.",
+      "para_no": 3,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "It",
+        "谓语": "argues",
+        "宾语或表语": "（that从句）",
+        "主干翻译": "它认为（某情况）。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "that since prosecutors do not consume a company's products as part of their investigations, they could be influenced only by the halo effect",
+          "修饰对象": "argues",
+          "中文翻译": "既然检察官在调查中不会消费公司的产品，他们就只可能受到光环效应的影响",
+          "说明": "that引导宾语从句"
+        },
+        {
+          "成分类型": "状语从句(原因)",
+          "原文": "since prosecutors do not consume a company's products as part of their investigations",
+          "修饰对象": "influenced",
+          "中文翻译": "既然检察官在调查中不会消费公司的产品",
+          "说明": "since引导原因状语从句"
+        }
+      ],
+      "zh": "该研究认为，既然检察官在调查过程中不会消费公司的产品，那么他们就只可能受到光环效应的影响。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text3-s13",
+      "s": "The study found that, among prosecuted firms, those with the most comprehensive CSR programmes tended to get more lenient penalties.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The study",
+        "谓语": "found",
+        "宾语或表语": "（that从句）",
+        "主干翻译": "该研究发现（某情况）。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "that, among prosecuted firms, those with the most comprehensive CSR programmes tended to get more lenient penalties",
+          "修饰对象": "found",
+          "中文翻译": "在被起诉的公司中，那些拥有最全面CSR项目的公司往往会受到较轻的处罚",
+          "说明": "that引导宾语从句"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to get more lenient penalties",
+          "修饰对象": "tended",
+          "中文翻译": "受到较轻的处罚",
+          "说明": "不定式补足 tended"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "among prosecuted firms",
+          "修饰对象": "tended",
+          "中文翻译": "在被起诉的公司中",
+          "说明": "介词短语作范围状语"
+        }
+      ],
+      "zh": "该研究发现，在被起诉的公司中，那些拥有最全面CSR项目的公司往往会受到较轻的处罚。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text3-s14",
+      "s": "Their analysis ruled out the possibility that it was firm's political influence, rather than their CSR stand, that accounted for the leniency: Companies that contributed more to political campaigns did not receive lower fines.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Their analysis",
+        "谓语": "ruled out",
+        "宾语或表语": "the possibility",
+        "主干翻译": "他们的分析排除了这种可能性。"
+      },
+      "components": [
+        {
+          "成分类型": "同位语从句",
+          "原文": "that it was firm's political influence, rather than their CSR stand, that accounted for the leniency",
+          "修饰对象": "possibility",
+          "中文翻译": "是公司的政治影响力、而非其CSR立场，才是宽大处理的原因",
+          "说明": "that引导同位语从句，说明possibility内容；内部含强调句式"
+        },
+        {
+          "成分类型": "强调句",
+          "原文": "it was firm's political influence, rather than their CSR stand, that accounted for the leniency",
+          "修饰对象": "—",
+          "中文翻译": "正是公司的政治影响力（而非其CSR立场）才是宽大处理的原因",
+          "说明": "it was ... that ... 强调句，强调主语"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "their CSR stand",
+          "修饰对象": "influence",
+          "中文翻译": "它们的CSR立场",
+          "说明": "rather than连接，与political influence并列对照"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that contributed more to political campaigns",
+          "修饰对象": "Companies",
+          "中文翻译": "对政治竞选捐款更多的",
+          "说明": "that引导定语从句修饰Companies"
+        }
+      ],
+      "zh": "他们的分析排除了这样一种可能性：即真正导致宽大处理的是公司的政治影响力、而非其CSR立场——那些对政治竞选捐款更多的公司并未获得更低的罚款。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text3-s15",
+      "s": "In all, the study concludes that whereas prosecutors should only evaluate a case based on its merits, they do seem to be influenced by a company's record in CSR.",
+      "para_no": 5,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "the study",
+        "谓语": "concludes",
+        "宾语或表语": "（that从句）",
+        "主干翻译": "该研究得出结论（某情况）。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "that whereas prosecutors should only evaluate a case based on its merits, they do seem to be influenced by a company's record in CSR",
+          "修饰对象": "concludes",
+          "中文翻译": "尽管检察官本应只根据案件本身的是非曲直来评判案件，但他们似乎确实会受到公司CSR记录的影响",
+          "说明": "that引导宾语从句"
+        },
+        {
+          "成分类型": "状语从句(让步)",
+          "原文": "whereas prosecutors should only evaluate a case based on its merits",
+          "修饰对象": "seem",
+          "中文翻译": "尽管检察官本应只根据案件本身的是非曲直来评判案件",
+          "说明": "whereas此处表让步/对比"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to be influenced by a company's record in CSR",
+          "修饰对象": "seem",
+          "中文翻译": "受到公司CSR记录的影响",
+          "说明": "不定式补足seem"
+        }
+      ],
+      "zh": "总之，该研究得出结论：尽管检察官本应只依据案件本身的是非曲直来评判案件，但他们似乎确实会受到公司CSR记录的影响。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text3-s16",
+      "s": "\"We estimate that either eliminating a substantial labour-rights concern, such as child labour, or increasing corporate giving by about 20% results in fines that generally are 40% lower than the typical punishment for bribing foreign officials,\" says one researcher.",
+      "para_no": 5,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "one researcher",
+        "谓语": "says",
+        "宾语或表语": "（引语内容）",
+        "主干翻译": "一位研究者说道（如下内容）。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "We estimate that either eliminating a substantial labour-rights concern, such as child labour, or increasing corporate giving by about 20% results in fines that generally are 40% lower than the typical punishment for bribing foreign officials",
+          "修饰对象": "says",
+          "中文翻译": "我们估计，无论是消除某项重大劳工权益问题（如童工），还是把企业捐赠增加约20%，所导致的罚款通常都比贿赂外国官员的典型处罚低40%",
+          "说明": "says所引述的内容，作宾语"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that either eliminating a substantial labour-rights concern, such as child labour, or increasing corporate giving by about 20% results in fines that generally are 40% lower than the typical punishment for bribing foreign officials",
+          "修饰对象": "estimate",
+          "中文翻译": "无论是消除某项重大劳工权益问题（如童工），还是把企业捐赠增加约20%，所导致的罚款通常都比贿赂外国官员的典型处罚低40%",
+          "说明": "that引导estimate的宾语从句"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "increasing corporate giving by about 20%",
+          "修饰对象": "eliminating",
+          "中文翻译": "把企业捐赠增加约20%",
+          "说明": "either...or...连接两个并列主语动名词"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that generally are 40% lower than the typical punishment for bribing foreign officials",
+          "修饰对象": "fines",
+          "中文翻译": "通常比贿赂外国官员的典型处罚低40%的",
+          "说明": "that引导定语从句修饰fines"
+        }
+      ],
+      "zh": "一位研究者说：“我们估计，无论是消除某项重大劳工权益问题（如使用童工），还是把企业捐赠增加约20%，所带来的罚款通常都比贿赂外国官员的典型处罚低40%。”",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text3-s17",
+      "s": "Researchers admit that their study does not answer the question of how much businesses ought to spend on CSR.",
+      "para_no": 6,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Researchers",
+        "谓语": "admit",
+        "宾语或表语": "（that从句）",
+        "主干翻译": "研究者们承认（某情况）。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "that their study does not answer the question of how much businesses ought to spend on CSR",
+          "修饰对象": "admit",
+          "中文翻译": "他们的研究并未回答企业应该在CSR上花费多少这一问题",
+          "说明": "that引导宾语从句"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "how much businesses ought to spend on CSR",
+          "修饰对象": "question",
+          "中文翻译": "企业应该在CSR上花费多少",
+          "说明": "how much引导的从句作question的同位/宾语，说明其内容"
+        }
+      ],
+      "zh": "研究者们承认，他们的研究并未回答企业究竟应该在CSR上花费多少这一问题。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text3-s18",
+      "s": "Nor does it reveal how much companies are banking on the halo effect, rather than the other possible benefits, when they decide their do-gooding policies.",
+      "para_no": 6,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "it",
+        "谓语": "does reveal",
+        "宾语或表语": "（how much从句）",
+        "主干翻译": "它也未揭示（某情况）。"
+      },
+      "components": [
+        {
+          "成分类型": "倒装",
+          "原文": "Nor does it reveal",
+          "修饰对象": "—",
+          "中文翻译": "它也没有揭示",
+          "说明": "Nor置于句首引起部分倒装"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "how much companies are banking on the halo effect, rather than the other possible benefits, when they decide their do-gooding policies",
+          "修饰对象": "reveal",
+          "中文翻译": "公司在决定其行善政策时，在多大程度上指望的是光环效应、而非其他可能的好处",
+          "说明": "how much引导宾语从句"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "the other possible benefits",
+          "修饰对象": "effect",
+          "中文翻译": "其他可能的好处",
+          "说明": "rather than连接，与the halo effect并列对照"
+        },
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "when they decide their do-gooding policies",
+          "修饰对象": "banking",
+          "中文翻译": "当它们决定其行善政策时",
+          "说明": "when引导时间状语从句"
+        }
+      ],
+      "zh": "它也没有揭示，公司在决定其行善政策时，究竟在多大程度上指望的是光环效应、而非其他可能的好处。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2016-text3-s19",
+      "s": "But at least they have demonstrated that when companies get into trouble with the law, evidence of good character can win them a less costly punishment.",
+      "para_no": 6,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "they",
+        "谓语": "have demonstrated",
+        "宾语或表语": "（that从句）",
+        "主干翻译": "他们至少已经证明了（某情况）。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "that when companies get into trouble with the law, evidence of good character can win them a less costly punishment",
+          "修饰对象": "demonstrated",
+          "中文翻译": "当公司触犯法律陷入麻烦时，良好品行的证据能为它们赢得较轻的处罚",
+          "说明": "that引导宾语从句"
+        },
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "when companies get into trouble with the law",
+          "修饰对象": "win",
+          "中文翻译": "当公司触犯法律陷入麻烦时",
+          "说明": "when引导时间状语从句"
+        }
+      ],
+      "zh": "但他们至少已经证明：当公司触犯法律陷入麻烦时，良好品行的证据能为它们赢得较轻的处罚。",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2016-text3-s1",
+        "en1-2016-text3-s2",
+        "en1-2016-text3-s3",
+        "en1-2016-text3-s4"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2016-text3-s5",
+        "en1-2016-text3-s6",
+        "en1-2016-text3-s7",
+        "en1-2016-text3-s8",
+        "en1-2016-text3-s9"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2016-text3-s10",
+        "en1-2016-text3-s11",
+        "en1-2016-text3-s12"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2016-text3-s13",
+        "en1-2016-text3-s14"
+      ]
+    },
+    {
+      "para_no": 5,
+      "sids": [
+        "en1-2016-text3-s15",
+        "en1-2016-text3-s16"
+      ]
+    },
+    {
+      "para_no": 6,
+      "sids": [
+        "en1-2016-text3-s17",
+        "en1-2016-text3-s18",
+        "en1-2016-text3-s19"
+      ]
+    }
+  ]
+}

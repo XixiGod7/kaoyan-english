@@ -1,0 +1,678 @@
+{
+  "exam": "en1",
+  "key": "2010-t2",
+  "year": 2010,
+  "text_no": 2,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2010-text2-s1",
+      "s": "Over the past decade, thousands of patents have been granted for what are called business methods.",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "thousands of patents",
+        "谓语": "have been granted",
+        "宾语或表语": "—",
+        "主干翻译": "成千上万的专利被授予。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "Over the past decade",
+          "修饰对象": "have been granted",
+          "中文翻译": "在过去十年里",
+          "说明": "时间状语，置于句首"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "for what are called business methods",
+          "修饰对象": "have been granted",
+          "中文翻译": "用于所谓的商业方法",
+          "说明": "介词for引导的目的/对象状语，其中what引导名词性从句作for的宾语"
+        }
+      ],
+      "zh": "在过去十年里，成千上万项专利被授予用于所谓的商业方法。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2010-text2-s2",
+      "s": "Amazon.com received one for its \"one-click\" online payment system.",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Amazon.com",
+        "谓语": "received",
+        "宾语或表语": "one",
+        "主干翻译": "亚马逊获得了一项。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "for its \"one-click\" online payment system",
+          "修饰对象": "one",
+          "中文翻译": "用于其“一键”在线支付系统的",
+          "说明": "修饰宾语one（指一项专利）"
+        }
+      ],
+      "zh": "亚马逊为其“一键”在线支付系统获得了一项专利。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2010-text2-s3",
+      "s": "Merrill Lynch got legal protection for an asset allocation strategy.",
+      "para_no": 1,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Merrill Lynch",
+        "谓语": "got",
+        "宾语或表语": "legal protection",
+        "主干翻译": "美林获得了法律保护。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "for an asset allocation strategy",
+          "修饰对象": "legal protection",
+          "中文翻译": "针对一种资产配置策略的",
+          "说明": "修饰宾语legal protection"
+        }
+      ],
+      "zh": "美林为一种资产配置策略获得了法律保护。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2010-text2-s4",
+      "s": "One inventor patented a technique for lifting a box.",
+      "para_no": 1,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "One inventor",
+        "谓语": "patented",
+        "宾语或表语": "a technique",
+        "主干翻译": "一位发明者为一项技术申请了专利。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "for lifting a box",
+          "修饰对象": "technique",
+          "中文翻译": "用于抬箱子的",
+          "说明": "修饰宾语a technique，其中lifting为动名词"
+        }
+      ],
+      "zh": "一位发明者为一项抬箱子的技术申请了专利。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2010-text2-s5",
+      "s": "Now the nation's top patent court appears completely ready to scale back on business-method patents, which have been controversial ever since they were first authorized 10 years ago.",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "the nation's top patent court",
+        "谓语": "appears",
+        "宾语或表语": "completely ready",
+        "主干翻译": "全国最高专利法院看起来已完全准备就绪。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to scale back on business-method patents, which have been controversial ever since they were first authorized 10 years ago",
+          "修饰对象": "ready",
+          "中文翻译": "去缩减商业方法专利的范围",
+          "说明": "动词不定式作ready的补足语（表对何事准备就绪）"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "which have been controversial ever since they were first authorized 10 years ago",
+          "修饰对象": "patents",
+          "中文翻译": "这些专利自十年前首次被批准以来一直备受争议",
+          "说明": "非限制性定语从句，which指代business-method patents"
+        },
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "ever since they were first authorized 10 years ago",
+          "修饰对象": "been",
+          "中文翻译": "自十年前它们首次被批准以来",
+          "说明": "since引导时间状语从句，ever加强语气"
+        }
+      ],
+      "zh": "如今，全国最高专利法院看来已完全准备好缩减商业方法专利的范围，这类专利自十年前首次获批以来便一直饱受争议。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2010-text2-s6",
+      "s": "In a move that has intellectual-property lawyers abuzz, the U.S. Court of Appeals for the Federal Circuit said it would use a particular case to conduct a broad review of business-method patents.",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "the U.S. Court of Appeals for the Federal Circuit",
+        "谓语": "said",
+        "宾语或表语": "it would use a particular case to conduct a broad review of business-method patents",
+        "主干翻译": "联邦巡回上诉法院表示它将利用一个具体案件。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "In a move that has intellectual-property lawyers abuzz",
+          "修饰对象": "said",
+          "中文翻译": "此举令知识产权律师们议论纷纷",
+          "说明": "句首介词短语作状语"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that has intellectual-property lawyers abuzz",
+          "修饰对象": "move",
+          "中文翻译": "这一举动使知识产权律师们议论纷纷",
+          "说明": "that引导定语从句修饰move；has...abuzz为have sb./sth.作宾补结构"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "it would use a particular case to conduct a broad review of business-method patents",
+          "修饰对象": "said",
+          "中文翻译": "它将利用一个具体案件对商业方法专利进行广泛审查",
+          "说明": "said后省略that的宾语从句"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to conduct a broad review of business-method patents",
+          "修饰对象": "use",
+          "中文翻译": "以便对商业方法专利进行广泛审查",
+          "说明": "不定式作目的状语"
+        }
+      ],
+      "zh": "此举令知识产权律师们议论纷纷，联邦巡回上诉法院表示，它将利用一个具体案件对商业方法专利进行广泛审查。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2010-text2-s7",
+      "s": "In re Bilski, as the case is known, is \"a very big deal\", says Dennis D. Crouch of the University of Missouri School of Law.",
+      "para_no": 2,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "In re Bilski",
+        "谓语": "is",
+        "宾语或表语": "\"a very big deal\"",
+        "主干翻译": "“In re Bilski”案是一件大事。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(方式)",
+          "原文": "as the case is known",
+          "修饰对象": "Bilski",
+          "中文翻译": "正如该案件所被熟知的那样",
+          "说明": "as引导方式状语从句，插入语性质，说明案件名称"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "In re Bilski, as the case is known, is \"a very big deal\"",
+          "修饰对象": "says",
+          "中文翻译": "“In re Bilski”案是一件大事",
+          "说明": "前置宾语从句，由后置的says引导（引语+says结构）"
+        }
+      ],
+      "zh": "密苏里大学法学院的丹尼斯·D·克劳奇说，这个被称为“In re Bilski”的案件是“一件大事”。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2010-text2-s8",
+      "s": "It \" has the potential to eliminate an entire class of patents.\"",
+      "para_no": 2,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "It",
+        "谓语": "has",
+        "宾语或表语": "the potential",
+        "主干翻译": "它具有这种潜力。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to eliminate an entire class of patents",
+          "修饰对象": "potential",
+          "中文翻译": "消除一整类专利的",
+          "说明": "不定式作定语，修饰potential，说明潜力的内容"
+        }
+      ],
+      "zh": "它“有可能消除一整类专利”。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2010-text2-s9",
+      "s": "Curbs on business-method claims would be a dramatic about-face, because it was the Federal Circuit itself that introduced such patents with its 1998 decision in the so-called State Street Bank case, approving a patent on a way of pooling mutual-fund assets.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Curbs on business-method claims",
+        "谓语": "would be",
+        "宾语或表语": "a dramatic about-face",
+        "主干翻译": "对商业方法权利主张的限制将是一次戏剧性的 180 度大逆转。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(原因)",
+          "原文": "because it was the Federal Circuit itself that introduced such patents with its 1998 decision in the so-called State Street Bank case, approving a patent on a way of pooling mutual-fund assets",
+          "修饰对象": "be",
+          "中文翻译": "因为正是联邦巡回法院自己引入了此类专利",
+          "说明": "because引导原因状语从句"
+        },
+        {
+          "成分类型": "强调句",
+          "原文": "it was the Federal Circuit itself that introduced such patents with its 1998 decision in the so-called State Street Bank case",
+          "修饰对象": "—",
+          "中文翻译": "正是联邦巡回法院自己引入了此类专利",
+          "说明": "it was...that...强调句，强调主语the Federal Circuit itself"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "itself",
+          "修饰对象": "Circuit",
+          "中文翻译": "（法院）自己",
+          "说明": "反身代词作同位语，强调the Federal Circuit"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "approving a patent on a way of pooling mutual-fund assets",
+          "修饰对象": "decision",
+          "中文翻译": "（该裁决）批准了一项关于汇集共同基金资产方法的专利",
+          "说明": "现在分词短语作伴随状语，进一步说明1998 decision"
+        }
+      ],
+      "zh": "对商业方法权利主张加以限制将是一次戏剧性的 180 度大逆转，因为正是联邦巡回法院自己通过其在所谓“道富银行案”中的 1998 年裁决引入了此类专利，该裁决批准了一项关于汇集共同基金资产方法的专利。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2010-text2-s10",
+      "s": "That ruling produced an explosion in business-method patent filings, initially by emerging Internet companies trying to stake out exclusive rights to specific types of online transactions.",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "That ruling",
+        "谓语": "produced",
+        "宾语或表语": "an explosion",
+        "主干翻译": "那项裁决引发了一场激增。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "in business-method patent filings",
+          "修饰对象": "explosion",
+          "中文翻译": "商业方法专利申请方面的",
+          "说明": "修饰explosion"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "initially by emerging Internet companies trying to stake out exclusive rights to specific types of online transactions",
+          "修饰对象": "explosion",
+          "中文翻译": "最初由新兴互联网公司引发",
+          "说明": "by引导施动者，说明专利申请激增的来源"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "trying to stake out exclusive rights to specific types of online transactions",
+          "修饰对象": "companies",
+          "中文翻译": "试图为特定类型的在线交易圈定独家权利的",
+          "说明": "现在分词短语作定语修饰companies"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to stake out exclusive rights to specific types of online transactions",
+          "修饰对象": "trying",
+          "中文翻译": "去圈定对特定类型在线交易的独家权利",
+          "说明": "不定式作trying的补足语"
+        }
+      ],
+      "zh": "那项裁决引发了商业方法专利申请的激增，最初是由那些试图为特定类型在线交易圈定独家权利的新兴互联网公司发起的。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2010-text2-s11",
+      "s": "Later, more established companies raced to add such patents to their files, if only as a defensive move against rivals that might beat them to the punch.",
+      "para_no": 3,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "more established companies",
+        "谓语": "raced",
+        "宾语或表语": "—",
+        "主干翻译": "更成熟的公司争相行动。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to add such patents to their files, if only as a defensive move against rivals that might beat them to the punch",
+          "修饰对象": "raced",
+          "中文翻译": "去把此类专利添加到自己的档案中",
+          "说明": "不定式作raced的目的状语/补足语"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "if only as a defensive move against rivals that might beat them to the punch",
+          "修饰对象": "add",
+          "中文翻译": "哪怕只是作为防范竞争对手抢先一步的一种防御性举措",
+          "说明": "if only表“哪怕只是”，as引导方式/目的"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that might beat them to the punch",
+          "修饰对象": "rivals",
+          "中文翻译": "可能抢先一步击败它们的（对手）",
+          "说明": "that引导定语从句修饰rivals；beat sb. to the punch意为抢先"
+        }
+      ],
+      "zh": "后来，较为成熟的公司也争相把此类专利加入自己的档案，哪怕只是作为防范竞争对手抢先一步的一种防御性举措。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2010-text2-s12",
+      "s": "In 2005, IBM noted in a court filing that it had been issued more than 300 business-method patents, despite the fact that it questioned the legal basis for granting them.",
+      "para_no": 3,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "IBM",
+        "谓语": "noted",
+        "宾语或表语": "that it had been issued more than 300 business-method patents",
+        "主干翻译": "IBM指出它已获得了300多项商业方法专利。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "In 2005",
+          "修饰对象": "noted",
+          "中文翻译": "在2005年",
+          "说明": "时间状语"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "in a court filing",
+          "修饰对象": "noted",
+          "中文翻译": "在一份法庭文件中",
+          "说明": "地点/方式状语，说明在何处指出"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that it had been issued more than 300 business-method patents, despite the fact that it questioned the legal basis for granting them",
+          "修饰对象": "noted",
+          "中文翻译": "它已被授予300多项商业方法专利，尽管它质疑授予这些专利的法律依据",
+          "说明": "that引导noted的宾语从句"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "that it questioned the legal basis for granting them",
+          "修饰对象": "fact",
+          "中文翻译": "它质疑授予这些专利的法律依据",
+          "说明": "that引导同位语从句，解释the fact的内容；despite the fact that意为“尽管”"
+        }
+      ],
+      "zh": "2005年，IBM在一份法庭文件中指出，尽管它质疑授予这些专利的法律依据，但它已被授予了300多项商业方法专利。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2010-text2-s13",
+      "s": "Similarly, some Wall Street investment firms armed themselves with patents for financial products, even as they took positions in court cases opposing the practice.",
+      "para_no": 3,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "some Wall Street investment firms",
+        "谓语": "armed",
+        "宾语或表语": "themselves",
+        "主干翻译": "一些华尔街投资公司武装了自己。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "with patents for financial products",
+          "修饰对象": "armed",
+          "中文翻译": "用金融产品的专利",
+          "说明": "with引导方式状语，arm oneself with意为“用…武装自己”"
+        },
+        {
+          "成分类型": "状语从句(让步)",
+          "原文": "even as they took positions in court cases opposing the practice",
+          "修饰对象": "armed",
+          "中文翻译": "即便它们在法庭案件中持反对此做法的立场",
+          "说明": "even as引导让步状语从句"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "opposing the practice",
+          "修饰对象": "cases",
+          "中文翻译": "反对这一做法的",
+          "说明": "现在分词短语作定语修饰court cases"
+        }
+      ],
+      "zh": "同样，一些华尔街投资公司也用金融产品专利武装自己，即便它们在法庭案件中持反对这种做法的立场。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2010-text2-s14",
+      "s": "The Bilski case involves a claimed patent on a method for hedging risk in the energy market.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The Bilski case",
+        "谓语": "involves",
+        "宾语或表语": "a claimed patent",
+        "主干翻译": "Bilski案涉及一项主张的专利。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "on a method for hedging risk in the energy market",
+          "修饰对象": "patent",
+          "中文翻译": "关于一种在能源市场对冲风险方法的",
+          "说明": "修饰a claimed patent，其内嵌for hedging risk与in the energy market进一步限定method"
+        }
+      ],
+      "zh": "Bilski案涉及一项关于在能源市场对冲风险方法的专利主张。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2010-text2-s15",
+      "s": "The Federal Circuit issued an unusual order stating that the case would be heard by all 12 of the court's judges, rather than a typical panel of three, and that one issue it wants to evaluate is whether it should \"reconsider\" its State Street Bank ruling.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "The Federal Circuit",
+        "谓语": "issued",
+        "宾语或表语": "an unusual order",
+        "主干翻译": "联邦巡回法院发布了一项不寻常的命令。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "stating that the case would be heard by all 12 of the court's judges, rather than a typical panel of three, and that one issue it wants to evaluate is whether it should \"reconsider\" its State Street Bank ruling",
+          "修饰对象": "order",
+          "中文翻译": "声明该案件将由法院全部12名法官审理，而非通常的三人合议庭……",
+          "说明": "现在分词短语作定语修饰order，其后接两个that宾语从句"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that the case would be heard by all 12 of the court's judges, rather than a typical panel of three",
+          "修饰对象": "stating",
+          "中文翻译": "该案件将由法院全部12名法官审理，而非通常的三人合议庭",
+          "说明": "第一个that从句作分词stating的宾语；rather than为对比并列"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "and that one issue it wants to evaluate is whether it should \"reconsider\" its State Street Bank ruling",
+          "修饰对象": "stating",
+          "中文翻译": "以及它想要评估的一个问题是它是否应当“重新考虑”其道富银行案裁决",
+          "说明": "and连接的第二个that宾语从句，与前一从句并列作stating的宾语"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "it wants to evaluate",
+          "修饰对象": "issue",
+          "中文翻译": "它想要评估的",
+          "说明": "省略关系代词that/which的定语从句修饰one issue"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to evaluate",
+          "修饰对象": "wants",
+          "中文翻译": "去评估",
+          "说明": "不定式作wants的宾语/补足语"
+        },
+        {
+          "成分类型": "表语从句",
+          "原文": "whether it should \"reconsider\" its State Street Bank ruling",
+          "修饰对象": "is",
+          "中文翻译": "它是否应当“重新考虑”其道富银行案裁决",
+          "说明": "whether引导表语从句，作one issue...is的表语"
+        }
+      ],
+      "zh": "联邦巡回法院发布了一项不同寻常的命令，声明该案件将由法院全部12名法官审理，而非通常的三人合议庭，并声明它想要评估的一个问题是：是否应当“重新考虑”其道富银行案裁决。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2010-text2-s16",
+      "s": "The Federal Circuit's action comes in the wake of a series of recent decisions by the Supreme Court that has narrowed the scope of protections for patent holders.",
+      "para_no": 5,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The Federal Circuit's action",
+        "谓语": "comes",
+        "宾语或表语": "—",
+        "主干翻译": "联邦巡回法院的这一行动随之而来。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "in the wake of a series of recent decisions by the Supreme Court",
+          "修饰对象": "comes",
+          "中文翻译": "继最高法院近期一系列裁决之后",
+          "说明": "in the wake of意为“紧随…之后”"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that has narrowed the scope of protections for patent holders",
+          "修饰对象": "series",
+          "中文翻译": "这一系列裁决缩小了对专利持有者保护的范围",
+          "说明": "that引导定语从句，修饰a series（of recent decisions）"
+        }
+      ],
+      "zh": "联邦巡回法院的这一行动，是继最高法院近期一系列缩小专利持有者保护范围的裁决之后做出的。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2010-text2-s17",
+      "s": "Last April, for example, the justices signaled that too many patents were being upheld for \"inventions\" that are obvious.",
+      "para_no": 5,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "the justices",
+        "谓语": "signaled",
+        "宾语或表语": "that too many patents were being upheld for \"inventions\" that are obvious",
+        "主干翻译": "法官们暗示太多专利正被维持。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "for example",
+          "修饰对象": "—",
+          "中文翻译": "例如",
+          "说明": "插入语"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that too many patents were being upheld for \"inventions\" that are obvious",
+          "修饰对象": "signaled",
+          "中文翻译": "太多专利正被授予那些显而易见的“发明”",
+          "说明": "that引导signaled的宾语从句"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that are obvious",
+          "修饰对象": "inventions",
+          "中文翻译": "显而易见的（发明）",
+          "说明": "that引导定语从句修饰inventions"
+        }
+      ],
+      "zh": "例如，去年四月，大法官们暗示，太多专利被授予了那些显而易见的“发明”。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2010-text2-s18",
+      "s": "The judges on the Federal Circuit are \"reacting to the anti-patent trend at the Supreme Court\", says Harold C. Wegner, a patent attorney and professor at George Washington University Law School.",
+      "para_no": 5,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "The judges on the Federal Circuit",
+        "谓语": "are reacting",
+        "宾语或表语": "to the anti-patent trend",
+        "主干翻译": "联邦巡回法院的法官们正在对反专利趋势作出反应。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "on the Federal Circuit",
+          "修饰对象": "judges",
+          "中文翻译": "联邦巡回法院的",
+          "说明": "修饰主语judges"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "The judges on the Federal Circuit are \"reacting to the anti-patent trend at the Supreme Court\"",
+          "修饰对象": "says",
+          "中文翻译": "联邦巡回法院的法官们正在“对最高法院的反专利趋势作出反应”",
+          "说明": "前置引语作后置says的宾语（引语+says结构）"
+        },
+        {
+          "成分类型": "同位语",
+          "原文": "a patent attorney and professor at George Washington University Law School",
+          "修饰对象": "Wegner",
+          "中文翻译": "一位专利律师，乔治·华盛顿大学法学院的教授",
+          "说明": "Harold C. Wegner的同位语"
+        }
+      ],
+      "zh": "乔治·华盛顿大学法学院的专利律师兼教授哈罗德·C·韦格纳说，联邦巡回法院的法官们正在“对最高法院的反专利趋势作出反应”。",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2010-text2-s1",
+        "en1-2010-text2-s2",
+        "en1-2010-text2-s3",
+        "en1-2010-text2-s4"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2010-text2-s5",
+        "en1-2010-text2-s6",
+        "en1-2010-text2-s7",
+        "en1-2010-text2-s8"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2010-text2-s9",
+        "en1-2010-text2-s10",
+        "en1-2010-text2-s11",
+        "en1-2010-text2-s12",
+        "en1-2010-text2-s13"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2010-text2-s14",
+        "en1-2010-text2-s15"
+      ]
+    },
+    {
+      "para_no": 5,
+      "sids": [
+        "en1-2010-text2-s16",
+        "en1-2010-text2-s17",
+        "en1-2010-text2-s18"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,709 @@
+{
+  "exam": "en1",
+  "key": "2014-t4",
+  "year": 2014,
+  "text_no": 4,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2014-text4-s1",
+      "s": "\"The Heart of the Matter,\" the just-released report by the American Academy of Arts and Sciences (AAAS), deserves praise for affirming the importance of the humanities and social sciences to the prosperity and security of liberal democracy in America.",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "\"The Heart of the Matter\"",
+        "谓语": "deserves",
+        "宾语或表语": "praise",
+        "主干翻译": "《问题的核心》值得赞扬。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "the just-released report by the American Academy of Arts and Sciences (AAAS)",
+          "修饰对象": "The Heart of the Matter",
+          "中文翻译": "美国艺术与科学院（AAAS）刚刚发布的这份报告",
+          "说明": "对主语\"The Heart of the Matter\"的同位语解释，由两个逗号隔开，说明该报告的来源。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "the American Academy of Arts and Sciences (AAAS)",
+          "修饰对象": "Academy",
+          "中文翻译": "美国艺术与科学院（AAAS）",
+          "说明": "括号中的AAAS为前面机构全称的同位/缩写说明（k标记为同位语/插入语）。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "for affirming the importance of the humanities and social sciences to the prosperity and security of liberal democracy in America",
+          "修饰对象": "deserves",
+          "中文翻译": "因为它肯定了人文学科和社会科学对美国自由民主的繁荣与安全的重要性",
+          "说明": "for + 动名词短语作原因状语，说明值得赞扬的原因。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "the humanities and social sciences",
+          "修饰对象": "importance",
+          "中文翻译": "人文学科和社会科学",
+          "说明": "and连接的并列名词短语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "the prosperity and security",
+          "修饰对象": "of",
+          "中文翻译": "繁荣与安全",
+          "说明": "and连接的并列名词。"
+        }
+      ],
+      "zh": "美国艺术与科学院（AAAS）刚刚发布的报告《问题的核心》肯定了人文学科和社会科学对美国自由民主的繁荣与安全的重要性，这一点值得赞扬。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2014-text4-s2",
+      "s": "Regrettably, however, the report's failure to address the true nature of the crisis facing liberal education may cause more harm than good.",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "the report's failure",
+        "谓语": "may cause",
+        "宾语或表语": "more harm than good",
+        "主干翻译": "该报告的失败可能弊大于利。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to address the true nature of the crisis facing liberal education",
+          "修饰对象": "failure",
+          "中文翻译": "未能触及自由教育所面临危机的真正本质",
+          "说明": "不定式作后置定语修饰failure，说明报告\"失败\"的具体内容。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "facing liberal education",
+          "修饰对象": "crisis",
+          "中文翻译": "（自由教育）所面临的",
+          "说明": "现在分词短语作后置定语，修饰crisis。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "Regrettably, however,",
+          "修饰对象": "—",
+          "中文翻译": "然而，遗憾的是",
+          "说明": "句首插入的副词与转折词，表达作者的评价态度。"
+        },
+        {
+          "成分类型": "比较",
+          "原文": "more harm than good",
+          "修饰对象": "cause",
+          "中文翻译": "弊大于利",
+          "说明": "more...than比较结构。"
+        }
+      ],
+      "zh": "然而，遗憾的是，该报告未能触及自由教育所面临危机的真正本质，这一缺陷可能弊大于利。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2014-text4-s3",
+      "s": "In 2010, leading congressional Democrats and Republicans sent letters to the AAAS asking that it identify actions that could be taken by \"federal, state and local governments, universities, foundations, educators, individual benefactors and others\" to \"maintain national excellence in humanities and social scientific scholarship and education.\"",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "leading congressional Democrats and Republicans",
+        "谓语": "sent",
+        "宾语或表语": "letters",
+        "主干翻译": "国会中主要的民主党人和共和党人致信。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "In 2010",
+          "修饰对象": "sent",
+          "中文翻译": "在2010年",
+          "说明": "时间状语。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "to the AAAS",
+          "修饰对象": "sent",
+          "中文翻译": "给美国艺术与科学院",
+          "说明": "表示致信的对象。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "asking that it identify actions that could be taken by \"federal, state and local governments, universities, foundations, educators, individual benefactors and others\" to \"maintain national excellence in humanities and social scientific scholarship and education.\"",
+          "修饰对象": "letters",
+          "中文翻译": "信中要求该院确认……可以采取的行动",
+          "说明": "现在分词短语作后置定语修饰letters，相当于伴随说明信件的内容。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that it identify actions that could be taken by \"federal, state and local governments, universities, foundations, educators, individual benefactors and others\" to \"maintain national excellence in humanities and social scientific scholarship and education.\"",
+          "修饰对象": "asking",
+          "中文翻译": "该院应确认……可以采取的行动",
+          "说明": "that引导的宾语从句作asking的宾语，ask后用虚拟语气（identify用原形）。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that could be taken by \"federal, state and local governments, universities, foundations, educators, individual benefactors and others\" to \"maintain national excellence in humanities and social scientific scholarship and education.\"",
+          "修饰对象": "actions",
+          "中文翻译": "可由\"联邦、州和地方政府、大学、基金会、教育者、个人资助者及其他方面\"采取的（行动）",
+          "说明": "that引导的定语从句修饰actions。"
+        },
+        {
+          "成分类型": "状语从句(目的)",
+          "原文": "to \"maintain national excellence in humanities and social scientific scholarship and education.\"",
+          "修饰对象": "taken",
+          "中文翻译": "以\"维持国家在人文学科与社会科学的学术和教育方面的卓越水平\"",
+          "说明": "不定式作目的状语，说明采取行动的目的（k标记语义待定，定为目的）。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "federal, state and local governments",
+          "修饰对象": "by",
+          "中文翻译": "联邦、州和地方政府",
+          "说明": "并列的形容词修饰governments。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "governments, universities, foundations, educators, individual benefactors and others",
+          "修饰对象": "by",
+          "中文翻译": "政府、大学、基金会、教育者、个人资助者及其他方面",
+          "说明": "by之后的一系列并列名词，表行动的施动者。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "humanities and social scientific scholarship and education",
+          "修饰对象": "excellence",
+          "中文翻译": "人文学科与社会科学的学术和教育",
+          "说明": "并列名词短语，说明卓越所涉及的领域。"
+        }
+      ],
+      "zh": "2010年，国会中主要的民主党人和共和党人致信美国艺术与科学院，要求该院确认\"联邦、州和地方政府、大学、基金会、教育者、个人资助者及其他方面\"可以采取哪些行动，以\"维持国家在人文学科与社会科学的学术和教育方面的卓越水平\"。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2014-text4-s4",
+      "s": "In response, the American Academy formed the Commission on the Humanities and Social Sciences.",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "the American Academy",
+        "谓语": "formed",
+        "宾语或表语": "the Commission on the Humanities and Social Sciences",
+        "主干翻译": "美国科学院成立了人文与社会科学委员会。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "In response",
+          "修饰对象": "formed",
+          "中文翻译": "作为回应",
+          "说明": "句首介词短语作方式/背景状语。"
+        }
+      ],
+      "zh": "作为回应，美国科学院成立了人文与社会科学委员会。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2014-text4-s5",
+      "s": "Among the commission's 51 members are top-tier-university presidents, scholars, lawyers, judges, and business executives, as well as prominent figures from diplomacy, filmmaking, music and journalism.",
+      "para_no": 2,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "top-tier-university presidents, scholars, lawyers, judges, and business executives",
+        "谓语": "are",
+        "宾语或表语": "Among the commission's 51 members",
+        "主干翻译": "在委员会的51名成员中，有顶尖大学的校长、学者、律师、法官和企业高管。"
+      },
+      "components": [
+        {
+          "成分类型": "倒装",
+          "原文": "Among the commission's 51 members are top-tier-university presidents",
+          "修饰对象": "—",
+          "中文翻译": "委员会的51名成员中有顶尖大学的校长……",
+          "说明": "介词短语位于句首引起的完全倒装，真正主语后置于谓语are之后。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "presidents, scholars, lawyers, judges, and business executives",
+          "修饰对象": "—",
+          "中文翻译": "校长、学者、律师、法官和企业高管",
+          "说明": "倒装句中后置的并列主语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "prominent figures from diplomacy, filmmaking, music and journalism",
+          "修饰对象": "presidents",
+          "中文翻译": "来自外交、电影制作、音乐和新闻界的知名人士",
+          "说明": "as well as连接的另一组并列成员，与前述主语并列。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "diplomacy, filmmaking, music and journalism",
+          "修饰对象": "figures",
+          "中文翻译": "外交、电影制作、音乐和新闻界",
+          "说明": "from后并列名词，说明知名人士的来源领域。"
+        }
+      ],
+      "zh": "委员会的51名成员中，既有顶尖大学的校长、学者、律师、法官和企业高管，也有来自外交、电影制作、音乐和新闻界的知名人士。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2014-text4-s6",
+      "s": "The goals identified in the report are generally admirable.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The goals",
+        "谓语": "are",
+        "宾语或表语": "generally admirable",
+        "主干翻译": "这些目标总体上值得称赞。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "identified in the report",
+          "修饰对象": "goals",
+          "中文翻译": "报告中确定的",
+          "说明": "过去分词短语作后置定语，修饰goals。"
+        }
+      ],
+      "zh": "报告中确定的这些目标总体上值得称赞。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2014-text4-s7",
+      "s": "Because representative government presupposes an informed citizenry, the report supports full literacy; stresses the study of history and government, particularly American history and American government; and encourages the use of new digital technologies.",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "the report",
+        "谓语": "supports; stresses; encourages",
+        "宾语或表语": "full literacy; the study of history and government; the use of new digital technologies",
+        "主干翻译": "报告支持完全的读写能力、强调历史与政治学的研究并鼓励使用新数字技术。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(原因)",
+          "原文": "Because representative government presupposes an informed citizenry",
+          "修饰对象": "supports",
+          "中文翻译": "因为代议制政府以了解情况的公民群体为前提",
+          "说明": "Because引导的原因状语从句。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "supports full literacy; stresses the study of history and government, particularly American history and American government; and encourages the use of new digital technologies",
+          "修饰对象": "report",
+          "中文翻译": "支持完全的读写能力；强调历史与政治学的研究；鼓励使用新数字技术",
+          "说明": "三个并列谓语动词，由分号和and连接，共用主语report。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "particularly American history and American government",
+          "修饰对象": "history",
+          "中文翻译": "尤其是美国历史和美国政治",
+          "说明": "对前面history and government的补充强调，作同位/插入说明。"
+        }
+      ],
+      "zh": "由于代议制政府以了解情况的公民群体为前提，报告支持完全的读写能力，强调研究历史和政治学（尤其是美国历史和美国政治），并鼓励使用新的数字技术。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2014-text4-s8",
+      "s": "To encourage innovation and competition, the report calls for increased investment in research, the crafting of coherent curricula that improve students' ability to solve problems and communicate effectively in the 21st century, increased funding for teachers and the encouragement of scholars to bring their learning to bear on the great challenges of the day.",
+      "para_no": 3,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "the report",
+        "谓语": "calls for",
+        "宾语或表语": "increased investment in research, the crafting of coherent curricula, increased funding for teachers and the encouragement of scholars",
+        "主干翻译": "报告呼吁增加研究投入、编制连贯的课程、增加对教师的资助以及鼓励学者。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(目的)",
+          "原文": "To encourage innovation and competition",
+          "修饰对象": "calls",
+          "中文翻译": "为了鼓励创新与竞争",
+          "说明": "句首不定式作目的状语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "increased investment in research, the crafting of coherent curricula that improve students' ability to solve problems and communicate effectively in the 21st century, increased funding for teachers and the encouragement of scholars to bring their learning to bear on the great challenges of the day",
+          "修饰对象": "calls for",
+          "中文翻译": "增加研究投入、编制连贯的课程、增加对教师的资助以及鼓励学者……",
+          "说明": "calls for的四个并列宾语。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that improve students' ability to solve problems and communicate effectively in the 21st century",
+          "修饰对象": "curricula",
+          "中文翻译": "能够提高学生在21世纪解决问题和有效沟通能力的（课程）",
+          "说明": "that引导的定语从句修饰curricula。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to solve problems and communicate effectively in the 21st century",
+          "修饰对象": "ability",
+          "中文翻译": "在21世纪解决问题和有效沟通的（能力）",
+          "说明": "不定式作后置定语修饰ability。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to bring their learning to bear on the great challenges of the day",
+          "修饰对象": "encouragement",
+          "中文翻译": "运用其学识来应对当今重大挑战",
+          "说明": "不定式短语作后置定语，说明对学者的encouragement（鼓励）的内容；bring...to bear on意为\"运用……来应对\"。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "problems and communicate effectively",
+          "修饰对象": "solve",
+          "中文翻译": "解决问题和有效沟通",
+          "说明": "ability后两个并列不定式动作（solve problems / communicate effectively）。"
+        }
+      ],
+      "zh": "为了鼓励创新与竞争，报告呼吁增加研究投入，编制能提高学生在21世纪解决问题和有效沟通能力的连贯课程，增加对教师的资助，并鼓励学者运用其学识来应对当今的重大挑战。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2014-text4-s9",
+      "s": "The report also advocates greater study of foreign languages, international affairs and the expansion of study abroad programs.",
+      "para_no": 3,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "The report",
+        "谓语": "advocates",
+        "宾语或表语": "greater study of foreign languages, international affairs and the expansion of study abroad programs",
+        "主干翻译": "报告还提倡加强对外语、国际事务的研究并扩大海外留学项目。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "foreign languages, international affairs and the expansion of study abroad programs",
+          "修饰对象": "study",
+          "中文翻译": "外语、国际事务以及海外留学项目的扩大",
+          "说明": "advocates greater study of后的并列宾语（注意第三项the expansion并列于study of的内容层面）。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "international affairs and the expansion of study abroad programs",
+          "修饰对象": "languages",
+          "中文翻译": "国际事务以及海外留学项目的扩大",
+          "说明": "与foreign languages并列的后续两项。"
+        }
+      ],
+      "zh": "报告还提倡加强对外语和国际事务的研究，并扩大海外留学项目。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2014-text4-s10",
+      "s": "Unfortunately, despite 2½ years in the making, \"The Heart of the Matter\" never gets to the heart of the matter: the illiberal nature of liberal education at our leading colleges and universities.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "\"The Heart of the Matter\"",
+        "谓语": "gets to",
+        "宾语或表语": "the heart of the matter",
+        "主干翻译": "《问题的核心》从未触及问题的核心。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "Unfortunately",
+          "修饰对象": "—",
+          "中文翻译": "遗憾的是",
+          "说明": "句首副词表作者态度。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "despite 2½ years in the making",
+          "修饰对象": "gets",
+          "中文翻译": "尽管历时两年半才完成",
+          "说明": "despite引导的让步性介词短语作状语。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "the illiberal nature of liberal education at our leading colleges and universities",
+          "修饰对象": "heart",
+          "中文翻译": "我们一流学院和大学中自由教育的不自由本质",
+          "说明": "冒号后对the heart of the matter的同位解释（k标记同位语/插入语）。"
+        }
+      ],
+      "zh": "遗憾的是，尽管历时两年半才完成，《问题的核心》却从未触及问题的核心——即我们一流学院和大学中自由教育的不自由本质。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2014-text4-s11",
+      "s": "The commission ignores that for several decades America's colleges and universities have produced graduates who don't know the content and character of liberal education and are thus deprived of its benefits.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "The commission",
+        "谓语": "ignores",
+        "宾语或表语": "that...（宾语从句）",
+        "主干翻译": "委员会忽视了这样一个事实。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "that for several decades America's colleges and universities have produced graduates who don't know the content and character of liberal education and are thus deprived of its benefits",
+          "修饰对象": "ignores",
+          "中文翻译": "几十年来美国的学院和大学培养出的毕业生……",
+          "说明": "that引导的宾语从句作ignores的宾语。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "for several decades",
+          "修饰对象": "have produced",
+          "中文翻译": "几十年来",
+          "说明": "宾语从句内的时间状语。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "who don't know the content and character of liberal education and are thus deprived of its benefits",
+          "修饰对象": "graduates",
+          "中文翻译": "不了解自由教育的内容与特征、因而被剥夺其益处的（毕业生）",
+          "说明": "who引导的定语从句修饰graduates。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "don't know the content and character of liberal education and are thus deprived of its benefits",
+          "修饰对象": "who",
+          "中文翻译": "不了解自由教育的内容与特征，因而被剥夺了它的益处",
+          "说明": "定语从句内的两个并列谓语，由and连接。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "the content and character",
+          "修饰对象": "know",
+          "中文翻译": "内容与特征",
+          "说明": "并列名词。"
+        }
+      ],
+      "zh": "委员会忽视了这样一个事实：几十年来，美国的学院和大学培养出的毕业生并不了解自由教育的内容与特征，因而被剥夺了它所带来的益处。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2014-text4-s12",
+      "s": "Sadly, the spirit of inquiry once at home on campus has been replaced by the use of the humanities and social sciences as vehicles for publicizing \"progressive,\" or left-liberal propaganda.",
+      "para_no": 4,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "the spirit of inquiry",
+        "谓语": "has been replaced",
+        "宾语或表语": "by the use of the humanities and social sciences",
+        "主干翻译": "探究精神已被对人文学科和社会科学的利用所取代。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "Sadly",
+          "修饰对象": "—",
+          "中文翻译": "可悲的是",
+          "说明": "句首副词表态度。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "once at home on campus",
+          "修饰对象": "spirit",
+          "中文翻译": "曾在校园中盛行的",
+          "说明": "省略了which was的定语从句，修饰spirit；at home意为\"自在、盛行\"。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "as vehicles for publicizing \"progressive,\" or left-liberal propaganda",
+          "修饰对象": "use",
+          "中文翻译": "作为宣传\"进步主义\"即左翼自由派宣传的工具",
+          "说明": "as引导的方式/身份说明，修饰the use；for引出工具的用途。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "\"progressive,\" or left-liberal",
+          "修饰对象": "propaganda",
+          "中文翻译": "\"进步主义\"即左翼自由派的（宣传）",
+          "说明": "or连接的同义并列修饰语。"
+        }
+      ],
+      "zh": "可悲的是，曾在校园中盛行的探究精神，已被把人文学科和社会科学当作宣传\"进步主义\"即左翼自由派宣传之工具的做法所取代。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2014-text4-s13",
+      "s": "Today, professors routinely treat the progressive interpretation of history and progressive public policy as the proper subject of study while portraying conservative or classical liberal ideas—such as free markets and self-reliance —as falling outside the boundaries of routine, and sometimes legitimate, intellectual investigation.",
+      "para_no": 5,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "professors",
+        "谓语": "treat",
+        "宾语或表语": "the progressive interpretation of history and progressive public policy",
+        "主干翻译": "教授们把对历史的进步主义解读和进步主义公共政策视为研究的恰当对象。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "Today",
+          "修饰对象": "treat",
+          "中文翻译": "如今",
+          "说明": "时间状语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "the progressive interpretation of history and progressive public policy",
+          "修饰对象": "treat",
+          "中文翻译": "对历史的进步主义解读和进步主义的公共政策",
+          "说明": "treat的两个并列宾语。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "as the proper subject of study",
+          "修饰对象": "treat",
+          "中文翻译": "作为研究的恰当对象",
+          "说明": "treat...as...结构中的as宾补/方式成分。"
+        },
+        {
+          "成分类型": "状语从句(方式)",
+          "原文": "while portraying conservative or classical liberal ideas—such as free markets and self-reliance —as falling outside the boundaries of routine, and sometimes legitimate, intellectual investigation",
+          "修饰对象": "treat",
+          "中文翻译": "与此同时却把保守派或古典自由派的思想……描绘成超出常规学术探究的范围",
+          "说明": "while引导的分词状语（while + 现在分词），此处表对比/伴随（k语义待定，定为方式/对比）。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "such as free markets and self-reliance",
+          "修饰对象": "ideas",
+          "中文翻译": "例如自由市场和自力更生",
+          "说明": "破折号间的举例插入语，说明ideas的内容。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "free markets and self-reliance",
+          "修饰对象": "such as",
+          "中文翻译": "自由市场和自力更生",
+          "说明": "and 连接的并列举例。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "routine, and sometimes legitimate, intellectual investigation",
+          "修饰对象": "boundaries",
+          "中文翻译": "常规的、有时甚至是正当的学术探究",
+          "说明": "routine与legitimate两个并列形容词共同修饰intellectual investigation。"
+        }
+      ],
+      "zh": "如今，教授们惯常把对历史的进步主义解读和进步主义的公共政策视为研究的恰当对象，与此同时，却把保守派或古典自由派的思想（如自由市场和自力更生）描绘成超出常规、有时甚至是正当的学术探究的范围之外。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2014-text4-s14",
+      "s": "The AAAS displays great enthusiasm for liberal education.",
+      "para_no": 6,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The AAAS",
+        "谓语": "displays",
+        "宾语或表语": "great enthusiasm for liberal education",
+        "主干翻译": "美国艺术与科学院对自由教育表现出极大的热情。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "for liberal education",
+          "修饰对象": "enthusiasm",
+          "中文翻译": "对自由教育的",
+          "说明": "for介词短语修饰enthusiasm，说明热情的对象。"
+        }
+      ],
+      "zh": "美国艺术与科学院对自由教育表现出极大的热情。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2014-text4-s15",
+      "s": "Yet its report may well set back reform by obscuring the depth and breadth of the challenge that Congress asked it to illuminate.",
+      "para_no": 6,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "its report",
+        "谓语": "may set back",
+        "宾语或表语": "reform",
+        "主干翻译": "其报告很可能阻碍改革。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "by obscuring the depth and breadth of the challenge that Congress asked it to illuminate",
+          "修饰对象": "set back",
+          "中文翻译": "因为它掩盖了国会要求它阐明的那一挑战的深度与广度",
+          "说明": "by + 动名词短语作方式状语，说明阻碍改革的方式。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "the depth and breadth",
+          "修饰对象": "obscuring",
+          "中文翻译": "深度与广度",
+          "说明": "and连接的并列名词。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that Congress asked it to illuminate",
+          "修饰对象": "challenge",
+          "中文翻译": "国会要求它阐明的（挑战）",
+          "说明": "that引导的定语从句修饰challenge，that在从句中作illuminate的逻辑宾语。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to illuminate",
+          "修饰对象": "asked",
+          "中文翻译": "去阐明",
+          "说明": "ask sb. to do结构中的不定式作宾语补足语（k标记非谓语补足）。"
+        }
+      ],
+      "zh": "然而，其报告很可能因掩盖了国会要求它阐明的那一挑战的深度与广度而阻碍改革。",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2014-text4-s1",
+        "en1-2014-text4-s2"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2014-text4-s3",
+        "en1-2014-text4-s4",
+        "en1-2014-text4-s5"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2014-text4-s6",
+        "en1-2014-text4-s7",
+        "en1-2014-text4-s8",
+        "en1-2014-text4-s9"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2014-text4-s10",
+        "en1-2014-text4-s11",
+        "en1-2014-text4-s12"
+      ]
+    },
+    {
+      "para_no": 5,
+      "sids": [
+        "en1-2014-text4-s13"
+      ]
+    },
+    {
+      "para_no": 6,
+      "sids": [
+        "en1-2014-text4-s14",
+        "en1-2014-text4-s15"
+      ]
+    }
+  ]
+}

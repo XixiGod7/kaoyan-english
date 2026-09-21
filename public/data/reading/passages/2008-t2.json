@@ -1,0 +1,771 @@
+{
+  "exam": "en1",
+  "key": "2008-t2",
+  "year": 2008,
+  "text_no": 2,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2008-text2-s1",
+      "s": "It used to be so straightforward.",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "It",
+        "谓语": "used to be",
+        "宾语或表语": "so straightforward",
+        "主干翻译": "它过去是如此简单明了。"
+      },
+      "components": [
+        {
+          "成分类型": "省略",
+          "原文": "to be so straightforward",
+          "修饰对象": "used",
+          "中文翻译": "（过去）是如此简单",
+          "说明": "used to + 动词原形构成习惯性过去结构，to be 是 used to 后的不定式补足，并非独立从句。"
+        }
+      ],
+      "zh": "过去这一切是如此简单明了。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2008-text2-s2",
+      "s": "A team of researchers working together in the laboratory would submit the results of their research to a journal.",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "A team of researchers",
+        "谓语": "would submit",
+        "宾语或表语": "the results of their research",
+        "主干翻译": "一组研究人员会把他们的研究成果提交（给期刊）。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "working together in the laboratory",
+          "修饰对象": "researchers",
+          "中文翻译": "在实验室里一起工作的",
+          "说明": "现在分词短语作后置定语，修饰 researchers，其中 in the laboratory 为内含的介词短语作状语并入该节点。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "to a journal",
+          "修饰对象": "submit",
+          "中文翻译": "提交给一家期刊",
+          "说明": "介词短语作状语，表示 submit 的对象/方向。"
+        }
+      ],
+      "zh": "一组在实验室里共同工作的研究人员，会把他们的研究成果提交给某家期刊。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2008-text2-s3",
+      "s": "A journal editor would then remove the authors' names and affiliations from the paper and send it to their peers for review.",
+      "para_no": 1,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "A journal editor",
+        "谓语": "would remove and send",
+        "宾语或表语": "the authors' names and affiliations / it",
+        "主干翻译": "期刊编辑会去掉作者姓名并把论文送出。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "send it to their peers for review",
+          "修饰对象": "remove",
+          "中文翻译": "把它送给同行评审",
+          "说明": "由 and 连接的并列谓语，与前面的 remove the author's names and affiliations from the paper 构成 remove...and send... 的并列动作；其中 to their peers、for review 为内含介词短语。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "from the paper",
+          "修饰对象": "remove",
+          "中文翻译": "从论文中",
+          "说明": "介词短语作状语，说明 remove 的来源处所。"
+        }
+      ],
+      "zh": "随后期刊编辑会从论文中去掉作者的姓名和所属机构，再把它送交同行进行评审。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2008-text2-s4",
+      "s": "Depending on the comments received, the editor would accept the paper for publication or decline it.",
+      "para_no": 1,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "the editor",
+        "谓语": "would accept or decline",
+        "宾语或表语": "the paper / it",
+        "主干翻译": "编辑会接受这篇论文或予以拒绝。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "Depending on the comments received",
+          "修饰对象": "accept",
+          "中文翻译": "根据收到的评审意见",
+          "说明": "现在分词短语作条件/方式状语，置于句首修饰整个谓语。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "received",
+          "修饰对象": "comments",
+          "中文翻译": "收到的",
+          "说明": "过去分词作后置定语修饰 comments。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "accept the paper for publication or decline it",
+          "修饰对象": "—",
+          "中文翻译": "接受论文予以发表或拒绝它",
+          "说明": "or 连接的并列谓语 accept...or decline...，for publication 为内含介词短语作目的状语。"
+        }
+      ],
+      "zh": "根据收到的评审意见，编辑会决定接受这篇论文予以发表，或者将其退稿。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2008-text2-s5",
+      "s": "Copyright rested with the journal publisher, and researchers seeking knowledge of the results would have to subscribe to the journal. No longer.",
+      "para_no": 1,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "Copyright / researchers",
+        "谓语": "rested / would have to subscribe",
+        "宾语或表语": "（with the journal publisher）/ to the journal",
+        "主干翻译": "版权归期刊出版商所有，而研究人员必须订阅该期刊。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "researchers seeking knowledge of the results would have to subscribe to the journal",
+          "修饰对象": "rested",
+          "中文翻译": "想了解研究结果的研究人员必须订阅该期刊",
+          "说明": "and 连接两个并列分句，与 Copyright rested with the journal publisher 并列。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "seeking knowledge of the results",
+          "修饰对象": "researchers",
+          "中文翻译": "想要获取研究结果的",
+          "说明": "现在分词短语作后置定语，修饰 researchers。"
+        },
+        {
+          "成分类型": "省略",
+          "原文": "to subscribe to the journal",
+          "修饰对象": "have",
+          "中文翻译": "订阅该期刊",
+          "说明": "have to 后的不定式补足，构成 have to do 结构。"
+        }
+      ],
+      "zh": "版权归期刊出版商所有，而想要获取研究成果的研究人员则不得不订阅该期刊。如今不再如此。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2008-text2-s6",
+      "s": "The Internet—and pressure from funding agencies, who are questioning why commercial publishers are making money from government–funded research by restricting access to it—is making free access to scientific results a reality.",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The Internet",
+        "谓语": "is making",
+        "宾语或表语": "access to scientific results a reality",
+        "主干翻译": "互联网正在使获取科研成果成为现实。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "and pressure from funding agencies",
+          "修饰对象": "The Internet",
+          "中文翻译": "以及来自资助机构的压力",
+          "说明": "与主语 The Internet 并列，共同构成 is making 的主语，由破折号插入展开。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "who are questioning why commercial publishers are making money from government–funded research by restricting access to it",
+          "修饰对象": "funding agencies",
+          "中文翻译": "这些机构质疑商业出版商为何要通过限制获取来从政府资助的研究中牟利",
+          "说明": "who 引导非限制性定语从句，修饰 funding agencies。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "why commercial publishers are making money from government–funded research by restricting access to it",
+          "修饰对象": "questioning",
+          "中文翻译": "商业出版商为何要通过限制获取来从政府资助的研究中牟利",
+          "说明": "why 引导的从句作 questioning 的宾语，其中 by restricting access to it 为方式状语。"
+        },
+        {
+          "成分类型": "非谓语作宾语补足语",
+          "原文": "a reality",
+          "修饰对象": "access to scientific results",
+          "中文翻译": "成为现实",
+          "说明": "make + 宾语 access to scientific results + 宾语补足语 a reality，构成复合宾语结构。"
+        }
+      ],
+      "zh": "互联网，以及来自资助机构的压力——这些机构质疑商业出版商为何要通过限制获取来从政府资助的研究中牟利——正在使免费获取科研成果成为现实。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2008-text2-s7",
+      "s": "The Organization for Economic Co-operation and Development (OECD) has just issued a report describing the far-reaching consequences of this.",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "The Organization for Economic Co-operation and Development",
+        "谓语": "has issued",
+        "宾语或表语": "a report",
+        "主干翻译": "经济合作与发展组织刚刚发布了一份报告。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "OECD",
+          "修饰对象": "Organization",
+          "中文翻译": "经合组织（缩写）",
+          "说明": "括号内为该组织名称的缩写，作同位语/插入语。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "describing the far-reaching consequences of this",
+          "修饰对象": "report",
+          "中文翻译": "描述了此事深远影响的",
+          "说明": "现在分词短语作后置定语修饰 report。"
+        }
+      ],
+      "zh": "经济合作与发展组织（OECD）刚刚发布了一份报告，阐述了这一变化的深远影响。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2008-text2-s8",
+      "s": "The report, by John Houghton of Victoria University in Australia and Graham Vickery of the OECD, makes heavy reading for publishers who have, so far, made handsome profits.",
+      "para_no": 2,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "The report",
+        "谓语": "makes",
+        "宾语或表语": "heavy reading",
+        "主干翻译": "这份报告读起来令人沉重。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "by John Houghton of Victoria University in Australia and Graham Vickery of the OECD",
+          "修饰对象": "report",
+          "中文翻译": "由澳大利亚维多利亚大学的约翰·霍顿和经合组织的格雷厄姆·维克里撰写",
+          "说明": "介词短语作后置定语兼插入语，说明报告作者；其中 John Houghton...and Graham Vickery... 为 and 连接的并列结构。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "Graham Vickery of the OECD",
+          "修饰对象": "Houghton",
+          "中文翻译": "经合组织的格雷厄姆·维克里",
+          "说明": "and 连接两位作者，构成并列。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "who have, so far, made handsome profits",
+          "修饰对象": "publishers",
+          "中文翻译": "迄今为止赚取了丰厚利润的",
+          "说明": "限制性定语从句，who 指代 publishers，so far 为插入状语。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "for publishers",
+          "修饰对象": "reading",
+          "中文翻译": "对出版商而言",
+          "说明": "介词短语，说明 heavy reading 的对象。"
+        }
+      ],
+      "zh": "这份由澳大利亚维多利亚大学的约翰·霍顿和经合组织的格雷厄姆·维克里撰写的报告，对那些迄今赚得盆满钵满的出版商来说，读起来颇为沉重。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2008-text2-s9",
+      "s": "But it goes further than that.",
+      "para_no": 2,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "it",
+        "谓语": "goes",
+        "宾语或表语": "further than that",
+        "主干翻译": "但它的意义还不止于此。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(比较)",
+          "原文": "than that",
+          "修饰对象": "further",
+          "中文翻译": "比那（更进一步）",
+          "说明": "than 引导比较，与 further 构成比较结构（that 后省略了 it goes）。"
+        }
+      ],
+      "zh": "但它的影响还远不止于此。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2008-text2-s10",
+      "s": "It signals a change in what has, until now, been a key element of scientific endeavour.",
+      "para_no": 2,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "It",
+        "谓语": "signals",
+        "宾语或表语": "a change",
+        "主干翻译": "它标志着一种变化。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "what has, until now, been a key element of scientific endeavour",
+          "修饰对象": "in",
+          "中文翻译": "迄今为止一直是科学探索关键要素的事物",
+          "说明": "what 引导的名词性从句作介词 in 的宾语，until now 为插入状语。"
+        },
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "in what has, until now, been a key element of scientific endeavour",
+          "修饰对象": "change",
+          "中文翻译": "在……方面的（变化）",
+          "说明": "in 引导的介词短语作定语修饰 change，宾语为前述 what 从句。"
+        }
+      ],
+      "zh": "它标志着迄今为止一直是科学探索关键要素的某种事物正在发生变化。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2008-text2-s11",
+      "s": "The value of knowledge and the return on the public investment in research depends, in part, upon wide distribution and ready access.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The value of knowledge and the return on the public investment in research",
+        "谓语": "depends",
+        "宾语或表语": "upon wide distribution and ready access",
+        "主干翻译": "知识的价值与公共研究投资的回报取决于广泛传播和便捷获取。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "the return on the public investment in research",
+          "修饰对象": "value",
+          "中文翻译": "对研究的公共投资的回报",
+          "说明": "and 连接两个名词短语共同作主语；on the public investment in research 为内含介词短语作定语。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "in part",
+          "修饰对象": "depends",
+          "中文翻译": "在一定程度上",
+          "说明": "插入语，修饰 depends，表程度。"
+        }
+      ],
+      "zh": "知识的价值以及公共研究投资的回报，在一定程度上取决于成果能否得到广泛传播和便捷获取。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2008-text2-s12",
+      "s": "It is big business.",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "It",
+        "谓语": "is",
+        "宾语或表语": "big business",
+        "主干翻译": "这是一桩大生意。"
+      },
+      "components": [],
+      "zh": "这是一门大生意。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2008-text2-s13",
+      "s": "In America, the core scientific publishing market is estimated at between $7 billion and $11 billion.",
+      "para_no": 3,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "the core scientific publishing market",
+        "谓语": "is estimated",
+        "宾语或表语": "at between $7 billion and $11 billion",
+        "主干翻译": "核心科学出版市场据估计在70亿至110亿美元之间。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "In America",
+          "修饰对象": "estimated",
+          "中文翻译": "在美国",
+          "说明": "句首介词短语作地点状语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "$11 billion",
+          "修饰对象": "billion",
+          "中文翻译": "110亿美元",
+          "说明": "between $7 billion and $11 billion 中由 and 连接的并列数额。"
+        }
+      ],
+      "zh": "在美国，核心的科学出版市场据估计规模在70亿到110亿美元之间。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2008-text2-s14",
+      "s": "The International Association of Scientific, Technical and Medical Publishers says that there are more than 2, 000 publishers worldwide specializing in these subjects.",
+      "para_no": 3,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "The International Association of Scientific, Technical and Medical Publishers",
+        "谓语": "says",
+        "宾语或表语": "that there are more than 2,000 publishers...",
+        "主干翻译": "国际科学、技术与医学出版商协会表示，全球有2000多家出版商。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "Technical and Medical",
+          "修饰对象": "Scientific",
+          "中文翻译": "技术与医学",
+          "说明": "Scientific, Technical and Medical 三个并列形容词修饰 Publishers。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that there are more than 2, 000 publishers worldwide specializing in these subjects",
+          "修饰对象": "says",
+          "中文翻译": "全球有2000多家专门从事这些学科领域的出版商",
+          "说明": "that 引导宾语从句作 says 的宾语。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "specializing in these subjects",
+          "修饰对象": "publishers",
+          "中文翻译": "专攻这些学科的",
+          "说明": "现在分词短语作后置定语修饰 publishers。"
+        }
+      ],
+      "zh": "国际科学、技术与医学出版商协会称，全球有2000多家专门从事这些学科领域出版的出版商。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2008-text2-s15",
+      "s": "They publish more than 1.2 million articles each year in some 16, 000 journals.",
+      "para_no": 3,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "They",
+        "谓语": "publish",
+        "宾语或表语": "more than 1.2 million articles",
+        "主干翻译": "他们每年发表120多万篇文章。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "each year in some 16, 000 journals",
+          "修饰对象": "publish",
+          "中文翻译": "每年在约16000种期刊上",
+          "说明": "时间状语 each year 与地点介词短语 in some 16,000 journals 修饰 publish。"
+        }
+      ],
+      "zh": "他们每年在约16000种期刊上发表120多万篇文章。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2008-text2-s16",
+      "s": "This is now changing.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "This",
+        "谓语": "is changing",
+        "宾语或表语": "—",
+        "主干翻译": "如今这种情况正在改变。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "now",
+          "修饰对象": "changing",
+          "中文翻译": "现在",
+          "说明": "时间副词作状语，修饰 changing。"
+        }
+      ],
+      "zh": "如今，这种状况正在发生改变。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2008-text2-s17",
+      "s": "According to the OECD report, some 75% of scholarly journals are now online.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "some 75% of scholarly journals",
+        "谓语": "are",
+        "宾语或表语": "online",
+        "主干翻译": "约75%的学术期刊现已上线。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "According to the OECD report",
+          "修饰对象": "are",
+          "中文翻译": "根据经合组织的报告",
+          "说明": "句首介词短语作状语，表依据。"
+        }
+      ],
+      "zh": "根据经合组织的报告，目前约有75%的学术期刊已实现在线化。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2008-text2-s18",
+      "s": "Entirely new business models are emerging; three main ones were identified by the report's authors.",
+      "para_no": 4,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "business models / three main ones",
+        "谓语": "are emerging / were identified",
+        "宾语或表语": "—",
+        "主干翻译": "全新的商业模式正在涌现；其中三种主要模式被报告的作者们确认了出来。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "Entirely new business models are emerging",
+          "修饰对象": "identified",
+          "中文翻译": "全新的商业模式正在涌现",
+          "说明": "分号连接的并列分句，与后一分句构成并列关系。"
+        }
+      ],
+      "zh": "全新的商业模式正在涌现；其中三种主要的模式被该报告的作者们识别了出来。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2008-text2-s19",
+      "s": "There is the so-called big deal, where institutional subscribers pay for access to a collection of online journal titles through site-licensing agreements.",
+      "para_no": 4,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "There",
+        "谓语": "is",
+        "宾语或表语": "the so-called big deal",
+        "主干翻译": "有一种所谓的“大宗交易”。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "where institutional subscribers pay for access to a collection of online journal titles through site-licensing agreements",
+          "修饰对象": "deal",
+          "中文翻译": "在这种模式下，机构订户通过站点许可协议付费以获取一批在线期刊的访问权",
+          "说明": "where 引导定语从句修饰 big deal（关系副词表抽象处所/情形）；for access to... 与 through site-licensing agreements 为内含介词短语。"
+        }
+      ],
+      "zh": "有一种所谓的“大宗交易”模式，在这种模式下，机构订户通过站点许可协议付费，以获取一整批在线期刊的访问权。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2008-text2-s20",
+      "s": "There is open-access publishing, typically supported by asking the author (or his employer) to pay for the paper to be published.",
+      "para_no": 4,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "There",
+        "谓语": "is",
+        "宾语或表语": "open-access publishing",
+        "主干翻译": "有一种开放获取出版。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "typically supported by asking the author (or his employer) to pay for the paper to be published",
+          "修饰对象": "publishing",
+          "中文翻译": "通常靠要求作者（或其雇主）为论文的发表付费来维持的",
+          "说明": "过去分词短语作后置定语修饰 open-access publishing；by asking... 为内含介词短语作方式状语。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "or his employer)",
+          "修饰对象": "author",
+          "中文翻译": "或其雇主",
+          "说明": "括号内成分作 author 的同位/插入补充。"
+        },
+        {
+          "成分类型": "非谓语补足",
+          "原文": "to pay for the paper to be published",
+          "修饰对象": "asking",
+          "中文翻译": "为论文的发表付费",
+          "说明": "不定式作 ask sb. to do 的宾语补足语。"
+        },
+        {
+          "成分类型": "状语从句(目的)",
+          "原文": "for the paper to be published",
+          "修饰对象": "pay",
+          "中文翻译": "为了使论文得以发表",
+          "说明": "for + 名词 + 不定式构成的目的状语，说明 pay 的目的对象。"
+        }
+      ],
+      "zh": "有一种开放获取出版模式，它通常靠要求作者（或其雇主）为论文的发表付费来维持。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2008-text2-s21",
+      "s": "Finally, there are open-access archives, where organizations such as universities or international laboratories support institutional repositories.",
+      "para_no": 4,
+      "para_seq": 5,
+      "trunk": {
+        "主语": "there",
+        "谓语": "are",
+        "宾语或表语": "open-access archives",
+        "主干翻译": "最后，还有开放获取档案库。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "Finally",
+          "修饰对象": "are",
+          "中文翻译": "最后",
+          "说明": "句首连接性副词，承接列举。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "where organizations such as universities or international laboratories support institutional repositories",
+          "修饰对象": "archives",
+          "中文翻译": "在这种模式下，大学或国际实验室等机构支持建立机构知识库",
+          "说明": "where 引导定语从句修饰 open-access archives；such as... 为举例介词短语。"
+        }
+      ],
+      "zh": "最后，还有开放获取档案库，在这种模式下，大学或国际实验室之类的机构支持建立机构知识库。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2008-text2-s22",
+      "s": "Other models exist that are hybrids of these three, such as delayed open-access, where journals allow only subscribers to read a paper for the first six months, before making it freely available to everyone who wishes to see it.",
+      "para_no": 4,
+      "para_seq": 6,
+      "trunk": {
+        "主语": "Other models",
+        "谓语": "exist",
+        "宾语或表语": "—",
+        "主干翻译": "还存在其他一些模式。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "that are hybrids of these three",
+          "修饰对象": "models",
+          "中文翻译": "是这三种模式的混合体",
+          "说明": "that 引导定语从句修饰 models（与谓语 exist 分隔）。"
+        },
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "such as delayed open-access",
+          "修饰对象": "models",
+          "中文翻译": "比如延迟开放获取",
+          "说明": "such as 引导的举例介词短语，补充说明 models。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "where journals allow only subscribers to read a paper for the first six months, before making it freely available to everyone who wishes to see it",
+          "修饰对象": "access",
+          "中文翻译": "在这种模式下，期刊在最初六个月只允许订户阅读论文，之后才将其免费提供给所有想看的人",
+          "说明": "where 引导定语从句修饰 delayed open-access。"
+        },
+        {
+          "成分类型": "非谓语补足",
+          "原文": "only subscribers to read a paper for the first six months",
+          "修饰对象": "allow",
+          "中文翻译": "（只允许）订户在最初六个月阅读论文",
+          "说明": "allow sb. to do 结构，不定式作宾语补足语。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "before making it freely available to everyone who wishes to see it",
+          "修饰对象": "allow",
+          "中文翻译": "之后才将其免费提供给所有想阅读的人",
+          "说明": "before + 动名词构成时间状语，making it...available 为复合宾语结构。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "who wishes to see it",
+          "修饰对象": "everyone",
+          "中文翻译": "想要阅读它的",
+          "说明": "who 引导定语从句修饰 everyone。"
+        },
+        {
+          "成分类型": "非谓语补足",
+          "原文": "to see it",
+          "修饰对象": "wishes",
+          "中文翻译": "看到它",
+          "说明": "wish to do 中的不定式作宾语。"
+        }
+      ],
+      "zh": "还存在其他一些由这三种模式混合而成的模式，比如延迟开放获取：期刊在最初六个月只允许订户阅读论文，之后才将其免费提供给所有想阅读的人。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2008-text2-s23",
+      "s": "All this could change the traditional form of the peer-review process, at least for the publication of papers.",
+      "para_no": 4,
+      "para_seq": 7,
+      "trunk": {
+        "主语": "All this",
+        "谓语": "could change",
+        "宾语或表语": "the traditional form of the peer-review process",
+        "主干翻译": "所有这一切都可能改变同行评审过程的传统形式。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "at least for the publication of papers",
+          "修饰对象": "change",
+          "中文翻译": "至少就论文发表而言",
+          "说明": "介词短语作状语，限定 change 的适用范围。"
+        }
+      ],
+      "zh": "所有这一切都可能改变同行评审过程的传统形式，至少在论文发表方面是如此。",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2008-text2-s1",
+        "en1-2008-text2-s2",
+        "en1-2008-text2-s3",
+        "en1-2008-text2-s4",
+        "en1-2008-text2-s5"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2008-text2-s6",
+        "en1-2008-text2-s7",
+        "en1-2008-text2-s8",
+        "en1-2008-text2-s9",
+        "en1-2008-text2-s10"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2008-text2-s11",
+        "en1-2008-text2-s12",
+        "en1-2008-text2-s13",
+        "en1-2008-text2-s14",
+        "en1-2008-text2-s15"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2008-text2-s16",
+        "en1-2008-text2-s17",
+        "en1-2008-text2-s18",
+        "en1-2008-text2-s19",
+        "en1-2008-text2-s20",
+        "en1-2008-text2-s21",
+        "en1-2008-text2-s22",
+        "en1-2008-text2-s23"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,666 @@
+{
+  "exam": "en1",
+  "key": "2011-t4",
+  "year": 2011,
+  "text_no": 4,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2011-text4-s1",
+      "s": "It's no surprise that Jennifer Senior's insightful, provocative magazine cover story, \"I Love My Children, I Hate My Life,\" is arousing much chatter—nothing gets people talking like the suggestion that child rearing is anything less than a completely fulfilling, life-enriching experience.",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "It",
+        "谓语": "is",
+        "宾语或表语": "no surprise",
+        "主干翻译": "这不足为奇。"
+      },
+      "components": [
+        {
+          "成分类型": "主语从句",
+          "原文": "that Jennifer Senior's insightful, provocative magazine cover story, \"I Love My Children, I Hate My Life,\" is arousing much chatter",
+          "修饰对象": "It（形式主语）",
+          "中文翻译": "Jennifer Senior那篇见解深刻、引人争议的杂志封面故事《我爱我的孩子，我恨我的生活》正在引发大量议论",
+          "说明": "It为形式主语，that引导的从句为真正主语，说明何事不足为奇。"
+        },
+        {
+          "成分类型": "同位语",
+          "原文": "\"I Love My Children, I Hate My Life,\"",
+          "修饰对象": "story",
+          "中文翻译": "《我爱我的孩子，我恨我的生活》",
+          "说明": "引号内为封面故事的标题，作story的同位语，说明其具体内容。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "I Love My Children, I Hate My Life",
+          "修饰对象": "—（标题内部）",
+          "中文翻译": "我爱我的孩子，我恨我的生活",
+          "说明": "标题由两个并列分句构成，形成爱与恨的对照。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that child rearing is anything less than a completely fulfilling, life-enriching experience",
+          "修饰对象": "suggestion",
+          "中文翻译": "养育子女远非一种完全令人满足、丰富人生的体验",
+          "说明": "that引导同位语从句，解释suggestion（暗示）的内容，anything less than意为绝非。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "the suggestion that child rearing is anything less than a completely fulfilling, life-enriching experience",
+          "修饰对象": "like",
+          "中文翻译": "暗示养育子女远非一种完全令人满足、丰富人生的体验",
+          "说明": "破折号后的分句gets people talking like...，此名词短语作like的宾语，与前半句构成对照说明。"
+        }
+      ],
+      "zh": "Jennifer Senior那篇见解深刻、引人争议的杂志封面故事《我爱我的孩子，我恨我的生活》正在引发大量议论，这不足为奇——没有什么比暗示养育子女远非一种完全令人满足、丰富人生的体验更能让人们议论纷纷了。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2011-text4-s2",
+      "s": "Rather than concluding that children make parents either happy or miserable, Senior suggests we need to redefine happiness: instead of thinking of it as something that can be measured by moment-to-moment joy, we should consider being happy as a past-tense condition.",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Senior",
+        "谓语": "suggests",
+        "宾语或表语": "we need to redefine happiness",
+        "主干翻译": "Senior认为我们需要重新定义幸福。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "Rather than concluding that children make parents either happy or miserable",
+          "修饰对象": "suggests",
+          "中文翻译": "Senior没有断言孩子会让父母或快乐或痛苦",
+          "说明": "Rather than引导动名词短语作状语，与主句suggests形成对比，表示并非如此而是另有主张。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that children make parents either happy or miserable",
+          "修饰对象": "concluding",
+          "中文翻译": "孩子会让父母或快乐或痛苦",
+          "说明": "that引导宾语从句，作concluding的宾语；either...or表示二者择一。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "we need to redefine happiness",
+          "修饰对象": "suggests",
+          "中文翻译": "我们需要重新定义幸福",
+          "说明": "省略that的宾语从句，作suggests的宾语，是Senior的主张。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "we should consider being happy as a past-tense condition",
+          "修饰对象": "—",
+          "中文翻译": "我们应当把幸福视为一种过去时态的状态",
+          "说明": "冒号后的分句对前文happiness作进一步阐释，consider...as意为把……看作。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "instead of thinking of it as something that can be measured by moment-to-moment joy",
+          "修饰对象": "consider",
+          "中文翻译": "而不是把它看作某种可以用时时刻刻的快乐来衡量的东西",
+          "说明": "instead of引导动名词短语作状语，与should consider形成对比。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that can be measured by moment-to-moment joy",
+          "修饰对象": "something",
+          "中文翻译": "可以用时时刻刻的快乐来衡量的",
+          "说明": "that引导定语从句，修饰先行词something，被动语态表示被衡量。"
+        }
+      ],
+      "zh": "Senior没有断言孩子会让父母或快乐或痛苦，而是认为我们需要重新定义幸福：我们不应把幸福看作某种可以用时时刻刻的快乐来衡量的东西，而应把幸福视为一种过去时态的状态。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2011-text4-s3",
+      "s": "Even though the day-to-day experience of raising kids can be soul-crushingly hard, Senior writes that \"the very things that in the moment dampen our moods can later be sources of intense gratification and delight.\"",
+      "para_no": 1,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Senior",
+        "谓语": "writes",
+        "宾语或表语": "that...（宾语从句）",
+        "主干翻译": "Senior写道……。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(让步)",
+          "原文": "Even though the day-to-day experience of raising kids can be soul-crushingly hard",
+          "修饰对象": "writes",
+          "中文翻译": "尽管日复一日养育孩子的体验可能艰辛得令人心力交瘁",
+          "说明": "Even though引导让步状语从句，与主句构成转折让步关系。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that \"the very things that in the moment dampen our moods can later be sources of intense gratification and delight.\"",
+          "修饰对象": "writes",
+          "中文翻译": "那些在当下让我们情绪低落的事情，日后却可能成为强烈满足感与喜悦的源泉",
+          "说明": "that引导宾语从句，作writes的宾语，是Senior所写的引文内容。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that in the moment dampen our moods",
+          "修饰对象": "things",
+          "中文翻译": "那些在当下让我们情绪低落的",
+          "说明": "that引导定语从句，修饰先行词things，in the moment作时间状语。"
+        }
+      ],
+      "zh": "尽管日复一日养育孩子的体验可能艰辛得令人心力交瘁，Senior却写道：那些在当下让我们情绪低落的事情，日后却可能成为强烈满足感与喜悦的源泉。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2011-text4-s4",
+      "s": "The magazine cover showing an attractive mother holding a cute baby is hardly the only Madonna-and-child image on newsstands this week.",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The magazine cover",
+        "谓语": "is",
+        "宾语或表语": "hardly the only Madonna-and-child image",
+        "主干翻译": "这期杂志封面绝非唯一的圣母圣婴形象。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "showing an attractive mother holding a cute baby",
+          "修饰对象": "cover",
+          "中文翻译": "展示着一位漂亮母亲抱着一个可爱婴儿的",
+          "说明": "现在分词短语作后置定语，修饰The magazine cover。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "holding a cute baby",
+          "修饰对象": "mother",
+          "中文翻译": "抱着一个可爱婴儿的",
+          "说明": "现在分词短语作后置定语，修饰an attractive mother。"
+        },
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "on newsstands this week",
+          "修饰对象": "image",
+          "中文翻译": "本周报刊亭上的",
+          "说明": "介词短语作后置定语，修饰Madonna-and-child image，限定其出现的范围。"
+        }
+      ],
+      "zh": "这期展示着一位漂亮母亲抱着可爱婴儿的杂志封面，绝非本周报刊亭上唯一的圣母圣婴形象。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2011-text4-s5",
+      "s": "There are also stories about newly adoptive—and newly single—mom Sandra Bullock, as well as the usual \"Jennifer Aniston is pregnant\" news.",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "stories",
+        "谓语": "are",
+        "宾语或表语": "There are also stories（存在句）",
+        "主干翻译": "此外还有一些报道。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "newly adoptive—and newly single—mom Sandra Bullock",
+          "修饰对象": "about",
+          "中文翻译": "新近收养孩子且新近单身的母亲Sandra Bullock",
+          "说明": "newly adoptive与newly single由and并列，共同修饰mom Sandra Bullock。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "as well as the usual \"Jennifer Aniston is pregnant\" news",
+          "修饰对象": "stories",
+          "中文翻译": "以及那条惯常的\"Jennifer Aniston怀孕了\"的新闻",
+          "说明": "as well as连接两个并列的报道内容，与前面about的对象并列。"
+        }
+      ],
+      "zh": "此外还有关于新近收养孩子且新近单身的母亲Sandra Bullock的报道，以及那条惯常的\"Jennifer Aniston怀孕了\"的新闻。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2011-text4-s6",
+      "s": "Practically every week features at least one celebrity mom, or mom-to-be, smiling on the newsstands.",
+      "para_no": 2,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "every week",
+        "谓语": "features",
+        "宾语或表语": "at least one celebrity mom",
+        "主干翻译": "几乎每一周都会刊登至少一位名人妈妈。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "or mom-to-be",
+          "修饰对象": "mom",
+          "中文翻译": "或准妈妈",
+          "说明": "or连接mom与mom-to-be，构成并列，补充另一类对象。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "smiling on the newsstands",
+          "修饰对象": "mom",
+          "中文翻译": "在报刊亭上微笑的",
+          "说明": "现在分词短语作后置定语，修饰celebrity mom, or mom-to-be。"
+        }
+      ],
+      "zh": "几乎每一周都会刊登至少一位在报刊亭上微笑的名人妈妈或准妈妈。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2011-text4-s7",
+      "s": "In a society that so persistently celebrates procreation, is it any wonder that admitting you regret having children is equivalent to admitting you support kitten-killing?",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "it",
+        "谓语": "is",
+        "宾语或表语": "any wonder",
+        "主干翻译": "这有什么奇怪的吗？"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "that so persistently celebrates procreation",
+          "修饰对象": "society",
+          "中文翻译": "如此执着地推崇生育的",
+          "说明": "that引导定语从句，修饰先行词society。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "In a society that so persistently celebrates procreation",
+          "修饰对象": "is",
+          "中文翻译": "在一个如此执着地推崇生育的社会里",
+          "说明": "介词短语作状语，置于句首交代背景。"
+        },
+        {
+          "成分类型": "主语从句",
+          "原文": "that admitting you regret having children is equivalent to admitting you support kitten-killing",
+          "修饰对象": "it（形式主语）",
+          "中文翻译": "承认你后悔生孩子无异于承认你支持虐杀小猫",
+          "说明": "it为形式主语，that引导的从句为真正主语。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "you regret having children",
+          "修饰对象": "admitting",
+          "中文翻译": "你后悔生孩子",
+          "说明": "省略that的宾语从句，作动名词admitting的宾语。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "you support kitten-killing",
+          "修饰对象": "admitting",
+          "中文翻译": "你支持虐杀小猫",
+          "说明": "省略that的宾语从句，作第二个admitting的宾语。"
+        }
+      ],
+      "zh": "在一个如此执着地推崇生育的社会里，承认你后悔生孩子无异于承认你支持虐杀小猫，这又有什么奇怪的呢？",
+      "underline": null
+    },
+    {
+      "sid": "en1-2011-text4-s8",
+      "s": "It doesn't seem quite fair, then, to compare the regrets of parents to the regrets of the childless.",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "It",
+        "谓语": "doesn't seem",
+        "宾语或表语": "quite fair",
+        "主干翻译": "这似乎不太公平。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to compare the regrets of parents to the regrets of the childless",
+          "修饰对象": "It（形式主语）",
+          "中文翻译": "把为人父母者的悔恨与无子女者的悔恨相比较",
+          "说明": "It为形式主语，不定式短语为真正主语，compare...to意为把……与……相比。"
+        }
+      ],
+      "zh": "那么，把为人父母者的悔恨与无子女者的悔恨相比较，这似乎不太公平。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2011-text4-s9",
+      "s": "Unhappy parents rarely are provoked to wonder if they shouldn't have had kids, but unhappy childless folks are bothered with the message that children are the single most important thing in the world: obviously their misery must be a direct result of the gaping baby-size holes in their lives.",
+      "para_no": 3,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Unhappy parents",
+        "谓语": "are provoked",
+        "宾语或表语": "rarely are provoked to wonder...",
+        "主干翻译": "不幸福的父母很少会被促使去思考。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to wonder if they shouldn't have had kids",
+          "修饰对象": "provoked",
+          "中文翻译": "去思考自己是不是不该要孩子",
+          "说明": "不定式短语作结果/目的状语，承接are provoked。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "if they shouldn't have had kids",
+          "修饰对象": "wonder",
+          "中文翻译": "他们是不是不该要孩子",
+          "说明": "if引导宾语从句，作wonder的宾语，表示是否；shouldn't have had为虚拟语气，表对过去的怀疑。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "but unhappy childless folks are bothered with the message that children are the single most important thing in the world",
+          "修饰对象": "—（与前一分句并列）",
+          "中文翻译": "但不幸福的无子女者却被这样一种信息所困扰：孩子是世上唯一最重要的事物",
+          "说明": "but连接两个并列分句，形成对比；be bothered with意为被……困扰。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that children are the single most important thing in the world",
+          "修饰对象": "message",
+          "中文翻译": "孩子是世上唯一最重要的事物",
+          "说明": "that引导同位语从句，解释message的内容。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "obviously their misery must be a direct result of the gaping baby-size holes in their lives",
+          "修饰对象": "—",
+          "中文翻译": "显然，他们的痛苦必定是生活中那个婴儿大小的巨大空洞造成的直接结果",
+          "说明": "冒号后的分句对前文message作具体阐释，obviously带有讽刺意味。"
+        }
+      ],
+      "zh": "不幸福的父母很少会被促使去思考自己是不是不该要孩子，但不幸福的无子女者却被这样一种信息所困扰：孩子是世上唯一最重要的事物——显然，他们的痛苦必定是其生活中那个婴儿大小的巨大空洞造成的直接结果。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2011-text4-s10",
+      "s": "Of course, the image of parenthood that celebrity magazines like Us Weekly and People present is hugely unrealistic, especially when the parents are single mothers like Bullock.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "the image of parenthood",
+        "谓语": "is",
+        "宾语或表语": "hugely unrealistic",
+        "主干翻译": "为人父母的形象极不真实。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "that celebrity magazines like Us Weekly and People present",
+          "修饰对象": "image",
+          "中文翻译": "《Us Weekly》和《People》这类名人杂志所呈现的",
+          "说明": "that引导定语从句，作present的宾语，修饰先行词image。"
+        },
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "especially when the parents are single mothers like Bullock",
+          "修饰对象": "is",
+          "中文翻译": "尤其是当父母是像Bullock那样的单身母亲时",
+          "说明": "when引导时间状语从句，especially加以强调，说明在何种情形下尤其不真实。"
+        }
+      ],
+      "zh": "当然，《Us Weekly》和《People》这类名人杂志所呈现的为人父母的形象极不真实，尤其是当那些父母是像Bullock那样的单身母亲时。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2011-text4-s11",
+      "s": "According to several studies concluding that parents are less happy than childless couples, single parents are the least happy of all.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "single parents",
+        "谓语": "are",
+        "宾语或表语": "the least happy of all",
+        "主干翻译": "单身父母是所有人中最不幸福的。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "concluding that parents are less happy than childless couples",
+          "修饰对象": "studies",
+          "中文翻译": "得出父母不如无子女夫妇幸福这一结论的",
+          "说明": "现在分词短语作后置定语，修饰several studies。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "According to several studies concluding that parents are less happy than childless couples",
+          "修饰对象": "are",
+          "中文翻译": "根据若干项研究",
+          "说明": "According to引导介词短语作状语，交代信息来源。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that parents are less happy than childless couples",
+          "修饰对象": "concluding",
+          "中文翻译": "父母不如无子女夫妇幸福",
+          "说明": "that引导宾语从句，作concluding的宾语，含than引导的比较。"
+        }
+      ],
+      "zh": "根据若干项得出\"父母不如无子女夫妇幸福\"这一结论的研究，单身父母是所有人中最不幸福的。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2011-text4-s12",
+      "s": "No shock there, considering how much work it is to raise a kid without a partner to lean on; yet to hear Sandra and Britney tell it, raising a kid on their \"own\" (read: with round-the-clock help) is a piece of cake.",
+      "para_no": 4,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "raising a kid on their \"own\"",
+        "谓语": "is",
+        "宾语或表语": "a piece of cake",
+        "主干翻译": "独自养孩子是件轻而易举的事。"
+      },
+      "components": [
+        {
+          "成分类型": "省略",
+          "原文": "No shock there",
+          "修饰对象": "—",
+          "中文翻译": "这并不令人意外",
+          "说明": "省略句，相当于There is no shock there，作前半句独立分句。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "considering how much work it is to raise a kid without a partner to lean on",
+          "修饰对象": "shock",
+          "中文翻译": "考虑到没有可依靠的伴侣而独自养孩子要付出多少辛劳",
+          "说明": "considering引导动名词短语作状语，表示原因或前提。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "how much work it is to raise a kid without a partner to lean on",
+          "修饰对象": "considering",
+          "中文翻译": "独自养孩子要付出多少辛劳",
+          "说明": "how引导宾语从句，作considering的宾语；it为形式主语，不定式为真正主语。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "to lean on",
+          "修饰对象": "partner",
+          "中文翻译": "可供依靠的",
+          "说明": "不定式作后置定语，修饰partner，相当于a partner that one can lean on。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to hear Sandra and Britney tell it",
+          "修饰对象": "is",
+          "中文翻译": "听Sandra和Britney的说法",
+          "说明": "不定式短语作状语，相当于if you hear them tell it，表条件。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "Sandra and Britney tell it",
+          "修饰对象": "hear",
+          "中文翻译": "Sandra和Britney讲述此事",
+          "说明": "省略that，作hear的宾语，构成hear sb. do的结构。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "read: with round-the-clock help",
+          "修饰对象": "own",
+          "中文翻译": "意即：有全天候的帮手",
+          "说明": "插入成分，对引号内的\"own\"进行讽刺性注解。"
+        }
+      ],
+      "zh": "这并不令人意外，毕竟没有可依靠的伴侣而独自养孩子要付出多少辛劳；然而听Sandra和Britney的说法，靠自己（意即：有全天候的帮手）养孩子简直是小菜一碟。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2011-text4-s13",
+      "s": "It's hard to imagine that many people are dumb enough to want children just because Reese and Angelina make it look so glamorous: most adults understand that a baby is not a haircut.",
+      "para_no": 5,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "It",
+        "谓语": "is",
+        "宾语或表语": "hard",
+        "主干翻译": "这很难。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to imagine that many people are dumb enough to want children just because Reese and Angelina make it look so glamorous",
+          "修饰对象": "It（形式主语）",
+          "中文翻译": "想象有很多人会蠢到仅仅因为Reese和Angelina把生孩子弄得看起来如此光鲜就想要孩子",
+          "说明": "It为形式主语，不定式短语为真正主语。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that many people are dumb enough to want children just because Reese and Angelina make it look so glamorous",
+          "修饰对象": "imagine",
+          "中文翻译": "有很多人会蠢到仅仅因为Reese和Angelina把生孩子弄得看起来如此光鲜就想要孩子",
+          "说明": "that引导宾语从句，作imagine的宾语。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to want children",
+          "修饰对象": "dumb",
+          "中文翻译": "想要孩子",
+          "说明": "不定式作结果状语，与dumb enough构成enough to do结构，表示蠢到某种程度而……。"
+        },
+        {
+          "成分类型": "状语从句(原因)",
+          "原文": "just because Reese and Angelina make it look so glamorous",
+          "修饰对象": "want",
+          "中文翻译": "仅仅因为Reese和Angelina把它弄得看起来如此光鲜",
+          "说明": "because引导原因状语从句，just加以限定，表示仅凭这一原因。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "it look so glamorous",
+          "修饰对象": "make",
+          "中文翻译": "它看起来如此光鲜",
+          "说明": "作make的宾语，构成make sth. do的结构，it指代生养孩子这件事。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that a baby is not a haircut",
+          "修饰对象": "understand",
+          "中文翻译": "婴儿不是一款发型",
+          "说明": "冒号后分句的that引导宾语从句，作understand的宾语。"
+        }
+      ],
+      "zh": "很难想象会有很多人蠢到仅仅因为Reese和Angelina把生孩子弄得看起来如此光鲜就想要孩子：大多数成年人都明白，养个孩子可不是换个发型那么简单。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2011-text4-s14",
+      "s": "But it's interesting to wonder if the images we see every week of stress-free, happiness-enhancing parenthood aren't in some small, subconscious way contributing to our own dissatisfactions with the actual experience, in the same way that a small part of us hoped getting \"the Rachel\" might make us look just a little bit like Jennifer Aniston.",
+      "para_no": 5,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "it",
+        "谓语": "is",
+        "宾语或表语": "interesting",
+        "主干翻译": "这很有意思。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to wonder if the images we see every week of stress-free, happiness-enhancing parenthood aren't in some small, subconscious way contributing to our own dissatisfactions with the actual experience, in the same way that a small part of us hoped getting \"the Rachel\" might make us look just a little bit like Jennifer Aniston",
+          "修饰对象": "it（形式主语）",
+          "中文翻译": "思考我们每周所看到的那些无忧无虑、提升幸福感的为人父母形象，是否正以某种微小而潜意识的方式加剧着我们对真实育儿体验的不满",
+          "说明": "it为形式主语，不定式短语为真正主语。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "if the images we see every week of stress-free, happiness-enhancing parenthood aren't in some small, subconscious way contributing to our own dissatisfactions with the actual experience, in the same way that a small part of us hoped getting \"the Rachel\" might make us look just a little bit like Jennifer Aniston",
+          "修饰对象": "wonder",
+          "中文翻译": "我们每周所看到的那些无忧无虑、提升幸福感的为人父母形象，是否正以某种微小而潜意识的方式加剧着我们对真实育儿体验的不满",
+          "说明": "if引导宾语从句，作wonder的宾语，表示是否。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "we see every week of stress-free, happiness-enhancing parenthood",
+          "修饰对象": "images",
+          "中文翻译": "我们每周所看到的那些无忧无虑、提升幸福感的为人父母的",
+          "说明": "省略关系词的定语从句，修饰先行词the images，of短语说明images的内容。"
+        },
+        {
+          "成分类型": "状语从句(比较)",
+          "原文": "in the same way that a small part of us hoped getting \"the Rachel\" might make us look just a little bit like Jennifer Aniston",
+          "修饰对象": "contributing",
+          "中文翻译": "就如同我们内心深处曾有一小部分希望剪个\"Rachel发型\"能让自己看上去稍稍有点像Jennifer Aniston一样",
+          "说明": "in the same way that引导方式比较状语，将前述心理与剪发型的心理类比。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "getting \"the Rachel\" might make us look just a little bit like Jennifer Aniston",
+          "修饰对象": "hoped",
+          "中文翻译": "剪个\"Rachel发型\"或许能让我们看上去稍稍有点像Jennifer Aniston",
+          "说明": "省略that，作hoped的宾语。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "us look just a little bit like Jennifer Aniston",
+          "修饰对象": "make",
+          "中文翻译": "我们看上去稍稍有点像Jennifer Aniston",
+          "说明": "作make的宾语，构成make sb. do的结构。"
+        }
+      ],
+      "zh": "但有意思的是，我们不妨思考一下：我们每周所看到的那些无忧无虑、提升幸福感的为人父母形象，是否正以某种微小而潜意识的方式加剧着我们对真实育儿体验的不满——就如同我们内心深处曾有一小部分希望剪个\"Rachel发型\"能让自己看上去稍稍有点像Jennifer Aniston一样。",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2011-text4-s1",
+        "en1-2011-text4-s2",
+        "en1-2011-text4-s3"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2011-text4-s4",
+        "en1-2011-text4-s5",
+        "en1-2011-text4-s6"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2011-text4-s7",
+        "en1-2011-text4-s8",
+        "en1-2011-text4-s9"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2011-text4-s10",
+        "en1-2011-text4-s11",
+        "en1-2011-text4-s12"
+      ]
+    },
+    {
+      "para_no": 5,
+      "sids": [
+        "en1-2011-text4-s13",
+        "en1-2011-text4-s14"
+      ]
+    }
+  ]
+}

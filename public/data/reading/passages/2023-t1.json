@@ -1,0 +1,638 @@
+{
+  "exam": "en1",
+  "key": "2023-t1",
+  "year": 2023,
+  "text_no": 1,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2023-text1-s1",
+      "s": "The weather in Texas may have cooled since the recent extreme heat, but the temperature will be high at the State Board of Education meeting in Austin this month as officials debate how climate change is taught in Texas schools.",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The weather / the temperature",
+        "谓语": "may have cooled / will be",
+        "宾语或表语": "high",
+        "主干翻译": "德州天气或许已经转凉，但（会议上的）气氛将会十分火爆。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "but the temperature will be high at the State Board of Education meeting in Austin this month as officials debate how climate change is taught in Texas schools",
+          "修饰对象": "—",
+          "中文翻译": "但本月在奥斯汀举行的州教育委员会会议上气氛将会十分火爆，因为官员们要就德州学校如何讲授气候变化展开辩论",
+          "说明": "but 连接两个并列分句，与前半句 The weather...may have cooled 构成转折并列。"
+        },
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "as officials debate how climate change is taught in Texas schools",
+          "修饰对象": "will be",
+          "中文翻译": "当官员们辩论德州学校如何讲授气候变化时",
+          "说明": "as 引导时间状语从句，表示\"当……之时\"，挂靠于第二分句谓语 be。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "how climate change is taught in Texas schools",
+          "修饰对象": "debate",
+          "中文翻译": "气候变化在德州学校里是如何被讲授的",
+          "说明": "how 引导的宾语从句，作 debate 的宾语，内部为被动语态。"
+        }
+      ],
+      "zh": "自近期极端高温以来，德州的天气或许已经凉爽下来，但本月在奥斯汀举行的州教育委员会会议上气氛将会十分火爆，因为官员们要就气候变化在德州学校中如何讲授展开辩论。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2023-text1-s2",
+      "s": "Pat Hardy, who sympathises with the views of the energy sector, is resisting proposed changes to science standards for pre-teen pupils.",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Pat Hardy",
+        "谓语": "is resisting",
+        "宾语或表语": "proposed changes",
+        "主干翻译": "帕特·哈迪正在抵制所提议的改动。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "who sympathises with the views of the energy sector",
+          "修饰对象": "Hardy",
+          "中文翻译": "她认同能源行业的观点",
+          "说明": "who 引导非限制性定语从句，修饰先行词 Pat Hardy。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "proposed",
+          "修饰对象": "changes",
+          "中文翻译": "所提议的",
+          "说明": "过去分词 proposed 作定语，修饰 changes。"
+        },
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "to science standards for pre-teen pupils",
+          "修饰对象": "changes",
+          "中文翻译": "对面向青春期前学生的科学课程标准（的改动）",
+          "说明": "to... 介词短语作定语修饰 changes，其中 for pre-teen pupils 修饰 standards。"
+        }
+      ],
+      "zh": "帕特·哈迪认同能源行业的观点，她正在抵制对面向青春期前学生的科学课程标准所提出的改动。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2023-text1-s3",
+      "s": "\"There are as many scientists working against all the panic of global climate change as there are those who are pushing it,\" she claims.",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "she / There",
+        "谓语": "claims / are",
+        "宾语或表语": "as many scientists",
+        "主干翻译": "她声称有同样多的科学家。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "There are as many scientists working against all the panic of global climate change as there are those who are pushing it",
+          "修饰对象": "claims",
+          "中文翻译": "反对全球气候变化所有恐慌的科学家，与推动这种恐慌的人一样多",
+          "说明": "she claims 后的整段直接引语作 claims 的宾语从句（省略引导词 that）。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "working against all the panic of global climate change",
+          "修饰对象": "scientists",
+          "中文翻译": "反对全球气候变化所有恐慌的",
+          "说明": "现在分词短语作后置定语，修饰 scientists。"
+        },
+        {
+          "成分类型": "状语从句(比较)",
+          "原文": "as there are those who are pushing it",
+          "修饰对象": "scientists",
+          "中文翻译": "正如有那些推动它的人一样",
+          "说明": "as...as 比较结构，第二个 as 引导比较状语从句，与 as many 呼应。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "who are pushing it",
+          "修饰对象": "those",
+          "中文翻译": "推动它（气候变化恐慌）的",
+          "说明": "who 引导定语从句，修饰先行词 those。"
+        }
+      ],
+      "zh": "她声称：\"反对全球气候变化种种恐慌的科学家，和推波助澜的人一样多。\"",
+      "underline": null
+    },
+    {
+      "sid": "en1-2023-text1-s4",
+      "s": "\"Texas is an energy state and we need to recognise that.",
+      "para_no": 2,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Texas / we",
+        "谓语": "is / need",
+        "宾语或表语": "an energy state / to recognise that",
+        "主干翻译": "德州是一个能源之州，我们需要认识到这一点。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "and we need to recognise that",
+          "修饰对象": "—",
+          "中文翻译": "而且我们需要认识到这一点",
+          "说明": "and 连接两个并列分句 Texas is an energy state 与 we need to recognise that。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to recognise that",
+          "修饰对象": "need",
+          "中文翻译": "去认识到这一点",
+          "说明": "动词不定式 to recognise that 作 need 的宾语（非谓语补足成分）。"
+        }
+      ],
+      "zh": "\"德州是一个能源之州，我们需要认清这一点。\"",
+      "underline": null
+    },
+    {
+      "sid": "en1-2023-text1-s5",
+      "s": "You need to remember where your bread is buttered.\"",
+      "para_no": 2,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "You",
+        "谓语": "need",
+        "宾语或表语": "to remember",
+        "主干翻译": "你需要记住。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to remember where your bread is buttered",
+          "修饰对象": "need",
+          "中文翻译": "记住你的面包是哪一面抹了黄油（即利益所在）",
+          "说明": "动词不定式作 need 的宾语（非谓语补足成分）。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "where your bread is buttered",
+          "修饰对象": "remember",
+          "中文翻译": "你的利益所在（直译：你的面包哪一面抹了黄油）",
+          "说明": "where 引导宾语从句，作 remember 的宾语；是英语习语，意为认清自身利益所在。"
+        }
+      ],
+      "zh": "\"你得记住自己的利益在哪一边。\"",
+      "underline": null
+    },
+    {
+      "sid": "en1-2023-text1-s6",
+      "s": "Most scientists and experts sharply dispute Hardy's views.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Most scientists and experts",
+        "谓语": "dispute",
+        "宾语或表语": "Hardy's views",
+        "主干翻译": "大多数科学家和专家激烈反驳哈迪的观点。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "scientists and experts",
+          "修饰对象": "—",
+          "中文翻译": "科学家和专家",
+          "说明": "and 连接两个并列的主语名词 scientists 与 experts。"
+        }
+      ],
+      "zh": "大多数科学家和专家都对哈迪的观点提出了尖锐的反驳。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2023-text1-s7",
+      "s": "Board members like her “casually dismiss the career work of scholars and scientists as just another misguided opinion,” says Dan Quinn, senior communications strategist at the Texas Freedom Network, a non-profit group that monitors public education.",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Dan Quinn",
+        "谓语": "says",
+        "宾语或表语": "（前置引语）",
+        "主干翻译": "丹·奎因说。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "Board members like her “casually dismiss the career work of scholars and scientists as just another misguided opinion",
+          "修饰对象": "says",
+          "中文翻译": "像她这样的委员会成员\"轻率地将学者和科学家的职业研究成果斥为又一种被误导的观点\"",
+          "说明": "前置的直接引语作 says 的宾语从句。"
+        },
+        {
+          "成分类型": "同位语",
+          "原文": "senior communications strategist at the Texas Freedom Network",
+          "修饰对象": "Quinn",
+          "中文翻译": "德州自由网络的高级传播策略师",
+          "说明": "名词短语作 Dan Quinn 的同位语，说明其身份。"
+        },
+        {
+          "成分类型": "同位语",
+          "原文": "a non-profit group that monitors public education",
+          "修饰对象": "Network",
+          "中文翻译": "一个监督公共教育的非营利组织",
+          "说明": "名词短语作 the Texas Freedom Network 的同位语。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that monitors public education",
+          "修饰对象": "group",
+          "中文翻译": "监督公共教育的",
+          "说明": "that 引导定语从句，修饰先行词 group。"
+        }
+      ],
+      "zh": "\"像她这样的委员会成员'随随便便就把学者和科学家毕生的研究斥为又一种被误导的观点'，\"德州自由网络（一个监督公共教育的非营利组织）的高级传播策略师丹·奎因说道。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2023-text1-s8",
+      "s": "Such debates reflect fierce discussions across the US, as researchers, policymakers, teachers and students step up demands for a greater focus on teaching about the facts of climate change in schools.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Such debates",
+        "谓语": "reflect",
+        "宾语或表语": "fierce discussions",
+        "主干翻译": "这类辩论反映出激烈的讨论。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "researchers, policymakers, teachers and students",
+          "修饰对象": "—",
+          "中文翻译": "研究人员、政策制定者、教师和学生",
+          "说明": "四个名词并列，共同作状语从句的主语。"
+        },
+        {
+          "成分类型": "状语从句(原因)",
+          "原文": "as researchers, policymakers, teachers and students step up demands for a greater focus on teaching about the facts of climate change in schools",
+          "修饰对象": "reflect",
+          "中文翻译": "因为研究人员、政策制定者、教师和学生纷纷要求更加重视在学校中讲授气候变化的事实",
+          "说明": "as 引导原因状语从句，说明这些辩论产生的背景原因。"
+        }
+      ],
+      "zh": "随着研究人员、政策制定者、教师和学生纷纷强烈要求在学校中更加重视讲授气候变化的事实，这类辩论反映出全美范围内的激烈讨论。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2023-text1-s9",
+      "s": "A study last year by the National Center for Science Education, a non-profit group of scientists and teachers, looking at how state public schools across the country address climate change in science classes, gave barely half of US states a grade B+ or higher.",
+      "para_no": 5,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "A study",
+        "谓语": "gave",
+        "宾语或表语": "barely half of US states a grade B+ or higher",
+        "主干翻译": "一项研究给予了仅约半数的美国各州 B+ 或更高的评级。"
+      },
+      "components": [
+        {
+          "成分类型": "同位语",
+          "原文": "a non-profit group of scientists and teachers",
+          "修饰对象": "Center",
+          "中文翻译": "一个由科学家和教师组成的非营利组织",
+          "说明": "名词短语作 the National Center for Science Education 的同位语。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "looking at how state public schools across the country address climate change in science classes",
+          "修饰对象": "study",
+          "中文翻译": "考察了全国各州公立学校如何在科学课上讲授气候变化的",
+          "说明": "现在分词短语作后置定语修饰 study；内含 how 引导的宾语从句作 looking at 的宾语。"
+        },
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "by the National Center for Science Education",
+          "修饰对象": "study",
+          "中文翻译": "由国家科学教育中心进行的",
+          "说明": "by 介词短语作定语，说明 study 的实施主体。"
+        }
+      ],
+      "zh": "去年由国家科学教育中心（一个由科学家和教师组成的非营利组织）开展的一项研究，考察了全国各州公立学校如何在科学课上讲授气候变化，结果仅有约半数美国各州获得了 B+ 或更高的评级。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2023-text1-s10",
+      "s": "Among the 10 worst performers were some of the most populous states, including Texas, which was given the lowest grade (F) and has a disproportionate influence because its textbooks are widely sold elsewhere.",
+      "para_no": 5,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "some of the most populous states",
+        "谓语": "were",
+        "宾语或表语": "Among the 10 worst performers（表语前置，倒装）",
+        "主干翻译": "一些人口最多的州位列表现最差的十个州之中。"
+      },
+      "components": [
+        {
+          "成分类型": "倒装",
+          "原文": "Among the 10 worst performers were some of the most populous states",
+          "修饰对象": "—",
+          "中文翻译": "表现最差的十个州中包括一些人口最多的州",
+          "说明": "介词短语 Among... 置于句首引起完全倒装，谓语 were 提到主语 some of...states 之前。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "which was given the lowest grade (F) and has a disproportionate influence because its textbooks are widely sold elsewhere",
+          "修饰对象": "Texas",
+          "中文翻译": "该州被评为最低等级（F），且因其教科书被广泛销往别处而具有不成比例的影响力",
+          "说明": "which 引导非限制性定语从句，修饰先行词 Texas。"
+        },
+        {
+          "成分类型": "同位语",
+          "原文": "(F)",
+          "修饰对象": "grade",
+          "中文翻译": "（F 级）",
+          "说明": "(F) 作 the lowest grade 的同位语，具体说明该等级。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "and has a disproportionate influence because its textbooks are widely sold elsewhere",
+          "修饰对象": "—",
+          "中文翻译": "并且具有不成比例的影响力，因为其教科书被广泛销往别处",
+          "说明": "and 连接定语从句内的两个并列谓语 was given... 与 has...。"
+        },
+        {
+          "成分类型": "状语从句(原因)",
+          "原文": "because its textbooks are widely sold elsewhere",
+          "修饰对象": "has",
+          "中文翻译": "因为它的教科书被广泛销往其他地方",
+          "说明": "because 引导原因状语从句，修饰谓语 has。"
+        }
+      ],
+      "zh": "在表现最差的十个州中，有一些是人口最多的州，包括德州——它被评为最低等级（F），而且由于其教科书被广泛销往其他地区，因而具有不成比例的影响力。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2023-text1-s11",
+      "s": "Glenn Branch, the centre's deputy director, cautions that setting state-level science standards is only one limited benchmark in a country that decentralises decisions to local school boards.",
+      "para_no": 6,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Glenn Branch",
+        "谓语": "cautions",
+        "宾语或表语": "（宾语从句）",
+        "主干翻译": "格伦·布兰奇告诫说。"
+      },
+      "components": [
+        {
+          "成分类型": "同位语",
+          "原文": "the centre's deputy director",
+          "修饰对象": "Branch",
+          "中文翻译": "该中心的副主任",
+          "说明": "名词短语作 Glenn Branch 的同位语，说明其身份。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that setting state-level science standards is only one limited benchmark in a country that decentralises decisions to local school boards",
+          "修饰对象": "cautions",
+          "中文翻译": "在一个把决策权下放给地方学校董事会的国家里，制定州一级的科学课程标准只是一个有限的衡量标准",
+          "说明": "that 引导宾语从句，作 cautions 的宾语；从句主语为动名词短语 setting...standards。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that decentralises decisions to local school boards",
+          "修饰对象": "country",
+          "中文翻译": "把决策权下放给地方学校董事会的",
+          "说明": "that 引导定语从句，修饰先行词 country。"
+        }
+      ],
+      "zh": "该中心副主任格伦·布兰奇告诫说，在一个将决策权下放给地方学校董事会的国家里，制定州一级的科学课程标准只不过是一个有限的衡量指标而已。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2023-text1-s12",
+      "s": "Even if a state is considered a high performer in its science standards, \"that does not mean it will be taught\", he says.",
+      "para_no": 6,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "he / that",
+        "谓语": "says / does not mean",
+        "宾语或表语": "（宾语从句）",
+        "主干翻译": "他说，那并不意味着（它会被讲授）。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(让步)",
+          "原文": "Even if a state is considered a high performer in its science standards",
+          "修饰对象": "mean",
+          "中文翻译": "即使某个州在其科学课程标准方面被视为表现优异",
+          "说明": "Even if 引导让步状语从句，修饰主句谓语 does not mean。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "Even if a state is considered a high performer in its science standards, \"that does not mean it will be taught\"",
+          "修饰对象": "says",
+          "中文翻译": "即使某州在科学标准上表现优异，\"那也并不意味着它会被实际讲授\"",
+          "说明": "前置的整段引语作 says 的宾语从句。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "it will be taught",
+          "修饰对象": "mean",
+          "中文翻译": "它（气候变化内容）会被讲授",
+          "说明": "省略引导词 that 的宾语从句，作 mean 的宾语。"
+        }
+      ],
+      "zh": "他说：\"即便某个州在科学课程标准上被视为表现优异，那也并不意味着这些内容就会真的被讲授。\"",
+      "underline": null
+    },
+    {
+      "sid": "en1-2023-text1-s13",
+      "s": "Another issue is that, while climate change is well integrated into some subjects and at some ages — such as earth and space sciences in high schools — it is not as well represented in curricula for younger children and in subjects that are more widely taught, such as biology and chemistry.",
+      "para_no": 7,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Another issue",
+        "谓语": "is",
+        "宾语或表语": "（表语从句）",
+        "主干翻译": "另一个问题在于（气候变化未被充分体现）。"
+      },
+      "components": [
+        {
+          "成分类型": "表语从句",
+          "原文": "that, while climate change is well integrated into some subjects and at some ages — such as earth and space sciences in high schools — it is not as well represented in curricula for younger children and in subjects that are more widely taught, such as biology and chemistry",
+          "修饰对象": "is",
+          "中文翻译": "尽管气候变化在某些学科和某些年龄段被很好地融入，但在面向低龄儿童的课程以及更广泛讲授的学科中却没有得到同样充分的体现",
+          "说明": "that 引导表语从句，作系动词 is 的表语。"
+        },
+        {
+          "成分类型": "状语从句(让步)",
+          "原文": "while climate change is well integrated into some subjects and at some ages — such as earth and space sciences in high schools",
+          "修饰对象": "represented",
+          "中文翻译": "尽管气候变化被很好地融入了某些学科和某些年龄段——比如高中的地球与太空科学",
+          "说明": "while 在此引导让步状语从句，表\"尽管\"，与后文 it is not as well represented 形成对比。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "into some subjects and at some ages",
+          "修饰对象": "integrated",
+          "中文翻译": "融入某些学科以及某些年龄段",
+          "说明": "and 连接两个并列介词短语 into some subjects 与 at some ages，作 integrated 的状语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "in curricula for younger children and in subjects that are more widely taught",
+          "修饰对象": "represented",
+          "中文翻译": "在面向低龄儿童的课程中以及在更广泛讲授的学科中",
+          "说明": "and 连接两个并列介词短语，作 is not as well represented 的状语。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that are more widely taught",
+          "修饰对象": "subjects",
+          "中文翻译": "更广泛地被讲授的",
+          "说明": "that 引导定语从句，修饰先行词 subjects。"
+        }
+      ],
+      "zh": "另一个问题在于：尽管气候变化在某些学科和某些年龄段被很好地纳入了教学——例如高中的地球与太空科学——但在面向低龄儿童的课程中、以及在生物、化学等讲授更为普遍的学科中，它却没有得到同样充分的体现。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2023-text1-s14",
+      "s": "It is also less prominent in many social studies courses.",
+      "para_no": 7,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "It",
+        "谓语": "is",
+        "宾语或表语": "less prominent",
+        "主干翻译": "它也不那么突出。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "in many social studies courses",
+          "修饰对象": "prominent",
+          "中文翻译": "在许多社会研究课程中",
+          "说明": "介词短语作状语，说明 less prominent 的范围。"
+        }
+      ],
+      "zh": "在许多社会研究课程中，气候变化的内容也不那么突出。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2023-text1-s15",
+      "s": "Branch points out that, even if a growing number of official guidelines and textbooks reflect scientific consensus on climate change, unofficial educational materials that convey more slanted perspectives are being distributed to teachers.",
+      "para_no": 8,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Branch",
+        "谓语": "points out",
+        "宾语或表语": "（宾语从句）",
+        "主干翻译": "布兰奇指出（带有偏见的非官方材料正被分发给教师）。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "that, even if a growing number of official guidelines and textbooks reflect scientific consensus on climate change, unofficial educational materials that convey more slanted perspectives are being distributed to teachers",
+          "修饰对象": "points",
+          "中文翻译": "尽管越来越多的官方指南和教科书反映了关于气候变化的科学共识，但传递更偏颇观点的非官方教育材料正被分发给教师",
+          "说明": "that 引导宾语从句，作 points out 的宾语。"
+        },
+        {
+          "成分类型": "状语从句(让步)",
+          "原文": "even if a growing number of official guidelines and textbooks reflect scientific consensus on climate change",
+          "修饰对象": "distributed",
+          "中文翻译": "即使越来越多的官方指南和教科书反映了关于气候变化的科学共识",
+          "说明": "even if 引导让步状语从句，修饰宾语从句的谓语 are being distributed。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that convey more slanted perspectives",
+          "修饰对象": "materials",
+          "中文翻译": "传递更偏颇观点的",
+          "说明": "that 引导定语从句，修饰先行词 unofficial educational materials。"
+        }
+      ],
+      "zh": "布兰奇指出，尽管越来越多的官方指南和教科书反映了关于气候变化的科学共识，但传递更具偏向性观点的非官方教育材料正被分发给教师。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2023-text1-s16",
+      "s": "They include materials sponsored by energy industry associations.",
+      "para_no": 8,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "They",
+        "谓语": "include",
+        "宾语或表语": "materials",
+        "主干翻译": "它们包括一些材料。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "sponsored by energy industry associations",
+          "修饰对象": "materials",
+          "中文翻译": "由能源行业协会资助的",
+          "说明": "过去分词短语作后置定语，修饰 materials。"
+        }
+      ],
+      "zh": "这些材料包括由能源行业协会赞助的资料。",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2023-text1-s1"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2023-text1-s2",
+        "en1-2023-text1-s3",
+        "en1-2023-text1-s4",
+        "en1-2023-text1-s5"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2023-text1-s6",
+        "en1-2023-text1-s7"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2023-text1-s8"
+      ]
+    },
+    {
+      "para_no": 5,
+      "sids": [
+        "en1-2023-text1-s9",
+        "en1-2023-text1-s10"
+      ]
+    },
+    {
+      "para_no": 6,
+      "sids": [
+        "en1-2023-text1-s11",
+        "en1-2023-text1-s12"
+      ]
+    },
+    {
+      "para_no": 7,
+      "sids": [
+        "en1-2023-text1-s13",
+        "en1-2023-text1-s14"
+      ]
+    },
+    {
+      "para_no": 8,
+      "sids": [
+        "en1-2023-text1-s15",
+        "en1-2023-text1-s16"
+      ]
+    }
+  ]
+}

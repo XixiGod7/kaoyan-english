@@ -1,0 +1,875 @@
+{
+  "exam": "en1",
+  "key": "2004-t1",
+  "year": 2004,
+  "text_no": 1,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2004-text1-s1",
+      "s": "Hunting for a job late last year, lawyer Gant Redmon stumbled across CareerBuilder, a job database on the Internet.",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "lawyer Gant Redmon",
+        "谓语": "stumbled across",
+        "宾语或表语": "CareerBuilder",
+        "主干翻译": "律师甘特·雷德蒙偶然发现了CareerBuilder。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "Hunting for a job late last year",
+          "修饰对象": "stumbled",
+          "中文翻译": "去年年底找工作时",
+          "说明": "现在分词短语作时间状语，逻辑主语是Redmon"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "a job database on the Internet",
+          "修饰对象": "CareerBuilder",
+          "中文翻译": "一个网上的求职数据库",
+          "说明": "名词短语作同位语，解释CareerBuilder；on the Internet为介词短语作定语"
+        }
+      ],
+      "zh": "去年年底找工作时，律师甘特·雷德蒙偶然发现了CareerBuilder——一个网上的求职数据库。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2004-text1-s2",
+      "s": "He searched it with no success but was attracted by the site's \"personal search agent\".",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "He",
+        "谓语": "searched / was attracted",
+        "宾语或表语": "it / by the personal search agent",
+        "主干翻译": "他搜索了它，却被该网站的“个人搜索代理”所吸引。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "was attracted by the site's \"personal search agent\"",
+          "修饰对象": "—",
+          "中文翻译": "被该网站的“个人搜索代理”所吸引",
+          "说明": "由but连接的并列谓语，与searched it并列，主语同为He"
+        }
+      ],
+      "zh": "他搜索了一番却一无所获，但被该网站的“个人搜索代理”功能所吸引。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2004-text1-s3",
+      "s": "It's an interactive feature that lets visitors key in job criteria such as location, title, and salary, then E-mails them when a matching position is posted in the database.",
+      "para_no": 1,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "It",
+        "谓语": "is",
+        "宾语或表语": "an interactive feature",
+        "主干翻译": "它是一项互动功能。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "that lets visitors key in job criteria such as location, title, and salary, then E-mails them when a matching position is posted in the database",
+          "修饰对象": "feature",
+          "中文翻译": "它让访问者输入诸如地点、职位、薪水等求职条件，然后在数据库中出现匹配职位时给他们发邮件",
+          "说明": "that引导，修饰feature，含两个并列谓语lets和E-mails"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "visitors key in job criteria such as location, title, and salary",
+          "修饰对象": "lets",
+          "中文翻译": "访问者输入诸如地点、职位、薪水等求职条件",
+          "说明": "lets的宾语补足结构（不带to不定式），充当宾语成分"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "title, and salary",
+          "修饰对象": "location",
+          "中文翻译": "职位和薪水",
+          "说明": "与location并列，构成such as后的并列名词"
+        },
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "when a matching position is posted in the database",
+          "修饰对象": "mails",
+          "中文翻译": "当数据库中发布匹配职位时",
+          "说明": "when引导时间状语，修饰E-mails"
+        }
+      ],
+      "zh": "它是一项互动功能，让访问者输入诸如地点、职位和薪水等求职条件，然后在数据库中出现匹配职位时给他们发送邮件。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2004-text1-s4",
+      "s": "Redmon chose the keywords legal, intellectual property and Washington, D.C. Three weeks later, he got his first notification of an opening.",
+      "para_no": 1,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "Redmon / he",
+        "谓语": "chose / got",
+        "宾语或表语": "the keywords / his first notification",
+        "主干翻译": "雷德蒙选了关键词；三周后他收到第一份职位通知。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "intellectual property and Washington, D.C.",
+          "修饰对象": "legal",
+          "中文翻译": "知识产权和华盛顿特区",
+          "说明": "与legal并列，作keywords的内容"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "Washington, D.C.",
+          "修饰对象": "property",
+          "中文翻译": "华盛顿特区",
+          "说明": "与intellectual property并列"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "D.C.",
+          "修饰对象": "Washington",
+          "中文翻译": "特区",
+          "说明": "D.C.作Washington的同位限定，构成地名"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "Three weeks later",
+          "修饰对象": "got",
+          "中文翻译": "三周后",
+          "说明": "时间状语，修饰got"
+        }
+      ],
+      "zh": "雷德蒙选定了关键词：法律、知识产权和华盛顿特区。三周后，他收到了第一份职位空缺通知。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2004-text1-s5",
+      "s": "\"I struck gold,\" says Redmon, who E-mailed his resume to the employer and won a position as in-house counsel for a company.",
+      "para_no": 1,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "Redmon",
+        "谓语": "says",
+        "宾语或表语": "“I struck gold”",
+        "主干翻译": "雷德蒙说：“我挖到了金子。”"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "I struck gold",
+          "修饰对象": "says",
+          "中文翻译": "我挖到了金子",
+          "说明": "直接引语作says的宾语（直接引述内容）"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "who E-mailed his resume to the employer and won a position as in-house counsel for a company",
+          "修饰对象": "Redmon",
+          "中文翻译": "他把简历用电邮发给了雇主，并获得了一家公司内部法律顾问的职位",
+          "说明": "who引导非限制性定语从句，修饰Redmon，含两个并列谓语"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "won a position as in-house counsel for a company",
+          "修饰对象": "mailed",
+          "中文翻译": "获得了一家公司内部法律顾问的职位",
+          "说明": "与E-mailed并列，同属who从句的谓语"
+        }
+      ],
+      "zh": "“我挖到了金子，”雷德蒙说道，他把简历用电子邮件发给了雇主，并获得了一家公司内部法律顾问的职位。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2004-text1-s6",
+      "s": "With thousands of career-related sites on the Internet, finding promising openings can be time-consuming and inefficient.",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "finding promising openings",
+        "谓语": "can be",
+        "宾语或表语": "time-consuming and inefficient",
+        "主干翻译": "寻找有希望的职位空缺可能既费时又低效。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "With thousands of career-related sites on the Internet",
+          "修饰对象": "be",
+          "中文翻译": "由于互联网上有数以千计的求职相关网站",
+          "说明": "with独立结构作伴随/原因状语"
+        },
+        {
+          "成分类型": "非谓语作主语",
+          "原文": "finding promising openings",
+          "修饰对象": "—",
+          "中文翻译": "寻找有希望的职位空缺",
+          "说明": "动名词短语作主语（属主干，列出以示成分）"
+        }
+      ],
+      "zh": "由于互联网上有数以千计的求职相关网站，寻找有希望的职位空缺可能既费时又低效。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2004-text1-s7",
+      "s": "Search agents reduce the need for repeated visits to the databases.",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Search agents",
+        "谓语": "reduce",
+        "宾语或表语": "the need",
+        "主干翻译": "搜索代理减少了需求。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "for repeated visits to the databases",
+          "修饰对象": "need",
+          "中文翻译": "反复访问数据库的",
+          "说明": "for引导的介词短语作need的后置定语"
+        }
+      ],
+      "zh": "搜索代理减少了反复访问数据库的需要。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2004-text1-s8",
+      "s": "But although a search agent worked for Redmon, career experts see drawbacks.",
+      "para_no": 2,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "career experts",
+        "谓语": "see",
+        "宾语或表语": "drawbacks",
+        "主干翻译": "职业专家看到了弊端。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(让步)",
+          "原文": "although a search agent worked for Redmon",
+          "修饰对象": "see",
+          "中文翻译": "尽管搜索代理对雷德蒙起了作用",
+          "说明": "although引导让步状语从句"
+        }
+      ],
+      "zh": "但是，尽管搜索代理对雷德蒙起了作用，职业专家们却看到了其中的弊端。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2004-text1-s9",
+      "s": "Narrowing your criteria, for example, may work against you: \"Every time you answer a question you eliminate a possibility,\" says one expert.",
+      "para_no": 2,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "Narrowing your criteria / one expert",
+        "谓语": "may work / says",
+        "宾语或表语": "against you / 引语",
+        "主干翻译": "缩小你的条件可能对你不利；一位专家说道。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作主语",
+          "原文": "Narrowing your criteria",
+          "修饰对象": "—",
+          "中文翻译": "缩小你的搜索条件",
+          "说明": "动名词短语作may work的主语"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "for example",
+          "修饰对象": "—",
+          "中文翻译": "例如",
+          "说明": "插入语"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "Every time you answer a question you eliminate a possibility",
+          "修饰对象": "says",
+          "中文翻译": "每当你回答一个问题，你就排除了一种可能性",
+          "说明": "直接引语作says的宾语内容"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "you answer a question",
+          "修饰对象": "time",
+          "中文翻译": "你回答一个问题（的时候）",
+          "说明": "Every time后省略关系词的定语从句，构成“每当……时”"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "you eliminate a possibility",
+          "修饰对象": "time",
+          "中文翻译": "你就排除一种可能性",
+          "说明": "依存提示挂靠time；实为主句，与Every time从句构成“每当……就……”关系"
+        }
+      ],
+      "zh": "例如，缩小你的搜索条件可能对你不利：“每当你回答一个问题，你就排除了一种可能性，”一位专家说道。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2004-text1-s10",
+      "s": "For any job search, you should start with a narrow concept—what you think you want to do—then broaden it.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "you",
+        "谓语": "should start / broaden",
+        "宾语或表语": "with a narrow concept / it",
+        "主干翻译": "你应该从一个狭窄的概念开始，然后再拓宽它。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "For any job search",
+          "修饰对象": "start",
+          "中文翻译": "对于任何求职",
+          "说明": "介词短语作状语"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "what you think you want to do",
+          "修饰对象": "concept",
+          "中文翻译": "你认为你想做什么",
+          "说明": "what引导的从句作concept的同位说明（破折号插入）"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "you want to do",
+          "修饰对象": "think",
+          "中文翻译": "你想做（什么）",
+          "说明": "think的宾语从句，what为其宾语前置"
+        },
+        {
+          "成分类型": "非谓语作宾语",
+          "原文": "to do",
+          "修饰对象": "want",
+          "中文翻译": "去做",
+          "说明": "不定式作want的宾语，what为to do的逻辑宾语"
+        }
+      ],
+      "zh": "对于任何求职，你都应该从一个狭窄的概念入手——即你认为自己想做的事——然后再加以拓展。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2004-text1-s11",
+      "s": "\"None of these programs do that,\" says another expert.",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "another expert",
+        "谓语": "says",
+        "宾语或表语": "引语",
+        "主干翻译": "另一位专家说道。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "None of these programs do that",
+          "修饰对象": "says",
+          "中文翻译": "这些程序没有一个能做到那一点",
+          "说明": "直接引语作says的宾语内容"
+        }
+      ],
+      "zh": "“这些程序没有一个能做到这一点，”另一位专家说道。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2004-text1-s12",
+      "s": "\"There's no career counseling implicit in all of this.\"",
+      "para_no": 3,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "no career counseling",
+        "谓语": "There's",
+        "宾语或表语": "—",
+        "主干翻译": "没有任何职业咨询。"
+      },
+      "components": [
+        {
+          "成分类型": "形容词短语作定语",
+          "原文": "implicit in all of this",
+          "修饰对象": "counseling",
+          "中文翻译": "蕴含在这一切之中的",
+          "说明": "implicit引导的形容词短语作后置定语，修饰counseling"
+        }
+      ],
+      "zh": "“这一切当中并不隐含任何职业咨询。”",
+      "underline": null
+    },
+    {
+      "sid": "en1-2004-text1-s13",
+      "s": "Instead, the best strategy is to use the agent as a kind of tip service to keep abreast of jobs in a particular database; when you get E-mail, consider it a reminder to check the database again.",
+      "para_no": 3,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "the best strategy / you",
+        "谓语": "is / consider",
+        "宾语或表语": "to use the agent / it a reminder",
+        "主干翻译": "最好的策略是把代理用作一种工具；当你收到邮件时，把它看作一个提醒。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作表语",
+          "原文": "to use the agent as a kind of tip service to keep abreast of jobs in a particular database",
+          "修饰对象": "is",
+          "中文翻译": "把代理用作一种随时了解某个特定数据库中职位的工具",
+          "说明": "不定式短语作is的表语"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to keep abreast of jobs in a particular database",
+          "修饰对象": "use",
+          "中文翻译": "以随时了解某个特定数据库中的职位",
+          "说明": "不定式作目的状语，修饰use"
+        },
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "when you get E-mail",
+          "修饰对象": "consider",
+          "中文翻译": "当你收到邮件时",
+          "说明": "when引导时间状语从句"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "it a reminder to check the database again",
+          "修饰对象": "consider",
+          "中文翻译": "把它当作再次查看数据库的提醒",
+          "说明": "consider的复合宾语（it为宾语，a reminder为宾补）"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to check the database again",
+          "修饰对象": "reminder",
+          "中文翻译": "再次查看数据库的",
+          "说明": "不定式作reminder的后置定语"
+        }
+      ],
+      "zh": "相反，最好的策略是把搜索代理当作一种提示性服务，随时了解某个特定数据库中的职位；当你收到邮件时，就把它看作再次查看数据库的提醒。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2004-text1-s14",
+      "s": "\"I would not rely on agents for finding everything that is added to a database that might interest me,\" says the author of a job-searching guide.",
+      "para_no": 3,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "the author",
+        "谓语": "says",
+        "宾语或表语": "引语",
+        "主干翻译": "一本求职指南的作者说道。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "I would not rely on agents for finding everything that is added to a database that might interest me",
+          "修饰对象": "says",
+          "中文翻译": "我不会依靠代理来查找所有被添加进可能令我感兴趣的数据库的东西",
+          "说明": "直接引语作says的宾语内容"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that is added to a database that might interest me",
+          "修饰对象": "everything",
+          "中文翻译": "被添加到数据库中的（一切）",
+          "说明": "that引导，修饰everything"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that might interest me",
+          "修饰对象": "database",
+          "中文翻译": "可能令我感兴趣的",
+          "说明": "that引导，修饰database"
+        },
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "of a job-searching guide",
+          "修饰对象": "author",
+          "中文翻译": "一本求职指南的",
+          "说明": "of短语作author的后置定语"
+        }
+      ],
+      "zh": "“我不会依靠代理来查找所有被添加到某个可能令我感兴趣的数据库中的东西，”一本求职指南的作者说道。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2004-text1-s15",
+      "s": "Some sites design their agents to tempt job hunters to return.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Some sites",
+        "谓语": "design",
+        "宾语或表语": "their agents",
+        "主干翻译": "一些网站设计它们的代理。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to tempt job hunters to return",
+          "修饰对象": "design",
+          "中文翻译": "以引诱求职者再次访问",
+          "说明": "不定式作目的状语，修饰design"
+        },
+        {
+          "成分类型": "非谓语作宾语",
+          "原文": "to return",
+          "修饰对象": "tempt",
+          "中文翻译": "再次访问",
+          "说明": "不定式作tempt的宾语补足语"
+        }
+      ],
+      "zh": "一些网站把它们的代理设计成引诱求职者再次访问的工具。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2004-text1-s16",
+      "s": "When CareerSite's agent sends out messages to those who have signed up for its service, for example, it includes only three potential jobs—those it considers the best matches.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "it",
+        "谓语": "includes",
+        "宾语或表语": "only three potential jobs",
+        "主干翻译": "它只包含三个潜在的职位。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "When CareerSite's agent sends out messages to those who have signed up for its service",
+          "修饰对象": "includes",
+          "中文翻译": "当CareerSite的代理向那些注册了其服务的人发送消息时",
+          "说明": "when引导时间状语从句"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "who have signed up for its service",
+          "修饰对象": "those",
+          "中文翻译": "那些注册了其服务的（人）",
+          "说明": "who引导，修饰those"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "for example",
+          "修饰对象": "—",
+          "中文翻译": "例如",
+          "说明": "插入语"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "those it considers the best matches",
+          "修饰对象": "jobs",
+          "中文翻译": "它认为最匹配的那些（职位）",
+          "说明": "those...作three potential jobs的同位语"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "it considers the best matches",
+          "修饰对象": "those",
+          "中文翻译": "它认为最匹配的",
+          "说明": "省略关系词的定语从句，修饰those"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "the best matches",
+          "修饰对象": "considers",
+          "中文翻译": "最佳匹配",
+          "说明": "considers的宾语补足语（复合宾语中的宾补）"
+        }
+      ],
+      "zh": "例如，当CareerSite的代理向那些注册了其服务的人发送消息时，它只包含三个潜在的职位——即它认为最匹配的那几个。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2004-text1-s17",
+      "s": "There may be more matches in the database; job hunters will have to visit the site again to find them—and they do.",
+      "para_no": 4,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "job hunters",
+        "谓语": "will have to visit",
+        "宾语或表语": "the site",
+        "主干翻译": "求职者将不得不再次访问该网站。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "There may be more matches in the database",
+          "修饰对象": "job hunters will have to visit the site again to find them",
+          "中文翻译": "数据库里可能有更多匹配信息",
+          "说明": "分号前的并列分句，为后句提供前提。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to find them",
+          "修饰对象": "visit",
+          "中文翻译": "以找到它们",
+          "说明": "动词不定式作目的状语，them 指代 more matches。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "and they do",
+          "修饰对象": "job hunters will have to visit the site again to find them",
+          "中文翻译": "而他们也的确这么做了",
+          "说明": "破折号后并列分句，do 替代 visit the site again，呼应前句。"
+        }
+      ],
+      "zh": "数据库里可能有更多匹配信息；求职者将不得不再次访问该网站去找到它们——而他们也的确这么做了。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2004-text1-s18",
+      "s": "\"On the day after we send our messages, we see a sharp increase in our traffic,\" says Seth Peets, vice president of marketing for CareerSite.",
+      "para_no": 4,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "Seth Peets",
+        "谓语": "says",
+        "宾语或表语": "引语",
+        "主干翻译": "塞思·皮茨说道。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "On the day after we send our messages, we see a sharp increase in our traffic",
+          "修饰对象": "says",
+          "中文翻译": "在我们发送消息后的第二天，我们看到流量大幅增加",
+          "说明": "直接引语作says的宾语内容"
+        },
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "after we send our messages",
+          "修饰对象": "day",
+          "中文翻译": "在我们发送消息之后",
+          "说明": "after引导时间状语从句，作the day的修饰说明"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "vice president of marketing for CareerSite",
+          "修饰对象": "Peets",
+          "中文翻译": "CareerSite营销副总裁",
+          "说明": "名词短语作Seth Peets的同位语"
+        }
+      ],
+      "zh": "“在我们发送消息后的第二天，我们的网站流量会大幅增加，”CareerSite营销副总裁塞思·皮茨说道。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2004-text1-s19",
+      "s": "Even those who aren't hunting for jobs may find search agents worthwhile.",
+      "para_no": 5,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "those",
+        "谓语": "may find",
+        "宾语或表语": "search agents worthwhile",
+        "主干翻译": "那些人也可能发现搜索代理很有价值。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "who aren't hunting for jobs",
+          "修饰对象": "those",
+          "中文翻译": "那些不在找工作的（人）",
+          "说明": "who引导，修饰those"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "search agents worthwhile",
+          "修饰对象": "find",
+          "中文翻译": "搜索代理是值得的",
+          "说明": "find的复合宾语（search agents为宾语，worthwhile为宾补）"
+        }
+      ],
+      "zh": "即使是那些并非在找工作的人，也可能发现搜索代理很有价值。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2004-text1-s20",
+      "s": "Some use them to keep a close watch on the demand for their line of work or gather information on compensation to arm themselves when negotiating for a raise.",
+      "para_no": 5,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Some",
+        "谓语": "use",
+        "宾语或表语": "them",
+        "主干翻译": "有些人使用它们。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to keep a close watch on the demand for their line of work or gather information on compensation to arm themselves when negotiating for a raise",
+          "修饰对象": "use",
+          "中文翻译": "以密切关注其行业的需求，或收集薪酬信息以便在谈加薪时武装自己",
+          "说明": "不定式作目的状语，修饰use；含keep与gather两个并列动作"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "gather information on compensation to arm themselves when negotiating for a raise",
+          "修饰对象": "keep",
+          "中文翻译": "收集薪酬信息以便在谈加薪时武装自己",
+          "说明": "与keep并列（不定式符号to省略）"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to arm themselves when negotiating for a raise",
+          "修饰对象": "gather",
+          "中文翻译": "以便武装自己（在谈加薪时）",
+          "说明": "不定式作目的状语；依存提示挂information，实修饰gather动作"
+        },
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "when negotiating for a raise",
+          "修饰对象": "arm",
+          "中文翻译": "当谈判加薪时",
+          "说明": "when引导的省略式时间状语从句"
+        }
+      ],
+      "zh": "有些人用它们密切关注本行业的需求，或收集薪酬信息，以便在谈判加薪时为自己增添筹码。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2004-text1-s21",
+      "s": "Although happily employed, Redmon maintains his agent at CareerBuilder.",
+      "para_no": 5,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Redmon",
+        "谓语": "maintains",
+        "宾语或表语": "his agent",
+        "主干翻译": "雷德蒙保留着他的代理。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(让步)",
+          "原文": "Although happily employed",
+          "修饰对象": "maintains",
+          "中文翻译": "尽管已愉快地就业",
+          "说明": "although引导的省略式让步状语从句（省略he is）"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "at CareerBuilder",
+          "修饰对象": "maintains",
+          "中文翻译": "在CareerBuilder上",
+          "说明": "地点状语，修饰maintains"
+        }
+      ],
+      "zh": "尽管雷德蒙已经愉快地就业，他仍保留着自己在CareerBuilder上的代理。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2004-text1-s22",
+      "s": "\"You always keep your eyes open,\" he says.",
+      "para_no": 5,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "he",
+        "谓语": "says",
+        "宾语或表语": "引语",
+        "主干翻译": "他说道。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "You always keep your eyes open",
+          "修饰对象": "says",
+          "中文翻译": "你总要保持警惕",
+          "说明": "直接引语作says的宾语内容"
+        }
+      ],
+      "zh": "“你总得保持警觉，”他说道。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2004-text1-s23",
+      "s": "Working with a personal search agent means having another set of eyes looking out for you.",
+      "para_no": 5,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "Working with a personal search agent",
+        "谓语": "means",
+        "宾语或表语": "having another set of eyes",
+        "主干翻译": "使用个人搜索代理意味着多了一双眼睛。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作主语",
+          "原文": "Working with a personal search agent",
+          "修饰对象": "—",
+          "中文翻译": "使用个人搜索代理",
+          "说明": "动名词短语作主语"
+        },
+        {
+          "成分类型": "非谓语作宾语",
+          "原文": "having another set of eyes looking out for you",
+          "修饰对象": "means",
+          "中文翻译": "多了一双替你留意的眼睛",
+          "说明": "动名词短语作means的宾语"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "looking out for you",
+          "修饰对象": "eyes",
+          "中文翻译": "替你留意的",
+          "说明": "现在分词短语作eyes的后置定语"
+        }
+      ],
+      "zh": "使用个人搜索代理意味着多了一双替你留意的眼睛。",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2004-text1-s1",
+        "en1-2004-text1-s2",
+        "en1-2004-text1-s3",
+        "en1-2004-text1-s4",
+        "en1-2004-text1-s5"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2004-text1-s6",
+        "en1-2004-text1-s7",
+        "en1-2004-text1-s8",
+        "en1-2004-text1-s9"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2004-text1-s10",
+        "en1-2004-text1-s11",
+        "en1-2004-text1-s12",
+        "en1-2004-text1-s13",
+        "en1-2004-text1-s14"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2004-text1-s15",
+        "en1-2004-text1-s16",
+        "en1-2004-text1-s17",
+        "en1-2004-text1-s18"
+      ]
+    },
+    {
+      "para_no": 5,
+      "sids": [
+        "en1-2004-text1-s19",
+        "en1-2004-text1-s20",
+        "en1-2004-text1-s21",
+        "en1-2004-text1-s22",
+        "en1-2004-text1-s23"
+      ]
+    }
+  ]
+}

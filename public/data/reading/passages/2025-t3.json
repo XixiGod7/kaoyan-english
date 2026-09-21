@@ -1,0 +1,622 @@
+{
+  "exam": "en1",
+  "key": "2025-t3",
+  "year": 2025,
+  "text_no": 3,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2025-text3-s1",
+      "s": "Ever since taking on Netflix Inc. at its own game, old Hollywood has struggled to turn a profit in streaming, with the likes of Disney+, Peacock and Paramount+ losing billions of dollars each year, sparking concerns on Wall Street that the services will never be as profitable as cable once was.",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "old Hollywood",
+        "谓语": "has struggled",
+        "宾语或表语": "to turn a profit in streaming",
+        "主干翻译": "好莱坞的老牌制片公司一直难以在流媒体业务上盈利。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "Ever since taking on Netflix Inc. at its own game",
+          "修饰对象": "has struggled",
+          "中文翻译": "自从以奈飞公司自己的方式与其展开竞争以来",
+          "说明": "Ever since 引导的时间状语，taking on 为动名词，作时间状语，限定主句动作的起始时间。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to turn a profit in streaming",
+          "修饰对象": "struggled",
+          "中文翻译": "在流媒体业务上盈利",
+          "说明": "不定式作 struggled 的宾语/补足成分，表示努力的目标。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "with the likes of Disney+, Peacock and Paramount+ losing billions of dollars each year",
+          "修饰对象": "has struggled",
+          "中文翻译": "迪士尼+、Peacock 和派拉蒙+等平台每年都亏损数十亿美元",
+          "说明": "with 复合结构（with + 名词 + 现在分词）作伴随状语，补充说明亏损的具体情况。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "Disney+, Peacock and Paramount+",
+          "修饰对象": "the likes",
+          "中文翻译": "迪士尼+、Peacock 和派拉蒙+",
+          "说明": "三个并列的流媒体平台，作 the likes of 的宾语。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "sparking concerns on Wall Street that the services will never be as profitable as cable once was",
+          "修饰对象": "has struggled",
+          "中文翻译": "在华尔街引发了担忧，担心这些流媒体服务永远无法像曾经的有线电视那样盈利",
+          "说明": "现在分词短语作结果状语，承接前文亏损这一事实所导致的后果。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "that the services will never be as profitable as cable once was",
+          "修饰对象": "concerns",
+          "中文翻译": "这些流媒体服务永远无法像曾经的有线电视那样盈利",
+          "说明": "that 引导同位语从句，说明 concerns 的具体内容。"
+        },
+        {
+          "成分类型": "状语从句(比较)",
+          "原文": "as cable once was",
+          "修饰对象": "profitable",
+          "中文翻译": "像有线电视曾经那样（盈利）",
+          "说明": "as...as 比较结构中的后一个 as 引导比较状语从句，省略了 profitable，与流媒体服务的盈利能力作对比。"
+        }
+      ],
+      "zh": "自从以奈飞公司自己的方式与其展开竞争以来，好莱坞的老牌制片公司一直难以在流媒体业务上盈利，迪士尼+、Peacock 和派拉蒙+等平台每年都亏损数十亿美元，从而在华尔街引发了担忧，担心这些流媒体服务永远无法像曾经的有线电视那样盈利。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2025-text3-s2",
+      "s": "But the age of streaming has been a boon for some unintended winners: pirates that use software to rip a film or television show in seconds from legitimate online video platforms and host the titles on their own, illegitimate services, which rake in about $2 billion annually from ads and subscriptions.",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "the age of streaming",
+        "谓语": "has been",
+        "宾语或表语": "a boon for some unintended winners",
+        "主干翻译": "流媒体时代对一些意外的赢家来说是一大福音。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "pirates that use software to rip a film or television show in seconds from legitimate online video platforms and host the titles on their own, illegitimate services, which rake in about $2 billion annually from ads and subscriptions",
+          "修饰对象": "winners",
+          "中文翻译": "盗版者，他们利用软件在数秒内从合法的在线视频平台扒取电影或电视节目，并将这些影视作品放到自己的非法服务平台上，这些平台每年从广告和订阅中赚取约 20 亿美元",
+          "说明": "冒号后的名词短语 pirates... 作 winners 的同位语，进一步说明意外赢家的身份。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that use software to rip a film or television show in seconds from legitimate online video platforms and host the titles on their own, illegitimate services",
+          "修饰对象": "pirates",
+          "中文翻译": "他们利用软件在数秒内从合法的在线视频平台扒取电影或电视节目，并将这些影视作品放到自己的非法服务平台上",
+          "说明": "that 引导定语从句修饰 pirates，含两个并列谓语 use 和 host。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to rip a film or television show in seconds from legitimate online video platforms",
+          "修饰对象": "use",
+          "中文翻译": "在数秒内从合法的在线视频平台扒取电影或电视节目",
+          "说明": "不定式短语作 use software 的目的状语，表明使用软件的目的。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "host the titles on their own, illegitimate services",
+          "修饰对象": "use",
+          "中文翻译": "将这些影视作品放到自己的非法服务平台上",
+          "说明": "与 use 并列的第二个谓语动词 host，由 and 连接，同属定语从句。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "which rake in about $2 billion annually from ads and subscriptions",
+          "修饰对象": "services",
+          "中文翻译": "这些平台每年从广告和订阅中赚取约 20 亿美元",
+          "说明": "which 引导非限制性定语从句，修饰 illegitimate services。"
+        }
+      ],
+      "zh": "但流媒体时代对一些意外的赢家来说却是一大福音：那些盗版者利用软件在数秒内从合法的在线视频平台扒取电影或电视节目，并将这些影视作品放到自己的非法服务平台上，而这些平台每年从广告和订阅中赚取约 20 亿美元。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2025-text3-s3",
+      "s": "With no video production costs, illegal streaming sites have achieved profit margins approaching 90%, according to the Motion Picture Association (MPA), a trade group representing Hollywood studios that's working to crack down on the thousands of illegal platforms that have cropped up in recent years.",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "illegal streaming sites",
+        "谓语": "have achieved",
+        "宾语或表语": "profit margins",
+        "主干翻译": "非法流媒体网站实现了可观的利润率。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "With no video production costs",
+          "修饰对象": "have achieved",
+          "中文翻译": "由于没有视频制作成本",
+          "说明": "with 介词短语作原因状语，说明高利润率的原因。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "approaching 90%",
+          "修饰对象": "margins",
+          "中文翻译": "接近 90% 的",
+          "说明": "现在分词短语作后置定语，修饰 profit margins。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "according to the Motion Picture Association (MPA)",
+          "修饰对象": "have achieved",
+          "中文翻译": "据美国电影协会（MPA）称",
+          "说明": "according to 介词短语作状语，表明信息来源。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "a trade group representing Hollywood studios that's working to crack down on the thousands of illegal platforms that have cropped up in recent years",
+          "修饰对象": "Association",
+          "中文翻译": "一个代表好莱坞各制片公司、致力于打击近年来涌现的数千个非法平台的行业组织",
+          "说明": "名词短语作 the Motion Picture Association 的同位语，补充说明其性质。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "representing Hollywood studios",
+          "修饰对象": "group",
+          "中文翻译": "代表好莱坞各制片公司的",
+          "说明": "现在分词短语作后置定语，修饰 a trade group。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that's working to crack down on the thousands of illegal platforms",
+          "修饰对象": "group",
+          "中文翻译": "致力于打击数千个非法平台的",
+          "说明": "that 引导定语从句修饰 a trade group，that's 即 that is。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to crack down on the thousands of illegal platforms",
+          "修饰对象": "working",
+          "中文翻译": "打击那数千个非法平台",
+          "说明": "不定式短语作 working 的目的状语，表明该组织努力的目标。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that have cropped up in recent years",
+          "修饰对象": "thousands",
+          "中文翻译": "近年来涌现的",
+          "说明": "that 引导定语从句，修饰 the thousands of illegal platforms。"
+        }
+      ],
+      "zh": "据美国电影协会（MPA）称，由于没有视频制作成本，非法流媒体网站实现了接近 90% 的利润率。美国电影协会是一个代表好莱坞各制片公司的行业组织，正致力于打击近年来涌现的数千个非法平台。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2025-text3-s4",
+      "s": "Initially the rise of legitimate online businesses such as Netflix actually helped curb digital piracy, which had largely been based on file uploads.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "the rise of legitimate online businesses such as Netflix",
+        "谓语": "helped curb",
+        "宾语或表语": "digital piracy",
+        "主干翻译": "奈飞等合法在线企业的兴起帮助遏制了数字盗版。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "Initially",
+          "修饰对象": "helped",
+          "中文翻译": "起初",
+          "说明": "副词作时间状语（与下文 But now 形成对比），限定主句动作发生的时段。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "curb digital piracy",
+          "修饰对象": "helped",
+          "中文翻译": "遏制数字盗版",
+          "说明": "省略 to 的不定式作 helped 的宾语补足成分。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "which had largely been based on file uploads",
+          "修饰对象": "piracy",
+          "中文翻译": "（这种盗版）此前主要基于文件上传",
+          "说明": "which 引导非限制性定语从句，修饰 digital piracy。"
+        }
+      ],
+      "zh": "起初，奈飞等合法在线企业的兴起实际上帮助遏制了数字盗版，而此前的盗版主要是基于文件上传的。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2025-text3-s5",
+      "s": "But now piracy involving illegal streaming services as well as file-sharing costs the US economy about $30 billion in lost revenue a year and some 250,000 jobs, estimates the US Chamber of Commerce's Global Innovation Policy Center.",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "piracy",
+        "谓语": "costs",
+        "宾语或表语": "the US economy about $30 billion in lost revenue a year and some 250,000 jobs",
+        "主干翻译": "盗版每年使美国经济损失约 300 亿美元的收入和约 25 万个就业岗位。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "involving illegal streaming services as well as file-sharing",
+          "修饰对象": "piracy",
+          "中文翻译": "涉及非法流媒体服务以及文件共享的",
+          "说明": "现在分词短语作后置定语，修饰 piracy。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "file-sharing",
+          "修饰对象": "services",
+          "中文翻译": "文件共享",
+          "说明": "由 as well as 连接，与 illegal streaming services 并列，作 involving 的宾语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "some 250,000 jobs",
+          "修饰对象": "billion",
+          "中文翻译": "约 25 万个就业岗位",
+          "说明": "由 and 连接，与 about $30 billion in lost revenue 并列，同作 costs 的直接宾语。"
+        },
+        {
+          "成分类型": "倒装",
+          "原文": "estimates the US Chamber of Commerce's Global Innovation Policy Center",
+          "修饰对象": "—",
+          "中文翻译": "美国商会全球创新政策中心估计",
+          "说明": "引述性主谓倒装结构（谓语 estimates 置于主语之前），整句为其引述的内容，类似 says 引导宾语从句的倒装表达。"
+        }
+      ],
+      "zh": "但据美国商会全球创新政策中心估计，如今涉及非法流媒体服务以及文件共享的盗版，每年使美国经济损失约 300 亿美元的收入和约 25 万个就业岗位。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2025-text3-s6",
+      "s": "The global impact is about $71 billion annually.",
+      "para_no": 3,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "The global impact",
+        "谓语": "is",
+        "宾语或表语": "about $71 billion annually",
+        "主干翻译": "其全球影响每年约为 710 亿美元。"
+      },
+      "components": [],
+      "zh": "其在全球造成的影响每年约为 710 亿美元。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2025-text3-s7",
+      "s": "“The people who are stealing our movies and our television shows and operating piracy sites are not mom and pop operations,” says Charlie Rivkin, chief executive officer of the MPA.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The people",
+        "谓语": "are",
+        "宾语或表语": "not mom and pop operations",
+        "主干翻译": "这些人并非小本经营的个体户。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "who are stealing our movies and our television shows and operating piracy sites",
+          "修饰对象": "people",
+          "中文翻译": "那些盗取我们的电影和电视节目并经营盗版网站的（人）",
+          "说明": "who 引导定语从句修饰 The people，含两个并列谓语 stealing 和 operating。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "our television shows",
+          "修饰对象": "movies",
+          "中文翻译": "我们的电视节目",
+          "说明": "由 and 连接，与 our movies 并列，作 stealing 的宾语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "operating piracy sites",
+          "修饰对象": "stealing",
+          "中文翻译": "经营盗版网站",
+          "说明": "由 and 连接，与 are stealing 并列，作定语从句的第二个谓语。"
+        },
+        {
+          "成分类型": "倒装",
+          "原文": "says Charlie Rivkin",
+          "修饰对象": "—",
+          "中文翻译": "查理·里夫金说",
+          "说明": "引述性主谓倒装（谓语 says 置于主语 Charlie Rivkin 之前），引出前面的引语。"
+        },
+        {
+          "成分类型": "同位语",
+          "原文": "chief executive officer of the MPA",
+          "修饰对象": "Rivkin",
+          "中文翻译": "美国电影协会首席执行官",
+          "说明": "名词短语作 Charlie Rivkin 的同位语，说明其身份职务。"
+        }
+      ],
+      "zh": "美国电影协会首席执行官查理·里夫金说：“那些盗取我们的电影和电视节目、经营盗版网站的人，可不是什么小本经营的个体户。”",
+      "underline": null
+    },
+    {
+      "sid": "en1-2025-text3-s8",
+      "s": "“This is organized crime.” Rivkin joined the MPA in 2017 after the organization failed five years earlier to build consensus between Hollywood and Silicon Valley to win passage of legislation in Congress aimed at stopping online piracy.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Rivkin",
+        "谓语": "joined",
+        "宾语或表语": "the MPA",
+        "主干翻译": "里夫金加入了美国电影协会。"
+      },
+      "components": [
+        {
+          "成分类型": "省略",
+          "原文": "“This is organized crime.”",
+          "修饰对象": "—",
+          "中文翻译": "“这是有组织犯罪。”",
+          "说明": "独立引语句，主系表结构完整（this is organized crime），承接上文里夫金的话。"
+        },
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "after the organization failed five years earlier to build consensus between Hollywood and Silicon Valley to win passage of legislation in Congress aimed at stopping online piracy",
+          "修饰对象": "joined",
+          "中文翻译": "在该组织五年前未能在好莱坞与硅谷之间达成共识、以推动国会通过旨在制止网络盗版的立法之后",
+          "说明": "after 引导时间状语从句，说明里夫金加入的时间背景。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to build consensus between Hollywood and Silicon Valley",
+          "修饰对象": "failed",
+          "中文翻译": "在好莱坞与硅谷之间达成共识",
+          "说明": "不定式短语作 failed 的宾语补足成分，表明未能做到的事情。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to win passage of legislation in Congress",
+          "修饰对象": "build",
+          "中文翻译": "以推动国会通过相关立法",
+          "说明": "不定式短语作 build consensus 的目的状语，表明达成共识的目的。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "aimed at stopping online piracy",
+          "修饰对象": "legislation",
+          "中文翻译": "旨在制止网络盗版的",
+          "说明": "过去分词短语作后置定语，修饰 legislation。"
+        }
+      ],
+      "zh": "“这是有组织犯罪。”里夫金于 2017 年加入美国电影协会，此前五年，该组织曾试图在好莱坞与硅谷之间达成共识，以推动国会通过旨在制止网络盗版的立法，但以失败告终。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2025-text3-s9",
+      "s": "In 2017 the association formed the Alliance for Creativity and Entertainment (ACE), an enforcement task force of about 100 detectives circling the globe to help local authorities arrest streaming pirates.",
+      "para_no": 4,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "the association",
+        "谓语": "formed",
+        "宾语或表语": "the Alliance for Creativity and Entertainment (ACE)",
+        "主干翻译": "该协会成立了创意与娱乐联盟（ACE）。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "In 2017",
+          "修饰对象": "formed",
+          "中文翻译": "2017 年",
+          "说明": "介词短语作时间状语，限定成立联盟的时间。"
+        },
+        {
+          "成分类型": "同位语",
+          "原文": "an enforcement task force of about 100 detectives circling the globe to help local authorities arrest streaming pirates",
+          "修饰对象": "Alliance",
+          "中文翻译": "一支由约 100 名侦探组成的执法特别工作组，他们在全球范围内活动，协助当地执法部门抓捕流媒体盗版者",
+          "说明": "名词短语作 ACE 的同位语，说明该联盟的构成与职能。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "circling the globe to help local authorities arrest streaming pirates",
+          "修饰对象": "force",
+          "中文翻译": "在全球范围内活动以协助当地执法部门抓捕流媒体盗版者的",
+          "说明": "现在分词短语作后置定语，修饰 an enforcement task force。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to help local authorities arrest streaming pirates",
+          "修饰对象": "circling",
+          "中文翻译": "以协助当地执法部门抓捕流媒体盗版者",
+          "说明": "不定式短语作 circling 的目的状语，表明全球活动的目的。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "local authorities arrest streaming pirates",
+          "修饰对象": "help",
+          "中文翻译": "当地执法部门抓捕流媒体盗版者",
+          "说明": "help 后接省略 to 的不定式复合宾语（help local authorities (to) arrest），arrest 为宾语补足成分。"
+        }
+      ],
+      "zh": "2017 年，该协会成立了创意与娱乐联盟（ACE），这是一支由约 100 名侦探组成的执法特别工作组，他们在全球范围内活动，协助当地执法部门抓捕流媒体盗版者。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2025-text3-s10",
+      "s": "ACE says it's helped shrink the number of illegal streaming services in North America to 126, from more than 1,400 in 2018, aided in part by the MPA's support for a 2020 federal law that made large-scale streaming of copyrighted material a serious crime.",
+      "para_no": 5,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "ACE",
+        "谓语": "says",
+        "宾语或表语": "it's helped shrink the number of illegal streaming services in North America to 126",
+        "主干翻译": "ACE 表示，它已帮助将北美的非法流媒体服务数量减少到 126 个。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "it's helped shrink the number of illegal streaming services in North America to 126, from more than 1,400 in 2018, aided in part by the MPA's support for a 2020 federal law that made large-scale streaming of copyrighted material a serious crime",
+          "修饰对象": "says",
+          "中文翻译": "它已帮助将北美的非法流媒体服务数量从 2018 年的 1400 多个减少到 126 个，这在一定程度上得益于美国电影协会对 2020 年一项联邦法律的支持",
+          "说明": "says 后省略 that 的宾语从句，it's 即 it has。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "shrink the number of illegal streaming services in North America to 126, from more than 1,400 in 2018",
+          "修饰对象": "helped",
+          "中文翻译": "将北美的非法流媒体服务数量从 2018 年的 1400 多个减少到 126 个",
+          "说明": "省略 to 的不定式作 helped 的宾语补足成分。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "aided in part by the MPA's support for a 2020 federal law",
+          "修饰对象": "helped",
+          "中文翻译": "（这）部分得益于美国电影协会对 2020 年一项联邦法律的支持",
+          "说明": "过去分词短语作状语，说明取得上述成果的原因/方式。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that made large-scale streaming of copyrighted material a serious crime",
+          "修饰对象": "law",
+          "中文翻译": "该法将大规模流媒体传播受版权保护的内容定为严重犯罪",
+          "说明": "that 引导定语从句修饰 a 2020 federal law。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "large-scale streaming of copyrighted material a serious crime",
+          "修饰对象": "made",
+          "中文翻译": "将大规模流媒体传播受版权保护的内容（定为）严重犯罪",
+          "说明": "made 的复合宾语结构，large-scale streaming... 为宾语，a serious crime 为宾语补足语。"
+        }
+      ],
+      "zh": "ACE 表示，它已帮助将北美的非法流媒体服务数量从 2018 年的 1400 多个减少到 126 个，这在一定程度上得益于美国电影协会对 2020 年一项联邦法律的支持，该法将大规模流媒体传播受版权保护的内容定为严重犯罪。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2025-text3-s11",
+      "s": "Consulting firm Parks Associates predicts that legitimate US streaming services’ cumulative loss from piracy since 2022 will reach $113 billion in the next two years.",
+      "para_no": 6,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Consulting firm Parks Associates",
+        "谓语": "predicts",
+        "宾语或表语": "that legitimate US streaming services’ cumulative loss from piracy since 2022 will reach $113 billion in the next two years",
+        "主干翻译": "咨询公司 Parks Associates 预测，美国合法流媒体服务因盗版造成的累计损失将达到一定规模。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "that legitimate US streaming services’ cumulative loss from piracy since 2022 will reach $113 billion in the next two years",
+          "修饰对象": "predicts",
+          "中文翻译": "美国合法流媒体服务自 2022 年以来因盗版造成的累计损失将在未来两年内达到 1130 亿美元",
+          "说明": "that 引导宾语从句，作 predicts 的宾语。"
+        }
+      ],
+      "zh": "咨询公司 Parks Associates 预测，美国合法流媒体服务自 2022 年以来因盗版造成的累计损失将在未来两年内达到 1130 亿美元。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2025-text3-s12",
+      "s": "“While there is some optimism that emerging countermeasures and best practices may see piracy begin to plateau by 2027, there is no consensus among stakeholders as to when it may begin to decline,” says analyst Steve Hawley.",
+      "para_no": 6,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "there",
+        "谓语": "is",
+        "宾语或表语": "no consensus among stakeholders",
+        "主干翻译": "利益相关方之间尚未达成共识。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(让步)",
+          "原文": "While there is some optimism that emerging countermeasures and best practices may see piracy begin to plateau by 2027",
+          "修饰对象": "is",
+          "中文翻译": "尽管有人乐观地认为，新兴的应对措施和最佳实践可能会使盗版在 2027 年前开始趋于平稳",
+          "说明": "While 引导让步状语从句，与主句 there is no consensus 形成转折对比。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "that emerging countermeasures and best practices may see piracy begin to plateau by 2027",
+          "修饰对象": "optimism",
+          "中文翻译": "新兴的应对措施和最佳实践可能会使盗版在 2027 年前开始趋于平稳",
+          "说明": "that 引导同位语从句，说明 optimism 的具体内容。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "piracy begin to plateau by 2027",
+          "修饰对象": "see",
+          "中文翻译": "盗版在 2027 年前开始趋于平稳",
+          "说明": "see 后接省略 to 的不定式复合宾语（see piracy (to) begin），begin 为宾语补足成分。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to plateau by 2027",
+          "修饰对象": "begin",
+          "中文翻译": "到 2027 年前趋于平稳",
+          "说明": "不定式短语作 begin 的宾语，表示开始的具体动作。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "“While there is some optimism that emerging countermeasures and best practices may see piracy begin to plateau by 2027, there is no consensus among stakeholders as to when it may begin to decline",
+          "修饰对象": "says",
+          "中文翻译": "（引语内容）尽管有人乐观地认为……但对于盗版何时可能开始减少，利益相关方之间尚未达成共识",
+          "说明": "整段引语作 says 的引述内容（宾语），与下文倒装的 says 搭配。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to decline",
+          "修饰对象": "begin",
+          "中文翻译": "减少",
+          "说明": "不定式短语作 begin 的宾语，表示开始的具体动作。"
+        }
+      ],
+      "zh": "分析师史蒂夫·霍利说：“尽管有人乐观地认为，新兴的应对措施和最佳实践可能会使盗版在 2027 年前开始趋于平稳，但对于盗版何时可能开始减少，各利益相关方之间尚未达成共识。”",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2025-text3-s1",
+        "en1-2025-text3-s2"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2025-text3-s3"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2025-text3-s4",
+        "en1-2025-text3-s5",
+        "en1-2025-text3-s6"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2025-text3-s7",
+        "en1-2025-text3-s8",
+        "en1-2025-text3-s9"
+      ]
+    },
+    {
+      "para_no": 5,
+      "sids": [
+        "en1-2025-text3-s10"
+      ]
+    },
+    {
+      "para_no": 6,
+      "sids": [
+        "en1-2025-text3-s11",
+        "en1-2025-text3-s12"
+      ]
+    }
+  ]
+}

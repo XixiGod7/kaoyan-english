@@ -1,0 +1,604 @@
+{
+  "exam": "en1",
+  "key": "2007-t3",
+  "year": 2007,
+  "text_no": 3,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2007-text3-s1",
+      "s": "During the past generation, the American middle-class family that once could count on hard work and fair play to keep itself financially secure has been transformed by economic risk and new realities.",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "the American middle-class family",
+        "谓语": "has been transformed",
+        "宾语或表语": "by economic risk and new realities",
+        "主干翻译": "美国中产阶级家庭已经被经济风险和新的现实所改变。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "that once could count on hard work and fair play to keep itself financially secure",
+          "修饰对象": "family",
+          "中文翻译": "曾经能够依靠辛勤工作和公平竞争来维持自身经济稳定的",
+          "说明": "that 引导的定语从句，修饰先行词 family，关系代词 that 在从句中作主语。"
+        },
+        {
+          "成分类型": "状语从句(目的)",
+          "原文": "to keep itself financially secure",
+          "修饰对象": "count",
+          "中文翻译": "以维持自身的经济稳定",
+          "说明": "不定式短语作目的状语，修饰定语从句中的谓语 count on，说明依靠辛勤工作的目的。"
+        }
+      ],
+      "zh": "在过去的一代人时间里，那些曾经能够依靠辛勤工作和公平竞争来维持自身经济稳定的美国中产阶级家庭，已经被经济风险和种种新的现实所改变。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2007-text3-s2",
+      "s": "Now a pink slip, a bad diagnosis, or a disappearing spouse can reduce a family from solidly middle class to newly poor in a few months.",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "a pink slip, a bad diagnosis, or a disappearing spouse",
+        "谓语": "can reduce",
+        "宾语或表语": "a family",
+        "主干翻译": "一张解雇通知书、一份糟糕的诊断或一位离去的配偶，都能让一个家庭沦落。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "a bad diagnosis, or a disappearing spouse",
+          "修饰对象": "slip",
+          "中文翻译": "一份糟糕的诊断，或者一位离去的配偶",
+          "说明": "三个名词短语并列作主语，由逗号和 or 连接，a pink slip 为首项。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "from solidly middle class to newly poor",
+          "修饰对象": "reduce",
+          "中文翻译": "从稳固的中产阶级沦为新近的贫困者",
+          "说明": "from...to... 介词短语作状语，说明 reduce 的起点与终点状态。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "in a few months",
+          "修饰对象": "reduce",
+          "中文翻译": "在短短几个月内",
+          "说明": "时间介词短语作状语，修饰谓语 reduce。"
+        }
+      ],
+      "zh": "如今，一张解雇通知书、一份糟糕的诊断、或者一位离去的配偶，都能在短短几个月内让一个家庭从稳固的中产阶级沦为新近的贫困者。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2007-text3-s3",
+      "s": "In just one generation, millions of mothers have gone to work, transforming basic family economics.",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "millions of mothers",
+        "谓语": "have gone",
+        "宾语或表语": "to work",
+        "主干翻译": "数百万母亲已经外出工作了。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "In just one generation",
+          "修饰对象": "gone",
+          "中文翻译": "仅仅在一代人的时间里",
+          "说明": "时间介词短语作状语，置于句首修饰全句。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "transforming basic family economics",
+          "修饰对象": "gone",
+          "中文翻译": "从而改变了基本的家庭经济模式",
+          "说明": "现在分词短语作结果状语，表示 mothers 外出工作所带来的结果。"
+        }
+      ],
+      "zh": "仅仅在一代人的时间里，数百万母亲走出家门去工作，从而改变了基本的家庭经济模式。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2007-text3-s4",
+      "s": "Scholars, policymakers, and critics of all stripes have debated the social implications of these changes, but few have looked at the side effect: family risk has risen as well.",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Scholars, policymakers, and critics; few",
+        "谓语": "have debated; have looked",
+        "宾语或表语": "the social implications of these changes; at the side effect",
+        "主干翻译": "学者、政策制定者和批评者们已经辩论了这些变化的社会影响，但很少有人关注其副作用。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "policymakers, and critics of all stripes",
+          "修饰对象": "Scholars",
+          "中文翻译": "政策制定者和形形色色的批评者",
+          "说明": "三个名词并列作主语，由逗号和 and 连接，Scholars 为首项。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "but few have looked at the side effect: family risk has risen as well.",
+          "修饰对象": "debated",
+          "中文翻译": "但很少有人关注其副作用：家庭风险也随之上升了",
+          "说明": "but 连接的并列分句，与前一分句构成转折并列关系。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "family risk has risen as well",
+          "修饰对象": "effect",
+          "中文翻译": "家庭风险也随之上升了",
+          "说明": "冒号引出的内容对 the side effect 作进一步说明，构成同位关系，解释副作用的具体内容。"
+        }
+      ],
+      "zh": "学者、政策制定者以及形形色色的批评者们一直在争论这些变化所带来的社会影响，但很少有人注意到它的一个副作用：家庭风险也随之上升了。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2007-text3-s5",
+      "s": "Today's families have budgeted to the limits of their new two-paycheck status.",
+      "para_no": 2,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Today's families",
+        "谓语": "have budgeted",
+        "宾语或表语": "to the limits of their new two-paycheck status",
+        "主干翻译": "如今的家庭已经把预算做到了其新的双薪状态的极限。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "to the limits of their new two-paycheck status",
+          "修饰对象": "budgeted",
+          "中文翻译": "做到了其新的双薪收入状态的极限",
+          "说明": "to the limits of... 介词短语作状语，说明 budgeted 所达到的程度（原文 theirs 应为 their）。"
+        }
+      ],
+      "zh": "如今的家庭已经把开支预算做到了其新的双薪收入状态所能承受的极限。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2007-text3-s6",
+      "s": "As a result, they have lost the parachute they once had in times of financial setback—a back-up earner (usually Mom) who could go into the workforce if the primary earner got laid off or fell sick.",
+      "para_no": 2,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "they",
+        "谓语": "have lost",
+        "宾语或表语": "the parachute",
+        "主干翻译": "他们失去了那张降落伞。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "they once had in times of financial setback",
+          "修饰对象": "parachute",
+          "中文翻译": "他们曾在经济困难时期所拥有的",
+          "说明": "省略关系代词 that/which 的定语从句，修饰 parachute，关系词在从句中作 had 的宾语。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "a back-up earner (usually Mom) who could go into the workforce if the primary earner got laid off or fell sick",
+          "修饰对象": "parachute",
+          "中文翻译": "一位后备的赚钱者（通常是妈妈），她可以在主要赚钱者被解雇或生病时进入劳动力市场",
+          "说明": "破折号后的名词短语作 parachute 的同位语，对其作具体解释（此处为名词性同位结构，非从句）。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "usually Mom",
+          "修饰对象": "earner",
+          "中文翻译": "通常是妈妈",
+          "说明": "括号内的插入语，对 a back-up earner 作补充说明。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "who could go into the workforce if the primary earner got laid off or fell sick",
+          "修饰对象": "earner",
+          "中文翻译": "她能够在主要赚钱者被解雇或生病时进入劳动力市场",
+          "说明": "who 引导的定语从句，修饰 a back-up earner，关系代词 who 在从句中作主语。"
+        },
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "if the primary earner got laid off or fell sick",
+          "修饰对象": "go",
+          "中文翻译": "如果主要赚钱者被解雇或生病",
+          "说明": "if 引导的条件状语从句，修饰定语从句中的 go into，got laid off 与 fell sick 在从句中并列作谓语。"
+        }
+      ],
+      "zh": "结果，他们失去了曾经在经济困难时期所拥有的那张降落伞——一位后备的赚钱者（通常是妈妈），她可以在家中主要赚钱者被解雇或生病时进入劳动力市场。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2007-text3-s7",
+      "s": "This \"added-worker effect\" could support the safety net offered by unemployment insurance or disability insurance to help families weather bad times.",
+      "para_no": 2,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "This \"added-worker effect\"",
+        "谓语": "could support",
+        "宾语或表语": "the safety net",
+        "主干翻译": "这种\"额外劳动者效应\"可以支撑这张安全网。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "offered by unemployment insurance or disability insurance",
+          "修饰对象": "net",
+          "中文翻译": "由失业保险或伤残保险所提供的",
+          "说明": "过去分词短语作后置定语，修饰 the safety net，表示该安全网由保险提供。"
+        },
+        {
+          "成分类型": "状语从句(目的)",
+          "原文": "to help families weather bad times",
+          "修饰对象": "offered",
+          "中文翻译": "以帮助家庭渡过艰难时期",
+          "说明": "不定式短语作目的状语，说明提供安全网的目的。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "families weather bad times",
+          "修饰对象": "help",
+          "中文翻译": "家庭渡过艰难时期",
+          "说明": "help 后接复合宾语，families 作宾语，weather bad times 为省略 to 的不定式作宾语补足语。"
+        }
+      ],
+      "zh": "这种\"额外劳动者效应\"可以支撑由失业保险或伤残保险所提供的、用于帮助家庭渡过艰难时期的那张安全网。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2007-text3-s8",
+      "s": "But today, a disruption to family fortunes can no longer be made up with extra income from an otherwise-stay-at-home partner.",
+      "para_no": 2,
+      "para_seq": 5,
+      "trunk": {
+        "主语": "a disruption to family fortunes",
+        "谓语": "can no longer be made up",
+        "宾语或表语": "with extra income",
+        "主干翻译": "家庭财富所受的冲击再也无法被弥补了。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "to family fortunes",
+          "修饰对象": "disruption",
+          "中文翻译": "对家庭财富的",
+          "说明": "介词短语作后置定语，修饰 a disruption，说明冲击的对象。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "with extra income from an otherwise-stay-at-home partner",
+          "修饰对象": "made",
+          "中文翻译": "用一位原本会留在家中的伴侣的额外收入",
+          "说明": "with 引导的介词短语作方式状语，说明 be made up 的弥补手段。"
+        }
+      ],
+      "zh": "但如今，家庭财富所遭受的冲击，再也无法用一位原本会留在家中的伴侣的额外收入来加以弥补了。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2007-text3-s9",
+      "s": "During the same period, families have been asked to absorb much more risk in their retirement income.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "families",
+        "谓语": "have been asked",
+        "宾语或表语": "to absorb much more risk",
+        "主干翻译": "家庭被要求承担更多的风险。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to absorb much more risk in their retirement income",
+          "修饰对象": "asked",
+          "中文翻译": "去承担其退休收入方面更多的风险",
+          "说明": "不定式短语作宾语补足语（be asked to do 结构），表示被要求做的内容。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "During the same period",
+          "修饰对象": "asked",
+          "中文翻译": "在同一时期",
+          "说明": "时间介词短语作状语，置于句首修饰全句。"
+        }
+      ],
+      "zh": "在同一时期，家庭被要求在其退休收入方面承担更多的风险。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2007-text3-s10",
+      "s": "Steelworkers, airline employees, and now those in the auto industry are joining millions of families who must worry about interest rates, stock market fluctuation, and the harsh reality that they may outlive their retirement money.",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Steelworkers, airline employees, and those in the auto industry",
+        "谓语": "are joining",
+        "宾语或表语": "millions of families",
+        "主干翻译": "钢铁工人、航空公司雇员以及汽车业从业者正在加入数百万个家庭的行列。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "airline employees, and now those in the auto industry",
+          "修饰对象": "Steelworkers",
+          "中文翻译": "航空公司雇员，以及如今汽车行业中的从业者",
+          "说明": "三个名词性成分并列作主语，由逗号和 and 连接，Steelworkers 为首项。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "who must worry about interest rates, stock market fluctuation, and the harsh reality that they may outlive their retirement money",
+          "修饰对象": "millions",
+          "中文翻译": "这些家庭必须担忧利率、股市波动以及一个严酷的现实——他们可能比自己的退休金活得更久",
+          "说明": "who 引导的定语从句，修饰 millions of families，关系代词 who 作从句主语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "stock market fluctuation, and the harsh reality that they may outlive their retirement money",
+          "修饰对象": "rates",
+          "中文翻译": "股市波动，以及他们可能比退休金活得更久这一严酷现实",
+          "说明": "worry about 后三个宾语并列，interest rates 为首项，由逗号和 and 连接。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "that they may outlive their retirement money",
+          "修饰对象": "reality",
+          "中文翻译": "他们可能比自己的退休金活得更久",
+          "说明": "that 引导同位语从句，对 the harsh reality 的内容作具体说明，that 不充当句子成分。"
+        }
+      ],
+      "zh": "钢铁工人、航空公司雇员、以及如今汽车行业的从业者，正在加入数百万个家庭的行列——这些家庭必须担忧利率、股市波动，以及一个严酷的现实：他们可能比自己的退休金活得更久。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2007-text3-s11",
+      "s": "For much of the past year, President Bush campaigned to move Social Security to a savings-account model, with retirees trading much or all of their guaranteed payments for payments depending on investment returns.",
+      "para_no": 3,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "President Bush",
+        "谓语": "campaigned",
+        "宾语或表语": "to move Social Security to a savings-account model",
+        "主干翻译": "布什总统大力推动将社会保障转向储蓄账户模式。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to move Social Security to a savings-account model",
+          "修饰对象": "campaigned",
+          "中文翻译": "去将社会保障转向一种储蓄账户模式",
+          "说明": "不定式短语作目的状语，说明 campaigned 的目标。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "with retirees trading much or all of their guaranteed payments for payments depending on investment returns",
+          "修饰对象": "move",
+          "中文翻译": "退休人员用其大部分或全部的有保障的支付，去换取依赖投资回报的支付",
+          "说明": "with 引导的独立主格结构作伴随状语，retirees 为逻辑主语，trading 为现在分词。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "depending on investment returns",
+          "修饰对象": "payments",
+          "中文翻译": "依赖于投资回报的",
+          "说明": "现在分词短语作后置定语，修饰后一个 payments，说明这种支付的性质。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "For much of the past year",
+          "修饰对象": "campaigned",
+          "中文翻译": "在过去一年的大部分时间里",
+          "说明": "时间介词短语作状语，置于句首修饰全句。"
+        }
+      ],
+      "zh": "在过去一年的大部分时间里，布什总统一直大力推动将社会保障转向一种储蓄账户模式，即退休人员用其大部分或全部有保障的支付，去换取依赖投资回报的支付。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2007-text3-s12",
+      "s": "For younger families, the picture is not any better.",
+      "para_no": 3,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "the picture",
+        "谓语": "is",
+        "宾语或表语": "not any better",
+        "主干翻译": "情况并没有任何好转。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "For younger families",
+          "修饰对象": "is",
+          "中文翻译": "对于较年轻的家庭来说",
+          "说明": "介词短语作状语，置于句首，限定全句的适用范围。"
+        }
+      ],
+      "zh": "对于较年轻的家庭来说，情况也并没有任何好转。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2007-text3-s13",
+      "s": "Both the absolute cost of healthcare and the share of it borne by families have risen—and newly fashionable health-savings plans are spreading from legislative halls to Wal-Mart workers, with much higher deductibles and a large new dose of investment risk for families' future healthcare.",
+      "para_no": 3,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "Both the absolute cost of healthcare and the share of it",
+        "谓语": "have risen",
+        "宾语或表语": "—",
+        "主干翻译": "医疗保健的绝对成本和其中由家庭承担的份额都上升了。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "the share of it borne by families",
+          "修饰对象": "cost",
+          "中文翻译": "其中由家庭承担的份额",
+          "说明": "Both...and... 连接两个名词短语并列作主语，the absolute cost of healthcare 为首项。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "borne by families",
+          "修饰对象": "share",
+          "中文翻译": "由家庭所承担的",
+          "说明": "过去分词短语作后置定语，修饰 the share of it。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "newly fashionable health-savings plans are spreading from legislative halls to Wal-Mart workers, with much higher deductibles and a large new dose of investment risk for families' future healthcare.",
+          "修饰对象": "risen",
+          "中文翻译": "新近流行的健康储蓄计划正从立法机构蔓延到沃尔玛工人，伴随着高得多的免赔额和针对家庭未来医疗的一大笔新的投资风险",
+          "说明": "破折号后由 and 连接的并列分句，与前一分句构成并列关系。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "a large new dose of investment risk for families' future healthcare",
+          "修饰对象": "deductibles",
+          "中文翻译": "针对家庭未来医疗的一大笔新的投资风险",
+          "说明": "with 短语内由 and 连接的两个名词并列，much higher deductibles 为首项。"
+        }
+      ],
+      "zh": "医疗保健的绝对成本以及其中由家庭承担的份额都已上升——而新近流行的健康储蓄计划正从立法机构蔓延到沃尔玛的工人，伴随而来的是高得多的免赔额，以及针对家庭未来医疗的一大笔新增投资风险。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2007-text3-s14",
+      "s": "Even demographics are working against the middle class family, as the odds of having a weak elderly parent—and all the attendant need for physical and financial assistance—have jumped eightfold in just one generation.",
+      "para_no": 3,
+      "para_seq": 5,
+      "trunk": {
+        "主语": "demographics",
+        "谓语": "are working",
+        "宾语或表语": "against the middle class family",
+        "主干翻译": "甚至人口结构也在对中产阶级家庭起着不利作用。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(原因)",
+          "原文": "as the odds of having a weak elderly parent—and all the attendant need for physical and financial assistance—have jumped eightfold in just one generation",
+          "修饰对象": "working",
+          "中文翻译": "因为家中有一位体弱年迈父母的几率——以及随之而来的对身体照料和经济援助的全部需求——在仅仅一代人的时间里增加了八倍",
+          "说明": "as 引导原因状语从句，解释人口结构不利的原因。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "all the attendant need for physical and financial assistance",
+          "修饰对象": "odds",
+          "中文翻译": "随之而来的对身体照料和经济援助的全部需求",
+          "说明": "两个破折号之间由 and 引出的并列成分，与 the odds of having a weak elderly parent 一同作从句主语。"
+        }
+      ],
+      "zh": "甚至连人口结构也在对中产阶级家庭起着不利作用，因为家中有一位体弱年迈父母的几率——以及随之而来的对身体照料和经济援助的全部需求——在仅仅一代人的时间里就猛增了八倍。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2007-text3-s15",
+      "s": "From the middle-class family perspective, much of this, understandably, looks far less like an opportunity to exercise more financial responsibility, and a good deal more like a frightening acceleration of the wholesale shift of financial risk onto their already overburdened shoulders.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "much of this",
+        "谓语": "looks",
+        "宾语或表语": "far less like an opportunity",
+        "主干翻译": "这一切在很大程度上看起来远不像是一个机会。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to exercise more financial responsibility",
+          "修饰对象": "opportunity",
+          "中文翻译": "去承担更多财务责任的",
+          "说明": "不定式短语作后置定语，修饰 an opportunity，说明机会的内容。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "a good deal more like a frightening acceleration of the wholesale shift of financial risk onto their already overburdened shoulders",
+          "修饰对象": "looks",
+          "中文翻译": "而更像是金融风险全面转移到他们本已不堪重负的肩上这一过程的可怕加速",
+          "说明": "与 far less like an opportunity 构成 less...more like... 的并列表语结构，同作 looks 的表语。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "understandably",
+          "修饰对象": "looks",
+          "中文翻译": "可以理解的是",
+          "说明": "副词作插入语，表达说话者的评注态度。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "From the middle-class family perspective",
+          "修饰对象": "looks",
+          "中文翻译": "从中产阶级家庭的视角来看",
+          "说明": "介词短语作状语，置于句首，限定观察的视角。"
+        }
+      ],
+      "zh": "从中产阶级家庭的视角来看，可以理解的是，这一切在很大程度上看起来远不像是一个承担更多财务责任的机会，而更像是金融风险全面转移到他们本已不堪重负的肩上这一过程的可怕加速。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2007-text3-s16",
+      "s": "The financial fallout has begun, and the political fallout may not be far behind.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "The financial fallout",
+        "谓语": "has begun",
+        "宾语或表语": "—",
+        "主干翻译": "经济上的连锁后果已经开始显现。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "the political fallout may not be far behind",
+          "修饰对象": "begun",
+          "中文翻译": "政治上的连锁后果也可能不会落后太远",
+          "说明": "and 连接的并列分句，与前一分句构成并列关系。"
+        }
+      ],
+      "zh": "经济上的连锁后果已经开始显现，而政治上的连锁后果也可能为时不远。",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2007-text3-s1",
+        "en1-2007-text3-s2"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2007-text3-s3",
+        "en1-2007-text3-s4",
+        "en1-2007-text3-s5",
+        "en1-2007-text3-s6",
+        "en1-2007-text3-s7",
+        "en1-2007-text3-s8"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2007-text3-s9",
+        "en1-2007-text3-s10",
+        "en1-2007-text3-s11",
+        "en1-2007-text3-s12",
+        "en1-2007-text3-s13",
+        "en1-2007-text3-s14"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2007-text3-s15",
+        "en1-2007-text3-s16"
+      ]
+    }
+  ]
+}

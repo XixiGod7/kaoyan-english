@@ -5,6 +5,9 @@ import { viteSingleFile } from 'vite-plugin-singlefile'
 export default defineConfig({
   plugins: [react(), viteSingleFile()],
   base: './',
+  resolve: {
+    preserveSymlinks: true,
+  },
   server: {
     host: '0.0.0.0',
     allowedHosts: true,

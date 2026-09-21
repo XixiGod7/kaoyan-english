@@ -1,0 +1,760 @@
+{
+  "exam": "en1",
+  "key": "2021-t3",
+  "year": 2021,
+  "text_no": 3,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2021-text3-s1",
+      "s": "As a historian, who's always searching for the text or the image that makes us re-evaluate the past.",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "(I)",
+        "谓语": "—",
+        "宾语或表语": "—",
+        "主干翻译": "作为一名历史学家（本句为不完整句，仅为同位语加定语从句的片段）。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "As a historian",
+          "修饰对象": "—",
+          "中文翻译": "作为一名历史学家",
+          "说明": "as引导的介词短语作身份说明，统领后文。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "who's always searching for the text or the image that makes us re-evaluate the past",
+          "修饰对象": "historian",
+          "中文翻译": "（这位历史学家）总是在寻找那些能让我们重新评价过去的文字或图像",
+          "说明": "who引导定语从句修饰historian；who's = who is，构成现在进行时。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that makes us re-evaluate the past",
+          "修饰对象": "text or the image",
+          "中文翻译": "能让我们重新评价过去的（文字或图像）",
+          "说明": "that引导定语从句修饰先行词the text or the image；makes为复合宾语谓语（make sb do）。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "us re-evaluate the past",
+          "修饰对象": "makes",
+          "中文翻译": "我们重新评价过去",
+          "说明": "make的复合宾语：us为宾语，re-evaluate the past为宾语补足语（不带to的不定式）。"
+        }
+      ],
+      "zh": "作为一名总是在寻找那些能让我们重新评价过去的文字或图像的历史学家……",
+      "underline": null
+    },
+    {
+      "sid": "en1-2021-text3-s2",
+      "s": "I've become preoccupied with looking for photographs that show our Victorian ancestors smiling (what better way to shatter the image of 19th-century prudery?).",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "I",
+        "谓语": "have become preoccupied",
+        "宾语或表语": "with looking for photographs",
+        "主干翻译": "我变得一心专注于寻找照片。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "with looking for photographs",
+          "修饰对象": "preoccupied",
+          "中文翻译": "专注于寻找照片",
+          "说明": "with引导介词短语，作become preoccupied的补充说明。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that show our Victorian ancestors smiling",
+          "修饰对象": "photographs",
+          "中文翻译": "展现我们维多利亚时代祖先微笑的（照片）",
+          "说明": "that引导定语从句修饰photographs；show后接复合宾语。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "our Victorian ancestors smiling",
+          "修饰对象": "show",
+          "中文翻译": "我们维多利亚时代的祖先在微笑",
+          "说明": "show的复合宾语：our Victorian ancestors为宾语，smiling为现在分词作宾语补足语。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "what better way to shatter the image of 19th-century prudery?",
+          "修饰对象": "—",
+          "中文翻译": "还有什么比这更好的方式来打破19世纪假正经的形象呢？",
+          "说明": "括号内为插入的反问句。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to shatter the image of 19th-century prudery",
+          "修饰对象": "way",
+          "中文翻译": "打破19世纪假正经形象的（方式）",
+          "说明": "动词不定式作定语修饰way。"
+        }
+      ],
+      "zh": "我变得一心扑在寻找那些展现我们维多利亚时代祖先微笑的照片上（还有什么比这更好的方式来打破19世纪假正经的刻板形象呢？）。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2021-text3-s3",
+      "s": "I've found quite a few, and—since I started posting them on Twitter—they have been causing quite a stir.",
+      "para_no": 1,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "I / they",
+        "谓语": "have found / have been causing",
+        "宾语或表语": "quite a few / quite a stir",
+        "主干翻译": "我找到了相当多（这样的照片），而它们一直在引起不小的轰动。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "they have been causing quite a stir",
+          "修饰对象": "—",
+          "中文翻译": "它们一直在引起不小的轰动",
+          "说明": "由and连接的并列分句，与I've found quite a few并列。"
+        },
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "since I started posting them on Twitter",
+          "修饰对象": "causing",
+          "中文翻译": "自从我开始把它们发到推特上",
+          "说明": "since引导时间状语从句（与现在完成进行时呼应，表自……以来）。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "posting them on Twitter",
+          "修饰对象": "started",
+          "中文翻译": "把它们发到推特上",
+          "说明": "start doing结构，posting them on Twitter为started的宾语（动名词）。"
+        }
+      ],
+      "zh": "我已经找到了相当多（这样的照片），而且自从我开始把它们发到推特上以来，它们就一直引起不小的轰动。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2021-text3-s4",
+      "s": "People have been surprised to see evidence that Victorians had fun and could, and did, laugh.",
+      "para_no": 1,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "People",
+        "谓语": "have been surprised",
+        "宾语或表语": "to see evidence",
+        "主干翻译": "人们看到证据时感到惊讶。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to see evidence that Victorians had fun and could, and did, laugh",
+          "修饰对象": "surprised",
+          "中文翻译": "看到证明维多利亚时代的人也会找乐子、能够也确实会笑的证据",
+          "说明": "不定式作原因状语，说明surprised的原因。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "that Victorians had fun and could, and did, laugh",
+          "修饰对象": "evidence",
+          "中文翻译": "维多利亚时代的人也会找乐子，能够而且确实会笑",
+          "说明": "that引导同位语从句，解释evidence的内容。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "could, and did, laugh",
+          "修饰对象": "had",
+          "中文翻译": "能够而且确实会笑",
+          "说明": "与had fun并列，由and连接，同为同位语从句的谓语部分。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "did, laugh",
+          "修饰对象": "could",
+          "中文翻译": "确实会笑",
+          "说明": "could laugh与did laugh并列（and连接），共用动词laugh，did表强调。"
+        }
+      ],
+      "zh": "人们看到证据后大为惊讶——原来维多利亚时代的人也会找乐子，能够而且确实会开怀大笑。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2021-text3-s5",
+      "s": "They are noting that the Victorians suddenly seem to become more human as the hundred-or-so years that separate us fade away through our common experience of laughter.",
+      "para_no": 1,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "They",
+        "谓语": "are noting",
+        "宾语或表语": "that...（宾语从句）",
+        "主干翻译": "他们注意到（某种情况）。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "that the Victorians suddenly seem to become more human as the hundred-or-so years that separate us fade away through our common experience of laughter",
+          "修饰对象": "noting",
+          "中文翻译": "维多利亚时代的人忽然显得更具人情味，因为把我们隔开的那一百来年随着我们共有的笑的体验而逐渐消失",
+          "说明": "that引导are noting的宾语从句。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to become more human as the hundred-or-so years that separate us fade away through our common experience of laughter",
+          "修饰对象": "seem",
+          "中文翻译": "变得更有人情味……",
+          "说明": "seem to do结构，不定式作系动词seem的表语成分。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that separate us",
+          "修饰对象": "years",
+          "中文翻译": "把我们隔开的（那一百来年）",
+          "说明": "that引导定语从句修饰the hundred-or-so years。"
+        },
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "as the hundred-or-so years that separate us fade away through our common experience of laughter",
+          "修饰对象": "become",
+          "中文翻译": "随着把我们隔开的那一百来年通过我们共有的笑的体验逐渐消失",
+          "说明": "as引导时间状语从句（表随着……），其中through our common experience of laughter为方式状语。"
+        }
+      ],
+      "zh": "他们注意到，随着把我们隔开的那一百来年通过我们共有的笑的体验渐渐消融，维多利亚时代的人忽然显得更有人情味了。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2021-text3-s6",
+      "s": "Of course, I need to concede that my collection of \"Smiling Victorians\" makes up only a tiny percentage of the vast catalogue of photographic portraiture created between 1840 and 1900, the majority of which show sitters posing miserably and stiffly in front of painted backdrops, or staring absently into the middle distance.",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "I",
+        "谓语": "need to concede",
+        "宾语或表语": "that...（宾语从句）",
+        "主干翻译": "我得承认（某种情况）。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "Of course",
+          "修饰对象": "—",
+          "中文翻译": "当然",
+          "说明": "句首插入语，表语气。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to concede that my collection of \"Smiling Victorians\" makes up only a tiny percentage of the vast catalogue of photographic portraiture created between 1840 and 1900, the majority of which show sitters posing miserably and stiffly in front of painted backdrops, or staring absently into the middle distance",
+          "修饰对象": "need",
+          "中文翻译": "承认……",
+          "说明": "need to do结构，不定式作need的宾语，统领后面的宾语从句。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that my collection of \"Smiling Victorians\" makes up only a tiny percentage of the vast catalogue of photographic portraiture created between 1840 and 1900, the majority of which show sitters posing miserably and stiffly in front of painted backdrops, or staring absently into the middle distance",
+          "修饰对象": "concede",
+          "中文翻译": "我收藏的“微笑的维多利亚人”只占1840至1900年间所拍摄的庞大肖像照片目录中极小的一部分，其中大多数照片里的拍摄对象都是在彩绘背景前痛苦而僵硬地摆姿势，或茫然地凝视着中景",
+          "说明": "that引导concede的宾语从句。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "created between 1840 and 1900",
+          "修饰对象": "portraiture",
+          "中文翻译": "1840至1900年间创作的（肖像照片）",
+          "说明": "过去分词短语作后置定语修饰photographic portraiture。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "the majority of which show sitters posing miserably and stiffly in front of painted backdrops, or staring absently into the middle distance",
+          "修饰对象": "catalogue",
+          "中文翻译": "其中大多数（照片）显示拍摄对象在彩绘背景前痛苦而僵硬地摆姿势，或茫然地凝视着中景",
+          "说明": "of which引导非限制性定语从句，先行词为catalogue（of photographic portraiture）。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "posing miserably and stiffly in front of painted backdrops, or staring absently into the middle distance",
+          "修饰对象": "sitters",
+          "中文翻译": "在彩绘背景前痛苦而僵硬地摆姿势，或茫然地凝视着中景",
+          "说明": "现在分词短语作show的复合宾语补足语，修饰sitters。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "staring absently into the middle distance",
+          "修饰对象": "posing",
+          "中文翻译": "茫然地凝视着中景",
+          "说明": "与posing...并列（or连接），同作sitters的补足语。"
+        }
+      ],
+      "zh": "当然，我得承认，我收藏的“微笑的维多利亚人”只占1840至1900年间拍摄的庞大肖像照片目录中极小的一部分，而那些照片里的拍摄对象大多在彩绘背景前痛苦僵硬地摆着姿势，或茫然地凝视着中景。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2021-text3-s7",
+      "s": "How do we explain this trend?",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "we",
+        "谓语": "do explain",
+        "宾语或表语": "this trend",
+        "主干翻译": "我们解释这一趋势。"
+      },
+      "components": [],
+      "zh": "我们如何解释这一趋势呢？",
+      "underline": null
+    },
+    {
+      "sid": "en1-2021-text3-s8",
+      "s": "During the 1840s and 1850s, in the early days of photography, exposure times were notoriously long: the daguerreotype photographic method (producing an image on a silvered copper plate) could take several minutes to complete, resulting in blurred images as sitters shifted position or adjusted their limbs.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "exposure times / the daguerreotype photographic method",
+        "谓语": "were / could take",
+        "宾语或表语": "notoriously long / several minutes",
+        "主干翻译": "曝光时间长得出了名；银版照相法可能要花几分钟。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "During the 1840s and 1850s, in the early days of photography",
+          "修饰对象": "were",
+          "中文翻译": "在19世纪40和50年代，即摄影的早期",
+          "说明": "时间状语；in the early days of photography为前者的同位说明。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "producing an image on a silvered copper plate",
+          "修饰对象": "method",
+          "中文翻译": "在镀银铜板上产生影像的（方法）",
+          "说明": "括号内现在分词短语作定语修饰the daguerreotype photographic method。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to complete",
+          "修饰对象": "take",
+          "中文翻译": "（花几分钟）来完成",
+          "说明": "不定式作目的状语，take several minutes to complete。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "resulting in blurred images as sitters shifted position or adjusted their limbs",
+          "修饰对象": "take",
+          "中文翻译": "结果当拍摄对象挪动位置或调整肢体时便会产生模糊的影像",
+          "说明": "现在分词短语作结果状语，承接could take several minutes。"
+        },
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "as sitters shifted position or adjusted their limbs",
+          "修饰对象": "resulting",
+          "中文翻译": "当拍摄对象挪动位置或调整肢体时",
+          "说明": "as引导时间状语从句，修饰resulting in blurred images。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "adjusted their limbs",
+          "修饰对象": "shifted",
+          "中文翻译": "调整肢体",
+          "说明": "与shifted position并列（or连接），同为时间状语从句的谓语。"
+        }
+      ],
+      "zh": "在19世纪40和50年代，即摄影刚兴起的早期，曝光时间长得出了名：银版照相法（在镀银铜板上成像）可能要花上好几分钟才能完成，结果只要拍摄对象挪动位置或调整肢体，照片就会模糊。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2021-text3-s9",
+      "s": "The thought of holding a fixed grin as the camera performed its magical duties was too much to contemplate, and so a non-committal blank stare became the norm.",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "The thought / a non-committal blank stare",
+        "谓语": "was / became",
+        "宾语或表语": "too much / the norm",
+        "主干翻译": "（保持笑容这种）想法让人难以承受，于是漠然的空洞凝视成了常态。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "of holding a fixed grin",
+          "修饰对象": "thought",
+          "中文翻译": "保持固定笑容的（想法）",
+          "说明": "of引导的介词短语作定语修饰The thought（holding为动名词）。"
+        },
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "as the camera performed its magical duties",
+          "修饰对象": "holding",
+          "中文翻译": "当相机施展其神奇的功用时",
+          "说明": "as引导时间状语从句，修饰holding a fixed grin。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to contemplate",
+          "修饰对象": "much",
+          "中文翻译": "去设想",
+          "说明": "too...to结构，不定式作状语，too much to contemplate表“难以想象/无法承受”。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "so a non-committal blank stare became the norm",
+          "修饰对象": "—",
+          "中文翻译": "于是漠然的空洞凝视成了常态",
+          "说明": "由and so连接的并列分句，表结果。"
+        }
+      ],
+      "zh": "一想到在相机施展其神奇功用的过程中要一直保持着固定的笑容，就让人难以忍受，于是，一种不置可否的空洞凝视便成了常态。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2021-text3-s10",
+      "s": "But exposure times were much quicker by the 1880 s, and the introduction of the Box Brownie and other portable cameras meant that, though slow by today's digital standards, the exposure was almost instantaneous.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "exposure times / the introduction",
+        "谓语": "were / meant",
+        "宾语或表语": "much quicker / that...（宾语从句）",
+        "主干翻译": "曝光时间快了许多，而（盒式布朗尼等便携相机的）问世意味着（某种情况）。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "by the 1880 s",
+          "修饰对象": "were",
+          "中文翻译": "到19世纪80年代",
+          "说明": "时间状语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "other portable cameras",
+          "修饰对象": "Brownie",
+          "中文翻译": "其他便携式相机",
+          "说明": "与the Box Brownie并列（and连接），同作introduction of的宾语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "the introduction of the Box Brownie and other portable cameras meant that, though slow by today's digital standards, the exposure was almost instantaneous",
+          "修饰对象": "—",
+          "中文翻译": "盒式布朗尼及其他便携相机的问世意味着……",
+          "说明": "由and连接的并列分句，与But exposure times were much quicker by the 1880s并列。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that, though slow by today's digital standards, the exposure was almost instantaneous",
+          "修饰对象": "meant",
+          "中文翻译": "尽管以今天的数码标准衡量仍算慢，曝光却几乎是瞬间完成的",
+          "说明": "that引导meant的宾语从句。"
+        },
+        {
+          "成分类型": "状语从句(让步)",
+          "原文": "though slow by today's digital standards",
+          "修饰对象": "was",
+          "中文翻译": "尽管以今天的数码标准来看仍然很慢",
+          "说明": "though引导让步状语从句（省略the exposure was），插入在宾语从句内部。"
+        }
+      ],
+      "zh": "但到了19世纪80年代，曝光时间已经快了许多，而盒式布朗尼相机及其他便携相机的问世则意味着：尽管以今天的数码标准衡量仍算慢，曝光却几乎是瞬间完成的。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2021-text3-s11",
+      "s": "Spontaneous smiles were relatively easy to capture by the 1890 s, so we must look elsewhere for an explanation of why Victorians still hesitated to smile.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Spontaneous smiles / we",
+        "谓语": "were / must look",
+        "宾语或表语": "relatively easy / elsewhere",
+        "主干翻译": "自然的微笑相对容易捕捉，所以我们必须到别处去寻找。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to capture",
+          "修饰对象": "easy",
+          "中文翻译": "（容易）捕捉",
+          "说明": "不定式作状语修饰形容词easy（easy to capture）。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "so we must look elsewhere for an explanation of why Victorians still hesitated to smile",
+          "修饰对象": "—",
+          "中文翻译": "所以我们必须到别处去寻找维多利亚人为何仍不愿微笑的解释",
+          "说明": "由so连接的并列分句，表结果。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "why Victorians still hesitated to smile",
+          "修饰对象": "explanation",
+          "中文翻译": "维多利亚人为何仍然不愿微笑",
+          "说明": "why引导的疑问词从句作介词of的宾语，对explanation进行说明。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to smile",
+          "修饰对象": "hesitated",
+          "中文翻译": "微笑",
+          "说明": "不定式作hesitate的宾语（hesitate to do）。"
+        }
+      ],
+      "zh": "到19世纪90年代，自然的微笑已相对容易捕捉，因此我们必须到别处去寻找维多利亚人为何仍不愿微笑的原因。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2021-text3-s12",
+      "s": "One explanation might be the loss of dignity displayed through a cheesy grin.",
+      "para_no": 5,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "One explanation",
+        "谓语": "might be",
+        "宾语或表语": "the loss of dignity",
+        "主干翻译": "一种解释可能是尊严的丧失。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "displayed through a cheesy grin",
+          "修饰对象": "dignity",
+          "中文翻译": "通过一个做作的笑容所表现出的（尊严丧失）",
+          "说明": "过去分词短语作后置定语修饰the loss of dignity。"
+        }
+      ],
+      "zh": "一种解释可能是：咧嘴傻笑会让人显得有失尊严。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2021-text3-s13",
+      "s": "\"Nature gave us lips to conceal our teeth,\" ran one popular Victorian maxim, alluding to the fact that before the birth of proper dentistry, mouths were often in a shocking state of hygiene.",
+      "para_no": 5,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "one popular Victorian maxim",
+        "谓语": "ran",
+        "宾语或表语": "\"Nature gave us lips to conceal our teeth\"",
+        "主干翻译": "一句流行的维多利亚格言这样说道。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "Nature gave us lips to conceal our teeth",
+          "修饰对象": "ran",
+          "中文翻译": "造物主赐予我们嘴唇是为了遮住牙齿",
+          "说明": "引语为ran（“写道/说道”）的内容，前置形成倒装，主语maxim后置。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to conceal our teeth",
+          "修饰对象": "lips",
+          "中文翻译": "用来遮住牙齿的（嘴唇）",
+          "说明": "不定式作定语修饰lips（也含目的意味）。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "alluding to the fact that before the birth of proper dentistry, mouths were often in a shocking state of hygiene",
+          "修饰对象": "ran",
+          "中文翻译": "暗指在正规牙科诞生之前，人们口腔的卫生状况常常糟糕得惊人这一事实",
+          "说明": "现在分词短语作伴随状语，修饰主句。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "that before the birth of proper dentistry, mouths were often in a shocking state of hygiene",
+          "修饰对象": "fact",
+          "中文翻译": "在正规牙科诞生之前，人们的口腔卫生状况常常糟糕得惊人",
+          "说明": "that引导同位语从句，解释the fact；before the birth of proper dentistry为其内部时间状语。"
+        }
+      ],
+      "zh": "“造物主赐予我们嘴唇，是为了遮住牙齿，”一句流行的维多利亚格言这样说道，暗指在正规牙科诞生之前，人们的口腔卫生状况常常糟糕得惊人。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2021-text3-s14",
+      "s": "A flashing set of healthy and clean, regular \"pearly whites\" was a rare sight in Victorian society, the preserve of the super-rich (and even then, dental hygiene was not guaranteed).",
+      "para_no": 5,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "A flashing set of ... \"pearly whites\"",
+        "谓语": "was",
+        "宾语或表语": "a rare sight",
+        "主干翻译": "一口闪亮的“皓齿”在维多利亚社会是难得一见的景象。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "in Victorian society",
+          "修饰对象": "sight",
+          "中文翻译": "在维多利亚社会",
+          "说明": "介词短语，限定rare sight的范围。"
+        },
+        {
+          "成分类型": "同位语",
+          "原文": "the preserve of the super-rich",
+          "修饰对象": "set",
+          "中文翻译": "是超级富豪的专属",
+          "说明": "名词短语作同位语，进一步说明a flashing set of ...“pearly whites”。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "and even then, dental hygiene was not guaranteed",
+          "修饰对象": "—",
+          "中文翻译": "而且即便如此，牙齿卫生也无法保证",
+          "说明": "括号内插入的补充分句。"
+        }
+      ],
+      "zh": "在维多利亚社会，一口健康、干净、整齐而闪亮的“皓齿”实属罕见，那是超级富豪的专属（而且即便是富豪，牙齿卫生也无法保证）。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2021-text3-s15",
+      "s": "A toothy grin (especially when there were gaps or blackened gnashers) lacked class: drunks, tramps,and music hall performers might gurn and grin with a smile as wide as Lewis Carroll's gum-exposing Cheshire Cat, but it was not a becoming look for properly bred persons.",
+      "para_no": 6,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "A toothy grin / ... performers / it",
+        "谓语": "lacked / might gurn and grin / was",
+        "宾语或表语": "class / — / not a becoming look",
+        "主干翻译": "露齿大笑缺乏格调；醉汉、流浪汉、妓女和滑稽的歌舞厅艺人或许会做鬼脸、咧嘴笑，但那对教养良好的人来说并非得体的样子。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "especially when there were gaps or blackened gnashers",
+          "修饰对象": "grin",
+          "中文翻译": "尤其是当牙齿有缺口或牙齿发黑时",
+          "说明": "括号内when引导时间/条件状语从句，修饰A toothy grin的情形。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "tramps,and music hall performers",
+          "修饰对象": "drunks",
+          "中文翻译": "流浪汉和歌舞厅艺人",
+          "说明": "与drunks并列，共同作might gurn and grin的主语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "grin with a smile as wide as Lewis Carroll's gum-exposing Cheshire Cat",
+          "修饰对象": "gurn",
+          "中文翻译": "咧开嘴笑，笑容像刘易斯·卡罗尔笔下露出牙龈的柴郡猫一样宽",
+          "说明": "与gurn并列（and连接），共用might。"
+        },
+        {
+          "成分类型": "状语从句(比较)",
+          "原文": "as wide as Lewis Carroll's gum-exposing Cheshire Cat",
+          "修饰对象": "smile",
+          "中文翻译": "像刘易斯·卡罗尔笔下露出牙龈的柴郡猫一样宽",
+          "说明": "as...as引导比较状语，修饰a smile的宽度。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "it was not a becoming look for properly bred persons",
+          "修饰对象": "—",
+          "中文翻译": "但对教养良好的人来说，那并不是一副得体的样子",
+          "说明": "由but连接的并列分句，与前面might gurn and grin...转折。"
+        }
+      ],
+      "zh": "露齿大笑（尤其是牙齿有缺口或发黑时）显得没有格调：醉汉、流浪汉以及歌舞厅艺人或许会做着鬼脸、咧着嘴大笑，笑得像刘易斯·卡罗尔笔下那只露出牙龈的柴郡猫一样夸张，但对于出身良好、教养有素的人来说，这并不是一副得体的模样。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2021-text3-s16",
+      "s": "Even Mark Twain, a man who enjoyed a hearty laugh, said that when it came to photographic portraits there could be \"nothing more damning than a silly, foolish smile fixed forever\".",
+      "para_no": 6,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Mark Twain",
+        "谓语": "said",
+        "宾语或表语": "that...（宾语从句）",
+        "主干翻译": "就连马克·吐温也说（某种观点）。"
+      },
+      "components": [
+        {
+          "成分类型": "同位语",
+          "原文": "a man who enjoyed a hearty laugh",
+          "修饰对象": "Twain",
+          "中文翻译": "一个喜欢开怀大笑的人",
+          "说明": "名词短语作Mark Twain的同位语。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "who enjoyed a hearty laugh",
+          "修饰对象": "man",
+          "中文翻译": "喜欢开怀大笑的（人）",
+          "说明": "who引导定语从句修饰a man。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that when it came to photographic portraits there could be \"nothing more damning than a silly, foolish smile fixed forever\"",
+          "修饰对象": "said",
+          "中文翻译": "在拍照肖像这件事上，再没有什么比一个永远定格的傻笑更糟糕的了",
+          "说明": "that引导said的宾语从句。"
+        },
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "when it came to photographic portraits",
+          "修饰对象": "be",
+          "中文翻译": "当谈到拍照肖像时",
+          "说明": "when it comes to结构，引导条件/话题状语从句，置于宾语从句内部。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "fixed forever",
+          "修饰对象": "smile",
+          "中文翻译": "永远定格的（傻笑）",
+          "说明": "过去分词短语作后置定语修饰a silly, foolish smile。"
+        }
+      ],
+      "zh": "就连喜欢开怀大笑的马克·吐温也说过，在拍摄肖像照这件事上，“再没有什么比一个永远定格的傻乎乎的笑容更糟糕的了”。",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2021-text3-s1",
+        "en1-2021-text3-s2",
+        "en1-2021-text3-s3",
+        "en1-2021-text3-s4",
+        "en1-2021-text3-s5"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2021-text3-s6",
+        "en1-2021-text3-s7"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2021-text3-s8",
+        "en1-2021-text3-s9"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2021-text3-s10",
+        "en1-2021-text3-s11"
+      ]
+    },
+    {
+      "para_no": 5,
+      "sids": [
+        "en1-2021-text3-s12",
+        "en1-2021-text3-s13",
+        "en1-2021-text3-s14"
+      ]
+    },
+    {
+      "para_no": 6,
+      "sids": [
+        "en1-2021-text3-s15",
+        "en1-2021-text3-s16"
+      ]
+    }
+  ]
+}

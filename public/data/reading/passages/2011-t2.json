@@ -1,0 +1,899 @@
+{
+  "exam": "en1",
+  "key": "2011-t2",
+  "year": 2011,
+  "text_no": 2,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2011-text2-s1",
+      "s": "When Liam McGee departed as president of Bank of America in August, his explanation was surprisingly straight up.",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "his explanation",
+        "谓语": "was",
+        "宾语或表语": "surprisingly straight up",
+        "主干翻译": "他的解释出奇地直白。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "When Liam McGee departed as president of Bank of America in August",
+          "修饰对象": "was",
+          "中文翻译": "当利亚姆·麦基于八月卸任美国银行总裁时",
+          "说明": "When 引导时间状语从句，修饰主句谓语 was；as president of Bank of America 为身份状语，in August 为时间状语，并入本节点。"
+        }
+      ],
+      "zh": "当利亚姆·麦基于八月卸任美国银行总裁时，他给出的解释出奇地直白。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2011-text2-s2",
+      "s": "Rather than cloaking his exit in the usual vague excuses, he came right out and said he was leaving \"to pursue my goal of running a company.\"",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "he",
+        "谓语": "came right out and said",
+        "宾语或表语": "he was leaving \"to pursue my goal of running a company.\"",
+        "主干翻译": "他直截了当地说自己即将离职。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "Rather than cloaking his exit in the usual vague excuses",
+          "修饰对象": "came",
+          "中文翻译": "他没有像往常那样用含糊的借口来掩饰自己的离职",
+          "说明": "Rather than + 动名词构成方式/对比状语，修饰主句谓语 came。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "came right out and said",
+          "修饰对象": "—",
+          "中文翻译": "直截了当地说",
+          "说明": "come right out 与 said 由 and 并列，共用主语 he，构成主干谓语。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "he was leaving \"to pursue my goal of running a company",
+          "修饰对象": "said",
+          "中文翻译": "他即将离职",
+          "说明": "said 后省略 that 的宾语从句。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to pursue my goal of running a company",
+          "修饰对象": "leaving",
+          "中文翻译": "去追求经营一家公司的目标",
+          "说明": "不定式作目的状语，修饰 leaving；of running a company 作 goal 的定语，并入本节点。"
+        }
+      ],
+      "zh": "他没有像往常那样用含糊的借口来掩饰离职，而是直截了当地说，他要离开是\"为了追求经营一家公司的目标\"。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2011-text2-s3",
+      "s": "Broadcasting his ambition was \"very much my decision,\" McGee says.",
+      "para_no": 1,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Broadcasting his ambition",
+        "谓语": "was",
+        "宾语或表语": "\"very much my decision,\"",
+        "主干翻译": "公开自己的抱负完全是我自己的决定。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "Broadcasting his ambition",
+          "修饰对象": "—",
+          "中文翻译": "公开自己的抱负",
+          "说明": "动名词短语作主语，属主干成分，此处指出其性质。"
+        }
+      ],
+      "zh": "公开宣扬自己的抱负\"完全是我自己的决定\"，麦基说。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2011-text2-s4",
+      "s": "Within two weeks, he was talking for the first time with the board of Hartford Financial Services Group, which named him CEO and chairman on September 29.",
+      "para_no": 1,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "he",
+        "谓语": "was talking",
+        "宾语或表语": "with the board of Hartford Financial Services Group",
+        "主干翻译": "他正与哈特福德金融服务集团的董事会进行洽谈。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "Within two weeks",
+          "修饰对象": "was talking",
+          "中文翻译": "在两周之内",
+          "说明": "时间状语，修饰主句谓语。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "for the first time",
+          "修饰对象": "was talking",
+          "中文翻译": "首次",
+          "说明": "方式/频率状语，修饰主句谓语。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "which named him CEO and chairman on September 29",
+          "修饰对象": "Group",
+          "中文翻译": "该集团于9月29日任命他为首席执行官兼董事长",
+          "说明": "which 引导非限定性定语从句，修饰先行词 Group。"
+        }
+      ],
+      "zh": "两周之内，他便首次与哈特福德金融服务集团的董事会进行洽谈，该集团于9月29日任命他为首席执行官兼董事长。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2011-text2-s5",
+      "s": "McGee says leaving without a position lined up gave him time to reflect on what kind of company he wanted to run.",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "McGee",
+        "谓语": "says",
+        "宾语或表语": "leaving without a position lined up gave him time",
+        "主干翻译": "麦基说，在没有落实新职位的情况下离职给了他时间。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "leaving without a position lined up gave him time to reflect on what kind of company he wanted to run",
+          "修饰对象": "says",
+          "中文翻译": "在没有落实新职位的情况下离职给了他时间去思考自己想经营什么样的公司",
+          "说明": "says 后省略 that 的宾语从句，从句主语为动名词 leaving。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "lined up",
+          "修饰对象": "position",
+          "中文翻译": "已落实的（职位）",
+          "说明": "过去分词作后置定语，修饰 position。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to reflect on what kind of company he wanted to run",
+          "修饰对象": "time",
+          "中文翻译": "去思考自己想经营什么样的公司",
+          "说明": "不定式作 time 的后置定语。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "what kind of company he wanted to run",
+          "修饰对象": "reflect on",
+          "中文翻译": "自己想经营什么样的公司",
+          "说明": "what 引导的宾语从句，作介词 on 的宾语；run 后宾语前置为 what kind of company。"
+        }
+      ],
+      "zh": "麦基说，在没有落实新职位的情况下离职，给了他时间去思考自己想要经营什么样的公司。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2011-text2-s6",
+      "s": "It also sent a clear message to the outside world about his aspirations.",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "It",
+        "谓语": "sent",
+        "宾语或表语": "a clear message",
+        "主干翻译": "它向外界传递了一个明确的信息。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "to the outside world",
+          "修饰对象": "sent",
+          "中文翻译": "向外界",
+          "说明": "方向状语，修饰谓语 sent。"
+        },
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "about his aspirations",
+          "修饰对象": "message",
+          "中文翻译": "关于他的抱负的",
+          "说明": "介词短语作 message 的后置定语。"
+        }
+      ],
+      "zh": "这也向外界传递了一个关于他抱负的明确信息。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2011-text2-s7",
+      "s": "And McGee isn't alone.",
+      "para_no": 2,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "McGee",
+        "谓语": "isn't",
+        "宾语或表语": "alone",
+        "主干翻译": "麦基并非个例。"
+      },
+      "components": [],
+      "zh": "而且麦基并非个例。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2011-text2-s8",
+      "s": "In recent weeks the No. 2 executives at Avon and American Express quit with the explanation that they were looking for a CEO post.",
+      "para_no": 2,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "the No. 2 executives at Avon and American Express",
+        "谓语": "quit",
+        "宾语或表语": "with the explanation",
+        "主干翻译": "雅芳和美国运通的二号高管纷纷辞职，并给出了解释。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "In recent weeks",
+          "修饰对象": "quit",
+          "中文翻译": "最近几周",
+          "说明": "时间状语，修饰谓语 quit。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "that they were looking for a CEO post",
+          "修饰对象": "explanation",
+          "中文翻译": "他们正在寻找一个首席执行官的职位",
+          "说明": "that 引导同位语从句，说明 explanation 的内容。"
+        }
+      ],
+      "zh": "最近几周，雅芳和美国运通的二号高管相继辞职，他们解释说自己正在寻找首席执行官的职位。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2011-text2-s9",
+      "s": "As boards scrutinize succession plans in response to shareholder pressure, executives who don't get the nod also may wish to move on.",
+      "para_no": 2,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "executives",
+        "谓语": "may wish",
+        "宾语或表语": "to move on",
+        "主干翻译": "高管们可能也希望另谋他就。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "As boards scrutinize succession plans in response to shareholder pressure",
+          "修饰对象": "wish",
+          "中文翻译": "随着董事会迫于股东压力审查继任计划",
+          "说明": "As 引导时间/伴随状语从句；in response to shareholder pressure 为原因状语，并入本节点。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "who don't get the nod",
+          "修饰对象": "executives",
+          "中文翻译": "那些未获认可的（高管）",
+          "说明": "who 引导限定性定语从句，修饰 executives。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to move on",
+          "修饰对象": "wish",
+          "中文翻译": "另谋他就",
+          "说明": "不定式作 wish 的宾语，构成主干宾语。"
+        }
+      ],
+      "zh": "随着董事会迫于股东压力审查继任计划，那些未能获得青睐的高管也可能希望另谋出路。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2011-text2-s10",
+      "s": "A turbulent business environment also has senior managers cautious of letting vague pronouncements cloud their reputations.",
+      "para_no": 2,
+      "para_seq": 5,
+      "trunk": {
+        "主语": "A turbulent business environment",
+        "谓语": "has",
+        "宾语或表语": "senior managers cautious",
+        "主干翻译": "动荡的商业环境使高级经理人变得谨慎。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "senior managers cautious of letting vague pronouncements cloud their reputations",
+          "修饰对象": "has",
+          "中文翻译": "使高级经理人警惕含糊其辞损害自己声誉",
+          "说明": "has 为使役动词，managers 作宾语，cautious...为宾语补足语，整体作复合宾语结构。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "vague pronouncements cloud their reputations",
+          "修饰对象": "letting",
+          "中文翻译": "含糊的表态损害自己的声誉",
+          "说明": "letting 为使役动词，pronouncements 作宾语，cloud...为宾语补足语，构成复合宾语结构。"
+        }
+      ],
+      "zh": "动荡的商业环境也使高级经理人变得谨慎，不愿让含糊其辞的表态损害自己的声誉。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2011-text2-s11",
+      "s": "As the first signs of recovery begin to take hold, deputy chiefs may be more willing to make the jump without a net.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "deputy chiefs",
+        "谓语": "may be",
+        "宾语或表语": "more willing to make the jump",
+        "主干翻译": "副手们可能更愿意冒险一跳。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "As the first signs of recovery begin to take hold",
+          "修饰对象": "be",
+          "中文翻译": "随着复苏的最初迹象开始显现",
+          "说明": "As 引导时间状语从句，修饰主句系动词 be。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to take hold",
+          "修饰对象": "begin",
+          "中文翻译": "站稳脚跟/显现",
+          "说明": "不定式作 begin 的宾语，构成从句谓语。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to make the jump without a net",
+          "修饰对象": "willing",
+          "中文翻译": "在没有保障的情况下放手一搏",
+          "说明": "不定式作 willing 的状语；without a net 为伴随状语，并入本节点。"
+        }
+      ],
+      "zh": "随着经济复苏的最初迹象开始显现，副手们可能更愿意在没有任何保障的情况下放手一搏。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2011-text2-s12",
+      "s": "In the third quarter, CEO turnover was down 23% from a year ago as nervous boards stuck with the leaders they had, according to Liberum Research.",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "CEO turnover",
+        "谓语": "was down",
+        "宾语或表语": "23% from a year ago",
+        "主干翻译": "首席执行官的更替率比一年前下降了23%。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "In the third quarter",
+          "修饰对象": "was down",
+          "中文翻译": "在第三季度",
+          "说明": "时间状语，修饰主句谓语。"
+        },
+        {
+          "成分类型": "状语从句(原因)",
+          "原文": "as nervous boards stuck with the leaders they had",
+          "修饰对象": "was",
+          "中文翻译": "因为紧张不安的董事会留用了现有的领导者",
+          "说明": "as 引导原因状语从句，解释更替率下降的原因。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "they had",
+          "修饰对象": "leaders",
+          "中文翻译": "他们现有的（领导者）",
+          "说明": "省略关系词 that/whom 的定语从句，修饰 leaders。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "according to Liberum Research",
+          "修饰对象": "was down",
+          "中文翻译": "据 Liberum Research 的数据",
+          "说明": "插入性来源状语，修饰整个主句陈述。"
+        }
+      ],
+      "zh": "据 Liberum Research 的数据，第三季度首席执行官的更替率比一年前下降了23%，原因是惶恐不安的董事会留用了现有的领导者。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2011-text2-s13",
+      "s": "As the economy picks up, opportunities will abound for aspiring leaders.",
+      "para_no": 3,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "opportunities",
+        "谓语": "will abound",
+        "宾语或表语": "for aspiring leaders",
+        "主干翻译": "对有抱负的领导者而言机会将十分充裕。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "As the economy picks up",
+          "修饰对象": "abound",
+          "中文翻译": "随着经济复苏",
+          "说明": "As 引导时间状语从句，修饰主句谓语 abound。"
+        }
+      ],
+      "zh": "随着经济好转，对有抱负的领导者来说，机会将会大量涌现。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2011-text2-s14",
+      "s": "The decision to quit a senior position to look for a better one is unconventional.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The decision",
+        "谓语": "is",
+        "宾语或表语": "unconventional",
+        "主干翻译": "这种决定是非同寻常的。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to quit a senior position to look for a better one",
+          "修饰对象": "decision",
+          "中文翻译": "辞去高级职位去寻找更好职位的（决定）",
+          "说明": "不定式作 decision 的后置定语。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to look for a better one",
+          "修饰对象": "quit",
+          "中文翻译": "去寻找一个更好的职位",
+          "说明": "不定式作目的状语，修饰 quit。"
+        }
+      ],
+      "zh": "辞去高级职位去寻找一份更好工作的决定是不同寻常的。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2011-text2-s15",
+      "s": "For years executives and headhunters have adhered to the rule that the most attractive CEO candidates are the ones who must be poached.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "executives and headhunters",
+        "谓语": "have adhered to",
+        "宾语或表语": "the rule",
+        "主干翻译": "高管和猎头一直恪守着这一准则。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "For years",
+          "修饰对象": "have adhered to",
+          "中文翻译": "多年来",
+          "说明": "时间状语，修饰主句谓语。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "that the most attractive CEO candidates are the ones who must be",
+          "修饰对象": "rule",
+          "中文翻译": "最有吸引力的首席执行官人选是那些必须被挖来的人",
+          "说明": "that 引导同位语从句，说明 rule 的内容。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "who must be",
+          "修饰对象": "ones",
+          "中文翻译": "那些必须（被挖来）的人",
+          "说明": "who 引导定语从句，修饰 ones。"
+        }
+      ],
+      "zh": "多年来，高管和猎头一直恪守这样一条准则：最具吸引力的首席执行官人选，正是那些必须从别处挖角过来的人。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2011-text2-s16",
+      "s": "Says Korn/Ferry senior partner Dennis Carey: \"I can't think of a single search I've done where a board has not instructed me to look at sitting CEOs first.\"",
+      "para_no": 4,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Korn/Ferry senior partner Dennis Carey",
+        "谓语": "Says",
+        "宾语或表语": "I can't think of a single search",
+        "主干翻译": "光辉国际的资深合伙人丹尼斯·凯里说，我想不起有哪一次猎聘。"
+      },
+      "components": [
+        {
+          "成分类型": "倒装",
+          "原文": "Says Korn/Ferry senior partner Dennis Carey",
+          "修饰对象": "—",
+          "中文翻译": "光辉国际资深合伙人丹尼斯·凯里说",
+          "说明": "引语提前导致的主谓全部倒装，正常语序为 Dennis Carey says。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "I can't think of a single search I've done where a board has not instructed me to look at sitting CEOs first",
+          "修饰对象": "Says",
+          "中文翻译": "我想不起我做过的任何一次猎聘中董事会没有指示我优先考虑在任的首席执行官",
+          "说明": "Says 后引述的直接引语，整体作宾语。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "I've done",
+          "修饰对象": "search",
+          "中文翻译": "我做过的（猎聘）",
+          "说明": "省略关系词的定语从句，修饰 search。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "where a board has not instructed me to look at sitting CEOs first",
+          "修饰对象": "search",
+          "中文翻译": "在其中董事会没有指示我优先考虑在任首席执行官",
+          "说明": "where 引导定语从句，修饰 search。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to look at sitting CEOs first",
+          "修饰对象": "instructed",
+          "中文翻译": "优先考虑在任的首席执行官",
+          "说明": "不定式作 instructed 的宾语补足语。"
+        }
+      ],
+      "zh": "光辉国际资深合伙人丹尼斯·凯里说：\"我想不起自己做过的任何一次猎聘中，董事会没有指示我先去考察在任的首席执行官。\"",
+      "underline": null
+    },
+    {
+      "sid": "en1-2011-text2-s17",
+      "s": "Those who jumped without a job haven't always landed in top positions quickly.",
+      "para_no": 5,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Those",
+        "谓语": "haven't ... landed",
+        "宾语或表语": "in top positions",
+        "主干翻译": "那些人并不总能很快地登上高位。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "who jumped without a job",
+          "修饰对象": "Those",
+          "中文翻译": "在没有找好下家工作的情况下就跳槽的（那些人）",
+          "说明": "who引导定语从句，修饰主语Those。"
+        }
+      ],
+      "zh": "那些没有找好新工作就贸然跳槽的人，并不总能很快地谋得高位。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2011-text2-s18",
+      "s": "Ellen Marram quit as chief of Tropicana a decade ago, saying she wanted to be a CEO.",
+      "para_no": 5,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Ellen Marram",
+        "谓语": "quit",
+        "宾语或表语": "as chief of Tropicana",
+        "主干翻译": "艾伦·马拉姆辞去了纯果乐的负责人职务。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "a decade ago",
+          "修饰对象": "quit",
+          "中文翻译": "十年前",
+          "说明": "时间状语，修饰谓语 quit。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "saying she wanted to be a CEO",
+          "修饰对象": "quit",
+          "中文翻译": "她说自己想成为一名首席执行官",
+          "说明": "现在分词短语作伴随状语，修饰 quit。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "she wanted to be a CEO",
+          "修饰对象": "saying",
+          "中文翻译": "她想成为一名首席执行官",
+          "说明": "saying 后省略 that 的宾语从句。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to be a CEO",
+          "修饰对象": "wanted",
+          "中文翻译": "成为一名首席执行官",
+          "说明": "不定式作 wanted 的宾语。"
+        }
+      ],
+      "zh": "十年前，艾伦·马拉姆辞去了纯果乐负责人的职务，称自己想成为一名首席执行官。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2011-text2-s19",
+      "s": "It was a year before she became head of a tiny Internet-based commodities exchange.",
+      "para_no": 5,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "It",
+        "谓语": "was",
+        "宾语或表语": "a year",
+        "主干翻译": "过了一年时间。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "before she became head of a tiny Internet-based commodities exchange",
+          "修饰对象": "year",
+          "中文翻译": "她才成为一家小型互联网商品交易所的负责人",
+          "说明": "before 引导时间状语从句，与 It was a year 构成\"过了一年才……\"句式。"
+        }
+      ],
+      "zh": "过了一年，她才当上一家小型互联网商品交易所的负责人。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2011-text2-s20",
+      "s": "Robert Willumstad left Citigroup in 2005 with ambitions to be a CEO.",
+      "para_no": 5,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "Robert Willumstad",
+        "谓语": "left",
+        "宾语或表语": "Citigroup",
+        "主干翻译": "罗伯特·威卢姆斯塔德离开了花旗集团。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "in 2005",
+          "修饰对象": "left",
+          "中文翻译": "在2005年",
+          "说明": "时间状语，修饰谓语 left。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "with ambitions",
+          "修饰对象": "left",
+          "中文翻译": "怀着抱负",
+          "说明": "with 引导伴随状语，修饰 left。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to be a CEO",
+          "修饰对象": "ambitions",
+          "中文翻译": "成为一名首席执行官的（抱负）",
+          "说明": "不定式作 ambitions 的后置定语。"
+        }
+      ],
+      "zh": "罗伯特·威卢姆斯塔德于2005年怀着成为首席执行官的抱负离开了花旗集团。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2011-text2-s21",
+      "s": "He finally took that post at a major financial institution three years later.",
+      "para_no": 5,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "He",
+        "谓语": "took",
+        "宾语或表语": "that post",
+        "主干翻译": "他坐上了那个职位。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "at a major financial institution",
+          "修饰对象": "took",
+          "中文翻译": "在一家大型金融机构",
+          "说明": "地点状语，修饰谓语 took。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "three years later",
+          "修饰对象": "took",
+          "中文翻译": "三年之后",
+          "说明": "时间状语，修饰谓语 took。"
+        }
+      ],
+      "zh": "三年之后，他终于在一家大型金融机构坐上了那个职位。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2011-text2-s22",
+      "s": "Many recruiters say the old disgrace is fading for top performers.",
+      "para_no": 6,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Many recruiters",
+        "谓语": "say",
+        "宾语或表语": "the old disgrace is fading",
+        "主干翻译": "许多招聘者说，这种旧有的耻辱感正在淡化。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "the old disgrace is fading for top performers",
+          "修饰对象": "say",
+          "中文翻译": "对于业绩出众者而言，这种旧有的耻辱感正在消退",
+          "说明": "say 后省略 that 的宾语从句；for top performers 为状语，并入本节点。"
+        }
+      ],
+      "zh": "许多招聘者表示，对于业绩出众者来说，这种旧有的耻辱感正在淡化。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2011-text2-s23",
+      "s": "The financial crisis has made it more acceptable to be between jobs or to leave a bad one.",
+      "para_no": 6,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "The financial crisis",
+        "谓语": "has made",
+        "宾语或表语": "it more acceptable",
+        "主干翻译": "金融危机使这件事变得更可接受了。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "it more acceptable to be between jobs or to leave a bad one",
+          "修饰对象": "made",
+          "中文翻译": "在两份工作之间空窗或辞掉一份糟糕的工作变得更可接受",
+          "说明": "made 后 it 为形式宾语，more acceptable 为宾语补足语，真正宾语为后面的不定式，构成复合宾语结构。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to be between jobs or to leave a bad one",
+          "修饰对象": "acceptable",
+          "中文翻译": "处于待业状态或辞掉一份糟糕的工作",
+          "说明": "不定式作真正宾语（由形式宾语 it 指代）。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "to leave a bad one",
+          "修饰对象": "be",
+          "中文翻译": "辞掉一份糟糕的工作",
+          "说明": "与 to be between jobs 由 or 并列，共作真正宾语。"
+        }
+      ],
+      "zh": "金融危机使得处于待业状态或辞去一份糟糕的工作变得更容易被人接受了。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2011-text2-s24",
+      "s": "\"The traditional rule was it's safer to stay where you are, but that's been fundamentally inverted,\" says one headhunter.",
+      "para_no": 6,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "one headhunter",
+        "谓语": "says",
+        "宾语或表语": "The traditional rule was ... but that's been fundamentally inverted",
+        "主干翻译": "一位猎头说，传统准则是……但这一点已被彻底颠覆。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "The traditional rule was it's safer to stay where you are, but that's been fundamentally inverted",
+          "修饰对象": "says",
+          "中文翻译": "传统准则是待在原处更安全，但这一观念已被彻底颠覆",
+          "说明": "says 后引述的直接引语，整体作宾语。"
+        },
+        {
+          "成分类型": "表语从句",
+          "原文": "it's safer to stay where you are",
+          "修饰对象": "was",
+          "中文翻译": "待在原处更安全",
+          "说明": "was 后省略 that 的表语从句；it 为形式主语，真正主语为不定式 to stay。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to stay where you are",
+          "修饰对象": "'s",
+          "中文翻译": "待在原来的位置",
+          "说明": "不定式作真正主语（由形式主语 it 指代）。"
+        },
+        {
+          "成分类型": "状语从句(地点)",
+          "原文": "where you are",
+          "修饰对象": "stay",
+          "中文翻译": "你现在所在的地方",
+          "说明": "where 引导地点状语从句，修饰 stay（枚举内归为方式/地点类，此处为地点关系）。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "that's been fundamentally inverted",
+          "修饰对象": "was",
+          "中文翻译": "这一观念已被彻底颠覆",
+          "说明": "由 but 引导，与前一分句并列，共作引语内容。"
+        }
+      ],
+      "zh": "一位猎头说：\"传统准则认为待在原地更安全，但如今这一观念已被彻底颠覆。\"",
+      "underline": null
+    },
+    {
+      "sid": "en1-2011-text2-s25",
+      "s": "\"The people who've been hurt the worst are those who've stayed too long.\"",
+      "para_no": 6,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "The people",
+        "谓语": "are",
+        "宾语或表语": "those",
+        "主干翻译": "受伤害最深的人正是那些人。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "who've been hurt the worst",
+          "修饰对象": "people",
+          "中文翻译": "受伤害最深的（人）",
+          "说明": "who 引导定语从句，修饰主语 people。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "who've stayed too long",
+          "修饰对象": "those",
+          "中文翻译": "那些待得太久的人",
+          "说明": "who 引导定语从句，修饰表语 those。"
+        }
+      ],
+      "zh": "\"那些受伤害最深的人，正是那些在原职位上待得太久的人。\"",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2011-text2-s1",
+        "en1-2011-text2-s2",
+        "en1-2011-text2-s3",
+        "en1-2011-text2-s4"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2011-text2-s5",
+        "en1-2011-text2-s6",
+        "en1-2011-text2-s7",
+        "en1-2011-text2-s8",
+        "en1-2011-text2-s9",
+        "en1-2011-text2-s10"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2011-text2-s11",
+        "en1-2011-text2-s12",
+        "en1-2011-text2-s13"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2011-text2-s14",
+        "en1-2011-text2-s15",
+        "en1-2011-text2-s16"
+      ]
+    },
+    {
+      "para_no": 5,
+      "sids": [
+        "en1-2011-text2-s17",
+        "en1-2011-text2-s18",
+        "en1-2011-text2-s19",
+        "en1-2011-text2-s20",
+        "en1-2011-text2-s21"
+      ]
+    },
+    {
+      "para_no": 6,
+      "sids": [
+        "en1-2011-text2-s22",
+        "en1-2011-text2-s23",
+        "en1-2011-text2-s24",
+        "en1-2011-text2-s25"
+      ]
+    }
+  ]
+}

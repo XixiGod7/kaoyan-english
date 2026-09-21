@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useMemo } from 'react';
-import { Header } from './components/Header';
+import { Header, AppTab } from './components/Header';
 import { WordFreqSidebar } from './components/WordFreqSidebar';
 import { WordDetailModal } from './components/WordDetailModal';
 import { DataBackupModal } from './components/DataBackupModal';
@@ -9,6 +9,12 @@ import { DesktopAppModal } from './components/DesktopAppModal';
 import { AiConfigModal } from './components/AiConfigModal';
 import { ExamWall } from './components/ExamWall';
 import QuizMode from './components/QuizMode';
+import { IntensiveReadingView } from './components/IntensiveReadingView';
+import { ParaphraseView } from './components/ParaphraseView';
+import { GrammarDrillView } from './components/GrammarDrillView';
+import { PhrasesView } from './components/PhrasesView';
+import { VocabStatsView } from './components/VocabStatsView';
+import { PersonalCenterView } from './components/PersonalCenterView';
 import { PaperGroup, KaoyanDict, WordFreqItem } from './types/kaoyan';
 import { 
   loadQuizHistory, 
@@ -51,6 +57,8 @@ export const App: React.FC = () => {
     });
   };
 
+  const [currentTab, setCurrentTab] = useState<AppTab>('reading');
+  const [currentPassKey, setCurrentPassKey] = useState<string>('2025-t1');
   const [selectedYear, setSelectedYear] = useState<string | null>(null);
   const [selectedWord, setSelectedWord] = useState<WordFreqItem | null>(null);
   const [wordStatuses, setWordStatuses] = useState<Record<string, 'familiar' | 'unfamiliar' | 'unknown'>>(() => {
@@ -94,6 +102,46 @@ export const App: React.FC = () => {
         } catch {}
       }
 
+      if (dataObj.favoriteSentences) {
+        try {
+          const cur = JSON.parse(localStorage.getItem('kaoyan_favorite_sentences') || '[]');
+          const merged = mode === 'overwrite' ? dataObj.favoriteSentences : [...dataObj.favoriteSentences, ...cur.filter((c: any) => !dataObj.favoriteSentences.some((d: any) => d.sid === c.sid))];
+          localStorage.setItem('kaoyan_favorite_sentences', JSON.stringify(merged));
+        } catch {}
+      }
+
+      if (dataObj.wrongQuestions) {
+        try {
+          const cur = JSON.parse(localStorage.getItem('kaoyan_wrong_questions') || '[]');
+          const merged = mode === 'overwrite' ? dataObj.wrongQuestions : [...dataObj.wrongQuestions, ...cur.filter((c: any) => !dataObj.wrongQuestions.some((d: any) => String(d.id) === String(c.id)))];
+          localStorage.setItem('kaoyan_wrong_questions', JSON.stringify(merged));
+        } catch {}
+      }
+
+      if (dataObj.paraphraseProgress) {
+        try {
+          const cur = JSON.parse(localStorage.getItem('kaoyan_paraphrase_progress') || '{}');
+          const merged = mode === 'overwrite' ? dataObj.paraphraseProgress : { ...cur, ...dataObj.paraphraseProgress };
+          localStorage.setItem('kaoyan_paraphrase_progress', JSON.stringify(merged));
+        } catch {}
+      }
+
+      if (dataObj.phraseDictateHistory) {
+        try {
+          const cur = JSON.parse(localStorage.getItem('kaoyan_phrase_dictate_history') || '{}');
+          const merged = mode === 'overwrite' ? dataObj.phraseDictateHistory : { ...cur, ...dataObj.phraseDictateHistory };
+          localStorage.setItem('kaoyan_phrase_dictate_history', JSON.stringify(merged));
+        } catch {}
+      }
+
+      if (dataObj.readingProgress) {
+        try {
+          const cur = JSON.parse(localStorage.getItem('kaoyan_reading_progress') || '{}');
+          const merged = mode === 'overwrite' ? dataObj.readingProgress : { ...cur, ...dataObj.readingProgress };
+          localStorage.setItem('kaoyan_reading_progress', JSON.stringify(merged));
+        } catch {}
+      }
+
       if (dataObj.theme && (dataObj.theme === 'dark' || dataObj.theme === 'light')) {
         setTheme(dataObj.theme);
         try {
@@ -117,6 +165,11 @@ export const App: React.FC = () => {
       localStorage.removeItem('kaoyan_quiz_history');
       localStorage.removeItem('kaoyan_quiz_records');
       localStorage.removeItem('kaoyan_ebbinghaus_records');
+      localStorage.removeItem('kaoyan_favorite_sentences');
+      localStorage.removeItem('kaoyan_wrong_questions');
+      localStorage.removeItem('kaoyan_paraphrase_progress');
+      localStorage.removeItem('kaoyan_phrase_dictate_history');
+      localStorage.removeItem('kaoyan_reading_progress');
     } catch {}
   };
 
@@ -249,10 +302,11 @@ export const App: React.FC = () => {
     <div className={`h-screen flex flex-col font-sans antialiased transition-colors duration-200 overflow-hidden ${
       isDark ? 'bg-slate-950 text-slate-100' : 'bg-slate-50 text-gray-900'
     }`}>
-      {/* Top Bar (Only displayed on Home Dashboard to prevent double headers and layout collisions during quiz) */}
+      {/* Top Bar Navigation */}
       {!selectedYear && (
         <Header
           onGoHome={() => {
+            setCurrentTab('reading');
             setSelectedYear(null);
             setTargetSentenceId(null);
             setTargetTab(null);
@@ -260,6 +314,13 @@ export const App: React.FC = () => {
             refreshQuizHistory();
           }}
           currentYear={selectedYear}
+          currentTab={currentTab}
+          onSelectTab={(tab) => {
+            setCurrentTab(tab);
+            if (tab !== 'quiz') {
+              setSelectedYear(null);
+            }
+          }}
           theme={theme}
           onToggleTheme={handleToggleTheme}
           onOpenDataBackup={() => setIsBackupModalOpen(true)}
@@ -276,7 +337,7 @@ export const App: React.FC = () => {
           isDark ? 'text-slate-300' : 'text-slate-600'
         }`}>
           <div className="w-5 h-5 border-2 border-blue-500 border-t-transparent rounded-full animate-spin"></div>
-          正在加载 2010-2026 考研英语真题库与高频词库...
+          正在加载 2001-2026 考研英语真题库、长难句精读与语法分析系统...
         </div>
       ) : selectedYear ? (
         /* Full Quiz Mode View for Selected Year */
@@ -302,8 +363,32 @@ export const App: React.FC = () => {
             }}
           />
         </div>
-      ) : (
-        /* Main Home: Left Word Sidebar + Right Exam Wall */
+      ) : currentTab === 'reading' ? (
+        /* 1. Intensive Reading View */
+        <main className="flex-1 overflow-y-auto p-3 sm:p-5 md:p-6">
+          <IntensiveReadingView
+            initialPassKey={currentPassKey}
+            onWordClick={(word) => {
+              const clean = word.toLowerCase().replace(/[^a-z]/g, '');
+              const entry = dict?.entries[clean];
+              if (entry) {
+                setWordModalItem({
+                  word: clean,
+                  entry,
+                  paperCount: 1,
+                  totalCount: 1,
+                  status: wordStatuses[clean] || 'unknown',
+                });
+              }
+            }}
+            onNavigateToQuiz={(yr) => {
+              setSelectedYear(yr);
+              setCurrentTab('quiz');
+            }}
+          />
+        </main>
+      ) : currentTab === 'quiz' ? (
+        /* 2. Real Exam Quiz Wall */
         <div className="flex-1 flex overflow-hidden">
           <WordFreqSidebar
             words={wordFreqList}
@@ -325,7 +410,121 @@ export const App: React.FC = () => {
             theme={theme}
           />
         </div>
-      )}
+      ) : currentTab === 'paraphrase' ? (
+        /* 3. Paraphrase Drill View */
+        <main className="flex-1 overflow-y-auto p-3 sm:p-5 md:p-6">
+          <ParaphraseView
+            onWordClick={(word) => {
+              const clean = word.toLowerCase().replace(/[^a-z]/g, '');
+              const entry = dict?.entries[clean];
+              if (entry) {
+                setWordModalItem({
+                  word: clean,
+                  entry,
+                  paperCount: 1,
+                  totalCount: 1,
+                  status: wordStatuses[clean] || 'unknown',
+                });
+              }
+            }}
+            onNavigateToReading={(passKey) => {
+              setCurrentPassKey(passKey);
+              setCurrentTab('reading');
+            }}
+          />
+        </main>
+      ) : currentTab === 'grammar' ? (
+        /* 4. Grammar Drill View */
+        <main className="flex-1 overflow-y-auto p-3 sm:p-5 md:p-6">
+          <GrammarDrillView
+            onWordClick={(word) => {
+              const clean = word.toLowerCase().replace(/[^a-z]/g, '');
+              const entry = dict?.entries[clean];
+              if (entry) {
+                setWordModalItem({
+                  word: clean,
+                  entry,
+                  paperCount: 1,
+                  totalCount: 1,
+                  status: wordStatuses[clean] || 'unknown',
+                });
+              }
+            }}
+            onNavigateToReading={(passKey) => {
+              setCurrentPassKey(passKey);
+              setCurrentTab('reading');
+            }}
+          />
+        </main>
+      ) : currentTab === 'phrases' ? (
+        /* 5. Phrases View */
+        <main className="flex-1 overflow-y-auto p-3 sm:p-5 md:p-6">
+          <PhrasesView
+            onWordClick={(word) => {
+              const clean = word.toLowerCase().replace(/[^a-z]/g, '');
+              const entry = dict?.entries[clean];
+              if (entry) {
+                setWordModalItem({
+                  word: clean,
+                  entry,
+                  paperCount: 1,
+                  totalCount: 1,
+                  status: wordStatuses[clean] || 'unknown',
+                });
+              }
+            }}
+            onNavigateToReading={(passKey) => {
+              setCurrentPassKey(passKey);
+              setCurrentTab('reading');
+            }}
+          />
+        </main>
+      ) : currentTab === 'vocab' ? (
+        /* 6. Vocab Stats & Blind Spot Test View */
+        <main className="flex-1 overflow-y-auto p-3 sm:p-5 md:p-6">
+          <VocabStatsView
+            onWordClick={(word) => {
+              const clean = word.toLowerCase().replace(/[^a-z]/g, '');
+              const entry = dict?.entries[clean];
+              if (entry) {
+                setWordModalItem({
+                  word: clean,
+                  entry,
+                  paperCount: 1,
+                  totalCount: 1,
+                  status: wordStatuses[clean] || 'unknown',
+                });
+              }
+            }}
+            wordStatuses={wordStatuses}
+            onUpdateWordStatus={handleToggleStatus}
+          />
+        </main>
+      ) : currentTab === 'personal' ? (
+        /* 7. Personal Learning Hub */
+        <main className="flex-1 overflow-y-auto p-3 sm:p-5 md:p-6">
+          <PersonalCenterView
+            onWordClick={(word) => {
+              const clean = word.toLowerCase().replace(/[^a-z]/g, '');
+              const entry = dict?.entries[clean];
+              if (entry) {
+                setWordModalItem({
+                  word: clean,
+                  entry,
+                  paperCount: 1,
+                  totalCount: 1,
+                  status: wordStatuses[clean] || 'unknown',
+                });
+              }
+            }}
+            onNavigateToReading={(passKey) => {
+              setCurrentPassKey(passKey);
+              setCurrentTab('reading');
+            }}
+            wordStatuses={wordStatuses}
+          />
+        </main>
+      ) : null}
 
       {/* Word Detail & Sentence Examples Modal */}
       <WordDetailModal

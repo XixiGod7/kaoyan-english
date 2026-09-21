@@ -1,0 +1,759 @@
+{
+  "exam": "en1",
+  "key": "2022-t4",
+  "year": 2022,
+  "text_no": 4,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2022-text4-s1",
+      "s": "The personal grievance provisions of New Zealand's Employment Relations Act 2000 (ERA) prevent an employer from firing an employee without good cause.",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The personal grievance provisions",
+        "谓语": "prevent",
+        "宾语或表语": "an employer from firing an employee without good cause",
+        "主干翻译": "个人申诉条款阻止雇主在没有正当理由的情况下解雇雇员。"
+      },
+      "components": [
+        {
+          "成分类型": "同位语从句",
+          "原文": "(ERA)",
+          "修饰对象": "Act",
+          "中文翻译": "（即《雇佣关系法》）",
+          "说明": "ERA是对前面New Zealand's Employment Relations Act 2000的缩写同位说明，作为插入性同位成分。"
+        }
+      ],
+      "zh": "新西兰《2000年雇佣关系法》（ERA）中的个人申诉条款，禁止雇主在没有正当理由的情况下解雇雇员。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2022-text4-s2",
+      "s": "Instead, dismissals must be justified.",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "dismissals",
+        "谓语": "must be justified",
+        "宾语或表语": "—",
+        "主干翻译": "解雇必须有正当理由。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "Instead",
+          "修饰对象": "—",
+          "中文翻译": "相反",
+          "说明": "句首连接性状语，表转折承接上文。"
+        }
+      ],
+      "zh": "相反，解雇必须有正当的理由。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2022-text4-s3",
+      "s": "Employers must both show cause and act in a procedurally fair way.",
+      "para_no": 1,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Employers",
+        "谓语": "must both show ... and act",
+        "宾语或表语": "cause ... in a procedurally fair way",
+        "主干翻译": "雇主既要证明理由，又要以程序公正的方式行事。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "show cause and act in a procedurally fair way",
+          "修饰对象": "show",
+          "中文翻译": "证明理由并以程序公正的方式行事",
+          "说明": "both...and...连接两个并列谓语动词show与act。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "in a procedurally fair way",
+          "修饰对象": "act",
+          "中文翻译": "以程序公正的方式",
+          "说明": "方式状语，修饰act。"
+        }
+      ],
+      "zh": "雇主必须既证明解雇的正当理由，又以程序公正的方式行事。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2022-text4-s4",
+      "s": "Personal grievance procedures were designed to guard the jobs of ordinary workers from \"unjustified dismissals\"",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Personal grievance procedures",
+        "谓语": "were designed",
+        "宾语或表语": "—",
+        "主干翻译": "个人申诉程序被设计出来。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to guard the jobs of ordinary workers from \"unjustified dismissals\"",
+          "修饰对象": "designed",
+          "中文翻译": "以保护普通劳动者的工作免遭“不公正解雇”",
+          "说明": "动词不定式作目的状语，说明设计该程序的目的。"
+        }
+      ],
+      "zh": "设立个人申诉程序的目的，是保护普通劳动者的工作免遭“不公正解雇”。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2022-text4-s5",
+      "s": "The premise was that the common law of contract lacked sufficient safeguards for workers against arbitrary conduct by management.",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "The premise",
+        "谓语": "was",
+        "宾语或表语": "that ...",
+        "主干翻译": "前提是……。"
+      },
+      "components": [
+        {
+          "成分类型": "表语从句",
+          "原文": "that the common law of contract lacked sufficient safeguards for workers against arbitrary conduct by management",
+          "修饰对象": "was",
+          "中文翻译": "合同普通法缺乏足够的保护措施来使劳动者免受管理层的专断行为",
+          "说明": "that引导表语从句，作系动词was的表语，说明premise的内容。"
+        }
+      ],
+      "zh": "其前提是：合同普通法没有为劳动者提供足够的保护，使他们免受管理层专断行为的侵害。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2022-text4-s6",
+      "s": "Long gone are the days when a boss could simply give an employee contractual notice.",
+      "para_no": 2,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "the days",
+        "谓语": "are ... gone",
+        "宾语或表语": "—",
+        "主干翻译": "那些日子已经一去不复返了。"
+      },
+      "components": [
+        {
+          "成分类型": "倒装",
+          "原文": "Long gone are the days",
+          "修饰对象": "—",
+          "中文翻译": "那些日子早已一去不复返",
+          "说明": "表语Long gone置于句首构成完全倒装，主语the days后置。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "when a boss could simply give an employee contractual notice",
+          "修饰对象": "days",
+          "中文翻译": "老板可以仅凭合同通知就解雇雇员的（那些日子）",
+          "说明": "when引导定语从句，修饰先行词the days，表时间。"
+        }
+      ],
+      "zh": "老板只需依合同发出通知就能解雇雇员的日子，早已一去不复返了。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2022-text4-s7",
+      "s": "But these provisions create difficulties for businesses when applied to highly paid managers and executives.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "these provisions",
+        "谓语": "create",
+        "宾语或表语": "difficulties for businesses",
+        "主干翻译": "这些条款给企业制造了困难。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "when applied to highly paid managers and executives",
+          "修饰对象": "create",
+          "中文翻译": "当被应用于高薪经理和高管时",
+          "说明": "when引导的时间状语从句，省略主语和be（when they are applied），过去分词applied表被动。"
+        }
+      ],
+      "zh": "但这些条款在适用于高薪经理和高管时，会给企业带来困难。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2022-text4-s8",
+      "s": "As countless boards and business owners will attest, constraining firms from firing poorly performing, high-earning managers is a handbrake on boosting productivity and overall performance.",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "constraining firms from firing poorly performing, high-earning managers",
+        "谓语": "is",
+        "宾语或表语": "a handbrake on boosting productivity and overall performance",
+        "主干翻译": "限制企业解雇表现不佳的高薪经理，是阻碍提高生产率和整体绩效的手刹。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(方式)",
+          "原文": "As countless boards and business owners will attest",
+          "修饰对象": "is",
+          "中文翻译": "正如无数董事会和企业主将会证实的那样",
+          "说明": "As引导方式状语从句，意为“正如……”。"
+        }
+      ],
+      "zh": "正如无数董事会和企业主都会证实的那样，限制企业解雇业绩不佳的高薪经理，是阻碍提高生产率和整体绩效的一道手刹。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2022-text4-s9",
+      "s": "The difference between C-grade and A-grade managers may very well be the difference between business success or failure.",
+      "para_no": 3,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "The difference between C-grade and A-grade managers",
+        "谓语": "may ... be",
+        "宾语或表语": "the difference between business success or failure",
+        "主干翻译": "C级经理与A级经理之间的差别，很可能就是企业成败之间的差别。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "C-grade and A-grade",
+          "修饰对象": "grade",
+          "中文翻译": "C级与A级",
+          "说明": "and连接两个并列的形容词性成分C-grade与A-grade，共同修饰managers。"
+        }
+      ],
+      "zh": "C级经理与A级经理之间的差距，很可能就是企业成功与失败之间的差距。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2022-text4-s10",
+      "s": "Between preserving the jobs of ordinary workers or losing them.",
+      "para_no": 3,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "—",
+        "谓语": "—",
+        "宾语或表语": "Between preserving the jobs of ordinary workers or losing them",
+        "主干翻译": "（这差距就在于）保住普通劳动者的工作还是失去它们。"
+      },
+      "components": [
+        {
+          "成分类型": "省略",
+          "原文": "Between preserving the jobs of ordinary workers or losing them",
+          "修饰对象": "—",
+          "中文翻译": "（差距在于）保住普通劳动者的工作还是失去它们之间",
+          "说明": "承接上句the difference between...，此句为省略主谓的破碎句，仅保留between短语，构成强调式补充。"
+        }
+      ],
+      "zh": "也就是保住普通劳动者的工作与失去这些工作之间的差距。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2022-text4-s11",
+      "s": "Yet mediocrity is no longer enough to justify a dismissal.",
+      "para_no": 3,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "mediocrity",
+        "谓语": "is",
+        "宾语或表语": "no longer enough",
+        "主干翻译": "平庸不再足够。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to justify a dismissal",
+          "修饰对象": "enough",
+          "中文翻译": "来证明解雇的正当性",
+          "说明": "动词不定式作状语，修饰enough，表“足以……”。"
+        }
+      ],
+      "zh": "然而，仅凭表现平庸已不足以构成解雇的正当理由。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2022-text4-s12",
+      "s": "Consequently-and paradoxically - laws introduced to protect the jobs of ordinary workers may be placing those jobs at risk.",
+      "para_no": 3,
+      "para_seq": 5,
+      "trunk": {
+        "主语": "laws",
+        "谓语": "may be placing",
+        "宾语或表语": "those jobs at risk",
+        "主干翻译": "法律可能正把那些工作置于风险之中。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "Consequently-and paradoxically -",
+          "修饰对象": "—",
+          "中文翻译": "因此——而且自相矛盾的是——",
+          "说明": "句首连接性插入语，表结果并强调其矛盾性。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "introduced to protect the jobs of ordinary workers",
+          "修饰对象": "laws",
+          "中文翻译": "为保护普通劳动者的工作而出台的（法律）",
+          "说明": "过去分词短语作后置定语，修饰laws，表被动。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to protect the jobs of ordinary workers",
+          "修饰对象": "introduced",
+          "中文翻译": "以保护普通劳动者的工作",
+          "说明": "动词不定式作目的状语，修饰分词introduced，说明立法目的。"
+        }
+      ],
+      "zh": "因此——而且颇为讽刺的是——为保护普通劳动者工作而出台的法律，可能反而正在把这些工作置于风险之中。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2022-text4-s13",
+      "s": "If not placing jobs at risk, to the extent employment protection laws constrain business owners from dismissing under-performing managers, those laws act as a constraint on firm productivity and therefore on workers' wages.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "those laws",
+        "谓语": "act",
+        "宾语或表语": "as a constraint on firm productivity and therefore on workers' wages",
+        "主干翻译": "这些法律起到了制约企业生产率、进而制约劳动者工资的作用。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "If not placing jobs at risk",
+          "修饰对象": "act",
+          "中文翻译": "即使不是把工作置于风险之中",
+          "说明": "If引导的条件/让步状语从句，此处为省略式（If they are not placing...），让步意味明显，表“即便不至于……”。"
+        },
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "to the extent employment protection laws constrain business owners from dismissing under-performing managers",
+          "修饰对象": "act",
+          "中文翻译": "在就业保护法限制企业主解雇业绩不佳的经理的程度上",
+          "说明": "to the extent (that)引导程度/条件状语从句，表“在……的程度上/只要……”。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "employment protection laws constrain business owners from dismissing under-performing managers",
+          "修饰对象": "extent",
+          "中文翻译": "就业保护法限制企业主解雇业绩不佳的经理",
+          "说明": "省略that，作为the extent后的限定从句，说明程度内容。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "on firm productivity and therefore on workers' wages",
+          "修饰对象": "constraint",
+          "中文翻译": "对企业生产率、从而对劳动者工资（的制约）",
+          "说明": "and therefore连接两个并列的on介词短语，共同作constraint的修饰。"
+        }
+      ],
+      "zh": "即便不至于把工作置于风险之中，就业保护法在限制企业主解雇业绩不佳经理的范围内，也会对企业生产率、进而对劳动者的工资构成制约。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2022-text4-s14",
+      "s": "Indeed, in \"An International Perspective on New Zealand's Productivity Paradox\" (2014), the Productivity Commission singled out the low quality of managerial capabilities as a cause of the country's poor productivity growth record.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "the Productivity Commission",
+        "谓语": "singled out",
+        "宾语或表语": "the low quality of managerial capabilities",
+        "主干翻译": "生产率委员会特别指出了管理能力低下这一问题。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "Indeed",
+          "修饰对象": "—",
+          "中文翻译": "事实上",
+          "说明": "句首评注性状语。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "in \"An International Perspective on New Zealand's Productivity Paradox\" (2014)",
+          "修饰对象": "singled out",
+          "中文翻译": "在《新西兰生产率悖论的国际视角》（2014年）中",
+          "说明": "介词短语作地点/出处状语，修饰谓语singled out。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "as a cause of the country's poor productivity growth record",
+          "修饰对象": "singled out",
+          "中文翻译": "作为该国生产率增长记录不佳的一个原因",
+          "说明": "as引导的介词短语作宾语补足语/方式状语，说明singled out的身份角色。"
+        }
+      ],
+      "zh": "事实上，生产率委员会在2014年的《新西兰生产率悖论的国际视角》一文中，将管理能力低下列为该国生产率增长乏力的一个原因。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2022-text4-s15",
+      "s": "Nor are highly paid managers themselves immune from the harm caused by the ERA's unjustified dismissal procedures.",
+      "para_no": 5,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "highly paid managers",
+        "谓语": "are ... immune",
+        "宾语或表语": "from the harm",
+        "主干翻译": "高薪经理也无法免受这种伤害。"
+      },
+      "components": [
+        {
+          "成分类型": "倒装",
+          "原文": "Nor are highly paid managers themselves immune",
+          "修饰对象": "—",
+          "中文翻译": "高薪经理本身也并非能够幸免",
+          "说明": "否定词Nor置于句首引起部分倒装，助动词are提到主语前。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "themselves",
+          "修饰对象": "managers",
+          "中文翻译": "（经理）本身",
+          "说明": "反身代词作同位语，强调managers本身。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "caused by the ERA's unjustified dismissal procedures",
+          "修饰对象": "harm",
+          "中文翻译": "由ERA的不公正解雇程序所造成的（伤害）",
+          "说明": "过去分词短语作后置定语，修饰harm，表被动。"
+        }
+      ],
+      "zh": "高薪经理自己也无法免受ERA中不公正解雇程序所带来的伤害。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2022-text4-s16",
+      "s": "Because employment protection laws make it costlier to fire an employee, employers are more cautious about hiring new staff.",
+      "para_no": 5,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "employers",
+        "谓语": "are",
+        "宾语或表语": "more cautious about hiring new staff",
+        "主干翻译": "雇主在招聘新员工时更加谨慎。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(原因)",
+          "原文": "Because employment protection laws make it costlier to fire an employee",
+          "修饰对象": "are",
+          "中文翻译": "因为就业保护法使解雇雇员的成本更高",
+          "说明": "Because引导原因状语从句。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "it costlier to fire an employee",
+          "修饰对象": "make",
+          "中文翻译": "解雇一名雇员成本更高",
+          "说明": "it为形式宾语，costlier为宾补，真正宾语为后面的不定式to fire an employee。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to fire an employee",
+          "修饰对象": "costlier",
+          "中文翻译": "解雇一名雇员",
+          "说明": "动词不定式作真正主语/宾语，由形式宾语it指代，逻辑上充当“代价更高”所指的内容。"
+        }
+      ],
+      "zh": "由于就业保护法使解雇雇员的成本更高，雇主在招聘新员工时也变得更加谨慎。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2022-text4-s17",
+      "s": "This makes it harder for the marginal manager to gain employment.",
+      "para_no": 5,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "This",
+        "谓语": "makes",
+        "宾语或表语": "it harder for the marginal manager to gain employment",
+        "主干翻译": "这使得边缘经理更难获得就业机会。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "it harder for the marginal manager to gain employment",
+          "修饰对象": "makes",
+          "中文翻译": "边缘经理更难获得就业",
+          "说明": "it为形式宾语，harder为宾补，真正宾语为不定式短语to gain employment。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "for the marginal manager to gain employment",
+          "修饰对象": "harder",
+          "中文翻译": "对边缘经理而言去获得就业",
+          "说明": "for the marginal manager为不定式的逻辑主语，to gain employment为真正内容主语，由形式宾语it指代。"
+        }
+      ],
+      "zh": "这使得处于边缘水平的经理更难找到工作。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2022-text4-s18",
+      "s": "And firms pay staff less because firms carry the burden of the employment arrangement going wrong.",
+      "para_no": 5,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "firms",
+        "谓语": "pay",
+        "宾语或表语": "staff less",
+        "主干翻译": "企业付给员工的薪酬更低。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(原因)",
+          "原文": "because firms carry the burden of the employment arrangement going wrong",
+          "修饰对象": "pay",
+          "中文翻译": "因为企业承担着雇佣安排出问题的风险负担",
+          "说明": "because引导原因状语从句；其中going wrong为现在分词作the employment arrangement的后置定语。"
+        }
+      ],
+      "zh": "而且企业付给员工的薪酬也更低，因为一旦雇佣安排出现问题，承担负担的是企业。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2022-text4-s19",
+      "s": "Society also suffers from excessive employment protections.",
+      "para_no": 6,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Society",
+        "谓语": "suffers",
+        "宾语或表语": "from excessive employment protections",
+        "主干翻译": "社会也深受过度就业保护之害。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "from excessive employment protections",
+          "修饰对象": "suffers",
+          "中文翻译": "因过度的就业保护",
+          "说明": "from介词短语作状语，说明suffer的来源。"
+        }
+      ],
+      "zh": "社会也同样因过度的就业保护而受害。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2022-text4-s20",
+      "s": "Stringent job dismissal regulations adversely affect productivity growth and hamper both prosperity and overall well-being.",
+      "para_no": 6,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Stringent job dismissal regulations",
+        "谓语": "affect ... and hamper",
+        "宾语或表语": "productivity growth ... both prosperity and overall well-being",
+        "主干翻译": "严苛的解雇规定既不利地影响生产率增长，又损害繁荣与整体福祉。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "adversely affect productivity growth and hamper both prosperity and overall well-being",
+          "修饰对象": "affect",
+          "中文翻译": "对生产率增长产生不利影响，并损害繁荣与整体福祉",
+          "说明": "and连接两个并列谓语affect与hamper。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "both prosperity and overall well-being",
+          "修饰对象": "prosperity",
+          "中文翻译": "繁荣与整体福祉",
+          "说明": "both...and...连接hamper的两个并列宾语。"
+        }
+      ],
+      "zh": "严苛的解雇规定会对生产率增长产生不利影响，并同时损害社会繁荣与整体福祉。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2022-text4-s21",
+      "s": "Across the Tasman Sea, Australia deals with the unjustified dismissal paradox by excluding employees earning above a specified \"high-income threshold\" from the protection of its unfair dismissal laws.",
+      "para_no": 7,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Australia",
+        "谓语": "deals with",
+        "宾语或表语": "the unjustified dismissal paradox",
+        "主干翻译": "澳大利亚应对着不公正解雇的悖论。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "Across the Tasman Sea",
+          "修饰对象": "deals",
+          "中文翻译": "在塔斯曼海的另一侧",
+          "说明": "介词短语作地点状语。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "by excluding employees earning above a specified \"high-income threshold\" from the protection of its unfair dismissal laws",
+          "修饰对象": "deals",
+          "中文翻译": "通过将收入超过特定“高收入门槛”的雇员排除在其不公正解雇法的保护之外",
+          "说明": "by引导的方式状语，说明deals with的具体手段。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "earning above a specified \"high-income threshold\"",
+          "修饰对象": "employees",
+          "中文翻译": "收入超过特定“高收入门槛”的（雇员）",
+          "说明": "现在分词短语作后置定语，修饰employees。"
+        }
+      ],
+      "zh": "在塔斯曼海的另一侧，澳大利亚通过将收入超过特定“高收入门槛”的雇员排除在其不公正解雇法保护之外，来应对这一不公正解雇悖论。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2022-text4-s22",
+      "s": "In New Zealand, a 206 private members' Bill tried to permit firms and high-income employees to contract out of the unjustified dismissal regime.",
+      "para_no": 7,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "a 206 private members' Bill",
+        "谓语": "tried",
+        "宾语或表语": "to permit firms and high-income employees to contract out of the unjustified dismissal regime",
+        "主干翻译": "一项2006年的议员私人法案试图允许企业和高收入雇员退出不公正解雇制度。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "In New Zealand",
+          "修饰对象": "tried",
+          "中文翻译": "在新西兰",
+          "说明": "介词短语作地点状语。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to permit firms and high-income employees to contract out of the unjustified dismissal regime",
+          "修饰对象": "tried",
+          "中文翻译": "允许企业和高收入雇员通过约定退出不公正解雇制度",
+          "说明": "动词不定式作tried的宾语，表所尝试的内容。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "firms and high-income employees",
+          "修饰对象": "firms",
+          "中文翻译": "企业与高收入雇员",
+          "说明": "and连接permit的两个并列宾语。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to contract out of the unjustified dismissal regime",
+          "修饰对象": "permit",
+          "中文翻译": "通过约定退出不公正解雇制度",
+          "说明": "动词不定式作permit的宾语补足语，表所允许做的事。"
+        }
+      ],
+      "zh": "在新西兰，一项2006年的议员私人法案曾试图允许企业与高收入雇员通过协议退出不公正解雇制度。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2022-text4-s23",
+      "s": "However, the mechanisms proposed were unwieldy and the Bill was voted down following the change in government later that year.",
+      "para_no": 7,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "the mechanisms ... the Bill",
+        "谓语": "were ... was voted down",
+        "宾语或表语": "unwieldy",
+        "主干翻译": "所提出的机制笨重难行，该法案被否决了。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "However",
+          "修饰对象": "—",
+          "中文翻译": "然而",
+          "说明": "句首转折连接词。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "proposed",
+          "修饰对象": "mechanisms",
+          "中文翻译": "所提出的（机制）",
+          "说明": "过去分词作后置定语，修饰mechanisms，表被动。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "the mechanisms proposed were unwieldy and the Bill was voted down following the change in government later that year",
+          "修饰对象": "were",
+          "中文翻译": "所提出的机制笨重难行，而且该法案在当年晚些时候政府换届后被否决",
+          "说明": "and连接两个并列分句。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "following the change in government later that year",
+          "修饰对象": "voted",
+          "中文翻译": "在当年晚些时候政府换届之后",
+          "说明": "following引导的现在分词/介词短语作时间状语，修饰was voted down。"
+        }
+      ],
+      "zh": "然而，所提出的机制过于笨重难行，加之当年晚些时候政府换届，该法案最终被否决。",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2022-text4-s1",
+        "en1-2022-text4-s2",
+        "en1-2022-text4-s3"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2022-text4-s4",
+        "en1-2022-text4-s5",
+        "en1-2022-text4-s6"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2022-text4-s7",
+        "en1-2022-text4-s8",
+        "en1-2022-text4-s9",
+        "en1-2022-text4-s10",
+        "en1-2022-text4-s11",
+        "en1-2022-text4-s12"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2022-text4-s13",
+        "en1-2022-text4-s14"
+      ]
+    },
+    {
+      "para_no": 5,
+      "sids": [
+        "en1-2022-text4-s15",
+        "en1-2022-text4-s16",
+        "en1-2022-text4-s17",
+        "en1-2022-text4-s18"
+      ]
+    },
+    {
+      "para_no": 6,
+      "sids": [
+        "en1-2022-text4-s19",
+        "en1-2022-text4-s20"
+      ]
+    },
+    {
+      "para_no": 7,
+      "sids": [
+        "en1-2022-text4-s21",
+        "en1-2022-text4-s22",
+        "en1-2022-text4-s23"
+      ]
+    }
+  ]
+}

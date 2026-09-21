@@ -1,0 +1,616 @@
+{
+  "exam": "en1",
+  "key": "2025-t1",
+  "year": 2025,
+  "text_no": 1,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2025-text1-s1",
+      "s": "The grammar school boy from Stratford-upon-Avon has landed a scholarly punch after ground-breaking research showed that Shakespeare does benefit children's literacy and emotional development.",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The grammar school boy from Stratford-upon-Avon",
+        "谓语": "has landed",
+        "宾语或表语": "a scholarly punch",
+        "主干翻译": "这位来自埃文河畔斯特拉特福的文法学校男孩打出了一记学术上的重拳。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "after ground-breaking research showed that Shakespeare does benefit children's literacy and emotional development",
+          "修饰对象": "landed",
+          "中文翻译": "在一项开创性研究表明莎士比亚确实有益于儿童的读写能力和情感发展之后",
+          "说明": "after 引导时间状语从句，修饰主句谓语 landed。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that Shakespeare does benefit children's literacy and emotional development",
+          "修饰对象": "showed",
+          "中文翻译": "莎士比亚确实有益于儿童的读写能力和情感发展",
+          "说明": "that 引导 showed 的宾语从句，does 为强调；benefit 的并列宾语为 literacy and emotional development。"
+        }
+      ],
+      "zh": "在一项开创性研究表明莎士比亚确实有益于儿童的读写能力与情感发展之后，这位来自埃文河畔斯特拉特福的文法学校男孩打出了一记学术上的重拳。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2025-text1-s2",
+      "s": "But only if you act him out.",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "you",
+        "谓语": "act out",
+        "宾语或表语": "him",
+        "主干翻译": "（前提是）你把他演出来。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "only if you act him out",
+          "修饰对象": "—",
+          "中文翻译": "只有你把他（的作品）演出来时",
+          "说明": "本句为省略主句的条件状语从句，承接上句；only if 表示限定条件。"
+        }
+      ],
+      "zh": "但前提是你要把他（的作品）表演出来。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2025-text1-s3",
+      "s": "A study found that a “rehearsal room” approach to teaching Shakespeare broadened children's vocabulary and the complexity of their writing as well as their emotional literacy.",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "A study",
+        "谓语": "found",
+        "宾语或表语": "that 引导的宾语从句",
+        "主干翻译": "一项研究发现……"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "that a “rehearsal room” approach to teaching Shakespeare broadened children's vocabulary and the complexity of their writing as well as their emotional literacy",
+          "修饰对象": "found",
+          "中文翻译": "一种教授莎士比亚的“排练室”教学法拓宽了孩子们的词汇量、写作的复杂性以及他们的情感读写能力",
+          "说明": "that 引导 found 的宾语从句，从句主语为 a “rehearsal room” approach。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "children's vocabulary and the complexity of their writing as well as their emotional literacy",
+          "修饰对象": "broadened",
+          "中文翻译": "孩子们的词汇量、写作的复杂性以及他们的情感读写能力",
+          "说明": "broadened 的并列宾语，由 and 与 as well as 连接三项。"
+        }
+      ],
+      "zh": "一项研究发现，一种教授莎士比亚作品的“排练室”教学法拓宽了孩子们的词汇量、写作的复杂程度以及他们的情感读写能力。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2025-text1-s4",
+      "s": "“The research shows that the way actors work makes a big difference to the way children use language and also how they think about themselves,” Jacqui O’Hanlon of the Royal Shakespeare Company (RSC), which commissioned the study, said.",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Jacqui O’Hanlon of the Royal Shakespeare Company (RSC)",
+        "谓语": "said",
+        "宾语或表语": "（引语）The research shows…",
+        "主干翻译": "皇家莎士比亚剧团的杰奎·奥汉隆说……"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "The research shows that the way actors work makes a big difference to the way children use language and also how they think about themselves",
+          "修饰对象": "said",
+          "中文翻译": "这项研究表明，演员的工作方式对孩子们使用语言的方式以及他们如何看待自己产生了很大的影响",
+          "说明": "said 后的直接引语，作其宾语。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that the way actors work makes a big difference to the way children use language and also how they think about themselves",
+          "修饰对象": "shows",
+          "中文翻译": "演员的工作方式对孩子们使用语言的方式以及他们如何看待自己产生了很大的影响",
+          "说明": "that 引导 shows 的宾语从句。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "actors work",
+          "修饰对象": "way",
+          "中文翻译": "演员（工作）的（方式）",
+          "说明": "省略关系词的定语从句，修饰前一个 the way（the way (that) actors work）。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "children use language",
+          "修饰对象": "way",
+          "中文翻译": "孩子们使用语言的（方式）",
+          "说明": "省略关系词的定语从句，修饰 the way（to the way (that) children use language）。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "also how they think about themselves",
+          "修饰对象": "way",
+          "中文翻译": "以及他们如何看待自己",
+          "说明": "与前面 the way children use language 并列，同作 makes a big difference to 的宾语。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "of the Royal Shakespeare Company (RSC)",
+          "修饰对象": "Jacqui O’Hanlon",
+          "中文翻译": "皇家莎士比亚剧团（RSC）的",
+          "说明": "(RSC) 为 Royal Shakespeare Company 的同位缩写说明。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "which commissioned the study",
+          "修饰对象": "Company",
+          "中文翻译": "（该剧团）委托开展了这项研究",
+          "说明": "which 引导非限制性定语从句，修饰 the Royal Shakespeare Company。"
+        }
+      ],
+      "zh": "皇家莎士比亚剧团（RSC，该剧团委托开展了这项研究）的杰奎·奥汉隆说：“这项研究表明，演员的工作方式对孩子们使用语言的方式，以及他们如何看待自己，都产生了很大的影响。”",
+      "underline": null
+    },
+    {
+      "sid": "en1-2025-text1-s5",
+      "s": "The randomised control trial involved hundreds of year 5 pupils—aged nine and ten—at 45 state primary schools that had not been “previously exposed to RSC pedagogy”.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The randomised control trial",
+        "谓语": "involved",
+        "宾语或表语": "hundreds of year 5 pupils",
+        "主干翻译": "这项随机对照试验涉及数百名五年级学生。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "aged nine and ten",
+          "修饰对象": "pupils",
+          "中文翻译": "年龄在九岁和十岁",
+          "说明": "破折号间的过去分词短语作后置定语/插入说明，修饰 pupils。"
+        },
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "at 45 state primary schools",
+          "修饰对象": "pupils",
+          "中文翻译": "就读于45所公立小学的",
+          "说明": "介词短语 at... 表明这些学生所在的学校。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that had not been “previously exposed to RSC pedagogy”",
+          "修饰对象": "schools",
+          "中文翻译": "此前未曾“接触过RSC教学法”的",
+          "说明": "that 引导限制性定语从句，修饰 45 state primary schools。"
+        }
+      ],
+      "zh": "这项随机对照试验涉及数百名九岁和十岁的五年级学生，他们来自45所此前未曾“接触过RSC教学法”的公立小学。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2025-text1-s6",
+      "s": "They were split into target and control groups and asked to write, for example, a message in a bottle as Ferdinand after the shipwreck in The Tempest.",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "They",
+        "谓语": "were split / (were) asked",
+        "宾语或表语": "—",
+        "主干翻译": "他们被分成（若干组）并被要求（写作）。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "split into target and control groups and asked to write, for example, a message in a bottle as Ferdinand after the shipwreck in The Tempest",
+          "修饰对象": "were",
+          "中文翻译": "被分成目标组和对照组，并被要求（举例来说）以《暴风雨》中沉船后的费迪南德的身份写一封瓶中信",
+          "说明": "were 后两个并列过去分词 split... and asked...，构成并列谓语。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to write, for example, a message in a bottle as Ferdinand after the shipwreck in The Tempest",
+          "修饰对象": "asked",
+          "中文翻译": "去写（例如）一封瓶中信，以《暴风雨》中沉船之后的费迪南德的身份",
+          "说明": "不定式作 asked 的补足语；for example 为插入语，as Ferdinand、after the shipwreck in The Tempest 为附加状语。"
+        }
+      ],
+      "zh": "他们被分成目标组和对照组，并被要求（例如）以《暴风雨》中沉船之后的费迪南德的身份写一封瓶中信。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2025-text1-s7",
+      "s": "The target group was given a 30-minute drama-based activity to accompany the passage.",
+      "para_no": 3,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "The target group",
+        "谓语": "was given",
+        "宾语或表语": "a 30-minute drama-based activity",
+        "主干翻译": "目标组得到了一项30分钟的戏剧活动。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to accompany the passage",
+          "修饰对象": "activity",
+          "中文翻译": "用以配合该篇章的",
+          "说明": "不定式作后置定语，修饰 a 30-minute drama-based activity，表用途。"
+        }
+      ],
+      "zh": "目标组得到了一项30分钟的、用以配合该篇章的戏剧活动。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2025-text1-s8",
+      "s": "The peer-reviewed results showed that the target group of pupils drew on a wider vocabulary, used words “classed as more sophisticated or rarer”, and wrote at greater length.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The peer-reviewed results",
+        "谓语": "showed",
+        "宾语或表语": "that 引导的宾语从句",
+        "主干翻译": "经同行评审的结果表明……"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "that the target group of pupils drew on a wider vocabulary, used words “classed as more sophisticated or rarer”, and wrote at greater length",
+          "修饰对象": "showed",
+          "中文翻译": "目标组的学生运用了更广泛的词汇，使用了“被归类为更复杂或更罕见”的词语，并且写得更长",
+          "说明": "that 引导 showed 的宾语从句。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "drew on a wider vocabulary, used words “classed as more sophisticated or rarer”, and wrote at greater length",
+          "修饰对象": "pupils",
+          "中文翻译": "运用了更广泛的词汇、使用了“被归类为更复杂或更罕见”的词语并且写得更长",
+          "说明": "从句中三个并列谓语 drew... used... wrote...。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "classed as more sophisticated or rarer",
+          "修饰对象": "words",
+          "中文翻译": "被归类为更复杂或更罕见的",
+          "说明": "过去分词短语作后置定语，修饰 words。"
+        }
+      ],
+      "zh": "经同行评审的结果表明，目标组的学生运用了更广泛的词汇，使用了“被归类为更复杂或更罕见”的词语，并且写得篇幅更长。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2025-text1-s9",
+      "s": "They also “appear to be more comfortable writing in role…while [control] group imagine how they themselves would react to being shipwrecked, [target]group put themselves in the shoes of a literary character and express that character's emotion”.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "They / target group",
+        "谓语": "appear / put",
+        "宾语或表语": "—",
+        "主干翻译": "他们似乎更自在地以角色身份写作……目标组设身处地为文学人物着想。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to be more comfortable writing in role",
+          "修饰对象": "appear",
+          "中文翻译": "更自在地以角色身份写作",
+          "说明": "不定式作 appear 的补足语；writing in role 为现在分词作状语。"
+        },
+        {
+          "成分类型": "状语从句(比较)",
+          "原文": "while [control] group imagine how they themselves would react to being shipwrecked",
+          "修饰对象": "put",
+          "中文翻译": "而对照组（只是）想象他们自己对遭遇沉船会作何反应",
+          "说明": "while 此处表对比，引导比较/对照状语从句，与后面 target group put... 形成对照。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "how they themselves would react to being shipwrecked",
+          "修饰对象": "imagine",
+          "中文翻译": "他们自己对遭遇沉船会作何反应",
+          "说明": "how 引导 imagine 的宾语从句。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "themselves",
+          "修饰对象": "they",
+          "中文翻译": "他们自己",
+          "说明": "反身代词 themselves 作 they 的同位强调。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "express that character's emotion",
+          "修饰对象": "put",
+          "中文翻译": "并表达该人物的情感",
+          "说明": "与 put themselves in the shoes... 并列，同为 target group 的谓语。"
+        }
+      ],
+      "zh": "他们似乎也“更自在地以角色身份写作……对照组只是想象他们自己对遭遇沉船会作何反应，而目标组则设身处地代入一个文学人物，并表达该人物的情感”。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2025-text1-s10",
+      "s": "The Time to Act study also found that while control pupils relied on “desert island clichés” such as palm trees, target pupils were “more expansive [giving]a broader picture of the sky, the sea and the atmospheric conditions”.",
+      "para_no": 5,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The Time to Act study",
+        "谓语": "found",
+        "宾语或表语": "that 引导的宾语从句",
+        "主干翻译": "《行动正当时》这项研究还发现……"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "that while control pupils relied on “desert island clichés” such as palm trees, target pupils were “more expansive [giving]a broader picture of the sky, the sea and the atmospheric conditions”",
+          "修饰对象": "found",
+          "中文翻译": "当对照组学生依赖诸如棕榈树之类的“荒岛俗套”时，目标组学生“更为丰富，描绘出更广阔的天空、大海和大气状况的画面”",
+          "说明": "that 引导 found 的宾语从句。"
+        },
+        {
+          "成分类型": "状语从句(比较)",
+          "原文": "while control pupils relied on “desert island clichés” such as palm trees",
+          "修饰对象": "were",
+          "中文翻译": "而对照组学生依赖诸如棕榈树之类的“荒岛俗套”",
+          "说明": "while 表对比，引导比较/对照状语从句，与 target pupils were... 形成对照。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "the sky, the sea and the atmospheric conditions",
+          "修饰对象": "picture",
+          "中文翻译": "天空、大海和大气状况",
+          "说明": "a broader picture of 后的并列宾语。"
+        }
+      ],
+      "zh": "《行动正当时》这项研究还发现，当对照组学生依赖诸如棕榈树之类的“荒岛俗套”时，目标组学生则“更为丰富，描绘出关于天空、大海和大气状况的更广阔画面”。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2025-text1-s11",
+      "s": "O’Hanlon said she had been most surprised by the “emotional literacy that was evident in the [target] children's writing” and that they were “more resilient in their writing, more hopeful”.",
+      "para_no": 6,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "O’Hanlon",
+        "谓语": "said",
+        "宾语或表语": "（that 引导的宾语从句）",
+        "主干翻译": "奥汉隆说……"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "she had been most surprised by the “emotional literacy that was evident in the [target] children's writing” and that they were “more resilient in their writing, more hopeful”",
+          "修饰对象": "said",
+          "中文翻译": "她最感惊讶的是“目标组孩子写作中显而易见的情感读写能力”，以及他们“在写作中更具韧性、更充满希望”",
+          "说明": "said 后省略 that 的宾语从句，主句为 she had been most surprised by...。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that was evident in the [target] children's writing",
+          "修饰对象": "literacy",
+          "中文翻译": "在目标组孩子写作中显而易见的",
+          "说明": "that 引导限制性定语从句，修饰 emotional literacy。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "that they were “more resilient in their writing, more hopeful”",
+          "修饰对象": "surprised",
+          "中文翻译": "以及他们“在写作中更具韧性、更充满希望”",
+          "说明": "第二个 that 从句与 by 后的介词宾语并列，同作 most surprised by 的内容。"
+        }
+      ],
+      "zh": "奥汉隆说，最令她惊讶的是“目标组孩子写作中显而易见的情感读写能力”，以及他们“在写作中更具韧性、更充满希望”。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2025-text1-s12",
+      "s": "She added:“The emotional understanding was very evident and it is probably related to the [rehearsal room process] where you are used to trying to imagine your way through.",
+      "para_no": 6,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "She",
+        "谓语": "added",
+        "宾语或表语": "（引语）The emotional understanding…",
+        "主干翻译": "她补充说……"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "it is probably related to the [rehearsal room process] where you are used to trying to imagine your way through",
+          "修饰对象": "was",
+          "中文翻译": "它很可能与那种“排练室过程”有关，在这一过程中你习惯于设法靠想象来贯通一切",
+          "说明": "由 and 连接，与 The emotional understanding was very evident 并列。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "where you are used to trying to imagine your way through",
+          "修饰对象": "process",
+          "中文翻译": "在其中你习惯于尝试靠想象贯通一切",
+          "说明": "where 引导定语从句，修饰 rehearsal room process。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to imagine your way through",
+          "修饰对象": "trying",
+          "中文翻译": "靠想象一路贯通",
+          "说明": "不定式作 trying 的宾语/补足成分。"
+        }
+      ],
+      "zh": "她补充说：“这种情感理解非常明显，它很可能与那种‘排练室过程’有关——在这一过程中，你习惯于设法靠想象去贯通一切。”",
+      "underline": null
+    },
+    {
+      "sid": "en1-2025-text1-s13",
+      "s": "They were comfortable in describing different emotional states and part of what you do in drama is put yourself in different shoes.” The study showed the importance of embedding the arts in education, she said.",
+      "para_no": 6,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "They / The study",
+        "谓语": "were / showed",
+        "宾语或表语": "comfortable / the importance",
+        "主干翻译": "他们自如……这项研究显示了（某事的）重要性。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "part of what you do in drama is put yourself in different shoes.”",
+          "修饰对象": "were",
+          "中文翻译": "你在戏剧中所做的一部分就是设身处地为他人着想",
+          "说明": "由 and 连接，与 They were comfortable in describing different emotional states 并列；what you do in drama 为主语从句。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "put yourself in different shoes",
+          "修饰对象": "is",
+          "中文翻译": "设身处地为他人着想",
+          "说明": "省略 to 的不定式作表语（part... is (to) put...）。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "The study showed the importance of embedding the arts in education",
+          "修饰对象": "said",
+          "中文翻译": "这项研究显示了将艺术融入教育的重要性",
+          "说明": "she said 后省略 that 的宾语从句（she said (that) the study showed...）。"
+        }
+      ],
+      "zh": "他们能够自如地描述各种不同的情感状态，而你在戏剧中所做的一部分就是设身处地、换位思考。”她说，这项研究显示了将艺术融入教育的重要性。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2025-text1-s14",
+      "s": "But could the results be replicated with any old dramatist?",
+      "para_no": 7,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "the results",
+        "谓语": "could be replicated",
+        "宾语或表语": "—",
+        "主干翻译": "这些结果能否被复制？"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "with any old dramatist",
+          "修饰对象": "replicated",
+          "中文翻译": "换成随便哪位剧作家",
+          "说明": "介词短语作方式/条件状语，修饰 replicated。"
+        }
+      ],
+      "zh": "但是，换成随便哪位剧作家，这些结果还能被复制出来吗？",
+      "underline": null
+    },
+    {
+      "sid": "en1-2025-text1-s15",
+      "s": "O’Hanlon said more research would be needed but suggested that Shakespeare's use of 20,000 words, compared with the everyday 2,000 words, gave a “massive expansion of language into children’s lives”, which was combined with children “using their whole bodies to bring words to life”.",
+      "para_no": 7,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "O’Hanlon",
+        "谓语": "said / suggested",
+        "宾语或表语": "（两个并列宾语从句）",
+        "主干翻译": "奥汉隆说……但暗示说……"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "more research would be needed",
+          "修饰对象": "said",
+          "中文翻译": "还需要更多的研究",
+          "说明": "said 后省略 that 的宾语从句。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "suggested that Shakespeare's use of 20,000 words, compared with the everyday 2,000 words, gave a “massive expansion of language into children’s lives”, which was combined with children “using their whole bodies to bring words to life”",
+          "修饰对象": "said",
+          "中文翻译": "（但）暗示说，莎士比亚使用了2万个单词，相比日常的2千个单词，给孩子们的生活带来了“语言的巨大扩展”，这又与孩子们“用整个身体让词语鲜活起来”相结合",
+          "说明": "由 but 连接，said 与 suggested 构成并列谓语。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that Shakespeare's use of 20,000 words, compared with the everyday 2,000 words, gave a “massive expansion of language into children’s lives”, which was combined with children “using their whole bodies to bring words to life”",
+          "修饰对象": "suggested",
+          "中文翻译": "莎士比亚使用2万个单词（相比日常的2千个单词）给孩子们的生活带来了“语言的巨大扩展”，这又与孩子们“用整个身体让词语鲜活起来”相结合",
+          "说明": "that 引导 suggested 的宾语从句。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "compared with the everyday 2,000 words",
+          "修饰对象": "use",
+          "中文翻译": "与日常使用的2千个单词相比",
+          "说明": "过去分词短语作插入语/比较状语，对照 20,000 与 2,000。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "which was combined with children “using their whole bodies to bring words to life”",
+          "修饰对象": "expansion",
+          "中文翻译": "这（语言的扩展）又与孩子们“用整个身体让词语鲜活起来”相结合",
+          "说明": "which 引导非限制性定语从句，修饰 a massive expansion of language。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to bring words to life",
+          "修饰对象": "using",
+          "中文翻译": "以让词语鲜活起来",
+          "说明": "不定式作目的状语，修饰 using their whole bodies。"
+        }
+      ],
+      "zh": "奥汉隆说还需要更多研究，但她暗示，莎士比亚使用的2万个单词（相比日常使用的2千个单词）给孩子们的生活带来了“语言的巨大扩展”，而这又与孩子们“用整个身体让词语鲜活起来”相结合。",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2025-text1-s1",
+        "en1-2025-text1-s2"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2025-text1-s3",
+        "en1-2025-text1-s4"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2025-text1-s5",
+        "en1-2025-text1-s6",
+        "en1-2025-text1-s7"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2025-text1-s8",
+        "en1-2025-text1-s9"
+      ]
+    },
+    {
+      "para_no": 5,
+      "sids": [
+        "en1-2025-text1-s10"
+      ]
+    },
+    {
+      "para_no": 6,
+      "sids": [
+        "en1-2025-text1-s11",
+        "en1-2025-text1-s12",
+        "en1-2025-text1-s13"
+      ]
+    },
+    {
+      "para_no": 7,
+      "sids": [
+        "en1-2025-text1-s14",
+        "en1-2025-text1-s15"
+      ]
+    }
+  ]
+}

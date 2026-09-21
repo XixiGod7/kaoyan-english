@@ -1,0 +1,903 @@
+{
+  "exam": "en1",
+  "key": "2003-t4",
+  "year": 2003,
+  "text_no": 4,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2003-text4-s1",
+      "s": "It is said that in England death is pressing, in Canada inevitable and in California optional. Small wonder.",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "It",
+        "谓语": "is said",
+        "宾语或表语": "(that从句)",
+        "主干翻译": "据说……"
+      },
+      "components": [
+        {
+          "成分类型": "主语从句",
+          "原文": "that in England death is pressing, in Canada inevitable and in California optional",
+          "修饰对象": "It",
+          "中文翻译": "在英国死亡是急迫的，在加拿大是不可避免的，而在加利福尼亚则是可选的",
+          "说明": "it为形式主语，that引导真正的主语从句"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "in Canada inevitable",
+          "修饰对象": "death is pressing",
+          "中文翻译": "在加拿大（死亡是）不可避免的",
+          "说明": "与in England death is pressing并列，承前省略death is"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "in California optional",
+          "修饰对象": "in Canada inevitable",
+          "中文翻译": "在加利福尼亚（死亡是）可选的",
+          "说明": "and连接的并列项，承前省略death is"
+        }
+      ],
+      "zh": "据说，在英国死亡是急迫之事，在加拿大是不可避免之事，而在加利福尼亚则是可有可无之事。难怪。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2003-text4-s2",
+      "s": "Americans' life expectancy has nearly doubled over the past century.",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Americans' life expectancy",
+        "谓语": "has nearly doubled",
+        "宾语或表语": "—",
+        "主干翻译": "美国人的预期寿命几乎翻了一番"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "over the past century",
+          "修饰对象": "has doubled",
+          "中文翻译": "在过去的一个世纪里",
+          "说明": "时间状语，修饰谓语"
+        }
+      ],
+      "zh": "在过去的一个世纪里，美国人的预期寿命几乎翻了一番。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2003-text4-s3",
+      "s": "Failing hips can be replaced, clinical depression controlled, cataracts removed in a 30-minute surgical procedure.",
+      "para_no": 1,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Failing hips / clinical depression / cataracts",
+        "谓语": "can be replaced / controlled / removed",
+        "宾语或表语": "—",
+        "主干翻译": "衰退的髋关节可以更换、临床抑郁症可以控制、白内障可以摘除"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "Failing hips can be replaced",
+          "修饰对象": "cataracts removed",
+          "中文翻译": "衰退的髋关节可以被更换",
+          "说明": "三个并列分句之一"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "clinical depression controlled",
+          "修饰对象": "cataracts removed",
+          "中文翻译": "临床抑郁症可以被控制",
+          "说明": "并列分句，承前省略can be"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "in a 30-minute surgical procedure",
+          "修饰对象": "removed",
+          "中文翻译": "通过一次30分钟的外科手术",
+          "说明": "方式状语，修饰cataracts removed"
+        }
+      ],
+      "zh": "衰退的髋关节可以更换，临床抑郁症可以得到控制，白内障可以在一次30分钟的外科手术中摘除。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2003-text4-s4",
+      "s": "Such advances offer the aging population a quality of life that was unimaginable when I entered medicine 50 years ago.",
+      "para_no": 1,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "Such advances",
+        "谓语": "offer",
+        "宾语或表语": "the aging population a quality of life",
+        "主干翻译": "这些进步为老龄化人口提供了一种生活质量"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "that was unimaginable when I entered medicine 50 years ago",
+          "修饰对象": "quality",
+          "中文翻译": "在我50年前从医时无法想象的",
+          "说明": "that引导的定语从句，修饰a quality of life"
+        },
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "when I entered medicine 50 years ago",
+          "修饰对象": "was unimaginable",
+          "中文翻译": "当我50年前进入医学界时",
+          "说明": "when引导的时间状语从句，修饰定语从句中的was"
+        }
+      ],
+      "zh": "这些进步为老龄化人口提供了一种我50年前从医时无法想象的生活质量。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2003-text4-s5",
+      "s": "But not even a great health-care system can cure death—and our failure to confront that reality now threatens this greatness of ours.",
+      "para_no": 1,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "no health-care system / our failure",
+        "谓语": "can cure / threatens",
+        "宾语或表语": "death / this greatness of ours",
+        "主干翻译": "再好的医疗体系也无法治愈死亡——而我们的失败威胁着这种伟大"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to confront that reality",
+          "修饰对象": "failure",
+          "中文翻译": "正视那一现实的",
+          "说明": "不定式作定语修饰failure，说明无力做的事"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "our failure to confront that reality now threatens this greatness of ours",
+          "修饰对象": "can cure death",
+          "中文翻译": "我们无力正视那一现实如今威胁着我们的这种伟大",
+          "说明": "由破折号和and连接的并列分句"
+        }
+      ],
+      "zh": "但再好的医疗体系也治不好死亡这件事——而我们始终不肯正视这一点，如今正在侵蚀我们引以为傲的这份成就。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2003-text4-s6",
+      "s": "Death is normal; we are genetically programmed to disintegrate and perish, even under ideal conditions.",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Death / we",
+        "谓语": "is / are programmed",
+        "宾语或表语": "normal / (不定式补足语)",
+        "主干翻译": "死亡是正常的；我们被基因设定为……"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "Death is normal",
+          "修饰对象": "we are genetically programmed",
+          "中文翻译": "死亡是正常的",
+          "说明": "分号连接的两个并列分句之一"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to disintegrate and perish",
+          "修饰对象": "programmed",
+          "中文翻译": "走向衰败与消亡",
+          "说明": "不定式作programmed的补足语，表所被设定的结果"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "perish",
+          "修饰对象": "disintegrate",
+          "中文翻译": "消亡",
+          "说明": "与disintegrate由and并列"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "even under ideal conditions",
+          "修饰对象": "disintegrate and perish",
+          "中文翻译": "即使在理想条件下",
+          "说明": "让步性介词短语作状语"
+        }
+      ],
+      "zh": "死亡是正常的；即使在理想条件下，我们在基因上也注定要走向衰败和死亡。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2003-text4-s7",
+      "s": "We all understand that at some level, yet as medical consumers we treat death as a problem to be solved.",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "We / we",
+        "谓语": "understand / treat",
+        "宾语或表语": "that / death as a problem",
+        "主干翻译": "我们都明白这一点；然而我们却把死亡当作一个问题"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "all",
+          "修饰对象": "We",
+          "中文翻译": "全都",
+          "说明": "all作主语We的同位强调"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "yet as medical consumers we treat death as a problem to be solved",
+          "修饰对象": "We all understand that at some level",
+          "中文翻译": "然而作为医疗消费者我们却把死亡当作一个有待解决的问题",
+          "说明": "yet连接的转折并列分句"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "as medical consumers",
+          "修饰对象": "treat",
+          "中文翻译": "作为医疗消费者",
+          "说明": "身份状语，修饰treat"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "to be solved",
+          "修饰对象": "problem",
+          "中文翻译": "有待解决的",
+          "说明": "不定式作定语修饰problem（k标注为定语从句）"
+        }
+      ],
+      "zh": "在某种程度上我们都明白这一点，然而作为医疗消费者，我们却把死亡当作一个有待解决的问题来对待。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2003-text4-s8",
+      "s": "Shielded by third-party payers from the cost of our care, we demand everything that can possibly be done for us, even if it's useless.",
+      "para_no": 2,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "we",
+        "谓语": "demand",
+        "宾语或表语": "everything",
+        "主干翻译": "我们要求一切"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "Shielded by third-party payers from the cost of our care",
+          "修饰对象": "demand",
+          "中文翻译": "由于被第三方付款者挡在了医疗费用之外",
+          "说明": "过去分词短语作原因状语，修饰主句"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that can possibly be done for us",
+          "修饰对象": "everything",
+          "中文翻译": "凡是可能为我们做的",
+          "说明": "that引导定语从句修饰everything"
+        },
+        {
+          "成分类型": "状语从句(让步)",
+          "原文": "even if it's useless",
+          "修饰对象": "be done",
+          "中文翻译": "即使它毫无用处",
+          "说明": "even if引导让步状语从句"
+        }
+      ],
+      "zh": "由于有第三方付款者替我们承担医疗费用，我们便要求做一切可能为我们做的事，即便这些毫无用处。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2003-text4-s9",
+      "s": "The most obvious example is late-stage cancer care.",
+      "para_no": 2,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "The most obvious example",
+        "谓语": "is",
+        "宾语或表语": "late-stage cancer care",
+        "主干翻译": "最明显的例子是晚期癌症治疗"
+      },
+      "components": [],
+      "zh": "最明显的例子就是晚期癌症的治疗。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2003-text4-s10",
+      "s": "Physicians—frustrated by their inability to cure the disease and fearing loss of hope in the patient—too often offer aggressive treatment far beyond what is scientifically justified.",
+      "para_no": 2,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "Physicians",
+        "谓语": "offer",
+        "宾语或表语": "aggressive treatment",
+        "主干翻译": "医生们提供激进的治疗"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "frustrated by their inability to cure the disease and fearing loss of hope in the patient",
+          "修饰对象": "Physicians",
+          "中文翻译": "因无力治愈疾病而沮丧，又担心患者失去希望",
+          "说明": "破折号间的分词短语作Physicians的后置定语/状语"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to cure the disease",
+          "修饰对象": "inability",
+          "中文翻译": "治愈疾病的",
+          "说明": "不定式作定语修饰inability"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "fearing loss of hope in the patient",
+          "修饰对象": "frustrated by their inability to cure the disease",
+          "中文翻译": "担心患者失去希望",
+          "说明": "与frustrated由and并列"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "what is scientifically justified",
+          "修饰对象": "beyond",
+          "中文翻译": "科学上认为合理的范围",
+          "说明": "what引导宾语从句作beyond的宾语，表程度"
+        }
+      ],
+      "zh": "医生们因无力治愈疾病而沮丧，又害怕患者丧失希望，于是常常提供远远超出科学合理范围的激进治疗。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2003-text4-s11",
+      "s": "In 1950, the US spent $12.7 billion on health care.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "the US",
+        "谓语": "spent",
+        "宾语或表语": "$12.7 billion",
+        "主干翻译": "美国花费了127亿美元"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "In 1950",
+          "修饰对象": "spent",
+          "中文翻译": "1950年",
+          "说明": "时间状语"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "on health care",
+          "修饰对象": "spent",
+          "中文翻译": "在医疗保健上",
+          "说明": "范围状语，修饰spent"
+        }
+      ],
+      "zh": "1950年，美国在医疗保健上花费了127亿美元。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2003-text4-s12",
+      "s": "In 2002, the cost will be $1,540 billion.",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "the cost",
+        "谓语": "will be",
+        "宾语或表语": "$1,540 billion",
+        "主干翻译": "这笔费用将达15400亿美元"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "In 2002",
+          "修饰对象": "will be",
+          "中文翻译": "2002年",
+          "说明": "时间状语"
+        }
+      ],
+      "zh": "到2002年，这笔费用将达到15400亿美元。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2003-text4-s13",
+      "s": "Anyone can see this trend is unsustainable.",
+      "para_no": 3,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Anyone",
+        "谓语": "can see",
+        "宾语或表语": "(宾语从句)",
+        "主干翻译": "任何人都能看出……"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "this trend is unsustainable",
+          "修饰对象": "see",
+          "中文翻译": "这一趋势是不可持续的",
+          "说明": "省略了that的宾语从句"
+        }
+      ],
+      "zh": "任何人都能看出这一趋势是不可持续的。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2003-text4-s14",
+      "s": "Yet few seem willing to try to reverse it.",
+      "para_no": 3,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "few",
+        "谓语": "seem",
+        "宾语或表语": "willing",
+        "主干翻译": "似乎很少有人愿意"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to try to reverse it",
+          "修饰对象": "willing",
+          "中文翻译": "去尝试扭转它",
+          "说明": "不定式作willing的补足语"
+        }
+      ],
+      "zh": "然而似乎很少有人愿意去尝试扭转这一趋势。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2003-text4-s15",
+      "s": "Some scholars conclude that a government with finite resources should simply stop paying for medical care that sustains life beyond a certain age—say 83 or so.",
+      "para_no": 3,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "Some scholars",
+        "谓语": "conclude",
+        "宾语或表语": "(宾语从句)",
+        "主干翻译": "一些学者得出结论说……"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "that a government with finite resources should simply stop paying for medical care that sustains life beyond a certain age—say 83 or so",
+          "修饰对象": "conclude",
+          "中文翻译": "资源有限的政府应当干脆停止为那些将生命维持到某一年龄之后的医疗付费",
+          "说明": "that引导conclude的宾语从句"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "paying for medical care that sustains life beyond a certain age—say 83 or so",
+          "修饰对象": "stop",
+          "中文翻译": "为维持生命超过某一年龄的医疗付费",
+          "说明": "动名词作stop的宾语"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that sustains life beyond a certain age—say 83 or so",
+          "修饰对象": "care",
+          "中文翻译": "将生命维持到某一年龄以上的",
+          "说明": "that引导定语从句修饰medical care"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "say 83 or so",
+          "修饰对象": "age",
+          "中文翻译": "比如说83岁左右",
+          "说明": "对a certain age的举例补充"
+        }
+      ],
+      "zh": "一些学者得出结论：资源有限的政府应当干脆停止为那些将生命维持到某个年龄——比如说83岁左右——之后的医疗买单。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2003-text4-s16",
+      "s": "Former Colorado governor Richard Lamm has been quoted as saying that the old and infirm \"have a duty to die and get out of the way\", so that younger, healthier people can realize their potential.",
+      "para_no": 3,
+      "para_seq": 5,
+      "trunk": {
+        "主语": "Richard Lamm",
+        "谓语": "has been quoted",
+        "宾语或表语": "(as saying)",
+        "主干翻译": "理查德·拉姆被援引说过……"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "that the old and infirm \"have a duty to die and get out of the way\", so that younger, healthier people can realize their potential",
+          "修饰对象": "saying",
+          "中文翻译": "老弱者有义务去死并让出位置，以便更年轻、更健康的人能够发挥其潜能",
+          "说明": "that引导saying的宾语从句"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to die and get out of the way",
+          "修饰对象": "duty",
+          "中文翻译": "去死并让出位置的",
+          "说明": "不定式作定语修饰a duty"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "get out of the way",
+          "修饰对象": "die",
+          "中文翻译": "让出位置",
+          "说明": "与die由and并列"
+        },
+        {
+          "成分类型": "状语从句(目的)",
+          "原文": "so that younger, healthier people can realize their potential",
+          "修饰对象": "have a duty to die and get out of the way",
+          "中文翻译": "以便更年轻、更健康的人能实现其潜能",
+          "说明": "so that引导目的状语从句"
+        }
+      ],
+      "zh": "据援引，前科罗拉多州州长理查德·拉姆曾说，老弱病残者有义务去死、让出位置，以便更年轻、更健康的人能实现他们的潜能。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2003-text4-s17",
+      "s": "I would not go that far.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "I",
+        "谓语": "would not go",
+        "宾语或表语": "that far",
+        "主干翻译": "我不会说到那种地步。"
+      },
+      "components": [],
+      "zh": "我不会说得那么极端。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2003-text4-s18",
+      "s": "Energetic people now routinely work through their 60s and beyond, and remain dazzlingly productive.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Energetic people",
+        "谓语": "work / remain",
+        "宾语或表语": "(through their 60s) / productive",
+        "主干翻译": "精力充沛的人工作……并保持……高产"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "remain dazzlingly productive",
+          "修饰对象": "work through their 60s and beyond",
+          "中文翻译": "并保持惊人的高产",
+          "说明": "与work由and并列的谓语"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "through their 60s and beyond",
+          "修饰对象": "work",
+          "中文翻译": "一直工作到60多岁乃至更晚",
+          "说明": "时间范围状语，修饰work"
+        }
+      ],
+      "zh": "如今精力充沛的人通常会一直工作到60多岁甚至更晚，并保持惊人的工作效率。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2003-text4-s19",
+      "s": "At 78, Viacom chairman Sumner Redstone jokingly claims to be 53.",
+      "para_no": 4,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Sumner Redstone",
+        "谓语": "claims",
+        "宾语或表语": "(to be 53)",
+        "主干翻译": "萨姆纳·雷石东声称自己……"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to be 53",
+          "修饰对象": "claims",
+          "中文翻译": "只有53岁",
+          "说明": "不定式作claims的宾语补足/宾语"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "At 78",
+          "修饰对象": "claims",
+          "中文翻译": "在78岁时",
+          "说明": "时间状语"
+        }
+      ],
+      "zh": "78岁的维亚康姆公司董事长萨姆纳·雷石东开玩笑说自己只有53岁。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2003-text4-s20",
+      "s": "Supreme Court Justice Sandra Day O'Connor is in her 70 s, and former surgeon general C. Everett Koop chairs an Internet start-up in his 80 s.",
+      "para_no": 4,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "Sandra Day O'Connor / C. Everett Koop",
+        "谓语": "is / chairs",
+        "宾语或表语": "in her 70s / an Internet start-up",
+        "主干翻译": "桑德拉·戴·奥康纳已70多岁，而库普掌管一家网络初创公司"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "former surgeon general C. Everett Koop chairs an Internet start-up in his 80 s",
+          "修饰对象": "Supreme Court Justice Sandra Day O'Connor is in her 70 s",
+          "中文翻译": "前卫生局局长库普在80多岁时掌管着一家网络初创公司",
+          "说明": "and连接的并列分句"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "in his 80 s",
+          "修饰对象": "chairs",
+          "中文翻译": "在他80多岁时",
+          "说明": "时间状语，修饰chairs"
+        }
+      ],
+      "zh": "最高法院大法官桑德拉·戴·奥康纳已年逾70，而前卫生局局长C·埃弗里特·库普在80多岁时仍掌管着一家网络初创公司。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2003-text4-s21",
+      "s": "These leaders are living proof that prevention works and that we can manage the health problems that come naturally with age.",
+      "para_no": 4,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "These leaders",
+        "谓语": "are",
+        "宾语或表语": "living proof",
+        "主干翻译": "这些领导人是活生生的证明"
+      },
+      "components": [
+        {
+          "成分类型": "同位语从句",
+          "原文": "that prevention works and that we can manage the health problems that come naturally with age",
+          "修饰对象": "proof",
+          "中文翻译": "预防是有效的，而且我们能够管理随年龄自然出现的健康问题",
+          "说明": "that引导同位语从句解释proof内容"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "that we can manage the health problems that come naturally with age",
+          "修饰对象": "that prevention works",
+          "中文翻译": "我们能够管理随年龄自然出现的健康问题",
+          "说明": "and连接的第二个同位语从句"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that come naturally with age",
+          "修饰对象": "problems",
+          "中文翻译": "随年龄自然出现的",
+          "说明": "that引导定语从句修饰the health problems"
+        }
+      ],
+      "zh": "这些领导人就是活生生的证据，证明预防是有效的，而且我们能够应对随年龄自然出现的健康问题。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2003-text4-s22",
+      "s": "As a mere 68-year-old, I wish to age as productively as they have.",
+      "para_no": 4,
+      "para_seq": 5,
+      "trunk": {
+        "主语": "I",
+        "谓语": "wish",
+        "宾语或表语": "(to age...)",
+        "主干翻译": "我希望……"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to age as productively as they have",
+          "修饰对象": "wish",
+          "中文翻译": "像他们那样高产地老去",
+          "说明": "不定式作wish的宾语"
+        },
+        {
+          "成分类型": "状语从句(比较)",
+          "原文": "as they have",
+          "修饰对象": "productively",
+          "中文翻译": "像他们已经做到的那样",
+          "说明": "as...as比较结构，第二个as引导比较状语从句，have后省略aged productively"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "As a mere 68-year-old",
+          "修饰对象": "wish",
+          "中文翻译": "作为一个区区68岁的人",
+          "说明": "身份状语"
+        }
+      ],
+      "zh": "作为一个区区68岁的人，我希望能像他们那样高效率地变老。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2003-text4-s23",
+      "s": "Yet there are limits to what a society can spend in this pursuit.",
+      "para_no": 5,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "there",
+        "谓语": "are",
+        "宾语或表语": "limits",
+        "主干翻译": "存在着限度"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "to what a society can spend in this pursuit",
+          "修饰对象": "limits",
+          "中文翻译": "一个社会在这一追求上能够花费的",
+          "说明": "to引导的介词短语含what宾语从句，作limits的后置定语"
+        }
+      ],
+      "zh": "然而，一个社会在这一追求上能投入的资源是有限度的。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2003-text4-s24",
+      "s": "As a physician, I know the most costly and dramatic measures may be ineffective and painful.",
+      "para_no": 5,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "I",
+        "谓语": "know",
+        "宾语或表语": "(宾语从句)",
+        "主干翻译": "我知道……"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "the most costly and dramatic measures may be ineffective and painful",
+          "修饰对象": "know",
+          "中文翻译": "最昂贵、最激烈的手段可能既无效又痛苦",
+          "说明": "省略that的宾语从句"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "As a physician",
+          "修饰对象": "know",
+          "中文翻译": "作为一名医生",
+          "说明": "身份状语"
+        }
+      ],
+      "zh": "作为一名医生，我知道最昂贵、最激烈的手段可能既无效又痛苦。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2003-text4-s25",
+      "s": "I also know that people in Japan and Sweden, countries that spend far less on medical care, have achieved longer, healthier lives than we have.",
+      "para_no": 5,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "I",
+        "谓语": "know",
+        "宾语或表语": "(宾语从句)",
+        "主干翻译": "我也知道……"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "that people in Japan and Sweden, countries that spend far less on medical care, have achieved longer, healthier lives than we have",
+          "修饰对象": "know",
+          "中文翻译": "日本和瑞典——这两个在医疗上花费少得多的国家——的人们已获得了比我们更长寿、更健康的生活",
+          "说明": "that引导know的宾语从句"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "countries that spend far less on medical care",
+          "修饰对象": "Japan",
+          "中文翻译": "（这两个）在医疗上花费少得多的国家",
+          "说明": "Japan and Sweden的同位语，插入说明"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that spend far less on medical care",
+          "修饰对象": "countries",
+          "中文翻译": "在医疗上花费少得多的",
+          "说明": "that引导定语从句修饰countries"
+        },
+        {
+          "成分类型": "状语从句(比较)",
+          "原文": "than we have",
+          "修饰对象": "longer, healthier lives",
+          "中文翻译": "比我们（所获得的）",
+          "说明": "than引导比较状语从句，have后省略achieved"
+        }
+      ],
+      "zh": "我也知道，日本和瑞典——这两个在医疗上花费少得多的国家——的人们已经获得了比我们更长寿、更健康的生活。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2003-text4-s26",
+      "s": "As a nation, we may be overfunding the quest for unlikely cures while underfunding research on humbler therapies that could improve people's lives.",
+      "para_no": 5,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "we",
+        "谓语": "may be overfunding",
+        "宾语或表语": "the quest for unlikely cures",
+        "主干翻译": "我们可能在过度投资于对不太可能的疗法的追求"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "while underfunding research on humbler therapies that could improve people's lives",
+          "修饰对象": "overfunding",
+          "中文翻译": "与此同时却对那些可能改善人们生活的更朴实疗法的研究投入不足",
+          "说明": "while引导对比/伴随状语从句（与overfunding形成对比）"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that could improve people's lives",
+          "修饰对象": "therapies",
+          "中文翻译": "可能改善人们生活的",
+          "说明": "that引导定语从句修饰humbler therapies"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "As a nation",
+          "修饰对象": "overfunding",
+          "中文翻译": "作为一个国家",
+          "说明": "身份状语"
+        }
+      ],
+      "zh": "作为一个国家，我们可能在过度投资于对不大可能成功的疗法的追求，与此同时却对那些可能改善人们生活的更朴实疗法的研究投入不足。",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2003-text4-s1",
+        "en1-2003-text4-s2",
+        "en1-2003-text4-s3",
+        "en1-2003-text4-s4",
+        "en1-2003-text4-s5"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2003-text4-s6",
+        "en1-2003-text4-s7",
+        "en1-2003-text4-s8",
+        "en1-2003-text4-s9",
+        "en1-2003-text4-s10"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2003-text4-s11",
+        "en1-2003-text4-s12",
+        "en1-2003-text4-s13",
+        "en1-2003-text4-s14",
+        "en1-2003-text4-s15",
+        "en1-2003-text4-s16"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2003-text4-s17",
+        "en1-2003-text4-s18",
+        "en1-2003-text4-s19",
+        "en1-2003-text4-s20",
+        "en1-2003-text4-s21",
+        "en1-2003-text4-s22"
+      ]
+    },
+    {
+      "para_no": 5,
+      "sids": [
+        "en1-2003-text4-s23",
+        "en1-2003-text4-s24",
+        "en1-2003-text4-s25",
+        "en1-2003-text4-s26"
+      ]
+    }
+  ]
+}

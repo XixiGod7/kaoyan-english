@@ -1,0 +1,719 @@
+{
+  "exam": "en1",
+  "key": "2018-t3",
+  "year": 2018,
+  "text_no": 3,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2018-text3-s1",
+      "s": "Any fair-minded assessment of the dangers of the deal between Britain's National Health Service (NHS) and DeepMind must start by acknowledging that both sides mean well.",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Any fair-minded assessment of the dangers of the deal",
+        "谓语": "must start by acknowledging",
+        "宾语或表语": "that both sides mean well",
+        "主干翻译": "任何公正的评估都必须从承认双方都是出于善意开始。"
+      },
+      "components": [
+        {
+          "成分类型": "同位语从句",
+          "原文": "Britain's National Health Service (NHS)",
+          "修饰对象": "Service",
+          "中文翻译": "英国国家医疗服务体系（NHS）",
+          "说明": "括号内的 NHS 是对前面 National Health Service 的同位缩写说明。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that both sides mean well",
+          "修饰对象": "acknowledging",
+          "中文翻译": "双方都是出于善意的",
+          "说明": "由 that 引导，作动名词 acknowledging 的宾语。"
+        }
+      ],
+      "zh": "对英国国家医疗服务体系（NHS）与 DeepMind 之间这笔交易的危险所作的任何公正评估，都必须从承认双方都是出于善意这一点开始。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2018-text3-s2",
+      "s": "DeepMind is one of the leading artificial intelligence (AI) companies in the world.",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "DeepMind",
+        "谓语": "is",
+        "宾语或表语": "one of the leading artificial intelligence (AI) companies",
+        "主干翻译": "DeepMind 是领先的人工智能公司之一。"
+      },
+      "components": [
+        {
+          "成分类型": "同位语从句",
+          "原文": "artificial intelligence (AI)",
+          "修饰对象": "intelligence",
+          "中文翻译": "人工智能（AI）",
+          "说明": "括号内 AI 是对 artificial intelligence 的同位缩写说明。"
+        }
+      ],
+      "zh": "DeepMind 是世界上领先的人工智能（AI）公司之一。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2018-text3-s3",
+      "s": "The potential of this work applied to healthcare is very great, but it could also lead to further concentration of power in the tech giants.",
+      "para_no": 1,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "The potential of this work",
+        "谓语": "is",
+        "宾语或表语": "very great",
+        "主干翻译": "这项工作的潜力非常巨大。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "applied to healthcare",
+          "修饰对象": "work",
+          "中文翻译": "应用于医疗保健的",
+          "说明": "过去分词短语作后置定语，修饰 this work。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "it could also lead to further concentration of power in the tech giants",
+          "修饰对象": "—",
+          "中文翻译": "它也可能导致权力进一步集中于科技巨头手中",
+          "说明": "由 but 连接的并列分句，与前一分句构成转折并列。"
+        }
+      ],
+      "zh": "这项工作应用于医疗保健的潜力非常巨大，但它也可能导致权力进一步集中于科技巨头手中。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2018-text3-s4",
+      "s": "It is against that background that the information commissioner, Elizabeth Denham, has issued her damning verdict against the Royal Free Hospital trust under the NHS, which handed over to DeepMind the records of 1.6 million patients in 2015 on the basis of a vague agreement which took far too little account of the patients' rights and their expectations of privacy.",
+      "para_no": 1,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "the information commissioner",
+        "谓语": "has issued",
+        "宾语或表语": "her damning verdict",
+        "主干翻译": "正是在那样的背景下，信息专员发布了她的严厉裁定。"
+      },
+      "components": [
+        {
+          "成分类型": "强调句",
+          "原文": "It is against that background that the information commissioner, Elizabeth Denham, has issued her damning verdict against the Royal Free Hospital trust under the NHS",
+          "修饰对象": "—",
+          "中文翻译": "正是在那样的背景下，信息专员伊丽莎白·德纳姆才对 NHS 下属的皇家自由医院信托发布了她的严厉裁定",
+          "说明": "It is ... that ... 强调句型，强调状语 against that background。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "Elizabeth Denham",
+          "修饰对象": "commissioner",
+          "中文翻译": "伊丽莎白·德纳姆",
+          "说明": "人名作同位语，说明 the information commissioner 是谁。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "which handed over to DeepMind the records of 1.6 million patients in 2015 on the basis of a vague agreement",
+          "修饰对象": "trust",
+          "中文翻译": "（该信托）于 2015 年依据一份含糊的协议将 160 万名患者的记录移交给了 DeepMind",
+          "说明": "which 引导的非限制性定语从句，修饰 the Royal Free Hospital trust。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "which took far too little account of the patients' rights and their expectations of privacy",
+          "修饰对象": "agreement",
+          "中文翻译": "（该协议）远远没有充分顾及患者的权利及其对隐私的期待",
+          "说明": "which 引导的定语从句，修饰 a vague agreement。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "their expectations of privacy",
+          "修饰对象": "rights",
+          "中文翻译": "他们对隐私的期待",
+          "说明": "由 and 连接，与 the patients' rights 并列作 took account of 的宾语。"
+        }
+      ],
+      "zh": "正是在那样的背景下，信息专员伊丽莎白·德纳姆才对 NHS 下属的皇家自由医院信托发布了她的严厉裁定——该信托于 2015 年依据一份含糊的协议将 160 万名患者的记录移交给了 DeepMind，而那份协议远远没有充分顾及患者的权利及其对隐私的期待。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2018-text3-s5",
+      "s": "DeepMind has almost apologized.",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "DeepMind",
+        "谓语": "has almost apologized",
+        "宾语或表语": "—",
+        "主干翻译": "DeepMind 几乎道歉了。"
+      },
+      "components": [],
+      "zh": "DeepMind 几乎已经道歉了。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2018-text3-s6",
+      "s": "The NHS trust has mended its ways.",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "The NHS trust",
+        "谓语": "has mended",
+        "宾语或表语": "its ways",
+        "主干翻译": "这家 NHS 信托已经改正了做法。"
+      },
+      "components": [],
+      "zh": "这家 NHS 信托已经改正了自己的做法。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2018-text3-s7",
+      "s": "Further arrangements—and there may be many—between the NHS and DeepMind will be carefully scrutinised to ensure that all necessary permissions have been asked of patients and all unnecessary data has been cleaned.",
+      "para_no": 2,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Further arrangements",
+        "谓语": "will be carefully scrutinised",
+        "宾语或表语": "—",
+        "主干翻译": "进一步的安排将受到仔细审查。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "and there may be many",
+          "修饰对象": "arrangements",
+          "中文翻译": "而且可能会有很多",
+          "说明": "破折号之间插入的补充说明，说明 arrangements 数量可能很多。"
+        },
+        {
+          "成分类型": "状语从句(目的)",
+          "原文": "to ensure that all necessary permissions have been asked of patients and all unnecessary data has been cleaned",
+          "修饰对象": "scrutinised",
+          "中文翻译": "以确保已向患者征得所有必要的许可，并且所有不必要的数据均已被清除",
+          "说明": "to 引导的不定式短语作目的状语，修饰 scrutinised。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that all necessary permissions have been asked of patients and all unnecessary data has been cleaned",
+          "修饰对象": "ensure",
+          "中文翻译": "已向患者征得所有必要的许可，并且所有不必要的数据均已被清除",
+          "说明": "that 引导，作 ensure 的宾语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "all unnecessary data has been cleaned",
+          "修饰对象": "asked",
+          "中文翻译": "所有不必要的数据均已被清除",
+          "说明": "由 and 连接，与前一分句并列同作 ensure 宾语从句的内容。"
+        }
+      ],
+      "zh": "今后 NHS 与 DeepMind 之间的进一步安排（而且可能会有很多）都将受到仔细审查，以确保已向患者征得所有必要的许可，并且所有不必要的数据均已被清除。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2018-text3-s8",
+      "s": "There are lessons about informed patient consent to learn.",
+      "para_no": 2,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "There",
+        "谓语": "are",
+        "宾语或表语": "lessons about informed patient consent",
+        "主干翻译": "有一些关于知情患者同意的教训。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to learn",
+          "修饰对象": "lessons",
+          "中文翻译": "要吸取的",
+          "说明": "不定式作后置定语，修饰 lessons。"
+        }
+      ],
+      "zh": "在患者知情同意方面，还有一些教训需要吸取。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2018-text3-s9",
+      "s": "But privacy is not the only angle in this case and not even the most important.",
+      "para_no": 2,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "privacy",
+        "谓语": "is not",
+        "宾语或表语": "the only angle in this case",
+        "主干翻译": "但隐私并不是本案中唯一的角度。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "not even the most important",
+          "修饰对象": "angle",
+          "中文翻译": "甚至也不是最重要的角度",
+          "说明": "由 and 连接的并列表语（省略 it is），与 the only angle 并列。"
+        }
+      ],
+      "zh": "但隐私并不是本案中唯一的角度，甚至也不是最重要的角度。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2018-text3-s10",
+      "s": "Ms Denham chose to concentrate the blame on the NHS trust, since under existing law it \"controlled\" the data and DeepMind merely \"processed\" it.",
+      "para_no": 2,
+      "para_seq": 5,
+      "trunk": {
+        "主语": "Ms Denham",
+        "谓语": "chose",
+        "宾语或表语": "to concentrate the blame on the NHS trust",
+        "主干翻译": "德纳姆女士选择将责任集中归咎于这家 NHS 信托。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to concentrate the blame on the NHS trust",
+          "修饰对象": "chose",
+          "中文翻译": "将责任集中归咎于这家 NHS 信托",
+          "说明": "不定式短语作 chose 的宾语（动词不定式作宾语补足成分）。"
+        },
+        {
+          "成分类型": "状语从句(原因)",
+          "原文": "since under existing law it \"controlled\" the data",
+          "修饰对象": "chose",
+          "中文翻译": "因为按照现行法律，是它（信托）“控制”着这些数据",
+          "说明": "since 引导原因状语从句，修饰 chose。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "DeepMind merely \"processed\" it",
+          "修饰对象": "controlled",
+          "中文翻译": "而 DeepMind 只是“处理”了这些数据",
+          "说明": "由 and 连接，与 it \"controlled\" the data 并列，同属 since 原因从句。"
+        }
+      ],
+      "zh": "德纳姆女士选择将责任集中归咎于这家 NHS 信托，因为按照现行法律，是它“控制”着这些数据，而 DeepMind 只是“处理”了这些数据。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2018-text3-s11",
+      "s": "But this distinction misses the point that it is processing and aggregation, not the mere possession of bits, that gives the data value.",
+      "para_no": 2,
+      "para_seq": 6,
+      "trunk": {
+        "主语": "this distinction",
+        "谓语": "misses",
+        "宾语或表语": "the point",
+        "主干翻译": "但这种区分忽略了一个要点。"
+      },
+      "components": [
+        {
+          "成分类型": "同位语从句",
+          "原文": "that it is processing and aggregation, not the mere possession of bits, that gives the data value",
+          "修饰对象": "point",
+          "中文翻译": "赋予数据价值的是处理和聚合，而非仅仅占有这些数据位",
+          "说明": "that 引导的同位语从句，说明 the point 的具体内容；其内部又是一个强调句。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "not the mere possession of bits",
+          "修饰对象": "processing",
+          "中文翻译": "而不是仅仅占有这些数据位",
+          "说明": "用逗号隔开的对比性插入成分，与 processing and aggregation 形成对照。"
+        },
+        {
+          "成分类型": "强调句",
+          "原文": "it is processing and aggregation, not the mere possession of bits, that gives the data value",
+          "修饰对象": "—",
+          "中文翻译": "正是处理和聚合（而非仅仅占有数据位）才赋予了数据价值",
+          "说明": "it is ... that ... 强调句型，强调主语 processing and aggregation。"
+        }
+      ],
+      "zh": "但这种区分忽略了一个要点：正是对数据的处理和聚合、而非仅仅占有这些数据位，才赋予了数据价值。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2018-text3-s12",
+      "s": "The great question is who should benefit from the analysis of all the data that our lives now generate.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The great question",
+        "谓语": "is",
+        "宾语或表语": "who should benefit from the analysis of all the data",
+        "主干翻译": "最大的问题是谁应当从对所有数据的分析中获益。"
+      },
+      "components": [
+        {
+          "成分类型": "表语从句",
+          "原文": "who should benefit from the analysis of all the data that our lives now generate",
+          "修饰对象": "is",
+          "中文翻译": "谁应当从对我们生活如今所产生的所有数据的分析中获益",
+          "说明": "who 引导的表语从句，作系动词 is 的表语。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that our lives now generate",
+          "修饰对象": "data",
+          "中文翻译": "我们的生活如今所产生的",
+          "说明": "that 引导的限制性定语从句，修饰 all the data。"
+        }
+      ],
+      "zh": "最大的问题在于：谁应当从对我们的生活如今所产生的所有数据的分析中获益。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2018-text3-s13",
+      "s": "Privacy law builds on the concept of damage to an individual from identifiable knowledge about them.",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Privacy law",
+        "谓语": "builds on",
+        "宾语或表语": "the concept of damage to an individual",
+        "主干翻译": "隐私法建立在对个人造成损害这一概念之上。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "from identifiable knowledge about them",
+          "修饰对象": "damage",
+          "中文翻译": "由关于他们的可识别信息所造成的",
+          "说明": "from 引导的介词短语作后置定语，说明 damage 的来源。"
+        }
+      ],
+      "zh": "隐私法建立在这样一个概念之上：由关于个人的可识别信息对该个人造成损害。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2018-text3-s14",
+      "s": "That misses the way the surveillance economy works.",
+      "para_no": 3,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "That",
+        "谓语": "misses",
+        "宾语或表语": "the way",
+        "主干翻译": "那忽略了某种方式。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "the surveillance economy works",
+          "修饰对象": "way",
+          "中文翻译": "监控经济运作的（方式）",
+          "说明": "修饰 the way 的定语从句，引导词 that/in which 被省略。"
+        }
+      ],
+      "zh": "但那种观念忽略了监控经济运作的方式。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2018-text3-s15",
+      "s": "The data of an individual there gains its value only when it is compared with the data of countless millions more.",
+      "para_no": 3,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "The data of an individual",
+        "谓语": "gains",
+        "宾语或表语": "its value",
+        "主干翻译": "个人的数据才获得其价值。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "only when it is compared with the data of countless millions more",
+          "修饰对象": "gains",
+          "中文翻译": "只有当它与其他无数百万人的数据进行比对时",
+          "说明": "when 引导的时间状语从句，加 only 表示“只有……才”，修饰 gains。"
+        }
+      ],
+      "zh": "在那里，个人的数据只有在与其他无数百万人的数据进行比对时，才获得其价值。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2018-text3-s16",
+      "s": "The use of privacy law to curb the tech giants in this instance feels slightly maladapted.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The use of privacy law",
+        "谓语": "feels",
+        "宾语或表语": "slightly maladapted",
+        "主干翻译": "使用隐私法显得有点不太合适。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to curb the tech giants",
+          "修饰对象": "use",
+          "中文翻译": "来遏制科技巨头的",
+          "说明": "不定式短语作后置定语，修饰 The use of privacy law，表用途。"
+        }
+      ],
+      "zh": "在这种情况下，运用隐私法来遏制科技巨头显得有点不太对路。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2018-text3-s17",
+      "s": "This practice does not address the real worry.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "This practice",
+        "谓语": "does not address",
+        "宾语或表语": "the real worry",
+        "主干翻译": "这种做法并未触及真正的隐忧。"
+      },
+      "components": [],
+      "zh": "这种做法并未触及真正令人担忧的问题。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2018-text3-s18",
+      "s": "It is not enough to say that the algorithms DeepMind develops will benefit patients and save lives.",
+      "para_no": 4,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "It",
+        "谓语": "is not",
+        "宾语或表语": "enough",
+        "主干翻译": "（仅仅）那样说是不够的。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作主语",
+          "原文": "to say that the algorithms DeepMind develops will benefit patients and save lives",
+          "修饰对象": "It",
+          "中文翻译": "说 DeepMind 开发的算法将造福患者并挽救生命",
+          "说明": "不定式短语作真正主语，前面的 It 为形式主语。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "DeepMind develops",
+          "修饰对象": "algorithms",
+          "中文翻译": "DeepMind 开发的",
+          "说明": "修饰 the algorithms 的定语从句，关系词 that 被省略。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that the algorithms DeepMind develops will benefit patients and save lives",
+          "修饰对象": "say",
+          "中文翻译": "DeepMind 开发的算法将造福患者并挽救生命",
+          "说明": "that 引导的宾语从句，作 say 的宾语。"
+        }
+      ],
+      "zh": "仅仅说 DeepMind 开发的算法将造福患者、挽救生命，这是不够的。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2018-text3-s19",
+      "s": "What matters is that they will belong to a private monopoly which developed them using public resources.",
+      "para_no": 4,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "What matters",
+        "谓语": "is",
+        "宾语或表语": "that they will belong to a private monopoly",
+        "主干翻译": "重要的是它们将归属于一家私人垄断企业。"
+      },
+      "components": [
+        {
+          "成分类型": "主语从句",
+          "原文": "What matters",
+          "修饰对象": "is",
+          "中文翻译": "重要的是",
+          "说明": "What 引导的主语从句，作句子主语。"
+        },
+        {
+          "成分类型": "表语从句",
+          "原文": "that they will belong to a private monopoly which developed them using public resources",
+          "修饰对象": "is",
+          "中文翻译": "它们将归属于一家利用公共资源开发出它们的私人垄断企业",
+          "说明": "that 引导的表语从句，作系动词 is 的表语。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "which developed them using public resources",
+          "修饰对象": "monopoly",
+          "中文翻译": "利用公共资源开发出它们的",
+          "说明": "which 引导的定语从句，修饰 a private monopoly。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "using public resources",
+          "修饰对象": "developed",
+          "中文翻译": "利用公共资源",
+          "说明": "现在分词短语作方式状语，修饰 developed。"
+        }
+      ],
+      "zh": "真正重要的是，这些算法将归属于一家利用公共资源开发出它们的私人垄断企业。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2018-text3-s20",
+      "s": "If software promises to save lives on the scale that drugs now can, big data may be expected to behave as a big pharma has done.",
+      "para_no": 4,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "big data",
+        "谓语": "may be expected",
+        "宾语或表语": "to behave as a big pharma has done",
+        "主干翻译": "大数据可能会被预期表现得像大型制药公司一样。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "If software promises to save lives on the scale that drugs now can",
+          "修饰对象": "expected",
+          "中文翻译": "如果软件承诺能以药物如今所能达到的规模来挽救生命",
+          "说明": "If 引导的条件状语从句，修饰主句谓语 may be expected。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to save lives on the scale that drugs now can",
+          "修饰对象": "promises",
+          "中文翻译": "以药物如今所能达到的规模挽救生命",
+          "说明": "不定式短语作 promises 的宾语，表所承诺的内容。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that drugs now can",
+          "修饰对象": "scale",
+          "中文翻译": "药物如今所能（达到）的",
+          "说明": "that 引导的定语从句修饰 the scale，句末 can 后省略 save lives。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to behave as a big pharma has done",
+          "修饰对象": "expected",
+          "中文翻译": "表现得像大型制药公司已经做的那样",
+          "说明": "不定式短语作 be expected 的补足成分，构成 be expected to do 结构。"
+        },
+        {
+          "成分类型": "状语从句(方式)",
+          "原文": "as a big pharma has done",
+          "修饰对象": "behave",
+          "中文翻译": "正如大型制药公司已经做的那样",
+          "说明": "as 引导的方式状语从句，修饰 behave。"
+        }
+      ],
+      "zh": "如果软件承诺能以药物如今所能达到的规模来挽救生命，那么人们就可以预期大数据会像大型制药公司过去那样行事。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2018-text3-s21",
+      "s": "We are still at the beginning of this revolution and small choices now may turn out to have gigantic consequences later.",
+      "para_no": 4,
+      "para_seq": 5,
+      "trunk": {
+        "主语": "We",
+        "谓语": "are",
+        "宾语或表语": "at the beginning of this revolution",
+        "主干翻译": "我们仍处于这场革命的开端。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "small choices now may turn out to have gigantic consequences later",
+          "修饰对象": "—",
+          "中文翻译": "如今微小的选择日后可能会被证明具有巨大的后果",
+          "说明": "由 and 连接的并列分句，与前一分句并列。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to have gigantic consequences later",
+          "修饰对象": "turn",
+          "中文翻译": "日后具有巨大的后果",
+          "说明": "不定式短语作 turn out 的补足成分，构成 turn out to do 结构。"
+        }
+      ],
+      "zh": "我们仍处于这场革命的开端，而如今微小的选择日后可能会被证明产生巨大的后果。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2018-text3-s22",
+      "s": "A long struggle will be needed to avoid a future of digital feudalism.",
+      "para_no": 4,
+      "para_seq": 6,
+      "trunk": {
+        "主语": "A long struggle",
+        "谓语": "will be needed",
+        "宾语或表语": "—",
+        "主干翻译": "将需要一场长期的斗争。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to avoid a future of digital feudalism",
+          "修饰对象": "needed",
+          "中文翻译": "以避免一个数字封建主义的未来",
+          "说明": "不定式短语作目的状语，修饰 will be needed。"
+        }
+      ],
+      "zh": "要避免一个数字封建主义的未来，将需要一场长期的斗争。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2018-text3-s23",
+      "s": "Ms Denham's report is a welcome start.",
+      "para_no": 4,
+      "para_seq": 7,
+      "trunk": {
+        "主语": "Ms Denham's report",
+        "谓语": "is",
+        "宾语或表语": "a welcome start",
+        "主干翻译": "德纳姆女士的报告是一个受欢迎的开端。"
+      },
+      "components": [],
+      "zh": "德纳姆女士的这份报告是一个值得欢迎的开端。",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2018-text3-s1",
+        "en1-2018-text3-s2",
+        "en1-2018-text3-s3",
+        "en1-2018-text3-s4"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2018-text3-s5",
+        "en1-2018-text3-s6",
+        "en1-2018-text3-s7",
+        "en1-2018-text3-s8",
+        "en1-2018-text3-s9",
+        "en1-2018-text3-s10",
+        "en1-2018-text3-s11"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2018-text3-s12",
+        "en1-2018-text3-s13",
+        "en1-2018-text3-s14",
+        "en1-2018-text3-s15"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2018-text3-s16",
+        "en1-2018-text3-s17",
+        "en1-2018-text3-s18",
+        "en1-2018-text3-s19",
+        "en1-2018-text3-s20",
+        "en1-2018-text3-s21",
+        "en1-2018-text3-s22",
+        "en1-2018-text3-s23"
+      ]
+    }
+  ]
+}

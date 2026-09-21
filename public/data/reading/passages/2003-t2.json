@@ -1,0 +1,730 @@
+{
+  "exam": "en1",
+  "key": "2003-t2",
+  "year": 2003,
+  "text_no": 2,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2003-text2-s1",
+      "s": "To paraphrase 18th-century statesman Edmund Burke, \"all that is needed for the triumph of a misguided cause is that good people do nothing.\"",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "all",
+        "谓语": "is",
+        "宾语或表语": "that good people do nothing",
+        "主干翻译": "所需要的一切就是好人无所作为。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "To paraphrase 18th-century statesman Edmund Burke",
+          "修饰对象": "is",
+          "中文翻译": "套用18世纪政治家埃德蒙·伯克的话说",
+          "说明": "不定式短语作目的/方式状语，引出后面引用的话；k标注挂靠is，此处为评注性状语。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that is needed for the triumph of a misguided cause",
+          "修饰对象": "all",
+          "中文翻译": "一个被误导的事业取得成功所需要的",
+          "说明": "that引导定语从句修饰主语all。"
+        },
+        {
+          "成分类型": "表语从句",
+          "原文": "that good people do nothing",
+          "修饰对象": "is",
+          "中文翻译": "好人什么都不做",
+          "说明": "that引导表语从句，作系动词is的表语。"
+        }
+      ],
+      "zh": "套用18世纪政治家埃德蒙·伯克的话说，一个被误导的事业取得成功所需要的，就是好人什么都不做。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2003-text2-s2",
+      "s": "One such cause now seeks to end biomedical research because of the theory that animals have rights ruling out their use in research.",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "One such cause",
+        "谓语": "seeks",
+        "宾语或表语": "to end biomedical research",
+        "主干翻译": "一个这样的事业谋求终止生物医学研究。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to end biomedical research because of the theory that animals have rights ruling out their use in research",
+          "修饰对象": "seeks",
+          "中文翻译": "去终止生物医学研究",
+          "说明": "不定式作seeks的宾语（非谓语补足），构成seek to do结构。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "because of the theory that animals have rights ruling out their use in research",
+          "修饰对象": "end",
+          "中文翻译": "由于这样一种理论",
+          "说明": "because of引导原因状语，修饰end。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "that animals have rights ruling out their use in research",
+          "修饰对象": "theory",
+          "中文翻译": "即动物拥有权利，从而排除将它们用于研究",
+          "说明": "that引导同位语从句，解释说明theory的内容。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "ruling out their use in research",
+          "修饰对象": "rights",
+          "中文翻译": "排除将它们用于研究",
+          "说明": "现在分词短语作定语/补足，说明rights所产生的结果。"
+        }
+      ],
+      "zh": "如今，一个这样的事业正谋求终止生物医学研究，其依据是这样一种理论：动物拥有权利，从而排除了将其用于研究的可能。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2003-text2-s3",
+      "s": "Scientists need to respond forcefully to animal rights advocates, whose arguments are confusing the public and thereby threatening advances in health knowledge and care.",
+      "para_no": 1,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Scientists",
+        "谓语": "need",
+        "宾语或表语": "to respond forcefully to animal rights advocates",
+        "主干翻译": "科学家需要强有力地回应动物权利倡导者。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to respond forcefully to animal rights advocates",
+          "修饰对象": "need",
+          "中文翻译": "强有力地回应动物权利倡导者",
+          "说明": "不定式作need的宾语（非谓语补足）。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "whose arguments are confusing the public and thereby threatening advances in health knowledge and care",
+          "修饰对象": "advocates",
+          "中文翻译": "他们的论点正在使公众感到困惑",
+          "说明": "whose引导定语从句修饰advocates。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "thereby threatening advances in health knowledge and care",
+          "修饰对象": "confusing",
+          "中文翻译": "从而威胁到健康知识与护理方面的进步",
+          "说明": "现在分词threatening与confusing并列，共作whose arguments的谓语部分。"
+        }
+      ],
+      "zh": "科学家需要强有力地回应动物权利倡导者，这些人的论点正在使公众感到困惑，从而威胁到健康知识与护理方面的进步。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2003-text2-s4",
+      "s": "Leaders of the animal rights movement target biomedical research because it depends on public funding, and few people understand the process of health care research.",
+      "para_no": 1,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "Leaders of the animal rights movement",
+        "谓语": "target",
+        "宾语或表语": "biomedical research",
+        "主干翻译": "动物权利运动的领导者把生物医学研究作为攻击目标。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(原因)",
+          "原文": "because it depends on public funding",
+          "修饰对象": "target",
+          "中文翻译": "因为它依赖公共资金",
+          "说明": "because引导原因状语从句，修饰谓语target。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "few people understand the process of health care research",
+          "修饰对象": "—",
+          "中文翻译": "很少有人了解医疗保健研究的过程",
+          "说明": "and连接的并列分句，与前一原因分句并列，共同构成target的原因。"
+        }
+      ],
+      "zh": "动物权利运动的领导者之所以把生物医学研究作为攻击目标，是因为它依赖公共资金，而且很少有人了解医疗保健研究的过程。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2003-text2-s5",
+      "s": "Hearing allegations of cruelty to animals in research settings, many are perplexed that anyone would deliberately harm an animal.",
+      "para_no": 1,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "many",
+        "谓语": "are",
+        "宾语或表语": "perplexed",
+        "主干翻译": "许多人感到困惑。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "Hearing allegations of cruelty to animals in research settings",
+          "修饰对象": "perplexed",
+          "中文翻译": "听到关于研究场所中虐待动物的指控时",
+          "说明": "现在分词短语作时间/原因状语，修饰主句。"
+        },
+        {
+          "成分类型": "状语从句(原因)",
+          "原文": "that anyone would deliberately harm an animal",
+          "修饰对象": "perplexed",
+          "中文翻译": "竟会有人故意伤害动物",
+          "说明": "that引导从句作形容词perplexed后的原因状语（说明困惑的原因/内容）。"
+        }
+      ],
+      "zh": "当听到关于研究场所中虐待动物的指控时，许多人感到困惑：竟会有人故意伤害动物。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2003-text2-s6",
+      "s": "For example, a grandmotherly woman staffing an animal rights booth at a recent street fair was distributing a brochure that encouraged readers not to use anything that comes from or is tested in animals—no meat, no fur, no medicines.",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "a grandmotherly woman",
+        "谓语": "was distributing",
+        "宾语或表语": "a brochure",
+        "主干翻译": "一位慈祥的老妇人在散发一份小册子。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "staffing an animal rights booth at a recent street fair",
+          "修饰对象": "woman",
+          "中文翻译": "在最近一次街头集市上照看动物权利展位的",
+          "说明": "现在分词短语作定语修饰woman。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that encouraged readers not to use anything that comes from or is tested in animals—no meat, no fur, no medicines",
+          "修饰对象": "brochure",
+          "中文翻译": "鼓励读者不要使用任何源自动物或在动物身上做过试验的东西",
+          "说明": "that引导定语从句修饰brochure。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "not to use anything that comes from or is tested in animals—no meat, no fur, no medicines",
+          "修饰对象": "encouraged",
+          "中文翻译": "不要使用任何源自动物或在动物身上做过试验的东西",
+          "说明": "不定式作encouraged的宾语补足语。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that comes from or is tested in animals",
+          "修饰对象": "anything",
+          "中文翻译": "源自动物或在动物身上做过试验的",
+          "说明": "that引导定语从句修饰anything。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "is tested in animals",
+          "修饰对象": "comes",
+          "中文翻译": "在动物身上做过试验",
+          "说明": "or连接的并列谓语，与comes from并列。"
+        },
+        {
+          "成分类型": "同位语",
+          "原文": "no meat, no fur, no medicines",
+          "修饰对象": "anything",
+          "中文翻译": "不吃肉、不穿皮草、不用药品",
+          "说明": "破折号后对anything的具体列举，作同位语。"
+        }
+      ],
+      "zh": "例如，在最近一次街头集市上，一位照看动物权利展位的慈祥老妇人正在散发一份小册子，鼓励读者不要使用任何源自动物或在动物身上做过试验的东西——不吃肉、不穿皮草、不用药品。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2003-text2-s7",
+      "s": "Asked if she opposed immunizations, she wanted to know if vaccines come from animal research.",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "she",
+        "谓语": "wanted",
+        "宾语或表语": "to know if vaccines come from animal research",
+        "主干翻译": "她想知道疫苗是否来自动物研究。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "Asked if she opposed immunizations",
+          "修饰对象": "wanted",
+          "中文翻译": "当被问及是否反对免疫接种时",
+          "说明": "过去分词短语作时间/条件状语，修饰主句。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "if she opposed immunizations",
+          "修饰对象": "Asked",
+          "中文翻译": "她是否反对免疫接种",
+          "说明": "if引导宾语从句，作分词Asked的逻辑宾语。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to know if vaccines come from animal research",
+          "修饰对象": "wanted",
+          "中文翻译": "想知道疫苗是否来自动物研究",
+          "说明": "不定式作wanted的宾语（非谓语补足）。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "if vaccines come from animal research",
+          "修饰对象": "know",
+          "中文翻译": "疫苗是否来自动物研究",
+          "说明": "if引导宾语从句，作know的宾语。"
+        }
+      ],
+      "zh": "当被问及是否反对免疫接种时，她想知道疫苗是否来自动物研究。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2003-text2-s8",
+      "s": "When assured that they do, she replied, \"Then I would have to say yes.\"",
+      "para_no": 2,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "she",
+        "谓语": "replied",
+        "宾语或表语": "\"Then I would have to say yes.\"",
+        "主干翻译": "她回答说：“那么我只好说是了。”"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "When assured that they do",
+          "修饰对象": "replied",
+          "中文翻译": "当被告知确实如此时",
+          "说明": "When+过去分词构成省略的时间状语，修饰主句。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that they do",
+          "修饰对象": "assured",
+          "中文翻译": "它们确实如此（疫苗确实来自动物研究）",
+          "说明": "that引导宾语从句，作assured的宾语；do为替代动词。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "Then I would have to say yes",
+          "修饰对象": "replied",
+          "中文翻译": "那么我只好说是了",
+          "说明": "引语作replied的直接宾语。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to say yes",
+          "修饰对象": "have",
+          "中文翻译": "说是",
+          "说明": "不定式作have to的组成部分（非谓语补足）。"
+        }
+      ],
+      "zh": "当被告知确实如此时，她回答说：“那么我只好说是了。”",
+      "underline": null
+    },
+    {
+      "sid": "en1-2003-text2-s9",
+      "s": "Asked what will happen when epidemics return, she said, \"Don't worry, scientists will find some way of using computers.\"",
+      "para_no": 2,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "she",
+        "谓语": "said",
+        "宾语或表语": "\"Don't worry, scientists will find some way of using computers.\"",
+        "主干翻译": "她说：“别担心，科学家会找到使用计算机的某种办法。”"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "Asked what will happen when epidemics return",
+          "修饰对象": "said",
+          "中文翻译": "当被问及流行病卷土重来时会发生什么",
+          "说明": "过去分词短语作时间状语，修饰主句。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "what will happen when epidemics return",
+          "修饰对象": "Asked",
+          "中文翻译": "流行病卷土重来时会发生什么",
+          "说明": "what引导宾语从句，作分词Asked的逻辑宾语。"
+        },
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "when epidemics return",
+          "修饰对象": "happen",
+          "中文翻译": "当流行病卷土重来时",
+          "说明": "when引导时间状语从句，修饰happen。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "Don't worry, scientists will find some way of using computers",
+          "修饰对象": "said",
+          "中文翻译": "别担心，科学家会找到使用计算机的某种办法",
+          "说明": "引语作said的直接宾语。"
+        }
+      ],
+      "zh": "当被问及流行病卷土重来时会发生什么，她说：“别担心，科学家会找到使用计算机的某种办法。”",
+      "underline": null
+    },
+    {
+      "sid": "en1-2003-text2-s10",
+      "s": "Such well-meaning people just don't understand.",
+      "para_no": 2,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "Such well-meaning people",
+        "谓语": "don't understand",
+        "宾语或表语": "—",
+        "主干翻译": "这些好心人就是不明白。"
+      },
+      "components": [],
+      "zh": "这些好心人就是不明白。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2003-text2-s11",
+      "s": "Scientists must communicate their message to the public in a compassionate, understandable way—in human terms, not in the language of molecular biology.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Scientists",
+        "谓语": "must communicate",
+        "宾语或表语": "their message",
+        "主干翻译": "科学家必须传达他们的信息。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "in a compassionate, understandable way—in human terms, not in the language of molecular biology",
+          "修饰对象": "communicate",
+          "中文翻译": "以一种富有同情心、易于理解的方式——用大众化的语言，而非分子生物学的术语",
+          "说明": "in引导的方式状语，修饰communicate；破折号后为其补充说明。"
+        }
+      ],
+      "zh": "科学家必须以一种富有同情心、易于理解的方式向公众传达他们的信息——用大众化的语言，而不是分子生物学的术语。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2003-text2-s12",
+      "s": "We need to make clear the connection between animal research and a grandmother's hip replacement, a father's bypass operation, a baby's vaccinations, and even a pet's shots.",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "We",
+        "谓语": "need",
+        "宾语或表语": "to make clear the connection",
+        "主干翻译": "我们需要讲清楚这种联系。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to make clear the connection between animal research and a grandmother's hip replacement, a father's bypass operation, a baby's vaccinations, and even a pet's shots",
+          "修饰对象": "need",
+          "中文翻译": "讲清楚动物研究与……之间的联系",
+          "说明": "不定式作need的宾语（非谓语补足）；make...clear为使役结构，宾语后置。"
+        },
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "between animal research and a grandmother's hip replacement, a father's bypass operation, a baby's vaccinations, and even a pet's shots",
+          "修饰对象": "connection",
+          "中文翻译": "动物研究与祖母的髋关节置换、父亲的搭桥手术、婴儿的疫苗接种乃至宠物的打针之间",
+          "说明": "between...and...介词短语作定语修饰connection。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "a grandmother's hip replacement, a father's bypass operation, a baby's vaccinations, and even a pet's shots",
+          "修饰对象": "research",
+          "中文翻译": "祖母的髋关节置换、父亲的搭桥手术、婴儿的疫苗接种乃至宠物的打针",
+          "说明": "由and连接的并列名词短语，与animal research构成between...and的两端。"
+        }
+      ],
+      "zh": "我们需要讲清楚动物研究与祖母的髋关节置换、父亲的搭桥手术、婴儿的疫苗接种乃至宠物的打针之间的联系。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2003-text2-s13",
+      "s": "To those who are unaware that animal research was needed to produce these treatments, as well as new treatments and vaccines, animal research seems wasteful at best and cruel at worst.",
+      "para_no": 3,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "animal research",
+        "谓语": "seems",
+        "宾语或表语": "wasteful at best and cruel at worst",
+        "主干翻译": "动物研究往好里说是浪费，往坏里说是残忍。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "To those who are unaware that animal research was needed to produce these treatments, as well as new treatments and vaccines",
+          "修饰对象": "seems",
+          "中文翻译": "对于那些不知道……的人来说",
+          "说明": "To引导的介词短语作状语，限定seems的范围。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "who are unaware that animal research was needed to produce these treatments, as well as new treatments and vaccines",
+          "修饰对象": "those",
+          "中文翻译": "不了解动物研究曾是制造这些治疗手段所必需的人",
+          "说明": "who引导定语从句修饰those。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that animal research was needed to produce these treatments, as well as new treatments and vaccines",
+          "修饰对象": "unaware",
+          "中文翻译": "动物研究曾是制造这些治疗手段所必需的",
+          "说明": "that引导从句作形容词unaware的宾语从句。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to produce these treatments, as well as new treatments and vaccines",
+          "修饰对象": "needed",
+          "中文翻译": "以制造这些治疗手段以及新的治疗手段和疫苗",
+          "说明": "不定式作目的状语，修饰needed。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "new treatments and vaccines",
+          "修饰对象": "treatments",
+          "中文翻译": "新的治疗手段和疫苗",
+          "说明": "as well as连接的并列成分，与these treatments并列。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "cruel at worst",
+          "修饰对象": "wasteful",
+          "中文翻译": "往坏里说是残忍的",
+          "说明": "and连接的并列表语，与wasteful at best并列。"
+        }
+      ],
+      "zh": "对于那些不了解动物研究曾是制造这些治疗手段以及新的治疗手段和疫苗所必需的人来说，动物研究往好里说是浪费，往坏里说是残忍。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2003-text2-s14",
+      "s": "Much can be done.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Much",
+        "谓语": "can be done",
+        "宾语或表语": "—",
+        "主干翻译": "很多事情都可以去做。"
+      },
+      "components": [],
+      "zh": "可以做的事情有很多。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2003-text2-s15",
+      "s": "Scientists could \"adopt\" middle school classes and present their own research.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Scientists",
+        "谓语": "could adopt and present",
+        "宾语或表语": "middle school classes; their own research",
+        "主干翻译": "科学家可以“认领”中学班级并展示他们自己的研究。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "present their own research",
+          "修饰对象": "adopt",
+          "中文翻译": "展示他们自己的研究",
+          "说明": "and连接的并列谓语，与adopt middle school classes并列。"
+        }
+      ],
+      "zh": "科学家可以“认领”中学班级，并展示他们自己的研究。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2003-text2-s16",
+      "s": "They should be quick to respond to letters to the editor, lest animal rights misinformation go unchallenged and acquire a deceptive appearance of truth.",
+      "para_no": 4,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "They",
+        "谓语": "should be",
+        "宾语或表语": "quick to respond to letters to the editor",
+        "主干翻译": "他们应当迅速回应致编辑的信件。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to respond to letters to the editor",
+          "修饰对象": "quick",
+          "中文翻译": "回应致编辑的信件",
+          "说明": "不定式作形容词quick的补足成分（非谓语补足）。"
+        },
+        {
+          "成分类型": "状语从句(目的)",
+          "原文": "lest animal rights misinformation go unchallenged and acquire a deceptive appearance of truth",
+          "修饰对象": "be",
+          "中文翻译": "以免动物权利方面的错误信息无人质疑",
+          "说明": "lest引导目的状语从句（表“以免/唯恐”），从句用虚拟语气go。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "acquire a deceptive appearance of truth",
+          "修饰对象": "go",
+          "中文翻译": "进而获得貌似真理的欺骗性外表",
+          "说明": "and连接的并列谓语，与go unchallenged并列，共属lest从句。"
+        }
+      ],
+      "zh": "他们应当迅速回应致编辑的信件，以免动物权利方面的错误信息无人质疑，进而获得貌似真理的欺骗性外表。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2003-text2-s17",
+      "s": "Research institutions could be opened to tours, to show that laboratory animals receive humane care.",
+      "para_no": 4,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "Research institutions",
+        "谓语": "could be opened",
+        "宾语或表语": "to tours",
+        "主干翻译": "研究机构可以开放供人参观。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to show that laboratory animals receive humane care",
+          "修饰对象": "opened",
+          "中文翻译": "以表明实验动物受到人道的照料",
+          "说明": "不定式作目的状语，修饰谓语opened。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that laboratory animals receive humane care",
+          "修饰对象": "show",
+          "中文翻译": "实验动物受到人道的照料",
+          "说明": "that引导宾语从句，作show的宾语。"
+        }
+      ],
+      "zh": "研究机构可以开放供人参观，以表明实验动物受到人道的照料。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2003-text2-s18",
+      "s": "Finally, because the ultimate stakeholders are patients, the health research community should actively recruit to its cause not only well-known personalities such as Stephen Cooper, who has made courageous statements about the value of animal research, but all who receive medical treatment.",
+      "para_no": 4,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "the health research community",
+        "谓语": "should actively recruit",
+        "宾语或表语": "not only well-known personalities ... but all who receive medical treatment",
+        "主干翻译": "健康研究界应当积极地为其事业招募人员。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(原因)",
+          "原文": "because the ultimate stakeholders are patients",
+          "修饰对象": "recruit",
+          "中文翻译": "因为最终的利益相关者是患者",
+          "说明": "because引导原因状语从句，修饰谓语recruit。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "who has made courageous statements about the value of animal research",
+          "修饰对象": "Cooper",
+          "中文翻译": "他曾就动物研究的价值发表过勇敢的声明",
+          "说明": "who引导非限制性定语从句修饰Stephen Cooper。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "all who receive medical treatment",
+          "修饰对象": "personalities",
+          "中文翻译": "所有接受医疗的人",
+          "说明": "not only...but...结构中but后的并列成分，与well-known personalities并列。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "who receive medical treatment",
+          "修饰对象": "all",
+          "中文翻译": "接受医疗的",
+          "说明": "who引导定语从句修饰all。"
+        }
+      ],
+      "zh": "最后，由于最终的利益相关者是患者，健康研究界应当积极地为其事业招募人员，不仅包括像斯蒂芬·库珀这样曾就动物研究的价值发表过勇敢声明的知名人士，还包括所有接受医疗的人。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2003-text2-s19",
+      "s": "If good people do nothing, there is a real possibility that an uninformed citizenry will extinguish the precious embers of medical progress.",
+      "para_no": 4,
+      "para_seq": 5,
+      "trunk": {
+        "主语": "a real possibility",
+        "谓语": "is",
+        "宾语或表语": "there（存在句）",
+        "主干翻译": "存在着一种真实的可能性。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "If good people do nothing",
+          "修饰对象": "is",
+          "中文翻译": "如果好人什么都不做",
+          "说明": "If引导条件状语从句，修饰主句there is。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "that an uninformed citizenry will extinguish the precious embers of medical progress",
+          "修饰对象": "possibility",
+          "中文翻译": "即不明真相的公民将会熄灭医学进步的珍贵余烬",
+          "说明": "that引导同位语从句，解释说明possibility的内容。"
+        }
+      ],
+      "zh": "如果好人什么都不做，那么就真有可能出现这样一种情况：不明真相的公民将会熄灭医学进步的珍贵余烬。",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2003-text2-s1",
+        "en1-2003-text2-s2",
+        "en1-2003-text2-s3",
+        "en1-2003-text2-s4",
+        "en1-2003-text2-s5"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2003-text2-s6",
+        "en1-2003-text2-s7",
+        "en1-2003-text2-s8",
+        "en1-2003-text2-s9",
+        "en1-2003-text2-s10"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2003-text2-s11",
+        "en1-2003-text2-s12",
+        "en1-2003-text2-s13"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2003-text2-s14",
+        "en1-2003-text2-s15",
+        "en1-2003-text2-s16",
+        "en1-2003-text2-s17",
+        "en1-2003-text2-s18",
+        "en1-2003-text2-s19"
+      ]
+    }
+  ]
+}

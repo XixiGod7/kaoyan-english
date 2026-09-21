@@ -1,0 +1,777 @@
+{
+  "exam": "en1",
+  "key": "2006-t3",
+  "year": 2006,
+  "text_no": 3,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2006-text3-s1",
+      "s": "When prehistoric man arrived in new parts of the world, something strange happened to the large animals: they suddenly became extinct.",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "something strange",
+        "谓语": "happened",
+        "宾语或表语": "to the large animals",
+        "主干翻译": "大型动物身上发生了奇怪的事情。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "When prehistoric man arrived in new parts of the world",
+          "修饰对象": "happened",
+          "中文翻译": "当史前人类到达世界各地的新地区时",
+          "说明": "由 When 引导的时间状语从句。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "they suddenly became extinct",
+          "修饰对象": "something strange happened to the large animals",
+          "中文翻译": "它们突然灭绝了",
+          "说明": "冒号后的分句，对 something strange 作具体解释，they 指代 the large animals。"
+        }
+      ],
+      "zh": "当史前人类到达世界各地的新地区时，大型动物身上发生了奇怪的事情：它们突然灭绝了。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2006-text3-s2",
+      "s": "Smaller species survived.",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Smaller species",
+        "谓语": "survived",
+        "宾语或表语": "—",
+        "主干翻译": "较小的物种存活了下来。"
+      },
+      "components": [],
+      "zh": "较小的物种存活了下来。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2006-text3-s3",
+      "s": "The large, slow-growing animals were easy game, and were quickly hunted to extinction.",
+      "para_no": 1,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "The large, slow-growing animals",
+        "谓语": "were",
+        "宾语或表语": "easy game",
+        "主干翻译": "这些大型的、生长缓慢的动物是容易捕获的猎物。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "were quickly hunted to extinction",
+          "修饰对象": "were",
+          "中文翻译": "很快就被猎杀至灭绝",
+          "说明": "and 连接的第二个并列谓语，与前面的 were easy game 共用主语。"
+        }
+      ],
+      "zh": "这些大型的、生长缓慢的动物是容易捕获的猎物，很快就被猎杀至灭绝。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2006-text3-s4",
+      "s": "Now something similar could be happening in the oceans.",
+      "para_no": 1,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "something similar",
+        "谓语": "could be happening",
+        "宾语或表语": "in the oceans",
+        "主干翻译": "类似的事情可能正在海洋中发生。"
+      },
+      "components": [],
+      "zh": "如今，类似的事情可能正在海洋中发生。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2006-text3-s5",
+      "s": "That the seas are being overfished has been known for years.",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "That the seas are being overfished",
+        "谓语": "has been known",
+        "宾语或表语": "for years",
+        "主干翻译": "（某事）多年来已为人所知。"
+      },
+      "components": [
+        {
+          "成分类型": "主语从句",
+          "原文": "That the seas are being overfished",
+          "修饰对象": "—",
+          "中文翻译": "海洋正在被过度捕捞（这一事实）",
+          "说明": "That 引导主语从句作整句主语，谓语为 has been known。"
+        }
+      ],
+      "zh": "海洋正在被过度捕捞这一事实，多年来早已为人所知。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2006-text3-s6",
+      "s": "What researchers such as Ransom Myers and Boris Worm have shown is just how fast things are changing.",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "What researchers such as Ransom Myers and Boris Worm have shown",
+        "谓语": "is",
+        "宾语或表语": "just how fast things are changing",
+        "主干翻译": "（研究者们）所揭示的是事情变化的速度有多快。"
+      },
+      "components": [
+        {
+          "成分类型": "主语从句",
+          "原文": "What researchers such as Ransom Myers and Boris Worm have shown",
+          "修饰对象": "—",
+          "中文翻译": "诸如兰塞姆·迈尔斯和鲍里斯·沃姆这样的研究者所揭示的内容",
+          "说明": "What 引导主语从句作整句主语。"
+        },
+        {
+          "成分类型": "表语从句",
+          "原文": "just how fast things are changing",
+          "修饰对象": "is",
+          "中文翻译": "事情变化的速度究竟有多快",
+          "说明": "how 引导表语从句，作系动词 is 的表语。"
+        }
+      ],
+      "zh": "诸如兰塞姆·迈尔斯和鲍里斯·沃姆这样的研究者所揭示的，正是事情变化的速度究竟有多快。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2006-text3-s7",
+      "s": "They have looked at half a century of data from fisheries around the world.",
+      "para_no": 2,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "They",
+        "谓语": "have looked at",
+        "宾语或表语": "half a century of data",
+        "主干翻译": "他们研究了半个世纪的数据。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "from fisheries around the world",
+          "修饰对象": "data",
+          "中文翻译": "来自世界各地渔场的",
+          "说明": "from... 介词短语作后置定语修饰 data。"
+        }
+      ],
+      "zh": "他们研究了来自世界各地渔场的半个世纪的数据。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2006-text3-s8",
+      "s": "Their methods do not attempt to estimate the actual biomass (the amount of living biological matter) of fish species in particular parts of the ocean, but rather changes in that biomass over time.",
+      "para_no": 2,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "Their methods",
+        "谓语": "do not attempt",
+        "宾语或表语": "to estimate ... but rather changes ...",
+        "主干翻译": "他们的方法并不试图估算……而是（估算）……"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作宾语",
+          "原文": "to estimate the actual biomass (the amount of living biological matter) of fish species in particular parts of the ocean",
+          "修饰对象": "attempt",
+          "中文翻译": "去估算海洋特定区域内鱼类物种的实际生物量",
+          "说明": "动词不定式作 attempt 的宾语，估算的对象是 actual biomass。"
+        },
+        {
+          "成分类型": "同位语",
+          "原文": "the amount of living biological matter",
+          "修饰对象": "biomass",
+          "中文翻译": "即活体生物物质的总量",
+          "说明": "括号内成分作 biomass 的同位语，对其加以解释。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "but rather changes in that biomass over time",
+          "修饰对象": "estimate",
+          "中文翻译": "而是（估算）该生物量随时间的变化",
+          "说明": "but rather 连接的并列宾语，与前面的 the actual biomass 并列作 estimate 的宾语。"
+        }
+      ],
+      "zh": "他们的方法并不试图估算海洋特定区域内鱼类物种的实际生物量（即活体生物物质的总量），而是估算该生物量随时间的变化。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2006-text3-s9",
+      "s": "According to their latest paper published in Nature, the biomass of large predators (animals that kill and eat other animals) in a new fishery is reduced on average by 80% within 15 years of the start of exploitation.",
+      "para_no": 2,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "the biomass of large predators",
+        "谓语": "is reduced",
+        "宾语或表语": "on average by 80%",
+        "主干翻译": "大型捕食者的生物量平均减少了80%。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "published in Nature",
+          "修饰对象": "paper",
+          "中文翻译": "发表在《自然》杂志上的",
+          "说明": "过去分词短语作后置定语修饰 their latest paper。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "According to their latest paper published in Nature",
+          "修饰对象": "is reduced",
+          "中文翻译": "根据他们发表在《自然》杂志上的最新论文",
+          "说明": "According to 介词短语作全句状语，交代信息来源。"
+        },
+        {
+          "成分类型": "同位语",
+          "原文": "animals that kill and eat other animals",
+          "修饰对象": "predators",
+          "中文翻译": "即那些捕杀并吃掉其他动物的动物",
+          "说明": "括号内成分作 large predators 的同位语。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that kill and eat other animals",
+          "修饰对象": "animals",
+          "中文翻译": "捕杀并吃掉其他动物的",
+          "说明": "that 引导定语从句修饰 animals。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "kill and eat other animals",
+          "修饰对象": "kill",
+          "中文翻译": "捕杀并吃掉其他动物",
+          "说明": "and 连接 kill 与 eat 两个并列谓语动词。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "within 15 years of the start of exploitation",
+          "修饰对象": "is reduced",
+          "中文翻译": "在开始捕捞后的15年内",
+          "说明": "within... 介词短语作时间状语，限定减少发生的时间。"
+        }
+      ],
+      "zh": "根据他们发表在《自然》杂志上的最新论文，一片新渔场中大型捕食者（即那些捕杀并吃掉其他动物的动物）的生物量，在开始捕捞后的15年内平均减少了80%。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2006-text3-s10",
+      "s": "In some long-fished areas, it has halved again since then.",
+      "para_no": 2,
+      "para_seq": 5,
+      "trunk": {
+        "主语": "it",
+        "谓语": "has halved",
+        "宾语或表语": "again",
+        "主干翻译": "它又减少了一半。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "In some long-fished areas",
+          "修饰对象": "has halved",
+          "中文翻译": "在一些长期捕捞的区域",
+          "说明": "In... 介词短语作地点状语。"
+        }
+      ],
+      "zh": "在一些长期捕捞的区域，自那以后它又减少了一半。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2006-text3-s11",
+      "s": "Dr. Worm acknowledges that these figures are conservative.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Dr. Worm",
+        "谓语": "acknowledges",
+        "宾语或表语": "that these figures are conservative",
+        "主干翻译": "沃姆博士承认（某事）。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "that these figures are conservative",
+          "修饰对象": "acknowledges",
+          "中文翻译": "这些数字是保守的",
+          "说明": "that 引导宾语从句作 acknowledges 的宾语。"
+        }
+      ],
+      "zh": "沃姆博士承认这些数字是偏保守的。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2006-text3-s12",
+      "s": "One reason for this is that fishing technology has improved.",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "One reason for this",
+        "谓语": "is",
+        "宾语或表语": "that fishing technology has improved",
+        "主干翻译": "造成这种情况的一个原因是（某事）。"
+      },
+      "components": [
+        {
+          "成分类型": "表语从句",
+          "原文": "that fishing technology has improved",
+          "修饰对象": "is",
+          "中文翻译": "捕鱼技术已经提高了",
+          "说明": "that 引导表语从句，作系动词 is 的表语。"
+        }
+      ],
+      "zh": "造成这种情况的一个原因是捕鱼技术已经提高了。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2006-text3-s13",
+      "s": "Today's vessels can find their prey using satellites and sonar, which were not available 50 years ago.",
+      "para_no": 3,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Today's vessels",
+        "谓语": "can find",
+        "宾语或表语": "their prey",
+        "主干翻译": "如今的船只能够找到它们的猎物。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "using satellites and sonar",
+          "修饰对象": "find",
+          "中文翻译": "利用卫星和声呐",
+          "说明": "现在分词短语作方式状语，说明 find 的手段。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "which were not available 50 years ago",
+          "修饰对象": "satellites and sonar",
+          "中文翻译": "这些（设备）在50年前还无法获得",
+          "说明": "which 引导非限制性定语从句修饰 satellites and sonar。"
+        }
+      ],
+      "zh": "如今的船只能够利用卫星和声呐找到它们的猎物，而这些设备在50年前还无法获得。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2006-text3-s14",
+      "s": "That means a higher proportion of what is in the sea is being caught, so the real difference between present and past is likely to be worse than the one recorded by changes in catch sizes.",
+      "para_no": 3,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "That",
+        "谓语": "means",
+        "宾语或表语": "a higher proportion ... is being caught",
+        "主干翻译": "这意味着（某事）。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "a higher proportion of what is in the sea is being caught",
+          "修饰对象": "means",
+          "中文翻译": "海洋中更高比例的鱼正在被捕捞",
+          "说明": "省略 that 的宾语从句作 means 的宾语。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "what is in the sea",
+          "修饰对象": "proportion",
+          "中文翻译": "海洋中所有的（鱼）",
+          "说明": "what 引导名词性从句，作介词 of 的宾语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "so the real difference between present and past is likely to be worse than the one recorded by changes in catch sizes",
+          "修饰对象": "—",
+          "中文翻译": "因此，现在与过去之间的真实差距很可能比捕获量变化所记录的差距更糟",
+          "说明": "so 连接的并列分句，表示结果。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to be worse than the one recorded by changes in catch sizes",
+          "修饰对象": "likely",
+          "中文翻译": "（很可能）比由捕获量变化所记录的那个差距更糟",
+          "说明": "be likely to do 结构中的不定式，作 likely 的补足成分。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "recorded by changes in catch sizes",
+          "修饰对象": "one",
+          "中文翻译": "由捕获量变化所记录的",
+          "说明": "过去分词短语作后置定语修饰 the one（指 difference）。"
+        },
+        {
+          "成分类型": "状语从句(比较)",
+          "原文": "than the one recorded by changes in catch sizes",
+          "修饰对象": "worse",
+          "中文翻译": "比捕获量变化所记录的那个差距",
+          "说明": "than 引导比较状语，与 worse 构成比较结构。"
+        }
+      ],
+      "zh": "这意味着海洋中更高比例的鱼正在被捕捞，因此现在与过去之间的真实差距很可能比仅由捕获量变化所记录的差距还要糟糕。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2006-text3-s15",
+      "s": "In the early days, too, longlines would have been more saturated with fish.",
+      "para_no": 3,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "longlines",
+        "谓语": "would have been",
+        "宾语或表语": "more saturated with fish",
+        "主干翻译": "延绳钓的鱼会更密集。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "In the early days",
+          "修饰对象": "would have been",
+          "中文翻译": "在早期",
+          "说明": "In... 介词短语作时间状语。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "too",
+          "修饰对象": "—",
+          "中文翻译": "而且",
+          "说明": "too 作插入性补充成分，承接上文。"
+        }
+      ],
+      "zh": "而且，在早期，延绳钓上挂着的鱼也会更加密集。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2006-text3-s16",
+      "s": "Some individuals would therefore not have been caught, since no baited hooks would have been available to trap them, leading to an underestimate of fish stocks in the past.",
+      "para_no": 3,
+      "para_seq": 5,
+      "trunk": {
+        "主语": "Some individuals",
+        "谓语": "would not have been caught",
+        "宾语或表语": "—",
+        "主干翻译": "有些个体本不会被捕到。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(原因)",
+          "原文": "since no baited hooks would have been available to trap them",
+          "修饰对象": "caught",
+          "中文翻译": "因为当时没有带饵的鱼钩可以捕捉它们",
+          "说明": "since 引导原因状语从句。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to trap them",
+          "修饰对象": "available",
+          "中文翻译": "来捕捉它们",
+          "说明": "不定式作状语，说明 hooks 的用途/目的。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "leading to an underestimate of fish stocks in the past",
+          "修饰对象": "—",
+          "中文翻译": "从而导致对过去鱼类资源量的低估",
+          "说明": "现在分词短语作结果状语，表示主句行为带来的结果。"
+        }
+      ],
+      "zh": "因此，有些个体本不会被捕到，因为当时没有带饵的鱼钩可以捕捉它们，从而导致了对过去鱼类资源量的低估。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2006-text3-s17",
+      "s": "Furthermore, in the early days of longline fishing, a lot of fish were lost to sharks after they had been hooked.",
+      "para_no": 3,
+      "para_seq": 6,
+      "trunk": {
+        "主语": "a lot of fish",
+        "谓语": "were lost",
+        "宾语或表语": "to sharks",
+        "主干翻译": "大量的鱼被鲨鱼夺走。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "Furthermore",
+          "修饰对象": "—",
+          "中文翻译": "此外",
+          "说明": "连接性副词作插入语，承接上文递进。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "in the early days of longline fishing",
+          "修饰对象": "were lost",
+          "中文翻译": "在延绳钓捕鱼的早期",
+          "说明": "in... 介词短语作时间状语。"
+        },
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "after they had been hooked",
+          "修饰对象": "were lost",
+          "中文翻译": "在它们被钓住之后",
+          "说明": "after 引导时间状语从句。"
+        }
+      ],
+      "zh": "此外，在延绳钓捕鱼的早期，许多鱼在被钓住之后便被鲨鱼夺走了。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2006-text3-s18",
+      "s": "That is no longer a problem, because there are fewer sharks around now.",
+      "para_no": 3,
+      "para_seq": 7,
+      "trunk": {
+        "主语": "That",
+        "谓语": "is",
+        "宾语或表语": "no longer a problem",
+        "主干翻译": "那不再是个问题。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(原因)",
+          "原文": "because there are fewer sharks around now",
+          "修饰对象": "is",
+          "中文翻译": "因为现在周围的鲨鱼少了",
+          "说明": "because 引导原因状语从句。"
+        }
+      ],
+      "zh": "如今那已不再是个问题，因为现在周围的鲨鱼少了。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2006-text3-s19",
+      "s": "Dr. Myers and Dr. Worm argue that their work gives a correct baseline, which future management efforts must take into account.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Dr. Myers and Dr. Worm",
+        "谓语": "argue",
+        "宾语或表语": "that their work gives a correct baseline",
+        "主干翻译": "迈尔斯博士和沃姆博士认为（某事）。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "that their work gives a correct baseline, which future management efforts must take into account",
+          "修饰对象": "argue",
+          "中文翻译": "他们的工作提供了一个正确的基准",
+          "说明": "that 引导宾语从句作 argue 的宾语。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "which future management efforts must take into account",
+          "修饰对象": "baseline",
+          "中文翻译": "未来的管理工作必须将其纳入考虑",
+          "说明": "which 引导非限制性定语从句修饰 baseline。"
+        }
+      ],
+      "zh": "迈尔斯博士和沃姆博士认为，他们的工作提供了一个正确的基准，未来的管理工作必须将其纳入考虑。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2006-text3-s20",
+      "s": "They believe the data support an idea current among marine biologists, that of the \"shifting baseline\".",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "They",
+        "谓语": "believe",
+        "宾语或表语": "the data support an idea",
+        "主干翻译": "他们相信这些数据支持一种观点。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "the data support an idea current among marine biologists, that of the \"shifting baseline\"",
+          "修饰对象": "believe",
+          "中文翻译": "这些数据支持一种在海洋生物学家中流行的观点",
+          "说明": "省略 that 的宾语从句作 believe 的宾语。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "current among marine biologists",
+          "修饰对象": "idea",
+          "中文翻译": "在海洋生物学家中流行的",
+          "说明": "形容词短语作后置定语修饰 idea。"
+        },
+        {
+          "成分类型": "同位语",
+          "原文": "that of the \"shifting baseline\"",
+          "修饰对象": "idea",
+          "中文翻译": "即\"基准移动\"的观点",
+          "说明": "that of... 作 an idea 的同位语，进一步解释该观点。"
+        }
+      ],
+      "zh": "他们相信，这些数据支持一种在海洋生物学家中流行的观点，即\"基准移动\"的观点。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2006-text3-s21",
+      "s": "The notion is that people have failed to detect the massive changes which have happened in the ocean because they have been looking back only a relatively short time into the past.",
+      "para_no": 4,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "The notion",
+        "谓语": "is",
+        "宾语或表语": "that people have failed to detect the massive changes",
+        "主干翻译": "这种观点是（某事）。"
+      },
+      "components": [
+        {
+          "成分类型": "表语从句",
+          "原文": "that people have failed to detect the massive changes which have happened in the ocean because they have been looking back only a relatively short time into the past",
+          "修饰对象": "is",
+          "中文翻译": "人们未能察觉到海洋中发生的巨大变化",
+          "说明": "that 引导表语从句，作系动词 is 的表语。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to detect the massive changes which have happened in the ocean",
+          "修饰对象": "failed",
+          "中文翻译": "去察觉海洋中发生的巨大变化",
+          "说明": "不定式作 fail 的宾语补足成分。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "which have happened in the ocean",
+          "修饰对象": "changes",
+          "中文翻译": "已经在海洋中发生的",
+          "说明": "which 引导定语从句修饰 the massive changes。"
+        },
+        {
+          "成分类型": "状语从句(原因)",
+          "原文": "because they have been looking back only a relatively short time into the past",
+          "修饰对象": "failed",
+          "中文翻译": "因为他们回溯的过去时间相对较短",
+          "说明": "because 引导原因状语从句，说明未能察觉变化的原因。"
+        }
+      ],
+      "zh": "这种观点是：人们之所以未能察觉到海洋中发生的巨大变化，是因为他们回溯的过去时间相对较短。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2006-text3-s22",
+      "s": "That matters because theory suggests that the maximum sustainable yield that can be cropped from a fishery comes when the biomass of a target species is about 50% of its original levels.",
+      "para_no": 4,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "That",
+        "谓语": "matters",
+        "宾语或表语": "—",
+        "主干翻译": "这一点很重要。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(原因)",
+          "原文": "because theory suggests that the maximum sustainable yield that can be cropped from a fishery comes when the biomass of a target species is about 50% of its original levels",
+          "修饰对象": "matters",
+          "中文翻译": "因为理论表明……",
+          "说明": "because 引导原因状语从句，解释为何重要。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that the maximum sustainable yield that can be cropped from a fishery comes when the biomass of a target species is about 50% of its original levels",
+          "修饰对象": "suggests",
+          "中文翻译": "可从渔场获取的最大可持续产量出现在……之时",
+          "说明": "that 引导宾语从句作 suggests 的宾语。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that can be cropped from a fishery",
+          "修饰对象": "yield",
+          "中文翻译": "可从渔场中获取的",
+          "说明": "that 引导定语从句修饰 the maximum sustainable yield。"
+        },
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "when the biomass of a target species is about 50% of its original levels",
+          "修饰对象": "comes",
+          "中文翻译": "当目标物种的生物量约为其原有水平的50%时",
+          "说明": "when 引导时间状语从句，修饰宾语从句中的谓语 comes。"
+        }
+      ],
+      "zh": "这一点很重要，因为理论表明，可从渔场获取的最大可持续产量出现在目标物种的生物量约为其原有水平50%之时。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2006-text3-s23",
+      "s": "Most fisheries are well below that, which is a bad way to do business.",
+      "para_no": 4,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "Most fisheries",
+        "谓语": "are",
+        "宾语或表语": "well below that",
+        "主干翻译": "大多数渔场远低于那个水平。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "which is a bad way to do business",
+          "修饰对象": "—",
+          "中文翻译": "这是一种糟糕的经营方式",
+          "说明": "which 引导非限制性定语从句，修饰前面整个句子（指渔场远低于该水平这一情况）。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to do business",
+          "修饰对象": "way",
+          "中文翻译": "做生意的",
+          "说明": "不定式作后置定语修饰 a bad way。"
+        }
+      ],
+      "zh": "大多数渔场都远低于那个水平，而这是一种糟糕的经营方式。",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2006-text3-s1",
+        "en1-2006-text3-s2",
+        "en1-2006-text3-s3",
+        "en1-2006-text3-s4"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2006-text3-s5",
+        "en1-2006-text3-s6",
+        "en1-2006-text3-s7",
+        "en1-2006-text3-s8",
+        "en1-2006-text3-s9",
+        "en1-2006-text3-s10"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2006-text3-s11",
+        "en1-2006-text3-s12",
+        "en1-2006-text3-s13",
+        "en1-2006-text3-s14",
+        "en1-2006-text3-s15",
+        "en1-2006-text3-s16",
+        "en1-2006-text3-s17",
+        "en1-2006-text3-s18"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2006-text3-s19",
+        "en1-2006-text3-s20",
+        "en1-2006-text3-s21",
+        "en1-2006-text3-s22",
+        "en1-2006-text3-s23"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,719 @@
+{
+  "exam": "en1",
+  "key": "2013-t4",
+  "year": 2013,
+  "text_no": 4,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2013-text4-s1",
+      "s": "On a five to three vote, the Supreme Court knocked out much of Arizona's immigration law Monday—a modest policy victory for the Obama Administration.",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "the Supreme Court",
+        "谓语": "knocked out",
+        "宾语或表语": "much of Arizona's immigration law",
+        "主干翻译": "最高法院推翻了亚利桑那州移民法的大部分内容。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "On a five to three vote",
+          "修饰对象": "knocked out",
+          "中文翻译": "以五票对三票的表决结果",
+          "说明": "方式状语，说明裁决以何种投票比例作出。"
+        },
+        {
+          "成分类型": "同位语/插入语",
+          "原文": "a modest policy victory for the Obama Administration",
+          "修饰对象": "knocked out much of Arizona's immigration law",
+          "中文翻译": "这对奥巴马政府来说是一场不大不小的政策胜利",
+          "说明": "破折号引出的名词性同位语，对整个主句事件作概括评价。k 未给出，但属句中显著修饰节点，故并入。"
+        }
+      ],
+      "zh": "最高法院以五票对三票的表决结果，于周一推翻了亚利桑那州移民法的大部分内容——这对奥巴马政府来说是一场不大不小的政策胜利。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2013-text4-s2",
+      "s": "But on the more important matter of the Constitution, the decision was an 8-0 defeat for the Administration's effort to upset the balance of power between the federal government and the states.",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "the decision",
+        "谓语": "was",
+        "宾语或表语": "an 8-0 defeat",
+        "主干翻译": "这一裁决是一场8比0的失败。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "on the more important matter of the Constitution",
+          "修饰对象": "was",
+          "中文翻译": "在更为重要的宪法问题上",
+          "说明": "句首介词短语作状语，限定评判的范围。"
+        },
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "for the Administration's effort",
+          "修饰对象": "defeat",
+          "中文翻译": "对(奥巴马)政府努力的（失败）",
+          "说明": "修饰表语 defeat，说明这场失败针对的对象。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to upset the balance of power between the federal government and the states",
+          "修饰对象": "effort",
+          "中文翻译": "想要打破联邦政府与各州之间权力平衡（的努力）",
+          "说明": "动词不定式作后置定语，修饰 effort，说明该努力的具体内容。k 标为同位语从句性质，此处实为不定式定语。"
+        }
+      ],
+      "zh": "但是在更为重要的宪法问题上，这一裁决意味着政府意图打破联邦政府与各州之间权力平衡的努力遭遇了8比0的彻底失败。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2013-text4-s3",
+      "s": "In Arizona v. United States, the majority overturned three of the four contested provisions of Arizona's controversial plan to have state and local police enforce federal immigration law.",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "the majority",
+        "谓语": "overturned",
+        "宾语或表语": "three",
+        "主干翻译": "多数派推翻了其中三项"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "In Arizona v. United States",
+          "修饰对象": "overturned",
+          "中文翻译": "在「亚利桑那州诉美国政府」案中",
+          "说明": "Arizona v. United States 是判例名，v. 是 versus 的缩写，不是句号。"
+        },
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "of the four contested provisions",
+          "修饰对象": "three",
+          "中文翻译": "四条受质疑条款中的",
+          "说明": "of 短语作后置定语，限定 three 的范围（four 中的 three）。"
+        },
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "of Arizona's controversial plan",
+          "修饰对象": "the four contested provisions",
+          "中文翻译": "亚利桑那州那项争议计划的",
+          "说明": "第二层 of 短语，层层限定：计划 → 条款 → 其中三条。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to have state and local police enforce federal immigration law",
+          "修饰对象": "plan",
+          "中文翻译": "让州和地方警察去执行联邦移民法的",
+          "说明": "不定式作后置定语修饰 plan；have sb do sth 是使役结构。"
+        }
+      ],
+      "zh": "在「亚利桑那州诉美国政府」案中，多数派推翻了亚利桑那州那项争议计划里四条受质疑条款中的三条——该计划要让州和地方警察去执行联邦移民法。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2013-text4-s5",
+      "s": "The Constitutional principles that Washington alone has the power to \"establish a uniform Rule of Naturalization\" and that federal laws precede state laws are noncontroversial.",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "The Constitutional principles",
+        "谓语": "are",
+        "宾语或表语": "noncontroversial",
+        "主干翻译": "这些宪法原则是没有争议的。"
+      },
+      "components": [
+        {
+          "成分类型": "同位语从句",
+          "原文": "that Washington alone has the power to \"establish a uniform Rule of Naturalization\"",
+          "修饰对象": "principles",
+          "中文翻译": "（即）只有华盛顿（联邦政府）才有权“制定统一的归化规则”",
+          "说明": "that 引导同位语从句，说明 principles 的具体内容。k 将其标为待定，此处为同位语从句。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to \"establish a uniform Rule of Naturalization\"",
+          "修饰对象": "power",
+          "中文翻译": "“制定统一的归化规则”（的权力）",
+          "说明": "不定式作后置定语，修饰 power，说明权力的内容。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "and that federal laws precede state laws",
+          "修饰对象": "principles",
+          "中文翻译": "以及联邦法律优先于州法律",
+          "说明": "由 and 连接的第二个 that 同位语从句，与前一同位语从句并列，共同说明 principles。"
+        }
+      ],
+      "zh": "“只有联邦政府才有权‘制定统一的归化规则’”以及“联邦法律优先于州法律”这两条宪法原则，都是没有争议的。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2013-text4-s6",
+      "s": "Arizona had attempted to fashion state policies that ran parallel to the existing federal ones.",
+      "para_no": 2,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Arizona",
+        "谓语": "had attempted",
+        "宾语或表语": "to fashion state policies",
+        "主干翻译": "亚利桑那州曾试图制定州一级的政策。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to fashion state policies that ran parallel to the existing federal ones",
+          "修饰对象": "attempted",
+          "中文翻译": "去制定与现行联邦政策相平行的州政策",
+          "说明": "不定式作 attempt 的宾语/补足成分，表示尝试的内容。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that ran parallel to the existing federal ones",
+          "修饰对象": "policies",
+          "中文翻译": "与现行联邦政策相平行（的州政策）",
+          "说明": "that 引导限制性定语从句，修饰 state policies；ones 指代 federal policies。"
+        }
+      ],
+      "zh": "亚利桑那州曾试图制定一套与现行联邦政策相平行的州政策。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2013-text4-s7",
+      "s": "Justice Anthony Kennedy, joined by Chief Justice John Roberts and the Court's liberals, ruled that the state flew too close to the federal sun.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Justice Anthony Kennedy",
+        "谓语": "ruled",
+        "宾语或表语": "that the state flew too close to the federal sun",
+        "主干翻译": "大法官安东尼·肯尼迪裁定，该州飞得离联邦这个太阳太近了。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "joined by Chief Justice John Roberts and the Court's liberals",
+          "修饰对象": "Justice Anthony Kennedy",
+          "中文翻译": "在首席大法官约翰·罗伯茨和法院自由派大法官的支持下",
+          "说明": "过去分词短语作后置定语/插入说明，修饰主语 Kennedy。k 标为待定，此处为非谓语作定语（插入）。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "the Court's liberals",
+          "修饰对象": "Chief Justice John Roberts",
+          "中文翻译": "（以及）法院的自由派大法官",
+          "说明": "由 and 连接，与 Chief Justice John Roberts 并列，同作 joined by 的逻辑主语。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that the state flew too close to the federal sun",
+          "修饰对象": "ruled",
+          "中文翻译": "该州飞得离联邦这个太阳太近了",
+          "说明": "that 引导 ruled 的宾语从句，以隐喻方式表达该州越权。"
+        }
+      ],
+      "zh": "在首席大法官约翰·罗伯茨和法院自由派大法官的支持下，大法官安东尼·肯尼迪裁定，亚利桑那州飞得离联邦这个太阳太近了（即越了权）。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2013-text4-s8",
+      "s": "On the overturned provisions the majority held Congress had deliberately \"occupied the field\" and Arizona had thus intruded on the federal's privileged powers.",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "the majority",
+        "谓语": "held",
+        "宾语或表语": "Congress had deliberately \"occupied the field\" and Arizona had thus intruded on the federal's privileged powers",
+        "主干翻译": "多数派认为，国会已经蓄意“占据了这一领域”，因此亚利桑那州侵犯了联邦的专属权力。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "On the overturned provisions",
+          "修饰对象": "held",
+          "中文翻译": "在那些被推翻的条款上",
+          "说明": "句首介词短语作状语，限定多数派裁定所针对的范围。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "Congress had deliberately \"occupied the field\" and Arizona had thus intruded on the federal's privileged powers",
+          "修饰对象": "held",
+          "中文翻译": "国会已蓄意“占据了这一领域”，因此亚利桑那州侵犯了联邦的专属权力",
+          "说明": "that 引导 held 的宾语从句，内部由 and 连接两个并列分句。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "Arizona had thus intruded on the federal's privileged powers",
+          "修饰对象": "occupied",
+          "中文翻译": "因此亚利桑那州侵犯了联邦的专属权力",
+          "说明": "宾语从句内部由 and 连接的第二个并列分句。"
+        }
+      ],
+      "zh": "在那些被推翻的条款上，多数派认为，国会已经蓄意“占据了这一领域”，因此亚利桑那州侵犯了联邦所享有的专属权力。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2013-text4-s9",
+      "s": "However, the Justices said that Arizona police would be allowed to verify the legal status of people who come in contact with law enforcement.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "the Justices",
+        "谓语": "said",
+        "宾语或表语": "that Arizona police would be allowed to verify the legal status of people",
+        "主干翻译": "大法官们表示，亚利桑那州警察将被允许核查人员的合法身份。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "However",
+          "修饰对象": "said",
+          "中文翻译": "然而",
+          "说明": "句首副词作转折性插入语，连接上下文。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that Arizona police would be allowed to verify the legal status of people who come in contact with law enforcement",
+          "修饰对象": "said",
+          "中文翻译": "亚利桑那州警察将被允许核查与执法部门接触者的合法身份",
+          "说明": "that 引导 said 的宾语从句。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to verify the legal status of people who come in contact with law enforcement",
+          "修饰对象": "allowed",
+          "中文翻译": "去核查与执法部门接触者的合法身份",
+          "说明": "不定式作 be allowed 的补足成分，说明被允许做的事。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "who come in contact with law enforcement",
+          "修饰对象": "people",
+          "中文翻译": "与执法部门接触（的人）",
+          "说明": "who 引导限制性定语从句，修饰 people。"
+        }
+      ],
+      "zh": "然而，大法官们表示，亚利桑那州警察将获准核查那些与执法部门有接触者的合法身份。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2013-text4-s10",
+      "s": "That's because Congress has always envisioned joint federal-state immigration enforcement and explicitly encourages state officers to share information and cooperate with federal colleagues.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "That",
+        "谓语": "is",
+        "宾语或表语": "because Congress has always envisioned joint federal-state immigration enforcement",
+        "主干翻译": "这是因为国会一向设想由联邦和州联合执行移民法。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(原因)",
+          "原文": "because Congress has always envisioned joint federal-state immigration enforcement and explicitly encourages state officers to share information and cooperate with federal colleagues",
+          "修饰对象": "'s",
+          "中文翻译": "因为国会一向设想由联邦和州联合执行移民法，并明确鼓励州官员共享信息、与联邦同行合作",
+          "说明": "because 引导原因状语从句，作 That's 的表语（原因状语）。k 标为待定，此处确定为原因。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "explicitly encourages state officers to share information and cooperate with federal colleagues",
+          "修饰对象": "envisioned",
+          "中文翻译": "并明确鼓励州官员共享信息、与联邦同行合作",
+          "说明": "由 and 连接，与 has...envisioned 并列，同以 Congress 为主语。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to share information and cooperate with federal colleagues",
+          "修饰对象": "encourages",
+          "中文翻译": "去共享信息并与联邦同行合作",
+          "说明": "不定式作 encourage 的宾语补足语，说明鼓励州官员做的事。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "cooperate with federal colleagues",
+          "修饰对象": "share",
+          "中文翻译": "（并）与联邦同行合作",
+          "说明": "由 and 连接，与 share information 并列，同受 to 支配。"
+        }
+      ],
+      "zh": "这是因为国会一向设想由联邦和州联合执行移民法，并明确鼓励州一级官员共享信息、与联邦同行展开合作。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2013-text4-s11",
+      "s": "Two of the three objecting Justices—Samuel Alito and Clarence Thomas—agreed with this Constitutional logic but disagreed about which Arizona rules conflicted with the federal statute.",
+      "para_no": 5,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Two of the three objecting Justices",
+        "谓语": "agreed (but disagreed)",
+        "宾语或表语": "with this Constitutional logic",
+        "主干翻译": "三位持异议的大法官中有两位认同这一宪法逻辑，但持有不同看法。"
+      },
+      "components": [
+        {
+          "成分类型": "同位语/插入语",
+          "原文": "Samuel Alito and Clarence Thomas",
+          "修饰对象": "Justices",
+          "中文翻译": "塞缪尔·阿利托和克拉伦斯·托马斯",
+          "说明": "破折号之间的专有名词作同位语，具体指明那两位大法官。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "disagreed about which Arizona rules conflicted with the federal statute",
+          "修饰对象": "agreed",
+          "中文翻译": "却在“亚利桑那州的哪些规定与联邦法规相冲突”这一点上意见不一",
+          "说明": "由 but 连接，与 agreed with this Constitutional logic 并列，构成转折并列谓语；内含 which 引导的宾语从句。"
+        }
+      ],
+      "zh": "三位持异议的大法官中有两位——塞缪尔·阿利托和克拉伦斯·托马斯——认同这一宪法逻辑，但在亚利桑那州的哪些规定与联邦法规相冲突的问题上意见不一。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2013-text4-s12",
+      "s": "The only major objection came from Justice Antonin Scalia, who offered an even more robust defense of state privileges going back to the Alien and Sedition Acts.",
+      "para_no": 5,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "The only major objection",
+        "谓语": "came",
+        "宾语或表语": "from Justice Antonin Scalia",
+        "主干翻译": "唯一一项重大异议来自大法官安东宁·斯卡利亚。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "who offered an even more robust defense of state privileges going back to the Alien and Sedition Acts",
+          "修饰对象": "Scalia",
+          "中文翻译": "他对可追溯至《外侨与煽动叛乱法》的各项州权提出了更为有力的辩护",
+          "说明": "who 引导非限制性定语从句，修饰 Justice Antonin Scalia。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "going back to the Alien and Sedition Acts",
+          "修饰对象": "privileges",
+          "中文翻译": "可追溯至《外侨与煽动叛乱法》（的州权）",
+          "说明": "现在分词短语作后置定语，修饰 state privileges，说明这些州权的历史渊源。"
+        }
+      ],
+      "zh": "唯一一项重大异议来自大法官安东宁·斯卡利亚，他对那些可追溯至《外侨与煽动叛乱法》的州权提出了更为有力的辩护。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2013-text4-s13",
+      "s": "The 8-0 objection to President Obama turns on what Justice Samuel Alito describes in his objection as \"a shocking assertion of federal executive power\".",
+      "para_no": 6,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The 8-0 objection to President Obama",
+        "谓语": "turns on",
+        "宾语或表语": "what Justice Samuel Alito describes in his objection as \"a shocking assertion of federal executive power\"",
+        "主干翻译": "这场8比0、针对奥巴马总统的反对，关键在于阿利托大法官在其异议中所描述的那种东西。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "what Justice Samuel Alito describes in his objection as \"a shocking assertion of federal executive power\"",
+          "修饰对象": "turns on",
+          "中文翻译": "大法官塞缪尔·阿利托在其异议中所描述的“对联邦行政权力的一种骇人主张”",
+          "说明": "what 引导的从句作介词 on 的宾语；describe...as... 结构。"
+        }
+      ],
+      "zh": "这场针对奥巴马总统、以8比0作出的反对，其关键在于大法官塞缪尔·阿利托在其异议中所称的“对联邦行政权力的一种骇人主张”。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2013-text4-s14",
+      "s": "The White House argued that Arizona's laws conflicted with its enforcement priorities, even if state laws complied with federal statutes to the letter.",
+      "para_no": 6,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "The White House",
+        "谓语": "argued",
+        "宾语或表语": "that Arizona's laws conflicted with its enforcement priorities",
+        "主干翻译": "白宫辩称，亚利桑那州的法律与其执法重点相冲突。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "that Arizona's laws conflicted with its enforcement priorities, even if state laws complied with federal statutes to the letter",
+          "修饰对象": "argued",
+          "中文翻译": "亚利桑那州的法律与其执法重点相冲突，即便州法律与联邦法规分毫不差地一致",
+          "说明": "that 引导 argued 的宾语从句。"
+        },
+        {
+          "成分类型": "状语从句(让步)",
+          "原文": "even if state laws complied with federal statutes to the letter",
+          "修饰对象": "conflicted",
+          "中文翻译": "即便州法律与联邦法规一字不差地相符",
+          "说明": "even if 引导让步状语从句，修饰宾语从句中的谓语 conflicted。k 标为待定，此处为让步。"
+        }
+      ],
+      "zh": "白宫辩称，即便亚利桑那州的法律与联邦法规一字不差地相符，它们仍与白宫的执法重点相冲突。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2013-text4-s15",
+      "s": "In effect, the White House claimed that it could invalidate any otherwise legitimate state law that it disagrees with.",
+      "para_no": 6,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "the White House",
+        "谓语": "claimed",
+        "宾语或表语": "that it could invalidate any otherwise legitimate state law",
+        "主干翻译": "白宫宣称，它可以宣布任何原本合法的州法律无效。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "In effect",
+          "修饰对象": "claimed",
+          "中文翻译": "实际上",
+          "说明": "句首介词短语作插入性状语，表“实际上、说到底”。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that it could invalidate any otherwise legitimate state law that it disagrees with",
+          "修饰对象": "claimed",
+          "中文翻译": "它可以宣布任何它所不赞同的、原本合法的州法律无效",
+          "说明": "that 引导 claimed 的宾语从句。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that it disagrees with",
+          "修饰对象": "law",
+          "中文翻译": "它所不赞同（的州法律）",
+          "说明": "that 引导限制性定语从句，修饰 state law，that 为 with 的宾语。"
+        }
+      ],
+      "zh": "实际上，白宫宣称，它可以宣布任何它所不赞同的、原本合法的州法律无效。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2013-text4-s16",
+      "s": "Some powers do belong exclusively to the federal government, and control of citizenship and the borders is among them.",
+      "para_no": 7,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Some powers",
+        "谓语": "do belong",
+        "宾语或表语": "exclusively to the federal government",
+        "主干翻译": "某些权力确实专属于联邦政府。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "control of citizenship and the borders is among them",
+          "修饰对象": "belong",
+          "中文翻译": "对公民身份和边境的控制权就在其中",
+          "说明": "由 and 连接的第二个并列分句；them 指代 some powers/federal powers。"
+        }
+      ],
+      "zh": "某些权力确实专属于联邦政府，对公民身份和边境的控制权就在其中。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2013-text4-s17",
+      "s": "But if Congress wanted to prevent states from using their own resources to check immigration status, it could.",
+      "para_no": 7,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "it",
+        "谓语": "could",
+        "宾语或表语": "（省略 do so）",
+        "主干翻译": "（国会）本来是能够做到的。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "if Congress wanted to prevent states from using their own resources to check immigration status",
+          "修饰对象": "could",
+          "中文翻译": "如果国会想阻止各州动用自己的资源来核查移民身份",
+          "说明": "if 引导条件状语从句，修饰主句 it could。k 标为待定，此处为条件。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to prevent states from using their own resources to check immigration status",
+          "修饰对象": "wanted",
+          "中文翻译": "去阻止各州动用自己的资源核查移民身份",
+          "说明": "不定式作 want 的宾语，说明想要做的事；prevent...from... 结构。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to check immigration status",
+          "修饰对象": "using",
+          "中文翻译": "来核查移民身份",
+          "说明": "不定式作目的状语，修饰 using their own resources，说明动用资源的目的。"
+        },
+        {
+          "成分类型": "省略",
+          "原文": "it could",
+          "修饰对象": "could",
+          "中文翻译": "它（国会）本来能够（这样做）",
+          "说明": "could 后省略了动词 do so（prevent states...），属助动词后的动词省略。"
+        }
+      ],
+      "zh": "但是，如果国会想阻止各州动用自己的资源来核查移民身份，它本来是能够做到的。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2013-text4-s18",
+      "s": "It never did so.",
+      "para_no": 7,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "It",
+        "谓语": "did",
+        "宾语或表语": "so",
+        "主干翻译": "它（国会）从未这样做过。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "never",
+          "修饰对象": "did",
+          "中文翻译": "从未",
+          "说明": "频度副词作状语，表否定。so 替代上句中的动作。"
+        }
+      ],
+      "zh": "它（国会）从未这样做过。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2013-text4-s19",
+      "s": "The Administration was in essence asserting that because it didn't want to carry out Congress's immigration wishes, no state should be allowed to do so either.",
+      "para_no": 7,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "The Administration",
+        "谓语": "was asserting",
+        "宾语或表语": "that ... no state should be allowed to do so either",
+        "主干翻译": "（奥巴马）政府实质上是在主张，任何州也都不应被允许这样做。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "in essence",
+          "修饰对象": "asserting",
+          "中文翻译": "实质上",
+          "说明": "插入性状语，表“本质上、说到底”。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that because it didn't want to carry out Congress's immigration wishes, no state should be allowed to do so either",
+          "修饰对象": "asserting",
+          "中文翻译": "因为它自己不愿执行国会的移民意愿，所以任何州也都不应被允许这样做",
+          "说明": "that 引导 assert 的宾语从句，内含 because 原因状语从句。"
+        },
+        {
+          "成分类型": "状语从句(原因)",
+          "原文": "because it didn't want to carry out Congress's immigration wishes",
+          "修饰对象": "allowed",
+          "中文翻译": "因为它不愿执行国会的移民意愿",
+          "说明": "because 引导原因状语从句，修饰宾语从句的主句 no state should be allowed。k 标为待定，此处为原因。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to carry out Congress's immigration wishes",
+          "修饰对象": "want",
+          "中文翻译": "去执行国会的移民意愿",
+          "说明": "不定式作 want 的宾语，说明不愿做的事。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to do so",
+          "修饰对象": "allowed",
+          "中文翻译": "这样做",
+          "说明": "不定式作 be allowed 的补足成分；do so 替代“执行移民法”。"
+        }
+      ],
+      "zh": "（奥巴马）政府实质上是在主张：因为它自己不愿执行国会的移民意愿，所以任何州也都不应被允许这样做。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2013-text4-s20",
+      "s": "Every Justice rightly rejected this remarkable claim.",
+      "para_no": 7,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "Every Justice",
+        "谓语": "rejected",
+        "宾语或表语": "this remarkable claim",
+        "主干翻译": "每一位大法官都恰当地驳回了这一惊人的主张。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "rightly",
+          "修饰对象": "rejected",
+          "中文翻译": "理所当然地/恰当地",
+          "说明": "副词作状语，表作者对该裁决的肯定评价。"
+        }
+      ],
+      "zh": "每一位大法官都理所当然地驳回了这一惊人的主张。",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2013-text4-s1",
+        "en1-2013-text4-s2"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2013-text4-s3",
+        "en1-2013-text4-s5",
+        "en1-2013-text4-s6"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2013-text4-s7",
+        "en1-2013-text4-s8"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2013-text4-s9",
+        "en1-2013-text4-s10"
+      ]
+    },
+    {
+      "para_no": 5,
+      "sids": [
+        "en1-2013-text4-s11",
+        "en1-2013-text4-s12"
+      ]
+    },
+    {
+      "para_no": 6,
+      "sids": [
+        "en1-2013-text4-s13",
+        "en1-2013-text4-s14",
+        "en1-2013-text4-s15"
+      ]
+    },
+    {
+      "para_no": 7,
+      "sids": [
+        "en1-2013-text4-s16",
+        "en1-2013-text4-s17",
+        "en1-2013-text4-s18",
+        "en1-2013-text4-s19",
+        "en1-2013-text4-s20"
+      ]
+    }
+  ]
+}

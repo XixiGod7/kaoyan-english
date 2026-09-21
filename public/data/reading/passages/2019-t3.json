@@ -1,0 +1,897 @@
+{
+  "exam": "en1",
+  "key": "2019-t3",
+  "year": 2019,
+  "text_no": 3,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2019-text3-s1",
+      "s": "This year marks exactly two centuries since the publication of Frankenstein; or, The Modern Prometheus, by Mary Shelley.",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "This year",
+        "谓语": "marks",
+        "宾语或表语": "exactly two centuries",
+        "主干翻译": "今年恰好标志着两个世纪。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "since the publication of Frankenstein; or, The Modern Prometheus, by Mary Shelley",
+          "修饰对象": "marks",
+          "中文翻译": "自玛丽·雪莱的《弗兰肯斯坦；或现代普罗米修斯》出版以来",
+          "说明": "since 引导时间起点，作状语，说明 two centuries 的计量起点。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "Frankenstein; or, The Modern Prometheus, by Mary Shelley",
+          "修饰对象": "Frankenstein",
+          "中文翻译": "《弗兰肯斯坦》，或称《现代普罗米修斯》，玛丽·雪莱著",
+          "说明": "or 连接书名的正副标题，为同一作品的并列别名。"
+        }
+      ],
+      "zh": "今年恰好标志着玛丽·雪莱的《弗兰肯斯坦；或现代普罗米修斯》出版整整两个世纪。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2019-text3-s2",
+      "s": "Even before the invention of the electric light bulb, the author produced a remarkable work of speculative fiction that would foreshadow many ethical questions to be raised by technologies yet to come.",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "the author",
+        "谓语": "produced",
+        "宾语或表语": "a remarkable work of speculative fiction",
+        "主干翻译": "这位作者创作了一部非凡的推想小说作品。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "Even before the invention of the electric light bulb",
+          "修饰对象": "produced",
+          "中文翻译": "甚至早在电灯泡发明之前",
+          "说明": "before 引导的时间状语，修饰整句谓语，强调时间之早。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that would foreshadow many ethical questions to be raised by technologies yet to come",
+          "修饰对象": "work",
+          "中文翻译": "它（这部作品）预示了许多将由未来技术引发的伦理问题",
+          "说明": "that 引导定语从句，修饰先行词 work。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to be raised by technologies yet to come",
+          "修饰对象": "questions",
+          "中文翻译": "将由未来到来的技术所引发的",
+          "说明": "不定式被动式作后置定语，修饰 questions。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "yet to come",
+          "修饰对象": "technologies",
+          "中文翻译": "尚未到来的",
+          "说明": "不定式作后置定语，修饰 technologies，表将来。"
+        }
+      ],
+      "zh": "甚至早在电灯泡发明之前，这位作者就创作了一部非凡的推想小说，它预示了许多将由尚未到来的技术所引发的伦理问题。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2019-text3-s3",
+      "s": "Today the rapid growth of artificial intelligence (AI) raises fundamental questions: \"What is intelligence, identity, or consciousness?",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "the rapid growth of artificial intelligence (AI)",
+        "谓语": "raises",
+        "宾语或表语": "fundamental questions",
+        "主干翻译": "人工智能的迅猛发展引发了根本性的问题。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "(AI)",
+          "修饰对象": "intelligence",
+          "中文翻译": "（即 AI）",
+          "说明": "括号内为 artificial intelligence 的英文缩写，作同位说明。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "What is intelligence, identity, or consciousness?",
+          "修饰对象": "questions",
+          "中文翻译": "何为智能、身份或意识？",
+          "说明": "冒号后内容具体说明 fundamental questions 的内容，作同位语（以特殊疑问句形式呈现）。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "intelligence, identity, or consciousness",
+          "修饰对象": "intelligence",
+          "中文翻译": "智能、身份或意识",
+          "说明": "三个名词由 or 连接构成并列表语。"
+        }
+      ],
+      "zh": "如今，人工智能（AI）的迅猛发展引发了一些根本性的问题：“何为智能、身份或意识？”",
+      "underline": null
+    },
+    {
+      "sid": "en1-2019-text3-s4",
+      "s": "What makes humans humans?\"",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "What",
+        "谓语": "makes",
+        "宾语或表语": "humans humans",
+        "主干翻译": "是什么使人成为人？"
+      },
+      "components": [
+        {
+          "成分类型": "主语从句",
+          "原文": "What makes humans humans",
+          "修饰对象": "—",
+          "中文翻译": "是什么使人成为人",
+          "说明": "What 引导特殊疑问，makes humans (宾语) humans (宾补) 构成复合宾语结构。"
+        }
+      ],
+      "zh": "是什么使人之为人？”",
+      "underline": null
+    },
+    {
+      "sid": "en1-2019-text3-s5",
+      "s": "What is being called artificial general intelligence, machines that would imitate the way humans think, continues to evade scientists.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "What is being called artificial general intelligence",
+        "谓语": "continues",
+        "宾语或表语": "to evade scientists",
+        "主干翻译": "所谓的通用人工智能始终让科学家们难以企及。"
+      },
+      "components": [
+        {
+          "成分类型": "主语从句",
+          "原文": "What is being called artificial general intelligence",
+          "修饰对象": "—",
+          "中文翻译": "所谓的通用人工智能",
+          "说明": "What 引导主语从句，作整句主语。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "machines that would imitate the way humans think",
+          "修饰对象": "intelligence",
+          "中文翻译": "即能够模仿人类思维方式的机器",
+          "说明": "machines 短语作同位语，进一步解释 artificial general intelligence。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that would imitate the way humans think",
+          "修饰对象": "machines",
+          "中文翻译": "能够模仿人类思维方式的",
+          "说明": "that 引导定语从句，修饰 machines。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "humans think",
+          "修饰对象": "way",
+          "中文翻译": "人类思考的（方式）",
+          "说明": "省略关系词 (in which / that) 的定语从句，修饰 the way。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to evade scientists",
+          "修饰对象": "continues",
+          "中文翻译": "（继续）回避科学家们",
+          "说明": "不定式作 continues 的补足成分，构成谓语短语 continues to evade。"
+        }
+      ],
+      "zh": "所谓的通用人工智能——即能够模仿人类思维方式的机器——始终让科学家们无法实现。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2019-text3-s6",
+      "s": "Yet humans remain fascinated by the idea of robots that would look, move, and respond like humans, similar to those recently depicted on popular sci-fi TV series such as \"Westworld\" and \"Humans\".",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "humans",
+        "谓语": "remain fascinated",
+        "宾语或表语": "by the idea of robots",
+        "主干翻译": "人类仍然为机器人的设想所着迷。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "that would look, move, and respond like humans, similar to those recently depicted on popular sci-fi TV series such as \"Westworld\" and \"Humans\"",
+          "修饰对象": "robots",
+          "中文翻译": "其外观、动作和反应都像人类的（机器人），类似于近来在《西部世界》和《真实的人类》等热门科幻电视剧中所描绘的那些",
+          "说明": "that 引导定语从句，修饰 robots。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "look, move, and respond like humans",
+          "修饰对象": "look",
+          "中文翻译": "外观、动作和反应都像人类",
+          "说明": "三个并列谓语动词 look/move/respond 共享 would。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "similar to those recently depicted on popular sci-fi TV series such as \"Westworld\" and \"Humans\"",
+          "修饰对象": "robots",
+          "中文翻译": "类似于近来在《西部世界》和《真实的人类》等热门科幻剧中描绘的那些机器人",
+          "说明": "similar to 形容词短语作补充说明，其中 depicted 为过去分词作定语修饰 those。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "\"Westworld\" and \"Humans\"",
+          "修饰对象": "Westworld",
+          "中文翻译": "《西部世界》和《真实的人类》",
+          "说明": "and 连接两部电视剧名，作 such as 的并列宾语。"
+        }
+      ],
+      "zh": "然而，人类仍然为这样的机器人设想所着迷：它们的外观、动作和反应都像人类，类似于近来在《西部世界》和《真实的人类》等热门科幻剧中所描绘的那些。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2019-text3-s7",
+      "s": "Just how people think is still far too complex to be understood, let alone reproduced, says David Eagleman, a Stanford University neuroscientist.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "David Eagleman",
+        "谓语": "says",
+        "宾语或表语": "(宾语从句)",
+        "主干翻译": "戴维·伊格曼说……"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "Just how people think is still far too complex to be understood, let alone reproduced",
+          "修饰对象": "says",
+          "中文翻译": "人类思维的方式至今仍过于复杂而难以被理解，更遑论复制",
+          "说明": "该从句为 says 的宾语（前置直接引语），其内部主语为 Just how people think。"
+        },
+        {
+          "成分类型": "主语从句",
+          "原文": "Just how people think",
+          "修饰对象": "—",
+          "中文翻译": "人类究竟如何思考",
+          "说明": "how 引导主语从句，作宾语从句内的主语。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to be understood, let alone reproduced",
+          "修饰对象": "complex",
+          "中文翻译": "（太复杂而）难以被理解，更别说复制",
+          "说明": "too...to 结构中的不定式，作结果/程度状语修饰 complex；let alone 引出递进。"
+        },
+        {
+          "成分类型": "同位语",
+          "原文": "a Stanford University neuroscientist",
+          "修饰对象": "Eagleman",
+          "中文翻译": "一位斯坦福大学的神经科学家",
+          "说明": "名词短语作 David Eagleman 的同位语。"
+        }
+      ],
+      "zh": "斯坦福大学神经科学家戴维·伊格曼说，人类究竟如何思考至今仍过于复杂而难以被理解，更遑论复制。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2019-text3-s8",
+      "s": "\"We are just in a situation where there are no good theories explaining what consciousness actually is and how you could ever build a machine to get there.\"",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "We",
+        "谓语": "are",
+        "宾语或表语": "just in a situation",
+        "主干翻译": "我们正处于一种境地之中。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "where there are no good theories explaining what consciousness actually is and how you could ever build a machine to get there",
+          "修饰对象": "situation",
+          "中文翻译": "在这种境地下，没有任何好的理论能解释意识究竟是什么，以及人们究竟如何才能造出一台机器去实现意识",
+          "说明": "where 引导定语从句，修饰 situation（表抽象处所）。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "explaining what consciousness actually is and how you could ever build a machine to get there",
+          "修饰对象": "theories",
+          "中文翻译": "能够解释意识究竟是什么以及如何才能造出机器实现意识的",
+          "说明": "现在分词短语 explaining 作后置定语，修饰 theories。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "what consciousness actually is",
+          "修饰对象": "explaining",
+          "中文翻译": "意识究竟是什么",
+          "说明": "what 引导宾语从句，作 explaining 的宾语之一。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "how you could ever build a machine to get there",
+          "修饰对象": "is",
+          "中文翻译": "如何才能造出一台机器去达到那一步",
+          "说明": "and 连接的第二个宾语从句，与 what consciousness actually is 并列作 explaining 的宾语。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to get there",
+          "修饰对象": "machine",
+          "中文翻译": "去实现意识（达到那一步）",
+          "说明": "不定式作目的状语/后置修饰，说明 build a machine 的目的。"
+        }
+      ],
+      "zh": "“我们正处于这样一种境地：没有任何完善的理论能够解释意识究竟是什么，以及人们究竟如何才能造出一台机器去实现意识。”",
+      "underline": null
+    },
+    {
+      "sid": "en1-2019-text3-s9",
+      "s": "But that doesn't mean crucial ethical issues involving AI aren't at hand.",
+      "para_no": 5,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "that",
+        "谓语": "doesn't mean",
+        "宾语或表语": "(宾语从句)",
+        "主干翻译": "但那并不意味着……"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "crucial ethical issues involving AI aren't at hand",
+          "修饰对象": "mean",
+          "中文翻译": "涉及人工智能的关键伦理问题并非近在眼前",
+          "说明": "省略 that 的宾语从句，作 mean 的宾语。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "involving AI",
+          "修饰对象": "issues",
+          "中文翻译": "涉及人工智能的",
+          "说明": "现在分词短语作后置定语，修饰 issues。"
+        }
+      ],
+      "zh": "但这并不意味着涉及人工智能的关键伦理问题不会很快到来。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2019-text3-s10",
+      "s": "The coming use of autonomous vehicles, for example, poses thorny ethical questions.",
+      "para_no": 5,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "The coming use of autonomous vehicles",
+        "谓语": "poses",
+        "宾语或表语": "thorny ethical questions",
+        "主干翻译": "自动驾驶汽车即将到来的应用带来了棘手的伦理问题。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "for example",
+          "修饰对象": "—",
+          "中文翻译": "例如",
+          "说明": "插入语，起举例衔接作用。"
+        }
+      ],
+      "zh": "例如，自动驾驶汽车即将到来的应用就带来了棘手的伦理问题。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2019-text3-s11",
+      "s": "Human drivers sometimes must make split-second decisions.",
+      "para_no": 5,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Human drivers",
+        "谓语": "must make",
+        "宾语或表语": "split-second decisions",
+        "主干翻译": "人类驾驶员必须做出瞬间的决定。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "sometimes",
+          "修饰对象": "make",
+          "中文翻译": "有时",
+          "说明": "频率副词作状语，修饰谓语（此处作时间频率状语处理）。"
+        }
+      ],
+      "zh": "人类驾驶员有时必须在瞬间做出决定。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2019-text3-s12",
+      "s": "Their reactions may be a complex combination of instant reflexes, input from past driving experiences, and what their eyes and ears tell them in that moment.",
+      "para_no": 5,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "Their reactions",
+        "谓语": "may be",
+        "宾语或表语": "a complex combination",
+        "主干翻译": "他们的反应可能是一种复杂的综合体。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "instant reflexes, input from past driving experiences, and what their eyes and ears tell them in that moment",
+          "修饰对象": "reflexes",
+          "中文翻译": "即时反射、来自以往驾驶经验的输入，以及当下耳闻目睹所传达的信息",
+          "说明": "of 短语内由 and 连接的三项并列成分，构成 combination 的内容。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "what their eyes and ears tell them in that moment",
+          "修饰对象": "input",
+          "中文翻译": "他们的眼睛和耳朵在那一刻所告诉他们的信息",
+          "说明": "what 引导名词性从句，作并列项之一（介词 of 的宾语）。"
+        }
+      ],
+      "zh": "他们的反应可能是即时反射、以往驾驶经验所提供的信息，以及当下耳闻目睹所传达的信息的复杂综合。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2019-text3-s13",
+      "s": "AI \"vision\" today is not nearly as sophisticated as that of humans.",
+      "para_no": 5,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "AI \"vision\" today",
+        "谓语": "is",
+        "宾语或表语": "not nearly as sophisticated as that of humans",
+        "主干翻译": "如今人工智能的“视觉”远不如人类的视觉精密。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(比较)",
+          "原文": "as sophisticated as that of humans",
+          "修饰对象": "is",
+          "中文翻译": "像人类的视觉那样精密",
+          "说明": "as...as 同级比较结构（被 not nearly 否定），其中 that 指代 vision。"
+        }
+      ],
+      "zh": "如今人工智能的“视觉”远不如人类的视觉那般精密。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2019-text3-s14",
+      "s": "And to anticipate every imaginable driving situation is a difficult programming problem.",
+      "para_no": 5,
+      "para_seq": 5,
+      "trunk": {
+        "主语": "to anticipate every imaginable driving situation",
+        "谓语": "is",
+        "宾语或表语": "a difficult programming problem",
+        "主干翻译": "预测每一种可以想象到的驾驶情境是一个困难的编程难题。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to anticipate every imaginable driving situation",
+          "修饰对象": "—",
+          "中文翻译": "预测每一种可以想象的驾驶情境",
+          "说明": "不定式短语作整句主语。"
+        }
+      ],
+      "zh": "而且，要预测每一种可以想象到的驾驶情境，是一个艰难的编程难题。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2019-text3-s15",
+      "s": "Whenever decisions are based on masses of data, \"you quickly get into a lot of ethical questions,\" notes Tan Kiat How, chief executive of a Singapore-based agency that is helping the government develop a voluntary code for the ethical use of AI.",
+      "para_no": 6,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Tan Kiat How",
+        "谓语": "notes",
+        "宾语或表语": "(宾语从句)",
+        "主干翻译": "陈杰豪指出……"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "Whenever decisions are based on masses of data, \"you quickly get into a lot of ethical questions",
+          "修饰对象": "notes",
+          "中文翻译": "每当决策建立在海量数据之上时，你很快就会陷入大量的伦理问题",
+          "说明": "前置直接引语作 notes 的宾语。"
+        },
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "Whenever decisions are based on masses of data",
+          "修饰对象": "get",
+          "中文翻译": "每当决策以海量数据为基础时",
+          "说明": "Whenever 引导条件/时间状语从句，此处取“每当……就……”的条件含义，修饰 get。"
+        },
+        {
+          "成分类型": "同位语",
+          "原文": "chief executive of a Singapore-based agency that is helping the government develop a voluntary code for the ethical use of AI",
+          "修饰对象": "How",
+          "中文翻译": "一家总部位于新加坡、正协助政府制定人工智能合乎伦理使用的自愿性准则的机构的首席执行官",
+          "说明": "名词短语作 Tan Kiat How 的同位语。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that is helping the government develop a voluntary code for the ethical use of AI",
+          "修饰对象": "agency",
+          "中文翻译": "正协助政府制定人工智能合乎伦理使用之自愿准则的",
+          "说明": "that 引导定语从句，修饰 agency。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "the government develop a voluntary code for the ethical use of AI",
+          "修饰对象": "helping",
+          "中文翻译": "（帮助）政府制定一项关于合乎伦理地使用人工智能的自愿性准则",
+          "说明": "help sb. (to) do 结构中的复合宾语，作 helping 的宾语。"
+        }
+      ],
+      "zh": "“每当决策建立在海量数据之上时，你就会很快陷入大量的伦理问题，”一家总部设在新加坡、正协助政府制定人工智能合乎伦理使用自愿准则的机构的首席执行官陈杰豪指出。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2019-text3-s16",
+      "s": "Along with Singapore, other governments and mega-corporations are beginning to establish their own guidelines.",
+      "para_no": 6,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "other governments and mega-corporations",
+        "谓语": "are beginning",
+        "宾语或表语": "to establish their own guidelines",
+        "主干翻译": "其他各国政府和大型企业正开始制定各自的准则。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "Along with Singapore",
+          "修饰对象": "beginning",
+          "中文翻译": "与新加坡一道",
+          "说明": "介词短语作伴随状语。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to establish their own guidelines",
+          "修饰对象": "beginning",
+          "中文翻译": "制定它们各自的准则",
+          "说明": "不定式作 begin 的补足成分，构成 begin to do 谓语短语。"
+        }
+      ],
+      "zh": "与新加坡一道，其他各国政府和大型企业也开始制定各自的准则。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2019-text3-s17",
+      "s": "Britain is setting up a data ethics center.",
+      "para_no": 6,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Britain",
+        "谓语": "is setting up",
+        "宾语或表语": "a data ethics center",
+        "主干翻译": "英国正在设立一个数据伦理中心。"
+      },
+      "components": [],
+      "zh": "英国正在设立一个数据伦理中心。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2019-text3-s18",
+      "s": "India released its AI ethics strategy this spring.",
+      "para_no": 6,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "India",
+        "谓语": "released",
+        "宾语或表语": "its AI ethics strategy",
+        "主干翻译": "印度发布了其人工智能伦理战略。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "this spring",
+          "修饰对象": "released",
+          "中文翻译": "今年春天",
+          "说明": "名词短语作时间状语，修饰 released。"
+        }
+      ],
+      "zh": "印度于今年春天发布了其人工智能伦理战略。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2019-text3-s19",
+      "s": "On June 7 Google pledged not to \"design or deploy AI\" that would cause \"overall harm,\" or to develop AI-directed weapons or use AI for surveillance that would violate international norms.",
+      "para_no": 7,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Google",
+        "谓语": "pledged",
+        "宾语或表语": "not to \"design or deploy AI\"",
+        "主干翻译": "谷歌承诺不“设计或部署人工智能”。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "On June 7",
+          "修饰对象": "pledged",
+          "中文翻译": "6月7日",
+          "说明": "介词短语作时间状语。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "not to \"design or deploy AI\" that would cause \"overall harm,\" or to develop AI-directed weapons or use AI for surveillance that would violate international norms",
+          "修饰对象": "pledged",
+          "中文翻译": "不去设计或部署会造成“整体危害”的人工智能，也不去开发由人工智能操控的武器，或将人工智能用于会违反国际准则的监控",
+          "说明": "不定式短语作 pledged 的宾语，含两段并列不定式 (to design...or to develop/use...)。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "design or deploy AI\" that would cause \"overall harm",
+          "修饰对象": "design",
+          "中文翻译": "设计或部署会造成“整体危害”的人工智能",
+          "说明": "design 与 deploy 由 or 连接，构成并列动词。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that would cause \"overall harm",
+          "修饰对象": "AI",
+          "中文翻译": "会造成“整体危害”的",
+          "说明": "that 引导定语从句，修饰 AI。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "to develop AI-directed weapons or use AI for surveillance that would violate international norms",
+          "修饰对象": "design",
+          "中文翻译": "开发由人工智能操控的武器，或将人工智能用于会违反国际准则的监控",
+          "说明": "由 or 连接的第二段不定式，与前段 to design or deploy 并列作 pledged 宾语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "use AI for surveillance that would violate international norms",
+          "修饰对象": "develop",
+          "中文翻译": "将人工智能用于会违反国际准则的监控",
+          "说明": "develop 与 use 由 or 连接，并列共享 to。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that would violate international norms",
+          "修饰对象": "surveillance",
+          "中文翻译": "会违反国际准则的",
+          "说明": "that 引导定语从句，修饰 surveillance。"
+        }
+      ],
+      "zh": "6月7日，谷歌承诺不会“设计或部署”会造成“整体危害”的人工智能，也不会开发由人工智能操控的武器，或将人工智能用于会违反国际准则的监控。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2019-text3-s20",
+      "s": "It also pledged not to deploy AI whose use would violate international laws or human rights.",
+      "para_no": 7,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "It",
+        "谓语": "pledged",
+        "宾语或表语": "not to deploy AI",
+        "主干翻译": "它还承诺不部署某种人工智能。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "not to deploy AI whose use would violate international laws or human rights",
+          "修饰对象": "pledged",
+          "中文翻译": "不去部署其使用会违反国际法或人权的人工智能",
+          "说明": "不定式短语作 pledged 的宾语。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "whose use would violate international laws or human rights",
+          "修饰对象": "AI",
+          "中文翻译": "其使用会违反国际法或人权的",
+          "说明": "whose 引导定语从句，修饰 AI。"
+        }
+      ],
+      "zh": "它还承诺不会部署其使用会违反国际法或人权的人工智能。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2019-text3-s21",
+      "s": "While the statement is vague, it represents one starting point.",
+      "para_no": 8,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "it",
+        "谓语": "represents",
+        "宾语或表语": "one starting point",
+        "主干翻译": "它代表着一个起点。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(让步)",
+          "原文": "While the statement is vague",
+          "修饰对象": "represents",
+          "中文翻译": "尽管这一声明含糊不清",
+          "说明": "While 此处取让步含义“尽管”，引导让步状语从句。"
+        }
+      ],
+      "zh": "尽管这份声明含糊不清，但它代表着一个起点。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2019-text3-s22",
+      "s": "So does the idea that decisions made by AI systems should be explainable, transparent, and fair.",
+      "para_no": 8,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "the idea",
+        "谓语": "does (represent one starting point)",
+        "宾语或表语": "(承前省略)",
+        "主干翻译": "这种想法也代表着一个起点。"
+      },
+      "components": [
+        {
+          "成分类型": "倒装",
+          "原文": "So does the idea",
+          "修饰对象": "—",
+          "中文翻译": "这种想法也是如此",
+          "说明": "So + 助动词 + 主语 的部分倒装结构，表示“……也是如此”，does 替代前句 represents one starting point。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "that decisions made by AI systems should be explainable, transparent, and fair",
+          "修饰对象": "idea",
+          "中文翻译": "即由人工智能系统做出的决策应当可解释、透明且公正",
+          "说明": "that 引导同位语从句，说明 idea 的内容。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "made by AI systems",
+          "修饰对象": "decisions",
+          "中文翻译": "由人工智能系统做出的",
+          "说明": "过去分词短语作后置定语，修饰 decisions。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "explainable, transparent, and fair",
+          "修饰对象": "explainable",
+          "中文翻译": "可解释的、透明的且公正的",
+          "说明": "三个形容词由 and 连接构成并列表语。"
+        }
+      ],
+      "zh": "“由人工智能系统做出的决策应当可解释、透明且公正”这一理念也同样代表着一个起点。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2019-text3-s23",
+      "s": "To put it another way: How can we make sure that the thinking of intelligent machines reflects humanity's highest values?",
+      "para_no": 9,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "we",
+        "谓语": "can make sure",
+        "宾语或表语": "(宾语从句)",
+        "主干翻译": "我们如何能确保……？"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "To put it another way",
+          "修饰对象": "—",
+          "中文翻译": "换句话说",
+          "说明": "不定式短语作独立状语（插入性表达），起换言衔接作用。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that the thinking of intelligent machines reflects humanity's highest values",
+          "修饰对象": "make",
+          "中文翻译": "智能机器的思维反映出人类的最高价值观",
+          "说明": "make sure (of) that... 结构中的从句，作 make sure 的宾语。"
+        }
+      ],
+      "zh": "换句话说：我们如何才能确保智能机器的思维反映出人类的最高价值观？",
+      "underline": null
+    },
+    {
+      "sid": "en1-2019-text3-s24",
+      "s": "Only then will they be useful servants and not Frankenstein's out-of-control monster.",
+      "para_no": 9,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "they",
+        "谓语": "will be",
+        "宾语或表语": "useful servants and not Frankenstein's out-of-control monster",
+        "主干翻译": "它们才会成为有用的仆人，而非弗兰肯斯坦那失控的怪物。"
+      },
+      "components": [
+        {
+          "成分类型": "倒装",
+          "原文": "Only then will they be",
+          "修饰对象": "—",
+          "中文翻译": "只有到那时它们才会",
+          "说明": "Only + 状语 置于句首引起的部分倒装（助动词 will 提到主语 they 前）。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "useful servants and not Frankenstein's out-of-control monster",
+          "修饰对象": "servants",
+          "中文翻译": "有用的仆人，而不是弗兰肯斯坦那失控的怪物",
+          "说明": "and not 连接两个表语，形成对比并列。"
+        }
+      ],
+      "zh": "只有到那时，它们才会成为有用的仆人，而不会变成弗兰肯斯坦那失控的怪物。",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2019-text3-s1",
+        "en1-2019-text3-s2"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2019-text3-s3",
+        "en1-2019-text3-s4"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2019-text3-s5",
+        "en1-2019-text3-s6"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2019-text3-s7",
+        "en1-2019-text3-s8"
+      ]
+    },
+    {
+      "para_no": 5,
+      "sids": [
+        "en1-2019-text3-s9",
+        "en1-2019-text3-s10",
+        "en1-2019-text3-s11",
+        "en1-2019-text3-s12",
+        "en1-2019-text3-s13",
+        "en1-2019-text3-s14"
+      ]
+    },
+    {
+      "para_no": 6,
+      "sids": [
+        "en1-2019-text3-s15",
+        "en1-2019-text3-s16",
+        "en1-2019-text3-s17",
+        "en1-2019-text3-s18"
+      ]
+    },
+    {
+      "para_no": 7,
+      "sids": [
+        "en1-2019-text3-s19",
+        "en1-2019-text3-s20"
+      ]
+    },
+    {
+      "para_no": 8,
+      "sids": [
+        "en1-2019-text3-s21",
+        "en1-2019-text3-s22"
+      ]
+    },
+    {
+      "para_no": 9,
+      "sids": [
+        "en1-2019-text3-s23",
+        "en1-2019-text3-s24"
+      ]
+    }
+  ]
+}

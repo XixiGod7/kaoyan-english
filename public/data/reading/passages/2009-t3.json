@@ -1,0 +1,768 @@
+{
+  "exam": "en1",
+  "key": "2009-t3",
+  "year": 2009,
+  "text_no": 3,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2009-text3-s1",
+      "s": "The relationship between formal education and economic growth in poor countries is widely misunderstood by economists and politicians alike.",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The relationship",
+        "谓语": "is widely misunderstood",
+        "宾语或表语": "—",
+        "主干翻译": "这种关系被广泛误解。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "between formal education and economic growth in poor countries",
+          "修饰对象": "relationship",
+          "中文翻译": "正规教育与贫困国家经济增长之间的",
+          "说明": "between A and B 结构修饰 relationship；A 为 formal education，B 为 economic growth in poor countries（内含介词短语 in poor countries 修饰 economic growth）。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "formal education and economic growth in poor countries",
+          "修饰对象": "education",
+          "中文翻译": "正规教育与贫困国家的经济增长",
+          "说明": "and 连接 formal education 与 economic growth in poor countries 两个并列名词成分，共同作 between 的宾语。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "by economists and politicians alike",
+          "修饰对象": "misunderstood",
+          "中文翻译": "被经济学家和政治家一样地（误解）",
+          "说明": "by 短语引出被动句的施事者；alike 强调两类人皆然。"
+        }
+      ],
+      "zh": "正规教育与贫困国家经济增长之间的关系，被经济学家和政治家们一样地广泛误解。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2009-text3-s2",
+      "s": "Progress in both areas is undoubtedly necessary for the social, political, and intellectual development of these and all other societies; however, the conventional view that education should be one of the very highest priorities for promoting rapid economic development in poor countries is wrong.",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "the conventional view",
+        "谓语": "is",
+        "宾语或表语": "wrong",
+        "主干翻译": "这种传统观点是错误的。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "Progress in both areas is undoubtedly necessary for the social, political, and intellectual development of these and all other societies",
+          "修饰对象": "—",
+          "中文翻译": "这两个领域的进步对于这些以及所有其他社会的社会、政治和智识发展无疑是必要的",
+          "说明": "分号前的独立分句，与分号后由 however 引导的转折分句构成并列（让步—转折）关系；其内部 in both areas 作定语，for...development 作状语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "the social, political, and intellectual development",
+          "修饰对象": "development",
+          "中文翻译": "社会、政治和智识方面的发展",
+          "说明": "三个并列形容词 social、political、intellectual 共同修饰 development。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "that education should be one of the very highest priorities for promoting rapid economic development in poor countries",
+          "修饰对象": "view",
+          "中文翻译": "即教育应当是促进贫困国家经济快速发展的最优先事项之一",
+          "说明": "that 引导同位语从句，解释 view 的具体内容；从句内 for promoting... 作状语，in poor countries 作定语。"
+        }
+      ],
+      "zh": "在这两个领域取得进步，对于这些社会乃至所有其他社会的社会、政治和智识发展无疑是必要的；然而，那种认为教育应当是促进贫困国家经济快速发展的最优先事项之一的传统观点，却是错误的。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2009-text3-s3",
+      "s": "We are fortunate that it is, because building new educational systems there and putting enough people through them to improve economic performance would require two or three generations.",
+      "para_no": 1,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "We",
+        "谓语": "are",
+        "宾语或表语": "fortunate",
+        "主干翻译": "我们是幸运的。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "that it is",
+          "修饰对象": "fortunate",
+          "中文翻译": "（幸运的是）情况确实如此",
+          "说明": "形容词 fortunate 后的 that 从句，作其原因/内容补足（语义上为对 fortunate 的解释）；it is 后承前省略 wrong，指上句观点确实是错的。"
+        },
+        {
+          "成分类型": "状语从句(原因)",
+          "原文": "because building new educational systems there and putting enough people through them to improve economic performance would require two or three generations",
+          "修饰对象": "are",
+          "中文翻译": "因为在那里建立新的教育体系并让足够多的人接受教育以改善经济表现，需要两三代人的时间",
+          "说明": "because 引导原因状语从句；其主语为下面的并列动名词结构，谓语为 would require。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "building new educational systems there and putting enough people through them to improve economic performance",
+          "修饰对象": "require",
+          "中文翻译": "在那里建立新的教育体系并让足够多的人接受教育以改善经济表现",
+          "说明": "and 连接两个动名词短语 building... 与 putting...，共同作 because 从句的主语。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to improve economic performance",
+          "修饰对象": "putting",
+          "中文翻译": "以改善经济表现",
+          "说明": "不定式作目的状语，说明 putting enough people through them 的目的。"
+        }
+      ],
+      "zh": "我们很幸运情况确实如此，因为在那里建立新的教育体系，并让足够多的人接受教育以改善经济表现，需要两三代人的时间。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2009-text3-s4",
+      "s": "The findings of a research institution have consistently shown that workers in all countries can be trained on the job to achieve radically higher productivity and, as a result, radically higher standards of living.",
+      "para_no": 1,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "The findings",
+        "谓语": "have consistently shown",
+        "宾语或表语": "that ... (宾语从句)",
+        "主干翻译": "这些研究发现一贯表明……。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "of a research institution",
+          "修饰对象": "findings",
+          "中文翻译": "某研究机构的",
+          "说明": "of 短语修饰 findings，说明研究发现的来源。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that workers in all countries can be trained on the job to achieve radically higher productivity and, as a result, radically higher standards of living",
+          "修饰对象": "shown",
+          "中文翻译": "所有国家的工人都可以通过在岗培训而实现大幅提高的生产率，并因此实现大幅提高的生活水平",
+          "说明": "that 引导 shown 的宾语从句；从句主语 workers，谓语 can be trained，含状语 on the job。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to achieve radically higher productivity and, as a result, radically higher standards of living",
+          "修饰对象": "trained",
+          "中文翻译": "以实现大幅提高的生产率，并因此实现大幅提高的生活水平",
+          "说明": "不定式作目的/结果状语，说明 be trained 所达到的目标；as a result 为插入语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "radically higher productivity and, as a result, radically higher standards of living",
+          "修饰对象": "achieve",
+          "中文翻译": "大幅提高的生产率以及由此带来的大幅提高的生活水平",
+          "说明": "and 连接 achieve 的两个并列宾语；as a result 为插入成分，表示后者是前者的结果。"
+        }
+      ],
+      "zh": "某研究机构的研究发现一贯表明：所有国家的工人都能通过在岗培训实现大幅提高的生产率，并因此达到大幅提高的生活水平。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2009-text3-s5",
+      "s": "Ironically, the first evidence for this idea appeared in the United States.",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "the first evidence",
+        "谓语": "appeared",
+        "宾语或表语": "—",
+        "主干翻译": "第一个证据出现了。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "Ironically",
+          "修饰对象": "—",
+          "中文翻译": "具有讽刺意味的是",
+          "说明": "句首副词作评注性状语/插入语，表达作者态度。"
+        },
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "for this idea",
+          "修饰对象": "evidence",
+          "中文翻译": "支持这一观点的",
+          "说明": "for 短语修饰 evidence，说明证据的对象。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "in the United States",
+          "修饰对象": "appeared",
+          "中文翻译": "在美国",
+          "说明": "in 短语作地点状语，说明 appeared 的地点。"
+        }
+      ],
+      "zh": "具有讽刺意味的是，支持这一观点的第一个证据出现在美国。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2009-text3-s6",
+      "s": "Not long ago, with the country entering a recession and Japan at its pre-bubble peak, the U.S. workforce was derided as poorly educated and one of the primary causes of the poor U.S. economic performance.",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "the U.S. workforce",
+        "谓语": "was derided",
+        "宾语或表语": "as poorly educated and one of the primary causes ...",
+        "主干翻译": "美国劳动力被嘲笑（为教育低下、原因之一）。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "Not long ago",
+          "修饰对象": "was derided",
+          "中文翻译": "不久前",
+          "说明": "时间状语，说明事件发生的时间。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "with the country entering a recession and Japan at its pre-bubble peak",
+          "修饰对象": "was derided",
+          "中文翻译": "在美国正进入衰退、而日本正处于泡沫前的巅峰之际",
+          "说明": "with 引导的独立主格结构作伴随/时间背景状语；内部为两个并列的独立主格。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "the country entering a recession and Japan at its pre-bubble peak",
+          "修饰对象": "entering",
+          "中文翻译": "美国正进入衰退而日本正处于泡沫前的巅峰",
+          "说明": "and 连接 with 后的两个并列独立主格成分。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "poorly educated and one of the primary causes of the poor U.S. economic performance",
+          "修饰对象": "derided",
+          "中文翻译": "教育低下，并被视为美国经济表现糟糕的主要原因之一",
+          "说明": "as 后由 and 连接的两个并列宾补成分，共同作 derided 的补足语。"
+        }
+      ],
+      "zh": "不久前，在美国正进入衰退、而日本正处于泡沫前巅峰之际，美国劳动力被嘲笑为教育低下，并被视为美国经济表现糟糕的主要原因之一。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2009-text3-s7",
+      "s": "Japan was, and remains, the global leader in automotive-assembly productivity.",
+      "para_no": 2,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Japan",
+        "谓语": "was, and remains",
+        "宾语或表语": "the global leader",
+        "主干翻译": "日本曾是、并且仍然是全球领先者。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "was, and remains, the global leader in automotive-assembly productivity",
+          "修饰对象": "Japan",
+          "中文翻译": "曾是、并且仍然是汽车装配生产率方面的全球领先者",
+          "说明": "and 连接两个并列系动词 was 与 remains，共享表语 the global leader。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "remains, the global leader in automotive-assembly productivity",
+          "修饰对象": "remains",
+          "中文翻译": "仍然是汽车装配生产率方面的全球领先者",
+          "说明": "k 节点重复标注的并列项，与 was 并列；the global leader 为表语，in automotive-assembly productivity 作其定语。"
+        }
+      ],
+      "zh": "日本曾是、并且至今仍是汽车装配生产率方面的全球领先者。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2009-text3-s8",
+      "s": "Yet the research revealed that the U.S. factories of Honda, Nissan, and Toyota achieved about 95 percent of the productivity of their Japanese counterparts—a result of the training that U.S. workers received on the job.",
+      "para_no": 2,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "the research",
+        "谓语": "revealed",
+        "宾语或表语": "that ... (宾语从句)",
+        "主干翻译": "研究揭示了……。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "that the U.S. factories of Honda, Nissan, and Toyota achieved about 95 percent of the productivity of their Japanese counterparts—a result of the training that U.S. workers received on the job",
+          "修饰对象": "revealed",
+          "中文翻译": "本田、日产和丰田在美国的工厂达到了其日本同行约百分之九十五的生产率",
+          "说明": "that 引导 revealed 的宾语从句；主语为 U.S. factories of...，谓语 achieved。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "Honda, Nissan, and Toyota",
+          "修饰对象": "factories",
+          "中文翻译": "本田、日产和丰田",
+          "说明": "三个并列专有名词作 of 的宾语，共同限定 factories。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "a result of the training that U.S. workers received on the job",
+          "修饰对象": "—",
+          "中文翻译": "这是美国工人在岗培训的结果",
+          "说明": "破折号后名词短语，作前面整个分句（95% 生产率这一事实）的同位语/解释；属名词性同位结构，非从句但归此枚举项。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that U.S. workers received on the job",
+          "修饰对象": "training",
+          "中文翻译": "美国工人在岗位上所接受的（培训）",
+          "说明": "that 引导限制性定语从句修饰 training，that 作 received 的宾语；on the job 作状语。"
+        }
+      ],
+      "zh": "然而，该研究揭示，本田、日产和丰田在美国的工厂达到了其日本同行约百分之九十五的生产率——这是美国工人接受在岗培训的结果。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2009-text3-s9",
+      "s": "More recently, while examining housing construction, the researchers discovered that illiterate, non-English-speaking Mexican workers in Houston, Texas, consistently met best-practice labor productivity standards despite the complexity of the building industry's work.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "the researchers",
+        "谓语": "discovered",
+        "宾语或表语": "that ... (宾语从句)",
+        "主干翻译": "研究人员发现……。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "while examining housing construction",
+          "修饰对象": "discovered",
+          "中文翻译": "在考察住房建筑时",
+          "说明": "while 引导时间状语从句的省略形式（while + 现在分词），逻辑主语与主句一致，表示同时进行。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "Texas",
+          "修饰对象": "Houston",
+          "中文翻译": "得克萨斯州（的休斯顿）",
+          "说明": "Texas 为 Houston 的同位语/地名补充，以逗号插入。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that illiterate, non-English-speaking Mexican workers in Houston, Texas, consistently met best-practice labor productivity standards despite the complexity of the building industry's work",
+          "修饰对象": "discovered",
+          "中文翻译": "在得克萨斯州休斯顿的那些文盲、不讲英语的墨西哥工人，尽管建筑业工作十分复杂，却一贯达到了最佳实践的劳动生产率标准",
+          "说明": "that 引导 discovered 的宾语从句；主语 workers，谓语 met，despite 短语作让步状语。"
+        }
+      ],
+      "zh": "最近，在考察住房建筑时，研究人员发现：得克萨斯州休斯顿那些不识字、不讲英语的墨西哥工人，尽管建筑业的工作十分复杂，却一贯达到了最佳实践的劳动生产率标准。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2009-text3-s10",
+      "s": "What is the real relationship between education and economic development?",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "the real relationship",
+        "谓语": "is",
+        "宾语或表语": "What",
+        "主干翻译": "真正的关系是什么？"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "between education and economic development",
+          "修饰对象": "relationship",
+          "中文翻译": "教育与经济发展之间的",
+          "说明": "between A and B 结构修饰 relationship。"
+        }
+      ],
+      "zh": "教育与经济发展之间真正的关系究竟是什么？",
+      "underline": null
+    },
+    {
+      "sid": "en1-2009-text3-s11",
+      "s": "We have to suspect that continuing economic growth promotes the development of education even when governments don't force it.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "We",
+        "谓语": "have to suspect",
+        "宾语或表语": "that ... (宾语从句)",
+        "主干翻译": "我们不得不怀疑……。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "that continuing economic growth promotes the development of education even when governments don't force it",
+          "修饰对象": "suspect",
+          "中文翻译": "即便政府不强制推动，持续的经济增长也会促进教育的发展",
+          "说明": "that 引导 suspect 的宾语从句（to suspect 的逻辑宾语）；主语 economic growth，谓语 promotes。"
+        },
+        {
+          "成分类型": "状语从句(让步)",
+          "原文": "even when governments don't force it",
+          "修饰对象": "promotes",
+          "中文翻译": "即使政府不加以强制推动",
+          "说明": "even when 引导让步性时间状语从句，修饰宾语从句中的谓语 promotes；此处 even 强化让步意味。"
+        }
+      ],
+      "zh": "我们不得不怀疑，即便政府不加强制，持续的经济增长也会推动教育的发展。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2009-text3-s12",
+      "s": "After all, that's how education got started.",
+      "para_no": 4,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "that",
+        "谓语": "'s",
+        "宾语或表语": "how ... (表语从句)",
+        "主干翻译": "那就是……的方式。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "After all",
+          "修饰对象": "—",
+          "中文翻译": "毕竟",
+          "说明": "句首插入语，引出对前文的解释或佐证。"
+        },
+        {
+          "成分类型": "表语从句",
+          "原文": "how education got started",
+          "修饰对象": "'s",
+          "中文翻译": "教育就是这样开始的",
+          "说明": "how 引导表语从句，作 is 的表语，说明 that 所指代的方式。"
+        }
+      ],
+      "zh": "毕竟，教育最初就是这样产生的。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2009-text3-s13",
+      "s": "When our ancestors were hunters and gatherers 10, 000 years ago, they didn't have time to wonder much about anything besides finding food.",
+      "para_no": 4,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "they",
+        "谓语": "didn't have",
+        "宾语或表语": "time",
+        "主干翻译": "他们没有时间。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "When our ancestors were hunters and gatherers 10, 000 years ago",
+          "修饰对象": "have",
+          "中文翻译": "当我们的祖先在一万年前还是狩猎采集者时",
+          "说明": "when 引导时间状语从句；其中 hunters and gatherers 为并列表语，10,000 years ago 作时间状语。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to wonder much about anything besides finding food",
+          "修饰对象": "time",
+          "中文翻译": "去过多思考除觅食之外的任何事情的（时间）",
+          "说明": "不定式作定语修饰 time；besides finding food 作状语，限定 wonder 的范围。"
+        }
+      ],
+      "zh": "当我们的祖先在一万年前还是狩猎采集者时，除了觅食之外，他们没有多少时间去思考其他任何事情。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2009-text3-s14",
+      "s": "Only when humanity began to get its food in a more productive way was there time for other things.",
+      "para_no": 4,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "there",
+        "谓语": "was",
+        "宾语或表语": "time",
+        "主干翻译": "（那时）才有了时间。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "Only when humanity began to get its food in a more productive way",
+          "修饰对象": "was",
+          "中文翻译": "只有当人类开始以更高效的方式获取食物时",
+          "说明": "only when 引导时间状语从句，置于句首引发主句部分倒装（was there time）。"
+        },
+        {
+          "成分类型": "倒装",
+          "原文": "was there time for other things",
+          "修饰对象": "—",
+          "中文翻译": "才有了时间去做其他事情",
+          "说明": "Only + 状语从句置于句首，主句发生部分倒装，谓语 was 提到形式主语 there 之前。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to get its food in a more productive way",
+          "修饰对象": "began",
+          "中文翻译": "以更高效的方式获取食物",
+          "说明": "不定式作 began 的宾语补足（began to do）；in a more productive way 作方式状语。"
+        }
+      ],
+      "zh": "只有当人类开始以更高效的方式获取食物时，才有了从事其他事情的时间。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2009-text3-s15",
+      "s": "As education improved, humanity's productivity potential increased as well.",
+      "para_no": 5,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "humanity's productivity potential",
+        "谓语": "increased",
+        "宾语或表语": "—",
+        "主干翻译": "人类的生产潜力也随之提高。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "As education improved",
+          "修饰对象": "increased",
+          "中文翻译": "随着教育的改善",
+          "说明": "as 引导时间状语从句，表示随着……（伴随同步推进）。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "as well",
+          "修饰对象": "increased",
+          "中文翻译": "也（随之）",
+          "说明": "as well 作附加状语，表示同样、也。"
+        }
+      ],
+      "zh": "随着教育的改善，人类的生产潜力也随之提高。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2009-text3-s16",
+      "s": "When the competitive environment pushed our ancestors to achieve that potential, they could in turn afford more education.",
+      "para_no": 5,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "they",
+        "谓语": "could afford",
+        "宾语或表语": "more education",
+        "主干翻译": "他们就能负担得起更多的教育。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "When the competitive environment pushed our ancestors to achieve that potential",
+          "修饰对象": "afford",
+          "中文翻译": "当竞争环境促使我们的祖先去实现那种潜力时",
+          "说明": "when 引导时间状语从句；主语 environment，谓语 pushed，含宾补 to achieve that potential。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to achieve that potential",
+          "修饰对象": "pushed",
+          "中文翻译": "去实现那种潜力",
+          "说明": "不定式作 pushed 的宾语补足语（push sb to do），说明祖先被推动去做的事。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "in turn",
+          "修饰对象": "afford",
+          "中文翻译": "反过来",
+          "说明": "in turn 作状语，表示反过来、继而。"
+        }
+      ],
+      "zh": "当竞争环境促使我们的祖先去实现那种潜力时，他们反过来又能负担得起更多的教育。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2009-text3-s17",
+      "s": "This increasingly high level of education is probably a necessary, but not a sufficient, condition for the complex political systems required by advanced economic performance.",
+      "para_no": 5,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "This increasingly high level of education",
+        "谓语": "is",
+        "宾语或表语": "a necessary, but not a sufficient, condition",
+        "主干翻译": "这种日益提高的教育水平是一个必要但非充分的条件。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "a necessary, but not a sufficient, condition",
+          "修饰对象": "condition",
+          "中文翻译": "一个必要但非充分的条件",
+          "说明": "but 连接两个并列形容词性修饰语 necessary 与 not a sufficient，共同限定 condition，构成转折并列。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "required by advanced economic performance",
+          "修饰对象": "systems",
+          "中文翻译": "先进经济表现所要求的（政治制度）",
+          "说明": "过去分词短语作定语修饰 the complex political systems，相当于定语从句 which are required by...。"
+        }
+      ],
+      "zh": "对于先进经济表现所要求的复杂政治制度而言，这种日益提高的教育水平也许是一个必要条件，但并非充分条件。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2009-text3-s18",
+      "s": "Thus poor countries might not be able to escape their poverty traps without political changes that may be possible only with broader formal education.",
+      "para_no": 5,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "poor countries",
+        "谓语": "might not be able to escape",
+        "宾语或表语": "their poverty traps",
+        "主干翻译": "贫困国家可能无法摆脱其贫困陷阱。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to escape their poverty traps without political changes that may be possible only with broader formal education",
+          "修饰对象": "able",
+          "中文翻译": "（无法）摆脱其贫困陷阱，除非进行只有依靠更广泛的正规教育才可能实现的政治变革",
+          "说明": "不定式作 be able 的补足语（be able to do）；without 短语作条件状语。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that may be possible only with broader formal education",
+          "修饰对象": "changes",
+          "中文翻译": "只有依靠更广泛的正规教育才可能实现的（政治变革）",
+          "说明": "that 引导限制性定语从句修饰 political changes，that 作从句主语；only with... 作条件状语。"
+        }
+      ],
+      "zh": "因此，如果不进行政治变革，贫困国家也许就无法摆脱其贫困陷阱，而这种政治变革只有依靠更广泛的正规教育才可能实现。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2009-text3-s19",
+      "s": "A lack of formal education, however, doesn't constrain the ability of the developing world's workforce to substantially improve productivity for the foreseeable future.",
+      "para_no": 5,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "A lack of formal education",
+        "谓语": "doesn't constrain",
+        "宾语或表语": "the ability",
+        "主干翻译": "缺乏正规教育并不会制约这种能力。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "however",
+          "修饰对象": "—",
+          "中文翻译": "然而",
+          "说明": "however 作转折性插入语，置于主谓之间。"
+        },
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "of the developing world's workforce",
+          "修饰对象": "ability",
+          "中文翻译": "发展中国家劳动力的（能力）",
+          "说明": "of 短语修饰 ability，说明能力的所属。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to substantially improve productivity for the foreseeable future",
+          "修饰对象": "ability",
+          "中文翻译": "在可预见的未来大幅提高生产率的（能力）",
+          "说明": "不定式作定语修饰 ability（the ability to do）；for the foreseeable future 作时间状语。"
+        }
+      ],
+      "zh": "然而，缺乏正规教育，并不会制约发展中国家劳动力在可预见的未来大幅提高生产率的能力。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2009-text3-s20",
+      "s": "On the contrary, constraints on improving productivity explain why education isn't developing more quickly there than it is.",
+      "para_no": 5,
+      "para_seq": 5,
+      "trunk": {
+        "主语": "constraints",
+        "谓语": "explain",
+        "宾语或表语": "why ... (宾语从句)",
+        "主干翻译": "这些制约因素解释了为什么……。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "On the contrary",
+          "修饰对象": "—",
+          "中文翻译": "相反",
+          "说明": "句首插入语，表示与前文相反的转折。"
+        },
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "on improving productivity",
+          "修饰对象": "constraints",
+          "中文翻译": "对提高生产率的（制约）",
+          "说明": "on 短语修饰 constraints，说明制约所针对的对象。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "why education isn't developing more quickly there than it is",
+          "修饰对象": "explain",
+          "中文翻译": "为什么那里的教育没有比目前发展得更快",
+          "说明": "why 引导 explain 的宾语从句；从句内含 than 比较状语从句。"
+        },
+        {
+          "成分类型": "状语从句(比较)",
+          "原文": "than it is",
+          "修饰对象": "developing",
+          "中文翻译": "比它现在（发展得更快）",
+          "说明": "than 引导比较状语从句，与 more quickly 呼应；it is 后省略 developing。"
+        }
+      ],
+      "zh": "相反，正是对提高生产率的种种制约，解释了为什么那里的教育没有比现在发展得更快。",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2009-text3-s1",
+        "en1-2009-text3-s2",
+        "en1-2009-text3-s3",
+        "en1-2009-text3-s4"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2009-text3-s5",
+        "en1-2009-text3-s6",
+        "en1-2009-text3-s7",
+        "en1-2009-text3-s8"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2009-text3-s9"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2009-text3-s10",
+        "en1-2009-text3-s11",
+        "en1-2009-text3-s12",
+        "en1-2009-text3-s13",
+        "en1-2009-text3-s14"
+      ]
+    },
+    {
+      "para_no": 5,
+      "sids": [
+        "en1-2009-text3-s15",
+        "en1-2009-text3-s16",
+        "en1-2009-text3-s17",
+        "en1-2009-text3-s18",
+        "en1-2009-text3-s19",
+        "en1-2009-text3-s20"
+      ]
+    }
+  ]
+}

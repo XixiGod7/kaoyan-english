@@ -1,0 +1,928 @@
+{
+  "exam": "en1",
+  "key": "2013-t2",
+  "year": 2013,
+  "text_no": 2,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2013-text2-s1",
+      "s": "An old saying has it that half of all advertising budgets are wasted—the trouble is, no one knows which half.",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "An old saying",
+        "谓语": "has",
+        "宾语或表语": "it",
+        "主干翻译": "一句老话讲到。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "that half of all advertising budgets are wasted",
+          "修饰对象": "has",
+          "中文翻译": "所有广告预算中有一半被浪费了",
+          "说明": "it 为形式宾语，that 引导真正的宾语从句，承载 has it 的内容。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "the trouble is",
+          "修饰对象": "—",
+          "中文翻译": "问题在于",
+          "说明": "破折号后引出的评论性插入成分，is 后接其表语从句。"
+        },
+        {
+          "成分类型": "表语从句",
+          "原文": "no one knows which half",
+          "修饰对象": "is",
+          "中文翻译": "没有人知道是哪一半",
+          "说明": "作 the trouble is 的表语。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "which half",
+          "修饰对象": "knows",
+          "中文翻译": "哪一半（被浪费了）",
+          "说明": "which 引导的宾语从句作 knows 的宾语，省略了 is wasted。"
+        }
+      ],
+      "zh": "一句老话说，所有广告预算中有一半都被浪费了——问题是，没人知道是哪一半。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2013-text2-s2",
+      "s": "In the internet age, at least in theory, this fraction can be much reduced.",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "this fraction",
+        "谓语": "can be much reduced",
+        "宾语或表语": "—",
+        "主干翻译": "这一比例可以大幅降低。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "In the internet age",
+          "修饰对象": "can be much reduced",
+          "中文翻译": "在互联网时代",
+          "说明": "时间状语，限定整句的语境。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "at least in theory",
+          "修饰对象": "—",
+          "中文翻译": "至少在理论上",
+          "说明": "插入性限定语，对主句作出保留性补充。"
+        }
+      ],
+      "zh": "在互联网时代，至少从理论上讲，这一比例可以大幅降低。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2013-text2-s3",
+      "s": "By watching what people search for, click on and say online, companies can aim \"behavioural\" ads at those most likely to buy.",
+      "para_no": 1,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "companies",
+        "谓语": "can aim",
+        "宾语或表语": "\"behavioural\" ads",
+        "主干翻译": "公司可以投放\"行为\"广告。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "By watching what people search for, click on and say online",
+          "修饰对象": "can aim",
+          "中文翻译": "通过观察人们在网上搜索、点击和谈论的内容",
+          "说明": "By + 动名词构成方式状语；watching 后接宾语从句。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "what people search for, click on and say online",
+          "修饰对象": "watching",
+          "中文翻译": "人们在网上搜索、点击和谈论的内容",
+          "说明": "what 引导的从句作 watching 的宾语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "search for, click on and say online",
+          "修饰对象": "search",
+          "中文翻译": "搜索、点击和谈论",
+          "说明": "从句内三个并列谓语动词，共用 what 作宾语。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "most likely to buy",
+          "修饰对象": "those",
+          "中文翻译": "最有可能购买的（那些人）",
+          "说明": "形容词短语作后置定语修饰 those，to buy 为不定式补足语。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "at those most likely to buy",
+          "修饰对象": "aim",
+          "中文翻译": "瞄准那些最有可能购买的人",
+          "说明": "aim ... at 的介词短语作状语，表对象。"
+        }
+      ],
+      "zh": "通过观察人们在网上搜索、点击和谈论的内容，公司就能把\"行为\"广告精准投向那些最有可能购买的人。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2013-text2-s4",
+      "s": "In the past couple of weeks a quarrel has illustrated the value to advertisers of such fine-grained information: Should advertisers assume that people are happy to be tracked and sent behavioural ads?",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "a quarrel",
+        "谓语": "has illustrated",
+        "宾语或表语": "the value",
+        "主干翻译": "一场争论说明了其价值。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "In the past couple of weeks",
+          "修饰对象": "has illustrated",
+          "中文翻译": "在过去几周里",
+          "说明": "时间状语。"
+        },
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "to advertisers of such fine-grained information",
+          "修饰对象": "value",
+          "中文翻译": "如此细致入微的信息对广告商而言（的价值）",
+          "说明": "两个介词短语共同修饰 the value，说明价值的对象与内容。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that people are happy to be tracked and sent behavioural ads",
+          "修饰对象": "assume",
+          "中文翻译": "人们乐于被追踪并被推送行为广告",
+          "说明": "that 引导冒号后设问句中 assume 的宾语从句。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to be tracked and sent behavioural ads",
+          "修饰对象": "happy",
+          "中文翻译": "被追踪并被推送行为广告",
+          "说明": "不定式作 happy 的补足语，说明高兴的内容。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "tracked and sent behavioural ads",
+          "修饰对象": "tracked",
+          "中文翻译": "被追踪并被推送行为广告",
+          "说明": "两个被动过去分词并列，共用 be。"
+        }
+      ],
+      "zh": "在过去几周里，一场争论凸显了这类精细信息对广告商的价值：广告商是否应当假定人们乐于被追踪并被推送行为广告呢？",
+      "underline": null
+    },
+    {
+      "sid": "en1-2013-text2-s5",
+      "s": "Or should they have explicit permission?",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "they",
+        "谓语": "should have",
+        "宾语或表语": "explicit permission",
+        "主干翻译": "他们应当获得明确许可。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "Or should they have explicit permission",
+          "修饰对象": "—",
+          "中文翻译": "还是说他们应当获得明确许可",
+          "说明": "Or 引出与上句设问并列的另一选项，构成选择疑问。"
+        }
+      ],
+      "zh": "还是说，他们应当先取得明确的许可？",
+      "underline": null
+    },
+    {
+      "sid": "en1-2013-text2-s6",
+      "s": "In December 2010 America's Federal Trade Commission (FTC) proposed adding a \"do not track\" (DNT) option to internet browsers, so that users could tell advertisers that they did not want to be followed.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "America's Federal Trade Commission",
+        "谓语": "proposed",
+        "宾语或表语": "adding a \"do not track\" (DNT) option",
+        "主干翻译": "美国联邦贸易委员会提议增加一个\"禁止追踪\"选项。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "In December 2010",
+          "修饰对象": "proposed",
+          "中文翻译": "在2010年12月",
+          "说明": "时间状语。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "(FTC)",
+          "修饰对象": "Commission",
+          "中文翻译": "（即FTC）",
+          "说明": "括号内为机构名称缩写，对前面名称作同位补充。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "(DNT)",
+          "修饰对象": "track",
+          "中文翻译": "（即DNT）",
+          "说明": "括号内缩写，对\"do not track\"作同位补充。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "adding a \"do not track\" (DNT) option to internet browsers",
+          "修饰对象": "proposed",
+          "中文翻译": "在互联网浏览器中增加一个\"禁止追踪\"选项",
+          "说明": "动名词短语作 proposed 的宾语，说明提议的内容。"
+        },
+        {
+          "成分类型": "状语从句(目的)",
+          "原文": "so that users could tell advertisers that they did not want to be followed",
+          "修饰对象": "adding",
+          "中文翻译": "以便用户能告诉广告商他们不想被追踪",
+          "说明": "so that 引导目的状语从句。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that they did not want to be followed",
+          "修饰对象": "tell",
+          "中文翻译": "他们不想被追踪",
+          "说明": "that 引导从句作 tell 的直接宾语。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to be followed",
+          "修饰对象": "want",
+          "中文翻译": "被追踪",
+          "说明": "不定式作 want 的宾语补足内容。"
+        }
+      ],
+      "zh": "2010年12月，美国联邦贸易委员会（FTC）提议在互联网浏览器中增加一个\"禁止追踪\"（DNT）选项，以便用户能告知广告商自己不愿被追踪。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2013-text2-s7",
+      "s": "Microsoft's Internet Explorer and Apple's Safari both offer DNT; Google's Chrome is due to do so this year.",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Microsoft's Internet Explorer and Apple's Safari",
+        "谓语": "offer",
+        "宾语或表语": "DNT",
+        "主干翻译": "微软的IE和苹果的Safari都提供DNT。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "Microsoft's Internet Explorer and Apple's Safari",
+          "修饰对象": "Explorer",
+          "中文翻译": "微软的IE浏览器和苹果的Safari浏览器",
+          "说明": "两个并列主语，由 and 连接，谓语 both offer。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "Google's Chrome is due to do so this year",
+          "修饰对象": "—",
+          "中文翻译": "谷歌的Chrome预计今年也会这样做",
+          "说明": "分号连接的并列分句。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to do so this year",
+          "修饰对象": "due",
+          "中文翻译": "今年这样做",
+          "说明": "不定式作 be due 的补足语，do so 替代 offer DNT。"
+        }
+      ],
+      "zh": "微软的IE浏览器和苹果的Safari浏览器都已提供DNT；谷歌的Chrome预计今年也会跟进。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2013-text2-s8",
+      "s": "In February the FTC and the Digital Advertising Alliance (DAA) agreed that the industry would get cracking on responding to DNT requests.",
+      "para_no": 3,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "the FTC and the Digital Advertising Alliance",
+        "谓语": "agreed",
+        "宾语或表语": "(that 从句)",
+        "主干翻译": "FTC和数字广告联盟达成一致。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "In February",
+          "修饰对象": "agreed",
+          "中文翻译": "在2月",
+          "说明": "时间状语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "the FTC and the Digital Advertising Alliance (DAA)",
+          "修饰对象": "FTC",
+          "中文翻译": "FTC和数字广告联盟（DAA）",
+          "说明": "两个并列主语，由 and 连接。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "(DAA)",
+          "修饰对象": "Alliance",
+          "中文翻译": "（即DAA）",
+          "说明": "括号内缩写，对 Digital Advertising Alliance 作同位补充。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that the industry would get cracking on responding to DNT requests",
+          "修饰对象": "agreed",
+          "中文翻译": "业界将着手处理DNT请求",
+          "说明": "that 引导宾语从句作 agreed 的宾语。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "cracking on responding to DNT requests",
+          "修饰对象": "get",
+          "中文翻译": "着手应对DNT请求",
+          "说明": "get cracking 习语，分词补足内容。"
+        }
+      ],
+      "zh": "2月，FTC和数字广告联盟（DAA）达成一致：业界将着手处理DNT请求。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2013-text2-s9",
+      "s": "On May 31st Microsoft set off the row.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Microsoft",
+        "谓语": "set off",
+        "宾语或表语": "the row",
+        "主干翻译": "微软引发了这场争论。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "On May 31st",
+          "修饰对象": "set off",
+          "中文翻译": "在5月31日",
+          "说明": "时间状语。"
+        }
+      ],
+      "zh": "5月31日，微软挑起了这场争端。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2013-text2-s10",
+      "s": "It said that Internet Explorer 10, the version due to appear with Windows 8, would have DNT as a default.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "It",
+        "谓语": "said",
+        "宾语或表语": "(that 从句)",
+        "主干翻译": "它表示。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "that Internet Explorer 10, the version due to appear with Windows 8, would have DNT as a default",
+          "修饰对象": "said",
+          "中文翻译": "IE 10将把DNT设为默认选项",
+          "说明": "that 引导宾语从句作 said 的宾语。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "the version due to appear with Windows 8",
+          "修饰对象": "InternetExplorer",
+          "中文翻译": "即将随Windows 8一同推出的版本",
+          "说明": "名词短语作 InternetExplorer 10 的同位语。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "due to appear with Windows 8",
+          "修饰对象": "version",
+          "中文翻译": "将随Windows 8推出的",
+          "说明": "形容词短语作后置定语修饰 the version。"
+        }
+      ],
+      "zh": "微软称，将随Windows 8一同推出的IE 10版本会把DNT设为默认选项。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2013-text2-s11",
+      "s": "Advertisers are horrified.",
+      "para_no": 5,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Advertisers",
+        "谓语": "are",
+        "宾语或表语": "horrified",
+        "主干翻译": "广告商们感到震惊。"
+      },
+      "components": [],
+      "zh": "广告商们大为惊恐。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2013-text2-s12",
+      "s": "Human nature being what it is, most people stick with default settings.",
+      "para_no": 5,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "most people",
+        "谓语": "stick with",
+        "宾语或表语": "default settings",
+        "主干翻译": "大多数人会沿用默认设置。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "Human nature being what it is",
+          "修饰对象": "stick",
+          "中文翻译": "鉴于人性本就如此",
+          "说明": "独立主格结构作原因状语，being 后接表语从句。"
+        },
+        {
+          "成分类型": "表语从句",
+          "原文": "what it is",
+          "修饰对象": "being",
+          "中文翻译": "它本来的样子",
+          "说明": "what 引导从句作 being 的表语。"
+        }
+      ],
+      "zh": "鉴于人性本就如此，大多数人都会沿用默认设置。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2013-text2-s13",
+      "s": "Few switch DNT on now, but if tracking is off it will stay off.",
+      "para_no": 5,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Few",
+        "谓语": "switch on",
+        "宾语或表语": "DNT",
+        "主干翻译": "很少有人开启DNT。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "but if tracking is off it will stay off",
+          "修饰对象": "—",
+          "中文翻译": "但如果追踪是关闭的，它就会一直保持关闭",
+          "说明": "but 连接的并列分句。"
+        },
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "if tracking is off",
+          "修饰对象": "stay",
+          "中文翻译": "如果追踪是关闭的",
+          "说明": "if 引导条件状语从句，修饰后半句 it will stay off。"
+        }
+      ],
+      "zh": "如今很少有人主动开启DNT，但如果追踪本就处于关闭状态，它就会一直保持关闭。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2013-text2-s14",
+      "s": "Bob Liodice, the chief executive of the Association of National Advertisers, says consumers will be worse off if the industry cannot collect information about their preferences.",
+      "para_no": 5,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "Bob Liodice",
+        "谓语": "says",
+        "宾语或表语": "(宾语从句)",
+        "主干翻译": "鲍勃·利奥迪斯表示。"
+      },
+      "components": [
+        {
+          "成分类型": "同位语从句",
+          "原文": "the chief executive of the Association of National Advertisers",
+          "修饰对象": "Liodice",
+          "中文翻译": "美国全国广告商协会的首席执行官",
+          "说明": "名词短语作 Bob Liodice 的同位语。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "consumers will be worse off if the industry cannot collect information about their preferences",
+          "修饰对象": "says",
+          "中文翻译": "如果广告业无法收集消费者的偏好信息，消费者的处境会更糟",
+          "说明": "省略 that，作 says 的宾语。"
+        },
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "if the industry cannot collect information about their preferences",
+          "修饰对象": "be",
+          "中文翻译": "如果广告业无法收集有关他们偏好的信息",
+          "说明": "if 引导条件状语从句，修饰 consumers will be worse off。"
+        }
+      ],
+      "zh": "美国全国广告商协会的首席执行官鲍勃·利奥迪斯说，如果广告业无法收集消费者的偏好信息，消费者的处境反而会更糟。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2013-text2-s15",
+      "s": "People will not get fewer ads, he says, \"they'll get less meaningful, less targeted ads.\"",
+      "para_no": 5,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "People",
+        "谓语": "will not get",
+        "宾语或表语": "fewer ads",
+        "主干翻译": "人们并不会得到更少的广告。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "he says",
+          "修饰对象": "People will not get fewer ads",
+          "中文翻译": "他说",
+          "说明": "he says 为插入语，表明全句为转述。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "they'll get less meaningful, less targeted ads.",
+          "修饰对象": "People will not get fewer ads",
+          "中文翻译": "他们得到的将是意义更小、针对性更弱的广告",
+          "说明": "与前句并列（直接引语），主语 they 指代 People，与 will not get fewer ads 形成对照。"
+        }
+      ],
+      "zh": "他说，人们并不会得到更少的广告，“他们得到的将是意义更小、针对性更弱的广告”。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2013-text2-s16",
+      "s": "It is not yet clear how advertisers will respond.",
+      "para_no": 6,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "It",
+        "谓语": "is",
+        "宾语或表语": "not yet clear",
+        "主干翻译": "目前尚不清楚。"
+      },
+      "components": [
+        {
+          "成分类型": "主语从句",
+          "原文": "how advertisers will respond",
+          "修饰对象": "is",
+          "中文翻译": "广告商将如何回应",
+          "说明": "It 为形式主语，how 引导真正的主语从句。"
+        }
+      ],
+      "zh": "广告商将如何回应，目前还不清楚。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2013-text2-s17",
+      "s": "Getting a DNT signal does not oblige anyone to stop tracking, although some companies have promised to do so.",
+      "para_no": 6,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Getting a DNT signal",
+        "谓语": "does not oblige",
+        "宾语或表语": "anyone",
+        "主干翻译": "收到DNT信号并不强制任何人。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to stop tracking",
+          "修饰对象": "oblige",
+          "中文翻译": "停止追踪",
+          "说明": "不定式作 oblige sb. to do 的宾语补足语。"
+        },
+        {
+          "成分类型": "状语从句(让步)",
+          "原文": "although some companies have promised to do so",
+          "修饰对象": "oblige",
+          "中文翻译": "尽管一些公司已承诺这样做",
+          "说明": "although 引导让步状语从句。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to do so",
+          "修饰对象": "promised",
+          "中文翻译": "这样做（即停止追踪）",
+          "说明": "不定式作 promised 的宾语，do so 替代 stop tracking。"
+        }
+      ],
+      "zh": "收到DNT信号并不强制任何人停止追踪，尽管有些公司已经承诺会这样做。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2013-text2-s18",
+      "s": "Unable to tell whether someone really objects to behavioural ads or whether they are sticking with Microsoft's default, some may ignore a DNT signal and press on anyway.",
+      "para_no": 6,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "some",
+        "谓语": "may ignore",
+        "宾语或表语": "a DNT signal",
+        "主干翻译": "有些公司可能会无视DNT信号。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "Unable to tell whether someone really objects to behavioural ads or whether they are sticking with Microsoft's default",
+          "修饰对象": "ignore",
+          "中文翻译": "由于无法判断某人是真的反对行为广告，还是只是沿用了微软的默认设置",
+          "说明": "形容词短语作原因状语（前置），Unable 后接不定式。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "whether someone really objects to behavioural ads or whether they are sticking with Microsoft's default",
+          "修饰对象": "tell",
+          "中文翻译": "某人是真的反对行为广告，还是只是沿用微软的默认设置",
+          "说明": "whether...or whether 引导的宾语从句作 tell 的宾语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "whether they are sticking with Microsoft's default",
+          "修饰对象": "objects",
+          "中文翻译": "还是他们只是沿用微软的默认设置",
+          "说明": "第二个 whether 从句与前一个并列，由 or 连接。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "press on anyway",
+          "修饰对象": "ignore",
+          "中文翻译": "无论如何继续推进",
+          "说明": "与 ignore 并列的谓语，由 and 连接。"
+        }
+      ],
+      "zh": "由于无法判断某人是真的反对行为广告，还是只是沿用了微软的默认设置，有些公司可能会无视DNT信号，照旧推进。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2013-text2-s19",
+      "s": "Also unclear is why Microsoft has gone it alone.",
+      "para_no": 7,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "why Microsoft has gone it alone",
+        "谓语": "is",
+        "宾语或表语": "Also unclear",
+        "主干翻译": "微软为何单干同样不清楚。"
+      },
+      "components": [
+        {
+          "成分类型": "倒装",
+          "原文": "Also unclear is why Microsoft has gone it alone",
+          "修饰对象": "—",
+          "中文翻译": "同样不清楚的是微软为何单独行动",
+          "说明": "表语 Also unclear 前置形成完全倒装，主语为后面的 why 从句。"
+        },
+        {
+          "成分类型": "主语从句",
+          "原文": "why Microsoft has gone it alone",
+          "修饰对象": "is",
+          "中文翻译": "微软为何单独行动",
+          "说明": "why 引导的从句作句子的真正主语（倒装后置于谓语后）。"
+        }
+      ],
+      "zh": "同样不清楚的是，微软为何要单枪匹马地这样做。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2013-text2-s20",
+      "s": "After all, it has an ad business too, which it says will comply with DNT requests, though it is still working out how.",
+      "para_no": 7,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "it",
+        "谓语": "has",
+        "宾语或表语": "an ad business",
+        "主干翻译": "它也有一项广告业务。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "After all",
+          "修饰对象": "—",
+          "中文翻译": "毕竟",
+          "说明": "句首插入性连接副词。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "which it says will comply with DNT requests",
+          "修饰对象": "business",
+          "中文翻译": "它（微软）声称这项业务会遵从DNT请求",
+          "说明": "which 引导非限制性定语从句修饰 ad business，it says 为插入。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "will comply with DNT requests",
+          "修饰对象": "says",
+          "中文翻译": "会遵从DNT请求",
+          "说明": "which 兼作 says 后省略 that 的宾语从句主语，与 it says 嵌套。"
+        },
+        {
+          "成分类型": "状语从句(让步)",
+          "原文": "though it is still working out how",
+          "修饰对象": "comply",
+          "中文翻译": "尽管它仍在研究具体如何做",
+          "说明": "though 引导让步状语从句。"
+        }
+      ],
+      "zh": "毕竟，微软自己也有广告业务；它声称这项业务会遵从DNT请求，尽管目前仍在研究具体该怎么做。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2013-text2-s21",
+      "s": "If it is trying to upset Google, which relies almost wholly on advertising, it has chosen an indirect method: There is no guarantee that DNT by default will become the norm.",
+      "para_no": 7,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "it",
+        "谓语": "has chosen",
+        "宾语或表语": "an indirect method",
+        "主干翻译": "它选择了一种迂回的方式。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "If it is trying to upset Google, which relies almost wholly on advertising",
+          "修饰对象": "chosen",
+          "中文翻译": "如果它是想打击几乎完全依赖广告的谷歌",
+          "说明": "If 引导条件状语从句。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to upset Google",
+          "修饰对象": "trying",
+          "中文翻译": "打击谷歌",
+          "说明": "不定式作 trying 的宾语。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "which relies almost wholly on advertising",
+          "修饰对象": "Google",
+          "中文翻译": "（谷歌）几乎完全依赖广告（收入）",
+          "说明": "which 引导非限制性定语从句修饰 Google。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "that DNT by default will become the norm",
+          "修饰对象": "guarantee",
+          "中文翻译": "默认开启DNT将成为常态",
+          "说明": "that 引导同位语从句，说明 guarantee 的内容。"
+        }
+      ],
+      "zh": "如果它是想打击几乎完全依赖广告收入的谷歌，那它选的是一种迂回的办法：因为并不能保证默认开启DNT会成为行业惯例。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2013-text2-s22",
+      "s": "DNT does not seem an obviously huge selling point for Windows 8—though the firm has compared some of its other products favourably with Google's on that count before.",
+      "para_no": 7,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "DNT",
+        "谓语": "does not seem",
+        "宾语或表语": "an obviously huge selling point",
+        "主干翻译": "DNT似乎算不上一个明显的巨大卖点。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "for Windows 8",
+          "修饰对象": "selling point",
+          "中文翻译": "对Windows 8而言（的卖点）",
+          "说明": "介词短语修饰 selling point。"
+        },
+        {
+          "成分类型": "状语从句(让步)",
+          "原文": "though the firm has compared some of its other products favourably with Google's on that count before",
+          "修饰对象": "seem",
+          "中文翻译": "尽管该公司此前曾在这一点上拿自己的其他一些产品与谷歌的产品作过有利于自己的比较",
+          "说明": "though 引导让步状语从句。"
+        }
+      ],
+      "zh": "对Windows 8来说，DNT似乎算不上一个明显的巨大卖点——尽管该公司此前曾在这方面拿自己的其他产品与谷歌的产品作过有利于自身的比较。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2013-text2-s23",
+      "s": "Brendon Lynch, Microsoft's chief privacy officer, blogged: \"we believe consumers should have more control.\"",
+      "para_no": 7,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "Brendon Lynch",
+        "谓语": "blogged",
+        "宾语或表语": "(引述内容)",
+        "主干翻译": "布伦登·林奇在博客中写道。"
+      },
+      "components": [
+        {
+          "成分类型": "同位语从句",
+          "原文": "Microsoft's chief privacy officer",
+          "修饰对象": "Lynch",
+          "中文翻译": "微软的首席隐私官",
+          "说明": "名词短语作 Brendon Lynch 的同位语。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "we believe consumers should have more control",
+          "修饰对象": "blogged",
+          "中文翻译": "我们认为消费者应当拥有更多的控制权",
+          "说明": "引号内为 blogged 的引述内容，作其宾语。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "consumers should have more control",
+          "修饰对象": "believe",
+          "中文翻译": "消费者应当拥有更多的控制权",
+          "说明": "省略 that，作 believe 的宾语。"
+        }
+      ],
+      "zh": "微软首席隐私官布伦登·林奇在博客中写道：\"我们认为消费者应当拥有更多的控制权。\"",
+      "underline": null
+    },
+    {
+      "sid": "en1-2013-text2-s24",
+      "s": "Could it really be that simple?",
+      "para_no": 7,
+      "para_seq": 5,
+      "trunk": {
+        "主语": "it",
+        "谓语": "could be",
+        "宾语或表语": "that simple",
+        "主干翻译": "事情真有那么简单吗？"
+      },
+      "components": [],
+      "zh": "事情真会有那么简单吗？",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2013-text2-s1",
+        "en1-2013-text2-s2",
+        "en1-2013-text2-s3"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2013-text2-s4",
+        "en1-2013-text2-s5"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2013-text2-s6",
+        "en1-2013-text2-s7",
+        "en1-2013-text2-s8"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2013-text2-s9",
+        "en1-2013-text2-s10"
+      ]
+    },
+    {
+      "para_no": 5,
+      "sids": [
+        "en1-2013-text2-s11",
+        "en1-2013-text2-s12",
+        "en1-2013-text2-s13",
+        "en1-2013-text2-s14",
+        "en1-2013-text2-s15"
+      ]
+    },
+    {
+      "para_no": 6,
+      "sids": [
+        "en1-2013-text2-s16",
+        "en1-2013-text2-s17",
+        "en1-2013-text2-s18"
+      ]
+    },
+    {
+      "para_no": 7,
+      "sids": [
+        "en1-2013-text2-s19",
+        "en1-2013-text2-s20",
+        "en1-2013-text2-s21",
+        "en1-2013-text2-s22",
+        "en1-2013-text2-s23",
+        "en1-2013-text2-s24"
+      ]
+    }
+  ]
+}

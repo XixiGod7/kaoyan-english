@@ -1,0 +1,910 @@
+{
+  "exam": "en1",
+  "key": "2010-t4",
+  "year": 2010,
+  "text_no": 4,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2010-text4-s1",
+      "s": "Bankers have been blaming themselves for their troubles in public.",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Bankers",
+        "谓语": "have been blaming",
+        "宾语或表语": "themselves",
+        "主干翻译": "银行家们一直在责怪自己。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "for their troubles",
+          "修饰对象": "blaming",
+          "中文翻译": "为他们的麻烦",
+          "说明": "for 引导原因，说明责怪自己的缘由。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "in public",
+          "修饰对象": "blaming",
+          "中文翻译": "在公开场合",
+          "说明": "in public 作方式/场合状语。"
+        }
+      ],
+      "zh": "在公开场合，银行家们一直把自己的麻烦归咎于自身。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2010-text4-s2",
+      "s": "Behind the scenes, they have been taking aim at someone else: the accounting standard-setters.",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "they",
+        "谓语": "have been taking",
+        "宾语或表语": "aim at someone else",
+        "主干翻译": "他们一直在把矛头对准其他人。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "Behind the scenes",
+          "修饰对象": "taking",
+          "中文翻译": "在幕后",
+          "说明": "句首地点/方式状语，与公开场合形成对比。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "the accounting standard-setters",
+          "修饰对象": "someone",
+          "中文翻译": "会计准则的制定者",
+          "说明": "冒号引出的名词短语，对 someone else 作同位语说明（k 标注为同位语/插入语）。"
+        }
+      ],
+      "zh": "而在幕后，他们一直把矛头指向另一些人：会计准则的制定者。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2010-text4-s3",
+      "s": "Their rules, moan the banks, have forced them to report enormous losses, and it's just not fair.",
+      "para_no": 1,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Their rules",
+        "谓语": "have forced",
+        "宾语或表语": "them",
+        "主干翻译": "他们的规则迫使他们（这么做）。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "moan the banks",
+          "修饰对象": "Their rules have forced them to report enormous losses",
+          "中文翻译": "银行抱怨道",
+          "说明": "插入语，主谓倒装的引述插入语，打断主句。"
+        },
+        {
+          "成分类型": "非谓语作宾语补足语",
+          "原文": "to report enormous losses",
+          "修饰对象": "them",
+          "中文翻译": "报告巨额亏损",
+          "说明": "动词不定式作宾语 them 的补足语，构成 force sb. to do 结构。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "and it's just not fair",
+          "修饰对象": "Their rules have forced them to report enormous losses",
+          "中文翻译": "而这根本不公平",
+          "说明": "and 连接的并列分句。"
+        }
+      ],
+      "zh": "银行抱怨说，他们的规则迫使其报告巨额亏损，而这根本不公平。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2010-text4-s4",
+      "s": "These rules say they must value some assets at the price a third party would pay, not the price managers and regulators would like them to fetch.",
+      "para_no": 1,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "These rules",
+        "谓语": "say",
+        "宾语或表语": "（宾语从句）",
+        "主干翻译": "这些规则规定……"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "they must value some assets at the price a third party would pay, not the price managers and regulators would like them to fetch",
+          "修饰对象": "say",
+          "中文翻译": "他们必须按第三方愿意支付的价格而非管理者和监管者希望其卖到的价格来评估某些资产",
+          "说明": "say 的宾语从句。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "a third party would pay",
+          "修饰对象": "price",
+          "中文翻译": "第三方愿意支付的",
+          "说明": "省略关系词的定语从句，修饰 the price。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "the price managers and regulators would like them to fetch",
+          "修饰对象": "price",
+          "中文翻译": "管理者和监管者希望资产卖到的价格",
+          "说明": "not 引出的并列对比名词短语，与前一 the price 形成对照（k 标为同位语/插入语）。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "managers and regulators would like them to fetch",
+          "修饰对象": "price",
+          "中文翻译": "管理者和监管者希望资产卖到的",
+          "说明": "省略关系词的定语从句，修饰第二个 the price。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "them to fetch",
+          "修饰对象": "like",
+          "中文翻译": "资产卖到（某价）",
+          "说明": "would like sb to do 结构，不定式复合宾语（k 标为宾语从句）。"
+        }
+      ],
+      "zh": "这些规则规定，银行必须按第三方愿意支付的价格而非管理者和监管者希望资产卖到的价格来计量某些资产。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2010-text4-s5",
+      "s": "Unfortunately, banks' lobbying now seems to be working.",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "banks' lobbying",
+        "谓语": "seems to be working",
+        "宾语或表语": "—",
+        "主干翻译": "银行的游说似乎正在奏效。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "now",
+          "修饰对象": "seems",
+          "中文翻译": "如今",
+          "说明": "now 作时间状语。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to be working",
+          "修饰对象": "seems",
+          "中文翻译": "正在起作用",
+          "说明": "seem to do 结构中的不定式，作系动词 seems 的表语补足（k 标为非谓语补足）。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "Unfortunately",
+          "修饰对象": "—",
+          "中文翻译": "不幸的是",
+          "说明": "句首评注性副词，作插入语。"
+        }
+      ],
+      "zh": "不幸的是，银行的游说如今似乎正在奏效。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2010-text4-s6",
+      "s": "The details may be unknowable, but the independence of standard-setters, essential to the proper functioning of capital markets, is being compromised.",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "the independence of standard-setters",
+        "谓语": "is being compromised",
+        "宾语或表语": "—",
+        "主干翻译": "准则制定者的独立性正受到损害。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "The details may be unknowable, but the independence of standard-setters, essential to the proper functioning of capital markets, is being compromised",
+          "修饰对象": "—",
+          "中文翻译": "细节或许无从知晓，但准则制定者的独立性正受到损害",
+          "说明": "but 连接的转折并列句，前句为 The details may be unknowable。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "essential to the proper functioning of capital markets",
+          "修饰对象": "independence",
+          "中文翻译": "对资本市场的正常运作至关重要的",
+          "说明": "形容词短语作后置定语兼插入语，修饰 independence。"
+        }
+      ],
+      "zh": "细节或许无从知晓，但对资本市场正常运作至关重要的准则制定者独立性正在受到损害。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2010-text4-s7",
+      "s": "And, unless banks carry toxic assets at prices that attract buyers, reviving the banking system will be difficult.",
+      "para_no": 2,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "reviving the banking system",
+        "谓语": "will be",
+        "宾语或表语": "difficult",
+        "主干翻译": "重振银行体系将会很困难。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "unless banks carry toxic assets at prices that attract buyers",
+          "修饰对象": "be",
+          "中文翻译": "除非银行以能吸引买家的价格持有有毒资产",
+          "说明": "unless 引导条件状语从句。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that attract buyers",
+          "修饰对象": "prices",
+          "中文翻译": "能吸引买家的",
+          "说明": "that 引导定语从句，修饰 prices。"
+        }
+      ],
+      "zh": "而且，除非银行以能吸引买家的价格持有有毒资产，否则重振银行体系将会很困难。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2010-text4-s8",
+      "s": "After a bruising encounter with Congress, America's Financial Accounting Standards Board (FASB) rushed through rule changes.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "America's Financial Accounting Standards Board (FASB)",
+        "谓语": "rushed through",
+        "宾语或表语": "rule changes",
+        "主干翻译": "美国财务会计准则委员会仓促通过了规则修改。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "After a bruising encounter with Congress",
+          "修饰对象": "rushed",
+          "中文翻译": "在与国会的一番激烈交锋之后",
+          "说明": "after 引导的时间状语短语。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "FASB",
+          "修饰对象": "Board",
+          "中文翻译": "即 FASB",
+          "说明": "括号内缩写，对前面机构全称作同位语（k 标为同位语/插入语）。"
+        }
+      ],
+      "zh": "在与国会的一番激烈交锋之后，美国财务会计准则委员会（FASB）仓促通过了规则修改。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2010-text4-s9",
+      "s": "These gave banks more freedom to use models to value illiquid assets and more flexibility in recognizing losses on long-term assets in their income statements.",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "These",
+        "谓语": "gave",
+        "宾语或表语": "banks more freedom and more flexibility",
+        "主干翻译": "这些（修改）给了银行更多的自由和更多的灵活性。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to use models to value illiquid assets",
+          "修饰对象": "freedom",
+          "中文翻译": "使用模型来评估非流动资产的",
+          "说明": "不定式作后置定语，修饰 freedom（k 标为非谓语作定语/同位语从句）。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to value illiquid assets",
+          "修饰对象": "use",
+          "中文翻译": "去评估非流动资产",
+          "说明": "不定式表目的，说明 use models 的目的（k 标为非谓语补足）。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "more flexibility in recognizing losses on long-term assets in their income statement",
+          "修饰对象": "freedom",
+          "中文翻译": "在损益表中确认长期资产损失方面更多的灵活性",
+          "说明": "与 more freedom 并列，同为 gave 的双宾语之一。"
+        }
+      ],
+      "zh": "这些修改给了银行更多使用模型来评估非流动资产的自由，以及在损益表中确认长期资产损失方面更大的灵活性。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2010-text4-s10",
+      "s": "Bob Herz, the FASB's chairman, cried out against those who \"question our motives.\"",
+      "para_no": 3,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Bob Herz",
+        "谓语": "cried out",
+        "宾语或表语": "against those",
+        "主干翻译": "Bob Herz强烈反对那些人。"
+      },
+      "components": [
+        {
+          "成分类型": "同位语",
+          "原文": "the FASB's chairman",
+          "修饰对象": "Herz",
+          "中文翻译": "美国财务会计准则委员会主席",
+          "说明": "名词短语作Bob Herz的同位语。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "who \"question our motives",
+          "修饰对象": "those",
+          "中文翻译": "质疑我们动机的（那些人）",
+          "说明": "who引导定语从句，修饰those。"
+        }
+      ],
+      "zh": "美国财务会计准则委员会主席Bob Herz强烈抨击那些\"质疑我们动机\"的人。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2010-text4-s11",
+      "s": "Yet bank shares rose and the changes enhance what one lobbying group politely calls \"the use of judgment by management.\"",
+      "para_no": 3,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "bank shares",
+        "谓语": "rose",
+        "宾语或表语": "-",
+        "主干翻译": "银行股票上涨了。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "and the changes enhance what one lobbying group politely calls \"the use of judgment by management.\"",
+          "修饰对象": "bank shares rose",
+          "中文翻译": "并且这些变化强化了某一游说团体委婉地称之为“管理层运用判断力”的做法",
+          "说明": "and 连接两个并列分句，此为第二个分句，主语 the changes，谓语 enhance。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "what one lobbying group politely calls \"the use of judgment by management.\"",
+          "修饰对象": "enhance",
+          "中文翻译": "某一游说团体委婉地称之为“管理层运用判断力”的东西",
+          "说明": "what 引导的从句作 enhance 的宾语，what 在从句内作 calls 的宾语，\"the use of judgment by management\" 为 calls 的宾语补足语。"
+        }
+      ],
+      "zh": "然而银行股票却上涨了，而且这些变化强化了某一游说团体委婉地称之为“管理层运用判断力”的做法。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2010-text4-s12",
+      "s": "European ministers instantly demanded that the International Accounting Standards Board (IASB) do likewise.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "European ministers",
+        "谓语": "demanded",
+        "宾语或表语": "（宾语从句）",
+        "主干翻译": "欧洲各部长们要求……"
+      },
+      "components": [
+        {
+          "成分类型": "同位语从句",
+          "原文": "IASB",
+          "修饰对象": "Board",
+          "中文翻译": "即 IASB",
+          "说明": "括号内缩写，对机构全称作同位语（k 标为同位语/插入语）。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that the International Accounting Standards Board (IASB) do likewise",
+          "修饰对象": "demanded",
+          "中文翻译": "国际会计准则委员会也照此办理",
+          "说明": "that 引导 demand 后的宾语从句，用虚拟语气（do 为原形）。"
+        }
+      ],
+      "zh": "欧洲各部长立即要求国际会计准则委员会（IASB）也照此办理。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2010-text4-s13",
+      "s": "The IASB says it does not want to act without overall planning, but the pressure to fold when it completes its reconstruction of rules later this year is strong.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "The IASB",
+        "谓语": "says",
+        "宾语或表语": "（宾语从句）",
+        "主干翻译": "国际会计准则委员会表示……"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "it does not want to act without overall planning",
+          "修饰对象": "says",
+          "中文翻译": "它不想在没有整体规划的情况下行动",
+          "说明": "says 的宾语从句。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to act without overall planning",
+          "修饰对象": "want",
+          "中文翻译": "在没有整体规划下行动",
+          "说明": "want to do 中的不定式宾语（k 标为非谓语补足）。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to fold when it completes its reconstruction of rules later this year",
+          "修饰对象": "pressure",
+          "中文翻译": "在它今年晚些时候完成规则重构时妥协的",
+          "说明": "不定式作后置定语，修饰 the pressure（k 标为非谓语作定语/同位语从句）。"
+        },
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "when it completes its reconstruction of rules later this year",
+          "修饰对象": "fold",
+          "中文翻译": "当它今年晚些时候完成规则重构时",
+          "说明": "when 引导时间状语从句，修饰 to fold。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "but the pressure to fold when it completes its reconstruction of rules later this year is strong",
+          "修饰对象": "—",
+          "中文翻译": "但要求妥协的压力很大",
+          "说明": "but 连接的转折并列分句。"
+        }
+      ],
+      "zh": "国际会计准则委员会表示，它不想在没有整体规划的情况下行动，但当它今年晚些时候完成规则重构时，要求其妥协的压力很大。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2010-text4-s14",
+      "s": "Charlie McCreevy, a European commissioner, warned the IASB that it did \"not live in a political vacuum\" but \"'in the real world\" and that Europe could yet develop different rules.",
+      "para_no": 4,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Charlie McCreevy",
+        "谓语": "warned",
+        "宾语或表语": "the IASB（及that从句）",
+        "主干翻译": "查理·麦克里维警告国际会计准则委员会……"
+      },
+      "components": [
+        {
+          "成分类型": "同位语从句",
+          "原文": "a European commissioner",
+          "修饰对象": "McCreevy",
+          "中文翻译": "一位欧盟委员",
+          "说明": "名词短语作 Charlie McCreevy 的同位语（k 标为同位语/插入语）。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that it did \"not live in a political vacuum\" but \"'in the real world\" and that Europe could yet develop different rules",
+          "修饰对象": "warned",
+          "中文翻译": "它并非“生活在政治真空中”而是“身处现实世界”，且欧洲仍可能制定不同的规则",
+          "说明": "warn sb that 结构的宾语从句（k 标为状语从句但实为宾语从句内容，挂靠 warned）。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "but \"'in the real world\"",
+          "修饰对象": "live",
+          "中文翻译": "而是身处现实世界",
+          "说明": "not...but... 并列，与 not live in a political vacuum 对照。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "and that Europe could yet develop different rules",
+          "修饰对象": "—",
+          "中文翻译": "并且欧洲仍可能制定不同的规则",
+          "说明": "and 连接的第二个 that 宾语从句，与前一 that 从句并列。"
+        }
+      ],
+      "zh": "欧盟委员查理·麦克里维警告国际会计准则委员会，它并非“身处政治真空”，而是“处于现实世界之中”，而且欧洲仍有可能制定不同的规则。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2010-text4-s15",
+      "s": "It was banks that were on the wrong planet, with accounts that vastly overvalued assets.",
+      "para_no": 5,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "It",
+        "谓语": "was",
+        "宾语或表语": "banks",
+        "主干翻译": "正是银行错得离谱。"
+      },
+      "components": [
+        {
+          "成分类型": "强调句",
+          "原文": "It was banks that were on the wrong planet, with accounts that vastly overvalued assets",
+          "修饰对象": "—",
+          "中文翻译": "正是银行……账目严重高估了资产",
+          "说明": "It was...that... 强调句型，强调主语 banks（k 标为宾语/表语从句，实为强调句结构）。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "with accounts that vastly overvalued assets",
+          "修饰对象": "were",
+          "中文翻译": "其账目严重高估了资产",
+          "说明": "with 复合结构作伴随状语。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that vastly overvalued assets",
+          "修饰对象": "accounts",
+          "中文翻译": "严重高估了资产的",
+          "说明": "that 引导定语从句，修饰 accounts。"
+        }
+      ],
+      "zh": "正是银行错得离谱，其账目严重高估了资产。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2010-text4-s16",
+      "s": "Today they argue that market prices overstate losses, because they largely reflect the temporary illiquidity of markets, not the likely extent of bad debts.",
+      "para_no": 5,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "they",
+        "谓语": "argue",
+        "宾语或表语": "（宾语从句）",
+        "主干翻译": "他们辩称……"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "Today",
+          "修饰对象": "argue",
+          "中文翻译": "如今",
+          "说明": "Today 作时间状语。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that market prices overstate losses, because they largely reflect the temporary illiquidity of markets, not the likely extent of bad debts",
+          "修饰对象": "argue",
+          "中文翻译": "市场价格夸大了损失，因为它们主要反映的是市场暂时的流动性不足，而非坏账的可能规模",
+          "说明": "argue 的宾语从句。"
+        },
+        {
+          "成分类型": "状语从句(原因)",
+          "原文": "because they largely reflect the temporary illiquidity of markets, not the likely extent of bad debts",
+          "修饰对象": "overstate",
+          "中文翻译": "因为它们主要反映的是市场暂时的流动性不足，而非坏账的可能规模",
+          "说明": "because 引导原因状语从句。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "the likely extent of bad debts",
+          "修饰对象": "illiquidity",
+          "中文翻译": "坏账的可能规模",
+          "说明": "not 引出的并列对比名词短语，与 the temporary illiquidity of markets 形成对照（k 标为同位语/插入语）。"
+        }
+      ],
+      "zh": "如今他们辩称，市场价格夸大了损失，因为这些价格主要反映的是市场暂时的流动性不足，而非坏账的可能规模。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2010-text4-s17",
+      "s": "The truth will not be known for years.",
+      "para_no": 5,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "The truth",
+        "谓语": "will not be known",
+        "宾语或表语": "—",
+        "主干翻译": "真相不会被知晓。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "for years",
+          "修饰对象": "be known",
+          "中文翻译": "在数年之内",
+          "说明": "for years 作时间状语，表示多年内都无法知晓。"
+        }
+      ],
+      "zh": "真相在数年内都不会为人所知。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2010-text4-s18",
+      "s": "But banks' shares trade below their book value, suggesting that investors are skeptical.",
+      "para_no": 5,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "banks' shares",
+        "谓语": "trade",
+        "宾语或表语": "—",
+        "主干翻译": "银行股票的交易（价格偏低）。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "below their book value",
+          "修饰对象": "trade",
+          "中文翻译": "低于其账面价值",
+          "说明": "below 短语作交易价格的状语。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "suggesting that investors are skeptical",
+          "修饰对象": "trade",
+          "中文翻译": "这表明投资者持怀疑态度",
+          "说明": "现在分词短语作结果状语（k 标为状语从句，挂靠 trade）。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that investors are skeptical",
+          "修饰对象": "suggesting",
+          "中文翻译": "投资者持怀疑态度",
+          "说明": "that 引导 suggesting 的宾语从句。"
+        }
+      ],
+      "zh": "但银行股票的交易价格低于其账面价值，这表明投资者心存疑虑。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2010-text4-s19",
+      "s": "And dead markets partly reflect the paralysis of banks which will not sell assets for fear of booking losses, yet are reluctant to buy all those supposed bargains.",
+      "para_no": 5,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "dead markets",
+        "谓语": "reflect",
+        "宾语或表语": "the paralysis of banks",
+        "主干翻译": "死气沉沉的市场部分地反映了银行的瘫痪。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(方式)",
+          "原文": "partly",
+          "修饰对象": "reflect",
+          "中文翻译": "部分地",
+          "说明": "partly 作程度/方式状语。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "which will not sell assets for fear of booking losses, yet are reluctant to buy all those supposed bargains",
+          "修饰对象": "banks",
+          "中文翻译": "既因害怕记入亏损而不愿出售资产，又不愿购买所有那些所谓的便宜货的",
+          "说明": "which 引导定语从句，修饰 banks。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "yet are reluctant to buy all those supposed bargains",
+          "修饰对象": "sell",
+          "中文翻译": "却又不愿购买所有那些所谓的便宜货",
+          "说明": "yet 连接定语从句内的并列谓语，与 will not sell assets 转折并列。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to buy all those supposed bargains",
+          "修饰对象": "reluctant",
+          "中文翻译": "去购买所有那些所谓的便宜货",
+          "说明": "be reluctant to do 中的不定式（k 标为非谓语补足）。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "for fear of booking losses",
+          "修饰对象": "sell",
+          "中文翻译": "因为害怕记入亏损",
+          "说明": "for fear of 短语作原因状语。"
+        }
+      ],
+      "zh": "而且，死气沉沉的市场部分地反映了银行的瘫痪：这些银行既因害怕记入亏损而不愿出售资产，又不愿购买所有那些所谓的便宜货。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2010-text4-s20",
+      "s": "To get the system working again, losses must be recognized and dealt with.",
+      "para_no": 6,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "losses",
+        "谓语": "must be recognized and dealt with",
+        "宾语或表语": "—",
+        "主干翻译": "亏损必须被确认并加以处理。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "To get the system working again",
+          "修饰对象": "recognized",
+          "中文翻译": "为了让体系重新运转",
+          "说明": "不定式短语作目的状语（k 标为状语从句，挂靠 recognized）。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "the system working again",
+          "修饰对象": "get",
+          "中文翻译": "体系重新运转",
+          "说明": "get sth doing 结构的复合宾语（k 标为宾语从句）。"
+        }
+      ],
+      "zh": "为了让体系重新运转，亏损必须得到确认和处理。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2010-text4-s21",
+      "s": "America's new plan to buy up toxic assets will not work unless banks mark assets to levels which buyers find attractive.",
+      "para_no": 6,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "America's new plan",
+        "谓语": "will not work",
+        "宾语或表语": "—",
+        "主干翻译": "美国的新计划不会奏效。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to buy up toxic assets",
+          "修饰对象": "plan",
+          "中文翻译": "收购有毒资产的",
+          "说明": "不定式作后置定语，修饰 plan（k 标为非谓语作定语/同位语从句）。"
+        },
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "unless banks mark assets to levels which buyers find attractive",
+          "修饰对象": "work",
+          "中文翻译": "除非银行将资产标记到买家觉得有吸引力的水平",
+          "说明": "unless 引导条件状语从句。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "which buyers find attractive",
+          "修饰对象": "levels",
+          "中文翻译": "买家觉得有吸引力的",
+          "说明": "which 引导定语从句，修饰 levels。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "which buyers find attractive",
+          "修饰对象": "find",
+          "中文翻译": "买家觉得（其）有吸引力",
+          "说明": "find sth attractive 结构，which 作 find 的宾语（k 标为宾语从句）。"
+        }
+      ],
+      "zh": "美国收购有毒资产的新计划不会奏效，除非银行将资产标记到买家觉得有吸引力的价位。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2010-text4-s22",
+      "s": "Successful markets require independent and even combative standard-setters.",
+      "para_no": 6,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Successful markets",
+        "谓语": "require",
+        "宾语或表语": "independent and even combative standard-setters",
+        "主干翻译": "成功的市场需要独立甚至好斗的准则制定者。"
+      },
+      "components": [],
+      "zh": "成功的市场需要独立甚至敢于斗争的准则制定者。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2010-text4-s23",
+      "s": "The FASB and IASB have been exactly that, cleaning up rules on stock options and pensions, for example, against hostility from special interests.",
+      "para_no": 6,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "The FASB and IASB",
+        "谓语": "have been",
+        "宾语或表语": "exactly that",
+        "主干翻译": "FASB 和 IASB 一直正是这样的机构。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "cleaning up rules on stock options and pensions, for example, against hostility from special interests",
+          "修饰对象": "been",
+          "中文翻译": "例如，不顾特殊利益集团的敌意，清理了有关股票期权和养老金的规则",
+          "说明": "现在分词短语作伴随/举例状语（k 标为状语从句，挂靠 been）。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "for example",
+          "修饰对象": "—",
+          "中文翻译": "例如",
+          "说明": "for example 作插入语，举例说明。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "against hostility from special interests",
+          "修饰对象": "cleaning",
+          "中文翻译": "顶着来自特殊利益集团的敌意",
+          "说明": "against 短语作让步/对抗性状语。"
+        }
+      ],
+      "zh": "FASB 和 IASB 一直正是这样的机构，例如，它们顶着特殊利益集团的敌意，清理了有关股票期权和养老金的规则。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2010-text4-s24",
+      "s": "But by giving in to critics now they are inviting pressure to make more concessions.",
+      "para_no": 6,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "they",
+        "谓语": "are inviting",
+        "宾语或表语": "pressure",
+        "主干翻译": "他们正在招致压力。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "by giving in to critics now",
+          "修饰对象": "inviting",
+          "中文翻译": "如今通过向批评者让步",
+          "说明": "by + 动名词短语作方式状语。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to make more concessions",
+          "修饰对象": "pressure",
+          "中文翻译": "做出更多让步的",
+          "说明": "不定式作后置定语，修饰 pressure（k 标为非谓语作定语/同位语从句）。"
+        }
+      ],
+      "zh": "但如今通过向批评者让步，他们正在招致要求做出更多让步的压力。",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2010-text4-s1",
+        "en1-2010-text4-s2",
+        "en1-2010-text4-s3",
+        "en1-2010-text4-s4"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2010-text4-s5",
+        "en1-2010-text4-s6",
+        "en1-2010-text4-s7"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2010-text4-s8",
+        "en1-2010-text4-s9",
+        "en1-2010-text4-s10",
+        "en1-2010-text4-s11"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2010-text4-s12",
+        "en1-2010-text4-s13",
+        "en1-2010-text4-s14"
+      ]
+    },
+    {
+      "para_no": 5,
+      "sids": [
+        "en1-2010-text4-s15",
+        "en1-2010-text4-s16",
+        "en1-2010-text4-s17",
+        "en1-2010-text4-s18",
+        "en1-2010-text4-s19"
+      ]
+    },
+    {
+      "para_no": 6,
+      "sids": [
+        "en1-2010-text4-s20",
+        "en1-2010-text4-s21",
+        "en1-2010-text4-s22",
+        "en1-2010-text4-s23",
+        "en1-2010-text4-s24"
+      ]
+    }
+  ]
+}

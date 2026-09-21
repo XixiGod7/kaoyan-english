@@ -1,0 +1,735 @@
+{
+  "exam": "en1",
+  "key": "2015-t1",
+  "year": 2015,
+  "text_no": 1,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2015-text1-s1",
+      "s": "King Juan Carlos of Spain once insisted \"kings don't abdicate, they die in their sleep.\"",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "King Juan Carlos of Spain",
+        "谓语": "insisted",
+        "宾语或表语": "\"kings don't abdicate, they die in their sleep\"",
+        "主干翻译": "西班牙国王胡安·卡洛斯曾坚称：\"国王不会退位，他们会在睡梦中死去。\""
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "kings don't abdicate, they die in their sleep",
+          "修饰对象": "insisted",
+          "中文翻译": "国王不会退位，他们会在睡梦中死去",
+          "说明": "insisted 后接的引述内容整体作宾语，由两个并列的简单句构成（kings don't abdicate 与 they die in their sleep）。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "they die in their sleep",
+          "修饰对象": "kings don't abdicate",
+          "中文翻译": "他们会在睡梦中死去",
+          "说明": "宾语从句内部两个分句以逗号并列，第二分句承接第一分句。"
+        }
+      ],
+      "zh": "西班牙国王胡安·卡洛斯曾坚称：\"国王不会退位，他们只会在睡梦中死去。\"",
+      "underline": null
+    },
+    {
+      "sid": "en1-2015-text1-s2",
+      "s": "But embarrassing scandals and the popularity of the republican left in the recent Euro-elections have forced him to eat his words and stand down.",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "embarrassing scandals and the popularity of the republican left",
+        "谓语": "have forced",
+        "宾语或表语": "him (to eat his words and stand down)",
+        "主干翻译": "令人难堪的丑闻和共和派左翼的高人气迫使他收回自己的话并退位。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "the popularity of the republican left in the recent Euro-elections",
+          "修饰对象": "scandals",
+          "中文翻译": "共和派左翼在近期欧洲议会选举中的高人气",
+          "说明": "与 embarrassing scandals 由 and 并列，共同充当句子主语；其中 in the recent Euro-elections 为介词短语作定语，限定 popularity。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to eat his words and stand down",
+          "修饰对象": "forced",
+          "中文翻译": "收回前言并退位",
+          "说明": "force sb. to do 结构中的不定式作宾语补足语，说明 him 被迫做的动作；eat his words 与 stand down 由 and 并列。"
+        }
+      ],
+      "zh": "但令人难堪的丑闻以及共和派左翼在近期欧洲议会选举中的高人气，迫使他收回前言、退位让贤。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2015-text1-s3",
+      "s": "So, does the Spanish crisis suggest that monarchy is seeing its last days?",
+      "para_no": 1,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "the Spanish crisis",
+        "谓语": "does suggest",
+        "宾语或表语": "that monarchy is seeing its last days",
+        "主干翻译": "西班牙的危机是否表明君主制正走向终结？"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "that monarchy is seeing its last days",
+          "修饰对象": "suggest",
+          "中文翻译": "君主制正在走到尽头",
+          "说明": "由 that 引导，作 suggest 的宾语；is seeing its last days 为现在进行时的比喻表达，意为正在终结。"
+        }
+      ],
+      "zh": "那么，西班牙的危机是否表明君主制正走向末路？",
+      "underline": null
+    },
+    {
+      "sid": "en1-2015-text1-s4",
+      "s": "Does that mean the writing is on the wall for all European royals, with their magnificent uniforms and majestic lifestyles?",
+      "para_no": 1,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "that",
+        "谓语": "Does mean",
+        "宾语或表语": "the writing is on the wall for all European royals",
+        "主干翻译": "那是否意味着所有欧洲王室的末日将至？"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "the writing is on the wall for all European royals, with their magnificent uniforms and majestic lifestyles",
+          "修饰对象": "mean",
+          "中文翻译": "对所有身着华丽制服、过着奢华生活的欧洲王室成员而言，末日即将来临",
+          "说明": "省略 that 的宾语从句作 mean 的宾语；the writing is on the wall 为习语，意为大难临头/不祥之兆。"
+        },
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "with their magnificent uniforms and majestic lifestyles",
+          "修饰对象": "royals",
+          "中文翻译": "拥有华丽制服和威严生活方式的",
+          "说明": "with 短语修饰 European royals，描述其外在排场。"
+        }
+      ],
+      "zh": "那是否意味着，对所有身着华丽制服、过着威严生活的欧洲王室成员来说，末日已经临近？",
+      "underline": null
+    },
+    {
+      "sid": "en1-2015-text1-s5",
+      "s": "The Spanish case provides arguments both for and against monarchy.",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The Spanish case",
+        "谓语": "provides",
+        "宾语或表语": "arguments both for and against monarchy",
+        "主干翻译": "西班牙的案例为君主制提供了支持和反对的双重论据。"
+      },
+      "components": [],
+      "zh": "西班牙的案例既为支持君主制、也为反对君主制提供了论据。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2015-text1-s6",
+      "s": "When public opinion is particularly polarised, as it was following the end of the Franco regime, monarchs can rise above \"mere\" politics and \"embody\" a spirit of national unity.",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "monarchs",
+        "谓语": "can rise / embody",
+        "宾语或表语": "above \"mere\" politics / a spirit of national unity",
+        "主干翻译": "君主们能够超越\"纯粹的\"政治，并体现民族团结的精神。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "When public opinion is particularly polarised, as it was following the end of the Franco regime",
+          "修饰对象": "rise",
+          "中文翻译": "当公众舆论严重两极分化时，正如佛朗哥政权结束后的情形那样",
+          "说明": "When 引导时间状语从句，交代君主能够发挥作用的时间/条件背景。"
+        },
+        {
+          "成分类型": "状语从句(方式)",
+          "原文": "as it was following the end of the Franco regime",
+          "修饰对象": "polarised",
+          "中文翻译": "就像佛朗哥政权结束之后的那种状况一样",
+          "说明": "as 引导方式状语从句，举出舆论两极分化的具体实例；as it was 为 as it was polarised 的省略。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "\"embody\" a spirit of national unity",
+          "修饰对象": "rise",
+          "中文翻译": "并\"体现\"民族团结的精神",
+          "说明": "与谓语 rise above \"mere\" politics 由 and 并列，共用主语 monarchs。"
+        }
+      ],
+      "zh": "当公众舆论严重两极分化时——正如佛朗哥政权结束后所出现的那样——君主便能够超越\"单纯的\"政治，\"体现\"出民族团结的精神。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2015-text1-s7",
+      "s": "It is this apparent transcendence of politics that explains monarchs' continuing popularity as heads of state.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "this apparent transcendence of politics (强调部分)",
+        "谓语": "explains",
+        "宾语或表语": "monarchs' continuing popularity as heads of state",
+        "主干翻译": "正是这种对政治的明显超越解释了君主作为国家元首持续受到欢迎的原因。"
+      },
+      "components": [
+        {
+          "成分类型": "强调句",
+          "原文": "It is this apparent transcendence of politics that explains monarchs' continuing popularity as heads of state",
+          "修饰对象": "—",
+          "中文翻译": "正是这种对政治的明显超越，才解释了君主作为国家元首持续广受欢迎",
+          "说明": "It is ... that ... 强调句型，被强调的是主语 this apparent transcendence of politics；as heads of state 为介词短语作状语/定语，说明君主的身份。"
+        }
+      ],
+      "zh": "正是这种对政治的明显超越，才解释了为何君主作为国家元首能够持续受到民众的拥护。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2015-text1-s8",
+      "s": "And so, the Middle East excepted, Europe is the most monarch-infested region in the world, with 10 kingdoms (not counting Vatican City and Andorra).",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Europe",
+        "谓语": "is",
+        "宾语或表语": "the most monarch-infested region in the world",
+        "主干翻译": "欧洲是世界上君主制最密集的地区。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "the Middle East excepted",
+          "修饰对象": "is",
+          "中文翻译": "中东地区除外",
+          "说明": "独立主格结构（名词 + 过去分词 excepted）作让步性的让步状语，表示把中东排除在外。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "with 10 kingdoms (not counting Vatican City and Andorra)",
+          "修饰对象": "is",
+          "中文翻译": "拥有10个王国（不计梵蒂冈城和安道尔）",
+          "说明": "with 短语补充说明欧洲君主国的数量；not counting... 为非谓语作状语，表示排除。"
+        }
+      ],
+      "zh": "因此，除中东外，欧洲是世界上君主制最为盛行的地区，拥有10个王国（梵蒂冈城和安道尔尚未计入）。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2015-text1-s9",
+      "s": "But unlike their absolutist counterparts in the Gulf and Asia, most royal families have survived because they allow voters to avoid the difficult search for a non-controversial but respected public figure.",
+      "para_no": 3,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "most royal families",
+        "谓语": "have survived",
+        "宾语或表语": "(无宾语，不及物)",
+        "主干翻译": "大多数王室得以存续下来。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "unlike their absolutist counterparts in the Gulf and Asia",
+          "修饰对象": "survived",
+          "中文翻译": "与海湾地区和亚洲实行专制的王室不同",
+          "说明": "unlike 引导的介词短语作状语，构成对比，凸显欧洲王室的特殊之处。"
+        },
+        {
+          "成分类型": "状语从句(原因)",
+          "原文": "because they allow voters to avoid the difficult search for a non-controversial but respected public figure",
+          "修饰对象": "survived",
+          "中文翻译": "因为它们让选民得以免去去物色一位既无争议又受尊敬的公众人物的艰难过程",
+          "说明": "because 引导原因状语从句，解释王室存续的原因。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "voters to avoid the difficult search for a non-controversial but respected public figure",
+          "修饰对象": "allow",
+          "中文翻译": "选民免于艰难地寻找一位既无争议又受尊敬的公众人物",
+          "说明": "allow sb. to do 结构，voters 为宾语，to avoid... 为宾语补足语（不定式）。"
+        }
+      ],
+      "zh": "但与海湾地区和亚洲那些实行专制的同行不同，大多数王室之所以得以存续，是因为它们使选民得以免去寻找一位既无争议又受尊敬的公众人物这一难题。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2015-text1-s10",
+      "s": "Even so, kings and queens undoubtedly have a downside.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "kings and queens",
+        "谓语": "have",
+        "宾语或表语": "a downside",
+        "主干翻译": "国王和王后无疑也有其不利的一面。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "Even so",
+          "修饰对象": "—",
+          "中文翻译": "即便如此",
+          "说明": "句首连接性插入语，承上启下，表示让步转折。"
+        }
+      ],
+      "zh": "即便如此，国王和王后们无疑也有其不利的一面。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2015-text1-s11",
+      "s": "Symbolic of national unity as they claim to be, their very history—and sometimes the way they behave today—embodies outdated and indefensible privileges and inequalities.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "their very history—and sometimes the way they behave today",
+        "谓语": "embodies",
+        "宾语或表语": "outdated and indefensible privileges and inequalities",
+        "主干翻译": "他们的整部历史——有时还包括他们如今的行为方式——体现着过时且站不住脚的特权与不平等。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(让步)",
+          "原文": "Symbolic of national unity as they claim to be",
+          "修饰对象": "embodies",
+          "中文翻译": "尽管他们自称是民族团结的象征",
+          "说明": "as 引导让步状语从句的倒装结构（表语 Symbolic... 提前），意为\"虽然……\"。"
+        },
+        {
+          "成分类型": "状语从句(让步)",
+          "原文": "as they claim to be",
+          "修饰对象": "unity",
+          "中文翻译": "正如他们所声称的那样",
+          "说明": "as 引导让步从句的主体部分，与提前的表语 Symbolic of national unity 配合构成 \"Adj. + as + 主语 + 系动词\" 让步句式。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to be",
+          "修饰对象": "claim",
+          "中文翻译": "是（民族团结的象征）",
+          "说明": "claim to be 中的不定式，作 claim 的宾语，补足 they 声称的身份。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "sometimes the way they behave today",
+          "修饰对象": "history",
+          "中文翻译": "有时还包括他们今日的行为方式",
+          "说明": "与主语 their very history 由 and 并列，共同充当 embodies 的主语，破折号间作插入补充。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "they behave today",
+          "修饰对象": "way",
+          "中文翻译": "他们今天的行事方式",
+          "说明": "修饰先行词 the way 的定语从句，引导词（in which / that）省略。"
+        }
+      ],
+      "zh": "尽管他们自称是民族团结的象征，但他们漫长的历史——有时还有他们今日的行事方式——所体现的却是过时且无从辩护的特权与不平等。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2015-text1-s12",
+      "s": "At a time when Thomas Piketty and other economists are warning of rising inequality and the increasing power of inherited wealth, it is bizarre that wealthy aristocratic families should still be the symbolic heart of modern democratic states.",
+      "para_no": 4,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "it (形式主语，真正主语为 that 从句)",
+        "谓语": "is",
+        "宾语或表语": "bizarre",
+        "主干翻译": "富有的贵族家庭仍应是现代民主国家象征性的核心，这一点很是怪异。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "At a time when Thomas Piketty and other economists are warning of rising inequality and the increasing power of inherited wealth",
+          "修饰对象": "is",
+          "中文翻译": "在托马斯·皮凯蒂等经济学家正警告不平等加剧、继承财富的力量日益增强之际",
+          "说明": "At a time 加 when 定语从句整体作时间状语，交代背景。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "when Thomas Piketty and other economists are warning of rising inequality and the increasing power of inherited wealth",
+          "修饰对象": "time",
+          "中文翻译": "当托马斯·皮凯蒂和其他经济学家正在警告不平等加剧和继承财富的力量日益增强的时候",
+          "说明": "when 引导定语从句修饰先行词 a time。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "the increasing power of inherited wealth",
+          "修饰对象": "inequality",
+          "中文翻译": "继承财富日益增强的力量",
+          "说明": "与 rising inequality 由 and 并列，同作 warning of 的宾语。"
+        },
+        {
+          "成分类型": "主语从句",
+          "原文": "that wealthy aristocratic families should still be the symbolic heart of modern democratic states",
+          "修饰对象": "it",
+          "中文翻译": "富有的贵族家庭竟仍是现代民主国家象征性的核心",
+          "说明": "that 引导真正主语从句，由形式主语 it 替代前置；should 表惊讶/竟然语气。"
+        }
+      ],
+      "zh": "在托马斯·皮凯蒂等经济学家纷纷警告不平等日益加剧、继承财富的力量不断增强之际，富有的贵族家庭竟然仍是现代民主国家象征性的核心，这实在令人匪夷所思。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2015-text1-s13",
+      "s": "The most successful monarchies strive to abandon or hide their old aristocratic ways.",
+      "para_no": 5,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The most successful monarchies",
+        "谓语": "strive",
+        "宾语或表语": "to abandon or hide their old aristocratic ways",
+        "主干翻译": "最成功的君主国努力摒弃或掩饰其陈旧的贵族做派。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to abandon or hide their old aristocratic ways",
+          "修饰对象": "strive",
+          "中文翻译": "去摒弃或掩饰其陈旧的贵族做派",
+          "说明": "strive to do 结构中的不定式，作 strive 的宾语，表示努力的目标。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "hide their old aristocratic ways",
+          "修饰对象": "abandon",
+          "中文翻译": "掩饰其陈旧的贵族做派",
+          "说明": "abandon 与 hide 由 or 并列，共享宾语 their old aristocratic ways。"
+        }
+      ],
+      "zh": "最成功的君主国都竭力摒弃或掩盖自身陈旧的贵族做派。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2015-text1-s14",
+      "s": "Princes and princesses have day-jobs and ride bicycles, not horses (or helicopters).",
+      "para_no": 5,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Princes and princesses",
+        "谓语": "have / ride",
+        "宾语或表语": "day-jobs / bicycles",
+        "主干翻译": "王子和公主们有日常工作，骑自行车而非骑马（或乘直升机）。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "ride bicycles, not horses (or helicopters)",
+          "修饰对象": "have",
+          "中文翻译": "骑自行车，而不是骑马（或乘直升机）",
+          "说明": "谓语 ride... 与 have day-jobs 由 and 并列，共用主语。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "not horses (or helicopters)",
+          "修饰对象": "bicycles",
+          "中文翻译": "而不是马（或直升机）",
+          "说明": "对 bicycles 作否定性对比补充，括号内 or helicopters 为补充说明。"
+        }
+      ],
+      "zh": "王子和公主们都有日常工作，骑的是自行车，而非骏马（或直升机）。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2015-text1-s15",
+      "s": "Even so, these are wealthy families who party with the international 1%, and media intrusiveness makes it increasingly difficult to maintain the right image.",
+      "para_no": 5,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "these / media intrusiveness",
+        "谓语": "are / makes",
+        "宾语或表语": "wealthy families / it (...difficult)",
+        "主干翻译": "这些都是富裕的家庭；而媒体的侵扰使得维持得体形象越来越困难。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "who party with the international 1%",
+          "修饰对象": "families",
+          "中文翻译": "与国际上的1%富豪一同寻欢作乐的",
+          "说明": "who 引导定语从句修饰先行词 wealthy families。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "media intrusiveness makes it increasingly difficult to maintain the right image",
+          "修饰对象": "are",
+          "中文翻译": "媒体的侵扰使维持得体形象越来越困难",
+          "说明": "由 and 连接的并列分句，与前一分句构成并列复合句。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "it increasingly difficult to maintain the right image",
+          "修饰对象": "makes",
+          "中文翻译": "维持得体形象越来越难",
+          "说明": "make it + adj. + to do 结构，it 为形式宾语，difficult 为宾语补足语，真正宾语为不定式。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to maintain the right image",
+          "修饰对象": "difficult",
+          "中文翻译": "维持得体的形象",
+          "说明": "不定式作真正宾语，由形式宾语 it 替代前置。"
+        }
+      ],
+      "zh": "即便如此，这些都是与国际富豪1%阶层一同纵情享乐的富裕家庭，而媒体的无孔不入又使得维持得体形象变得愈发困难。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2015-text1-s16",
+      "s": "While Europe's monarchies will no doubt be smart enough to survive for some time to come, it is the British royals who have most to fear from the Spanish example.",
+      "para_no": 6,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "the British royals (强调部分)",
+        "谓语": "is / have",
+        "宾语或表语": "most to fear from the Spanish example",
+        "主干翻译": "正是英国王室最需要从西班牙的先例中汲取教训而心生畏惧。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(让步)",
+          "原文": "While Europe's monarchies will no doubt be smart enough to survive for some time to come",
+          "修饰对象": "is",
+          "中文翻译": "尽管欧洲的君主国无疑足够精明，足以在未来一段时间内存续下去",
+          "说明": "While 在此引导让步状语从句，意为\"尽管\"。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to survive for some time to come",
+          "修饰对象": "smart",
+          "中文翻译": "在未来一段时间内得以存续",
+          "说明": "smart enough to do 结构中的不定式，作结果/程度状语。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to come",
+          "修饰对象": "time",
+          "中文翻译": "未来的、即将到来的",
+          "说明": "不定式 to come 作后置定语修饰 some time。"
+        },
+        {
+          "成分类型": "强调句",
+          "原文": "it is the British royals who have most to fear from the Spanish example",
+          "修饰对象": "—",
+          "中文翻译": "正是英国王室最该从西班牙的例子中感到忧惧",
+          "说明": "It is ... who ... 强调句型，被强调的是主语 the British royals。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to fear from the Spanish example",
+          "修饰对象": "most",
+          "中文翻译": "需从西班牙的先例中感到担忧的",
+          "说明": "不定式作后置定语修饰 most（=most things to fear）。"
+        }
+      ],
+      "zh": "尽管欧洲各君主国无疑足够精明，足以在未来一段时间内存续下去，但真正最该从西班牙的先例中感到忧惧的，却是英国王室。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2015-text1-s17",
+      "s": "It is only the Queen who has preserved the monarchy's reputation with her rather ordinary (if well-heeled) granny style.",
+      "para_no": 7,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "the Queen (强调部分)",
+        "谓语": "is / has preserved",
+        "宾语或表语": "the monarchy's reputation",
+        "主干翻译": "正是女王凭借其相当寻常（虽则富足）的祖母式作风维护了君主制的声誉。"
+      },
+      "components": [
+        {
+          "成分类型": "强调句",
+          "原文": "It is only the Queen who has preserved the monarchy's reputation with her rather ordinary (if well-heeled) granny style",
+          "修饰对象": "—",
+          "中文翻译": "唯有女王才以其相当平凡（虽则富足）的祖母式作风维护了君主制的声誉",
+          "说明": "It is only ... who ... 强调句型，被强调的是主语 the Queen；with 短语作方式状语，if well-heeled 为让步性插入。"
+        }
+      ],
+      "zh": "唯有女王凭借她那相当寻常（尽管颇为富足）的祖母式作风，才维护住了君主制的声誉。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2015-text1-s18",
+      "s": "The danger will come with Charles, who has both an expensive taste of lifestyle and a pretty hierarchical view of the world.",
+      "para_no": 7,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "The danger",
+        "谓语": "will come",
+        "宾语或表语": "with Charles",
+        "主干翻译": "危险将随查尔斯而来。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "who has both an expensive taste of lifestyle and a pretty hierarchical view of the world",
+          "修饰对象": "Charles",
+          "中文翻译": "他既有奢华的生活品味，又持有相当等级森严的世界观",
+          "说明": "who 引导非限制性定语从句，修饰 Charles。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "a pretty hierarchical view of the world",
+          "修饰对象": "taste",
+          "中文翻译": "一种相当等级化的世界观",
+          "说明": "由 both...and... 连接，与 an expensive taste of lifestyle 并列，同作 has 的宾语。"
+        }
+      ],
+      "zh": "危险将随查尔斯而来，他既有奢华的生活品味，又持有一种相当等级森严的世界观。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2015-text1-s19",
+      "s": "He has failed to understand that monarchies have largely survived because they provide a service—as non-controversial and non-political heads of state.",
+      "para_no": 7,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "He",
+        "谓语": "has failed",
+        "宾语或表语": "to understand (that ...)",
+        "主干翻译": "他未能理解：君主制之所以在很大程度上得以存续。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to understand that monarchies have largely survived because they provide a service—as non-controversial and non-political heads of state",
+          "修饰对象": "failed",
+          "中文翻译": "去理解君主制之所以基本得以存续，是因为它们提供了一种服务",
+          "说明": "fail to do 结构中的不定式，作 fail 的宾语，其内部含一个宾语从句。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that monarchies have largely survived because they provide a service—as non-controversial and non-political heads of state",
+          "修饰对象": "understand",
+          "中文翻译": "君主制之所以大体上得以存续，是因为它们提供了一种服务——作为无争议、非政治化的国家元首",
+          "说明": "that 引导宾语从句，作 understand 的宾语；破折号后 as... 为介词短语作状语，说明服务的身份方式。"
+        },
+        {
+          "成分类型": "状语从句(原因)",
+          "原文": "because they provide a service—as non-controversial and non-political heads of state",
+          "修饰对象": "survived",
+          "中文翻译": "因为它们作为无争议且非政治化的国家元首提供了一种服务",
+          "说明": "because 引导原因状语从句，解释君主制存续的原因。"
+        }
+      ],
+      "zh": "他未能理解：君主制之所以大体上得以延续，是因为它们提供了一种服务——充当无争议、非政治化的国家元首。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2015-text1-s20",
+      "s": "Charles ought to know that as English history shows, it is kings, not republicans, who are the monarchy's worst enemies.",
+      "para_no": 7,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "Charles",
+        "谓语": "ought to know",
+        "宾语或表语": "that ... it is kings ... who are the monarchy's worst enemies",
+        "主干翻译": "查尔斯应当明白：正是国王，而非共和派，才是君主制最大的敌人。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to know that as English history shows, it is kings, not republicans, who are the monarchy's worst enemies",
+          "修饰对象": "ought",
+          "中文翻译": "去明白正如英国历史所示，是国王而非共和派才是君主制最大的敌人",
+          "说明": "ought to do 结构中的不定式，作 ought 的宾语，其内部含宾语从句。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that as English history shows, it is kings, not republicans, who are the monarchy's worst enemies",
+          "修饰对象": "know",
+          "中文翻译": "正如英国历史所表明的，是国王而非共和派，才是君主制最大的敌人",
+          "说明": "that 引导宾语从句作 know 的宾语，从句内部含插入的 as 从句与一个强调句。"
+        },
+        {
+          "成分类型": "状语从句(方式)",
+          "原文": "as English history shows",
+          "修饰对象": "is",
+          "中文翻译": "正如英国历史所表明的那样",
+          "说明": "as 引导方式状语从句，作插入成分，意为\"正如……所示\"。"
+        },
+        {
+          "成分类型": "强调句",
+          "原文": "it is kings, not republicans, who are the monarchy's worst enemies",
+          "修饰对象": "—",
+          "中文翻译": "正是国王、而非共和派，才是君主制最大的敌人",
+          "说明": "It is ... who ... 强调句型，被强调的是主语 kings；not republicans 为对比性插入。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "not republicans",
+          "修饰对象": "kings",
+          "中文翻译": "而不是共和派",
+          "说明": "对被强调成分 kings 作否定性对比补充。"
+        }
+      ],
+      "zh": "查尔斯应当明白，正如英国历史所表明的那样，君主制最大的敌人正是国王本身，而非共和派。",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2015-text1-s1",
+        "en1-2015-text1-s2",
+        "en1-2015-text1-s3",
+        "en1-2015-text1-s4"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2015-text1-s5",
+        "en1-2015-text1-s6"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2015-text1-s7",
+        "en1-2015-text1-s8",
+        "en1-2015-text1-s9"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2015-text1-s10",
+        "en1-2015-text1-s11",
+        "en1-2015-text1-s12"
+      ]
+    },
+    {
+      "para_no": 5,
+      "sids": [
+        "en1-2015-text1-s13",
+        "en1-2015-text1-s14",
+        "en1-2015-text1-s15"
+      ]
+    },
+    {
+      "para_no": 6,
+      "sids": [
+        "en1-2015-text1-s16"
+      ]
+    },
+    {
+      "para_no": 7,
+      "sids": [
+        "en1-2015-text1-s17",
+        "en1-2015-text1-s18",
+        "en1-2015-text1-s19",
+        "en1-2015-text1-s20"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,778 @@
+{
+  "exam": "en1",
+  "key": "2021-t2",
+  "year": 2021,
+  "text_no": 2,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2021-text2-s1",
+      "s": "Last year marked the third year in a row of when Indonesia's bleak rate of deforestation has slowed in pace.",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Last year",
+        "谓语": "marked",
+        "宾语或表语": "the third year in a row",
+        "主干翻译": "去年标志着连续第三年。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "when Indonesia's bleak rate of deforestation has slowed in pace",
+          "修饰对象": "year",
+          "中文翻译": "印度尼西亚惨淡的森林砍伐速度有所放缓",
+          "说明": "when 引导的定语从句修饰 year，表示在这一年里发生的情况（此处带冗余的 of）。"
+        }
+      ],
+      "zh": "去年标志着印度尼西亚令人沮丧的森林砍伐速度连续第三年放缓。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2021-text2-s2",
+      "s": "One reason for the turnaround may be the country's antipoverty program.",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "One reason for the turnaround",
+        "谓语": "may be",
+        "宾语或表语": "the country's antipoverty program",
+        "主干翻译": "这一转变的一个原因可能是该国的扶贫计划。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "for the turnaround",
+          "修饰对象": "reason",
+          "中文翻译": "这一转变的",
+          "说明": "介词短语修饰主语 reason，限定其所指。"
+        }
+      ],
+      "zh": "这一转变的一个原因可能是该国的扶贫计划。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2021-text2-s3",
+      "s": "In 2007, Indonesia started phasing in a program that gives money to its poorest residents under certain conditions, such as requiring people to keep kids in school or get regular medical care.",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Indonesia",
+        "谓语": "started",
+        "宾语或表语": "a program",
+        "主干翻译": "印度尼西亚开始实施一项计划。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "phasing in a program that gives money to its poorest residents under certain conditions, such as requiring people to keep kids in school or get regular medical care",
+          "修饰对象": "started",
+          "中文翻译": "逐步推行一项在特定条件下向最贫困居民发放资金的计划",
+          "说明": "现在分词短语作 started 的宾语补足/伴随成分，phase in 表示分阶段推行；'a program' 为其逻辑宾语。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that gives money to its poorest residents under certain conditions, such as requiring people to keep kids in school or get regular medical care",
+          "修饰对象": "program",
+          "中文翻译": "在某些条件下向其最贫困居民发放资金的",
+          "说明": "that 引导定语从句修饰 program。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "requiring people to keep kids in school or get regular medical care",
+          "修饰对象": "conditions",
+          "中文翻译": "例如要求人们让孩子上学或定期就医",
+          "说明": "such as 后的现在分词短语，举例说明 conditions 的内容。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "get regular medical care",
+          "修饰对象": "keep",
+          "中文翻译": "（让孩子）定期就医",
+          "说明": "与 keep kids in school 并列，由 or 连接，同受 to 支配。"
+        }
+      ],
+      "zh": "2007 年，印度尼西亚开始逐步推行一项计划，在某些条件下向最贫困的居民发放资金，例如要求他们让孩子上学或定期就医。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2021-text2-s4",
+      "s": "Called conditional cash transfers or CCTs, these social assistance programs are designed to reduce inequality and break the cycle of poverty.",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "these social assistance programs",
+        "谓语": "are designed",
+        "宾语或表语": "to reduce inequality and break the cycle of poverty",
+        "主干翻译": "这些社会援助计划旨在减少不平等并打破贫困的循环。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "Called conditional cash transfers or CCTs",
+          "修饰对象": "programs",
+          "中文翻译": "被称为有条件现金转移支付（CCT）",
+          "说明": "过去分词短语作定语（前置），修饰主语 programs，说明其名称。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to reduce inequality and break the cycle of poverty",
+          "修饰对象": "designed",
+          "中文翻译": "以减少不平等并打破贫困的循环",
+          "说明": "动词不定式作目的状语，说明 designed 的目的。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "break the cycle of poverty",
+          "修饰对象": "reduce",
+          "中文翻译": "打破贫困的循环",
+          "说明": "与 reduce inequality 并列，同受 to 支配。"
+        }
+      ],
+      "zh": "这些被称为有条件现金转移支付（CCT）的社会援助计划，旨在减少不平等并打破贫困的循环。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2021-text2-s5",
+      "s": "They're already used in dozens of countries worldwide.",
+      "para_no": 2,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "They",
+        "谓语": "'re already used",
+        "宾语或表语": "（被动，无宾语）",
+        "主干翻译": "它们已被使用。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "in dozens of countries worldwide",
+          "修饰对象": "used",
+          "中文翻译": "在全世界数十个国家",
+          "说明": "地点状语，修饰 used。"
+        }
+      ],
+      "zh": "它们已在全世界数十个国家被采用。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2021-text2-s6",
+      "s": "In Indonesia, the program has provided enough food and medicine to substantially reduce severe growth problems among children.",
+      "para_no": 2,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "the program",
+        "谓语": "has provided",
+        "宾语或表语": "enough food and medicine",
+        "主干翻译": "该计划提供了足够的食物和药品。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to substantially reduce severe growth problems among children",
+          "修饰对象": "food",
+          "中文翻译": "足以大幅减少儿童严重发育问题（的）",
+          "说明": "不定式作定语修饰 enough food and medicine（与 enough 呼应），表示足以达到的效果。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "In Indonesia",
+          "修饰对象": "provided",
+          "中文翻译": "在印度尼西亚",
+          "说明": "句首地点状语。"
+        }
+      ],
+      "zh": "在印度尼西亚，该计划提供了足够的食物和药品，足以大幅减少儿童的严重发育问题。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2021-text2-s7",
+      "s": "But CCT programs don't generally consider effects on the environment.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "CCT programs",
+        "谓语": "don't generally consider",
+        "宾语或表语": "effects on the environment",
+        "主干翻译": "CCT 计划通常不考虑对环境的影响。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "on the environment",
+          "修饰对象": "effects",
+          "中文翻译": "对环境的",
+          "说明": "介词短语修饰 effects。"
+        }
+      ],
+      "zh": "但 CCT 计划通常并不考虑对环境的影响。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2021-text2-s8",
+      "s": "In fact, poverty alleviation and environmental protection are often viewed as conflicting goals, says Paul Ferraro, an economist at Johns Hopkins University.",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Paul Ferraro",
+        "谓语": "says",
+        "宾语或表语": "（宾语从句）poverty alleviation and environmental protection are often viewed as conflicting goals",
+        "主干翻译": "保罗·费拉罗说，扶贫与环境保护常被视为相互冲突的目标。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "In fact, poverty alleviation and environmental protection are often viewed as conflicting goals",
+          "修饰对象": "says",
+          "中文翻译": "事实上，扶贫与环境保护常被视为相互冲突的目标",
+          "说明": "前置的宾语从句，作 says 的宾语（引语在前、主谓在后）。"
+        },
+        {
+          "成分类型": "同位语",
+          "原文": "an economist at Johns Hopkins University",
+          "修饰对象": "Ferraro",
+          "中文翻译": "约翰斯·霍普金斯大学的一位经济学家",
+          "说明": "名词短语作 Paul Ferraro 的同位语，说明其身份。"
+        }
+      ],
+      "zh": "约翰斯·霍普金斯大学的经济学家保罗·费拉罗说，事实上，扶贫与环境保护常被视为相互冲突的目标。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2021-text2-s9",
+      "s": "That's because economic growth can be correlated with environmental degradation, while protecting the environment is sometimes correlated with greater poverty.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "That",
+        "谓语": "'s",
+        "宾语或表语": "（原因状语从句）because...",
+        "主干翻译": "那是因为……"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(原因)",
+          "原文": "because economic growth can be correlated with environmental degradation, while protecting the environment is sometimes correlated with greater poverty",
+          "修饰对象": "'s",
+          "中文翻译": "因为经济增长可能与环境退化相关，而保护环境有时又与更严重的贫困相关",
+          "说明": "because 引导原因状语从句，解释 That。"
+        },
+        {
+          "成分类型": "状语从句(比较)",
+          "原文": "while protecting the environment is sometimes correlated with greater poverty",
+          "修饰对象": "correlated",
+          "中文翻译": "而保护环境有时却与更严重的贫困相关",
+          "说明": "while 在此表对比/转折（'而'），与前半句形成对照。"
+        }
+      ],
+      "zh": "那是因为经济增长可能与环境退化相关，而保护环境有时却与更严重的贫困相关。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2021-text2-s10",
+      "s": "However, those correlations don't prove cause and effect.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "those correlations",
+        "谓语": "don't prove",
+        "宾语或表语": "cause and effect",
+        "主干翻译": "这些相关性并不能证明因果关系。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "However",
+          "修饰对象": "—",
+          "中文翻译": "然而",
+          "说明": "句首转折连接副词。"
+        }
+      ],
+      "zh": "然而，这些相关性并不能证明因果关系。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2021-text2-s11",
+      "s": "The only previous study analyzing causality, based on an area in Mexico that had instituted CCTs, supported the traditional view.",
+      "para_no": 4,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "The only previous study",
+        "谓语": "supported",
+        "宾语或表语": "the traditional view",
+        "主干翻译": "唯一一项先前的研究支持了传统观点。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "analyzing causality",
+          "修饰对象": "study",
+          "中文翻译": "分析因果关系的",
+          "说明": "现在分词短语作定语修饰 study。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "based on an area in Mexico that had instituted CCTs",
+          "修饰对象": "study",
+          "中文翻译": "基于墨西哥一个已实施 CCT 的地区的",
+          "说明": "过去分词短语作定语修饰 study。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that had instituted CCTs",
+          "修饰对象": "area",
+          "中文翻译": "已实施 CCT 的",
+          "说明": "that 引导定语从句修饰 area。"
+        }
+      ],
+      "zh": "唯一一项分析因果关系的先前研究，基于墨西哥一个已实施 CCT 的地区，其结论支持了传统观点。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2021-text2-s12",
+      "s": "There, as people got more money, some of them may have more cleared land for cattle to raise for meat, Ferraro says.",
+      "para_no": 4,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "Ferraro",
+        "谓语": "says",
+        "宾语或表语": "（宾语从句）some of them may have more cleared land...",
+        "主干翻译": "费拉罗说，其中一些人可能开垦了更多土地。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "There, as people got more money, some of them may have more cleared land for cattle to raise for meat",
+          "修饰对象": "says",
+          "中文翻译": "在那里，随着人们获得更多钱，其中一些人可能开垦了更多土地来养牛产肉",
+          "说明": "前置的宾语从句作 says 的宾语。"
+        },
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "as people got more money",
+          "修饰对象": "have",
+          "中文翻译": "随着人们获得更多的钱",
+          "说明": "as 引导时间/伴随状语从句（'随着'）。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "for cattle to raise for meat",
+          "修饰对象": "land",
+          "中文翻译": "用来养牛产肉的",
+          "说明": "for cattle to raise 为 'for+名词+不定式' 结构作定语修饰 land。"
+        }
+      ],
+      "zh": "费拉罗说，在那里，随着人们获得更多的钱，其中一些人可能开垦了更多土地来养牛产肉。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2021-text2-s13",
+      "s": "Such programs do not have to negatively affect the environment, though.",
+      "para_no": 5,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Such programs",
+        "谓语": "do not have to negatively affect",
+        "宾语或表语": "the environment",
+        "主干翻译": "这类计划不一定会对环境产生负面影响。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to negatively affect the environment",
+          "修饰对象": "have",
+          "中文翻译": "对环境产生负面影响",
+          "说明": "不定式构成 have to 结构的主体，作谓语补足成分。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "though",
+          "修饰对象": "—",
+          "中文翻译": "不过",
+          "说明": "句末转折副词。"
+        }
+      ],
+      "zh": "不过，这类计划不一定会对环境产生负面影响。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2021-text2-s14",
+      "s": "Ferraro wanted to see if Indonesia's poverty-alleviation program was affecting deforestation.",
+      "para_no": 5,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Ferraro",
+        "谓语": "wanted",
+        "宾语或表语": "to see if...",
+        "主干翻译": "费拉罗想弄清楚……"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to see if Indonesia's poverty-alleviation program was affecting deforestation",
+          "修饰对象": "wanted",
+          "中文翻译": "弄清楚印度尼西亚的扶贫计划是否在影响森林砍伐",
+          "说明": "不定式作 wanted 的宾语。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "if Indonesia's poverty-alleviation program was affecting deforestation",
+          "修饰对象": "see",
+          "中文翻译": "印度尼西亚的扶贫计划是否正在影响森林砍伐",
+          "说明": "if 引导宾语从句，作 see 的宾语。"
+        }
+      ],
+      "zh": "费拉罗想弄清楚印度尼西亚的扶贫计划是否正在影响森林砍伐。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2021-text2-s15",
+      "s": "Indonesia has the third-largest area of tropical forest in the world and one of the highest deforestation rates.",
+      "para_no": 5,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Indonesia",
+        "谓语": "has",
+        "宾语或表语": "the third-largest area of tropical forest and one of the highest deforestation rates",
+        "主干翻译": "印度尼西亚拥有第三大的热带森林面积和最高的森林砍伐率之一。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "of tropical forest in the world",
+          "修饰对象": "area",
+          "中文翻译": "世界上热带森林的",
+          "说明": "介词短语修饰 area。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "one of the highest deforestation rates",
+          "修饰对象": "area",
+          "中文翻译": "最高的森林砍伐率之一",
+          "说明": "与 the third-largest area... 并列，同为 has 的宾语，由 and 连接。"
+        }
+      ],
+      "zh": "印度尼西亚拥有世界第三大的热带森林面积，以及最高的森林砍伐率之一。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2021-text2-s16",
+      "s": "Ferraro analyzed satellite data showing annual forest loss from 2008 to 2012—including during Indonesia's phase-in of the antipoverty program—in 7,468 forested villages across 15 provinces.",
+      "para_no": 6,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Ferraro",
+        "谓语": "analyzed",
+        "宾语或表语": "satellite data",
+        "主干翻译": "费拉罗分析了卫星数据。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "showing annual forest loss from 2008 to 2012—including during Indonesia's phase-in of the antipoverty program—in 7,468 forested villages across 15 provinces",
+          "修饰对象": "data",
+          "中文翻译": "显示 2008 至 2012 年间（包括印度尼西亚分阶段推行扶贫计划期间）15 个省 7468 个林区村庄年度森林损失的",
+          "说明": "现在分词短语作定语修饰 satellite data；破折号间为插入的补充说明。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "including during Indonesia's phase-in of the antipoverty program",
+          "修饰对象": "—",
+          "中文翻译": "包括印度尼西亚分阶段推行扶贫计划期间",
+          "说明": "破折号间的插入语，补充时间范围。"
+        }
+      ],
+      "zh": "费拉罗分析了卫星数据，这些数据显示了 2008 至 2012 年间（包括印度尼西亚分阶段推行扶贫计划期间）15 个省 7468 个林区村庄的年度森林损失情况。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2021-text2-s17",
+      "s": "\"we see that the program is associated with a 30 percent reduction in deforestation,\" Ferraro says.",
+      "para_no": 6,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "we",
+        "谓语": "see",
+        "宾语或表语": "（宾语从句）that the program is associated with a 30 percent reduction in deforestation",
+        "主干翻译": "我们看到，该计划与森林砍伐减少 30% 相关。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "that the program is associated with a 30 percent reduction in deforestation",
+          "修饰对象": "see",
+          "中文翻译": "该计划与森林砍伐减少 30% 相关联",
+          "说明": "that 引导宾语从句，作 see 的宾语。"
+        }
+      ],
+      "zh": "“我们看到，该计划与森林砍伐减少 30% 相关联，”费拉罗说。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2021-text2-s18",
+      "s": "That's likely because the rural poor are using the money as makeshift insurance policies against inclement weather, Ferraro says.",
+      "para_no": 7,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Ferraro",
+        "谓语": "says",
+        "宾语或表语": "（宾语从句）That's likely because...",
+        "主干翻译": "费拉罗说，那很可能是因为……"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "That's likely because the rural poor are using the money as makeshift insurance policies against inclement weather",
+          "修饰对象": "says",
+          "中文翻译": "那很可能是因为农村贫困人口把这笔钱用作应对恶劣天气的临时保险",
+          "说明": "前置的宾语从句作 says 的宾语。"
+        },
+        {
+          "成分类型": "状语从句(原因)",
+          "原文": "because the rural poor are using the money as makeshift insurance policies against inclement weather",
+          "修饰对象": "'s",
+          "中文翻译": "因为农村贫困人口正把这笔钱用作应对恶劣天气的临时保险",
+          "说明": "because 引导原因状语从句，解释 That。"
+        }
+      ],
+      "zh": "费拉罗说，那很可能是因为农村贫困人口把这笔钱用作应对恶劣天气的临时保险。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2021-text2-s19",
+      "s": "Typically, if rains are delayed, people may clear land to plant more rice to supplement their harvests.",
+      "para_no": 7,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "people",
+        "谓语": "may clear",
+        "宾语或表语": "land",
+        "主干翻译": "人们可能会开垦土地。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "if rains are delayed",
+          "修饰对象": "clear",
+          "中文翻译": "如果降雨推迟",
+          "说明": "if 引导条件状语从句。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to plant more rice to supplement their harvests",
+          "修饰对象": "clear",
+          "中文翻译": "以种植更多水稻来补充收成",
+          "说明": "不定式作目的状语，修饰 clear。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to supplement their harvests",
+          "修饰对象": "plant",
+          "中文翻译": "以补充他们的收成",
+          "说明": "不定式作目的状语，修饰 plant more rice。"
+        }
+      ],
+      "zh": "通常，如果降雨推迟，人们可能会开垦土地以种植更多水稻来补充收成。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2021-text2-s21",
+      "s": "Whether this research translates elsewhere is anybody's guess.",
+      "para_no": 8,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Whether this research translates elsewhere",
+        "谓语": "is",
+        "宾语或表语": "anybody's guess",
+        "主干翻译": "这项研究是否适用于其他地方，谁也说不准。"
+      },
+      "components": [
+        {
+          "成分类型": "主语从句",
+          "原文": "Whether this research translates elsewhere",
+          "修饰对象": "—",
+          "中文翻译": "这项研究是否能适用于其他地方",
+          "说明": "Whether 引导主语从句，作句子主语。"
+        }
+      ],
+      "zh": "这项研究是否适用于其他地方，谁也说不准。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2021-text2-s22",
+      "s": "Ferraro suggests the results may transfer to other parts of Asia, due to commonalities such as the importance of growing rice and market access.",
+      "para_no": 8,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Ferraro",
+        "谓语": "suggests",
+        "宾语或表语": "（宾语从句）the results may transfer to other parts of Asia",
+        "主干翻译": "费拉罗认为，这些结果可能适用于亚洲其他地区。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "the results may transfer to other parts of Asia, due to commonalities such as the importance of growing rice and market access",
+          "修饰对象": "suggests",
+          "中文翻译": "由于种植水稻的重要性和市场准入等共同点，这些结果可能适用于亚洲其他地区",
+          "说明": "省略 that 的宾语从句，作 suggests 的宾语。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "due to commonalities such as the importance of growing rice and market access",
+          "修饰对象": "transfer",
+          "中文翻译": "由于种植水稻的重要性和市场准入等共同点",
+          "说明": "due to 引导原因状语，修饰从句谓语 transfer。"
+        }
+      ],
+      "zh": "费拉罗认为，由于种植水稻的重要性和市场准入等共同点，这些结果可能适用于亚洲其他地区。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2021-text2-s23",
+      "s": "And regardless of transferability, the study shows that what's good for people may also be good for the environment.",
+      "para_no": 8,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "the study",
+        "谓语": "shows",
+        "宾语或表语": "（宾语从句）that what's good for people may also be good for the environment",
+        "主干翻译": "这项研究表明，对人有益的也可能对环境有益。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "that what's good for people may also be good for the environment",
+          "修饰对象": "shows",
+          "中文翻译": "对人们有益的东西也可能对环境有益",
+          "说明": "that 引导宾语从句，作 shows 的宾语。"
+        },
+        {
+          "成分类型": "主语从句",
+          "原文": "what's good for people",
+          "修饰对象": "—",
+          "中文翻译": "对人们有益的东西",
+          "说明": "what 引导从句，作宾语从句内部的主语。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "regardless of transferability",
+          "修饰对象": "shows",
+          "中文翻译": "无论是否可迁移",
+          "说明": "句首让步性介词短语状语。"
+        }
+      ],
+      "zh": "而且，无论是否可迁移，这项研究都表明，对人们有益的东西也可能对环境有益。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2021-text2-s24",
+      "s": "Even if this program didn't reduce poverty, Ferraro says, \"the value of the avoided deforestation just for carbon dioxide emissions alone is more than the program costs.\"",
+      "para_no": 8,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "the value of the avoided deforestation",
+        "谓语": "is",
+        "宾语或表语": "more than the program costs",
+        "主干翻译": "所避免的森林砍伐的价值超过了该计划的成本。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(让步)",
+          "原文": "Even if this program didn't reduce poverty",
+          "修饰对象": "is",
+          "中文翻译": "即使这个计划没有减少贫困",
+          "说明": "Even if 引导让步状语从句。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "Ferraro says",
+          "修饰对象": "—",
+          "中文翻译": "费拉罗说",
+          "说明": "插入的引述语，分隔引语。"
+        },
+        {
+          "成分类型": "状语从句(比较)",
+          "原文": "than the program costs",
+          "修饰对象": "more",
+          "中文翻译": "比该计划的成本（更多）",
+          "说明": "than 引导比较状语从句，与 more 呼应。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "just for carbon dioxide emissions alone",
+          "修饰对象": "value",
+          "中文翻译": "仅就二氧化碳排放而言",
+          "说明": "限定 value 的范围。"
+        }
+      ],
+      "zh": "费拉罗说，即使这个计划没有减少贫困，“仅就二氧化碳排放而言，所避免的森林砍伐的价值就超过了该计划的成本。”",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2021-text2-s1",
+        "en1-2021-text2-s2"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2021-text2-s3",
+        "en1-2021-text2-s4",
+        "en1-2021-text2-s5",
+        "en1-2021-text2-s6"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2021-text2-s7",
+        "en1-2021-text2-s8"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2021-text2-s9",
+        "en1-2021-text2-s10",
+        "en1-2021-text2-s11",
+        "en1-2021-text2-s12"
+      ]
+    },
+    {
+      "para_no": 5,
+      "sids": [
+        "en1-2021-text2-s13",
+        "en1-2021-text2-s14",
+        "en1-2021-text2-s15"
+      ]
+    },
+    {
+      "para_no": 6,
+      "sids": [
+        "en1-2021-text2-s16",
+        "en1-2021-text2-s17"
+      ]
+    },
+    {
+      "para_no": 7,
+      "sids": [
+        "en1-2021-text2-s18",
+        "en1-2021-text2-s19"
+      ]
+    },
+    {
+      "para_no": 8,
+      "sids": [
+        "en1-2021-text2-s21",
+        "en1-2021-text2-s22",
+        "en1-2021-text2-s23",
+        "en1-2021-text2-s24"
+      ]
+    }
+  ]
+}

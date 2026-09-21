@@ -1,0 +1,719 @@
+{
+  "exam": "en1",
+  "key": "2014-t3",
+  "year": 2014,
+  "text_no": 3,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2014-text3-s1",
+      "s": "The US $3–million Fundamental Physics Prize is indeed an interesting experiment, as Alexander Polyakov said when he accepted this year's award in March.",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The US $3–million Fundamental Physics Prize",
+        "谓语": "is",
+        "宾语或表语": "an interesting experiment",
+        "主干翻译": "这项300万美元的基础物理学奖确实是一个有趣的实验。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(方式)",
+          "原文": "as Alexander Polyakov said when he accepted this year's award in March",
+          "修饰对象": "is",
+          "中文翻译": "正如亚历山大·波利亚科夫在三月份接受今年的奖项时所说的那样",
+          "说明": "as 引导方式状语从句，挂靠系动词 is，意为「正如……所说」"
+        },
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "when he accepted this year's award in March",
+          "修饰对象": "said",
+          "中文翻译": "当他在三月份接受今年的奖项时",
+          "说明": "when 引导时间状语从句，修饰 said"
+        }
+      ],
+      "zh": "正如亚历山大·波利亚科夫今年三月份接受该奖项时所说的那样，这项300万美元的基础物理学奖确实是一个有趣的实验。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2014-text3-s2",
+      "s": "And it is far from the only one of its type.",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "it",
+        "谓语": "is",
+        "宾语或表语": "far from the only one of its type",
+        "主干翻译": "它远非同类中唯一的一个。"
+      },
+      "components": [],
+      "zh": "而且它远非这一类奖项中唯一的一个。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2014-text3-s3",
+      "s": "As a News Feature article in Nature discusses, a string of lucrative awards for researchers have joined the Nobel Prizes in recent years.",
+      "para_no": 1,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "a string of lucrative awards for researchers",
+        "谓语": "have joined",
+        "宾语或表语": "the Nobel Prizes",
+        "主干翻译": "一系列面向研究人员的丰厚奖项加入了诺贝尔奖的行列。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(方式)",
+          "原文": "As a News Feature article in Nature discusses",
+          "修饰对象": "joined",
+          "中文翻译": "正如《自然》杂志一篇新闻专题文章所讨论的那样",
+          "说明": "As 引导方式状语从句，挂靠 joined，意为「正如……所讨论的」"
+        }
+      ],
+      "zh": "正如《自然》杂志一篇新闻专题文章所讨论的那样，近年来一系列面向研究人员的丰厚奖项加入了诺贝尔奖的行列。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2014-text3-s4",
+      "s": "Many, like the Fundamental Physics Prize, are funded from the telephone-number-sized bank accounts of Internet entrepreneurs.",
+      "para_no": 1,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "Many",
+        "谓语": "are funded",
+        "宾语或表语": "from the telephone-number-sized bank accounts of Internet entrepreneurs",
+        "主干翻译": "许多奖项的资金来自互联网企业家电话号码般庞大的银行账户。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "like the Fundamental Physics Prize",
+          "修饰对象": "Many",
+          "中文翻译": "比如基础物理学奖",
+          "说明": "like 引导的插入语，举例说明主语 Many"
+        }
+      ],
+      "zh": "许多奖项，比如基础物理学奖，其资金来自互联网企业家电话号码般庞大（多位数）的银行账户。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2014-text3-s5",
+      "s": "These benefactors have succeeded in their chosen fields, they say, and they want to use their wealth to draw attention to those who have succeeded in science.",
+      "para_no": 1,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "These benefactors / they",
+        "谓语": "have succeeded / want",
+        "宾语或表语": "(in their chosen fields) / to use their wealth...",
+        "主干翻译": "这些捐助者在各自选择的领域已经取得了成功，他们想用自己的财富……"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "they want to use their wealth to draw attention to those who have succeeded in science",
+          "修饰对象": "succeeded",
+          "中文翻译": "他们想用自己的财富来吸引人们关注那些在科学界取得成功的人",
+          "说明": "and 连接的并列分句，与前一分句构成并列"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to use their wealth to draw attention to those who have succeeded in science",
+          "修饰对象": "want",
+          "中文翻译": "用自己的财富来吸引人们关注那些在科学界取得成功的人",
+          "说明": "动词不定式作 want 的宾语（补足成分）"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to draw attention to those who have succeeded in science",
+          "修饰对象": "use",
+          "中文翻译": "来吸引人们关注那些在科学界取得成功的人",
+          "说明": "动词不定式作目的状语，修饰 use"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "who have succeeded in science",
+          "修饰对象": "those",
+          "中文翻译": "那些在科学界取得成功的（人）",
+          "说明": "who 引导定语从句，修饰先行词 those"
+        }
+      ],
+      "zh": "他们说，这些捐助者已在各自选择的领域取得成功，并且他们想用自己的财富来吸引人们关注那些在科学界取得成就的人。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2014-text3-s6",
+      "s": "What's not to like?",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "What",
+        "谓语": "is",
+        "宾语或表语": "not to like",
+        "主干翻译": "有什么不值得喜欢的呢？"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to like",
+          "修饰对象": "'s",
+          "中文翻译": "去喜欢",
+          "说明": "动词不定式作表语，与系动词 is(’s) 构成「What's not to like」结构"
+        }
+      ],
+      "zh": "这有什么不值得喜欢的呢？",
+      "underline": null
+    },
+    {
+      "sid": "en1-2014-text3-s7",
+      "s": "Quite a lot, according to a handful of scientists quoted in the News Feature.",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "(There is) Quite a lot",
+        "谓语": "(省略)",
+        "宾语或表语": "Quite a lot",
+        "主干翻译": "（值得不喜欢的）还真不少。"
+      },
+      "components": [
+        {
+          "成分类型": "省略",
+          "原文": "Quite a lot",
+          "修饰对象": "—",
+          "中文翻译": "（不喜欢之处）还真不少",
+          "说明": "承接上句的省略回答，省略了主谓"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "quoted in the News Feature",
+          "修饰对象": "scientists",
+          "中文翻译": "新闻专题中所引述的（科学家）",
+          "说明": "过去分词短语作定语，修饰 scientists（中心词 handful 所指的科学家）"
+        }
+      ],
+      "zh": "据新闻专题中引述的少数几位科学家所言，（不值得喜欢的地方）还真不少。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2014-text3-s8",
+      "s": "You cannot buy class, as the old saying goes, and these upstart entrepreneurs cannot buy their prizes the prestige of the Nobels.",
+      "para_no": 2,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "You / these upstart entrepreneurs",
+        "谓语": "cannot buy",
+        "宾语或表语": "class / their prizes the prestige of the Nobels",
+        "主干翻译": "你买不到格调，这些暴发户企业家也买不到他们的奖项所应有的诺贝尔奖的声望。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(方式)",
+          "原文": "as the old saying goes",
+          "修饰对象": "buy",
+          "中文翻译": "正如那句老话所说",
+          "说明": "as 引导方式状语从句，意为「正如俗话所说」"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "these upstart entrepreneurs cannot buy their prizes the prestige of the Nobels",
+          "修饰对象": "buy",
+          "中文翻译": "这些暴发户企业家无法为他们的奖项买来诺贝尔奖那样的声望",
+          "说明": "and 连接的并列分句"
+        }
+      ],
+      "zh": "正如俗话所说，金钱买不到格调，这些暴发户企业家也无法为他们的奖项买来诺贝尔奖那样的声望。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2014-text3-s9",
+      "s": "The new awards are an exercise in self-promotion for those behind them, say scientists.",
+      "para_no": 2,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "scientists",
+        "谓语": "say",
+        "宾语或表语": "(宾语从句)",
+        "主干翻译": "科学家们说……"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "The new awards are an exercise in self-promotion for those behind them",
+          "修饰对象": "say",
+          "中文翻译": "这些新奖项是其幕后操办者进行自我宣传的一种手段",
+          "说明": "say 的宾语从句（前置，主句倒装为 say scientists）"
+        }
+      ],
+      "zh": "科学家们说，这些新奖项是其幕后操办者进行自我宣传的一种手段。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2014-text3-s10",
+      "s": "They could distort the achievement-based system of peer-review-led research.",
+      "para_no": 2,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "They",
+        "谓语": "could distort",
+        "宾语或表语": "the achievement-based system of peer-review-led research",
+        "主干翻译": "它们可能会扭曲以同行评审为主导的研究中那套基于成就的体系。"
+      },
+      "components": [],
+      "zh": "它们可能会扭曲以同行评审为主导的研究中那套以成就为基础的体系。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2014-text3-s11",
+      "s": "They could cement the status quo of peer-reviewed research.",
+      "para_no": 2,
+      "para_seq": 5,
+      "trunk": {
+        "主语": "They",
+        "谓语": "could cement",
+        "宾语或表语": "the status quo of peer-reviewed research",
+        "主干翻译": "它们可能会固化同行评审研究的现状。"
+      },
+      "components": [],
+      "zh": "它们可能会固化同行评审研究的现状。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2014-text3-s12",
+      "s": "They do not fund peer-reviewed research.",
+      "para_no": 2,
+      "para_seq": 6,
+      "trunk": {
+        "主语": "They",
+        "谓语": "do not fund",
+        "宾语或表语": "peer-reviewed research",
+        "主干翻译": "它们并不资助同行评审的研究。"
+      },
+      "components": [],
+      "zh": "它们并不资助同行评审的研究。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2014-text3-s13",
+      "s": "They perpetuate the myth of the lone genius.",
+      "para_no": 2,
+      "para_seq": 7,
+      "trunk": {
+        "主语": "They",
+        "谓语": "perpetuate",
+        "宾语或表语": "the myth of the lone genius",
+        "主干翻译": "它们使「孤独天才」的神话长盛不衰。"
+      },
+      "components": [],
+      "zh": "它们使「孤独天才」的神话长盛不衰（延续了孤胆天才的迷思）。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2014-text3-s14",
+      "s": "The goals of the prize-givers seem as scattered as the criticism.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The goals of the prize-givers",
+        "谓语": "seem",
+        "宾语或表语": "as scattered as the criticism",
+        "主干翻译": "颁奖者的目标似乎和批评一样杂乱无章。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(比较)",
+          "原文": "as scattered as the criticism",
+          "修饰对象": "seem",
+          "中文翻译": "和批评一样杂乱",
+          "说明": "as...as 同级比较结构，作表语，将目标与批评进行比较"
+        }
+      ],
+      "zh": "颁奖者的目标似乎和针对它们的批评一样杂乱无章。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2014-text3-s15",
+      "s": "Some want to shock, others to draw people into science, or to better reward those who have made their careers in research.",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Some / others",
+        "谓语": "want",
+        "宾语或表语": "to shock / to draw people into science...",
+        "主干翻译": "一些人想引起轰动，另一些人则想把人们吸引到科学中来。"
+      },
+      "components": [
+        {
+          "成分类型": "省略",
+          "原文": "others to draw people into science",
+          "修饰对象": "want",
+          "中文翻译": "另一些人（想）把人们吸引到科学中来",
+          "说明": "并列分句中省略了谓语 want，承前省略"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to shock",
+          "修饰对象": "want",
+          "中文翻译": "引起轰动",
+          "说明": "动词不定式作 want 的宾语（补足成分）"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "to better reward those who have made their careers in research",
+          "修饰对象": "draw",
+          "中文翻译": "或更好地奖励那些在研究领域成就事业的人",
+          "说明": "or 连接的并列不定式，与 to draw people into science 并列"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "who have made their careers in research",
+          "修饰对象": "those",
+          "中文翻译": "那些在研究领域成就了事业的（人）",
+          "说明": "who 引导定语从句，修饰先行词 those"
+        }
+      ],
+      "zh": "一些人想引起轰动，另一些人则想把人们吸引到科学中来，或者更好地奖励那些在研究领域成就了一番事业的人。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2014-text3-s16",
+      "s": "As Nature has pointed out before, there are some legitimate concerns about how science prizes—both new and old—are distributed.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "there",
+        "谓语": "are",
+        "宾语或表语": "some legitimate concerns about how science prizes are distributed",
+        "主干翻译": "对于科学奖项如何分配，存在一些合理的担忧。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(方式)",
+          "原文": "As Nature has pointed out before",
+          "修饰对象": "are",
+          "中文翻译": "正如《自然》杂志此前所指出的那样",
+          "说明": "As 引导方式状语从句，挂靠 are"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "how science prizes—both new and old—are distributed",
+          "修饰对象": "about",
+          "中文翻译": "科学奖项（无论新旧）是如何分配的",
+          "说明": "how 引导的从句作介词 about 的宾语；破折号间为插入语 both new and old"
+        }
+      ],
+      "zh": "正如《自然》杂志此前所指出的那样，对于科学奖项（无论新旧）究竟如何分配，存在一些合理的担忧。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2014-text3-s17",
+      "s": "The Breakthrough Prize in Life Sciences, launched this year, takes an unrepresentative view of what the life sciences include.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "The Breakthrough Prize in Life Sciences",
+        "谓语": "takes",
+        "宾语或表语": "an unrepresentative view of what the life sciences include",
+        "主干翻译": "生命科学突破奖对生命科学所包含的内容持有一种不具代表性的看法。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "launched this year",
+          "修饰对象": "Prize",
+          "中文翻译": "今年设立的（突破奖）",
+          "说明": "过去分词短语作定语，修饰主语 Prize"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "what the life sciences include",
+          "修饰对象": "of",
+          "中文翻译": "生命科学所包含的内容",
+          "说明": "what 引导的从句作介词 of 的宾语"
+        }
+      ],
+      "zh": "今年设立的生命科学突破奖，对生命科学所涵盖的内容持有一种缺乏代表性的看法。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2014-text3-s18",
+      "s": "But the Nobel Foundation's limit of three recipients per prize, each of whom must still be living, has long been outgrown by the collaborative nature of modern research—as will be demonstrated by the inevitable row over who is ignored when it comes to acknowledging the discovery of the Higgs boson.",
+      "para_no": 4,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "the Nobel Foundation's limit of three recipients per prize",
+        "谓语": "has been outgrown",
+        "宾语或表语": "by the collaborative nature of modern research",
+        "主干翻译": "诺贝尔基金会每个奖项最多三名获奖者的限制，早已被现代研究的协作性质所超越。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "each of whom must still be living",
+          "修饰对象": "recipients",
+          "中文翻译": "他们每个人都必须仍然在世",
+          "说明": "each of whom 引导非限制性定语从句，修饰 recipients"
+        },
+        {
+          "成分类型": "状语从句(方式)",
+          "原文": "as will be demonstrated by the inevitable row over who is ignored when it comes to acknowledging the discovery of the Higgs boson",
+          "修饰对象": "outgrown",
+          "中文翻译": "这一点将被那场不可避免的争论所证明——即在确认希格斯玻色子的发现时，谁会被忽视",
+          "说明": "as 引导方式状语从句（as 指代主句内容），挂靠 outgrown"
+        },
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "when it comes to acknowledging the discovery of the Higgs boson",
+          "修饰对象": "ignored",
+          "中文翻译": "当谈及确认希格斯玻色子的发现时",
+          "说明": "when 引导时间状语从句，修饰 ignored；over who is ignored 中 who 从句作介词 over 的宾语"
+        }
+      ],
+      "zh": "但是，诺贝尔基金会每个奖项最多三名获奖者、且每人都必须仍然在世的限制，早已被现代研究的协作性质所超越——在确认希格斯玻色子的发现时，必将围绕谁被忽视而爆发不可避免的争论，这一点将印证上述结论。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2014-text3-s19",
+      "s": "The Nobels were, of course, themselves set up by a very rich individual who had decided what he wanted to do with his own money.",
+      "para_no": 4,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "The Nobels",
+        "谓语": "were set up",
+        "宾语或表语": "by a very rich individual",
+        "主干翻译": "诺贝尔奖是由一位非常富有的人设立的。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "of course",
+          "修饰对象": "The Nobels were themselves set up by a very rich individual",
+          "中文翻译": "当然",
+          "说明": "插入语，表语气。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "who had decided what he wanted to do with his own money",
+          "修饰对象": "individual",
+          "中文翻译": "他已经决定要用自己的钱做什么",
+          "说明": "由 who 引导的定语从句，修饰 a very rich individual。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "what he wanted to do with his own money",
+          "修饰对象": "decided",
+          "中文翻译": "他想用自己的钱做什么",
+          "说明": "由 what 引导的宾语从句，作 decided 的宾语。"
+        },
+        {
+          "成分类型": "非谓语作宾语",
+          "原文": "to do with his own money",
+          "修饰对象": "wanted",
+          "中文翻译": "用自己的钱去做",
+          "说明": "动词不定式作 wanted 的宾语，what 为不定式 do 的逻辑宾语。"
+        }
+      ],
+      "zh": "当然，诺贝尔奖本身是由一位非常富有的人设立的，他已经决定好要用自己的钱做什么。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2014-text3-s20",
+      "s": "Time, rather than intention, has given them legitimacy.",
+      "para_no": 4,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "Time",
+        "谓语": "has given",
+        "宾语或表语": "them legitimacy",
+        "主干翻译": "是时间，而非初衷，赋予了它们合法性。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "rather than intention",
+          "修饰对象": "Time",
+          "中文翻译": "而非初衷",
+          "说明": "rather than 引导的对比成分，插在主语 Time 之后"
+        }
+      ],
+      "zh": "是时间，而非初衷，赋予了它们合法性（正当性）。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2014-text3-s21",
+      "s": "As much as some scientists may complain about the new awards, two things seem clear.",
+      "para_no": 5,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "two things",
+        "谓语": "seem",
+        "宾语或表语": "clear",
+        "主干翻译": "有两点似乎是清楚的。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(让步)",
+          "原文": "As much as some scientists may complain about the new awards",
+          "修饰对象": "seem",
+          "中文翻译": "尽管一些科学家可能会抱怨这些新奖项",
+          "说明": "As much as 引导让步状语从句，意为「尽管／无论怎样」"
+        }
+      ],
+      "zh": "尽管一些科学家可能会对这些新奖项颇有微词，但有两点似乎是确定无疑的。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2014-text3-s22",
+      "s": "First, most researchers would accept such a prize if they were offered one.",
+      "para_no": 5,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "most researchers",
+        "谓语": "would accept",
+        "宾语或表语": "such a prize",
+        "主干翻译": "大多数研究人员会接受这样一个奖项。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "if they were offered one",
+          "修饰对象": "accept",
+          "中文翻译": "如果有人给他们这样一个奖项",
+          "说明": "if 引导条件状语从句，修饰 accept"
+        }
+      ],
+      "zh": "第一，如果有人愿意授予，大多数研究人员都会接受这样一个奖项。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2014-text3-s23",
+      "s": "Second, it is surely a good thing that the money and attention come to science rather than go elsewhere, It is fair to criticize and question the mechanism—that is the culture of research, after all—but it is the prize-givers' money to do with as they please.",
+      "para_no": 5,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "it",
+        "谓语": "is",
+        "宾语或表语": "surely a good thing",
+        "主干翻译": "这无疑是一件好事。"
+      },
+      "components": [
+        {
+          "成分类型": "主语从句",
+          "原文": "that the money and attention come to science rather than go elsewhere",
+          "修饰对象": "it",
+          "中文翻译": "金钱和关注流向科学，而非流向别处",
+          "说明": "that 引导从句，为真正的主语，it 为形式主语"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to criticize and question the mechanism—that is the culture of research, after all—",
+          "修饰对象": "is",
+          "中文翻译": "去批评和质疑这种机制（毕竟这正是研究的文化）",
+          "说明": "动词不定式作真正主语，It is fair 中 it 为形式主语；破折号间为插入说明"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "question the mechanism—that is the culture of research, after all—",
+          "修饰对象": "criticize",
+          "中文翻译": "质疑这种机制（毕竟这正是研究的文化）",
+          "说明": "and 连接 criticize 与 question，构成并列谓语"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "it is the prize-givers' money to do with as they please",
+          "修饰对象": "is",
+          "中文翻译": "但这是颁奖者的钱，他们爱怎么花就怎么花",
+          "说明": "but 连接的并列分句，与前面 It is fair... 形成转折并列"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "to do with as they please",
+          "修饰对象": "money",
+          "中文翻译": "可随其心意去支配的（钱）",
+          "说明": "不定式 to do with 作定语，修饰 money（do with the money 的关系结构）"
+        },
+        {
+          "成分类型": "状语从句(方式)",
+          "原文": "as they please",
+          "修饰对象": "do",
+          "中文翻译": "随他们的意愿",
+          "说明": "as 引导方式状语从句，意为「随心所欲、爱怎样就怎样」"
+        }
+      ],
+      "zh": "第二，金钱和关注流向科学而非流向别处，这无疑是一件好事；批评和质疑这种机制是合理的——毕竟这正是研究的文化——但这毕竟是颁奖者的钱，他们爱怎么花就怎么花。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2014-text3-s24",
+      "s": "It is wise to take such gifts with gratitude and grace.",
+      "para_no": 5,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "It",
+        "谓语": "is",
+        "宾语或表语": "wise",
+        "主干翻译": "这样做是明智的。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to take such gifts with gratitude and grace",
+          "修饰对象": "is",
+          "中文翻译": "怀着感激与得体的态度去接受这样的馈赠",
+          "说明": "动词不定式作真正主语，It 为形式主语"
+        }
+      ],
+      "zh": "怀着感激与得体的态度接受这样的馈赠，才是明智之举。",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2014-text3-s1",
+        "en1-2014-text3-s2",
+        "en1-2014-text3-s3",
+        "en1-2014-text3-s4",
+        "en1-2014-text3-s5"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2014-text3-s6",
+        "en1-2014-text3-s7",
+        "en1-2014-text3-s8",
+        "en1-2014-text3-s9",
+        "en1-2014-text3-s10",
+        "en1-2014-text3-s11",
+        "en1-2014-text3-s12",
+        "en1-2014-text3-s13"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2014-text3-s14",
+        "en1-2014-text3-s15"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2014-text3-s16",
+        "en1-2014-text3-s17",
+        "en1-2014-text3-s18",
+        "en1-2014-text3-s19",
+        "en1-2014-text3-s20"
+      ]
+    },
+    {
+      "para_no": 5,
+      "sids": [
+        "en1-2014-text3-s21",
+        "en1-2014-text3-s22",
+        "en1-2014-text3-s23",
+        "en1-2014-text3-s24"
+      ]
+    }
+  ]
+}

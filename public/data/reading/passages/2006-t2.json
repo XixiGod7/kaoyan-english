@@ -1,0 +1,749 @@
+{
+  "exam": "en1",
+  "key": "2006-t2",
+  "year": 2006,
+  "text_no": 2,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2006-text2-s1",
+      "s": "Stratford-on-Avon, as we all know, has only one industry—William Shakespeare—but there are two distinctly separate and increasingly hostile branches.",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Stratford-on-Avon",
+        "谓语": "has",
+        "宾语或表语": "one industry",
+        "主干翻译": "斯特拉特福德镇只有一个产业。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "as we all know",
+          "修饰对象": "has",
+          "中文翻译": "众所周知",
+          "说明": "as 引导的插入语（方式/比况），整体作插入成分，可视为评注性状语，挂靠主句谓语 has。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "William Shakespeare",
+          "修饰对象": "industry",
+          "中文翻译": "即威廉·莎士比亚",
+          "说明": "破折号引出的同位语，对 one industry 作具体说明（此处为同位结构，名词同位）。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "there are two distinctly separate and increasingly hostile branches",
+          "修饰对象": "—",
+          "中文翻译": "存在两个截然分立且日益对立的分支",
+          "说明": "but 连接的并列分句，与主句 has 并列。"
+        }
+      ],
+      "zh": "众所周知，斯特拉特福德镇只有一个产业——威廉·莎士比亚——但围绕它却存在两个截然分立、日益对立的分支。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2006-text2-s2",
+      "s": "There is the Royal Shakespeare Company (RSC), which presents superb productions of the plays at the Shakespeare Memorial Theatre on the Avon.",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "There",
+        "谓语": "is",
+        "宾语或表语": "the Royal Shakespeare Company",
+        "主干翻译": "有皇家莎士比亚剧团。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "RSC",
+          "修饰对象": "Company",
+          "中文翻译": "（简称 RSC）",
+          "说明": "括号内缩写，对 the Royal Shakespeare Company 作同位说明。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "which presents superb productions of the plays at the Shakespeare Memorial Theatre on the Avon",
+          "修饰对象": "Company",
+          "中文翻译": "它在埃文河畔的莎士比亚纪念剧院上演精彩的莎剧",
+          "说明": "which 引导非限制性定语从句，修饰先行词 Company。"
+        }
+      ],
+      "zh": "其一是皇家莎士比亚剧团（RSC），它在埃文河畔的莎士比亚纪念剧院上演精彩的莎剧。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2006-text2-s3",
+      "s": "And there are the townsfolk who largely live off the tourists who come, not to see the plays, but to look at Anne Hathaway's Cottage, Shakespeare's birthplace and the other sights.",
+      "para_no": 1,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "there",
+        "谓语": "are",
+        "宾语或表语": "the townsfolk",
+        "主干翻译": "有当地居民。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "who largely live off the tourists who come, not to see the plays, but to look at Anne Hathaway's Cottage, Shakespeare's birthplace and the other sights",
+          "修饰对象": "townsfolk",
+          "中文翻译": "他们大多靠游客谋生",
+          "说明": "who 引导定语从句，修饰先行词 townsfolk。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "who come, not to see the plays, but to look at Anne Hathaway's Cottage, Shakespeare's birthplace and the other sights",
+          "修饰对象": "tourists",
+          "中文翻译": "这些游客前来",
+          "说明": "who 引导定语从句，修饰先行词 tourists。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "not to see the plays, but to look at Anne Hathaway's Cottage, Shakespeare's birthplace and the other sights",
+          "修饰对象": "come",
+          "中文翻译": "不是为了看戏，而是为了参观安妮·海瑟薇的小屋、莎士比亚的出生地和其他景点",
+          "说明": "not...but... 连接的不定式短语作目的状语，修饰 come。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "to look at Anne Hathaway's Cottage, Shakespeare's birthplace and the other sights",
+          "修饰对象": "see",
+          "中文翻译": "去参观安妮·海瑟薇的小屋等景点",
+          "说明": "but 连接的不定式，与 to see the plays 并列。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "Shakespeare's birthplace and the other sights",
+          "修饰对象": "Cottage",
+          "中文翻译": "莎士比亚的出生地和其他景点",
+          "说明": "与 Anne Hathaway's Cottage 并列同位的名词短语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "the other sights",
+          "修饰对象": "birthplace",
+          "中文翻译": "其他景点",
+          "说明": "and 连接的并列名词，与 Shakespeare's birthplace 并列。"
+        }
+      ],
+      "zh": "其二是当地居民，他们大多靠游客谋生，而这些游客前来不是为了看戏，而是为了参观安妮·海瑟薇的小屋、莎士比亚的出生地及其他景点。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2006-text2-s4",
+      "s": "The worthy residents of Stratford doubt that the theater adds a penny to their revenue.",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The worthy residents of Stratford",
+        "谓语": "doubt",
+        "宾语或表语": "that 从句",
+        "主干翻译": "斯特拉特福德的体面居民怀疑某事。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "that the theater adds a penny to their revenue",
+          "修饰对象": "doubt",
+          "中文翻译": "剧院能为他们的收入增添一分钱",
+          "说明": "that 引导宾语从句，作 doubt 的宾语。"
+        }
+      ],
+      "zh": "斯特拉特福德的体面居民怀疑剧院究竟能否为他们的收入增添哪怕一分钱。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2006-text2-s5",
+      "s": "They frankly dislike the RSC's actors, them with their long hair and beards and sandals and noisiness.",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "They",
+        "谓语": "dislike",
+        "宾语或表语": "the RSC's actors",
+        "主干翻译": "他们坦率地讨厌皇家莎剧团的演员。"
+      },
+      "components": [
+        {
+          "成分类型": "同位语从句",
+          "原文": "them with their long hair and beards and sandals and noisiness",
+          "修饰对象": "actors",
+          "中文翻译": "就是那些留长发、蓄胡子、穿凉鞋、爱喧闹的人",
+          "说明": "them 引导的同位语，对 the RSC's actors 作补充说明。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "beards and sandals and noisiness",
+          "修饰对象": "hair",
+          "中文翻译": "胡子、凉鞋和喧闹",
+          "说明": "and 连接，与 long hair 并列。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "sandals and noisiness",
+          "修饰对象": "beards",
+          "中文翻译": "凉鞋和喧闹",
+          "说明": "and 连接，与 beards 并列。"
+        }
+      ],
+      "zh": "他们坦率地讨厌皇家莎剧团的演员，就是那些留着长发、蓄着胡子、穿着凉鞋、还吵吵嚷嚷的家伙。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2006-text2-s6",
+      "s": "It's all deliciously ironic when you consider that Shakespeare, who earns their living, was himself an actor (with a beard) and did his share of noise-making.",
+      "para_no": 2,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "It",
+        "谓语": "is",
+        "宾语或表语": "deliciously ironic",
+        "主干翻译": "这一切都极具讽刺意味。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "when you consider that Shakespeare, who earns their living, was himself an actor (with a beard) and did his share of noise-making",
+          "修饰对象": "'s",
+          "中文翻译": "当你想到……的时候",
+          "说明": "when 引导时间状语从句，修饰主句系动词 is（'s）。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "who earns their living",
+          "修饰对象": "Shakespeare",
+          "中文翻译": "正是他养活了他们",
+          "说明": "who 引导非限制性定语从句，修饰 Shakespeare。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that Shakespeare, who earns their living, was himself an actor (with a beard) and did his share of noise-making",
+          "修饰对象": "consider",
+          "中文翻译": "莎士比亚本人就是个（留着胡子的）演员，而且也没少制造喧闹",
+          "说明": "that 引导宾语从句，作 consider 的宾语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "did his share of noise-making",
+          "修饰对象": "was",
+          "中文翻译": "也做了他那份制造喧闹的事",
+          "说明": "and 连接的并列谓语，与 was himself an actor 并列。"
+        }
+      ],
+      "zh": "想一想就觉得极具讽刺意味：正是养活他们的莎士比亚，本人就是个（留着胡子的）演员，而且也没少制造喧闹。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2006-text2-s7",
+      "s": "The tourist streams are not entirely separate.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The tourist streams",
+        "谓语": "are",
+        "宾语或表语": "not entirely separate",
+        "主干翻译": "两股游客的客流并非完全分开。"
+      },
+      "components": [],
+      "zh": "这两股游客的客流并非完全各不相干。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2006-text2-s8",
+      "s": "The sightseers who come by bus—and often take in Warwick Castle and Blenheim Palace on the side—don't usually see the plays, and some of them are even surprised to find a theatre in Stratford.",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "The sightseers",
+        "谓语": "don't see",
+        "宾语或表语": "the plays",
+        "主干翻译": "观光客通常不看戏。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "who come by bus—and often take in Warwick Castle and Blenheim Palace on the side",
+          "修饰对象": "sightseers",
+          "中文翻译": "他们乘大巴前来，常常顺道游览沃里克城堡和布伦海姆宫",
+          "说明": "who 引导定语从句，修饰 sightseers。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "often take in Warwick Castle and Blenheim Palace on the side",
+          "修饰对象": "come",
+          "中文翻译": "常常顺道游览沃里克城堡和布伦海姆宫",
+          "说明": "and 连接的并列谓语，与从句谓语 come 并列。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "some of them are even surprised to find a theatre in Stratford",
+          "修饰对象": "—",
+          "中文翻译": "他们中有些人甚至惊讶于斯特拉特福德竟有一座剧院",
+          "说明": "and 连接的并列分句，与主句 don't usually see the plays 并列。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to find a theatre in Stratford",
+          "修饰对象": "surprised",
+          "中文翻译": "发现斯特拉特福德有座剧院",
+          "说明": "不定式作原因状语，说明 surprised 的缘由。"
+        }
+      ],
+      "zh": "那些乘大巴前来、并常常顺道游览沃里克城堡和布伦海姆宫的观光客通常并不看戏，其中有些人甚至惊讶于斯特拉特福德竟会有一座剧院。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2006-text2-s9",
+      "s": "However, the playgoers do manage a little sight-seeing along with their playgoing.",
+      "para_no": 3,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "the playgoers",
+        "谓语": "do manage",
+        "宾语或表语": "a little sight-seeing",
+        "主干翻译": "看戏的人确实也安排了一点观光。"
+      },
+      "components": [],
+      "zh": "然而，看戏的人确实也在看戏之余设法做了一点观光。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2006-text2-s10",
+      "s": "It is the playgoers, the RSC contends, who bring in much of the town's revenue because they spend the night (some of them four or five nights) pouring cash into the hotels and restaurants.",
+      "para_no": 3,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "It",
+        "谓语": "is",
+        "宾语或表语": "the playgoers",
+        "主干翻译": "正是看戏的人（带来大部分收入）。"
+      },
+      "components": [
+        {
+          "成分类型": "强调句",
+          "原文": "It is the playgoers, the RSC contends, who bring in much of the town's revenue",
+          "修饰对象": "—",
+          "中文翻译": "正是看戏的人带来了该镇的大部分收入",
+          "说明": "It is...who... 强调句型，强调主语 the playgoers；the RSC contends 为插入语。"
+        },
+        {
+          "成分类型": "状语从句(原因)",
+          "原文": "because they spend the night (some of them four or five nights) pouring cash into the hotels and restaurants",
+          "修饰对象": "bring",
+          "中文翻译": "因为他们在此过夜，把现金大把投入酒店和餐馆",
+          "说明": "because 引导原因状语从句。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "some of them four or five nights",
+          "修饰对象": "night",
+          "中文翻译": "其中有些人住四五晚",
+          "说明": "括号内插入成分，对 spend the night 作补充说明。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "pouring cash into the hotels and restaurants",
+          "修饰对象": "spend",
+          "中文翻译": "把现金大把投入酒店和餐馆",
+          "说明": "现在分词短语作伴随状语，修饰 spend。"
+        }
+      ],
+      "zh": "皇家莎剧团坚称，正是看戏的人带来了该镇的大部分收入，因为他们要在此过夜（有些人甚至住上四五晚），把大把现金投入酒店和餐馆。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2006-text2-s11",
+      "s": "The sightseers can take in everything and get out of town by nightfall.",
+      "para_no": 3,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "The sightseers",
+        "谓语": "can take in",
+        "宾语或表语": "everything",
+        "主干翻译": "观光客可以把一切都看个遍。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "get out of town by nightfall",
+          "修饰对象": "take",
+          "中文翻译": "在天黑前离开小镇",
+          "说明": "and 连接的并列谓语，与 take in everything 并列。"
+        }
+      ],
+      "zh": "观光客可以把一切都看个遍，然后在天黑前离开小镇。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2006-text2-s12",
+      "s": "The townsfolk don't see it this way and the local council does not contribute directly to the subsidy of the Royal Shakespeare Company.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The townsfolk",
+        "谓语": "don't see",
+        "宾语或表语": "it",
+        "主干翻译": "当地居民不这么看。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "the local council does not contribute directly to the subsidy of the Royal Shakespeare Company",
+          "修饰对象": "—",
+          "中文翻译": "当地议会不直接为皇家莎剧团提供补贴",
+          "说明": "and 连接的并列分句，与主句并列。"
+        }
+      ],
+      "zh": "当地居民并不这么看，而地方议会也不直接为皇家莎剧团提供补贴。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2006-text2-s13",
+      "s": "Stratford cries poor traditionally.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Stratford",
+        "谓语": "cries",
+        "宾语或表语": "poor",
+        "主干翻译": "斯特拉特福德一向哭穷。"
+      },
+      "components": [],
+      "zh": "斯特拉特福德历来都在哭穷。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2006-text2-s14",
+      "s": "Nevertheless every hotel in town seems to be adding a new wing or cocktail lounge.",
+      "para_no": 4,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "every hotel in town",
+        "谓语": "seems",
+        "宾语或表语": "to be adding a new wing or cocktail lounge",
+        "主干翻译": "镇上每家酒店似乎都在加盖新楼或鸡尾酒廊。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to be adding a new wing or cocktail lounge",
+          "修饰对象": "seems",
+          "中文翻译": "都在加盖新楼或鸡尾酒廊",
+          "说明": "不定式作 seems 的表语（主系表中的不定式补足），描述主语状态。"
+        }
+      ],
+      "zh": "然而，镇上的每家酒店似乎都在加盖新楼或增设鸡尾酒廊。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2006-text2-s15",
+      "s": "Hilton is building its own hotel there, which you may be sure will be decorated with Hamlet Hamburger Bars, the Lear Lounge, the Banquo Banqueting Room, and so forth, and will be very expensive.",
+      "para_no": 4,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "Hilton",
+        "谓语": "is building",
+        "宾语或表语": "its own hotel",
+        "主干翻译": "希尔顿正在那里兴建自己的酒店。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "which you may be sure will be decorated with Hamlet Hamburger Bars, the Lear Lounge, the Banquo Banqueting Room, and so forth, and will be very expensive",
+          "修饰对象": "hotel",
+          "中文翻译": "你尽可放心，它会用哈姆雷特汉堡吧、李尔王廊、班柯宴会厅等加以装饰，而且收费高昂",
+          "说明": "which 引导非限制性定语从句，修饰 hotel；you may be sure 为插入成分。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "will be decorated with Hamlet Hamburger Bars, the Lear Lounge, the Banquo Banqueting Room, and so forth, and will be very expensive",
+          "修饰对象": "sure",
+          "中文翻译": "（你可以确信）它会用哈姆雷特汉堡吧等加以装饰且收费高昂",
+          "说明": "be sure 后省略 that 的宾语从句（实为定语从句的嵌套谓语部分），作 sure 的内容。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "the Lear Lounge, the Banquo Banqueting Room, and so forth",
+          "修饰对象": "Bars",
+          "中文翻译": "李尔王廊、班柯宴会厅等等",
+          "说明": "并列名词，与 Hamlet Hamburger Bars 并列。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "the Banquo Banqueting Room, and so forth",
+          "修饰对象": "Lounge",
+          "中文翻译": "班柯宴会厅等等",
+          "说明": "并列名词，与 the Lear Lounge 并列。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "will be very expensive",
+          "修饰对象": "decorated",
+          "中文翻译": "而且收费高昂",
+          "说明": "and 连接的并列谓语，与 will be decorated 并列。"
+        }
+      ],
+      "zh": "希尔顿正在那里兴建自己的酒店，你尽可放心，它准会用哈姆雷特汉堡吧、李尔王廊、班柯宴会厅之类来装点，而且价格不菲。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2006-text2-s16",
+      "s": "Anyway, the townsfolk can't understand why the Royal Shakespeare Company needs a subsidy. (The theatre has broken attendance records for three years in a row.",
+      "para_no": 5,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "the townsfolk",
+        "谓语": "can't understand",
+        "宾语或表语": "why 从句",
+        "主干翻译": "当地居民弄不明白为什么。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "why the Royal Shakespeare Company needs a subsidy",
+          "修饰对象": "understand",
+          "中文翻译": "皇家莎剧团为何还需要补贴",
+          "说明": "why 引导宾语从句，作 understand 的宾语。"
+        }
+      ],
+      "zh": "无论如何，当地居民弄不明白皇家莎剧团为何还需要补贴。（该剧院已连续三年打破上座率纪录。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2006-text2-s17",
+      "s": "Last year its 1, 431 seats were 94 per cent occupied all year long and this year they'll do better.) The reason, of course, is that costs have rocketed and ticket prices have stayed low.",
+      "para_no": 5,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "The reason",
+        "谓语": "is",
+        "宾语或表语": "that 从句",
+        "主干翻译": "原因在于（成本飞涨而票价偏低）。"
+      },
+      "components": [
+        {
+          "成分类型": "表语从句",
+          "原文": "that costs have rocketed and ticket prices have stayed low",
+          "修饰对象": "is",
+          "中文翻译": "成本飞涨而票价一直偏低",
+          "说明": "that 引导表语从句，作 is 的表语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "ticket prices have stayed low",
+          "修饰对象": "rocketed",
+          "中文翻译": "票价一直保持偏低",
+          "说明": "and 连接的并列分句，与 costs have rocketed 并列，同属表语从句内部。"
+        }
+      ],
+      "zh": "去年它的1431个座位全年94%售出，今年还会更好。）原因当然在于：成本飞涨，而票价一直偏低。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2006-text2-s18",
+      "s": "It would be a shame to raise prices too much because it would drive away the young people who are Stratford's most attractive clientele.",
+      "para_no": 6,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "It",
+        "谓语": "would be",
+        "宾语或表语": "a shame",
+        "主干翻译": "（涨价太多）会是一件憾事。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to raise prices too much",
+          "修饰对象": "be",
+          "中文翻译": "把价格涨得太多",
+          "说明": "不定式作真正主语，it 为形式主语（此处归为对系动词 be 的不定式补足）。"
+        },
+        {
+          "成分类型": "状语从句(原因)",
+          "原文": "because it would drive away the young people who are Stratford's most attractive clientele",
+          "修饰对象": "be",
+          "中文翻译": "因为那会赶走年轻人",
+          "说明": "because 引导原因状语从句。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "who are Stratford's most attractive clientele",
+          "修饰对象": "people",
+          "中文翻译": "他们是斯特拉特福德最有吸引力的顾客群",
+          "说明": "who 引导定语从句，修饰 young people。"
+        }
+      ],
+      "zh": "票价涨得太多会很可惜，因为那会赶走年轻人，而他们正是斯特拉特福德最有吸引力的顾客群。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2006-text2-s19",
+      "s": "They come entirely for the plays, not the sights.",
+      "para_no": 6,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "They",
+        "谓语": "come",
+        "宾语或表语": "for the plays",
+        "主干翻译": "他们完全是为戏剧而来。"
+      },
+      "components": [
+        {
+          "成分类型": "同位语从句",
+          "原文": "the sights",
+          "修饰对象": "plays",
+          "中文翻译": "（而非）景点",
+          "说明": "not 引出的对比并列成分，与 the plays 对照（名词同位/并列对比）。"
+        }
+      ],
+      "zh": "他们完全是为看戏而来，而非为观光景点。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2006-text2-s20",
+      "s": "They all seem to look alike (though they come from all over)—lean, pointed, dedicated faces, wearing jeans and sandals, eating their buns and bedding down for the night on the flagstones outside the theatre to buy the 20 seats and 80 standing-room tickets held for the sleepers and sold to them when the box office opens at 10:30 a.m.",
+      "para_no": 6,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "They",
+        "谓语": "seem",
+        "宾语或表语": "to look alike",
+        "主干翻译": "他们看上去都很相像。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "all",
+          "修饰对象": "They",
+          "中文翻译": "全都",
+          "说明": "all 作主语 They 的同位语（总括语）。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to look alike",
+          "修饰对象": "seem",
+          "中文翻译": "看上去都很相像",
+          "说明": "不定式作 seem 的表语补足。"
+        },
+        {
+          "成分类型": "状语从句(让步)",
+          "原文": "though they come from all over",
+          "修饰对象": "seem",
+          "中文翻译": "尽管他们来自各地",
+          "说明": "though 引导让步状语从句。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "wearing jeans and sandals, eating their buns and bedding down for the night on the flagstones outside the theatre to buy the 20 seats and 80 standing-room tickets held for the sleepers and sold to them when the box office opens at 10:30 a.m.",
+          "修饰对象": "faces",
+          "中文翻译": "穿着牛仔裤和凉鞋、吃着小圆面包、夜里睡在剧院外的石板地上以便买到留给露宿者的20个座位票和80张站票",
+          "说明": "现在分词短语作定语/伴随，描述 lean, pointed, dedicated faces（这群人）。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "eating their buns and bedding down for the night on the flagstones outside the theatre to buy the 20 seats and 80 standing-room tickets held for the sleepers and sold to them when the box office opens at 10:30 a.m.",
+          "修饰对象": "wearing",
+          "中文翻译": "吃着面包、夜里睡在石板地上",
+          "说明": "分词与 wearing 并列。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "bedding down for the night on the flagstones outside the theatre to buy the 20 seats and 80 standing-room tickets held for the sleepers and sold to them when the box office opens at 10:30 a.m.",
+          "修饰对象": "eating",
+          "中文翻译": "夜里睡在剧院外的石板地上",
+          "说明": "分词与 eating 并列。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to buy the 20 seats and 80 standing-room tickets held for the sleepers and sold to them when the box office opens at 10:30 a.m.",
+          "修饰对象": "bedding",
+          "中文翻译": "以便买到那20个座位票和80张站票",
+          "说明": "不定式作目的状语，修饰 bedding down。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "80 standing-room tickets",
+          "修饰对象": "seats",
+          "中文翻译": "80张站票",
+          "说明": "and 连接，与 the 20 seats 并列。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "held for the sleepers and sold to them when the box office opens at 10:30 a.m.",
+          "修饰对象": "seats",
+          "中文翻译": "（这些票）留给露宿者并在售票处上午10:30开门时卖给他们",
+          "说明": "过去分词短语作定语，修饰 the 20 seats and 80 standing-room tickets。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "sold to them when the box office opens at 10:30 a.m.",
+          "修饰对象": "held",
+          "中文翻译": "并在售票处上午10:30开门时卖给他们",
+          "说明": "过去分词 sold 与 held 并列。"
+        },
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "when the box office opens at 10:30 a.m.",
+          "修饰对象": "sold",
+          "中文翻译": "当售票处在上午10:30开门时",
+          "说明": "when 引导时间状语从句，修饰 sold。"
+        }
+      ],
+      "zh": "他们看上去全都一个模样（尽管来自天南海北）——一张张瘦削、专注、神情坚定的脸，穿着牛仔裤和凉鞋，吃着小圆面包，夜里就睡在剧院外的石板地上，为的是抢到那20个座位票和80张站票——这些票专门留给露宿者，待上午10:30售票处开门时卖给他们。",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2006-text2-s1",
+        "en1-2006-text2-s2",
+        "en1-2006-text2-s3"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2006-text2-s4",
+        "en1-2006-text2-s5",
+        "en1-2006-text2-s6"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2006-text2-s7",
+        "en1-2006-text2-s8",
+        "en1-2006-text2-s9",
+        "en1-2006-text2-s10",
+        "en1-2006-text2-s11"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2006-text2-s12",
+        "en1-2006-text2-s13",
+        "en1-2006-text2-s14",
+        "en1-2006-text2-s15"
+      ]
+    },
+    {
+      "para_no": 5,
+      "sids": [
+        "en1-2006-text2-s16",
+        "en1-2006-text2-s17"
+      ]
+    },
+    {
+      "para_no": 6,
+      "sids": [
+        "en1-2006-text2-s18",
+        "en1-2006-text2-s19",
+        "en1-2006-text2-s20"
+      ]
+    }
+  ]
+}

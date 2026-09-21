@@ -1,0 +1,674 @@
+{
+  "exam": "en1",
+  "key": "2021-t4",
+  "year": 2021,
+  "text_no": 4,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2021-text4-s1",
+      "s": "From the early days of broadband, advocates for consumers and web-based companies worried that the cable and phone companies selling broadband connections had the power and incentive to favor affiliated websites over their rivals.",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "advocates",
+        "谓语": "worried",
+        "宾语或表语": "that ...（宾语从句）",
+        "主干翻译": "支持者们担心……"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "From the early days of broadband",
+          "修饰对象": "worried",
+          "中文翻译": "从宽带发展的早期开始",
+          "说明": "句首时间状语，表明担忧持续的起点"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "advocates for consumers and web-based companies",
+          "修饰对象": "advocates",
+          "中文翻译": "消费者权益的倡导者和基于网络的公司",
+          "说明": "for consumers 与 web-based companies 共同构成主语，是 advocates 所代表/服务的两类对象的并列"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "selling broadband connections",
+          "修饰对象": "companies",
+          "中文翻译": "出售宽带接入服务的（有线电视和电话公司）",
+          "说明": "现在分词短语作后置定语，修饰 the cable and phone companies"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that the cable and phone companies selling broadband connections had the power and incentive to favor affiliated websites over their rivals",
+          "修饰对象": "worried",
+          "中文翻译": "出售宽带接入服务的有线电视和电话公司有能力也有动机偏袒与自己有关联的网站，而冷落竞争对手",
+          "说明": "that 引导 worried 的宾语从句"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to favor affiliated websites over their rivals",
+          "修饰对象": "power",
+          "中文翻译": "偏袒关联网站而非竞争对手的（能力和动机）",
+          "说明": "不定式作后置定语，修饰 the power and incentive"
+        }
+      ],
+      "zh": "从宽带发展的早期开始，消费者权益的倡导者以及基于网络的公司就担心：出售宽带接入服务的有线电视和电话公司有能力也有动机去偏袒与自己有关联的网站，而冷落竞争对手。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2021-text4-s2",
+      "s": "That's why there has been such a strong demand for rules that would prevent broadband providers from picking winners and losers online, preserving the freedom and innovation that have been the lifeblood of the internet.",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "That",
+        "谓语": "is",
+        "宾语或表语": "why ...（表语从句）",
+        "主干翻译": "这就是为什么……的原因"
+      },
+      "components": [
+        {
+          "成分类型": "表语从句",
+          "原文": "why there has been such a strong demand for rules that would prevent broadband providers from picking winners and losers online, preserving the freedom and innovation that have been the lifeblood of the internet",
+          "修饰对象": "is",
+          "中文翻译": "为何会出现对相关规则如此强烈的需求",
+          "说明": "why 引导表语从句，说明 That 所指内容"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that would prevent broadband providers from picking winners and losers online",
+          "修饰对象": "rules",
+          "中文翻译": "能够阻止宽带提供商在网上挑选赢家和输家的（规则）",
+          "说明": "that 引导定语从句，修饰 rules"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "preserving the freedom and innovation that have been the lifeblood of the internet",
+          "修饰对象": "prevent",
+          "中文翻译": "从而保护那种一直是互联网命脉的自由与创新",
+          "说明": "现在分词短语作结果状语，是定语从句中 prevent 行为带来的结果"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that have been the lifeblood of the internet",
+          "修饰对象": "freedom",
+          "中文翻译": "一直是互联网命脉的（自由与创新）",
+          "说明": "that 引导定语从句，修饰 the freedom and innovation"
+        }
+      ],
+      "zh": "这就是为什么人们如此强烈地要求制定相关规则，以阻止宽带提供商在网上挑选赢家和输家，从而保护那种一直作为互联网命脉的自由与创新。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2021-text4-s3",
+      "s": "Yet that demand has been almost impossible to fill—in part because of pushback from broadband providers, anti-regulatory conservatives and the courts.",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "that demand",
+        "谓语": "has been",
+        "宾语或表语": "almost impossible",
+        "主干翻译": "那种需求几乎不可能实现"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to fill",
+          "修饰对象": "impossible",
+          "中文翻译": "去满足（这一需求）",
+          "说明": "不定式作 impossible 的状语，表满足该需求一事"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "in part because of pushback from broadband providers, anti-regulatory conservatives and the courts",
+          "修饰对象": "has been",
+          "中文翻译": "部分原因在于宽带提供商、反对监管的保守派以及法院的抵制",
+          "说明": "because of 引出原因状语，解释为何难以实现"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "broadband providers, anti-regulatory conservatives and the courts",
+          "修饰对象": "pushback",
+          "中文翻译": "宽带提供商、反对监管的保守派以及法院",
+          "说明": "三者并列，构成抵制力量的来源"
+        }
+      ],
+      "zh": "然而，这一需求却几乎无法满足，部分原因在于宽带提供商、反对监管的保守派以及法院的抵制。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2021-text4-s4",
+      "s": "A federal appeals court weighed in again Tuesday, but instead of providing a badly needed resolution, it only prolonged the fight.",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "A federal appeals court / it",
+        "谓语": "weighed in / prolonged",
+        "宾语或表语": "the fight",
+        "主干翻译": "一家联邦上诉法院再次介入，但它只是延长了这场争斗"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "but instead of providing a badly needed resolution, it only prolonged the fight.",
+          "修饰对象": "—",
+          "中文翻译": "但它非但没有提供一个亟需的解决方案，反而只是延长了这场争斗",
+          "说明": "but 连接两个并列分句"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "instead of providing a badly needed resolution",
+          "修饰对象": "prolonged",
+          "中文翻译": "非但没有提供一个亟需的解决方案",
+          "说明": "instead of + 动名词作方式/对比状语，修饰后一分句谓语 prolonged"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "again Tuesday",
+          "修饰对象": "weighed in",
+          "中文翻译": "在周二再次（介入）",
+          "说明": "时间状语，修饰 weighed in（again 为副词，Tuesday 作时间状语）"
+        }
+      ],
+      "zh": "周二，一家联邦上诉法院再次介入此事，但它非但没有提供一个亟需的解决方案，反而只是延长了这场争斗。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2021-text4-s5",
+      "s": "At issue before the U.S. Court of Appeals for the District of Columbia Circuit was the latest take of the Federal Communications Commission (FCC) on net neutrality, adopted on a party-line vote in 2017.",
+      "para_no": 2,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "the latest take ... on net neutrality",
+        "谓语": "was",
+        "宾语或表语": "（倒装，表语前置 At issue）",
+        "主干翻译": "争议焦点是……（联邦通信委员会关于网络中立的最新立场）"
+      },
+      "components": [
+        {
+          "成分类型": "倒装",
+          "原文": "At issue before the U.S. Court of Appeals for the District of Columbia Circuit was the latest take of the Federal Communications Commission (FCC) on net neutrality",
+          "修饰对象": "—",
+          "中文翻译": "摆在哥伦比亚特区巡回上诉法院面前的争议焦点，是联邦通信委员会关于网络中立的最新立场",
+          "说明": "表语 At issue 前置构成完全倒装，主语为 the latest take...，谓语 was"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "(FCC)",
+          "修饰对象": "Commission",
+          "中文翻译": "（即FCC）",
+          "说明": "对 the Federal Communications Commission 的缩写说明"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "adopted on a party-line vote in 2017",
+          "修饰对象": "take",
+          "中文翻译": "于2017年以政党路线投票方式通过的（最新立场）",
+          "说明": "过去分词短语作后置定语，修饰 the latest take"
+        }
+      ],
+      "zh": "摆在哥伦比亚特区巡回上诉法院面前的争议焦点，是联邦通信委员会（FCC）关于网络中立的最新立场，这一立场是2017年以政党路线投票方式通过的。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2021-text4-s6",
+      "s": "The Republican penned order not only eliminated the strict net neutrality rules the FCC had adopted when it had a Democratic majority in 2015, but rejected the commission's authority to require broadband providers to do much of anything.",
+      "para_no": 2,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "The Republican penned order",
+        "谓语": "eliminated ... but rejected",
+        "宾语或表语": "the strict net neutrality rules / the commission's authority",
+        "主干翻译": "这份由共和党人起草的法令不仅废除了严格的网络中立规则，还否定了委员会的权力"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "not only eliminated the strict net neutrality rules the FCC had adopted when it had a Democratic majority in 2015, but rejected the commission's authority to require broadband providers to do much of anything",
+          "修饰对象": "—",
+          "中文翻译": "不仅废除了……规则，还否定了……权力",
+          "说明": "not only...but... 连接两个并列谓语"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "the FCC had adopted when it had a Democratic majority in 2015",
+          "修饰对象": "rules",
+          "中文翻译": "FCC在2015年占据民主党多数席位时所采纳的（规则）",
+          "说明": "省略关系代词that的定语从句，修饰 rules"
+        },
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "when it had a Democratic majority in 2015",
+          "修饰对象": "adopted",
+          "中文翻译": "当它（FCC）在2015年占据民主党多数席位时",
+          "说明": "when 引导时间状语从句，修饰定语从句中的 had adopted"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to require broadband providers to do much of anything",
+          "修饰对象": "authority",
+          "中文翻译": "要求宽带提供商做几乎任何事情的（权力）",
+          "说明": "不定式作后置定语，修饰 authority"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to do much of anything",
+          "修饰对象": "require",
+          "中文翻译": "去做几乎任何事情",
+          "说明": "不定式作 require 的宾语补足语，构成 require sb. to do 结构"
+        }
+      ],
+      "zh": "这份由共和党人起草的法令，不仅废除了FCC在2015年占据民主党多数席位时所采纳的严格网络中立规则，还否定了该委员会要求宽带提供商做几乎任何事情的权力。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2021-text4-s7",
+      "s": "The order also declared that state and local governments couldn't regulate broadband providers either.",
+      "para_no": 2,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "The order",
+        "谓语": "declared",
+        "宾语或表语": "that ...（宾语从句）",
+        "主干翻译": "该法令还宣称……"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "that state and local governments couldn't regulate broadband providers either",
+          "修饰对象": "declared",
+          "中文翻译": "州和地方政府同样也不能监管宽带提供商",
+          "说明": "that 引导 declared 的宾语从句"
+        }
+      ],
+      "zh": "该法令还宣称，州和地方政府同样也不能对宽带提供商进行监管。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2021-text4-s8",
+      "s": "The commission argued that other agencies would protect against anti-competitive behavior, such as a broadband-providing conglomerate like AT&T favoring its own video-streaming service at the expense of Netflix and Apple TV.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The commission",
+        "谓语": "argued",
+        "宾语或表语": "that ...（宾语从句）",
+        "主干翻译": "该委员会辩称……"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "that other agencies would protect against anti-competitive behavior, such as a broadband-providing conglomerate like AT&T favoring its own video-streaming service at the expense of Netflix and Apple TV",
+          "修饰对象": "argued",
+          "中文翻译": "其他机构会防范反竞争行为，例如像AT&T这样提供宽带的企业集团以牺牲Netflix和Apple TV为代价偏袒自己的视频流媒体服务",
+          "说明": "that 引导 argued 的宾语从句"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "such as a broadband-providing conglomerate like AT&T favoring its own video-streaming service at the expense of Netflix and Apple TV",
+          "修饰对象": "behavior",
+          "中文翻译": "例如像AT&T这样提供宽带的企业集团牺牲Netflix和Apple TV来偏袒自己的视频流媒体服务",
+          "说明": "such as 引出对 anti-competitive behavior 的举例说明（含动名词复合结构 conglomerate...favoring）"
+        }
+      ],
+      "zh": "该委员会辩称，其他机构会防范反竞争行为，例如像AT&T这样提供宽带的企业集团以牺牲Netflix和Apple TV为代价来偏袒自己的视频流媒体服务。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2021-text4-s9",
+      "s": "Yet the FCC also ended the investigations of broadband providers that imposed data caps on their rivals' streaming services but not their own.",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "the FCC",
+        "谓语": "ended",
+        "宾语或表语": "the investigations",
+        "主干翻译": "FCC却终止了调查"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "that imposed data caps on their rivals' streaming services but not their own",
+          "修饰对象": "providers",
+          "中文翻译": "对竞争对手的流媒体服务而非自己的流媒体服务设置数据流量上限的（宽带提供商）",
+          "说明": "that 引导定语从句，修饰 broadband providers"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "but not their own",
+          "修饰对象": "services",
+          "中文翻译": "而不是对它们自己的（流媒体服务）",
+          "说明": "but 连接对比并列，与 their rivals' streaming services 形成对照"
+        }
+      ],
+      "zh": "然而，FCC却终止了对那些只对竞争对手的流媒体服务、而不对自己的流媒体服务设置数据流量上限的宽带提供商的调查。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2021-text4-s10",
+      "s": "On Tuesday, the appeals court unanimously upheld the 2017 order deregulating broadband providers, citing a Supreme Court ruling from 2005 that upheld a similarly deregulatory move.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "the appeals court",
+        "谓语": "upheld",
+        "宾语或表语": "the 2017 order",
+        "主干翻译": "上诉法院维持了2017年的法令"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "On Tuesday",
+          "修饰对象": "upheld",
+          "中文翻译": "周二",
+          "说明": "句首时间状语"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "deregulating broadband providers",
+          "修饰对象": "order",
+          "中文翻译": "放松对宽带提供商监管的（2017年法令）",
+          "说明": "现在分词短语作后置定语，修饰 the 2017 order"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "citing a Supreme Court ruling from 2005 that upheld a similarly deregulatory move",
+          "修饰对象": "upheld",
+          "中文翻译": "援引2005年一项支持类似放松监管举措的最高法院裁决",
+          "说明": "现在分词短语作伴随/方式状语，修饰主句谓语 upheld"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that upheld a similarly deregulatory move",
+          "修饰对象": "ruling",
+          "中文翻译": "支持了一项类似的放松监管举措的（裁决）",
+          "说明": "that 引导定语从句，修饰 a Supreme Court ruling from 2005"
+        }
+      ],
+      "zh": "周二，上诉法院一致维持了2017年那份放松对宽带提供商监管的法令，并援引2005年一项支持类似放松监管举措的最高法院裁决作为依据。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2021-text4-s11",
+      "s": "But Judge Patricia Millett rightly argued in a concurring opinion that \"the result is unhinged from the realities of modern broadband service,\" and said Congress or the Supreme Court could intervene to \"avoid trapping Internet regulation in technological anachronism.\"",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Judge Patricia Millett",
+        "谓语": "argued ... and said",
+        "宾语或表语": "that ...（两个宾语从句）",
+        "主干翻译": "帕特里夏·米莱特法官提出……并表示……"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "that \"the result is unhinged from the realities of modern broadband service,\"",
+          "修饰对象": "argued",
+          "中文翻译": "“这一结果脱离了现代宽带服务的现实”",
+          "说明": "that 引导 argued 的宾语从句"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "in a concurring opinion",
+          "修饰对象": "argued",
+          "中文翻译": "在一份附议意见中",
+          "说明": "地点/方式状语，修饰 argued"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "and said Congress or the Supreme Court could intervene to \"avoid trapping Internet regulation in technological anachronism.\"",
+          "修饰对象": "—",
+          "中文翻译": "并表示国会或最高法院可以介入，以“避免使互联网监管陷入技术上的时代错位”",
+          "说明": "and 连接 argued 与 said 两个并列谓语"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "Congress or the Supreme Court",
+          "修饰对象": "intervene",
+          "中文翻译": "国会或最高法院",
+          "说明": "or 连接两个并列主语，为后一宾语从句的主语"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "Congress or the Supreme Court could intervene to \"avoid trapping Internet regulation in technological anachronism.\"",
+          "修饰对象": "said",
+          "中文翻译": "国会或最高法院可以介入，以避免使互联网监管陷入技术上的时代错位",
+          "说明": "said 后省略 that 的宾语从句"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to \"avoid trapping Internet regulation in technological anachronism.\"",
+          "修饰对象": "intervene",
+          "中文翻译": "以避免使互联网监管陷入技术上的时代错位",
+          "说明": "不定式作目的状语，修饰 intervene"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "trapping Internet regulation in technological anachronism",
+          "修饰对象": "avoid",
+          "中文翻译": "使互联网监管陷入技术上的时代错位",
+          "说明": "动名词短语作 avoid 的宾语"
+        }
+      ],
+      "zh": "但帕特里夏·米莱特法官在一份附议意见中正确地指出，“这一结果脱离了现代宽带服务的现实”，并表示国会或最高法院可以介入，以“避免使互联网监管陷入技术上的时代错位”。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2021-text4-s12",
+      "s": "In the meantime, the court threw out the FCC's attempt to block all state rules on net neutrality, while preserving the commission's power to preempt individual state laws that undermine its order.",
+      "para_no": 5,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "the court",
+        "谓语": "threw out",
+        "宾语或表语": "the FCC's attempt",
+        "主干翻译": "法院驳回了FCC的企图"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "In the meantime",
+          "修饰对象": "threw out",
+          "中文翻译": "与此同时",
+          "说明": "句首时间状语"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to block all state rules on net neutrality",
+          "修饰对象": "attempt",
+          "中文翻译": "阻止所有州一级网络中立规则的（企图）",
+          "说明": "不定式作后置定语，修饰 the FCC's attempt"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "while preserving the commission's power to preempt individual state laws that undermine its order",
+          "修饰对象": "threw out",
+          "中文翻译": "同时却保留了委员会优先排除那些削弱其法令的个别州法律的权力",
+          "说明": "while + 动名词作伴随/对比状语，修饰主句谓语 threw out"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to preempt individual state laws that undermine its order",
+          "修饰对象": "power",
+          "中文翻译": "优先排除那些削弱其法令的个别州法律的（权力）",
+          "说明": "不定式作后置定语，修饰 the commission's power"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that undermine its order",
+          "修饰对象": "laws",
+          "中文翻译": "削弱其法令的（个别州法律）",
+          "说明": "that 引导定语从句，修饰 individual state laws"
+        }
+      ],
+      "zh": "与此同时，法院驳回了FCC阻止所有州一级网络中立规则的企图，但保留了该委员会优先排除那些会削弱其法令的个别州法律的权力。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2021-text4-s13",
+      "s": "That means more battles like the one now going on between the Justice Department and California, which enacted a tough net neutrality law in the wake of the FCC's abdication.",
+      "para_no": 5,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "That",
+        "谓语": "means",
+        "宾语或表语": "more battles",
+        "主干翻译": "这意味着更多的争斗"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "now going on between the Justice Department and California, which enacted a tough net neutrality law in the wake of the FCC's abdication",
+          "修饰对象": "one",
+          "中文翻译": "目前正在司法部与加州之间进行的（那场争斗）",
+          "说明": "现在分词短语作后置定语，修饰 the one（like the one 中 one 指代 battle）"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "the Justice Department and California",
+          "修饰对象": "between",
+          "中文翻译": "司法部和加州",
+          "说明": "between...and... 连接的并列对象"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "which enacted a tough net neutrality law in the wake of the FCC's abdication",
+          "修饰对象": "California",
+          "中文翻译": "（加州）在FCC放弃职责之后颁布了一部严厉的网络中立法律",
+          "说明": "which 引导非限制性定语从句，修饰 California"
+        }
+      ],
+      "zh": "这意味着将会有更多类似目前正在司法部与加州之间进行的争斗，加州在FCC放弃职责之后颁布了一部严厉的网络中立法律。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2021-text4-s14",
+      "s": "The endless legal battles and back-and-forth at the FCC cry out for Congress to act.",
+      "para_no": 6,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The endless legal battles and back-and-forth",
+        "谓语": "cry out",
+        "宾语或表语": "for Congress to act",
+        "主干翻译": "无休止的法律争斗强烈呼唤国会采取行动"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "The endless legal battles and back-and-forth",
+          "修饰对象": "battles",
+          "中文翻译": "无休止的法律争斗与反复拉锯",
+          "说明": "and 连接两个并列主语"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "at the FCC",
+          "修饰对象": "back-and-forth",
+          "中文翻译": "在FCC内部的（反复拉锯）",
+          "说明": "介词短语作定语/状语，修饰 back-and-forth，说明拉锯发生的场所"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "for Congress to act",
+          "修饰对象": "cry out",
+          "中文翻译": "呼唤国会采取行动",
+          "说明": "for + 逻辑主语 + 不定式构成 cry out for 的宾语，表所呼唤的内容"
+        }
+      ],
+      "zh": "FCC内部无休止的法律争斗与反复拉锯，强烈呼唤国会采取行动。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2021-text4-s15",
+      "s": "It needs to give the commission explicit authority once and for all to bar broadband providers from meddling in the traffic on their network and to create clear rules protecting openness and innovation online.",
+      "para_no": 6,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "It",
+        "谓语": "needs",
+        "宾语或表语": "to give the commission explicit authority",
+        "主干翻译": "它（国会）需要赋予该委员会明确的权力"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to give the commission explicit authority once and for all to bar broadband providers from meddling in the traffic on their network and to create clear rules protecting openness and innovation online",
+          "修饰对象": "needs",
+          "中文翻译": "一劳永逸地赋予该委员会明确的权力，以禁止宽带提供商干预其网络上的流量，并制定保护网上开放与创新的明确规则",
+          "说明": "不定式短语作 need 的宾语"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to bar broadband providers from meddling in the traffic on their network and to create clear rules protecting openness and innovation online",
+          "修饰对象": "authority",
+          "中文翻译": "禁止宽带提供商干预其网络流量并制定保护网上开放与创新的明确规则的（权力）",
+          "说明": "两个并列不定式作后置定语，修饰 explicit authority"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "to create clear rules protecting openness and innovation online",
+          "修饰对象": "authority",
+          "中文翻译": "制定保护网上开放与创新的明确规则",
+          "说明": "and 连接的第二个不定式，与 to bar... 并列作 authority 的定语"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "protecting openness and innovation online",
+          "修饰对象": "rules",
+          "中文翻译": "保护网上开放与创新的（明确规则）",
+          "说明": "现在分词短语作后置定语，修饰 clear rules"
+        }
+      ],
+      "zh": "国会需要一劳永逸地赋予该委员会明确的权力，以禁止宽带提供商干预其网络上的流量，并制定明确的规则来保护网上的开放与创新。",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2021-text4-s1",
+        "en1-2021-text4-s2"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2021-text4-s3",
+        "en1-2021-text4-s4",
+        "en1-2021-text4-s5",
+        "en1-2021-text4-s6",
+        "en1-2021-text4-s7"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2021-text4-s8",
+        "en1-2021-text4-s9"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2021-text4-s10",
+        "en1-2021-text4-s11"
+      ]
+    },
+    {
+      "para_no": 5,
+      "sids": [
+        "en1-2021-text4-s12",
+        "en1-2021-text4-s13"
+      ]
+    },
+    {
+      "para_no": 6,
+      "sids": [
+        "en1-2021-text4-s14",
+        "en1-2021-text4-s15"
+      ]
+    }
+  ]
+}

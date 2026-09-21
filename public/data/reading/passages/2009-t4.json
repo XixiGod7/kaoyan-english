@@ -1,0 +1,710 @@
+{
+  "exam": "en1",
+  "key": "2009-t4",
+  "year": 2009,
+  "text_no": 4,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2009-text4-s1",
+      "s": "The most thoroughly studied intellectuals in the history of the New World are the ministers and political leaders of seventeenth-century New England.",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The most thoroughly studied intellectuals",
+        "谓语": "are",
+        "宾语或表语": "the ministers and political leaders",
+        "主干翻译": "研究得最为透彻的知识分子是那些牧师和政治领袖。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "in the history of the New World",
+          "修饰对象": "intellectuals",
+          "中文翻译": "在新大陆历史上",
+          "说明": "介词短语in...修饰主语intellectuals，限定其范围。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "the ministers and political leaders",
+          "修饰对象": "—",
+          "中文翻译": "牧师和政治领袖",
+          "说明": "and连接两个并列名词作表语。"
+        },
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "of seventeenth-century New England",
+          "修饰对象": "leaders",
+          "中文翻译": "十七世纪新英格兰的",
+          "说明": "介词短语修饰表语the ministers and political leaders，说明其归属。"
+        }
+      ],
+      "zh": "在新大陆历史上，被研究得最为透彻的知识分子是十七世纪新英格兰的牧师和政治领袖。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2009-text4-s2",
+      "s": "According to the standard history of American philosophy, nowhere else in colonial America was \"so much importance attached to intellectual pursuits.\"",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "\"so much importance\"",
+        "谓语": "was attached",
+        "宾语或表语": "to intellectual pursuits",
+        "主干翻译": "如此多的重视被给予了智识追求。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "According to the standard history of American philosophy",
+          "修饰对象": "was attached",
+          "中文翻译": "根据美国哲学的标准史书",
+          "说明": "介词短语作全句状语，表明依据来源。"
+        },
+        {
+          "成分类型": "倒装",
+          "原文": "nowhere else in colonial America was \"so much importance attached to intellectual pursuits.\"",
+          "修饰对象": "—",
+          "中文翻译": "在殖民地时期的美洲别的任何地方都没有对智识追求给予如此多的重视",
+          "说明": "否定副词nowhere else置于句首引起部分倒装，正常语序为so much importance was attached...nowhere else。"
+        },
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "in colonial America",
+          "修饰对象": "was attached",
+          "中文翻译": "在殖民地时期的美洲",
+          "说明": "地点状语，限定nowhere else的范围。"
+        }
+      ],
+      "zh": "根据美国哲学的标准史书，在殖民地时期的美洲，没有任何别的地方像这里一样对智识追求给予了如此多的重视。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2009-text4-s3",
+      "s": "According to many books and articles, New England's leaders established the basic themes and preoccupations of an unfolding, dominant Puritan tradition in American intellectual life.",
+      "para_no": 1,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "New England's leaders",
+        "谓语": "established",
+        "宾语或表语": "the basic themes and preoccupations",
+        "主干翻译": "新英格兰的领袖们确立了基本的主题和关注点。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "According to many books and articles",
+          "修饰对象": "established",
+          "中文翻译": "根据许多书籍和文章",
+          "说明": "介词短语作全句状语，表明依据来源。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "the basic themes and preoccupations",
+          "修饰对象": "—",
+          "中文翻译": "基本的主题和关注点",
+          "说明": "and连接两个并列名词作宾语。"
+        },
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "of an unfolding, dominant Puritan tradition in American intellectual life",
+          "修饰对象": "preoccupations",
+          "中文翻译": "美国智识生活中一种正在展开的、占主导地位的清教传统的",
+          "说明": "介词短语of...修饰themes and preoccupations，其中in American intellectual life进一步修饰tradition。"
+        }
+      ],
+      "zh": "根据许多书籍和文章，新英格兰的领袖们确立了美国智识生活中一种正在展开的、占主导地位的清教传统的基本主题和关注点。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2009-text4-s4",
+      "s": "To take this approach to the New Englanders normally means to start with the Puritans' theological innovations and their distinctive ideas about the church—important subjects that we may not neglect.",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "To take this approach to the New Englanders",
+        "谓语": "means",
+        "宾语或表语": "to start with the Puritans' theological innovations and their distinctive ideas",
+        "主干翻译": "对新英格兰人采取这种研究方法意味着从清教徒的神学创新及其独特观念入手。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "To take this approach to the New Englanders",
+          "修饰对象": "—",
+          "中文翻译": "对新英格兰人采取这种研究方法",
+          "说明": "不定式短语作主语（主语位置的动词不定式）。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to start with the Puritans' theological innovations and their distinctive ideas about the church—important subjects that we may not neglect",
+          "修饰对象": "means",
+          "中文翻译": "从清教徒的神学创新及其关于教会的独特观念入手——这些都是我们不可忽视的重要主题",
+          "说明": "不定式作means的宾语（非谓语补足成分）。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "their distinctive ideas about the church",
+          "修饰对象": "innovations",
+          "中文翻译": "他们关于教会的独特观念",
+          "说明": "and连接innovations与ideas两个并列宾语成分。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "important subjects that we may not neglect",
+          "修饰对象": "innovations",
+          "中文翻译": "我们不可忽视的重要主题",
+          "说明": "破折号后的名词短语作前面innovations and ideas的同位语，整体复述说明。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that we may not neglect",
+          "修饰对象": "subjects",
+          "中文翻译": "我们不可忽视的",
+          "说明": "that引导定语从句修饰subjects，that作neglect的宾语。"
+        }
+      ],
+      "zh": "对新英格兰人采取这种研究方法，通常意味着从清教徒的神学创新及其关于教会的独特观念入手——这些都是我们不可忽视的重要主题。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2009-text4-s5",
+      "s": "But in keeping with our examination of southern intellectual life, we may consider the original Puritans as carriers of European culture, adjusting to New World circumstances.",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "we",
+        "谓语": "may consider",
+        "宾语或表语": "the original Puritans as carriers of European culture",
+        "主干翻译": "我们可以把最初的清教徒视为欧洲文化的传播者。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "in keeping with our examination of southern intellectual life",
+          "修饰对象": "may consider",
+          "中文翻译": "为了与我们对南方智识生活的考察保持一致",
+          "说明": "介词短语作全句状语，表明方式或前提。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "adjusting to New World circumstances",
+          "修饰对象": "carriers",
+          "中文翻译": "正在适应新大陆环境的",
+          "说明": "现在分词短语作carriers的后置定语，描述其状态。"
+        }
+      ],
+      "zh": "但为了与我们对南方智识生活的考察保持一致，我们可以把最初的清教徒视为欧洲文化的传播者，他们正在适应新大陆的环境。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2009-text4-s6",
+      "s": "The New England colonies were the scenes of important episodes in the pursuit of widely understood ideals of civility and virtuosity.",
+      "para_no": 2,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "The New England colonies",
+        "谓语": "were",
+        "宾语或表语": "the scenes of important episodes",
+        "主干翻译": "新英格兰殖民地是一些重要事件的发生场景。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "in the pursuit of widely understood ideals of civility and virtuosity",
+          "修饰对象": "episodes",
+          "中文翻译": "在追求广为人知的文明与才艺理想过程中的",
+          "说明": "介词短语修饰episodes，其中of civility and virtuosity为并列结构修饰ideals。"
+        }
+      ],
+      "zh": "新英格兰殖民地是人们追求广为人知的文明与才艺理想过程中诸多重要事件的发生场景。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2009-text4-s7",
+      "s": "The early settlers of Massachusetts Bay included men of impressive education and influence in England.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The early settlers of Massachusetts Bay",
+        "谓语": "included",
+        "宾语或表语": "men of impressive education and influence",
+        "主干翻译": "马萨诸塞湾的早期定居者中包括一些受过卓越教育、富有影响力的人。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "of Massachusetts Bay",
+          "修饰对象": "settlers",
+          "中文翻译": "马萨诸塞湾的",
+          "说明": "介词短语修饰主语settlers。"
+        },
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "of impressive education and influence in England",
+          "修饰对象": "men",
+          "中文翻译": "在英格兰受过卓越教育、富有影响力的",
+          "说明": "介词短语修饰宾语men，其中in England说明范围。"
+        }
+      ],
+      "zh": "马萨诸塞湾的早期定居者中，包括一些在英格兰受过卓越教育、富有影响力的人。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2009-text4-s8",
+      "s": "Besides the ninety or so learned ministers who came to Massachusetts churches in the decade after 1629, there were political leaders like John Winthrop, an educated gentleman, lawyer, and official of the Crown before he journeyed to Boston.",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "political leaders",
+        "谓语": "there were",
+        "宾语或表语": "political leaders like John Winthrop",
+        "主干翻译": "有像约翰·温思罗普这样的政治领袖。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "Besides the ninety or so learned ministers",
+          "修饰对象": "there were",
+          "中文翻译": "除了大约九十名博学的牧师之外",
+          "说明": "介词短语Besides...作全句状语，表示除…之外。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "who came to Massachusetts churches in the decade after 1629",
+          "修饰对象": "ministers",
+          "中文翻译": "在1629年之后的十年间来到马萨诸塞各教会的",
+          "说明": "who引导定语从句修饰ministers。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "an educated gentleman, lawyer, and official of the Crown before he journeyed to Boston",
+          "修饰对象": "Winthrop",
+          "中文翻译": "一位受过教育的绅士、律师，在前往波士顿之前还是王室的官员",
+          "说明": "名词短语作John Winthrop的同位语，对其身份加以说明。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "an educated gentleman, lawyer, and official of the Crown",
+          "修饰对象": "Winthrop",
+          "中文翻译": "一位受过教育的绅士、律师以及王室官员",
+          "说明": "三个名词gentleman, lawyer, official以逗号和and并列。"
+        },
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "before he journeyed to Boston",
+          "修饰对象": "gentleman",
+          "中文翻译": "在他前往波士顿之前",
+          "说明": "before引导时间状语从句，说明其担任王室官员的时间在迁往波士顿之前。"
+        }
+      ],
+      "zh": "除了在1629年之后的十年间来到马萨诸塞各教会的大约九十名博学牧师之外，还有像约翰·温思罗普这样的政治领袖——他在前往波士顿之前是一位受过教育的绅士、律师以及王室官员。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2009-text4-s9",
+      "s": "These men wrote and published extensively, reaching both New World and Old World audiences, and giving New England an atmosphere of intellectual earnestness.",
+      "para_no": 3,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "These men",
+        "谓语": "wrote and published",
+        "宾语或表语": "—",
+        "主干翻译": "这些人大量写作并出版作品。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "wrote and published extensively",
+          "修饰对象": "—",
+          "中文翻译": "大量写作并出版",
+          "说明": "and连接wrote与published两个并列谓语。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "reaching both New World and Old World audiences",
+          "修饰对象": "wrote",
+          "中文翻译": "触及了新大陆和旧大陆的读者",
+          "说明": "现在分词短语作伴随状语，说明写作出版的结果。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "giving New England an atmosphere of intellectual earnestness",
+          "修饰对象": "wrote",
+          "中文翻译": "并赋予新英格兰一种智识严肃的氛围",
+          "说明": "现在分词短语与reaching并列作伴随状语，由and连接。"
+        }
+      ],
+      "zh": "这些人大量写作并出版作品，触及了新大陆和旧大陆的读者，并赋予新英格兰一种智识上认真严肃的氛围。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2009-text4-s10",
+      "s": "We should not forget, however, that most New Englanders were less well educated.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "We",
+        "谓语": "should not forget",
+        "宾语或表语": "that most New Englanders were less well educated",
+        "主干翻译": "我们不应忘记，大多数新英格兰人受教育程度较低。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "however",
+          "修饰对象": "—",
+          "中文翻译": "然而",
+          "说明": "however作插入语，表转折。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that most New Englanders were less well educated",
+          "修饰对象": "forget",
+          "中文翻译": "大多数新英格兰人受教育程度较低",
+          "说明": "that引导宾语从句作forget的宾语。"
+        }
+      ],
+      "zh": "然而，我们不应忘记，大多数新英格兰人受教育程度较低。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2009-text4-s11",
+      "s": "While few craftsmen or farmers, let alone dependents and servants, left literary compositions to be analyzed, it is obvious that their views were less fully intellectualized.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "it",
+        "谓语": "is",
+        "宾语或表语": "obvious that their views were less fully intellectualized",
+        "主干翻译": "显而易见，他们的观念并未被充分地理智化。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(让步)",
+          "原文": "While few craftsmen or farmers, let alone dependents and servants, left literary compositions to be analyzed",
+          "修饰对象": "is",
+          "中文翻译": "尽管很少有工匠或农民——更不用说佃户和仆人了——留下可供分析的文字作品",
+          "说明": "While引导让步状语从句，意为‘尽管’。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "let alone dependents and servants",
+          "修饰对象": "craftsmen",
+          "中文翻译": "更不用说佃户和仆人了",
+          "说明": "let alone...为插入成分，递进强调连工匠农民都很少，佃户仆人更不必说。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to be analyzed",
+          "修饰对象": "compositions",
+          "中文翻译": "可供分析的",
+          "说明": "不定式被动式作compositions的后置定语。"
+        },
+        {
+          "成分类型": "主语从句",
+          "原文": "that their views were less fully intellectualized",
+          "修饰对象": "it",
+          "中文翻译": "他们的观念并未被充分地理智化",
+          "说明": "that引导主语从句，it为形式主语，该从句为真正主语。"
+        }
+      ],
+      "zh": "尽管很少有工匠或农民——更不用说佃户和仆人了——留下可供分析的文字作品，但显而易见的是，他们的观念并未被充分地理智化。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2009-text4-s12",
+      "s": "Their thinking often had a traditional superstitious quality.",
+      "para_no": 4,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Their thinking",
+        "谓语": "had",
+        "宾语或表语": "a traditional superstitious quality",
+        "主干翻译": "他们的思维常常带有一种传统的迷信色彩。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "often",
+          "修饰对象": "had",
+          "中文翻译": "常常",
+          "说明": "频度副词often作状语修饰had（此处归入状语类，无独立从句）。"
+        }
+      ],
+      "zh": "他们的思维常常带有一种传统的迷信色彩。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2009-text4-s13",
+      "s": "A tailor named John Dane, who emigrated in the late 1630 s, left an account of his reasons for leaving England that is filled with signs.",
+      "para_no": 4,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "A tailor named John Dane",
+        "谓语": "left",
+        "宾语或表语": "an account of his reasons for leaving England",
+        "主干翻译": "一位名叫约翰·戴恩的裁缝留下了关于他离开英格兰原因的记述。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "named John Dane",
+          "修饰对象": "tailor",
+          "中文翻译": "名叫约翰·戴恩的",
+          "说明": "过去分词短语作tailor的后置定语。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "who emigrated in the late 1630 s",
+          "修饰对象": "tailor",
+          "中文翻译": "在17世纪30年代末移民的",
+          "说明": "who引导非限制性定语从句修饰tailor。"
+        },
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "of his reasons for leaving England",
+          "修饰对象": "account",
+          "中文翻译": "关于他离开英格兰原因的",
+          "说明": "介词短语修饰account。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that is filled with signs",
+          "修饰对象": "account",
+          "中文翻译": "充满了各种征兆的",
+          "说明": "that引导定语从句修饰account（而非reasons）。"
+        }
+      ],
+      "zh": "一位名叫约翰·戴恩、在17世纪30年代末移民的裁缝，留下了关于他离开英格兰原因的记述，这份记述充满了各种征兆。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2009-text4-s14",
+      "s": "Sexual confusion, economic frustrations, and religious hope-all came together in a decisive moment when he opened the Bible, told his father that the first line he saw would settle his fate, and read the magical words: \"Come out from among them, touch no unclean thing, and I will be your God and you shall be my people.\"",
+      "para_no": 4,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "Sexual confusion, economic frustrations, and religious hope",
+        "谓语": "came together",
+        "宾语或表语": "in a decisive moment",
+        "主干翻译": "性的困惑、经济上的挫折和宗教上的希望，在一个决定性的时刻一同显现。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "Sexual confusion, economic frustrations, and religious hope",
+          "修饰对象": "—",
+          "中文翻译": "性的困惑、经济上的挫折和宗教上的希望",
+          "说明": "三个并列名词短语作主语，由逗号和and连接。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "when he opened the Bible, told his father that the first line he saw would settle his fate, and read the magical words",
+          "修饰对象": "moment",
+          "中文翻译": "当时他翻开《圣经》，告诉父亲他所看到的第一行字将决定他的命运，然后读到了那些神奇的话语",
+          "说明": "when引导定语从句修饰moment，从句内含opened/told/read三个并列谓语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "opened the Bible, told his father that the first line he saw would settle his fate, and read the magical words",
+          "修饰对象": "—",
+          "中文翻译": "翻开《圣经》、告诉父亲他所看到的第一行字将决定其命运、并读到了那些神奇的话语",
+          "说明": "定语从句内opened、told、read三个谓语动词并列。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "he saw",
+          "修饰对象": "line",
+          "中文翻译": "他所看到的",
+          "说明": "省略关系词that的定语从句修饰line。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that the first line he saw would settle his fate",
+          "修饰对象": "told",
+          "中文翻译": "他所看到的第一行字将决定他的命运",
+          "说明": "that引导宾语从句作told的直接宾语。"
+        },
+        {
+          "成分类型": "同位语从句",
+          "原文": "\"Come out from among them, touch no unclean thing, and I will be your God and you shall be my people.\"",
+          "修饰对象": "words",
+          "中文翻译": "“从他们当中出来，不要沾染不洁之物，我就要作你们的神，你们要作我的子民。”",
+          "说明": "冒号后的引语作the magical words的同位语，复述其内容。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "Come out from among them, touch no unclean thing, and I will be your God and you shall be my people",
+          "修饰对象": "—",
+          "中文翻译": "从他们当中出来，不要沾染不洁之物，我就要作你们的神，你们要作我的子民",
+          "说明": "引语内多个分句并列。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "I will be your God and you shall be my people",
+          "修饰对象": "—",
+          "中文翻译": "我就要作你们的神，你们要作我的子民",
+          "说明": "and连接两个并列分句。"
+        }
+      ],
+      "zh": "性的困惑、经济上的挫折和宗教上的希望，在一个决定性的时刻一同汇聚：当时他翻开《圣经》，告诉父亲他所看到的第一行字将决定自己的命运，然后读到了那些神奇的话语：“从他们当中出来，不要沾染不洁之物，我就要作你们的神，你们要作我的子民。”",
+      "underline": null
+    },
+    {
+      "sid": "en1-2009-text4-s15",
+      "s": "One wonders what Dane thought of the careful sermons explaining the Bible that he heard in Puritan churches.",
+      "para_no": 4,
+      "para_seq": 5,
+      "trunk": {
+        "主语": "One",
+        "谓语": "wonders",
+        "宾语或表语": "what Dane thought of the careful sermons",
+        "主干翻译": "人们不禁好奇戴恩对那些细致的布道作何感想。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "what Dane thought of the careful sermons explaining the Bible that he heard in Puritan churches",
+          "修饰对象": "wonders",
+          "中文翻译": "戴恩对他在清教教堂里听到的那些讲解《圣经》的细致布道作何感想",
+          "说明": "what引导宾语从句作wonders的宾语。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "explaining the Bible",
+          "修饰对象": "sermons",
+          "中文翻译": "讲解《圣经》的",
+          "说明": "现在分词短语作sermons的后置定语。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that he heard in Puritan churches",
+          "修饰对象": "sermons",
+          "中文翻译": "他在清教教堂里听到的",
+          "说明": "that引导定语从句修饰sermons。"
+        }
+      ],
+      "zh": "人们不禁好奇，戴恩对他在清教教堂里听到的那些讲解《圣经》的细致布道究竟作何感想。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2009-text4-s16",
+      "s": "Meanwhile, many settlers had slighter religious commitments than Dane's, as one clergyman learned in confronting folk along the coast who mocked that they had not come to the New World for religion.",
+      "para_no": 5,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "many settlers",
+        "谓语": "had",
+        "宾语或表语": "slighter religious commitments than Dane's",
+        "主干翻译": "许多定居者的宗教信念比戴恩的更为淡薄。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "Meanwhile",
+          "修饰对象": "—",
+          "中文翻译": "与此同时",
+          "说明": "副词作句首插入语，表时间衔接。"
+        },
+        {
+          "成分类型": "状语从句(比较)",
+          "原文": "than Dane's",
+          "修饰对象": "slighter",
+          "中文翻译": "比戴恩的",
+          "说明": "than引导比较结构，与slighter构成比较，Dane's为省略的比较从句。"
+        },
+        {
+          "成分类型": "状语从句(方式)",
+          "原文": "as one clergyman learned in confronting folk along the coast who mocked that they had not come to the New World for religion",
+          "修饰对象": "had",
+          "中文翻译": "正如一位牧师在海岸沿线与一些人打交道时所了解到的那样",
+          "说明": "as引导方式状语从句，意为‘正如’。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "who mocked that they had not come to the New World for religion",
+          "修饰对象": "folk",
+          "中文翻译": "嘲讽说他们来到新大陆并非为了宗教的",
+          "说明": "who引导定语从句修饰folk。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that they had not come to the New World for religion",
+          "修饰对象": "mocked",
+          "中文翻译": "他们来到新大陆并非为了宗教",
+          "说明": "that引导宾语从句作mocked的宾语。"
+        }
+      ],
+      "zh": "与此同时，许多定居者的宗教信念比戴恩的更为淡薄，正如一位牧师在海岸沿线与一些人打交道时所了解到的那样——这些人嘲讽说，他们来到新大陆并非为了宗教。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2009-text4-s17",
+      "s": "\"Our main end was to catch fish.\"",
+      "para_no": 5,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Our main end",
+        "谓语": "was",
+        "宾语或表语": "to catch fish",
+        "主干翻译": "我们的主要目的是捕鱼。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to catch fish",
+          "修饰对象": "was",
+          "中文翻译": "捕鱼",
+          "说明": "不定式短语作表语（非谓语补足成分）。"
+        }
+      ],
+      "zh": "“我们的主要目的是捕鱼。”",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2009-text4-s1",
+        "en1-2009-text4-s2",
+        "en1-2009-text4-s3"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2009-text4-s4",
+        "en1-2009-text4-s5",
+        "en1-2009-text4-s6"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2009-text4-s7",
+        "en1-2009-text4-s8",
+        "en1-2009-text4-s9"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2009-text4-s10",
+        "en1-2009-text4-s11",
+        "en1-2009-text4-s12",
+        "en1-2009-text4-s13",
+        "en1-2009-text4-s14",
+        "en1-2009-text4-s15"
+      ]
+    },
+    {
+      "para_no": 5,
+      "sids": [
+        "en1-2009-text4-s16",
+        "en1-2009-text4-s17"
+      ]
+    }
+  ]
+}

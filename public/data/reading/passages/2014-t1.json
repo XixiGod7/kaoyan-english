@@ -1,0 +1,754 @@
+{
+  "exam": "en1",
+  "key": "2014-t1",
+  "year": 2014,
+  "text_no": 1,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2014-text1-s1",
+      "s": "In order to \"change lives for the better\" and reduce \"dependency,\"",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "—",
+        "谓语": "—",
+        "宾语或表语": "—",
+        "主干翻译": "（这是一个目的状语片段：为了\"让生活变得更好\"并减少\"依赖\"）"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to \"change lives for the better\" and reduce \"dependency",
+          "修饰对象": "order",
+          "中文翻译": "为了\"让生活变得更好\"并减少\"依赖\"",
+          "说明": "In order to结构中的不定式，作目的状语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "reduce \"dependency",
+          "修饰对象": "change",
+          "中文翻译": "减少\"依赖\"",
+          "说明": "由and连接，与change并列，共用不定式符号to。"
+        }
+      ],
+      "zh": "为了\"让生活变得更好\"并减少\"对救济的依赖\"……",
+      "underline": null
+    },
+    {
+      "sid": "en1-2014-text1-s2",
+      "s": "George Osborne, Chancellor of the Exchequer, introduced the \"upfront work search\" scheme.",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "George Osborne",
+        "谓语": "introduced",
+        "宾语或表语": "the \"upfront work search\" scheme",
+        "主干翻译": "乔治·奥斯本推出了\"预先求职\"计划。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "Chancellor of the Exchequer",
+          "修饰对象": "Osborne",
+          "中文翻译": "财政大臣",
+          "说明": "同位语作插入语，进一步说明 George Osborne 的身份"
+        }
+      ],
+      "zh": "财政大臣乔治·奥斯本推出了\"预先求职\"计划。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2014-text1-s3",
+      "s": "Only if the jobless arrive at the jobcentre with a CV, register for online job search, and start looking for work will they be eligible for benefit—and then they should report weekly rather than fortnightly.",
+      "para_no": 1,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "they",
+        "谓语": "will be",
+        "宾语或表语": "eligible for benefit",
+        "主干翻译": "他们才有资格领取救济金。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "Only if the jobless arrive at the jobcentre with a CV, register for online job search, and start looking for work",
+          "修饰对象": "be",
+          "中文翻译": "只有当失业者带着简历到就业中心、注册在线求职并开始找工作时",
+          "说明": "Only if 引导条件状语从句，因 Only 置于句首导致主句部分倒装（will they be）"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "arrive at the jobcentre with a CV, register for online job search, and start looking for work",
+          "修饰对象": "—",
+          "中文翻译": "到就业中心、注册在线求职并开始找工作",
+          "说明": "条件从句内三个谓语 arrive / register / start 并列"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "looking for work",
+          "修饰对象": "start",
+          "中文翻译": "找工作",
+          "说明": "start looking 中现在分词作宾语补足，构成 start doing 结构"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "and then they should report weekly rather than fortnightly",
+          "修饰对象": "—",
+          "中文翻译": "然后他们应当每周而非每两周报到一次",
+          "说明": "破折号后与主句并列的分句，补充另一项要求"
+        }
+      ],
+      "zh": "只有当失业者带着简历到就业中心、注册在线求职并开始找工作时，他们才有资格领取救济金——而且此后他们应当每周而非每两周报到一次。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2014-text1-s4",
+      "s": "What could be more reasonable?",
+      "para_no": 1,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "What",
+        "谓语": "could be",
+        "宾语或表语": "more reasonable",
+        "主干翻译": "还有什么能更合理呢？"
+      },
+      "components": [],
+      "zh": "还有什么比这更合情合理呢？",
+      "underline": null
+    },
+    {
+      "sid": "en1-2014-text1-s5",
+      "s": "More apparent reasonableness followed.",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "More apparent reasonableness",
+        "谓语": "followed",
+        "宾语或表语": "—",
+        "主干翻译": "更多表面上的合理之处随之而来。"
+      },
+      "components": [],
+      "zh": "随后又出现了更多表面上的合理之处。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2014-text1-s6",
+      "s": "There will now be a seven-day wait for the jobseeker's allowance.",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "a seven-day wait",
+        "谓语": "will be",
+        "宾语或表语": "（there be 存在句）",
+        "主干翻译": "现在将有七天的等待期。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "for the jobseeker's allowance",
+          "修饰对象": "wait",
+          "中文翻译": "针对求职者津贴的",
+          "说明": "介词短语修饰 wait，说明等待期的对象"
+        }
+      ],
+      "zh": "现在，领取求职者津贴将有七天的等待期。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2014-text1-s7",
+      "s": "\"Those first few days should be spent looking for work, not looking to sign on,\" he claimed.",
+      "para_no": 2,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "he",
+        "谓语": "claimed",
+        "宾语或表语": "（直接引语作宾语）",
+        "主干翻译": "他声称……"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "Those first few days should be spent looking for work, not looking",
+          "修饰对象": "claimed",
+          "中文翻译": "最初这几天应当用来找工作，而不是闲逛",
+          "说明": "claim 后的直接引语，作其宾语内容"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "looking for work, not looking",
+          "修饰对象": "spent",
+          "中文翻译": "用来找工作，而非闲逛",
+          "说明": "spend time doing 结构中的现在分词，说明时间花在何处"
+        }
+      ],
+      "zh": "他声称：“最初这几天应当用来找工作，而不是去登记领失业救济。”",
+      "underline": null
+    },
+    {
+      "sid": "en1-2014-text1-s8",
+      "s": "\"We're doing these things because we know they help people stay off benefits and help those on benefits get into work faster.\" Help? Really?",
+      "para_no": 2,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "We",
+        "谓语": "are doing",
+        "宾语或表语": "these things",
+        "主干翻译": "我们正在做这些事。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(原因)",
+          "原文": "because we know they help people stay off benefits and help those on benefits get into work faster",
+          "修饰对象": "doing",
+          "中文翻译": "因为我们知道它们能帮助人们不靠救济，并帮助那些领救济的人更快地就业",
+          "说明": "because 引导原因状语从句，说明做这些事的理由"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "they help people stay off benefits and help those on benefits get into work faster",
+          "修饰对象": "know",
+          "中文翻译": "它们能帮助人们不靠救济，并帮助领救济者更快就业",
+          "说明": "know 的宾语从句，省略了引导词 that"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "people stay off benefits",
+          "修饰对象": "help",
+          "中文翻译": "人们不依赖救济",
+          "说明": "help sb do 结构，stay 为不带 to 的不定式作宾补"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "and help those on benefits get into work faster",
+          "修饰对象": "—",
+          "中文翻译": "并帮助领救济者更快就业",
+          "说明": "与前一 help 并列，共用主语 they"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "those on benefits get into work faster",
+          "修饰对象": "help",
+          "中文翻译": "领救济者更快就业",
+          "说明": "第二个 help sb do 结构，get 为不带 to 的不定式作宾补"
+        }
+      ],
+      "zh": "\"我们之所以做这些事，是因为我们知道它们能帮助人们摆脱对救济的依赖，并帮助那些领取救济的人更快地找到工作。\"帮助？真的吗？",
+      "underline": null
+    },
+    {
+      "sid": "en1-2014-text1-s9",
+      "s": "On first hearing, this was the socially concerned chancellor, trying to change lives for the better, complete with \"reforms\" to an obviously indulgent system that demands too little effort from the newly unemployed to find work, and subsidises laziness.",
+      "para_no": 2,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "this",
+        "谓语": "was",
+        "宾语或表语": "the socially concerned chancellor",
+        "主干翻译": "这就是那位关心社会的财政大臣。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "On first hearing",
+          "修饰对象": "was",
+          "中文翻译": "乍一听",
+          "说明": "时间/方式状语，置于句首"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "trying to change lives for the better",
+          "修饰对象": "chancellor",
+          "中文翻译": "努力让人们生活变得更好的",
+          "说明": "现在分词短语作后置定语，修饰 chancellor"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "complete with \"reforms\" to an obviously indulgent system",
+          "修饰对象": "trying",
+          "中文翻译": "并辅以对一个明显纵容的制度的\"改革\"",
+          "说明": "complete with 形容词短语作伴随状语，说明改善方式"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that demands too little effort from the newly unemployed to find work, and subsidises laziness",
+          "修饰对象": "system",
+          "中文翻译": "（这个制度）对新失业者找工作的要求太少，还纵容懒惰",
+          "说明": "that 引导定语从句，修饰 system，从句内 demands 与 subsidises 并列"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to find work",
+          "修饰对象": "demands",
+          "中文翻译": "去找工作",
+          "说明": "不定式作结果/目的状语，与 too...to 结构呼应"
+        }
+      ],
+      "zh": "乍一听，这就是那位关心社会、努力改善人们生活的财政大臣，他还对一个明显纵容的制度推行了\"改革\"——该制度对新失业者找工作的要求太少，反而纵容了懒惰。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2014-text1-s10",
+      "s": "What motivated him, we were to understand, was his zeal for \"fundamental fairness\"—protecting the taxpayer, controlling spending and ensuring that only the most deserving claimants received their benefits.",
+      "para_no": 2,
+      "para_seq": 5,
+      "trunk": {
+        "主语": "What motivated him",
+        "谓语": "was",
+        "宾语或表语": "his zeal for \"fundamental fairness\"",
+        "主干翻译": "促使他这么做的，是他对\"根本公平\"的热忱。"
+      },
+      "components": [
+        {
+          "成分类型": "主语从句",
+          "原文": "What motivated him",
+          "修饰对象": "—",
+          "中文翻译": "促使他这么做的（东西）",
+          "说明": "What 引导主语从句，充当全句主语"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "we were to understand",
+          "修饰对象": "—",
+          "中文翻译": "我们将会明白",
+          "说明": "插入语，were to 表当时被告知/将要知道的语气"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "protecting the taxpayer, controlling spending and ensuring that only the most deserving claimants received their benefits",
+          "修饰对象": "—",
+          "中文翻译": "保护纳税人、控制开支并确保只有最应得的申领者才领到救济",
+          "说明": "破折号后三个动名词短语并列，对 fairness 作同位补充说明"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that only the most deserving claimants received their benefits",
+          "修饰对象": "ensuring",
+          "中文翻译": "只有最应得的申领者才领到他们的救济",
+          "说明": "that 引导宾语从句，作 ensuring 的宾语"
+        }
+      ],
+      "zh": "我们将会明白，促使他这么做的，是他对\"根本公平\"的热忱——保护纳税人、控制开支，并确保只有最应得救济的申领者才能领到他们的救济金。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2014-text1-s11",
+      "s": "Losing a job is hurting: you don't skip down to the jobcentre with a song in your heart, delighted at the prospect of doubling your income from the generous state.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "Losing a job",
+        "谓语": "is",
+        "宾语或表语": "hurting",
+        "主干翻译": "失业是痛苦的。"
+      },
+      "components": [
+        {
+          "成分类型": "主语从句",
+          "原文": "Losing a job",
+          "修饰对象": "—",
+          "中文翻译": "失去一份工作",
+          "说明": "动名词短语作主语（k 标记为从句性主语成分），充当全句主语"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "delighted at the prospect of doubling your income from the generous state",
+          "修饰对象": "skip",
+          "中文翻译": "为能从慷慨的国家那里使收入翻番的前景而欣喜",
+          "说明": "过去分词短语作伴随状语，修饰 skip 这一动作的状态"
+        }
+      ],
+      "zh": "失业是痛苦的：你不会哼着歌、满心欢喜地蹦跳着去就业中心，为能靠慷慨的国家使收入翻番的前景而欣喜。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2014-text1-s12",
+      "s": "It is financially terrifying, psychologically embarrassing and you know that support is minimal and extraordinarily hard to get.",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "It",
+        "谓语": "is",
+        "宾语或表语": "financially terrifying, psychologically embarrassing",
+        "主干翻译": "它在经济上令人恐惧，在心理上令人难堪。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "and you know that support is minimal and extraordinarily hard to get",
+          "修饰对象": "—",
+          "中文翻译": "而且你知道援助微乎其微、极难获得",
+          "说明": "由 and 连接的并列分句，与前面的系表结构并列"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that support is minimal and extraordinarily hard to get",
+          "修饰对象": "know",
+          "中文翻译": "援助微乎其微且极难获得",
+          "说明": "that 引导宾语从句，作 know 的宾语"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "minimal and extraordinarily hard to get",
+          "修饰对象": "—",
+          "中文翻译": "微乎其微且极难获得",
+          "说明": "两个表语 minimal 与 hard 并列"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to get",
+          "修饰对象": "hard",
+          "中文翻译": "去获得",
+          "说明": "不定式作状语，修饰形容词 hard（hard to get）"
+        }
+      ],
+      "zh": "它在经济上令人恐惧，在心理上令人难堪，而且你知道，援助微乎其微而且极难获得。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2014-text1-s14",
+      "s": "You are now not wanted; you are now excluded from the work environment that offers purpose and structure in your life.",
+      "para_no": 3,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "you",
+        "谓语": "are excluded",
+        "宾语或表语": "from the work environment",
+        "主干翻译": "你被排除在工作环境之外。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "You are now not wanted",
+          "修饰对象": "excluded",
+          "中文翻译": "如今你不再被需要",
+          "说明": "分号前的并列分句（依存提示标为分句性成分）"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that offers purpose and structure in your life",
+          "修饰对象": "environment",
+          "中文翻译": "为你的生活提供目标和秩序的",
+          "说明": "that 引导定语从句，修饰 environment"
+        }
+      ],
+      "zh": "如今你不再被需要；你被排除在能为你的生活提供目标和秩序的工作环境之外。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2014-text1-s15",
+      "s": "Worse, the crucial income to feed yourself and your family and pay the bills has disappeared.",
+      "para_no": 3,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "the crucial income",
+        "谓语": "has disappeared",
+        "宾语或表语": "—",
+        "主干翻译": "那笔至关重要的收入消失了。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "Worse",
+          "修饰对象": "—",
+          "中文翻译": "更糟的是",
+          "说明": "评注性插入语，置于句首表说话人态度"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to feed yourself and your family and pay the bills",
+          "修饰对象": "income",
+          "中文翻译": "用来养活你自己和家人、支付账单的",
+          "说明": "不定式短语作后置定语，修饰 income"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "feed yourself and your family and pay the bills",
+          "修饰对象": "—",
+          "中文翻译": "养活你自己和家人并支付账单",
+          "说明": "不定式内 feed 与 pay 由 and 并列"
+        }
+      ],
+      "zh": "更糟的是，那笔用来养活自己和家人、支付账单的至关重要的收入消失了。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2014-text1-s16",
+      "s": "Ask anyone newly unemployed what they want and the answer is always: a job.",
+      "para_no": 3,
+      "para_seq": 5,
+      "trunk": {
+        "主语": "(祈使句省略主语 you)",
+        "谓语": "Ask",
+        "宾语或表语": "anyone newly unemployed what they want",
+        "主干翻译": "去问问任何一个新近失业的人想要什么。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "what they want",
+          "修饰对象": "Ask",
+          "中文翻译": "他们想要什么",
+          "说明": "what 引导的从句作 Ask 的直接宾语（anyone newly unemployed 为间接宾语），构成双宾结构。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "and the answer is always: a job.",
+          "修饰对象": "Ask anyone newly unemployed what they want",
+          "中文翻译": "而答案永远是：一份工作",
+          "说明": "and 连接祈使句与陈述句，构成“祈使句 + and + 结果”结构，表条件结果。"
+        }
+      ],
+      "zh": "去问问任何一个新近失业的人想要什么，答案永远是：一份工作。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2014-text1-s17",
+      "s": "But in Osborneland, your first instinct is to fall into dependency—permanent dependency if you can get it—supported by a state only too ready to indulge your falsehood.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "your first instinct",
+        "谓语": "is",
+        "宾语或表语": "to fall into dependency",
+        "主干翻译": "你的第一反应是陷入依赖。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "in Osborneland",
+          "修饰对象": "is",
+          "中文翻译": "在奥斯本的世界里",
+          "说明": "地点状语，置于句首（But 为连词）"
+        },
+        {
+          "成分类型": "非谓语作表语",
+          "原文": "to fall into dependency",
+          "修饰对象": "is",
+          "中文翻译": "陷入依赖",
+          "说明": "不定式作表语，构成主系表（成分类型枚举无\"非谓语作表语\"，按非谓语补足语处理，归入表语）"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "permanent dependency if you can get it",
+          "修饰对象": "dependency",
+          "中文翻译": "如果你能得到的话，就是永久的依赖",
+          "说明": "破折号间的同位补充，作插入语，重述并强化 dependency"
+        },
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "if you can get it",
+          "修饰对象": "dependency",
+          "中文翻译": "如果你能得到它的话",
+          "说明": "if 引导条件状语从句"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "supported by a state only too ready to indulge your falsehood",
+          "修饰对象": "dependency",
+          "中文翻译": "由一个非常乐于纵容你撒谎的国家所支撑",
+          "说明": "过去分词短语作后置定语，修饰 dependency"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to indulge your falsehood",
+          "修饰对象": "ready",
+          "中文翻译": "去纵容你的谎言",
+          "说明": "不定式作状语，修饰形容词 ready（too...to 结构）"
+        }
+      ],
+      "zh": "但在奥斯本的世界里，你的第一反应却是陷入依赖——如果能得到的话，就是永久的依赖——而这种依赖由一个非常乐于纵容你撒谎的国家所支撑。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2014-text1-s18",
+      "s": "It is as though 20 years of ever-tougher reforms of the job search and benefit administration system never happened.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "It",
+        "谓语": "is",
+        "宾语或表语": "（as though 从句作表语状语）",
+        "主干翻译": "情形就好像……一样。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(方式)",
+          "原文": "as though 20 years of ever-tougher reforms of the job search and benefit administration system never happened",
+          "修饰对象": "is",
+          "中文翻译": "好像对求职和救济管理制度长达二十年、越来越严厉的改革从未发生过一样",
+          "说明": "as though 引导方式状语从句，表\"仿佛、好像\""
+        }
+      ],
+      "zh": "这情形就好像对求职与救济管理制度长达二十年、越来越严厉的改革从未发生过一样。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2014-text1-s19",
+      "s": "The principle of British welfare is no longer that you can insure yourself against the risk of unemployment and receive unconditional payments if the disaster happens.",
+      "para_no": 4,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "The principle of British welfare",
+        "谓语": "is",
+        "宾语或表语": "no longer that...",
+        "主干翻译": "英国福利的原则不再是……"
+      },
+      "components": [
+        {
+          "成分类型": "表语从句",
+          "原文": "that you can insure yourself against the risk of unemployment and receive unconditional payments if the disaster happens",
+          "修饰对象": "is",
+          "中文翻译": "你可以为失业风险投保，并在灾难发生时领取无条件的款项",
+          "说明": "that 引导表语从句，作 is 的表语（依存提示标为分句性成分）"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "insure yourself against the risk of unemployment and receive unconditional payments if the disaster happens",
+          "修饰对象": "—",
+          "中文翻译": "为失业风险投保并领取无条件款项",
+          "说明": "从句内 insure 与 receive 由 and 并列，共用主语 you"
+        },
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "if the disaster happens",
+          "修饰对象": "receive",
+          "中文翻译": "如果灾难发生的话",
+          "说明": "if 引导条件状语从句，修饰 receive"
+        }
+      ],
+      "zh": "英国福利的原则不再是：你可以为失业风险投保，并在灾难真的发生时领取无条件的款项。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2014-text1-s20",
+      "s": "Even the very phrase \"jobseeker's allowance\" is about redefining the unemployed as a \"jobseeker\" who had no fundamental right to a benefit he or she has earned through making national insurance contributions.",
+      "para_no": 4,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "Even the very phrase \"jobseeker's allowance\"",
+        "谓语": "is",
+        "宾语或表语": "about redefining the unemployed as a \"jobseeker\"",
+        "主干翻译": "甚至\"求职者津贴\"这个说法本身，也是把失业者重新定义为\"求职者\"。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "jobseeker's allowance",
+          "修饰对象": "phrase",
+          "中文翻译": "求职者津贴",
+          "说明": "引号内词组作 phrase 的同位语"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "who had no fundamental right to a benefit he or she has earned through making national insurance contributions",
+          "修饰对象": "jobseeker",
+          "中文翻译": "（这种求职者）对自己通过缴纳国民保险金而挣得的救济没有根本性的权利",
+          "说明": "who 引导定语从句，修饰 jobseeker"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "he or she has earned through making national insurance contributions",
+          "修饰对象": "benefit",
+          "中文翻译": "他或她通过缴纳国民保险金而挣得的",
+          "说明": "省略关系词的定语从句，修饰 benefit"
+        }
+      ],
+      "zh": "甚至\"求职者津贴\"这个说法本身，也是在把失业者重新定义为一个\"求职者\"——这种求职者对自己通过缴纳国民保险金而挣得的救济，并不享有根本性的权利。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2014-text1-s21",
+      "s": "Instead, the claimant receives a time-limited \"allowance,\" conditional on actively seeking a job; no entitlement and no insurance, at £71.70 a week, one of the least generous in the EU.",
+      "para_no": 4,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "the claimant",
+        "谓语": "receives",
+        "宾语或表语": "a time-limited \"allowance\"",
+        "主干翻译": "申领者领到的是一笔有时限的\"津贴\"。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "Instead",
+          "修饰对象": "—",
+          "中文翻译": "相反",
+          "说明": "连接性插入语，置于句首"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "conditional on actively seeking a job",
+          "修饰对象": "allowance",
+          "中文翻译": "以积极找工作为条件的",
+          "说明": "形容词短语作后置定语，修饰 allowance"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "no entitlement and no insurance, at £71.70 a week, one of the least generous in the EU",
+          "修饰对象": "allowance",
+          "中文翻译": "没有应得权利、也没有保险性质，每周71.70英镑，是欧盟最不慷慨的津贴之一",
+          "说明": "对 allowance 的同位补充说明，作插入语；内部 entitlement 与 insurance 并列"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "no entitlement and no insurance",
+          "修饰对象": "—",
+          "中文翻译": "没有应得权利、也没有保险性质",
+          "说明": "两个 no 名词短语由 and 并列"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "one of the least generous in the EU",
+          "修饰对象": "71.70",
+          "中文翻译": "是欧盟最不慷慨的（津贴）之一",
+          "说明": "对 £71.70 a week 的同位补充，作插入语"
+        }
+      ],
+      "zh": "相反，申领者领到的是一笔以积极找工作为条件、有时限的\"津贴\"；没有应得权利，也没有保险性质，每周仅71.70英镑，是欧盟最不慷慨的津贴之一。",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2014-text1-s1",
+        "en1-2014-text1-s2",
+        "en1-2014-text1-s3",
+        "en1-2014-text1-s4"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2014-text1-s5",
+        "en1-2014-text1-s6",
+        "en1-2014-text1-s7",
+        "en1-2014-text1-s8",
+        "en1-2014-text1-s9",
+        "en1-2014-text1-s10"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2014-text1-s11",
+        "en1-2014-text1-s12",
+        "en1-2014-text1-s14",
+        "en1-2014-text1-s15",
+        "en1-2014-text1-s16"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2014-text1-s17",
+        "en1-2014-text1-s18",
+        "en1-2014-text1-s19",
+        "en1-2014-text1-s20",
+        "en1-2014-text1-s21"
+      ]
+    }
+  ]
+}

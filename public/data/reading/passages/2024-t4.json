@@ -1,0 +1,661 @@
+{
+  "exam": "en1",
+  "key": "2024-t4",
+  "year": 2024,
+  "text_no": 4,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2024-text4-s1",
+      "s": "The miracle of the Chesapeake Bay lies not in its depths, but in the complexity of its natural construction, the interaction of fresh and saline waters, and the mix of land and water.",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "The miracle of the Chesapeake Bay",
+        "谓语": "lies",
+        "宾语或表语": "not in its depths, but in the complexity, the interaction, and the mix",
+        "主干翻译": "切萨皮克湾的奇妙之处不在于它的深度，而在于其复杂性、相互作用和混合。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "in the complexity of its natural construction, the interaction of fresh and saline waters, and the mix of land and water",
+          "修饰对象": "lies",
+          "中文翻译": "在于其自然构造的复杂性、淡水与咸水的相互作用以及陆地与水域的交融",
+          "说明": "由三个并列的 of 短语构成介词宾语，作 lies 的处所状语/表语，与前面 not in its depths 形成 not...but... 对照。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "the interaction of fresh and saline waters, and the mix of land and water",
+          "修饰对象": "complexity",
+          "中文翻译": "淡水与咸水的相互作用，以及陆地与水域的混合",
+          "说明": "与 the complexity of its natural construction 并列，同受介词 in 支配。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "the mix of land and water",
+          "修饰对象": "interaction",
+          "中文翻译": "陆地与水域的混合",
+          "说明": "三项并列中的最后一项，由 and 连接。"
+        }
+      ],
+      "zh": "切萨皮克湾的奇妙之处并不在于它的深度，而在于其自然构造的复杂性、淡水与咸水的相互作用，以及陆地与水域的交融。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2024-text4-s2",
+      "s": "The shallows provide homes for hundreds of species while storing floodwaters, filtering pollutants from water, and protecting nearby communities from potentially destructive storm surges.",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "The shallows",
+        "谓语": "provide",
+        "宾语或表语": "homes for hundreds of species",
+        "主干翻译": "这些浅水区为数百个物种提供了栖息地。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "while storing floodwaters, filtering pollutants from water, and protecting nearby communities from potentially destructive storm surges",
+          "修饰对象": "provide",
+          "中文翻译": "同时蓄滞洪水、过滤水中污染物并保护附近社区免受潜在破坏性风暴潮的侵袭",
+          "说明": "while + 现在分词构成时间/伴随状语，省略主语与 the shallows 一致；while 在此为伴随时间义，引导三个并列分词。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "filtering pollutants from water, and protecting nearby communities from potentially destructive storm surges",
+          "修饰对象": "storing",
+          "中文翻译": "过滤水中的污染物，并保护附近社区免受潜在破坏性风暴潮的侵袭",
+          "说明": "与 storing floodwaters 并列的现在分词短语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "protecting nearby communities from potentially destructive storm surges",
+          "修饰对象": "filtering",
+          "中文翻译": "保护附近社区免受潜在破坏性风暴潮的侵袭",
+          "说明": "三个并列分词中的最后一项，由 and 连接。"
+        }
+      ],
+      "zh": "这些浅水区为数百个物种提供栖息地，同时还能蓄滞洪水、过滤水中污染物，并保护附近社区免受可能具有破坏性的风暴潮的侵袭。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2024-text4-s3",
+      "s": "All this was put at great risk late last month, when the U.S. Supreme Court issued a ruling in an Idaho case that provides the U.S. Environmental Protection Agency (EPA) far less authority to regulate wetlands and waterways.",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "All this",
+        "谓语": "was put",
+        "宾语或表语": "at great risk",
+        "主干翻译": "所有这一切都被置于极大的风险之中。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "when the U.S. Supreme Court issued a ruling in an Idaho case that provides the U.S. Environmental Protection Agency (EPA) far less authority to regulate wetlands and waterways",
+          "修饰对象": "was put",
+          "中文翻译": "当时美国最高法院在一起爱达荷州案件中作出了一项裁决，该裁决赋予美国环境保护署（EPA）远小于以往的湿地与水道监管权限",
+          "说明": "when 引导时间状语从句，修饰 late last month，说明风险产生的时间。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that provides the U.S. Environmental Protection Agency (EPA) far less authority to regulate wetlands and waterways",
+          "修饰对象": "ruling",
+          "中文翻译": "（该裁决）赋予美国环境保护署远小于以往的监管湿地与水道的权限",
+          "说明": "that 引导限制性定语从句，修饰先行词 a ruling。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "EPA",
+          "修饰对象": "Agency",
+          "中文翻译": "环保署",
+          "说明": "括号内的缩写，作 the U.S. Environmental Protection Agency 的同位语/插入说明。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to regulate wetlands and waterways",
+          "修饰对象": "authority",
+          "中文翻译": "监管湿地与水道的（权限）",
+          "说明": "不定式作后置定语，修饰 authority。"
+        }
+      ],
+      "zh": "上个月底，当美国最高法院在一起爱达荷州案件中作出一项裁决、赋予美国环境保护署（EPA）远小于以往的湿地与水道监管权时，所有这一切都被置于了极大的风险之中。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2024-text4-s4",
+      "s": "Specifically, a 5-4 majority decided that wetlands protected by the EPA under its Clean Water Act authority must have a“continuous surface connection”to bodies of water.",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "a 5-4 majority",
+        "谓语": "decided",
+        "宾语或表语": "that...（宾语从句）",
+        "主干翻译": "5比4的多数意见裁定……"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "that wetlands protected by the EPA under its Clean Water Act authority must have a“continuous surface connection”to bodies of water",
+          "修饰对象": "decided",
+          "中文翻译": "受环保署依据《清洁水法》职权保护的湿地必须与各类水体有“连续的地表连接”",
+          "说明": "that 引导宾语从句，作 decided 的宾语。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "protected by the EPA under its Clean Water Act authority",
+          "修饰对象": "wetlands",
+          "中文翻译": "受环保署依据其《清洁水法》职权保护的（湿地）",
+          "说明": "过去分词短语作后置定语，修饰从句主语 wetlands。"
+        }
+      ],
+      "zh": "具体而言，以5比4的多数意见，最高法院裁定：受环保署依据《清洁水法》职权保护的湿地，必须与各类水体有“连续的地表连接”。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2024-text4-s5",
+      "s": "This narrowing of the regulatory scope was a victory for builders, mining operators and other commercial interests often at odds with environmental rules.",
+      "para_no": 2,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "This narrowing of the regulatory scope",
+        "谓语": "was",
+        "宾语或表语": "a victory for builders, mining operators and other commercial interests",
+        "主干翻译": "这种对监管范围的收窄，是建筑商、采矿经营者及其他商业利益方的一次胜利。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "mining operators and other commercial interests",
+          "修饰对象": "builders",
+          "中文翻译": "采矿经营者及其他商业利益方",
+          "说明": "与 builders 并列，同为 a victory for 的宾语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "other commercial interests",
+          "修饰对象": "operators",
+          "中文翻译": "其他商业利益方",
+          "说明": "三项并列中的最后一项，由 and 连接。"
+        },
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "often at odds with environmental rules",
+          "修饰对象": "interests",
+          "中文翻译": "常与环境法规相抵触的（利益方）",
+          "说明": "at odds with... 介词短语作后置定语，修饰 builders, mining operators and other commercial interests 这一整体（以 builders 为挂靠中心词）。"
+        }
+      ],
+      "zh": "这种对监管范围的收窄，对那些常与环境法规相抵触的建筑商、采矿经营者及其他商业利益方而言是一场胜利。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2024-text4-s6",
+      "s": "And it carries“significant repercussions for water quality and flood control throughout the United States,\" as Justice Brett Kavanaugh observed.",
+      "para_no": 2,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "it",
+        "谓语": "carries",
+        "宾语或表语": "“significant repercussions for water quality and flood control throughout the United States”",
+        "主干翻译": "它还带来了对全美水质和洪水控制的“重大影响”。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(方式)",
+          "原文": "as Justice Brett Kavanaugh observed",
+          "修饰对象": "carries",
+          "中文翻译": "正如大法官布雷特·卡瓦诺所指出的那样",
+          "说明": "as 引导方式状语从句，意为“正如……所言”，as 在此为方式义。"
+        }
+      ],
+      "zh": "而且，正如大法官布雷特·卡瓦诺所指出的那样，它还会“对全美的水质和洪水控制产生重大影响”。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2024-text4-s7",
+      "s": "In Maryland, the good news is that there are many state laws in place that provide wetlands protections.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "the good news",
+        "谓语": "is",
+        "宾语或表语": "that...（表语从句）",
+        "主干翻译": "好消息是……"
+      },
+      "components": [
+        {
+          "成分类型": "表语从句",
+          "原文": "that there are many state laws in place that provide wetlands protections",
+          "修饰对象": "is",
+          "中文翻译": "已有许多州法律到位，为湿地提供保护",
+          "说明": "that 引导表语从句，作系动词 is 的表语。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that provide wetlands protections",
+          "修饰对象": "laws",
+          "中文翻译": "为湿地提供保护的（州法律）",
+          "说明": "that 引导限制性定语从句，修饰 many state laws。"
+        }
+      ],
+      "zh": "在马里兰州，好消息是已有许多州法律到位，为湿地提供着保护。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2024-text4-s8",
+      "s": "But that's a very shortsighted view, particularly when it comes to the Chesapeake Bay.",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "that",
+        "谓语": "'s",
+        "宾语或表语": "a very shortsighted view",
+        "主干翻译": "但那是一种非常短视的观点。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "particularly when it comes to the Chesapeake Bay",
+          "修饰对象": "'s",
+          "中文翻译": "尤其是当涉及切萨皮克湾时",
+          "说明": "when 引导时间状语从句，by particularly 强调，修饰整句谓语；when it comes to 为“当谈及/涉及……时”的固定表达。"
+        }
+      ],
+      "zh": "但那是一种非常短视的看法，尤其是在涉及切萨皮克湾的问题上。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2024-text4-s9",
+      "s": "The reality is that water, and the pollutants that so often come with it, don't respect state boundaries.",
+      "para_no": 3,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "The reality",
+        "谓语": "is",
+        "宾语或表语": "that...（表语从句）",
+        "主干翻译": "现实是……"
+      },
+      "components": [
+        {
+          "成分类型": "表语从句",
+          "原文": "that water, and the pollutants that so often come with it, don't respect state boundaries",
+          "修饰对象": "is",
+          "中文翻译": "水，以及常常伴随水而来的污染物，并不会顾及州界",
+          "说明": "that 引导表语从句，作系动词 is 的表语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "and the pollutants that so often come with it",
+          "修饰对象": "water",
+          "中文翻译": "以及常常伴随水而来的污染物",
+          "说明": "与从句主语 water 并列，构成从句的复合主语。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that so often come with it",
+          "修饰对象": "pollutants",
+          "中文翻译": "常常伴随水而来的（污染物）",
+          "说明": "that 引导限制性定语从句，修饰 the pollutants。"
+        }
+      ],
+      "zh": "现实是：水，以及常常随水而来的污染物，并不理会州界的存在。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2024-text4-s10",
+      "s": "The Chesapeake draws from a 64,000-square- mile watershed that extends into Virginia, Pennsylvania, New York, West Virginia, the District of Columbia and Delaware.",
+      "para_no": 3,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "The Chesapeake",
+        "谓语": "draws",
+        "宾语或表语": "from a 64,000-square-mile watershed",
+        "主干翻译": "切萨皮克湾的水来自一个面积达6.4万平方英里的流域。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "that extends into Virginia, Pennsylvania, New York, West Virginia, the District of Columbia and Delaware",
+          "修饰对象": "watershed",
+          "中文翻译": "延伸到弗吉尼亚、宾夕法尼亚、纽约、西弗吉尼亚、哥伦比亚特区和特拉华的（流域）",
+          "说明": "that 引导限制性定语从句，修饰 watershed。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "Pennsylvania, New York, West Virginia, the District of Columbia and Delaware",
+          "修饰对象": "Virginia",
+          "中文翻译": "宾夕法尼亚、纽约、西弗吉尼亚、哥伦比亚特区和特拉华",
+          "说明": "与 Virginia 并列，同为 extends into 的宾语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "New York, West Virginia, the District of Columbia and Delaware",
+          "修饰对象": "Pennsylvania",
+          "中文翻译": "纽约、西弗吉尼亚、哥伦比亚特区和特拉华",
+          "说明": "并列地名链条中的后续项。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "West Virginia, the District of Columbia and Delaware",
+          "修饰对象": "York",
+          "中文翻译": "西弗吉尼亚、哥伦比亚特区和特拉华",
+          "说明": "并列地名链条中的后续项。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "the District of Columbia and Delaware",
+          "修饰对象": "Virginia",
+          "中文翻译": "哥伦比亚特区和特拉华",
+          "说明": "并列地名链条中的最后两项，由 and 连接（挂靠以 k 给的 West Virginia 中心词为准）。"
+        }
+      ],
+      "zh": "切萨皮克湾的水来自一个面积达6.4万平方英里的流域，该流域延伸至弗吉尼亚、宾夕法尼亚、纽约、西弗吉尼亚、哥伦比亚特区和特拉华。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2024-text4-s11",
+      "s": "Will those jurisdictions extend the same protections now denied under Sackett v.EPA?",
+      "para_no": 3,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "those jurisdictions",
+        "谓语": "Will extend",
+        "宾语或表语": "the same protections",
+        "主干翻译": "那些辖区会同样提供这些保护吗？"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "now denied under Sackett v.EPA",
+          "修饰对象": "protections",
+          "中文翻译": "如今在“萨基特诉环保署案”中被取消的（这些保护）",
+          "说明": "过去分词短语作后置定语，修饰 the same protections。"
+        }
+      ],
+      "zh": "那些辖区会继续提供如今因“萨基特诉环保署案”而被取消的这些同样的保护吗？",
+      "underline": null
+    },
+    {
+      "sid": "en1-2024-text4-s12",
+      "s": "Perhaps some, but all?",
+      "para_no": 3,
+      "para_seq": 5,
+      "trunk": {
+        "主语": "some / all",
+        "谓语": "(will, 省略)",
+        "宾语或表语": "—",
+        "主干翻译": "也许有一些会，但全部都会吗？"
+      },
+      "components": [
+        {
+          "成分类型": "省略",
+          "原文": "Perhaps some, but all?",
+          "修饰对象": "—",
+          "中文翻译": "也许会有一些（辖区这样做），但全部都会吗？",
+          "说明": "承接上句，省略了 will extend the same protections，some/all 为省略句的主语。"
+        }
+      ],
+      "zh": "也许有一些辖区会这样做，但全部都会吗？",
+      "underline": null
+    },
+    {
+      "sid": "en1-2024-text4-s13",
+      "s": "That seems unlikely, It is too easy, and misleading, to see such court rulings as merely standing up for the rights of land owners when the consequences can be so dire for their neighbors.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "It（形式主语）",
+        "谓语": "is",
+        "宾语或表语": "too easy, and misleading",
+        "主干翻译": "把这类法院裁决仅仅看作是在维护土地所有者的权利，这太过轻率且具有误导性。"
+      },
+      "components": [
+        {
+          "成分类型": "省略",
+          "原文": "That seems unlikely",
+          "修饰对象": "—",
+          "中文翻译": "那似乎不太可能",
+          "说明": "独立短句（原文以逗号粘连），That 指代上句“全部辖区都会”的可能性，seems unlikely 为系表结构。"
+        },
+        {
+          "成分类型": "非谓语作主语",
+          "原文": "to see such court rulings as merely standing up for the rights of land owners when the consequences can be so dire for their neighbors",
+          "修饰对象": "It",
+          "中文翻译": "把这类法院裁决仅仅视为在维护土地所有者的权利",
+          "说明": "不定式短语作真正主语，对应形式主语 It；see...as... 为“将……视为……”结构。"
+        },
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "when the consequences can be so dire for their neighbors",
+          "修饰对象": "standing",
+          "中文翻译": "尽管/当其后果对邻居们可能极为严重时",
+          "说明": "when 引导从句，此处含让步意味（“在……情况下”），修饰 standing up；按 k 挂靠 standing。"
+        }
+      ],
+      "zh": "那似乎不太可能。把这类法院裁决仅仅看作是在维护土地所有者的权利，而其后果对其邻居却可能极为严重——这种看法太过轻率，也具有误导性。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2024-text4-s14",
+      "s": "And it's a reminder that the EPA's involvement in the Chesapeake Bay Program has long been crucial as the means to transcend the influence of deep-pocketed special interests in neighboring states.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "it",
+        "谓语": "'s",
+        "宾语或表语": "a reminder",
+        "主干翻译": "而且它提醒人们……"
+      },
+      "components": [
+        {
+          "成分类型": "同位语从句",
+          "原文": "that the EPA's involvement in the Chesapeake Bay Program has long been crucial as the means to transcend the influence of deep-pocketed special interests in neighboring states",
+          "修饰对象": "reminder",
+          "中文翻译": "环保署对切萨皮克湾项目的参与长期以来一直至关重要，是超越邻州财力雄厚的特殊利益集团影响的手段",
+          "说明": "that 引导同位语从句，解释说明 a reminder 的内容。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to transcend the influence of deep-pocketed special interests in neighboring states",
+          "修饰对象": "means",
+          "中文翻译": "用以超越邻州财力雄厚的特殊利益集团影响的（手段）",
+          "说明": "不定式短语作后置定语，修饰 the means。"
+        }
+      ],
+      "zh": "而且它提醒人们：环保署对切萨皮克湾项目的参与长期以来一直至关重要，是超越邻州财大气粗的特殊利益集团影响的一种手段。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2024-text4-s15",
+      "s": "Pennsylvania farmers, to use one telling example, aren't thinking about next year's blue crab harvest in Maryland when they decide whether to spread animal waste on their fields, yet the runoff into nearby creeks can have enormous impact downstream.",
+      "para_no": 4,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Pennsylvania farmers / the runoff",
+        "谓语": "aren't thinking / can have",
+        "宾语或表语": "about next year's blue crab harvest / enormous impact",
+        "主干翻译": "宾夕法尼亚州的农民并未考虑明年马里兰州的蓝蟹收成，然而流入附近溪流的径流却能对下游造成巨大影响。"
+      },
+      "components": [
+        {
+          "成分类型": "插入语",
+          "原文": "to use one telling example",
+          "修饰对象": "thinking",
+          "中文翻译": "举一个有说服力的例子来说",
+          "说明": "不定式短语作插入语，独立成分。"
+        },
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "when they decide whether to spread animal waste on their fields",
+          "修饰对象": "thinking",
+          "中文翻译": "当他们决定是否要往自家田地里撒动物粪肥时",
+          "说明": "when引导时间状语从句。"
+        },
+        {
+          "成分类型": "非谓语作宾语",
+          "原文": "whether to spread animal waste on their fields",
+          "修饰对象": "decide",
+          "中文翻译": "是否要往自家田地里撒动物粪肥",
+          "说明": "whether + 不定式构成的不定式短语作decide的宾语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "the runoff into nearby creeks can have enormous impact downstream.",
+          "修饰对象": "thinking",
+          "中文翻译": "流入附近溪流的径流却能对下游产生巨大影响",
+          "说明": "yet连接的并列分句，与前一分句构成转折并列。"
+        }
+      ],
+      "zh": "举一个有说服力的例子来说，宾夕法尼亚州的农民在决定是否往自家田地里撒动物粪肥时，并不会去想马里兰州明年的蓝蟹收成；然而流入附近溪流的径流却能对下游产生巨大的影响。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2024-text4-s16",
+      "s": "And so we would call on state lawmakers from Richmond to Albany to consider reviewing their own wetlands protections and see for themselves the enormous stakes involved.",
+      "para_no": 5,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "we",
+        "谓语": "would call on",
+        "宾语或表语": "state lawmakers from Richmond to Albany",
+        "主干翻译": "因此我们要呼吁从里士满到奥尔巴尼的各州立法者。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to consider reviewing their own wetlands protections and see for themselves the enormous stakes involved",
+          "修饰对象": "call",
+          "中文翻译": "去考虑重新审查他们自己的湿地保护措施，并亲眼看看其中所涉及的巨大利害关系",
+          "说明": "不定式短语作 call on 的宾语补足语，说明呼吁立法者去做的事。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "reviewing their own wetlands protections",
+          "修饰对象": "consider",
+          "中文翻译": "重新审查他们自己的湿地保护措施",
+          "说明": "动名词短语作 consider 的宾语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "see for themselves the enormous stakes involved",
+          "修饰对象": "consider",
+          "中文翻译": "亲眼看看其中所涉及的巨大利害关系",
+          "说明": "与 consider 并列的动词不定式（共用 to），同受 call on...to 支配。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "involved",
+          "修饰对象": "stakes",
+          "中文翻译": "（其中）所涉及的（巨大利害关系）",
+          "说明": "过去分词作后置定语，修饰 the enormous stakes。"
+        }
+      ],
+      "zh": "因此，我们要呼吁从里士满到奥尔巴尼的各州立法者，认真考虑重新审查本州自己的湿地保护措施，并亲眼看看其中所涉及的巨大利害关系。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2024-text4-s17",
+      "s": "We can offer them a visit to Blackwater National Wildlife Refuge in Dorchester County where bald eagles fly over tidal marshes so shallow you could not paddle a boat across them but teaming with aquatic life.",
+      "para_no": 5,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "We",
+        "谓语": "can offer",
+        "宾语或表语": "them a visit to Blackwater National Wildlife Refuge in Dorchester County",
+        "主干翻译": "我们可以邀请他们去参观位于多切斯特县的黑水国家野生动物保护区。"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "where bald eagles fly over tidal marshes so shallow you could not paddle a boat across them but teaming with aquatic life",
+          "修饰对象": "Refuge",
+          "中文翻译": "在那里，白头海雕飞越潮汐沼泽，这些沼泽浅得连船都划不过去，却充满了水生生物",
+          "说明": "where 引导定语从句，修饰先行词 Blackwater National Wildlife Refuge。"
+        },
+        {
+          "成分类型": "状语从句(结果)",
+          "原文": "you could not paddle a boat across them",
+          "修饰对象": "shallow",
+          "中文翻译": "（浅得）你都无法划船穿过它们",
+          "说明": "so shallow (that) you could not... 结果状语从句，省略了引导词 that，修饰 so shallow。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "but teaming with aquatic life",
+          "修饰对象": "shallow",
+          "中文翻译": "却充满了水生生物",
+          "说明": "but 连接，与 so shallow 形成转折并列，共同作 tidal marshes 的后置补充描述（teaming 当作 teeming）。"
+        }
+      ],
+      "zh": "我们可以邀请他们去参观位于多切斯特县的黑水国家野生动物保护区，在那里白头海雕飞越潮汐沼泽——这些沼泽浅得连船都划不过去，却又满是水生生物。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2024-text4-s18",
+      "s": "It's worth the scenic drive.",
+      "para_no": 1,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "It",
+        "谓语": "'s",
+        "宾语或表语": "worth the scenic drive",
+        "主干翻译": "这趟风景优美的车程很值得一去。"
+      },
+      "components": [],
+      "zh": "为这一路的美景驾车前往，绝对值得。",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2024-text4-s1",
+        "en1-2024-text4-s2"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2024-text4-s3",
+        "en1-2024-text4-s4",
+        "en1-2024-text4-s5",
+        "en1-2024-text4-s6"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2024-text4-s7",
+        "en1-2024-text4-s8",
+        "en1-2024-text4-s9",
+        "en1-2024-text4-s10",
+        "en1-2024-text4-s11",
+        "en1-2024-text4-s12"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2024-text4-s13",
+        "en1-2024-text4-s14",
+        "en1-2024-text4-s15"
+      ]
+    },
+    {
+      "para_no": 5,
+      "sids": [
+        "en1-2024-text4-s16",
+        "en1-2024-text4-s17"
+      ]
+    },
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2024-text4-s18"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,876 @@
+{
+  "exam": "en1",
+  "key": "2002-t1",
+  "year": 2002,
+  "text_no": 1,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2002-text1-s1",
+      "s": "If you intend using humor in your talk to make people smile, you must know how to identify shared experiences and problems.",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "you",
+        "谓语": "must know",
+        "宾语或表语": "how to identify shared experiences and problems",
+        "主干翻译": "你必须懂得如何辨认共同的经历和问题。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "If you intend using humor in your talk to make people smile",
+          "修饰对象": "know",
+          "中文翻译": "如果你想在谈话中用幽默来逗人发笑",
+          "说明": "If 引导条件状语从句，修饰主句谓语 know。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to make people smile",
+          "修饰对象": "using",
+          "中文翻译": "来逗人发笑",
+          "说明": "不定式作目的状语，表明使用幽默的目的。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "how to identify shared experiences and problems",
+          "修饰对象": "know",
+          "中文翻译": "如何辨认共同的经历和问题",
+          "说明": "疑问词+不定式构成 know 的宾语。"
+        }
+      ],
+      "zh": "如果你想在谈话中用幽默来逗人发笑，你就必须懂得如何辨认大家共同的经历和问题。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2002-text1-s2",
+      "s": "Your humor must be relevant to the audience and should help to show them that you are one of them or that you understand their situation and are in sympathy with their point of view.",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "Your humor",
+        "谓语": "must be / should help",
+        "宾语或表语": "relevant to the audience / to show them...",
+        "主干翻译": "你的幽默必须切合听众，并且应当有助于向他们表明。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "should help to show them that you are one of them or that you understand their situation and are in sympathy with their point of view",
+          "修饰对象": "be",
+          "中文翻译": "并且应当有助于向他们表明你是他们中的一员，或者你理解他们的处境并赞同他们的观点",
+          "说明": "与 must be relevant 由 and 并列，共用主语 Your humor。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to show them that you are one of them or that you understand their situation and are in sympathy with their point of view",
+          "修饰对象": "help",
+          "中文翻译": "向他们表明你是他们中的一员……",
+          "说明": "不定式作 help 的宾语补足成分。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that you are one of them or that you understand their situation and are in sympathy with their point of view",
+          "修饰对象": "show",
+          "中文翻译": "你是他们中的一员，或者你理解他们的处境并赞同他们的观点",
+          "说明": "两个 that 从句作 show 的直接宾语（show them 后的内容）。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "that you understand their situation and are in sympathy with their point of view",
+          "修饰对象": "are",
+          "中文翻译": "你理解他们的处境并赞同他们的观点",
+          "说明": "第二个 that 从句与第一个 that you are one of them 由 or 并列。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "are in sympathy with their point of view",
+          "修饰对象": "understand",
+          "中文翻译": "并赞同他们的观点",
+          "说明": "在 that 从句内部，与 understand their situation 由 and 并列，共用主语 you。"
+        }
+      ],
+      "zh": "你的幽默必须切合听众，并且应当有助于向他们表明你是他们中的一员，或者你理解他们的处境并赞同他们的观点。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2002-text1-s3",
+      "s": "Depending on whom you are addressing, the problems will be different.",
+      "para_no": 1,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "the problems",
+        "谓语": "will be",
+        "宾语或表语": "different",
+        "主干翻译": "问题会有所不同。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "Depending on whom you are addressing",
+          "修饰对象": "be",
+          "中文翻译": "取决于你的谈话对象是谁",
+          "说明": "现在分词短语作状语，其中 whom you are addressing 为宾语从句作 on 的宾语。"
+        }
+      ],
+      "zh": "问题会因你的谈话对象不同而不同。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2002-text1-s4",
+      "s": "If you are talking to a group of managers, you may refer to the disorganized methods of their secretaries; alternatively if you are addressing secretaries, you may want to comment on their disorganized bosses.",
+      "para_no": 1,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "you",
+        "谓语": "may refer / may want",
+        "宾语或表语": "to the disorganized methods... / to comment...",
+        "主干翻译": "你可以提及……；你也许会想评论……"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "If you are talking to a group of managers",
+          "修饰对象": "refer",
+          "中文翻译": "如果你在对一群经理讲话",
+          "说明": "If 引导条件状语从句，修饰前一分句谓语 refer。"
+        },
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "if you are addressing secretaries",
+          "修饰对象": "want",
+          "中文翻译": "如果你是在对秘书们讲话",
+          "说明": "if 引导条件状语从句，修饰后一分句谓语 want。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to comment on their disorganized bosses",
+          "修饰对象": "want",
+          "中文翻译": "评论他们杂乱无章的老板",
+          "说明": "不定式作 want 的宾语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "alternatively if you are addressing secretaries, you may want to comment on their disorganized bosses",
+          "修饰对象": "—",
+          "中文翻译": "或者，如果你是在对秘书们讲话，你也许会想评论他们杂乱无章的老板",
+          "说明": "由 alternatively 连接，与前一分句并列，构成全句的两个分句。"
+        }
+      ],
+      "zh": "如果你在对一群经理讲话，你可以提及他们的秘书做事杂乱无章的方法；或者，如果你是在对秘书们讲话，你也许会想评论他们杂乱无章的老板。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2002-text1-s5",
+      "s": "Here is an example, which I heard at a nurses' convention, of a story which works well because the audience all shared the same view of doctors.",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "an example",
+        "谓语": "is",
+        "宾语或表语": "Here (倒装：Here is an example of a story)",
+        "主干翻译": "这里有一个故事的例子。"
+      },
+      "components": [
+        {
+          "成分类型": "倒装",
+          "原文": "Here is an example",
+          "修饰对象": "—",
+          "中文翻译": "这里有一个例子",
+          "说明": "Here 置于句首引起的完全倒装，主语为 an example。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "which I heard at a nurses' convention",
+          "修饰对象": "example",
+          "中文翻译": "我在一次护士大会上听到的",
+          "说明": "which 引导定语从句修饰 example，为插入性的非限制性定语。"
+        },
+        {
+          "成分类型": "介词短语作定语",
+          "原文": "of a story",
+          "修饰对象": "example",
+          "中文翻译": "一个故事的",
+          "说明": "of 短语作 example 的后置定语，与前面定语从句被隔开。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "which works well because the audience all shared the same view of doctors",
+          "修饰对象": "story",
+          "中文翻译": "之所以效果很好是因为听众对医生都持有相同的看法",
+          "说明": "which 引导定语从句修饰 story。"
+        },
+        {
+          "成分类型": "状语从句(原因)",
+          "原文": "because the audience all shared the same view of doctors",
+          "修饰对象": "works",
+          "中文翻译": "因为听众对医生都持有相同的看法",
+          "说明": "because 引导原因状语从句，修饰定语从句谓语 works。"
+        },
+        {
+          "成分类型": "插入语",
+          "原文": "all",
+          "修饰对象": "audience",
+          "中文翻译": "都、全都",
+          "说明": "all 作 the audience 的同位语，强调全体。"
+        }
+      ],
+      "zh": "这里有一个例子，是我在一次护士大会上听到的一个故事，这个故事效果很好，因为听众对医生都持有相同的看法。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2002-text1-s6",
+      "s": "A man arrives in heaven and is being shown around by St. Peter.",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "A man",
+        "谓语": "arrives / is being shown",
+        "宾语或表语": "in heaven / around",
+        "主干翻译": "一个人来到天堂，正被领着到处参观。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "is being shown around by St. Peter",
+          "修饰对象": "arrives",
+          "中文翻译": "正被圣彼得领着四处参观",
+          "说明": "与 arrives in heaven 由 and 并列，共用主语 A man。"
+        }
+      ],
+      "zh": "一个人来到天堂，正由圣彼得领着四处参观。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2002-text1-s7",
+      "s": "He sees wonderful accommodations, beautiful gardens, sunny weather, and so on.",
+      "para_no": 2,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "He",
+        "谓语": "sees",
+        "宾语或表语": "wonderful accommodations, beautiful gardens, sunny weather, and so on",
+        "主干翻译": "他看到极好的住所、美丽的花园、晴朗的天气等等。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "beautiful gardens, sunny weather, and so on",
+          "修饰对象": "accommodations",
+          "中文翻译": "美丽的花园、晴朗的天气等等",
+          "说明": "与 wonderful accommodations 并列，共同作 sees 的宾语。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "sunny weather, and so on",
+          "修饰对象": "gardens",
+          "中文翻译": "晴朗的天气等等",
+          "说明": "并列宾语成分内部进一步的并列。"
+        }
+      ],
+      "zh": "他看到极好的住所、美丽的花园、晴朗的天气等等。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2002-text1-s8",
+      "s": "Everyone is very peaceful, polite and friendly until, waiting in a line for lunch, the new arrival is suddenly pushed aside by a man in a white coat, who rushes to the head of the line, grabs his food and stomps over to a table by himself.",
+      "para_no": 2,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "Everyone / the new arrival",
+        "谓语": "is / is pushed aside",
+        "宾语或表语": "very peaceful, polite and friendly / by a man",
+        "主干翻译": "每个人都很平和、礼貌、友好，直到那位新来者突然被一个人推到一边。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "polite and friendly",
+          "修饰对象": "peaceful",
+          "中文翻译": "礼貌而友好",
+          "说明": "与 peaceful 并列作表语。"
+        },
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "until, waiting in a line for lunch, the new arrival is suddenly pushed aside by a man in a white coat, who rushes to the head of the line, grabs his food and stomps over to a table by himself",
+          "修饰对象": "is",
+          "中文翻译": "直到那位新来者排队等午餐时，突然被一个穿白大褂的人推到一边……",
+          "说明": "until 引导时间状语从句，修饰主句系动词 is。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "waiting in a line for lunch",
+          "修饰对象": "pushed",
+          "中文翻译": "在排队等候午餐时",
+          "说明": "现在分词短语作时间状语，逻辑主语为 the new arrival。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "who rushes to the head of the line, grabs his food and stomps over to a table by himself",
+          "修饰对象": "man",
+          "中文翻译": "他冲到队伍前头，抓起食物，独自重步走到一张桌子旁",
+          "说明": "who 引导非限制性定语从句修饰 a man。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "grabs his food and stomps over to a table by himself",
+          "修饰对象": "rushes",
+          "中文翻译": "抓起食物并独自重步走到一张桌子旁",
+          "说明": "在定语从句内与 rushes 由 and 并列，共用主语 who。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "stomps over to a table by himself",
+          "修饰对象": "grabs",
+          "中文翻译": "独自重步走到一张桌子旁",
+          "说明": "并列谓语的第三项。"
+        }
+      ],
+      "zh": "每个人都非常平和、礼貌而友好，直到那位新来者在排队等候午餐时，突然被一个穿白大褂的人推到一边，那人冲到队伍前头，抓起食物，独自重步走到一张桌子旁。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2002-text1-s9",
+      "s": "\"Who is that?\" the new arrival asked St. Peter.",
+      "para_no": 2,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "the new arrival",
+        "谓语": "asked",
+        "宾语或表语": "St. Peter / \"Who is that?\"",
+        "主干翻译": "新来者问圣彼得。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "Who is that",
+          "修饰对象": "asked",
+          "中文翻译": "那是谁",
+          "说明": "直接引语作 asked 的宾语（直接疑问句）。"
+        }
+      ],
+      "zh": "“那是谁？”新来者问圣彼得。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2002-text1-s10",
+      "s": "\"Oh, that's God,\" came the reply, \"but sometimes he thinks he's a doctor.\"",
+      "para_no": 2,
+      "para_seq": 5,
+      "trunk": {
+        "主语": "the reply",
+        "谓语": "came",
+        "宾语或表语": "(倒装) Oh, that's God... but sometimes he thinks...",
+        "主干翻译": "回答传来。"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "but sometimes he thinks he's a doctor.\"",
+          "修饰对象": "'s",
+          "中文翻译": "但有时他自以为是个医生",
+          "说明": "由 but 与 that's God 并列，构成回答的后半部分。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "he's a doctor",
+          "修饰对象": "thinks",
+          "中文翻译": "他是个医生",
+          "说明": "省略 that 的宾语从句作 thinks 的宾语。"
+        }
+      ],
+      "zh": "“哦，那是上帝，”回答传来，“但他有时自以为是个医生。”",
+      "underline": null
+    },
+    {
+      "sid": "en1-2002-text1-s11",
+      "s": "If you are part of the group which you are addressing, you will be in a position to know the experiences and problems which are common to all of you and it'll be appropriate for you to make a passing remark about the inedible canteen food or the chairman's notorious bad taste in ties.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "you / it",
+        "谓语": "will be / 'll be",
+        "宾语或表语": "in a position to know... / appropriate...",
+        "主干翻译": "你将能够了解……，并且……是恰当的。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "If you are part of the group which you are addressing",
+          "修饰对象": "be",
+          "中文翻译": "如果你是你所讲话的那个群体中的一员",
+          "说明": "If 引导条件状语从句，修饰主句系动词 be。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "which you are addressing",
+          "修饰对象": "group",
+          "中文翻译": "你正在对其讲话的",
+          "说明": "which 引导定语从句修饰 the group。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to know the experiences and problems which are common to all of you",
+          "修饰对象": "position",
+          "中文翻译": "了解你们大家所共有的经历和问题",
+          "说明": "不定式短语作 position 的后置定语。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "which are common to all of you",
+          "修饰对象": "experiences",
+          "中文翻译": "你们大家所共有的",
+          "说明": "which 引导定语从句修饰 the experiences and problems。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "it'll be appropriate for you to make a passing remark about the inedible canteen food or the chairman's notorious bad taste in ties.",
+          "修饰对象": "be",
+          "中文翻译": "而且你顺便评论一下难吃的食堂饭菜或主席在领带品味上臭名昭著的差劲，也是恰当的",
+          "说明": "由 and 与前一主句并列；it 为形式主语。"
+        },
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "for you to make a passing remark about the inedible canteen food or the chairman's notorious bad taste in ties",
+          "修饰对象": "be",
+          "中文翻译": "你顺便评论一下难吃的食堂饭菜或主席糟糕的领带品味",
+          "说明": "for+不定式复合结构作真正主语，对应形式主语 it。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "the chairman's notorious bad taste in ties",
+          "修饰对象": "food",
+          "中文翻译": "主席在领带品味上臭名昭著的差劲",
+          "说明": "与 the inedible canteen food 由 or 并列，作 about 的宾语。"
+        }
+      ],
+      "zh": "如果你是你所讲话的那个群体中的一员，你就能够了解你们大家所共有的经历和问题，而且你顺便评论一下难吃的食堂饭菜或主席糟糕透顶的领带品味，也是恰当的。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2002-text1-s12",
+      "s": "With other audiences you mustn't attempt to cut in with humor as they will resent an outsider making disparaging remarks about their canteen or their chairman.",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "you",
+        "谓语": "mustn't attempt",
+        "宾语或表语": "to cut in with humor",
+        "主干翻译": "你不可贸然插入幽默。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "With other audiences",
+          "修饰对象": "attempt",
+          "中文翻译": "对于其他听众",
+          "说明": "介词短语作状语，限定情形。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to cut in with humor",
+          "修饰对象": "attempt",
+          "中文翻译": "插入幽默",
+          "说明": "不定式作 attempt 的宾语。"
+        },
+        {
+          "成分类型": "状语从句(原因)",
+          "原文": "as they will resent an outsider making disparaging remarks about their canteen or their chairman",
+          "修饰对象": "attempt",
+          "中文翻译": "因为他们会反感一个外人对他们的食堂或主席说三道四",
+          "说明": "as 引导原因状语从句。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "making disparaging remarks about their canteen or their chairman",
+          "修饰对象": "outsider",
+          "中文翻译": "对他们的食堂或主席说轻蔑话的",
+          "说明": "现在分词短语作 an outsider 的后置定语（复合宾语中的宾补）。"
+        }
+      ],
+      "zh": "对于其他听众，你千万不可贸然插入幽默，因为他们会反感一个外人对他们的食堂或主席说三道四。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2002-text1-s13",
+      "s": "You will be on safer ground if you stick to scapegoats like the Post Office or the telephone system.",
+      "para_no": 3,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "You",
+        "谓语": "will be",
+        "宾语或表语": "on safer ground",
+        "主干翻译": "你的处境会更安全。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "if you stick to scapegoats like the Post Office or the telephone system",
+          "修饰对象": "be",
+          "中文翻译": "如果你坚持拿邮局或电话系统这类替罪羊开玩笑",
+          "说明": "if 引导条件状语从句，修饰主句系动词 be。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "the telephone system",
+          "修饰对象": "Office",
+          "中文翻译": "电话系统",
+          "说明": "与 the Post Office 由 or 并列，作 like 的宾语。"
+        }
+      ],
+      "zh": "如果你坚持拿邮局或电话系统这类替罪羊开玩笑，你的处境就会更稳妥些。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2002-text1-s14",
+      "s": "If you feel awkward being humorous, you must practice so that it becomes more natural.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "you",
+        "谓语": "must practice",
+        "宾语或表语": "—",
+        "主干翻译": "你必须练习。"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "If you feel awkward being humorous",
+          "修饰对象": "practice",
+          "中文翻译": "如果你觉得幽默起来很别扭",
+          "说明": "If 引导条件状语从句，修饰主句谓语 practice。"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "being humorous",
+          "修饰对象": "feel",
+          "中文翻译": "在表现幽默时",
+          "说明": "现在分词短语作 feel awkward 的状语，说明别扭的情形。"
+        },
+        {
+          "成分类型": "状语从句(目的)",
+          "原文": "so that it becomes more natural",
+          "修饰对象": "practice",
+          "中文翻译": "以便它变得更自然",
+          "说明": "so that 引导目的状语从句。"
+        }
+      ],
+      "zh": "如果你觉得表现幽默很别扭，你就必须多加练习，以使其变得更自然。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2002-text1-s15",
+      "s": "Include a few casual and apparently off-the-cuff remarks which you can deliver in a relaxed and unforced manner.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "(you)",
+        "谓语": "Include",
+        "宾语或表语": "a few casual and apparently off-the-cuff remarks",
+        "主干翻译": "（你要）加入一些随意而且看似即兴的话语。"
+      },
+      "components": [
+        {
+          "成分类型": "省略",
+          "原文": "Include a few casual and apparently off-the-cuff remarks",
+          "修饰对象": "—",
+          "中文翻译": "加入一些随意而且看似即兴的话语",
+          "说明": "祈使句，省略主语 you。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "which you can deliver in a relaxed and unforced manner",
+          "修饰对象": "remarks",
+          "中文翻译": "你可以以轻松自然的方式说出的",
+          "说明": "which 引导定语从句修饰 remarks。"
+        }
+      ],
+      "zh": "加入一些随意而且看似即兴的话语，你可以用轻松而不做作的方式把它们说出来。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2002-text1-s16",
+      "s": "Often it's the delivery which causes the audience to smile, so speak slowly and remember that a raised eyebrow or an unbelieving look may help to show that you are making a light-hearted remark.",
+      "para_no": 4,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "it / (you)",
+        "谓语": "is / speak / remember",
+        "宾语或表语": "the delivery / slowly / that...",
+        "主干翻译": "往往正是这种表达方式（使听众发笑），所以要慢慢说，并且要记住……"
+      },
+      "components": [
+        {
+          "成分类型": "强调句",
+          "原文": "it's the delivery which causes the audience to smile",
+          "修饰对象": "—",
+          "中文翻译": "正是表达方式才使听众发笑",
+          "说明": "it is ... which ... 强调句，强调主语 the delivery。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "which causes the audience to smile",
+          "修饰对象": "delivery",
+          "中文翻译": "使听众发笑的",
+          "说明": "强调句中的关系分句，修饰被强调成分 the delivery。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "the audience to smile",
+          "修饰对象": "causes",
+          "中文翻译": "听众发笑",
+          "说明": "cause sb to do 复合宾语，不定式作宾补。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "so speak slowly and remember that a raised eyebrow or an unbelieving look may help to show that you are making a light-hearted remark.",
+          "修饰对象": "'s",
+          "中文翻译": "所以要慢慢说，并记住扬一下眉毛或露出不相信的神情都可能有助于表明你是在说一句轻松的话",
+          "说明": "so 连接的结果分句，与强调句并列。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "remember that a raised eyebrow or an unbelieving look may help to show that you are making a light-hearted remark",
+          "修饰对象": "speak",
+          "中文翻译": "记住扬一下眉毛或露出不相信的神情可能有助于表明你在说一句轻松的话",
+          "说明": "祈使句中与 speak slowly 由 and 并列。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "an unbelieving look",
+          "修饰对象": "eyebrow",
+          "中文翻译": "不相信的神情",
+          "说明": "与 a raised eyebrow 由 or 并列，作宾语从句主语。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that a raised eyebrow or an unbelieving look may help to show that you are making a light-hearted remark",
+          "修饰对象": "remember",
+          "中文翻译": "扬一下眉毛或露出不相信的神情可能有助于表明你在说一句轻松的话",
+          "说明": "that 引导宾语从句作 remember 的宾语。"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to show that you are making a light-hearted remark",
+          "修饰对象": "help",
+          "中文翻译": "表明你在说一句轻松的话",
+          "说明": "不定式作 help 的宾语。"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that you are making a light-hearted remark",
+          "修饰对象": "show",
+          "中文翻译": "你在说一句轻松的话",
+          "说明": "that 引导宾语从句作 show 的宾语。"
+        }
+      ],
+      "zh": "往往正是表达方式才使听众发笑，所以要慢慢地说，并且要记住，扬一下眉毛或露出一副不相信的神情，都可能有助于表明你是在说一句轻松的玩笑话。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2002-text1-s17",
+      "s": "Look for the humor.",
+      "para_no": 5,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "(you)",
+        "谓语": "Look for",
+        "宾语或表语": "the humor",
+        "主干翻译": "（你要）寻找幽默。"
+      },
+      "components": [
+        {
+          "成分类型": "省略",
+          "原文": "Look for the humor",
+          "修饰对象": "—",
+          "中文翻译": "寻找幽默",
+          "说明": "祈使句，省略主语 you。"
+        }
+      ],
+      "zh": "去寻找幽默。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2002-text1-s18",
+      "s": "It often comes from the unexpected.",
+      "para_no": 5,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "It",
+        "谓语": "comes",
+        "宾语或表语": "from the unexpected",
+        "主干翻译": "它常常来自意想不到之处。"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "from the unexpected",
+          "修饰对象": "comes",
+          "中文翻译": "来自意想不到的事物",
+          "说明": "介词短语作状语，表来源。"
+        }
+      ],
+      "zh": "它往往来自意想不到的地方。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2002-text1-s19",
+      "s": "A twist on a familiar quote \"If at first you don't succeed, give up\" or a play on words or on a situation.",
+      "para_no": 5,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "A twist / a play",
+        "谓语": "(无谓语，名词性片段)",
+        "宾语或表语": "—",
+        "主干翻译": "对一句熟悉引语的曲解，或对文字、对情境的巧用。"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "If at first you don't succeed, give up",
+          "修饰对象": "quote",
+          "中文翻译": "“如果一开始你没有成功，那就放弃吧”",
+          "说明": "引语内容作 a familiar quote 的同位说明（即被曲解的那句话）。"
+        },
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "If at first you don't succeed",
+          "修饰对象": "give",
+          "中文翻译": "如果一开始你没有成功",
+          "说明": "引语内部 If 引导的条件状语从句，修饰 give up。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "a play on words or on a situation",
+          "修饰对象": "quote",
+          "中文翻译": "对文字或情境的巧用",
+          "说明": "与 A twist on a familiar quote 由 or 并列。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "on a situation",
+          "修饰对象": "on",
+          "中文翻译": "对情境",
+          "说明": "与 on words 由 or 并列，作 a play 的修饰。"
+        }
+      ],
+      "zh": "对一句熟悉引语的曲解——“如果一开始你没有成功，那就放弃吧”——或是对文字、对某种情境的巧妙利用。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2002-text1-s20",
+      "s": "Search for exaggeration and understatement.",
+      "para_no": 5,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "(you)",
+        "谓语": "Search for",
+        "宾语或表语": "exaggeration and understatement",
+        "主干翻译": "（你要）寻找夸张与轻描淡写。"
+      },
+      "components": [
+        {
+          "成分类型": "省略",
+          "原文": "Search for exaggeration and understatement",
+          "修饰对象": "—",
+          "中文翻译": "寻找夸张和轻描淡写",
+          "说明": "祈使句，省略主语 you；exaggeration and understatement 为并列宾语。"
+        }
+      ],
+      "zh": "去寻找夸张和轻描淡写之处。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2002-text1-s21",
+      "s": "Look at your talk and pick out a few words or sentences which you can turn about and inject with humor.",
+      "para_no": 5,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "(you)",
+        "谓语": "Look at / pick out",
+        "宾语或表语": "your talk / a few words or sentences",
+        "主干翻译": "（你要）审视你的讲话，挑出几个词或句子。"
+      },
+      "components": [
+        {
+          "成分类型": "省略",
+          "原文": "Look at your talk",
+          "修饰对象": "—",
+          "中文翻译": "审视你的讲话",
+          "说明": "祈使句，省略主语 you。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "pick out a few words or sentences which you can turn about and inject with humor",
+          "修饰对象": "Look",
+          "中文翻译": "挑出几个你能加以改动并注入幽默的词或句子",
+          "说明": "与 Look at your talk 由 and 并列的祈使句。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "which you can turn about and inject with humor",
+          "修饰对象": "words",
+          "中文翻译": "你能加以改动并注入幽默的",
+          "说明": "which 引导定语从句修饰 a few words or sentences。"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "which you can turn about and inject with humor",
+          "修饰对象": "turn",
+          "中文翻译": "改动并注入幽默",
+          "说明": "定语从句内 turn about 与 inject with humor 由 and 并列，共用 you can。"
+        }
+      ],
+      "zh": "审视你的讲话，挑出几个你能加以改动并注入幽默的词或句子。",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2002-text1-s1",
+        "en1-2002-text1-s2",
+        "en1-2002-text1-s3",
+        "en1-2002-text1-s4"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2002-text1-s5",
+        "en1-2002-text1-s6",
+        "en1-2002-text1-s7",
+        "en1-2002-text1-s8",
+        "en1-2002-text1-s9",
+        "en1-2002-text1-s10"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2002-text1-s11",
+        "en1-2002-text1-s12",
+        "en1-2002-text1-s13"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2002-text1-s14",
+        "en1-2002-text1-s15",
+        "en1-2002-text1-s16"
+      ]
+    },
+    {
+      "para_no": 5,
+      "sids": [
+        "en1-2002-text1-s17",
+        "en1-2002-text1-s18",
+        "en1-2002-text1-s19",
+        "en1-2002-text1-s20",
+        "en1-2002-text1-s21"
+      ]
+    }
+  ]
+}

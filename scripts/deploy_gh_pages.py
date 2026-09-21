@@ -24,15 +24,16 @@ def deploy_to_gh_pages():
     with open(os.path.join(temp_dir, '.nojekyll'), 'w') as f:
         f.write('')
 
-    # 4. Copy public folders: data, icons, images, thumbs, sw.js
+    # 4. Copy all public assets (data, icons, images, thumbs, pdfs, sw.js, vite.svg, etc.)
     pub_dir = os.path.join(root, 'public')
-    for item in ['data', 'icons', 'images', 'thumbs']:
-        src = os.path.join(pub_dir, item)
-        if os.path.exists(src):
-            shutil.copytree(src, os.path.join(temp_dir, item))
-
-    if os.path.exists(os.path.join(pub_dir, 'sw.js')):
-        shutil.copy2(os.path.join(pub_dir, 'sw.js'), os.path.join(temp_dir, 'sw.js'))
+    if os.path.exists(pub_dir):
+        for item in os.listdir(pub_dir):
+            src = os.path.join(pub_dir, item)
+            dst = os.path.join(temp_dir, item)
+            if os.path.isdir(src):
+                shutil.copytree(src, dst)
+            elif os.path.isfile(src):
+                shutil.copy2(src, dst)
 
     # 5. Git commit & push to gh-pages branch
     try:

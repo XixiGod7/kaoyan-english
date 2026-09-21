@@ -1,0 +1,707 @@
+{
+  "exam": "en1",
+  "key": "2005-t2",
+  "year": 2005,
+  "text_no": 2,
+  "title": null,
+  "sentences": [
+    {
+      "sid": "en1-2005-text2-s1",
+      "s": "Do you remember all those years when scientists argued that smoking would kill us but the doubters insisted that we didn't know for sure?",
+      "para_no": 1,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "you",
+        "谓语": "remember",
+        "宾语或表语": "all those years",
+        "主干翻译": "你还记得那些年吗"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "when scientists argued that smoking would kill us but the doubters insisted that we didn't know for sure",
+          "修饰对象": "years",
+          "中文翻译": "当时科学家们认为吸烟会害死我们，但怀疑者们却坚称我们并不确切知道",
+          "说明": "when 引导定语从句，修饰先行词 years，表时间"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that smoking would kill us",
+          "修饰对象": "argued",
+          "中文翻译": "吸烟会害死我们",
+          "说明": "that 引导，作 argued 的宾语"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "scientists argued that smoking would kill us but the doubters insisted that we didn't know for sure",
+          "修饰对象": "—",
+          "中文翻译": "科学家们认为吸烟会害死我们，但怀疑者们坚称我们并不确切知道",
+          "说明": "but 连接定语从句内两个并列分句"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that we didn't know for sure",
+          "修饰对象": "insisted",
+          "中文翻译": "我们并不确切知道",
+          "说明": "that 引导，作 insisted 的宾语"
+        }
+      ],
+      "zh": "你还记得那些年吗——当时科学家们坚持认为吸烟会害死我们，而怀疑者们却坚称我们并不能确切知道？",
+      "underline": null
+    },
+    {
+      "sid": "en1-2005-text2-s2",
+      "s": "That the evidence was inconclusive, the science uncertain?",
+      "para_no": 1,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "(省略) it",
+        "谓语": "(省略系动词) was",
+        "宾语或表语": "That the evidence was inconclusive",
+        "主干翻译": "（怀疑者们还坚称）证据并不确凿。"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "That the evidence was inconclusive",
+          "修饰对象": "(省略的主句动词)",
+          "中文翻译": "证据并不确凿",
+          "说明": "该句为省略式反问，承接上文，That 引导的从句充当被询问/被陈述的内容。"
+        },
+        {
+          "成分类型": "省略",
+          "原文": "the science uncertain?",
+          "修饰对象": "the evidence was inconclusive",
+          "中文翻译": "科学结论并不确定？",
+          "说明": "与前一从句并列，承前省略 that 与系动词 was，还原为 (that) the science (was) uncertain。"
+        }
+      ],
+      "zh": "（怀疑者们还坚称）证据并不确凿、科学结论尚不确定？",
+      "underline": null
+    },
+    {
+      "sid": "en1-2005-text2-s3",
+      "s": "That the antismoking lobby was out to destroy our way of life and the government should stay out of the way?",
+      "para_no": 1,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "the antismoking lobby",
+        "谓语": "was",
+        "宾语或表语": "out to destroy our way of life",
+        "主干翻译": "反吸烟游说团体一心要摧毁我们的生活方式"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to destroy our way of life",
+          "修饰对象": "out",
+          "中文翻译": "去摧毁我们的生活方式",
+          "说明": "be out to do 结构，不定式表目的/意图"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "the government should stay out of the way",
+          "修饰对象": "—",
+          "中文翻译": "而政府应当置身事外",
+          "说明": "and 连接的并列分句"
+        }
+      ],
+      "zh": "（你还记得那时人们说）反吸烟游说团体一心要摧毁我们的生活方式，而政府应当置身事外吗？",
+      "underline": null
+    },
+    {
+      "sid": "en1-2005-text2-s4",
+      "s": "Lots of Americans bought that nonsense, and over three decades, some 10 million smokers went to early graves.",
+      "para_no": 1,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "Lots of Americans",
+        "谓语": "bought",
+        "宾语或表语": "that nonsense",
+        "主干翻译": "许多美国人相信了那套胡言"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "over three decades, some 10 million smokers went to early graves",
+          "修饰对象": "—",
+          "中文翻译": "三十多年间，约一千万吸烟者过早离世",
+          "说明": "and 连接的并列分句，其中 over three decades 为时间状语"
+        }
+      ],
+      "zh": "许多美国人相信了那套胡言，而在三十多年间，约有一千万吸烟者过早地走进了坟墓。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2005-text2-s5",
+      "s": "There are upsetting parallels today, as scientists in one wave after another try to awaken us to the growing threat of global warming.",
+      "para_no": 2,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "upsetting parallels",
+        "谓语": "are",
+        "宾语或表语": "today（there be 存在句）",
+        "主干翻译": "如今存在着令人不安的相似情形"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "as scientists in one wave after another try to awaken us to the growing threat of global warming",
+          "修饰对象": "are",
+          "中文翻译": "正当科学家们一波又一波地试图唤醒我们去正视全球变暖日益加剧的威胁时",
+          "说明": "as 引导时间状语从句，表'正当……时'；in one wave after another 为方式状语"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to awaken us to the growing threat of global warming",
+          "修饰对象": "try",
+          "中文翻译": "去唤醒我们正视全球变暖日益加剧的威胁",
+          "说明": "try to do 中的不定式，作 try 的补足成分"
+        }
+      ],
+      "zh": "如今出现了令人不安的相似情形：科学家们一波接一波地试图唤醒我们，去正视全球变暖日益加剧的威胁。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2005-text2-s6",
+      "s": "The latest was a panel from the National Academy of Sciences, enlisted by the White House, to tell us that the Earth's atmosphere is definitely warming and that the problem is largely man-made.",
+      "para_no": 2,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "The latest",
+        "谓语": "was",
+        "宾语或表语": "a panel from the National Academy of Sciences",
+        "主干翻译": "最近的一次是美国国家科学院的一个专家小组"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "enlisted by the White House",
+          "修饰对象": "panel",
+          "中文翻译": "受白宫之邀（组建）的",
+          "说明": "过去分词短语作后置定语，修饰 panel"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "to tell us that the Earth's atmosphere is definitely warming and that the problem is largely man-made",
+          "修饰对象": "panel",
+          "中文翻译": "用以告诉我们地球大气层确实在变暖、而且这一问题主要由人为造成",
+          "说明": "不定式短语作后置定语/目的，修饰 panel"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that the Earth's atmosphere is definitely warming",
+          "修饰对象": "tell",
+          "中文翻译": "地球大气层确实在变暖",
+          "说明": "that 引导，作 tell 的宾语"
+        },
+        {
+          "成分类型": "并列结构",
+          "原文": "that the problem is largely man-made",
+          "修饰对象": "tell",
+          "中文翻译": "这一问题主要由人为造成",
+          "说明": "and 连接的第二个 that 宾语从句"
+        }
+      ],
+      "zh": "最近的一次是受白宫之邀组建的美国国家科学院专家小组，它告诉我们：地球大气层确实在变暖，而且这一问题主要是人为造成的。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2005-text2-s7",
+      "s": "The clear message is that we should get moving to protect ourselves.",
+      "para_no": 2,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "The clear message",
+        "谓语": "is",
+        "宾语或表语": "that we should get moving to protect ourselves",
+        "主干翻译": "明确的信息是我们应当行动起来保护自己"
+      },
+      "components": [
+        {
+          "成分类型": "表语从句",
+          "原文": "that we should get moving to protect ourselves",
+          "修饰对象": "is",
+          "中文翻译": "我们应当行动起来保护自己",
+          "说明": "that 引导，作系动词 is 的表语"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to protect ourselves",
+          "修饰对象": "moving",
+          "中文翻译": "来保护我们自己",
+          "说明": "不定式作目的状语"
+        }
+      ],
+      "zh": "这一明确的信息就是：我们应当立即行动起来，保护自己。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2005-text2-s8",
+      "s": "The president of the National Academy, Bruce Alberts, added this key point in the preface to the panel's report: \"Science never has all the answers.",
+      "para_no": 2,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "The president of the National Academy",
+        "谓语": "added",
+        "宾语或表语": "this key point",
+        "主干翻译": "国家科学院院长补充了这一关键观点"
+      },
+      "components": [
+        {
+          "成分类型": "同位语",
+          "原文": "Bruce Alberts",
+          "修饰对象": "president",
+          "中文翻译": "布鲁斯·阿尔伯茨",
+          "说明": "作 The president of the National Academy 的同位语"
+        },
+        {
+          "成分类型": "同位语",
+          "原文": "Science never has all the answers",
+          "修饰对象": "point",
+          "中文翻译": "科学从来无法给出所有答案",
+          "说明": "冒号后内容是对 this key point 的同位说明"
+        }
+      ],
+      "zh": "国家科学院院长布鲁斯·阿尔伯茨在该小组报告的前言中补充了这一关键观点：科学从来无法给出所有答案。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2005-text2-s9",
+      "s": "But science does provide us with the best available guide to the future, and it is critical that our nation and the world base important policies on the best judgments that science can provide concerning the future consequences of present actions.\"",
+      "para_no": 2,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "science",
+        "谓语": "does provide",
+        "宾语或表语": "us with the best available guide to the future",
+        "主干翻译": "科学确实为我们提供了通往未来的最佳现有指引"
+      },
+      "components": [
+        {
+          "成分类型": "并列结构",
+          "原文": "it is critical that our nation and the world base important policies on the best judgments that science can provide concerning the future consequences of present actions",
+          "修饰对象": "—",
+          "中文翻译": "至关重要的是，我们的国家乃至全世界都应依据科学就当前行动的未来后果所能提供的最佳判断来制定重要政策",
+          "说明": "and 连接的并列分句，it 为形式主语"
+        },
+        {
+          "成分类型": "主语从句",
+          "原文": "that our nation and the world base important policies on the best judgments that science can provide concerning the future consequences of present actions",
+          "修饰对象": "is",
+          "中文翻译": "我们的国家和全世界应依据科学所能提供的最佳判断来制定重要政策",
+          "说明": "that 引导，真正主语，it 为形式主语；concerning... 为介词短语作状语"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "that science can provide",
+          "修饰对象": "judgments",
+          "中文翻译": "科学所能提供的",
+          "说明": "that 引导，修饰 the best judgments，that 作 provide 的宾语"
+        }
+      ],
+      "zh": "但科学确实为我们提供了通往未来的最佳现有指引，而至关重要的是，我们的国家乃至全世界都应依据科学就当前行动的未来后果所能提供的最佳判断，来制定重要政策。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2005-text2-s10",
+      "s": "Just as on smoking, voices now come from many quarters insisting that the science about global warming is incomplete, that it's OK to keep pouring fumes into the air until we know for sure.",
+      "para_no": 3,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "voices",
+        "谓语": "come",
+        "宾语或表语": "from many quarters",
+        "主干翻译": "种种声音如今来自四面八方"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(方式)",
+          "原文": "Just as on smoking",
+          "修饰对象": "come",
+          "中文翻译": "正如在吸烟问题上一样",
+          "说明": "Just as 引导方式状语从句（省略），表类比"
+        },
+        {
+          "成分类型": "非谓语作定语",
+          "原文": "insisting that the science about global warming is incomplete, that it's OK to keep pouring fumes into the air until we know for sure",
+          "修饰对象": "voices",
+          "中文翻译": "坚称有关全球变暖的科学并不完备、在确切知道之前继续向空气中排放废气也没什么问题",
+          "说明": "现在分词短语作后置定语，修饰 voices"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that the science about global warming is incomplete",
+          "修饰对象": "insisting",
+          "中文翻译": "有关全球变暖的科学并不完备",
+          "说明": "that 引导，作 insisting 的宾语"
+        },
+        {
+          "成分类型": "宾语从句",
+          "原文": "that it's OK to keep pouring fumes into the air until we know for sure",
+          "修饰对象": "insisting",
+          "中文翻译": "在确切知道之前继续向空气中排放废气也没什么问题",
+          "说明": "and 后并列的第二个 that 宾语从句，it 为形式主语"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to keep pouring fumes into the air until we know for sure",
+          "修饰对象": "'s",
+          "中文翻译": "继续向空气中排放废气，直到我们确切知道为止",
+          "说明": "不定式作真正主语，it 为形式主语；pouring 为 keep 的现在分词补足成分"
+        },
+        {
+          "成分类型": "状语从句(时间)",
+          "原文": "until we know for sure",
+          "修饰对象": "keep",
+          "中文翻译": "直到我们确切知道为止",
+          "说明": "until 引导时间状语从句"
+        }
+      ],
+      "zh": "正如当年在吸烟问题上一样，如今四面八方又传来种种声音，坚称有关全球变暖的科学尚不完备，在我们确切知道之前继续向空气中排放废气也无妨。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2005-text2-s11",
+      "s": "This is a dangerous game: by the time 100 percent of the evidence is in, it may be too late.",
+      "para_no": 3,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "This / it",
+        "谓语": "is / may be",
+        "宾语或表语": "a dangerous game / too late",
+        "主干翻译": "这是一场危险的博弈；等到那时，可能为时已晚。"
+      },
+      "components": [
+        {
+          "成分类型": "表语从句",
+          "原文": "This is a dangerous game",
+          "修饰对象": "be",
+          "中文翻译": "这是一场危险的博弈",
+          "说明": "本分句为系表结构主句，a dangerous game作表语。"
+        },
+        {
+          "成分类型": "定语从句",
+          "原文": "100 percent of the evidence is in",
+          "修饰对象": "time",
+          "中文翻译": "百分之百的证据都已到位",
+          "说明": "省略引导词的定语从句，修饰time（by the time意为\"到……时\"）。"
+        }
+      ],
+      "zh": "这是一场危险的博弈：等到百分之百的证据都齐备时，可能已经为时已晚。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2005-text2-s12",
+      "s": "With the risks obvious and growing, a prudent people would take out an insurance policy now.",
+      "para_no": 3,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "a prudent people",
+        "谓语": "would take out",
+        "宾语或表语": "an insurance policy",
+        "主干翻译": "审慎的民族会买一份保险"
+      },
+      "components": [
+        {
+          "成分类型": "介词短语作状语",
+          "原文": "With the risks obvious and growing",
+          "修饰对象": "take",
+          "中文翻译": "面对显而易见且不断加剧的风险",
+          "说明": "with 复合结构作状语，表伴随/原因"
+        }
+      ],
+      "zh": "面对显而易见且不断加剧的风险，一个审慎的民族现在就会买下一份保险。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2005-text2-s13",
+      "s": "Fortunately, the White House is starting to pay attention.",
+      "para_no": 4,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "the White House",
+        "谓语": "is starting",
+        "宾语或表语": "to pay attention",
+        "主干翻译": "白宫开始予以关注"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to pay attention",
+          "修饰对象": "starting",
+          "中文翻译": "开始关注",
+          "说明": "start to do 中的不定式，作 starting 的补足成分"
+        }
+      ],
+      "zh": "幸运的是，白宫开始予以关注了。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2005-text2-s14",
+      "s": "But it's obvious that a majority of the president's advisers still don't take global warming seriously.",
+      "para_no": 4,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "it",
+        "谓语": "'s",
+        "宾语或表语": "obvious",
+        "主干翻译": "这是显而易见的"
+      },
+      "components": [
+        {
+          "成分类型": "主语从句",
+          "原文": "that a majority of the president's advisers still don't take global warming seriously",
+          "修饰对象": "'s",
+          "中文翻译": "总统的多数顾问仍未认真对待全球变暖",
+          "说明": "that 引导，真正主语，it 为形式主语"
+        }
+      ],
+      "zh": "但显而易见的是，总统的大多数顾问仍未认真对待全球变暖问题。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2005-text2-s15",
+      "s": "Instead of a plan of action, they continue to press for more research—a classic case of \"paralysis by analysis\".",
+      "para_no": 4,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "they",
+        "谓语": "continue",
+        "宾语或表语": "to press for more research",
+        "主干翻译": "他们继续敦促开展更多研究"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to press for more research—a classic case of \"",
+          "修饰对象": "continue",
+          "中文翻译": "继续敦促开展更多研究——这是一个典型的'……'案例",
+          "说明": "continue to do 中的不定式，作 continue 的补足成分；破折号后为同位说明"
+        }
+      ],
+      "zh": "他们不拿出行动方案，反而继续敦促开展更多研究——这是一个典型的“分析导致瘫痪（议而不决）”的案例。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2005-text2-s16",
+      "s": "To serve as responsible stewards of the planet, we must press forward on deeper atmospheric and oceanic research.",
+      "para_no": 5,
+      "para_seq": 0,
+      "trunk": {
+        "主语": "we",
+        "谓语": "must press forward",
+        "宾语或表语": "on deeper atmospheric and oceanic research",
+        "主干翻译": "我们必须推进更深入的大气和海洋研究"
+      },
+      "components": [
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "To serve as responsible stewards of the planet",
+          "修饰对象": "press",
+          "中文翻译": "为了做地球负责任的管家",
+          "说明": "不定式短语作目的状语"
+        }
+      ],
+      "zh": "为了做地球负责任的管家，我们必须推进更深入的大气与海洋研究。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2005-text2-s17",
+      "s": "But research alone is inadequate.",
+      "para_no": 5,
+      "para_seq": 1,
+      "trunk": {
+        "主语": "research alone",
+        "谓语": "is",
+        "宾语或表语": "inadequate",
+        "主干翻译": "仅靠研究是不够的"
+      },
+      "components": [],
+      "zh": "但仅靠研究是不够的。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2005-text2-s18",
+      "s": "If the Administration won't take the legislative initiative, Congress should help to begin fashioning conservation measures.",
+      "para_no": 5,
+      "para_seq": 2,
+      "trunk": {
+        "主语": "Congress",
+        "谓语": "should help",
+        "宾语或表语": "to begin fashioning conservation measures",
+        "主干翻译": "国会应当帮助着手制定环保措施"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "If the Administration won't take the legislative initiative",
+          "修饰对象": "help",
+          "中文翻译": "如果政府不愿在立法上采取主动",
+          "说明": "If 引导条件状语从句"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to begin fashioning conservation measures",
+          "修饰对象": "help",
+          "中文翻译": "着手制定环保措施",
+          "说明": "help to do 中的不定式，作 help 的补足成分"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "fashioning conservation measures",
+          "修饰对象": "begin",
+          "中文翻译": "制定环保措施",
+          "说明": "begin doing 中的现在分词，作 begin 的补足成分"
+        }
+      ],
+      "zh": "如果政府不愿在立法上采取主动，国会就应当帮助着手制定环保措施。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2005-text2-s19",
+      "s": "A bill by Democratic Senator Robert Byrd of West Virginia, which would offer financial incentives for private industry, is a promising start.",
+      "para_no": 5,
+      "para_seq": 3,
+      "trunk": {
+        "主语": "A bill",
+        "谓语": "is",
+        "宾语或表语": "a promising start",
+        "主干翻译": "一项议案是一个充满希望的开端"
+      },
+      "components": [
+        {
+          "成分类型": "定语从句",
+          "原文": "which would offer financial incentives for private industry",
+          "修饰对象": "bill",
+          "中文翻译": "（该议案）将为私营企业提供财政激励",
+          "说明": "which 引导非限定性定语从句，修饰 A bill"
+        }
+      ],
+      "zh": "西弗吉尼亚州民主党参议员罗伯特·伯德提出的一项议案——它将为私营企业提供财政激励——是一个充满希望的开端。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2005-text2-s20",
+      "s": "Many see that the country is getting ready to build lots of new power plants to meet our energy needs.",
+      "para_no": 5,
+      "para_seq": 4,
+      "trunk": {
+        "主语": "Many",
+        "谓语": "see",
+        "宾语或表语": "that the country is getting ready to build lots of new power plants to meet our energy needs",
+        "主干翻译": "许多人看到这个国家正准备建造大量新发电厂"
+      },
+      "components": [
+        {
+          "成分类型": "宾语从句",
+          "原文": "that the country is getting ready to build lots of new power plants to meet our energy needs",
+          "修饰对象": "see",
+          "中文翻译": "这个国家正准备建造许多新发电厂以满足我们的能源需求",
+          "说明": "that 引导，作 see 的宾语"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to build lots of new power plants to meet our energy needs",
+          "修饰对象": "ready",
+          "中文翻译": "建造许多新发电厂以满足能源需求",
+          "说明": "get ready to do 中的不定式，作 ready 的补足成分"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to meet our energy needs",
+          "修饰对象": "build",
+          "中文翻译": "以满足我们的能源需求",
+          "说明": "不定式作目的状语"
+        }
+      ],
+      "zh": "许多人看到，这个国家正准备建造大量新的发电厂，以满足我们的能源需求。",
+      "underline": null
+    },
+    {
+      "sid": "en1-2005-text2-s21",
+      "s": "If we are ever going to protect the atmosphere, it is crucial that those new plants be environmentally sound.",
+      "para_no": 5,
+      "para_seq": 5,
+      "trunk": {
+        "主语": "it",
+        "谓语": "is",
+        "宾语或表语": "crucial",
+        "主干翻译": "这是至关重要的"
+      },
+      "components": [
+        {
+          "成分类型": "状语从句(条件)",
+          "原文": "If we are ever going to protect the atmosphere",
+          "修饰对象": "is",
+          "中文翻译": "如果我们真要保护大气层",
+          "说明": "If 引导条件状语从句"
+        },
+        {
+          "成分类型": "非谓语作状语",
+          "原文": "to protect the atmosphere",
+          "修饰对象": "going",
+          "中文翻译": "保护大气层",
+          "说明": "be going to do 中的不定式，作 going 的补足成分"
+        },
+        {
+          "成分类型": "主语从句",
+          "原文": "that those new plants be environmentally sound",
+          "修饰对象": "is",
+          "中文翻译": "那些新发电厂在环保方面达标",
+          "说明": "that 引导，真正主语，it 为形式主语；be 为虚拟语气（should be）"
+        }
+      ],
+      "zh": "如果我们真想保护大气层，那么至关重要的一点就是：那些新建的发电厂在环保方面必须达标。",
+      "underline": null
+    }
+  ],
+  "paragraphs": [
+    {
+      "para_no": 1,
+      "sids": [
+        "en1-2005-text2-s1",
+        "en1-2005-text2-s2",
+        "en1-2005-text2-s3",
+        "en1-2005-text2-s4"
+      ]
+    },
+    {
+      "para_no": 2,
+      "sids": [
+        "en1-2005-text2-s5",
+        "en1-2005-text2-s6",
+        "en1-2005-text2-s7",
+        "en1-2005-text2-s8",
+        "en1-2005-text2-s9"
+      ]
+    },
+    {
+      "para_no": 3,
+      "sids": [
+        "en1-2005-text2-s10",
+        "en1-2005-text2-s11",
+        "en1-2005-text2-s12"
+      ]
+    },
+    {
+      "para_no": 4,
+      "sids": [
+        "en1-2005-text2-s13",
+        "en1-2005-text2-s14",
+        "en1-2005-text2-s15"
+      ]
+    },
+    {
+      "para_no": 5,
+      "sids": [
+        "en1-2005-text2-s16",
+        "en1-2005-text2-s17",
+        "en1-2005-text2-s18",
+        "en1-2005-text2-s19",
+        "en1-2005-text2-s20",
+        "en1-2005-text2-s21"
+      ]
+    }
+  ]
+}
